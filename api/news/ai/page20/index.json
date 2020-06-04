@@ -2,6 +2,108 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
+      "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
+      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcasting & Cable",
+        "domain": "broadcastingcable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region.md",
+      "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
+      "excerpt": "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16030440/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16030440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16030440",
+      "publishedDateTime": "2020-05-14T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
+      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
+      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
+      "publishedDateTime": "2020-05-14T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
       "title": "AI models are struggling to cope with our rapidly changing world",
       "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
@@ -1126,139 +1228,6 @@
           "width": 1024,
           "height": 563,
           "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
-      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
-      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
-      "publishedDateTime": "2020-05-13T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
-      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "publishedDateTime": "2020-05-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
-      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
-      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "publishedDateTime": "2020-05-13T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
           "attribution": null
         }
       ],

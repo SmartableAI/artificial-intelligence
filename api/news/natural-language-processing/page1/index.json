@@ -319,32 +319,32 @@
     },
     {
       "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
-      "title": "Chicago police drop Clearview facial recognition technology",
+      "title": "Chicago Police Drop Clearview Facial Recognition Technology",
       "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.thenewstribune.com/news/business/article243103416.html",
-      "ampWebUrl": "https://amp.thenewstribune.com/news/business/article243103416.html",
-      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html",
-      "publishedDateTime": "2020-05-29T15:57:00-07:00",
+      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T16:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Tribune",
-        "domain": "thenewstribune.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/8d283ab7-3d41-4d05-a29d-784fb6ddf388/fff992f0-d530-425d-8449-c8c3b0b320b7/1280x720/match/image.jpg",
-          "width": 1082,
-          "height": 720,
-          "title": "Chicago police drop Clearview facial recognition technology",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

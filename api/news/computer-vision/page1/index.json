@@ -92,6 +92,51 @@
       ]
     },
     {
+      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
+      "title": "Should you be worried about cameras in robot vacuums?",
+      "excerpt": "Now we’re dealing with robot vacuum companies entering new territory. Thankfully, some companies do have safeguards in place. “All images that are captured for object recognition are processed on board the robot vacuum immediately, and are not sent out through the cloud to any servers,” said Richard Chang, CEO and Founder of Roborock.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?itm_source=26&itm_content=2x2&itm_term=2356592",
+      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
+      "publishedDateTime": "2020-06-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Should you be worried about cameras in robot vacuums?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-balancing-privacy-concerns-around-facial-recognition.md",
       "title": "Balancing Privacy Concerns Around Facial Recognition",
       "excerpt": "There has been recent global uproar around facial recognition technology and whether it’s ethically sound. Its use without citizen consent could have potential safety benefits but is undoubtedly a violation of privacy and does in fact need stronger policy reinforcement.",
@@ -1177,43 +1222,6 @@
           "width": 1200,
           "height": 600,
           "title": "How to find out which facial recognition databases you may be in",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-facial-recognition-reunites-missing-child-after-32-years.md",
-      "title": "Facial recognition reunites missing child after 32 years",
-      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/",
-      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
-      "publishedDateTime": "2020-05-19T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Click Orlando",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.clickorlando.com/resizer/a7OufWIR6j0NLRAfMiTxGCqd7o8=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/05-19-2020/t_ce5dc077995b4a778e835315ee014a7f_name_file_1920x1080_5400_v4_.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition reunites missing child after 32 years",
           "attribution": null
         }
       ],

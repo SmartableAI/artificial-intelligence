@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
+      "title": "Google executive attended meeting of key scientific group advising Government",
+      "excerpt": "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/11319113/",
+          "width": 2168,
+          "height": 1445,
+          "title": "Google executive attended meeting of key scientific group advising Government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-google-executive-took-part-in-sage-meeting-tech-firm-confirms.md",
       "title": "Google executive took part in Sage meeting, tech firm confirms",
       "excerpt": "Demis Hassabis, a co–founder of Google’s artificial intelligence division, DeepMind, attended a meeting of the scientific advisory group for emergencies (Sage) on 18 March, when the group was ...",
@@ -1236,52 +1273,6 @@
           "width": 770,
           "height": 274,
           "title": "Hands-on TensorFlow Tokenizer for NLP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more.md",
-      "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
-      "excerpt": "Code Search or 'CS' for open-source Google projects for now supports Angular, Bazel, Dart, ExoPlayer, Firebase SDK, Flutter, Go, gVisor, Kythe, Nomulus, Outline, and Tensorflow – which represent a small portion of Google's open-source projects, but ones that open-source communities may benefit from search being available on their respective ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "publishedDateTime": "2020-04-02T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png",
-          "width": 2082,
-          "height": 1292,
-          "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
           "attribution": null
         }
       ],

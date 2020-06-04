@@ -2,6 +2,133 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
+      "title": "The AI meme generator is better at making memes than humans",
+      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/ai-meme-generator/",
+      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
+      "publishedDateTime": "2020-04-29T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI meme generator is better at making memes than humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
+      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "publishedDateTime": "2020-04-29T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
+          "width": 1200,
+          "height": 532,
+          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
+      "title": "Google open-sources faster, more efficient TensorFlow runtime",
+      "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "publishedDateTime": "2020-04-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources faster, more efficient TensorFlow runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
       "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
       "excerpt": "dotData pioneered AutoML 2.0 to help business intelligence professionals add AI/ML models to their BI stacks and predictive analytics applications quickly and easily. Fortune 500 organizations ...",
@@ -918,135 +1045,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
-      "title": "Microsoft: This is how to protect your machine-learning applications",
-      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "publishedDateTime": "2020-04-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: This is how to protect your machine-learning applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
-      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "publishedDateTime": "2020-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
-          "width": 750,
-          "height": 375,
-          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-prediction-of-the-functional-impact-of-missense-variants-in-brca1-and-brca2-with-brca-ml.md",
-      "title": "Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML",
-      "excerpt": "In silico predictions of missense variants is an important consideration when interpreting variants of uncertain significance (VUS) in the BRCA1 and BRCA2 genes. We trained and evaluated hundreds of machine learning algorithms based on results from validated functional assays to better predict missense variants in these genes as damaging or neutral.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41523-020-0159-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41523-020-0159-x/MediaObjects/41523_2020_159_Fig1_HTML.png",
-          "width": 685,
-          "height": 393,
-          "title": "Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

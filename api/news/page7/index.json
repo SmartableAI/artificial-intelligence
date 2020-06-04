@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
+      "title": "Apple acquires Inductiv, machine-learning specialists",
+      "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KitGuru",
+        "domain": "kitguru.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
+          "width": 732,
+          "height": 330,
+          "title": "Apple acquires Inductiv, machine-learning specialists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
       "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
       "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
@@ -992,50 +1029,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-seattle-smart-home-startup-wyze-raises-10m-to-launch-new-product-categories-and-improve-ai-tech.md",
-      "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
-      "excerpt": "Wyze Labs just raised $10 million as it expands its smart home product offerings and adapts to the COVID-19 crisis. Previous investor Norwest led the Series A-1",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
-      "publishedDateTime": "2020-05-27T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-9.07.59-AM-630x414.png",
-          "width": 630,
-          "height": 414,
-          "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Should you be worried about cameras in robot vacuums?"
-excerpt: "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take."
+excerpt: "Now we’re dealing with robot vacuum companies entering new territory. Thankfully, some companies do have safeguards in place. “All images that are captured for object recognition are processed on board the robot vacuum immediately, and are not sent out through the cloud to any servers,” said Richard Chang, CEO and Founder of Roborock."
 publishedDateTime: 2020-06-02T13:15:00Z
-webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?itm_source=39&itm_content=2x4&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?itm_source=26&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Digital Trends
@@ -23,6 +23,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "dpZnvcDGLA1J3nr6NvF6MwQ9KG4ANrIliLGcM1d61qJRZxSuQ5+MnA1Sxd9MMgvgVBmO43THa1q1cnUbQTLi8i2v7iZQZzsQlBcgMC8x2z4KhuKAd4NdstKRrklnahiVtLcoqsKeFDF7lji0cNQr/ueY4gnz1h8PQmsOkgiIBFBuiQu2mAW0gddZ9wV1adRWTNfheCVaGR/VnwYCCax3T+lxBzlorAqxpBfB3GNd/+etkGUgWzJvOM3IhLgV/9QtJnxiQq30s7pE40p5gTJXSM1YHwvUZLF+cKQ3f7NaLdoxzqRRTvmebAJMH+qKwNzF2N1CphdzsUox70+CVc0vDeealVuAYf9GZtoO7sjwUDe8D5+B1NyRy4Y5n6Bk0Pp+khw/mzxFQtpNZhI9TjMCpKWK3vkmh5JjYCum1+Hgxx55m10RaWkP/DzIp8mvEXb0D1Ilk8/rtu9Dstp2wPG2X0mp4eFMFhzfEzY6tgdXA2Y=;0/Z8aRWHd9rgRrJPPkdP8A=="
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    title: "Should you be worried about cameras in robot vacuums?"
+
+secured: "ZKxzcqHAgvWsTtQ74dMUS6B0a3R9TxLQVgVwq3kfrn5g9ordzTfYI1fEmBEkS9/j9B26JB/NrW0dXrBfmF2uJH+7pLrggiuxeqBhZAmp70KDu5RhvWpHgqH9H40QfdpLO4tAcdkHmtnh2YntD6wqVeguCCrjvBlG4c+UDDGAiMjT91jRJv0ps/JJ+Cv5G0U0bWWmUk0WqbNi8SH+gb7vZwjcJ070OkqoqNboVG7xoWd/x/lrs0mCysfNvA7i33aK5qVyNUNOMlcyd6y+3ws3giAw9EX4TizxoGFMgzzHgWIL98AcHEw8rYBDzboPiqaL;aG/5oMGanZxTj1wpBcWnGQ=="
 ---
 

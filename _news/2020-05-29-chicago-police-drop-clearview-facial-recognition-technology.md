@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Chicago police drop Clearview facial recognition technology"
+title: "Chicago Police Drop Clearview Facial Recognition Technology"
 excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-publishedDateTime: 2020-05-29T22:57:00Z
-webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+publishedDateTime: 2020-05-29T23:18:00Z
+webUrl: "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology"
 type: article
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/8d283ab7-3d41-4d05-a29d-784fb6ddf388/fff992f0-d530-425d-8449-c8c3b0b320b7/1280x720/match/image.jpg"
-    width: 1082
-    height: 720
-    title: "Chicago police drop Clearview facial recognition technology"
-
-secured: "B8QjM8gmxUBiJDhZVcS5pLVFjDN8E5ytK12iJnoB8Dv55D3E1ZDHefMFZI5i4bhjqPgGPQjRIHGXW8MQfELXC2hKx+dee2CTGjHBAUdCfogEHXw1rdyr+EDZ/n7YsZX/WTjFDmosTuGLHJp0cJEAmJawGyvB/YQg7ppZ9TNItxgksMK+oL+zrKUDsJKZbNowzbO0lMUqUXSdC9B7qFD0rFlcrctJ/GdN57C7+REK5cuGBpB1C7hms4Rbzty6SSr/oH5dsJblm984I0F7UNnqC33JJc7/GNE1RnEGcz2HQB6VSK8eJ2uZ35L+gmqCycop;FtNt4SmLCIVAAeyvLLdCnw=="
+secured: "I0tiGTH28LhaAsiR2HywzLVDRwPBh2cEvnl4GPk9riSU+thG1l/sl8RaB/N6X5hCgM3asbTBVV4HC+hiJ4j1R1YddyTo+rehcsPWLbhCWt95tSowUuiKw3HxheEkmaLwMLWRq9QHxmnpRMTzRTdGN2pT3OBvJuoDt4/jk8mROH2+DO1nCnJN/kOb/tnC8uWGWBM+SBQRl0Z1pXvMeTNVnCk6MTg6w6HdDXOHXNMbsnNB30DXq+YpblblHpXM5Mb3S6RzM0FPQDyA1cOvhki4dXO4uflmOKDizaTkqfvU+8F6lFM9ppe6ZH8r0Jod/m0a;daRLh+WnaxuOVbg9i6wB4Q=="
 ---
 

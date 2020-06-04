@@ -2,6 +2,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
+      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
+      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "publishedDateTime": "2020-05-26T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
       "title": "Facebook’s AI convincingly inserts people into photos",
       "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
@@ -996,51 +1034,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
-      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
-      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "publishedDateTime": "2020-05-26T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/351187"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351187"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
     quality: 15
     images:
       - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/21/rawImage.jpg"
+        width: 2000
+        height: 1333
+  - title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
+    excerpt: "If you run a business, it is absolutely essential that you protect yourself and your assets with business insurance. However, figuring out exactly what kind of coverage you need and finding the best possible price is no easy task."
+    publishedDateTime: 2020-06-04T01:17:00Z
+    webUrl: "https://www.timesunion.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 15
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/27/rawImage.jpg"
         width: 2000
         height: 1333
 
