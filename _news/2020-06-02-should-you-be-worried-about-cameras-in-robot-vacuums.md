@@ -3,7 +3,7 @@ category: news
 title: "Should you be worried about cameras in robot vacuums?"
 excerpt: "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take."
 publishedDateTime: 2020-06-02T13:15:00Z
-webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?itm_source=39&itm_content=2x4&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/"
 ampWebUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Should you be worried about cameras in robot vacuums?"
 
-secured: "pC8vWi+fmO/qmkYNKYRTFZ3nz+AEpYGJqe/CsTwzbvX27hc6+As/pnp+T6d0e797Xp88poFlZgezIOqijykgTFOmrtHvHuCSDoeva0SHohRwKUQccU+Fehy0fHxYZ/Y1Owu9v18A3tUoKy4Gun1NlcZsnTS/wp8b9Ve9wg1in9Kv2Z9OyfrVYxzAYwwAtOicsM+d4JClGJfTzQ0eg7NAy63KWhLaeeFs3T9Yga32428EYbfre6xXnmq8GZec2z0fiG1eRBggt+duy62SIfPD9paTZhi/Ty2cjKVTrGBJYQ68FNGFQuq+1rG5B5uNy+bP5KWl12+1Tm51E081bmgyNCTP8tJIyIJJbQ74sWUDGJ8chvfI04Q8BTCVPJ9i3cG2pNhFnM2BSYeZ6YSnoo3KDX4sK+hxVfZvJqZLb3Jh6OxmmxPXSeLzhSOStdpccYOnDpL3q25H/Scdxy2AUSvDGrLaWtKX6p7o12JlE3L43b8=;lQwxaqlR20hj46hWSbjWZA=="
+secured: "VcB4xv9qhJovilfP0r2EvEVXdEc9d4Zixgq4VPztw7Wnc7YTJH5G3pfZvRUO/wdatyEqeutW2xpckx/3QIBIRm+RNOXuXOht4wHeLIT4Pcgj2iuIs4DTDkGzejCJYT091nKLC1Va+YcaVy7lwdvn8kJuYtMrNOlxO5zWzfbyd2sYRtEtMY0yQnQROiSxPaorxXHBm4OHwd23WzYDC7nxFPGbZwWo2eJUPLVM6ryfNciXzsJHZpYTsiTfibN/ugIlrstk/mQdHGCfQiy8vHxHMf0C+DFuHf62A1f0NRCRU/oEqTg7Q8Cyi27OsNvZxDIj;uoBP6FznKpdba2hPtKWukA=="
 ---
 

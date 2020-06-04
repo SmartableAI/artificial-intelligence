@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-pro
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/c9/5f/c95f1523326671716aff15e44f3a49a4.jpg"
         width: 770
         height: 363
+  - title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
+    excerpt: "CVS Health Corp (NYSE: CVS) is launching a program that would enable customers to receive their prescriptions from self-driving vehicles."
+    publishedDateTime: 2020-06-04T12:30:00Z
+    webUrl: "https://pulse2.com/cvs-self-driving-vehicles-for-delivering-prescriptions/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 17
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2020/06/CVS-Store.jpg"
+        width: 1200
+        height: 701
 
 secured: "cOALq0vjXUuBt3HjIWtzOMPQxORALJpa5U39VBggAAeMDw48YkX7SVUSi+t+aq4T+MFw5qfdT9tU5Uckn1R7cdz/2cr4xPrn0pYmnFjZzspsHJngQf7XT9NKpdi1zfuiXnsCtrFqzJ89bqDKXJEuoSskrnoO+XqicMTjeAzOnHVEQl2pnMS6vcraXoPtPYqhTe1uBW6gIhKhr8MwBy2+g1ggfsXD97BpdLIRTpCiEusVd14jMEcnAXlIsC7IY9djQ1mOhXRhLywM9upP0aQ/mZpgGIjuqTB52rvTvawPAPt8Yw2iIEF/9R30Fxl5H/PzG14EJ9OMH/eNhrpRXtWOtwxb4ygBemA3D+2oVndOn/tIXoHtcMzZU+Uln9/ZVB5wju+ydChWclWfhaLyYJjS/ShICxHlYQlxCl7nCqBHN2kPtfE/xgguqUCDN8qCNo+RRYErq14gna5ajNFMR4EPYXV8AJyxdcMg2mCs7VLr9yw=;SRUn99JnBE9zvei5C7UQCA=="
 ---

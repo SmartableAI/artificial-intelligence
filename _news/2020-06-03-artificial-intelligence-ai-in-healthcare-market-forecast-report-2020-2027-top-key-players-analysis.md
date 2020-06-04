@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-03T10:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     title: "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
 
 related:
+  - title: "Global Artificial Intelligence Market Report (2020 to 2030) - COVID-19 Growth and Change"
+    excerpt: "The \"Artificial Intelligence Global Market Report 2020-30: COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. This report provides the strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
+    publishedDateTime: 2020-06-04T05:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-report-2020-to-2030-covid-19-growth-and-change-1029280422"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Artificial Intelligence Chip Market COVID 19 Impact Forecast Study | Application, Opportunities, Top Companies and Challenges Forecast 2029"
     excerpt: "The research report titled, Artificial Intelligence Chip Market is latest published by MarketResearch.Biz. The Artificial Intelligence Chip market has been garnering high-quality momentum in latest years."
     publishedDateTime: 2020-06-04T04:44:00Z

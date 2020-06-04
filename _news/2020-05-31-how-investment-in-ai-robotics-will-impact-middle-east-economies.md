@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "How investment in AI, robotics will impact Middle East economies"
 
 related:
-  - title: "How investment in AI, robotics will impact ME economies"
-    excerpt: "Even though there are others in the realm of emerging technologies, AI and RPA seem to grab most of the headlines largely due to nature of impact they tend to have on organisational efficiencies and customer experience."
-    publishedDateTime: 2020-05-30T19:14:00Z
-    webUrl: "https://www.khaleejtimes.com/technology/how-investment-in-ai-robotics-will-impact-me-economies"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 69
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200530/ARTICLE/200539852/AR/0/AR-200539852.jpg&NCS_modified=20200530210308&exif=.jpg"
-        width: 780
-        height: 439
   - title: "UAE- How investment in AI, robotics will impact ME economies"
     excerpt: "While most organisations are looking to adapt their businesses in the light of the 'digital' tsunami, the technologies that have seen the highest levels of adoption and interest are undoubtedly Artificial Intelligence (AI) and Robotic Process Automation (RPA)."
     publishedDateTime: 2020-06-02T07:16:00Z

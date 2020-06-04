@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Caixa Bank and IBM partner for cloud services"
-    excerpt: "CaixaBank is also one of the pioneering banks in the application of artificial intelligence to the financial business, developing one of the first virtual banking assistants created in Europe. Built with IBM Watson, the AI-based virtual assistant manages more than 1.5 million client conversations each month, handling a spectrum of tasks such as ..."
-    publishedDateTime: 2020-06-04T11:24:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82779/caixa-bank-and-ibm-partner-for-cloud-services/retail"
+    excerpt: "CaixaBank announced an agreement with IBM Services (NYSE:IBM) to accelerate its hybrid cloud journey and continue their work to increase the bank’s capability to develop innovative, digital-first solutions to enhance client experiences."
+    publishedDateTime: 2020-06-04T11:28:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82779/caixa-bank-and-ibm-partner-for-cloud-services"
     type: article
     provider:
       name: Finextra

@@ -54,6 +54,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/0/01/001c6976-7477-59bc-9385-ccc3b21c0dfb/5ecfcec648647.image.jpg?resize=1024%2C720"
         width: 1024
         height: 720
+  - title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
+    excerpt: "CVS Health Corp (NYSE: CVS) is launching a program that would enable customers to receive their prescriptions from self-driving vehicles."
+    publishedDateTime: 2020-06-04T12:30:00Z
+    webUrl: "https://pulse2.com/cvs-self-driving-vehicles-for-delivering-prescriptions/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 17
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2020/06/CVS-Store.jpg"
+        width: 1200
+        height: 701
 
 secured: "clBGoNmIvQcpcm2J4W5FyynH7NOotSPlHtk26nUELzoywpP1sOW3uTNz7TjzQBqfPlO5dWw+miprEEPulaKzJipD6D9eHVBdYGYflMw32lVCcrznB3HpVA3UYcezcrIINa69QWR66wYLlNucUceCliiqhohYN/xkMPmIoHgTplbjk0jk7dO6EQC7FT+hnEmfTV5YeEf04buewY4rtTEV5Ub06iRllH738rzQJJicmlwSOIEKWdjyaAQ6mNQsD0jfzYw5B9yAMv/OLCoBV5Hf6arkdsOsZoi+mCCUT/wH2hrp6xCwsSa2LfvzYscqNST+;R41V3lLKGy5gKDrDjuevqw=="
 ---
