@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powered by AWS during tonight’s highlight match at 18:30 CET featuring Borussia Dortmund vs."
-publishedDateTime: 2020-05-26T07:00:00Z
-webUrl: "https://apnews.com/10e31363d9be4d919e2e75376c43f946"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powe"
+publishedDateTime: 2020-05-26T07:22:00Z
+webUrl: "https://www.businesswire.com/news/home/20200526005205/en/Amazon-Web-Services-Bundesliga-Deliver-Real-Time"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200526005205/en/793756/23/Bundesliga_Match_Facts.jpg"
+    width: 1200
+    height: 627
     title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
 
-secured: "gIB/b+ncojECQph3eql7V9+WEUS8rn0IyN7L9BU8TwlyQ+q1xyp6xsFL/ECZ6amfWT537ruDNcwGw81H97/UmYMnVaT+sMY+REUTajDCGeAxF8n8alL2G3rrYp0RH8PGZ00k93aN71iJmZBXE2Tbu+TGkQkIjuZZQp9w1qpKM9CJgjqZHu2V7uQRj/BHwAJou4afqHw98iwR0m8lsWtzfVjv8z7lhPoby5NGRoE3h4PSUTr9T6TY2vukLjUSzMe9gdKtz7UwyV92OkUnzrp0iBoq5vLf7QlqPkJi7UI+qRXdqNbR5Qj+7dXt/r3EAtSw;3mSBzxDPgLhlJFdNOwlXKQ=="
+secured: "FQviz6VlKGa8aRavbpYY5J62/zmCE2iO2PBNEdj6dhCHGeIhzGo3maMnicJePYM6KiEGLfRVtlnMjUyXuujJtpuBUFS1jXPlBEm8K99NrUsb6sHLcR0qmIs3bXuunGM4oipC+UAPrZUnCvn9dnGwZYnwPYrZuuVR7GdEheRs/MmuUgCbTZycRrg2bFg7qwMkH9IffTkdAK+iZ+hUM68xiyxl3XyGQwFfZoGUBGhCh1v9pgK1mpdGx9UdQYXQKxzVG6tS2n2iv7HS358vy7VcPJoharYXVYqQIbrM8Vhr2/Cply/reGTuGsBoX+MpShmk;ziYgLK/dDhrWg1CSYWzNsA=="
 ---
 

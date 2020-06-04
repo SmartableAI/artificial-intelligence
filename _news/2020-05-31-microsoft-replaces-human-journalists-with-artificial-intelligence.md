@@ -25,21 +25,6 @@ images:
     title: "Microsoft replaces human journalists with Artificial Intelligence"
 
 related:
-  - title: "Microsoft lays off journalists to replace them with AI"
-    excerpt: "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN."
-    publishedDateTime: 2020-05-30T15:28:00Z
-    webUrl: "https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg"
-        width: 1400
-        height: 933
   - title: "Microsoft Replaces MSN Journalists With AI Robots"
     excerpt: "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,"
     publishedDateTime: 2020-05-31T15:33:00Z
@@ -68,6 +53,21 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft Replaces MSN News Contractors With Artificial Intelligence"
+    excerpt: "According to new reports from both The Seattle Times and The Guardian, tech giant Microsoft is now replacing its news contractors at MSN with artificial intelligence, terminating its relationship with roughly 50 contractors in the U."
+    publishedDateTime: 2020-06-01T08:49:00Z
+    webUrl: "https://hypebeast.com/?post=5035380"
+    ampWebUrl: "https://hypebeast.com/2020/6/microsoft-msn-contractors-artificial-intelligence-staff-replacement-news?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/6/microsoft-msn-contractors-artificial-intelligence-staff-replacement-news?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 57
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fmicrosoft-replace-msn-contractors-artificial-intelligence-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
   - title: "Microsoft sacks 50 journalists, moves to replace them with AI robots"
     excerpt: "Tech giants, Microsoft has fired no fewer than 50 journalists under its employ after it decided to replace them with artificial intelligence robots- a |"
     publishedDateTime: 2020-05-31T11:20:00Z
@@ -81,30 +81,6 @@ related:
       - url: "https://www.ripplesnigeria.com/wp-content/uploads/2020/05/Microsoft-CEO-Satya-Nadella.jpg"
         width: 650
         height: 350
-  - title: "AI to choose your news? Microsoft to get rid of journalists & replace them with ROBOTS"
-    excerpt: "Microsoft has announced that it will be axing its team of journalists that work for MSN.com, and replacing them with news-savvy artificial intelligence."
-    publishedDateTime: 2020-05-30T15:52:00Z
-    webUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/"
-    ampWebUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 46
-  - title: "Microsoft moves to 'replace journalists with robots'"
-    excerpt: "Microsoft is planning to replace journalists in its MSN news website with robots, according to reports. The journalists to be made redundant curate news articles, headlines and images from across the internet to be displayed on the MSN website."
-    publishedDateTime: 2020-05-30T15:37:00Z
-    webUrl: "https://www.standard.co.uk/news/world/microsoft-replace-journalists-robots-a4455336.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/16/20/Miscrosoft1601a.jpg"
-        width: 2463
-        height: 1642
   - title: "Microsoft sacks journalists to replace them with robots"
     excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
     publishedDateTime: 2020-06-01T11:57:00Z

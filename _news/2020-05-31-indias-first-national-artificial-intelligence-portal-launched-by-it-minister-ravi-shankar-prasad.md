@@ -19,15 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "National Artificial Intelligence (AI) Website Launched"
-    excerpt: "India’s national Artificial Intelligence website has been launched today. The website was launched by Union Minister for Electronics and IT, Law and Justice and Communications Ravi Shankar Prasad and has been jointly developed by the Ministry of Electronics and IT and IT Industry."
-    publishedDateTime: 2020-05-30T15:19:00Z
-    webUrl: "https://www.ndtv.com/education/national-artificial-intelligence-ai-website-launched"
+  - title: "Ravi Shankar Prasad Launches Artificial Intelligence Portal & National Program For Youth"
+    excerpt: "Union Minister for Communications Ravi Shankar Prasad launched India's Artificial Intelligence Portal as the BJP government completed a year in power"
+    publishedDateTime: 2020-05-30T17:08:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/ravi-shankar-prasad-launches-artificial-intelligence-portal-and-national.html"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 32
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 28
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/c4lvgughfswgw2lm_1590857581.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
 
 secured: "uRMHAQkCPi8fdvMI3HPT9E6rIRuwJ9RhT2z7i4YQZVghd2xYq7FIqua6MKUS/1kZVaCaqH3dwekU81ns5SsH+U8iEHwV713Hl5AO2LBq8bL+uZg8MjMdUI4M/KFrF2dvkXQsOk1GlnrNW2r46y58i1oPg5Z5p/Sq1UqaTH4pmujcPxqw0eP9y/3mi0e+48mgiSTdG+lr54gXNyCz3urqNQUYJxee0wl+wkA7cKpGmL0MV9lp4hPg4pwU+De8dJTKRJQzyiMcQv3RWjYODuyOXUK/2Poy9YuU3lOzb+kBeipFXXa8h5+d5spsDjbXlhWU;Zy2q2Y4djaad/S143v3KKQ=="
 ---

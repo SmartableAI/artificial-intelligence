@@ -7,8 +7,8 @@ webUrl: "https://tribune.com.pk/story/2234889/6-future-warfare-artificial-intell
 ampWebUrl: "https://tribune.com.pk/story/2234889/6-future-warfare-artificial-intelligence/"
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2234889/6-future-warfare-artificial-intelligence/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://c.tribune.com.pk/2020/06/2234889-inamulhaquenew-1591212102-138-640x480.jpg"

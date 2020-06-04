@@ -8,7 +8,7 @@ ampWebUrl: "https://hypebeast.com/2020/6/microsoft-msn-contractors-artificial-in
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/6/microsoft-msn-contractors-artificial-intelligence-staff-replacement-news?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,88 @@ images:
     title: "Microsoft Replaces MSN News Contractors With Artificial Intelligence"
 
 related:
-  - title: "Microsoft to replace MSN news production workers with artificial intelligence"
-    excerpt: "Dozens of workers will be replaced with artificial intelligence software that will automatically select content and manage news production."
-    publishedDateTime: 2020-06-03T06:33:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/06/03/micr-j03.html"
+  - title: "Microsoft Replaces MSN Journalists With AI Robots"
+    excerpt: "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,"
+    publishedDateTime: 2020-05-31T15:33:00Z
+    webUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html"
+    ampWebUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
     type: article
     provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 34
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
     images:
-      - url: "https://www.wsws.org/img/open-graph-icon.png"
-        width: 1500
-        height: 785
+      - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
+        width: 1200
+        height: 675
+  - title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
+    excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
+    publishedDateTime: 2020-05-30T22:09:00Z
+    webUrl: "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
+        width: 1200
+        height: 675
+  - title: "Microsoft replaces human journalists with Artificial Intelligence"
+    excerpt: "Microsoft - The US-based tech giant has reportedly let go of about 50 employees in the US and another 27 in the UK. Explore more at BGR.in"
+    publishedDateTime: 2020-05-31T03:35:00Z
+    webUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/"
+    ampWebUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 57
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2019/06/Microsoft.jpg"
+        width: 805
+        height: 456
+  - title: "Microsoft sacks 50 journalists, moves to replace them with AI robots"
+    excerpt: "Tech giants, Microsoft has fired no fewer than 50 journalists under its employ after it decided to replace them with artificial intelligence robots- a |"
+    publishedDateTime: 2020-05-31T11:20:00Z
+    webUrl: "https://www.ripplesnigeria.com/microsoft-sacks-50-journalists-moves-to-replace-them-with-ai-robots/"
+    type: article
+    provider:
+      name: All protocol(s) observed
+      domain: ripplesnigeria.com
+    quality: 54
+    images:
+      - url: "https://www.ripplesnigeria.com/wp-content/uploads/2020/05/Microsoft-CEO-Satya-Nadella.jpg"
+        width: 650
+        height: 350
+  - title: "Microsoft sacks journalists to replace them with robots"
+    excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
+    publishedDateTime: 2020-06-01T11:57:00Z
+    webUrl: "https://www.pulse.ng/news/metro/microsoft-sacks-journalists-to-replace-them-with-robots/c71wrwq"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 39
+    images:
+      - url: "https://ocdn.eu/pulscms-transforms/1/jzDktkpTURBXy8yMzRkZTQ3ZWM5ZmU4ZDQwZTNlZDg3NzMxYjJiNDI4Mi5qcGeSlQPMtQDNC1XNBmCTBc0EsM0Cdg"
+        width: 1200
+        height: 630
+  - title: "Microsoft Replaces Journalists With AI. Can We Rely On AI For News?"
+    excerpt: "Artificial intelligence will aid journalists in streamlining their workflow, curating trending news, and can also help in expediting research."
+    publishedDateTime: 2020-06-02T06:33:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-replaces-journalists-with-ai-can-we-rely-on-ai-for-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Microsoft-Replaces-Journalists-With-AI.-Can-We-Rely-On-AI-For-News-scaled.jpg"
+        width: 2560
+        height: 1920
 
 secured: "REYPRZzLjvtMa2V4vJtO9ZYLRi1N90Si4tYbWtK/kVAT7erYpO78rLnVoetVyycpnLfFECkvGw+zeDTa4Je2EW2Wtc72RepiDG35aXn82NZl7339f+ha8PK0fxQghRBI5A2FVDXMlEX1fVK8cRbkgiNrKMQN2XIMkEaI6dfpMcUtk3xE4HxzslWvuNnYpsfkDMEJWvvXReRZ0KQv7+0+Ezf7HsyUN1aRa3bxBIV3GtNya72BlrJgfB1oFKIxrdaebeYnQ7ZlDDlE00BuKN+0TE2pphU4a4M00wkupOw7p+ou/zbRtaKuv5ckQ4S5B5TU;vW7Qqg/bxTqarG6JhqrLzg=="
 ---
