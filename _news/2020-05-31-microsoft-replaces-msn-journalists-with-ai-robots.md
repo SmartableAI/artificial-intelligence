@@ -54,21 +54,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft sacks journalist to 'replace them with robots'"
-    excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software. The curating of stories from news organisations and selection of headlines and pictures for the MSN site is currently done by journalists."
-    publishedDateTime: 2020-05-30T11:01:00Z
-    webUrl: "https://www.wionews.com/world/microsoft-sacks-journalist-to-replace-them-with-robots-302018"
-    ampWebUrl: "https://www.wionews.com/world/microsoft-sacks-journalist-to-replace-them-with-robots-302018/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/microsoft-sacks-journalist-to-replace-them-with-robots-302018/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 59
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/03/13/132683-pjimage22.jpg?itok=_VOepYCR"
-        width: 918
-        height: 506
   - title: "Microsoft replaces human journalists with Artificial Intelligence"
     excerpt: "Microsoft - The US-based tech giant has reportedly let go of about 50 employees in the US and another 27 in the UK. Explore more at BGR.in"
     publishedDateTime: 2020-05-31T03:35:00Z

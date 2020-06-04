@@ -2,51 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
-      "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
-      "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "publishedDateTime": "2020-05-22T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/xjGb52nXR7zhrKi-e9RJHeVcO-8=/0x0:2896x2088/1400x933/filters:focal(1217x813:1679x1275):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66831231/162915406.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine.md",
       "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
       "excerpt": "Using generative adversarial networks, Nvidia opens up a line of research that could have implications not just for game creation but for real-world settings like factory floors.",
@@ -1256,6 +1211,51 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military.md",
+      "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
+      "excerpt": "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military",
+      "ampWebUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
+      "publishedDateTime": "2020-05-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

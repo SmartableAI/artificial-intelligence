@@ -1,9 +1,9 @@
 ---
 category: news
 title: "What's Next: Does the AI Commission Care About Our Privacy? + Telehealth’s Post-Pandemic Future + Uber Shaves Down Legal Team"
-excerpt: "Privacy might not be the top concern for a Congressionally appointed commission that could shape the future of AI law."
-publishedDateTime: 2020-06-03T19:00:00Z
-webUrl: "https://www.law.com/2020/05/27/whats-next-does-the-ai-commission-care-about-our-privacy-telehealths-post-pandemic-future-uber-shaves-down-legal-team/"
+excerpt: "But that’s a sentiment that could be shifting. Earlier this month, the AI Commission released a white paper on the privacy and ethics of contact tracing during the global health crisis. “We were very impressed, they hit all the right notes,” Davisson said. “We think artificial intelligence is an immensely complicated subject area that ..."
+publishedDateTime: 2020-06-03T18:58:00Z
+webUrl: "https://www.law.com/2020/06/03/whats-next-does-the-ai-commission-care-about-our-privacy-telehealths-post-pandemic-future-uber-shaves-down-legal-team/"
 type: article
 quality: 12
 heat: 12
@@ -23,6 +23,6 @@ images:
     height: 360
     title: "What's Next: Does the AI Commission Care About Our Privacy? + Telehealth’s Post-Pandemic Future + Uber Shaves Down Legal Team"
 
-secured: "o9PjTDS9I3kC7O7l2EAcFkqk68dlRHyntSHZHPaq3skjtXjuLnb6sdaARCfvoO81nz/A8TH6LN37nCFMoc/6nTqKI3B8x9cbyfARUXQb5VpKhuetrC0h7m2ppXq9jD6tgw+9JhFT1AG7Ij0b6QEwAodxldHIDS7sWEZXcxKI1c3Di20i1qahZuUJLVTPy9vO9HwjdtANoTbHUBPANl249/Zdx1Vz2jDgmHhec4yGseqrG78PfliH/eJbN45m+P3Osz78dDAziS8d6qZwNl+SuAxRZDnRKxt+ldaVfVq6f9AOJXcnJie5wfo+fzn7rdLqn6EY0XGxzkxF9604fNK2T5RQmFSCVddQKJx78S+mN7Cgbp8SL7oplNVCPAuSghx61+mf+uGCQt74LwYqhoaGNUqQEXEs3HUxepVDyO3jSZLw+Cg4GHw1b7ODIdAkk2iZJcMM2H8CGtkA+3cM8Nsu0SOgfWCNeP0skS3wN/cj3tw=;zzj4Ute51+iDpRs6ipgF9Q=="
+secured: "+4wKUz95ypLVLYjZKERwljwh5SzftXZldYBHY6ouXJOsQWa86UgE1PTUsDiQWnexLlf+yFrfstB+Nhby42nH90+LTd3xPeZcqyoBVfuKSPFfPVoi6RlWVXbaa+pMLVfxdtEWH3uy19HIkTwO88qfQu6llX91jCw3Py+OuQLABD8CzD62AGqk2VXIUmB31lRQ7di+shGcmsPDlAHhRUOKCNkLKROK4BKfigiRDSYveo2jIlc8l66SYOCvUDuDLdo1BLAly2n9inqIaQ4UQCqHp5ss1nX8Rzn5NjhVtyIY00gCeP5I3x9UqmXdijFnTe1P;dA/8Pozgt74zO+wT2A7fYQ=="
 ---
 

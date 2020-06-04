@@ -3,7 +3,7 @@ category: news
 title: "American Hospital Dubai announces artificial intelligence research center in collaboration with global health care technology leader Cerner"
 excerpt: "American Hospital Dubai, part of Mohamed & Obaid Al Mulla Group, has announced the launch of the first artificial intelligence (AI)"
 publishedDateTime: 2020-06-03T05:33:00Z
-webUrl: "https://www.khaleejtimes.com/news/uae-health/American-Hospital-Dubai-announces-artificial-intelligence-research-center-in-collaboration-with-global-health-care-technology-leader-Cerner"
+webUrl: "https://www.khaleejtimes.com/dubai/American-Hospital-Dubai-announces-artificial-intelligence-research-center-in-collaboration-with-global-health-care-technology-leader-Cerner"
 type: article
 quality: 20
 heat: -1
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 878
 
-secured: "dlaqdDftO5oK/fb03mqk8R2F0GHSpBVhYegVstz6yi/iyCN97qsvePGXHY3/5XCfBC+aX37UyTmK3EsrlNUBjVVmH2ufinvtTYpLTCYT9dUov8BmKrOTRXPA8DeZvjqrfhV4TrHziy6U4cwzDcRF31iGyU2D2eIv353PY2txuH4fl08e/Fex/4G5A29aYQvCdLQvi+zcVpS2pETFxMhPvYzT51oGoAX7b3DkpDItIwD7WKbBosKoKrWv8OYkZE6UHACjJfUrrBwGOVVxeuvZEwBIy5o14yn9hYT1WKbEnJ3AsfGzajEQpRtkFC24dPAhUi+2UqCMugayB1Khf/85KvISy11O9q70eGLOZM6ZWClogJ5zvmr08WPuv+8yx6RBMwOt41pTmynhT7Vzw8yflFRV1T9wZ2evQS+vuCOaA/ke3F9k76cPg7fKEEYNapJdB2+zZ4DNpM+6JqrMrm7wDmTOIco2nD3oA+lRqCQMBLU=;A4osmBGDTZ7Yg2YoXQx16w=="
+secured: "Dl+ggZ8/1j4ZUpRBrsgsQCar2UIdtt/BTkKO/S8rHXYHAxcg0KDlDc3WWjT9mY+oZJXPnVbrZ5PKuX5E70eKCjFETW7rvc3FVhBph9K+BDSrL9SfsB86kLLimMTQDyec4+q4jAd4To7fKxyhIxveJwijhu+TPdoBgQ+Ziz++62PldroDx49ssdo+kZx1SZnZN6ny6bUsUh2mSOwqtlzGX+MROtYPaReQXKhyWPX5/Ndwy0XoaaXqgDCVGFo76f6X7Q6RO9mNCFwJ2ULE+sCHXrbaRJNYteaadE4z6DxO7RK8NMyoSftplUVtCefZzaav;U9nhrYGFC8L/nyucU/55aQ=="
 ---
 

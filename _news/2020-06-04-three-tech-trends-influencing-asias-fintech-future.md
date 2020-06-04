@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Three tech trends influencing Asia’s fintech future"
 
-secured: "1lBhxrLhbbkIpo+L+qJzuFPXJU+pRdOhZatKmp5c+WIT9j4qw4RPqPAqINEX6zMu3ARnUNOVeiJ/RL1au3ewBrRfaHVFE80Xn3vLuk5n18jAVQTTCYTE3chsCkwpZ/FPl7XRus0vLIjHq/eSLP1JgmTNUqfrVRSSJPAJ63A3PswvkCjd+KTVflfMQW8MA6mIE9mLZcePhul1ZVyel5G9iRELyueA+IwCPZp6vjxAdO+L7bFFI8F3Ant1d+9G3g/FCgDJ5B6gtL2qaE1NN1tFESUNfQ+6uuSHf3SiImj8EfOWm1YAW0YItncXmDxXy8HO;Zwb+KKG6jyjKl679kt33Gw=="
+secured: "kMjTPmeXmi+rZjMeh0P0ia5Wjn75B4ZLx5qvWk+NxyEkkAvxDkPxIk5f+/lVerLZFRkZoJmVAj3nZJK2FFqadzQgKMPzjH0SInq3Lt/4typMg4nCnAKxfLVsS/0nzt6EenzG/DsZ9anKunqaX3qT/GumWXmWFs8bDN34glv5jIcrrTih2mTye6h82HICO+/SW69KubuQ/eAKphCPrNOfibpJKFm/oQeC56Veoilnq/4cf0ulHWzGj5PvvyG2gk0QzsQjd5/gpVYVIdO8ojRD7iI9xa9kIZOvwwydIxCuYUwxAyGbVDq2HgaxbDFfNoucTNgiDwVofwH6qwbhSOVVTlslE1xYlDOnhua9A2sEOed/mKjmuG3F3vlRY01pOT26HOun605F4wuRjDKPef+lbxqBKkhGpK4YPYn8BaPG1u5bXnUW58Hm93CGE0JS4Z2tH0oizkb7Ub8z+5Yqi9ZD1HP1/YBbJetj+9Wa6zSmAA8=;8xxnD74K37alWqOAoTaf6w=="
 ---
 
