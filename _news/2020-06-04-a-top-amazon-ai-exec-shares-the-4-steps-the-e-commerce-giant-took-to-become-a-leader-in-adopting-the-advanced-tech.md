@@ -26,6 +26,6 @@ images:
     height: 600
     title: "A top Amazon AI exec shares the 4 steps the e-commerce giant took to become a leader in adopting the advanced tech"
 
-secured: "cj/zIwX9J2MQbUXb7Gbau83zKNEm2812MrubG5TAJQQni20pXyQL7Ks/oCtUhyY3e8BPL4SvgdO3G3HM3sbX8GR094V7sCn3mN2qcN8YVhryfyfkhX7th76Zgp8S+/WzDTZHolVRwp8xZysXpb2vAiWFdFC3onFAY23jq++5/NqrHsXMEo4nvXsrALJKxwXelIusTiJL4PQp2Fmh5BWp4yVi3NfVg0evh1bRCvaJEAm56FuY0Vdwe53iW8NVVw2iRpIFcsTUJuET6Z2z+ZdHm97UNs+SHeTY5QMYY7ZNDY/UDjRsS8VXmjhjQEaSTxyR;xjXKKT0+tivgB/YquppHwg=="
+secured: "Jlcb/hgiccQLZpah2Pvij0XXP7tKIexGpID6Ly/E2Td8rGIRjoRQmQLUWekBpW8edC8wo6qBUBWKoVHJ113DuKwbZOlsc505iDTg1O6beGtkUnNPuaydNB8OVZFaJgarJFV7P+v7stR8y+g2qTYDx8bsx9YpE+5c+xRQH3bOWJ32ykISwWf9dgPuTIGoaXv4ceyvHmd5sC8vAaBnzNwKINR40JSC/ztOoRxawtb6JslfhZ7/1zxjMq4m2AnVBcf5lKWMWaNmg0a1v0eFwtt5FCfm0eZK7hwddDIORu13vzfGDXAvnHiGf6Qw+hNp+lxOVmAMPXP8w7RituJ/YD0UJFn/dkk6oD8t2R7soqFQyqYIueaa6ecDUpMmAajLWV9SI0wS3TGjPj04RrFpBdB+4MPDIuRJls7gJKrcrQ1CsvYNj3Zm3xwsxZmouLg1ISyxrZ9a+THcz03KIxB9vFUC/sSKedU/mby4XLFBDILEmxE=;++qBXxWfD4hwwJMIbfVcLg=="
 ---
 

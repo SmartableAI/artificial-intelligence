@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-retur
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 
 related:
-  - title: "Waymo to bring self-driving minivans back to Bay Area, but not for passengers"
-    excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8, but instead of transporting passengers, they will be delivering packages."
-    publishedDateTime: 2020-05-30T22:50:00Z
-    webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
   - title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
     excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."
     publishedDateTime: 2020-06-01T19:21:00Z

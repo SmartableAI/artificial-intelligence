@@ -40,19 +40,6 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
-    excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
-    publishedDateTime: 2020-05-30T22:09:00Z
-    webUrl: "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
-        width: 1200
-        height: 675
   - title: "Microsoft replaces human journalists with Artificial Intelligence"
     excerpt: "Microsoft - The US-based tech giant has reportedly let go of about 50 employees in the US and another 27 in the UK. Explore more at BGR.in"
     publishedDateTime: 2020-05-31T03:35:00Z

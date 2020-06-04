@@ -8,8 +8,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/351404"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351404"
 type: article
 quality: 88
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -29,6 +29,23 @@ images:
     height: 338
     title: "How to Start a Career in Big Data and Machine Learning for Less Than $40"
 
-secured: "K/IKGsNLp8AP+HgCMxXZF6EEY1qIYYotxf/Tx91XlhTOs0cBEPsrjzCM2FLRSgIO3TtGR+6iOseVJG2RJLYSIIPD8NB5KdcFAIKHTUlsrtEHhtIAQOvMlA0jGCg98c+pIrJ1pOdITv2AYlFZ6NzL2fSmFvmUVJ/Atb5zDlXrPufN7f6X+R4eFpZCCiIeSZ99W8HRldIbhrtMlxZMpShH6gLh1ooMdj/qF/vHZlgDT54PFyQaOORDCzIK2sJ0NI9NindK1ImWYUTnLla4Zy3Fr7owwQ2sBRlRtahli44olaf2gdkx6wAZ4C01IpBiId11;XPYTFw7BtJExbG+VrzHsQw=="
+related:
+  - title: "Learn the Basics of Big Data and Machine Learning for Less Than $40"
+    excerpt: "Even if you don’t want to work in code, learning about big data is a smart move. Recruiters are looking for people with these skills to fill roles in sales, marketing, finance, sports, and other industries."
+    publishedDateTime: 2020-06-04T14:32:00Z
+    webUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40"
+    ampWebUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07GfgGmxXRNHdBubixzRcFm-1.fit_lim.size_1200x630.v_1591258593.jpg"
+        width: 1120
+        height: 630
+
+secured: "Q9C26JM1MF/Y2/La+MQuP4rxFKVRwpj9C4gHSeciEUpxmOteaD4Gv3hYUN2Ncp8udoY6LVF6HWZ9cZTyvcp+T9JRGncIqJQSOmYoKpQP858bqd+wivwOVFdY7n6w1ZRF0W5KORHs8RG72G/uFAnHR7j5WEemwQB/+eOffV4tLWa6iYsxwp8Zer77aDgtVEWhIGUwagk0pZfNR5zLT4t94IAxiKRKt8q0wjX2YFNQU4PMOCgml/Hhi9/enYyFfBwu/2DjC3EPYj6AXJOt/Av/2f0yFLhL/LNstlBlQRbGx6g2yuK3bdcIycYgw+dw47MH3+cL2vfdQ/fsFWXqDOw0eGxDyGmOsvstWDvUrlZ/NkWEzQTr4CKr/RNB2TWnrC6HPHlvBvnJuHg/d8qBKylUBk/mjfxz6oCCeS4IdylmkfGO4wvgyK06n1bYhp8g6mUr3dZaPq8HZHUeq07KirtOqC1jZt+90s/E+urtgasZ/YQ=;f81hxpyakTWSOrRZjss0OA=="
 ---
 

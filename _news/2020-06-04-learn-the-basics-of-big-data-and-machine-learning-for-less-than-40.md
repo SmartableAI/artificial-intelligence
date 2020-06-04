@@ -1,0 +1,51 @@
+---
+category: news
+title: "Learn the Basics of Big Data and Machine Learning for Less Than $40"
+excerpt: "Even if you don’t want to work in code, learning about big data is a smart move. Recruiters are looking for people with these skills to fill roles in sales, marketing, finance, sports, and other industries."
+publishedDateTime: 2020-06-04T14:32:00Z
+webUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40"
+ampWebUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/07GfgGmxXRNHdBubixzRcFm-1.fit_lim.size_1200x630.v_1591258593.jpg"
+    width: 1120
+    height: 630
+    title: "Learn the Basics of Big Data and Machine Learning for Less Than $40"
+
+related:
+  - title: "How to Start a Career in Big Data and Machine Learning for Less Than $40"
+    excerpt: "Businesses are adopting big data solutions and big data providers are getting more innovative with the way they offer solutions. If you're reading the tea leaves, now is a great time to learn how big data works and how technologies like machine learning can make analysis easier and more thorough than ever."
+    publishedDateTime: 2020-06-04T12:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/351404"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/351404"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351404"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1591118403-Ent-BigData.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+
+secured: "GELb9D2Kx/s7hOyH4NHLvX3y902GzKt2ad/Nt3cAtlm22xNYCeJUpbvNd9huZu3fO88e4eBpufJFAzCKe268mXzCfpnikxOaCSQeOmKSxJdh+gu0xE/YvLKyNA772W28O19dLV+JZngm7y5s+ItpQxahZDxjdys+rAxNfkIIUG7MRd4IpKW5MNS/D/hvCc9LqEKxA3eFGytncd8o8QslNSHrAde+bFYV+KJex7eVA/h/eGEqcRKX+I7PIZ1Hiq7h96rNnmGGulwSG1ejTRdDH/oztUXbTdmKlPpH2nHT4OS0x2KzoCz1AOG+2HqtRK22;yFHN6FUBB4pUrhw8fYRhGg=="
+---
+
