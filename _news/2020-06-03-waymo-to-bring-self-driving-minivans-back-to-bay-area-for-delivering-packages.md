@@ -2,14 +2,14 @@
 category: news
 title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."
-publishedDateTime: 2020-06-03T02:07:00Z
-webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504"
+publishedDateTime: 2020-06-03T03:31:00Z
+webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=12&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 type: article
-quality: 86
-heat: 116
-published: true
+quality: 66
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
-    width: 720
-    height: 376
-    title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 
 related:
   - title: "Waymo to bring self-driving minivans back to Bay Area, but not for passengers"
@@ -64,6 +58,6 @@ related:
       domain: digitaltrends.com
     quality: 66
 
-secured: "anYY+8OuvYr3gwRKa6u7Za310GTD5C6SZ/LoOvtd+yk/b5TnLzLUV0WSgingsdnMAQ6m+jPDJRwuxcifn8AakBtAug39x8RyLSF4fhH2CtEtoYcehzKJJO2Bz8q6ZJMH/d0NYI4MpsH3JDNZ+GJsdZPFGdEb0MgidC++ljjW22nHaKvo4aGovZpT0kM4I2ZNBCAT1QmAZubo4KtxnXn4y8srDmmHK7f85KXIIvQihXNsKBllOp67e9NYDK176hZ5iU+GT+XhRB0YGb6PzUeDxGWq7V9x/Vxjrr4GCpfwIVsSivFU24mDQ2C6fmEaNWEA;eNsUztOuuFr6RHEt0fISBg=="
+secured: "5oJL0GFZ0aMLj5GxSDm7h5PBIlMNyz+TUy8Uat8hBBpM1Lxe1Bs7063ZYIghB/YgFF4dJ/welrOoDBBzWuibsw2JV2fPVFFkfHFK0ErKUR3j99VXM+U9/S47xdFWiDIAyWFBLq61d0CuWBMQA+I2wMRMPvGahBEhT3+NoSTBH4dj/wTWl91JLdK1AdNl9mZfjXBQ9F4mLP93hocr6m0KlXs4FKuzB1w46yRKrnyp5RYfTTqZAhIftj2SFItyJPSTVeSn9CBeWcEwAqZSAp9Ogabxf1p5O8aH8hNawJDjJrQUD6pTIW9C1jSyXA+TjbbN;v1FcqN6oSSziSzxSPWxmPw=="
 ---
 

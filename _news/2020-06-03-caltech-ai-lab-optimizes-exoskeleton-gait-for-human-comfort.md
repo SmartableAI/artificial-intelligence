@@ -28,6 +28,6 @@ images:
     height: 618
     title: "Caltech AI lab optimizes exoskeleton gait for human comfort"
 
-secured: "hI6yrcrupoWI3b2uRL+X/SKa4iOiE9Xv5gI+CCiy8WrJ1mGDrmmzc1sHd5HiQuQnfPuez+SLyoo7QbH8+eW51sMw1Iw9fphLRJV7tv51ZZ2k9WPsRly2MwmixPqSUR8+LblmHkkcdZQsNl4FBMbUNEzn5EePceP9sC4RVclHB7zqoSTaAougkwnk3S/5lyNrnvFsufwDjcC6ujnY9fR66+oxptDsX2gNhbyS421wVXWINaul5uW0DxhAPVl9kQ4svk//wlWuBziiQwS9CGwMh6F9EOpHmL0lerMHCQo972negOzghMGTAUteXRog/Zc+;CSm3A/8JkIf/qwLZcHEfrQ=="
+secured: "FAjO54lGdSpT3v1iSFt4ajIj5m7a1muAAIPN60XNZRPjanGsEPM+hlQxwlT7Tx4RH2Tx4dIFIF5pjsVX2CstM5VAmCL/xw4Rh7ex3+faLD9SU/ukuE6NiklMo3gTsI7InroLhNLRV2waFaMWOIFn83r9xAUy1MVecr0h9QOSPyf7/46ArosHO7U3Pz0xwCquzFCZaGddOQVRYW6bYZgAoivCAOjqOpbkq9fcvxwWVjIiPztiAcFoC77ZLIsP4FypUJRJ0RwRB20rOdVYMhQFWhahwAJMJ6/Yo4Ypj3nh49Hg7JXZYtiFd0Uw/CnxQZix;cOGO1O+/SXNXy0bR/U/Ogg=="
 ---
 

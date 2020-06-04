@@ -2,22 +2,22 @@
 category: news
 title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
 excerpt: "If you run a business, it is absolutely essential that you protect yourself and your assets with business insurance . However, figuring out exactly what kind of coverage you need and finding the best possible price is no easy task."
-publishedDateTime: 2020-06-03T13:30:00Z
-webUrl: "https://www.stamfordadvocate.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"
+publishedDateTime: 2020-06-03T23:14:00Z
+webUrl: "https://www.sfgate.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/21/rawImage.jpg"
+  - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/27/rawImage.jpg"
     width: 2000
     height: 1333
     title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
@@ -52,6 +52,6 @@ related:
         width: 2000
         height: 1333
 
-secured: "ci7w6qAanIUbJmy8KJ1toukNXgPBmk9WEkHAo8fQfBuJ7cBio3wS0/LmNW6hnxsZjr1f2jQNlNEWMg1h24TWuIqBYsEsOIbV3l8vx2YEmRb1UsL8z8sX4yk27ltvaB3+IgNkQYiFZIeokAORmEvZzhGPAms8nnQnu7Y3SFFAG75ob27jN9g2o4Oc2gBri/a65vnZdvU/CvD7QW1ppAe3kKDG1IBDB0KgayKyMY0Fj9GPmqZHBUkcS0hhEGtw3/YyxrCOrXlil3fdc4Oxow2J8LQI9vtk4UCnqAL/SftZZsPSvfFn0r2nNti9K4uDNB5/Ix0FnKDFzR6LkZMjylEz+vy8DmC2fFtbPWGL+uzXFskYwkKOQ6e9LijoMwYeFhM77HBQ0hURBfNAsDE9CRPyyC9CqUHrFVN8meoZkcP93OKqvJX8qghrTxLFnAsWlB0goaPt+NPxoDk/1ZYH6kvW1uDQrLWIyKJuemywKGgaaRU=;fsa5ovZxuDnthSEW6M2GmA=="
+secured: "y29dj48S3NgciVkDnIJ3bxkb6mTWqsZgYTVqdQs8E3iQNzIH/mIP7PNSeSuaaYzGSJ1erTl3EQvmcItjx5d1uYLPSLb4Nr5TMN3Hbe1FD/Z5Hog53iJ8eHYr81gQwGQHCIk/eFf9HPjXLir1KOrKNJSep1Tezy7NTymHu+C9OY4DcOMDetwhdykh4hokXTxJCk9qLrgy2vmXJPtLL1ThZ6iVT43NPphuKTTykcihf5kTfSn2OpYBrs4pq7lxYvmSBZGk2pj/me6NZTQNFvjUIeZlcNeyeO3iT9/5+YZrkN42qeexcDZ9htT0oSyMyrpf;mVUewyXzf4FVh8xk6YpUNg=="
 ---
 

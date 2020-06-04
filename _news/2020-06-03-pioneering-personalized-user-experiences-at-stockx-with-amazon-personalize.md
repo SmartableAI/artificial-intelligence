@@ -27,6 +27,6 @@ images:
     height: 465
     title: "Pioneering personalized user experiences at StockX with Amazon Personalize"
 
-secured: "H1d3K4Ua/O179FdkHC4eAcKAfSqQbfO5ZtWCXULycgAWUmxOi6dzuIyHEkWaF5O9YM+ng6Dqt7W2N8NKTgjoogSFsJgZMVhbB6MdlVNW7uIN7zICMWIAaB+1uE5o9aC4WYGc0J0bDrR5CU2/ehWjdhVGgaiTyvahTVeC4bnPt9z/9kWknZCKLCegthK3+q/AXKBmpuC2IQeff3dUDUsxewxzzyaqcO3rd5oHRQIEvFPyMsLnyJ9ZX+KrkybBtOgZQy/iO6qsjcc5hjd5RSoXQETPnmKC42IBaK/eVjm4q5Oz2oRLkRjWTbJ5OwOypAZtfY7OPe5VIE0XXor4d9k51A==;aThCIdirVo2OTeBNgjB0lA=="
+secured: "gyDNsBSs2RUSV7xIbcQkqVyHyCSvIBqL8ePq1aNHLu7rfLREdKk4mdfqCUoIgdF+6tN6jflcAX2Uol4J/2c+b6dJh3ds5xfJ7dUDuRcGlC1l7oxjd8k/g/zQnRiA1m6yr84U7C1TfRdiS9K0oRpJrBky4G34m7Uwn9Hu4joirz/Kn5gGmIv4I5XX6E67JPpo0bHz/0XuocWOg0pwEPrqzuBWIe3cQ5BUCsIWc1Djv8no8P4QSLXG5S9OyEnDmzBFNGF3z1F4jPf15D9bKmv/RWcWGZumLB6nbBChTn0b8PHcMVBp0Rh3bH5E5R/lVPwCC40JkR69UcJaQmJ06WqxEA==;H+urIddQ4aMzJF0P5ruQGg=="
 ---
 

@@ -31,15 +31,15 @@ images:
 related:
   - title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
     excerpt: "If you run a business, it is absolutely essential that you protect yourself and your assets with business insurance . However, figuring out exactly what kind of coverage you need and finding the best possible price is no easy task."
-    publishedDateTime: 2020-06-03T13:30:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"
+    publishedDateTime: 2020-06-03T23:14:00Z
+    webUrl: "https://www.sfgate.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: SFGate
+      domain: sfgate.com
     quality: 15
     images:
-      - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/21/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/27/rawImage.jpg"
         width: 2000
         height: 1333
   - title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"

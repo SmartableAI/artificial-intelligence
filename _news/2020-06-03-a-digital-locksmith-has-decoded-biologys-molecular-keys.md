@@ -3,7 +3,7 @@ category: news
 title: "A Digital Locksmith Has Decoded Biology’s Molecular Keys"
 excerpt: "Correia’s system, called MaSIF (short for molecular surface interaction fingerprinting), avoids the inherent complexity of a protein’s 3D shape by ignoring the molecules’ internal structure. Instead,"
 publishedDateTime: 2020-06-03T13:35:00Z
-webUrl: "https://www.quantamagazine.org/new-machine-learning-system-decodes-how-proteins-interact-20200603"
+webUrl: "https://www.quantamagazine.org/new-machine-learning-system-decodes-how-proteins-interact-20200603/"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 630
     title: "A Digital Locksmith Has Decoded Biology’s Molecular Keys"
 
-secured: "8SrxRvwrClOl2VlKUHIm9j5bQDGcxz5x73XY1jAuYka5frJxNC95bICLsTX/JcpPXWhuSXpEp96RtMs+Yf+sRVKdnYBO/TZJWl7q843VTeRk4hBRBiB0HPL4c/LbcIPW1c2SIARCHoIOJCOlDHgTlnYpbiXckJMwaTZWB+0QrvcG19uVV6msv8x7IVC3b2m8bMz9PEotKSGvsBNhrFDMYw0+UPlTTcRxC/mcqClU1x42NonQZVapuJ5d06Tzr1kq42XDmaUuCKVCUyPzTdqZo0qtcZZfGszzRbUMyGNbpLBHlLYkp5rOhHWe5X8RhKem0K7sfexyawrcFdZRqb93Vrrgazorc9fv3SNBotsDtDZhE6T2hxoOPmpf2RwH+q5xY6MlB0KtydnYh8QYOQFHEqMcItAM9UuDd0aX1+8qZehS55cgdSYNhxXeI/14uCUOEQFLwIMSARUXIQhgKMY00N4LGX3GTCcNOHh1ADw97tw=;50L46sxwtLf/E2+nyZ/+Iw=="
+secured: "3+wjPcGkPlHBhgnnyOCIN7NnIDRPP4A/ntVonQWNC5ZybIjwPHPgSGDBgxw4Wx93fB1UhH3vPtwEY1gdAQiLuLQlGLfCigzfC06TX3cABrkxjpJ2z9i4qyibiBE6q+Z4+Ez/JEkXIqVRzGmnNbsfn+0cwhrpkBKfHPAZOGH+1R4TuKzAK0QzyD+un7oteSYUk8fbuUh0oPQKE1/yknqv+ed0mqLQRoLe6edeXTHpiHEWQFNHvW5bFmai2gCAOOIYb5BrNXiaCutYqOxhJh4ps9cpwPHsLk1VVykgDOKRHFSWGB/S1Kz7utmuiqwNiy8B;Vh2XPwLM7MHZQfJo+M/Zmw=="
 ---
 

@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chip Market COVID 19 Impact Forecast Study | Application, Opportunities, Top Companies and Challenges Forecast 2029"
+    excerpt: "The research report titled, Artificial Intelligence Chip Market is latest published by MarketResearch.Biz. The Artificial Intelligence Chip market has been garnering high-quality momentum in latest years."
+    publishedDateTime: 2020-06-04T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-covid-19-impact-forecast-study-application-opportunities-top-companies-and-challenges-forecast-2029-2020-06-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "hv5HVMRSDlERzj+zSuvrq0SzTG2/qPMxcb+hlR+gFMiWviBRM9xL/nHAEKE1TgjmoOQyJAfpafl+FNOCiAVAIRvBXrH6U+cW4nskAzn9CM5yGRHmU28oTP9hE3jxdp3L+iPOyPiih9UADCsvSvLje9ey0NvL9oFnc0l1iOFxlaS9VyEnZ/JFhdSGXK7+A4JTZIVLFdB5Xq/a5eoCnKYaKqsHlkmJE0wEg5lblo09FxgiG+4AMCBXE9LRYzg389UcqNG/fEDDYHrunufY+OM6lVUlI2UxaH4GjuG/0V3xEGIlkyE5JgEGEDrM22gPNZCN;4UV4MKfjiue9mA0yeNNPTw=="
 ---

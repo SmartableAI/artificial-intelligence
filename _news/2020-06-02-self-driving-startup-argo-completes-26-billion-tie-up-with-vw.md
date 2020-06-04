@@ -24,21 +24,6 @@ images:
     title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
 
 related:
-  - title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
-    excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
-    publishedDateTime: 2020-06-02T14:59:00Z
-    webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
-        width: 3758
-        height: 2504
   - title: "VW closes $2.6 billion investment in self-driving startup Argo AI"
     excerpt: "German automaker Volkswagen AG VOWG_p.DE has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post o"
     publishedDateTime: 2020-06-02T05:00:00Z
@@ -65,6 +50,15 @@ related:
       - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
         width: 720
         height: 406
+  - title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
+    excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
+    publishedDateTime: 2020-06-02T04:19:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Self-driving start-up Argo ties up with Germany's Volkswagen in $2.6bn investment"
     excerpt: "VW’s investment includes a $1bn cash infusion and the folding of its $1.6bn Autonomous Intelligent Driving unit into Argo"
     publishedDateTime: 2020-06-02T05:13:00Z
