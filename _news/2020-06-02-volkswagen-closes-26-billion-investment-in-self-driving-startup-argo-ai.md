@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
-excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
-publishedDateTime: 2020-06-02T04:19:00Z
-webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
+title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
+excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
+publishedDateTime: 2020-06-02T14:59:00Z
+webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 86
+heat: 156
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
+    width: 3758
+    height: 2504
+    title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
 
 related:
   - title: "VW closes $2.6 billion investment in self-driving startup Argo AI"
@@ -99,7 +107,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
         width: 1200
         height: 630
+  - title: "VW completes $2.6B self-driving deal connected with Ford"
+    excerpt: "Volkswagen has finalized a deal that will see it invest the equivalent of $2.6 billion in Argo AI as part of a partnership with Ford to develop self-driving technology. The news was announced Tuesday. Ford, in a posting by executive John Lawler, said the arrangement finalized Monday involving the Pittsburgh-based startup would allow the ..."
+    publishedDateTime: 2020-06-02T23:14:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/vw-completes-2-6b-self-driving-deal-connected-with-ford/article_436819af-bccc-5b20-9547-26c93ed1add0.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
 
-secured: "FuXW/lN4avgvdTtBkyuG3twCyEQimcZ6aktIqPRoI4kHevnfOBeL65OSUzyOsyzVXLuLncgpIfnPtaPeKKs17eh6ke0fHutgi/pOKKo1A/eglpSW75773HWAMy7VqTYcXXsilkIE13Qv/6gNEo5a8B0pqGW8yi0B+IU4JXJ5CspIO1GdWXbfmlzUXFqSkaGjJyFRmGETZeNcDzG4ne3UvEVr1bYVb7GfwnTJrMdqPWEM1t7PmNu98PyYpnjxlvxCTrT4fvbtjbBY2eantqjOUBN0Ha985iAqCNoGbi5VUgfuLyMxBVQvEaLTP5uVh5S3JZos0OmC4zsjBHw43m42ppP4xeMKHizQlvk11WtgombH/xBefZd+hOjic0CWFB4a4/iK4OrVmtsPKAnr/norPJIzd93RfiyROykbRcowg7e6JZ4mdbBRjKyl9RhP4XreBgDaMttaxqdeZ4kQQnmwtYreNqdCUKhPXZlsr45hCWo=;loFmDiyrwUI/RpIAj/p3Rw=="
+secured: "f+7kPClAH23cNqN1EYE8faGeZPavwR7tgD6qW+wGajjkqZDUK7MnlKRuy8l388FaQ3Qx1rhZv0ugYzB7CU4WcyVTXIWZTJ2RYjJRjEfR9S7t3lTfZKEmbcE8JLzQ5HRtl6+20ynyYrkgjUnOOKdDAUEMUAAb2HB+Gevrn3zN7IMfqIXNLCJkzR3B5JakUxLVBVzlpm6/RY68dcs0vOnO0pfnaXLDLKm7iDBGxakTsXvkGCMqxA5cpKAd0gZMEdMu8sDw3nQzAcrVVHXKtoFgSU37neiKOcwGhV/wJhgsR9chZsTqx6AJtrTrzD8lL/Gw;N9fqg1uR7bq44yVh7frYdA=="
 ---
 

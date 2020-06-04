@@ -2,6 +2,80 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
+      "title": "Tesla set to launch a Full Self-Driving subscription service this year",
+      "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/",
+      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
+      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
+      "publishedDateTime": "2020-04-30T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tesla News",
+        "domain": "teslarati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Tesla set to launch a Full Self-Driving subscription service this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-user-experience.md",
+      "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
+      "excerpt": "Computer vision enables a more in-depth data set for the financial services industry to use when evaluating specific investment opportunities. The financial services industry is continuously ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15925700/deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-us",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15925700",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15925700",
+      "publishedDateTime": "2020-04-30T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1587326284.jpeg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-how-coronavirus-pandemic-will-impact-on-global-artificial-intelligence-in-healthcare-market-industry-trends-and-developments-2020-2027.md",
       "title": "How Coronavirus Pandemic Will Impact on Global Artificial Intelligence in Healthcare Market : Industry Trends and Developments 2020-2027",
       "excerpt": "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market to depict valuable insights related to significant market trends driving the industry The report features analysis based on key opportunities and challenges",
@@ -1156,72 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
-      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead",
-      "ampWebUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
-      "publishedDateTime": "2020-04-29T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg",
-          "width": 619,
-          "height": 413,
-          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-eurotech-announces-the-availability-of-the-esf-cloud-connector-for-aws-iot-core.md",
-      "title": "Eurotech Announces the Availability of the ESF Cloud Connector for AWS IoT Core",
-      "excerpt": "Eurotech announces the availability of the ESF Cloud Connector for AWS IoT Core - Eurotech.com. ETH: MI Distribution / Indexing: [+] / [Company listed above is a registered member of our network. Cont",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172805/Eurotech-Announces-the-Availability-of-the-ESF-Cloud-Connector-for-AWS-IoT-Core/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

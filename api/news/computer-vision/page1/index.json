@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state.md",
+      "title": "California blocks bill that could’ve led to a facial recognition police-state",
+      "excerpt": "Californian lawmakers have blocked a bill that would have expanded facial recognition surveillance across the state -- including by police",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "publishedDateTime": "2020-06-04T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-63-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "California blocks bill that could’ve led to a facial recognition police-state",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
       "title": "California’s statehouse is considering a controversial facial recognition bill",
       "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
@@ -1189,51 +1234,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-how-to-find-out-which-facial-recognition-databases-you-may-be-in.md",
-      "title": "How to find out which facial recognition databases you may be in",
-      "excerpt": "With a basic online quiz, you can find the likelihood that your face is included in various government databases.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5?amp",
-      "publishedDateTime": "2020-05-19T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How to find out which facial recognition databases you may be in",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

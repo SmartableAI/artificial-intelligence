@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
+      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
+      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
+      "publishedDateTime": "2020-05-28T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
+          "width": 1200,
+          "height": 925,
+          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
+      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
+      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
+      "publishedDateTime": "2020-05-28T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
+          "width": 300,
+          "height": 261,
+          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
       "title": "Apple acquires Inductiv, machine-learning specialists",
       "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
@@ -1155,95 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
-      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "publishedDateTime": "2020-05-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
-      "title": "Baidu releases quantum machine learning toolkit on GitHub",
-      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "publishedDateTime": "2020-05-27T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

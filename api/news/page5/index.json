@@ -2,6 +2,94 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-29-how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation.md",
+      "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+      "excerpt": "In Israel, the government takes an active role in promoting and funding technological innovation, which is key to maintaining a thriving startup ecosystem. According to an account by Avi Hasson, former chief scientist at the Israel Innovation Authority,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "publishedDateTime": "2020-05-29T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17eb35e2c7400068b0804%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D441%26cropY2%3D5328",
+          "width": 1199,
+          "height": 677,
+          "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task.md",
+      "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
+      "excerpt": "Researchers at OpenAI and Uber propose Synthetic Petri Dish, a highly efficient technique for finding optimal AI architectures.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
+      "publishedDateTime": "2020-05-29T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-the-need-for-speed-faster-ai-adoption-requires-a-new-plan.md",
       "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
       "excerpt": "As companies look to leverage more AI, better planning will be a critical requirement. A look at what businesses should do to move forward with their AI strategies.",
@@ -997,88 +1085,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
-      "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-      "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "publishedDateTime": "2020-05-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
-      "title": "Apple buys machine-learning startup to improve data used in Siri",
-      "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Insurance",
-        "domain": "dig-in.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/7f34c63/2147483647/strip/true/crop/2200x1155+0+79/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fea%2F9e%2Ffeebfa154bf6b71193b087e34dde%2F362300661.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple buys machine-learning startup to improve data used in Siri",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
