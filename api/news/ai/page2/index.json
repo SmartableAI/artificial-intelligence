@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
+      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "publishedDateTime": "2020-06-03T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
+      "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+      "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
+      "ampWebUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "publishedDateTime": "2020-06-03T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
+          "width": 800,
+          "height": 600,
+          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
+      "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
+      "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
+      "publishedDateTime": "2020-06-03T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests.md",
       "title": "AI conference NeurIPS extends paper submission deadline amid BLM protests",
       "excerpt": "The deadline for AI mega-conference NeurIPS has been extended by 48 hours, to give people affected by protests in the US more time to finish their papers",
@@ -1182,140 +1308,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-new-computer-chips-could-power-ai-to-next-level.md",
-      "title": "New Computer Chips Could Power AI to Next Level",
-      "excerpt": "A generation of computing chips designed specifically for artificial intelligence could enable a host of new applications for the technology.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/new-computer-chips-could-power-ai-to-next-level-11591090202",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-192303/social",
-          "width": 1280,
-          "height": 640,
-          "title": "New Computer Chips Could Power AI to Next Level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global.md",
-      "title": "Locus Robotics raises $40 million to take its warehouse robots global",
-      "excerpt": "Locus Robotics, a developer and provider of autonomous mobile warehouse robots, has raised $40 million in venture capital.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
-      "publishedDateTime": "2020-06-02T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Locus Robotics raises $40 million to take its warehouse robots global",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-finding-the-right-business-insurance-can-be-hard-but-this-tech-startup-makes-it-easy.md",
-      "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
-      "excerpt": "Get a free quote from CoverWallet and find the right business insurance at the right price. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351187",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351187",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351187",
-      "publishedDateTime": "2020-06-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590631973-CoverWalletContractorsImagebyJensBehrmannviaUnsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

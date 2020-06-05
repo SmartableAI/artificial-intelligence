@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
-      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
-      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
-      "publishedDateTime": "2020-04-26T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
-          "width": 1200,
-          "height": 567,
-          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-25-global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025.md",
       "title": "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025",
       "excerpt": "This new report titled Global Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025 has been added by MarketandResearch.biz to provide a detailed analysis of the market covering market trends,",
@@ -1244,6 +1199,43 @@
           "width": 763,
           "height": 509,
           "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
+      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
           "attribution": null
         }
       ],

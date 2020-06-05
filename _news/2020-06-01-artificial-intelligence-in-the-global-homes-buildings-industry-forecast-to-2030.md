@@ -22,21 +22,6 @@ images:
     height: 315
     title: "Artificial Intelligence in the Global Homes & Buildings Industry, Forecast to 2030"
 
-related:
-  - title: "Artificial Intelligence in the Global Homes & Buildings Industry, Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in the Global Homes & Buildings Industry, Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. Homes & buildings is a technology-driven industry that is witnessing innovation at a rapid pace,"
-    publishedDateTime: 2020-06-04T09:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200604005312/en/Artificial-Intelligence-Global-Homes-Buildings-Industry-Forecast"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200604005312/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-
 secured: "uuokYeqobUl4Z1TPd8gfRSP4omoFB3e1mOi6stZZmvo7BpwtO6vMZedtfxv3qmk0b7B70eaLl/N0VV8vJxPxnAudUQeYBQ7jGu3bnxoXqHLdCqw59Vo8hJoF2FOlykSBBy23auD3nY5Rn5ZJu3P1RULK5Wl3R427J4TZEdJLlGuQAeUTF2UqTvpKAo1/9SC7h5kLjC20yQg0PMYRZon1DvZ9SGEwQeOVZfLrOupkQy9OHL99GLML2QZa1GVNCLHU/8j6axI6kAD11+MJQt9RRaBWKxtoid4PCkTgq2YY0PSvzbHmpWS2zv9bnbRKAple;jVzlXdSt2V6apVpVKaAhuw=="
 ---
 

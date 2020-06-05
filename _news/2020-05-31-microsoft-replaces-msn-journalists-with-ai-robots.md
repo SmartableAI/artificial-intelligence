@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fmicrosoft-replace-msn-contractors-artificial-intelligence-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
-  - title: "Microsoft sacks 50 journalists, moves to replace them with AI robots"
-    excerpt: "Tech giants, Microsoft has fired no fewer than 50 journalists under its employ after it decided to replace them with artificial intelligence robots- a |"
-    publishedDateTime: 2020-05-31T11:20:00Z
-    webUrl: "https://www.ripplesnigeria.com/microsoft-sacks-50-journalists-moves-to-replace-them-with-ai-robots/"
-    type: article
-    provider:
-      name: All protocol(s) observed
-      domain: ripplesnigeria.com
-    quality: 54
-    images:
-      - url: "https://www.ripplesnigeria.com/wp-content/uploads/2020/05/Microsoft-CEO-Satya-Nadella.jpg"
-        width: 650
-        height: 350
   - title: "Microsoft sacks journalists to replace them with robots"
     excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
     publishedDateTime: 2020-06-01T11:57:00Z

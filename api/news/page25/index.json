@@ -2,6 +2,97 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
+      "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
+      "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/09/29/997be8da-a338-49ec-aaaf-274dc1375575/thumbnail/1200x675/48c52c31f037cfda198e14cd18f0a288/jump-into-data-lake.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server.md",
+      "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
       "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
       "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
@@ -962,88 +1053,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest.md",
-      "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
-      "excerpt": "Huang was joined on the jury panel by Ed Newton-Rex, the founder of AI composer startup Jukedeck, and Vincent Koops ... Collins and Carlise suggested holograms and robots, but the best reply came from their son: dancing guitars. His answer exposed the one thing about Eurovision that the AI contest couldn’t replicate: spectacular live ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/amp/",
-      "publishedDateTime": "2020-05-13T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-34-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebook-trains-artificial-intelligence-on-hateful-memes.md",
-      "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-      "excerpt": "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "ampWebUrl": "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "publishedDateTime": "2020-05-13T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
