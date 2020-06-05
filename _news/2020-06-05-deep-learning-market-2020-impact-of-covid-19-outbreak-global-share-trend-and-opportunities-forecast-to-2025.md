@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-05T15:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-impact-of-covid-19-outbreak-global-share-trend-and-opportunities-forecast-to-2025-2020-06-05"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Deep Learning Market 2020, Impact of COVID-19 Outbreak, Global Share, Trend, And Opportunities Forecast To 2025"
 
 related:
-  - title: "Machine learning Market 2020, Impact Analysis of COVID-19 Technology, Future Growth, Revenue Analysis, Global Demand Forecast To 2025"
-    excerpt: "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during"
-    publishedDateTime: 2020-06-05T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-impact-analysis-of-covid-19-technology-future-growth-revenue-analysis-global-demand-forecast-to-2025-2020-06-05"
+  - title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
+    publishedDateTime: 2020-06-05T16:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

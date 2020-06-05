@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/05/Citadel_Runway_Protection.png?fit=1766%2C1142&#038;ssl=1"

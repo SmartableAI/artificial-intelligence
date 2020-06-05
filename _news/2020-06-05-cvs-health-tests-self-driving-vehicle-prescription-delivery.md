@@ -1,28 +1,26 @@
 ---
 category: news
 title: "CVS Health tests self-driving vehicle prescription delivery"
-excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro on the delivery of medicines and other products to customers near a Houston-area store."
-publishedDateTime: 2020-06-05T07:14:00Z
-webUrl: "https://www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.html"
-ampWebUrl: "https://www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.amp.html"
-cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.amp.html"
+excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
+publishedDateTime: 2020-06-05T17:07:00Z
+webUrl: "https://www.wdrb.com/news/national/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_938940b1-8fe6-5058-aa10-809d9c27cb8a.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Reading Eagle
-  domain: readingeagle.com
+  name: WDRB
+  domain: wdrb.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/68/768fe86a-39bf-50cd-83ef-890539036c4d/5ecfced019054.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/3/4c/34cb1c66-a0f5-11ea-84fc-ffe2e8f117f7/5ecfd4202212f.image.jpg?resize=946%2C630"
+    width: 946
+    height: 630
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
@@ -83,6 +81,6 @@ related:
         width: 1200
         height: 701
 
-secured: "0lLf4DJipsiZ4nsrmLM8BsvbR0wwtzdtsqUYz7YG1WJagI6RqowNVN6EF1/rrUbmIaoL26HnmpoAu3Xmv1nhKpcrXOenmhJLmsBJbvyRh++jUR2PNEM9uD1fiFtMCclI27gLF9klf221K4vzdb/D3VuhHJjG+Kd3fXuzsxz+rowB2XT+pcFFqi2DsstQVCiJ2CtgoSAF6Snj8e3IpegYXjLGINJdKSyEjTqfxiPqjnRtR4vRDxh/0NgGYVqiVc5rYpPB+B/v/RTD2EBBo3HEMMUld8tlG9lADa9F4fG6gV0yHtoRs1lVeDO8pRC1VYc6;DdC2mslKeoTcVQHscJQ8gA=="
+secured: "+pt3WSu9s+Iju/9C0jzt69hjrVb5aUHMq2DXyqjH1D5TM+MpxtJaPCL8VLPdPTwBs4F4+Y9cKTILjITqGKyyfiuyK4DGrkoLl+YwUuQStQjxquA2cen2dBYiLKVHuXlDHYAvsTjVE1l0VcXTH4ElhrZKlmOBcty3cSLDbTrfBkHdK/aC6fmNQgHdvMSyO6ekE4dplfJlE1jpVvibo8+6yieB54SynOuOzs+j0a1DttrxyEMXz6Th7E+LWgQTfXbzLkDWGHf59MXahLK4f6H0jxZpm4goOAsUQAuQYgM+NBJMWhawuyt4ts6Ew9QlzMDd;Qr2LCKjJTBsWFpRUUxijNg=="
 ---
 

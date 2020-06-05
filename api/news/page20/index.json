@@ -2,6 +2,243 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
+      "title": "AAEON AI monitoring for fever and mask detection",
+      "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "publishedDateTime": "2020-05-19T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/19/ad69f266-7f5c-4de1-9202-2390c8122407/resize/1200x900/78b07e11530208db03d849cf9b79ba66/unnamed.jpg",
+          "width": 1074,
+          "height": 900,
+          "title": "AAEON AI monitoring for fever and mask detection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
+      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "publishedDateTime": "2020-05-19T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
+      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "publishedDateTime": "2020-05-19T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
+          "width": 800,
+          "height": 360,
+          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
+      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
+      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "publishedDateTime": "2020-05-19T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
+      "title": "How machines see: everything you need to know about computer vision",
+      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "publishedDateTime": "2020-05-19T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "How machines see: everything you need to know about computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-how-conversational-service-automation-can-boost-your-contact-center.md",
+      "title": "How Conversational Service Automation can boost your contact center",
+      "excerpt": "CSA has the capability to provide a massive overhaul to how contact centers function by using Artificial Intelligence, Machine Learning Natural Language Processing and RPA, writes Umesh Sachdev ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/",
+      "ampWebUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
+      "publishedDateTime": "2020-05-19T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
       "title": "Facial recognition used to reunite missing child with family after 32 years",
       "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
@@ -784,252 +1021,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor.md",
-      "title": "Global Tech Company NTT Selects PlateSmart as Vehicle Recognition Vendor",
-      "excerpt": "PlateSmart Technologies was the first industry player to introduce a software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology a major industry milestone positioning the company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172915/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions.md",
-      "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-      "excerpt": "The novel coronavirus has brought with it fears of infection, massive job losses, the challenges of teaching kids at home, social isolation, and the list goes on. The toll on our collective",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "publishedDateTime": "2020-05-18T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Lyssn_telehealth-630x383.png",
-          "width": 630,
-          "height": 383,
-          "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
-      "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-      "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
-      "ampWebUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "publishedDateTime": "2020-05-18T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations.md",
-      "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
-      "excerpt": "French self-driving vehicle company EasyMile will add seatbelts to its shuttles in order to be able to once again carry passengers in the US. EasyMile’s shuttles were suspended by the National Highway Traffic Safety Administration (NHTSA) in late February after an incident where a passenger fell out of her seat during a sudden stop in Columbus,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
-      "publishedDateTime": "2020-05-18T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/z-UVj3QgibfWeTwxywPX0pKWUYA=/0x0:2048x1365/1400x933/filters:focal(861x520:1187x846):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66812972/Credit___City_of_Columbus__OH___Linden_LEAP___EasyMile_EZ10s___2020.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
-      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
-      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
-      "publishedDateTime": "2020-05-18T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
-      "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "publishedDateTime": "2020-05-18T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-19-downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-study-says.md",
+      "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+      "excerpt": "Widespread use of self-driving cars in coming decades will increase congestion and pollution in the Washington region if governments don’t take steps to avoid such consequences, according a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "publishedDateTime": "2020-04-18T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
       "title": "Uber says engineer is on his own for US$180 million legal award to Google",
       "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
@@ -1176,51 +1213,6 @@
           "width": 1000,
           "height": 562,
           "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
-      "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
-      "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "publishedDateTime": "2020-04-10T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/10/0602992e-7ae2-11ea-9b24-e7152d1bf921_image_hires_133906.jpg?itok=1KzUyjLW&v=1586497161",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
           "attribution": null
         }
       ],

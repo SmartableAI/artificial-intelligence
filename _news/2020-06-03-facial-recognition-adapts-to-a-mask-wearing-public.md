@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition adapts to a mask-wearing public"
 excerpt: "With more people wearing masks to prevent the spread of the coronavirus, facial recognition developers are building datasets of images featuring masked faces and upgrading existing solutions."
 publishedDateTime: 2020-06-03T21:11:00Z
-webUrl: "https://gcn.com/articles/2020/06/03/facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
+webUrl: "https://gcn.com/articles/2020/06/03/facial-recognition-masks.aspx"
 type: article
 quality: 41
 heat: 41
@@ -14,9 +14,9 @@ provider:
   domain: gcn.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/masked_woman.jpg"
@@ -24,6 +24,6 @@ images:
     height: 368
     title: "Facial recognition adapts to a mask-wearing public"
 
-secured: "c/xel4I7xpK54lNw6y+pjEx3y+Bwftu5rf8DUXr5C67/q5EDDc4La/o5TTgZZWc0TpBaWGQoCi3dwpgBpkbGGD6n4EDTckif4teoSrW8hZnnXKvwaqqpgz2NQSC3Pjy24TJfXyq7zLwUboJUsljoG/rl41CWMg/3RO8rvJbybaZSq3sueoMs2OtA+M48l8IlP9L2quXGm7+UdtkSDdDTlgXkPCPAVV+z7AbuMjogteN3pN8iqRp/vggaoOqG+24Bk63OWGC2KPDenJpAe+KItzrpe1KPDoeulzSdFK73/DkXuovL8GLKrtJocWYPu7VbZZhFPce4uHpTwBMXmBLRtHZfX+kMwQo/ck67T8gxPUUUvLLA2WQg1kT41S6bphaMbIY8/VabHqn/vNfFoea0vCZRPJmNgbeEVxMuNa9V6QY5QNrXyCzC0SsJnzzZnZ5qdavRzULndz9MvBQgrmCdZjsvhBuxCZ7eoJzh0IYvIko=;mw0l21Qy0OUrADKZfCAa4A=="
+secured: "AhalSSZ0TVboYMUrh345+gqnEjc07cvxskVVv/6LR6VHi5qkCCofY8Nffzxnhs7W4mlZnAi5LgHCw3Li9RR4pgHlj7/uV2nKTyamx1ol63AeWsraBmBlvBe6GtqU+ID+E5xpwSKNMRF0gdSnltqmoXI0avIp4bX8dvfdBYOnAHzJJZ29tWyPDBWh5IuwofRfgLI0Rg92XHQ7X+zN1n84DBz7K5HvHgPUD08hF6HaIMUNsH1ElN8IAnOCWDc6U4Jte46XIUCZbBnPW+oqzeZKMUDeLYf0MW4rVYfpK1g2+rKTcqvwLu3OVOupHIs+kZ0a;bN1fTFT7h+PwJwcMY+b/fg=="
 ---
 

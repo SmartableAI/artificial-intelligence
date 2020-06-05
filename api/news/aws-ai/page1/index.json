@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
+      "title": "Coding with R on Amazon SageMaker notebook instances",
+      "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T09:48:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
+          "width": 500,
+          "height": 398,
+          "title": "Coding with R on Amazon SageMaker notebook instances",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
       "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
       "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
@@ -667,12 +712,12 @@
       "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
       "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
       "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "ampWebUrl": "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "publishedDateTime": "2020-05-26T23:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1251,52 +1296,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
-      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "publishedDateTime": "2020-05-14T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
-          "width": 1200,
-          "height": 675,
-          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

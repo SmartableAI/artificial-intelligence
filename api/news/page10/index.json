@@ -2,15 +2,277 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
+      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-27T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
+      "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
+      "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
+      "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
+      "publishedDateTime": "2020-05-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19.md",
+      "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
+      "excerpt": "As the COVID crisis continues, Albertans and all Canadians would surely welcome some good news among the bleak headlines.So consider this — we’ve learned a lot over the past few months",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19",
+      "ampWebUrl": "https://calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19/amp",
+      "cdnAmpWebUrl": "https://calgarysun-com.cdn.ampproject.org/c/s/calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19/amp",
+      "publishedDateTime": "2020-05-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Calgary Sun",
+        "domain": "calgarysun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediacalgarysun.files.wordpress.com/2020/05/cpt505-the-associated-press-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
+      "title": "The Robot Artists Aren’t Coming",
+      "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "publishedDateTime": "2020-05-27T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robot Artists Aren’t Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
+      "title": "Unlocking the value of values with AI",
+      "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "publishedDateTime": "2020-05-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Unlocking the value of values with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms.md",
+      "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
+      "excerpt": "Quartz spoke to several IT players and industry experts to understand what is already happening and what more needs to be done to adjust with the “new normal.” Here’s what they said: Most IT firms are starting with limited employees in offices to ensure physical distancing.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/",
+      "ampWebUrl": "https://qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/amp/",
+      "publishedDateTime": "2020-05-26T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/05/2020-05-04T000000Z_1119147073_RC2JHG9R4DI0_RTRMADP_3_HEALTH-CORONAVIRUS-SOUTHASIA-e1590558563343.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 770,
+          "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
       "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
       "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "ampWebUrl": "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "publishedDateTime": "2020-05-26T23:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -402,51 +664,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm doubles down on AI for mobile devices",
-      "excerpt": "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "publishedDateTime": "2020-05-26T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": "Arm doubles down on AI for mobile devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
       "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
       "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
@@ -571,6 +788,35 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
+      "title": "Arm Doubles Down On AI For Mobile Devices",
+      "excerpt": "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -816,251 +1062,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
-      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "publishedDateTime": "2020-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
-      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "publishedDateTime": "2020-05-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
-          "width": 766,
-          "height": 371,
-          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools.md",
-      "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-      "excerpt": "As more online brands look for ways to move beyond third-party cookies as a way of gaining more direct insights about their users and customers, a startup that has developed a platform to help them has raised a big round of funding.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "publishedDateTime": "2020-05-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-832158646-1.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024.md",
-      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. – The use of robots in space exploration,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr-by-2026-446-cagr-coronavirus-covid19-impact-analysis.md",
-      "title": "AI Chips Market 2020 Will Emerge Globally And Grow With High CAGR by 2026 | 44.6% CAGR | Coronavirus-COVID19 Impact Analysis",
-      "excerpt": "The Global AI Chips Market was valued at USD XX Bn in 2018 and is expected to reach USD XX Bn by 2026 growing at a CAGR of 44 6 by 2027 The ripple effect of Coronavirus COVID19 on the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "ampWebUrl": "https://www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "publishedDateTime": "2020-05-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
-      "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-      "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

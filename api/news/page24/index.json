@@ -2,6 +2,269 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-15-mind-controlled-prosthetic-arms-that-feel.md",
+      "title": "Mind Controlled Prosthetic Arms That Feel",
+      "excerpt": "Those with arm amputations can now for the first time experience the sensations of touch in a mind controlled arm prosthesis that can be used for everyday life. A recent study published in the New England Journal of Medicine reports on 3 patients who have ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.worldhealth.net/news/mind-controlled-prosthetic-arms-feel/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Worldhealth",
+        "domain": "worldhealth.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.worldhealth.net/media/original_images/AdobeStock_13251100.jpeg",
+          "width": 4244,
+          "height": 1936,
+          "title": "Mind Controlled Prosthetic Arms That Feel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
+      "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+      "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg",
+          "width": 630,
+          "height": 428,
+          "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
+      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "publishedDateTime": "2020-05-14T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
+      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "publishedDateTime": "2020-05-14T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
+          "width": 1200,
+          "height": 675,
+          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera.md",
+      "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+      "excerpt": "Sony has announced an image sensor with artificial intelligence processing, calling it an intelligent image system for smarter cameras. The processor will make for faster data transmission, better security and less power consumption,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "publishedDateTime": "2020-05-14T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition.md",
+      "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
+      "excerpt": "NEW YORK, May 14, 2020 /PRNewswire/ -- Kensho, an S&P Global (NYSE: SPGI) company, introduced Scribe, an end-to-end speech recognition solution specifically optimized for the finance and business community.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition-2020-05-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
       "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
       "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
@@ -839,260 +1102,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
-      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
-          "width": 1200,
-          "height": 676,
-          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
-      "title": "AI and Machine Learning are at the heart of future healthcare.",
-      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Front Line Genomics",
-        "domain": "frontlinegenomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": "AI and Machine Learning are at the heart of future healthcare.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adobe-announces-ai-toolbox-for-experience-platform.md",
-      "title": "Adobe announces AI toolbox for Experience Platform",
-      "excerpt": "Most companies don’t have the personnel to do AI well, so they turn to platform vendors like Adobe for help. Like other platforms, it has been building AI into its product set for several years now, but wanted to give marketers a set of tools that take advantage of some advanced AI",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "publishedDateTime": "2020-05-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Adobe-Customer-AI.jpg?w=680",
-          "width": 680,
-          "height": 586,
-          "title": "Adobe announces AI toolbox for Experience Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
-      "title": "Uber introduces AI to make sure its drivers wear face masks",
-      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "publishedDateTime": "2020-05-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Uber introduces AI to make sure its drivers wear face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ecs-achieves-aws-migration-competency.md",
-      "title": "ECS Achieves AWS Migration Competency",
-      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecs-achieves-aws-migration-competency-1029203000",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "publishedDateTime": "2020-05-14T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
-      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
-      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "publishedDateTime": "2020-05-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

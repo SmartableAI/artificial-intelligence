@@ -54,21 +54,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/0/01/001c6976-7477-59bc-9385-ccc3b21c0dfb/5ecfcec648647.image.jpg?resize=1024%2C720"
         width: 1024
         height: 720
-  - title: "CVS Health tests self-driving vehicle prescription delivery"
-    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro on the delivery of medicines and other products to customers near a Houston-area store."
-    publishedDateTime: 2020-06-05T07:14:00Z
-    webUrl: "https://www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.html"
-    ampWebUrl: "https://www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.amp.html"
-    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/state/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_e4206d82-c768-5aaf-a584-30e0fd5765cd.amp.html"
-    type: article
-    provider:
-      name: Reading Eagle
-      domain: readingeagle.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/68/768fe86a-39bf-50cd-83ef-890539036c4d/5ecfced019054.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
   - title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
     excerpt: "The company, which partnered with robotics company Nuro, joins other retailers who have recently updated their delivery options."
     publishedDateTime: 2020-06-01T16:43:00Z
@@ -82,6 +67,19 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/c9/5f/c95f1523326671716aff15e44f3a49a4.jpg"
         width: 770
         height: 363
+  - title: "CVS Health tests self-driving vehicle prescription delivery"
+    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
+    publishedDateTime: 2020-06-05T17:07:00Z
+    webUrl: "https://www.wdrb.com/news/national/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_938940b1-8fe6-5058-aa10-809d9c27cb8a.html"
+    type: article
+    provider:
+      name: WDRB
+      domain: wdrb.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/3/4c/34cb1c66-a0f5-11ea-84fc-ffe2e8f117f7/5ecfd4202212f.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
 
 secured: "+eDuNrQ2/XMw96slNiIanEqu2rG9GrWV91B9UqEZdfVUK12RqYNpkri8jlOuuSkke3q7QPW/BnktxGhmScb7jLBQWtIPB3OkXxbPRdRxMXwBMAJQnbfriHFGNpAqwgaTmdWAkTP3Ok606xCHytsBHeu0lJU+FNqVBv1aKvB+t4AZwAOT2MfAWt1IjgcoIzcqUqDF87hdcUepVPbyT7dPa858Hkssuyaz0/MBV8JVE0hmQoSQuhSBxx/uX7Nmxw5iW/WCrCHEbYl2S1MuSZaQu0YpL1iG7lf7gF8p8FaQ/qtfXuEG3wf+6kMZ0f6ngSuA55v9VLWyV22/r4Rrd4WcWUP3fEnnxLxsBuHqry1JbfUB1K6mcfzDJKu+BStfrKrJRuAjUc71+Plq8ecfxqnr2TSSqtQGt49RfwbqDmb0EvE5o6dQhgpjoUalJ3/2b/VaEaChT5kQX9+JO87Wf5X1U74u3gS3RecZI3GG2uGrYq8=;NMzcqV5OViOHdBHmbgDrYQ=="
 ---

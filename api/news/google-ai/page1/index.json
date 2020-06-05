@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
+      "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
+      "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-05T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
       "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
       "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
@@ -1211,43 +1248,6 @@
         "AI",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-an-ai-can-simulate-an-economy-millions-of-times-to-create-fairer-tax-policy.md",
-      "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-      "excerpt": "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
-      "ampWebUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "publishedDateTime": "2020-05-05T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

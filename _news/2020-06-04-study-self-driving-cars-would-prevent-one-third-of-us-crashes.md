@@ -41,6 +41,19 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
         width: 1918
         height: 1080
+  - title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
+    excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
+    publishedDateTime: 2020-06-05T15:56:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/05/iihs-self-driving-cars-prevent-one-third-human-crashes/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iihs-self-driving-cars-autonomous-crash-research-report-study-iot.jpg"
+        width: 1920
+        height: 1280
 
 secured: "av04UoUB2TkwsnqddmFYTHOVfGULK57PyHaLDvbHMGC2XeZUzZs8aQTufB4sgCJmxMbVVshPIilRpqpEIgKmjHdtCW6lF2jsXgRUthCbJ86SbtboHBMbjHcC9bU21MSnovHj0EKcaZUK0/bYsQoeUFZaZHSrO6izi7WsQzv8kSGoKY5+RPznKmihcvbQyTc9A9bPWs3nuU6Fdbeo4NdVbfViKDS9hHVZOe9paydWw/jkCl+OHJJZfjJD5iUNu9qwGTHM5WvMrfh7Qp2ncTpWOktOkIur4eEyerXazV9uEXRNfaQWaqbqyK/8CeRKVVr9NX7QgKqlCulR/o16HdoEL001Pt/EudCgpii0gef5Bmu+f4nX9zfgUyWo1bEgSyYipyzLxHnesbhfbAlN444LKBcQnl5k9ZQlUCpSDhPWh9puQcE3sEPScjwAtVcrve6K3ARxHvTkyjq6JgfZvcPC4RppQsJ7ZJZe5Mwd5urni3o=;JMmgJlZhm0MeR+McDju1ZA=="
 ---
