@@ -54,6 +54,19 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
         width: 1918
         height: 1080
+  - title: "Study: self-driving cars won’t stop all crashes"
+    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
+    publishedDateTime: 2020-06-05T19:32:00Z
+    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 24
+    images:
+      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
+        width: 620
+        height: 330
 
 secured: "PlfiFqtlmuKEWOx7NHcJm0z9kIsP0NCcIuy5bhq+HHv6WGN4XwBJbHu02ZBRvH2VpQmc2LeAAvGqoBPCMK1IEaWXWAPkzXDpcv3sDydYktIX/jpJ6NJwNSR5MbiHGa/IQAsPEj6yCzTb2eFSNmc/Uqbk5LFqHkynzVQHWFu/jb5t7m76bVZMKojzC4StIiGZTOpAuZ8sgXAs9FY18KRhq8SMQ6TCCdwFU41M+KWzx/qs35s32k7jyCziGuXZRGm+V1W97V5mxJY4YLMOG7wDpNxvCv5GoGh8TES2BvgrxbemSpC+6Z9Cx6JyRpmpg1OhxZrKHAsPtd2T8UGB5tJnAoHwChFbHLQjcjT+PjLhO7KeWhL06FdWqTvl/MMwPu+blKrs8v5Nd6N+Rh3TocN9GplybWOtBHjeKHXBW+C6B4X7pqVrsFZlYhzwtTmkKjHkC/oG+lu0yJEElf3EquCXoVncvQQ+ycaEgt7mi7sDQlw=;x3G/mOEQnFvE70DLk1edPw=="
 ---

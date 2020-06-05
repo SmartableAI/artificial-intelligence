@@ -2,6 +2,140 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
+      "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+      "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
+      "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
+      "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
+      "publishedDateTime": "2020-05-18T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203031516%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D258%26cropY2%3D3070",
+          "width": 1200,
+          "height": 675,
+          "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
+      "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+      "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "publishedDateTime": "2020-05-18T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
       "title": "Microsoft just gave the Sony AI camera an Azure brain",
       "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
@@ -1160,140 +1294,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-in-the-ai-era-universities-need-to-strengthen-students-creativity.md",
-      "title": "In the AI era, universities need to strengthen students’ creativity",
-      "excerpt": "But the past few years have only highlighted the limits of current AI technologies. At the turn of the decade, as the world locked down to prevent the spread of the novel coronavirus, we got to see whether the promises of artificial intelligence and robots replacing humans would materialize.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "publishedDateTime": "2020-05-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/crativitiy_header-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "In the AI era, universities need to strengthen students’ creativity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
-      "title": "China injects US$2.2 billion into local chip maker SMIC",
-      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "publishedDateTime": "2020-05-17T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
-          "width": 1200,
-          "height": 630,
-          "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
-      "title": "Hugging Face dives into machine translation with release of 1,000 models",
-      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-16T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Hugging Face dives into machine translation with release of 1,000 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

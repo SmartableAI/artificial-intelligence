@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
+      "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
+      "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
+      "publishedDateTime": "2020-05-30T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
       "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
       "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
@@ -1013,51 +1058,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
-      "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-      "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "publishedDateTime": "2020-05-29T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

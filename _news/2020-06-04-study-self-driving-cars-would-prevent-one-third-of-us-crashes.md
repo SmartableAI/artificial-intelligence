@@ -54,6 +54,19 @@ related:
       - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iihs-self-driving-cars-autonomous-crash-research-report-study-iot.jpg"
         width: 1920
         height: 1280
+  - title: "Study: self-driving cars won’t stop all crashes"
+    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
+    publishedDateTime: 2020-06-05T19:32:00Z
+    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 24
+    images:
+      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
+        width: 620
+        height: 330
 
 secured: "av04UoUB2TkwsnqddmFYTHOVfGULK57PyHaLDvbHMGC2XeZUzZs8aQTufB4sgCJmxMbVVshPIilRpqpEIgKmjHdtCW6lF2jsXgRUthCbJ86SbtboHBMbjHcC9bU21MSnovHj0EKcaZUK0/bYsQoeUFZaZHSrO6izi7WsQzv8kSGoKY5+RPznKmihcvbQyTc9A9bPWs3nuU6Fdbeo4NdVbfViKDS9hHVZOe9paydWw/jkCl+OHJJZfjJD5iUNu9qwGTHM5WvMrfh7Qp2ncTpWOktOkIur4eEyerXazV9uEXRNfaQWaqbqyK/8CeRKVVr9NX7QgKqlCulR/o16HdoEL001Pt/EudCgpii0gef5Bmu+f4nX9zfgUyWo1bEgSyYipyzLxHnesbhfbAlN444LKBcQnl5k9ZQlUCpSDhPWh9puQcE3sEPScjwAtVcrve6K3ARxHvTkyjq6JgfZvcPC4RppQsJ7ZJZe5Mwd5urni3o=;JMmgJlZhm0MeR+McDju1ZA=="
 ---

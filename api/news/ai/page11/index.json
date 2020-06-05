@@ -2,6 +2,141 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
+      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "publishedDateTime": "2020-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
+      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "publishedDateTime": "2020-05-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
+      "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+      "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "publishedDateTime": "2020-05-22T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg",
+          "width": 1680,
+          "height": 940,
+          "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
       "title": "Scale AI releases free lidar dataset to power self-driving car development",
       "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
@@ -1142,125 +1277,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
-      "title": "Amazon urged not to sell facial recognition tool to police",
-      "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
-      "ampWebUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Amazon urged not to sell facial recognition tool to police",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-civil-rights-groups-criticize-amazons-facial-recognition-system.md",
-      "title": "Civil rights groups criticize Amazon's facial recognition system",
-      "excerpt": "May 22 (Reuters) - Several U.S. civil liberties groups on Tuesday complained that Amazon.com Inc's real-time facial recognition system, Rekognition, is helping the government with surveillance ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "Civil rights groups criticize Amazon's facial recognition system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-using-tensorflow-to-recognize-your-own-objects.md",
-      "title": "Using TensorFlow To Recognize Your Own Objects",
-      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Using TensorFlow To Recognize Your Own Objects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

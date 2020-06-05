@@ -2,6 +2,145 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-05-ibms-new-ceo-lays-out-his-roadmap.md",
+      "title": "IBM’s new CEO lays out his roadmap",
+      "excerpt": "Unsurpisingly, many of the subsequent announcements at the conference hinged on hybrid cloud, enabled in large part by IBM’s $34 billion acquisition of Red Hat in 2018. Take the technical preview of IBM Cloud Satellite.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
+      "publishedDateTime": "2020-05-05T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": "IBM’s new CEO lays out his roadmap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
+      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "publishedDateTime": "2020-05-05T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
+      "title": "How NVIDIA hopes to industrialize AI with MLOps",
+      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "publishedDateTime": "2020-05-05T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "How NVIDIA hopes to industrialize AI with MLOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
       "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
       "excerpt": "This was done as part of a BrainGate pilot clinical trial, in which computer cursors, robotic prosthetic limbs ... were able to do so with a mind-controlled cursor, thanks to the implant.",
@@ -954,124 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-uk-to-combat-air-pollution-with-ai-powered-traffic-lights.md",
-      "title": "UK to combat air pollution with AI-powered traffic lights",
-      "excerpt": "The UK plans to tackle pollution with AI-powered traffic lights that delay the arrival of vehicles in toxic air hotspots. Trials begin this year.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/amp/",
-      "publishedDateTime": "2020-05-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-25-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "UK to combat air pollution with AI-powered traffic lights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test.md",
-      "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-      "excerpt": "Oregon State University researchers have used a robot vacuum cleaner equipped with behavioural patterns inspired by the personalities of three characters from Disney's 'Snow White and the Seven Dwarfs' to demonstrate that people can guess a robot’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-oil-downturn-looks-a-bit-like-2008-financial-meltdown.md",
-      "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
-      "excerpt": "Oil and gas industry-focused cloud software firm exec observes similarities and differences between two historic episodes.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/",
-      "ampWebUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
-      "cdnAmpWebUrl": "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
-      "publishedDateTime": "2020-05-05T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rigzone",
-        "domain": "rigzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.rigzone.com/images/news/articles/161977_582x327.png",
-          "width": 582,
-          "height": 327,
-          "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

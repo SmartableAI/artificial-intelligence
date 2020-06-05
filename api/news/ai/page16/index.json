@@ -2,6 +2,80 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
+      "title": "Master AI, Machine Learning With This Discounted Training Bundle",
+      "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-artificial-intelligence-ai-in-healthcare-market.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market",
+      "excerpt": "The latest 154+ page survey report on Global Artificial Intelligence (AI) in Healthcare Market is released by HTF MI covering various players of the industry selected from global geographies like ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
+      "ampWebUrl": "https://www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
+      "publishedDateTime": "2020-05-19T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
       "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
       "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
@@ -280,6 +354,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
+      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
+      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16067192/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16067192",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067192",
+      "publishedDateTime": "2020-05-19T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1109,125 +1212,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
-      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
-      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "publishedDateTime": "2020-05-19T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOT Business News",
-        "domain": "iotbusinessnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
-          "width": 800,
-          "height": 360,
-          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
-      "title": "How machines see: everything you need to know about computer vision",
-      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "publishedDateTime": "2020-05-19T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "How machines see: everything you need to know about computer vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

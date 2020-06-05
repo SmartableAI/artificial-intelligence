@@ -2,6 +2,139 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-11-this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy.md",
+      "title": "This AI is learning to spot brain tumors – without infringing privacy",
+      "excerpt": "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/",
+      "ampWebUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "publishedDateTime": "2020-05-11T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "This AI is learning to spot brain tumors – without infringing privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-intel-and-penn-medicine-are-developing-an-ai-to-spot-brain-tumors.md",
+      "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
+      "excerpt": "Using Intel’s AI hardware and software, Penn Medicine will lead 29 international healthcare and research institutions in creating an AI model trained on the largest brain tumor dataset ever -- and it will do so without sharing sensitive patient data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "publishedDateTime": "2020-05-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F61a272a0-0dd6-11ea-9baf-3626d7d9044b&client=amp-blogside-v2&signature=18f09dd385ab1262724a8ab162e82af463914227",
+          "width": 600,
+          "height": 350,
+          "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-how-blackskys-spectra-geospatial-data-platform-uses-ai-to-make-sense-of-satellite-images.md",
+      "title": "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images",
+      "excerpt": "BlackSky’s Spectra geospatial platform uses satellite imagery and multiple data streams to anticipate trends in the coronavirus outbreak and on other fronts.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/",
+      "ampWebUrl": "https://www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/amp/",
+      "publishedDateTime": "2020-05-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200510-blacksky-630x442.png",
+          "width": 630,
+          "height": 442,
+          "title": "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-how-walmart-uses-ai-to-enable-two-hour-express-delivery.md",
       "title": "How Walmart uses AI to enable two-hour Express Delivery",
       "excerpt": "Walmart spoke with VentureBeat about the AI systems underlying its 2-hour Express Delivery, ranging from a logistics algorithm to an alerting platform.",
@@ -1141,131 +1274,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-a-different-kind-of-science-fiction-the-innovation-case-for-centering-discussions-of-inclusion-driven-ai.md",
-      "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
-      "excerpt": "What if our innovations were inspired instead by feminist science fiction writers and theorists like Ursula K. Le Guin, Octavia Butler and Donna Harraway.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
-      "publishedDateTime": "2020-05-09T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1079757622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3007%26cropY1%3D102%26cropY2%3D1794",
-          "width": 1200,
-          "height": 676,
-          "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai.md",
-      "title": "IonQ CEO Peter Chapman on how quantum computing will change the future of AI",
-      "excerpt": "IonQ CEO Peter Chapman explains how quantum computing overlaps with Strong AI and potential machine learnign improvements.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/09/ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/09/ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/09/ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai/amp/",
-      "publishedDateTime": "2020-05-09T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ionq-ceo-peter-chapman.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "IonQ CEO Peter Chapman on how quantum computing will change the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-matlab-and-simulink-get-a-major-deep-learning-facelift.md",
-      "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
-      "excerpt": "MathWorks has revamped MATLAB and Simulink with a host of deep learning development tools—and they say these updates will be a major boon for automotive and wireless designers. To help engineers develop AI systems, MathWorks has added deep learning ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.allaboutcircuits.com/news/matlab-and-simulink-get-a-major-deep-learning-facelift/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-09T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Experiment_Manager.jpg",
-          "width": 800,
-          "height": 447,
-          "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

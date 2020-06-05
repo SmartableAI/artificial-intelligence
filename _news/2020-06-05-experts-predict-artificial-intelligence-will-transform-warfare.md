@@ -5,8 +5,8 @@ excerpt: "Army Lt. Gen. John N.T. ''Jack'' Shanahan, director of the Joint Artif
 publishedDateTime: 2020-06-05T18:18:00Z
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2209480/experts-predict-artificial-intelligence-will-transform-warfare/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.defense.gov/2019/Aug/21/2002311514/1280/1280/0/190814-F-BN304-0059.JPG"
@@ -23,6 +24,6 @@ images:
     height: 854
     title: "Experts Predict Artificial Intelligence Will Transform Warfare"
 
-secured: "6R+oPFljjf8diTTv2lwSL/7v+6TtK8LrTaYNfjYyjInMqBAGcZFe4ALb5OEkHij8EHd83fniF8to35CFLP2DNMos7SX2jfqH1U3unpi9HyfV5Smfufb5SsOKKoJ9xdqT1hFroX1IqSoXF/hRik13gp1Ho5FAgNnnXQeg3mFo69pjGkfbxmQ6+PQY8odqsDildvkOmSmjoJ+SIC6OeCh7Q+9OOu66V70W98rAHrXSNJ2wqq2xSG7DcUeOVi3eKc95Qlgw33ZYnTk8Gy0a4UJNZggF3Cs5mthptlZWRpiQeQ/q6TUPHoOr+DWPPtorujs2;GkqjNjb3NIRM34Frh96BCw=="
+secured: "A5RSXsfiqpGTz+msPfGjPcIGP2kC6JJEPt70fhuTPju2qi0Ds3DtY+HdZ14aS/J8pYT52TNw9SN2tKQSyCLyaAHD+pvbwxaoMc/rIvRoXWHW9ZN0oYIEE7eHOSrG62lVaLqteZ8GJ6aytybkHYb9OnrR43k9FhA9Ztg49/7KPRIsWACMrg2LI3bdFvI6cGBcfwv6UKapdqhpSv9rzt3RO4FQYrA6HAdi43N1F+ZqaR5PYhwFVYUQxI4/W89VzzRe5unjEFjx+QVfaiW4FCVkPv/jKYXqerQr7jcBjLrsaQQ/3/ClfpcpjfbMdtBbA4+ZESH2RV0jGMJPq321JMsLaf2kmdt5nOuOc5+P55h+HLmixiy2L3iEIeYxY9q7K85mOQebvVe/d6+LGaIrsyhOAYw7OAVDqDnPuIOV54aybJHnBEcNhI8ZKFNK11LiYpIBze6FWLnpl9EEWqZPG1twQV2yAw42DAsWPZ/3CX0U0SM=;ot7qEOepXD6+Y+/g3tlmPQ=="
 ---
 

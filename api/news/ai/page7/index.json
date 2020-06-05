@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
+      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "publishedDateTime": "2020-05-28T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
+      "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+      "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/",
+      "ampWebUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "publishedDateTime": "2020-05-28T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecfd6dd75134600060969b1%2F0x0.jpg",
+          "width": 940,
+          "height": 788,
+          "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
       "title": "Clearview AI faces lawsuit over gathering people's images without consent",
       "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
@@ -1166,88 +1255,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
-      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "publishedDateTime": "2020-05-27T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
-      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "publishedDateTime": "2020-05-27T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

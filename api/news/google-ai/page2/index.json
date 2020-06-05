@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
+      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
+      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
+      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
+      "publishedDateTime": "2020-05-06T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
+          "width": 300,
+          "height": 222,
+          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
       "title": "How NVIDIA hopes to industrialize AI with MLOps",
       "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
@@ -1228,43 +1265,6 @@
           "width": 605,
           "height": 400,
           "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-todays-cache-duo-uses-ai-to-improve-calls-and-more.md",
-      "title": "Today’s cache | Duo uses AI to improve calls, and more",
-      "excerpt": "Google Duo is using AI technology from DeepMind to enhance call quality to fill gaps in transmission losses. In the US, Tesla’s engineers are using car parts to build ventilators for COVID-19 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "publishedDateTime": "2020-04-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6msqdv/article31273476.ece/ALTERNATES/LANDSCAPE_615/06THCACHEGOOGLEAI",
-          "width": 615,
-          "height": 384,
-          "title": "Today’s cache | Duo uses AI to improve calls, and more",
           "attribution": null
         }
       ],

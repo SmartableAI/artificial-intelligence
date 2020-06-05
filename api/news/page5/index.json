@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
+      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "publishedDateTime": "2020-06-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
       "title": "Alexa uses Amazon Translate to reach more international customers",
       "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
@@ -1044,51 +1088,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
-      "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-      "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "publishedDateTime": "2020-05-30T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
+      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
+      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "publishedDateTime": "2020-05-27T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
+      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "publishedDateTime": "2020-05-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence.md",
       "title": "RAJANT INTRODUCES JON LEDERMAN AS VICE PRESIDENT OF ARTIFICIAL INTELLIGENCE",
       "excerpt": "Rajant Corporation, the provider of Kinetic Mesh® wireless networks, announced today Jon Lederman joined the team as Vice President of Artificial Intelligence (AI). In this newly created position, Mr.",
@@ -1189,94 +1271,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
-      "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
-      "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
-      "publishedDateTime": "2020-05-26T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/definedcrowd.png?w=1024",
-          "width": 1024,
-          "height": 502,
-          "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
-      "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
-      "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "publishedDateTime": "2020-05-26T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1216351064.jpg?w=1024",
-          "width": 1024,
-          "height": 565,
-          "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
           "attribution": null
         }
       ],

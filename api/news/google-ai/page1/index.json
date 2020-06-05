@@ -395,6 +395,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
+      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "publishedDateTime": "2020-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
       "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
       "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
@@ -1219,43 +1264,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
-      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
-      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "publishedDateTime": "2020-05-06T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

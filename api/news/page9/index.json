@@ -2,6 +2,94 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
+      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "publishedDateTime": "2020-05-28T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
+      "title": "Apple buys an AI startup to improve Siri's data",
+      "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
+      "ampWebUrl": "https://www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
+      "publishedDateTime": "2020-05-27T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F7ac2f8f0-a074-11ea-bb7f-56e2f6f772d9&client=amp-blogside-v2&signature=69523b6c4d75dbaae8e727bede25174d1162dcf2",
+          "width": 600,
+          "height": 350,
+          "title": "Apple buys an AI startup to improve Siri's data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
       "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
       "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
@@ -926,95 +1014,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
-      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
-          "width": 1000,
-          "height": 580,
-          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
-      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "publishedDateTime": "2020-05-27T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

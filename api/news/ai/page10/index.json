@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-26-lasertec-a-tiny-maker-of-us40-million-chip-testing-machines-is-japans-hottest-stock-thanks-to-euv.md",
+      "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
+      "excerpt": "Lasertec is the world’s only maker of testing machines required to verify chip designs for the nascent extreme ultraviolet lithography, or EUV, method of chipmaking",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "publishedDateTime": "2020-05-25T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/26/d6904df4-9ef8-11ea-8055-0ae12e466049_image_hires_103831.jpg?itok=ZE4r2CFZ&v=1590460723",
+          "width": 1200,
+          "height": 630,
+          "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ai-researchers-say-they-created-a-better-way-to-generate-3d-photos.md",
+      "title": "AI researchers say they created a better way to generate 3D photos",
+      "excerpt": "AI researers say they've created a novel way to generate realistic, impressive 3D photography that's better than Facebook 3D Photo.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/amp/",
+      "publishedDateTime": "2020-05-25T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/download-13.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI researchers say they created a better way to generate 3D photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-an-ai-beat-humans-in-a-selfie-personality-test.md",
       "title": "An AI beat humans in a selfie personality test",
       "excerpt": "Another study has found that artificial intelligence is able to beat humans — this time it involves judging selfies to determine the subject’s personality traits. The machine was best",
@@ -1209,96 +1299,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
-      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "publishedDateTime": "2020-05-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
-      "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
-      "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "publishedDateTime": "2020-05-22T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg",
-          "width": 1680,
-          "height": 940,
-          "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
