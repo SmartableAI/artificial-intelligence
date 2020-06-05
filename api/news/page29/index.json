@@ -2,6 +2,95 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-05-11-this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy.md",
+      "title": "This AI is learning to spot brain tumors – without infringing privacy",
+      "excerpt": "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/",
+      "ampWebUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "publishedDateTime": "2020-05-11T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "This AI is learning to spot brain tumors – without infringing privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-intel-and-penn-medicine-are-developing-an-ai-to-spot-brain-tumors.md",
+      "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
+      "excerpt": "Using Intel’s AI hardware and software, Penn Medicine will lead 29 international healthcare and research institutions in creating an AI model trained on the largest brain tumor dataset ever -- and it will do so without sharing sensitive patient data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
+      "publishedDateTime": "2020-05-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F61a272a0-0dd6-11ea-9baf-3626d7d9044b&client=amp-blogside-v2&signature=18f09dd385ab1262724a8ab162e82af463914227",
+          "width": 600,
+          "height": 350,
+          "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-how-blackskys-spectra-geospatial-data-platform-uses-ai-to-make-sense-of-satellite-images.md",
       "title": "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images",
       "excerpt": "BlackSky’s Spectra geospatial platform uses satellite imagery and multiple data streams to anticipate trends in the coronavirus outbreak and on other fronts.",
@@ -978,87 +1067,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
-      "title": "Tech trick: Easily turn your handwritten notes into typed text",
-      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
-      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "publishedDateTime": "2020-05-10T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tech trick: Easily turn your handwritten notes into typed text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-how-ai-is-finding-patterns-and-anomalies-in-your-data.md",
-      "title": "How AI Is Finding Patterns And Anomalies In Your Data",
-      "excerpt": "When companies are looking to apply AI, we always recommend that they look at the seven patterns of AI to determine which pattern, or patterns, they are applying. As one of the more widely used patterns,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
-      "publishedDateTime": "2020-05-09T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624857627%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI Is Finding Patterns And Anomalies In Your Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

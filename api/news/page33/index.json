@@ -2,6 +2,89 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-07-pandemic-spike-in-ai-learning-and-what-it-means-for-schools.md",
+      "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
+      "excerpt": "The tech learning space is shifting fast with big implications for high schools and colleges. It will be important to rethink delivery with blended competency-based pathways.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
+      "publishedDateTime": "2020-05-07T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171094880%2F0x0.jpg",
+          "width": 1200,
+          "height": 777,
+          "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-new-hardware-could-curb-its-appetite.md",
+      "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+      "excerpt": "To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour. A team of engineers has created hardware that can learn skills using a type of AI that currently runs on software platforms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.purdue.edu/newsroom/releases/2020/Q2/artificial-intelligence-is-energy-hungry.-new-hardware-could-curb-its-appetite..html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
       "title": "Symend raises $52 million to remediate consumer debt with data science",
       "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
@@ -914,87 +997,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
-      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
-      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "publishedDateTime": "2020-05-06T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone.md",
-      "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-      "excerpt": "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "publishedDateTime": "2020-05-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

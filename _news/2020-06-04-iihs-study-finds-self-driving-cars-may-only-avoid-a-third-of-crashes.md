@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-a
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Self-driving cars might only prevent a third of crashes, study shows"
+    excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
+    publishedDateTime: 2020-06-05T09:17:00Z
+    webUrl: "https://www.iol.co.za/motoring/f1-grand-prix/self-driving-cars-might-only-prevent-a-third-of-crashes-study-shows-49001225"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 24
+    images:
+      - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
+        width: 651
+        height: 366
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z

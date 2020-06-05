@@ -35,6 +35,19 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
         width: 600
         height: 350
+  - title: "Self-driving cars might only prevent a third of crashes, study shows"
+    excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
+    publishedDateTime: 2020-06-05T09:17:00Z
+    webUrl: "https://www.iol.co.za/motoring/f1-grand-prix/self-driving-cars-might-only-prevent-a-third-of-crashes-study-shows-49001225"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 24
+    images:
+      - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
+        width: 651
+        height: 366
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z

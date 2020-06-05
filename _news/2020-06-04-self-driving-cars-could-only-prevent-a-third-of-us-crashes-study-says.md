@@ -50,6 +50,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Self-driving cars might only prevent a third of crashes, study shows"
+    excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
+    publishedDateTime: 2020-06-05T09:17:00Z
+    webUrl: "https://www.iol.co.za/motoring/f1-grand-prix/self-driving-cars-might-only-prevent-a-third-of-crashes-study-shows-49001225"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 24
+    images:
+      - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
+        width: 651
+        height: 366
   - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
     excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
     publishedDateTime: 2020-06-04T14:06:00Z
