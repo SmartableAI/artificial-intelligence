@@ -29,6 +29,6 @@ images:
     height: 581
     title: "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol"
 
-secured: "dHgFHZhYexpDdPYbcY75b93M/m3U+Ot+wB2D+WBGkTZn24VMe2aLR08fXlPdgcT/cLN/MdPLFa1X5FSqmWyI/Mr5noGQ5jVikVIpO/fRZYxmNW+qJbjA3CuioZgo7pTBBkuHrlopDc8YAMXAfGUOibzN8qNev4PZJFCd2A3TJEHhi2VBspORccpKyYWYQ6EPoyTGHAniD/v8UXrxa/gHJ/YbddRm7IkgbwFEI7Et8Xi9If/6BNPIYmBsfsGYIFYZ+xhA7DtMDnc5/HkYN2LZTUZlCt9e7mHJJIiGlZiVYUx6SBNJiWeh4VwA+Hj6tuJp;alJOqg1tqj4hdBKG9C4o0g=="
+secured: "AiR2vkDkUuIHog19XpPnEtoiPwtdZkOnKQIRws1HLoUB5E/W6R+1KooCrhGNCTkNbTn6VPpSoVruXwaUJUGIIyPuEPF+YOUmGkrL50B9TOniEP+DuU1Pp8VdQGLiJw2J8FHXF72RBKAQpt71v+qbqxbmbNPK+sfpgHNH3ntLQIBVh6wzMDIWhx0v5lH3vmzzq/65fTSKIfxfoEgRyV/EAHNpY7vD77dgLDJuEipeRDocWcn1vYfHWDEAsQ+tSqrRCu4QsVmk3ThSyI6tJi6C2xEj3eNcxIAWFp7YQTpoHNelklkUjA+/HLYMIJT2Itd3L/SttdNtEpcsVjsylEJ6VRL7jmgK6nKEiOs1ueakRr9Hj3GITEtDQAYPzBNMatGtHyISvh7y097ZNOmuXqwXRreEdHTbIweb+zk2IvkoVPICGR+siR+zxNVKlvLvzyT/VZ4g85rBAjJBOKX3DU1c1sanhy+0bU3ngSwYeTE5XIM=;ITrNE+Psq58iiz/5wsKuHA=="
 ---
 

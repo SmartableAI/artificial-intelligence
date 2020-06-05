@@ -2,6 +2,95 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
+      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "publishedDateTime": "2020-05-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
+      "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion-2020-05-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
       "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
       "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
@@ -160,6 +249,35 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare.md",
+      "title": "Natural Language Processing (NLP) in Healthcare",
+      "excerpt": "A new business intelligence report released by AMA with title \"Global Natural Language Processing (NLP) in Healthcare Market Comprehensive Study\" provides micro level analysis by manufacturers and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "ampWebUrl": "https://www.openpr.com/amp/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "publishedDateTime": "2020-05-22T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1117,141 +1235,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
-      "title": "A Case for Cooperation Between Machines and Humans",
-      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "publishedDateTime": "2020-05-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
-      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "publishedDateTime": "2020-05-21T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
-          "width": 5157,
-          "height": 2973,
-          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
-      "title": "The Trash app’s new features can create AI-edited music videos and more",
-      "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "publishedDateTime": "2020-05-21T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": "The Trash app’s new features can create AI-edited music videos and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

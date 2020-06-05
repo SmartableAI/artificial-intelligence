@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
+      "title": "Alibaba to invest $1B on AI integration with smart speaker",
+      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "publishedDateTime": "2020-05-20T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba to invest $1B on AI integration with smart speaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-global-natural-language-processing-nlp-industry.md",
       "title": "Global Natural Language Processing (NLP) Industry",
       "excerpt": "New York, May 20, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" - https://www ...",
@@ -1229,43 +1275,6 @@
           "width": 500,
           "height": 261,
           "title": "How to set up speech-to-text in Windows 10",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
-      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "publishedDateTime": "2020-05-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
           "attribution": null
         }
       ],

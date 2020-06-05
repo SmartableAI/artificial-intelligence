@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
+      "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+      "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "ampWebUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "publishedDateTime": "2020-06-02T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
       "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
       "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
@@ -1039,43 +1084,6 @@
           "width": 1200,
           "height": 800,
           "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata.md",
-      "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
-      "excerpt": "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/",
-      "ampWebUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
-      "publishedDateTime": "2020-06-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90=",
-          "width": 1200,
-          "height": 630,
-          "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
           "attribution": null
         }
       ],

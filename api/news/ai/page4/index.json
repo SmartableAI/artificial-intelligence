@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
+      "title": "Amazon Textract is now SOC and ISO compliant",
+      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
+          "width": 800,
+          "height": 400,
+          "title": "Amazon Textract is now SOC and ISO compliant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-aruba-releases-ai-powered-tools-for-the-new-way-of-work.md",
       "title": "Aruba releases AI-powered tools for the new way of work",
       "excerpt": "The solutions include contact and location tracing, secure remote access points, contactless visitor management, and more.",
@@ -1249,43 +1294,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
-      "title": "Chicago Police Drop Clearview Facial Recognition Technology",
-      "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

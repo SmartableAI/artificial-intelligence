@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
+      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
+      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
+      "publishedDateTime": "2020-05-28T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
+          "width": 1200,
+          "height": 925,
+          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
       "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
       "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
@@ -558,6 +603,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
+      "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
+      "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.golocalprov.com/business/raimondos-husband-moffit-lands-new-job-at-artificial-intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoLocalProv",
+        "domain": "golocalprov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/Politics/Moffit_Raimondo.png",
+          "width": 473,
+          "height": 480,
+          "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
       "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
       "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
@@ -932,87 +1014,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
-      "title": "Scientists are using AI to predict which lung cancer patients will relapse",
-      "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
-      "publishedDateTime": "2020-05-27T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-55-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists are using AI to predict which lung cancer patients will relapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
-      "title": "AI could predict risk of lung cancer coming back",
-      "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
-      "ampWebUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "cdnAmpWebUrl": "https://www-cancerresearchuk-org.cdn.ampproject.org/c/s/www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "publishedDateTime": "2020-05-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Research UK",
-        "domain": "cancerresearchuk.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "AI could predict risk of lung cancer coming back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,81 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-15-artificial-intelligence-ai-partnering-deals-collection-2014-2020-access-to-over-350-ai-deal-records-researchandmarketscom.md",
+      "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+      "excerpt": "Global Artificial Intelligence Partnering Terms and Agreements includes: Trends in artificial intelligence dealmaking in the biopharma industry since 2014; Analysis of artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
+      "title": "AI and Machine Learning are at the heart of future healthcare.",
+      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Front Line Genomics",
+        "domain": "frontlinegenomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1710,
+          "title": "AI and Machine Learning are at the heart of future healthcare.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow.md",
       "title": "7 Artificial Intelligence ETFs to Buy for Today and Tomorrow",
       "excerpt": "Artificial intelligence (AI) is taking a variety of industries by storm and with that shift comes a plethora of investment implications. Fortunately, in what feels like a universe of thematic funds teeming with obscure products,",
@@ -1115,81 +1190,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
-      "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-      "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "publishedDateTime": "2020-04-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5f65911e2a700077f78af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D579%26cropY1%3D0%26cropY2%3D325",
-          "width": 579,
-          "height": 326,
-          "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-artificial-intelligence-could-serve-as-backup-to-radiologists-eyes.md",
-      "title": "Artificial intelligence could serve as backup to radiologists' eyes",
-      "excerpt": "The lung tissue was gone, and there was very little you could do in terms of therapy to help patients ... That's where artificial intelligence and imaging could come into play.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
-      "publishedDateTime": "2020-04-27T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

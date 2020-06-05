@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
+      "title": "Microsoft Build 2020: Colour me Azure",
+      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "publishedDateTime": "2020-05-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft Build 2020: Colour me Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
+      "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
+      "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
+      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
+      "publishedDateTime": "2020-05-27T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png",
+          "width": 630,
+          "height": 499,
+          "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
       "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
       "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
@@ -1190,96 +1272,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
-      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "publishedDateTime": "2020-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
-      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "publishedDateTime": "2020-05-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
-          "width": 766,
-          "height": 371,
-          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

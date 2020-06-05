@@ -2,6 +2,184 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
+      "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+      "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/350752",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
+      "publishedDateTime": "2020-05-18T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-ai-is-disrupting-the-b2b-space.md",
+      "title": "How AI Is Disrupting The B2B Space",
+      "excerpt": "Artificial intelligence (AI) as a service is becoming a reality for more and more consumers, and with the major players launching their 5G services last year, many enterprises across different industries have added AI exploration to their agendas.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "publishedDateTime": "2020-05-18T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F61.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Is Disrupting The B2B Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
+      "title": "Should AI assist in surgical decision-making?",
+      "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/should-ai-assist-in-surgical-decision-making/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
+      "publishedDateTime": "2020-05-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/264428c6-6cba-4fdf-8331-bf5f033fe09b/surgery.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "Should AI assist in surgical decision-making?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
+      "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+      "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "publishedDateTime": "2020-05-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/11/20/77a790fa-b55e-4662-9b19-7a8f42060060/resize/1200x900/6bfbc3a62184f36d3a9733bdc6f59fe5/screenshot-2019-11-20-at-13-18-41.png",
+          "width": 1200,
+          "height": 766,
+          "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
       "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
       "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
@@ -1118,169 +1296,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
-      "title": "Apple Buys Virtual-Reality Startup NextVR",
-      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "publishedDateTime": "2020-05-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Buys Virtual-Reality Startup NextVR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ltn-global-named-advanced-tech-partner-in-aws-partner-network.md",
-      "title": "LTN Global Named Advanced Tech Partner In AWS Partner Network",
-      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help simplify and speed up news and sports productions.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://tvnewscheck.com/article/249000/ltn-global-named-advanced-tech-partner-in-aws-partner-network/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV NewsCheck",
-        "domain": "tvnewscheck.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png",
-          "width": 581,
-          "height": 201,
-          "title": "LTN Global Named Advanced Tech Partner In AWS Partner Network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

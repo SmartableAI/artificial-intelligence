@@ -2,6 +2,117 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-21-meeting-the-challenges-of-today-and-tomorrow-with-azure-ai.md",
+      "title": "Meeting the challenges of today and tomorrow with Azure AI",
+      "excerpt": "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T02:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-deep-learning-market-analysis-as-per-the-latest-covid-19-impact.md",
+      "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
+      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
+      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
+      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor.md",
       "title": "Sogou Introduces World's First 3D AI News Anchor",
       "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet",
@@ -898,125 +1009,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
-      "title": "Sphero spins out Company Six to bring robotics tech to first responders",
-      "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/RVRKickHR-0079-e1589985394869.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Sphero spins out Company Six to bring robotics tech to first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer.md",
-      "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
-      "excerpt": "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hothardware.com/news/openai-supercomputer-by-microsoft",
-      "ampWebUrl": "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft",
-      "publishedDateTime": "2020-05-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg",
-          "width": 708,
-          "height": 462,
-          "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
-      "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
-      "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom/article_f967488a-a5b0-596b-9ac6-9a6fefae5e73.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d0/9d029a52-8f57-5a6f-817e-5b57ac2248f7/5ec534c01ec33.image.jpg?resize=300%2C301",
-          "width": 300,
-          "height": 301,
-          "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

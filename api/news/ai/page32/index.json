@@ -2,6 +2,186 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
+      "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+      "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "publishedDateTime": "2020-05-04T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1124597376.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
+      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "publishedDateTime": "2020-05-04T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183494/social",
+          "width": 1280,
+          "height": 640,
+          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
+      "title": "IBM: Transition to cloud now ‘an existential question’",
+      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "publishedDateTime": "2020-05-04T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM: Transition to cloud now ‘an existential question’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-think-new-automated-solutions-for-the-cio.md",
+      "title": "IBM Think: New automated solutions for the CIO",
+      "excerpt": "IBM released a new set of automated artificial intelligence (AI) operations capabilities during its Think Digital conference on Tuesday. In addition to Watson AIOps, IBM also released the Accelerator for Application Modernization with AI,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "publishedDateTime": "2020-05-04T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/04/01/8c0c502c-c4a0-4f8a-9796-a49dc414e4ad/resize/1200x/597c68ada4dcca197717baf698ff3761/automation.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM Think: New automated solutions for the CIO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
       "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
       "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
@@ -1055,176 +1235,6 @@
           "width": 1211,
           "height": 640,
           "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform.md",
-      "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-      "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service, today announced the availability of Purity//FB 3.0",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform-301051706.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/465493/Pure_Storage_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars.md",
-      "title": "Data storage and AI are driving the evolution of autonomous cars",
-      "excerpt": "The future of connected and fully autonomous vehicles depends on the ability of tech companies to deliver state-of-the-art, high-endurance storage.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
-      "publishedDateTime": "2020-05-04T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?fit=2262%2C1208&strip=all",
-          "width": 2262,
-          "height": 1208,
-          "title": "Data storage and AI are driving the evolution of autonomous cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
-      "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-      "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "publishedDateTime": "2020-05-04T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F11_Strategic_Ways_To_Leverage_AI_For_Better_Sales_Results-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-global-ai-in-sports-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026.md",
-      "title": "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026",
-      "excerpt": "AI in Sports Market 2020 Wiseguyreports.Com Adds \"AI in Sports - Global Market Growth, Opportunities, Analysis of Top",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-sports-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-05-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026",
           "attribution": null
         }
       ],

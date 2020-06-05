@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-28-how-baidus-ai-produces-news-videos-using-just-a-url.md",
+      "title": "How Baidu’s AI produces news videos using just a URL",
+      "excerpt": "AI for news production is one of the areas that has drawn contrasting opinions. On one hand, it might help media houses produce more news in a better format with minimal effort, on the other hand, it might take away the human element of journalism or take people out of jobs.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "publishedDateTime": "2020-05-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/cryptocurrency-writer-media-blockchain-bitcoin-news-journalism-trust-broken-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": "How Baidu’s AI produces news videos using just a URL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more.md",
       "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
       "excerpt": "FlyTek’s sales approach goes against the grain of the current move by many merchants to take their business and sales online amid Covid-19",
@@ -347,6 +391,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
+      "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
+      "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.golocalprov.com/business/raimondos-husband-moffit-lands-new-job-at-artificial-intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoLocalProv",
+        "domain": "golocalprov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/Politics/Moffit_Raimondo.png",
+          "width": 473,
+          "height": 480,
+          "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1156,88 +1237,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
-      "title": "Microsoft Build 2020: Colour me Azure",
-      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "publishedDateTime": "2020-05-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
-      "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
-      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "publishedDateTime": "2020-05-27T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png",
-          "width": 630,
-          "height": 499,
-          "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

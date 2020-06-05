@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fuel
 ampWebUrl: "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1621
     title: "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI"
 
-secured: "htyAlVraY25om6j0CvyjloPKkAxPsnsyHz2rFQyFI0/0gQhXusTFOdjv6eE4jqO7tc0OwJ3I/d/ZPcZZo9XOBbaeTPkvZMWTOKnQ8IRElnTkdNRihU8ulh9Nqs3ci8TKk86EEAixpVFmac60UXEbGpURCX2EYZHGBDOsAdPPK+VvCoK3GP3kS8lf51GY+WSfHiGU3GqkuhE7/9mK3JG5i08DDkrhleo2MANa3ke81KoL/tE5wN/atKR6GX1s+ASNOowCAEMey0XOLsk5RLTSVxQuFiu2foOzj0JqvMQoJ0rx1aAiujExV2ZTfHDRpxj4;LlUIFMMtvvLjWv4cyLzLUQ=="
+secured: "GoIh4uydsZ4v9RqTlLor7Q3Rbw7gp0cM+ygMeIwX5oUR9+9DpiMor1zCC9eJsA/eIr0ACHQZ51aXH2xLo0hR5UjXhXcqUuoo9PaMoRK9oZ6dMtZdhjUyucDYCNNlOONaiZrp3H7UUG0YRlCz+l73HzFDAJFvcLpOlquh3H08Rj4UIg6PA9UZ7Wpza0/1W3Ud5itqSKJykXVmStP3dUSLm+YsS5kHdt0NeqGU9gha2dtxeBKulcDqxYNdRuQ96QMwSN++qHwg8ZEymYOyZjSQPwyBydwSFTX5T+uspF+qI2PHDRihDydRzpT7X3Vlkg+YfimducLMJ9O5WjtIgfHrSYzwaAqjrS27vCh/uURHaygh1iFvTj8SKrowt5fj0zYykxhYXPjZkZKoc9c+LlXy6uvRiNAsRPTHdBX4vpb933xolNz1pf91VjebcdLz/EAc4zmEUOWaRSgdqOp6C/ExjnVeu/qBXR/pk7eKKRpCuss=;39JWcdsvnpF5xu6P6Nxnug=="
 ---
 
