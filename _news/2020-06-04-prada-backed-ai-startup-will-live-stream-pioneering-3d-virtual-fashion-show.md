@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show"
-excerpt: "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online."
+excerpt: "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream the first 3D Virtual Fashion Show since the coronavirus pandemic forced the fashion industry online."
 publishedDateTime: 2020-06-04T18:46:00Z
-webUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/"
-ampWebUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/"
+webUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/"
+ampWebUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/"
 type: article
-quality: 85
-heat: 95
+quality: 65
+heat: 75
 published: true
 
 provider:
@@ -21,12 +21,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140770534%2F0x0.jpg"
-    width: 1200
-    height: 800
-    title: "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show"
 
 related:
   - title: "Prada-Backed AI Startup To Create First Live Streamed 3D Virtual Fashion Show"
@@ -41,6 +35,6 @@ related:
       domain: forbes.com
     quality: 64
 
-secured: "Jo+SsNLX59gNAr9bvjUWLzXfTIupI0vR9qUQt6yyr3Yf73Tkk6VcmT0RHARmKZnav7mRqOJFfuuVXeDOEOKEOaHHmfZiMGoeXiDIyFZ7deLcqHimFy7FPSvyIwda9QoReUT+vjDC1vqDEVr2jEiG8d4L2putDimBH+pISOIq+JL0sccyjbDT/Kr+qJpdLj1l2nGe2ZiJNldoraTuow+zshK0gUFnzL2PjmxAB6Q2hYfyWpWKVHyYM6kBxY4dt9TX+A3IMn2qt1iszKHMgxz4jTYT2sWBRXWmzuHzJwWaJ+KJubtlrwVr5FIJdY9B6cJ6e/2Ec7/LbEMV/uSs+MWCC8BMmI7gCfWgSS4pXiyFfJ6qfIZXYNS8ESt6k4YxcHjwRU3/cHYJ7k9p4/vIhVEoNaBhTGPNcRqeEdrldb5YoILipuLiL/X3U/WVAExFc/ZIBeQvgIuCMenpSNwpA1Qjie+69lWO4Xot3vCd4u2A8GE=;su3h6mP7YUa8GkVQiaUVtA=="
+secured: "KEoLwzdA4VObEodWe8iVdBU7A2aY3Y8IfLocxoeaHiGTngAnYH8KYpenzBBI4EbsYgKlI1Q4Eov7PytFJDboGuHY7ZG4S0X3HvokMnHza8A1TDDLGVxZs+Jf4UdHoQdq9SwK/tgxNsgomPkC+Ku+409N/YodJe66YUvQUox2Xy9zLYToyfwl6UxvITVL/zCFteX4Iubse5AzicEItYhd4/FPSQT1ThQ0OW5EzIXWQvfIAhO9NceVOquu2K6yZZv5FT3WqudSorwCdqEEqYidF+BU2rgY3+juXc50czOHyV/5ZIl+yBnt2SKX0mn9dPX5hIL8MPm9p44FZNXfd56JYRjjUXSVILD8oI9Ku7PJ6mvpaBULpJJUszDfk1Lp1CuoghtBfwKeb0D+b3O6LqL1Kuv4zXI2DGQyQqSgRo24pH2Gfhb5iNV6K2C4+cLOARNJpcaLxaYH59ljEDl42ZzWDeLI2f+CXC5BRQfA+sTVgwY=;8bmjy+UnhE/WDdjpukdPxQ=="
 ---
 
