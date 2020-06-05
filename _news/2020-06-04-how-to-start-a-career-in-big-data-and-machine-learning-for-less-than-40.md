@@ -7,9 +7,9 @@ webUrl: "https://www.entrepreneur.com/article/351404"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/351404"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351404"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 90
+heat: 100
+published: true
 
 provider:
   name: Entrepreneur
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1591118403-Ent-BigData.jpeg?width=600&crop=16:9"

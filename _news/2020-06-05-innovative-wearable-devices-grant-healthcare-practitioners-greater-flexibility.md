@@ -2,27 +2,27 @@
 category: news
 title: "Innovative Wearable Devices Grant Healthcare Practitioners Greater Flexibility"
 excerpt: "Now that concerns from the pandemic are receding, states have begun to re-open and businesses are planning for a return to work. However,"
-publishedDateTime: 2020-06-05T13:42:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovative-wearable-devices-grant-healthcare-practitioners-greater-flexibility/article_29220af6-2b4b-5031-8722-a8784146daea.html"
+publishedDateTime: 2020-06-05T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovative-wearable-devices-grant-healthcare-practitioners-greater-flexibility-301071206.html"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "Innovative Wearable Devices Grant Healthcare Practitioners Greater Flexibility"
 
-secured: "i4PX1znHJXXp2vYRcM0Ftwb0pDxUI50yMmuYhVSgemfrlafudqWafOWebiR2JiXJm/R4JqSwca3NanZLcH9/R2cwyjfa1nV8YneDZ/BDvCvkTPoHm6Rcxbg/siV7hhTow/wEdqjRXD7tOEpAFloIr7nOO2XIlG/NDffuKRxvX1Mq5p5bKtd/okyhzlWhcKlkWHZM7rg5jyvDjWT21WMusqHB3LOxPVhyZGjqphOmKBxpH63GsE9Pt+oQf5L2W0j7af9KTNDJ8wRtFrTyF1elJQG0FDjTNv8F/wCuJ9RQs1s28rDGqGI4W7x/9PbLaa6P;ogNCivO1ul8Yqfo758xdGQ=="
+secured: "sWpAhkDrMVXQX1lgLNEItM1CA54UmHuSBLIDJgMa6VICVm64T9eoR11lMooz20hz2W8HB7z0ejcEe16nCKCbWZ+Ee1sPuG996ATzhF2BM9SEaEdCiIUqH25j7nldZ7U4wyZRCbbg5wIC96W4WX3A61+BnaEFJD7rk9dXrsJ4umiqdsc9RSXauEsztOE+rHzq7Zfhp+T+wgfZOVkT7aimTfpHKGYTIc2SKoWwysL/L4tTZ/fgq29BfDsUbrgoHY+8NC1bn5IOS4mgkezLQK89YSV68I5LI84+z+JuhkDenGk2A4GtYiShdCWKEbbYhtb6;lVVRYIg3AUc5kaw0ImL2ig=="
 ---
 

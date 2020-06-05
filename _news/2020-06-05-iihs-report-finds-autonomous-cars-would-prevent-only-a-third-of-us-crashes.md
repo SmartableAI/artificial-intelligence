@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
+
+related:
+  - title: "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says"
+    excerpt: "(Reuters) - Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
+    publishedDateTime: 2020-06-05T19:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-06-05/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 23
 
 secured: "ZX+y54rCr60MjrmTLh00lUHSwbhuv/TaJVgxsEXnbRCX2KxZm2+mLzaCyznvgOKTfwj7tfVgNw0KYGMIDjf8NrGuTjZvZo4w/TWP89uGNlwseliJ8W1+nSSCNQl714ocxRO0635sw9Z9BVUIFDIMWaWTJIfqI1HggsfDbCYOCx0lXMuAD1CgTbEl1suxzsJNS38rQsQa2rmqh6fXGNNLIhK8gV7KZ+OBeo9ny/M7v5shT1K7m2+5kAmwnAjxa2r/JfERG6Eu8snSco3lhJszGaoV7/Q9aEFrv4iZkVIRTsszohDLsP9JHYZzUQf5kgwP7jRuhLxGBSjpwqa6P9qEL0yh7ZkizHBMo0Aj1Bb0LXpPOmHu8kty/D4IqydtZMtpWNzn+kJLgf2Fl3Osf2udKZru9cflVAowUx+vCH2Td/VVUcKhwO6N3wyvmD+oeiDYpYwn8AejfLJewpLx5aNcHMbDI2XhdGlkYMYMs5z6hLE=;QCvymzvjLhrcJ61OvOEvRQ=="
 ---

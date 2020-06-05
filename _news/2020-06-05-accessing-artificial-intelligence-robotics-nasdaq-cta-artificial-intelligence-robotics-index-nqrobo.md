@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robot
 ampWebUrl: "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Nasdaq
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 secured: "UqaD+keI+ewtHB9Eane0H1XDZJ+yx5BvMLUttIaVaXVXdZZhILPK7wfdASSpAypGOdP2yMDOpeDHsZdZSdVttYXkcDhLq+zbLOoWDshSjmijFq04L0oVzvUj/baecxetdpS4L9okZ24cRZy1A0+v8AXQWPuUWj8n4Vktikeegd7TsDbWyRhTctwN7yt3aMPm6dQ6Jc/RxXv+CJtgaHMKa2g1i4AjzPQw7HjlHSzl4Dncyn8qly18ztr5ndVEwD3fvK0+XeQuq4jjBhsrLao4sbn0+dU4tILCBWQnTbu9ZL/03VbT5Vg5zIxMGUPFul1YOXftxlTsqN8/iXqb1ekUytGcr+WmNrOdmCGmOXVpThKbOwPbK/aTgeUY/FNHNYrT8IUAGVyT8pzU/PO9gmmP76HNrmm/SUumwDZDduR76RhURwHz+FjT96Khz825pDP09PobpsSu/heQXsBq3nqaO9z873NsUXRtLFEXR6J/JgY=;KRyvEbr2BeP+cPEokIRAsw=="
 ---

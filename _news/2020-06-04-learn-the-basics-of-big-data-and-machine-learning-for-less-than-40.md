@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -40,7 +40,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1591118403-Ent-BigData.jpeg?width=600&crop=16:9"
         width: 600

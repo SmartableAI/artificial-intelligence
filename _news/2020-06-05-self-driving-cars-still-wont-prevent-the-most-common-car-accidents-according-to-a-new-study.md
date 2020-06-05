@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Self-driving cars still won't prevent the most common car accidents, according to a new study"
 
-secured: "t0QDS3y7lcXGrRX0GoPW5wKgZdIyV1pu+EFrcpAXWsGmDu4YaxCXbO+RS6awPZGlPmR66utuiP8ALAkU2UBMBK5qtJ70E2f34It7/XPUvR69EFjjoOmEdNJeISLVOEZ6v4YoutYrQS0KkMonDgwqttsc8y28CbVLTBRNwOXH38QT8Cmhx2S8BnRRhLes+vvAqWJkVUEEG9NywYHv5QzwoVQgRVP7K0JHEb5N65M8/PTAdL/CSQYk81kUEHBt2l1PodoPoxh5QW8K7ik+f22QA+/YofX0fF9YVz3NQwvFv7owBIO3lpznmAfWWcvHkZf8;ljT8+8HSG93pgYN/0u4Kzw=="
+secured: "G1hgMHZTq830HNYt96hKgUUd63OUcpF3Khx7JV3+m0DOQ/KGE2Xp61Lw/1NK+STrde0uTgt/OkdOYDFXmQJVEsgy20w2hyERX3YwUVCNmnyF+ilD8JbmNnhblqjDvYvEIf8dB7ztFKR08OIsfjJkVtpDRuI3V6suxCVamAFUFxr3FL5QDpj198q5I0KznYYDa9ap+tkS21cCRuKiULeFcKSfi6zpFJAs74EXerW3J6dOMIv5xaG8YJPbvwXoOdS60ni9VgwwYxZYbUNX6986IroLQ/k7RO5nEWXV59Z62naEP/1cTdioLWJh6Rot8W2hD1wCAvNbq/uAoww71qIzzNbzuoDek7d7AhyjDWv+DxgHX3VefC7DRFzJn3j1iObasWm50P5BwLGUd211nj+CN9FQ+IsUwbVlB+P8qbj+A+0RjpSQF346efF1KMlxDiAWv677ZNbFks4/MD4seV8LsjVlAnrfPVZzfNip+Kd4phU=;kPVMhsRqcrQpz2wkHq4bxw=="
 ---
 
