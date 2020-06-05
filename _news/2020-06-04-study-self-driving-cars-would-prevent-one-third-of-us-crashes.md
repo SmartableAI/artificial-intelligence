@@ -25,6 +25,23 @@ images:
     height: 684
     title: "Study: Self-driving cars would prevent one-third of US crashes"
 
+related:
+  - title: "Self-Driving Cars Will Eliminate Just One-Third Of Crashes: Study"
+    excerpt: "A new study says fully self-driving vehicles will only be capable of eliminating just one-third of auto accidents if automakers don’t prioritize safety."
+    publishedDateTime: 2020-06-05T15:12:00Z
+    webUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/"
+    ampWebUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
+    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
+    type: article
+    provider:
+      name: Motor1
+      domain: motor1.com
+    quality: 44
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
+        width: 1918
+        height: 1080
+
 secured: "av04UoUB2TkwsnqddmFYTHOVfGULK57PyHaLDvbHMGC2XeZUzZs8aQTufB4sgCJmxMbVVshPIilRpqpEIgKmjHdtCW6lF2jsXgRUthCbJ86SbtboHBMbjHcC9bU21MSnovHj0EKcaZUK0/bYsQoeUFZaZHSrO6izi7WsQzv8kSGoKY5+RPznKmihcvbQyTc9A9bPWs3nuU6Fdbeo4NdVbfViKDS9hHVZOe9paydWw/jkCl+OHJJZfjJD5iUNu9qwGTHM5WvMrfh7Qp2ncTpWOktOkIur4eEyerXazV9uEXRNfaQWaqbqyK/8CeRKVVr9NX7QgKqlCulR/o16HdoEL001Pt/EudCgpii0gef5Bmu+f4nX9zfgUyWo1bEgSyYipyzLxHnesbhfbAlN444LKBcQnl5k9ZQlUCpSDhPWh9puQcE3sEPScjwAtVcrve6K3ARxHvTkyjq6JgfZvcPC4RppQsJ7ZJZe5Mwd5urni3o=;JMmgJlZhm0MeR+McDju1ZA=="
 ---
 

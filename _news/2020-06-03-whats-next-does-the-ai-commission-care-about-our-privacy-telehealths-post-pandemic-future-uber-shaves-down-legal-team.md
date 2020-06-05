@@ -23,6 +23,6 @@ images:
     height: 360
     title: "What's Next: Does the AI Commission Care About Our Privacy? + Telehealth’s Post-Pandemic Future + Uber Shaves Down Legal Team"
 
-secured: "GivanZkc6KqE/hDeKIVKvr/nn5yeWqj9MuexxEgdhx/mmE8V8GUyFh98Sf6xVYTW/LiX7sheY/QIVGcyhYkW1iwZUdZCi7za5u2vzSRU7vfNz50Ln6wAxPpxELv5vuRzOaYqeUJtE12cQYRsv/EdJg0OePQczXbOiW4IfDPgTa8g5eSM4xqmmUIhrVDI4+xhel/EuXsWtYIfIjjSK33zQIWVaaQ3YPYBGRjSpymqT2mUx3JAJg4jmG23oMJkH9fk42/bcxBUUl70611axI8ukOySNVCr9gbqHZoNNEafUs5GzKjL3Uxkl6B5NjWenZpt;vIwwcm1WCQaBr0k5ZOVbkw=="
+secured: "79+oqDtQ4M1/gwU9KoIphG31CxQ3xuXgEcBxbZP1/9M2MsutiOuIewK7ItzzqnbMo5IsKwhi4ht7hHvwPqfVT/bNcJrOoVFLt7WrBlM6M4TwsBBjoJw4BJ/mQyqJDVfAj8xnKWsLRsbQ0WXWR3/dyREaWhYImdzWUF9EO+OFUwuPfHsITwE31HFZOKVRMr8fcViTD9fwZeZ//+tb9B2lSKaAAuPCjgQiqS76q+vJ9wZpka5SeqsmRZf3TbAkSkxRnybVxD4+yoP/lYM5jTJUg9Gf5kz9ei8ES6+l8O1Z7Ai8togUK2ZNYRCsfGOIEV+vAS3Sboa9gDYvH9198KsVLYF8O9VAhchkUAxZqZtybBeEnpDAZ/ECJ8QVBwICwJTBWCEmX1gz90UAdvAGSgk6XGnuXFOpd4qptImvu53REZDWyWUZIm9b7054X4NAwf4sNGKMCgOfKPCLCElhGwuW5ewlI75U4/ORMmKmUxD5NSE=;AFV136pkLfXNjWMDun/17w=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-f
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 1621
     title: "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI"
 
-secured: "GoIh4uydsZ4v9RqTlLor7Q3Rbw7gp0cM+ygMeIwX5oUR9+9DpiMor1zCC9eJsA/eIr0ACHQZ51aXH2xLo0hR5UjXhXcqUuoo9PaMoRK9oZ6dMtZdhjUyucDYCNNlOONaiZrp3H7UUG0YRlCz+l73HzFDAJFvcLpOlquh3H08Rj4UIg6PA9UZ7Wpza0/1W3Ud5itqSKJykXVmStP3dUSLm+YsS5kHdt0NeqGU9gha2dtxeBKulcDqxYNdRuQ96QMwSN++qHwg8ZEymYOyZjSQPwyBydwSFTX5T+uspF+qI2PHDRihDydRzpT7X3Vlkg+YfimducLMJ9O5WjtIgfHrSYzwaAqjrS27vCh/uURHaygh1iFvTj8SKrowt5fj0zYykxhYXPjZkZKoc9c+LlXy6uvRiNAsRPTHdBX4vpb933xolNz1pf91VjebcdLz/EAc4zmEUOWaRSgdqOp6C/ExjnVeu/qBXR/pk7eKKRpCuss=;39JWcdsvnpF5xu6P6Nxnug=="
+secured: "kAy/A9kHGJ2OvZmffFxZxVQZzihu0QMj+GaaZ6WaPll25kOM6EHUMfRUAg1CEgaxnktXrJMIcropRo0I+ReOWzhVriJ5U9eehr/lgPsXaxwfXTfJf1TIOnsfWS/Zb+88qilkrFzSYVOCouCUdt2nVEBJYqH94pgWTo9abkcTCGDPDLr3bHZnxhMzEZ9Wgtb0Y2tguhR5UGn92eKDZdA5KBVZxNBph8Cv9aPbd8nYkQAmy94pfL/E0O0moooNaCaiZx0jpG3o51y/RwnccjPmsgXZs4unYnQ/aG9UOGHvMDRClPRMY3bvxsuyRwAS/ERBg5PKQROcsKVEySc1i1BJg8nhMsqB/NtLM2kVH/yRlXFFD9TtfIiRLIP6vDgpAxAnlsdJQE2Y9EgcadBsAKSRBu6Nrky3RlYHmofA9HeqRp46rjW60AkDuj6v9EgbnzaeHQz+3a/e5kQF83OHI+DwIf7j0kVZ9a+ba8TzNw15xmk=;iIfiQbj/ZUI+irW8mDmCQg=="
 ---
 

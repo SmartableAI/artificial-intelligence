@@ -31,18 +31,20 @@ images:
 
 related:
   - title: "How to Start a Career in Big Data and Machine Learning for Less Than $40"
-    excerpt: "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure."
-    publishedDateTime: 2020-06-04T16:00:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php"
+    excerpt: "Businesses are adopting big data solutions and big data providers are getting more innovative with the way they offer solutions. If you're reading the tea leaves, now is a great time to learn how big data works and how technologies like machine learning can make analysis easier and more thorough than ever."
+    publishedDateTime: 2020-06-04T12:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/351404"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/351404"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351404"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 23
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
     images:
-      - url: "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1591118403-Ent-BigData.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
 
 secured: "Z7dUYpkbe77yEs2gYBov6YxJRPPeYbn0oth2FbscddQ5jsku1vdhmiVant7bq/No73UNrbtX08Fr3R1G+FJfRPiXHy015PwAj6EpFjh3FqqUXaG5+ZNV7vZD8mA6SEs2hP4HNx15gMnE0Efat+ZZ/3fbczQLahvn9x0wmSy1KQ8JF6ig5y2mkzRW+EaMDbxThkb+F8jcMR8HGL6TdfJHIKqfldg+9jThMHSnAyf61gSUEL4sZ0jc0VihRE5zxvhb86/OMjcABVQ/EmIbE6onmT86YtbQuvgfXub7TVRkAwpeLItEt9a4sj67jE8nULi91J9lkh7pW6uNP5O+m7S1iSZNDTpGxNI2Iqy94O/euPJSSIT5LWV+pNdN1kZ6bMjnG2szhoC5KSoPlFNza92FJgKDE5ZymEv48bAQj6lWHeBLuCksfpFgTlX0DRp4a7o/U3YsEGcaGCUEUz6WdLmCNTQLGGa86pn18qQlDpvqMZE=;w41sz4ySGMtPleAGJ0V2+A=="
 ---

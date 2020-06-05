@@ -8,7 +8,7 @@ ampWebUrl: "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-t
 cdnAmpWebUrl: "https://www-socialeurope-eu.cdn.ampproject.org/c/s/www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 570
     title: "Artificial intelligence, healthcare and the pandemic"
 
-secured: "qN7PVieAAn+ufZk6e9+2+Bqf1bVLYBSjPlR2qABs0DSR9I6Uj1tvhZaRfR++lsgME+bZZkk+QZQoviw3fXjgoC+IBI0aYZ2UyFJfToKgJvM746xaTcqQ9H3p9XTLhO3zX+mp7dNFbjOloBZd8z78a7hvxLisOtw+lNzjWkBS229eAasZHdtsEpYrv/T6cBBBWRhIaV6Tr//J9/secjH+a2SUagk4KpQpvLcReJO1EHf5bUP0vOeGtdBpf0b56TJUjUXr44cURObelw/LDYtjXKamqro/xt1xP0wXVO83oKIyS2sfaU84yhXpReDwl2/2z1DOa3KKhKB8dLZUGl3l6351nqjCyPhKaf1w0jk2dEpoDJ6YkLS7q6JdvbsRWnkw5MG9JmJgUDoDsY8h9TMEB935KorzUGUpWfmIRzEZrMDf6gOWCqO7EaWIldLiF7CL1MwXgzDILF2Dg1emVo9md4F09HPFVn5rwb+HzRINJrc=;4FV7uEWJVRA4bcufFCuqjA=="
+secured: "89paBQWuXULZp/LtXi+DrIeirHcdIu+y+vgWeBGzEhz37sbNmTy9pzd70TCf112x7CDALXbX+RbL2qGpIXjbwtIVeMvewIqa1svidZg+1R27hadtbL6FBNklX1K9BhSoTp2R1YeYLr5og25wDD5Bd8E+YE9iYp9ri7T+ME6mpMt02MUzHGbl1a5NqVF9WlEBB34f4ONfKTCLXemS3btZOJ3JmdNd1HOygAnFlVk565zs97dp95m+aQ95CczlqUMjO6k/rY21T455lawdOsLHg7fl4h/CzKZgK8MirW/drHF0jkVJcq1lykIgYUC87pYuOk7x0tFx6izMS/5g/RzYPHjzq2guTeZfDyi4XhdwgquxeZAMhdPM1FSpxrTX5+13vLTMxY7vXNCJh5gvVwZ1KEFX7qX/F7CKssir5Yabd88l9tZ9xcs03r+IUPbr2ylukQ3hB41dktHxk9R5Kc/ZTF9IL24U6vusXIgqzzcpZek=;RcongMySGxsPYH9FwapViA=="
 ---
 

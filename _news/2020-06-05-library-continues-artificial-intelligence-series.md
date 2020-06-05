@@ -5,8 +5,8 @@ excerpt: "The Ridgefield Library continues its new series called The Future is N
 publishedDateTime: 2020-06-05T13:43:00Z
 webUrl: "https://www.theridgefieldpress.com/news/article/Artificial-Intelligence-series-continues-at-the-15317819.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/12/31/55/19503939/3/rawImage.jpg"
@@ -22,6 +23,6 @@ images:
     height: 2048
     title: "Library continues Artificial Intelligence series"
 
-secured: "v10VMgtND/zup4/HSvUPk4AmKZdremVQ4qv7IWKtcJbvgMpXTWbsyotGqDAizl1u4L+ZQ2DPoiPiHhzgCkRSgKcHujKjJUe7GncMXM7PsAd6XWtIvNGw22mEitC7npJvJCWH6dcKZwgkO91054pPNC9CNBTjFLt836LC3SyOuL0nPwlykBC9HqVSBdk7C2nxVJzq++GiX3QR17HKZyHIKunvWYAAL0wQ5POJ5RtyXsneNpqU9OCCFgwh50ZPUszZTW6cUeQrXRXB3T0zgcCHbQ3r4nFDJ3CSG4vm3winlRbX+lkLH7z0IUKuetsP3UX1;+uek0VRUWR0V0N9y9DAKYA=="
+secured: "A+PbAjZOxoio0j2F65yAzGKGAcNtemOWZEtk5dpPCFDOsIpzX0fOKRQS64NgK0+cwVwpTzRSobmT2IU0Y26OLpbdmgCOlLpv+VOuyg2/Xq+D2Wb58NyjNYB9WS1u0KgXYBLFlE6NvQAJdOGkF9WrvhZRH1i8kguw1KRZF3e5ib25rGUJ65Wqs0CCDGu8hBgqvmevgO89O54FnCwStDTtdh5A2JUBaAtpvh4jAp1NaVd1094H0UZRZtEk0XtbLwVMKei4UUo+pI9VaFVWlVxsIZFM4Xfr+Dp4zsRObfgr4lSKIjAMKjNfxu7IMOx8+XR5scLOeBcN0Xy7dQUybiy9ZfXeqx/2t3Qs5jtP2vZgN+m9qvnSFlmp3eGWiII5Vd2Xug7JA2OgcIxU5OT4S5/jSOS5qVfkdWNgtN8/LVG94oXjlUJfCRKr6QEGQbjkVl8f/x+ayqkCLhupzkLl8syixsKgzIy9MTrs8Sc3G6QTaOs=;zKwKm/8roe6iwn/96YPmmQ=="
 ---
 

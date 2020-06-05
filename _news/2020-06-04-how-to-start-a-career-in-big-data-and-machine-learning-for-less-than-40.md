@@ -1,26 +1,32 @@
 ---
 category: news
 title: "How to Start a Career in Big Data and Machine Learning for Less Than $40"
-excerpt: "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure."
-publishedDateTime: 2020-06-04T16:00:00Z
-webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php"
+excerpt: "Businesses are adopting big data solutions and big data providers are getting more innovative with the way they offer solutions. If you're reading the tea leaves, now is a great time to learn how big data works and how technologies like machine learning can make analysis easier and more thorough than ever."
+publishedDateTime: 2020-06-04T12:00:00Z
+webUrl: "https://www.entrepreneur.com/article/351404"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/351404"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351404"
 type: article
-quality: 23
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1591118403-Ent-BigData.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
     title: "How to Start a Career in Big Data and Machine Learning for Less Than $40"
 
 related:
@@ -40,6 +46,6 @@ related:
         width: 1120
         height: 630
 
-secured: "9Tc+4U7+6lVFG+yC/hB2Tc5kzXfNdeETlBLRJWxV5RnX/omc/kGsq1L6PlO8AQjuBZQwtpHI3gtI+TnN6YvxXu5MbZICrTNaA+Lert2QGFX75VQAHctPJjO/jrzSfw+R/T5LEncGnJrb2VNUVd5TkAq0neDSDye1aLHFS+3rd6likZHUnz6cVUWxdv2oS6/6zOroTzpDlUgiqYuh5gpfQAGCOy/zdl6az1W0kbu4TfDUhm9cLnarRVxw3hrdz0H5uwyZVSGLOHh1sbiJPD/9GoBnEaB1/XL58wzoQDZJMB6e4Pch9uBAlvDuHuCc6mqj;l2JkSHNGmtQ7n5akWDkXXw=="
+secured: "WrGw9BjlzzU0RyPMlkwt3s4FSTi/lt+0tW59430uK2WqoE8QV+G/8jC5aasVzPOzVpqn2nekj1NVDYxNpUWynRSPr4soyRnFQvN4vCbZSi73DMRpkFRzI1m/EtcacOVMpvH6QwBX/ypJWFjYRB+qQDaPP77SDxJTMWE0ftJdmEVbXVOm/Rv/z0psiLpXunf9+pHco7CKT1LOTKVi+Cfqksc8RroEwFcz30Ks4BLBj7RVojoGOh51rocWAp3hWRHumjA6ssF40IrqXmpAXU2LfaGUZU/gGzuHOKlZD5tFy+suSsCMfmsuNYHyAZegH1ZG;SKvfUI6cEjECoCB5Y+AUbg=="
 ---
 
