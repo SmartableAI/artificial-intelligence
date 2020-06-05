@@ -5,8 +5,8 @@ excerpt: "With more people wearing masks to prevent the spread of the coronaviru
 publishedDateTime: 2020-06-03T21:11:00Z
 webUrl: "https://gcn.com/articles/2020/06/03/facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/masked_woman.jpg"
