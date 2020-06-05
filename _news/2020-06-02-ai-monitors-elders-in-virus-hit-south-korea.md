@@ -38,21 +38,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "In coronavirus-hit South Korea, Artificial Intelligence takes over to monitor lonely elders"
-    excerpt: "As South Korea's government pushes to allow businesses to access vast amounts of personal information and to ease restrictions holding back telemedicine, tech firms could potentially find much bigger markets for their artificial intelligence and other emerging technologies. The drive, resisted for years by civil liberty advocates and medical ..."
-    publishedDateTime: 2020-05-31T05:53:00Z
-    webUrl: "https://www.newindianexpress.com/world/2020/may/31/in-coronavirus-hit-south-korea-artificial-intelligence-takes-over-to-monitor-lonely-elders-2150354.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2020/may/31/in-coronavirus-hit-south-korea-artificial-intelligence-takes-over-to-monitor-lonely-elders-2150354.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/may/31/in-coronavirus-hit-south-korea-artificial-intelligence-takes-over-to-monitor-lonely-elders-2150354.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/31/w600X390/AP20143199262804.jpg"
-        width: 600
-        height: 390
 
 secured: "DZiiyNUcCuyfhG45i8QXgot4J47gYuVfF0jLb5kT/LxWGDy3srGpxXr1ZSAdEl5wveZWJD0fK9J0jvvIIClUlGPZ/9/vrjo23RyQwXuInzsFGzK0rqRQw7jSUaO8l0m4gmabqtMED7zRAW/LWVjvsxQaxmX9kittE/VEY3D0v+Ujry2AXV2C9D7JSaheGEwe077xzLQQ+ots0T8D9nBCTEPE8Mxk0Me3+WcWmtKIKJjUJyc+8eHAbShSXOBeAZqTEy7H1QdnxpHa3SVw1OBM+Sq5yv2SP+85FAO6+Qf90G9oz8svYVpeknpZGFkLg6ii;oOKX+pITY00GpPzGz8XxZQ=="
 ---

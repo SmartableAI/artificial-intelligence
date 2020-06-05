@@ -25,6 +25,6 @@ images:
     height: 720
     title: "This new app will tell you if you’re sick, but it may also cost you your privacy"
 
-secured: "3MtoCAG4eTiJBmTm4H7ZerR5EvOfrIJzP+qdDnQxHYoZQd5dkvGtuyQ3QtvpWpb6JwIUgaQHLMV1dHSttNUAkKRHTobSUTN1y2yvS4n1lz6W5136EG6aeKLQ4htiecoY3aPa4XFaWTREC6DfQiKZEzW4WH/+wr5o9metjcJmDm5RJeRQfdF0A5coCDIhn+1X++v6uMCPG6wJctkrYROmgv13cOimAJkCYhnWIiji+wYr9IvRmegiVz5c2kB9EE/Cy1A3u0QARH+tQ/g6Tc2RNPJ7qtRn19z6ilP/VypuaB7/Oug55BvS/88Be+V4zbvi;+GqOGnxlI9x98pHKa7YwPQ=="
+secured: "+M/4elf6hjVEbTcQdHeJ8Q/UWFdelUacAxEBtP7ekF1x1KHP7N9u0qA7B7YW29dxv8lN+KPPX1Q0qiNyexYAc8hZqA+jZ5wYRSXr/uq7QJuAq8yjQRbNd5ckGbrfR6WO/qg5B4Bkt2ddvrA0ZY4x5M/G14IYWa0S6wDhV1Y7movlZ9aecTcVYrodmV62NLP+fqBJUnebpCzh2qVRu240rHEHTmMngGpQ+fWsnaEfWezTfyZc181I9sZ/Mz1kAnewDMZB5G5KFw4HgN9GdSDd92T6XcJBD4YoCt5/nsmDx1tJ9bGE/KhRkW7/r+/pTUifX+MWgOsqQLyEUrckLZQ9fvtlCwTqxbKHdbVwiqnprT4gPOLrfJPnMRtcINTGXvRnvzdOEj16sZpc/5eunxmUKcliaRvBPQuKJa0R+7Awlsh5G97c5zoY3pdlpk76GPCJ/9l0oPgU9029XKOFIt28PiyHW+jlvk4zI8YYDx6/1RE=;hqU1RKAuT/1k1tN2I91QWg=="
 ---
 

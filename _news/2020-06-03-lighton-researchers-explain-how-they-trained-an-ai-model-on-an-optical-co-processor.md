@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:

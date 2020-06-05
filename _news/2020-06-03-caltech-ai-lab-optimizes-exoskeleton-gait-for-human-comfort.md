@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskele
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

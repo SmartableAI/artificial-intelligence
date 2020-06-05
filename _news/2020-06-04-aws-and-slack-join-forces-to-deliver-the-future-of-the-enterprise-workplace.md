@@ -3,7 +3,7 @@ category: news
 title: "AWS and Slack Join Forces to Deliver the Future of the Enterprise Workplace"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Slack Technologies, Inc. (NYSE: WORK) announced a new multi-year agr"
 publishedDateTime: 2020-06-04T21:34:00Z
-webUrl: "https://www.businesswire.com/news/home/20200604005766/en/"
+webUrl: "https://www.businesswire.com/news/home/20200604005766/en/AWS-Slack-Join-Forces-Deliver-Future-Enterprise"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 627
     title: "AWS and Slack Join Forces to Deliver the Future of the Enterprise Workplace"
 
-secured: "2+sHrTDu/QTFHyD1jgJML+oX3kUBPBFC2dnPs29aWTfParwe62bAvbOjsTnJwAZ7U6aBTZU4hDc/4wBJRleKz8nwduwD80iJeR/b7tCn6juQnog6JZOdy9fmFV90F11zsFM+z/pXv6S9SP4qNHQ2hg+0PKCSFEqzuGThQ2iVuCnuesSDaUs+MiTCldFNIeZPIPqlUaWPILeFxaJRjW4gUss1amOJX7lDzCWH3uaTrDkZp90fWlzuDfGhzwV834BkGFEpQjnYAHxuuj+Jh2Sm1eOGTOsysACkE1sSp1jTQEjle05rilcf29tICepDoUXt;dFuYqbzPktNpeUvDiqT3dw=="
+secured: "Q8AdOJ7+t3X8BfFy7MqYpoXygYeGZvocwOqgyyyQajoxubLlg0fClGrdH1/8xi4z7hUOeU9Nn4VgQCjUIFkQ5qRRRSiPldaWRTQyjvLxbCOOaY/u5ti6HGew0eVeO5pXwnM5Cq8ceU90d08JXlMTPTWyl09nOYicdXfxIcLy/CECQuNJ5qGgCPPq3u+vjc8CattjkR0Ym8NvAkzaIFagW/yc6PDgCeBsB5TbYYIuIbVOzti6U4/HWf0EIOHjLPx+s7mpvHLcG/1FI7AFXAgOfkI0Nec5gUF5Qf3LyxOEJ2WzI+VupU54g+acnNi9ZB1P;16HSZuQfne4yh7aJcIY1VQ=="
 ---
 

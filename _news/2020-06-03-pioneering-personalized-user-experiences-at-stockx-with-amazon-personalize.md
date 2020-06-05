@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-03T18:40:55Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

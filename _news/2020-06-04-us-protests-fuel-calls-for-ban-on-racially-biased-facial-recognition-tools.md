@@ -5,8 +5,8 @@ excerpt: "Some facial recognition systems misidentify ethnic minorities 10 to 10
 publishedDateTime: 2020-06-04T21:43:00Z
 webUrl: "https://news.trust.org/item/20200604204155-ji6bc/"
 type: article
-quality: 21
-heat: 21
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/fd5044d5-851d-4ab0-b372-771dec5caa86/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
@@ -23,6 +24,6 @@ images:
     height: 733
     title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
 
-secured: "469pScJvhuyaDDYlTb4ksLkRysh7RiOVS07VI1FecAp1BBxllD03+gAIjKqC8QurWQCwwCa11iFRkZ+dyyxfpq4q9i+E+wqnnG+ugXdUYZtdeN+kb76lLkmfNKk89QG+cLEgN/1/9t7a/0TNzNIndwL3+fPBLEo5qpgXRCqKTqy8MVTZMITLHNkvMvO+VaxKiZUhwRv6nn4X7b9J0QvAYKR7/LzT5wDCRxniMrm0DRI7bDuj+8r3TY0vZE2X5/H3yZWyu0gj1qCE0VZDFaB7AJXSXEWQbBeCrpln81z5P6GsTODgyZxQ4mzMEtIR/PcP;pCCP5CG9F9pd70goIYxFyA=="
+secured: "icgHQVa2a1QujR8CoK0j/tDiHA6AJ44Svo3RB3NeP9Wz4wKqYn/8+UjLqbGjLV5dBxtMQins7JMAJGGiYGeMYmLyNmDavLUMxq+rmA7CL9EBm4ch6mgzIePLLOmBepOgj3EBCy/D/x5H4Se2MwNHuFa6bb8kqsWWh59dayb/tToApl19jpHkv1yvsx4XmSy9xhjDI6knxWKN6bL7xon+zyRP5t6vkeMB9KSrbhsg2Vl6IC4OrVMALmifH+rA+A+5eaF3sO7RsO+NSlnwKnv3qRVcmzf/SbO6o6dK2moSVG7BEG82ec8qBAmVXxXI1TYAFbqwNSNZfCLBT+sT6zH9JE7IRgkLmEqdtMmsXg7/BHYO6zesers2zsmHGOX65wTXq4eeWEeZEBLIxJSZl2JHNRi3d2pbfebsEJp2XSA+prpR0luk2t8Zx2aStUY2jN/AdHHoGjx/J9l8NPfZxiWR5JaoLJNaWVHlPUs2/qmg9Ko=;SDCEVNtYH/L+O93XBQTD2A=="
 ---
 
