@@ -39,6 +39,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
         width: 600
         height: 350
+  - title: "Self-driving cars address only a third of crashes, according to study"
+    excerpt: "The primary objective for self-driving cars, at least the ones pushed by proponents of the technology, isn’t the convenience of the driver or passenger. That is just one of the goals or even"
+    publishedDateTime: 2020-06-05T10:13:00Z
+    webUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/"
+    ampWebUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
+        width: 1280
+        height: 800
   - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
     excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-04T21:06:00Z

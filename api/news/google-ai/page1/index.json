@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
+      "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
+      "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
+      "publishedDateTime": "2020-06-05T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/05/a9c5d24a-8255-404c-9243-ecd2ce42d484/ezlmoxkxgaewous.png",
+          "width": 791,
+          "height": 581,
+          "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
       "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
       "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
@@ -301,6 +346,43 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
+      "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
+      "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Interactive",
+        "domain": "marketing-interactive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://micdn-13a1c.kxcdn.com/images/sg/content-images/grab_delivery_doodles_google.jpg",
+          "width": 800,
+          "height": 455,
+          "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1175,72 +1257,6 @@
         "AI",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-an-ai-can-simulate-an-economy-millions-of-times-to-create-fairer-tax-policy.md",
-      "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-      "excerpt": "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
-      "ampWebUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "publishedDateTime": "2020-05-05T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos.md",
-      "title": "Behringer DEEPMIND 12 True Analog 12-Voice Polyphonic Synthesizer w/ 4 FX Engines, 2 OSCs & LFOs",
-      "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Free Shipping offers are only applicable to shipments within the continental United States. If you reside in Alaska, Hawaii, or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/33493715-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3ODNiNjRhNS1lYjY0LTRhMzYtYTU4NS05OWJiMmNiOGZlNDYiLCJpYXQiOjE1ODg2MDQ3NjYsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiMmI0M2ZhNzQtMmZlZi00ZjVhLWE5MWEtM2YyMTQwMDA3ZDBkIiwicHJvZHVjdF9pZCI6IjMzNDkzNzE1In0.M5zuy0P-TpZNnHPFOxUY63ZxblprmUzv3DVKq8KtTi4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

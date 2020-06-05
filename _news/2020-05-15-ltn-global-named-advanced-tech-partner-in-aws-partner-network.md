@@ -1,13 +1,10 @@
 ---
 category: news
 title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
-excerpt: "LTN Global, a provider of transformative media technology and video transport network solutions says it will leverage Amazon Web Services (AWS) across its suite of modular offerings to improve video production,"
-publishedDateTime: 2020-05-15T16:22:00Z
-webUrl: "https://tvnewscheck.com/article/more-news/249000/ltn-global-named-advanced-tech-partner-in-aws-partner-network/"
+excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help simplify and speed up news and sports productions."
+publishedDateTime: 2020-05-15T16:20:00Z
+webUrl: "https://tvnewscheck.com/article/249000/ltn-global-named-advanced-tech-partner-in-aws-partner-network/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: TV NewsCheck
@@ -23,6 +20,6 @@ images:
     height: 201
     title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
 
-secured: "h+QkdBGVwJOHCcKRVNiFz7iuIDD4x8ei3ochnRP3bv+MyhHPmyM+Us8+iom0cLE7OqTAPNwTLqifnCryuXyY73LwgSAs6tlHX3YjpyErz61VbC8+9Kiy1riqimnbJ2bCKsA4PUE8jcBKWkImwTwIk6biU6utTQgiochtPwtbkHbaUop44Xq4lcg+yL9VqsoK7xx0BgR0woxUiy11/Mql+UWJJNX2cyg6SMK+imVK5/1DMrUe/7xtFuSUVHXRCvrGty5pmcAx4NCP8pIjrBpJvrYSCQE+NfwtP3aONE0424NIzacdXUNtNgCH0QAKTVX/;xE6W2ObL7yowtSZzvLmv8A=="
+secured: "ssG2PDDvOSi6Jcy2GVkZL9zq/kcAZz63Qks9aOZ1/KnC1O4cnEKkYnkJkTdqYk0ogg69rCQcU1tgUAx4aPrpb5y+OQ5DoBnfvAAODo21hB0m5nKNeZe6FhsIlNhn1Z2FtB1eFPfRv9xoUXHOfFYr8d6mAw+l5EEcEp/8N2mUiFHdfk4QtVuCMQDXcusb5vgcyGM5EExIlOUc9oyoWDOKlTRausHrYv0xRFPncIejDJ8QLrm8bhWJC0vCaYAwYn4kHdBfjyqiPxik8jy4jP9Qc99KRkZBHjnjQ5aiH1+vrW4bZB/XCQ8nZauaRKC2kN4F;R2uf3wN0OsvBmbTKPe33KQ=="
 ---
 
