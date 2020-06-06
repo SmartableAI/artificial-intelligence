@@ -39,19 +39,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize"
         width: 1200
         height: 569
-  - title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
-    excerpt: "The company, which partnered with robotics company Nuro, joins other retailers who have recently updated their delivery options."
-    publishedDateTime: 2020-06-01T16:43:00Z
-    webUrl: "https://www.retaildive.com/news/cvs-pharmacy-tests-self-driving-vehicle-delivery-for-prescriptions/578944/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 24
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/c9/5f/c95f1523326671716aff15e44f3a49a4.jpg"
-        width: 770
-        height: 363
   - title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
     excerpt: "CVS Health Corp (NYSE: CVS) is launching a program that would enable customers to receive their prescriptions from self-driving vehicles."
     publishedDateTime: 2020-06-04T12:30:00Z
