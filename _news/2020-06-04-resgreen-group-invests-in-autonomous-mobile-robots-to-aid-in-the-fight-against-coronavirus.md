@@ -23,21 +23,6 @@ images:
     height: 400
     title: "Resgreen Group Invests in Autonomous Mobile Robots to Aid in the Fight Against Coronavirus"
 
-related:
-  - title: "Resgreen Group Invests in Autonomous Mobile Robots To Aid in the Fight Against Coronavirus and Other Pathogens"
-    excerpt: "Resgreen Group (RGGI), a leading mobile robot developer, announced today that it will focus a large percentage of its research and development budget on developing autonomous mobile robots (AMRs) that are equipped with ultraviolet-C (UVC) light for disinfection plants,"
-    publishedDateTime: 2020-06-01T10:54:00Z
-    webUrl: "https://apnews.com/d3e686d63ac7483d20869a3e639cf74e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-
 secured: "nVmpbD/2urrS4lNh0Xc5TTThsKwpRoXUr4SqEUIjanO9ZseFHeoHkqyyiT4WwUyYDxPBnNq2YZCFaf1b7GxNqfJzM+HXprZzDmF+R/CeSPtVL3l7WMDgYYegQKLCYJyhd+YvSf2U8tlyvQd23u3Ph4l7kAzdz6Iatk8sfyjDJte0Osh7KPhFGWxZC37kJZ97JGD3bGCoX/H2Ti5/YjvNb/YG5HoQPO+YSH2cMTpzqHwpKlTAlHqsZ1HmR6c8hpsnCvTQ1RsZgRcfrQkcjHBi3ijMOhAOeI8Mr8oTN6zvaqu5HEy4RxJbEpQIMjBT3jxAFL8PjZyTc4WpOzpafr8xBIgKv1KA5bSXfq4llhGsUW8X/VVTK5Or/JjVFQMLEMyNaUT6oSMOYRR/WaTlyPA0srEJc49tNL+V0xzucZs+cMOd1GxqK7YmGv0Udih+a1JeDMnhxl7iJcT+y5VR8bBYltse3hFbdTYj0Pgw2xz70Uk=;EI+H5bBYSBLQj9lcNsXnTg=="
 ---
 
