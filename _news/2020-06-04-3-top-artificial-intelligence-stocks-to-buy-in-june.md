@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/06/04/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/04/3-top-artificial-intelligence-stocks-buy-in-june.aspx"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 800
     title: "3 Top Artificial Intelligence Stocks to Buy in June"
-
-related:
-  - title: "The 15 Best Tech Stocks to Buy on the Dip in June"
-    excerpt: "Wall Street went \"all-in\" with tech stocks as the physical economy shutdown, but with the economy recovering, they're starting to see a dip."
-    publishedDateTime: 2020-06-01T14:14:00Z
-    webUrl: "https://investorplace.com/2020/06/the-15-best-tech-stocks-to-buy-on-the-dip-in-june/"
-    ampWebUrl: "https://investorplace.com/2020/06/the-15-best-tech-stocks-to-buy-on-the-dip-in-june/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/the-15-best-tech-stocks-to-buy-on-the-dip-in-june/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/07/tech1600d.jpg"
-        width: 1600
-        height: 900
 
 secured: "9w4fjRsCoPTHHV/5tjJ01Yo53K9hoHsrcUJbxA62jKK3cDAzr4QttG2ZiAgrleJEW+clur2XHV+6V0dLfEqoSri8o91bzaxW62grZ5RY0BMsLHs00d38G2gsmKs9pw5krRIrDPJZzTJWaN1Hl/hkPERsTl+BFYzgTziNKZHni/aZMoXDo//HIZXMDQzKG7MnS6m03L1uaAZNuMocoFzG+CCmNgTouJXr7C2x1RUAUaSFhNoUA6SOMJPjEWPgpyc/gDpOhyo7nQCPvnqB1ceykZPD8G0nwCeYv5ut8QwCskmz+vaG4OQmN7GCTsnjW8CYj82KWk1NK2F2yPo5/GPzffjsYcl7FjicRpAMFfVz6SIh6nGG1XPn9/yTJ/ET8/WMrkSpnjsLrQ5akLqxZAtUHqgzuiNIJXZGRHZfFgaoPU0KdcZ64Cl1eyW8rBXCx+UKFBbxP9qZ88582XQebospHXqnzjGKHhxX4WJTT6s5T9c=;wN58T0Z6YFWf5LoI9dqJ2Q=="
 ---
