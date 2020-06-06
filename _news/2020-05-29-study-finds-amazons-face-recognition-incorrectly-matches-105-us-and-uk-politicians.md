@@ -22,6 +22,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg"
