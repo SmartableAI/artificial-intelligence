@@ -41,6 +41,21 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg"
         width: 1200
         height: 675
+  - title: "Spain's CaixaBank Teams with IBM Services to Accelerate Cloud Transformation and Innovation in the Financial Services Industry"
+    excerpt: "Built with IBM Watson, the AI-based virtual assistant manages more than 1.5 million client conversations each month, handling a spectrum of tasks such as helping bank employees quickly obtain ..."
+    publishedDateTime: 2020-06-04T07:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16177043/spains-caixabank-teams-with-ibm-services-to-accelerate-cloud-transformation-and-innovation-in-the-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16177043"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16177043"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1176568/IBM_Marta_Martinez_Gonzalo_Gortazar_CaixaBank.jpg"
+        width: 400
+        height: 267
 
 secured: "sfovNcb+EhHgvfwQqwP1qWzvPx6U7O7S2uWerJ3zzkFr3ct0XFexWNehD5vdp3lhAhO0/UN1EZ6j0kKNgDW6IS9MSZzL5nZwIstOTjHlteqgQslEm2yqZHae7gON9A7JwPDPK347GggBS76gpMl3UIy5s3aZ0VDQX1mbw7ZM3fM2tHD7AYu4bfcW2XkC6vtaFcUoKf31aBbh8PtSKrUgiMrG/QhLt0Mk2mL2oc+Fv6VsbeN7f9SUap7nL7NDvJqbAm3vFC54U7wi2w3mNrS4FE2luhFxQ91qNPeQL8YABanQLW6fxARG12ZbAMaouqJuvzRR9FUa9swu7lnzsTjBXF99nzZgOyiZzv5ceGzArdMurIkub5wG4DVPZXphEsLBUrU3DdPhjzfGILK/6+kPyk5+AoVti8K/yqpxuAUnEK3cYTHg0TBrgnrJ3tqtbKP/KMmeb9bw0GRLGYK8/kGwyRMEHrFN94pyEn8ofJcA3vo=;bJa+uQk2BRjvLoZHebjUmw=="
 ---
