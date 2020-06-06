@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Exxe Group Adds New High Value, High Growth FinTech Acquisition"
-excerpt: "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,"
-publishedDateTime: 2020-06-05T12:43:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16188602"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602"
+excerpt: "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms, financial services, real estate, and agribusiness, announced today that it has acquired a controlling interest in a fast-growing,"
+publishedDateTime: 2020-06-05T06:43:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/exxe-group-adds-new-high-value-high-growth-fintech-acquisition-1029284547"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "oaCeuRRzhbWOp7pC22enowlPpYfXwza0h8bzKuIDHHXr6nERvjCy4d2Zcgw71YJwyVzaJ4xdNdp9IfRMb3WJbStrU4a8yLoJ0fW97Q5Pbk9o1nKeixsKwm4gawLuJ5YlPKbrnXXn9l8DbFq7SD0NxD36JxzdxT3qMyc6UkcAZg6x6/gfGni5P9Gyrz7R7qlC+fzr1ABf9e/okBm6HBBmWSubpAG01WzywhUZ1FEL5m2daX8/JaRu1I4rs1j+o2rTYySvCcp9/hsCukXmE6tDzYf+w9sdX3sFFQyIY9u3J+759TLR6XqBIe/0Vex+CSnO;lnHhY11fgXz04Cx6VUOQLw=="
+secured: "d7T5IsLFLoc9W30JOi+i4sclDRg3iCSB+ufcBYeRnUulXXfp3xFQzCikYObq96X2X3bKFrV5lFRTndq26MuWeko+tqQw5V2t0IzXvg50GtuFo2MMP2UKlC8R5Gmb6OUdu8sHOCUoCCZHfU+YKhccmXC3ypk6fVqrJzG4vRiEtyAzYrJsxT/kyDZNQ0X8w7OocLG5Zq3C11l2oqzIuxCZJWNJioDi4KBJpHgzuxkgheqvC0NOWDuuID1BJ4+ED0yTM1xh8bZDe9Vun7uwxNBTb7aeS3ltl4xufe7eMY5YO9TWTev2uS7mukqlfosZ6fNa;0TuK9hzN45TXEKiJQqICRA=="
 ---
 

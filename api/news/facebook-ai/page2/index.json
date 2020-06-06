@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
+      "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+      "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
       "title": "Facebook is using more AI to detect hate speech",
       "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
@@ -1247,43 +1293,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-facebook-ai-model-beats-google-runs-5-times-faster-on-gpus.md",
-      "title": "Facebook AI model beats Google, runs 5 times faster on GPUs",
-      "excerpt": "San Francisco, April 12 (IANS) A team from Facebook AI Research (FAIR) has developed a novel low-dimensional design space called 'RegNet' that outperforms traditional available models like from ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sify.com/finance/facebook-ai-model-beats-google-runs-5-times-faster-on-gpus-news-topnews-uemnughaiccgj.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-12T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://iansphoto.in/web/photoimages_new/400/2019/06/14/684aa667a3f557cbb11694f40b087d8b.jpg",
-          "width": 400,
-          "height": 251,
-          "title": "Facebook AI model beats Google, runs 5 times faster on GPUs",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

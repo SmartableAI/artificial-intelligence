@@ -2,6 +2,95 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
+      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "publishedDateTime": "2020-05-26T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
+      "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+      "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "publishedDateTime": "2020-05-26T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
       "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
       "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
@@ -1166,88 +1255,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
-      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
-      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "publishedDateTime": "2020-05-26T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-amazon-web-services-and-bundesliga-to-deliver-real-time-game-analysis-with-bundesliga-match-facts-powered-by-aws.md",
-      "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powered by AWS during tonight’s highlight match at 18:30 CET featuring Borussia Dortmund vs.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/10e31363d9be4d919e2e75376c43f946",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

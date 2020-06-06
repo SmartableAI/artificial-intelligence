@@ -2,6 +2,88 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
+      "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+      "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
+      "title": "All you need to know about symbolic artificial intelligence",
+      "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-02T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "All you need to know about symbolic artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
@@ -1230,87 +1312,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
-      "title": "Understanding the foundations of successful AI",
-      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "publishedDateTime": "2020-05-31T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
-          "width": 6479,
-          "height": 4319,
-          "title": "Understanding the foundations of successful AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
-      "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-      "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
-      "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "publishedDateTime": "2020-05-31T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

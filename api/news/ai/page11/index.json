@@ -2,6 +2,96 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
+      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. - The use of robots in space exploration,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-23T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy.md",
+      "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
+      "excerpt": "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "publishedDateTime": "2020-05-22T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105868105-1556088770264gettyimages-1134474993.jpeg?v=1590167235",
+          "width": 594,
+          "height": 396,
+          "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech.md",
       "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
       "excerpt": "The U.S. Commerce Department has put another 33 Chinese businesses—many of which develop artificial intelligence and face recognition tech—on its economic blacklist as a punitive measure for purportedly conspiring with Beijing and the government’s brutal crackdown on Muslim minorities.",
@@ -1202,80 +1292,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
-      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "publishedDateTime": "2020-05-21T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
-      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "publishedDateTime": "2020-05-21T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
-          "width": 994,
-          "height": 600,
-          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

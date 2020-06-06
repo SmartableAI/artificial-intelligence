@@ -2,6 +2,100 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
+      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "publishedDateTime": "2020-05-05T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
+      "title": "How NVIDIA hopes to industrialize AI with MLOps",
+      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "publishedDateTime": "2020-05-05T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "How NVIDIA hopes to industrialize AI with MLOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
       "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
       "excerpt": "This was done as part of a BrainGate pilot clinical trial, in which computer cursors, robotic prosthetic limbs ... were able to do so with a mind-controlled cursor, thanks to the implant.",
@@ -1200,88 +1294,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands.md",
-      "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-      "excerpt": "EU project to develop a collaborative humanoid that helps workers in industrial environments has come to an end.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "publishedDateTime": "2020-05-05T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all",
-          "width": 1296,
-          "height": 647,
-          "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic.md",
-      "title": "MDLIVE Reports Significant Growth of Behavioral Health Business as Virtual Therapy Provides Safe, Timely Access to Care During Pandemic",
-      "excerpt": "Behavioral health visit volume increased by nearly 50% in March over the monthly average for January and February. Additionally, MDLIVE saw a 72% increase in visit volume in April as compared to March.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic-1029164850",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

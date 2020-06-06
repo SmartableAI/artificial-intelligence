@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
+      "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
+      "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
+      "ampWebUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
+      "cdnAmpWebUrl": "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
+      "publishedDateTime": "2020-05-27T12:48:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
+      "title": "Computer vision and uncertainty in AI for robotic prosthetics",
+      "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
       "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
       "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
@@ -1190,95 +1272,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
-      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "publishedDateTime": "2020-05-26T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
-      "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
-      "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
-      "publishedDateTime": "2020-05-26T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

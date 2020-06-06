@@ -2,6 +2,81 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
+      "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+      "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T16:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
+          "width": 674,
+          "height": 630,
+          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "publishedDateTime": "2020-05-28T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
       "title": "U.S. joins G7 artificial intelligence group to counter China",
       "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s",
@@ -999,89 +1074,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-this-start-up-is-adding-a-layer-of-ai-to-video-feeds.md",
-      "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
-      "excerpt": "Bengaluru-based Integration Wizards Solutions started with enterprise mobility, creating a platform that would allow for seamless communication across devices. While the computer vision solution is their latest offering,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351200",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351200",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351200",
-      "publishedDateTime": "2020-05-28T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590657051-20200110-1415551-min.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
-      "title": "Baidu releases homegrown quantum machine learning toolkit",
-      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "publishedDateTime": "2020-05-28T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
-          "width": 1620,
-          "height": 1080,
-          "title": "Baidu releases homegrown quantum machine learning toolkit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -39,17 +39,6 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
         width: 720
         height: 376
-  - title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
-    excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."
-    publishedDateTime: 2020-06-01T19:21:00Z
-    webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
 
 secured: "8wqU9yxsXcHThhCxkkLIqYOxlrQ/SDyDAgN5nogLh6GyrfNRwpU6vkklGeqf15Fl4jvP2uHIgaP9yrkmu0fKLG8SXO1tgvKMe5OV2Q6GSF9bvPoB8YL527kMwKsAjy/Wf/VtuSVpA8OxHqcv7sEE88BNsUp1CppT7DQVylq+h/oPOOXZCFlC8cQB1iDdWNLx0ZFjad3EsdowXumUGCPz6BuCU/Zl2YqCGX5eOw1IJawVlKA0ixrg5CEfG3kKbndoTBh1oWEyzb8fiLzCv1HWfCgudsd3JWJXUBxXrqLAUqf0peLd+eSfAZDp9iWxNrNI;yEZZrXxnESqyoksj1CsHrg=="
 ---

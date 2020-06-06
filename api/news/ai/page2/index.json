@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-04-popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters.md",
+      "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
+      "excerpt": "Encrypted messaging app Signal unveiled a new blur tool on Wednesday that can be used to hide faces in photos before sharing them. Signal said the tool aims to protect the identities of protesters currently demonstrating against police brutality.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
+      "publishedDateTime": "2020-06-04T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/mz5ofBgIkIQRE2jr9IGFvfKofLI=/0x44:1074x673/756x567/2020/06/04/fabebb72-d205-405c-84d1-6dc186a8a4cf/screen-shot-2020-06-04-at-10-18-45-am.png",
+          "width": 756,
+          "height": 567,
+          "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
+      "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+      "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "publishedDateTime": "2020-06-04T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed905490fee5e0007449f0d%2F0x0.jpg",
+          "width": 1199,
+          "height": 709,
+          "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence.md",
       "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
       "excerpt": "Customer support is changing. Some people claim it means customer support personnel will disappear while others say AI will enhance what the customer service people do. To both, I say “yes.”",
@@ -1226,88 +1315,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
-      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-      "excerpt": "TIBCO Software Inc., a pioneer in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "publishedDateTime": "2020-06-03T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
