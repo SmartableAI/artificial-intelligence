@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Exxe Group Adds New High Value, High Growth FinTech Acquisition"
-excerpt: "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms, financial services, real estate, and agribusiness, announced today that it has acquired a controlling interest in a fast-growing,"
-publishedDateTime: 2020-06-05T06:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/exxe-group-adds-new-high-value-high-growth-fintech-acquisition-1029284547"
+excerpt: "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,"
+publishedDateTime: 2020-06-05T12:43:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16188602"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "h4V8J8vsbbyC1D5XSA4S3H2o+f/gsuSNn4sjeX4KriWJqmVTiZ1V/dA8NttV1/oRxp+e6l98CHuM4yGvCd7pgEEJ9YWt31mTcBskC7ia8jY25Nda8HKNT0UDWZ1n5aCFeiWu/yVkRHhjWZc5lQQQd4sc9IxquEr43OXcOhHKaZ8ltcIjv3ObE36HkAXeMZitCXQ/Mr6tzzCssS2pCX8xjjjaBKiFVa0RNQeYIGSWX9W3rEofW7TbYAp00sUxV31AUMJu2/mDM5ItJnsVWfOl+HpkTNrCTmJNartFlIhXS5bseDlcQiBLmJxWKt31zU4U;+58JT26DMrPTYs5Bj7lvaQ=="
+secured: "oaCeuRRzhbWOp7pC22enowlPpYfXwza0h8bzKuIDHHXr6nERvjCy4d2Zcgw71YJwyVzaJ4xdNdp9IfRMb3WJbStrU4a8yLoJ0fW97Q5Pbk9o1nKeixsKwm4gawLuJ5YlPKbrnXXn9l8DbFq7SD0NxD36JxzdxT3qMyc6UkcAZg6x6/gfGni5P9Gyrz7R7qlC+fzr1ABf9e/okBm6HBBmWSubpAG01WzywhUZ1FEL5m2daX8/JaRu1I4rs1j+o2rTYySvCcp9/hsCukXmE6tDzYf+w9sdX3sFFQyIY9u3J+759TLR6XqBIe/0Vex+CSnO;lnHhY11fgXz04Cx6VUOQLw=="
 ---
 
