@@ -8,7 +8,7 @@ ampWebUrl: "https://www.technowize.com/south-korean-bar-hires-robot-bartender-to
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/south-korean-bar-hires-robot-bartender-to-maintain-social-distancing/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

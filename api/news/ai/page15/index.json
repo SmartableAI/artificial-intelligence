@@ -427,6 +427,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
+      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
+      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16067170/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16067170",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067170",
+      "publishedDateTime": "2020-05-19T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure.md",
       "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
       "excerpt": "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines.",
@@ -1251,50 +1280,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
-      "title": "AI is helping get medical research into the hands of doctors and patients",
-      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "publishedDateTime": "2020-05-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI is helping get medical research into the hands of doctors and patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
