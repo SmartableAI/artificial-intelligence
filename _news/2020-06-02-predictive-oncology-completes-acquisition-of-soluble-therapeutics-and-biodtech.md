@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech"
-excerpt: "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence"
-publishedDateTime: 2020-06-02T12:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16158810"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810"
+excerpt: "Predictive Oncology Inc. (NASDAQ: POAI) (the “Company”) a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery, announced that it has completed the acquisition of the assets of Soluble Therapeutics,"
+publishedDateTime: 2020-06-02T12:50:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech-1029272380"
 type: article
-quality: 20
-heat: 20
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "UqDJl38C56yKnGO5AREISHlFOFPcKzHLgQhtbb6SdLiCRUDOWGRv0mepoXDSX2BNxikuy1PiQtFLpdKiQqrQdrDaxU8BVF7KF5j2rn8Zl107H3T2eM4vzjpuUWrV/Ws6MEaM6gv9FVp5Lm+lH6Ty6NI2c0RCwFnUf0m0zJKitreAO8+8EbWie2nGDHCxfaMbWzGgilTXy0Lnfs/SC8sDki3M2cBPLFtmqFs8zkg33hg/ve6xWHSe/CR3bX/y8EYUD3EHdnLuAzcepTEufeOPOG/wklp1ONPYYHgZAMx+hptd4f3V5DfnTJzI75hjF+o8;Z2AH14F9V8K7oqH3sZDz4g=="
+secured: "hv0/mh2w3wfBUotvif4GR/vNanUUIlSwZvhbwwq3vNSk9Z45XtaeTdWL2RUfWjG9hcaPQKv+TXUURPNM0/aVaQfbSP7ErghUfPKdslY/AGFThNXpny9LHsKJnFqgwKE87YWNXcKllMBz0re699UfuumB/6e8iT566ObLawcJKn5oq7jUxDURqGv3ini/pSgfvKmi/EMCXxZql9L/l30SSUCIZHGDV5r2QiHQDmM/THuy736PX8Z4w31TQoeJiUTLUnoXmbXQLVE/IYdU1Hbp2C0d+w9+1aqbQ7g/d+kWzQLiu0pkjX6VqpLxYiFz4QZS;rZkjTXLBpC/+RskXmgb7nA=="
 ---
 
