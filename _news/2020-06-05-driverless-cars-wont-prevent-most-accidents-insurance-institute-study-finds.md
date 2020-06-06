@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1200
     height: 805
     title: "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds"
+
+related:
+  - title: "Crash test studies: Insurers say self-driving cars not a fail-safe option"
+    excerpt: "Companies working on self-driving vehicles have criticised an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
+    publishedDateTime: 2020-06-06T01:30:00Z
+    webUrl: "https://www.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    ampWebUrl: "https://amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    cdnAmpWebUrl: "https://amp-independent-ie.cdn.ampproject.org/c/s/amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 58
+    images:
+      - url: "https://www.independent.ie/business/5b445/39263963.ece/AUTOCROP/w1240h700/2020-06-06_bus_59404810_I1.JPG"
+        width: 1240
+        height: 700
 
 secured: "t5tOASRQwx8lR3qz61tq92XYdqi+c3HFewYzzQkT3Lu8b/mMjqRaHAF7wNw5az6p1AgdSRsyA/15KC25Ai/ZLRSpfffglr2ZrlLEZxkc0EyefclZo2fg0ZgDN9/+9Jg6VCKDlBudkwSUUMofvaGlfhrvCbqxcbCQaFXFlzUMifAvULB0pp/01FPCt5V/ds4TLQigx1iDOBO9zZ4tLPNzrKU57/L93guiLvqZFCMDxmR/45bVu9n9NZH3B861kt9jP9Y6BVZvaO3l0K11tx1GR7bDzRJBkdRytwtK6BQ9KZ910w4lH3ZyE8mSvE/0Ecl9;usoZQFaNGpUYqaQTsmzYkg=="
 ---

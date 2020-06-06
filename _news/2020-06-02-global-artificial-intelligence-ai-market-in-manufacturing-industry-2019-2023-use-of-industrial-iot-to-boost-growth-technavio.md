@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T03:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200601005543/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -21,34 +21,6 @@ images:
     width: 1200
     height: 627
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | Use of Industrial IoT to Boost Growth | Technavio"
-
-related:
-  - title: "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
-    publishedDateTime: 2020-06-01T07:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2025"
-    excerpt: "Market Overview The machine translation market was valued at USD 550.46 million in 2019 and is expected to reach"
-    publishedDateTime: 2020-06-01T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-increasing-demand-growth-analysis-and-strategic-outlook-2025-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "Fk+MiWL+2YO89dIGtbfFhH7DDccY32WK/SHq2j2uMy3kLnBhrFM9Ymqlqw4gLAZWM2tNhoJiu7mZeECK/JgxwRLqaUPYdub1aSz8HasKOocg6wwhT08ZiLIKeTDVu9GE6q4IBSyF3KzDl/GY9OoETtpKUIgLE/grZsf2rAZSlNBILnBkWe/5Wct5oGD9/i7z6QKhfSfI0QmfQCWNmUlYfAvOmaBaMDwhHgh90OxBFI0/24GpklfU54x/V88+qAKFHs4i7ONHbdqrwU0JKr1dvcY6IQPzBc7DZnVkdIAFcAh0/ecmippWsYWNUm5wfX20FR1OQyByHJcTCAp2xvghf5IAvYQ5EAlWkT750wHolwSUlmP0BlEwhCVvyuWj7Jc9OBI7o+GUShMy6crdDMAMYT80nukzmZ2i75m0B5/t2ipHYctwZWX6ASPVmO2IFe+n3HKeZKm8Nfl4XcsaX+vGn7SERyfm12ux+oQ0Lv7M5zM=;Td0zE6zfgVgTQpgAWRGtSA=="
 ---

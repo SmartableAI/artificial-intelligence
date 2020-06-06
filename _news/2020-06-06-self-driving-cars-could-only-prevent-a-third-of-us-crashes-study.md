@@ -1,17 +1,19 @@
 ---
 category: news
-title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
-excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
-publishedDateTime: 2020-06-04T14:06:00Z
-webUrl: "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs/"
+title: "Self-driving cars could only prevent a third of US crashes: study"
+excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
+publishedDateTime: 2020-06-06T01:47:00Z
+webUrl: "https://timeslive.co.za/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Consumer Reports
-  domain: consumerreports.org
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - AI in Autos
@@ -74,17 +76,6 @@ related:
       - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
         width: 651
         height: 366
-  - title: "Self-driving cars could only prevent a third of US crashes: study"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
-    publishedDateTime: 2020-06-06T01:47:00Z
-    webUrl: "https://timeslive.co.za/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 24
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z
@@ -98,7 +89,16 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
         width: 800
         height: 600
+  - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
+    excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
+    publishedDateTime: 2020-06-04T14:06:00Z
+    webUrl: "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 4
 
-secured: "vlzfC2i0Xiv9p6K4GFobwgRHyWjQ3sYJHLgNe2/qxH/ZkGBrOO3l3kf5ABqXCRi7A35xG0qAnsh0QuxcFYrgx4U5ljwp1ay3tSFSA3pXDM0GXDu7t7AbQmzrT+ZCvWVsiuDmOd1pyqc+hhNdeiIuoxefUquKo8fUZNsNVqWPq/tKIfods6gKUQC1Ua2WM74dDPiP5G+Qp6+iatVQLDeEoxE3GPY+Rjw3KB8sKza3yhzaX/YY35J9NxcfLgseISOZQy8DSeoGu3TLJsNhU1SLDTt0aSGiduF+aIboSyRKJaYD1rnwdia/JEmFawnnhDH/z2/zivRQeQn45r5GD30Hhl89i18fo8mqndiQtrXsg6KtorikJhf3EP+dJLBDahSPBd0HCdDZoD70VFzdVa1FjiZJNNaHfXHf1Qsj2Mum8XWACtSpBaiqCHQVJttlu7QH/XtXSHELKU4iDFh2m8ROKaXbHeLySfSCsW8/5fQwcVY=;toVFenW+d4GxrH7p9zSBPQ=="
+secured: "NwfJkbh1aAD5s/p/BRuzPYmZ3KfjL7+m2N2TOY3O+L6pdlTLrX2NyDuAVnpGSXqIuWhBdPF78Pv7S2C8fFMWRUYcG8hg0wwk1kDlEY+bhHrNnztjZUciQB1/01tg8EHe+HTnLFBV7nwaq+cpps1DRnQGsZV4akV9mARwn4etmaGYj1MKVNSvF+eE1t0l985d5TibrjcUGGPXRU2ZhsUVPRX9mqn0slbI7QvG4/BZ6xjzryeQbNSqTpiKYnbEGeODVmTKdTx7vBv5CsMGHXjxf016nWYsW1njdUBRDkgGdbRiCC//bt6h/MPrsXHf3FPVFC/RSjF/Uv2pGrPzJImZnn+PJuEIOlmxQxT1eQ+tzlL845N78iNiOFSW6zLGbI08Kd516c1peLd8Y7bzz8YLAWTEX/HknSIXV2UXuKMIQ5Rucj6IP70fy6Kx7Z+0noIfQqod5g8WY7FhPAK5Gxn5gAoKgFne98wQ9ad9KjabzEQ=;fusmOvKdFnE72kmC9cDnJw=="
 ---
 

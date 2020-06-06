@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
@@ -110,6 +111,6 @@ related:
         width: 700
         height: 379
 
-secured: "qEKn/vpe/GA69H/7MhqJhxPR+Q90i5Qcr0XEwwsRo+XZvLUe++E7XBXeUescVCaKgYK4VhtycfWiqij+eWqlTCfcSAP7IB+t8npIYmpF9OfTKEocrmcMQFTTGOW1PUDRc+PUGMbZPOVmYuFZ7dEEP+NNZAKLGYGdx1SBDGG5Raqee08KWmdc+BCmsO9eMyH+78hYTdMUVFIUeC9vh1qbE+X7KXQnRk0y3tgRyKzWTSo+pOpYpnVR5PpouxQgtPQ5L0qPJilkSHoJhbaab/pg3YXUcDHnFfiMnTSR4aznsyyOYfFEqE2AVFi++Fb1k534;tJ14UE6uqrqnwn2clFN0yg=="
+secured: "uFZpR6mjEhMSL8KeDb/MnljhM70M8QsWXdMFohzVL1v7r2uaA/Z/AaIoE4pmciJ+BKBQao+rF/kmchMGA2XcqAt9dnIOm0GzpExUX0b6MD9L+uCO9lKwAbOMdQXUM+E77QrqGEPBRhVmuO5VWgkBXIZK2OQgVdEbcIz0w0X4vfV3fMaUWMHnAHMJ4hQyNa8Iuo2931bq9jh0mrZrJpRtER8u6gtmz9DXkeO2qvsQ56gyh8mvxSyNUjKB0m1fTxksVV67OZd69vrRajcIfathHO1aS0dNHBjxK+DOYjaxOM3yLzy4lVhuqTwxRkVPQ5zyBN1Xi1l3ArVP6QPxH910IwNWD6Z+n/VpDcZq096gu/hMQtx9MOUU0DgxucYdDOWUmh8jaJ7szgjcaZySRyVZ+hFsih0hXWVQpqzGFy0buujvW/fjnlUfmFQaAqWxxCrAgqZvUIj6FYe5IWuOLS5I7faHG1LT2k18srHm+TzgoaA=;P72JSpsoIlCjaLfZ3dgbSw=="
 ---
 

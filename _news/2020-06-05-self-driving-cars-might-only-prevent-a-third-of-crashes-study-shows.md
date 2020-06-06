@@ -67,6 +67,17 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Self-driving cars could only prevent a third of US crashes: study"
+    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
+    publishedDateTime: 2020-06-06T01:47:00Z
+    webUrl: "https://timeslive.co.za/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 24
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z
