@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-ge
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1024
     height: 640
     title: "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy"
-
-related:
-  - title: "VW and Ford complete investment in Argo AI self-driving firm"
-    excerpt: "Autonomous tech startup will integrate its operation with Audi's self-driving division to develop and commercialise future system"
-    publishedDateTime: 2020-06-02T09:26:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/new-cars/vw-and-ford-complete-investment-argo-ai-self-driving-firm"
-    type: article
-    provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 39
-    images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/f80706a0-3205-4731-a069-ab43c6fd289e_1.jpg"
-        width: 735
-        height: 414
 
 secured: "Bpcl2tUoqKIxhhm3/1c18L7C1D55k2lS7CNMoQPyhFHQKimJtpAfoDE2OvG+VzvDoGXlskvxNnL7YlcBeuLurHDjTws+XOwDC0wP6lT9amAQRnRsmIRDI3wVNS3Xb/0MT0Auh/MAeHBv+koPjqdsPybwanS7l0eNqMGggotJN8QbAuzzxBCh3qkz4ghakoSFko1Dsi7DKgql/jYhzdLmJO5yBwbPZYH2ManrAJN3jlCygFUfD8AQxgaBmKiOdZoKzL0QcgV3z6DU2ADWT3M3HUomNjXVDauR6uB8Pql0xRua4J5O0Hi5wSjNfhyHd3YYW6sH5fKbf/7e7BFy50TEIE8y2Jt6m2G8mW/tuRc0cX8KAEe1xPfyBZBj1cUqiZId5nCwTQ4XEzgpDMs/6CRYw+q0Uv3YkB5ko1gT2olEtfTFKLeCFEziGL92OHaCPUI57PtsopCHHIsXqp2MhAVvhJ3sUDD6ERVZ1gHowlvDHIg=;u8Lid09iViLH+lPq9o8XvQ=="
 ---

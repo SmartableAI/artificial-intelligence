@@ -8,8 +8,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-final
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: UPI.com
@@ -38,15 +38,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
         width: 1200
         height: 630
-  - title: "What Volkswagen’s investment in Argo AI means for Ford’s self-driving vehicle business"
-    excerpt: "Ford and Volkswagen announced a collaboration with Argo AI to introduce autonomous vehicle technology in the U.S. and Europe. As part of this collaboration, Volkswagen would join Ford in investing in Argo AI."
-    publishedDateTime: 2020-06-02T10:28:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/what-volkswagens-investment-in-argo-ai-means-for-fords-self-driving-vehicle-business/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 11
 
 secured: "qwRY3F1hC9baOnqHuJ/6BlbNFqlVZ1Zj2aN7fRkKG5a2qHn+T2aWopeZKa7rI8Fw04JQbNGplgjCOpodx/ru13lpjxUQrYoEnymOreZ5R33+DJPpHMSkUnsFoiawv0DcO66aj7VGIPNLVlscQXhURVHcPZQHcu9rhdxTOeZ7yMXNPi1aTrwbMQ8W/Te9R66E7OOT1jXp3FCMp+UIajUD9onv7NoeTIEF+lwzCIg3UKnrv0c1deVcyY5LnG6Y0wEtihzyM7f37XJyNw9vO3lCmzSuCNgnMxUk4uyyYsIovsJ/RDQeGGgvpa11CuXnCktPPQHwnnOPXZvH7pf9XeoOo7m5latIfLCU5mwux8nFkViFnUbhHypA3tgf8LyZSQQgM9+Oy2p+e+iC9dvGradKvJ+YfnBUtftl/8zj7iE6V/wbZX3yG7LTM96PO8WB2L8Bx05jti/Xt+DSTLS9Tlk083NACcCoDe6rC5iZCMBLIdg=;Mws1PTqVxYNobvD857EV6Q=="
 ---

@@ -39,15 +39,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5721591121523/2020/1/48bd56c07fed01b79e02f7d4839e8c9c/v1.5/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI.jpg"
         width: 800
         height: 533
-  - title: "What Volkswagen’s investment in Argo AI means for Ford’s self-driving vehicle business"
-    excerpt: "Ford and Volkswagen announced a collaboration with Argo AI to introduce autonomous vehicle technology in the U.S. and Europe. As part of this collaboration, Volkswagen would join Ford in investing in Argo AI."
-    publishedDateTime: 2020-06-02T10:28:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/what-volkswagens-investment-in-argo-ai-means-for-fords-self-driving-vehicle-business/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 11
 
 secured: "9cugYvmBxuMdiFh4HW9KvTq339uqaXHYF3JzAejRGO+/oHog1VpdC03YU2ONrFrBp4GqqDuK4l0bijz61b48IzRm+aM9K9FNgH7e+obUu/lLbiuiK6iJ8+BVdFYrg06hl+bEx1vFjnqEAqaNaOIsGhGQRWbTvZ/0P785mUqchZzUrF/lNRoeGzSXTaED8lFtwX+HIGQcXdXxqtnY8X2x3TLse3aheUkP1+KuR1m2gwquIEzVUBw6RlVm/7c+/9Y2YsMwcZjc60yOj+ynQsHzZJhb/wJaqSa7pPgrngsni0HCIWD01k89BrPVkIarxKJV;FpYEr0lyKPxdqtGK6GYSqA=="
 ---

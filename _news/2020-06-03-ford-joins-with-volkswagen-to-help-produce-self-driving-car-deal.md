@@ -8,7 +8,7 @@ ampWebUrl: "https://detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-t
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -20,21 +20,34 @@ topics:
   - AI
 
 related:
-  - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
-    excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
-    publishedDateTime: 2020-06-02T10:32:00Z
-    webUrl: "https://www.thestreet.com/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+  - title: "Self-driving 'Apple Car' may combine LiDAR with other sensors for better decision-making"
+    excerpt: "As work on the \"Apple Car\" progresses, Apple is coming up with new ways to improve automated driving systems, including using other sensors to enhance LiDAR scans to better determine what's on the road."
+    publishedDateTime: 2020-06-02T15:34:00Z
+    webUrl: "https://appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making"
+    ampWebUrl: "https://appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 46
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 35
     images:
-      - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://photos5.appleinsider.com/gallery/36050-66682-front_quarter_SMALL1-xl.jpg"
+        width: 1320
+        height: 743
+  - title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
+    excerpt: "VW’s investment includes a $1 billion cash infusion and the folding of its $1.6 billion Autonomous Intelligent Driving unit into Argo."
+    publishedDateTime: 2020-06-02T19:26:00Z
+    webUrl: "https://www.dig-in.com/articles/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
+        width: 1200
+        height: 630
 
 secured: "7JFJlZGYm9cmgUo1QwJb3BvqQgiIqMAJef4vCic8Q+YnfBbz28r2wIUE3KIbJPfr6fCVYeaiGPpjWHXoHp6PW7MYyXJ2kdL+eGtdxv6dHObwyWt30rF8IrBsNRGW4Qito92GmiWvrRHlCzvku8aybkGytUvx5SLgApt5aNT9fGfnCjg6aJeJVH4dTAiWt8lwnFrexcj8NGLwQ/LlG4ZMgts9a+G050+lMQj3OIoCHcOdwJAU3nAxD+GSLFZGCpuci4UcEJMXLQebB1kOal/OTczg9P2/TSQUylu3FE/MVDkPidoWHNhNFAwGeJ+/dPP2srJ7o4ntywTcx6NsM12MuSANpxpRYt6qccToSb4F0CA+/s9o6wdQdqqMSdJoglw6pxlOo8yyht0mK3NGdMEd3AvASWC7ByKLMjGoL3vOkcAOkCp2jMdOVE177vAUv4AIv1Knt2Ti2+enFWIAfdIuJytHiGnrbm8Os2a/XdlT83k=;Bwp2PHc8qp80WLCg780ajg=="
 ---
