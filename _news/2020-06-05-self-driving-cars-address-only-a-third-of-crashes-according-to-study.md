@@ -80,6 +80,19 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 24
+  - title: "Report: Self-driving cars will only prevent a third of all crashes"
+    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
+    publishedDateTime: 2020-06-07T18:43:00Z
+    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 24
+    images:
+      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
+        width: 750
+        height: 500
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z

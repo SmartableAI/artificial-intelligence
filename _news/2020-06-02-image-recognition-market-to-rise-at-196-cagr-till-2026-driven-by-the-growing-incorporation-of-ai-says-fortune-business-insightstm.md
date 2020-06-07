@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
-excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
-publishedDateTime: 2020-06-02T10:56:00Z
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02"
+excerpt: "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
+publishedDateTime: 2020-06-02T10:57:00Z
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
 
-secured: "YWs4zYHgD7OWIrTbOOpx55Efgs6iL121ByUXoPfWjcSW2jLevniBf4sf4LnodYfNp8kvCMRL3IJNSAIeqYeMX7/Ap46SRvWfvjL1n67C0PIzEM+42ztM0SHQunOz5oCOllLAWSNpSEvd8ltHTcU70qb5p6FdwLjBD7LCNLzep06VJPBUgEwh7NUMh7Yo59QdSWf8mRmo5BLiYkZCLQssjchPRP1g7QztPgnizcsqNt4AVi/tz2/+ziSkdQN5n0MfmPcEVJ1fiEZlFj9MonnNLyoLFW5nHqsBpc5OS3Ut9LSoWlu0kXHhemYImXrSnKaq;262k7KnQ5X3knJpJWLg8Iw=="
+secured: "dDUymSezrQpK6MoJQ1xviR9j6kc8cguekjw3ixV1Zw2NJK0LkNdxKv1iZ81f26Ckq2CABtw9OCG7juPciLUpiweU5EuvUT2JErA/qAjjfF++ZVNwgKOReATr21mP4DBjWWLiv1CkD/WspQ5VpcJuG+PribzB3zbxT6e10cHRnHoUIDzi3LMInUSM5mgXHW3defpDAyAt2jhKnbYEnKIM7JZBlZufEPRNkV7bgtpN39SjRJsG+kBNUP3sBNcgimCuuDJOxo39mc33e2w4hvOQj+ywikCCV7XUdLuw6/fHhLEHrDcMFF38ynmMk4qh5fu/;FGZwrfdDhT5XgdAq/oWWkQ=="
 ---
 

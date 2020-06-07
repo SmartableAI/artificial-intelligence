@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Self-driving cars could only prevent a third of U.S. crashes -study"
-excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-publishedDateTime: 2020-06-04T21:06:00Z
-webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+title: "Report: Self-driving cars will only prevent a third of all crashes"
+excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
+publishedDateTime: 2020-06-07T18:43:00Z
+webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: motoring.com.au
+  domain: motoring.com.au
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
+    width: 750
+    height: 500
+    title: "Report: Self-driving cars will only prevent a third of all crashes"
 
 related:
   - title: "IIHS study finds self-driving cars may only avoid a third of crashes"
@@ -50,6 +54,17 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
         width: 1280
         height: 800
+  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
+    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-04T21:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-driving cars might only prevent a third of crashes, study shows"
     excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
     publishedDateTime: 2020-06-05T09:17:00Z
@@ -74,19 +89,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 24
-  - title: "Report: Self-driving cars will only prevent a third of all crashes"
-    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
-    publishedDateTime: 2020-06-07T18:43:00Z
-    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
-    type: article
-    provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 24
-    images:
-      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
-        width: 750
-        height: 500
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z
@@ -110,6 +112,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "BUtxq3IcBUoa/dw70UYDZMz07N0vxWuSe1OtQUXFqgqIKLXaeRSThr/5Mr964w6uw0lXHt4dRQzBuTWCLLvpyEQjMXCn06dCcFI0OVyBfeL/zmq3wba21BTpqzpj9g2sjcuSyMe7mBrB/kBdKlVeUlfrkEYkf97pwbLa7e6KFawM17EFQgMDXPC94IhFQTFJsYGuKC1rZAHL6bf2+puWQf+k8MeWamXSSuQEPLyQH1FpPHGgKZLjuJWJXNf/D2cdt2Gm0k5Saq4uT8+EYXwpB0CCURobZZ62cKvS2hasRm0qyVydy6oolj3gOYr1+Rze65xmL5DFYCDRgTbVbj+qkETGovfepG0XXnMdNkyav4LWeeICq5L5VvO5PkfZKm3ptrbLepHuWucN+KSSyosAeV7GUMr0/346Lrm8rwmy/LMdO/CvtFiZJnW+Z9QvfWfGgUTn0ZUVSVFxIvrfSdOZg73h9KWaeQedzXoAwL4z0zU=;HYmvFtB5XW5wWS2hkCmcfA=="
+secured: "KWEKK9w0CiTMSMBpI5jIBkhgUiWnGhrk1ft8DwRNWr2BHdoCdGw3gy+LNrPUWI4ZKwoRUft1YC+I94oVgnZ2lo0jhL4fi4ToZnWUYMmLzFH+JD53P0dM12i2tGOTJ64PU3zQAnp0CiWJEa3cziXwq6QzvvpfASHcqmWdDzIseOxZQnaRDIHgtexCD6wSNuIt/4zFj307RinFw/H75MNl7/jXUueWmPawvKaIDnspXJUaiGjc6B56YQ9eRn/NApNfhWD5Ly25OxqXFtgVY9NZrl2HZKbmHZoEh5ZqANfDsLHFzgLW6Kfz5hxlZmzbDhVP;xBQatHT8dPbLbFWiSGHAOA=="
 ---
 
