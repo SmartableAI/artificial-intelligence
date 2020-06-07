@@ -2,6 +2,117 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
+      "title": "Machine learning helps map global ocean communities",
+      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
+      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "publishedDateTime": "2020-05-29T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": "Machine learning helps map global ocean communities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
+      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
+      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "publishedDateTime": "2020-05-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
+      "title": "Colleges prep for facial recognition, temperatures checks",
+      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "publishedDateTime": "2020-05-29T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Colleges prep for facial recognition, temperatures checks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-probeat-throw-out-all-your-pre-coronavirus-surveys-and-start-again.md",
       "title": "ProBeat: Throw out all your pre-coronavirus surveys and start again",
       "excerpt": "The coronavirus pandemic means your technology survey from earlier this year is useless. Your business needs to run the survey again.",
@@ -1157,132 +1268,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition.md",
-      "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-      "excerpt": "The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
-          "width": 660,
-          "height": 330,
-          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
-      "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
-      "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "publishedDateTime": "2020-05-28T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/05/09/4cd04908-1033-469f-be2f-dfe55163e039/thumbnail/1200x675/6cc8d2e936c36888209677284ed1acbe/toll-group.png",
-          "width": 1200,
-          "height": 675,
-          "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
-      "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-      "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T16:39:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
-          "width": 674,
-          "height": 630,
-          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

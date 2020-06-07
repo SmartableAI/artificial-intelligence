@@ -2,6 +2,133 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
+      "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
+      "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "publishedDateTime": "2020-05-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/07/7b0a628c-2bcd-4aeb-ae5b-033b0531e8a9/zillow-outlook-q2-2020.png",
+          "width": 688,
+          "height": 454,
+          "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-wsjs-the-future-of-everything.md",
+      "title": "WSJ’s The Future of Everything",
+      "excerpt": "Artificial Intelligence can speed up research and ... running in an era of skeptical users and wary regulators? From driverless cars to outer-space colonies, two moonshot thinkers talk about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/podcasts/wsj-the-future-of-everything",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-29359?width=400",
+          "width": 400,
+          "height": 400,
+          "title": "WSJ’s The Future of Everything",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors.md",
+      "title": "Tradier Teams With Q.ai, a Forbes Company, to Bring AI and Big Data Analytics to Customers and Retail Investors",
+      "excerpt": "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai's mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
+      "publishedDateTime": "2020-05-08T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
       "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
       "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
@@ -914,140 +1041,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-facebooks-autoscale-decides-if-ai-inference-runs-on-your-phone-or-in-the-cloud.md",
-      "title": "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud",
-      "excerpt": "In a preprint paper, Facebook researchers describe AutoScale, a system that optimizes AI inference for energy efficiency on mobile and edge devices.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/amp/",
-      "publishedDateTime": "2020-05-07T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-go-hands-on-with-interactive-ai-visualizations.md",
-      "title": "Go hands-on with interactive AI visualizations",
-      "excerpt": "Artificial Intelligence systems can recognize our voices, forecast the weather and help decide who gets a loan. Given the increasing ubiquity of AI, it’s important that everyone is able to understand more about it.Like any system or technology, AI doesn’t always get it right. And understanding why AI",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/technology/ai/pair-ai-interactive-visualizations/",
-      "ampWebUrl": "https://blog.google/technology/ai/pair-ai-interactive-visualizations/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/pair-ai-interactive-visualizations/amp/",
-      "publishedDateTime": "2020-05-07T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_baBdUJS.max-1300x1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": "Go hands-on with interactive AI visualizations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-pittsburghs-airport-is-the-first-in-the-us-to-use-uv-cleaning-robots.md",
-      "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
-      "excerpt": "Allegheny County Airport CEO Christina Cassotis said the partnership with Pittsburgh-based Carnegie Robotics highlights how the burgeoning robotics sector in Pittsburgh works alongside the community to solve big-picture problems.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
-      "publishedDateTime": "2020-05-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/YQ9zDrR3dk5UNMYYFkv5Z3o1sQ4=/0x0:1800x1266/1400x933/filters:focal(756x489:1044x777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764586/Carnegie_Robotics_UV_scrubber_at_PIT.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

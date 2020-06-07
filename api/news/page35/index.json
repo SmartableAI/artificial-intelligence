@@ -2,6 +2,117 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-07-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript.md",
+      "title": "Talend SA's (TLND) CEO Christal Bemont on Q1 2020 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2020 Earnings Conference Call May 06, 2020 4:30 PM ET Company Participants Lauren Sloane – Investor Relations Christal Bemont – C",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343962-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+      "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-how-mind-controlled-robot-suits-could-enhance-our-limbs.md",
+      "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+      "excerpt": "In Episode 2 of Future You with Elise Hu, we explore mind-controlled robot suits and how they could end some disabilities as we know them or let able-bodied people gain super strength. It sounds ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
+          "width": 1337,
+          "height": 752,
+          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
       "title": "AWS unveils open source model server for PyTorch",
       "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
@@ -862,142 +973,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
-      "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-      "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "publishedDateTime": "2020-05-06T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups.md",
-      "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-      "excerpt": "Runa Capital has closed its third investment fund with $157 million to invest in such deep tech as artificial intelligence and quantum computing.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "publishedDateTime": "2020-05-06T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Runa-Capital-Partners-e1588753074977.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together.md",
-      "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
-      "excerpt": "By deploying smart software that coordinates smart hardware, enabling multiple robots and smart systems to work together as a combined, integrated workforce. That’s something European startup Unmanned.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/",
-      "publishedDateTime": "2020-05-06T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb2d996ed706b000616ce8a%2F0x0.jpg",
-          "width": 1000,
-          "height": 534,
-          "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

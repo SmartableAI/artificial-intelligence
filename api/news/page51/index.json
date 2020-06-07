@@ -2,6 +2,139 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-04-27-leveraging-natural-language-processing-across-the-healthcare-spectrum.md",
+      "title": "Leveraging Natural Language Processing Across The Healthcare Spectrum",
+      "excerpt": "Companies, and even the government, don’t want that data — they need it; the future of medicine relies on it. We must begin to get something out of our collective health data. We must start breaking down information silos.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/27/leveraging-natural-language-processing-across-the-healthcare-spectrum/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/27/leveraging-natural-language-processing-across-the-healthcare-spectrum/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/27/leveraging-natural-language-processing-across-the-healthcare-spectrum/amp/",
+      "publishedDateTime": "2020-04-27T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Leveraging Natural Language Processing Across The Healthcare Spectrum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-tips-on-introducing-artificial-intelligence-in-your-business.md",
+      "title": "Tips On Introducing Artificial Intelligence In Your Business",
+      "excerpt": "As AI continues to grow and permeate seemingly every aspect of business, it’s important to cut through the noise and focus on where AI fits in your organization and how to best implement it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "publishedDateTime": "2020-04-27T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F433.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Tips On Introducing Artificial Intelligence In Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
+      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "publishedDateTime": "2020-04-27T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
       "title": "Codota raises $12 million for AI that suggests and autocompletes code",
       "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
@@ -881,132 +1014,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-leverage-ai-to-maximise-efficiency.md",
-      "title": "Leverage AI to maximise efficiency",
-      "excerpt": "RPA and AWS, which are increasingly used and needed by companies today. Besides, BlueLife AI offers many online courses on artificial intelligence, applied to real world industry case studies so ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/business/banking/leverage-ai-to-maximise-efficiency-1.1587901848106",
-      "ampWebUrl": "https://gulfnews.com/amp/business/banking/leverage-ai-to-maximise-efficiency-1.1587901848106",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/leverage-ai-to-maximise-efficiency-1.1587901848106",
-      "publishedDateTime": "2020-04-26T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/04/26/BluelifeAI_171b6592fce_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "Leverage AI to maximise efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university.md",
-      "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
-      "excerpt": "Before the pandemic forced all learning online, one campus was ahead of the revolution on using AI to augment the learning experience.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
-      "publishedDateTime": "2020-04-26T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5929c2281170006819f47%2F0x0.jpg",
-          "width": 1200,
-          "height": 1800,
-          "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
-      "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
-      "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "publishedDateTime": "2020-04-26T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106503770-1587691277030handoutmicrosoftemmretreatkevinscottmarch2018.jpg?v=1587691332",
-          "width": 1800,
-          "height": 1202,
-          "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

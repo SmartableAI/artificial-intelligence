@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
+      "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
+      "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
+      "ampWebUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-06-07T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees.md",
       "title": "Jaipur firm deploys 7 robots to cut down physical interaction among employees",
       "excerpt": "A robot guards the entry gate to welcome visitors, performs thermal scanning to check their body temperature.The robotic guard’s artificial intelligence is synced with the working of the entry gate, w",
@@ -1255,44 +1292,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
-      "title": "AI, machine learning to support digital lending landscape in post-covid era",
-      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "publishedDateTime": "2020-06-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "AI, machine learning to support digital lending landscape in post-covid era",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

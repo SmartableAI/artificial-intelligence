@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
+      "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+      "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "publishedDateTime": "2020-05-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
       "title": "Hitting the Books: Do we really want our robots to have consciousness?",
       "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
@@ -1219,43 +1266,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-robot-dog-enforces-social-distancing-in-singapore.md",
-      "title": "Robot dog enforces social distancing in Singapore",
-      "excerpt": "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111715036",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036",
-      "publishedDateTime": "2020-05-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Robot dog enforces social distancing in Singapore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

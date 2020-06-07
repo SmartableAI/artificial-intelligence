@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-07-how-mind-controlled-robot-suits-could-enhance-our-limbs.md",
+      "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+      "excerpt": "In Episode 2 of Future You with Elise Hu, we explore mind-controlled robot suits and how they could end some disabilities as we know them or let able-bodied people gain super strength. It sounds ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
+          "width": 1337,
+          "height": 752,
+          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them.md",
       "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
       "excerpt": "\"We need to find a balance of vehicle designs that enables the cost to be cheap enough that we can afford them, but it's not so highly optimized towards the purely unmanned spectrum that it's cost prohibitive to maintain them.",
@@ -1236,43 +1273,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
-      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "publishedDateTime": "2020-04-28T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
-          "width": 590,
-          "height": 350,
-          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

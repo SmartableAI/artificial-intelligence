@@ -609,6 +609,51 @@
       ]
     },
     {
+      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
+      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
+      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
+          "width": 1024,
+          "height": 767,
+          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-30-waymos-self-driving-minivans-will-return-to-california-streets-in-june.md",
       "title": "Waymo's self-driving minivans will return to California streets in June",
       "excerpt": "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8.",
@@ -1231,51 +1276,6 @@
           "width": 1200,
           "height": 760,
           "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
-      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "publishedDateTime": "2020-05-26T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
           "attribution": null
         }
       ],

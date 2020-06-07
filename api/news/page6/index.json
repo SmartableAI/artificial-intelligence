@@ -2,6 +2,139 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
+      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "publishedDateTime": "2020-05-31T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
+          "width": 2020,
+          "height": 1148,
+          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
+      "title": "Understanding the foundations of successful AI",
+      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
+      "publishedDateTime": "2020-05-31T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
+          "width": 6479,
+          "height": 4319,
+          "title": "Understanding the foundations of successful AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
+      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
+      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
+          "width": 1024,
+          "height": 767,
+          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
@@ -933,117 +1066,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
-      "title": "Machine learning helps map global ocean communities",
-      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
-      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "publishedDateTime": "2020-05-29T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": "Machine learning helps map global ocean communities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
-      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "publishedDateTime": "2020-05-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
-      "title": "Colleges prep for facial recognition, temperatures checks",
-      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
-      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
-      "publishedDateTime": "2020-05-29T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "Colleges prep for facial recognition, temperatures checks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
