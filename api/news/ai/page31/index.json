@@ -2,6 +2,35 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-06-tribepad-adds-live-video-interviewing-and-smart-language-translations-to-its-video-platform-to-help-recruiters-during-covid-19-lockdown.md",
+      "title": "Tribepad adds live video interviewing and smart language translations to its video platform to help recruiters during COVID-19 lockdown",
+      "excerpt": "Leading recruitment software provider, Tribepad, has today announced the launch of two new features to its award-winning video interviewing platform: live interviews and smart translations. The new additions come at a crucial time as organisations seek new ways to continue recruitment during the COVID-19 pandemic.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.personneltoday.com/pr/2020/05/tribepad-adds-live-video-interviewing-and-smart-language-translations-to-its-video-platform-to-help-recruiters-during-covid-19-lockdown/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Personnel Today",
+        "domain": "personneltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-why-choose-a-stock-image-yourself-when-this-robot-can-do-it-for-you.md",
       "title": "Why choose a stock image yourself when this robot can do it for you?",
       "excerpt": "Stock photography is typically categorized into two camps: overly specific images that no one understands, or truly bizarre photos that make their way into the internet meme cycle ( distracted boyfriend meme,",
@@ -1257,51 +1286,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing.md",
-      "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
-      "excerpt": "Startup GigaSpaces announced that it raised $12 million to further develop its in-memory computing platform for big data analytics workloads.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/amp/",
-      "publishedDateTime": "2020-05-05T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,35 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-05-06-unfounded-criticism-of-chinese-tech-firms-its-just-business.md",
+      "title": "Unfounded Criticism Of Chinese Tech Firms: It's Just Business",
+      "excerpt": "Dismal factory activity data in China and the U.S., coupled with downbeat earnings from tech giants dragged down equity indices in both countries. Feeling unlov",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343620-unfounded-criticism-of-chinese-tech-firms-just-business",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-todays-cache-security-issue-in-aarogya-setu-app-and-more.md",
       "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
       "excerpt": "The Helio G85 will boost performance of AI camera tasks such as object recognition, smart photo album, scene detection and segmentation with background removal. This will enable smartphone makers ...",
@@ -1053,51 +1082,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
-      "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-      "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "publishedDateTime": "2020-05-06T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183667/social",
-          "width": 1280,
-          "height": 640,
-          "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

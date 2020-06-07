@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
+      "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
+      "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
+      "publishedDateTime": "2020-05-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
       "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
       "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
@@ -1159,43 +1204,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
-      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "publishedDateTime": "2020-05-18T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

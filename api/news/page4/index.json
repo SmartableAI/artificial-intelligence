@@ -2,13 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer.md",
+      "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
+      "excerpt": "Vara, a startup developing AI tools that detect early signs of breast cancer, has raised $7 million in venture capital financing.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
+      "publishedDateTime": "2020-06-02T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ce5948e5-f370-474a-aaab-47f06923bc0b-e1590521543643.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
       "title": "Police facial recognition tech could misidentify people at protests, experts say",
       "excerpt": "Facial recognition algorithms are notoriously bad at identifying non-white and non-male people. But the tech may still be used today as protests roil the U.S.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=36&itm_content=1x7&itm_term=2376504",
+      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=38&itm_content=1x7&itm_term=2376504",
       "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
       "publishedDateTime": "2020-06-02T14:24:00-07:00",
@@ -704,14 +748,14 @@
     {
       "path": "_news/2020-06-02-image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm.md",
       "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
-      "excerpt": "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world.",
+      "excerpt": "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T03:57:00-07:00",
+      "publishedDateTime": "2020-06-02T03:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1042,51 +1086,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
-      "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
-      "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

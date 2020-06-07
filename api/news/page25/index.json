@@ -2,6 +2,51 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
+      "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
+      "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "publishedDateTime": "2020-05-14T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/-HBTqIvR2Ygwa3wLzsz5LwiJOJE=/2017/10/09/4570d0cc-50a5-4d63-873e-6612deda4970/gm-strobe-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster.md",
       "title": "NVIDIA A100, the first Ampere GPU, is an absolute monster",
       "excerpt": "NVIDIA made a lot of announcements during its GTC 2020 keynote today, but at the center of many of them is the company’s new Ampere GPU architecture. Ampere is something that’s been",
@@ -1038,51 +1083,6 @@
           "width": 2307,
           "height": 1334,
           "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services.md",
-      "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
-      "excerpt": "NVIDIA announced a new solution to help organizations create artificially intelligent conversational services at its online GPU Technology Conference (GTC) this week. NVIDIA Jarvis is a GPU-accelerated app framework that leverages video and speech data to build customized,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
           "attribution": null
         }
       ],

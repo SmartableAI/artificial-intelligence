@@ -39,6 +39,19 @@ related:
       - url: "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg"
         width: 650
         height: 400
+  - title: "Jaipur -based private firm deploys robots to reduce risk of COVID-19 infection"
+    excerpt: "In order to prevent COVID-19 infection, a Jaipur based private firm has deployed humanoid robots and other Artificial Intelligence (AI) techniques in its premises to reduce human to human interaction in its day-to-day functioning."
+    publishedDateTime: 2020-06-07T21:34:00Z
+    webUrl: "https://www.sify.com/news/jaipur--based-private-firm-deploys-robots-to-reduce-risk-of-covid-19-infection-news-national-ughvagchggibi.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 50
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/Jaipurfunction_june08.jpg"
+        width: 600
+        height: 450
 
 secured: "TiLkTOFAEzRhA4vU7tO2Fh+R1ydGAzsIIU3JXE/LgmTsx1PYMttTwyIU76aMcx4e5loPdhSCe+VVLZOfCL8Vgyo/XhoHV42yWfW6Mz3W9fL7VBUMAAFtbF7r3GnQ2/8XgDCzLTeLF8zzdsjOfgM3Ij8eGVf2Y7ZcE09BTxVqbFSjDqmvmliqmG0lim3VgHwVj7mE1/Z1+/RnfSqbw5oZ6j8ddPdje8DAutW7UBEePOv/QPpjEUceaLMK2ZQS02YxrscLStO2kAUVPRPyVjk+xwCcjprY6tCFULh6fWk3YEpDuAFMuBT5sal5cfOx/3bmSaDidWEG+ZsAggVPqrXu+7hMsoz76cUwQe4qZV3d427LZm5wPQJXXufqeG810oiU4D/bx4GTcFtShHQsZH5Ccec3eT2+fTYT99zBcqg3o+TX/oj9s3ycJFkVXbwC6+Ch1SrQXO7DxPm5J7CMpE6ffPZKPQbdxqHrcI9YLPCH+3g=;BiJytl+nudzJUEtmH8si7Q=="
 ---

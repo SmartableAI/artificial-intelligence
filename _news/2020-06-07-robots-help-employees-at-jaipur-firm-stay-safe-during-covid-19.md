@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: "https://cms.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_2055897041.jpg"
         width: 900
         height: 675
+  - title: "Jaipur -based private firm deploys robots to reduce risk of COVID-19 infection"
+    excerpt: "In order to prevent COVID-19 infection, a Jaipur based private firm has deployed humanoid robots and other Artificial Intelligence (AI) techniques in its premises to reduce human to human interaction in its day-to-day functioning."
+    publishedDateTime: 2020-06-07T21:34:00Z
+    webUrl: "https://www.sify.com/news/jaipur--based-private-firm-deploys-robots-to-reduce-risk-of-covid-19-infection-news-national-ughvagchggibi.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 50
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/Jaipurfunction_june08.jpg"
+        width: 600
+        height: 450
 
 secured: "Oe6cNZQPjRkTuq3QBOBOFH/BW/3FE6Vn9OwZQVBTup/dvCH8ScxQHcw7Go3ISIQJdM/NQBlma3wkwvDoLt2wp8XG/dVqwDWrs+m7rVPfUx8urHMc1Jv5FPJ71sVzrLKswgwAXRYGOTOhkjnPX/c9ijJDqQdgxv0XANY9UBN8uIhfw3Ri30waPO8CH+L0UL6PB8kOuFY+UEkJW0FBrE/xh5sf+kkmWP8Pn0dFrgRGwl/diZPLk+gKvUsV27ZH3A4tPMi+PHK8nq1nO1vUUNs88td4e58xTx+STCxsdvSsFHwtl+Q3UMvlsbIC/BBxjaiq4GQNNCIx4r4o1J4dMIlYj3HBgjdqmCJQoP3kBH1mGcYlYxRTdvNjCA83GBHP9MvRy5XMI+t3kO8417ok6fFBc/oJl6OjdheBa9jsP9cNZQ3URhWa6glLr1S1eHKlP7NNQ0xcoe275Nc4bJ0G5V46KKghWC7h24BA5GIpYAc823Q=;g/fw66e7Ohnl3/jKE9+8kQ=="
 ---

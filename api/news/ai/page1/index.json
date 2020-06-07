@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
+      "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+      "excerpt": "Source link:",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "publishedDateTime": "2020-06-07T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
@@ -50,7 +94,7 @@
       "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
       "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
       "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
@@ -1238,50 +1282,6 @@
           "width": 1248,
           "height": 1214,
           "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019.md",
-      "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
-      "excerpt": "According to a new report from ARK Invest, the cost of training AI models has delined steeply over the past decade -- and will continue to decline.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/amp/",
-      "publishedDateTime": "2020-06-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
           "attribution": null
         }
       ],

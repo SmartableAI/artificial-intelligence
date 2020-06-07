@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
+      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "publishedDateTime": "2020-05-22T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
       "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
       "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
@@ -989,51 +1034,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
-      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "publishedDateTime": "2020-05-21T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

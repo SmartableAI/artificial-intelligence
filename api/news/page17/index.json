@@ -2,6 +2,52 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
+      "title": "Search engines are leveraging AI to improve their language understanding",
+      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Search engines are leveraging AI to improve their language understanding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
       "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
       "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
@@ -998,51 +1044,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
-      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "publishedDateTime": "2020-05-20T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
-          "width": 1200,
-          "height": 630,
-          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

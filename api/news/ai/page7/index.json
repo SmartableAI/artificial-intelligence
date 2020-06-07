@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-29-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 outbreak, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/",
+      "ampWebUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "cdnAmpWebUrl": "https://gephardtdaily-com.cdn.ampproject.org/c/s/gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "publishedDateTime": "2020-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gephardt Daily",
+        "domain": "gephardtdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gephardtdaily.com/wp-content/uploads/2020/05/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 693,
+          "height": 386,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
       "title": "Apple Grabs Machine-Learning Startup Inductiv",
       "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
@@ -1212,50 +1249,6 @@
           "width": 1024,
           "height": 745,
           "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-this-start-up-is-adding-a-layer-of-ai-to-video-feeds.md",
-      "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
-      "excerpt": "Bengaluru-based Integration Wizards Solutions started with enterprise mobility, creating a platform that would allow for seamless communication across devices. While the computer vision solution is their latest offering,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351200",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351200",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351200",
-      "publishedDateTime": "2020-05-28T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590657051-20200110-1415551-min.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
           "attribution": null
         }
       ],
