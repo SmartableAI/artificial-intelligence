@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-suprema
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "AI Weekly: Dismantle white supremacy for the good of us all"
 
-secured: "tH23jSNHnMpFlxL0PhVh0dOvdyKn5VwGIlgRkVmdzvA3qyRAPdKTdcrFvbgoDY4fFtm7bgrmcH4Er/IAEh50VaJaSyrsMJnIO63M+R67i4iteOVhM8LxnX9OckmkapJtInlW2BQQbama94l8W33Y6d7VyBLGKMV1ZcDyregF7yAvYzy2TzCzd4oLemAIUxxSmQuxqcke2mItyoeqyu/cRteolx65fz3juSoo02KD1aqyLNjnzYiWI7xBq6tiW/gahSwZ9w1kxJCm4aE0AucKKza7hiviUfE00N803iIhRbbpfVGfkSrbplyuc1UTnKiXvKRo3ieQVy9uEYUuf8T+7T05dv9+COCRFwDyIPB/HItIIiT+Q/XypmNoIAcoy56yeK4T9OZPWvhS4hYFX9GzvbYNHYKHNfVhZyyrQb/5TRsHIHruBCgWAwnZH/Xht2SHGOrPfiDK602Ll0IVXTOQZ2SSlMbKfCL6xhw3ZeLUGSM=;clrDPdDWuWTaAzYDnJaazA=="
+secured: "aJlM6BfcPeZtW5MH6UBMyijMZU1cJDEsoTfYasj7qCBccbrVdTY6oniOtQcZ7JdSJUXxVYkP23OT5aCexCaI2BcO32GjWwCO8SpYJD/M+1bpHR+gqxeGd3H8DFqyg+o9hhkSrIkuUkSZavvM8I/gxflWQyYf+SKd/lNG5rf93TlfKWlaJCVY33ILrbF0ES7UTnpXmNXyYOXmhXtFoQ+EIaV0A7D2XMwiD66ucHiPnegEZfzjA7SVLYMjvkwBe74tGnIln37/R9XEFH9+Qj6PKpD8JoZB+4qqlO2bfxCIsryNcqHsni2Kptnd0MOR6F7guMbZN//3dcxf97QqvnGbckFPv59ruocE3sf8GC62LPnm5XDlrbtN7Vv+uy3PvnH+8vpEYDD5A6Y8BfpZLksH1URtKdMFGkY3kuB6nhzL3AiXs5lkRWSYEpjWBg5Xc2GE2K6SOLEgz0g+lo3tk8mdGz7bymLDqjNdJ7nhxvjvtoc=;JGyQrj2BS3G4Pka43RJ/cw=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "U.S. Joins G7 Artificial Intelligence Group to Counter China"
-excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea."
-publishedDateTime: 2020-05-28T20:34:00Z
-webUrl: "https://www.nytimes.com/aponline/2020/05/28/business/bc-us-white-house-g7-artificial-intelligence.html"
+title: "U.S. joins G7 artificial intelligence group to counter China"
+excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s"
+publishedDateTime: 2020-05-28T20:37:00Z
+webUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/"
+ampWebUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
+cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
 type: article
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WAVY
+  domain: wavy.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "U.S. Joins G7 Artificial Intelligence Group to Counter China"
+  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png"
+    width: 512
+    height: 512
+    title: "U.S. joins G7 artificial intelligence group to counter China"
 
-secured: "oiIzaYo+SOx+AUkukXQtC6SIfVYoXuSCghG5xWLr4s7aYv5J3wOjFiOptX5Sv4eSyYaeeCp77SX2qw/KUcZtEjD8vcb07/UD5DL/hI/mNLtkkqs7vhhsR7YChz16jHAh9aymZ+lJ1LSLZ4ns2zq30T/Ss2XGJsF9RhkP7IfC61bQ2Es2NyQVV1wnBv3WHHUIf0d1A72edh2SuKLF12LBs34piI+TQ/pIwsx+v8BGQiZQ4LRsV2II/XH3nBLj/QnULPhD3MigdE3waI8EeCh8EMcc64xOj8o39o7lI1lRTeUYckbgZcTIhpXqaFfgJbNs;ArgDwylHmXh37QChhYIwYQ=="
+secured: "plB4/4oLhErNtzHgFBfPRKBqB7ejHHqGU/Mk6ydgdAlCzin+dZpXFvZK5yZM4w7v2aQ3HIKzH8/+/nwYhg8OAWatZpweprZ6RHAtAuP6htax0sYT2/nnPPxqSMJS4MTtrpvJSPGoueRALQgDri/avW7JuP/H9rLbtvVgUcS7aaE8dNWTzFjcG0nnN+XDIhi2FHE/0nWAl/xaUxGp4DsEdjHPSzGa1r7ZvYxEHS5d3JgHD2BpK5e/jQmXyuvoo1Ss9b0WFWYcL9Zn2rg3EPui0DqqEuaRg+uoNY4SvuWEvLY8ZikKhGsP7arp0tvL61iO;3DC6Alb9bOtbM/zTLXkiKA=="
 ---
 

@@ -20,21 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving 'Apple Car' may combine LiDAR with other sensors for better decision-making"
-    excerpt: "As work on the \"Apple Car\" progresses, Apple is coming up with new ways to improve automated driving systems, including using other sensors to enhance LiDAR scans to better determine what's on the road."
-    publishedDateTime: 2020-06-02T15:34:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/02/self-driving-apple-car-may-combine-lidar-with-other-sensors-for-better-decision-making/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 35
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36050-66682-front_quarter_SMALL1-xl.jpg"
-        width: 1320
-        height: 743
   - title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
     excerpt: "VW’s investment includes a $1 billion cash infusion and the folding of its $1.6 billion Autonomous Intelligent Driving unit into Argo."
     publishedDateTime: 2020-06-02T19:26:00Z

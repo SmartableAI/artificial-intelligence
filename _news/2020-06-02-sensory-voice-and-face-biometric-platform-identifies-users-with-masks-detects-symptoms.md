@@ -23,21 +23,6 @@ images:
     height: 591
     title: "Sensory voice and face biometric platform identifies users with masks, detects symptoms"
 
-related:
-  - title: "Finally, a Biometric Solution That Recognizes Users Wearing Face Masks and Doesn't Require Touch"
-    excerpt: "Sensory, a Silicon Valley company pioneering AI at the edge, today announced that its TrulySecure face and voice biometric fusion platform has"
-    publishedDateTime: 2020-06-02T15:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finally-a-biometric-solution-that-recognizes-users-wearing-face-masks-and-doesnt-require-touch/article_b28de851-176e-5b69-aa83-acd7710b188b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/fc/7fc49438-453e-56e3-af5f-3b1db65eeccd/5ed677b615516.image.jpg?resize=400%2C224"
-        width: 400
-        height: 224
-
 secured: "AfN8Ar08Jk5dyG0eU+HUUbLNja2nZkeZD5eUW+g2FW6kycOJYobpj3veh27nQBuv6k65QFt4RBGWkPI2MrgKhqm7VDrh6nPBv980htV1QcPZ9J/9ka/Js9fGlbebS9k1gJpV0Qr7brUdXYfAC34NRvTlWPuydD8LddG9JLBpmroRg2yHFV1+k5UtLmAmL3OvVfbATTNDZPtdskwoOwtMOmFPgJ4P4x1+YxOEYowG7Lx8zu8Op2NGt60CDpSN98bdirnGWmpZcF2xUP/z6dj4PFDe0r8r01+lfUUjMMxj50cwxtVezv7aJdxEyf30FoqgglHmhoZMkJrhtVAPLgv3OV6oy+Vs0HariMIvXvLCS4SMT919zws4rBtNPJl2my2ZFiKO8HN4J0eH79TF18NzjN4pxMCRCw6soNtmdnplBKxq57no2V+SHT8OsLOv16E12JSVSXrA2R1MboVJQ8MgSXOjy/IZ0LHMKIUcXxP+4vg=;dgFYeJrGHFMXuc9/25A6cQ=="
 ---
 
