@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Yandex switches from self-driving Prius to autonomous Hyundai Sonata"
-    excerpt: "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata."
-    publishedDateTime: 2020-06-02T09:00:00Z
-    webUrl: "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/"
-    ampWebUrl: "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp"
+  - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
+    excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
+    publishedDateTime: 2020-06-02T10:32:00Z
+    webUrl: "https://www.thestreet.com/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 46
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90="
-        width: 1200
-        height: 630
+      - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
+        width: 720
+        height: 406
 
 secured: "7JFJlZGYm9cmgUo1QwJb3BvqQgiIqMAJef4vCic8Q+YnfBbz28r2wIUE3KIbJPfr6fCVYeaiGPpjWHXoHp6PW7MYyXJ2kdL+eGtdxv6dHObwyWt30rF8IrBsNRGW4Qito92GmiWvrRHlCzvku8aybkGytUvx5SLgApt5aNT9fGfnCjg6aJeJVH4dTAiWt8lwnFrexcj8NGLwQ/LlG4ZMgts9a+G050+lMQj3OIoCHcOdwJAU3nAxD+GSLFZGCpuci4UcEJMXLQebB1kOal/OTczg9P2/TSQUylu3FE/MVDkPidoWHNhNFAwGeJ+/dPP2srJ7o4ntywTcx6NsM12MuSANpxpRYt6qccToSb4F0CA+/s9o6wdQdqqMSdJoglw6pxlOo8yyht0mK3NGdMEd3AvASWC7ByKLMjGoL3vOkcAOkCp2jMdOVE177vAUv4AIv1Knt2Ti2+enFWIAfdIuJytHiGnrbm8Os2a/XdlT83k=;Bwp2PHc8qp80WLCg780ajg=="
 ---

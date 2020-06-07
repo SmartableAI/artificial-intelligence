@@ -37,15 +37,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Mantra Labs Launched Multilingual AI Chatbot with Video Calling for SMEs"
-    excerpt: "Realizing the need for uninterrupted, contactless customer support amidst this global pandemic, Mantra Labs has launched AI-powered chatbot with video conferencing and regional language support features to help SMEs adopt digital at very affordable prices."
-    publishedDateTime: 2020-06-02T07:05:00Z
-    webUrl: "https://www.pr.com/press-release/813800"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 18
 
 secured: "YuU5KyHqisiCBzPX8+vF//wce4qCR2w2FSTumAkMyY2eVYWcn5d5P00hwOPD9bHF/9Ja5PyeeuUB3CsaDBYI03J5CTqC6D/ZBXAwxN2gAdJgkvbH16rvSDGvTaHawcjv57jR3T/Hjfw2uVIBzP2ax4MnW2r4/FT9MuobyEikhJG/PMHWvDPrR7Wf/RuXB4/aBe0Wqb/26J1pYCQbwvXl2TzrjKvR0STooUNRigOcRIURAN15OLUo1TS2t41D1WMI2MjLp7hlXZmzoyLjSd6Y07pHHIveeYeAxTHqM1c7LtkTUteJvZi8/20J72fZTtXU;agYq8tnwJw7Ps+jC0jMK8g=="
 ---

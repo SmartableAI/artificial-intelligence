@@ -25,6 +25,6 @@ images:
     height: 3795
     title: "'An Entirely Different Way To Trade': Options AI Makes Smarter Options Trading Available For The Everyday Investor"
 
-secured: "k/bOwnme0XneoWQwbm/mdFLF5aRqidrAsaA7+DSCROkyngsif5KDAGlz9t5uVjdC89IoRgaflK08iT/621q0SvYIaj9wb+cBktLYgy/d6XOtyACLMamiuZPtzM5wrVMP1+MmLWpPDQkvTL7xo4P3COBX7XpyrILbTTllQx+c+xOV81ZNBctON83N1nGho82K0uz/yw29MA2KNE8a8zYBsSRKWEIfXn///0VVPu19AuZV80Hi3/Z7thVpyD3qEhUT4Xk8p8dHBJOYWYFi2vMZyBBj5JuX5eFhmTyFqf5W98RDfPRSUko6RvihOKzSnDX7;NsF2p2+xyZh/YRMDQVSrTA=="
+secured: "UhkKsdU19p4xkcv6ZaO6Rzm3WZn9C5uFwU01uNwRhOBDJzFLA7dfyvPrJ+c+g1EFFAxjWa6jEbB15RE0cOOIkX9vdI47T7a1j6LUoOvXs4HI5NPYNP9utG2THMnYW8gadYfm8CSZHrxpFxrLh2YJJ0GkVRuazdgde3BZ0CNnqlgcIx25VaPyK9l7KPumer+tWSVj7vNlTTcd+Fc6NteFi9om/OOVP3kHF6aMT3YxXIgjz7tZVWwNnk6DxOfH+aPQw5IOrFs9CKGApfEwp6x/9qyQ3iYDs0MT0soF5P8KUT0G1AKrkXQxNasDLkMErPdG9TCgxtvJ7bux4JfaIhsuKzEeg98+pNrzha1HQix/rzInOuHlkVIiMw3ZhTtyTKLZY/G/XcevBycKxvAjLYjXptORulWjjDjaJsQcD8n3jPQ+yYLeh5/2CYmIUls7XK3J2Bzo/scEPBr/1M3I9KaGj0Jgh3X1rlojtYm5uALcEDQ=;b5aFTJlEJZy6Bvg7b22m1w=="
 ---
 
