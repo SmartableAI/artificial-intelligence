@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-05T05:43:00Z
 webUrl: "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,15 +24,6 @@ images:
     title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
 
 related:
-  - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving"
-    publishedDateTime: 2020-06-02T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200602005112/en/TIBCO-Delivers-Advanced-Cognitive-Services-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 44
   - title: "Kofax Partners with Microsoft to Enhance Cloud-Based Universal Print Solution with ControlSuite"
     excerpt: "The partnership delivers more value to Microsoft Universal Print users by letting them seamlessly leverage Kofax ControlSuite, the company’s award-winning print management and cognitive capture software solution,"
     publishedDateTime: 2020-06-04T12:30:00Z
