@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 667
     title: "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP"
 
-secured: "EibpuvbCEPOC9yNVDr16k0IiruZztYubCks8rKL/8SdeQakMfush3dwASaB8kdNAr0jmCF1NsM//6ji1lI+UBCi5D8clt+84ZXS4JKsv6q2ENvdO+fAN3YnDN8wsIrK/HhYvTXYlCT9w+Lyf6NKegI9ezdcooEZnNBgnRSRuDvYgFyaopuDBAfBiJWnGZWiEI84BCFgqFyrWITFCELkDfeYSk8WEQLxmkJsKrGT+NopCb9rmC6rADrESr4L9ZLI+mgnx2jaW4AiIFwBtkEdl3c2SCxXADdcl4V7aeG4YDe5WqbQx+cdo9xkdrtjzyRlfthLjG0AGXBpZ1BHbi+7+grXmjg8jGYf0e3qYEmns0swsbvtWnBVL/wrD3lHlOwEJRd5MtP7zHpKJRyh+DBGN/dUpC8D5AAc0A0fex3nQ8Bdqi6IkFUMU5U5RnLIK/7VmMumKpT2HAfV3CcFAiLKSNCXIw0mshC2lf/u3WNLxBg8=;kgWgF52fqoJODXI2RgAs5A=="
+secured: "1PKehf92GpHqm8hCKMDxW43936MP/FOZ85wJ2FCVWqBgjVAEYFndYOoT9M1my7/dzJWszGnAm//yHsrB7me0NnRk7oA/FjKTzxZmaMf/RSPi7d325M1Mtt6Gu9KChGUDOuPxKMtBD53DwP4QpYQ8jaiCEg1LmkDkgfV8UqajDDcAX5ZA9+b6c30D5odr3y+Rdszz/l8IL7xoh9zerA8GE51LfsX+EnkD3pv1zTcHNrYx6Mzho7b/BuhWZcGfkidzfFfpgQSLevPTIjH5mSoUo+iyCjUDku2CwwjwvolTUu+3lpWE3YkH1YvK93sWRHsK1yXHlJhpBEzHfBQ/fm9Dp59awWfWJUr2OFVE7R0/c1HPKADY8PbdxmmDJFaFveN6h2mMuQO/9ymyym8SoLQutBSTCS7QYjc2zG2m/t+CfrKRckoVE3K0lqNcWFkX1yajCjZdXncZ1/uhqFU+WKLo8eIYJug4mXL2dgWLml82wEU=;Ce2hdGmyeflC0DnJ6d3Hyg=="
 ---
 
