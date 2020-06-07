@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200602/SFU-and-Providence-He
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200602/SFU-and-Providence-Health-Care-collaborate-on-AI-tool-to-aid-quicker-COVID-19-diagnosis.aspx"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 620
     height: 480
     title: "SFU and Providence Health Care collaborate on AI tool to aid quicker COVID-19 diagnosis"
-
-related:
-  - title: "SFU, Providence Health Care develop AI tool for quicker COVID-19 diagnosis"
-    excerpt: "Simon Fraser University researchers and Providence Health Care (PHC) are collaborating on a new artificial intelligence tool that will help diagnose COVID-19 quicker."
-    publishedDateTime: 2020-06-02T17:49:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/sfu-sph060220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "AzDTwold86aBPvIOi1FZJvDiihJ1in2f15bPpJwGrJCgsUhgJNSTqx2xl0x2TsE6H0Bjvs1c1+SBSnZnsLm38MACQzMoabk6F8uQpKjVk8Fu73xW6JB3466fILT3uQ+uhat/AzMWKzIRJ+TKWbZVJXwnjLRYfmUyFPhnn8z5fImjwB0Tlw+wVDWll4xWB322yR9a1Hg9ww/uWqrZScjNiQi2THWelmVTcleZwSVHS5MXAPKnKdms0PiULBQK3bRXIz9TJO33OQbJ/a8Rt5y1FsVoZXQ0K/zzadQ26Lx/LRuWhY/aPjwMcim7byExrzeA;4RGvRDN7EwfLcrquT07M4w=="
 ---
