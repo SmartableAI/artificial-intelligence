@@ -24,21 +24,17 @@ images:
     title: "VW completes $2.6B self-driving deal connected with Ford"
 
 related:
-  - title: "Ford, VW finalize autonomous vehicle deal with Argo AI"
-    excerpt: "Ford and Volkswagen finalized a deal Tuesday with Pittsburgh-based Argo AI to introduce autonomous vehicle technology to the United States and Europe."
-    publishedDateTime: 2020-06-02T19:14:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
+  - title: "Ford Joins With Volkswagen To Help Produce Self Driving Car Deal"
+    excerpt: "Ford Motor Company and Volkswagen signed a $2.6 billion deal to help produce a self-driving vehicle. The deal is in partnership with self-driving software company Argo AI. Ford’s autonomous division has been testing self-driving cars including at its Detroit plant."
+    publishedDateTime: 2020-06-03T02:35:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5721591121523/2020/1/48bd56c07fed01b79e02f7d4839e8c9c/v1.5/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI.jpg"
-        width: 800
-        height: 533
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "9cugYvmBxuMdiFh4HW9KvTq339uqaXHYF3JzAejRGO+/oHog1VpdC03YU2ONrFrBp4GqqDuK4l0bijz61b48IzRm+aM9K9FNgH7e+obUu/lLbiuiK6iJ8+BVdFYrg06hl+bEx1vFjnqEAqaNaOIsGhGQRWbTvZ/0P785mUqchZzUrF/lNRoeGzSXTaED8lFtwX+HIGQcXdXxqtnY8X2x3TLse3aheUkP1+KuR1m2gwquIEzVUBw6RlVm/7c+/9Y2YsMwcZjc60yOj+ynQsHzZJhb/wJaqSa7pPgrngsni0HCIWD01k89BrPVkIarxKJV;FpYEr0lyKPxdqtGK6GYSqA=="
 ---

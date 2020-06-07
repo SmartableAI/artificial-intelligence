@@ -20,17 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
-    excerpt: "VW’s investment includes a $1 billion cash infusion and the folding of its $1.6 billion Autonomous Intelligent Driving unit into Argo."
-    publishedDateTime: 2020-06-02T19:26:00Z
-    webUrl: "https://www.dig-in.com/articles/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw"
+  - title: "VW completes $2.6B self-driving deal connected with Ford"
+    excerpt: "Volkswagen has finalized a deal that will see it invest the equivalent of $2.6 billion in Argo AI as part of a partnership with Ford to develop self-driving technology. The news was announced Tuesday. Ford, in a posting by executive John Lawler, said the arrangement finalized Monday involving the Pittsburgh-based startup would allow the ..."
+    publishedDateTime: 2020-06-02T23:14:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/vw-completes-2-6b-self-driving-deal-connected-with-ford/article_436819af-bccc-5b20-9547-26c93ed1add0.html"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 24
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
         width: 1200
         height: 630
 
