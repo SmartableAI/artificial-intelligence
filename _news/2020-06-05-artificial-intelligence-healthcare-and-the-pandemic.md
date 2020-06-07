@@ -8,7 +8,7 @@ ampWebUrl: "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-t
 cdnAmpWebUrl: "https://www-socialeurope-eu.cdn.ampproject.org/c/s/www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

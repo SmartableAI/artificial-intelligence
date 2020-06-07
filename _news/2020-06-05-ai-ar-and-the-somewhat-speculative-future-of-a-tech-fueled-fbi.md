@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-f
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

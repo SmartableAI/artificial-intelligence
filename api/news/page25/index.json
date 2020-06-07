@@ -2,6 +2,50 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-14-this-luna-ai-speakerphone-ticks-all-the-boxes-and-costs-just-99.md",
+      "title": "This Luna AI Speakerphone Ticks All The Boxes And Costs Just $99",
+      "excerpt": "Portable speakerphones are a great way to take calls, whether you're on your own or with others you want to share the call with. This new and affordable eMeet Luna speakerphone uses AI for clearer calls.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/amp/",
+      "publishedDateTime": "2020-05-14T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd5d4a67673900066bbb47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D31%26cropY2%3D706",
+          "width": 1200,
+          "height": 676,
+          "title": "This Luna AI Speakerphone Ticks All The Boxes And Costs Just $99",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-gms-self-driving-unit-crusie-to-cut-8-of-staff.md",
       "title": "GM's self-driving unit Crusie to cut 8% of staff",
       "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
@@ -1037,51 +1081,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
-      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
-      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

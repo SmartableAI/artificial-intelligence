@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
-excerpt: "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
-publishedDateTime: 2020-06-02T10:57:00Z
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727"
+excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
+publishedDateTime: 2020-06-02T10:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02"
 type: article
 quality: 37
 heat: 37
@@ -49,6 +49,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "Uy3I+wXZ6jjSUHKRZbcfn7iZwoYBODsWrmSfLFWc4ngbehM1FigM3dw4q4LiMQzqahHSMb7D/vYiyGNT4LNndXcRHXpop1aeo9281rBOGFhpXBfJrk1/CqUDaJDFFAWFpguBAS+TOADeTQe9yc8FDWacgTDexI3Cgjx7Xfm0O9zyMDSRWXfuZCzm9vhA+jcuJzln4qdnQNplOlEhYlcdR9VMreGeL4u0TEGwvAbq0JJgYKt9m90ftHcOzD8ylyt5Pe9I6uwUMG/4EKX2dbE4RnnzMKTFQX/breIXXMu4eBWu98K5G36prGM2kr8nUO9F;vV6Agza2Qc5k6hfc3CGhrQ=="
+secured: "psOId1aii+aab4tirb+zpTjfZpkntaRbi4G+nED0joru2RBvBsvc3sWtRnrNK3zu1TNkg59Yb/hZOL4lwH65sqcq4CDd32TstHiW0BaPB20JjiosR9iQ/ShY6qcvQluOt4n83nz9IBBgyAUSCN+8IBBYlGfa5gx1CRONwyz6T3jnFSE8jVMSpjN4Z698jSfKnRrF+NtVt6xmIQQAgyGB9mcQKlybWWdHGnXEwyRxAFje4IkujGa8Fo55RvB9tiMWvIF18t3Vc6Hy84ZYiGHR83psZW8EFINjmBohfhApl5rCpy5sJy16zie0m2B569o+;vUTQfgM1Dw1u/iTcj0cKvA=="
 ---
 
