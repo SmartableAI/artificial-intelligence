@@ -2,6 +2,125 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility.md",
+      "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+      "excerpt": "Essence, a global data and measurement-driven agency which is part of GroupM, today [29 April 2020] released a unique report on the future of advertising based on the predictions of experts across academia,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/",
+      "ampWebUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "publishedDateTime": "2020-04-29T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "exchangewire.com",
+        "domain": "exchangewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchangewire.com/wp-content/uploads/2020/04/kyoko_matsushita-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics.md",
+      "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+      "excerpt": "A group of 24 specialists has started drafting recommendations on AI development and implementation that respect human well-being.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/",
+      "ampWebUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-moroccoworldnews-com.cdn.ampproject.org/c/s/www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "publishedDateTime": "2020-04-28T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morocco World News",
+        "domain": "moroccoworldnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.moroccoworldnews.com/wp-content/uploads/2020/04/Moroccan-Expert-Joins-UNESCO-Panel-on-Artificial-Intelligence-Ethics.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
+      "title": "UK spies will need artificial intelligence - Rusi report",
+      "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52415775",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-52415775",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52415775",
+      "publishedDateTime": "2020-04-26T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "UK spies will need artificial intelligence - Rusi report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever.md",
       "title": "Silicon Valley needs a new approach to studying ethics now more than ever",
       "excerpt": "Despite several company-led ethics initiatives, including worthwhile ones to appoint chief ethics officers and Microsoft and IBM’s principles for ethical AI, the students in our class told us they had no space for open and honest conversations about tech’s behavior. If we want a more ethically knowledgeable tech industry today, we need ...",
@@ -1161,134 +1280,6 @@
           "width": 800,
           "height": 533,
           "title": "Catholic church, tech firms join call for transparency in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
-      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "publishedDateTime": "2020-03-30T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
-      "title": "Why AI Will Create 'More Human' Executives",
-      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "publishedDateTime": "2020-03-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why AI Will Create 'More Human' Executives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
-      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
           "attribution": null
         }
       ],

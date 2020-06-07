@@ -2,6 +2,89 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
+      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
+      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
+      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
       "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
       "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
@@ -966,99 +1049,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
-      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea.md",
-      "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-      "excerpt": "A trio of AI and business experts from INSEAD, a prestigious business school, recently penned a lengthy article in the Harvard Business Review extolling the virtues of “personalized AI” prediction models to end the coronavirus lockdown.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "publishedDateTime": "2020-05-13T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

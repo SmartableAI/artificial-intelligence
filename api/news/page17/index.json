@@ -2,6 +2,96 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
+      "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
+      "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
+      "publishedDateTime": "2020-05-20T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1212203380%2F0x0.jpg",
+          "width": 1200,
+          "height": 823,
+          "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
+      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
+      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "publishedDateTime": "2020-05-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
       "title": "Microsoft built a new AI supercomputer in Azure",
       "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
@@ -937,96 +1027,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
-      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "publishedDateTime": "2020-05-19T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
-      "title": "Microsoft Certified: Azure AI Fundamentals",
-      "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Microsoft Certified: Azure AI Fundamentals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

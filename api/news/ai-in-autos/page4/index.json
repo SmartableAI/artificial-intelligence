@@ -2,35 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
-      "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
-      "publishedDateTime": "2020-05-08T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
       "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
       "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
@@ -1212,6 +1183,51 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
+      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
+      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
+      "publishedDateTime": "2020-05-04T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
+          "width": 1680,
+          "height": 946,
+          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

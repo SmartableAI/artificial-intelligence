@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matte
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "The AI community says Black Lives Matter, but more work needs to be done"
 
-secured: "DSZt2OFHDR0hSPR7nNNj40e1clLUNgdxkFMu11yyfxJXvdRNzH+mHs6oROr/cbOZxOVxbQGUWmkvY1bHDN+ASKqsyzpZcfT98rj+Iy02hFQU321Kn148OA1v2B/IR1DnP4fuxTCNs+hrayAaRW7sytLrgDMAZ1wZfhp4yUf+h47Tyl9UaQRJkggafvqiKQOi+ETAP1mHLzipswye30588rORVsu0u62qjhDAizHu5k9zhgGrQLC3s8u+LF3coeSdU95LZp4a6+093GfblyJL66R1crT/0Jv/dKQEwSUicdSL4dJyzoLUjwmCRSXnlpYB1Owj03Oe7a0KFPLR9h5W/KfH7SY1YfMmhT0Iv+03G0VxbVA9cDsR8yNAgcIRAxWF7KvgImhfsBXSbZeSJG8Zi6fCA3/yOdqVJDCTJoOF1Fi7DRdRy8fO9Jjb0tjfPac5btzZ12EYRjl2MPbOJToWdQ6yemA5mXoUFsXZ+rxCgrs=;pg1gd6zL0OVKljUWVWCf2g=="
+secured: "dk9cfHKNlpf0pCxj+O2R180eUBTr0wVrAAt8e84Pp5rFrIeFe9YguAVkMRGVlbl1Q5grVBfvx42gQdtqJW/eJRiEYPtwlm1nl/BHw0aMOhIG4wdS0oN58StWDrIZgdpT3suzQZn2/Wrojr4fDF4j3YjxCHMNjY3B0fvVkXWxT5Yx0EsRHeXTJrFHiIazylO8CHHswBHZQUhyQ5POZeTu74hpJwDwT2Y3ETpHzBDJ3hDYXhZGRXrHQyEYgLH8WZiAmVEIJHs1dON09ufVzJFxUQcZ7XA3xQLivUTk7LWfmga2aFgug5ajr9VOWxojkxOeIQTtrWLLhBU2eoYDMK7lpW4MAX/3CdIqq2XGpyHAJi5OKhRft0ZwZaTZiOwGzKVgwoRp6WSZShYb4ARJVIk5cITL+fvx8L+Z3XKI7gSsgP+B+t2Z0BfuWqsL4fFR1sNjCSVyqgh14NUURcN3JZiMIseJgMCcEzyZ7AZk7uDvnWc=;TUwMwOMnzkOISkbR8Y2Xbw=="
 ---
 

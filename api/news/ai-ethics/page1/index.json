@@ -221,6 +221,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
+      "title": "U.S. Joins G7 Artificial Intelligence Group to Counter China",
+      "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/aponline/2020/05/28/business/bc-us-white-house-g7-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "U.S. Joins G7 Artificial Intelligence Group to Counter China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
       "title": "US joins G7 AI alliance to counter China’s influence",
       "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
@@ -264,6 +309,72 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development.md",
+      "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
+      "excerpt": "The Monetary Authority of Singapore (MAS) announced today that the first phase of the VeritasVeritas, which is a part of Singapore’s National AI Strategy, aims to provide financial institutions with a verifiable way to incorporate the FEAT (Fairness,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/pressarticle/82688/monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
+      "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
+      "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16124574",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16124574",
+      "publishedDateTime": "2020-05-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1172,125 +1283,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility.md",
-      "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
-      "excerpt": "Essence, a global data and measurement-driven agency which is part of GroupM, today [29 April 2020] released a unique report on the future of advertising based on the predictions of experts across academia,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
-      "publishedDateTime": "2020-04-29T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2020/04/kyoko_matsushita-300x300.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics.md",
-      "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
-      "excerpt": "A group of 24 specialists has started drafting recommendations on AI development and implementation that respect human well-being.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/",
-      "ampWebUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-moroccoworldnews-com.cdn.ampproject.org/c/s/www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
-      "publishedDateTime": "2020-04-28T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morocco World News",
-        "domain": "moroccoworldnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.moroccoworldnews.com/wp-content/uploads/2020/04/Moroccan-Expert-Joins-UNESCO-Panel-on-Artificial-Intelligence-Ethics.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
-      "title": "UK spies will need artificial intelligence - Rusi report",
-      "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-52415775",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-52415775",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52415775",
-      "publishedDateTime": "2020-04-26T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "UK spies will need artificial intelligence - Rusi report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,88 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-05-rising-from-rock-bottom.md",
+      "title": "Rising From Rock Bottom",
+      "excerpt": "With an unavoidable recession in the cards, what can we expect in the coming months? How quickly can markets, societies and small businesses recover?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
+      "publishedDateTime": "2020-05-05T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips.md",
+      "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
+      "excerpt": "Lenovo is launching two-socket ThinkSystem servers that feature Advanced Micro Devices Epyc processors with 64 cores each.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
+      "publishedDateTime": "2020-05-05T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lenovo.jpg?fit=1200%2C564&strip=all",
+          "width": 1200,
+          "height": 564,
+          "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients.md",
       "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
       "excerpt": "With the highly charged atmosphere created by the COVID-19 pandemic, the risks of exposing patient health data have grown.",
@@ -1156,96 +1238,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-will-the-pandemic-map-a-new-course-for-autonomous-cars.md",
-      "title": "Will the pandemic map a new course for autonomous cars?",
-      "excerpt": "In a future where human contacts will need greater protection, the driverless car could end up giving people greater control than they had before.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "publishedDateTime": "2020-05-04T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/13b78c5a-4517-49cb-a584-009e7afe2ab0/200504-gm-motorama-01.jpg",
-          "width": 900,
-          "height": 675,
-          "title": "Will the pandemic map a new course for autonomous cars?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

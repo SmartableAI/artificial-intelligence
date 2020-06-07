@@ -24,21 +24,6 @@ images:
 
 related:
   - title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
-    excerpt: "Get a free quote from CoverWallet and find the right business insurance at the right price. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them,"
-    publishedDateTime: 2020-06-02T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/351187"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/351187"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351187"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 65
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1590631973-CoverWalletContractorsImagebyJensBehrmannviaUnsplash.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
     excerpt: "If you run a business, it is absolutely essential that you protect yourself and your assets with business insurance . However, figuring out exactly what kind of coverage you need and finding the best possible price is no easy task."
     publishedDateTime: 2020-06-03T23:14:00Z
     webUrl: "https://www.sfgate.com/business/article/Finding-the-Right-Business-Insurance-Can-Be-Hard-15310607.php"

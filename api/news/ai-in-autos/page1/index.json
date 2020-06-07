@@ -916,43 +916,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
-      "title": "U.S. joins G7 artificial intelligence group to counter China",
-      "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/",
-      "ampWebUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "publishedDateTime": "2020-05-28T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png",
-          "width": 512,
-          "height": 512,
-          "title": "U.S. joins G7 artificial intelligence group to counter China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
       "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
       "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
@@ -1286,6 +1249,44 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
+      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
+      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "publishedDateTime": "2020-05-26T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

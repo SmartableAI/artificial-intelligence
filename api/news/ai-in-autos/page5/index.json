@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-will-the-pandemic-map-a-new-course-for-autonomous-cars.md",
       "title": "Will the pandemic map a new course for autonomous cars?",
       "excerpt": "In a future where human contacts will need greater protection, the driverless car could end up giving people greater control than they had before.",
@@ -1207,6 +1162,51 @@
           "width": 600,
           "height": 350,
           "title": "Ford delays self-driving taxis to 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
+      "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+      "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "publishedDateTime": "2020-04-28T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569951%2Fgoogle_meet_1max-2000x2000.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
           "attribution": null
         }
       ],

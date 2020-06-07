@@ -1,82 +1,29 @@
 ---
 category: news
-title: "U.S. joins G7 artificial intelligence group to counter China"
-excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s"
-publishedDateTime: 2020-05-28T20:37:00Z
-webUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/"
-ampWebUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
-cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
+title: "U.S. Joins G7 Artificial Intelligence Group to Counter China"
+excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea."
+publishedDateTime: 2020-05-28T20:34:00Z
+webUrl: "https://www.nytimes.com/aponline/2020/05/28/business/bc-us-white-house-g7-artificial-intelligence.html"
 type: article
-quality: 59
-heat: 99
-published: true
 
 provider:
-  name: WAVY
-  domain: wavy.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png"
-    width: 512
-    height: 512
-    title: "U.S. joins G7 artificial intelligence group to counter China"
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
+    title: "U.S. Joins G7 Artificial Intelligence Group to Counter China"
 
-related:
-  - title: "US joins G7 artificial intelligence group to counter China"
-    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House's chief technology officer,"
-    publishedDateTime: 2020-05-30T00:02:00Z
-    webUrl: "https://www.chron.com/news/article/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
-    ampWebUrl: "https://www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-  - title: "US joins G7 artificial intelligence group to counter China"
-    excerpt: "The White House’s chief technology officer says it is important to establish shared democratic principles as a counter to China’s record of “twisting technology” in ways that threaten civil liberties."
-    publishedDateTime: 2020-05-29T14:41:00Z
-    webUrl: "https://www.defensenews.com/global/the-americas/2020/05/29/us-joins-g7-artificial-intelligence-group-to-counter-china/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
-        width: 1200
-        height: 630
-  - title: "US joins G7 artificial intelligence group to counter China | Charlotte Observer"
-    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence, after the Trump administration had earlier dismissed the idea."
-    publishedDateTime: 2020-05-28T23:09:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243073231.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243073231.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243073231.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 35
-  - title: "US joins G7 artificial intelligence group to counter China | Raleigh News & Observer"
-    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence, after the Trump administration had earlier dismissed the idea."
-    publishedDateTime: 2020-05-28T23:09:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article243073231.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article243073231.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243073231.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 32
-
-secured: "aSRrycBZdaHZipeI1vtvDFX3/O4QhG0c87GMtUn1Xl9LebAi0/pEQR4UuAyK15OLEaIaQqBXjMlVuDCOtRX839/myxAdLoqeZ8Jlrw2VRzKGXtfJEt+YbldzrxpL1JXU8uAv0Rj9UReLr7+mXa7K+uvWijaGaEbEd0ONrmEe/qkEMzYFslL0wdpT7lEZnFDOYCO8DQFu/MK2NhVzTayVFUb/DSn3GiwM0tOY2OP8YnEdAR3byw9ImEZeo4BIC4/RM23MyTabScoB+t/WiV5+ifKWYf06576CPXCNhrqerbsYoInb1vHVaWgoYgsD4cE2;G5/Z3790anqievPJPv2w1A=="
+secured: "oiIzaYo+SOx+AUkukXQtC6SIfVYoXuSCghG5xWLr4s7aYv5J3wOjFiOptX5Sv4eSyYaeeCp77SX2qw/KUcZtEjD8vcb07/UD5DL/hI/mNLtkkqs7vhhsR7YChz16jHAh9aymZ+lJ1LSLZ4ns2zq30T/Ss2XGJsF9RhkP7IfC61bQ2Es2NyQVV1wnBv3WHHUIf0d1A72edh2SuKLF12LBs34piI+TQ/pIwsx+v8BGQiZQ4LRsV2II/XH3nBLj/QnULPhD3MigdE3waI8EeCh8EMcc64xOj8o39o7lI1lRTeUYckbgZcTIhpXqaFfgJbNs;ArgDwylHmXh37QChhYIwYQ=="
 ---
 
