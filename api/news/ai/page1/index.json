@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
+      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "publishedDateTime": "2020-06-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
       "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
       "excerpt": "Source link:",
@@ -241,6 +286,50 @@
           "width": 1000,
           "height": 667,
           "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
+      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
+      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
+      "publishedDateTime": "2020-06-06T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
+          "width": 1000,
+          "height": 523,
+          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
           "attribution": null
         }
       ],
@@ -1202,95 +1291,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
-      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
-      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
-      "publishedDateTime": "2020-06-04T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
-      "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
-      "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "publishedDateTime": "2020-06-04T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png",
-          "width": 1248,
-          "height": 1214,
-          "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

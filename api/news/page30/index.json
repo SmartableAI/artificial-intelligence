@@ -2,6 +2,97 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
+      "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
+      "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2020-05-11T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans.md",
+      "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
+      "excerpt": "Self-driving vehicle startup Voyage said Monday that it has inked a deal with Fiat Chrysler to supply purpose-built vehicles, a partnership that will help accelerate its plan to launch a fully driverless ride-hailing service.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
+      "publishedDateTime": "2020-05-11T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-ceo-of-softbank-backed-startup-banjo-resigns-after-hidden-neo-nazi-past-surfaces.md",
       "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
       "excerpt": "The state of Utah suspended a $20 million contract with Banjo after CEO Damien Patton's hidden neo-Nazi past was unearthed last month.",
@@ -987,72 +1078,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-artificial-intelligence-in-the-global-supply-chain-market-2019-2027.md",
-      "title": "Artificial Intelligence in the Global Supply Chain Market, 2019-2027",
-      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": "Artificial Intelligence in the Global Supply Chain Market, 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
-      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
-      "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
-      "publishedDateTime": "2020-05-11T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

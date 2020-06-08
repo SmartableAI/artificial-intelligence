@@ -22,6 +22,6 @@ images:
     height: 938
     title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
 
-secured: "VrcnAh+xKky2SZD+sDoSt45iH9Z6aKS/Dl6CEMaWK0bs8VWAPeTuWiDhlieCw4XFTvod/RtC7beAKkAtxk9YLaGhtN0eP0sngnn41896S0/4vce+tUj+yYSOLPzV4g/tJonocZcmCnf7Wj5hkL7GOSLwlSMK7JnwCI1zEyCbDYRj1AaqHQA1PEd8fgZG8rt8+xlEoksVXo9+sgqxaDHZrM9AVQahaFqPfXIQZDWfa3rwuU9EQflz9UFcIlSQ4Em4Mt1yvQeVJB/HBIPLP4KfP3OVixfKavvC7RXdowPCy50fvwpgVOnjFs1+BEOEfPC8;LbSOVvMy/Ek1U8k/fNL8pw=="
+secured: "W/h8N2AZZB6bx9t6eOr9EmzshBbVIgnvoosWJusuVvRKaXDQxo+Q+oKsQIZTZDeMAD8axk8kQY+KXcnQXJp2uHLgfHweRBqIhTlA4bi5fDuIpGCFKT+wsR59CjrRKxosCYMi0cmSVdYExnvfrV5vkqpkoto1rp81SGHvnwxVni2WjwWMZ97v7gH/dnrEr9kT+bO/P1Y2ma5cBRXJzwr+yTMgRLMKF26o/+ol4G8teRnqZXvs+EbPMOpjhS1S0++K40r0IT0b2c0kTbdfWYQ58wjYduWq8hWlce89Ge2N2Td4FluvIMylHENQl5WOSgRbpXMTKKwB1mLAGwF3PkuEwB1WEpCuP3+asEAPLG9Yq8EJambhNJYN4qSJoNIQ1oJmJMJmTQTNLYfjivuDndWZhq1OjB2zU/hSEz+pfw87wk2ELnUFvOflWVhlIM2XBms+fOwv0yx2A7HjNvzRkydbc7Pc/gS0mvhmyJ1+AvlQw/w=;iQTMqJ3xiDH++v8VJ97vvQ=="
 ---
 

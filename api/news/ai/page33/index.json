@@ -2,6 +2,97 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
+      "title": "Smart Serendipity In IBM AI For Operations",
+      "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "publishedDateTime": "2020-05-04T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
+          "width": 640,
+          "height": 332,
+          "title": "Smart Serendipity In IBM AI For Operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
+      "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+      "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "publishedDateTime": "2020-05-04T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1124597376.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
       "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
       "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
@@ -1154,87 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
-      "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-      "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "publishedDateTime": "2020-05-04T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-182965/social",
-          "width": 1211,
-          "height": 640,
-          "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform.md",
-      "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-      "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service, today announced the availability of Purity//FB 3.0",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform-301051706.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/465493/Pure_Storage_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

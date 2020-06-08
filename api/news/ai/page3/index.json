@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data.md",
+      "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
+      "excerpt": "Network analytics-based data discovery startup 1touch.io today emerged from stealth with $14 million in funding. The company, whose products are designed to help enterprises automatically and continuously identify repositories that process,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
+      "publishedDateTime": "2020-06-03T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/1touch-io-e1590687948124.jpg?w=1200&#038;strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers.md",
+      "title": "Taiwan dangles US$335 million to woo foreign chip makers",
+      "excerpt": "The seven-year plan aims to subsidise as much as half of all the research and development costs incurred by global chip companies that build centres on the island.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "publishedDateTime": "2020-06-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan dangles US$335 million to woo foreign chip makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-real-networks-2020-and-star-search-use-ai-to-identify-celebrities-in-videos.md",
       "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
       "excerpt": "RealNetworks unveiled two video innovations for consumers that use artificial intelligence to identify faces of celebrities in videos.",
@@ -1228,96 +1317,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
-      "title": "Should you be worried about cameras in robot vacuums?",
-      "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
-      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "publishedDateTime": "2020-06-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Should you be worried about cameras in robot vacuums?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
-      "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-      "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
-      "ampWebUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "publishedDateTime": "2020-06-02T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/yandex-sdc.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

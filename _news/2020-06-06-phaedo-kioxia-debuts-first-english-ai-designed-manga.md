@@ -19,21 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Kioxia Announces English Version of World’s First AI-Designed Manga"
-    excerpt: "Kioxia Corporation today announced that an English version of “PHAEDO,” a new manga created and designed by AI and human collaboration, inspired by the artistic style of manga legend Osamu Tezuka, will be released on June 3 as part of TEZUKA 2020,"
-    publishedDateTime: 2020-06-03T09:30:00Z
-    webUrl: "https://apnews.com/6e4c3f3aee844becb62ce6b0881fced2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-
 secured: "h5yr2bmqU4PqtPBUogHKV8+YEjKeoUNhxiZ9OJucA0kUPSaBvsab5beztoRxRNeSeO+/OBxkFx7x6/f6bDiVqF0WDAIH722pczlZvSOOfvPE5uDMt6NGDTpNLB+KB/jS2sSu3Uw1yGVx1lWH/bZ5M0BYUOEHUV7fJVd96lOmv2rw4e5/G5Yv8ln5P0UtnC4ISYfMj+XC/Fu2UbsFwTPek7ER0eGTR0/2M5ujcZ0wZx/14WGDPGg6nTe+nBAeC7OZSDAc2eJk1SxcJ8uu4jwTHTePbRq9EN3vEoczXClH3cHdoRHR9dv1eQasD1f3L8aWRnuUswW9IDSRQWbYV5bKbmEWOfJ8GWRCZx7pykLjiW6zlB6WcvBjTaIpKkD5ATlhUfM+lcWKh6PJvc+yPvs3qlnH9S9Q5wW94/hRA80ncVa6e5ORvE4QvQuSx/FzoxUrjuOfUKkU+5fp7LW5Cdpk3aKVLNz5J8UbFRxQBQvhFns=;s5yO/EUHjPNt8Hc83EJXXQ=="
 ---
 

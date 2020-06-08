@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence.md",
+      "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
+      "excerpt": "The Indian Institute of Technology (IIT-Ropar) and TSW, the executive education division of Times Professional Learning have launched a post graduate (PG) certificate programme in Artificial Intelligence and Deep Learning.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sakshi Education",
+        "domain": "sakshieducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
+      "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+      "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "publishedDateTime": "2020-05-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
       "title": "Apple buys machine-learning startup to improve data used in Siri",
       "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
@@ -956,95 +1038,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
-      "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-      "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "publishedDateTime": "2020-05-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ecfc2e3aee6a86d3947b893?width=1200&format=jpeg",
-          "width": 1102,
-          "height": 551,
-          "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

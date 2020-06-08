@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program"
-excerpt: "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ..."
-publishedDateTime: 2020-05-21T05:00:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology"
+excerpt: "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection ..."
+publishedDateTime: 2020-05-21T12:00:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/05/21/2036990/0/en/Patriot-One-Selected-for-4-5M-CAD-Co-Investment-from-Digital-Technology-Supercluster-COVID-19-Program.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "bZNvm66cXcua201iahquUNvRVbxWFi0aiDxNURh3djqOBpVSReFgjpyDxJMWe7XR6DE1bqWA/yXAKcNNY9EEWThR9TzPr7WfACRIMuv+pdr+DJmtIJzy/h4fIGBlnrsW9KWBbV2v9GiOi96xndXw0NzKENwWPh0GiFHRFzsSfBKvVhOJ72y8OZLieHS9ovKH+lhAgJ5Molawmld5xwewk1V7DfwCEFxYxTVcd41rdW15Fm2E2FjWfTjvrSLoyWnaV8c3yGm6m4k6NpKxvVhUO39TGDUAyQLS7Chez+YhS+sOZ1Vdy4FnzsxE6ddDgSSj;szmsx/SrVZWzThjdRZescA=="
+secured: "7Yq0VlbxEK4u6x7VilCwe0RXJaP57sVOrBGLgS4+tkkuspipIeye+z+gA7reh2E04I8npUHbzaT0nFkusGGuJHrDZmJ9G3jHaZaDtdj79Wwken215/6kYaeRaRZOAYR2YD2VCCNv8ms4MkA3COU7GmHkgezznNQ2S4A/75+KlF0IB4yFBPrzCrg7OAYb/XcQrt34pgb7yyVNTrIokw1xREXxpPz1dsgV7tbfF+TfZuv59gu2z/wIDoRLP5CTe8LN8SURzkxyw2uoEyd9MSNPHw1bi5X+rgg2gUS3J2eIIJoWA2SGm5eqzAyyxrpFJpWA;m3NZjg0/IL81Fxm2PTYDHA=="
 ---
 

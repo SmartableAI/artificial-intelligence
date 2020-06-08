@@ -45,17 +45,19 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
         width: 600
         height: 350
-  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
-    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-04T21:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+  - title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
+    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-04T14:29:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-autos-self-driving.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: New York Times
+      domain: nytimes.com
     quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Self-driving cars might only prevent a third of crashes, study shows"
     excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
     publishedDateTime: 2020-06-05T09:17:00Z

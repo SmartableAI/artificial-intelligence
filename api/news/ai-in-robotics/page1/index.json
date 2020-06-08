@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
+      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "publishedDateTime": "2020-06-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
       "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
       "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
@@ -1166,43 +1211,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
-      "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
-      "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "publishedDateTime": "2020-05-24T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
