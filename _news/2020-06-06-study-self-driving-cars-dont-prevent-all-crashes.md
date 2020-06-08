@@ -41,6 +41,19 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
         width: 1200
         height: 630
+  - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
+    excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
+    publishedDateTime: 2020-06-08T05:15:00Z
+    webUrl: "https://www.wltz.com/2020/06/08/study-self-driving-cars-dont-prevent-all-crashes/"
+    type: article
+    provider:
+      name: WLTZ
+      domain: wltz.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
+        width: 446
+        height: 213
 
 secured: "wfNVWsXrhSugMLA7LuEaBAbamdhhR6kBJDgzQOKeOGFhOU+cI1xFE6UzVz/k2UaIwbdPHARujr4rWsXB9FEmftpOL9xFRjq9TkhxxnEsTeMlAosljx8Mp6EiLXgMdLIJATo6ZzjTWusEPQuCO+Dk1Uh9aqRVKkBc2xgfmhG6rqf+TZCEIzP96ar94etWnSZAsQ7lvprfig3yMVv49Us7Vscftf1ro1jzdX8MJQEMr+PDTA1G7a04U22sNX8oW0KnPgByd1ZbntAUkStBiLlXYL5AIYHkifyQnEogNzndjW6n8PEc+ws750/5GmnOh9e5XerW9rHe91CB7RhFgH6hPw/kLewG9TFhYOHAYbz12Mqty8eOVY57mW5SF3Dow3BG0PvVZEVzJVBgpcWZKn5kCDmsBt6OZh20oo2806m3G1oTThgaFLry3S6s7Jh4uzpeE6Ziy9Nd8XFZk5g5ml/vJhRwZkup0Gq2ZPeD6gcAbaY=;3I7i/Yj3uH5oQGEX71mgIg=="
 ---

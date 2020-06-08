@@ -28,6 +28,6 @@ images:
     height: 523
     title: "These amazing audio deepfakes showcase progress of A.I. speech synthesis"
 
-secured: "Tw9euF2YbB+X7CS4M0BpR2eYxru+GnqDoyHMr7I2E6xcAi8LtLyvNk5XdZ5OFBBZzpQ5u6MSBc6ihIisY+Ojy+ccRSHvDMoG5aNIYCoHUhFD46DELxvZ8Am5qeUxwcFgEpW0V1tzMYJY+R2uYcnoxOdD/IJkOe+/Oqn30z3zw4W9UYjJvgL5ZuCIpL+iYFhhGwK6dOxWd2ehuCb3zLV/ZZ0pn7imYba36sRyi92b1jUeucdhBB63LISuxRteHxmlGK8J6SNu+y5bCW0q3CLk8alXODj+OC+jsLdudZhNN8oIkGX+SxkQDsnxL/kGJRQW;6XB3U5Vj3xLiupOQgCoUxg=="
+secured: "b75ZlGCWetDfD7w9No0dDv1wGtGynKLiNm0BTriWmmuqLaBFs/Vthx/bLq58EM7qY2ema+1ZwqUY4GmbZt443Iucyrp9rml141M50Tns3qy9Ps00nJ9GUbT6cXeWVpxZpSxcll1d1u7VCyU4GkGGrx1h/D487yjpk4+MbSY/gNnkx2b0qvekw/OmDvt7f9Kw3DQEcI9HgGTAhMJ5lV+cU6mS5zqxvXCruyBdA+Vr5tEqurBxWckwYCp659miswZB4/W9bhW6n5n65k5duSQsWp8F7hhyVtioARTFDjWZ0IpWa3a/f8EBv8DzuLacSB/fZbU19VZRGlFzh7GCFDxygMTWlCRwWrUpVGFgDkbuZ/otICWxnRjvF4IDgu4C1YSQ5dGxRSoUtJNcO33fIcluciplHCt6dtukYc1idCTVYKDVJk+jXa6iZ531XM5aKwa07oKqlwQUSlD+c0AKSRi6/vy+8wd4y4EOBMebCHU+k3w=;8j+05r3wXuuON88frYj5pQ=="
 ---
 
