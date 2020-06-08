@@ -22,21 +22,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial Intelligence Chip Market COVID 19 Impact Forecast Study | Application, Opportunities, Top Companies and Challenges Forecast 2029"
-    excerpt: "The research report titled, Artificial Intelligence Chip Market is latest published by MarketResearch.Biz. The Artificial Intelligence Chip market has been garnering high-quality momentum in latest years."
-    publishedDateTime: 2020-06-04T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-covid-19-impact-forecast-study-application-opportunities-top-companies-and-challenges-forecast-2029-2020-06-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
 secured: "PNJCfgOTX4JtFXwc3GXVol3bVMfuLp3sjjyNyFkQ+zCPTrjFgkg9Z0ea8jm/bQ6C6wTSztac5ehBEuAK+fuP5/lvgK1ALqnixISGJFW4rr5Z8kz3Lr60d1J0YdFLu2Gn3RZw+HwAqJDqEgPoN515Qsa+3gIwCtUoWa0cHXIptJmgRamv2acy1iDwg5NZrTYMqhnqbF/17ULYg736f2OgGjqhgmU3JwQz7jcMhOUTKt7rxSp9anTGeYcUVNUizaeLCdc94u4A3GYkLx6qim8aZByJJlW6swQM9ofwf+RDHWsWH5NCB8m6wfdfMc7GoMJp;kfZ1BTap4n5/GsicRUfmMQ=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars"
 
-secured: "iwHA+l0uJ/ooJgdKTZNm/U76UwbEEOfZ58GKGUHMOxw69l6U4fkNxXatNOo9KuQFUcEVfk3+QW9iaI8Y/xJ9anyYJOgSBxVxyw5whRuLAxs/ca/+pgX6wc4sxD1buWO8L/YryH//9gBDAPjj0mwlp58GYzP4MaY1eu+3ujzNQ8/YErtvA4IZR2MgAyXRaZwkyhYBuGQO7gD/W9Y27MF8VDyML6ZjRTWapsfbYRqryL91lqRikfPqCgRT/m/OFWP1YKMr7c0xTeRUMYN4c5sf6gYHwTCQuvgRrz8Vryt+lzOfrFN+uDebTgkClMgAIh78;fS3m47Ff7md2FxFvgZj/Rw=="
+secured: "r5V0yMpzjuY1OIdTfjdp7sS3nW2UGqBjDrZr67p/BAk07IgF7GTqpnmQyqGjqk/ti7Yzeg/bbSNJKIOAvAU4uMq7uCYVYH1thoIIidxl2WltN7AS+CkOyi6WSYaXafjdKhPUJ5wnsF4z1OeFWWuSqAIfPguj1q9tcxULikqbxnL+Tbu7VNyOM6YluSFJbZqA+PM/yM7W+GgsgyCsv6yK/ktv4+z0Lh/YSxu7LrTPzuq2GKMr2FNYYahs3Kg4Uy1Irhp2Llkaq8WiZqC9R8qr7EWyDQMq1Ju4lL5XuT+aihFsIOa3kufR9/kGHT/rBjMo3yZsLVRaTBR4pQb6XjU26dMdXpnvncQYVbQ94wpivaPJF1VJLGljMbvOuw6Ad/oM25WYoqhTSthHIT7mv4cxMqa4u0x3p9zP5h4JcdtkwATOPCPQ47Ojc4QLlFkUiOfLZO8nKv7/NZdWOyCp4u7nPLvIUS2Ydcu2NXCwLQHXx9c=;Frca1birI6/8TaMRG+RLRQ=="
 ---
 

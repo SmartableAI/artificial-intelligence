@@ -5,8 +5,8 @@ excerpt: "The pros and cons of artificial intelligence are important to consider
 publishedDateTime: 2020-06-08T10:35:00Z
 webUrl: "https://www.smartdatacollective.com/what-are-pros-and-cons-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/shutterstock_1075070774.jpg"

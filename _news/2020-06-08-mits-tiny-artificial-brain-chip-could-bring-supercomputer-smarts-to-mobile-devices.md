@@ -31,19 +31,17 @@ images:
 
 related:
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
-    excerpt: "MIT engineers have designed a 'brain-on-a-chip,' smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors -- silicon-based components that mimic the information-transmitting synapses in the human brain."
-    publishedDateTime: 2020-06-08T17:10:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/miot-ept060820.php"
+    excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
+    publishedDateTime: 2020-06-08T20:23:00Z
+    webUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.html"
+    ampWebUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Phys.org
+      domain: phys.org
     quality: 36
-    images:
-      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
-secured: "L1GcX68E4Eq2yDvhWSMxOoxsiO/pWNcQzmo0EDqJ95+F5zimIC4iZtcSOgLOX8SgJQBLbMCLQMmzXo5qF3tf/6MwcY4sMkkoYBqwMf4gT1sSnBzxkGwrL/4Ga6NL6+U1YNZUq7LjQa6JsCjSElRrtNxLdsu0F+mDbfYm/tXAhcyHXgeBm29rI7ltfxGIZbE5pvsJjHVNAEiaNNzC0X1tbPQd5zWiFplUJWBx1vubccFF4FCPSl1zPlJz/cGH+aNAcxUnsGAUieio8CigWYa7Y8oIJiQRFgDp5VmbuoA369NrsyHU8u593NuMhU1kx2uR;n7f+6bRZmLrDzwiCpN3G+Q=="
+secured: "Qh6KcLX5gdncY9xu4N62Dn0tCgEoloXSojD/DlbtF2hSDyIgkcCG2X4NdxjaTx5CJgc31MNMfPW8jzDqeD/s1sX/xogKNtg3tqjZK/QXzsphF9DtZQ12CHXdGCES9prVPrZ+zr41EdCTSYkRkjCTUsDIzrLCJ5fnLHCl5U0HLJMn2FY4eu3yY/FWWCtTw+4FAS3tJb21UgU3Sk1LvVZGnhFwB54ODgZxKimthUhEmdMcMV9QTB8OdPOTC9x4zaYwib98vvrz2Qn3QQm+7rIb0spHt3JIC6d4jDF4uI7CNfDqXjWUTbh2YuEi7iE0CW3LOq41H7hSP2a3hPEX4jEsl3KRvsL7z0qS5lAyqA8oZ7WW0XgI2VM/3Jnc3CRkvvED+yuIF1GSBet7zzgyQDZyAlcVPaattrUIIOtY9SVlxO87+cyzLkGk0YldFtvJK+QkKe8jvb6sRgvaC9RTjL9hgs4MFv0eLkm4z1Z/Fhd+b9I=;HA+MHjukEwbmiEEoVwjRKw=="
 ---
 
