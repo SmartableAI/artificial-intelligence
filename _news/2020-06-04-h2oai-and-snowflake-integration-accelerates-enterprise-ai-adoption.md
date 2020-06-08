@@ -1,9 +1,9 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T00:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
+excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration,"
+publishedDateTime: 2020-06-04T17:43:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 quality: 39
 heat: 39
@@ -14,7 +14,7 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "WDZUI0tFExvHTt9gVmuF4OKmn23MXyOh1kinLnMpSEeRl1tU9gRDz/3KabokiUhLtwmVooNGy1hMlfkYSa0jJMdbTGcX40yskFNG6mTnDFoQ7B4uxAzOBHRWEBQmE54sjTPtID+8MdYIq/GJDvIKFo8+iuh85r1pGBKQAMUxKNENSOaY4AmytcPyJj47EKUhXF1HEyEMxS4VET12Q6Hu8D+A/eRLcsMClFTMkrJ3bvC1uzLbhqmGUkCsFQPBDKFBpxHq8U4MlaPb/wZjX+Rr0AkdgsXCsWLgYXHpimSXXGi7tyyNUDeHpkQhL3OUh+A/;DW3//qmx/6xjj/SzrT5Vvg=="
+secured: "AcHMINJE15ewUFRXk4J4vf4BSPw7pA74EI3I8LRw/kSkKRdEAL/y1YyDtnBBQEloB5cf9cfjfkq76bxCxQje3oOHDdJ5uMFGymioQZa7UGJ3EBMcRgytHSW+cpVzteHYFHA9EsPd9OICIF4no8udCf/C5AbiFlpG7ZrM4CPgurGFeCbi+esp2W//Md5CRmoF8HEwdrhJb3twcvwMI+ggRsCMe9LD9Iv92ZH3oyjFw4rQR1lC3OisV/18FQM3iESk8YTxKQH3PNOZ3IhryxLNsmkJNkTrV/PER6UkkprO0XWpq8h37CqCCHxJah61V+VE;Baf7v4u+/M9tDG5SHyJWVg=="
 ---
 

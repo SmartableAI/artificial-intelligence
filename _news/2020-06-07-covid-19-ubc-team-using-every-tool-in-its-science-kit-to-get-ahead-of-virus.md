@@ -25,6 +25,6 @@ images:
     height: 750
     title: "COVID-19: UBC team using every tool in its science kit to get ahead of virus"
 
-secured: "DikTC/gGd4qWLzl12QFDYMtildLp9LQ9xBFPdcVi8t1v1b9Y9qu2Upl+pk5y8G3HfR6reYW19X0H2o5g7q8eG95nZ8Lw/dikaVeyM8Yjzjk9Sc3t+V4I/eviYeUjpm5HnAYUauCchdq2tJ5L5HBN4FdfYTcgpDyDai6d/hy+Yp3UQD+Fed6jwWT8DdnX963JNquMsao+uV4SVDk+Wq7jYaVezCoE5N79YuoTrlNPgN7LW3YoNX6SFUmMceSQKPJ+My3YBoLw9yAgNtQVPOkTk8eA7AxN4AVBA9ugkMA/mdSOtlI1SicJFxWSriJhfoym;wOBjvcaxW3AzYw+cmCiEsg=="
+secured: "9IWmWGxAExW5eKAKjPImnWapmZ/rN5ZYhLoiK63Za37e+g36wCWZlIywZ6rHr+vxufbzXVVnzH1kSKQB4hWrXT3/i/sxRCulqAu1m3wfMlSi+rNOKQviMxUORqjvdiCRx8tt6cAs71mq0v6SX+NthfKInoakdUIQIenOfIo5U3NrtKDcXgmo074HQnbSJD054huZ970t2YpXYf0Dr/BVSRJeYbmGHAL3CngaoZ8/U/MMKYKMVQtk4DPOA9eeGgNfB+v7sdG74IqbpV4OBBNT1YLnIRw/Ny5PdhzwZO7D1i9tudqyNopPi2UOZJwJYyy7iC9sCy4ApIWK1S2Q2UiWW7Su7EIqu6jXcel5mDLIKfCYrm9SvMXkbCN6c10ZKq5xOhsRvJLtcV2arYxH55sMbfDOuXR0b/vkOyVB5TPC0XY5jiLb8UTxibaxVwZgq+D7dbB6Kd3d9fuVzAFQxGPTzmfus8TXOyy2GaUxGNI3rnY=;g4xUj4q5JK5RW+EEyK+hLw=="
 ---
 
