@@ -50,6 +50,21 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
         width: 1280
         height: 800
+  - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
+    excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
+    publishedDateTime: 2020-06-08T16:17:00Z
+    webUrl: "https://knowtechie.com/?p=121732"
+    ampWebUrl: "https://knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 50
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/06/Van-1.jpg"
+        width: 1600
+        height: 901
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z

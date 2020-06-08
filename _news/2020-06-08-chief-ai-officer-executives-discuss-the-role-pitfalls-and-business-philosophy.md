@@ -28,6 +28,6 @@ images:
     height: 900
     title: "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy"
 
-secured: "plNqlenYwl01/b6pom/6HDX13m8NaX0J+YlGNEKuTC8QFgnJgG/cQVrrKBdeTEemzTxQ3CHk/YbbV09m+fYIvNSr7DIx7q98cVlkSrcESNIkoDQGuk4TVBQ9FYeLuFLJVCGKF/Ud5AzDXVNYaFDC69Qfg+mlIChyghacAXUZXp+gE64JF5H8KTgbYIej8eA+7u+IgaSJiAEYCe7q5nW4goisMtweCgTaERUg39w19cbzAagajh17sThKuEeaEi5dJlYlAqIc3nRjOTnJj/uC4ptOX6+JImES/5K05B/uyRMPOXPX+y5lCOD4iG7++sdF;6h7ztgw5b8JtN9pUDLwjTQ=="
+secured: "lPZ3DA6ijvJicdGBfZ+/plGaAavZxZHs9cAKgFliTOTlRzgczzpfVGetjrr6PKiQDh0LzdDyUZmmQce6Y4AW6hXvZ7ic81868S/AjHW91b10cWclOoOYNHVTORG3RW/xnHr5cFxcZrDluLgjHwz6AESgLoxr3oGiiDHu6pW/LS5UVuqO1KFRu+12S2i9N9nOU9/GxTGb63x5mRavNaVKZFd+YPlzt6Wr+PUp6V8mS3GPUdAfh8+ss0UeTbtqRJjDUrRze+m8Ca/PYXMfAqekPrKlrH2jrfd+rqt8rVUlwQc5S/ASYdt6Za3G8DJriRH1/bJjZN4Ogpu1SdMVWOI2+BW7sVSAm7f9TRldEZIeTR0VqAFaOqGrdvwV869N768mi5SinPJHM0rXHvfbp071jOOdAUvCfuWEpct1o7DhtWSfzvrQg+Uh+F2vSL/YfoVHvwuvg1hmwF2J92MO6GHhssvuWw6s2uCjRHMeCR/U8CU=;wNwcM7Tbz6SmrUzrBAMkqg=="
 ---
 

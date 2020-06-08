@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more"
 
+related:
+  - title: "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more"
+    excerpt: "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ..."
+    publishedDateTime: 2020-06-05T03:34:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 11
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg"
+        width: 1240
+        height: 697
+
 secured: "XShuam0bx3uP7AGkru6l4jXqsOEOyKS3yxVqY5s4yd4fPMMMg4nuWmqX1sDFzRkg/ORpRy1D87SDSrVCvrKxlsniwqHjVXz2xIZ2Vv7pxS22/jODAJTE8YSR7l/T8hMsKiZQSZqX32n7rlTGDWRpnCkTwnTuh+e8m5ues5pvDxTs0e2Bcp7ig++/XZsngIFJPzPK69PZxY8CpmlZVhEG5g1bwvvnst7+DlKUGFdrPPreibcnrYZ6YZskKMyM9MeEWVyW0vupj15hadZ9Edv2NfzXUQQ8PERbNJA9Vmyeqst5j2/pJ8GIGTzcBnG79ITbf/uQbfpBXcnakzOK8MuWKZB7MwEG2tSHDjxHsB6f6LJUPjUrgdKZMETrZ9GIFhjJL11Vc2b3R95hkjM0Eo3ozE2zqPSehc8QxXSax8YvuMFUd4gsxRZIe2YJ/mNEXwJnUXptyoXoqfbyEHBiJsiIUQ5hEAtauvFZDAzhrwYSBGw=;Gsak7A6Qsp/2hHKP3vmK2A=="
 ---
 

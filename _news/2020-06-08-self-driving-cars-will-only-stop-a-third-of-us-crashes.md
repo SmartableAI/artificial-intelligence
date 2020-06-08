@@ -65,6 +65,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
+    excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
+    publishedDateTime: 2020-06-08T16:17:00Z
+    webUrl: "https://knowtechie.com/?p=121732"
+    ampWebUrl: "https://knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 50
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/06/Van-1.jpg"
+        width: 1600
+        height: 901
   - title: "Self-driving cars might only prevent a third of crashes, study shows"
     excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
     publishedDateTime: 2020-06-05T09:17:00Z

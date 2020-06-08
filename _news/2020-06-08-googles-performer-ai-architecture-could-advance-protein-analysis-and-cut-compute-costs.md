@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-co
 ampWebUrl: "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "Google’s Performer AI architecture could advance protein analysis and cut compute costs"
 
-secured: "gth9dT9efTpRtqYb+RlVHh4XRgXB9zTcJn2+A6Umq/kNc+Ilda7z1ZSxBBytLF8H8r5BVqwa2z5J/XwQHh19EnqCezNZD3kJ6CeBWl1trvqyJaWSNOgJijCW36xgIV98Nx40Mm8JWF8/fUu14RPaPa++1PgJQDbIXxljfXAgkaAhdkekmv0raH+8Rmqk/Ikw0jNhhgMzmSr4uGGMInRlwvVpMkeLw8+cVGR7f6I9DaREPBLCf2wMg7ZYGvlGLlhDJVkACllUXROyzXTyvZ8reqTstUtn9sZQDYP7OX1m74ccCrBhokF2r7FzwAjEo1/H;XjBl0n3rXgNX+z8+obL5Sw=="
+secured: "aQTzW6+qnykK1nOeKgAHxZlhHbsO7QNdKeXqaAKHfLeGNC28QNm/TEDv+Pw1BYFGWBc4xtb84Ww/ljmJE4ScBdG7cIHujobywwkOUrf6hDxTpLoybLMcPSD6b2/K5KHDYT+vKM2O4f3ueYlAnGXyJGY1N2ahXgjjDger5TN34vnPXQbLxu38VE4y8w5pxJ1HRezxsLIiiwzf9izj7jRUVUNF4gyetFQv7rEGg4/tb8zz3YT/nbSrb3swQVQ1b9fr0YaSI/Mutn1LFCMTDpk58vrOtBinq7FhMBo5GoldgKOV+29JrY9jofwhqFtQquPyx63ZQzlFNFMgy/O0ORmwAGoUWkJg6PJcEzpQdSCYScZFh//QOoLRTiFZIjKlchtynPXoU0IB+Y4o/+b4TSxW+THFQlSDhl+azZag8wp8oiFDKXLs3ej9ZxCTzw4GREcF5jkCsv6QTJHQj4AflZ2B1Ryb4BM1WadMthStfDzoU44=;jr5IzTZCdjk0arPt6XvPfw=="
 ---
 

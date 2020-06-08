@@ -3,7 +3,7 @@ category: news
 title: "The dark truth we learnt from Ivanka Trump's ill-fated commencement speech to Wichita State University"
 excerpt: "Even Mitt Romney has stepped up to the plate by now — but Ivanka keeps playing the administration's game, and it's starting to look worse and worse"
 publishedDateTime: 2020-06-08T15:26:00Z
-webUrl: "https://www.independent.co.uk/voices/xxxx-a9554846.html"
+webUrl: "https://www.independent.co.uk/voices/ivanka-trump-wichita-state-university-speech-george-floyd-racism-a9554846.html"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 1667
     title: "The dark truth we learnt from Ivanka Trump's ill-fated commencement speech to Wichita State University"
 
-secured: "SPf9ebyHeFE/3IKu0bSBGLqG/RsCK/NQTxQ5GaHHWcG+Wl4cpUSzpRx1W3M0vAhK+TzKj9xakCBf+Urwp+je8z9oBDZvVgvX8/RjFsWbBLEtUvAOLqq6vhCRlCZK5TmJZZMaWtc6LuLGx0gHn3QdpLk1uP6Rw/mSD333biNwU38D4h7sO1U11fk8ARZ0vWNy7gWMEdHAwHX4kMJdGjdDDbJ08hC21DV8mg+7aMxBGdAyjQk0ds1C8Uzk8BxrKYibHwiCoh3YWQ9UDNbHJrd2hy5XouJrL0icmSRIJwymfzcLHANVJ6vDC533pttsKJQO;+BaxL/zvFuN6H3BfjPmJ6Q=="
+secured: "fpSY7w8M8hsP/EHVJXx2zY9bho1wuyowFwP41KkWdtGGYKIJOr1/BkxUqeD6/TuDvn+k5+z1DIvM9T1zQQoPUQzW2WO3GW8Jk6cEM3EymBURpyOU+eU2AO9uLm8rSfYlubZtvICr2l7p/dr/Qsmh6aexRVxgRasOCMWXqfCrNphFHoMJh7lsj37QzwfuTHtwGEjcqGSXSrQ7AQdStBCld3Og/N270Sq9PsA2oR78CSdQ6cUYD1nvEAlhaFkhBspyfcS0VUXB0W13vO/3Xz9R+xzGtoXh7YouZqhGqGt80us6fevs1d4FGpR+dYsft2DK;hTQIoOoeKTZLmiFSExOVKQ=="
 ---
 
