@@ -5,7 +5,7 @@ excerpt: "The latest research report on Artificial Intelligence Market delivers 
 publishedDateTime: 2020-06-08T12:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-ai-industry-report-2020-2025-covid-19-impact-analysis-anticipating-a-cagr-of-3521-bmrc-2020-06-08"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,171 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi.md",
+      "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
+      "excerpt": "A Novel of the Real Robotic Revolution is a technothriller that follows the hunt for a terrorist through the streets of a future Washington, DC. More than 300 factual explanations and predictions (with endnotes) are baked into the story,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/",
+      "ampWebUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
+      "publishedDateTime": "2020-06-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg",
+          "width": 2400,
+          "height": 1621,
+          "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic.md",
+      "title": "Artificial intelligence, healthcare and the pandemic",
+      "excerpt": "The coronavirus crisis demands a regulatory framework for the application of AI to protect public health without jeopardising human rights.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic",
+      "ampWebUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp",
+      "cdnAmpWebUrl": "https://www-socialeurope-eu.cdn.ampproject.org/c/s/www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp",
+      "publishedDateTime": "2020-06-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Social Europe",
+        "domain": "socialeurope.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.socialeurope.eu/wp-content/uploads/2020/06/SE-5.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": "Artificial intelligence, healthcare and the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
+      "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
+      "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "publishedDateTime": "2020-06-04T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
+      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
+      "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-statistical-natural-language-processing-market-size-status-share-and-technology-forecast-to-2026.md",
       "title": "Statistical Natural Language Processing Market Size, Status, Share and Technology Forecast to 2026",
       "excerpt": "The global Statistical Natural Language Processing market focuses on encompassing major statistical evidence for the Statistical Natural Language Processing industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market.",
@@ -1141,185 +1306,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
-      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "publishedDateTime": "2020-06-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 569,
-          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
-      "title": "How Google is using emerging AI techniques to improve language translation quality",
-      "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "publishedDateTime": "2020-06-03T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Google is using emerging AI techniques to improve language translation quality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
-      "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-      "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "publishedDateTime": "2020-06-03T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
-      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "publishedDateTime": "2020-06-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -24,6 +24,6 @@ images:
     height: 523
     title: "Leveraging the Potential of Neural Network AI in the Translation Industry"
 
-secured: "PBSYcU0AihgVkioVtqngHN+FLFWra/IQTeKqhpU1Kp2Cu63p2wlWwDqDZLqldvoPVVvWHKkwkDBwNRv13L9EzmZqjFOXtY4sB5/IkySCEm5SuYwbec/9hlIhcdzxS37sJ9S/H8EoDRChsr845yG5t1qk1ROBliCuq2b+O8xUk46//J/y+a4A/HOmGqQb9L1qIqIiGTgk3Cmfve9ZWEihpMbMf6Cb/GYMbBzzeDZX++JWurtodlvd99WjQWjG2gmPH4xp/iXjyGabNN2zGLZH/Gyc0r0ykTsL0b8tudpN7kfyh/ixuJpcIeDg7GaenC5L;AbsmmGxOPkyG54y5TsAzJw=="
+secured: "VPydmrsLdqs73Eu3Vxgv4Sa+rw7gMd6EsIeBxI/tKC/zXtOc8d2CgwXO7GmZzsugD+8eJBKOj+liHfb2KO+T/WCOxggwl4OAvasxTDcI/S1M8cUXldF581H0+PVYroNC6oLUg1FhqNru3BSnFmoMen/e1QnA1coF7onOY1Ng8A8P3MXPSTZaPCH8QPu5kdAJPvH88bLWHTIPMl2mzNFesD3QYMg0OCgO3qCsXG/rORhiT6wn+JMAnS34SwQBZLliWWOgG8Ur/VXVK3KMlte8QYKylx9YXlVlCOE9HEU5/kkU5kslBKqA1kFHj2gGaaGzWSwkgyl5AMXZc5LwIHPLYBQ4YbL7ci6o5HUguyUnDzgpPnwcYhvkDqd4bbKoGAr+UxBGDE62rTO2E8hIE0WaEfkYEQYmFCEaLp6L+aYTkH/6N9erOx84PmArCH0BjJ7IGNne7ZsUf0s8ZviF9r5qN/rs5kW65H7KVB4BN+8UL8c=;0gLS8l51L5ff/VXrF3COhA=="
 ---
 

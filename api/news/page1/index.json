@@ -2,6 +2,177 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
+      "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+      "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
+      "publishedDateTime": "2020-06-08T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter.md",
+      "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
+      "excerpt": "The technology companies have updated their mobile operating systems to conspicuously support the protest movement and downplay counter-protesters.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
+      "publishedDateTime": "2020-06-08T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_25B0C5408EFB-1-e1591623650320.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy.md",
+      "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
+      "excerpt": "As artificial intelligence becomes commonplace across industries, more companies are looking to add a dedicated leader to the C-suite. But what does that look like?",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "publishedDateTime": "2020-06-08T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/18b8706b-b03d-4420-85f9-0397e701e29d/resize/1200x/7c00707ad6de40a8144694a1ac8f9a04/data-collection-online-data-data-privacy.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-markey-presses-clearview-ai-on-facial-recognition.md",
+      "title": "Markey Presses Clearview AI on Facial Recognition",
+      "excerpt": "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition",
+      "ampWebUrl": "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "cdnAmpWebUrl": "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "publishedDateTime": "2020-06-08T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel News",
+        "domain": "multichannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "Markey Presses Clearview AI on Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
       "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
@@ -898,178 +1069,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-robotics-combine-to-conduct-autonomous-rd.md",
-      "title": "AI, Robotics Combine to Conduct Autonomous R&D",
-      "excerpt": "Researchers from North Carolina State University and the University at Buffalo have developed a technology called \"Artificial Chemist,\" which incorporates artificial intelligence (AI) and an automated system for performing chemical reactions to accelerate R&D and manufacturing of commercially desirable materials.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.manufacturing.net/home/news/21136295/ai-robotics-combine-to-conduct-autonomous-rd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/233820_web.5eda5eeeb8ced.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 673,
-          "title": "AI, Robotics Combine to Conduct Autonomous R&D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
-      "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-      "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "publishedDateTime": "2020-06-05T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg",
-          "width": 1200,
-          "height": 805,
-          "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
-      "title": "Here's how a new machine learning software can beef up cloud-based databases",
-      "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "publishedDateTime": "2020-06-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Here's how a new machine learning software can beef up cloud-based databases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
-      "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "publishedDateTime": "2020-06-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

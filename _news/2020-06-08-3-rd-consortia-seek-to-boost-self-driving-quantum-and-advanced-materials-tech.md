@@ -23,6 +23,6 @@ images:
     height: 640
     title: "3 R&D consortia seek to boost self-driving, quantum and advanced materials tech"
 
-secured: "hcJa+MjcZSj1pr+wn89ssIMEQrMHKuongd62iOOxAQ7hGNdiJXeq6uQN1amK1LLV93RaYnn+PdKodTioetkSpM6YBfUTby8JXMvnkR89r7TXhMW/RcS5Oox7zaZd1T/JaewJrnoNS934LTA4ECRACtypDuWOKwEmhCpX0fNUtF52fYzsSJRNRKRUEJGR8CtIm5fltM3EF3hH7op0vu83C+4aCr8rx6QNcijiLGsiOkSZplXU3UUoyEHOt9AuuRknYexzlYHnwu8HSvK6RjAaHU5kf2xxBCF0gwqcgdgOqp+SB3rbk7JBg8k+zsAzKJzh;/ev1bf7/dpnZpcBXDCcp5g=="
+secured: "jI5j6QHJzxplprlPTxVzvRRL2M8YoSjM/JtWoi2eyluNxwK+j89hNJ++PsMCASeqJm2vh5DKM5LqNVKfGcZ47Z/y8uxxE2vh8/6qI+fI3aj8e3wHG96JjDy+z5XYPHHnYrLoYos/k4T/liELCzAi3n+cWOdbQ6e9xY3NHAOmaV5GAvHQ49WvBAmf6DPG3ttaJI3ORV5+UBq9wc9YqRaVvbxV64LaUZ7sJ4ooYbAY/XYo/oPcXiZFcZ5nMdVJ/mZut8G6U0T2ktPM1J4CalNb3KUdnJZWAf9a1+rUjxBK5h8mkQt1nzjNveTn+fIrjlax7brzKB9xZGbzW6jLg2pZmswjP6nfCU6T1mXjTMwxb2qkjplzJchJIFL6UcEEud0jm6FXaTlzFnK11ccvzenWTM1U5Fksmt+/ysjbWp9DfagY860SN7syMM1M7BfLN2c5zbnYZk7FVnqZMemFKWqbuR+O7GHtf3sh38q+oZQnApg=;JG/RzRBEKQC4LRKAU6w/LQ=="
 ---
 

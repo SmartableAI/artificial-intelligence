@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote.md",
+      "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
+      "excerpt": "NVIDIA Corporation's (NASDAQ: NVDA) annual GPU Technology Conference is virtual this year and takes place May 19. Ahead of the conference, CEO Jensen Huang's",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/news/20/05/16033361/nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16033361",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16033361",
+      "publishedDateTime": "2020-05-14T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg",
+          "width": 1280,
+          "height": 515,
+          "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ibm-claims-its-neural-computer-achieves-record-ai-model-training-time.md",
       "title": "IBM claims its Neural Computer achieves record AI model training time",
       "excerpt": "IBM claims its Neural Computer can train an AI algorithm to beat Atari 2600 games in record time -- and perform on par with state-of-the-art approaches.",
@@ -1274,51 +1312,6 @@
           "width": 680,
           "height": 348,
           "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
-      "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-      "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "publishedDateTime": "2020-05-06T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183667/social",
-          "width": 1280,
-          "height": 640,
-          "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
           "attribution": null
         }
       ],

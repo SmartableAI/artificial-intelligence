@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
+      "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+      "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
+      "publishedDateTime": "2020-06-08T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi.md",
       "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
       "excerpt": "A Novel of the Real Robotic Revolution is a technothriller that follows the hunt for a terrorist through the streets of a future Washington, DC. More than 300 factual explanations and predictions (with endnotes) are baked into the story,",
@@ -1224,51 +1269,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

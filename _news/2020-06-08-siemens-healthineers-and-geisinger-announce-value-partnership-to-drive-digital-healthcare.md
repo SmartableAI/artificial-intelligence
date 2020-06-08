@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
 
-secured: "ZyCo3JUjPsFWA4MD5sYR+Q8ErRXkCmhePwFtB520YEOi3tmLVR9Si1MXvX4+7nC62JDQRYtpUZo3G5GBto8S5GO+u0/e+D0p+wkGvmzr2d77NgW/xpMr4DFdmD/D1Q4lrKQU534Lqd/wYZhN7l+KzzDP27XKtaQUTZl5kWU12JX+fOht25scO1h6dadXWwBc6AKKucyk+KipnIaDtMNiiyFQpTeiBRvzGTbsRtdUMAu/TVlCx3yrquxRCw/Whmo/kLh5UVP+inWzX7ifEgYK2NS4PJAOrlGDXrtqvvb6NBNI59V49eAk2qsJHZO/RZiG;wOMSnApNAQ1RaNSCNCxtkA=="
+secured: "GOy/RJwEk2HrGSZX7YPCGDXVrpVM2+5PwaE8C/LZaFrBFsuyFGiI9OygEw/VpEtWtp4a58EeYSTI8wiQtbwYmjv+yiBHxWNBqxE4o8MSLAN/gw8ZOEP/0ZhXJ7Ld50/kQkcd/FeHiRqzuqYoTtgiatbyRpQaMLLCX8iTuOEECFzjO8VqfRi1EqnKykPcrdw/InpJtRsihA9YrNgezsiGP+1siPN+9qppVH7qn1EdUFXmZQgtuzUJ83vczBVgbWqpq6iNCeCspZhWPWSSUjG9sKlFDs1cZu6dZKTK/6aKW60kESnUTuLzTPp2biKnXF17RwuIluS95gDHRLnpEu3o2ODQk2UGGNGmFBu9Ic+9pxcduubIO9VETnk1rxfo26veoVwks1lcy5XUeKhH3b2Tv+RgIZlXUUkfFwZTHC8IRpGI/AdRE//fY4hfF9odLzPK5MyutRWTTj1DgSWEfX0kHmxg7FalVHGeo9+uubnk1fo=;UTizMEK+oEoiKur5C/qESA=="
 ---
 

@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-markey-presses-clearview-ai-on-facial-recognition.md",
+      "title": "Markey Presses Clearview AI on Facial Recognition",
+      "excerpt": "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition",
+      "ampWebUrl": "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "cdnAmpWebUrl": "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "publishedDateTime": "2020-06-08T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel News",
+        "domain": "multichannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "Markey Presses Clearview AI on Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
@@ -1271,52 +1309,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
-      "title": "Search engines are leveraging AI to improve their language understanding",
-      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Search engines are leveraging AI to improve their language understanding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-markey-presses-clearview-ai-on-facial-recognition.md",
+      "title": "Markey Presses Clearview AI on Facial Recognition",
+      "excerpt": "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition",
+      "ampWebUrl": "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "cdnAmpWebUrl": "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition",
+      "publishedDateTime": "2020-06-08T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel News",
+        "domain": "multichannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "Markey Presses Clearview AI on Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters.md",
       "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
       "excerpt": "Encrypted messaging app Signal unveiled a new blur tool on Wednesday that can be used to hide faces in photos before sharing them. Signal said the tool aims to protect the identities of protesters currently demonstrating against police brutality.",
@@ -1195,43 +1233,6 @@
           "width": 1920,
           "height": 1080,
           "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
-      "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-      "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbc15.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC15",
-        "domain": "nbc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.graytvinc.com/images/aa413.jpg",
-          "width": 700,
-          "height": 400,
-          "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
           "attribution": null
         }
       ],

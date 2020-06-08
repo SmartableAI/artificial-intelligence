@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/621613/unlocking-clues-to-the-origins-of-t
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/621613/unlocking-clues-to-the-origins-of-the-stars-and-planets-with-artificial-intelligence/amp/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 777
     height: 518
     title: "Unlocking Clues to the Origins of the Stars and Planets With Artificial Intelligence"
-
-related:
-  - title: "Using AI to unlock clues to the origins of the stars and planets"
-    excerpt: "An artificial intelligence (AI) system analyzing data from the Gaia space telescope has identified more than 2,000 large protostars, young stars that are still forming and could hold clues to the origin of the stars in our Milky Way."
-    publishedDateTime: 2020-06-03T23:01:00Z
-    webUrl: "https://phys.org/news/2020-06-ai-clues-stars-planets.html"
-    ampWebUrl: "https://phys.org/news/2020-06-ai-clues-stars-planets.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-ai-clues-stars-planets.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
 
 secured: "JQuUJqI1bt6AFyx/eSQ/jSlK3GZYXNCjv2C4034nZF/8sKEbmUySaB9Laigd59MBw/ZwcKkhWW6I9kSXFS1/gu4gMRRbCQY/R9fmXimG12IteHJFwBAQwTL8UxV5ljuM422eo7jeIzN6cmy7ki6ToNZjurXexYbEIzVdaeeSP0X3g2pPRLiiXV0LWESefvJ1pb9y1BPgrAfRWAFeSOASspyrf+bs0zLYOSvLZWbqqzZawmfo5S2l82+uc0CG5KTt3RwDkeswWIZohFCE/yei8/2dBWheINTvqodoMi8r0Kup090YPbbS0IjBXPxn9eT/;CBW3d19ItGJwFyVep8Qjyg=="
 ---

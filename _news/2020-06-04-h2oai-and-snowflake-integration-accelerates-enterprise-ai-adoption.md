@@ -5,8 +5,8 @@ excerpt: "By delivering AutoML with automatic feature engineering, model validat
 publishedDateTime: 2020-06-04T00:00:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
@@ -23,6 +24,6 @@ images:
     height: 400
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "xc5t858iuLV7uqPy20HWHK4NW/eX2ewQWwbJVfsULb5z9b59jS1Psj2ZoayXH7C+e3AKoX75L1CwKyU0aq3zTrZfOyXyiyPZqiZwFjIpQGj+i4Pw+fB0B2gd2ebxyiOysb7EgeajMi0+WIfVHEDLC+5B0MdMUEYMBPtMUyGQSNXcdXsGc6RdPn8Q40rA9XfWwKqdU/oNdGpeHSgPo7O0/7uNfgiMx4jQHqWHjMZ4AcSWPkFlRxi4ikb6c4j25Dm47J6+MrQGYzUgOPaKGEE8XevWFgYChUrVUOQ/Bu3UMxHYokS7LR1d87MaR8RxVYcB;0o3jJFm5wh98jsidEdjURQ=="
+secured: "/iI3rFGHPjD52RakJmucNuv+/EscBzB89SR5/q0IZkaVpVf9fWfzJqY+B+q6jykxVR95vTe4TInThdRgp26CZ9lJ5saUBJzc5OvTnaxojWJq6ifTe8pgO3jA5qMr0psuGz7jQKzUIBKldHXq5/DucR6SXI2sTMfoofL07U+3GaTfdvbHOxdSQW1FQgvXCTl8IaUE+AlFM0ALSuSopdIrDtFxxestPTFZefJ+4ga+qjASbCJnJyFzIXWmuvbm++bSKKI7K7nZHDHLWf8SsIZrXC27kkPe/GR4NiV7kr0CKf/oP7mOJ9ejmY9WDOnwTGUQiQRE8xwb2pe5leu/Wa6oP5HdD1FEUvzYq1D7stTX65Z3LX3vxOOMm9LtZgA9K1SPiXDd64XnHZvgWBb/6rUiVoBtC7+k2LSIEMglkJ2iWdR4qSKTV/kKySbhd+A1L4uBGF2sTbbYDpITZXo5SGf4DAzejB01y6f+iZe9+euXyQk=;rs1BfSLcbtG11daXItMmOw=="
 ---
 
