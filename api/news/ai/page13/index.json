@@ -2,6 +2,170 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
+      "title": "Coronavirus Impact on Machine Learning as a Service Market",
+      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus Impact on Machine Learning as a Service Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
+      "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
+      "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Interactive",
+        "domain": "marketing-interactive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://micdn-13a1c.kxcdn.com/images/sg/content-images/grab_delivery_doodles_google.jpg",
+          "width": 800,
+          "height": 455,
+          "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence.md",
+      "title": "UniSA and UOW to jointly research AI capabilities for Defence",
+      "excerpt": "They will also work with the ADF to apply any new artificial intelligence capabilities to the new Star Shots strategy where possible.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
+      "publishedDateTime": "2020-05-21T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/22/9084fd20-5691-4f1a-9734-eeb82a2417a9/thumbnail/1200x675/fdd58539a87b8ff3bc44374d7cc21c9e/action-blocks.png",
+          "width": 1200,
+          "height": 675,
+          "title": "UniSA and UOW to jointly research AI capabilities for Defence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
+      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
+      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "publishedDateTime": "2020-05-21T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
       "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
       "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
@@ -163,6 +327,35 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-microsoft-moves-toward-ai-that-creates-offspring.md",
+      "title": "Microsoft Moves Toward AI That Creates Offspring",
+      "excerpt": "Among the notable advances at Microsoft’s Build this year was the new Azure Cognitive Services capability to significantly reduce the aggravation and time it takes to create an app. Microsoft Build is often a fascinating conference because if you look at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1040,204 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
-      "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
-      "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://healthitanalytics.com/news/machine-learning-models-estimate-seasonal-impact-of-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims.md",
-      "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
-      "excerpt": "Clara Analytics, a startup leveraging AI to expedite workers' compensation claims, has raised $25 million during the pandemic.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
-      "publishedDateTime": "2020-05-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Da6I4d0VAAESNhK.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 711,
-          "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
-      "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-      "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "publishedDateTime": "2020-05-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
-      "title": "Airtel acquires 10% stake in AI startup Voicezen",
-      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "publishedDateTime": "2020-05-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Airtel acquires 10% stake in AI startup Voicezen",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
-      "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-      "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
-      "ampWebUrl": "https://newatlas.com/robotics/sphero-company-six/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sphero-company-six/?amp=true",
-      "publishedDateTime": "2020-05-21T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
