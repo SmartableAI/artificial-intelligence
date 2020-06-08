@@ -23,6 +23,6 @@ images:
     height: 465
     title: "Meet STACI: your interactive guide to the rapid advances of AI in health care"
 
-secured: "1aCPh0P2aiZ3D21774WuXW/Y4eRzRGDAo7feGmQQ2A36MQr4Xx32OpT8C2L5dvAE+NnZNCQKwu+JzxozBSYv7jF9SpH1LVoQpYCbcIYU1LBf9IVRz/fgXMflj/3K18FxAz1jjMd/Gl0KTDXgNWgLcPn1V8oFM630o+To9YQT4kZhEYnUAC8LS1BuDyEfoAAsG7l5qfLzMIUhEkQ1zDrFHPv4azOpCJWE9/w0bpi9WxdAJTX3zrNGLQTdAsiaCYoTDrrZhcc6mzoQd0jbLCX4E/UJpEljK9uFGHezLDZXZ7tETlu2fo18f+IfxngdENED;yLGH8euoSKiEtSrdNQ5YKw=="
+secured: "hfPIA/v2Pt/04/S0IkUOQaMOpcf14mcQ/9v6W12MRfmBvkd2ud7y9v2q5t79vcOdFlXFlqSetI7jEh+8rOtJ95VcS8dYLbeRp+xsQJ9Hazq7LTgjX9lSmMUDRrEHh1G9AWF/9Cykxa7fU+azXg0dyX+gpRCCe4iflJgS9gSUwsCMqhHDwUs8dQBOJUOAIhDBU+zAtft/S+mqFvxm2I+qjB+bk4E5l4AGp7bfJOUXe+OR4ay8ABhnEOgpxPPBHwpToqux+KRGiPj7GJLtkx0vWFRswNnXdqd+wpFtAHxhrYrxRXWPMqujWOMSx3dxkYo1LV55I/rVMP4SJq9QD/y61VmhdMOcQCRBFT8vvtC4VgrHjVmnOJJLKs4seF9H+b0xpoxachbBda+r0ujC5NBLskOYVyegAcq4Zxnpxfy4fKXvKQLjJ/Kc1g7twfhE34j+o6N+0mOtKdP6r82D2VEgJ1E50kme2ckhX6tRgcBFDa0=;DScQ7Xo453jkJPKIBl8ehg=="
 ---
 

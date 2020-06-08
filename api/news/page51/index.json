@@ -2,6 +2,123 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-04-27-it-is-35-years-since-the-acorn-risc-machine-chip-sipped-power-for-the-first-time.md",
+      "title": "It is 35 years since the Acorn RISC Machine chip sipped power for the first time",
+      "excerpt": "The first chips worked as expected ... sprung to life by drawing current from the IO interface – before its own power supply could be properly connected. #OnThisDay in 1985 the first ARM ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
+      "publishedDateTime": "2020-04-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2015/06/05/ashlee_vance_elon_musk_1.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "It is 35 years since the Acorn RISC Machine chip sipped power for the first time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts.md",
+      "title": "Artificial intelligence will be used to power cyber attacks, warn security experts",
+      "excerpt": "Intelligence agencies need to use artificial intelligence to help deal with threats from criminals and hostile states who will try to use AI to strengthen their own attacks.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
+      "publishedDateTime": "2020-04-27T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/28/b50614f1-d3c1-4f0c-afb0-714425941f8d/thumbnail/1200x675/57436b8076626bb631f2bb2e665d16e7/20200227-specfeat-march.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence will be used to power cyber attacks, warn security experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
+      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Free Press",
+        "domain": "timesfreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
+          "width": 1070,
+          "height": 714,
+          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem.md",
       "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
       "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
@@ -934,108 +1051,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly.md",
-      "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
-      "excerpt": "But when we go about our daily routines, especially when out on a grocery run or heading to the hospital, social distancing can be a challenging task to uphold. And some of us just have God awful spatial awareness in general.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly",
-      "ampWebUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
-      "publishedDateTime": "2020-04-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/tump5-nstfield-image-socialmediavar-1586911100_p856.620.jpg",
-          "width": 620,
-          "height": 326,
-          "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-summit-online-2020-helping-businesses-unlock-the-power-of-cloud.md",
-      "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
-      "excerpt": "Further to that, it helps these organisations gain knowledge of building an end-to-end pipeline for delivery of ML models and automating ML operations with Amazon SageMaker and more. Madhusudan ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/",
-      "ampWebUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
-      "publishedDateTime": "2020-04-27T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2020/04/Untitled-design-2020-04-27T122035.740.jpg?fit=1200%2C628&#038;ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-artificial-intelligence-could-serve-as-backup-to-radiologists-eyes.md",
-      "title": "Artificial intelligence could serve as backup to radiologists' eyes",
-      "excerpt": "The lung tissue was gone, and there was very little you could do in terms of therapy to help patients ... That's where artificial intelligence and imaging could come into play.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
-      "publishedDateTime": "2020-04-27T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

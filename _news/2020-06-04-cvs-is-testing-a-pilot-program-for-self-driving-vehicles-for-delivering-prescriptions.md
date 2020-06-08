@@ -24,21 +24,6 @@ images:
     title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
 
 related:
-  - title: "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions"
-    excerpt: "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers."
-    publishedDateTime: 2020-06-03T18:35:00Z
-    webUrl: "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize"
-        width: 1200
-        height: 569
   - title: "CVS Health tests self-driving vehicle prescription delivery"
     excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
     publishedDateTime: 2020-06-05T17:07:00Z

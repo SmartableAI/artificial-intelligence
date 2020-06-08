@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/06/08/1002864/the-global-ai-agend
 ampWebUrl: "https://www.technologyreview.com/2020/06/08/1002864/the-global-ai-agenda-latin-america/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/08/1002864/the-global-ai-agenda-latin-america/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/LatinAmericaglobeforonline.jpg"
@@ -24,6 +25,6 @@ images:
     height: 780
     title: "The global AI agenda: Latin America"
 
-secured: "9v6ddrUEaeBIltlStN7LHtJ6weZt+0t63DaCsY35ZV4cZOZuV0UOKKWFMpFn4/B9i+4slU2Blo1YVq8V6rMDj/j0WpDGH1tiurzWCPQrHJ6JYl/hQMZgXeyvHRzpT6AoJq3ysveW7Su/bYYXiJsAbY6BXhBclwglBL+PI8UIPBHAs08EjX+aK7erO4aBCU3SatkMENvHpy9AubGkUE1wxNQKzuYJtCjzPGtKRykB9fRojgFZOswmZdNT4sLvgVWDYRgjcYGlHJKSt2HWg7rc51SssA9lMKJqQ9xLVwgQzN9BVgcQCUOIVcDV9vWIgdy0;jZ4uJGryB0sv6M9XxhXfFg=="
+secured: "tvGnP5+tPsHNWfM6ZuYfnEhP2C4Y4K3X7ijY4sxM5G7dRACB6NEK+po7dh0IbciCTauq/ykHXBznhaDvUtmZ1Aa1PmzvA2dgT3whZqO7CM5IOVq4jLY6tAaePzgSuppNWh9HwvMfB9XRRKCJ3Hk69fST2QoEfZXtx23ZaefiwfM57OEZpuySoB0/3I+pc5A4Cm2TER1c63s5IamBwLdrV5LAOYfYZpsdHVUPMqu5xTZADYSJPgVx14p7f4LzYQiVPQKZENnuMO6/qwpEDPY43P6II+WNGPNaAyPwROGZAB3/gYXCHS9f0HYqQMvdO2GYXSOBlc7mLNxQxgy4iqcOcgEf2+D9uMTfMgamN+OLd3qRftc1ATBZKkEkjL1SWBLYVpJ5zGQnhuF1d2GnuPxUH88VdpSLHghrJ4Kekq1g9oOxHqGz7Jl1Q1RVuuzUkkWXcQ1yrSXMmZ8olHvMdhImeJgDsF2lUjiHTHRFgv8968U=;S9KkaDheniNgPFF4O6e2cQ=="
 ---
 

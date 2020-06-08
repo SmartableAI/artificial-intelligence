@@ -23,6 +23,6 @@ images:
     height: 400
     title: "AI in healthcare needs data rules and oversight body, says report"
 
-secured: "YRInoB+M3JpRrC2qpSeRBGLSZCtN0m53y6ofX9Cv45TH8U/Ahifx1zWlCP6F5Q0PSQIjM7cW+O4ej0+G/KlPL9uVJqNEqKktmagQ2dhJdo/dAT0ljF0Uq5Grb2X0zX6TBJhHdzP07+puwEYIwbyjkoHlg0D8OiHR/YJjeLr6sh4wZFT6AKrcVDk8SAZs2EXa8yKVelwQqbPFp5lXDK9cdaidzGjiroDQloBsFd1jLvq4PmX72wSNsusjL4MST8gxqGl7yV6XTmm9zQ+/TQ65QgwN2I1goO3k52JWVTJvrbRH0Sy8AQabW8EfW7dwEbWC;9qxvWxUTOih/4JkjzykTzg=="
+secured: "zQG7AuphWzQf/S0f2G/XEEIXI2bpc35bAXun6mjNHBnWlKozTOusX3GeZOx/mBdvbDFnJ4a+P2IIOPdiB0DkwLj0G+St+Ks5TCdH0wPWeAoBKnKkKi2nfn9Zz9ziS/uOXaizYrrI+TPcp4zzvx//S+DWwc90Xf/z0zTBRXR/FeuwF/Qny+JdvnsejunuPdy8MJSeuSNQ+PQt18reD/f9sEVXpeMvIlnw+YhN4TefIcNV955s/xgBYnYd9a3DRNfxTvOQGTNeI31ReHyGPcpWYjVAnjP0soOeb4+aolPYAKlYQ9ET9xhFy7/uk6q+rygGblHfjaUAyGaGQmNU9c0xlFOsHnQAQ5ayZ20jYGHFP8lc+T9r9u8vMeprGmvwxr3l0pWSxu/3MBnuL5zWmkoEmvnDowSgYb0hqGl4KanyAcOZu38vGLHmwcu0LEOdN8LEopcp7QKqPU9uSHzMdVW1+AKuL1DvvyW7ouJC8kNT8Ag=;J2byVqa87k2a2s6ZcS/GWw=="
 ---
 
