@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Self-driving vehicles may not be able to stop all wrecks with current design"
 
-secured: "c+ROwpLv7qZsXvSANym87ryDaLhQ+6CsYcRdboBgqKA8woQKjJ08Zh0QfsbDu0ExI6CHzpIuzNB3SfNi3mpS4DWE427RiTPi+X15bT46uxr4nhvXpAESU1x6tdQLdeDzrEnmlv/QE3pqKvYRYNFcnaM5R9rGi1CjgUG4c6jCeG5g+V49DhTZAF2RLZ7zKIAHtnLvjB5Q4RbF0K7ad5jEEbKQNYdP2rvAysVnj6sHmr3F7On/mBgPB/fs6ornR4Pgc/Qi9xYcue2sb/X0URj/t3HEHyfu6rD4BsxJ//YPVHq4S7US2GUP3C2UZX/0Dy2U;pEbiaI3I4QuPVBQLTvSb3g=="
+secured: "zUrnYUvvgcBkfZ4AMxtK4BG/laGC+iDTZzLm7E0jwX/7yhIdsbupj7omDiIYk8r/+uumGz1fOAi6DJsDT8q0nXQ3UrfKhXg5LWgNIRI+r7o7hD8wGxN0JjwvUiBwh5h8pbL5zC94M/cqeUphmhDJ4eeDPgrBjXreyoM/+FZfyp8c+34FCVFqwBXOFFeAElxqQ3aFteUK3XcBnOSQSDVq7fZ8fJd5J7QalnjMOrmbfyejeiR5G3+ZcyAm0LQ3oKvPV/jHSWOoOTWanDmiSvNjNNWtOOrXI3iAzmjJ7d79TbfFl5lhdwgDD5SpuWt2J/DK5GSTKj/7rtO2btmKD2FO8nbisR6jt4+X7TpW0G9F0eTaRW2qGJ6Eqenb8uv5YnQAqPnocKM+CoyuJKYqcVLv+jI8KKAykYnaM5iTnE4ZE+o3phP9QE7nLq3dB9zrplbILjSlqM0EbK/1P5hsUnDimE18nFQaxgUT7Qf+ftEKSeg=;vJpSlFlcpdSHdfEKpaHuiA=="
 ---
 

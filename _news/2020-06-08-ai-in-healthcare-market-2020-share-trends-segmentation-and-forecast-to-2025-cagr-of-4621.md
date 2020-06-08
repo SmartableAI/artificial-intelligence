@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
-publishedDateTime: 2020-06-05T16:43:00Z
-webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
+title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ..."
+publishedDateTime: 2020-06-08T13:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
-quality: 65
-heat: -1
-published: false
+quality: 72
+heat: 102
+published: true
 
 provider:
   name: MarketWatch
@@ -18,25 +18,25 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
 
 related:
-  - title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ..."
-    publishedDateTime: 2020-06-08T13:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
+  - title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
+    publishedDateTime: 2020-06-05T16:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +66,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "VfUB5aPEU+IPq2ApzrTruCiy+H5UsS4HVtFu4P78B308GAHSPp9cxjyVvKe/EomZALVsxc7VkrAfi3oo9Pjtp1NYiRzP4dAAcuMwrQfLuqP8JhFrL314uVssMSQpJpn/ToEw+bnvTM/YEk/Zz74v25KKce3015LBj22mlP/D1C1DTLFFCooK7K0dUpIAPU5jw2y4ZvJKF1tVd2NYGEbV8piGxa3ah0aecT0IIANFtC9TEs62LQqGjXn0yPrI7HgqHGIC2m/THfvurQUBYmwyQD5MK5rZEATCasexZxQUOVwZv9tMUnppVqUl0VbzW0pW;XOUswQYLdW4QZVc7Crz6tQ=="
+secured: "aOWHEwBb/zYZkYWzMw+79bOzPc/htCx+tSP290WgUwGtaRd7NVoU0O5u1aeKUa7N6msX7NB2dyCN3z7v/noGiYbfgUZlAgZiqk0uK0NCWSG/7DyFbOlw3c6FuL99xm7qfUFtqBLj4I7/mpHWemce+FSvkB0+w857cTeAZ4Z2fDHGotIFl1GEGAirZ7DmQ7aqgy8L5lh9Q7Ui0EOKRyys4njlKeKMPHWMzjm57VnO6HdXP03wQOFg9ToagHp9Dhc3GvTjQrGtlDCdu1bCwxTzz9LnQhW0v+Fho0yXIDLBQYjsJCVLm4+ZvSG57DmAldLm;uoYs2MUUTtUexl7dx12GGA=="
 ---
 

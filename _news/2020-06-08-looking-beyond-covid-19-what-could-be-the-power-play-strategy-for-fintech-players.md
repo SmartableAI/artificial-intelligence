@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Looking beyond COVID-19: what could be the power play strategy for fintech players?"
 
-secured: "WijaCs4i9FZZbK63jZK5FZ835PwmhaKIR7VfdhwxM/Z2AuBsGX7mr1Qq80ILWEeBU9HYC3cTsNzh+ghALc22HkJ+pWbWrAWFDDfrR3JIEMPz6212AVQ8hVO71VBECBeFoMQvKdVVWEfaKKLSzxW/3zxrEgX+YTbR7sd6kth9lc6d13xD3dpys58ejwzyf4Nz/CyGntF6LKgxzsDX/sBJR0t79Pj+rlfw/GIQfLK5IZ8JdbjjpmKON32BxEL/xHNe3VSkGkLnZ2IlyEcVMhlGkTQLAYixUNynb2o+dt1hpcUiIk/niYPOba9I3ed/eGA4;tVTCdglcigrg0URxP/jeqA=="
+secured: "FSZwmtwbDInhzLSdx30mg+H9ayWdeQZ7UFu8LZZsozyy+QNiNe1aVvK0PwD3zRPbRLCvkcb0BvrSNg+VjGOOjJ1WPntASN7mprxDZ+BJoBfHQtqisZH6j4hVdx8m0zZ+ipywBx/KhUrmxusRxvYk6c+mOQ95R25oI+XLrwBIhHK2IKO9nIV+E1B5Wad13vmJf8IWn5NFAKLiBH4nCxoz+c+0UM6kiqNenu5es9fnnziGiBTJARKtUWTY1zEtq3VV+TVQM/BtSVgyD+DNJnFmUS6bt26kzNqNdRsk9XI8YF7+SZDkOhZTWZKOzBh94CxVegucCzSkZB0kueuuioQZqZuUhpW+aFRPPNOuQGgZC+cyBZew70XXqXv7nISTTuR8C6GxX/1SgT/rZ5UDoqwCXe6RpmiozqlouNeOZyLwOVtkm/DP5AoC4xeHzKmBEg3xGUuTYqFsDXpdymhNGKHxoLctdZxt6cnqvYZyV0HcSLY=;As5DjaGTgJp1dLzdSid03A=="
 ---
 

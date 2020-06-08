@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
-publishedDateTime: 2020-06-05T16:43:00Z
-webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
+title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
+excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
+publishedDateTime: 2020-06-08T12:28:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-ai-industry-report-2020-2025-covid-19-impact-analysis-anticipating-a-cagr-of-3521-bmrc-2020-06-08"
 type: article
-quality: 65
+quality: 51
 heat: -1
 published: false
 
@@ -18,14 +18,13 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
 
 related:
   - title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
@@ -41,15 +40,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
-    excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
-    publishedDateTime: 2020-06-08T12:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-ai-industry-report-2020-2025-covid-19-impact-analysis-anticipating-a-cagr-of-3521-bmrc-2020-06-08"
+  - title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
+    publishedDateTime: 2020-06-05T16:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +65,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "VfUB5aPEU+IPq2ApzrTruCiy+H5UsS4HVtFu4P78B308GAHSPp9cxjyVvKe/EomZALVsxc7VkrAfi3oo9Pjtp1NYiRzP4dAAcuMwrQfLuqP8JhFrL314uVssMSQpJpn/ToEw+bnvTM/YEk/Zz74v25KKce3015LBj22mlP/D1C1DTLFFCooK7K0dUpIAPU5jw2y4ZvJKF1tVd2NYGEbV8piGxa3ah0aecT0IIANFtC9TEs62LQqGjXn0yPrI7HgqHGIC2m/THfvurQUBYmwyQD5MK5rZEATCasexZxQUOVwZv9tMUnppVqUl0VbzW0pW;XOUswQYLdW4QZVc7Crz6tQ=="
+secured: "WruZOm+HZRsp++keSF4U4AeFEQ9jAz7ecTGY2EtA2U3MXYzl32OkhtJfF8uDm4UF1hZt4SD/3ht2mMt+CcU6EZ9cEjmVai9LXLwP6xXX16PnHGl8v5T/JxFqOGaZszF8bksWHAvQf3JKw1fAIKMgUvG6NkbcKx9COwYhxPnLjleqBVIXapExyFExS6TYNf4E4uOfgqCtgggTS0Tx5+7A4/VV1bD6qbU1LkWlarmL72l7SpYQ9vh95+08b2tG65FBHeS8MdtvXqGtsc5TOrEue1EYJfezekWcigQzEVaKxnj2fBElFSIM2DXVGDX+fdE/;NDv4QkgU1kB1DQOPJeJCDw=="
 ---
 
