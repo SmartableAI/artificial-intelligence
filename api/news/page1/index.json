@@ -5,7 +5,7 @@
       "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
       "title": "HSBC introduces index fund built by AI",
       "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
@@ -42,7 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
