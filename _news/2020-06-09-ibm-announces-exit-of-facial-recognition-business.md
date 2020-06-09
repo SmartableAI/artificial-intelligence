@@ -30,16 +30,31 @@ images:
     title: "IBM announces exit of facial recognition business"
 
 related:
-  - title: "IBM Gets Out of Facial Recognition Business"
+  - title: "IBM gets out of facial recognition business"
     excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-    publishedDateTime: 2020-06-09T00:47:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    publishedDateTime: 2020-06-09T00:55:00Z
+    webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+        width: 818
+        height: 545
+  - title: "IBM exits facial recognition business, calls for police reform"
+    excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling, Krishna said, who also called for new federal rules to hold police more accountable for misconduct."
+    publishedDateTime: 2020-06-09T03:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
@@ -71,19 +86,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
         width: 640
         height: 428
-  - title: "IBM exits facial recognition business, calls for police reform"
-    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer"
-    publishedDateTime: 2020-06-09T03:11:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/ibm-exits-facial-recognition-business-calls-for-police-reform-12817828"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12817826/16x9/991/557/82ab1a3afb9fee62fd28ddc164708a7a/Ze/a-man-wearing-a-protective-mask-walks-past-an-office-building-with-ibm-logo-amidst-the-easing-of-the-coronavirus-disease--covid-19--restrictions-in-sydney-1.jpg"
-        width: 991
-        height: 557
 
 secured: "cbSZ1sKcn42fWQ7TvXZgJIC+ytyq9xEoNlafj45tOpfLe2vyX2w+ni7GlUXoJzhSdxlvsrcmeEI3qkj8ZohXx0Yq+ZHwuKgN8pd3K3xurojXd6O4DQ0NyRonV6H6Pd6HJU0wR3CIV8m70xFPLgzRcpeNNDmV5Y+xwPoBTWD21AJfnFeHMOP8a+EBd3WcJorEZ+vqESrdEAHYcQk5fxM4nnelj3f2PDRMd0EubkyM6SzU6Dt0AxXpvDT2wUv3hXolYt01mLdgzDOK6859YuYM8C3Y32m4nas98Iu5c25tHtNy9AURFXSyjgKIDpCaMFnqyQTFw+u/xPxo8EFWR9Tf7FlSRwYlD4MRoDgmn7E9S/z0SxFNPkarnPitEeLgDn94sGZbzUm3v0C8xTtqxd2qE7YuFDXBNG+oriRHpr25gWSzjgY0JBE0OpQFUxSXzbhajxaAogS7rHriqvKEVfsnSlbw2IWKFs40X0dbpJiuEHI=;3YezHJmaeQPgauCHdJ33Ow=="
 ---

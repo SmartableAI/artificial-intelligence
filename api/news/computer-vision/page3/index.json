@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.md",
+      "title": "Police searched for suspects in unapproved trial of facial recognition software",
+      "excerpt": "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand. This week, RNZ revealed police did not have any of the necessary clearance from their bosses,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.html",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html",
+      "publishedDateTime": "2020-05-14T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software/_jcr_content/par/image.dynimg.768.q75.jpg/v1589488860627/GettyImages-1083059548-nz-police-car-generic-crime-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": "Police searched for suspects in unapproved trial of facial recognition software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
       "title": "Uber introduces AI to make sure its drivers wear face masks",
       "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
@@ -1166,35 +1203,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
-      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
-      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

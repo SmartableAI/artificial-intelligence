@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-co
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/amp/"
 type: article
 quality: 100
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,21 @@ images:
     title: "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices"
 
 related:
+  - title: "MIT fit tens of thousands of artificial brain synapses on a single chip"
+    excerpt: "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti."
+    publishedDateTime: 2020-06-08T18:44:00Z
+    webUrl: "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
+        width: 600
+        height: 350
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/rahulrazdan/2020/06/07/temple-grandin-elon
 ampWebUrl: "https://www.forbes.com/sites/rahulrazdan/2020/06/07/temple-grandin-elon-musk-and-the-interesting-parallels-between-autonomous-vehicles-and-autism/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/06/07/temple-grandin-elon-musk-and-the-interesting-parallels-between-autonomous-vehicles-and-autism/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "kXE7JNAykBJCZ68OLOUFWjPFwLq/yN0v21FKSuJfLlvDT1aPZvcAr/X1zdFQCka9jJDVmJ5lTo+LD9HlbnVp97IQNFCHqNeJOd3tHrCZsApTJJ6MKsijGhCMib+fMK68s24U9xhhg0OgTv3g9/akYxA+40HdKrn3Edq2beTCCIC3rgx9np2zbens0ItQFdLGDkqtxvNsCjjRTQ+qv5R2W3GYX7wA2XbPVhw6IWmjooi+ziBFNXFMTqbxeP3m3sYGNVGRLEP78bov2RWNDhvSCdKI3/jZWclyjsn1hrMUYzHg8u/quJC8TvPmmdEUshC9upqcttPqi6cu8vQH4lohtZZCQycosBDKczQa3XtHQIbf9mo19/0XUnoAm3N2yUYm3ER2p8F/Sas3NcDmHhfCv6ebfnknmHrISXm02saNcCtzphKBBwOoN1/K23y4+T0bRTtnNInJ2J4WtfB0CgGkiX7PhLECBsGNW1EuhTp6V2g=;2rupvr/MqxEVTQ+D/0s09Q=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F518969832%2F0x0.jpg"
+    width: 1200
+    height: 799
+    title: "Temple Grandin, Elon Musk And The Interesting Parallels Between Autonomous Vehicles And Autism"
+
+secured: "0xpvOHRoHqcDZSy0tsyiTYiWwOqFHiGnOlg6Wmvkj6Q9xZp7JKvH1HdVelO9Sv+aOYWtCeNAuLC+U+YBCa7YsP0bXYRZeClAs3xIFoN8YKwADNRP6KBEW9PNiODFjhlguari0O2e2/lwSzzUPHviEZx9NRLJrNXQ5J+BJNzjedNEsB6wkM1hPMuVIEXu25jCwWju+qYAsXYgeu6SEQrVBclGJubmpKIc+e4EiyUwjqNozNQ54vxWaTwCjnt30xitA0PHT30fh9to5SHIKFaM/Cup+U4NUwYa4ets3TdAd5UGj02SYqpanI4r/WmfeIwL;T1Q61dHZqSxSM7TPsNKGAQ=="
 ---
 

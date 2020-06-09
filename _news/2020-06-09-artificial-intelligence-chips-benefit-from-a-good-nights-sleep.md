@@ -3,12 +3,12 @@ category: news
 title: "Artificial intelligence chips benefit from a good night's sleep"
 excerpt: "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave"
 publishedDateTime: 2020-06-09T03:55:00Z
-webUrl: "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep"
+webUrl: "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/"
 ampWebUrl: "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -28,6 +29,6 @@ images:
     height: 800
     title: "Artificial intelligence chips benefit from a good night's sleep"
 
-secured: "9Ji79wQyXZEMVLyPjvTEzBq8F9A6qlUbqQj1aoNjhD5IrL9zKecYstdO04dlFFsBw3Dftgtw8TTzJraUrLR9L7gkqF7Z72qkiv53PSSOAWHi3VK/dRmBItjIWZogkFRH+Cuno2maj7vRtitul1cqhdFFescbucoBmob0+ZvArzretQ1JsCNrhb9tkGDo4NR12F7LFYeLzxgZQ6xbF1ty5VWiDpc9wQVI/KKZApQB2756c6Xq5yesbPCwFQ0pkPl2yM1XKeqbxZO2dZvo+ACk9RaH2cYgPwroBZhXXbXKPjCSzUcGSRVg4PrinBTMMJpU;d2vnx+869bxuYgvPYaPxfg=="
+secured: "s8VfOc2hPERfi6XdWIb28+Wcir1HBnYThotKV/1aqiW93pyOqHjGO3FGCdte/+oQZZv71gqS8ZvHudqeApdEvQeAgGW/5Kaq5SPcNE/PZsgD4BXacazRUgWHc8rvzP78k/58GQu7szHStsk4q6bSf2hKX144SYzsYitYgkabrRJApu5apIiQOI+Gqjo3uFL+kCn7c5udFnIj96tmTTEgdQavPifRAdEcATYhqsxS4mIntDEwuX3NHs0Sc+ZV9afZlK5KzSswqnHRKb11YKn6MkPyEGsNc4u7cLbmzIQUoHe4J7kR37VHCGQEzE0urYT8;KsnFBv+7UD3LaFSKhVslqg=="
 ---
 

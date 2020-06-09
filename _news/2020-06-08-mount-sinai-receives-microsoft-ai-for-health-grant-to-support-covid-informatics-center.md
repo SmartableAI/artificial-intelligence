@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T20:09:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-06/tmsh-msr060820.php"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,11 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 44
+    quality: 64
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
 
 secured: "f+9O/e76VUnoi0SAd/k0ulXaT/O3YqcqsPacahq1UZb0pqbhZbkRxE6epWZBLHchIz41HN/S12xjTz7zYOVf9NYiglkNrm0eZ6A/P/N1ygpXbMJKI3SRHhpT2mzn/tU3KKvE4yk6Typ6m75cRe/TKr94EGaVNDM7WU6Ojbty4ueMdbmX4AGnm0dYFnky/pDY5ThlZ3d9Rd8UmVhe/WTEMm9kqOZzVQGHHufHSXMFv63Go2RQ6xRLCHFYjR0XQNeTrOG62dGUo5z19EXN90DkYupExJf/fBBuIKGxN399mundcn5WE04Og3cOLnw7BNkNVp/ZJaGINhA2tZzMWgwWhGzPiJK2hxZZbOqNWmTflQI0jSJtf4JWDyFflIgVSMAJQhkhqWk18V6Kt0Li/EVwlaZTI0c0EsNYVwg4dOE0e7aaBxNWOsxtxsMtKorn2wiKgtcW/bK8mvrnBKXKod+ZQqOC/dgEn+w7P19P6PteuVY=;1G2TahtB2oUAGx4t4xotfQ=="
 ---

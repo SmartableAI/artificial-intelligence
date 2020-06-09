@@ -41,16 +41,31 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/04/77f715b9-2438-4c91-a475-435e025ed5ee/thumbnail/1200x675/b30830583fd201b20184073b0c320492/dji-unsw.png"
         width: 1200
         height: 675
-  - title: "IBM Gets Out of Facial Recognition Business"
+  - title: "IBM gets out of facial recognition business"
     excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-    publishedDateTime: 2020-06-09T00:47:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    publishedDateTime: 2020-06-09T00:55:00Z
+    webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+        width: 818
+        height: 545
+  - title: "IBM exits facial recognition business, calls for police reform"
+    excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling, Krishna said, who also called for new federal rules to hold police more accountable for misconduct."
+    publishedDateTime: 2020-06-09T03:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
   - title: "IBM exists facial recognition business, calls for police reform"
     excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling."
@@ -67,19 +82,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
         width: 640
         height: 428
-  - title: "IBM exits facial recognition business, calls for police reform"
-    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer"
-    publishedDateTime: 2020-06-09T03:11:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/ibm-exits-facial-recognition-business-calls-for-police-reform-12817828"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12817826/16x9/991/557/82ab1a3afb9fee62fd28ddc164708a7a/Ze/a-man-wearing-a-protective-mask-walks-past-an-office-building-with-ibm-logo-amidst-the-easing-of-the-coronavirus-disease--covid-19--restrictions-in-sydney-1.jpg"
-        width: 991
-        height: 557
 
 secured: "V/Q9Jai75Fs/42BPpTVocvHAJyhGLOYGzPil3421gbE9Hl9kMtDDkZKfjQYLgisOOe08kzT7z4nCuOVLGhnMVHtuQMlIW9hqxWM/vAQs3BJnS47qh9ShYh0zhTapUFJx3SH01JGL4dWhODnuCRJNcLx/QK/bTQw4O2PaaNyG0i44GsliC5R2BKtw+/H45lGrKOZgAsPVaTkceJGpZLxUdbEEJPwMwmcoGZPIPhfN/eSKN0BcO1ToE/hXvuu+PuGSmgwQ+kFZuBJroiexUZYcmxaCmY8o8CeDN4wSxgZErVpmOv6b1tgscAw4NdyG3FAV;61ukqGGashJGuQHqrqnlfg=="
 ---

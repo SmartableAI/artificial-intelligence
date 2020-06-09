@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-he
 ampWebUrl: "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -23,6 +23,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "mc++ToKKLrXatsGy3ZjOF9+BSLuY/FMbcp+9kOf9nuNUxDEky/tSbfKT1LW6X9ZZYq8I4A2bMdiXb/mMMd5nyBgbFYK80A53Ea/R65PnTFnIarHbWtMlV2/Og69TWNV3DcRB31Q4Qi5+lMrR+uIfOdoPGt4B9fNRAjJCRPt3FJtIXFOfKyXHCJhG/XcZGuCsmHjxA5aDtE9pUm4rbrX24R+UIeUFDLJXAfUHxWvDifiQQSUFCUh4DyVU4sYYBL3dxXxc3o58Pab51eQaKZl2Lo9X88whpS5tO11n6qrJFOzxsI4wgtTBtslmkTZktjI4pm6D74P5nMwk0EfpNudktqNcEOksOHOeCF1ZCwGIvu52pdps0WeyeMa/pvNGJVujX5N1h26ySLxXvXw7nmtighmiY3Uf1ieusKEODrSjwB+p+X8Wjk8A/5wPqx3GDXv7Ww3p1PSj3xQlHz8EF5MUuFL3HiI6I/wEGNaEYHSJYls=;9EepSDmSgw+VbUYINGLkug=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg"
+    width: 1200
+    height: 673
+    title: "Technology Can Help Organizations Reduce Racism, But Will It?"
+
+secured: "MXzCWhBsAZp093AWuGlpfXW9JZRHOVM5vQv6fpqvzixKwGS79h96dEQqdKne5av5QMJ50J9hd43KPzzbIdk7VwIDkRcOz7XfMzsnWp0WUngnga5kc0WJ9loJhLp/Di0ABs7ASnVvlxvCv9wL9wl1fufHXfmB4YKtaMwUOiH9G6pG0QJMWXM/69D+QXN6NyiLDQKD5S0jLiea8/JOWdXG613djH8QVWB+RBOdavXq4wIW8M3oCuBHSo8tYlUJgwdyX41nUpUAn/2INuEJJuhEpmrOnYylvlnuxgho2Ph0duso5w5b/QUCkl1fZEh5AXfu;H7QyWo/jXONzBv9bM1tmkw=="
 ---
 

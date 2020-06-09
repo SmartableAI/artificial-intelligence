@@ -2,13 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias.md",
+      "title": "IBM backs out from facial recognition business over concerns of racial and ethnic bias",
+      "excerpt": "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias",
+      "ampWebUrl": "https://www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/",
+      "publishedDateTime": "2020-06-08T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "IBM backs out from facial recognition business over concerns of racial and ethnic bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
       "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "publishedDateTime": "2020-06-08T20:55:00-07:00",
@@ -42,6 +87,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -49,7 +95,7 @@
       "path": "_news/2020-06-09-ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse.md",
       "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
       "excerpt": "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure",
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/",
@@ -222,6 +268,43 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mount-sinai-receives-award-from-microsoft-ai-for-health-to-support-covid-informatics-center.md",
+      "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+      "excerpt": "The Mount Sinai Health System has received an award from Microsoft AI for Health to support the work of a new data science center dedicated to COVID-19 research.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "publishedDateTime": "2020-06-08T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -486,23 +569,23 @@
       ]
     },
     {
-      "path": "_news/2020-06-08-mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices.md",
-      "title": "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices",
-      "excerpt": "Researchers at MIT have published a new paper that describes a new type of artificial brain synapse which offers performance improvements vs. other exiting versions, and which can be combined in volumes of tens of thousands on a chip that’s smaller physically than a single piece of confetti.",
-      "heat": 110,
+      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
+      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
+      "heat": 124,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/",
-      "ampWebUrl": "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/amp/",
+      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
       "publishedDateTime": "2020-06-08T11:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -514,10 +597,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices",
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
+          "width": 600,
+          "height": 350,
+          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
           "attribution": null
         }
       ],
@@ -527,8 +610,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -1236,87 +1318,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees.md",
-      "title": "Jaipur firm deploys 7 robots to cut down physical interaction among employees",
-      "excerpt": "A robot guards the entry gate to welcome visitors, performs thermal scanning to check their body temperature.The robotic guard’s artificial intelligence is synced with the working of the entry gate, w",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees-11591526460461.html",
-      "ampWebUrl": "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html",
-      "publishedDateTime": "2020-06-07T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/07/600x338/ai2-kr9--621x414@LiveMint_1591527445501.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Jaipur firm deploys 7 robots to cut down physical interaction among employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
-      "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-06-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

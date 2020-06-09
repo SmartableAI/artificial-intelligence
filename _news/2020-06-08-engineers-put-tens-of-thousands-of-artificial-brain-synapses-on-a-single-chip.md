@@ -20,6 +20,21 @@ topics:
   - Machine Learning
 
 related:
+  - title: "MIT fit tens of thousands of artificial brain synapses on a single chip"
+    excerpt: "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti."
+    publishedDateTime: 2020-06-08T18:44:00Z
+    webUrl: "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
+        width: 600
+        height: 350
   - title: "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices"
     excerpt: "Researchers at MIT have published a new paper that describes a new type of artificial brain synapse which offers performance improvements vs. other exiting versions, and which can be combined in volumes of tens of thousands on a chip that’s smaller physically than a single piece of confetti."
     publishedDateTime: 2020-06-08T18:44:00Z

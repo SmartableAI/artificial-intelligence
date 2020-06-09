@@ -25,6 +25,6 @@ images:
     height: 900
     title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
 
-secured: "gec/h4aoTNTZWgozYt4h0LDxi+IM05MfCSeTgRpjDkMeOVEJd7HITPApx47daX9OWMCtwXjEpWRUT5gK64QYnSEmrAb3FltFtj/w/c9xqZ+YCq8/B7oQmjD5yqwZeSGAdtWrimieik1KgahDWgJ+5cxnTfbkc0BaFY8+0RYF4T0GONgT1qIgx9ahdPRSmPlGI96uJmIAeFS/8j6uYpOFQMYD3CRt0Rj0fn8yO48XTZwRcHRauR/SHLqk1G0ayVyPAIVS2vPiEqXv0id1zDjrkkANkAXrxWqVk6W8EtxJBLTcbkoRSlsG+anxNkD1SmnN;cZYKdFGY34haWH8A1R90Cg=="
+secured: "uRyBRS5ZEFP4u3znddlFuL0hAVJMqkbfrcPl9xy93QkuXxRWx93KlkWzL93A+42P+fI9DljxXfTJEE1ZHrw+eun1JCCVfrfyyoxq3ivsoTOxzGnwX/TTYKpx+kMCwhmJJ0Hjy07eI3VTMnVHE+VoxOnyUVyFPvHpMGjSHl+zuTQcjX2JSKvyXQN0afHTdALbB9ivYEdZsSQDKuUpOpfkwy8yfBv7cKaMgV9jM9TQ64Ohbls8bFQ/SfsqPyfJ/awnTN5YPVGx+f+1QIMuC4LPNqD8YnNcC3TjreFk3IxpYDfn3xFJmw/pm4RJhG/CpHj09b9wTscJuIeOQ+d54Qsp5RiO5a8Ve5oRvwGM/KDZYExbU30hPWpNXQSl+jpwQiuMFt8/929SMnR3oNm6yRBGzDpB7dQGAHtaOiEHVdImkNiMtrGkHjVAaurJc1gQ/xpA/YH43qOX//H4d1/lQlpJ7HPWz1XNdX2YG/p2QidcaQY=;k/BXGAWpjlHukAEwD9MMXw=="
 ---
 

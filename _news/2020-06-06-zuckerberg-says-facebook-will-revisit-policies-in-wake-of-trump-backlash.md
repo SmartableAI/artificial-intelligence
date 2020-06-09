@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-say
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Zuckerberg says Facebook will revisit policies in wake of Trump backlash"
 
-secured: "7L7FjwjQjYQRJEkWzR7nBKjv0N9yU6SjFmX53n0XXznxwEEao+ti46KAE9bAsSqmxjRvABYvf8To6rU0OCGI4hWPDsXrjIwfI4usuikbhcvTIWlHIG1HqBeko8f858hfvhfML02ag3r/qufMfpK0OeqATLiOl2XuQ/36H4dqOhos1frGWBfQIgjF4ruXJVYCrPttd0SOt7VuD/I7SCghVXOsVrBYECYmLRG+KoWwTOkRgoIQi36f99JmdZH72T2S8unBOBPpfDd4cKQpEs9YDTh2NjY9/w/d51WbQ99ssHy/RIFCQ4APTnRUaFbhYVcH3nrvDhmxu5rvAGlII2QpOYQtKjp9x06D4akP1oiO1P5xUA2W/uvwHJate++9oF4TItcVgR27kriE4VBI+z/dAL08rALwEWVTsGkHg47VNCbIJN7Mhdb6jcou9KjZ35D84mP9sMtLadQE9AgquuvDxdsoFiorugyGaCguGERE/6w=;ZSosRKgBCAS3U6sE5Nl+kQ=="
+secured: "jAGoOLtvI7UfbjrP7eAHRclzDcb7TCt3KrfYxpsdcbDKa0/d0x8654kDmL6yrnYVbDG3Cu73JjgEgN4/C2Rnk3FBPvSug6ZYulFNk7u2dmhLvBIVH95CAK62dYXD2dgTis/pRI0uvyKeNtjyuoPn3m3yRF4Y8speKWN8Q+yRu+5a8xrgGcIf50FP9KSsccESH2vlkxRh1+RbYMXuJ4PJ6121H9qWxSulEFVDJp1lJUzs/r1wFjC6H3f7nhEK34sGoipEGXM1MQpBMmoz0sMzgZ++iRUjWx4OenMeQ1x+gYb2kWc5gp5sOwLmxPxesZz+bwalmTfVpWssWi1Og/PrCx0B/K4cPSyyDy9eU3lNG6rCJRypYUnLYy0jUYW+qCFKC50CN59wPYv8K1UszMTQLTFWU9vtWItXwYtHUlJNg538TB6PkUZ0ew8ADj8lLc8rz7BpWANQ6WIgft4vWxw+Ms0s8VGXDn8Qllv6FRXWGDQ=;t7A3RHRcx5pGKCDdpGnrdw=="
 ---
 

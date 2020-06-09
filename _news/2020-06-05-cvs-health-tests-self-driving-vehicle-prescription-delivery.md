@@ -23,21 +23,6 @@ images:
     height: 630
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
-related:
-  - title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
-    excerpt: "CVS Health Corp (NYSE: CVS) is launching a program that would enable customers to receive their prescriptions from self-driving vehicles."
-    publishedDateTime: 2020-06-04T12:30:00Z
-    webUrl: "https://pulse2.com/cvs-self-driving-vehicles-for-delivering-prescriptions/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 17
-    images:
-      - url: "https://cdn.pulse2.com/cdn/2020/06/CVS-Store.jpg"
-        width: 1200
-        height: 701
-
 secured: "+pt3WSu9s+Iju/9C0jzt69hjrVb5aUHMq2DXyqjH1D5TM+MpxtJaPCL8VLPdPTwBs4F4+Y9cKTILjITqGKyyfiuyK4DGrkoLl+YwUuQStQjxquA2cen2dBYiLKVHuXlDHYAvsTjVE1l0VcXTH4ElhrZKlmOBcty3cSLDbTrfBkHdK/aC6fmNQgHdvMSyO6ekE4dplfJlE1jpVvibo8+6yieB54SynOuOzs+j0a1DttrxyEMXz6Th7E+LWgQTfXbzLkDWGHf59MXahLK4f6H0jxZpm4goOAsUQAuQYgM+NBJMWhawuyt4ts6Ew9QlzMDd;Qr2LCKjJTBsWFpRUUxijNg=="
 ---
 

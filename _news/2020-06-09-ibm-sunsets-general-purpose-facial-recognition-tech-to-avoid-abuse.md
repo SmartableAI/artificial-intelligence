@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recogni
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "IBM sunsets general purpose facial recognition tech to avoid abuse"
 
-secured: "0EL7gwYR4n9C6zAqMrYzMd2V7sagwn7e/B2diEY9xcXzi+bQWuhhn3hiQbXbvoUjRIRqRDlzFsq5vVjMxQ3SjG0/NxnAqLwdgVnKSKt+NdEqenJMs21QNt3LE3NI00lk9Ai9r+wiGuZYjFJgXXEJx+7NAVWXfyTVZmE+nIbPQGSTMCm/PVAfJeN9zV0/syxPOJC+WF0bxrRIbW1J95J43rHm3Orf43eDIpQFpjNmKf59/3QfQ5ZXqA5g5eSna4hjDmlt9DTlwd5NTXeKdlLsZ6UwNUB59cFaEMtEcnEQ/cg6Mpt4zRiaGBdtVCZzrC8UWa50jIgChSl09dpBoemyeKZjfW4KT5EEMcaMvoQUckZWZjIMLvAWHg/t2+gUSVUwNJ4Ykq5rfpkq8ru4W6uOaeyl0B0QTDe50PrQaV548LTEyiae2uSxcyGZR5PCbg3tilGrKTHcFdo70SmcLfQrtLHg00pcXyw5frk8pbRNhXI=;faxQuljrERoYVVeGqWx8Pg=="
+secured: "BTNzN9Dbo0HcFHKeR0a/QCgD2uAU30gmQBsNKfp52Oj/gQepbZDw5kue1C3G7oESs3Kr8cFVa/0yBklHB6y5n6vj/0XtNEKdwkx3rhIOaqvt543uk54Ig5u4d9B0uBqNmif0l1mje677oCvp7YQGzDIC34cjmzYL5cW8H/3DYxVNL3ds6rX5y16Qmt6ykl6T8CzvaliLhCAJZVUtSv8uziYM85uV8ro57esfoFfN8ySbr9vdEFccBoz+Peai8jK7/0muXVRueyDa9xpNkuyr5hFR0EviDRiWV56jqD+9xr6EGfdQZgPke1+22eBBX5MUrjnfCFrsKSMmBfJgiHvYJ0P0TRw49GIb3Jk+UwQ8qbTxCzk7aMocnpyFX3KpKMZry89iZEm/jn53ie5dyCB36khoDrskUyFOKgfCOa7923hIjGxQ6zJ7KBXXaO0kA1R6MSIuDqKs+jT0r8j4WVqqbhlKOc6zF+ZsdvGH/sjjpo0=;0c9yLp6aILLHKpIcjzmp+g=="
 ---
 
