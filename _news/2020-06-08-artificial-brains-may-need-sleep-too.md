@@ -55,6 +55,20 @@ related:
         width: 1884
         height: 1412
         isCached: true
+  - title: "Artificial brains may need sleep as much as we do in the future"
+    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
+    publishedDateTime: 2020-06-09T10:46:00Z
+    webUrl: "https://knowridge.com/2020/06/artificial-brains-may-need-sleep-as-much-as-we-do-in-the-future/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 41
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
     publishedDateTime: 2020-06-08T10:15:00Z
@@ -68,20 +82,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_332409741.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Artificial brains may need sleep as much as we do in the future"
-    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
-    publishedDateTime: 2020-06-09T10:46:00Z
-    webUrl: "https://knowridge.com/2020/06/artificial-brains-may-need-sleep-as-much-as-we-do-in-the-future/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."

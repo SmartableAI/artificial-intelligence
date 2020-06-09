@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 type: article
 quality: 104
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices"
+    excerpt: "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices."
+    publishedDateTime: 2020-06-09T12:36:00Z
+    webUrl: "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices"
+    ampWebUrl: "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "MIT boffins develop new brain chip"
     excerpt: "Small enough for a mobile phone   MIT boffins have published a new paper that describes a new type of artificial brain synapse that offers performance improvements versus other existing versions, and which can be combined in volumes of tens of thousands on a chip that's smaller physically"
     publishedDateTime: 2020-06-09T10:05:00Z
@@ -61,6 +77,20 @@ related:
         width: 620
         height: 433
         isCached: true
+  - title: "Tiny ‘brain on a chip’ offers AI without the internet"
+    excerpt: "A ‘brain on a chip’ that is smaller than a piece of confetti could lead to portable artificial intelligence (AI) systems for complex computational tasks – without reliance on the internet. Autonomous vehicles are a potential application for the technology,"
+    publishedDateTime: 2020-06-09T13:24:00Z
+    webUrl: "https://www.imeche.org/news/news-article/tiny-brain-on-a-chip-offers-ai-without-the-internet"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 54
+    images:
+      - url: "https://www.imeche.org/images/default-source/default-album/shutterstock_1069662992.jpg?sfvrsn=0&size=705"
+        width: 705
+        height: 396
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z
@@ -73,6 +103,6 @@ related:
       domain: phys.org
     quality: 36
 
-secured: "9vEqHicSEVQh4bBLHNU8IyKgSh9mI9HoeaipEe/iq9Tov6sx4ZPOwzuYHKt3DgKClSFlfWP818PR/gAWzdkM+Oit/e6S8d6pNgk0Y1oTREZlkd2mzaT+Cu8AgOOFA15Q7EkjqDskOw9RL2ovvHrNN1ZbVB5njtW796A5ko6pHOcD38NSeri1O+cu107TveuATnCOPd8Nj0dUsY4gdMuzJFXPsdp5A9Y6N663OPq/UO7km3Lugp9syOzcijTgTecb4fqwncPNU3ST/WzMVI5HlHKWDk7ch+du8nAUZf1jjHLQ8Pbt9/9lL60ikIbAC2yw;75Q/VEOG4qm9914Nd7CgIA=="
+secured: "6WBn4qcQtP+Elp/9TRHsR8vw2xl9ufo2//Trp85644iqsGFoeI2CMfXQNqKcXEIIYnJrBKkhGH7p7SrouoxidzC3mXHBnGEe20YasJOfLRvlB2Jbw+quAUOsyfJ7Rp052dkQfKw1C1DUvsoKQSQqSwsY0rathhd8t8DLHnTLQBM2KdYuE0WWy3heClOqaPGPhO7CkwXbrOgWTi1itIvfvcfAD1ZbjH+flXkJLiLqLGzYiGgGRVEwYi0Y94OkPoxf4Uy7dKJJ0e7Ny1JEGp+VLqx28sjevqK/trpYgRnnrzrEu1zJvCpTJlNq1RX82Nab;B+bnAPghdzVuXC38MszWDA=="
 ---
 

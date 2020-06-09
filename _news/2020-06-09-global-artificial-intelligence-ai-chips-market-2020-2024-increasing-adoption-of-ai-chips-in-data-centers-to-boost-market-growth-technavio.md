@@ -5,8 +5,8 @@ excerpt: "Technavio has announced its latest market research report titled Globa
 publishedDateTime: 2020-06-09T09:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200609005066/en/Global-Artificial-Intelligence-AI-Chips-Market-2020-2024"
 type: article
-quality: 16
-heat: 16
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200609005066/en/796546/23/IRTNTR41328.jpg"

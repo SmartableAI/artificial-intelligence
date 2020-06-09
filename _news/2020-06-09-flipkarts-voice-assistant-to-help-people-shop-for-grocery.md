@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Flipkart's voice assistant to help people shop for grocery"
-excerpt: "The Voice Assistant for grocery is currently available to all English and Hindi users using Flipkart's mobile app on android devices and will be gradually made available on iOS and the website."
-publishedDateTime: 2020-06-09T11:15:00Z
-webUrl: "https://www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.html"
-ampWebUrl: "https://www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.amp"
+excerpt: "Introduced in Flipkart's grocery store, 'Supermart', the Voice Assistant will enable consumers to discover and buy products using voice commands in multiple languages, starting with Hindi and English."
+publishedDateTime: 2020-06-09T12:19:00Z
+webUrl: "https://www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html/amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The New Indian Express
-  domain: newindianexpress.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/4/3/w600X390/Flipkart_Reuters.JPG"
-    width: 600
-    height: 390
+  - url: "https://images.moneycontrol.com/static-mcnews/2019/04/flipkart-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
     title: "Flipkart's voice assistant to help people shop for grocery"
 
@@ -60,18 +60,18 @@ related:
         height: 338
         isCached: true
   - title: "Voice assistant to help you shop on Flipkart"
-    excerpt: "Homegrown etailer Flipkart on Tuesday introduced voice assistant capability on its platform to make consumer's e-commerce journey simpler and more natural. Introduced in Flipkart's grocery store Supermart,"
-    publishedDateTime: 2020-06-09T10:19:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/voice-assistant-to-help-you-shop-on-flipkart.html"
+    excerpt: "Homegrown etailer Flipkart on Tuesday introduced voice assistant capability on its platform to make consumer's e-commerce journey simpler and more natural.Introduced in Flipkart's grocery store Supermart,"
+    publishedDateTime: 2020-06-09T12:08:00Z
+    webUrl: "https://menafn.com/1100294968/Voice-assistant-to-help-you-shop-on-Flipkart"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/voice-assistant-to-help-you-shop-on-flipkart-2020-06-09.jpg"
-        width: 1000
-        height: 800
+      - url: "https://menafn.com/updates/pr/2020-06/09/I_cb7571a9-bimage_story.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Flipkart introduces voice-assisted shopping in Hindi and English on Supermart, its grocery store"
     excerpt: "Flipkart, has introduced a voice assistant on its grocery store, Supermart, enabling consumers to discover and buy products more easily, using voice commands. The voice assistant for grocery is curren"
@@ -88,6 +88,6 @@ related:
         height: 384
         isCached: true
 
-secured: "kIcJvo+sxquvUGKguKk9ce3tPLhxyk6kA8HqTfr5YaJSOEEUxk5MGwacS/C3N9rC3E8CIW25SPTaVwWM3qIItcKChELX/3CKxDwX000dkf1b1SOsJ8+cvT4EV0RzyVBhjZ8kKJmct0IRS5Q4DjsiJPOnsgvX2fIZbh67CH0x1URntycjAGY/ennz07Hl/P/ZgxupSliNs5PmRqPMg5DRASj/F94BpnUCmSviuQ1jgJPkUzBURxKxdXCLisF9RNEPXMczI3EinlrcQ80wLkui8OI+HwxS6256jIYnX+FGtHtAT9o4zUPbUJ6FdVnMEGSF;sPHDrQwsHGRcvwvNHoeHGQ=="
+secured: "h4NT71TL/NtjHDB1JMt+N4HSOyhOqJajDgfoEIAvnlTAbhMRmWFDEtqiHTV07Y6sabR9utiMI1B5ZBYsiChc5EbChGCqiX0k+mCUoMlQYUkkown8VBL3DqTdd9ZNff4RcgOzUCckvyzD+D6bWAfHr+uZ2lYZRknoCIKlb2yF91/8h0YrJ3PusvY989LoG1x/MeWI+B8v5bYQRciqPeHvz3TvcGOHTjUg+PM8sF2pjFopj/x055QI4ytTB9Anx1XaAeeTzMM/eEHT4/mux67nWiy+IiJudw6P4ah8yMdI/7xzfuZc/HFmqSQ+TM6JDOne;BrnVPi/rGfPPPFwW4zmY1A=="
 ---
 

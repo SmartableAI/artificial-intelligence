@@ -69,6 +69,15 @@ related:
         width: 400
         height: 322
         isCached: true
+  - title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
+    excerpt: "In the wake of COVID-19, cloud-based Artificial Intelligence (AI) will play a critical role in the transformation of three key industries -"
+    publishedDateTime: 2020-06-09T12:30:00Z
+    webUrl: "https://www.oleantimesherald.com/news/state/covid-19-pandemic-spurs-strong-demand-for-cloud-ai-in-warehousing-healthcare-and-conversational-ai/article_c399ffaa-2fee-5e8d-a901-efdebd0c4ae5.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 20
   - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
     excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
     publishedDateTime: 2020-06-08T14:00:00Z

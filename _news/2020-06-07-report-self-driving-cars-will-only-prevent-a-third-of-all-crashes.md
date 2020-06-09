@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
-    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-04T21:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Study: Self-driving cars would prevent one-third of US crashes"
     excerpt: "But not all human mistakes can be eliminated by camera, radar and other sensor-based technology, according to the IIHS analysis of more than 5,000 representative police-reported crashes"
     publishedDateTime: 2020-06-04T21:19:00Z

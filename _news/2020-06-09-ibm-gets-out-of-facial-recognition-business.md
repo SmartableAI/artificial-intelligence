@@ -1,27 +1,34 @@
 ---
 category: news
-title: "IBM Gets Out of Facial Recognition Business"
+title: "IBM gets out of facial recognition business"
 excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-publishedDateTime: 2020-06-09T00:47:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+publishedDateTime: 2020-06-09T00:55:00Z
+webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+    width: 818
+    height: 545
+    isCached: true
+    title: "IBM gets out of facial recognition business"
 
 related:
   - title: "IBM to withdraw from the facial recognition market"
@@ -56,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
-    excerpt: "IBM has scrapped its facial recognition and analysis software, citing its use in mass surveillance, racial profiling, and \"violations of basic human rights and freedoms.\" In a letter to Congress, CEO Arvind Krishna this week outlined policy proposals aimed at advancing racial equality nationwide, and announced the end of IBM's facial ..."
-    publishedDateTime: 2020-06-09T11:38:00Z
-    webUrl: "https://au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns"
-    ampWebUrl: "https://au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
-    cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
+  - title: "IBM steps back from facial recognition technology, calls for reforms"
+    excerpt: "IBM CEO Arvind Krishna called on Congress to enact reforms to advance racial justice and combat systemic racism."
+    publishedDateTime: 2020-06-09T12:24:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/ibm-steps-back-facial-recognition-technology-calls-reforms-n1228186"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1228186"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1228186"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 89
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_xyg2.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3384411/200609-arvind-krishna-al-0813_1d57cddd0067f0a01d875d5356afc59a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "IBM stops work on facial recognition over human rights concerns"
     excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
@@ -151,6 +158,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Why IBM abandoned facial recognition, and more tech news you need to know today"
+    excerpt: "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!"
+    publishedDateTime: 2020-06-09T12:02:00Z
+    webUrl: "https://www.androidauthority.com/tech-news-56-1127243/"
+    ampWebUrl: "https://www.androidauthority.com/tech-news-56-1127243/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-56-1127243/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 85
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2017/02/ibm-logo-840x470.jpg"
+        width: 840
+        height: 470
         isCached: true
   - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
     excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
@@ -241,22 +264,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Study reveals parts of the brain linked to facial and scene recognition"
-    excerpt: "Using \"sub-millimeter\" brain implants, researchers at The University of Texas Health Science Center at Houston, have been able to determine which parts of the brain are linked to facial and scene recognition."
-    publishedDateTime: 2020-06-04T20:37:00Z
-    webUrl: "https://www.news-medical.net/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z
@@ -289,6 +296,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms"
+    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
+    publishedDateTime: 2020-06-09T13:51:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
     excerpt: "The tech firm also calls for greater transparency and accountability to policing following the death of George Floyd in the US."
     publishedDateTime: 2020-06-09T04:15:00Z
@@ -304,6 +327,22 @@ related:
       - url: "https://e3.365dm.com/20/06/1600x900/skynews-facial-recognition_5009232.jpg?20200609042007"
         width: 1600
         height: 900
+        isCached: true
+  - title: "IBM quits facial-recognition market over police racial-profiling concerns"
+    excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"
+    publishedDateTime: 2020-06-09T12:37:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
+        width: 600
+        height: 360
         isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
@@ -371,6 +410,6 @@ related:
       domain: ign.com
     quality: 19
 
-secured: "2kidGDlxQf96GqXHuSTviR++mYprCKP0hBvUL/xOV8q/Svd04bVkbOAEyqCP95deAFuGj+W2K+CtSp7UBQJ+BY4ltymCY2BqTtwWMcaVUtny+SjqWoQuFDGCgVyqi3df2Md9/4DNKxobf9v9BEpuOAVGEOqHapbImFIN3pxk/Cx9RhIrTnuEnnXcI0QE2JVjhBJUBRQB4iOhvrqXyV9v+AqImE0sAhxGZywBxspHLNfmgx/NbiBoWpro1EWbKXq7EDNhkGfGBWyRar9k7s6o1+1eB1BVPBnWEbB9e4JqIG777DCznv0WCvNf5VT0wo/kJ3pUPcqzB/5GuP4P13tKEiuD6TBHgNwdzHFqeJ3gUFYR7Yrr3kiDE23SSnfSyRsLrRx1S04AADuO1fQEti1Q99bFAXlwvmiLvv2pWrYE5r6mJuPTtC526EFdjj6x47x2wWnga5MI5zpiRsJZmi96h+FStj7epohb4Y5EhkRNCHAdEXahoglP81NFqSASCf3k;ZKU9nmzbmWBOkM1AZ/q86A=="
+secured: "66+jAgAS9lBFf91ZtFnTC1KP3kIVVqIL2aLLnvlFpv74IHNnveMCb31tyTwHRe//JMeOYLqKjRuExQsBXsL3+lOl2g+8LTCyqcuFBaVdvfxF1AuQcqS7vKtbtiQf+B05eJaRXa7n7M893XcUbsUEzgmkzgdEvI4UXMnXQeEPV6oH7uoKRZ4Zg6UHBezTM3KS7ogRsRGGGjZfve+Sbmh16vvLyM/q5CuRmwNnKMgFkCDvPmAoOsbYJny6vTOvJ/pFuItulTwyVL04/lcoBUMIEuanQcB4pu6gwVCB2iag8ZbNFeMjWRjXu2qYYANXRojs;Ro6gsLS+YQYLV9n9CzgI9A=="
 ---
 

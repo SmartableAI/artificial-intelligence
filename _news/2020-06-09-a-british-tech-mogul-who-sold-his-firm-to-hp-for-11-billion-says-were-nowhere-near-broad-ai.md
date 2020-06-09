@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'"
 
-secured: "HLLhWM3Eh8ePw/+jM9hmhLURhD+mFXDefUkTId82aBSA5PTXzz2DSnahbaklH1pFcD9Wg8PgLBLNFeOWiY+y/14h+BuymVHQzvn67oTxANcmmkZOrgxG8pVDVbGt5xjO0gl3VqosXkqbS5k2Le/xMfs9tHcWwJCrZPPftrIayYaYpptYMXZFXqdyJqelOKZrcp6LS2x/V3xSWUz644guD30QNEk+CMXK1YeLN9DvzR7mieDodW1jnoKSkTkE2M2ABJhYpAcN57NYGJdVLW3mEwbzfSkNxzSAbq1+WTGWO9skXWrQNRg9hYERuD25Ugp6;mNkQZDam2JmpDgZ7klsj5Q=="
+secured: "I4qs+qeG1RtECb6bk5OQU4kHEy77xEm2JOW1E3mdTeH14zW3/odBnuBHaIkzQ2vD0LmbKnzWjjKK6jyvRKbTlKCsT2iQqqEcLOX47sf+CXkxc7GoE3B7o0OLmsecQ/p/31yUA6EwG5/bVBo4SP3SSiFeG/gYCMhacQPFQCGDhkfIeFWK2JtCvLrMyRs88ks1SQVxD/ShIJsFUVCw6NmoonuAUo2s+4e+m2vbCEPomHRFGy2YRkzRD/cgwnJj273/hBJ6VDtUBmWvWecYLFxwD5ptapTX4obcHcKqsdfWSzWXw6oW9iEhZ749d2HCwYqiSdeUzmOqbgMl8Xrc50tf2+liJtdQpBuuyi8WYSA2Im+FMDX2en9rFcfm/YBuQE36UTZzVjxMqxzvZS2eCUOiL8kLZ6IazLIA803gEx839ByGeBYtJp1V/IDPZpekcaydClXVePyFUxyb3n+Xb+W1sekymymLWiUNhahjjPESc+Md+TAnaShWXh1Lx3baCXMF;9O6ZHqcdNuvigfUVteRd6A=="
 ---
 

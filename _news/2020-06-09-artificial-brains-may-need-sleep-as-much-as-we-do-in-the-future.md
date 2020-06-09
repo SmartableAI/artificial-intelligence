@@ -5,7 +5,7 @@ excerpt: "No one can say whether androids will dream of electric sheep, but they
 publishedDateTime: 2020-06-09T10:46:00Z
 webUrl: "https://knowridge.com/2020/06/artificial-brains-may-need-sleep-as-much-as-we-do-in-the-future/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
@@ -98,6 +99,6 @@ related:
         height: 425
         isCached: true
 
-secured: "+k4FIDSLsbA63bs1xtrEfE3kZByADn8PFb3yeM+ylLJdxpF+EYioOuXI74gQyRVQ8X/iUcgdrG/dDQF6z1AyKcst43h2zBxamhs/j3fp8VArVwy1C1Aiqeby6Zzj2PqNXjbkXoqSxhJx0Ff9b4R4VZR4e/nlG17QGiIux+yXp62yBSUr0u71TLrNYpu2j3UXxU9Cjugu1KBDs1G01l02pFgE13YLFqYWDN0IFgeqLCWaZvRTK+UP3EZPa5EuD4j4i5EGdoCLEZX2l5uTM4J1ruRv79Ji6u5CB2q1KysuoP6klolKWOok6aWVqThDxLpr;R6dSha/K5eHsSByy+Tyiww=="
+secured: "STe4338wcggNipiZtNK3DuoYnZlQ3wdO33QO1g4YgEwLL0LCeE+3hsdv55XBPUD9FuEvIXH30NZFUgaOJT/XTO4k6+skwmHPF9gjlnCKiohnlBW1508OZX2m7DdXhB6KhDjjB8sXUZuROcJmULnIRrq+zYqEW8qNMkkOW6VYFVdQY+sGDMt9o0VgHYBGZ8aiBFGvxgmQ+XBtgFFDeEQb+G8NOVjwdSt8HWQwzXGRTkGsuJPGOzv0P3OdShxNLrvDuRmEkUJtHJkbLqIHjZBHOj1PoHK9mt0bj1fWQI3cnMst6Ufn1LTT9cx1bbyHTb/amP/Re1yxlowzBEjGd6zIBliuS30uVYD2+KaYYTqllOUasUM+4RFKK5N2wHTwbO+SBWfb0O5Wwo9S7rTBGDY1Ig/2cbPPca2j9kF150NK52ew5dMHdz7rA/0y+3v27Xg/L1cqvu8b5HqwxwJjVYpqTZLj2VzigloR7AfkkMTc9uLrLH9gyGzYlnPlpv5MWVV/;BP7gsenqCNVlcJueyl13gw=="
 ---
 

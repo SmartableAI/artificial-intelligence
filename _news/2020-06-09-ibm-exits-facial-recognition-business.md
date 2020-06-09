@@ -34,6 +34,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "IBM abandons 'biased' facial recognition tech"
+    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
+    publishedDateTime: 2020-06-09T13:56:00Z
+    webUrl: "https://www.bbc.com/news/technology-52978191"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7801/production/_112812703_facialrecognition2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Markey Presses Clearview AI on Facial Recognition"
     excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
     publishedDateTime: 2020-06-08T14:17:00Z

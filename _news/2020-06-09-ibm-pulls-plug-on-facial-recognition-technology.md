@@ -43,6 +43,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "IBM abandons 'biased' facial recognition tech"
+    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
+    publishedDateTime: 2020-06-09T13:56:00Z
+    webUrl: "https://www.bbc.com/news/technology-52978191"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7801/production/_112812703_facialrecognition2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Markey Presses Clearview AI on Facial Recognition"
     excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
     publishedDateTime: 2020-06-08T14:17:00Z
@@ -157,6 +173,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "jHQJZ1m9pQ6voxhWJGd6LqT5CtO11vVazX3ffl8AX9/Ip6MsLGGZ7RbvhUv81TkR0jcS3mqj69f71rXURei+408kyrvJBHBwo9jXLUa+3x+rNhLI7HJzezMKPdUMQO3W7XhqL/lD4mdobtrdlQJ9v7eQZ/MTntvYjydPusPfwb34BoSZ877ShjrS1wqDrZjoN/p8ttp0bg7k58n9whhEVnQNC+/5ncT8ImEGxk4pvpuWH6jh1MMa8ohGh0sdCuhT6+X0BuYMPVMr/gZf5n61Rlxf/psI3vQdfqxhxp5aJAxQ+w3waKklKn5LQgoNtrMn;K+qNxX+lxPMWo2EbLm5i8g=="
+secured: "/puzorlWElmssFZtDJC5bGzZK3nWuMwvJRD1UKcHPg3dqaWeFVzjw8eG2MelYN8rplE9fwBo6DcySotUirEIHbb34IpfpMjbfpI7dZ2ThDLcWxPLXXZU/on1D3cUdCw3xNNW0mjjdfBQLBTtDfcOnnxI3orXbf32REWN0SKNVWDSl881DkfcTHc/r+0E/FBsGg4Jwym81kpD0GAobeohr5mCnDnQi/FFMrhq3B2mtQqq3cB8UhgGkx4W3ekrl18tKgOTUzy+WpFU21nhuFRQSd6JfW/xDXy+G2c3vqlhhwTJyrEE0f5Ecjw9kALh3uuSSfcPr2GDknRlfILZXCSno6BVyOTIbY2dtDURj84eq0iLGg2/SACgVv4T9GVmWP5lJ9VcRVP1La91TuFRycNVqes0C4TbLr8k5okNhHKhTUqmUWtSMpk0Zq3fBklCkTuzDYsP+vAFuPXUIuxJlrWg/anLZOmpZyBum5Ucq3JzkpL8DBcujX/SxY/nqukzQA6/;sNOXsskUF5lquJJwtkOfVQ=="
 ---
 

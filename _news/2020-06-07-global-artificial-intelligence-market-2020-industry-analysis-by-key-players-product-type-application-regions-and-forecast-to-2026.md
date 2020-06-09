@@ -70,6 +70,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
+    publishedDateTime: 2020-06-09T13:30:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 33
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-06-08T11:54:00Z
