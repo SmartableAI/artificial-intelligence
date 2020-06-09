@@ -29,6 +29,10 @@ images:
     width: 360
     height: 300
     title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/963feced-c0bc-40b6-a216-ac13ed576bd1/thumbnail/1200x675/a8bb0d273d07b0025ae1f3bb0acc19f8/sony-develops-first-image-sensor-combine-5ec1bfd7e468b746804e6632-1-may-18-2020-24-23-40-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
 
 related:
   - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
@@ -67,6 +71,6 @@ related:
       domain: indiatvnews.com
     quality: 19
 
-secured: "M6CxVtRHzbOxKPojcMQayvWBNZUjov7r6wHa9jTdYBvteinWD+btaqvwaw+unEfXxWQKYuwHVY6d/QDBVPCh9ZUK/kiWnHacHmoPN1a1XkYlDPggbA9FzZAauWDYCU0GPPxlIUszZ+1fD3TueDbSoEY8R97zfrvFTfsAra1Jsb8/EqkA4llr+orRqjzt8gR5oA7JAhhwRxKOsWeWWGO8rhGArMmxQaYP/5zoIXhVH95TXBc4n34iJ2jlyfoESLWF7mUYTHqRRgIvytG4sV8NPKgcQj7eUp699ykInnjXWbCBmj0Lvoo9y992W6gum9TmbVsPQZUxNgqpqZS3Z2bB82zcJyh2vTA22TkcrSLSBJ0ZGdB/IvvVu4SifwcIqd1xlhTqYXrOSwU5yCZVt8Np7x8AMu23rbdzcmwbaQlux0VT5h+BKlEC5MiJ1vyDkLqKw7W+Nz1JmwQG2AsaRmMZMijasWGhRorGRMinlP/uLvY=;8s4yaS1UflR0AMcpyocnRQ=="
+secured: "eFk5Bm+37H7m1sR/WYT+kgqJS3XtwX1TijwadgDCaB0Ff1ygnQ52t94m1vGW/aVq1KENk+iRCkiA+KaWP0DpgzYAZZ/1H2lU2p0VbH1z2N5XinanBIUzMMNGLBjm8X5JjxMRhG33DSsGQoB6sptW5ufidEuHwXeHS1uZ5lHDaz2u2Lqb/eREtldfAoxKzlkQoRruBNZB5YJP8FrDmSZ+pIZyyhTBxzmlcxGYhp8yHokCls063I16v2Oj1mdLJi1DpsU1z65H0dYHXOkio8hT2IRr0vwqxEOfnVYqqZVohbmyz/SxG7z7qRnELwud7hKw;UeLX82AfMi+O24ROy9jW2w=="
 ---
 

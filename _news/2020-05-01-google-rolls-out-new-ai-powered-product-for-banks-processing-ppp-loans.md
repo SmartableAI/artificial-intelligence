@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "+E9lmK7ETwio1+2eNqosh8gdHoj3wdMgbgaR6sFE+9osqDb2LU0YsIKw0ERSUKzoe50JBl2ZzLM91cYF7fRFZ7JJl8/otDNDp09QZPYBnMjW4zxFl5tAr/dvSSIzky7ETcW0LoJg3jyYW7WBZ85CKD8HIa2FuwCSPzRz6wlHJDse12FUEGQrE5oAM0MueMaMQDQvyJQ2bpKouIf5EejcOYdQjWo8IAB2PH+SWepMQhJMTOSyRo/WOpaPk0xZJPn6Py3ah3PTYTM5+mGhTf924VSTrUgMwB6dDDtiraSRXqqRVHhDUPUYYqJ1evL91xyc1qL73fJXK1uSodcylcojW8f7LWI2P+DoxYDAHV8ZXR2QzNHNCDbYVp+b4UUxv8BDuv/D+oiYoafipqUbRgJNdFMMPD1RhE9YAocCUraC3YMKBKVqoJKxHtQLKJr0QkZSEYIDjlt/lt3QWGBhyYLXNOwVX6xaEOMEJXYu+E0AX+s=;VPpCQuCnMyvYBtBeDMglaQ=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/08/73f2e52a-4df6-42d3-8d86-5879d69a96e1/thumbnail/1200x675/47f487598809f0e903ad6c05b1ad8f3d/callstranger.png"
+    width: 1200
+    height: 675
+    title: "Google rolls out new AI-powered product for banks processing PPP loans"
+
+secured: "uwNYedb0cDEakK//G26fqM6TpeXbqH+pBFbUYsBaUw2yE7oQLn5Z7T2Vevh3v+01SW/ohKjQaqXbHoEYUNcqAWx/oaqu7gnxvBs9qIUHc8JHmY1nF95QUJ/hdfkuhFr8FXtfUsWaOYMb6XaMA73cPPXVNh9+ghwunJh+fjeIV2UA0T3nItK0PdVAEifWdXHgnxYbbA8XS9x6Sy7i1pgeGGUjoikjNON8S1qkJ76UK0g5OoDRpl2MjniTiSEgwBsv0ktvReIHCFDQZExa+ht5HBaQbuCiWTLBiaSscEohXfGhiacYbiLhDp/ErkkvhEas;rQDfe6IZ11jJ445MW8EofA=="
 ---
 

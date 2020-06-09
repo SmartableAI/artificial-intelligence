@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Alstom-ato-GermanyJ2-35.jpg"
-    width: 750
-    height: 500
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/04/randomsckbutton32.jpg"
+    width: 300
+    height: 250
     title: "Alstom to test fully driverless trains in Germany"
 
-secured: "MUhTupbnt5BCJ6bV1jUO5r42WpKedQRDVpvCQQzDdO6niJQ9biTHDu37yQYHPcpIUIXW/kQAAQYv3ssTNcjkaOcFS0BKPSvPvEYYnE51PdbXuaxKDp2lY0tH4Clam4LWnfMGDeidKdz1EIV+X18RFCqmyTibrnEaociW4Pq+NSsDb6qoKPVP6OsY6h1QRVQ6c37fbpb4HV3Pp8oR2Os0KchzXzOaUPJ7FtY6NPmnBCdpsR9VGgB0vH6zsHc5CBEnn8ztHkVG1RhI8Xk038adgcTDjDs0OXU6TCrkdCqeqEC5m4Rtfc8pS5OeWnRDjsbkB5o/TT/ZnZ7eAVDE3KiM6QVCK7zOUI0yimq5qRFQRIxQ+yk+TvypxupRog1y43sKFkeEe5DAMta/B5Gwk9/mj1qjchtGN7YJbNKPbBE5Jhr9vyu2v7QQEsIEVsez3FEZZqjRtf+aPN9kdaLSKo/0/RkSUqQz0U8GCTX0x9cWKM4=;nWqS1JviaDzu70g70yyvvw=="
+secured: "1HHIb8awT9+AUWQQqj5J4/Igv7ogbPn/EpWS03A2Hk5+S5Vlh4pfgZnWWEAtzxBXcgvonpBKeBW7F9WG9Wtc9t2i7Ox9g1LwBi/xFKmzUcpjwowT7+be2w05aPrIPRZDDgBiGecx3QoMskOdAOxSluU9Sq4+eAR7O2Z3wVfWwbrWa52B1/OoUlYdeX7VbgIkRuhHMgGHZeJIQxs6Vuqq2go0UwJBei5WCPRWnpn4Gjihh+kamkAJbVVWrDL1vNSbT0K1dZeXp0TMAykywJLxXxTD0jxFvhnWYe78PA5uxTH9P8CXdQ6ufblSKfvP2RJ+XWv9z8pEBkchWH/HuRKFcSJA++kHBhDKLCXEpCj/YvBJsA4JlYijyGEqMghcaCJjq55fGYYhvejad1xJgMUGV2kpJeIAG9D6L0HLudzsdMtfCP7niNS4wrl7Hdf3pPmFF1nTL+ywsAwoRyczjvYchSDaQ+4Yjx/lyoWUNvPto1M=;pJEwSRnEdDOtYHuOVnG/lw=="
 ---
 

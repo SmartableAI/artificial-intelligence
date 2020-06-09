@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
+    width: 600
+    height: 400
+    title: "China unveils its first AI virtual influencer"
+
 related:
   - title: "XMOV Unveils China's First AI Virtual Influencer"
     excerpt: "Ling (ins: ling.gram_) made her world online debut Monday, leading the latest Chinese internet trend among positive influencers and cultural inheritors and showcasing China's soft power and culture. Bearing a close resemblance to humans,"

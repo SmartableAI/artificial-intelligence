@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/05/IMX500_501.jpg"
+  - url: "https://i.inews.co.uk/content/uploads/2020/05/IMX500_501-scaled-e1589387331226.jpg"
     width: 2677
     height: 2008
     title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"

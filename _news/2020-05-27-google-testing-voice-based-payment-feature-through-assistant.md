@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://st1.bgr.in/wp-content/uploads/2018/11/google-assistant.jpg"
+    width: 805
+    height: 456
+    title: "Google testing voice-based payment feature through Assistant"
+
 related:
   - title: "Google testing biometric voice payments via Assistant"
     excerpt: "Google has confirmed it is testing a new Assistant feature that authorizes transactions through Voice Match biometrics, writes Android Police. The feature was detected by the publication in Google"
@@ -32,6 +38,6 @@ related:
         width: 1280
         height: 725
 
-secured: "maQGVXHAGsC+grmDVO64NhMkbDN7tbrpyxZTCENjBPYWzSE8qEiKIdo1udfJ0wXMk5JmHURd0QkXqMUH+Nmi4etUg5oZPoiwhV/P0CLqqKFpLoeHBy53gS3cQ80U+bp2aBxXboxLC3gzBtNoYHbuLJN0EzxmLXCYv0MFQnUZ/15PHobenAEc1/JAnntgDUJQ9rF+G5sRliS3trOdgdClRVHCJEWFDv4N0HdGZjM99b5SknJsuVURW35IOTWqh5mAqr/+oociAYm3T/1SJfPP8pB/bZxlY0Ps20eX9gmGcEoNm9hDG8X38EAnJ2RSqGCPV5bFWYyV+c6wM5AH8C+pGIa0F0zavfyMaoxMEvDilVKLYDK2lNjMiDdQH+2+QMyZNYLkQTopOV/qJJbgrmMpccG6X6R/7WDPw7xAHNeplKpZ69ka38fSxX62M3sYZvikLnHYoQDsPG9s4IlWwKDYU/TOJ0Bzlr+DXVRqteLmY9c=;WzjFGVGjctmksyHKEcXrVw=="
+secured: "/x3dzQpJKX9WxWoEXg1O3g9pyq+OLCN+K7LGe/ug2vmSew2GwUnxfSLmO+G0Hl9JjH2eKufKycllofggStTgH80ngN6oQvjz2+//CFWPaAEqeDVxaUaATDW8szEURwHI80e+I0Px7zDLJdGOkveetmdFCSEV6iVzHInOUkp7EoTz+U48zAD3HA7CElGpv6CzgZNr6d1n3C0J0Nr18vJalRkodRQjhux+8f72pbHLg/YxXP3GSQpiJQzd+Om1XX4PDc2xDwMH9hh2MiU+w7Nksxk1IZ2D6IpYeaSa1gtLg3BkVtAwCHDpxaw5kPtD0QN2;vvTE38mwXDMxedb6uctF1w=="
 ---
 

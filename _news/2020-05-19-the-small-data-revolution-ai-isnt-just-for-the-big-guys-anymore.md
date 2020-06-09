@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "o/ZcmcpCJz8rDwTCsDqZ4Iu8TjnFaGvNI/P5aS+sviVbJ2q8zsKJIqXFzld4zyV/E4HC4iWwnD8X1lpEx+qPpSyEtBXtXAcosYRlUGCY2idtia3pdmDC+SlKaINTDQjyBWzIBW0n6Z6W5Wfl28sdiTXJ/JJNw+TEI1lxXh/eJQ6eUf1VEDJX7L3KHYjQXf7VO5pXh8hQbz5HmZhDeO48BC0cQVOJER6GP6itFYIHIq9gdLPYIM4PSVcdT/ufm1+y34IJoBYTaPuMxgi5sHrAJ4JvzHV57LA6Hrk5aqKy//P18RuFbLZVEG6rL4LEyihTMp90uo4sNcd2ZfsD4dutiHqwcovqrAhdSl0AYwlX5EMyOke6OicwCdZoFcSacxQWoww94jPt9a+dydxPRLD+aF/bUNlpjpSKlnMIhuWemscslSS9EwPeBd9nElBhHHoNAjsCEw+SS+XEBT2UElqAGVetJOZiUiad3u299g0WAt0=;Bso7XERnfJzHGbcJXAoITg=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-24-1.jpg"
+    width: 640
+    height: 640
+    title: "The Small Data Revolution: AI Isn't Just For The Big Guys Anymore"
+
+secured: "KreXp49d6pFWaHa+9+7hBehfrpBjpzmnDpVN9iNec2Ebaswg1Q4hA3cbk6Phk83EjOIj3bpxP+ngIeBYauoR/n/f2X1m6r5VupSGxbJhFImfwhGvj+AcETrRCOydQ0tjqC9uoeq+zisfbm8i+Lifu2h0vXLkH21/EL25pgR05J48QNW61vmG70dwCfznshgDsrrsbdcnfqBjnMGE2uarV9mHe9uc9wPw2Fkz88mL+md5djAz/TNsxcKCiDzQ1vYLwsraG/l5kssXzLdTEkV06PQwrhPivhc6WtPoQqBomNSzET8EvrS08eInsnFSPVfS;dzoXigurUwrBO75pznVahg=="
 ---
 

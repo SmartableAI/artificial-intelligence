@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "lQPxVDvlZIRxkHbNz3eEYvF3SmmFqPhj9BRYCluJhQ8mySa08KpFk7OqBfjCa+RDPmFpK3V8G1zwTmTbOI7UGq7X+hBR5UxXlk2IyXkFJbm1Q8yi5QC9pZCigpAF4MrmUJZd0Rf+m10jqQy62vMKnhPG2mNvfiTwIaJIgSBz1HuHD4/S7T9MUBm+7Du+6CZUc0Dg84jbMTZNuobgh+65P1kEqsEX7Pk5Hc0KdVgvS7NKVykvXG6+XGsAsMMhzMAEXknWRj2Jj9d5547gEIJICgDGp5GiYUn8AwatcTIlnez5IWbc+s5xxkXPrTAM4OGHnBbHkmaY/Ygb7DUypFosEh6LRegH8WD6Rzvi4y8oyW3FLKXw68vVZSDtc1ZkCC3wQPlGgMDxdZycc3vxdDhTDDQGYsRD/263hxEnjEkQ2xr+dtiWNmRHUn5wd2pHnd4e3dE/FWJouLIARcXKlpz5+SkwFo016Bde1v9ILVge+jI=;FTNfAp9p9q6NcxDyp1ZZzw=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/2020/05/GettyImages-1173819446.jpg"
+    width: 1920
+    height: 1024
+    title: "Justice Department procures transcription and translation services for lawyers"
+
+secured: "z5isyRhBw1YgLEBlFxCU5SJKY02oBGYKAsW9xbCoUrE8ROxn2QYIUl8tzxj8tJmi8D/nUKK3cW9PGvB2ri/YZ+cPWs/Lk56/H4VuEZubPvxciRsaW8ycp2qkHTeJlCvu1ldklaznXO66Xm7F4CrgauqPuFo2lIxhbpyDXa3VZkT+fC1BaWLKRbbdJKvKfRbjz5tHbX+ruL9gTlpxzrmE/IJmJoX9CUsff7mMF02GTn+MSNOcE/URjc8k46/uCGR8fZszxz4alsJqWDdjJT7n1Cjo3pQKx2A+mcUYP1rDy955+OnCs2anmrtlKykLONzo;V3v1ZWQOYZ2wjXJHJB68Vg=="
 ---
 

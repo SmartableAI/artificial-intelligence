@@ -18,6 +18,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "lPhw5UaexmvrbQ7o3+2fM66r12IDOSOhhVGB+2peVA1sXP0WbaXJkjOdohdgkdbu5cDiOCADTjHFGnDHsfoS9ntX9J4TJL2e1YmP8b1oeJgszmlAguHBaBFzxs4H1sk/pzfrVNYMlLlxisDAzmuDU7ERQdr6MsnTmrHTv+GqN1FyfZc6Tn5jJNKeQW2+ZdBD3eZxBgZNqD4VZrqnEaCA0P48hG4t2JIH1p2z3tkOVYBspFUO+Xnzj/ejYZcXdV3PELnnKNpXiubIDOtUpHRisJFhulH3AA1i3nXvw5Q8c4dWQ1DyBn0xiwBpM7Q9XrofW1rXtIhqkwPj+6LnAoaiVkheSSdkmUjtX1DHHO2JdYCxCfsJiI/HZu3baqCdDLAtu6jXrpq47D9XyPy0axw0pf0I0FbWV6gTndlH7yVMEVC/o2S/fEC2hkaj0N9FTv+0Cveh/AcGKsn6ruibx2Rh+c2BMsXi3HYJu7eLtKqBnD4=;nqIpb9qOtzVmz175UsBFHw=="
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/AI-machine-learning-shutterstock-767827225_698x.jpg"
+    width: 698
+    height: 448
+    title: "IBM Boosts Deep Learning Accuracy on Memristive Chips"
+
+secured: "Ib4MfcfQq1he//FGpZid3tK39kHSV2q6QJCExY/NQYkxlmapNo+VDlBHlSn6JySJVGBtEHNrFpDAKZF5sM7lWWTnYfh+iCd+c0b3/X2SASJgF2pmU1EmQQMfuZ5d6d0fegHjy7sfctAlKXe2HgTdXevgtgrTWW4QVKsbKKyxEa/q0ydpjd2lLtMnr6OHWVqWuIpU/9p8xmae0KpB+N23ske8hq3gQyhjPOK+DdOVjxIYOc34bvkf1OkpAdFHPcS3HyBUkuY2hYO6hKTn1IVkNKLz+bAkxcaUPuhT2cb8/EKR0JAC2bkVk77A5DGrCSRBf64vGvcyyr8CptZ7gotIz8IqQPvzYMWqY0GuS+iIp3VAOVsEHzk0wB46UO13KbGkHRYIzwXYZkpJgn6y+VIEYpol24Wao/hL0JLux7PD8ak4vRx3Tl8rYjkluG+b1wwslzbiYQC28YmMKgOWhdTt2B5a31nWXfByVO2AaHxaX44=;6Nn50w0nRbHrfGF5AdcfOw=="
 ---
 

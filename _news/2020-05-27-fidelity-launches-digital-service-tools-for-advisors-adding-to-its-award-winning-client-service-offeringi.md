@@ -17,6 +17,12 @@ topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Fidelity® Launches Digital Service Tools for Advisors, Adding to Its Award-Winning Client Service Offeringi"
+
 secured: "Ja1qvOguYv+lwASZ9vyUEynV5MmlcjKoEA04RlEtzZcIu9SpUzBvaeW+W1Eqn7PPoA4u5BRptS59FQrd2rtenVUlTFHwm2gifliDGY07QvLqXGynzJLJ9vBKCa56mlHyjLFPrlLwL+2dWXRZFarzYNUrbd43gmnhfSODTqfZwp51HJ94zZURboF6jNxWDpQEeDu6Cl/Wzw8BYMuzB2jpZCKQCmCumKLh5Eucy+wO/FdiPfeJzKojuvvYua0C2hSwX1UKEuE3/EgYdhNwIOIBS1gDwrQKpCRGvECHc5amoZUTzwKHBiwJ9PuaR8RoFyPD;J4FrttJ9cA0zk71uapXG9g=="
 ---
 

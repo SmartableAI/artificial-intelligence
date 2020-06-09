@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "rxoIrkOB9cuDQ2R746j4i5iEmonIejXwVic++hnYdN1u54fEIA5KRKF4W3HIOcotjih1LWoY69i7TbHEOs/ALpE7PVj8i5CVmTibbqFM+py81GZNs3UgZ0cIMVz590g8AXUJSkohtqaBCX7MiMxSjNuRCuF8vtXeRiY5L2B8R3eaSwuDw6pjydxt82qL2kLFkPabJQHi8Q+ZHoFwySeJBiasE4MzUUBVenN+O1q+b9Pe8Nz6mCncBZHqhMAm17d5WBR+HfL6d/C4P21KDBVAiaZG4NlhFpVaK+3lV3Pt7cHXud2CQUJ/UhY0zR5sra5p+laLB8UyZCZA5ikguqQFFOM5+1E83pHld+OigKoiKa0+4sMd8MEhVhHn3LabVJ0Kbse+mUI7JYTzgRdCzKRyxVODq+0LnOBCD+/QcF16s9EEfhy82lMHA008MO/IMCAjrPzpL9RzntAMSXjImTxX0e5XWN1qYMUjBjQ8JWmrooA=;yFrLbGQD+I5RWeF4uHusCA=="
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/bestcarprice-Hyundai-Santa-Fe.jpg"
+    width: 800
+    height: 500
+    title: "Old Versus New Robotics: How Things Are Changing"
+
+secured: "vSteFS9olXovG5hIKWFZ3R+FpNraMhcRYYqtaEvPAqeM4U8cdxqcstxp8S8BcB/aUdz0a1xZUOnuElKO8GP82e18EwMEP6Po6rNSsoy6O71DLCBpCyov23/58qXC6Ne/sArnjbjeQyWMjw2/twPsmyIehlUbRessTkuqYGk/q5/DDY9AtLupREeBLjOjVvaexlq6ENh+ym6/t/i+4RIEMPIbgS1mQ6NA8pV2GLuhZ98XPvAcEXNhdcCT22XV6/XZ8Cwf+nlEZI4UWMVlIczKVRzGLDINkEV/K+1zu2sVHwSTuiA99S+j519JDLgrFJ/x;nJqd7ATf9rOj0uUSEV+FUA=="
 ---
 

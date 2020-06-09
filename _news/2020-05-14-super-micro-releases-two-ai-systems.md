@@ -17,6 +17,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "Z7MIg2k3ngfss/02+qVO/9aulHQ/yEI6JZd2hN/e8kB6Jcvyg19YijfUdOKRk81LrXAH+MyUrQVyxTHhZ+zhZZXgXIrOpzqmt8GZjrhfFWoHP4eRhshHeJEM2+gvei6JDLczZqQ6SEQkPPy7VvySnpLHWyf5TjQLg8m3gwHAO1/M+1ZIEi1Vfmq9T074k1vHXlC7qnBqlNc3ZHHq9REWd3QNDXigM4UeAMfDmJ3kV7ANENUiiyAENL9b13nTJyu2BvGfsEo054eMmRzaPbUeVbNWUyAYx1Ys1vdoC6CTledE/4d+EPI5w/a123jguQ3MaZUbCheD/JcflfnQpmxcZOOPyk7Ku24xJezil7gi9Jqul87InXdE+RMpu9Z25YMsIYZqBgOWHyFr2rxCPHcuLB0f6GehmtMUGYRSuqWnXJyKniWZZ2y6AsUhrWrvcYN+vzL9vxgXHj3NSUet32ekHJqcKRpUmDk77x+spf/VWec=;/SX9R/9QIbvZaeSTY9etKQ=="
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/8cea6d254c45effbcfea8accb011c83b_L.jpg"
+    width: 620
+    height: 465
+    title: "Super Micro releases two AI systems"
+
+secured: "dHOVDmVyKtQ4QooViy/Peg87tdrKo1AvYzj2hZr7G2Fa+BUETrWGG7EYFaw/G6vffyEaGRfOAIm7gMlr6g4I0oUnpqDLkKZAAbQFO0DM07SdGmLXL1Vr7G8c5UlpTuqMhMTmanbyEXEBBQl1UBExEW6HhPirGMm5Nv/T+a2BogXVv3B7OpSlvsvOzNP7YDHZU6+OsN4jUEXyxSLC6mT8aQ4WFJIJVUbTdFcQIlqbwWAJHO2HO8G7psT5C2oMbPqbUJTOWRSj8qSX+PzP87hM5z3OOGX+gaS/O5laIhIdsb/S3CqUCi4RJNxi8O90S5Oh;P9t8fu4AjrImURzBA2JL5A=="
 ---
 

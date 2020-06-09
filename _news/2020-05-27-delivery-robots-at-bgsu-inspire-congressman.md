@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "MxHXoiTBRAoDdl8bHYg5LDK3HC0YK1SC/056sinzaziD3Bvho5jnRW5W3la3dUOw9qlZhClRrTuzheVy5K+fDcxV3iLKFAuWvJpe+9Oi3gox5kF5S2OwmyNWbSH0oT/Lb2BhskLM4Qe1QU3cYRf2N3zrjGgGEMecUQfc13HWEgMM+uzdXt6mz+FsDO60vugOB+o9oSDcSBOqoxbS8Lmf2N3rpI7VlwZoBe7E++59HTnDHW4yfcWQd0mVy8utEAYz5hBYTcOmsaGNeq2kaxVGEwcNDbAA+PlaD4IMlU7QqRhG9ADzd77UOAHVxlmugOaoBMRU2CYhb0zib6J8U4S1opTWIKTsj9DDnk3pr2cBawxT44AZaHlDpsvoC9G8PJfEwPxbEhQlYR/LPjmgEYZWe2HhwGWf7wEDE0Y8mLHVeOKoic2hLGC1b0vJnzkQ9kgI6yM0yesNGFP8GHLrZVzlCRTYtsQ0RmXy4QL0G+9GvmA=;Hf5KE588iypBDUNTmS+H7A=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/sent-trib.com/content/tncms/assets/v3/editorial/b/75/b75cf762-a019-11ea-a913-6bb279df7b00/5ece640c17a2a.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    title: "Delivery robots at BGSU inspire congressman"
+
+secured: "AkAZtxOKd3pIQVqFx1/HM2nWJjQsKysmUUsjtBzu0Pt8EXksQbZlH6TkglXSYoHsHsDGP4NoUzN6p5NEfGUxHKqVTC6QpCNGC7QrcMiz359tnixK5zCgJkHGNXxtJGiPLvKGfcQYTQoXPT5g0/kpLPeOcnzD/PdAeVz6Wm8OPcaks7v4l54hauyLvNLhjs9NMVEE4HDZyIYcDhOLuYUUua86A+vVJHeouojtwacHBKdNsUOgKntUiEjw9RxvDLlO0VyU/fhH3jOjgXu5+yka1o7HbNUtYkXEcSPe5BGfL9792RqgoOix8jFzgSZLZ2wh;+LJ+KoBj1dJ4GlaN/gt+NA=="
 ---
 

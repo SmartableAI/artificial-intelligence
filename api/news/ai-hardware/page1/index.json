@@ -642,9 +642,9 @@
       },
       "images": [
         {
-          "url": "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/617596394/76219803_zynq_sbc_1.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F617442100%2F76219803_vl53l3cx_tof_sensor_n4252d_big.jpg&size=1&version=1590616252&sig=6f92827caaac11ef6425a1a2793ec720&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
           "title": "iWave Releases the Corazon-AI Solution",
           "attribution": null
         }
@@ -845,9 +845,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
-          "width": 766,
-          "height": 371,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2013/10/07/d3fc7ce8-37aa-11e3-90a0-0291187ef9b6/thumbnail/1200x675/37dec431a2f29493e557633d748b29e2/sp-alexis-ohanian-headshot-tanya-kechichian-620x348.jpg",
+          "width": 1200,
+          "height": 675,
           "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
           "attribution": null
         }

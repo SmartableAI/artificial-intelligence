@@ -20,9 +20,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.newsday.com/polopoly_fs/1.45056840.1590808090!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-    width: 1280
-    height: 719
+  - url: "https://cdn.newsday.com/polopoly_fs/1.45469582.1591660279!/httpImage/image.jpg_gen/derivatives/landscape_768/image.jpg"
+    width: 768
+    height: 431
     title: "Colleges prep for facial recognition, temperatures checks in reopening plans"
 
 related:
@@ -55,6 +55,6 @@ related:
         width: 975
         height: 800
 
-secured: "jtWbKeUI+lhvRwsOL2LRgQRz4hGxyRptyZWDQMpta4QtvXhwLvs9iwEDTRdZ8OqVLCwlTl7QUbaTJQDWRCmKZ2g7Qen71TQNd5IfK7RK/zB2dJ+jIONRmoy2DUALnuf8MIYkvSpK040jB1O/GM/2hmfAxI+Y8kptcR0/qSA9ySUyAkpQZG3h8nj6Yf9AxTiJpbswxihm8WL+WeDEn9SGSkMGqgasVtOQDGolk+OvqERmLz0T6ZYOjFBRJWArFcpfBqHm11aweSiA4PD5lpwLKq7go7lFJldoOCNygG+eDfD0Tt3BaFau+n5HQo44AJ5ThU2H8o5zhUFQywmw1p8M+s0VWSuGYHEXyyLA8wR+ETExnUyORqUtLhLAfag/d7B+JUFkZ8q52wDqG2LXNt/FiVVnw/hblhxQYsERzym6K5hej3oZ/Go1Ey3+XKXuH0ww+AE5iL8btMIkxeZoGjRIVm1HyEmEqXSuGtwdF97JKRc=;AxbhW0fUUF/5dzdV0g1YOA=="
+secured: "IAQQ2yoL52pr6O3G6vuk5NMEkyQGI7gR4HGg2i9eBPnO6qfKmoidzstCpG6KwSPk6oLKTMczBycFE17wJyrxmJd6uZlVUCR0/lsdPYAP1cZ3I/TTEb5nExQRcaiOPhZvGNhmiAvs/pEm4njtiuM7JheI6vY0ydmzExi+/ga9EsQ88tchz5grbZd4s2yNmV0jMCFnoVSwDyoq2fG+qGv+srxtEME3pNPZhuFZZPkoHJakGZS4h4owp04oUGUUT33D0DkFQtUvxytwjzsYUlFBgHx18lwT8aiIHHAUIO99cKeeLnOPDfnhDhfgl7yAl5+C;5/5PLVINNIJC6YpizwkTdQ=="
 ---
 

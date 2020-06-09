@@ -22,6 +22,10 @@ images:
     width: 444
     height: 333
     title: "Welcome to Supply Chain Startup"
+  - url: "https://www.mmh.com/images/LM1901_VC_Session2_Inline3.jpg"
+    width: 600
+    height: 400
+    title: "Welcome to Supply Chain Startup"
 
 related:
   - title: "Supply Chain Startup: What startups bring to the party"
@@ -38,6 +42,6 @@ related:
         width: 444
         height: 333
 
-secured: "bAI4myTSgSbQFMlR8spOFWqb9GmiMu3MeS+KlM3N3tkbqjpKtSKUtCIvxhpxku9f+IDdsEYvotwCH4Pekt9RBoEJh8qhv4yxdDPFYFbfRhean66uLgHZSX7qELoTeP0eTxgBHM/7OchE9//F1LIbWoPfJHPGvGXFgh907xbroglK/EMoIckvJSuuYP7Tj5WAyWgJqApaGtnyAkByb4eG5f+EPFxE+UmpwfUrv6I13zEeL0ev0Vw1q91gbmhaIUcB1Gmjry5Sz1v0uMrChjKSdO6A1MFrF2vkVooQX2kxcCj9arclUFICLTdZWvBEWGJjxXRhkspvJFE3FOaCmgOdcrRpKXKAoJcLBYY/rUN0uXFhSn7SIFNTNTuXhruk/5dr456jOuVbw/hoBrzcS6Z3XgBPfdRJI7uQok7qW+2AjfHdsPDlpMaL9jx1tdCMsgoyVVxNAihzTWi/jI0zfv0MhJhMZ2HL6WjuhLCIecBUUS8=;rVoUkbCAtq+oeCB5syod7A=="
+secured: "uoTLJLdTpSDCkSKW4tUXqzVOWxWP96DyhzT+KLPI/++uKQ9kkDsIiPweS02S+hJQGPOef7o3yRw3QgdzVh5HYicbGzRvlPMafxcuEFlUyynowHP2H5VlA+kp5bYUubFvBVGmONIQO+7Cqcf7wwIw/fvOKSVBkaDL3/jvVKCFFDwB05ftJTFxY57/Q2LcUTYmzjUHiAGy25U0GNJLRgCof47F3HqN5vZBrE+UgvAfweWlsvRivCmyLN47UxrHz5ByU99GWv5zKdaPATSmrbfq6iCzGIvvFzGAw1sZQ0PbKQpY99UtPvOwpJKTRbKtmrs6;NNVl2rN552JJnXMZpjJO+Q=="
 ---
 

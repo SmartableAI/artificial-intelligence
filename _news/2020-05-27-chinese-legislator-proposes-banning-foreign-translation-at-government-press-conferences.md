@@ -21,6 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "C/bmgAtmNDkh+S2QMoqW04BvtJkM2mx9KMUzgfyG9Tiow4MrPutfwtjQEx4J3M0bkvJiRHeeg5PA8X0mzh3RJjVVwOMyWMXjI+voorPlQAwMmErsF6xlJR3IKbc1Nb08fxRBk0HcNT6XcEXG6wKNpV9QLlnHC1baTXRSnDOTK16HZylx67EGIwpvVZsvhiTH8ed+D/COHpDtXD72TuKBGOAnB+sCeNz14MYQwXLLTniME/2H0KQw+a0XH21eUCBzkqs5QLO4GXvn3MwX/Rk/HaESFwf75u7YB5ntVEAWnV9lmO38DCY+0l9ufg2hFY5WyGtlr3TVa1AWgVW+ivSdkCyME8pgiZPl58c4ZEozdnWUM8/L4EzMgbiifVF1QoS8TMu0Bi0OC8FqmtmeVQ1dh7+t2Ihk406YRCu6Pppn8YP+BBxsntBreAbpzK4gNq95bShghubMxsd6xx9ZCY5g7orzZU+O/+RU8VF6YfqUHkI=;XWFCilix8ggq2Lzz/bA+VQ=="
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/28/34225d32-a006-11ea-8055-0ae12e466049_image_hires_190343.jpg?itok=H-UhWX4M&v=1590663834"
+    width: 1200
+    height: 630
+    title: "Chinese legislator proposes banning foreign translation at government press conferences"
+
+secured: "2owsBe8XmNlhTuBqCGVMq+dlyLfLTIZJB35O9yWHSVe8AtuTZ9xZAbBXQNWzuluOgsz/ict7IDuYhwl9aTMA6JlXEYOQb1dC6OdD0zwrF6SxoGbWmg3qHc8Dg+b+/G2p7WuycjwAzGpwpx9jy0BDR+mhUNmwme/y/NDdp25vQwMmNoutOtwRPa6/bBtW6/nJf/xxl7OJZwFVjQImNZ5yl23mU5NdXWv2KnfzbWQMkFjdp7MNjaLGDhnHB6WZ4/IZzhkCXteuRsVcDJiTYhVoB+Hwc18kLsO+0EX76HqkSNr1GsmEorF5uECI+X11sMmQ;U18uytPnrWia7+GMdTW4pQ=="
 ---
 

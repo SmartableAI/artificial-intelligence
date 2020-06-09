@@ -24,7 +24,11 @@ images:
     width: 512
     height: 512
     title: "Senate confirms Trump’s pick to lead Voice of America"
+  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/06/0c0f359303ba4e6aab0e3188ea308ab2.jpg?w=1280&h=720&crop=1"
+    width: 1280
+    height: 720
+    title: "Senate confirms Trump’s pick to lead Voice of America"
 
-secured: "QsxzN8iw6ygb7guIfYRYj6xbZGKvMWj8n36PcSx6gVVRGII+S2W/OZgPaRKGVtykE93W6eujEb7693av2wnlXmuv8WvM997jo6qawfHK0TGw0ls01evnSJyCgogp6MllZUE2ORWbPKbKwCxZandWz2TQ8CG1crSGb6WUg+PqI6qDUFj8XCmTLuGOi/bSx3id6rGCFF5FI/BpUwTVHFJZC2S587+fGLlS1/KSQDUFArUq50IgLdElWkwc8MsfCoArNJ5uBvcR1riN4dsYFs7Tlh1GMnPWxisTw6jcW419BPyPv72Rbpxblqmkwe3D5r0rcXDyFvBhEXmKIAsBmrKhgnGVdj9gak/ktPVRzFs6wyxVQHe8snepw0r1GBcCkgLC4ytL1ogTUDtVVe6qy+aRlIdnMo9fUjnEfIcD+JUkgmqN6zVlXA1MvQx+H/xE4oHpgOuQxwXwm/zlYspzf5f1G+aU14xtHujvnmdSuhvparE=;7NZS+MSEeOE3Hjoop4DEaA=="
+secured: "bMZDYTqoMxA46ONGlVTtx7/RR8Cjk19O4GaAVdwapuzmbEjQjLpVLXL0gEqIJQSu2K4HJstcgYnxd+EYYObw5qSYBs3/xpOgCFso/pbIHXT8BzJ+goCLwz5qGXtFx4kqNoTLk6ZqvKP+daaKpR981qI9u5Bu/WEyt+GarBj1tELba0mOFbdT4Eek8+YsK5OgYQpSTvdvMnAlipxYbrd5x/lVWnF1qCu0LWt5wElD+0vYgUtv9zo35ieDA0NT2EE6ElmkoAuL642ua5dVq+A2KmxDcandM8Oo/+VXfX3Mfju9wh384mJXniWuHLNkvfe0RCOaF0PNsgspMqf2U7RtD/G7xXzI7AdufUSGG4gKXWNAtMRQLRu+mZdv2VsVaeDxdgWymHkKUU6FAii8wZNGEkKOY2H8dSk7FVrENFonVbca6KYinFC5wmr7+BHxEYlvycYpPQaO5bAdyikidEZfPabhlSL9qc37afMTQAiVB+s=;pazcEVVQuKC2i9litVEGAg=="
 ---
 

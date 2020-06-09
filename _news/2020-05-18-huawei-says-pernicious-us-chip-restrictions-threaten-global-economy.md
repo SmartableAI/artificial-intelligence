@@ -19,6 +19,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "nLLGpIPxUX+pSYOsHGqX1FAsNFW2nUpekw6FB4QBldrvh/sSJ1Z9QLbFL6ABdWbRe4iiLuIF/u4FH/BkJyqULTHep/dIeU4ijq6aPEowmOjHt7pl5GXGxIEZu+VkmSrQ4u0djW0usM6HCwKz8f0ajYgDqp1QB6ZRd4nlZcBFiuqDgBftrVPRl0DvyG7eBuoNgKeKWPKNlgb5GTHHzkFikUT2yvmC1hfqoOJg1iumeB8CU4Sln21pEgBOGPUZy3i8lsFs36MWLTrzYoSagN8LkX7bgbu8u0ykOo1cpeYa37eAI9hQrwWAwPDjmrbdW9/VMzXpHfzasn7wBnEx3ByAbumV1WFGJ6N6UVUnO8tMHR2QSFdmdxdRDrV10Tn9UWvMDUAtfPX3kDzSh04LntymWsYeGr3dLX8TN16koEFhoHWviLnHbW5HJy6qFZTtjiLzNIx2PVqe5d4mrPWhZop8Cj6ChzaM58JPolC+kMzcYj4=;DbyaqP2/6OBPtd+np5dIyw=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/1-393.jpg"
+    width: 660
+    height: 440
+    title: "Huawei says ‘pernicious’ US chip restrictions threaten global economy"
+
+secured: "rwsEysH3U0jcAF+vKcZ8Z422chHZOYPJ3RVYTgRp3BYrSCgi6SKy61+DeMWhDLhoB6nakerSnp6P53+oy3WPvsOzfKx8l6U4rar6aAaQzBFUgv1ah0hBh1y0DXQDozho2flC+nADvi1j4a55SYemsPODxSpZsoelpBnsQnx8qhgw+AyCRGXCFvM6uMgajGBsUlydCClHXNf+q+qv3ApU7j9SlWB0lMo4QGfbrrd2t7t46gMDY7eJVfyGlEEEmiXRkWE+xfjKmrCt+IFh1rF+uimGjaUXJNq9BfvWY1Z9ozOtRzJNriBnYjSmBPJ5ELd0;Z1Z/uiUa81M/4IC0v1QycA=="
 ---
 

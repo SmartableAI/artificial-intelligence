@@ -17,6 +17,12 @@ topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://static.seattletimes.com/wp-content/uploads/2019/04/microsofitcloud_Tzr-780x501.jpg"
+    width: 780
+    height: 501
+    title: "Microsoft unveils cloud tools tailored for health care systems"
+
 related:
   - title: "Microsoft unveils cloud tools tailored for health-care systems"
     excerpt: "Microsoft unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
@@ -34,6 +40,6 @@ related:
         width: 800
         height: 533
 
-secured: "15LqpOhqeV6vnB/CxzIhg+Mjx66KWZkZ3UPHZBsTT6TB1PZy3m526zTCkeHt0DUHhrSvkxEoar7AXtsE7dOjehvBovrn5Uk5EI00ZWUiSK28BQ29WeYPNBjW8txldJkln07I/8VeBQ02ixnpxdAROf1NQomnP3XHaBiYB/lSsu9wwP+3VsYAUBYOyVHytVEQuB5UEIrT/gfkB7MR44ApMVF81t5BnTa4nIjWsWDckLwmRg0r0iLH+0Km8StGZwYnmZR2esMFvM3ni8A4XU6auO5K7Q3e3D1gzWJv/5wN5St7ovWyoZMmINE/b9NYIj/H2T8C+5zM5nv+LUVcJlK9J8BQZU7nOb7ZYr/2j7Oak/V3Bd4zgs0ZAdRIOlxqZKa9WeU4XiEqHA+HcbSxOaVlUpUrA4kfHNXRGlD68W2EmdekMcXA0yYreq6beREpJb3t2YChMp2Bcyb9kRIsnb4z+6yFsF6tO56ZHqXbYAe8K44=;Fs6JNrv6V0ON3oETJgcE6Q=="
+secured: "GTPfHkZceWe0xXt26Otnslm9/aJuUIF0RqdCPYsugTkWF9PmpjtpKeRtpe5UOWGoKHtsgRXWgJsxlFWO9SjYQK+6vkRhJexvDCBcGfBcqCZEy4EipqmCvT2GZqPD3OCYEtsKAfBot6yIuZ1ElrIQnD1dmYD8BudqKSZ7ucsarBDu2sa65xjFON6zjZnQgNTIijkDy4W6+3b1INHS0BcClWezNRvKUECmI/lp92T+vRlw0XCGeIlT4LldznRelA6zjaOPaaZfTqSJxnjRCGYUIv0ZFX7XJqUVTWdk8yOsQ7mfJxqkGCCuJkL5Qhg+zGvi;3mkjSv77sIFJZncQA6hyUg=="
 ---
 

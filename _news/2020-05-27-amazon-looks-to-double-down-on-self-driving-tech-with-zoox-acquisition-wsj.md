@@ -17,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "JkIutgom+44RtnH5xNu9XEjEGtS6y+Tt+bjByMvky6OLGxmOes2jm/0pLsPsSpzqYoWrwO+Mj0jJG5WC8JnPZFgSZvvErRL0wSpg/uhHa9c6iti2LS60vN8dFWyk0UiIwAMvTqbctvOMMlYigKZKNpeCY1Mu5NjLTnevcRaY2L02EfKZ2BLGitvqx8l5Nk6GMv0UXfCwtp1FUMVY0Ihw63Rb/CWIpq/gP5HlAtaVLT2NG68n/rQkBnTDv2UtJV04LSLtmYwipXmwAqpShKKglBXv8uAirXFWcmYRm2xz2mh0eTYMWswP2VLY5j/4F7Y7LG0p/GVq25yTs5m4slLAmGgZ1bXbHB5CdNRQ4uUApojnDX8KLxVFxVjGpU442V3wibWDZx39khs3j9KwgRUNFch4ZZiW1V9XADMz8JLmWdOzuBNF3MU7ehPEz1bqFbv7PPT+JqmCiFQoNxKNXLq9JlKk3FjoBfu+t672448AUGA=;qTE3gfgO0/waabBCBCBM1w=="
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screenshot_2020-05-27_at_02.13.36_0.png"
+    width: 1200
+    height: 630
+    title: "Amazon Looks To Double-Down On Self-Driving Tech With Zoox Acquisition: WSJ"
+
+secured: "/UFgsb+E7goy4HhAVGUW/3BDa5PCUufDZzFp88B+VK8oJox6EUTIG+G4alGzShAJUzCfzonCO9nmj2p2nPfMIGIRXvuMhZgYhmTrmX/UhyW/ob7uFEwOgKrKA+hRTxz5XOfNm2Q5GJk+MpIKpRKYHXYgZPXu4dbph2redkER9uhiQU8OEtKKsQH/SXh68sI6DJWTyb6LfLSIB6wYvl2cEdWkvH+zkW5jD5JuqMDAxbFFGKl9mZIyfNsInE6mNKpjnch1RLMuDiwjc0NsIDdBJ28Gow9Ui/oFdxY9ToVknoI0+kSorAAv19qypsCgeLrR;8GalFSVsELjpxUaFvqxqPA=="
 ---
 

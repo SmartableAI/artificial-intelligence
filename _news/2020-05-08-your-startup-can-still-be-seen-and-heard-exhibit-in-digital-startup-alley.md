@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
 
-secured: "a55AKo8zy5phnIFeAmrBWwSz6RxHfPn5wnGklFywowLgpwVMfileeEkbLWNFckzDfX6Kr05Cpst/4J8ME6u2RpRj2SvGkElR7+uhZFGz+qS3gtA2TpSBtlbbeOBKgNZpXStUCembgjjdpzIc1dVzXu4z/wAgvaNaCNGcDmSMrZrararh1A3xmHcPzqBcRyiNOd2Q7McnKxlnddPHQgIXrIoSHZFk4dfPt+NORKSj4psHzBxKEk1X7b0e1u6BLulhuaDQqKKvThxHhFa5USxN43wPR48HGKUclcKTe0LlB8q4NgFz0Jvaz0+iZ5gnKVE7fsBilKR7SuUU6hLaSUUtwtPoEnxuXo8FowxR976yz8AelKlm9QQQhc76KLSZ5RMxEx5hetC4xJXoMzfwAzlkCnayCYcK3S4jc4rd325xgFoQnkfgRjIgvj1vFUNVe/i+eRSabs7H5wxGBbow0hpD7AZpZuTcE7nHzfXQm1geAGA=;bAGA1tgKLbogQXnsxPnH6A=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2020/05/46119635215_a80d93864d_c.jpg?w=600"
+    width: 600
+    height: 400
+    title: "Your startup can still be seen and heard: Exhibit in Digital Startup Alley"
+
+secured: "IDduv6lo2Bf/dGAqjIjZSRzakf7QFn+oGwvION8g21IYWwDkGTOVP30/nPnrEoCvi1FtrE3Zibnx0I1l2jlji+FZFO4Tyad6hhtudgisUXTpzKmc2f8RSawxUs4iDmh1U7wNoQM5D8fHkmoHZcXDFCPqEuiNfZo8jOMRfesWw/BjkL0U9kB+twp7AzaPGL2uKGURUHW2WGGAWWq4bp5owiEEBIaBd7fparXNVUCAt9kwXNUV929WLMAQQpiPDSvY8D2z0sPDnOSGKC7viP+DbWdmO9e59zCLpuP1BQ7b+dSj7iCkSfyqlPOgYtgLQ8j9;m9pejHzbj5oUg1rq+uMMqg=="
 ---
 

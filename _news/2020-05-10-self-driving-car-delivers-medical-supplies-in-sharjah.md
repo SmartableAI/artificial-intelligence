@@ -17,12 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.arabianbusiness.com/public/styles/fb_share_style_image/public/images/2020/05/09/Autonomous-Car_3.jpg?itok=vRoCjr2G"
-    width: 1200
-    height: 630
-    title: "Self-driving car delivers medical supplies in Sharjah"
-
 secured: "M1Efs5IrztP8hFuJh7DrU5dVP9clJC41vrtue5FhsYfWTjDsRT7mlU07JyWkJZUTIT18xg9Le1XRKxj+DW8rHPAT2M/bRsV8NtdlnfL6d0FBxfyAxLhKjeecmlwAtLUZfVojc2oto2xVvwvXtzlMtHvc2fp3XLqtKbMtlOGbHRtT6Z/rhJjHN89aD5pf05FnCrkLSIqyv5rBbO/k2v3i4/irQ1p8klYF92mXnFQ/SApExsgEhshO9CwUNK4SEMpb1tayRJ8eqjbJF7yImzHwfOSGC0wzAvAwHX81GPRXjMSoAw/7MKSpK1of7shCUpKmzc8kVY3ib146TsJiYs6/Wbu2Lcy9XkyPAh+rE+Vuy7hjWIBC6srxHmuYktlpolBQgUetF1zgp/kDmYvl/lYDeiWb30kTH/pqQhobYpJCrHtihRweaagkJNObEsvlILQ3rvouItlLa6WGddsZUA03WbAqcMkSdc+RtXutTGLJqTg=;zk14zffGDfbSNRdkaSxezw=="
 ---
 

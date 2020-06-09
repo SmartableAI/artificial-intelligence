@@ -28,7 +28,11 @@ images:
     width: 580
     height: 378
     title: "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\""
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize"
+    width: 1200
+    height: 654
+    title: "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\""
 
-secured: "jc1RbJvpmmhUUv22jDBmrNONn9VULcB6bVURBxKKHAOxOmtWJbBiviELDM5fe57hUrfLqeX6Yu97sxo6eySp3zP2b+MaSpLZTWU6ecxH/G7tIGxnZDwdVj2IoYHS5P9ozMgbJoEarcQHR5xVBZoZmNdyrdHnNAKPW2J1Dx5BZQd+x8l8wxdHb2fkS3j5YWwd+MrGDht23CsUTKBuCFF1V/M9kWHlS8vc0xarV0yHj2B22ZEhiXWUvtQKdhBTY2KnoGoy2AO8IFVEzoaJNceoedTK0cBMPoPsVx0nA/xmBYtm+6rGfLB/qasMTnbnmqNyICYwByKci298Vg0Ct4eAWE3OukSt3cgKsaOP0GAioIiT6/8/09GZacLtIRFpHgwKGn8bloJ4UrpqNDRRL2XSWWvFVR0fRpp2GRcdJe2vVI//B9wdMV6jrk21ge+T+fIDBN9+Ilc4YEf2O5mSoUVhHUlLnCjBvjIVsAkTL7ZDYYE=;Cg+/jODtHKCqplKJkV+Ddg=="
+secured: "GMcbJDoopa/5PvYlXUXYZAA46Ux3KKuR1TYwOi06bArWePeVMW/d78ooUCDPjdlMP6fh07daO6s1lCQ7yfl/2HRl52QvwPFr1oEFiFXfn1jGBbFlionTS6R98j6OWrH47Nj2Rws1PHLbQNWKF408ixJkWWeVeJHEXl+pr5zhBmnuyXgRwEM0cBgYf1fuNeKsdznIz/YtFmwWNr0eHtItxmtKsUVs7LTGRHQU22iPOhMTrIAH0HDo1rhRSQXNGHVecTyO//+p2ld5xrNyydc/yJ7zL6cKLUAfW43xuJbcGUvBnIHNWlww3sF8C5qHibXj;UjYX9yoBpThLXEc8x3ECCw=="
 ---
 

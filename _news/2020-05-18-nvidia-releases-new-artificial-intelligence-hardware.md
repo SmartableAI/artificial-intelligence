@@ -28,7 +28,11 @@ images:
     width: 580
     height: 378
     title: "NVIDIA Releases New Artificial Intelligence Hardware"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize"
+    width: 1200
+    height: 960
+    title: "NVIDIA Releases New Artificial Intelligence Hardware"
 
-secured: "VMc+mNEzcPL7476UvvuoQOaYfPz+MW50uh6h+5BL5Y/Umhzt39K4SVdCCHFybOx6pGxBDYfzhSG+XgN+BaSkq3QmMQvA0xH5yUBRS/ymc0qmf7XtpZlcGYmFgN8GKWmNpzk1+PSgUR4h0Y/JhLqwI3f2dZJZwXfOKYl+QOTyEzEWnLu1aE7+bri0I6ccjcXoIrMPWkCDx6YPuzLzku2kkZcT1x3RsWg/qLSi7eFHFR6w2m+OQA3G7IoWyZOXcx7d1pMGDzl+dDkyiRVsAIh0mISHeTmKYLQNDPliIYVQihSGzXIKHF4uiRjYTJSeVslMDVaWLIgmky/jr9PDxSB2aqyuCpGx1f7cDL2l3B/y3EBq2XNem4FqKu9LcRFs513ZpbgL3VGv/DiCm2VXJQbI5jseXvacjKg9HhliujfotBU4+fUaYJI7onBE2jbPzi32TNLNl8zKE4H38HtTzEhk4EsFZyAaftygoVTsSxPVeTk=;L2sjauvilYzyTDEanH6RWQ=="
+secured: "Ad4iOcoQEZGzgzb0fO0Vl2HqniZhttXJA+O9Y1ZefwP6Xd+owzghEDO76otpAIUOR/ycmp4E/vd/SEiUQFU7Ey7VDN64zn7VXJ9IygVLBz8KzlkwS9J4MO+XHLxIcKjMH6o3/S6XyoJ21HMK7vFxg3FDacPdprt9Wf0b5xwF/SJXPZjSz4JjZ0AlXkybl0srhG4ESgXtoeZLnPBpYonR9NdT0EnZ8YKeCQ3nWs9VluNpLkClJIfJ8NV2AKlmqZNqpiUuWRgATietwj4VJKfQzjf1snWITUGc6MVSlq/FM6hnoGssKcoR2WVcYCiXGdr6;omDh9bDUMq6pWzfiSIkaMg=="
 ---
 

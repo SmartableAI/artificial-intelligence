@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
 
-secured: "OByt+ym0bqm1u4qq9zQSpRt7ft7F/ChRvGFPy1I7QL8auxe0Jjw9016kXxhpio+H0sGWIxF0UglEBw8vSl1MV1dFhb9MpBDlRYpNeBsu03XAiQVL0ykTsFJvatZbVExtTvVvsrAwUiLeMCZLJrrBeCKRjObQ6rM8peQu537Uh4naHIowKNMfHqi52fyKUScGw18dhG5TNzmlNYUgLh8IX7gbz6V20dHeyqon9/HAaQAtCMo/Zh2tX4AtOtM0gO2MdcAM7arPm8P+LI8lNrdLwQfNu+6NoyVm7BTYKGeAsUOpKjJcBE8qy94LU4pTcAbeFr7K0ipXLJ5Ro+kmv5KO879AUse7BGlfBVEu1L1tN6YGQxwHnGooqj1MQ4Gy5+pBp2DxrGkVg8duTrUl5cERNsmgKT5V5BHogqSs6cfp2GEJZo8LBtWKcSa6C4A2D0g1qiqXRAAFIVsmlmrYfo44Y7yKX5Z7p62AzotMhPQA/Zg=;qNCORzvVph1V/HVmsk9uEw=="
+images:
+  - url: "https://i2.wp.com/rayhaber.com/wp-content/uploads/2020/05/yapay-zekali-eba-asistan-10-milyon-mesaja-yanit-verdi.jpg?fit=1424%2C800&#038;ssl=1"
+    width: 1424
+    height: 800
+    title: "Artificial Intelligence 'EBA Assistant' Responded To 10 Million Messages"
+
+secured: "5RFkP+RiuXEnNTWE4LfnKG4Oi6urMVnG+TaHTbl18rFwKBxFw91NKXKHOnqTO9HystJqSCNH72SXeQPivOByKGaN56iw/f4CJduIWtwbVnfWumpNwSag2gnsN+85WcAZh/1aatfrkWtBxhEiXxeCH7DUWAQvxXvYrKjG2iIB5IhltGhywcO5hasNuC3h1CNlPx+Miv9mJK6qYbgR0CNC6qVQHTroeXonkRHOI2mVauckulPekjMg76f8ZsP7uM1oTzcnioE+PX02Jyltvp518JOmB3u7Bt47Q2hkpaPDIMZbmUdmiKLY97AndYiQnAoX;oaBrGo5Ci8S3XgKEAMVZfg=="
 ---
 

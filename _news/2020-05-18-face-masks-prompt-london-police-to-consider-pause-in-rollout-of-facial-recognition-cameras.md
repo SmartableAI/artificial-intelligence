@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/11/20/77a790fa-b55e-4662-9b19-7a8f42060060/resize/1200x900/6bfbc3a62184f36d3a9733bdc6f59fe5/screenshot-2019-11-20-at-13-18-41.png"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg"
     width: 1200
-    height: 766
+    height: 675
     title: "Face masks prompt London police to consider pause in rollout of facial recognition cameras"
 
 related:
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 674
 
-secured: "z4x8/QdpzBjvz/Uh0fDhf2O/v2tdSp0v5dXAcP2cRx/3JEW8EaMbPvIPhMo2THRA+H10ADce7F7Ni+gnq9R0vqRqG7ZYIJS3lk320EsA04kGym4ehgcp/HkqXr20sw+fsjRNOSbCvATVa7S1LS3H3DROoRLehRu5Zv4yJQF0jeYXymgwnC67Yq/vLHxRKMRZwakRzXT4YfoUJ8l2fPgvB8Brjyci4hTZsocCEcJxUfe+78TFOanu04ODDCZ3rkSMrjgLLY+QnDZX4132c5mqh2IddVcHWAgzH9wYI7mnL0PrsFdhKnhydzSsKil0wno9FBnHSL8Mv0WFZokIJVZUY4DhVuWr+FNKVRCdCfR2MsF0bcZSoCRsyX4yYxH68jlUEq8LP/GH7sQUy8kSo/V/Yg+6e4+ifkNTboNkEFCwwfymK4fqdBG/2WPr03xPV53Z/qO2D6G7P07h0FGfJh3dJBNShfA/uf68NK3eEKxEra8=;DM/s8Xki/HszShmVMmoWNA=="
+secured: "aS2Qzm2pcCmn9u5GHQpANJ7S7U78F3sIi6tVgnMKUQXwj5dQkLXYZcLFBGiWUm+Fyhh9NEPIVSMo9NC76KZMA1me9xxlIsA53x3c5YCorYIkj9V1Ie1iuJJL3vkDb4iJrX7rpz9PRRvyRwE0IngLKKURZAHGeADLnKAeJXlJxOuWKebNmaVx5FwoPXdU+MWth5QU+uPqM9PfC9Ga38TXtYnbKkc8QiP8nq9R2n+WSWXtgz8c0WujHmu4viyxOo2znlzFT9dajq9LTvXaXoWZx27AeLvHT50a0vtFNunTmycfl8izPQ17T0T9PgmgOYGy;5WP8ONnr2O976OPKy4cVeg=="
 ---
 

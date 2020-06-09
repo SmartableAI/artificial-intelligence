@@ -446,7 +446,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/05/cats-59.jpg",
+          "width": 660,
+          "height": 440,
+          "title": "Techsplained@FE: Ready to chat",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

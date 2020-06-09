@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "bik+ub5PDYJfDsL23ccojXht45RzF61g7n6Jxk4gez+ZR3PvIQs1lUXIFi5qdcsyee6WQgWAb8QGpfxbsygpfatkcYyNu3oEsB4r++I0yi1lt5JkJqnndDV5WoV1AVKozSGBLp3JtuTTIHaYPkKKbeDeeB/u4iJRCI7A3/VpsHvybiHeGK68YQYYHPzeyjb1OZF2/+fmmu9IAEQc+CYZ8ABLEFyAbgncz0NaZZo8LRKfOQq3GbqpuYr5A4IQtFSxyXKvcFFnu0Z3GTbWrAlGK2Z5z2HomMRDqw00SmJMgEgkCPZmBFnZswjQUnZW/eGF/I4hcBCokpdAGnmti4Yb+uFE+21Z+DymnclLtonbr2215rdGP9AYET8fG8sIdNUkpPST1MKZ6ZGDqBVMGowhbpawXAxbqmGiE+q/AyNlKw54kKGB5m62erGYpKGl1TuEqwEkGIUEr0VDDPPHvhqE9M9kDjiIaMoX0w++dKfTyS0=;48sbAuE3R5UUYXvq4ZY+wA=="
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/global-health/2020/05/10/TELEMMGLPICT000230642304_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?imwidth=480"
+    width: 480
+    height: 300
+    title: "Boris Johnson speech: PM announces first easing of lockdown and sets out three-step plan"
+
+secured: "QUDlQHLKv5gmcldxhGxETgoZPDBC21NOvQfHHFeQvC+3i/OBGIqdv2qv5OCgMWVlUB1GLh3NM07Aboyp4SMkQQgbeiy3TOJKd++FVKgNvVS4OEOusOaIUntk6hTsiwHYBQTiJPV3CyySXCrlx7VvuQ06MVM+NDy/VjVxRHMaVJlRbeNKkT1YzGZIm6zG742TP4zBhS8oddfg405aGi3kj9eSp5HZI0c2wh/IdiSnsUK7Gi46KrR8bkjkXollUO2Dg3j9t9+fhot095y+mFlJCMXtdmhzZhdJUswg0GVeazCk6/Q8/CxbPYjoHaN3LAuk;y7HAqjca0XZ76kVjJgOY5A=="
 ---
 

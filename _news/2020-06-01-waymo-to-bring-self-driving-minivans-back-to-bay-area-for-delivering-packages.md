@@ -23,6 +23,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
+    width: 720
+    height: 376
+    title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
+
 related:
   - title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
     excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."

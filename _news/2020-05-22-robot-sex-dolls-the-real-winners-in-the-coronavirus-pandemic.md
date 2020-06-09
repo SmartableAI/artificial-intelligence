@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdni.rt.com/files/2020.05/xxl/5ec6a4542030275a5b1bdbeb.png"
+  - url: "https://cdni.rt.com/files/2020.05/xxl/5ec7ef7185f540744153f74e.jpg"
     width: 1240
     height: 697
     title: "Robot sex dolls: The real winners in the coronavirus pandemic"
 
-secured: "D9lqJCThC+yVsu1C6TRYfdg4gQTnVK7NvrvGXr5Q1gU+a7qb0Ctsf7CqQt0p6K5sqnshUX3/g62WTPe8fjILjVibsxq0d6nYliOptRJU272PLuBonkvjnjdKBfiM5XBHCXY2PRqfNX8j+/Tfg+3T4I2cFQKRB/vyhjamRHv1WFiWRzKJ9B1GCNGUVX0Ck3MxFzeF7e7EH0NVkCUeSMcmCV+jVp+BE1O/qF8Pu1M23us/JwCrkay4ovC62+m/1GKUbc1BfRw8QCwZbfvlL+7JMFBZo0KfyStfVkUEXEXC8Xn48DN8ehiXSd/DWEMyMBziCHmwtB3Vr4ptXT0Zys5sYXKaKzH2WoXoTk8OZ+lxVqTGRfb2l1S32v7kMVQI3Mge4lYxf+GsEfL+2z/ts8B7yo1KKmF9C7szVdFTC61QZTq5f34CxQJZfw3ln9ng5xD3w7qWW3jk4h8mAev9M4TB9Wsfr6MLpk8yG5xZj1Ptyj8=;UFy75Mu7GrEG26phYEIFsQ=="
+secured: "AlGjXEN0p/9Kr0oRiWi++5HMiZqlNkwggx1RCpN6v31baSuz2eKkFmYl3NBin6z+EyyHe/hfVanX1DUmihw+XhvzGjT+aLrhMtaH289Gcgbe5gLQgcoRbWAcXHYlbXYE6MnjBpEsKoM4GiHInuIdaTd2giymttuZU1DvYk/MScIYeVy8i0JVOwftUJc5gn3gGMpeVIAWLEgy9bgHVFH0SWumeT04UDpl+rJmrs9lIv8FrtnPq7iidmMRgcOqjo7eL7dO9+B69BUCN/ODvjjG1NGrphldCUtEKT4clGeMTaJLGAYyBD5m3MpoX7fgAi9g;5MKxKNvBX6MD6L0M7wwPRg=="
 ---
 

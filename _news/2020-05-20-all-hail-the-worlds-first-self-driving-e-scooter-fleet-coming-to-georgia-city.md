@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2020/05/e-scooters.gif"
+    width: 800
+    height: 450
+    title: "All Hail The World’s First Self-Driving E-Scooter Fleet Coming To Georgia City"
+
 related:
   - title: "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?"
     excerpt: "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters."
@@ -49,6 +55,6 @@ related:
         width: 728
         height: 300
 
-secured: "wF69QghtGOBVs1IgiQqvp73Gc4+w0d5bQZEWv4N03yH5k+VsKG71R5cKYRGlCbNttCZ84VYYOpRclTkPKtk4stRM/Df/diRYdQRBSGkk7haFLx4TJJvEtKAofqHkDdr7JTZTqj25KoHFkGOYlWMWc0bjYWnw1LQK6VR+F82MR1lpJAdRBpukn2QI3fifCh8eKlL6poaY0z95uVGy93eO8773bbiPCLUFODUTZKt50/b/lsqiwFA+ERcOsfA34B1hH42e1sCNUb8GRFXvE4LA8nbTmOzx6mIcJzLl7t64fEnVaOka0p3ITwiIDr3twePk0IzveZqSW41Nmm944JepAeVE7Y+DI5BuqUKuweT1maSO7PNc/oe1ClFmSzDkTxHTogDoReCbP8IppKKxj6QDp6HwIRtbCZb9jz2EPCKzrsp20pmzhTa0NNRbro12JZjU+VZly8slsyWAatXcNzj86WXt1fV97/koktnAyGqtoRw=;ZmtmkX2HRXdCuSRjlSFBPw=="
+secured: "HkTKyweK1w0uwJ3YKtXMrZ49mLXJjR7r5C0yRpCTiI9kehZQfwO19egcq4nKkZk0+vRiNeC5igBVbBP5H0IUvJO6ckNYmnocgotmlLXwJjOcB/+vxYT2c/eDULpx1cxODi9HXKTnI5tGFiLga3082tjOUr3UV7lJg9vhL5CQx0WxNtUEk64zQmcPlYXzb0jbhRNirJp0MA7A9l1DBKD+jTOf0Ih3548tT1PuXDASW5UEnMxpp4QgC3gWnjmIFtXCwi7kXFQn5+3vZYDOmBcjdp5MwGJpfvZs4MK88IVntVzdoREsvoqf9gOmDsT8Taim;0cQ6VYvKK9G9hwjqr2Poug=="
 ---
 

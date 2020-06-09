@@ -17,12 +17,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
-    width: 425
-    height: 262
-    title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
-
 related:
   - title: "Facebook trains artificial intelligence on ‘hateful memes’"
     excerpt: "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how."

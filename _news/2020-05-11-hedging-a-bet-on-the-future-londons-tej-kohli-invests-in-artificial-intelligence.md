@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "JAuSaT+TazUlMLTlAjS1kXemucZSGcuCYnyQw+U9C+isNl7HYPAnbcfQSOaBcIy1YMX7cEwa8k3NRLM3GTL1dkUcEytRJcfRjtpMV9WhfchH8HrslkZWxp89+iNfp3IHMuvI9HoyPOxAzjx1/33SSitW+CzzvLJEEM7R57Nw/AMi2vYz6meev4HjSj79k5Cen6nY8IQgZszjIS+9C73o5515CvI/10OdY2wV21+UX4W5dTDhhPGvWsSmcwN6+X2/Wi3a1WUyUawElpiOaUD3AzWLbyedSauu7CRnEC9T9xNkMnel26xKf9Tnc2I8OO8pU183DdYw2chWWmgn1z835LLLCB+nUN32fvSZDYB5AbQdRZy41HkJ9XU6zON/lCBi0BpohTOX0174Vji0TutjwjqH+//NSsqR8SscRwZNUB+0zQ2tE5MMgbXsNqKX3om/vPKlKE4pNEBwjhtp22vlAJc0+iKCLKqeJDR8bwGZ7Ew=;zC95rmU6SBl+uFCoXsoCWQ=="
+images:
+  - url: "https://www.varsity.co.uk/images/dyn/ecms/1200/628/2020/05/Screenshot_2020-05-06-Email-Mark-Curtis-Outlook.png"
+    width: 1200
+    height: 628
+    title: "Hedging a bet on the future, London’s Tej Kohli Invests in Artificial Intelligence"
+
+secured: "2OZ01bQOMhRhwrnVMP2SaVBDpctJSLBUMZbGWnLBTMzIDVsBNTtk5bwnhiAdkQ8aNXfQY+Frsmgw1K/nuiofGR4WLwPl4jUQfc6fLY4arGJhcLYjDGxWKeXfbaoeer/vWPU6KRe4ZdIu/CdxmDAsX+40oOchfzVozz7mBMEq34+rjAK33CD1zxf/mfOjzCcyyVb5PrKUpjObJwAMsQd7y6RIJ2BOeYDBXqyI9AqBnSEBw1Mcu9+vOI0eqdilSAVTjmqVvfjmx9eaPCbXKipnUfSNo135rgWnoYl3WbxRhTuE7j4K8fTFfkkfibrXaQ5t;gwkK1EnSt2az2sSz4+lQIg=="
 ---
 

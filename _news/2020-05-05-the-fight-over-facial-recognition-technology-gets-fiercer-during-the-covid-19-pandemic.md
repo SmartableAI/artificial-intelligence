@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.statnews.com/wp-content/uploads/2020/05/AP_19127788378584-1-1024x576.jpg"
+  - url: "https://www.statnews.com/wp-content/uploads/2020/05/AP_19127788378584-1024x576.jpg"
     width: 1024
     height: 576
     title: "The fight over facial recognition technology gets fiercer during the Covid-19 pandemic"
 
-secured: "AZZ4ahBzfvbOJ9igDlyCt3HnA98DfuueQTwqTNHP6NVsg+uUQQ40NM5HAeFqiruwN68L4Ltojk8j84OabE8W/f0eF8eyGWyUa7+nGcQL7+lC5VtSm+zLtRExxM4IKUf1/juHiZk/oQkAgi2t5W8WF1uJEdS2RKLaSG9udcS+xbckO7GZqpQW1rzZ8z+VrWZAdkJwysR1IAJf0BGsSuaJhPe1VILtej6cUiNhRWYCn87uciRmcDtOFcVmY7g8+9pbobJMYm3ufAW4CijsLvNajYlP2lVfSDlFwa77tcOL22McyzmU/piZq4c66yW4JMPXQPUOtI2kBeKMZnjYqVny5FcOl6hPxkSLttq/fbojPoGSvZBEVDCXtpmgLyvRj1Irchf+bK6CwCtdXnk1XX9Xqy9UqKj0Fq/H4rWLaz8kgKqf6h8LrSJdD0blawuCzn7Kb8Dk+9OJxrRgX3ClRL25vQwQdtRPyLqB1otRk615tDs=;KWzwjZciasPrCzvfMWbSnA=="
+secured: "hJoFcNZUrTDCqmqobcLg9it84QmWR+ubjBJZ89mWK+UgklE17yE4tp7fFlbW/7iVYzItiFAl/9z9o12Gp2eljywabmyTul3VQ5Yk1n895mrfaeZLJyAizDBxTMvT+FzO4pgHlebQgL3XJYI+/bUNDYvJvyXub44sbE1JMfzDlwFmD0YX7L80wCNDRUn93HTRzOyAiPXY31eHJKn7Ry1G4jV1rkOQ6zXQ80j73LFHlD3IqJXRin1/D9QXV2wXJdoGfF/mTpAVvFOBE2rKWS99EAU/Zp3VrE87XBX0eB6XmA39eCTggJmEkuPIcFsiz9ze;P/nNJRTjb7+q8SquZhQvNw=="
 ---
 

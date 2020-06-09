@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "s9f1L5lbMjiBI6qGnxeoApyzPXGpQdTaSC3Oj2blMKrJO0XnQHhgjWD/YgaMc59Y9KN+KqqN4CuXx89+Qz7qwAjgBipuG6EphMCt+vwg6ZOQ1GwQW8usBIngLMDuqnvbiPzX7h6yGm7jWtL9ylmmFmsLktYtWhdIol7/RLiEi49VNm0gQrKcZq+1YBMgiuiRjDYgAJYKgSjHDH5Q77E7an3zk5x9fgSjA7xciyHkD+o+fXZprG7RHFZMW6PMpZLVyY9Bs1GkHR2ls+XmN10uAgedCTGRB8hyZzCjvqRcQWBEGSqVmPk1WWT5XUrPzQLZu6m4hAuvgiwW6tTi1Ao2xvK4xksQd/1BE/uh7S1qmRrKvEEi2ekqhA0A4D1E8/5mxqGzDjJJgOVa+87xdYqtrBrRp9sBY9LBftdBfkaV34LGbE9TQG6RqCbN4tyP/jP828Djzjnmh0c76IIsDA3JyFlP8IQ0jSmabz/ylt62ZLI=;7av2lzvsBPicf1v7EQl6LQ=="
+images:
+  - url: "https://wi-images.condecdn.net/image/ERDQ7o1BEdm/crop/1440/0.5235602094240838/f/0520stadversarialtshirt02.jpg"
+    width: 1440
+    height: 753
+    title: "This ugly t-shirt makes you invisible to facial recognition tech"
+
+secured: "ljMyNT4DAs1dT9G4BEe7zsIyeezjvLI6TtEySWcZs0otnh+wPL1v8ygrLBWpel0M9cxouaxYvLvz1XQP+Y4JXAccINc2tA+1A1CbaPjRx8JKLy6rI1wvaZmFcMgVUe3SAbXg3euzanZR9kmHrVXhi0ewkxdEyNU5BbWYFDoyYR43X+2cWOxkmYl/l0Xa3fUpxPcevyZoY658g7IH4EozgCVw1uDoeC058q25Tdmnet7DJNgIgJ8rbesBufuwUDQ1jE3MY7YDCCBag15En2vodAt5ma7nNn2sBuOLg5N4HxiBrItaHVW81PtjOBEPHcGV;o9+CvZWrCu7tV6K6FIEXdg=="
 ---
 

@@ -16,6 +16,12 @@ topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://images.financialexpress.com/2020/05/cats-59.jpg"
+    width: 660
+    height: 440
+    title: "Techsplained@FE: Ready to chat"
+
 secured: "uPIVUBSH/BXjvXYIjabfOL4nIoHftvBZ7kHiw35IrHVN+2LovrNdQKyfJ9xMOO2oAWYkooQXfBRIHgTzbxrDi7pDKxTQOZs1Djw/97WghbPqjZrtoe4K+gtxKSwsh9Ld2neQufVq+N80xgUBNrY2Ad4w+/eLYsaZESFETYaFxnHGgnYOvoyCQM+IpbDTLCCgVtcVVnloZuOWAu8iHB3p+h3eaq7l6rhN7i1ybZSHVx6QpOy9iwT731BRKNIfeqo0kGYbUDL+Xz5TImyFtk3qWWPVkVfGZn/5q4g72H3kPBFU0MfpWJWzTp6mZFOomWqF;o8iYuLlNj6e9lP1nyo12sw=="
 ---
 

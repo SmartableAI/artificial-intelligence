@@ -19,6 +19,12 @@ topics:
   - Microsoft AI
   - AI
 
+images:
+  - url: "https://www.stattimes.com/statbackend/assets/uploads/FedEx-Microsoft1.jpg"
+    width: 519
+    height: 391
+    title: "FedEx, Microsoft collaborate to transform commerce"
+
 related:
   - title: "FedEx And Microsoft Join Forces To Transform Commerce"
     excerpt: "FedEx Corp. and Microsoft Corp.on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logist"
@@ -34,6 +40,6 @@ related:
         width: 400
         height: 400
 
-secured: "SJVPCZqa9LBL7rn7O+qaDMDkS9Rw021Kgkj8Vge5MTKj1rQDisvO8uP8sG/WoSkVzWIwqYTQhuIzACZ7A0McJc4tZ9S0KclZL/IXyOkZis0Y/bn3i0k87AyZi4NTN3GkGXOE0QtSkWB9hVJvlYBXXoi2O3YZXmhc4/ZnMYtqDBJZzA5K2zGEMIL0TxAweTDHKyXbjdlmhyMeYaQ0n/GcDkc0B0IO+UsbdC3g1aHU9p/WGDRTjYKEYkMF0+eiXCaeS2HprUQ3zvTJ0kI96d+FWiRSMVGv5Hpnoa5HNtrd9v4vLiQlromyla5z4ZU0k4IMeCJkHYXOdtAOVKVYkMpHiFD3bUVcH3j1xf6LHVayzc8kdwWMpRiUlpKE7LXBmnkcm3xQG3jZGnWtExMm68WVYHkCGcckFqiEvECX+4H3XLIH8t3KSndI/j07xYy8ZPE+vlaG6QwGxoRGs9GQcNToqYw+chr+M9jlDnwp4tk1Sk4=;LrT+LxcC5tdbYLOG8jap5g=="
+secured: "ibOHFaz0ewduqGCFtcy5eqeeMvw3HzL/wvSbfO7qdoOMIpCeR5suBx2yhPbefuN0qKFHCxC/mq4zGgn8s087YDy3naleNrYh7GvNzC4RUeqBTfiCCR8b/K0t/MZMtkOqHyA0yOs6y2Qx2/grES6bdFHT9WvUaYyQzATRfJZTkSQZLzp5ft2r4Tvc6BlN7zHlEzQMQYrr/X+t7Gb/ZXmqUuokLXres3twSiUHzkLg2Tc8pz0gcAhvYRLY3909UOpIfNotdeheoRwyrwbVudYhzflElmo/bQCL7yyFLwAZTI1/hFkEB1BGYY/eJh3DF6wT;bk0aVPI8sSBUcdS20HdmgQ=="
 ---
 

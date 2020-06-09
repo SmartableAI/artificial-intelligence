@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "zqj5yPUmA6LVhSAcQaGkyyQlmFftwvNcVSejGqi9ieLB8S35UwQyvm/Gyu5gcCQLTYeMR+gq0sjxDfGzentPZ3NM10+oJCla0WorXbooNFdAZqzRltf0WQQKUEWztKHwkm6R3CWu2Z0IF0Va8Mi8W6PSlUGuLDzgibqCty3wSHRzbOGqdxFRxgouXhJmzd/aYdp5RWajhy13mju0VW1IhJEvAAxYN6PUknWTxaEDbfSDa55HhESwoSkSQ0Hu6bF8FlymL5BPKcsi864QNbIiL2u4gjzJxxhOv77u7zBSldiM9JUE+P1xegY2CT05QbDKsxAECwS4GLooqougAVjpkJLeYsI+rimtBHRzDCyOJFoVSapVPu1nA3bSgAOjKMQW2tCjTq15fU1ZWQcBG6T8qqtd72yaGS3eSJtN+HBhpGI+16lQeFuCMpj1eUlSFqylOWZR7JnOL27FexiqsCvd+K93ViN6+L2uNwzsPHvXVIo=;W8W/+2T/b+y3V7V6Y1Udcw=="
+images:
+  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/Veego-Team.jpg"
+    width: 1500
+    height: 960
+    title: "How This Israel-Based Startup Develops AI Software To Fix Device Malfunctions"
+
+secured: "+jTaBbB3DQtLk2JxWmIrIFPx3+3fTLKni7iTuAArrY1V3z5ensnpvmQnBNsIWewbpdTmWAkysA6VLgA6ng2DG2xBS5EIMcgtvwQrLmPUarhGd0jUILhx5vqIuANRRsElpWXx0zrEe8Lana+cHOTCYAjHSC6lVISqY5hR6ausnMiXp8aqsYv7/H96yRKfGsHQD5cX18sI2K699rMI4ejMMYFpjA4ROHGckZYQtrgNjglYlCZROuyIoOLHBngk/f8KgYC6SlUdKYRUjTOEnYBMnk4kEHWUs3qtIzb9HCmk9LcpWMqD2+DGyQOrasIMbkZg;ugDOWLuRARVJzHqSSMiuvQ=="
 ---
 

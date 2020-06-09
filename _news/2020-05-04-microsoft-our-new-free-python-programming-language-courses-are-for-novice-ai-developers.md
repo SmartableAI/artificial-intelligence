@@ -23,6 +23,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "/1sumMmsrN9lZa07rxQdOUDhzWrGz7Nf84Qqncgvm27PMnHBtZ1fBPUdRsEkbxW87Uy/rSWOkK66QD0mfPmIVbHBMAm0a0Q0aYZ/SZV+Gs9YmfP//5zuE9fzByXK3AJxjvz5Gn6r/tc803yJB2qWhi88Siu4MrYdY/2PwGLTZ2P+nxrEsiZfHk0Op102K3/PZe7Rz60JhKu6HVjgETadqFoDhnQxRiWLnnIn3ySPh1LMla7cgEfoZqNaAUbntQtFTqfcz6QAu5yHcYfcehDtq9lldlp9HqjuOtINd/LTHKxlHPXhpROSWn8iXJR1V4WYqYnimzjuFKUcZ6/WOUDoN3C5Nbra6/pijnCrh6GnjsBPTTdFPevEpJeOsjvscJ08yIxCadDT6c2vbhtOaE85kydgUI8VrvffVXV4HPjTNCvW7cbBkHOOLd9VxWJqqZhqfBnOZia3HIfIcVFQ5l4b2cVs+ELCkqo0tOLYcb8XHCc=;g1VXCIVU854S0FSbCu3kjQ=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft: Our new free Python programming language courses are for novice AI developers"
+
+secured: "eaTsmB2gkdzsq+DN5ELhY6vjpPwYxtaFrA+Oah5jo+jojC1LS1TBha/oT7LDPzgX2xejGs3LZUkuTjupoC+wfdjdYJ1DJma6kWpCJUQiSCuGXkyJGkGiNPj0qMnoqdTDZ574kmpMC8nP23nrPoZri8CbUc8pyDkFg8lj0E13WZUb6Xg59/BP9ttJ3TYNoLVgYynH9dG1IoMYlMUkVwAN0yGlqoXDfaJWOwsEuRPGvn3/MyhvkxzHJr4+vLdNkREhYrPEDkwYnhTtKpyvBNTn0AoNwQvvn6MH48TavzaH1UN9Sk1fuLtk8memcDM/gulg;aRsAQ1bPGR8NIWyIhwmIGQ=="
 ---
 

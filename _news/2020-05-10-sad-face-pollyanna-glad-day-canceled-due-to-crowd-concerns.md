@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "+OZwWRKkWsIJ2LDqXa7Kl9trVxr9tewI5BJmqpU9DqKzQd1eftkz1wYEgNvyC1tsr+i//p79FVQaS4dQdk3kYiJ8sEPJ4gLO+qIkkwXlHciQpetcr2sBAOj1TGcFtlCKR+m4IO9lCLGXXaZCUOXxQ6gFS3i3ig3Ibp5K97dOS1Q1KBWr3ng4L/zZH6xSL1tMfqVr62y+UvjYq/+HgNii4OLunl2VE5rpl5nQicTTbCREozM+hNbJ902gcI5DagmAKkV5QrW7ygcBgJPCvdMLWmvGOUG/oAUpyNCcIOE9GO04vLo7oWBZLWCHgmFgSA4wMPE366qvXyMpCYJHNeRPIis+fhXUfDv7zwDZIYR692O7mMevbPGn+nWxEZOUzpzD0gmHepzsfkBl2RbTAPmEW2eHx8h7sGn1zKvG7mNeR3NOT9zu33Is7MXAqFqPbTqqye4wIR2CRRUsV6TxLpLGn596mB2nMPmQb0+nLdfhdJ4=;EVKoi3z1pvajvCrPh1RnEg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/3/da/3da293bd-46e6-5d18-8d99-a5ff760ff6c3/5eb5e0f4b8c2f.image.jpg?resize=1007%2C630"
+    width: 1007
+    height: 630
+    title: "Sad Face: Pollyanna Glad Day Canceled Due To Crowd Concerns"
+
+secured: "t+9KCKPI4lAUm/hbYCfQwUlIhYo6/sPv8ujynlzGSF1/46jVhK69+XmxKQ5RjGJG+oP9p/DRmOlh9zblzH5J8d+Z7h1RpEzwhRb2BkoxxFMUUnAzAN7MzxfiltFy/4Zxch2Rl2KS48ZA5cPJxqzSvRIHmXVPoc2vqAD4a+Ds+tkDQq7qdGm8wpecXoW46G/jedoLfgaEcnMnFK2HzTi1knrWag0AsRLIZoP5wY6Gp/nLirMWapW2qwAbgSEUEm8tCvf4CpBudSffBkuX0T2yoiAFAwj+jNZQ46spb7gZyw+2i6dvyCk2WE2y7YZefuUZ;fWGaPwo/P3+9INA7rMDF9Q=="
 ---
 

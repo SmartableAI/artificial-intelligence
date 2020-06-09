@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "yp6GsKrdRJ3w56g8mQ5EhfSJMZ7gWmL13bSQ67vcmqEebfwOpY1z8cYrDwA8k90nYcZh20LfuA11v1stvLhP5dRCdoyP0e4VfAILsP6Umalt5t17MtzDXXLpSJulo//IazAcnQ3wBMtVCMe4Bz5Re4YzKTb6D+arl/wzafg3RMiCQ+oa0dSe9KbTYPLmXZFisLkucHokOr3r4LVgKAdxWhHb9aHNT+Pm3eQ9ipsPhDtaEupGShKl+ByO/Kho6WqcW1Nc+Fld+qmT+K1BEkyBXgJuZi32AbxI6cj0rR79EO8OSm6Nuh7GopRp5cwY7h5OCw2+pPirBvw85EtVOvNMVlWZoy8tqPR3k7XgAThYmYzxMaIWP2H1uOJMjqRv8T/mJ3PfuDdmNeqLZVAeK7fCcEtxDuIqDFhwvvoU0zS1CuMHD/mCmyJrsnNGDeyv9TVKlqQavv+4hzT16wLU7LIH4MF7TCArFbxEVXOf4VBiKLU=;g7xJr+2FMjZGo1tV//vx8g=="
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F6f836204-8e04-11ea-af59-5283fc4c0cb0?source=next-opengraph&fit=scale-down&width=900"
+    width: 900
+    height: 506
+    title: "Chips are down for artificial intelligence"
+
+secured: "bK48HGRjTWeE8o/bpSODc2NfD6i3M45GC8uWF0AZlYAaJbjbs61MpTm0BzaUDjEQJpwMpN9O3+rcJebYBccswEFk/pBxitgO5eInYM/iem0/dJAI7gG+NKHmscALPzfaltcK2JC5ZzeS2JvloFyhMhmjkpyBNqjdPAPPSvMh/fKFk5n0xrvZ4PpYPkLDHvH08VFkhyhXKRH3zUKnuISdO8nC//LxzPsjY0nW3eVt2VDkVHTNIj0KD6QZoM8hPV6ZAbfgmMbPxQk1Dx+s2u4wG9sJQlTEYKtDz3gf7KPLo+d2848Qx0qsx3KtYCZQNaPr;jSy8ZfDGLWesSrM9J3AGPA=="
 ---
 

@@ -22,6 +22,10 @@ images:
     width: 500
     height: 500
     title: "Video: How NetEase applied reinforcement learning to develop game AI"
+  - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png"
+    width: 465
+    height: 465
+    title: "Video: How NetEase applied reinforcement learning to develop game AI"
 
 related:
   - title: "Video: How NetEase applied reinforcement learning to build game AI"

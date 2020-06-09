@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://galusaustralis.com/wp-content/uploads/2020/05/Technology-and-Media-390x220.jpg"
+    width: 390
+    height: 220
+    title: "Global Image Recognition Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | Attrasoft Inc., Google, Catchroom, Hitachi Ltd."
+
 secured: "MXmCqvolH/EpHNSLBzLauWyylFvoLijYcqGKwo/augQND/K2cvwkhOy2FMF6DvyTrppXWC1W5H+yCNVSF5KwhiZXYnTGO071azz6ba5lqPTeXiunoHIuTwPV0iYP4QNHTKrbls3wcQlGjzj380PNNVGvktNVug0d7oPfCZtTESBAYtOPbu6jNBJFQIxJELcml7bVDjyDegJFmnWbLB4rv9ZDzB5O3HNzoYKEXZzfMWFw+ltkTPWH2axL8ZLFNMLfeb3t1SKjixw40BOBej+IX6WR/O3t9OEXEhyS1XsjdKXTQEEVOop/5AhhdETcgZNX;0vMpn6wtNndf8rgHaKzQsQ=="
 ---
 

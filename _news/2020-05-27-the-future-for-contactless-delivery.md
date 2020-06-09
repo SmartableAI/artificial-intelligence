@@ -17,12 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/cerasis-perspective-imac-cerasis-rater-mockups-copy-copy.jpg"
-    width: 750
-    height: 786
-    title: "The Future for Contactless Delivery"
-
 secured: "5f+icN3pdY2oeoWTOkxWwxIrA8JwBRdAHrFvKFts06h9C+nRVFVY33+emk/nxUQjmSCT+Lh/Nh/T6D0/jtrLMt/BPlpjkP6UYOsFX9JhALV/Y5QB6qm4NeS3gRfE5xwKh93U7Xq76BSrJGaS/ulj4XdcnoqfOBpemD5J9X/JDcHkPwvs6JWCXEnudLjSKrd+2Y3LFKCjEolyVFBZV3W7iIZhK/En5kjn/mLR2eSP0n0m/R1ObdjDOjeR8w49lBcbrrk+gqRKLQ8G/KXnD4Xlz89yPhea06n57yW5adiVnvjVKPUOJ3Sxq0dCqiuZSyleDadXZgdQMxpBOQRqH5sF///IBrFyd1GnprtCgGGphaY+OFthZHQchgM++wuXxrRt5I2mp4wtW6wp7zOpIHQTTz8K/QXU42aKdlQonQRFRLuPIwxIeaPle5VDqRuD0wIlQpv7xkaVCI7MGxHpGK0T8tRcVv9uTRiOqh/TptACHFk=;171DEnZHF88GhmmdgdZ7Qw=="
 ---
 

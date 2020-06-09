@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://www.japantimes.co.jp/wp-content/uploads/2020/05/np_file_11295-870x580.jpeg"
+    width: 870
+    height: 580
+    title: "Sony and ANA to jointly develop remotely controlled avatar robots"
+
 related:
   - title: "Sony, ANA to jointly develop remotely controlled avatar robots"
     excerpt: "Sony Corp. and airline ANA Holdings Inc. said Monday they have agreed to work together to develop remotely controlled avatar robots."
@@ -54,6 +60,6 @@ related:
       domain: thejakartapost.com
     quality: 19
 
-secured: "zAN7zjbfhJe/N0JQCE4Gumc7mlCcDxVXfO5C7x1lJW/0klAqfRF57X4RSPt76AwuuTJEXOHDDWEj/X+tXtsO5ieFVE45jCQ3sQU77AeiY5zdlJRo7XWanQiYozXva5RoehfOA+Nm0anQb0LKxOSC8lFR70N0vjrNobV/xd1WiWYrcxLS9FOLxQrFfFyzTteiSk6Xqr1/rc7eP9rxPuh2kN240AhL/DPmFntNOqhNQCY/Zgg4WQEKSzzpMQVrDCr+HYjDhZPpzgvT9yJhBgwjg/UCnWblC0u5Q72QRU4+CTyEDNuPJ1EC1nA/Zq+5kDPaVGSQBLJ0coCRZj1QImYC5IZ0T/ldP5qGJpJhj/hv4NZOCBfxfFzBnw9ZsEgEXlENa/RqvIEdKQPFnhU2z1dRp5Cy5TXKe1GW23XamELLPNmhzxEZuN5E69BRz+lmB5PLj90/0rExY/BA9OT39C3W/MyfHrnsZ+j5gpEfRY8MEc0=;lZ+EK8cvxtCdPYAINPOP1w=="
+secured: "9vTz7bUny7ej0dQ0LugPMyoANcSlNYGYbhJfZz2ygNTwSQdSfA2lIQp3kHEvelFWwq8VmdcWDPXw5jUUbm9ifFo5EFG0AStUft4vWr/kbWR+MEFhEKzhNDSsz5xBBcSSykm5ksHFLp6l+Rg+55w1lLA0Dw+/5mn7MOn0YSoP+JsufYnTSZB05aUpjKRZ9C21D8AFYzYLuNK3rY8GYdybf+axgvZpZJrsFnArt2ecLfwHy8VHrbJ4P5ilHvmdLnHAtbHVvAgLq4gGE7MIiDr/wrIo232iy/SrKcd6sY8xphRNZviV4l6cvVs5eouHkOjE;GjgmssXGjYvX7uYAF88/aA=="
 ---
 

@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdni.rt.com/files/2020.05/xxl/5ecc1e1685f54056c51c1fd2.JPG"
-    width: 1240
-    height: 697
-    title: "Are millennials embracing robot bankers because they love robots… or because they hate bankers?"
-
 secured: "idHBOX/NJ6AfbEOK1pU1zpqNhE2cuDsfQFsLQITEDNgB+diPRGNFY1UOz8fbYwN8VGVDQDX849+gf61xoQ73ZwnRNfeqNoH/EKwg36m2aghGzv7P9WENnI5vuGTbDc7SyMOEvLW1Y/fTv4FoeRV9VZdrth1cwXjHgcJLCzLG2ngiTs98gna0NRLZfPfzaZYmjoCyyCsvo7rKU5Imaac7E/85L808hPYrIIg+0ah7h9UIqsoZA/9s1hosgcXaUDS81dL7bJ4TXqsCHlhleCDUpYGa6AxOLw2hUAI4l2E23LdbzbTQXj1wq8B8uc0NhKbNJ3MpcF3zXQ16sRT80S9hR1nP6VBfhdXeRrI0P227RUU8N8dCglNBN+l0B7+wtY1DJb22T1XiuU+BobdT1/de43V86NvxatdBA3CzvlU9506cMEgjVTcdlSQvHFLWH6p8A8EyFUHNSIXkch/92LkSt1jX0260UaBOzdmIjbYHa6E=;QaXRmnj33xE/WXyjeIhbhw=="
 ---
 

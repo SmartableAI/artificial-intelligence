@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/local/london/2020/5/20/1_4946305/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+  - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/4/15/1_4898375.jpg?cache_timestamp=1587008145335"
     width: 1020
     height: 574
     title: "Researchers hope artificial intelligence could help diagnose COVID-19"
 
-secured: "t3VakhVeuiP5XA91C9Uyocz2u1dnhph62KNrRyBA38PuUye5wyKw1wwG+Tl2T0GeVZ3pAIw6nYJPQnb2Qa01kmqnvrZGw1bNFBJ9ARPdZaTQe/T/SmVBfxOjDgYhdRrM8BNPD77C2NksbEl3S35gRpPdslpdL/8ncR4Pe16wyYWd9JaVf8doJbcZKZTAQupiIsKen/xvyIj6OOYhJKkp/qORJwBirjY3mSuT2D8qSjaMcUKUukkSx4NQ8g6LF3QDxU1OrmEFrJ9ZgTw4TiN/JS0vUsCokhGlI0Mx8Hef3v81Fwg9wRE+sVuGk7eaWhulzMJ2DFoaZ6zZyn7TbfFkPuVqL0xI2gtVZ8hbU66ugwVKr+OQWvgvbQQ8+/tELLYz4iTO6JtRAz9ml3lIoA3xzfrngIiSoIwZpacfqsbakhZCZwqZ9p9uZ1AGvQKnjKt1XIVuu78mEHZaWY+7jKa91F4UYHAG9UH1SXDVtecKyVs=;fyaBaUZ74gFF2oiUaDTLGw=="
+secured: "tjfpzf3HopuL9frGlQRLCPJCiTTiWJXeXdBRdmySPk+ZjV6FcMfbHo2tK/shyXx4t4lSMYB8YpYoHh0tVz1pjEc3cYldAFrUfW4JeUdSSmD9i2BTWWtgVqHWGQRaPYA00e9LUSwhD5OHZ9oUunYSCGn+g03YVx6ZcKF2KPS8aMUT94rB6hf0cyhf9ehd26MCwBFaHGQZZQUiRISWhz6wszakgAE0yamcWx2FuFpFQU+4QOMjPt0CuWwn4YRkzvSy2kF0lrDPZUJNW9H+R/X1IbmdpszMLOgKoNXEBkv+CBX5ADll0KG8jWsDIE2quybf;gGOqebkMslTgpwv/2twiVw=="
 ---
 

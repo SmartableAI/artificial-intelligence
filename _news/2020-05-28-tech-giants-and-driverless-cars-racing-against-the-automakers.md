@@ -17,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "XYrDa10QtegRrtVJeYpVkcq533xWRXeXSa3Oy6F7u0tEH66wz9oD/LcPPsFGyR3Bomip2Vj/WdeZiKzC3pe0SiDCZ0OBDlBaFflgF5KIFngiGP7p2iMhbrJv3Ho7xWBJCWLBMsZYa7O8Z7EpgTVGeMUWHVDHQh15KH1d+Zy+FWX9p0O2jvrOk+1IsC6ESXY6k1uSyNjQDEI5uv4mk4PrZQD1/SE6BE0E2uu+h+X4oJEESxdqQ5SRox80KTBYVAsGOH3XAYM09iMNEvlXf77Z3/FOpYrQPd6NFfmF+dtkEMCrFGTPnPeXN89c84SDgDemklsMg8O7h7eBIomuvkweRneC6gOFS8JWCJYidvhRK/Y+cp3nHXmuWpECL3ijN+y54AFUm//vpLIUtWpyw8mCZUCRLMje/tNOxvo/lqE3Tbe3IxklKCSIzH36P0/NJ0r70Wnhml5xVEs61/jp1A6wKDluVESycVNPrnHJAVzJcl8=;OVB4FeBFSpaRftdMpocxbQ=="
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/wipeout-2097-copy.jpg"
+    width: 750
+    height: 422
+    title: "Tech giants and driverless cars: Racing against the automakers"
+
+secured: "AN91sKl67BQQLCITgbTP/r51JgXV4+ZRK7N7ZwYZEE+f83vfJAOcUirilUTWt3RtQQQLmJYZhTuCE34wXNsY87Smt1/cCFTSB46baO3IgYNNq0H1xZ93cMsT0oBe6uU7rwsMi09/TZ9QANqDEIEuA8Ho9aEsHrudLQW9lnizcEvG/PDEDeXksT83H5x3t0fdM7Tnq5/OBzTS2qaNhNVzu9GLtoFhDK4h2RxLGv95QEhUwOF0CLaFNieAuZfWiCAAjhmbNyu0YqcLhgMYD0WAHYGYLiTpm9PuLGu6blj+Suk8M/IUaAposFre7z+TnmWwewZW60kqN5Rvwt/I+HNV0bJ9Kv793ey/+PQkamc1oFxkqBSiqnvgGebOlNOvnrMRvWvap8uz2yTM9gxRnD9NuFlLDp6Xn1rooODq58+/+fz43PprvY3HjGgV6/7lR7g+HQDJjOoOhTctqatYASzmnmorkVY7OaPUkCU8+ZChBSw=;HgZ7QqochbY5RSBiRc/A3g=="
 ---
 

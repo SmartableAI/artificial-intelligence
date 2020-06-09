@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "RKuw+DoT4+Lhz5pv2qSwaE5RiuZ6fVIe8Gpg/BTZQn0EbK/l0zU7SQNEMwjxhxqeHNtnpIaPy5B1Crwt9rQLDAlAPIp80ZRU8Z/O+Zqiv24WPs1Trc7oVWgsklsrfElaGw91ooHf17/Zm2RP0+Pa+aQYaVNc4mk8HoGFui+A38+GYnhqPneKopefuUhrb03xp1OUeZU+NNZcIfsH2Hss0F7USgmtSiP1nJ/LjvR/2R6olqyxh3sEK9eufiw+0bcWusjgRvObLnxvtZhs6cHdDYNDQtqSxK6r+yKX4ZxIwuC9XU6awZ8KqVKQyXkD2Lorh8qKkZJrJRZ4HSgCTSEwIUiofHvY2v1wQEA/ibg2oL1FejQiVBnIbV2KVkIwEYPmQV4Qp45B2lNv/Ujm7WNzgBjUQl/30sEIBl+L2VBYjNzo7x66UJRC07hleAwTnOZ2/IXNXv/au917WKM7oTRarrEJyWDwpnIsQ37LVvPx47s=;O9HDw51bLEhsvqxyCr7Gxg=="
+images:
+  - url: "https://data.ibtimes.sg/en/full/37590/robot.jpg"
+    width: 960
+    height: 522
+    title: "AI Revolution: Researcher Warns of Rise in Human Violence As Robots Become Popular"
+
+secured: "ZOKcGtxO3wO71sg34mltz6OUiiTUYsWdyk/I2ejEty4Ujwib4WVBKN5+J8yunK0iLuO3hppFIzssSjJseQcgVnK8mnvhl9p5/3+wCxo9/ZqT78IuAPCX1BuGg8jv8gvWRfECxDWfDYWiW1sD1XVHBJAYUk7U6i2FDNPSWu7dxyUqBH20uWGQU7ai0UYFn+aUji0DQOhCtF4u24HKnf5RcYaeZg0SEFma1GL6A4L1Cilp5sXrCiHHsCvLZF8FgrlOtSUEEKoznkLFpHWvlL5573qijqjc1cQbiCHxQrG1BPwAqdWz9/su1bNZUhvhFj9N;7BMUjwwmLxN4SkZaoVT2yQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Despite the number of unemployed flirting with Great Depression levels
 publishedDateTime: 2020-06-08T15:34:00Z
 webUrl: "https://seekingalpha.com/article/4352540-robotics-2020-year-one-of-roboticized-economy"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "5kBaSMRVn+No2e+rmKtsPDSg3tjwZG0W1kxdm6xhHhNjxqJF+BTBL7R98LG425PTXB9qNA//ce5W6cIILKVgqK5uOdP1mb5X8M8ldWptuVnqiLlr/XxbHOlfP7e36/frQxRWrR5oXWo45Fm5PB9N8Pcqat/4qBPG6Mx5UkyEzS2HnT9/AjjiGOaYzTAM1tZr3/jtq3/R2lzCPgly5spN2zM9lTQsCGqU8cIiL20au9zzk2zaQy+z2t8JDSeDvwuTWB0oEKr44Fhvy6DvHOpnzwMToE9BuypLzr6KIhrTLCScF650PtIYsoOC/iMDTRFSbtlsfaftDWhDgmTp5pdLSI2aB9SxuuzlmIfFqz8fRine26nam66p2aHLmRXnsW/7QtUOjR4nhEk6AEaJtW2aAI2XgqwBIxU81uvosXOt66b872B+fOG84Hwu3Tu9zOUbXpRGZ25jPa7HJzwdb93+ohaUoj3186lzNnJ9f1L+ors=;Xzc3Mzz2+bYV2VKBI9ZlUw=="
+images:
+  - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
+    width: 529
+    height: 639
+    title: "Robotics : 2020, Year One Of The Roboticized Economy"
+
+secured: "x7g8ATWi22YpJwRv6J1hzemfOyGcrFZYJnkEEq07EwaalR5XhZKx0sRADUhKkVXgKtDjIwutDoRcGH2z5CZOatk0fg/LmuTPGQTTCp2kTDf5nrntvx374utCcgzY0oz4GFwlV9xBlBebVv8VAeZkZDUgOuedYv4kLBTiM74tSjsum09QZFaZ77v4ulGzGcUJ2T38cZqOV71knG72XkWafl72fvJXepR2Os9EdXp0h7DncEQV23lc3Wh/MjDJzJ3Ynn3KfWi1nWvJMV0opxpDc2+BGNpz98HyJJE/l+oU8ZxBiaAueO7udo50fvFU709MzdTuCGhz+Rhz61B3BZRnuKSn9pPSKcu0D5AP8gIw17HCCa+3hjIk8xe2Cp121xL97lus2E9BCa9+rtj9eFZVSwQZJ3hrg2cDDWBHs2B5H7Ai5RPU/Klg1CLCxmXOlsvAqlxdsqoPyGuTut9kv0ydptti74cfX57hWbq4S3acx5Q=;s5WEL1IpELrFf0/NIw39KA=="
 ---
 

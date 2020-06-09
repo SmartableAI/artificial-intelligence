@@ -23,6 +23,10 @@ images:
     width: 300
     height: 300
     title: "AI-based solutions see surge in demand to help companies retain business continuity"
+  - url: "https://www.thehindubusinessline.com/info-tech/htkhdh/article30742249.ece/ALTERNATES/LANDSCAPE_615/bl06AI"
+    width: 615
+    height: 384
+    title: "AI-based solutions see surge in demand to help companies retain business continuity"
 
 secured: "2aZyIB4Ctyk96rhAoOPu0rqlq5p1CbiaolIePj/s+PNuQL2ZC2PMk0/INGY6B1X2DgaWZG1h2d060khyh2RYlWIuR4vYV/Q+dzYt2Y+wwlBKod62BLakDlsuiTsauuqBfbROqxvB89albWfYHNv6at0p082b/iHvUkcGpohafwIwRzg2C4PYFVh4A7Z4bSZowpC0fBKzf7bSdv3vFI0yusEd5Aia2gX9zTQ9PMxZjdDyWSpwlfE0nZ3P5hjmg3IFUwCyF1nUMpb5gmetgKXb+dgCyJn0CgKAGzdKT+OKX16utONzAaA8vRjMm6XxE4l8;/oy0MFALI+/y3Luq4BAXng=="
 ---

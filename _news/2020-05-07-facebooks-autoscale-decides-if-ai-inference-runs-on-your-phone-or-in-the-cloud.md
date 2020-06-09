@@ -27,7 +27,11 @@ images:
     width: 1200
     height: 600
     title: "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud"
+  - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    title: "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud"
 
-secured: "To7Rm4mhy8ZfUXqKwDiAR8/s824UEliggjakRxYmsJ9Ht4JmYtx7b4FU3TNsw22Lv5UTGtDVxCRutL81FFsY4uhIgg14A28mrXlEiK9RI6T//sxxeMtzSUxSNtTwRau9xuDrQmGCd1x3EDaPfxwATWGkut+BwDiDXAIgjnyWIGBRDIIc5nbPNpPQuPwf3bYYhwfp1NT5Xuq9Y0c2eLu5excjFRVb3AAI3D4j/m7yh3WS3a/gkw/ISfLwdPtahUpItu5q1s/w8Pc9Zhu5yvCJM879egG+nWu3cVdJtyGB8veMUv6Di+OVclSSGwMxszMzrLRN7ybdOtxce8udEJmJrRF/dtDXnEENTw504F9HaCTlw5cg1EF1C34INduWINL/RHZWHB3WRO+KkSkqu7XOilDN9b+EJ0rvufbPcdnGBYzAF2pEgGE3Hf92uNEsm89dwRgNjbkzXYDICpqrFRZFCpkzk95SqgQdmvS3kMSRxwY=;C+Xiv74BiBzT1j7fBqV3PQ=="
+secured: "rjCsyHh+qTCowydbyRmXRbG9ESK/2flKFCeXCN8upb8LXUAATNWl2IX6XshEqNDujqxmgKRvip36atMqMQ8ud/gc8YoSkaTXlzadRgBJB8U2VJ0dNZQ26Ilygpj83GXV3PRbrsMvaMaWafsm8zE2/jilXttwXEDd2SOWBEhK7hElPWG+Weo+vZee5bBpGu7SWgQnjPgRys94dVqFIzyCigjVt+mMzJXKD6mot//7VxWfe/0AvOAhcYjNXXeOf97GaR8xhjGCNbYRht8sHhjU+uBFcSHusmvMU8Fieue4MqQAnkJIs1cy/xa4tv919Fm0;Ff9y0TSOB/FgzPclMwrs6Q=="
 ---
 

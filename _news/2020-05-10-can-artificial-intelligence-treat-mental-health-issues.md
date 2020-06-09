@@ -17,9 +17,9 @@ topics:
   - AI
 
 images:
-  - url: "https://infosurhoy.com/wp-content/uploads/2020/05/according-to-forbes-almost-15-5-of-the-worlds-population-has-some-type-of-mental-health-challenge.jpg"
-    width: 650
-    height: 433
+  - url: "https://infosurhoy.com/wp-content/uploads/2020/05/infosurhoy-news-600x422.jpg"
+    width: 600
+    height: 422
     title: "Can Artificial Intelligence Treat Mental Health Issues?"
 
 secured: "V6CZVpOQXIUd8p846nxv6R+v8/l4vzDelspuZGJX4qC2RXWEEtCDobLN7+v6mk+1NeA0YgJtVP61Qh0WkXKqioARxbm/9xUSKojk6UX5FoYZ/SLbwQFyIkcvB4/Ax7t5xIk5RecKKLatVlVYNrtjhtg5uDcd0ROQWp1Hc+lSLaWECa82orvjdut9uB8fhli4VtEAf5MwuT4vVl/6XFAiaJYdfr0lHXULhA7GlVvv9B+DTaclbCJiB+qZvPZJU9ej9y4rELbvZew6Tf1LJpx1LBnvaWNugTyiLDm7c7nzdOeynnfaRqaGzpQn4pTeQtNt;Evbu29oV5vZn5t3V/0qiEg=="

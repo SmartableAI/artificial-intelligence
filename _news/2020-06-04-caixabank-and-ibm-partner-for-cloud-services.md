@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T17:57:00Z
 webUrl: "https://www.finextra.com/pressarticle/82779/caixabank-and-ibm-partner-for-cloud-services"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 480
     height: 270
     title: "CaixaBank and IBM partner for cloud services"
-
-related:
-  - title: "Caixa Bank and IBM partner for cloud services"
-    excerpt: "CaixaBank announced an agreement with IBM Services (NYSE:IBM) to accelerate its hybrid cloud journey and continue their work to increase the bank’s capability to develop innovative, digital-first solutions to enhance client experiences."
-    publishedDateTime: 2020-06-04T11:28:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82779/caixa-bank-and-ibm-partner-for-cloud-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
 
 secured: "e1TuXIbaOiq+VJpBmUe1jcPzzZpgryF9DJmB/x8NgXSP5SqzqzoqEAJokOUkf9HmRFsdLZjn1JMev8ZKYytqzuZz3uzOETU9lHTZMfALjtr7mTj09BSNJ5gYcQWx8WyGL/fHaufjQ8S6DbaHDkP0v/qqjtIEO9BTjwFl7liGrGymdP5lItnRbrD1G4CYTMo21rk5IWw8znypknB4OOdWYjfM/lMSaUijRZsnRps2/wV4GzUbQ94sP0U4DI44OpGuw/2/16BsBibrT8lJ5+ATHL0psIE1mpi4N5ctQ4ImxCuiEMuFv+XYOgkcb/v7dgZP;9CuBaBajxCctvBWFyHsctQ=="
 ---

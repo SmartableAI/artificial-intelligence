@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "rOGh/lZMFZ/neVyR/AaKmAHViBAP6VOi6Bfv/KjZ5+pRb9mBXpwMaexqb3qOMR6j5WF9WM0eZZZFEyl0ygGrLNigeyvgEAZvKjPKbbWheu1P32QQ41qtv9nUJeEgt3/u6OO0P52bhi9BUuNdwp7DdM5TblI6b3JtJCbx0rjbTnfJOnUwbfFCQ5dlJI/8qXeUErLYBDpVCGLPT9FvpGMuMrLv5H2aXQYlNzSyinQ3oH/m1+LGBvEYiu5FFgekbkWFWLSN44KDnwqLlmaCMPyM2Fkbr59WXJAU03CIBM0E8UTE2gkBvqEd52OeyMdzjOP5IRojOsaZnWWX4GGgkvK9xI7J6MrY+0DVV1aHrKCtvVi8ep7bemXss6QMpKD2q6SixOQUaNYKfx1Y+Fjl66pTYNbCpMkm3rbaKWV3WbZNohzMPDFywluiOW2qfWvT7Sxya4mrnve1aVTXY4l4cfFLvY5BieCRHdXiPzXTa9QR9dQ=;NZTA+KwPYr5tqXnnig2a/Q=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/05/09/672241.JPG"
+    width: 1240
+    height: 826
+    title: "As the use of facial recognition rises, so do privacy concerns. These glasses are designed to block the technology."
+
+secured: "R0eW7LqbFk9ZQxYH5egGXZ8Yo6Xg9FQhwRQJOfYwXGWKctNwEfoUgNDm8lCuZLxxUYfJOOnrwhEWkQAc2vR+FmDAPtWS5vJpnZhbNmAv1L1jNJhzY17eZ4yVsEOrANWbPT1X4RSOXz5A36F4G0ra/53LMAmGWumHBGccUM3TngeEKmSg2GUuDQdOHHmtASNyeq+BDfaiGC2WZzxiHf38YnB/XFd4kRDjd2G28+mOVHBVZaRYT1LcZOPBvHousMNk+cRnUQlfYKzwvZhhWhev6AMCS70V3OIbXWDfHbXUNVDRqHL/v2CNOl6+8LppR61N;RS7TZUZm2ZkoKebacfvkpw=="
 ---
 

@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "qK302m9kkJ5/Ucng5H7FUi8+yDRgqP3MIy8kxl5+iXEnbrI1L18aSryN/tAmnfM1fWKltVVy1M3hceRfiAyvuZCKetzmirZl65jTJHqEY+zVbzpiGIeEjx9BqOOsKJArxrkkIZ0JSYc8BsSSpJat4aRetZrMGwdfqLhCfGasI9K85fRpYs1FTDiXsJhM2NtSVRgBx10A4E9mIqh/XLo4NJ82A7H5SsvKesm76K8SM3CSnRLfAF4Gavdnp2bdiE1EdQh+25HgkZQ3cN8U4JPH479tnqNs4T5jgUkoExhyJtCZEi9Ygmf+uX+RdFf9m4sMfONiSnRjS2DdZZ+MQiwqNax3WrW2dCT9KZ5eMhFGJicpGWpzsQEOc2dyoEgEqImTOYrn/x55ST1EyPuqKh4cPDG4000WwMpKEWcSlF9TW/T/xUDVlOw+vdSwFaP9uT+4Wb2eCTIBuudPHcTIDBy9yzpc1Oo73fEobljWoSUAWEY=;HBr7HmugLK5ScnpoZ1IwdQ=="
+images:
+  - url: "https://static.theceomagazine.net/wp-content/uploads/2020/04/02111121/Fashion-Revolution-1100x733.jpg"
+    width: 1100
+    height: 733
+    title: "AI is revolutionising the US$2.4 trillion industry with “smart” fashion"
+
+secured: "vNZXZLceMpNHy94+KB85KHXqltG+EZeRzhpBSbdmvgT5a3KtU5X5ifZP/57xSK6FSa65ibzmwrgrSqlX2guxV6+CcqwDQpXarEbioWGUf06C78ZRU49q2JcqyzWkTMzlUN3X/XNa70hvlNJ9ZCLUd0B40YwpVpKT1Qyk3VXOGPQeidTvSa4UayaPFOGKB8eTRZ4thvVl+daRVQyR4v0ZhIQb7aEm8Wi5YjlQddrInOJ9tfKOi97saGdj4hisv6smURET6bg40QH+sokgr9xlb6YQsqQRtUMPlxFVXUovZq5h8J5/Wtwvh73bzAt0njfo;eAwxabz1Nk9gr5nnALarww=="
 ---
 

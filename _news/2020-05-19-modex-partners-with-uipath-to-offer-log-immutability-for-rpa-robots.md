@@ -17,12 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    title: "Modex Partners With UiPath to Offer Log Immutability for RPA Robots"
-
 secured: "iO/Mxjrxt+GVZ7Vi+pH81SuXQtdax3cazAhm04RHucZynUgubyE228iNzw5F1jy6MZW1pz7aqLmqv9WKTbibp3WnoFuUxqzszzu0DbdSokbVAP4FDLFvl5uzK7IkS/6TumsSGh9VlFMPH+GdmOVbG6R2JAhIsYhHAf9UYpNgVJvgdD7+h+IWoVGCB1eT6u7LgXbVASTtc2RDYbaXW0K7W8yM2hwZ8cE7C9XrU8FCVeMjGrT0bN+HvO6WaFVNFGsB+8Y+8AxDOM5+v6r+AY0S+OaFnGYpaq1rTGIZKi1SFa6NPtWfqtp9Cs2M3cqNsH7M;85VTlLp3llWnpQlY1TMzhw=="
 ---
 

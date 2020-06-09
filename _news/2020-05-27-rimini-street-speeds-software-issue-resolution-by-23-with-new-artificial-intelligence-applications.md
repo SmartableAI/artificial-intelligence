@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "c7Lr48XX1C1NVWp4edW12/kNrBSVsVy/7QOCpH1v+DDY2MjbdbdVJjnX7F8ZApyTjkYdHPTr2kvASrv2gWNhA4wKlZ+oOKTJVvkup8Q89dhPipxXw6lsHuMPjgvUHTuFySTnLfCvkBOZ1gJJxhta6FBTbVk6mvYmw+XhF5LufE0ZHbYmQ3hKd5kLtlOtSo1QxgUP8a7xAXuu6L2F9xV9J3cHTGhZRBNQtHceA2zzIFIc5S319S69uB3SsGQ+RasuVGmjBWXLyOVij91DkqT44CLz263jDMM9PS3MTnHeh+SRNgvth+JRmf/L1qhWlcmV1Q8BOVjNp6+KeSr8lqkFayYzDilZep/yVHiqql87zFeSg8Ldkbp9HMXIDq2i/8tDgD9oD66hGvsYdldjpt7PqmIGQUTOXqAEhw4OyY75bmVeB6iK97lYqh333a5bkOyHWMZBVC/qkH9eOpYay2nckxN9IMuYI/cjcF2MQQZJsIo=;LAZDc05sLDTY7ldqZ8urxQ=="
+images:
+  - url: "https://mms.businesswire.com/media/20200527005073/en/793950/23/Ai-PR_bizwireBanner.jpg"
+    width: 1200
+    height: 627
+    title: "Rimini Street Speeds Software Issue Resolution by 23% with New Artificial Intelligence Applications"
+
+secured: "v1iFxgZ4PO6EuRrrUki9IirfuU23ryWkfQurqUMTWlSvx8BozzASZSG5gI42LmzUXvD2ytsnpI8GzFuAnl7HReUpYxrvpYj1o4r/vcFCpYc67qkIQqZyJ1g/7ViuUuaZH3OxyfehQZBKrzLU0x/ZGBzMnFeni50pjbshRvsimbalp7ENmYLibvefXViVzj7SgPoSO0s+uY4x90/7u5Kfk1sra1/hpr2hBEHgN3SBgabXsMU0MJ+EA8Qs44Sgrb4yQv9qgO2kIDLzmkrheqzvEq+dW2wml8QUr5XZlf209QzsP4RqID3/gbOJc/2ADydK;TscHlR8gZdKz0yPXkjFUQw=="
 ---
 

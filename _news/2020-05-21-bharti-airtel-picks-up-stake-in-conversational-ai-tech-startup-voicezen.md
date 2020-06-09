@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://assets.vccircle.com/uploads/2017/03/airtel_re_810.jpg"
+    width: 810
+    height: 506
+    title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
+
 related:
   - title: "Airtel acquires 10% stake in AI startup Voicezen"
     excerpt: "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday."
@@ -114,6 +120,6 @@ related:
       domain: webindia123.com
     quality: 14
 
-secured: "FlLJ0EPjp8ZyVNraSRdXNWDcFhrgCqKuKxi7/j700A+ohfRdoHMsNM8MzRxQ11ioCUOSX5ZKoZ9wYY+EQzMKxVE49/jztg0XA0GCSyTBu6PUkYLvmjSiPFdDJs7UYPPEj1YUM+BRg6bplkNJjP+AVbJhfIVCKJzrOFMUsNxl8oryjL7qhJGGNB2IrvQ9GaPhn0jGlfaQaJra+vXGLtI/HKFZgwCBMpBMb48hL3OquyJx4MwmKmD7T3k1yjy+KPUHSTF7IDDiUOFAgblRYEzs0kimZIMet0sCUYizqdmupA2DnigA3Xatr7pyv7zRlU9+33KCTX2T5Xg7CuId4xRW4TvlD6o7qjHSmhuhWErYnwjVQj6GrVF+iyUAf8bb+0UmmJ4yD1foq38DWt0Ev10yv44BpBbMKxV09fudxCBPuxZ1uwwKGTJlqrjj7Hmm7nGj7aQM8ysHdPiJwQjWU/L36fA/Cl5cWxuZcAaLz+hZoyo=;RmQPLkKv+oSEsYMkz7Pivw=="
+secured: "krPSTPWwyiPiE1/hsmS8/ciQG6TsWDjM6aimvZn6n2mhBeWiKuQ2mk3R4RyHOadDYj0NtTTGXB5uWYJREzwa7yjJYRwCTmsAP0+jxmvDhjycLudFBxE4JLhZ6nJBYyrGZXgQrLIXQCFjNkorcmio6/GCoxSb84NaqAT3Yu1U1sEmFN/IyjHdalP03LcSur0mVCAaJ8cFL4o9H+Ofexy2FSkpbCUvip+bUJaRXg8l5zF3IBxoMbfonvFVUv+6L7rXYBvgCMMuODR1zLTDzijXjXrE4uXNdcQETPuuzcwbwq6bQz3/Odg9nxtanh0EDCSD;jKouYQskHTVYjYrMiwZ0sA=="
 ---
 

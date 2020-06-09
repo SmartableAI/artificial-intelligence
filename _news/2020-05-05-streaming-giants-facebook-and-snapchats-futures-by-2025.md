@@ -17,6 +17,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "1P+vnvLBy/OYmtYrZC0BA0duABB8thCpRtEGho9ktJC4TyzehKJKWSYoQte+3J/dU77IJlW6lgLOM+wGcWLn94OwUvbqVQfFTupIDZuM7anvxnKTYvTA1fE5E4gjuA4gNJHmWiUooB2uCDeqa/UNyVWDGg10hEdKRjRPKzI/AKVdF/c4nZJttJmNckB0mUKZD2KQ5qEQVTEpKQDG8srQi2k1agMK78MqXhGmakHLrj/2sO8eEhH47T11l8bh32nXVebFbJO8ndEabwxBYULlHp3x8MbDJfOMGLhugmBddFxxk2x8KGsb85yZoFqZE8jJ9Rm0j9ffJLa12T5kKvyXwIcKBmmAmyYqpAG8X7zdtqs2ALvyd/WZHPE7O3ZwFGUc+QcazgntqM5kte+lAhH5tBQo4jnimEu9/4nrmKs+IziLi0X5TlMYtBXJoKITcI2vOWVzvtto+GY84xYjFMKiG4c7z+3GCtSo+BXIUmZwCto=;9qRc2Q1ZqYkLqo8jn7AL6g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/breezejmu.org/content/tncms/assets/v3/editorial/6/00/600166a6-8aed-11ea-bef4-07668f04c0c4/5eb5770b7415a.image.jpg?resize=869%2C630"
+    width: 869
+    height: 630
+    title: "Streaming giants? Facebook and Snapchat’s futures by 2025"
+
+secured: "93jJpr/xkZmhg+gTfay1MsgjPlw30FPV5TK+V07JZOWN2WomlwoVWvrp/Ez0Y9HiA0kUXxOP71WDOmga1IaGJvyEQvHquZUmjwpcNXdcHz99EpPQD6g/apGrgT1Wz7fMOmJ3WxWgbFd8WBNM76IE+gyyfyt8K51Uh4SqP5WD+nRnqU01QyNe1TLA8MgA2rRVXc1Ox2SgbjOKxEkcVBsFGc4I0+pURynkkk4EEvS5nWxcEPnJaK7x4zATnqiPZSQY5acmj4Dog9oj7oEQWn+VqwhcjoottB1Y48YaZwI33P2V3HbohsdvMxMnToEUFTrT;OvUWxb9bKO7P0SMKztmDiw=="
 ---
 

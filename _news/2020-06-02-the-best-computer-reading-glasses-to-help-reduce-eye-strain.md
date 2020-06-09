@@ -23,6 +23,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "PtSccVIYnpsB+VM/IitqpibW4Cnq/fIg37iIQtwgw4/V5bSsj0mWgFqzObzSfl0Z/rL9+uDaRGHzx5H5SdnJrmJ9yRLjf5091NfEgXPcGP86xybRDSsDP4EjTE3Sy4fTAGYYGuHo/HuxLLAhgLxF5dMU4d1V0Av1C0O814GNL4Aas4qy6+2CNJHLY4QPqItO6sqk6/BqROv7FGobK2UiO5R0Lxv59Sb+fa1VntKtnlTd3iRzSdJ5KZ+Gr9lZ3qmPGzxvkrzLdecjnda18OyIZCPdP5FTHnPOItnwhbnFk+CjBxhqYcT0Y9kuRNQQGN3Unl2gCFxdNiYDcrL2Con9937ljM+WYY9buBMaqXsxc08Xl2FTotaBN2mnu957M8fgIu9PLMEg86DG7qvO96xqqUtwr5pVVAjnxOJfZpI16+CEYq4sdE4QOZ4xkkNfpDCIhGr2swLqSSbhKc8Jm/7LsM6dimLbvGuKSB2hfP//xpg=;VEZQMj2oxMEkHCsamkPnpw=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    title: "The best computer reading glasses to help reduce eye strain"
+
+secured: "3sWr4glk22JP079t5i10F8zcfOMxB6gfHbUZBTQUBrN+6yETJJxjaDNYL00BOpInTQ5pP7/6hURRxZZuA+LZmIdNe2Z+u6XaOwh21NriwzYPPsvob2NnkTYjSyo/xqtEXp89b5ROzD5KACImLyjSioEoRYHkQHC/eiFp+E4+c7P7/3iZJIot2PXarRCQRZuGGO5fe9JE80cl6VC3YmfoHEBzuEZb2W+8YZP/zUEAjkiFnuYbYtZt+DZ62STTydVAyhTsQR8W2XyY+t+7LMJv9JLhNx2UW6K6BVm7vFip+a/zsMB8hGmzwaVVVonvXTaM;TF8wDQOOtOJnoIVb5WbohA=="
 ---
 

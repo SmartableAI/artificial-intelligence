@@ -17,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "bQinfdwJL7ualR3RU4a372q7MjuqorEZM6bwb7OmcMbel0U1mJtfe4hAjJR4QHnoF954myVxXU21gaV1Ax1Bm3vOhqwq798WJyoHM9guD9hSl4D3eJrj7LJMTNtU/2lX7IL8VGm45pxk7SSy24saj22SpZfM1eE8lx8v34JJHQ3IjZtF0X+0cAIoxXJODKOwfn8rEaVwHvEjOEM3mKWhk1eexoqDqtIYld56KZleLYL4Ibz1Kf7T85EYTOCvqscOuHORWs4qnu1HuavL3HZQt9bSgMva5D8wn7IftheIcxRyiWQo2+Sx/WYVllOPMRBM37zdxEwsz7FD0oY4uH49KADoUa+P7TysouKkofPzNVVhXxyY7cP+rL3QWEWzpQyBrSgDowB92IIBvxcRYQSCPX1UhVGlLInh2BjcwlrGX3RGixKjcM0t7UUD7iCuwGwdjg4hCevYCTpHCmTVV1D/E4HCwdIDCeMI6gjasnem1rI=;m7w940BWBOFC/BZLhL3PZQ=="
+images:
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/05/microsoft-1589960639.jpg"
+    width: 715
+    height: 402
+    title: "Microsoft, Sony come together to make smart camera solutions"
+
+secured: "Up50zmwUic+YxZo7Dy5Utg2OGx4aoPUQMEwuAyrazbVrCd8m6nXNNwdmBsCl7DvrXyjwvH1emLU6dGLJA3wRG7jbCual03c/cBF2qUk+orNsnJ2bN1vj0e3tjdvoiFK28eHos5+R8zknZR1smlBdyBJx6IDt3qNOcyYOAyRk1BiunuhieR5d+fcto7g9p+IMJINzGJb4SCUHgm2lm8ZP9Zn4RyKAfy0AZp4jyA5LjX/ttbl0x4tnJjtlAsRhZqECWT1abdm7nUyklOR/HM//Y8Pg3jcE+TZLzFodhT51KCW2cuZmC+YgGdz5EbLFh6+Q;Xp6q0WrDylCLDD6bnTaRlA=="
 ---
 

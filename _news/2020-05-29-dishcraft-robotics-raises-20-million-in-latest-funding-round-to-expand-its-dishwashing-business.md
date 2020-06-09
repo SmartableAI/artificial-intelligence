@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "49ptdn32ybhF5X/AgpqR7QUxdCG/YZrY3jnIjC6nnGzohxfNIxcuVcdkVD3L7tVOk2pfnscC/AM413J/fufzfYmkL9eQEDMRxrhN/VOk9An99yQGhyM977/dKso2g4R90inbw2UUo7soa7vvkcIdfodylI8pEEVN2IEiLsyg3N15mIkvcGEcXuDqvM+V4RmHdIftDP6xUd7Mn1aCFU17HCDT4siQNJbMo84Vuoa2gbMAdx6RLABJDu3YkDu9xPqyjTUJ2b8N3tKPUiAFJjZiI1h5irLJCqFouXC+r24r/bZjygAWfI8G0eeYFiaFl9QEHbB3utJmDpDp77l1BVViK9GPjXCxJmzkvlAeBcTgHVCccjRlN297gEdzLLPmbkvdCr9vqm2fHXEGb2SSvunnOwCwepNBKJrW+VEeU+1Rd86wyp2W4or2GEkzSVSKvau5vJTRYlW7mPzvf/WybUyzD0yEOrhxVtBY3RpfZ0tUeBU=;ihl0MnQemjQwaWgxhEaOBw=="
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/dishcraft-robotics-2-copy.jpg"
+    width: 750
+    height: 450
+    title: "Dishcraft Robotics raises $20 million in latest funding round to expand its dishwashing business"
+
+secured: "Abd494Mwru6B8H0Peyo1sJF4eRr//ZfWk7zmt+jwPhhWWSXlSod0jY2NnP7y3XiXMnIc2MDc2GezpJdYUwPZqjeIww9AaYQwZh+z17SwHoSs0uvecMWILw3rgAzEUzl3UO5rFQpI5TNXKcFrV09IPMWWxuUKvnMio8Ada8QM5FCD2DgYqxaQllqnW4xYELgeKhwv/gYahrhFqnZmogMwK3+tJGwM3Qcl7diGbqeeIXac/z8cHylfMP3FrTdF/07rk7Aouzi/Y4y0V3vhlytCpsJ+aKcF2G4ImrUJAeRKaXEIk5qBI7fC3yMXtKCcKOO5;TybSgAJqGwsjZLmttRryLA=="
 ---
 

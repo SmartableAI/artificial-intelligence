@@ -28,7 +28,11 @@ images:
     width: 580
     height: 378
     title: "Why an Ugly 2020 Won't Change the Long-Term Buy Thesis for Arista Networks Stock"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572732%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Why an Ugly 2020 Won't Change the Long-Term Buy Thesis for Arista Networks Stock"
 
-secured: "T/gJ1cs4MedL2frYUYdBq+ffv1dKg7qAZ0M2s3/AbfKtOpWFXVFpFWGVv+vB5HWvq1PC+mh17okAW20jeh6RUjfr0iesq4u7pXICZbTK9aBtBVT0nQxEIgIyWJ8W6+4bdeACa9MytBRfX0zME8k0HJ1KV/rcLCPhBTShlNGiqbnTMOHXl5/0jx2BuukOGBTt4kIgrvJAl/TacoPJYoA+9mqOu3MgMUlm78KlxhcWQFP/WWK3CroeKtgAkK2TavwjkhL2I3W8tShLQlOEd4QSEm3xuuf3N3nwNNC5L+Qq8yhYf4cM0KWYOKy7R6GA3ypqAUo0ypqLcUcUYkgWNqGJKUF0HBaml0hCS/1u4SPXLhcQQwHbd8IQ9EnwPFg73jz2cLQaUyXqYoOvBYjgcyhZgvc5Qhc3i5yY9+E5zMx+yRB7m41+5pFRrE5/NdLwPtW6nxzUYqWuG8bIwhGKa969w4f4SPilnsjzfJMYTIOg7aM=;0vSA25bV6Vq1Sagms3V51g=="
+secured: "xDbcZoeGpq8eiMpqEefLjeGtYERpuF1t50EgFaaWAAavwogqeQ8kq6lLMxZH+i9rWfvBLfejuohH80Rpwuf4+Rp9/44ORAnZVplv8sUcGaLg7W9iWQO/3sZ4tvSXk9GeKiVGC031myPzWozMWYIIhjCjBFjCVtJ1sIRMZCBQRnWXrnWjSGWoyytRiQZo/dMiI8u4NWZBJlPVMh98PW/Vzi6NaLgGC/keCTPiey3U2ezGKZbtdpcgRuok72kiISiErRmmqtKJkzHViekfT5Txu7m7yWDolqQ9uL6Cd0VbscqfpdL4rqWHtTkhq4hVeL5D;+Sm2KK76024jQV9Roe78uA=="
 ---
 

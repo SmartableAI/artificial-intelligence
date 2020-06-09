@@ -23,6 +23,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/france-us-economy-retail-internet-company-amazon-logo-1200x630-c-ar1.91.jpg"
+    width: 1024
+    height: 536
+    title: "Amazon moving in on a Silicon Valley self-driving startup, report says"
+
 related:
   - title: "Amazon might buy self-driving startup Zoox, report says"
     excerpt: "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash."
@@ -40,6 +46,6 @@ related:
         width: 1200
         height: 630
 
-secured: "QyxAYpabyyG0YwbDwTMNeP1h5fceYdRPJV+ejLzsiA5DwBpb9NagP+okDvHVJJ5/VSBW2S71JhRL+qSo3jcuQvJfrAf3JQ+W1r3PwVxr8NA5WARj9eAro6Zhg7TSDJexosloq89nLzOfZsobIsNwicFdcLby7J4SPyawZyBakGZQuhajaTKqenbi66GRd/cSsc3HRKtgeg2VdReV97oGvd5+VsoLDihJ1/T5S/DQtJbQ7QU/iCijON72dOo77bTIqBKlu64qJxCf1PhRxMMFm2Tap79VC/8B+1uZvVq2CqFrejFoZbiEYLnoFIwfUIfhJKJYgFJ4CrCqET01A8gQISVpZJp9N1JmJXIXdfnb+AIYQEbOI32LPKtEolGGaSA5W2SWii60lwVy4SMAkI8IJTeeId3DgjX15JbMjOoAwMzG6gTzzhMWobG96K1sCcbBAPphJLXgoTXQvLLkKnnlCluMrCQiskgPxvlEL33HFAc=;4du33MFXxDta0e/kIIK3Pw=="
+secured: "dZQyzO/OBZgioBcHRsP/0R6m6t/ZCrORBhE8OmaQlKrx5OIJN8xf0bv9gFuFg62QeYpbm0JvoIORo4gfaSYnkYyXo31gU2yUBAMVFFbB/l/SxfiXzUj2T8SqgyE2mSIK0xmwWOwap9Dgv6PqTkPd8GdtEJUg8MUleU4RlbwR6Si4AD+kreTCJWKA1KPrFMKCQhtXY4On1YyNG9bdDV59rVNf9ccJkYq6oeiUOivtDZlCSDhOcR+GXYmd7Id9++/dGR1C6eRgYk7e4dSWXJ0y6vMpokvaGs5vlX4rBTWOJOaUDoIne0833efLfpqDAVEH;rH1L4QYtS3r7FQtR0t7Xfw=="
 ---
 

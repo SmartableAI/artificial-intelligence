@@ -19,6 +19,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "PIPGg/czWZa3YCGCkCG233VCVN5w5GHkRllYfQY0MqrJaknoZdbKzFJS7OtR+lpp57fZW/4ayWTJ79rnS3iq93f85jJnsBaheKKhrAXIPI5QjOO6uwvppOs303fvcTdlz37+7HsCtnW6c/Y6gm9LuxsnIrAYScgrjqT2kN9zBADtYJcTfbNz2Kdqy2NDAKZykWGmD/cr+l/Bib85Jsdyrj1qLJoTLrgvf0fDgI7BAO33dAPzWgZv3iF9YABjD55kUA+QtDg98p91NFCq6fZmVy24Ku12yVjkbAfGwpYjUSBzwq7I01SL2NvaH4tkp3YA58PpGn1ViSXUOkqRQ6t2jqyW3RjoukSJkLdtnbTJustwBDabSmRiX4e8TQX733X7B8Hcpmbsl3nbrW1xyq0WEAe9tB25FO2uw46+GX1HIVTZYSYmGEqyijqDlgyWyBYmW2YzBzQyNli13a+Jh+6xCl7HBliyuXWzFkN8vsdAknQ=;uJ+SKVtZH8M+/4iYlgV1jA=="
+images:
+  - url: "https://cdni.rt.com/files/2020.05/xxl/5ec2b57485f540693b75ff5b.JPG"
+    width: 1240
+    height: 697
+    title: "Time to hang up the phone? The impact of Covid-19 on the world’s call-center industry"
+
+secured: "WFzPckpt3EzuQ/LvH0EZWTsnpA8r+YGXMSOcrtkLb55Qv+Dlqirw5hWbnTDfJw8J3NKYf3mwPZudA8v9fqy1GS3bWX/FfdZZPs6lKbb+8I+aUFtrNprnZVDIUJaj1HoX7vYzaNRsqYgfA71t1/sYsJA/cdms/983FxKl2q3jEKTRmF2U4fyolHHcmSuI77VFZZ2jaLZ9tTO9HlSRw3vpo1oou/mcN2SBdD62AuZNJ0nOml6oS2/zJKl7FM15Wmx3i7XwAY1dr617anDaBCH3yld07Mz+RRi7MJ4e8EZJmp5tbU9RsFnHo6HivqP1g8Pw;ArvaIPpaQcSzY5X5Ef9nIw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-wo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
 
 related:
+  - title: "IBM will no longer develop or research facial recognition tech"
+    excerpt: "In a letter to Congress, IBM CEO Arvind Krishna called for new reforms to combat racial injustice and said IBM is exiting the facial recognition business."
+    publishedDateTime: 2020-06-09T03:51:00Z
+    webUrl: "https://www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "IBM to stop selling facial recognition technology"
     excerpt: "IBM Corp.’s Chief Executive Officer Arvind Krishna says he is withdrawing his company from the general purpose facial recognition market over concerns that the technology is being used to promote discrimination and racial injustice."
     publishedDateTime: 2020-06-09T00:52:00Z

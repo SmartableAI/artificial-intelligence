@@ -19,12 +19,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.nation.co.ke/image/view/-/5545208/highRes/2611316/-/nsek9xz/-/New+Document.jpg"
-    width: 600
-    height: 400
-    title: "Getting by in the pandemic with help from (virtual) friends"
-
 related:
   - title: "Getting by in the pandemic with help from (virtual) friends"
     excerpt: "\"It's so good to hear your voice.\" \"I was worried about you.\" \"What would you like to do today?\" What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence."

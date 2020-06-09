@@ -19,6 +19,12 @@ topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://postmedialfpress.files.wordpress.com/2020/03/lfp20200302mh0122_77416042-e1583332454891.jpg"
+    width: 662
+    height: 497
+    title: "London police complete review into use of now-banned facial-recognition software"
+
 related:
   - title: "Details emerge about use of facial recognition software by London police"
     excerpt: "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation."

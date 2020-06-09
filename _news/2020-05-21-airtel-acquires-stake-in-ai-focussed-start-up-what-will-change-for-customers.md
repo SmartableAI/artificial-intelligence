@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
 
-secured: "GaDcjZdCnQevKFXJXg0ngfwFqsaipzhCSJS01uZ3u6s5l3C6ki36wq8/1f1mf8bjdaONyfVfxD9aQSWR9rKxusc5ezzR5+IeATnAlEkUTwAY6tSq0W3zym9qBgOJBj+bsfIROpL5irGdIsG1xh4gd/bG99Qdr7O5TOeeVYbLfVJ5HsVQUJXxeEmKutLZOAFXIa/7ojRQHUwwIb/gQpumc6+Ec89ZENDH14h9fBms8cbFBJeXkfMcGhM7beQqe8KVn6iTxNMulLw2mA7HTXgBTmBD09rhorahPPXZnpRBExQGg59SOLmsUPh9ZQMeE17uUeZd6zOLbGR0n5RroGMmexIjQFTgDjKhnyGSLtJNmW0Y3KpfREd6M1bLB5IeM/FbbH/4JoDU/vPr63pANcAEbCXWesdPpv7fiqJB2rO5c1Y4kWCJtfM/bgmeIH3bflqDD5/DG9o/6m9aABhGV6gzEnMDCZxA1kZMPN+RbsPqHH4=;p91u5X+Qbvay5wRmwKgv+Q=="
+images:
+  - url: "https://images.financialexpress.com/2020/03/BHARTI-AIRTEL.jpg"
+    width: 660
+    height: 440
+    title: "Airtel acquires stake in AI-focussed start-up, what will change for customers"
+
+secured: "HU7t2IU/QD3bMPXVMDCBk8NkxjonB939QUD12ohlLSD0TRAT8LyZ59usqlBj8EqR3k9SCvxoQZvvhiy/jhUkyoxSPRa0NTUeNaChYPeezDnYLvRWWMBK7ullD1A54LmkhuCYg3EacAs97pzeDTV0dcdpVX17n3Rq4Fa+raPiU1hV43hsYlpL88efgu+VwlvmCySK5tZOA2O07GOF8yZ/9FkI0Aj9YAplm1FN5ZphoAAuYV8O2WH21AO+s7IkWXIXIo5N7C9KaszlOy3OgZlFpIeFk6R/joJV9L8HKj56qnFXm8pLwSgKWM6uCVrIgTrT;2dIddWCvPlzmIZMOe+pKQg=="
 ---
 

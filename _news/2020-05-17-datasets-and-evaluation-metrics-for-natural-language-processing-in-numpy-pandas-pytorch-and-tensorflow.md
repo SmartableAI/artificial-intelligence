@@ -19,6 +19,12 @@ topics:
   - TensorFlow
   - Google AI
 
-secured: "XwRBJQsy36BpzG7coJb93EMXYRSTThdGZgczkp1FGVtO2PTv3O4E42oHGRd4Gg718EKFiqr1svicch+zCCjQKBcNpos8cVI3wO4pGLIBoG7DONUx+V4xVMLPbmPsYTPbgwD4pAZQL+mYjoEvkUfcyQC9qBurG4RmCPWP+65gSZpSQL6sDjdKIqZiNjJi7FvmaayhB/mr+IWTaMJeQVvESqXR7Tg25FU1Rq5Sqre5J78OTD3nZC3iKdTWGv4l0rCiR3QsH3srpmuTrYoMfDb8rI0txc3eIh1l+/KlkN5FR3xF3dcXay94a1mHXa6JFgyiYn1kY79kstiSQBF85ih9fuszZXxsBxdvY2EOT67+ewDYMDLucGsk8VRKPjnWf5DlICvjRimFlkkP0/RJ+h/fIuR2c5zuXFmw8uU9Eu3r+1CFawdYs3IwWhtuMwgzHFkYOxbh0Hif75KSaxnL6VDyo/OVpV2PmpipFPbz9SrcRQQ=;4wq9ydwzmCECOBPodwEh5Q=="
+images:
+  - url: "https://repository-images.githubusercontent.com/250213286/e17ffb00-a502-11ea-9741-6f245055725e"
+    width: 2270
+    height: 1210
+    title: "Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow"
+
+secured: "ax9gjPIT4bOLmAnrm7HWc4OfpESfQsHRD6+xjnLj1RLXP5okJs4mmrUdnvZzLfWi1Xta2TBtCIapg8WJQe6MJQbWO7WRLOhzMzI5MaEpEvp/1psqHkCBcrTufrANoMqM1AZidXw6Do3WS91jdPV2kLNWGSIdwmB89klUsP214+bwIe6nC48vsu9nWgQAHrdCsiu01T2/zHuO1e3fQyDPnh1N/BqjXGJDCoumlNlx67TVX5LGrjA0EnD1MmDH56ifNi69qBZvK5XjsoaQDG+/Wa7kQ8eQnZpl5ry63taYNkfsg0JRrOOdEchtNUwPb7as;YcsSHGvcxiALNdQ5+a4E4w=="
 ---
 

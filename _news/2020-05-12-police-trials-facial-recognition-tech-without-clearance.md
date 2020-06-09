@@ -20,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance/_jcr_content/par/image.dynimg.768.q75.jpg/v1589311495907/new-zealand-police-generic-badge-CREDIT-NEWSHUB-1120.jpg"
+  - url: "https://www.newshub.co.nz/home/politics/2020/03/new-police-commissioner-andrew-coster-chosen-over-veteran-frontrunner-who-was-under-investigation/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1583732363624/Andrew-Coster-Mike-Clement-LinkedIn-Getty-1120.jpg"
     width: 768
     height: 438
     title: "Police trials facial recognition tech without clearance"

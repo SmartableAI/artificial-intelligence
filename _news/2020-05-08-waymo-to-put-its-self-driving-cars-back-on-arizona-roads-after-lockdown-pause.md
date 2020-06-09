@@ -23,6 +23,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "6xDoYNUIKK8PRqPMcR9VPDR7IFwwCYcQDZKLZdWAFRVZ9YhoX9GmY9k/9bqjjwv6soLRkpZ3kY2E/Wg/2nkftDiWt/UQa96KP+/vhrYnHe53X4Z9I5oTy6NBdtaZDoRmvwm3/qoYhmPaHR/Ygtfu/pI/BMw2MYoetdLzFM1/9I/FkICQHFk0HkTy4r/8geVhQ+LD5BJv9zZESs9n3Ivz9DHnsu7s4I5ugIquIIbnVZU88kCqZK6pVlqL1vTPik7jvPA8cPPkd0TFaCVE8hWxzQqz0b1I4KnkLcLI6V5wQ/pAoKDmXMHl9kEvsfkTGQSW76qF56JrYyPFY6T2gQtz6K5owrGUHZKf9ihEF9Jy0lRdwANiLdy/7Xv2KD2Z7+AD4ZDrXBk+umL7/n3O3yniKhv/mt68y2iayiH5RK8tc2MsKKxK9lyct2PUq4wkWCgkN3Ed3Y+EYMBc2HuYPLEX4GlCNNeSB1b33bq1RPgPdwE=;Sm6ToX/zEYiExpzj+wan4g=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    title: "Waymo to put its self-driving cars back on Arizona roads after lockdown pause"
+
+secured: "JOFLh5yb6dFBZRioXHOiw/AGOWSBk8o5N002qe/KYJnzVF9SRRBcl1O3JqoOswnHmh2Nm47jfgT2lmRxp/ADesD16oUDmeIWzQ1pQZvA5jJggSSs7ADHVrZLDGyp+cWu1u513Vt18lywDiHS+/s1eAqXHuuCAJ/mqeph3NJGqM9LbEhpWp0f+YDH+i39Rf1mAaZtzVA42KjhlhJfUyEjhyfNLzxI8eZhwsf5uzKZWZ1sVd52cq3KO0Jqv0Vt5TnBnuICTk6K4kmUl2YnARpVf6rDQV3ZZ8NjmGtakBCdtmkSleDWDLdQQ39lDcHz0Igi;a5+ZcZTM/7XN4yu7c/8RhA=="
 ---
 

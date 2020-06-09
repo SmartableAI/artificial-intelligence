@@ -27,7 +27,11 @@ images:
     width: 1200
     height: 600
     title: "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    title: "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19"
 
-secured: "9qXwMYRDTjEi+hyjaBJMiaPuzW2sU+Ht9TKPiQEYM6wXdVcuGG3G0rquj6Nu4/g19ZEhQ6x5dvLIqiYcI7eeL9r/2Rx46uauDJJtd1c6CCqDvdj9USKNaaCk1qyLNYYniEigu3VkLgvipYN+XeXuckeZmF0f+u8BqxvPYWxWGi3mwLDGvif9ac211WHbvN9qEIueI8xDmNGi1dyeHVtEgQZLrq4HZthTazld9ZabX4rF5a2rSagq+bV/VbQ7pFFkwMLBiXD/QW1DFuINLBX0STaiTwveOWG8cmF8BSHDqW/H/vVJhD7vlXVtI8kfJ4wO9Eq7Aj22YtmT3SLvOmV9WMCFsCcyERR+clZhqOG4XVzaCp9hHxo/NWyrM1qhoRuqUWX3HcSQnyld7AK5ZDVKLxuWv4PqxR0U608NZ2r1C8SWWOvZBfPEDh9ewO/au/+x7qFqsg7yL7zubwFjC5WBmmGBDX/LnnArGmWD7xcIEyc=;KUg6LMbQgPONlsJ28mnqYA=="
+secured: "AznSrsoE4QHF2C5Rajua9U3SsEEJFKmDfTziecLE7IZ/EFf3bNG2J20oQlEzzFmIDO3rGQz1vVwNBgCQGlvDMJjGTDFGreFREEdp0iJaCwZ0NfZD6gSdzIZ4+HsqXkou1zY8sNVY0esYcUYzsTrJuJNxoO+QhQYbSmtoCSoFA0P7hozs0r4AtQC6wkFFVQVHMAWnLKHecNczAY9M1LwAZ8/jKUvEIiDMJueGFG6nCHph9+VuPgVB+YDk75/rNlzqecQBsRyQVsR7sf+FljZPhWEXRD078+0EPtQZ+ew3QsqZJi+1mE+HSnCgEoC2tT0p;oxcgPvGCF2C/oUVx2NLIZQ=="
 ---
 

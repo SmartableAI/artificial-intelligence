@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "IB3FmBdycR7rBVYCzmPqOzj3H180nz+Ra+3VScev5mSOD87mSorddeE6QdZeuyUh8bGkoAkZqEcwSgpC7QBIpo9MvSwQokj+Ox6r63TR5stu/7oXbmylvydXQFXcGTpUwKH+TcMGha1+7JlSQvp3w+7drkf8ErTMQhQiCips8SeY224MxOvPvGyWOuizGKCz6rCIErpR0JxOEScV7OTdBHYTKZYSJTWayEhlU2y5Kyhcbn1cDlPdTlBKXlcD9cKqNdNbyvEquFceekIEBWouYmEd4eO6xtwuQYgNacHHFaJRmhzDu+a67WzwDIaFB8POzCskKCmmDyQmtAWgHUNIXe7h6sJHIunzTLNlNProKXnwXp3NOK+SAy4XH7izhvLJ1yygsczGlcm+wuVir52TQuo/AsRE3uDfFEyS0Dc/qkCZ6kUZtfvpcEzxjgpa0Nrgpy+9Cno2IyNOkEIg0LsLcPD0EI82M01o7P4nzCYu5rE=;Jd96mYuR2EOi2zP4nrXLyQ=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/BYD-Han-EV-660.jpg"
+    width: 660
+    height: 371
+    title: "Chinese BYD Han electric car unveiled: Tesla Model S rival boasts 605km range and artificial intelligence"
+
+secured: "/FMOoBhUNdr7U4YMOQGKuWfgxKEyV+zFmMHt6HX85b8BFOsj/jUScN6N7eZdnXtT8+kRPDdu5x6x4dJMY46wOL2f46gRB3VpdygJRi1NXal4YjQ2rOQ7U7DfT18UtHYVe6yXAbuTFkaqrRKhQ7AzecuLRnXImvaQJoYBovs2ZMeJKL6s1pFeaxt81nA7v5hCvjL5f9DVr/A9u05zBxH8LIuXQJWNl08Fn29xqwyDUm0K9UHavwA7dSlY2j5HfFLzwbC05vUUzwACIdzdYPL8iZ5h9exorF1XOlWoQhs3xETkmzbYCVGaNFOSFNfYLqvU;a74S2UudWn+CmlMNrK02TQ=="
 ---
 

@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Achievers Recognized as a Leader in Everest Group’s PEAK Matrix for Rewards and Recognition Providers"
+
 related:
   - title: "Microsoft Azure Cognitive Services Receives Pronunciation Assessment"
     excerpt: "Microsoft also announced Speaker Recognition improvements for Azure Cognitive Services, as well as an update to Personalizer."

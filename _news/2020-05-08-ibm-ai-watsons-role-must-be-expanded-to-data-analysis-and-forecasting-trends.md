@@ -19,6 +19,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "LHfNstXOIhMlosS4M1BuY4quBrSpMq9l0ccSf8UX+ECJFNjJTvL56f2ithWHYDYF08GnB6DvBCAAEltgXUQ5WOjEjFyqtFFovCznSS61b/ZnKSKdry1DueYXddCjCRNCYG4M/YKcb8MmNPoplc5Uw22xivZvrJ6+bW7YSXvpjKSGH5HOttS4KQzTQTPjtI/Gj0H3re0oO1R2hExbVaM81ZH+9Cu7X00BySLdheTyFDXQVucq7XXAyUoYt2ifGAgPSJ5CfFuOfNdl6dWqKXa6b6lA8nzbYP5z4FSYVBmCbJmK06zexkCNV3zwjGxZzmkuzUTJYfoL8fODj1Ta4R6xWGpgdIKNpk7sQw+SWMurL8DlEPBbrHoqsYHdI7raSvKXaxsAwGz8+KK647NZwRmBsesbfm2iByQewMMNBCWmsPhU3WL7ZTTejn3gcYvl5JRXxXcFiZjJnwN6g6eHW5H5Oy2V9/qY6pIiRHomYC1RNuI=;6iktTqntgSDF5rFUNSJ9Vw=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/1-199.jpg"
+    width: 660
+    height: 440
+    title: "IBM AI – Watson’s role must be expanded to data analysis and forecasting trends"
+
+secured: "re/eWBuZfBgoa2gjDNgKHbnSVH3krY6L6p/ZlwWupIA66AAi59485c8JlTM3JXhY2aHTOg6a8bTCyKdk9s/3nMt94pyAzAeyiJ6y/gxlzL5wLD31L2D8lZpeUHXJ1/ZGEjnnbRstUCVgeaXx2qQxtLoUE8IQT16gs1eMv2kbmXO7cJufUI4YX3q3+SuHGq5hhMGeq+jEaWuPECYvtvb/dlEirMa51bSwESeeJz8uM1PJZY+KEklj0uUq7suOhcH4MBTkDs2p+uCRe51eWVIf6ALS4LWoIgQVbIEYOAXBVv+t++g2Pj3eF20oeng/rI1G;EIH90C6DzMkAZ3bPXR5nkA=="
 ---
 

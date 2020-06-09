@@ -17,6 +17,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "sgMKsvzaZ52vkyu+X8WVKRTUQUSyX79898uoXAr/pQuf/xwwmcjKtWCJL4656WVnbaM263UJG7xcGuJ/RlDaetHYaa3/OFaDP/RE16dDPl/fFYzElezhk9LAce1xAhu1ublurmQU3Yc2FaCWm9j9Me2CA+D8sGupics6zQlkzP4gMcO6smME1Yw34FXd6Px6TSsXRm45B0tcTBKp0yiK+mS7XjYA7tcf7IGemzIFHvOa0InS7iKxu+khY4iR6gmMRqdR3d+dcys0UmvkPO5KIjR3Kl+sDxHA14YJlEMMiIGYbzQB5lEk0fgYiEqf+KetyTFttIEdfzYYZnCMa43iL/KDoCkOhVhHbkA8natot+crrGjqI48823kD1pibW5/Z5UZx9BjaGYM4HLQAUorLjpzEUaquZ+ShJXedS+wqMB/N4FcKD+JEGI1JN7wOU3zASEI75tG3xMqCuMER4oAown4j2eQ8GqcsDGjJSgISpbg=;JD1jhwukAXT39XdRHahK+g=="
+images:
+  - url: "https://www.thebusinessdesk.com/_files/images/may_20/Stuart-and-Steve-Monva-e1588591137458.png"
+    width: 1200
+    height: 800
+    title: "Fintech comparison firm exceeds £250k crowdfunding target"
+
+secured: "CNDjfmica37R1lmH5iZRHnOmT6mjKBE4naAKNdsWwYfnK3iXbOHTpVd7NHTFWbGSjluvt+57xEaMnkJkKgmH+lzRiEXFPgzynYUjFtRmdTSpodY+inOMKbyYRArTPOoVlTW/hGCDXLLpI8luKBJl8vxFaNxCU7xNONEj8hgGY3pO0h9Nkk3F4THeysGpmYkzgBhjxbwehxV50vVCJhlkRqUstIYNAPtlNMMebzurageGiHbVMJ5UX08C0JUYCEQnl+j7kfFZRXishSRRAbDD3II3kR32TPV9ZJfQ+kjlxabPBEk5Y/Pc0WlDsXD4uAos;XWXLmAsL++MunYA0raNWQA=="
 ---
 

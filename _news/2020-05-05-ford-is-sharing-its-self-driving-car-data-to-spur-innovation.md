@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "jicKW17kYsQ12zsikhJhUqq+JDOOg2yi10gMa8DuT8u5Jp0/OhdctYUQVTs4XnX7zVKzgNoWWBO68DKcwiKt1U6U+m272GKxWVGW1LBOZ5PyQUL9Lq3biEMLZtKdlUn+UY4xcVvHw33RWwfN6Q5XWdv4QVTVwIhXW49/I0ob37+z4eIwufko7um3C+VDUgBnsnShv7M7DFoREelRYebfptr6LjGuNCOZDkqYlGj1NaE2xg9YGpU/0IRvZhZM0+IrMbBNcZ0r3V5EPqAwGhQNau/hVTuNbgR7D0tYqBxEQGeNvDRXVVWZX6G+XsCp72jK+ryHt6kw0Y2XQaYTFmsXlKw2BYUKuZzUlRan/ozhi/PgeOUfgAjGUVzyaev2AdsPjYbRdxRNEbCt9Q2Je45GUpozRPa1USNOYJSKubrZvOQE4UzEqtruHiF5VsWXaL7uqJi7ItnnQM6yhT48Q1ctS2PW3Gdgk9FJ35kvBBrrG6Q=;CUtWr7MFw0ZhSskWw/2HCw=="
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2020/05/ford-driving-data-3-1024x555.jpg"
+    width: 1024
+    height: 555
+    title: "Ford Is Sharing Its Self-Driving Car Data To Spur Innovation"
+
+secured: "x0mumQzNOwQaa2wqIa315pPRw9nGNKbfZo/7USKQ7d/au+GXgFOICQ3t20fdNbh16559uHnEeDNsXZMTlaFzfgSFylk8Y0FTsrRAE6p+uovj6Nw3KuWPvyWbrDKezvOjYkgV/tSldsBl675NsRFAryIge3VYhSO7g5Cc3Q13+ZiaOACR/39Xsd+tzEn1KsJMkzN1/4JxHgVmdtSPzcvD2xcaDQ15xojZMF+eG58WDzk5LIEEXIQZgsKwJtD8k1JyO0yUwG9FGqVCYgsy6zafSoQHC/IuMV2dw0RKy8J0Bd4hUlW/7qohliW7ztnTWIz5;PyLLJL+IVs873Mxxi+/XtQ=="
 ---
 

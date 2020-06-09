@@ -19,6 +19,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "SAxkYQeTiYW1Rr/hCVyW0AIR34dWXCam1Ch14gUNjmErTh5uv8qeFCKureTLReJEvSt8X87V7rgVhP5iX3CJug3+KjZ7t+QUi4jGsjI12prdIVYi0Rrtim+q/MwAG+nR4WRYNqZVtT6zzoiHuwsiNVrtxEgG4QT/douwETNqMauJgMlkB0rRalMKjv4/ypKZiKcmiGt5MVx3jzZo18h7nYqqZjEyagesZULTN6BYiwtEiZI/gb1fCXIVhFQOru2kTvky/noS8xb/NY23w79qXoQKJZoc6UP54ACRtsJe3Ujebfc7jx+x5fxsYn+tOj49TlU7GHcQOdKy9Czs0k4y1OLHTjrI1ieaM4pLXJo/fI+hGItbxd4Yw4RovQKI6VOomAdho+z3O7493DRvt175galxxt64H5FL5oBrmsYtjmjkiPf/l09Gaq+xYqgPlLALrNtcJWYKtuhicNvoIMZ+RB5wCiDNAxJ8ZCcoNLFgliU=;lE0YX1w1tu/cl5z59wYlEA=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/IBM.jpg"
+    width: 660
+    height: 440
+    title: "Tech boost for frontline workers: How IBM is helping ICMR to manage process of capturing COVID-19 data"
+
+secured: "ySwxqQ4hm9BFjqlklwEhDbMQ8z83o+p89oTBqOj3yZEJNc1gpRI4i5exIvW0xbWA90ineP7uxFWmSq5IDlumwIn4K8bl30eL3tv5VHeBUM3/0F6Ik9MH346NMGr45ejMExm8qPT25pcrZyFn/h31B9c5pe8xSgThbMVY0yHsHxHAkNxM1fhXXWL78IRv+aD9Jmcyx2QEUjXXydU2CUqf27KC5txa9SURSrMp41Kpf1gbSjuTez3LUQa/hPLE6hKq8kutzT4a9359hwOXJ/p3c0XdDS25xhjcg9qHRrlHjI237XWYVhjabg0gDLrrEBtF;hvzR1D1oUGxDGPboz12vHg=="
 ---
 

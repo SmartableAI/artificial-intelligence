@@ -28,6 +28,10 @@ images:
     width: 1100
     height: 619
     title: "Facial recognition used to reunite missing child with family after 32 years"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg"
+    width: 1100
+    height: 619
+    title: "Facial recognition used to reunite missing child with family after 32 years"
 
 related:
   - title: "Facial recognition helps reunite kidnapped toddler with family after 32 years"
@@ -248,6 +252,6 @@ related:
         width: 1024
         height: 1024
 
-secured: "3UXI84lJRr1MAjbBgVkpFFVG1+QQjvweB6eS6DnTlz273IsbG0QS0t8Zf5+UjidV5shnZLytPlISeLe6QJ+Z5H7/Eis1aqiYvgFSH8LpCjZC8q3Tc449VNj1hXpVzcjEU+ehOqSZoIhTUPPI0uwTn7j9XQFExakp2Opm5lIZLPGCwe9VpFCF2pEHqF4Nuo4zXFP7VjBuJ1KSuKOQYlJlMmqr0u1DmNl8rNr+DHEcAzWZqzEsXjtBGnrPT6z2dcxraX3sF1DSX/YVLUvpN99UjOr6a2p9iNcaJBPxF17Nqm99oiGcmvGbhg/oBlpgwzRT9iZ7z4XcrbltGr8bgDTgU9UL62g9oBZW4MlllztjMbwAIEU8sAyLGLAcSrAcxm7xuhIbW7/WfIiyO1pAaZtfYco2w93ePcSc41cDqpUVegW2EXM6s3fZL0nXqAkxEc7VtoDVzROcUDSVXemehJrNieMlSdicHdyVG4CQ1ybeMQw=;Nmhb+4FsmFlcImtfgrU5rw=="
+secured: "XPkhdvvqMXEaXFKK+S+qKjv5GGqCNw6Vq2WSBzoJf+bXtvPOGbKfGWFBfS065BlEjHFlKp9xyST+x29PPpDxsQIFOkPDiLKnbnxsWb75NxVlPdJLnJH/JWuFT5CCl/egr2tyf4+xpXgrymcfHtKQUR4G0nqAWmj7F0anipDaw0E8B2LUJc9Z0yqcjitfyefYMBffsUB75Och1/DDzN2FyTjDMnHR02rFEJrVRdszCsWQ+Bmnn3sCUf4ZbxP0TS9/HtjaewxfUkfeT7s6h1qWBPpfmbLQ7r435zFyruxmYD6v2qlnX0PGGYANQaY21WiG;XsFqrRByXzAUxJuGEDg3yg=="
 ---
 

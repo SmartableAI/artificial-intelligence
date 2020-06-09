@@ -17,12 +17,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    title: "Exactech and KenSci Publish Research on the Impact of Artificial Intelligence to Predict Clinical Outcomes after Shoulder Arthroplasty"
-
 secured: "3nxrW4ppkcOTAU4lQfXrSaQWYNBj51DU7ejRMK1Cft+SaqOavxHrglhMQAg4omhHT8WDx9TzTeGSLSVqccEUTGwDc3/VycAO7Q+DJJf21yHbFQKB0H2GW4Z9TtUsdw66G50EhVyKWTdaTUzxtwwQkb6kmj191rs0pRZeVVuhsyQLVoNxYLBLk8Qe/4GPJN03Bvzp2jlcCr6l653Jz4UAPqfcw+RAPxPc5aDjQYNQp88IRXNBL6YOuRzHPKDIEi68TgjUpX/PeY+KG2kX+hj6FTl2z5HYrzCmExPHMC8Eb5vToXwLdK1/XJSEbw+qz2NY;K080aVPE+ST9mTbTdbunQQ=="
 ---
 

@@ -19,6 +19,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "S1SSwJAaSQ1tKgNdiv4IapjKg82v+f4ZYeLRsonuZAR1GczyCXbyEe9dlhyARYkcnCQlZvLcPpumnVZVeLBjo7hb6I0qr+mILLL6Wy2Uq2p6xkVAiK1fNbBsdmJTcvWGKcSLlbh9t4Nq/kQqJmPui7mKXWdCXkX2mTTrJU6x9474LAVMyK6G7tOYedksWbFfQXB9iFapzWIPW3Grfhz93Cz8X3Xd7XqApP+ClvMtYmN4eKiUyeModPy5PFzSSr8BWL+9G+V+WmrxawEr5y09gPeogZ7NhaP4VbN1Gpg/SZ4a39+e3ILQwnXhhHkGkbLhpsiucul/SetryW9dLJCfvNaok4sswONMk8DZ0GV3sdGt+pZ+3Po2b3OXK0hhyomB1P50DVOmGqPRtUAcTQP4fUq4DsdIpf2f9LnRffjGa2buCks/nxkgqJkhJgkeebWXItEyoJzkk0YH/4G/oyi5XK58AxZn0mtrDQHTxMe2pkA=;0n2GpsJG+HfCUMso2nmr+w=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/students-1.jpg"
+    width: 660
+    height: 440
+    title: "Studying smarter? How learning may change post-Covid lockdown"
+
+secured: "5na58PEPT3cXdJ3Rxwe1jIasV5pRKUEyIms9scTnYYdfXVV0YqC/EEM6+1jL3QEd/I6UqJW/MoEkT8lRxnfsrjD3RzEHLOAmsQYLUTPNJHLw6ifABAoa1QHFJrHltmLgP2PEQSKwZXAsQvTUxUPX7XcTUz1V5gvh+516j1Y2K+ohG4S1matSMuB0xy1b7V6QoOnssh2FlyuKEGlPsN9Qd4uZ38H3fo1T1Q6BUWuz3gYCOmOp2f1Kg6Tw/jGwF2TmOAT5D6C3DgYyu5+Vjqw1Hgw/MnebLj/Z0aBG3goQrIGhnItmWqXphJ49l3tBZQmL;H9wlHF5EjsOYdFhdYcFuSg=="
 ---
 

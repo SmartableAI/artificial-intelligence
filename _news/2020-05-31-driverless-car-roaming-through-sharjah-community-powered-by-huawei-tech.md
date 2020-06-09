@@ -17,12 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.itp.net/public/styles/fb_share_style_image/public/images/2020/05/28/AI-Moblity-Service-car-(3).JPG?itok=pLmIHi96"
-    width: 1200
-    height: 630
-    title: "Driverless car roaming through Sharjah community powered by Huawei tech"
-
 secured: "moD7niaaknMhVritDbnf0m0JbW0Hq43rGlMbq2JxNZ04ZEMuodVshXYtXcs+V0WByPFCq23hDPruNSTHxBhcnp1blf1+V65MrEF0PMNZerR1n9kemtmiGufjQr8N6P4W5yjMIuTCpROlJfhOb2wrZT2docQOgs64QJzUrHDGQIL6ao7JoFKC69lJUptOPJczLbKmZOmyQ+/Is9Anik33XL/TzPFhrfhKp4eO5eiXC2aTimhqI6MhItSqxhidgqfJXmKVv0bhe97KqK/ti5YUuf1ILau+Q0I86KevyfdJ2FLRHxxuwMZp2iIwmdEflc7uH7a7Tz6e961o3hs1qqF+hlxVZFFHaEPHle3hpiOxJwCCIIbdGN0Lkki7LeMMb6meGFekwc8Br93EPQ4tkQ+liyZZTQaVsIJxm5OYKfq634fwrQqDCwXA0g0B1UP37V5hUhvqeOkRWzMjrjLuGavGbAEjDbC90YnUljAJ5FZeq+Q=;mdkm/T+40vTkTIVKWYW1Vw=="
 ---
 

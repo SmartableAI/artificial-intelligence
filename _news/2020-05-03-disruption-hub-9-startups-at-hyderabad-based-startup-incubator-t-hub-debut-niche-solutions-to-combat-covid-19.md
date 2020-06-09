@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
 
-secured: "nLh4oY6p7kNOQJCMQcFVR3JyhOKmF3PX/eAM21mdFnJ/1HqhbfawLA+l0mUBifGz1LQ5FDkrKIgmvPDp2yHW/vGkUIzd1VxbCqjPtDE8Uxh3gAv7lAfpruTfSUYOHUIFbQTqawk0REv5LgPpGZYn34Sq7DtyxIyv3XJVmsAz/04vpOXES0Q50pjATPKUgl+e61slvfnXolTQwXPL2io8bjr+V2mhPWoczzd/ep3e0/h0pTzZJyO0XFvlb/uxcx5tcENCBFC4Ob8qv7EwjOpY2i8OfRFEvH0QxWVqQkiTORhC8a0tVzEGGmoIc3DbaQLVygfVMM4ISahsNZed/mi1CgckSz5dWPLKvvxXj15ST4PQErotJj0JIN1qS3wPOx2uacYHCgbYL9x92YyBMW4GQi/usUzy69eiy4VSAmNXwI5ygHiA4LmsE6DTEoRzS/8gJBw7oGgh/CQZUplEaUTnxjRGUmzzDFhQmGUwqFMh2wA=;0qNQSkQ5J2XEAQbYSw8uuQ=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/image6660.jpg"
+    width: 660
+    height: 440
+    title: "Disruption hub: 9 startups at Hyderabad-based startup incubator T-Hub debut niche solutions to combat COVID-19"
+
+secured: "B0YYy3Jzg80hMnLmcswXksPxnGkMBkFsLicss1cCIHd0oxoTJMT+M3FWU9m/brevMNEG03pODmdMGUvFHuOqbXlvshGI3Vz1lC0KhOmsko282TbT6ec8wmjiJSBBdQriyuw8cCIxK73cBXsvXGOUzQDGzGoT9huIHFEYy+crXbMvo+jCUbRjCIxeH15+PpMoCdfW7xylICkxDkn8eXz5YwiHddrTc0vGsP1u3IraEun6kvTtPHIvkpxwoE91Ov3aeknyeoYMXyI/WsoA+BZONm8FMhgxN06AYtCVoXBXIhrlDJzWjI27Aa2EskefJZBg;LYPxp4TBMin12W7UkRrJOA=="
 ---
 

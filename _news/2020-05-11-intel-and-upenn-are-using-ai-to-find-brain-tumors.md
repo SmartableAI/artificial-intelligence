@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/intel-pentium-silver-front-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    title: "Intel and UPenn are using AI to find brain tumors"
+
 related:
   - title: "This AI is learning to spot brain tumors – without infringing privacy"
     excerpt: "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use"
@@ -80,6 +86,6 @@ related:
         width: 788
         height: 443
 
-secured: "iInwu73ma1tJ4IC6OhSSE+bfu65b8vCl1vUkSP2HRFR+FoRruNgrwZGh4JISBj79NNhaDRk9aDnL6oB/mWUTivhywe8HDm+xOcDQdrzWEEJhLGI6390lLiHFxLvi5afdmPIc5FAYukes4SlGvHF37m77I3OciDfDY7oovZEj0CkDRJg+Yel9zQmK8k7HekDjdROXVs8hn9k2hF8NDscOqHcVBtzFLxoagrOozIuepwFVlnxoBIkbBySQQ8YJlZPoPSZzxRToyiUQ6FmG6N/dfzyOyluY4ERh3nDfKWlqSrj5SIAuwJmC7JQ0xVcvf1woke+eOlA7xuq62HE9asSYKRigY7h9gfE6a4gElf5xDJonB8HvifisrtCGAjcazkRdB/p1UyO5VtKa4GEkdrur4hFAGunucVXkIh8mBozBjT9MMFHkbEOenedsVWEOpuUb1SQ4KYiYP259zOgGYwUtORgMvMoI2+SiP1hgaAMrJwI=;RqKTw1yRVkPkGcFEgUgRGg=="
+secured: "06BE5dKsYfQQh+gDjNLztOWQS3WA1n+DAz7o2M9UbPjoNUmuZECGTJZQaUaeFo1zr6gUkpsMxtguvVJO1MvUeZn//w4i3/MhWkYkjv14JZlzKiRxiRzXA/8yxlnrJ/p5jL53AE5jczAy+0SAp3iyvZuj+kEgt5v4Ie+wafiyqnOZw7BxFQ+9idMjWG24pZKr8y91FAQ5ZgB/qr7se7IXcdw+A4mKXpCaqA9t7wlIC649LedVXSSAuTCCMelL8hwmj1AP5V92+gdJZ7QJHr4q2iqXGeTw85EoMlKxJQrBEJ5Gsi5xKiDwUwdZ3V53HnJP;rLbQKxkG05ZYYEq8yfN4AQ=="
 ---
 

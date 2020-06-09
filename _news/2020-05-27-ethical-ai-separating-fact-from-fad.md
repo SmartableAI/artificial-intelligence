@@ -21,6 +21,12 @@ topics:
   - AI
   - AI Ethics
 
-secured: "kM5cuWCluaoT7xs3T0TsM/jLY/5mtMmtTNguhrBetzEgbe+c87tTPNxadW4Yz6zJJKSGdNx5HTcVR06fkyQbjz/7Lxy5kProjyPblbk3mnNAZYqL9fxj4D9m2txlgYA8qlFGmICamjhbO+kXVj1+/k+UM4OYg3G1Y2T2a8WM0L4Scm/nRne9CU7/hC04UvdHGg7WnC0avEaKSRl76iv06NYuCPTTCBvJl7GXHpNOz20Nxgjb9aLfAnuI9ZUBFYndrmCwtjrJQRjO8mTw7NQu1e9ZtvUpdybnc6nfqNllBRvQwgnxZYMRhlBRi3TjClQI5ShvNSOJ7XRlOONvp3Kv7chDIFalOGSn1my0OvASNIxp1dCM+zMdrsJu2yPG8Y3iv3NyWB9TyS25gf9f15U2MnHWg9jXxJHa0XHAKpw7GC/Ly+Fd08Sj+4CbX89y60YPUzBSZSNwTHfY/f7bLp3eQSiQ9gV7qaCr8vwstXiQQBM=;HuEl9l6M9LEuF28Ael0/gw=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/27/22aa6a16-e7c0-465c-ac08-4f27a6d1a8db/thumbnail/770x578/18ed3b95a09094b1db78214533b5f5d7/thumb.jpg"
+    width: 770
+    height: 578
+    title: "Ethical AI: Separating fact from fad"
+
+secured: "xg7dpogvbmsJydusI5xryFYDGFeb/PVMwzLuCA54eFhO3x3LLUBn4BLVlkFqcJSHG0MW4x6/3FDQINahloF2HX7v9shBnHPqGMg9zaiG4oE/ejhSg+xetBU0VaL6WrsoOR4thP3LSLyZCPOOKoom1zf1LZnrMLXZKIKy6FgV1sA7KDKiT3JM3ElV8qzYxE2cH6RsGe04qOEg/dyog9V6S03kJWvtLG17+1EjwyyBbXyphoxy7+YzmjL6mqJT2/hP+rCcTxDnF+5XIUXAuuTdd0Stiur9X9zqOZFa8Cw5nl1TrlF5Qeuj1bFY+I/giRP3;IiEhGF4/bPxOerI8PnKhaw=="
 ---
 

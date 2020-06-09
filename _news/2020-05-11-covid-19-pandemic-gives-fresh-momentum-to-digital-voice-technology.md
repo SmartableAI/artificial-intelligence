@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "pL2KRb0BPVqq2abuKXL1SdI9q9DKlQ9Q2Et7fxsUNLN1gE16fC0tOM0m3nMNMSL/cSprNI1UV5RWbJsWzb6hkwlTX1uA5vATrkWgaF15NzJRqGN7K2V1JzSWMCHEHRB5zl8P/Jm/clTUWbG6XnCm3jW8bG5XOikuNEqdBHdPksClzqirFa/Ok9Lkq4Mj4bZkfMKDVsMNQaBq5VfLMMbV94Po2rBjVQX28g3gm3OAvp/5UMM9tAwamzJD54AjklK9QlUQVh4jqgpWetWNVKPzq+81ypKCDYOesKsYnJnZHSoTv76UwmnfhAPdtltT3EJFqn0OGNRHmCX0tccftAvx83TahVJlu46MmzGiGj1xGdCgqNIDD0cRuWhFrF9Ts4eatyck6UtH9d5SYEO6CMosDDcNlVKr9FIkrRi56x3Sw4SD7ng7100ypQB6Nbk1x+I8eQBqcd1xJTm7ccIUyyJms6UZJTgfJdV+mOhbJjiIwOo=;dAJVDNXtl0PlAP9xEr9J4g=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/05/11/676645.jpg"
+    width: 1240
+    height: 826
+    title: "Covid-19: Pandemic gives fresh momentum to digital voice technology"
+
+secured: "JemtAMR/FP97jC72vT83wKtUuULqHl6ibM2qUctZw2ZGex1NCVDl64R6y8V8yOhHbpjfIMNc8peWoF9OiGktPgsLQxbMPVMfIB1FlPAVyiLf4fJ0SFSzdPiXCQQIjyYhY63Tnk1g78pA7WPlTqpPD+5R+yRyAckCf0aELdFsVdCiZ7jnhn/YCgbe79ktsMDHI1nB94f7ZkLBHdcibrZUz5zKya2XVAn3OaJdw4fqL5HvxxaCJ+/oLXaZc6hRwf+YAm6RxglmgIqBFs9y8bxPbbB61eK1uPdJ9cCFqj0k42VODbmfHM7UIPD3R6iSt0mK;2R0K1qcg5hA8om4AGlKhIw=="
 ---
 

@@ -17,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://res.infoq.com/presentations/ml-streaming-lyft/en/headerimage/og-pres-1590139516275.jpg"
+    width: 1200
+    height: 630
+    title: "Machine Learning Through Streaming at Lyft"
+
 related:
   - title: "Building a deep learning model to judge if you are at risk."
     excerpt: "The post assumes you have a basic understanding of CNNs and LSTMs.You don’t have to read the entire thing, this story is more about explaining the challenges faced, various experiments and optimizations done in building the project."
@@ -32,6 +38,6 @@ related:
         width: 538
         height: 355
 
-secured: "l2+II9KiG7Em8qHK0hnt/jv71IZEoYMLmsQZgLFqzyjbYHZh1oUnYHJHF8+Vpoc/r5/dam9x1VpgR/k8oaBubcjMJ9fLKEe+dhocQb6LC0eIgQCQ9zV6nB8PU1lNZUCwjCNRzhqpjOpHBZ1tOAClAFEesH03qVj0+f+hLcUJ7Nmilu4CSBBPUwgpyYVONAfqLcfJAijbHgYkr93xv7T1+YGo0N058djaPzBnXp2p7oJv68VjI089y0WjjOc8ENUHD4lThUpg/IEw6cm3FhisjYSFq3/CzZl4/eBbtle+lGu1/sYe181wj52vJOEySGtrK2pI+KyL4nsLB/nc/GJOTGrNsrcFSoUSUd9FVG2cFXf9IiWsylSvhvhlnTR+Y89JdymHHw1xzgJH2TE9qtZV3GN2XJHFUiqN+eTW998AKhX/6AX0/mm3wTbQryR3fmZwvIu7NzvXGBUyFZaoughe5Ggr10/bdFdZ75QM6H+kTZo=;t6Jj7QD9v8wC+5WNkd4b5Q=="
+secured: "g+gLDc8eS/hl90LEfWERNjoq0dYnvtMb5LdwjtNs5qZkfHRKHw80R2CRDoAGlTWZuvhfhhPVUBrrcV4+DmGX/0r36dRbz2nKLid+V4XLXiy04R69rtktM7drnzM237FhdlaPVpUC701mBbC2GhcN251fwFdD8Y26nBATsuPam4kfGngrLezEQivRC+H2a14rWybNBRiwwr7GdkNtEtKBmtpI+Jau9Q2bs9losfjhua43je9w+8kUDA/FT5z/fXmNsOdu1bovEI88MP5gZ+ErCKq0h7SRfBCzS8rijJIjkSb6B3bN06Lo08Kn/8xj3urh;HpxNXA6SLhZRo7jUxgwRnA=="
 ---
 

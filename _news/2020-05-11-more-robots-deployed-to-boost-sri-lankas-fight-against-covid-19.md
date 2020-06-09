@@ -17,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "TQ+7+1UQxw8MLmD5Yw9ZeBTRKsVjezRX9zA1KnqVr9uiL9hrjRH7MJZQYSblAZv7umcNCLHMioRj8OURvEb2UG1WCegbVsZtvd+ZKS5hW2wC+NbVXbsAi6bSGAnDjL+Lr8qFEeuafeaO88DMqLvORtqfRE4krBmPS/UT5Qr0VJrpBe+3v0AeALJD+n3qH+t4c6HRCyqenKws9tuB5thXRRyKI599qFWFNwrkIYu/u5Zqlcze/A/UkkE4mB120GswlURIXpzltfx1Hn0CHhu7vF7ro434KGTVdkpM+KdSTHkbeGyEE9KZRiroMEPLgPBjrzFnmHRFNll1jA3ipozAofzVgDlPfdiss2s68APrpVc9541FjCnki5OBOCXGRgWt+IdS4LaEOK/0CKdpwhOIaYVNvN9hDy2j7U5pddPT8vSFLM7ZwXt+lt7Ij86zbf0FgwYTxnTimPdZLUoKV+Kt+AtmgdPs41DWAejNVQFJs6A=;/XtjNr8297CY+HIUnpYqfg=="
+images:
+  - url: "https://colombogazette.com/wp-content/uploads/2020/05/Image-4--1040x680.jpeg"
+    width: 1040
+    height: 680
+    title: "More robots deployed to boost Sri Lanka’s fight against COVID-19"
+
+secured: "ll68FnrhBCOKTX1bK03XTjN58GMM6MnGGr0qIRBU1RUic+tJ3qCTPC3l5adPIgCo2TL6i6TQFmBPMIG1xdMt/oL2WNpHwLm2Y9krHVM9gouePuPEHvxNEYqhPLzghmK0lJe8DTiSFbuY5/4scNkVMtxDqUClE/PpknWggV1MnTGnamvOujHEfdx9K7lXkxAiYJ08/hTNZIFzAmjoKs6/o49JfsBKEKt6mdajPka9lw6+FIPigyem2+/5p3XNJDAv6WVumYRB7soqP5LpyGpqUQeZM6GK9OGnorx/PFDiwCfiyQdlgA9Kg6b1i5VdMl1l;o4Y/H+qZDLlT78jG1eBEwQ=="
 ---
 

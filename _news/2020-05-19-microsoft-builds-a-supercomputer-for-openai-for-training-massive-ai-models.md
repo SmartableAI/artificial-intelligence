@@ -23,6 +23,12 @@ topics:
   - Microsoft AI
   - AI
 
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
+
 related:
   - title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
     excerpt: "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,"
@@ -98,6 +104,6 @@ related:
         width: 2560
         height: 1600
 
-secured: "muTmuFe5LHumOJxfLWjpW5tj5ul7mnTpgJ/KQt5+d05yq7+AWc7qCiknVqZH7+YpOVcWCGXy3W9iYnOsu1wmL5FNzeG6qmppWBmWIDr9d56c3EwCJXDhdnQbry762tyVn4FC1aCbnJGt/X5YQUy8HVvUDsn98Q4jli55xnk+DgkXYWIQsbDEh8ynDmAZ6+TrtF4D4an8cerT++PkX0yFoaIZNTPcTYwuuAtw0n27O6f4lCYM9rs1sUFlbTJA7CtdFsINRKBvnwoPubOYYnnoCsnHIjMILVu+xnMcGPlLpxSkrD8pn1WmwFoipv5Zx6Dy8ik+2iMcmfkYeLN1vaWVai30cTJ1naWvmZYlqP6yDmBbhWR0Kjh+7VyScnvhlfNYTIyB3rcL9XYcoPgohzjn6jskz6oGUlHkf3h8R6QVAMKBxj0lRbio2I4TvuHP7DFH25SgrFxtXerC8CgjoE7ZrOcvel9U5sMP7mFhXDv4OWI=;SJHY1XvWGNOZY+LIh9PsSQ=="
+secured: "kp0nm70QcGpeY1IH8UZ2YtsLXpikVCNq6Ih/Pzb3uzwQPJE2XrWlSc8gUKtFvRcQhnENBd/HZOTya8yBpDh3OSIIi45KQXibgIq1e/uQkPW13O/sjKZQoZJzG15ZfMUUUJo+q1tRG6lqdiKDG61h9aOnCQvXqfi4QNG7GxCCSmtW/eybRWZLa346rZm2kgi11OawXr/9dgrlFGV6SEHEekZNrAC/rjFdF/7cszPue/8AwWaR+sYeUbTMUOoWfb/4khJHF50+SGiQaaPBxkaRUE0xkQjmiBjVZZGVVkcOEcE3kGwAXrSHWxTQzEES8gPh;G1acqT3DiUrawG4L8K3w3w=="
 ---
 

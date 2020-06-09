@@ -17,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "0S6il7cbp50FErv7QvzaioNP2ZMqqujuP+YW08msYvdt8FJRMZP6+t0GQV2hH1NqxxLcDEeZZmV4rzGa5IyhR0VaQ2bYInmh2mRIrHMEINlF/VeAjsmyIzb8fXZZNUkmCtWc5sX/ciQvCi77BXIWZ2F25H8nHSid8STexOo8OdGmjnm3EPs7U/m0YlomHPOcoaVb0gPVe3wY3oeC/n5cbb5npNh4z/tsRU8hWaxpD5KfUpuFq7Z8sTXQnWzZX9C3XfBAN/MMyT4UV5DLRmEv5TA/4NekNeQCU3wAp1IJ11p1HqXcisuMZYVB2I5NR5vs148iZ6sHfiPL9y05+413HMlt7BlRqJd5FLKyUYa4/Q18vD9+69zH6f0euYd47bOeGg37NZDMWPhwopTxQWJmk5eMAgLOyEabvbOpD8UsQkGf+3i+Ri+nYbsiSxhvKStQ3sv3sN8FHSZRY8+BT7gzV7PJkL/reJjGuBRRwdVhvP0=;61/6e0NXN4sVWZEfqFn2nA=="
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/05/08/21/28176754-0-image-a-30_1588968726012.jpg"
+    width: 636
+    height: 382
+    title: "Trying to analyze Donald Trump made a speech recognition bot literally CRASH - and the only way to make it work properly was to strip out its grammar and syntax tools"
+
+secured: "lAYHsnyKDH0KDlb/kaR78OiJWlQU6Njy1lipaZTTpfuqG8DXZAf84n5u3OBYfGXu7iDE1roa7TUWjYQUD20mKd5wLZoaKHVjZYztm8cEIhMrIe8BXBNsBxcV6/xkUVT9BBz9ajtBYRiSm/5ycGQfyz0ue/Dz4SY19VWghPtE53W9Dx6TkWn+BnWsiCJXZVDlCcwIPeMZm9ZqfQREOYdvINXVpIA5xt2qVFoBvgWfBpuHY+/hlWblakjMgvoAunU5YSBr16blY1Tt3evnNNdid9+fuL6ckSxAS3Ynagrs44Q41y8pIUoPPZvAY+61OU6U;UPLnTZt4Av6cwAKSZ7z8ZA=="
 ---
 

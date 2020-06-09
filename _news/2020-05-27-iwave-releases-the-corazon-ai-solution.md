@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/617596394/76219803_zynq_sbc_1.jpg"
-    width: 1280
-    height: 720
+  - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F617442100%2F76219803_vl53l3cx_tof_sensor_n4252d_big.jpg&size=1&version=1590616252&sig=6f92827caaac11ef6425a1a2793ec720&default=hubs%2Ftilebg-blogs.jpg"
+    width: 500
+    height: 272
     title: "iWave Releases the Corazon-AI Solution"
 
-secured: "I7j/nNw4Xn8geZ3QKP65BrFdHqLBKilBgpiEodsPJIIQpeOt+NteR7+g1O4VQX0A35YmacNPceZUOf/t8Db0w0pZoR7SCWQtrbIliEPUH5/Gba7HIMlaDQVtEAMmMpMR9i5e2kGuDNQuUzndLIOZl3ea0V5qMmEovr/D8kvswCmG0/jseCYIU+3SqIxzrVYarVJfEBzDm0NHYw/XcK92Q7RMHGGQmanvMQRvddin1eUog1ZsdcPZcB3TamkmIXPN4RKFdBezAxUYdaaZuIM/dA5fb5IqnKt4k92s/OqWyMSLD7XhMd5wgqvr7CR5J5WmHSfXFPiRjMFK2v96KtGS6V3vhq5+wu0sCRBlSX2CCL7qgounvpT3X8PzQE1suN0k0+2wRUOPJZ+vvgUk+OmP3rwAiGWAM7ryAixaDpyUnc3TsoWBSnMalWOA5VkFZmNnme5xGZ8drkeusMhtktRIAjvGMeM2huaZXy4WThEXupI=;hUuwxfOqHnWxpyDMQwK43A=="
+secured: "YbKc1DKycq5H3LY4Q9utes5aY113rBceCq8KL9AXSpQ0YHW04Cd7HuJ2QWQxHa9P1faK9RX/ZVMTWWS/uajO/lkWmOp8PmcHt4jUByVxYKnAy/6MMhZPmoSBjODvBJV0YpaKLWuwTqcnJrnmB8r1/qvbnxKgJq4wvZZcN8b5ecBfNhlpFDfrPtaYB28GuWYfVCA4f0YDNNQk+62Emq/7G5e0e94yuZou1t5qNL+l9F6Tp14sDDcA7Ki3gq8wq2G/6OeLbP5CSMcnshhdoZTjjLbf/plugnB7AUDJ3ZHKq69F6DRPv8U2wVqGxLbGfKN5ZcF9z3MaPUkIRHshVK1ctX7kPi38hukG6A6Xdw8PEEUZXsSHoUoPL5o6HD0P7iv4RQBl5+f+3ZURlIDuZAvfMq8/SL/pS5hvs5jrHE/dEdgdZnLIRq/nswijM7CVzjYVaX90vzhi28oswBN99TPRytNQbdKlHc0/mQ5MSQfIklo=;odrCIPpOt6wmFaTpj8i13w=="
 ---
 

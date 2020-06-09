@@ -19,6 +19,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "EbGykrPqEL2InfjNqskHljvni9sw38OP3lvEfMBvWGkCJxqRnE7R5Po/d3bfkRDtC7BG5EoFzDtMOcyGCXjJEoZPx1rqhcAmLRb+GEoDcc9WVudOFCoQ0nM6tEiNg9XjLOXAlGvBuVx8NVK9VCby4kl3E+zePZqE52ZEkIvqxsGwSRJNlGvpgmyg8ptUIZJ7KM575TiLu2YdOpcMWLMZRNrYs50u15pMrRH9GdE/C3k1coSyYLDfOOFJeaOBRdBrQwDw3K9tshbmrnUoVmqDOA3Ef2MLBUDGKZo3k6kAlXNqnLL3UhNOVgirHZ5IXjTf5BJmKe5CcmuRdW2aZpZlshZ5ibu+vBSBJWRKtL9G0wKYZCsz50t5krWfgU4gVbhLeb9RdinAerG6CA7Sulk2B00nEWXRo6BHyzu9eYcHj9qXV55j+Kkt9NJxAf6haiRDqxak4wHJJa0kr6sCkR/EvHEFhrHRonX/aKck1EuVof4=;tzTiALznTHIfW2S6PnMV2w=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/ibm-watson.jpg"
+    width: 660
+    height: 440
+    title: "With an AI push, IBM is looking at cognitive clouds"
+
+secured: "sljaI2KEQCp3IY/LNc121k/jBUN7ZFwFR6hQKZqHUGybstLZYgRI7UFIhPXxFfeRL0BwyXtu7epE7XWBFQTUjskAR5vCnVdRGtps7ynaLkB25BXOYluzEfn5ZoKkgMoFw/ooiUcigmMvzKlkv6cs5UT4N/sSljqN/UhhODJK5WT51ekiHBVYUzvneqk+dY2bEXjjMuLjt1dd6SYAe1FX9TOEle9OfirrY9Br82+VzFEW9vqfJWJ4VCNp41bSTq1lHXrJGcZEf12upQaqG8rH4FlXReIxZr2pVW6SDyQpCh/J7IjQlB+h/cZsfCKPlL/y;/kjwee8FPnU4YoyxUI7xlg=="
 ---
 

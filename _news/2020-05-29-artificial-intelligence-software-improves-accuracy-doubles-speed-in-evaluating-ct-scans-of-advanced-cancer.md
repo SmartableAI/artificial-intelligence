@@ -18,11 +18,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.uab.edu/news/media/k2/items/cache/0e5028d83db24acdac012e5c3bacfc6c_XL.jpg"
-    width: 900
-    height: 676
+  - url: "https://www.uab.edu/news/images/2018/images/media-relations/Oneal1.jpg"
+    width: 550
+    height: 413
     title: "Artificial intelligence software improves accuracy, doubles speed in evaluating CT scans of advanced cancer"
 
-secured: "kiG3LzKjzdggvqqdIc1iW/keZwzrny4/nWv8SlXEy5R7Kn9QfzoghtjdRlmGXuxL5JFCRd2VT9OFu97dEIrdpacH4m0S2ECteStvDZejh6WGYVK6Xncejv1JyM72vNTno0q4WNY4ccPwZjhHux7jnNNnKFmp07HwVH4V7NMMmZXzV8IhK2EJXVqwBlWvazI5oH2BX6+jl1OtMcOgXf4He02m5pydGk29nKZlcvTFndDIAi+Zth8HjOF0egwO0pm99RjZ9uATDMMx3LCcUyPyPWokkyy6UgEHKsOP3n0vx192oVWJpYCKfoOjs8lLiGCWZXDIoyIwxbvkdrWZBkXHg2pimFuRnEPihgnyZfyONDVwSKDZiW0yb82kihP2Zng/gpYe0eYR09N21qdqvIHaYXyL2jKukepHUVzaHYnLUhJBQAKk4Iqkkvg9TstlSiep0NPfZhwhA2WRak9mD7CWshH0BQfUEwFx/iq8YibyLTE=;7oDavny4pSY77d9buRCbEQ=="
+secured: "R1EmmM1eUfiHagU1aYE+ne0nqYrCYNMX3uPdtsv/VgN06ZoW0eq4nKD+jFvFS74Ha8lw/F5vP0zvMDws9vbyc71Zr73UBbN1cj/hc6jom86e3yU/n6WZJTQNOvuVQodER/WL+YV9fXMtisHtFhlsEJJ+E6iBk5CL38qTtL98/IQ+16d/lcowStKYNOtm3VY+xEVNtTsmsa/u0jNv2D3loLpdF4yxrMLR3Cs8DeXk94FKexx5M9Sk1Ul3u0dB8uDS6ippeoAt+n/hBAmB3oNWMvvSNyPi1dMg3o50+JSuesgEaLYskv05zlBrdg8lMYlBqcmkgZ+Gze05x0TkCSK5Nf1EDSPLNNYfOW5h84UJEcAqePVMWQPBretLSdBBdbLgKS5hHPpnaqCck3C5dWip9TzvBCqsvwoVKuwjI4gEcaqU/zTBWjenZk10K04fBf/u9DcQlI5cXBsh0AlGa9cqS4G5Yica9vh6L/9IJrhWuww=;8R3jymo6l8QjkW3Es1CcMw=="
 ---
 

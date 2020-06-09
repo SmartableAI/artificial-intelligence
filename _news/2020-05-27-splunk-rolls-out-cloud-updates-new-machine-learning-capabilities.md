@@ -21,6 +21,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "Bw4lqI7Yhz5XLwXgpZ9odfPVw0C55+9Qxhn6ctiuAjFGdS8u5IqLmyMJglB/eP+TH616In/okV+slFad91+J3/D5In223m2efSLopQRd0gVm5Z7FCOI5FYe4k5g8IrE2+aLG57Xh0CupO02o3FMC5AfzM0Klsg34WzWxobj9q8WmNwwNv+ZH8pEUiOxjk50q5PGCvsyXoNJjwftEID50IicuCj61jRl/DvzoBDkcH3otPRCZVUqqPlxIfsZ5zDHXnf/OZmkbd+hE5Rq7tq5Om/f68bGq9yuuvxyq7uGDT1gCixKN7gb0Q97CzQM0xZlpwmper7AAbbBpVKvRZqpST38Y0shk9xromBN1oMe8ARG3HU+TK+w0v+4h3PRirQzl7/oiSOsqPdf+e8VWyY0S1lb2MILC3JPS8ez58KM5KFLvohWb2LJ3u88UmClKe1Na56EpNUqB835VrOmllodfHsBsBZ84Ce2CdCT0SVLcCgM=;NXtJ1jyTUbSNvqxilpIEJg=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2014/09/05/6684b97b-34cf-11e4-9e6a-00505685119a/thumbnail/770x578/3fe486698c6c5d02223580bbb9b1c275/ibm-patents-cloud-data-location-management-tech.jpg"
+    width: 770
+    height: 578
+    title: "Splunk rolls out cloud updates, new machine learning capabilities"
+
+secured: "mUCn4SbVLClPnAmvMphCECuNo1lEVz3n5dkqBXAq8HyMEIjIMkY7dq6iPlIY9LeHVcUg8oYPvmPeoguJoDdAq+10EGV7FFBUs1458SG2r4OIAIKqauegg5p64oCmfc81emTFcPkgSCuJUEpZTUJGiuQITrJIm4N+b9OiZQ8/FpiTgzsc3UH8zSlkyEsy0jsrIHSCaSFlUfZaTezbpijBMtldACkvetD/SJq6qx0LWei+tKpMqvnXWWOhNuwE+ux6a5kDv9wqjViAMOGBSsdheY9Bm426ryFDYNvBMiw0W9lhUxPU138h70aUD25Xtiwi;LalYdkrHN2wR4Rx8ojlsqw=="
 ---
 

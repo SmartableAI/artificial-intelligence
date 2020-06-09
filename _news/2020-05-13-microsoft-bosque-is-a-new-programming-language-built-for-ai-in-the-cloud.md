@@ -23,6 +23,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "vLVSm6GkubMnuZbk6sTYpwHGCNF17OKTnwd0nIYq8Jm5j3qi2T2eVQtHWZS7GOd75ALIFQTpEXPjSxVyAA21zFpS7tHaSn+H3z2El5YOOa3N7QH8s+PU4n96viglRUhSr3lofo9fa2E7zCBRVuZ1jerVXS7EWCZdP/0L3BhI6dt9RRnauMNpZYVNjPesnf6YHjHRkjZTJJmCz++V00UAfgtg9KQDz1mZnGngZbB1AxkX98pABisG8tPQzt3ZdcTPp9tT/R9ow7CSejHcSPKhk2jM2v9DjjVOSUvJMHsBa7NqOFKBlQceySHH1WGGZ5P9IPJDJgLwrddYgGyvqGGXVeER7/vzzyGItq/1RGqPKDI+wZrhvToU0dO1FWSAzT/JFH11vyJDogf/AsiF05pbMbrufZnUGuaWfy7A7jDjO1uCPIUJLyPalj/TtmiKr+BdxLd9aWCr5FQRk+/RngEzbJiyykUotwvEtTB3vPSCN1w=;qIUN0uLcTQ97SmmDsVfShw=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft: Bosque is a new programming language built for AI in the cloud"
+
+secured: "GPUQeFk3aJzfoV6idBH/Ks78U7o5PhAgBzcBibciRvX4VfXuT+pnTc1GpmlvQV3rWrlXWZYY+7DjwF89dU16QokMNZFZdFIzGnZX2bG1s28nN/+qdGC+uX69kZDai/OFzW5uaDr7iviph31uLhea9hRiWHCUZqEL6VJNFP+5Q0JdS01sIDl0QBFqxhW0rZRwZaxnhqZjy/ERN/fsaUlscwInpLjdU4UiDiFqBdJnevxrUnejUZ6KTE5Y9Ws1C21ivOx7+HLdUBctdymcPJVCnHDxoSo76gCejg59rwUfF4NP1o8bJJmvp6QlcAOVh1YI;faFJn7qKgCgJ/oH0oESpXA=="
 ---
 

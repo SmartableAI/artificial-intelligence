@@ -21,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://static01.nyt.com/images/2020/05/03/business/00schmidt1/00schmidt1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
+    title: "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive"
+
 related:
   - title: "‘I could solve most of your problems’: Eric Schmidt’s Pentagon offensive"
     excerpt: "The former Google CEO has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex."
@@ -36,6 +42,6 @@ related:
         width: 1200
         height: 675
 
-secured: "LXzBAp5uwF6ncwLuZ/Mr22Y9HUHqrV01foCSzf+MjXwDpVRAWtPiNBzK6/uNlaNCSQxXNbInkBc9fR9kvRV28QvjpPA+7NWDSi6haDfjE3vPxTkAac7AHytzTIWikM0QOv8jpsB4LF4l/rh1AdB8R7iGOSLenBqxkuz1T7ubwe42VAtGUyh0cOU99hK1sMbVpvPAvaWvEeue3ftZ2OJpBWPBJLtFjn6mZAw9qgo5QyK6svnmBhw09yTEEmb3zaEzHt4ZVEo5uuGhV0yLS8ZpYEjGy1JanVqvtCMyc2Eej3qDeCHhpvpAspuUja09s54+DPbuo5TTmqGdw9X2oZtUfvSCvoklA9qgF+pC+zxlUkRFFm1piA6Gvve8OHRWUU3MlXdJepCglNRSXtqI65lyy7KYt/AyM4UtL7hkGMWHEqKryxJATXdZJHJ/u3Onq6xPP2QQjHNaLs/AwjNJEAkXefrEVCIBh6+bQILXnYWEalU=;/6dXviYPVJ6wg1r2CiRqNQ=="
+secured: "GcHwgyZ3tWIs21/gsTaH//v0+umJpiIljEVp92VZkjXXE++cqSKifNAp1mIYM8ng3XOLDehj5gB4sEmWuNazWtXVB/w1vEzqrdCKtYCyNYXsGFES9nLg+R7DhMGGtIPewCGbL8vXiWdbmctKupkmqxd2Bt92jghH/zETT8EVS8M48Uophvljq5JDG7+xhs5OQ7fTQ09MUp+x5jHUiR+X96zeRWo5m/JSQFmfXsYpsIYPa8HK+zVRhRvpYfTEbWgnu4zhxCqhMFDt7KvmPQPwW3azPl/RKGTnnU5lRKBEy0TveBQEGdRuOeuckNaLH/LU;ROPyb2N+zbIdzZCTmzuuZw=="
 ---
 

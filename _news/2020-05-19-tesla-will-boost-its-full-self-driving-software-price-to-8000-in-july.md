@@ -28,7 +28,11 @@ images:
     width: 580
     height: 378
     title: "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July"
 
-secured: "+tB1HfInCx6G9WvDeqhyZXU8uiYbWdtqhxQSYlCXorm0jHrzaKQQZCWOVD2ewNGD3/jeQ8bXiyuIK31Y/eM2Ht32j38B6WU+7gKo3pRXGtBQYv9CO4cZSroaza0ms3pEIwftYRRFfd1PBEBLvTs12t0u9GA1PNShwzNGJh4d7ih7fRwTJpp3Pp8Too9wknLWWO+7JOX+XIbLVWfM9v/JTFJhdjLAxbxeU3+MZ+ncSk+I0ujwSHS5/vtXO91Kqff/uxqwOawwZTnIaAG1rtjx2cuvbNrpmtx9Nm7iNHsSmW9pCkyE7rlTyBhl7XuNuSK5Hy3+eSAKJ3rEgSzM7XiiEUTqwdxHslmwq+sFS4n/U/cPbHxi7RZ6uNaCVSLspSqrR9Vvr/nnTqGXhpBsvzGlKqVnkbLymC1/mrNahI1f+CvI+I0KcrLtw4N7tay6+UulgGqeIKJqUPs/6SXgPslzRs2aLNL4NbNUewIpVRXFHac=;xu2/h2fMEZ9K85E9SDi9hw=="
+secured: "wsijQvFNx5ZLb6IHz9ysQZWIUKsOBnCkO8MvQmQJHfN5iRiy76L1BqqLXm2VDsTeXJQbtVrh7RHl0t8Ly1nUbfCfUEgieKS4h+2uo+XpUtI/almCtCsCP5/ZVJdT4tFOVX3Eq5KoPPKNZEIbOv6LMUA2T5iYYDpK7mJoveo+wdAcNRXrT8H6bwA4O+dlxDbY6YqBkw6s5fFXGe9ifBw7l/MBsaBG00HJkYF5HQI850Cn7qXqVsQY6OFQvNh8Qlw3FQL9x7TB462Pv8QhlEx08dI/RTGYMz7KYSrSzMBPNNWmu2igYMuerwONuw22qL6l;x6XOcx9vfiaDpRvu1A/4wQ=="
 ---
 

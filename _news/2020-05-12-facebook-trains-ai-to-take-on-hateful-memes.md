@@ -17,12 +17,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
-    width: 800
-    height: 500
-    title: "Facebook trains AI to take on ‘hateful memes’"
-
 related:
   - title: "Facebook trains artificial intelligence on ‘hateful memes’"
     excerpt: "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how."

@@ -28,7 +28,11 @@ images:
     width: 1200
     height: 600
     title: "Facebook’s AI detects gender bias in text"
+  - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    title: "Facebook’s AI detects gender bias in text"
 
-secured: "NZ5QtswE1jaRZ1bbcZZXlVlJz8kmud+5smAViDu8NesudSQBdvmZIVAhNPdmlzHVfgZeYfDxS/fIJ9yTxYn+DzWl2VUaaQxXjm71XrqRa6LyCyD/+yrhcIejeC/lI4a6n37P45kPIcLLHPMyHivVuGE8pgfVfoENYRmPayabONsbTgrxyV0cYP59S6E7GywxAP4e2wodtWv5TCT+iHOxwbF1zz1T8bg8BcxaIilDapp64igM9NeHDQAPG5lCSVf4Q0zwYDFkaYC20s0fpXZ2Goq+VugxYkC7HkdtQbqKLC74l9Gecn3NrxLwJotZSZux/DO5OfywTILRWQmOolPipYoKcRmxYGY2c4M6bQSErgSaXYGYtM13s/ku8i0EX888d1C1gH4TFDr3I6MiHkZ741dEDcM3/tN+epEARqZe6dBJL1whS6pyh42YUAauOvYxDi2R9CNydy3Pgj1PnsG54DsgHcsyBw7XrHaxowcfvR8=;3hze72wuX6+Q47orNcp3XQ=="
+secured: "oMF+QbzE2B6fi0vifKB1g35mCurLIOoMcAO0TZmvNiZ1svmnlRU8DdEoul00k5Su8m8aezoI6fq3w0d8TAYF9iV+NJoZGLADJh/v8a5QbxpdRwYe2mBJCa2OnTtWsYiQx0uk1XPfSvyEKga9Fx28CvsxByKMYPkTh1ePPabxGUqLxCbEdnOOGuYYwusWI+aDfcdz3w+LNlSii2oVSf2Sd+6itrBdpTvCcfZXALbr5/13JCFSshu50Bl7/QDYi77fjaRIQRPLfzdJIe9yt3ioa5Q/NhkJIOmwnSjUfG+yFZ3w5OoJwokZ+xNNs40NgAXl;iabbxL55PwNhu1BpDqQZPg=="
 ---
 

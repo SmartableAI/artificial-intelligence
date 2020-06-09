@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "/K4j85rDJ8IkCPjKt6HBAnWN3ONW2VXjUKMYwYVNKfFr4GweyBzoXk4IF3FhGycK2l+6x/5CdcnYEiriqkdcoG8DEmbh+RxJd3GILuxhuiEf6b2JwgxM9VnuwpHstnjUNTfWIqUiQPJWuIZG3phhcElzy3LJTPKBx/eeXpDXkZgojJFoZ5xKwrUWQitDtTBlHUXzyD4t2GQLBib/SJjexrFB+h6RypNhcqur4d/cM4OH592y7zBgAcLzW41tAnu5o59SH3g63ZjwUXLgikeRtUyEAYcXWBEtjeALojyhGAcQbkBuGkQC8QpwW8xugqyiN0pweEqDKMMnyAOdLwpChZvN1m08djDKskjG/g1wfWBNb87s0wHfET7L9Pr4yjQXbf1zLDACppjfcL9QdjZvaZpff2PWsYwlapOVoh2Q/Vgc76K5hDpUMEWei+yhG1yknumqv1iP5qwzgDvCV4UCVMfS/h6wPMfSqYiQLro1N1g=;ZTa1sz271h5/Pd28pDiEpw=="
+images:
+  - url: "https://images.financialexpress.com/2020/03/1-568.jpg"
+    width: 660
+    height: 440
+    title: "Robots can help reduce human contact, transmission of disease during COVID-19 pandemic: Expert"
+
+secured: "O/KXF9YH0XHRxVRaoRCdC5+9DfUK/wHhIG6VsBuP1fqR0MMEtB3+0etIvmXMV4SI5/C9JLDzQrPl7/I/VpCzDWfl+stF9pW/+k/ze6PR1yisj3lz5uDFGAjymsuvcrzf+akSwtvXAXSrTkD9wQFyxXHlS98xWrK402ec9vXtn0vjHV3GuJg/WEFXSa/QvkkylEVp3qEhi27d1ulqhIOBPAA9d1Y7MjMU8UjOXF8LG1/7FQSqCBIyrpRRzjuR4mQfmR7IcrzjRuVWiJYV1CNn7DEbd4afS91U4dzg5gw+ugnWkfvAPjfI8OHHntNOqDoZ;TOCBurtaqW0AB5Vr5+VSVw=="
 ---
 

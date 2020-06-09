@@ -17,6 +17,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "PTwt+CjdOS7j6ffLwosk4a6nd/Z5D0ej2OOuTvTv4gVXzFGa6tlVgcHrydxMfvifRIX7iSs1AGXq3qqocZYIUgsW0cj2j+pPlLJIVWMA1n37Iy2oT36SxBqPvm+yDKXM7utJSiSEVUjtHbBNoTyElK08A2H75PpZK5L4kxwkL8kgwbszVlSEik88B5c9/VA+N1i5rheY4HsGns9eFwN82QWHIodelv4neN9JwfNvpQGiLo7BVTupxh4Z3nhjyqVAXOWPWDzh8hHx1qxfR3AGNffc++WTf0uWY4vTb0RUMZy2FHam3C4TrBrqPbVDn1W954xL8eWq3g0E+2ak98rK/krsiBEebs5mkAo7WCs9Eg4WnDothTN6x+jBaaS+DPNOGErWOgc3VqfYYAtFRV+wrxPGeyUWvdBuIQrCEloBKISXVbPGYKRzZx97U2JLRYlBE9OR6Oy68Lhy0jkfnCMDXv1ipG8t8UUqbCfzdOm9Wtc=;fOfI8p+0HdpEOrzAeYHizg=="
+images:
+  - url: "https://media.bizj.us/view/img/11167308/p16ai*1200xx5120-2880-0-267.jpg"
+    width: 1200
+    height: 675
+    title: "Opinion: Responsible AI starts with higher education"
+
+secured: "3feDPgDsjSnFvduGawG0YIZCP1wlj0oGc8bTtDhdzysISho6c7iX3+qWKEdH+Fgnds2fvUW4TtEQrTxBcQUG2TsPDOxE0wRmXyVVO3AU5zHydGXYhqxb/Wk8vzRwfkO6ORIgvmgYRs36Bicsc/4fwwpqP0+DCF2QiCZx8n20JnrhcmjIC9ghZlrYm5XrHzoUVF+EbTC6aL/tnqKOsf7Wk2xwpzC7x8AHFvvVGjy524AvEz5plZ7VFS0ESpQY9xCqfqVEjtKmhuhOe1B4o1kiCJuoC2GhI//cTpHWpL0RK4ta6BphCpg0Mc/vWNHmnxEV;CtUmz+A+0kuKtTG+L0Sk2Q=="
 ---
 

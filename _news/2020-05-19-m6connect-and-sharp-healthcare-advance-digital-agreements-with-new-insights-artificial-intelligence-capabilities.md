@@ -17,12 +17,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "http://www.businesswire.com/images/bwlogo_square.png"
-    width: 561
-    height: 561
-    title: "M6Connect and Sharp HealthCare Advance Digital Agreements With New ‘Insights’ Artificial Intelligence Capabilities"
-
 secured: "JR5t5R+ophKYTXlDqqfnuvuOdxL2dVpHor15qOie7BnDp+aC/z7zwQwqRlfbnO74E0a0alVAkrcAWAwEZ88dCLcL75sIaRyQOj5Zl3RAwZoX+twHNDvzdP2uyBNM4na4MdYt9R7VTcvlerdfAcSIFCav6iMGYr2dE764xJbrP0VksmkfFyKjtSttpAYV2n2Hr8902F0FnUTuoMCDt/5CS+0si1rBLZ2EpdKs7242O4kzRb0BnEsQ+6XCykHSjUw+vBYiF7U7Pti2q7uQpbws8rK1SFPtdvn5BED/QUkF5NVx2h45XSy+JbOhsIt7Tz4Z;qRi0ygRfJIfDI1We/2HMQA=="
 ---
 

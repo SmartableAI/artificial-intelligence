@@ -24,11 +24,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png"
-    width: 766
-    height: 371
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2013/10/07/d3fc7ce8-37aa-11e3-90a0-0291187ef9b6/thumbnail/1200x675/37dec431a2f29493e557633d748b29e2/sp-alexis-ohanian-headshot-tanya-kechichian-620x348.jpg"
+    width: 1200
+    height: 675
     title: "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI"
 
-secured: "u/uR+qyzbBPbo4zQFXUy4By6eQbJJJ8I8Wa5dX7Eh/sWeeqIgawsdbklJ+oEPFHaH27xEBYk2mGiD9KF+Eazw2MnJii0JKZNOfM2j6Dc3QThqCC75XDuYM6oN/JTTMALOQWyfEwcI290zIBpMhk0r1mX8Z8DNlXlFcoewrdf7dLaXgX4G6B+GVaqYYtZ8kW92DE7UzZd1hhDLV7cF1XjD3MI9oH40SuPp3VzipWIFuQtCck8fgqQKOIEgECO4BdGi/A40lintWZc8gtHlFD+iuCHMm1+LozbCnfK6mTU/ML3jRz/y0CNpsstFQ5zaiLjgP3hUTKOtsQVLEasvyz8NTSAjxa3UP/a6+cuL+vx4zRLN961WrykQ6xeuhDKNZY4ScozJU5gqHGl7i8DXVHmf+oDi5vUJT597q4msCifKn499+3aL9ekaogh5FF1YDstKeVbQlyLQA4jKHrpA/0K9qwUzF8zbt8wwp9gnGw6G0U=;B1Up/282GAokNqHPG088aw=="
+secured: "hsX0gt7zBteNanNUL6OWZKLL8+mZ74WHaDl4XrTcWJ/Jt6D798IZl6mMtm7cgJQnDx/bgS1A+UoYYpgh5Ef/ETX+QzJcyiUk6zy72Ih0gi8PKVU42kEABXSzeViTdsLFe00HFmR+kUtQ9FsrdMctlzquxEwqYNM2wja/MCgvwkZeNqFgeI7auRPzgfkEn4pn4za4mQLfAMnq7yqDTbO5C7g7C7QPnnOV6hzOEolDHGea5URViocNgAPHul8P3v8FfINMcpfRgTmD+vTfZL2D9+5EfyE0qYkgkl0qowJwUv5E1NCB7LAdF9HSZFR+Li5Qj7Jdx7nAqM0OUQxU31hOk6FfLTmZHjGJFhv6sKhzkUNST49xblFagkVwgxk+/erDDgi/A4O8PUAyqomvIv2Dmm8Zh0jhzjUtrbmbuSrlzngy474anDAsV49MRPQ2T6t11nJGbqBLwmWnzwsI0WrAdXTMBC0cyv8T5p1uqz64mz8=;HePo3RUwO5HiUAoC/QDNzg=="
 ---
 

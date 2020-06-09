@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "xvL6cuHnyEOquRSMSbGa2tv6NsURvBfsFSt0PYPrPeYYcgs+XdyMzlGx/HwnNQGIfFfydwtVnIoTOwe4bMp8ZCjgR6m1uYdd+d1XQUcU6UNt6NL24fmDl8O8tE16lViHOJVXKkkq4N6+EiI0RW8PMzC/cXHfvDdbrKhHvxX4bMhJKuluagNguEuNr/Ryr80pbtjDBcO4uS7nSGdSaiVM+lX4QUta15mTrBcXQ5BRWhBk7V/aajmviFD480qgykxD4ws9S8vn7bYfM6/trGXFH9LAy8ccK6FsKlCo2I5wh6WCfVbckoMGGFndzSdPAzMgo5PW5FHHH5u6hoNw/CuxY/i2tPeomNljz7479CSKR5o7AD9Kf/YtSPwrTeKD7kqZ/HvH2C9GQIaurhYzW0E7cbWsVK1J7IkMBe45LwKsLaEgzfb6m2AzuPOZaErfHLIHrnh1TkBu743/yaDXCAG3LUBa15bpF57f/XqJtgykmaw=;GJEt1LVfiALpW/hMnUe7+g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "Vuzix Expands Partnership with TensorMark for Facial Recognition Related to COVID-19 Hospital Testing Initiative"
+
+secured: "jKTWrh7hZiZTU/k+I3rlV863J+ESO91FDuZKBiYvZ111L4Pe1IOYzfIEtRbGSnqqVnuBGIC3opnlJFhf/bc9bgliR7GU3CaI9UoHYC9CIfVGzqX++0vbN7SFlV6ZBQfxTIyC25j7tBiTkfy3ZVc8GBsc/kl3tUYXaUHBhWutM5n2J5iaETspCXZOn0OUN9JEVZDeW7HN0FKzh/NOdWwR6YxUyBPatifVEFUZt2KoUHtyoF7EuSQsyqDGD0LiaCRX0VA3G9GtH4/5pBpLUaTdskui4+QhgKNAS4DFKXlUvdN5x3u6uP5X75A9wvHePELE;jVwImfvnRc8Gg55yj/XhVw=="
 ---
 

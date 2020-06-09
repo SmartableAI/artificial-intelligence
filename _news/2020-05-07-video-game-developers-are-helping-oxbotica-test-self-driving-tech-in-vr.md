@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2020/05/autonomous-firm-employs-video-game-devs-3-1024x555.jpg"
+    width: 1024
+    height: 555
+    title: "Video Game Developers Are Helping Oxbotica Test Self Driving Tech In VR"
+
 related:
   - title: "Volvo Says Virus Won’t Slow Its Rollout of Self-Driving Car Tech"
     excerpt: "Volvo Car AB is grappling with plant shutdowns and layoffs, but one thing it’s not doing amid the fallout from the coronavirus pandemic is pumping the brakes on autonomous driving development."
@@ -30,6 +36,6 @@ related:
       domain: bnnbloomberg.ca
     quality: 4
 
-secured: "CuPOTsgM6QQ7+wgKJrNhcno+RxLkOckGRO6a2IKnZiBDIop4kJP2vNrqbKQzb2CtWk7vwKFZuxjjQGxJKk9WpxPKs0PXEvLWOmwRFrySjs+iE5AMdJ99FbLlXY1x/y5pIyvg6d2bV3QkuqsSgs9pK2QoeuEfsGJL2lWNzxCLxRNpJYrcWPkF3uXRaCped1bhj14zhg+faGnok3Etc7FP74J4QzxARjdk61xlG3ziBT7Tn7T10YUopbXCNkrKDl4CWlnBdbfOm5rMECUlZDPocr1RpGiNFfeQyGtpQKAChVJqHB7mOCdd1BtnJbZDvqZxjYHV5pheUYrEOi2L9vk1Kt93uHahBwVGQQJY4ENKRGrTPepa6LMGw9YYhNI2LreyejM9CVojgMJkeR+mnoAj64NaMiTNKYeLh5jPqMEwAz4LBofpKHWH3g23lUFYp1x234kq28/EL0pd/gNVAafGt9km3uwBHJOBFC9fpiA9uSc=;J7ySdptGCg4CPMTDelMqOg=="
+secured: "OmDui/mibrL6WirkvkzH+Bg4FtTNvpba1S1/zzYa0cHjd4a6rzsFv4+tNKq6P4WqR3MgTX29xEVbMrDbKG+12UbV87c4+tbGFbBK3gwZKhF84AzghMgoksrf+j2ukpqdGyN1DT5bZsXq6AFLkB6yQaVFHKBGH5mHxFIWgsk6T0JJFVNu4/u3zGTAc402excDFYH2AxgahG9hd6wDmUsjb0p3Um902AyVq7ZQkKCuTKhfFaE/16LhdcZJ4Kat6hyfNomluKzWqUrJPLXjjCYDRl6+7zSlle26eIeyjT5qnduVO+U3Xu0ww1qLRN3TmPYt;G463x3WY9MeV207VuuUVDA=="
 ---
 

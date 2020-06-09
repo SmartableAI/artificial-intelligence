@@ -20,6 +20,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/d4248f89-2748-46df-bd94-d9dbc306d039/8f442ba4-5c7b-4b49-997d-622eb9efe742/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    title: "Chicago police drop Clearview facial recognition technology | Raleigh News & Observer"
+
 related:
   - title: "Chicago police drop Clearview facial recognition technology"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The American Civil Liberties Union filed a lawsuit Thursday against Clearview AI over its technology that allows users to compare photos with a database of billions of photos collected from the internet."

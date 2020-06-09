@@ -17,6 +17,12 @@ topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
+    width: 600
+    height: 400
+    title: "Microsoft unveils enormous supercomputer to train large AI models"
+
 related:
   - title: "Microsoft Touts Supercomputer for Large-Scale AI Modeling"
     excerpt: "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions."

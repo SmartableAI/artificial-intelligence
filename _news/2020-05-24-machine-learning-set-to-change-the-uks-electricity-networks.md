@@ -19,12 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "http://www.energydigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1143532344.jpg?itok=7WeWVviy"
-    width: 778
-    height: 518
-    title: "Machine learning set to change the UK’s electricity networks"
-
 secured: "I0cbCR7Gf2Gk4hZiD7MVogw4Z2rHrh2l0cgBDUQV3tFc6o/SHrF+JfilXAvUr0fpzn1/CD1Hp62BfYqR/Gx+hi69lAbzWFaleiOopYw2yQATatH5hAkei7LDuD708fWl/FmRFXiFC4AzEtVcXX6917CNEgOSezqGgefhMv3QE9dzcuRQVJqK4bF789AQVHYC01SU5LGP0RICnWJ75YSkAhwZrBGkRRyV49z3J1rrowCvu1qe7uoJVH0jBqdyiv0SLHqNarDLFcLmb+MfZVkauRHA2uCPoKY8T0bKrXWPGifjaW2WKkQbls6vyEBpDf7y;xrRDFQNggNDIo3pe9ru/tQ=="
 ---
 

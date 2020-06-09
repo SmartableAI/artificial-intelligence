@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "7wPzk9dQXtubd+J1SEPwDJOHMU7naUu/qjFjT4aiIP1DAe4Nye3FrTi96M2MT5hQu6h5dobyHOWoE11/RYaA6t/66FllhrbXOY0qyi2wp877/FO2/jEKTmvBJS+k9602Vo3QNXRYJ4yp2LaAGzfrJnm7tEqNAdUcayYIQPb92pGy4fKKAz5jJfV7DScvG+qSuL+4QGuJV5y6R3by+wOJYUbdtqpmGSMllfgcXRAZXj48QCq1F7W3KZDTmEUI6KQYcb3UTIknnqKPBIZlolanwrjrX8MdN4/IrRCcRIpuia4NLjwESfecoeIinOk5t/KzLKZtWCDE5zqJeVmCQk4ewFvJn+m4zvBBtz2e7IKTHMDOM45jAuNUtOelrk4XoIeW2xWfdl+G7kr8TvpNrZemXRpyANoq6NKoDbWk6TsXJZw6SRG/Mw03RhKnpbpvUCa5aRCXPrMteQsKHkrUA6CLyGfjhEj6Ue+QEpIUbnEgln8=;6Xsy3hdsXaiSQ9fTqU7waQ=="
+images:
+  - url: "https://i.inews.co.uk/content/uploads/2019/04/shutterstock_1117843787.jpg"
+    width: 600
+    height: 400
+    title: "Police are failing to consult the public about their use of AI, charity warns"
+
+secured: "qy/LwmdjeOdBxyOQVSNzTvzjk4z0JnIgdQ4yXTBukEsQJBa9hVLi4y4jJt+YGpN93BP+vUxtn1diCCPj61lpDHsg0Nn7+aTZ+K2hSjY1og2uZlEYcjl1zS4PD8hFsPyQXYEwSCMZvmojAfXdsbbtNcX3IdOxvlAhmZIx2HvPsusi6zspuOKqNOnnaqcQzpevKa4y1cm3t1Pd/ubaLwWfG6tnySv4V+DPl3BEXN5nmgGr5bIYNz3LekN3USph0z0exF6P0DVngSn9Z9qCdGixDovf/17TCkBsCdRpQkeiLNux9tQxsaYyKz2fLC94PHBX;W+KVoS/k8nTpa8CNhWTQXw=="
 ---
 

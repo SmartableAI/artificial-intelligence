@@ -24,7 +24,11 @@ images:
     width: 620
     height: 250
     title: "Hashtag Trending – Cable and satellite woes; creepy facial recognition; Apple production in India"
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+    width: 620
+    height: 250
+    title: "Hashtag Trending – Cable and satellite woes; creepy facial recognition; Apple production in India"
 
-secured: "PfXKlyRCZuLtWr3vTDteSGCt+nd0BGu5+8k5jmuPtIHTeiw+gdFLOuNNSXjw7LWOaFYcymCZ07icNAPoOmIIm3mLrYXYFxF7UkusBb1Ua/Csv+9rZ2SxE/cS/mJ3PxliP3GXsbsoxaynXoDqfi7rXPxzx04uRqSbKJMJeYCo4d1u/Wo5Zcf1q/MUEWj23GeO3C575hKQtTEzSG2kKaTjhCeEvXyyGfHOsTsIFTUyi52Q/mqkEAvlIEYMmWHu8r2OXT6CnFSVZ5qPlRMsX5V/xfsL8GVgGwJnLq5tOKzSFn1CckLvJxkcGQK5ReOTLPS3Zlmqqpbo+CHtjxdQnPXxMONiucHw8LujVb5ImLasx4M8PIwS+oLeCunkoeWGlERvM1/waw/ESiov7QL59wymQaDLXW3ah3OyrJ5BotK69I4rlHiDnqJkQYpuCsw3n6RF9n3CcGdDsRmnpXX0yYfgxoFOwzHHzg4cVFeHvl7Ojxk=;CYSuNXfFj5KzJid0RMVBhw=="
+secured: "iKGENmUt0X4tICwHaQsc424Rev0mKeT6lG12az+sRqsAll+s3aP6pjQR9LDA5WEQ9hapBR6rvm+DVo6K8BxSg52FdccigMT5iGBWHEcwtCNGK50Dxr8us0IW7smpPZA5u/DT23diQ0IXywC2YBkj70jFj8y6ZXHPv8MnDshpdkydlrQpP7R6oT/gEgp9mBCyI5Yhv19WeKesn2Hmof37P0tPURS3eYUDeTCS82iv87VZTrf27G+91sjncUlH4cgqsx2b+W0XIcYO/k1syJkjXZ/aVCGhcrIIND6FXIeRhXRuLPDMKxuWW15153D8B/Mq;HP6QV6Bj1OM1YbLQJDyE/Q=="
 ---
 

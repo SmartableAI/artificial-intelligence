@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Uym8wDN3ffI+nguBMmz6d3ds6nXQVqCEArnV+A0efNtMU8Gx2b1KO1B+GzFMGKm+72Q7Al+kpFd8bd6omIWGKHSL0UUD6ruuySQ3RaiA+s/IKzlB6e9PRbPG5tKLo7JjE9B3Y9jQTF9iCgZUZmhWcQQdjWWUYbNtkeBK8Zo+hud/XVJi9YR5d/dqufGHgzBLB1v94LGfjYu5qeQsKm40sKEvZOk9L702r9AFT1NOhSEfaoH7JdTKqAc+oxVPgA5pbLRQZ1AE8hYFxCdpB5zed5Zm8Wk0x7PXEfKd8pEDrh2H+Y8Ib+UFCfYwp+EtN0xo1x5rveNRrwOu8xNLjtt4KAGhUnAMuIu7RDbxqWhVgLInCU1Xlc0360k8co8Qo52RcneNLEfLzS0JBjC4KZYad9FwPpS8tneMvOIOhu/m9hn5kHsfK2jsGbNO1v44JQgjmP5ApAVH6XR00YKWDv5aR/nRURW7HZWPHFn8VzIdgYE=;ljob+8c5DOQRFRTsCrJg/g=="
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
+    width: 1024
+    height: 555
+    title: "Tesla Raises Price Of “Full Self-Driving” Option Again, This Time By $1,000 To $8,000"
+
+secured: "6nClIpPrEyxBpA3Tun9Uu6zgj3K1tQSTLk9dbFX7gFx2/YLmcjX3v1DAnzlO12DBaQN0fwLwNjLXheZKHhjFRb1SvcUsngjZefQ36FC2dfyvr9SwfzNlE3Yv3wMeSsWCi29Gg1kJiJ/Q78R96qQ8C9F4cjNescn+L67Tfj2Bh4YPlsAdm/+Ip17E6DlPGwAVeEyeMNu3QpVLAhwRewF/vt50oc08ojVVB88EVyf3YVP+zfq8ITRTIfmzKmTj/BMZ0PlsunUlDZ+qSi/Sw4iOr2f1rxwq3WBwGkMHJKWJ5Ph1qkOv6lOHhoEHb9Gde9qk;T3ERgB23e6MCkvHiCK5T4A=="
 ---
 

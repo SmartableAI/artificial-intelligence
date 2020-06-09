@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "+KvrPfhVQuXuYrgIO3RgvwXDICkbL1wUHInz5GHbg3tFOsqAzHuhf9ySw5pFaOUoYy7ZnAFK3piMFjQuWBy/XOGDT55tfj84sxSFJDk/ueI7/s7qdNOiQ2KyALaJnV6EDzIj0wyVJfZ7J4cFtbeT7spu5chQE+5nF3EBQR9BA/yOFcPoTueXoa3DveGu7MHlXjukrBp5H8vTNL8+AVAO6+v8EfQgpjcj7eWuTWSQcPYa9YZMa5KkmUwe5q4TkZfv56jqWvXjdPXWP6K8cde7X46t3QHvuJX4NWrKC2HWuBJk17UAqhrxSXR3CRcm/8OV5/x0YZMsAwYH2nte7PHwB/XqTmZXlzMLdXhZyEoC7XVWkdxm8erCnBcdXeipRj48MtQDdYCCJVDcBeJwhXstdmhc6G8hojJCdmcQ+hjovT6+RzvylJ4deu5oUW+FPJlq3ggQDVGgz094RLBuNdV5gaughZ7FXUEUCEJqjNppeTY=;YSaHn4fa7UcbCUM25AIoig=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/1-14.jpg"
+    width: 660
+    height: 440
+    title: "Robots to the rescue: As the number of COVID-19 cases rise, it’s become important for health workers"
+
+secured: "lfQiWy6BB+FsvRVYXZvcLNKTwjQ6c9v9V3T45J/EcTUGqTeotS+L84V7sivFlLOOH+7jnkjAFcUI9/lSPO7AsAKOCpeofSyamwrpFrRay/ajFtVulHEvQF6OuT7GHuIGL5wZ14468Dgbsidn7dxP7sqIfWIAlcKW03i3UWvO/TBP7rgxU8CN0920XSEhGRwr4R2xwbn5wNsgXBTSyryFnt06KINr/jUu+d0W+aIfZ+gHsSLSHjQEtHrMRzLwiZ5vSSQBR3pZ5I5+dFOiNRX5S62M4w1wH2Eku14fUpBmG8TuOl/wt3x9W947vlBJ0M8T;Epka2PP6pmdcpxZaw6uwXg=="
 ---
 

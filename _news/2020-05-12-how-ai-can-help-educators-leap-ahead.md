@@ -21,6 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "tChrmkRs1itUyT/1IUZZInlA+Ylh5eQhc4hwIO3qtpCaZd9d1KaoITNSaEf+lt/FCqq/cFTo7G/LO5iSOOPpSpNt6N+en+rWAaPsJGYfcW7GOPXQ7N19J0LQUQO+8cZgENGVrlqIG9MfKRFj2LpTXJYn+ECCYj5aZ05eeOzWCwchBgLsUOs+L06Hn69ddj2g88UKRvi22uhvZfWwUeLn6tLM0UdbPxEy+sr3jocjHgQV/ZKQtywV+UX8k+gj9f3jsH+bq58G+4+FSf0IlxLkvQ+shlM1707Tk48Jl6BYrlzTrOfc5FBvNJSok9ajKLXWs8WIgjFs2pWlBmJ9Onz8HL0IHBqkUPaYJWt2udIAioUY+b5j+QH0y1c1skJLOCCMAJFuOJLIC8z8CNCHV5ugZ6Pf8RVbDMXM/+ktG/x2Qdab2EKu/9rbLsUNgcoMRa1OIZiPSb0UMmk7kjDIwiHNeFIkrYbJjrWpSS7Xrg7tP9g=;0FeldmYJdhQmwRuM9PBTog=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg"
+    width: 970
+    height: 545
+    title: "How AI can help educators leap ahead"
+
+secured: "HXUfQx02ToYdt8gFiMy385e1Jt/ymavXBTWCOTteRtiPluCZtdCnRjtaBf9Z17myQPSum1EPkhR16D411A7gTRa6scs2G4occuT2e2y4tfnwbDIiEMXIuF/0KhLq0EyABQX16O8ct4rfj/2IauqR3UsIzwrVgSiCvHFWMI97oo9OgcL/OlRX619Xjh+Xl7kUPIjwZVG3INcZo7NpfESIzEPWqxct1nVRBosgvUdxLItghPqVfVUyMjrePsjlS28/8rH++7/NPiW+e9oNfcudC5gAkzOx3ZmTHADWrzb2PAnuMIBqwNFO7jgolkuc1Zn7;jC/OHJMRRFi42iq5EfLVZg=="
 ---
 

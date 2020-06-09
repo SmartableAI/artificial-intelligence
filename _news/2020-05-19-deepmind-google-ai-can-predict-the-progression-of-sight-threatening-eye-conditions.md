@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/05/GettyImages-175133840.jpg"
+  - url: "https://i.inews.co.uk/content/uploads/2020/05/GettyImages-175133840.jpg"
     width: 1024
     height: 658
     title: "DeepMind: Google AI can predict the progression of sight-threatening eye conditions"
@@ -38,6 +38,6 @@ related:
         width: 1814
         height: 1042
 
-secured: "LWZzOHx/UFxIncalwbdDv3fwLel5YKyxnbGaukf5t9ueXGsHf3dyOVCBkS2bDNpTqJzrgK4xOxVZkqOEVoFL7YfxHAVaDG31n/TttHs8qvTCAOQQeBqK0gjPchv1CLsOQjVWC84uMKmpL+8/huqLDpT0DAeruaWaSquPJH1UePGmFnY6CvU/TIm2+NeOgZAcfTFkkjccUrUXdHfgC3olH1GRyxz2dFFyUnYMx2ye3jZHvWOaIjgV6APFax+RoGNXxEGu0ckWBxW104lK6B3opDVTsd9BX8CLV/SCOSKkAyKOqERo7J1rmeFm3QftOccPo4UbvWGCWDvlbrn2U8kpaSa6IHuFlYTD95cATLnIHL4AGRaUKOVZG/qcLx/Y0hPErU74AMghEnl/9JprcxD0IUABnhzXVuzzm8jZ5jj29u5GmKY/mjfe9JzBSoiYbOdJv0EPvD9Ke36vJlhAE/oC90cad+ChAslquIABh010UEQ=;ToCLrlS79EujtiL9Sy3bAg=="
+secured: "CiRl9SYMM60Dz8EmnNQugWuysr+SUtSiEjUOFnO7noBWjZsM6ot9gvXV/t7RZXAayw7Sv/TuEYHjjads1CzWab69dLdPXNE/eyIrGWM6TcRLnfmostXkoBB3TWn3JUl/g8wqjze+fVlnYdLAgLQc+p3MAWyUUErI7yGnGy1Wi12TAJS48U8jwiqL+Q06gq4Y19fSvj6gSAlTXzvToRIlsYj/Tu7CsngoALJVPBt9+KcmhwVGSI2snM0DZ9qpegxzkFqRsZ9IoSouxop/GUmrWnZv6gvrwffFPijBz/S1PyAyx+fh6phayicReyRRUOlh;SOwhbkZAw6cKSMikOm1JBA=="
 ---
 

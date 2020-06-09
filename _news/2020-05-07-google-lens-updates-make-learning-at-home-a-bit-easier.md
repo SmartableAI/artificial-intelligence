@@ -21,6 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "+gcJ1Xvirr63/zOAclem4mezJ+49acpz1M1fjq0KV+N0YQlFm3N4Rmg0nem5f8NeQx/N+gfu+Ug8WPvfTWy99YuaZUg5zE98NfNfEaNQYGT7+eGCYack8kNoyv7VwLm8WashQGNb4pDFmCRNoWe+55rf1sR5KupZc93cW0tFJ03GRMAlz1JBgW0LWQr4gEfKDqI1atWNV6BTCWdZ/jgEcUgbl98dAtOp6UtN4s7kyU12PRuVvVpVLJCd2WK1hecihMYPbl7mc3RqbgBdfW2C7Fs1TEv2/ULuIjnYqWfdkTxI/0smj7IbbmHMOhWkfkCbY5QdEsQHz2pp1XoUy2YXFkgAnR+6lAnc6LICKafDM9PB0//2YD4qOGEK0qwT/9AsGbZOHMwi7Bay3+rfAbE76rCBTBE/YfvRbpJ7DVhRLnV9EfJU+WaLESyzC+7vdaFQATog+9TW9CHCIN6COW7CwDaGS5+FFTVsok4MD/d8+Is=;LkEexCrrCO/TbHrjTtpmKg=="
+images:
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/Google-Lens_Read-out-loud_Spanish-.jpg"
+    width: 1280
+    height: 720
+    title: "Google Lens updates make learning at home a bit easier"
+
+secured: "3xHKPCW/CbWxr3rTPEUhboDC9lYfgxg4lvejww5xJqCsnzz9BET3Np9CV1vqOx+FQo/HBTBQVnyWD3C7sHi8TUgEKyMxCg7b1Y+xmZ86AP7/b6aJq/0NVHhV4l8j+kuZv7IJ0NQfHnIcsAkGe8072CQRhHKDK0SItU4YJKzHcczOf89Ns4NEuBwiryCDIo2S3l7LlbqU2sY3HBAhtm35EjqoRlr283apEQmk+fcCaBrKxpUll0fs8pXCb7OcBhFsPhXGCBvq2HODO/wgoQIXOjVnMT2ya8DHY/V9lUJEt33Kh0tg6iLntgI4qd4F6V2e;Q1wrbo2umqIQ8qpKf4laww=="
 ---
 

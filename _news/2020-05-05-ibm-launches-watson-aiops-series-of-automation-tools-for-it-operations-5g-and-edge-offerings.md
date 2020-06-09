@@ -23,6 +23,12 @@ topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/04/1f124c5b-e8c9-4e32-bd55-0b43c2ebaad2/thumbnail/1200x675/e2dadb62383d012b4fc239d2dd0ac8e1/thumb.jpg"
+    width: 1200
+    height: 675
+    title: "IBM launches Watson AIOps, series of automation tools for IT operations, 5G and edge offerings"
+
 related:
   - title: "Smart Serendipity In IBM AI For Operations"
     excerpt: "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products."
@@ -49,6 +55,6 @@ related:
       domain: businessinsider.com
     quality: 33
 
-secured: "nlqYdAV+1kYF5T2w0lW06fs568Tmw+rIB0cWFhKVPHJE8dF9M+DPijmjiX9EpXElZtR1PxI3z58Uyz4auKjUybUTYmfmbsNW2cScb/pUpFJxdzG3F25VgY/7cLixg7YTKNSqNQOtEag96SfVAK2HNCZGwx4nycEa/0wh/uYqF9bbheDjRtjZKBry+2Kw3z7Az21wO6PFNNh57KwvhX+QlfI/eRLb9Tz4sWmJe/CS1l09OX6IoK6s7/uCWPB58wNu1Vr9IO1+RmIHG39oMplBMrupRzbvQDTarHQ695a53uItFdvd3lg087NFZ7NsSxqCA3PJPci6BRTtDO+vm8SopBa6vW1iKB66zsHS1VyJPLVmMVH91dZh9hyKmA8gwH9kcV35rUN/c3sv5ZFQmcyCuFq+dnWehLn+KwjBHZpDGZhNSHiruh/T7xVSGw67PWIIllv9CC6kPwuDoSkWAON+apnC7zERl0gSclcobC9x7dI=;TAQlmP2/4TRGqq2cqEJIdA=="
+secured: "eY7NLLHCRcysL8rBcjHbGFhYrR4haHpn+I1WaIzuCo9r/7pN6FRzXC8FYUOTUs+nT9LjmVM+XbjCxm4yxIoBREgRN9JWZGKRZii3BVcbnsdCf7Lupa+bqvFr0f4pnubROKHETe4OpcvL9tDJzqeIQ5ECVMUxgcPypNSiABt06Lg+0pkdhwmfi/PK/Ew4FgUap4EBKSjw9x6SsBfEkm7LxYjlQhxI/c681EROyeh5BLlAAhACRNNabiLQFeg3AHB3UhTkJ/XZrcVOBs0LFtvqvukxz4DvLNlt4BjhvHWEFyWgV0NhhDFhUc+f1jVDxxEy;GYnP+5JX0AChN3ZMVnft6g=="
 ---
 

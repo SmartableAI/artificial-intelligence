@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "ovgBEDj5Vva+6Xv3JZ771tFegkNWNEAip7KiRG5dasNCQPop437Exuilo/wxlC2eEhh14Uyhz4ZNcNqeJ/2blre2pmwwEA6+46dwMv3L28m6p/CVvr6nB0gvZGr68wmVz/KgKXweIqIaO30gsJIQHUVR2jo6rnNW7Nf7ln9R9EL6ojmQv624AVAzLyq8jg8YkkKM7Asn6PjpiO2eCdeTF0w1IIe2fpYgBWTgPisoTuj49h1N0OBsU8EKtPwRIsdsCX1ZKhBEBCgUzzwy5u1nNFGxWzZB9QHegJTTifu2q9e/7JW7LQn1wt9yU3IMkSY+SUfVwdMaZ5d9LMw4nJt7XCy+fkLXtSfR4/bAwOtEmQ9UojiGZVfsWjvGAu/ssQBa4Ba/uq80JGz9CGj5tNlRfDq9tLGbkUyOSpSybtzLcMF9gcbW9Th6Q6oXNKvvf+sFP7wT7QmtLp+W5rJaf4Z5tjN4cMN15dKFq6dMe1QErjE=;hKhMmFJjwvBGWp287Uc87g=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed52943da1f770006140abb%2F0x0.jpg"
+    width: 1200
+    height: 674
+    title: "How Forward-Thinking CFOs Are Leading The AI Charge"
+
+secured: "IeTXc3vNBYx5M7r4gPWCWvh3p1vBoXXsoMYokCTdep4vyDnNgGJWEVyTeJTVW0V2piRrj7Xab5gTIOEZNJECJJg2Lfpd6JShH1QtvZ1N099DDbEHJdN236cPdHqsWFxLgTNjDwuKgNoRkStioc26dfyB5ggeKDBCEer4ghfTy9MUQUKOC2prD0WR2RoZmDa0QlsPod63OSyZgqyUoqIU+PXOFsb/+JaEIzjym/HDOQP5CCrqNNFQ9SUxJI+QIJOqRbMn0fJ5+nfSgYSTJg1Gi2o8ULfh+ndQZX/wMSgT85xn5AUmXsGs2kN2od1ViYRM;CQx8o65xgk006rPTPzPlJQ=="
 ---
 

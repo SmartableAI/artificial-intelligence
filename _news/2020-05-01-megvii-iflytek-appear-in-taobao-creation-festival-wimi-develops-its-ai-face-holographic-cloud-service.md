@@ -14,6 +14,12 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://i.ibb.co/DDmnR21/1.png"
+    width: 554
+    height: 267
+    title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
+
 secured: "tpjKIIyfmdTJsoDZgnCKqTbN7DNJdhNTCZoMEx80SIBMCHUJ65/5TfyES6QWjIf7G3F22lGunLXW7n/cLtuM1GuH27RClx2JsWWIxVBzAacDcNeAf3eMgXqrMz5V21J1kvv7PxNjQ0klVw0wLXWGhsx3u8Cb04kmZZopj8yuUoEjMlM7Gr1T14fmH6i1bespZBzEcf3vBMS9FHt89OwJ1P6G8AGvUIHVECydycZ6VcHk0R6PQiXujBVld9otYM4SZtXN0cyMaA7kr3wHXsJIUTAvNhzavO6GgvDejPZLus5E3NPPwfypDjsPYZUq4lHq;KjoVhC7rAvRBwoEK7jZsHQ=="
 ---
 
