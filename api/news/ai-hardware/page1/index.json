@@ -5,7 +5,7 @@
       "path": "_news/2020-06-08-mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices.md",
       "title": "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices",
       "excerpt": "Researchers at MIT have published a new paper that describes a new type of artificial brain synapse which offers performance improvements vs. other exiting versions, and which can be combined in volumes of tens of thousands on a chip that’s smaller physically than a single piece of confetti.",
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

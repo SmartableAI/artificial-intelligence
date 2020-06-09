@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T18:33:00Z
 webUrl: "https://www.biometricupdate.com/202006/facial-recognition-deployed-for-atms-in-spain-pos-systems-in-brazil-and-relief-payments-in-australia"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 591
     title: "Facial recognition deployed for ATMs in Spain, POS systems in Brazil and relief payments in Australia"
 
-secured: "zV6UFVreqwWjnC8UTJxZRV4tSOrG0EAa+otZ410lhc/Z5pmBjlloca0lMXZKfox1vE8dbDzL6LRU4/4K5yFOImcOU+Rb6SjSu40RUaINyRNHRSioe8MyA6iWRaGZ42Bl0kieEtXtxoKbiCEqgJmHbLT9+Nnx2zUFc8Dzd3QaTokEgzZamyPAzTEIjAvpxGDsP9tWoy/wh/3NtuCl448AdSeaPwlgh7KrYryGUJ66vRam0J0J73SieKeW740Us5FTXuzeju+eg7KDD27JI+algz2fduUee9F1j/8/vXsI6Fi/XhBL2lyIft+wl4f/Yyhc;h2x26H9u97j+NXgi3FkOuA=="
+related:
+  - title: "CaixaBank deploys ATMs with facial-recognition technology"
+    excerpt: "CaixaBank ATMs throughout Spain are being equipped with facial-recognition technology that can validate up to 16,000 points on the user's face, guaranteeing a totally secure identification, according to a report in Atalayar."
+    publishedDateTime: 2020-06-08T20:25:00Z
+    webUrl: "https://www.atmmarketplace.com/news/caixabank-deploys-atms-with-facial-recognition-technology/"
+    type: article
+    provider:
+      name: ATM
+      domain: atmmarketplace.com
+    quality: 39
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/df/b6/dfb6dfc0be7061ddc2bf22510021e67b/cover_image_1591648133.jpg.640x360_q85_crop.jpg"
+        width: 640
+        height: 360
+
+secured: "WB7f/SERvTyNvag1cQZyT2afwgYhR1ywvgv4TxgS64LKyUG9aFlHMokgiu8dzDH+zM9OTK2GYt5cEJwNrB585MyCa18C6aq8NUAPSGhzMlq4Z3kjdS4ZSuOYgrsOKgKn16cUmr1/YLS6vjA9WkxoPbQ9DyHH3Tg3GeNuExoR0AKJt69UIK/FAcHQZ54nAljXIyATtcjsVE1ZUI444kwEBRvWskUoPIJyertK85/3gi43Ew2bQcsPberSAHBXPbYYLAhkJ/tkNHQt4TpDcYTbhWLXSAUH/hpYWqRznGAzklYlzqmH7POVQzDNHK4m5taciS0S0UwU4CqJRF+9es77on+ciCTZihGbw/RxnO2/gedq66WcfeMtE4wgbpJie/oAT6mIboUQpqP83V8NwT4EBYtFJIY5yYgUtrBr+L9ar6Rodt4wEb/e/s3f9WbRoLQ9h0irIiAUeV06SkUJlZxGldEVGjTnAT0K5pT+9WvKxfI=;ALTzpIIPR5VtHanhjypDQg=="
 ---
 

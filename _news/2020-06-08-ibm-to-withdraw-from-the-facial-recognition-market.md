@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "IBM to withdraw from the facial recognition market"
 
 related:
+  - title: "IBM to withdraw from the facial recognition market out of profiling fears"
+    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-09T02:18:00Z
+    webUrl: "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
+        width: 756
+        height: 567
   - title: "IBM gets out of facial recognition business, calls on Congress to advance policies tackling racial injustice"
     excerpt: "IBM CEO Arvind Krishna called on Congress Monday to enact reforms to advance racial justice and combat systemic racism, while announcing the company was getting out of the facial recognition business."
     publishedDateTime: 2020-06-08T23:17:00Z

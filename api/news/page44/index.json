@@ -2,6 +2,125 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-05-01-openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape.md",
+      "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
+      "excerpt": "Training Jukebox involved creating a dataset of more than one million songs including LyricWiki lyrical information and metadata, the research lab says.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "publishedDateTime": "2020-05-01T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/01/eb5d05dc-6a0c-4084-8f83-4e8d529d9bab/resize/1200x/a9adbf8e0894c35893db4417272de7be/neural-network.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
+      "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
+      "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes",
+      "ampWebUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coursera-most-popular-online-classes?amp",
+      "publishedDateTime": "2020-05-01T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eac8efc3dac9a33a64b9ab9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
+      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
+      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
       "title": "LinkedIn’s AI generates candidate screening questions from job postings",
       "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
@@ -920,140 +1039,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-deezer-develops-ai-to-detect-explicit-song-lyrics.md",
-      "title": "Deezer develops AI to detect explicit song lyrics",
-      "excerpt": "Streaming service Deezer is developing technology to automatically detect explicit content in songs. The company has been looking into the issue because record labels often fail to identify offensive lyrics when they submit songs,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-52499375",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-52499375",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-52499375",
-      "publishedDateTime": "2020-05-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E4F/production/_112059237_gettyimages-1191011684.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deezer develops AI to detect explicit song lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
-      "title": "How Well Can Algorithms Recognize Your Masked Face?",
-      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
-      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
-      "publishedDateTime": "2020-05-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "How Well Can Algorithms Recognize Your Masked Face?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
-      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "publishedDateTime": "2020-05-01T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

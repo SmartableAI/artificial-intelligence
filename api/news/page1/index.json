@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
+      "title": "Artificial intelligence chips benefit from a good night's sleep",
+      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
+      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "publishedDateTime": "2020-06-08T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence chips benefit from a good night's sleep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse.md",
+      "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
+      "excerpt": "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/",
+      "ampWebUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
+      "publishedDateTime": "2020-06-08T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality.md",
       "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
       "excerpt": "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability.",
@@ -50,7 +139,7 @@
       "path": "_news/2020-06-09-ibm-announces-exit-of-facial-recognition-business.md",
       "title": "IBM announces exit of facial recognition business",
       "excerpt": "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ibm-announces-exit-of-facial-recognition-business/",
@@ -140,7 +229,7 @@
       "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
       "title": "IBM to withdraw from the facial recognition market",
       "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
@@ -400,7 +489,7 @@
       "path": "_news/2020-06-08-mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices.md",
       "title": "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices",
       "excerpt": "Researchers at MIT have published a new paper that describes a new type of artificial brain synapse which offers performance improvements vs. other exiting versions, and which can be combined in volumes of tens of thousands on a chip that’s smaller physically than a single piece of confetti.",
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/",
@@ -438,7 +527,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1020,95 +1110,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
-      "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-      "excerpt": "Source link:",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DK0CH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DK0CH",
-      "publishedDateTime": "2020-06-07T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

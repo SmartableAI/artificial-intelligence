@@ -1,27 +1,33 @@
 ---
 category: news
-title: "IBM Gets Out of Facial Recognition Business"
+title: "IBM gets out of facial recognition business"
 excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-publishedDateTime: 2020-06-09T00:47:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+publishedDateTime: 2020-06-09T00:55:00Z
+webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+    width: 818
+    height: 545
+    title: "IBM gets out of facial recognition business"
 
 related:
   - title: "IBM announces exit of facial recognition business"
@@ -39,6 +45,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/04/77f715b9-2438-4c91-a475-435e025ed5ee/thumbnail/1200x675/b30830583fd201b20184073b0c320492/dji-unsw.png"
         width: 1200
         height: 675
+  - title: "IBM exits facial recognition business, calls for police reform"
+    excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
+    publishedDateTime: 2020-06-09T03:03:00Z
+    webUrl: "https://uk.reuters.com/article/us-ibm-facial-recognition/ibm-exits-facial-recognition-business-calls-for-police-reform-idUKKBN23G01T?il=0"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN23G01T"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN23G01T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+        width: 818
+        height: 545
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z
@@ -54,7 +75,22 @@ related:
       - url: "https://images.axios.com/BSi-De8yXAJyuFHPk-8AvK7hYpY=/2020/06/08/1591657676986.jpg"
         width: 1920
         height: 1080
+  - title: "IBM exists facial recognition business, calls for police reform"
+    excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-09T03:58:00Z
+    webUrl: "https://www.jpost.com/international/ibm-exists-facial-recognition-business-calls-for-police-reform-630798"
+    ampWebUrl: "https://m.jpost.com/international/ibm-exists-facial-recognition-business-calls-for-police-reform-630798/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/ibm-exists-facial-recognition-business-calls-for-police-reform-630798/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
+        width: 640
+        height: 428
 
-secured: "4gj6ZlgHasGtT0RQjWKqzlI4Uu+EglBkzisPFujOc6BpNhtgvdguMOZp2WlBiv/suRU6DVj/Yx0R+ia4GAJBKO3CuI0C2Ustk5N+FffsspFsMzLXGRG1ATZT+PX20T1P6gB+FyX0NTcu04Mz0WbTdNhY8FATcU83QUrKTkYkrlBp76Wh1XHMPqWeJkzXBM+eRRHsBD7rzDJNw8zuj8a9Kcx/chuplemWgzKRVSjosFCUeEJ5IzIb4a2xbrDza+7JMZ/FNeERICe6xI8h3hd7KFuq2BZiyOqOm6+HMo1d7b1aVHqniLTI7v20JAeS1msXajYN1k3j2zHVgLbVQJbVpr6UkYJCmpZdXUnoLA00Bcsp+J1QDT4rrJbOfNzRC7//CzMFphfBZX73djq6Jd44SgU8+ZF4ZkkPfR7nzRYkakBHuTJ81nk38zPSXhHYbA/vq4JUnRzuOZ/SN2zjuQdUeWlhIdcWbZ0f0N7m8XdSGdk=;lTasFITYpmxQ5g9HgST9+A=="
+secured: "nWMjKpFrY3dvlZgREzkhE2jV+eVa1SvYdRkbjDqLs+jKAD+TFPgyrWDmPYTH/jIBpUrWz7hQYt2Snt0D+M3A4jxYyPV0RdcOLraFwIQGaXT7w74nge0Uwo+ksKGin1gp6uGnHMFVHfwod8ieoFdnyXiC8CKly3sSAK8WNyPxiZcHcP2bEYgvtr1LLy3u26C07ayT0sWTCc3FHIJQKZzaWe0fLqr8vxoD/TtQ6kNd+xS5/5LdZdYmQB/pYAHpTz7xRGz7svaYPbaBmHbNrzvm9bUoWAA9Ics+HDomvXneImAb7nn9tk7IIWoVTf83Nt3o;v5+obbDTAZDc31oJk4yfRg=="
 ---
 

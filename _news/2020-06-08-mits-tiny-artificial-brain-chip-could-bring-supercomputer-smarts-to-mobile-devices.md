@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could
 ampWebUrl: "https://techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/mits-tiny-artificial-brain-chip-could-bring-supercomputer-smarts-to-mobile-devices/amp/"
 type: article
-quality: 98
-heat: 108
+quality: 100
+heat: 110
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?w=1024"

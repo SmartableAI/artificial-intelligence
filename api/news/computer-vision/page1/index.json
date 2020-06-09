@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse.md",
+      "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
+      "excerpt": "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/",
+      "ampWebUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
+      "publishedDateTime": "2020-06-08T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality.md",
       "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
       "excerpt": "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability.",
@@ -50,7 +95,7 @@
       "path": "_news/2020-06-09-ibm-announces-exit-of-facial-recognition-business.md",
       "title": "IBM announces exit of facial recognition business",
       "excerpt": "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ibm-announces-exit-of-facial-recognition-business/",
@@ -140,7 +185,7 @@
       "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
       "title": "IBM to withdraw from the facial recognition market",
       "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
@@ -1253,52 +1298,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
-      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
-      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "publishedDateTime": "2020-05-21T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
-          "width": 560,
-          "height": 315,
-          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
