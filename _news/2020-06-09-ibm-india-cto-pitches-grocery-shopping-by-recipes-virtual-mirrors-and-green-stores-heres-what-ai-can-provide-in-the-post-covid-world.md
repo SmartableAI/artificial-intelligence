@@ -25,6 +25,6 @@ images:
     height: 1024
     title: "IBM India CTO pitches grocery shopping by recipes, virtual mirrors and green stores — here's what AI can provide in the post-COVID world"
 
-secured: "jO0TENrrkC3SVgPwDspWnsftFs2iZa79pbs5E7ZUpzmCikdJyX82Pe3/MaZyupIalGCloKXvToe1giheHurrmWntynXmHWJM3/B6z72vVIEjXn2+W+rmCXvAN3KjokXOBjd6uy8v1m6gfD6WtwtfYQhiypqJoJ7j8OHtzV6ibb8+dUzrTOvy1Kqj0ouZDEyAnb28BE7Ozoa/fdmOx37FJKgL4ElzT0zANswSW4O7VOwoJUvZPKmw9hBHEPAFOuGLIb5DA54nRJwg2erMGieNKZd8B1qn49yXOx2jeLeEOIY+F1x4Bf7SrrPOZpSHICmk;cdU6VwzpHeXI8VNgU7uWSg=="
+secured: "8YssAPOesoceL4lUVNCRj5HMIHpZli60fc0D5xHc+h+XB4h4PpoMbQHgxUvsb9GDjcGHrXfQ0Bo5Sqymy2nWdVhI/S+knGGtp53adqeQ7zQQbThhb3UG8s8OC5zjsjk4wYC8pLE9hfp7BGSlS6rm8RPeHg9HQLf+RopRtP9Zto6wVRQs6lkXwND38j4TdPvkoHJmgka2kBLCHTgG/bIAsgs7whzI/qMVli67M6hJsB2TkvArmM9V9HRCR3SbbxMQRVEDHus05k0v0qnoR21szcb9Wd+G3HvdP3ZVbdCMDF9B2zeQXHCyqE/9oshYi2WE7ExxdimphcLYHcC8zqmKdyUfSBz+5VZ/CBBhboNaJcO4zrHS66+lqSDJksv5tJv0brRqbgfOeCmt5HeS5wxN4u6WJow5SkDktxs8miB/M3ItEX7rogCkVA9KXTtkAy5wFbEIZ8SDlm53IamA4+NJHE5zxzPsoHd3XmYOkgrhIJk=;c9NBItBW+++lugq7eVbYhw=="
 ---
 

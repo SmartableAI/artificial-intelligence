@@ -2,6 +2,43 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
+      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
+      "ampWebUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
+      "publishedDateTime": "2020-05-20T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/05/97DEC7C8C9EC4C018B904AD24A8ED6A2_7.jpg?w=576&h=324&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
       "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
       "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
@@ -1221,51 +1258,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
-      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "publishedDateTime": "2020-05-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

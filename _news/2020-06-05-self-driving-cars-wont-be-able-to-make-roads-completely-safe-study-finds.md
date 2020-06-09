@@ -195,15 +195,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
         width: 800
         height: 600
-  - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
-    excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
-    publishedDateTime: 2020-06-04T14:06:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 4
   - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
     excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
     publishedDateTime: 2020-06-05T21:17:00Z

@@ -2,6 +2,51 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
+      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
+      "excerpt": "The new series are once again presented by Christopher Harrison, a senior program manager at Microsoft, and Susan Ibach, a business development manager from Microsoft's AI Gaming unit. The second of the two new ... on how to use Python and associated tools within the Azure cloud. For example, the tutors suggest that students could predict ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "publishedDateTime": "2020-05-04T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
       "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
       "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
@@ -991,51 +1036,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
-      "title": "The rise of the robot",
-      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "publishedDateTime": "2020-05-03T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": "The rise of the robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

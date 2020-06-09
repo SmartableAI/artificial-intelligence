@@ -2,6 +2,51 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
+      "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+      "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "publishedDateTime": "2020-05-06T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183896/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-runai-brings-virtualization-to-gpus-running-kubernetes-workloads.md",
       "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
       "excerpt": "In the early 2000s, VMware introduced the world to virtual servers that allowed IT to make more efficient use of idle server capacity. Today, Run:AI is introducing that same concept to GPUs running containerized machine learning projects on Kubernetes.",
@@ -1234,50 +1279,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough.md",
-      "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
-      "excerpt": "Researchers in several countries are working to develop a smartphone application to rapidly and accurately detect Covid-19 from spoken words, coughs, and other phrases.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/",
-      "ampWebUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
-      "publishedDateTime": "2020-05-05T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb1b5c5ea00bf00063ad5af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3321%26cropY1%3D0%26cropY2%3D1283",
-          "width": 1199,
-          "height": 463,
-          "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

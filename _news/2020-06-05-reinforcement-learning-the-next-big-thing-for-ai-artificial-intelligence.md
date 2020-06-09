@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-lear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     width: 1200
     height: 675
     title: "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?"
-
-related:
-  - title: "Learn the Basics of Big Data and Machine Learning for Less Than $40"
-    excerpt: "Even if you don’t want to work in code, learning about big data is a smart move. Recruiters are looking for people with these skills to fill roles in sales, marketing, finance, sports, and other industries."
-    publishedDateTime: 2020-06-04T14:32:00Z
-    webUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40"
-    ampWebUrl: "https://www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/learn-the-basics-of-big-data-and-machine-learning-for-less-than-40?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07GfgGmxXRNHdBubixzRcFm-1.fit_lim.size_1200x630.v_1591258593.jpg"
-        width: 1120
-        height: 630
 
 secured: "YhcHV++hhwQT7CDJmQGgap5Cp22h++YCCV3UDxs/HZZ0Nf0vDxpGgW6A7z43l8j+EoFcsMNABhXlhjIh6evpwSetdp1Liz0ws75fhj0ZNSmSL0stZT1GVnPRjLQ/GZo9JZ42sm000UXTL1MyWKlII/xW25rUCj046WOFZmeOJSmvWnBthVIqPm1okmkCE8kwPeh8MZqxXLblrHQFbzxNeGIoKYvVA39DnfRSd8OlXzZuSlQ5Nu7f6dGh4mPHBe4Zp04+Dgx7uplXzkRqN4dA7WTMTMB8z44ZuuRJvD1lyxNRbDGhQWYhqqVloyQP56vhDR8WTQZ1Qq4vaHxEX9nrTYtskbpa7qGCyakfSIBuRVpZ94O9L4aB3mtqdHcPTtL8Wssq22lZcdj3ph5XBaMyNO0gkZvDVy4pZxf80dxNku4yrlT3y85lS1K6twermFebbVGlGgigKv8MhARkseX51GWRT8uhlEorE2ohB06Pw/Q=;CA6NWv1UhYifKD0y4T16AA=="
 ---

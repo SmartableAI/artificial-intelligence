@@ -2,6 +2,51 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
+      "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
+      "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
+      "publishedDateTime": "2020-05-07T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai.md",
       "title": "Leading businesses reveal the power of combining human ingenuity with AI",
       "excerpt": "The post Leading businesses reveal the power of combining human ingenuity with AI appeared first on The AI Blog.\n",
@@ -1184,43 +1229,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
-      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-      "excerpt": "I am predicting today that every company will become an AI company, not because they can, but because they must,” he said. With that idea in mind the company rolled out IBM Watson AIOps ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -1,23 +1,31 @@
 ---
 category: news
-title: "IBM exits facial recognition business, calls for police reform"
-excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling, Krishna said, who also called for new federal rules to hold police more accountable for misconduct."
-publishedDateTime: 2020-06-09T03:12:00Z
-webUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08"
-ampWebUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
+excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
+publishedDateTime: 2020-06-09T00:53:00Z
+webUrl: "https://www.nytimes.com/reuters/2020/06/08/technology/08reuters-ibm-facial-recognition.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
+    title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
 
 related:
   - title: "IBM to withdraw from the facial recognition market"
@@ -80,6 +88,21 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg"
         width: 1280
         height: 800
+  - title: "IBM won’t develop facial recognition tech for mass surveillance anymore"
+    excerpt: "IBM said yesterday that it won’t offer or develop general-purpose facial recognition technology to encourage responsible usage of tech by law enforcement. The company has been a big player in the field for years offering several solutions."
+    publishedDateTime: 2020-06-09T06:31:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/IBM-Facial-recognition-796x418.jpg"
+        width: 796
+        height: 418
   - title: "IBM to withdraw from the facial recognition market out of profiling fears"
     excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-09T02:18:00Z
@@ -222,6 +245,19 @@ related:
       - url: "https://e3.365dm.com/20/06/1600x900/skynews-facial-recognition_5009232.jpg?20200609042007"
         width: 1600
         height: 900
+  - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
+    excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
+    publishedDateTime: 2020-06-09T05:54:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/06/09/571475.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
   - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
     excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
     publishedDateTime: 2020-06-05T18:16:00Z
@@ -262,6 +298,6 @@ related:
         width: 763
         height: 509
 
-secured: "ZtTLUCrloaLr4YJ6vdUhxtQx+QVgAyCBfniYBNh7eESDj1bcCrjeOxNVK+XuWpCV+wLRggecN/aIyTCy1ZT4p57lyPhlUI+XvaejEJHVS/7snXa6ixCKIekG2QB2qRPGqJQXIP37iknigNc2hVhqzjVX+bIZJKdc3v1elTiQt2oHGpSmZmd7VX5KL3xWQOmr5o5GF/SBKkbjCI7n1pmOcgyw6QZhJMZjwmDxyLtmInwjMzVFnyIhQsRD8cAWumz+GeOLRHfrk+mk/2fWbJryvCElny1DuorNiiXaVWOdwYcyDjb0So9uDrk8t7vP8E/X02IY71fiKPJi615AwXiin2Yq2OZ1v6J82roy38Myc3ksKewKJv3MDVfIXXXraIwQyMqkg3nwfBE04zSma7tZ5CGV37MTFJ1BtflJ8iuQ+94DQjohiMo2h3HFZrS2B4ml5e7YhpYlqMjKPK6FJA2+RhnOuhcD3lwKOaRIwD3f8tg=;7JkykdKExYiCASrLwFa+qw=="
+secured: "a/dpO2HQUxev50ANUebK2zFum7WBNRpOzxsq53CmOVFvVyJvuO62OMI8R4q0ZrlN2mQ1dy38xl/qlbAq0e9HnMSzxXHk/1Up7SAOVlwDRFRmO2DRDPhC3Z1CdWaaT7nk8d7hboh7ea0xKq8Y7GF4WnKJyCvOShQbIHYHEmdsgVcYCkYSLLg9VMqdonDPBfq1jYeYvGPa5yfGoWTifvAAFU/f2GDD/DeQTHLjnvx6VbI1J2Gz2Lxnt0zDAY5hZ3Sz85+JXlVhdSYwGQoUVGMDP1mmTV+S9EEARPx32Y7/oM9svuBU5Fdf//uQDQFAkN+W;28PEfK0v6h7RRdaHGQtdyw=="
 ---
 

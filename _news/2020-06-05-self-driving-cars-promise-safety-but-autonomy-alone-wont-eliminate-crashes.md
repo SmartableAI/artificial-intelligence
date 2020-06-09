@@ -204,15 +204,6 @@ related:
       name: TVNZ 1
       domain: tvnz.co.nz
     quality: 22
-  - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
-    excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
-    publishedDateTime: 2020-06-04T14:06:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 4
 
 secured: "VamGTVI8knnQ/+hC+NXz1Mj3nHuozJ8Y3HklHSesxKCTwGIcWGazYbLPd6s4LM6h0WREEtxYbmPRpVgW/kRi7IB5yATWYRiHmWf9ZoXirO3m3b7vTmcZYFIZkbbES8wGK+CxXXqcHkjhl9ajBa7tNaVt5vYeharxds4iq49Dgkz15GP6P7MCMeDbPAwVrvnZKW4YLK9mytt085eDs+qZSPy3N4wNXawuo3Q6zIJLuWpRAAf/IR1fIofuYo0MW9EAlIqxNb45iIMQR5TKW9Njk8C6B884+rdu2a6RBHtNJHcG0ZUiJpsGLaqZawhFJJnbeE/HQAnV4RvUptWG43UNnUJiVVUxVL1EdLRLBOOIS4IIOb4542HMqUk98l4JFzhmDaguQTpQA/QCj00xQJbMqxp8thS2pPAerTZ0UZBmA/iCk55CBT5/GYTyx/rToc29USpA6T3ACESq5lXs0QFdqsqOMrHbrLG0FFieO0+4SYU=;uGR8h6EVEDH7NJy07h1ibw=="
 ---

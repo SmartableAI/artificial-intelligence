@@ -75,6 +75,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
         width: 600
         height: 350
+  - title: "IBM won’t develop facial recognition tech for mass surveillance anymore"
+    excerpt: "IBM said yesterday that it won’t offer or develop general-purpose facial recognition technology to encourage responsible usage of tech by law enforcement. The company has been a big player in the field for years offering several solutions."
+    publishedDateTime: 2020-06-09T06:31:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/IBM-Facial-recognition-796x418.jpg"
+        width: 796
+        height: 418
   - title: "IBM to withdraw from the facial recognition market out of profiling fears"
     excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-09T02:18:00Z
@@ -135,17 +150,19 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1587425495"
         width: 3915
         height: 2534
-  - title: "IBM exits facial recognition business, calls for police reform"
-    excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling, Krishna said, who also called for new federal rules to hold police more accountable for misconduct."
-    publishedDateTime: 2020-06-09T03:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-exits-facial-recognition-business-calls-for-police-reform-2020-06-08?amp"
+  - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
+    excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
+    publishedDateTime: 2020-06-09T00:53:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/06/08/technology/08reuters-ibm-facial-recognition.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: New York Times
+      domain: nytimes.com
     quality: 69
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "IBM Gets Out of Facial Recognition Business"
     excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
     publishedDateTime: 2020-06-09T00:47:00Z
@@ -228,6 +245,19 @@ related:
       - url: "https://e3.365dm.com/20/06/1600x900/skynews-facial-recognition_5009232.jpg?20200609042007"
         width: 1600
         height: 900
+  - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
+    excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
+    publishedDateTime: 2020-06-09T05:54:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/06/09/571475.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
   - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
     excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
     publishedDateTime: 2020-06-05T18:16:00Z
@@ -268,6 +298,6 @@ related:
         width: 763
         height: 509
 
-secured: "16BWV+LR65MT4+lDkE0ZInk0mrHysgK5A7/vP7dnSCDjVbvNScPndNQjNb6u1/U9/XliibGeG+vrUHkufp6UGIApodWcuLMhfwRPtZtbx4zNzH6KBslEPfdWrjOrVy85m+gmKkekdNb3W0ABBPsLMzc6KP5Vs8bIEH/sPbi0k8GLQPqIxbvWuZGoOT+bG85PasWm2o4n7BXWfwWYNYb6v0zky3YFD6k/joJ0u2kbalC3WKKUhRXs9cFTga1WP+x3RgI7sLZf9bZemwwY+lhV4yFYZ8/KHb6ItbLVBPlhEn/DWDbIoZ4SxscRvcaYki61RAJpxm987LWaOM9/zU6Wtb6Iy5t0PGrlMkufybZ/1gQpGD5n6L6KII4Pl056rKRj3ngA1dpjmi6oj2tRdhxkq7KOauZBDNd09RvPKes4XoxzSaLhSqqV3wlMTNUZ+HqfiwVfZfjOWUkx2YStVsllnXK7p79fo/IwgxhGlHKDTDM=;2qFxAn0bBiQmIA+YZX89aw=="
+secured: "LjPV2E76BQPCQ3MyvnvDOv0PMLRxux4iAh/RGq6R3ei0pm9R8ZGxKpAy3A6hE4sFDvPQfziXb6TFappGNsgaiHfHDypQI4h83rxEHZMqkgTnV/tbXk1TZMgPl5je96rqfbdOcJ0kViFU26gRHEZvLHzVwB5mNHsh7XqtfWtz2gD47C/2Qs93Td795DroL8bI2g9ZNCqpVb8auAHHqMJ/UG7zkdRNtB9icNhP32w/pZqk63wW5oTPbDaLPrWGgtys/ASxsftJCUdTQy+WueKKfgSAuPe87ec1de0XXIqoOch58dPPmi3qhoJ+ToOAUx/4pydcXg6SSY6IVZRduowbDxdn1Sw6Is6Ywrywm7Pl9olcElA83Jm5M9uBmGNXRPTINmEJbqZbcna14ga3JDUJ0u97ADO27SLHgf8rgXbYJuX1jp3bbinsKgsBh5sp6aBM2M/CDQJjOZ7cSCtSCUs6rCQMIQlXFGdCO8DTkK8R2hg=;uq/lKL9MflLeZ4Em0b+/zg=="
 ---
 

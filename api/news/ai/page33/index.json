@@ -2,6 +2,50 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-05-ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough.md",
+      "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
+      "excerpt": "Researchers in several countries are working to develop a smartphone application to rapidly and accurately detect Covid-19 from spoken words, coughs, and other phrases.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/",
+      "ampWebUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
+      "publishedDateTime": "2020-05-05T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb1b5c5ea00bf00063ad5af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3321%26cropY1%3D0%26cropY2%3D1283",
+          "width": 1199,
+          "height": 463,
+          "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-this-ai-tool-identifies-the-most-promising-covid-19-research.md",
       "title": "This AI tool identifies the most promising COVID-19 research",
       "excerpt": "An AI tool that scans reams of scientific literature for promising COVID-19 research could speed up the search for a coronavirus vaccine",
@@ -1207,51 +1251,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
-      "title": "IBM Watson AIOps automates the detection of IT anomalies",
-      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "publishedDateTime": "2020-05-05T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
-          "width": 1000,
-          "height": 690,
-          "title": "IBM Watson AIOps automates the detection of IT anomalies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

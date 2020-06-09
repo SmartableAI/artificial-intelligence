@@ -2,6 +2,51 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
+      "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
+      "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/transform/how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/Melissa-Mulholland_Featured_Cropped-1024x598.jpg",
+          "width": 1024,
+          "height": 598,
+          "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
       "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
       "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
@@ -1191,51 +1236,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
-      "title": "The Easy Questions That Stump Computers",
-      "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/611050/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/",
-      "publishedDateTime": "2020-05-03T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif",
-          "width": 570,
-          "height": 321,
-          "title": "The Easy Questions That Stump Computers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

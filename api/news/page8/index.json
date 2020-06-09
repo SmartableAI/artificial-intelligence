@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
+      "title": "Chicago Police Drop Clearview Facial Recognition Technology",
+      "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-tencent-invests-us70-billion-in-the-future-baidu-opens-worlds-largest-self-driving-car-test-ground.md",
       "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
       "excerpt": "A wrap up of our leading stories this past week including Tencent’s plan to invest US$70 billion in digital infrastructure and Baidu’s new testing ground for self-driving cars",
@@ -1042,51 +1079,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-how-open-source-data-can-drive-automotive-innovation.md",
-      "title": "How Open-Source Data Can Drive Automotive Innovation",
-      "excerpt": "Progress on these fronts will be crucial to making smart cars even more intelligent and bringing self-driving cars to fruition, but industry stakeholders are also concentrating on another key to automotive innovation: open-source data,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/amp/",
-      "publishedDateTime": "2020-05-29T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-69-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Open-Source Data Can Drive Automotive Innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

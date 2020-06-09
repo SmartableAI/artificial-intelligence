@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/computers/artificial-intelligence-chips-benefit
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Artificial intelligence chips benefit from a good night's sleep"
 
-secured: "sGKPKEygXfj8HOdvXesKgj0GDxSa4Wl4dm7e+vAnOe94waDi8QtlNOGHo5hUS46i/mEFiqGIw7pQTkElW2tcMBbCbNUIF5XpZ8MxcfY61Pmw01HkwcpZzl51oBD6eMZnuE8Xt0G1JoAoeXFkQiSiPQ++0Ng4/12iH/Ua2mcDw0Fr9Wsa4EgvwC2UylNa7SLdM0ajs9uL9P5pgh6PWAUtEkOkG+3VquKFWllIUaNhUeWC+8IUTYBzC+Q8SHySKmGq3HfNKmG1dOV3Tpr42aYIYJ5v+xJfHs4OrF+YbVQHvm+tLZ+pvrZ72xGRqRYMqZak;5bqN+1tVgR7L0qs0e8yiDA=="
+secured: "8Xd1dj9BjLRsk6YZONlfPL3Ef6wEqi40FzP0XqdVok++DyxY18jwIcG8avnepq8gn69vjSyIcFWZw7JyA7H+36HaJXG/OlFmq2BlzxwKxk79xEGRVw0k4vzyucGL3on3xVR+ud58Gt8dyFjny9c/XpIom5zZhxZAhoFoe9cMncnOEy6JQO/at9BKSE7LvbhprwxfKvUsUSPj+ht/yyBPOIEgsk7FX7+e+RKnxrv7OFF7/K41L+X7eEYcmzGK9u8HkvShmCmMoDSdhEb7t3XSGZwCc9WHzZj2RO69ngficjCtT+KLkI+ONgO2rsOs7jZaVUJuRAcjqHVBK5PI+c2mUac+bGBhc7R1wHsOzS9hU8LQTE3kbG3UdSy6gCZN9aBlTvsv+uJZ3Sc0xW1QTnBKNzZghdE24uq7d0QIel/Og1wbiBvuaZt7xmSlgymcEDBqQDAKr7fLY+2clG8pC1nGh8oNlqyPREVXKoUsyqZZbwQ=;yk1rA/lTSZiMUjA98zgcPQ=="
 ---
 

@@ -39,15 +39,6 @@ related:
       - url: "https://whnt.com/wp-content/uploads/sites/20/2020/06/self-driving-car.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "IIHS: Self-driving vehicles could struggle to eliminate most crashes"
-    excerpt: "IIHS: Self-driving vehicles could struggle to eliminate most crashes; Ford Transit now available with efficient and durable new 10-speed automatic transmission; Ford"
-    publishedDateTime: 2020-06-04T14:49:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/iihs-self-driving-vehicles-could-struggle-to-eliminate-most-crashes/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
 
 secured: "xefiSs4pp9sgifiCXJdcZHVScuNwEuXHF1CcqadfbREB+EiZCndwz9snV3meS83gxOS1TGYjmJCZ+Rw+yhg7BSn74twFlekeHz0DBGYJuFo61ldrCC+ZfgiKLoJNNtqQx5gSLb5U8M7mhAbfJGz1D8yKPM64uPmHuXRK7X96pO1upaL1inIX8nfcmdlSBLmVxYBvIFgjkJDczYvZc8mLDbn2LTMB05RHQ4Rk6GPJW72xRXLDNoX+MUPqEhTa2jdSz8mJETSJoLsRHZqk2ehHeAut1/gxcrRMJKb16lxJqD3uxMyGEUL6lq70VjjEMrW4;qYMZVorDS5YHi7cBOXrIYA=="
 ---

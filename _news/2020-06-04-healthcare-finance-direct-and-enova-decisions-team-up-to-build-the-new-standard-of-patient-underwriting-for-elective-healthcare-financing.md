@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T19:58:00Z
 webUrl: "https://www.prnewswire.com/news-releases/healthcare-finance-direct-and-enova-decisions-team-up-to-build-the-new-standard-of-patient-underwriting-for-elective-healthcare-financing-301071027.html"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 818
     height: 428
     title: "Healthcare Finance Direct and Enova Decisions team up to build the new standard of patient underwriting for elective healthcare financing"
-
-related:
-  - title: "How this company is fighting healthcare fraud with AI"
-    excerpt: "This pharmacy benefit manager’s first-of-its kind initiative uses advanced analytics to find and fight fraud, saving health plans millions and improving patient care"
-    publishedDateTime: 2020-06-04T14:16:00Z
-    webUrl: "https://www.fastcompany.com/90503520/how-this-company-is-fighting-healthcare-fraud-with-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/05/SAS-Prime-Final.jpg"
-        width: 1280
-        height: 720
 
 secured: "IT+aw3f90G0OHdRmY0FOUBS4R1LW49FdX9Q1Ebu/sGa44ahQ/yA4Ge/zVHCiVhoTyYV1vJ9iyIeoU+6E0IH/O6A+S+MRbHoKRiXbB8PaAyeReF+nYanKOhvmwKC6JCwiW4EgPsFrL3kIp01FTuz9R/iPtitwx6EKtoRqp2U5dRs+V0tCan55B3hdTyEXNz0bWBIn6aWOo0IrzYVV4+2Tvgk540PCX2O661Nl2ikcurNlNIHFwZKWwsuNXyR7WMZDxG/mlN8kLN+wUpyiKSzPpi3QzRdKHKy+8/d2h9yW/aSzzN/cPjEGrLA4Kbd4p0uimwJiEmMM5l809q3RiEaKMVAL6jOPGCwtCEny0b2A9uzghgZ3tGbNnVOGXuKo/dRqN3xO1fhQyLZaXYRGsfAq8QP2+F1dXS9sfmw44VejbufAieCNtEsqItIzoKdnl+KcrHbljDimmN1PENR0M8uOQS0FL092FfmtbJvIryiMfDc=;YUG6zZcjEpRhrOTXkAfcyQ=="
 ---

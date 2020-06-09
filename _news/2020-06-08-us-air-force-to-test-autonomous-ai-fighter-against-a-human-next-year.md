@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     title: "US Air Force to test autonomous AI fighter against a human next year"
 
 related:
-  - title: "The US Air Force wants to put an AI drone up against a fighter pilot in a dogfight that could change aerial combat"
-    excerpt: "The Air Force wants a human pilot and an autonomous drone face-off in an effort to learn how to build new types of combat systems."
-    publishedDateTime: 2020-06-05T21:46:00Z
-    webUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5a7b1f4df450ffc1268b459e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
-    excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
-    publishedDateTime: 2020-06-08T15:30:00Z
-    webUrl: "https://hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    ampWebUrl: "https://amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
-        width: 708
-        height: 382
   - title: "Resgreen Group Invests in Autonomous Mobile Robots to Aid in the Fight Against Coronavirus"
     excerpt: "Resgreen Group (RGGI), a leading mobile robot company, announced that it will focus 40% of its research and development budget on developing autonomous mobile robots for disinfecting facilities."
     publishedDateTime: 2020-06-04T19:45:00Z

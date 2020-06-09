@@ -124,6 +124,15 @@ related:
       - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
         width: 585
         height: 363
+  - title: "IBM exits facial recognition business"
+    excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
+    publishedDateTime: 2020-06-09T06:44:00Z
+    webUrl: "https://seekingalpha.com/news/3581366-ibm-exits-facial-recognition-business"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "icgHQVa2a1QujR8CoK0j/tDiHA6AJ44Svo3RB3NeP9Wz4wKqYn/8+UjLqbGjLV5dBxtMQins7JMAJGGiYGeMYmLyNmDavLUMxq+rmA7CL9EBm4ch6mgzIePLLOmBepOgj3EBCy/D/x5H4Se2MwNHuFa6bb8kqsWWh59dayb/tToApl19jpHkv1yvsx4XmSy9xhjDI6knxWKN6bL7xon+zyRP5t6vkeMB9KSrbhsg2Vl6IC4OrVMALmifH+rA+A+5eaF3sO7RsO+NSlnwKnv3qRVcmzf/SbO6o6dK2moSVG7BEG82ec8qBAmVXxXI1TYAFbqwNSNZfCLBT+sT6zH9JE7IRgkLmEqdtMmsXg7/BHYO6zesers2zsmHGOX65wTXq4eeWEeZEBLIxJSZl2JHNRi3d2pbfebsEJp2XSA+prpR0luk2t8Zx2aStUY2jN/AdHHoGjx/J9l8NPfZxiWR5JaoLJNaWVHlPUs2/qmg9Ko=;SDCEVNtYH/L+O93XBQTD2A=="
 ---

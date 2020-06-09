@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
       - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
         width: 585
         height: 363
+  - title: "IBM exits facial recognition business"
+    excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
+    publishedDateTime: 2020-06-09T06:44:00Z
+    webUrl: "https://seekingalpha.com/news/3581366-ibm-exits-facial-recognition-business"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "CKNHg/0Puz6A1YAxXpO8WpgD1+zTnwCYDFTj+HbozBjcuGqSflZE9V5nBkAhzsS8z2pqPKHRYE8VRU6RA4lCg0fJvICKwCP2INQvdRaS90RP3CM3TpW+0vSCvhoRWqL6yp3PxBYpU1j1GYQt5nVnUrU0xM8sz/nbZrsM3ZTvIqWxwdYiDUzUnG6AiVnjLMi5qfdBedQ+SxlZ965zB1KMwCbs593Hovc39aFTee2oohPhkD3t4mq69Xe6cl78pvYl9kLvmSz8dNGjyMUa08ullPuEoBIuiYFbpi/HbG1meYlcihbEHiVU3hKF2nQzW4mJV9Ta3QTlXS5sCncY4eGSqtnyHB9aakiZ7VdxeNHZjeTx6yVy3E5hKup3vtTFlpfXrJnWAcQR59aarCaH6QazNmtnT4z5wM8pNFLjOJSNq4pJStQLr+Da8G/wuoPhU2cHmmLLOEe2WfkrAxvCZLNd5L76/dF5gJ12Fc4ogmNv5BM=;Y4zdMNhFXBD36TZIjzxl/w=="
 ---

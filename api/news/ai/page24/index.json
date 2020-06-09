@@ -2,6 +2,43 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-14-generation-and-evaluation-of-artificial-mental-health-records-for-natural-language-processing.md",
+      "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+      "excerpt": "A serious obstacle to the development of Natural Language Processing (NLP) methods in the clinical domain is the accessibility of textual data. The mental health domain is particularly challenging, partly because clinical documentation relies heavily on free text that is difficult to de-identify completely.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41746-020-0267-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0267-x/MediaObjects/41746_2020_267_Fig1_HTML.png",
+          "width": 685,
+          "height": 571,
+          "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus.md",
       "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
       "excerpt": "Nvidia Corp. launched its newest line of chips Thursday, detailing artificial-intelligence capabilities up to twenty times greater than previous",
@@ -1209,50 +1246,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
-      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "publishedDateTime": "2020-05-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

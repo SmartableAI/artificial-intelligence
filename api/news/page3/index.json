@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-04-using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions.md",
+      "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
+      "excerpt": "Tabular data is a primary method to store data across multiple industries, including financial, healthcare, manufacturing, and many more. A large number of machine learning (ML) use cases deal with traditional structured or tabular data. For example, a fraud detection use case might be tabular inputs",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T15:11:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/tabular-a2i-2.gif",
+          "width": 1000,
+          "height": 532,
+          "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
       "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
       "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
@@ -266,7 +311,7 @@
       "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
       "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
       "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
@@ -1049,51 +1094,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
-      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "publishedDateTime": "2020-06-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 569,
-          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

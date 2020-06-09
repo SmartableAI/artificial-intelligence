@@ -35,24 +35,41 @@ related:
     provider:
       name: New Atlas
       domain: newatlas.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg"
         width: 1200
         height: 800
-  - title: "Mock Dogfight Pits Human Vs. Machine"
-    excerpt: "The ultimate dog fighting smackdown is scheduled for July 2021 when the Air Force pits one of its top fighter pilots against an autonomous fighter controlled by artificial intelligence. Lt. Gen. Jack Shanahan,"
-    publishedDateTime: 2020-06-07T21:18:00Z
-    webUrl: "https://www.avweb.com/aviation-news/mock-dogfight-pits-human-vs-machine/"
+  - title: "The US Air Force wants to put an AI drone up against a fighter pilot in a dogfight that could change aerial combat"
+    excerpt: "The Air Force wants a human pilot and an autonomous drone face-off in an effort to learn how to build new types of combat systems."
+    publishedDateTime: 2020-06-05T21:46:00Z
+    webUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
     type: article
     provider:
-      name: AVweb
-      domain: avweb.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://s30121.pcdn.co/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-2.15.16-PM.jpg"
-        width: 351
-        height: 247
+      - url: "https://i.insider.com/5a7b1f4df450ffc1268b459e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
+    excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
+    publishedDateTime: 2020-06-08T15:30:00Z
+    webUrl: "https://hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    ampWebUrl: "https://amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
+        width: 708
+        height: 382
 
 secured: "w4GnthiUXVV2ZltW2QjEf76ZZCsTXoddOhDOOHSzbyJGCS7Dc4+kSdz89M+mnjsJG5zkkj7yDGVvY5c4YfncqDP18+AjssvHZx9UUrpDtNUWvAYdRCkJTZzdlV14ROXVUGFTScFqYK7gcuX8hXAyQh5ABIni3x+VBawc8ZQ2AYWNmoXOk77rMEhS9+EV26PgDSWx9nRgVyILn7NjE8mYO7+78r/HttOnhwj5Ot6QgLuAwHh58fHZ1dzTdwObslp6pyg8/oqpq8++y+XtU5be/Y2btiufcEI6IsjZBZQ2+Wr9W+BLuWiEEnLBFslQnlNYBzy6g6KFhoIwrfZCJV4GcRtn911uHFIfB2kSo5y9EGhIO40ywo1DDRygCBCCGSvFlFh4ESeIKnjUFNR4yPJRYEe+MTGrgrQgADSB0/7qPcqAqAXw2SOdTZPj9tLkNGIJblhFskEl7cEpk1UxDlNCPzyxkU3oDY6TiM/Q3huV0Os=;p8hQgSWEzTDn6GZhrcXWjw=="
 ---

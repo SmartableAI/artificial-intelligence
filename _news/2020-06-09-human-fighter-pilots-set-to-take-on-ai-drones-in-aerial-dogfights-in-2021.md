@@ -7,8 +7,8 @@ webUrl: "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-auto
 ampWebUrl: "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true"
 type: article
-quality: 86
-heat: 106
+quality: 88
+heat: 118
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg"
@@ -29,6 +30,36 @@ images:
     title: "Human fighter pilots set to take on AI drones in aerial dogfights in 2021"
 
 related:
+  - title: "The US Air Force wants to put an AI drone up against a fighter pilot in a dogfight that could change aerial combat"
+    excerpt: "The Air Force wants a human pilot and an autonomous drone face-off in an effort to learn how to build new types of combat systems."
+    publishedDateTime: 2020-06-05T21:46:00Z
+    webUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/5a7b1f4df450ffc1268b459e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
+    excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
+    publishedDateTime: 2020-06-08T15:30:00Z
+    webUrl: "https://hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    ampWebUrl: "https://amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
+        width: 708
+        height: 382
   - title: "AI-Enabled Drones vs. Fighter Pilots: The US Air Force Wants A Showdown"
     excerpt: "The showdown between trained fighter pilots manning jets and AI-enabled drones is expected to take place in July next year."
     publishedDateTime: 2020-06-08T10:03:00Z
@@ -44,20 +75,7 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/14/us-army-drones-on-the-tarmac-at-the.jpg"
         width: 1024
         height: 693
-  - title: "Mock Dogfight Pits Human Vs. Machine"
-    excerpt: "The ultimate dog fighting smackdown is scheduled for July 2021 when the Air Force pits one of its top fighter pilots against an autonomous fighter controlled by artificial intelligence. Lt. Gen. Jack Shanahan,"
-    publishedDateTime: 2020-06-07T21:18:00Z
-    webUrl: "https://www.avweb.com/aviation-news/mock-dogfight-pits-human-vs-machine/"
-    type: article
-    provider:
-      name: AVweb
-      domain: avweb.com
-    quality: 24
-    images:
-      - url: "https://s30121.pcdn.co/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-2.15.16-PM.jpg"
-        width: 351
-        height: 247
 
-secured: "7PE/Bv12WvTTfG+GuHyVnLLfJGRGo5jxZsh9uO5AwwfFg8JSRGrWwkJ+wVgNEwvbyPxBsz+uJOLSe2GW256HRFI7iW2vofa2tig2lUXeqYabwMJB3HOlJB9xTpnsmv6Z9gaqblAjp5gO6aV67RHRZxo+xdT5/mOUstMjs0An29kHUvHyKrBI3IkSVA0HwOYT4+K8lOEIfM+cOjmNy7k+JLr6T9AhZY73eKlWK0ahrO111thvCdTaSCe76q/dxtHL4jiH9wnODeTgO4S1vC9uwNGaN8eIEGHS/y4up1DOODBnXCYIzJ9vK/tsbywUXqFl;qyKVHY5PvkjwdLGI1n5vVg=="
+secured: "IDy9P3mZqxmbommqiUzucCAEkR8VOopy7rjMGI1a0AwiG2ZBM3SYmQvtqT/ZEY0OoKXkuwraNEFo94WZNNHFLu0BA1x6syXosuOb+VSOJNFGlsbHeP2fF98rH4iEAlZtQAesnkb7Qp+EsshPPWuQH+07v20Oz885u5JtfT4doJRoKYNDAggXvSYbAMwJgybJMxpUj1Oz2bwKFxHom5T7jSkSEt0iZWgV0uylD4aanp++IAuJ1myLHtjz/ngD/H9GKCF22izSFiAO2fSevCbU2mztSr8pQnyL0OnsthOZEIdMfHqOqQw3qRUVc4VucrNmY70os0cj74sjBYBmzp2xDCHsaebc/Vu203Cg5W/IvNy1mICyniZS320m0/TBO5bKN16SG6YN6X7aYQx8rWYH+C71mqaOeJhiyRxoRswd8GUrsSVXZc/e9pAkzN00NC21AslfAe54Z5c1sG56XWilVnN7PbPiDlQDZQH1BN+TTZw=;+zao7UYIr1rDG8O7vX66Ug=="
 ---
 
