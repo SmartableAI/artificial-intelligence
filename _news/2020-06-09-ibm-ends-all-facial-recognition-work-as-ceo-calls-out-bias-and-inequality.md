@@ -38,7 +38,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
         width: 960

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "IBM gets out of facial recognition business"
+title: "IBM Gets Out of Facial Recognition Business"
 excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-publishedDateTime: 2020-06-09T00:55:00Z
-webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
+publishedDateTime: 2020-06-09T00:47:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
-    width: 818
-    height: 545
-    title: "IBM gets out of facial recognition business"
 
 related:
   - title: "IBM to withdraw from the facial recognition market"
@@ -272,6 +266,6 @@ related:
         width: 763
         height: 509
 
-secured: "IaqVY09O3Qrx8q2+CLHXBjvGx0XNjg1ZOaVZEmb/zoYGVG/VG6EZZlK0AwvSKY4cw3iUwIdtQDRuubirLhvjbYr6i4dDNl76HmVeVSQFkEqYisB2GDFE8ALoTxcb0+/xG/7mSyAsjAUb79zaFOf74L9EgGIQv2Gtg43hbwIOKMMDDlbkN7CCGfqwhKPEeVjqMV26uGhBVP2hmwBlP2y5IZdx3lFw/dkUQW30NfLvMwrairwGorPlIhUhao4GJiAWGQIE8I6kqhdvRiz3l9IbpituG4Iww3X4onJDSg5wXKt87xDuhiVPiHT61gJJlTNYHf+5EMCsqqCqPJDplUY5FoyItI9lu7CKAWypQxtbW1EDw6R/z5HCpiWwcjErZjsOcmCxU3OWYgFi2kEYi4YjW2537MAIoLU4eSc29YXu5eSHkEyw0S6h/d9lQvOA54OhsljPWlHtAURLIg8FpREDHXAEQsYTLwbJ6Z/1s0HSgA4=;9h68cn6YoOq2p4S3/b4iYQ=="
+secured: "5utnKQ/08O8x/RTXGhd6RfYRbYSAIK6MeOeuIwsoGlhkfsPbqT3R21nCq04WBuvn18qOILsbSNJMybZdGXCDS6rbrAbrtdJ9WHfkkfJz1ucOw0JABoPWakznE6hfSIwiChUVXnknfiD5lk0eVoAgeJ61AHsPwig6LwaMN8iVUYgL1kn3VU2IaM6Eq9td42pG/aldpGlXDy2hGfhT2K25L7RJAd5CRQ7dAHmZL/p3FJoDg/5vrufz2uCNY3UcmwqKZQxWJRLej2gSwpahczmEgX5IbFfoyONvKOSKzCcMN5nr0zlAgkRewGowZNk8qyLhhnwq1H167IzgYlTtqfdHBP64fWt2GXpKT07LztS8YzqjicR53M+XQYfIdCnyCLUC3xXC0mpUGrnGcZYn62cos9csJ9aF4oRAEmucrP34QZdda4PlJ3M9SxZG3KtEIdYmdpZnljuS5n0KVJNGwWno+Tu6Zlo5DiZ3DMqDMIfW7Mg=;/GuBhDSHahBfxPuWHk+atA=="
 ---
 

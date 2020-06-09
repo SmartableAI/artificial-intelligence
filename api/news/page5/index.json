@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
       "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
       "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
@@ -1047,43 +1084,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
-      "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
-      "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
-          "width": 375,
-          "height": 375,
-          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

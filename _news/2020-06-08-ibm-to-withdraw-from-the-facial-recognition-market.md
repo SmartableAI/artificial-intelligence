@@ -45,21 +45,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/04/77f715b9-2438-4c91-a475-435e025ed5ee/thumbnail/1200x675/b30830583fd201b20184073b0c320492/dji-unsw.png"
         width: 1200
         height: 675
-  - title: "IBM gets out of facial recognition business"
-    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-    publishedDateTime: 2020-06-09T00:55:00Z
-    webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
-        width: 818
-        height: 545
   - title: "IBM stops work on facial recognition over human rights concerns"
     excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
     publishedDateTime: 2020-06-09T01:08:00Z
@@ -160,6 +145,17 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
+    quality: 69
+  - title: "IBM Gets Out of Facial Recognition Business"
+    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
+    publishedDateTime: 2020-06-09T00:47:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 69
   - title: "IBM will no longer develop or research facial recognition tech"
     excerpt: "In a letter to Congress, IBM CEO Arvind Krishna called for new reforms to combat racial injustice and said IBM is exiting the facial recognition business."

@@ -2,13 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
+      "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
+      "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
+      "ampWebUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
+      "publishedDateTime": "2020-06-08T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
       "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "publishedDateTime": "2020-06-08T20:55:00-07:00",
@@ -42,6 +86,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1254,50 +1299,6 @@
           "width": 1000,
           "height": 667,
           "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
-      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "publishedDateTime": "2020-06-06T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
           "attribution": null
         }
       ],

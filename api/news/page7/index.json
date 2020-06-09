@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
+      "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+      "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "publishedDateTime": "2020-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
       "title": "13 ways Microsoft Azure beats AWS",
       "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
@@ -1016,51 +1061,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-tencent-invests-us70-billion-in-the-future-baidu-opens-worlds-largest-self-driving-car-test-ground.md",
-      "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-      "excerpt": "A wrap up of our leading stories this past week including Tencent’s plan to invest US$70 billion in digital infrastructure and Baidu’s new testing ground for self-driving cars",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "publishedDateTime": "2020-05-29T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/30/11b11052-a189-11ea-8055-0ae12e466049_image_hires_063234.jpg?itok=_xOpHMiz&v=1590791565",
-          "width": 1200,
-          "height": 630,
-          "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

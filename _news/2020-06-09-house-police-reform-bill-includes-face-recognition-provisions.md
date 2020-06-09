@@ -5,7 +5,7 @@ excerpt: "Tucked into the police reform bill introduced by the House today are p
 publishedDateTime: 2020-06-09T03:34:00Z
 webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
@@ -40,6 +41,6 @@ related:
         width: 1024
         height: 683
 
-secured: "U30TrgBiZDKPbZl+YyrFKPGtHuTcVGidwLHE21AzBgSv3WD3v8i2pu4JQEVWv8oR/lRnF8MRmn89+YMVrHJ2duqi679be8qHaoENnZk1rmB6mKyewCob/qGNnheqMOP54kdl0Mm/LwGOuByKj1uzLFJW/EQWT5kBopZqNWrYDQ3eOi5BBPtAP9WDpBsRFzjJjlAm2K/bX2ZELwOQG30MwUvsLswejU0cbhg9kuGw4p5P+7uiBM9bFA/ccpMAI3iHi9nHyuvBGEDswgxRe9H/8rx+xj2TXlNdI4T2wAg8y3Ij9L3xtXgftqPJ7i4yDjA9;bDe+8k5E7CNJoviJ4Qk0KQ=="
+secured: "gAMOa1Y/lqX/x2nrQlJgvcYF63MF8v1vlcdJJ462OfQhIB7OPtFzBOYVV49fgD/+x/yIi+pwdByCag/VCmzbn1B8WTnmvQ8+F6BuoQvOsJG5DRex07HHPkd8GOMDxsvPMOO/PwppkyVzrIpaaZQMG6ovL3mYYER/QSe4BfbGoMvNuAouWOrW6sGHvXSdHSqMUnJLiUiNEqSbJC8E1wF9Znx3drX713gqmM7xUkleQFttPRzjhPYT2mQ3Grz9Mo9EhXTc/nH6rr9d6Jo5TjEPzx1Krz6vLvQoU9O7Xk8gmnkT39T7mASfZ+gKCicg8kbEdruVtJIXIc6JwoLclonce76EcxyTTfAUioK91Bwa7lg97Zgv/vQBEIuu6YOwyeFpDOIz2pyUsN3q+exp2wkZo3PHUfclCL3CYj78wF+6fB+8gNfQwkOBx65aYG5SQSMe6SWoebDgo4zbhLkYo1s2hYzEgub31Ez9fOp/eL93LoY=;j9ug+1Qkl0AFV+5wDc1oiA=="
 ---
 

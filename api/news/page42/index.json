@@ -2,6 +2,51 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
+      "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
+      "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/transform/how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T09:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/Melissa-Mulholland_Featured_Cropped-1024x598.jpg",
+          "width": 1024,
+          "height": 598,
+          "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
       "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
       "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
@@ -991,35 +1036,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
-      "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
-      "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
-      "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
-      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
-      "publishedDateTime": "2020-05-03T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

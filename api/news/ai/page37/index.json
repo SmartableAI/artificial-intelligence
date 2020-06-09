@@ -2,6 +2,43 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-01-these-pop-songs-were-written-by-openais-deep-learning-algorithm.md",
+      "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+      "excerpt": "In a fresh spin on manufactured pop, OpenAI has released a neural network called Jukebox that can generate catchy songs in a variety of different styles, from teenybop and country to hip-hop and heavy metal.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/",
+      "ampWebUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "publishedDateTime": "2020-05-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
       "title": "Google releases AI tool for processing Paycheck Protection Program loans",
       "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",

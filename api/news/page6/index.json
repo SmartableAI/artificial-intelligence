@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
+      "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+      "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
@@ -1026,51 +1063,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
-      "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-      "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
-      "publishedDateTime": "2020-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

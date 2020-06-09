@@ -2,6 +2,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
+      "title": "Microsoft built a new AI supercomputer in Azure",
+      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "publishedDateTime": "2020-05-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft built a new AI supercomputer in Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
       "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
       "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
@@ -990,50 +1027,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
-      "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-      "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "publishedDateTime": "2020-05-19T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
