@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindubusinessline.com/economy/policy/9ba42u/article31514937.ece/ALTERNATES/LANDSCAPE_615/staqujpg"
     width: 615
     height: 384
+    isCached: true
     title: "NITI Aayog collaborates with Indian startup to launch AI-enabled services for corporates"
 
 secured: "dD7i33jLBDznok7VQN8vktQaIpZVVx4msANuXF+uHwVcBYy0HSQKpgM0+YBNq0yTAstvVs1wX7CUWhYeZ9QVzurycQV3vZs16IFEAwdvozXC7vKogmNe1HgiPoSZsZzi4vCAV7zLOUyzT+mlO0Hj39u7S8G8wPVq5fLrrkt1uqGvYv2meSEmP2u0XozMhtTUGIExUP5HmbY78zvx9WVYMXFFrltn+jtwLjmvDjgrHkm6nKQS6UX6eW1FKnxiR86guvc6gp03Xwn4e46TNn3Lr8B8XOXZiHnZW/oDhokJa7APpzM6Fh5RTu12Z0Vbsd01;KKHRkRZBn+d487HqpwUQ7g=="

@@ -24,6 +24,7 @@ images:
   - url: "https://media.wired.com/photos/5ec31a45d58e99fafced809d/master/pass/How-We-Relate-to-AI.jpg"
     width: 2400
     height: 1350
+    isCached: true
     title: "As Machines Get Smarter, How Will We Relate to Them?"
 
 secured: "ZmsFTgZIOF6OH1FPnJlLoyV0Nti1ejpgJr0Gyqch39v0enw5X7ZhquHqJB9Yohm2BrGq3lV6ZlP/EvoEN2jeRiIjiWWA2qc97vKDrVDR+dePGkN3ydBjV/LYxlGdqAUDHWfi53Sglni7NvgLLxOu2Lvao4yIb1AuQ8Ep3ufyvx/GABzXIAAJUPfCnVhEuvN3Ic+oS+7BCbG3I8mD/tcOhac9QId8bwnpirtqgJrMuoNsEZHVqaVxpwF8djj4xs1ZC0b3ke223tMVdufkdOHZ3j77r0IDmYhMqhEN3nvSkBi1TEcA6M+yESiXOK9zRZc2BUg7rQPvCmsKW0sIHxTRUbgillnnCSuNtZHJAutQoLQzA9Bk6QDlVCtibJeCeg9g2q2C37zrAgDVDRA0hUKwu2HbQerx5VSC6tR1rPEkCau07TRiGMbFh7EZGBPOMgDTjqFzYeqG7BYc5yLlObmiv/E8ptk25c3x0ytI4ceHmXE=;E0MzJ2wZ2uvYS7jfZRJu8A=="

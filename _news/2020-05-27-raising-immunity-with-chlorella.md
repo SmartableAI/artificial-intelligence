@@ -21,6 +21,7 @@ images:
   - url: "https://www.bernama.com/storage/photos/1a172f6882e3ec8e9c3e4e8fcd0dbe745e7d63ce9c2ce"
     width: 1110
     height: 694
+    isCached: true
     title: "Raising immunity with Chlorella"
 
 secured: "iovzBKMD2nBrtNp+rvTf4L7r3humvXAqcv/aAs4QW38UEUsl3llPusD4tRDJIDCbCW8Y3vHc07cWU8Q7r9VeKuD/YTSTkHiZG22norkLRXpP3b3clUj5BG3xukMRO4f5dyTNbT9JOzKaGJFJIA7VSICudn3ILlsGfTZA9+7a+b2RwE7HC5MLIQRJ/TSDfC2vwKjYbZfYQZcHHSR2OtjEfWJCHOHUb12tb0bJqSJ3QmJ2shizwX7z4qhwTYa1dfUyDdVhNDHNDkMG92jkG0/XOOgi7fmo2EIcz/yIGnM+0bTp1Wqt5vPvkF4H2Zt40vO8;7R2pfZSgHNyNRD9Y+xLVMA=="

@@ -24,6 +24,7 @@ images:
   - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_04_blog_leadspace-900x498.jpg"
     width: 900
     height: 498
+    isCached: true
     title: "Building the Complete Virtual Assistant with Watson Assistant"
 
 secured: "/Tah24s6duvlAqnybhFCGZV6o0d2UZdOPjQi357b9x60bSOVOdXxi8J95vi68nzLknl9oq3DWWZ/peTgRLeG8H9b1ZlSZZNZZT9xVlFBT7MdMtAKdgaeJFcLhLAx4Icr1DQA2mbC1W57vMRieAXKgP7FlYLrN9OwOxOIYKonrmnpjZyZam02ozgRG1J+jfzx9/wKoOKfUQJAEojtIWWjiuJnrKsDdi/VdBHL5dOVG61yb1M2gkK4ejqgVL4J503niWa8+p7kVU3SuvIyFcG7LoxF2BpNr3XEgVJzS9m9Ja4nUKziIHh3Q+VxR0Ti3n04hiD0gD6xYLc0farR8Ofy5A==;SN++C0AkltjlFvS6hsgRpQ=="

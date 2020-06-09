@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/775068/Matillion_Logo.jpg?p=facebook"
     width: 812
     height: 427
+    isCached: true
     title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
 
 related:

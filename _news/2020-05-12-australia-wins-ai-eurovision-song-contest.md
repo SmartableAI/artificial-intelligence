@@ -26,6 +26,7 @@ images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17603/production/_111874759_aimusic.png"
     width: 1024
     height: 576
+    isCached: true
     title: "Australia wins AI 'Eurovision Song Contest'"
 
 related:

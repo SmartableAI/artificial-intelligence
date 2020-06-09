@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Researchers apply privacy-preserving AI to large-scale genomic studies"
 
 secured: "FFmViLzs+XK8owvir/oAQwFga+ghslTULRKN2xSo2gnZMdBr/pKFMmlGXKbD1jzZyOFzV3bdaoBuyLJbVnqXlKLGnOpB+IUYpXZSqwKyFSMDq0jLwY9q2ugnq3IaJI1vtEKdhuWkzLFdZNslqF9xXzqsWvLSgSOoNMvwnABxRZff7HDkfk2MClmb3UQ9OkPS2/5aKhBNqtwDUy47qetZme4XWjwtfSl0QzpG1zGjpHEeuP3ZRPC/8GFVvJokQDxAUksEJclGuGcvrzHbFZLPVSwpLLpFL/q4EwX/qWsUScEFxKnetJCdOZfgdkurNZClN+RdqphYccBNmYBVa+Q09BGIXbxcgmuSBq7JtLtDpacCT3pNlYVsagtkRJ/Qdkrajw11K4LsZL5ZiiE7DU8kY8q4ZWMMJN/2712V5/k8jCzR2LuCmaVK2iKCEe7wazNibEQP6u19BAGeOz81eiNA+7HLRhAax6sxGH0Uo3ERP1c=;fGA47duNvx8kE2URbUqhTg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://media.bizj.us/view/img/11656850/gettyimages-1168971519*1200xx2121-1193-0-111.jpg"
     width: 1200
     height: 674
+    isCached: true
     title: "Leveraging digital technologies is helping healthcare, finance and manufacturing companies battle Covid-19"
 
 related:

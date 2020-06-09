@@ -21,6 +21,7 @@ images:
   - url: "https://www.hawaiinewsnow.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Facial recognition tech reunites missing child, parents after 32 years in China"
 
 related:

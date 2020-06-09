@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/f6/4f62fe0d-8213-5675-88b9-dc29bc6fa189/5ec52dc775dc0.image.jpg?resize=1200%2C628"
     width: 1200
     height: 628
+    isCached: true
     title: "CyberLink Partners With Advantech to Enable FaceMe® Facial Recognition for Retail, Hospitality and Security AIoT Applications"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://bloximages.chicago2.vip.townnews.com/lakegenevanews.net/content/tncms/assets/v3/editorial/a/c9/ac9d88c6-592f-5876-848a-758e6fe59695/5ea707232a232.image.jpg?resize=1024%2C544"
     width: 1024
     height: 544
+    isCached: true
     title: "Williams Bay schools win national music recognition for second year"
 
 secured: "O4Gcdt1x27B5bCVbcibRTYDrL7HvQvxp34ywjCsaKgq2IIqQEawsjHU6tRc/iZ9cTgqSD0TqyoOimtcx7Qh3CiV4Ir4JycEVG/EMMwnBie1EGT7+Fm6NeCB01AH3JqrerlNaYz1MZ1ilM4xAqxL/EijjDUgTK9h+mGDnIMOm5kOu9r9HY+WNThTru59HnL8ke9XPoGkOS7/RntdVu0kBivw+EuVHiymW5Sco/Kl188H0pmC8CdslOuuXFZ4oKjtND9CzixPF/fH2EsQsKHxpGClJvQHMy9AVHA75Syg8/RZyZzA7F2HrlALjetP6WwpBxAhSzihkK7xxGCJhs24+4oQDkKqVNEjsY3TeC7eecveWRurbFDTabom6wRljjIJ6QI8D2ZRzcp1tIWGDwFoDScbml6QT5iJUb/1XzqJEgoBfUXGaO32lYiUOWB/OQoQg16VqDsZkiTXElJeJAR3DY/LH/5kqXk8ziBMeW0GA2ys=;pbsrhHWA4WjW0OcvtG9tZQ=="

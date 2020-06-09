@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-9.jpg"
     width: 1665
     height: 1087
+    isCached: true
     title: "Sony's new image sensors are the first ever with integrated AI processing"
 
 related:

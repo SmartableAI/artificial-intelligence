@@ -23,6 +23,7 @@ images:
   - url: "https://247wallst.com/wp-content/uploads/2019/04/imageforentry1-36u.jpg?w=400"
     width: 400
     height: 224
+    isCached: true
     title: "Amazon Stock Benefits If AWS Is Spun Off"
 
 secured: "y5AiF3drVnBRuR1HaKpQRxi2BEPMkMCYRe7JWU/Q//GXrmk9HRqQU5+1wxbz227E149arBfS+cZRPTtKo76KOky8bPz3jqNbaC6bUZAJOaU8aHIb1h0g+ncdra+FEe4JZ6cX6i1HN1E2SEe6ptyqU83qaaItawn3Zn11wbSx3duMOCtQTC4NrgUP3lun8QbmX4CWsf60hPd5fApyn+8OCCbDhquaOUQaYvLVNiqlk5vDB9zRj8LxDvgocc+2IZZz0LRfqTVtctmPCSBC8SPDspdA7dsTkZLOtrW3dAFor/EhMIFVr0XNX5btcHbTCvwk;FAgN9R7XlDXctXKsfBa+fw=="

@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg"
     width: 630
     height: 432
+    isCached: true
     title: "Microsoft and FedEx team up against Amazon with new technology and logistics partnership"
 
 related:

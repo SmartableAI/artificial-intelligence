@@ -21,6 +21,7 @@ images:
   - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F3Datacenter.jpg"
     width: 647
     height: 450
+    isCached: true
     title: "Google Cloud Catches Up to AWS and Azure with VMware Offering"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-05/NaRT91RY.jpg?itok=UrIPwmjh"
     width: 680
     height: 453
+    isCached: true
     title: "Can Facial Recognition be Made by Your T-Shirt?"
 
 secured: "UXYP3EoYTsA1fPT2tJvLnuG9+9w/ypLuWImBeesn1Dd3EnUZZV9FYp1iLUNLV7nVIhRwztkb1SGK8b+ufkHHm54yghcU4dSQ4JnK+XXJZkufR0QJYC3CPVK0PRRFpS1V42Y60PK92BozSS9JhYUaxlOd2BmtK0pL2TFt1t4tCNKiVKZ2Z8DmrHSi8/7Q1HapTbkFsoucBdCQDowumePlJIFSVOuLmckWNSDVryRl16x+KwUywodsJ4DMbPvoWaqTmOQ8z2DAruP9KfjtMtlRmCagwaaeHjBMXA1g1Il8gpESGgGdvB8YbXhVjE419I2qLvbqR6FuQ8LJIF+O3LS2biW/4zqpQc/RUjczQAmtcUGMOc/VXi9/VErQeBY9XGPDoZcTIWQZFmtUoVNyJB21OhSUuvK3MST6cxm7/GZSHOG8hL6UWNWAU/4UV499StFWdNvejIefuQ/5lOER/YOfEzvlsr/sc66rSjvBoDYCsVs=;HXTrh/LlzSLkDypZtJ7ilg=="

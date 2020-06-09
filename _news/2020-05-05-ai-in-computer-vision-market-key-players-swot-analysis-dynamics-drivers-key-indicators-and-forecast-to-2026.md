@@ -21,6 +21,7 @@ images:
   - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
     width: 300
     height: 250
+    isCached: true
     title: "AI in Computer Vision Market Key Players, SWOT Analysis, Dynamics, Drivers, Key Indicators and Forecast to 2026"
 
 secured: "9ScKBIKmMeIq6t0cbIz8RcT42idZNVuvsgiXHEfeg96EmJU0QH92/6Wuuzi13U1ZYyVaCVsVc0K7ALJi5FgCLJtZwIXTw+6Fdv2Mbgqwk0O0xxQPbqX7sJ4ZBs9Zu8iqmZTZnsVmbYuIX6eMXqs2izWnC1GanYQ2odOVg6TcGhJWvsejfs7vJDHfJUG1TJ6R225sKauhqL/IaSrv45LGFwtpCFwhX7upxpdnvUkll9PqXZBQRaT+OGK39vETVmioSor2EMUT3/rXK77KuBuuxKhzbsUotc7rvTiIXyTRDtucf+de9yZ1xqi/lfViSblC;SMZDGOLMsyrVGouU5K6/cw=="

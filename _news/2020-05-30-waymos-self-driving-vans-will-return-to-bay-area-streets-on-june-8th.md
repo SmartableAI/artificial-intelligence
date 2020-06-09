@@ -27,6 +27,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9aaef4a0-a297-11ea-bd6e-e4c52ecd3144&client=amp-blogside-v2&signature=5ffa42baba6ecaf0e94c610d60350a49b561aa9b"
     width: 600
     height: 350
+    isCached: true
     title: "Waymo's self-driving vans will return to Bay Area streets on June 8th"
 
 related:

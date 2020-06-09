@@ -24,6 +24,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815"
     width: 3840
     height: 2561
+    isCached: true
     title: "Google's AI technology is taking on a team of the world's top Go players in China"
 
 secured: "iXXDvF8IEy1wwaY1/MDxO+i7c4usX3/btWtjIHqW3iMlLMfn10+bRqNzePgB1frqPiAQNIU8IU2U6YALhor21Kr2JklYWGC1NgVjSgYH2wjANlag53sv5O8FfsrUFB+CHJ6BGzjPu5GLUBKvSQUIre1Ic0mT+BeQvxAZg/pb9Ml3n0ZLtJrXS9UlK4ZabnabGjgk3pOZtePFVInagl2QpGFU4vuFS9yqR3hi+z8MLrLnRNRg6p2pWcFV43BlMGpAXIltZY5bJzpCu6POV5UlLOX+nmqEDuo3bmKFsqjdHW/KKbIUMdlzrkF/U2m7K8d7;w5G8Vr/yf4nPfILFXkLW0g=="

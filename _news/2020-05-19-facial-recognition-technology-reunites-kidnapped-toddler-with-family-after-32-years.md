@@ -23,6 +23,7 @@ images:
   - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/05/chinesetoddler.jpg?w=780&h=438&crop=1&resize=1280,720"
     width: 1280
     height: 720
+    isCached: true
     title: "Facial recognition technology reunites kidnapped toddler with family after 32 years"
 
 related:

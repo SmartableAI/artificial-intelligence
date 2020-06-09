@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
     width: 2398
     height: 1257
+    isCached: true
     title: "IIIT-Hyderabad Announces 3 New PhD and Post-Doctoral Fellowships in AI and Blockchain Related Areas"
 
 related:

@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/IMG_25B0C5408EFB-1-e1591623650320.jpeg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Apple and Google tweak maps, AI assistants to back Black Lives Matter"
 
 related:
@@ -44,6 +45,7 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191122_111658-e1591389328766.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
 
 secured: "o9JS30tmurWXB4WwsvHCeFXhv39BsGiVrJpE1CIMnTFu/pmdOq6wXqx2XO4G0IseNSgwrFVueEeWR/cLsPczzvDoj4DAFsJ3pFmRT6Z1O0zGyzrLAP213mCI6AJJFbt1VFAx2ZlzIRAo4EER6G3QxJZkO/+NaeaUFB+Vtu7/3cQMay5rK7PiPYn/hYbJtDHw3CdGqJcrvK38Nd6t/sB+1xcst6XhD5Oa0f25S878pglLYIgFnAe3x9tlr2DmFGAjV9zCvzVYEF5IH0dMhrHgXVjryKkyAdnRvnaLf0jOLyXGE8mvGGwSGQDFt2yk2b4kzN52dvTiEZWLGdyDQiXCeFVX2ZciX6ZTRKDrpnw5hBjwv5dK53+HusPHZivI6HJupuBcbVKUprsaDRJG8U66kwNCc/OALwEgWGl7I0+aE9VcpMsZPEvjyR1/gGs2FqZz2xk11cqSjvDFF/XXGJZacayuVVAynXmisQRvmeNk2yk=;B10jJoT/5+cPjTCiPfhcAg=="
 ---

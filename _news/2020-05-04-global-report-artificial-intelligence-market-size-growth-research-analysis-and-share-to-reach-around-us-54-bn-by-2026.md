@@ -27,6 +27,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Report: Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026"
 
 secured: "SAzMrWtLV0k5RLIj3vmB3I7OSmW9qPWCPvttLyXhDmSPbkk29MjHTA7pPfCrI86TEyX1Aa186SbsGmGQIqsKjih4b7SOxD3m/OhyEvPkxSR8HRSdigOTwYTL7cgk4SE4956mk4p1rRpcIV+Fo32zbCYBFEHM9NNOHhmE4ENfLZ8IXhp9cuq9ORtmKaKs03tzLgmnK74PdjRvaHAxhVjvumKOC2Hq+yGN1Fj6u0ZmvNpPpP+FS8M8rQY8DfXwUcTVZbFLk4a/Y0R+KLpNVb9/7pqMYWUD/piduSZ/SHN1LcfaotwpGlCIEJAliU9JbQod;1KnQS+59UkkEx8Tf/vf+Vw=="

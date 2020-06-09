@@ -22,6 +22,7 @@ images:
   - url: "https://images.financialexpress.com/2020/04/airtel-1-1.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "Airtel acquires 10 per cent stake in AI startup Voicezen"
 
 related:

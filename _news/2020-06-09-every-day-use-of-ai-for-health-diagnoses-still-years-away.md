@@ -22,6 +22,7 @@ images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3871591651247/2020/1/0410c427f95d7d3f7d1bf5bc9e362c6c/v1.5/Every-day-use-of-AI-for-health-diagnoses-still-years-away.jpg"
     width: 800
     height: 534
+    isCached: true
     title: "Every day use of AI for health diagnoses still years away"
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "02dm54v6da1N4OVoYKcEt6VJMPo4JzN3FtPxscsGZSnx5fHdK/jVEfInRqnfjpuUic8rD6UxFEHEzP1VGeLGKaWvO8pN7tUy9HdikqIg96bqi0c/NKFOxvaPHHwX4TcOWjL/1n/NbVK/rYdYnSwaU6+vQHwI/xetWJ79TGTY1163GcLjHUUPvLjJwJBymR3TdewRZAe3PNqZPrRivlyMinNfzWYaq2QS5mcewICD14Q+I4ijP1j5lepGgVWDYqxIBiAp2lS9O3dpkdu+cuHmeb3Y8lF5oxLUilnDbtpWXZVVroghi/Uw1Qck7TRAHAl5;AgieJ7oA4oWVE1HhGnxRNw=="
+secured: "SjaMJbUZyf1uxSevDHwsR//CMjZjP9skbkxuwhg2YaRW1dcUcDbePig7DtpCbl20WLqii4apLzPZpIWlJ/24dQfj6+mIICbzJUwxJpSCVBTypiY0aKADG+M/bvxqRCWegLD/8R8xcWxWt3gNl3lQxbfoXDly4s6Z+ntOz410eaHjDfT9ZOWMLvqznMxWaFtgwXWDTm/KSwJyhQ8YFF40E1wtdiFEgtPLQj5PyPJ/li/Xm2uRzwDMdT1A8hi0lMiM2hIApQX8rbVLzliXigGKvJOxAW7VeIy8jvkuHr+vfJJK8DV4tVfvDl8Ok1SBW9V5JDlt9TiTWeimEornj7XvKEhqarfA+/j6YWgrSrJCgux6Al4ZPuP/PB5lZXsTdkT47NWN8vYVER6JHK9bepFiDTVpmKMepgb190BaDUiRbw7jjtp4ETxkfh8+1seCSy882LgM9qz08sTB5EO8oXYsc7mR35KXqCPmh5QM6BW0uYDqV81eUa/3SW1wISvDnhw4;c2WJMhI1pU6F7ktAj7EWGA=="
 ---
 

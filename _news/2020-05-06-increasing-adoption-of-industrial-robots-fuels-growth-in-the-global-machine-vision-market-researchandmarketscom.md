@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200506005366/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Increasing Adoption of Industrial Robots Fuels Growth in the Global Machine Vision Market - ResearchAndMarkets.com"
 
 related:

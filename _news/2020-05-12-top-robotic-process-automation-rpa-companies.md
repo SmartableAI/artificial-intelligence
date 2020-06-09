@@ -23,6 +23,7 @@ images:
   - url: "https://www.datamation.com/imagesvr_ce/2485/RPA-Market.jpg"
     width: 500
     height: 289
+    isCached: true
     title: "Top Robotic Process Automation (RPA) Companies"
 
 secured: "GP0HqmRB3ogESo65arPbz0cQ7I+rt1LzH5vKilk9zPAjTZPNSpXYnm1u8UX5AeXj/+q+TblYrNT/4q9enQeRoL3x/co3lrQgasvHH/fZuxIMnlyg5988LVAEp3XrbMqIrM4+Tmd4KREX3nDXibPcIvfeMj+oDJeqrVPk61pNxYBZvxqevMwDhuz9IjGi8ycXvQSI16M7JnzQUssOiwj7wyOBiiPE9xYS/y/icxhJQJvSQJdvVoCnTXomG0gR27LVXVWmWtwPQ3oCKSyBFtYLPiMPB0MH66nfy7NV3J6OcT30NcOViAC4fiwHOCDYRr1W++DBn7CwFcBACfD3rogNja4165ljC4s2L1l4xx+9qMZrYWUSoxFS5C6SlNigzXYIBvGxwqjIRCfeBHjbFlEOGe+Fat6ZilZFFtWPccEp8a8txCu7yctnZATLRtMe2o57kYt2uAy6rfLXh4BuTqURmI1GP/fL3+/OwgcgWlySJTg=;I4EsXiHSL3jk9M2b+cttOA=="

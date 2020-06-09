@@ -21,8 +21,14 @@ images:
   - url: "https://www.aviationtoday.com/wp-content/uploads/2017/10/avs_02_030120_dgtl-300x225.jpg"
     width: 300
     height: 225
+    isCached: true
+    title: "PODCAST: Daedalean CEO Talks Neural Networks in Aviation"
+  - url: "https://www.aviationtoday.com/wp-content/uploads/2017/10/aprmay-2020-wide.jpg"
+    width: 640
+    height: 480
+    isCached: true
     title: "PODCAST: Daedalean CEO Talks Neural Networks in Aviation"
 
-secured: "QuCfHvqmh8IYK5r1Kpahf66f4537n1WDBUD4+M2JmPZPAnPvhmm6VMrL9iFfnHVj7U0bc55oW+VF+0YxIvsytku01bfTRYzzoZnwUTSmEWkpzoslstiheuLWlEHIHdsMPA8TawtL+nnGJPpaSgPqbIJ17KcbtghT3c7F121szUljjR8N+tU8xNLqGEsYJabUZw9FpKu2eVVXg8e1ffpZzE0KlP3gG/oWmfBBReydOqfLX8vUYxw64LzC2pV7kX2E41Tb/Jgv0GFvj4Ke3b4e0/A+a7kmPksqNceb8D9lv+KPJAjxNrDWTnygfkh8aTL7jfdXR6Ci8S/NQgh6EjnljUIgqtr5DZimW0pihBWzSZTZH1qSs1fqMnCe9Y2dJFRdIwdF/g0rPWi6WmsD4WvLbzX9EmmdpXxsm/Ekb4j18p1pOvUJnXVD1s4BmGxnzwKK7HjKESFx/DHopbhbnSteJxUCVSj0LT/FdWSSKfiB+OE=;KwAawkfXueE1hHfzlhEuvQ=="
+secured: "3eknsMI8YBZKN+2oz365Ca/86d0/b8wBIMiQrZL9LOlNk5S7EgsJ7R1NGhHnYvtXUG1VAtpWIGIZT6ZruBQujsmR9ugSVyp7efNqsYkepuIFOD4chWhe8RRlkud7JdpMOOE1Q4QEWEuEoJbc025VXuyWgobYoY6Z/hPCteJyRKAXxDjSk6TaInFgIuYk60aZKiCOOPGaPqJaHiGWC5WB2q62IqVxv+JGvKcul2WT9+K9D+dZz/09AInlFCmKicBKTh032w0MJNP0YmbJqLfTZ/oefFaazqImG0ypib3Jt5Z17XBmosjEWjCRUnrASBxT;/88LW1BzduS8XCR9Q0iGSg=="
 ---
 

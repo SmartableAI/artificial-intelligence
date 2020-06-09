@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.pulse2.com/cdn/2020/05/Covariant.jpg"
     width: 1200
     height: 842
+    isCached: true
     title: "AI Robotics Company Covariant Raises $40 Million"
 
 secured: "fztBzRmGURDjGXGNw2W594o5i/fEn9Iku1poMDhrx88gLtAEhftSHR2aeA+hOYhY5Y2Lm0SX2Bp3Nvrp9LhbFytZRIkRc9xHqO9go3T9AkecT60S+GZuSSbfN82S6QT6lmrUceb866+Opq9xUimMmp806P0RSBm5VeL3NsIHIhFforLUgQD2hdzz6wpd2ILW2dOUc0GeUP696tNfNtGkkH7kB7AnmZ8TQiyzkm49Qlllzm2jSLa4EDd4TkYHjWtrDB2yet622FCiMSq23d2hXP2MippGUm0aS3Arn+/FeXlOYm0iMFqLFtyOx50U848bCC487OVVlKydoY5AkDTh6ScuTQWZncLBNhnO8WTe7cpNIMAuTaIU4QpHlG6txce8X18Lx7/6PPBpuwOHV87oeYncYpDbC1a2cHXqLkusoXJNDo4JoPRyrvcvqFD9qdPyKpYPIXkX57s942H8UnL4Zj//zYxvvoO0xsQGg8KmbLk=;4z9ImJ40UXqphNqdvsOZaA=="

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (Chipsets) Market Insights, Industry Outlook, Growing Trends and Demands 2020"
 
 secured: "RapEVInJm9vPZcrPCcohOGPxGr90G2eNlX2Y+A7eb0FsiQfBWulovHYYf2VI0D+iGzLYYtDNiGJP0NDR4TsPlip4P/IZOWHvfRRg5hI026pQRbeczekPZgzUeK/sFSJLwnuU3oNf/Wm27/TaMe/tfAA8Qqh2IL6cSiShiH8i8Q8+xmhn22T81JVpQoiqB06xw+vT701CuQw0KhlCujP+rM6FLcMBeB5KUTE+VtpFU+Q89JvX6C9VmOI3FtLHCmTsu4NjR6dmTnQ/+rxKtqnZ/IKEXRsiU99gkOAIayXJJkoMWi0ub2bilmRNoiKbuiqg;ssqiIfAINU/BbGKciCs82A=="

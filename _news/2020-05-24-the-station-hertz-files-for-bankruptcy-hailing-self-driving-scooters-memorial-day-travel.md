@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/micromobility-comeback.jpg?w=1024"
     width: 1024
     height: 544
+    isCached: true
     title: "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel"
 
 secured: "jdP3zA1gbks4UBdpNonRQJ24L0Pbghs7ffjZ7k6Du9w0jAJmrqLgWaKB1DpEZQOYjco7JA733D5FOLgGbCSssAsDFdk0QCg83ymQ0CJC9r+6VDauKDtssPHviY5FeHxoTEteFk7t4m0ajIkaUdK0WOOvXxluPlMhp33G6DxJ57SRr5N1+ZI3W/TmSWHqyYU+WOMzx9Wn8ZJGQahSP6pq9CZ8UaeB3pe6d2pTfHBIKjOKMvKkr3F3Ova8vJfTWmavlbX4GKcIq9WCGY60XYSi8r8quDTrwVfUtxAmgqxGX+3g2qvQf/oN9yfkmDGG20kDCuW5tmSqxSSTAcxwhleMGzT6wQdOEt7wOvHKQV+m8GNoJpoVWls8N384rsJbhuW8gbz9cKVXbCKIDTIjHoY4giZNV3Ym6DncxCIv5XRCZoeJ3sec3UdMEieH2UUd1ou7KiCyJXfMJ2jRLoC3z7keYwmGGqqJUjlQ5cFD3PeWyWg=;pnT7DeQaZ+Utp86Y2oTmMg=="

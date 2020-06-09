@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024"
 
 secured: "0yVBusVm2sqGYUzWvAE2nSCC0gjzsoLVA2U+dkf0s7hHFFlWUcPDIFL+cMGLMj6xuwfSuxQ95Ocljrrrx+I49i0UGcoq+lN+B6GT2Tj+xpQLbJt3JsWVHWqQP5Di5xqU1yPR70oRSQR88RFABGgKhc8B37/IKiZExq7cj2Elgrd/eLyaW0YXylzxfG5RbhQNb/t/hOS8SQV1naBYpFR6eLM2Gnq+IOeTGtzpW+PpRmOyYBQBCKXjbDU5RpmPZOK4HSHGgOHSuWD1U7OdVro3/t4cGePuQ/kaaEuqzHCpeRULTalbmJZ3PxFqSoSFfxth;rcWI92mpNagJwp32NpJhMA=="

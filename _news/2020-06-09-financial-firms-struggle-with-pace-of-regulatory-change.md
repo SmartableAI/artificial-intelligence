@@ -21,6 +21,7 @@ images:
   - url: "https://www.itwire.com/media/k2/items/cache/49f84e471f4e7908f8ae119efef64104_M.jpg"
     width: 375
     height: 310
+    isCached: true
     title: "Financial firms 'struggle' with pace of regulatory change"
 
 secured: "jsGDBbVrgN2CfSJDMtYXoWNgej7Hg/KUlhoN8GEMElo5cqwyNErl9DdTZW+fj+gauT5ka3rFR09gig2kGJjP5PToYrd7hJiVgcFzFXbinihLhsz1bKgEklBkvHWAiewKOuAZ7JEYa5RHv/SwhnUweBkClZAQBORstMiATnD+h8dB6h8eP4347NdcMu6EFRCk2omrWJduEC6ae5TKSCnL/vU8/FdqQ4nngtFDl7XONkI/1CmqYTM/G2//L9RK89cu3R7vZOTE0+JDb94Z2Xj2LGmJ0qJEL8j0OC883kaplwnkdbsErCrbWKxqEVRmZvqZ;mHtq77+8vILR0nL49STi7w=="

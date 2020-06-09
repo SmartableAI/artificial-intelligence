@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI in Construction Market Effect of COVID-19 , Type, By Industry Type, By Brand and major players 2017-2023"
 
 secured: "YP9V6IDtyjd3I8xQJ/7vVpflClRCz5ymUfF52v8tmwmipHpQZtcQBgtNnn4RyqX9QcPs0Bw/glFKTwr188bPzqryfYGon0Wi+aWu9Xw1ZJe1XjQ23P7AX7LWv/Q/8oTg5Qsy2MIt6ZOeZbBb+xz6LgMe1xWdxxdYBHJKo4wGsuoyuDR+WAVD1zTxo7YvoNLsdC6bhlyxK+EtImywhFDsb1eLdFvil8GoDih27oOx3Wp9UwP461HKFYVng4Rxjd0t4nzo423+w7HPztky0CuM3/U9NvD3ua3+TV5vx052hZFxHwypDvqpl6jrbS/xSWld;e1qvluocRGa81DqJLccAWA=="

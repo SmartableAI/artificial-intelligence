@@ -23,6 +23,7 @@ images:
   - url: "https://www.clickorlando.com/resizer/a7OufWIR6j0NLRAfMiTxGCqd7o8=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/05-19-2020/t_ce5dc077995b4a778e835315ee014a7f_name_file_1920x1080_5400_v4_.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Facial recognition reunites missing child after 32 years"
 
 related:

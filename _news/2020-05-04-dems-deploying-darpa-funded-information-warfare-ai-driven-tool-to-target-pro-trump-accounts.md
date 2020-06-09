@@ -27,6 +27,7 @@ images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/Gen-Stanley-McChrystal-Getty.jpg?ve=1&tl=1"
     width: 640
     height: 320
+    isCached: true
     title: "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts"
 
 secured: "gPaWXHu26bxgoscO9ucIMKuJ145V37lGyM1vfkphaNzqZulP65WksjL3rnaibvb2fMhnpH7FN/NSXBZnJjls8jWLT/nJNmyCtLJ7i/04zHmSMiAAeZ/gDSKznR0+usH1ffSRCFfiNTfKtIhzO/YgjxKig3l07mQMfQIZpgRX5NtfNlIqLHo0TwQt6oI1hm3xiOhAOxSjhG3h41A/Vr1Sme1QpTg7EbnXMzzi3ijxOFy8kMTC9IYfy5Ksrr8LAFQJLrcb+I9gaIU6nlbQAuqo5p2SbIdzDga8Cp7D2uNhhqpHPPNgjEeSWfvKnSsvnCB7r/je7q/uIyBdqEj447115vlZaxWeNLiCxalsLHCQcBXjfSL8MmTHBydhxndSrY2gCI8lJCDv9baieYGrhU2cqwt0OGzXHcYVNehetiQRT9ZUO0K//OETF0QKR3A7JEqg3fF9ryGPDu8XRns6VMrWsO872qlw2+DtvGN+Q64rK9c=;D62EUgjmrQlSdjERb9u4vg=="

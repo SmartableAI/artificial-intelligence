@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023"
 
 secured: "iGlviK01i4E9sCP0zYpwLTDoWbvlzZATk5eB51Wfidy0NVX2bdCBgOSWkoLE/XZ0cq+LXNLPXY9VAj5ZP0EXNa8vVS2drlnP/g8gl6zRGUhdZE8Vi50QBRHuXRfdwSpI/1dSVTsVyRHGDaAYvZTsj46Rvjt2vrCznteeGAb3Ko41fqCqWI2GyT0UuyJWmuC6d/9HrVSgQrxSJTQuirIRIDHjR43NEOij4I6xegRrTSnH+cFiJNJsllKzSe3HMONzlaHNo5KlE0TWuagFr9G0IQhCSmBaviv3eMB4Tt7iRT8QZToL/RWzJfSIumI2oc45;rd0ix4aVDmB1OIX6OrS2zQ=="

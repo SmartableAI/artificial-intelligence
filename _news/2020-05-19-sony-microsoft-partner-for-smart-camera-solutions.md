@@ -20,6 +20,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "Sony, Microsoft partner for smart camera solutions"
 
 secured: "Px7mAIM/aiSJzsPHR3uQSVuy0xXurZT29e5AHGtVtJtUNcRDUrZ0mbLtC1MJo2HNGsy6gpujQTvkkSAZmaoApv0VPdPtmdS0seNKqsu25OcpBUAIEakyv0wvQJR9b15+V2ulvHi4fLFv0Ht9rsPELGzXvacWCD2/vlPaoDOjN2jXruUF5cMj81rDBoxyXGZYSI1ZXkRXSKjDIzdcKOb7Itn8dFP2GFmpuylsev6FwfNtut15+65xLiXRLayLY8XrTleJ4ABc+Ul0kFHhz78qQ3UR1pGs57jAetI67fqmBQ4maBj2IBAj6tkMBjJpdJ8K;LJNuA4tp1+Y7ERjGkhV+Lw=="

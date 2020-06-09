@@ -28,6 +28,7 @@ images:
   - url: "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg"
     width: 5157
     height: 2973
+    isCached: true
     title: "Microsoft, in collaboration with OpenAI, unveils AI supercomputer"
 
 secured: "kNp8W3/ttd2GVPn9Ic8uaoa6y4Z2FZKbiVoVHjIolG/1d7t8KgKZ674sLZuHpP3U0NZA2PVOzgijys84avqZl6japsCP1f9tIs5A5uShLgH2Wbe0h63C5fs5AdoA7gE5bvyQxSv1+BPx+l7gzPxUW4o5y08+ZRqHVcq45J00T0722yDBuMrkIcilAvSfHgJ/QUQZlzOfLo3TMW87FazBRGjUCR/Huy0uBo1EtkDhWHWW//xYvzOsfZv9xqpi1sezhrBWvjer41krVUrnosNrr/ubq2zdPctlRlRzq7y7f/2RXgrkqBnl1cHEAA1xjhf5;gnyrlT/P+mlW8VAlBCrGkA=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.htxt.co.za/wp-content/uploads/2019/05/vodacom-logo-header.jpg"
     width: 1920
     height: 1080
+    isCached: true
     title: "Vodacom chooses AWS to help deliver services to business clients locally"
 
 secured: "utzmsTHWE621cR1IAxhVM8wm0k3XLjdavFug5BqhlMywCE2RtpDfwbWfexUke64qx55zAGCufJlTlzup7/v7OThr+UzIOUOdloAbp4ajUE9AKXNBr8MYawTrc7CWZIl/5WuyIGVrrO5KJvI/DsQf9fzSgG59fAaD5NnoUG2AcTZjMH2xdxa71egS0rkG8/JK/XPXOpna0j8XTB3/MQE5tebjHxJwCsTA3HtBK4JyFS9z5ZY/ziiVVgZOIqXc4Y5n3G22HSEnR/TTE1MGP9bEVWHSce1fux+36f3CRK+CoYh8mmaNHCCiP6sBSWY7LP/Izp9dODZSgbEaEl9hsDIitqX/Tc6f+mThjPAQyPaCJ7+VIOM407b9EFfWjj3HcSIVnJ02dM4y+VV68E4Wa7q6AsaC+YbF54nGNTBx326gEahny1DOG8lXkCfOjIHKY/HXTuY91L9eRKVZMJdu8iY+ABSrj3SI50qETHKJbfvyix0=;u9WDH0paesDOasrawT8+cg=="

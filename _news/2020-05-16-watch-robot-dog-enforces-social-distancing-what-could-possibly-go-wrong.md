@@ -23,6 +23,7 @@ images:
   - url: "https://www.mediaite.com/wp-content/uploads/2020/05/Spot-Coronavirus-robot-dog.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "WATCH: Robot Dog Enforces Social Distancing, What Could Possibly Go Wrong?"
 
 secured: "c6ajgVU0gbov7hvzHR+UWDl5cLpWrLINsqERwnaCM9nS2Rnwxy9W8cvd/TdKQxJitxsGnyHE6BZxExDtzlGPx0I0VFVXjFLkvQHB4bl4QLgy+saDgEEzgHGdTtld9SmTv6/f7UtrrkOkkrdljUYB2wi5AZ8/IPSGL9FJjLp5FvYGXnZRfGXpaLd69Q6gXH/Mqkm1XWVqakv3qEKFqLRzXD6bLGDfqbZjN5CiUtf9pyZgwoDwsJBfmmBzw34xKt9+XeBKMPdd7rWYnw+QbdY6ob86/wyrL1fuEnVuGkd4TAyzUIzFex8dbeJEiCApkU39gdOesii1ZGolm0F2g7h+0+Wb63tYTB66TNU1ONtaIQua/4fCj1h8EK4rUh8RFx1RgoP+8Md3uDtmOP/bmIro75VGbBYMFypM2n8cwFciPJiKQjdHPR9bRXsKJJ9NnHyWBom7XNBxUxcH8Xj7Q6RfusW/x7hCHopYS7Sfczu+7wU=;ajAcxzs3avnABV9UGMdoZQ=="

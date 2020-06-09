@@ -2,6 +2,44 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
+      "title": "Microsoft built a new AI supercomputer in Azure",
+      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "publishedDateTime": "2020-05-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft built a new AI supercomputer in Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
       "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
       "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
@@ -26,7 +64,8 @@
           "width": 1280,
           "height": 720,
           "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +98,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +111,8 @@
           "width": 1071,
           "height": 728,
           "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -108,7 +149,8 @@
           "width": 400,
           "height": 240,
           "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -145,7 +187,8 @@
           "width": 2500,
           "height": 1666,
           "title": "Google says it won't build AI tools for oil and gas drillers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -177,7 +220,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -189,7 +233,8 @@
           "width": 1037,
           "height": 598,
           "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -222,7 +267,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -234,7 +280,8 @@
           "width": 596,
           "height": 344,
           "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -267,7 +314,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -279,7 +327,8 @@
           "width": 2400,
           "height": 1248,
           "title": "This AI Maestro Wants to Serenade You",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -312,7 +361,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -349,7 +399,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -361,7 +412,8 @@
           "width": 640,
           "height": 640,
           "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -393,7 +445,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -405,7 +458,8 @@
           "width": 640,
           "height": 335,
           "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -438,7 +492,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -450,7 +505,8 @@
           "width": 970,
           "height": 545,
           "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -488,7 +544,8 @@
           "width": 1200,
           "height": 878,
           "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -521,7 +578,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -533,7 +591,8 @@
           "width": 1200,
           "height": 675,
           "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -567,7 +626,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -579,7 +639,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -612,7 +673,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -624,7 +686,8 @@
           "width": 1200,
           "height": 630,
           "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -657,7 +720,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -669,7 +733,8 @@
           "width": 1200,
           "height": 675,
           "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -732,7 +797,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -744,7 +810,8 @@
           "width": 805,
           "height": 545,
           "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -834,7 +901,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -846,7 +914,8 @@
           "width": 1200,
           "height": 630,
           "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -879,7 +948,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -891,7 +961,8 @@
           "width": 1600,
           "height": 966,
           "title": "Google releases four new machine learning APIs for developers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -924,7 +995,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -936,7 +1008,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -969,7 +1042,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -981,7 +1055,8 @@
           "width": 400,
           "height": 400,
           "title": "Microsoft Certified: Azure AI Fundamentals",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1014,7 +1089,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1026,7 +1102,8 @@
           "width": 756,
           "height": 567,
           "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1058,7 +1135,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1070,7 +1148,8 @@
           "width": 1200,
           "height": 600,
           "title": "How to find out which facial recognition databases you may be in",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1103,7 +1182,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1115,7 +1195,8 @@
           "width": 756,
           "height": 567,
           "title": "Microsoft builds massive supercomputer for smarter AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1149,7 +1230,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1161,7 +1243,8 @@
           "width": 1200,
           "height": 800,
           "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1193,7 +1276,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1205,14 +1289,16 @@
           "width": 580,
           "height": 378,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
           "width": 1200,
           "height": 800,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1221,43 +1307,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
-      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
-      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "publishedDateTime": "2020-05-19T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

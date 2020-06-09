@@ -21,6 +21,7 @@ images:
   - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
     width: 529
     height: 639
+    isCached: true
     title: "Robotics : 2020, Year One Of The Roboticized Economy"
 
 related:
@@ -48,6 +49,7 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Top-Robotics-Investments-and-Funding-in-May-2020.png"
         width: 1698
         height: 956
+        isCached: true
   - title: "IFR Report: How nations invest in robotics research"
     excerpt: "What are the targets of the officially driven government research funding programs and what can we learn from these findings? This has been researched by the International Federations of Robotics and published in the new paper “World Robotics R&D Programs” by IFR."
     publishedDateTime: 2020-06-09T01:31:00Z

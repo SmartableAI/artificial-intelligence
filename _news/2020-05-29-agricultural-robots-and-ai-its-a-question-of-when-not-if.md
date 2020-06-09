@@ -21,6 +21,7 @@ images:
   - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2020/05/29/Arobo.jpg"
     width: 600
     height: 361
+    isCached: true
     title: "Agricultural Robots and AI – It’s a question of when, not if"
 
 secured: "/m4Yy5f8udRxmwYv4s44H+fXHn3AO8vJIP3Nn0G0sW5haLtblX03SPrvv01GJxKXokvZfqzMuQ9P+iTq1eIlQk+IuXFPR5GHzzdOvp1XQJnUXoMCAem6ULG9bJWp36TtLwPUwk7ZUsjAhbxpWWjdYcvY6c5YTcG5H6xs7J83gQ0WnJrzUaVQ0ECJqJ46mUoLMNA+QqinV0glpIYPVJQ7B4iF5IUlEqfxlqSzrNU1CvQsP1jaE3G/HY6Tz0MaJ+Ikf3gyGrxO1dGOyztgdI9VBRgjNoKJLKIGCUn7/iGAJUVfU0V6uiEjYBiiZqzYQKxQrIBuLPAF4IYAmTlhjt/vJKm5YJyS+nLZybOR5/swRrYYd//YiAs7MXvafjFzH6Gj3/pPxeLojRubN/TAK9Nl0rcTWCelssYxxEqAkwcQrUwrBVN5Y2lDAT0pPO+R4uXMOsYHrs5iElYfRkMDxXp23/u6hnTyCiubU4NLcgakppc=;pdkEqQLLwm1FnvY1fLmAJA=="

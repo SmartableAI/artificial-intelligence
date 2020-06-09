@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_12746-870x580.jpeg"
     width: 870
     height: 580
+    isCached: true
     title: "Sony and Microsoft strike deal on tiny AI chip with huge potential"
 
 related:

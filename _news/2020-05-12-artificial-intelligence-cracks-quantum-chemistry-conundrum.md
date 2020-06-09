@@ -23,6 +23,7 @@ images:
   - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"
     width: 777
     height: 435
+    isCached: true
     title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
 
 related:

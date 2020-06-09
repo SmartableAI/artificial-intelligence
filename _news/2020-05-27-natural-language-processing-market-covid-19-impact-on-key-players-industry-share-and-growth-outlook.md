@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural Language Processing Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
 
 secured: "/bLEtftTx4RBvNULJH4dkfGJlrhYvODSR2RtubsJuEKQmU8+zIGTxmnB9vSs4dgVtcFwaFn6WS79SFSMfYp2GJXh4eS3B5kZyqGUCZHcPDxPkXvb4QEj2myx+YKfNhYqYuMHfdtCvZyky9PszqhFRXs0hgkSd0D7RWJxoOcuK77U19blJZwd8i1JV6AYz2zUZOTKG6QkwPTHhOYW8g3k6BnjQJagKHijSI4ai6XI6QVtRAw22K54uNGIJ2z3nsVO9MtnfcgPxIegCPWOheWFhA3bsOQzyncxDEQBFcOBIVogvcWx7seprSQ+vLnqfIaH;GRSlb/zGsKcsNBwupRq0dA=="

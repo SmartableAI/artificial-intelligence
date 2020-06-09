@@ -27,6 +27,7 @@ images:
   - url: "https://i.pcmag.com/imagery/articles/07GfgGmxXRNHdBubixzRcFm-1.fit_lim.size_1200x630.v_1591258593.jpg"
     width: 1120
     height: 630
+    isCached: true
     title: "Learn the Basics of Big Data and Machine Learning for Less Than $40"
 
 related:

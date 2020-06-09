@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/7/ed/7ed0c741-8b08-539e-a277-c50320ee770e/5ecdadf62b392.image.jpg?resize=708%2C397"
     width: 708
     height: 397
+    isCached: true
     title: "Amazon Web Services e Bundesliga fornecerão análise de jogos em tempo real com “Bundesliga Match Facts Powered by AWS”"
 
 related:

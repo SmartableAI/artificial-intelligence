@@ -2,6 +2,35 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
+      "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
+      "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itp.net/business/92638-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech#!",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-tag-aws-reinvent-2018.md",
       "title": "Tag: AWS re:Invent 2018",
       "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
@@ -55,7 +84,8 @@
           "width": 500,
           "height": 272,
           "title": "iWave Releases the Corazon-AI Solution",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -92,7 +122,8 @@
           "width": 1092,
           "height": 692,
           "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -125,7 +156,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -137,7 +169,8 @@
           "width": 1260,
           "height": 840,
           "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -174,7 +207,8 @@
           "width": 1024,
           "height": 722,
           "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -207,7 +241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -219,7 +254,8 @@
           "width": 1200,
           "height": 634,
           "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -252,7 +288,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -293,7 +330,8 @@
           "width": 620,
           "height": 480,
           "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -326,7 +364,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -338,7 +377,8 @@
           "width": 1200,
           "height": 800,
           "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -400,7 +440,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -412,7 +453,8 @@
           "width": 796,
           "height": 417,
           "title": "Scientists are using AI to predict which lung cancer patients will relapse",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -448,7 +490,8 @@
           "width": 620,
           "height": 348,
           "title": "AI could predict risk of lung cancer coming back",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -481,7 +524,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -493,7 +537,8 @@
           "width": 1200,
           "height": 600,
           "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -525,7 +570,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -537,7 +583,8 @@
           "width": 1200,
           "height": 630,
           "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -575,7 +622,8 @@
           "width": 760,
           "height": 368,
           "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -608,7 +656,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -620,7 +669,8 @@
           "width": 1200,
           "height": 630,
           "title": "Amazon might buy self-driving startup Zoox, report says",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -653,7 +703,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -665,7 +716,8 @@
           "width": 630,
           "height": 414,
           "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -697,7 +749,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -709,7 +762,8 @@
           "width": 1200,
           "height": 760,
           "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -742,7 +796,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -754,7 +809,8 @@
           "width": 1024,
           "height": 683,
           "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -786,7 +842,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -798,7 +855,8 @@
           "width": 1200,
           "height": 675,
           "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -835,7 +893,8 @@
           "width": 620,
           "height": 250,
           "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -868,7 +927,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -880,7 +940,8 @@
           "width": 630,
           "height": 499,
           "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -913,7 +974,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -925,7 +987,8 @@
           "width": 1000,
           "height": 580,
           "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -958,7 +1021,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -970,7 +1034,8 @@
           "width": 796,
           "height": 417,
           "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -978,51 +1043,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
-      "title": "IBM publishes wide-ranging free data sets to assist AI developers",
-      "excerpt": "Among the recent additions are three Watson Studio projects. IBM Watson Studio is an enterprise-focused AI developer tool which helps data scientists and researchers to build models and prepare ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "publishedDateTime": "2020-05-27T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

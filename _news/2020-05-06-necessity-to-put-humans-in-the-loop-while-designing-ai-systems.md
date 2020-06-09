@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Human.png"
     width: 1244
     height: 700
+    isCached: true
     title: "Necessity to Put ‘Humans in The Loop’ While Designing AI Systems"
 
 secured: "y3GgDGgXS6Qe3S6CQwQqVnI0LcqiFgJgCxiqTSg/pV82wdTF2ZHJpM9QYmzFvpa974eMnTqSo0bWygbczAY5I87Oojr2+MOd6drDkN7DPdUQaYAAOHzKZRSVMcqB2I4kUzmCGxCjdxUFWHsvGt5yIqPCQUHeMDXznYdbCybBj0qXGk2ykIHBu9EE8SzMJSq0yBymedPUNj7ApAXLtsRiny/hY/2rpSUfq7lvZJnmmWGxpKmGcWFScpwRuzBJPqSFz9SXPSzH0lApcOpOUeK/UUrs94sLTkE450lYKHVWrFmxLCloV1RFLbx8N+Z2In/C;y0NtMV987R7B3SrfE73sOg=="

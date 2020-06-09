@@ -20,6 +20,7 @@ images:
   - url: "https://s.hdnux.com/photos/01/11/75/30/19387909/29/rawImage.jpg"
     width: 2000
     height: 1333
+    isCached: true
     title: "3 Tips to Find a Good AI Partner for Your Recovery"
 
 secured: "EHb2k1Mf9Ik+sLL0f0Vt8Ice7qCszEdyWsmI+4Mgyjp++wg8nyhyYMQzRVB7M9Tbnk0SDocPMFad5fmjDw9adSb0qZ5i2e7o4AzWKspb3EPT+62qD7m8mIMxCBNQOnBz8XcMBmKbueliN8aKFmlh2Si09gAFOfHMCgaBp/FviJ+kq0QQjOlTZ61MOkfsBqjH2VcKL2MXz/krxB3zuhCoAdbDuyon3+Q8JqOesBA3lpKNP1t41A0FbuySms8BIvy7vAfDqBoyRBbDQETPf4JPMCPiDvvL15iyRgyymkcFDkW+sUgA75PASx7/2KSy3j2t;HEzrf8l1OilCpIqXFqIkLA=="

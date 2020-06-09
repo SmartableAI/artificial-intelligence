@@ -23,6 +23,7 @@ images:
   - url: "https://www.thestatesman.com/wp-content/uploads/2020/06/iStock-117_ED.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Wipro, IBM join forces to develop hybrid cloud services"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://images.livemint.com/img/2020/06/08/600x338/9a95fd18-9b69-11ea-a186-d9e3b4d139e4_1590090136636_1591589234908.jpg"
         width: 600
         height: 337
+        isCached: true
 
 secured: "xqwrxR526BWvNEoOGhMkceX6RhcJOj+7bGz3KlnL3GlLwBc+3cjiIhhZjZIkmv3FgrjLIS7t1L9JMQjp+jF1MPfSlo9N3rHVcTwq5C+cHcnFqROEOaPctqwzofZWi3/RNcQw5klsHfVz0+S/aNhN9Rnc4Nxn1ufr3JMJRypkUTCm7e3SYR/+Xx+BFyalRYV6nUC51B7SYqHQrz+VCepCCRjr9eIi8dubH3xwuo0F0/IO4EVTOazJvPevS0pZCX1TGhC4LcOW3+WNoxOr0GyvYvXtJD5mShCmkT/bmITHvUtykyVV6tPS1h+bZToDCETcROQ1jvkjREUN0wLW/uStzKxfcW2Npf8+W+toj52QHw0JAmZZ9j7JLhU4I495mvNgQmCdmUdw7l5TOx8jee9v6fUr+IsOo+gimW7+NpUo6CmZt63iixlvWHGaMFCo1xZlQ8CDh3zhoWulJQApi/3dLz3/iNLGfCcOTzPKQTQaRso=;H2QqOHdP5V2kZosMz7zGnQ=="
 ---

@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/tenstorrent.jpg"
     width: 612
     height: 612
+    isCached: true
     title: "Tenstorrent ships Grayskull high performance AI processor"
 
 secured: "dysi0camRJRGcJS6HK//5o0doixwLNxegrHiEgZ2uUJN8dzSEXqAhU+x8b2u/zWrhPjy1FTrMFKy8i5nJdXdRwEGZqZtn+5Ljdjefg5ruVraALKliSww53HPFlt+FydkjsvV6bLkpIU3YxEDOgVzm8T2MQSikHF4rPtNcU8RQ+bn60xRlh3ijHom6DTziyykHT/4Xpc3SZh4ZM2JVRBjprwMxyWwX3FZOnGbCFAC/nNCc/bBbdesRUWXgvfqYN7BamXevy8LP2CnZ0L32fWi/kEVKuKlaOkq174QfkVzFXbOgjK+KsnSYc7ziAGSIxDF8vV5Xnu+G5YtGbf0HnCvLB7Wi8M6JeVXxFRfwA7xNVlghf1DwPkeMS0xE4mTOFY2ZBLYmJrxG+4Ehs39iUF2xAbetnxc3LawqZ9SaOMFwFyaNO9xJ4W0cMkaixoo0+7bcgpcSBBmH/S5FwclwHXrq28UrUKE8lymrT3XY6KVMMg=;+DhjQr8Wrz6XIK51X8WeaA=="

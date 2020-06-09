@@ -24,6 +24,7 @@ images:
   - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png"
     width: 990
     height: 498
+    isCached: true
     title: "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson"
 
 secured: "RhFxmftt97O5alkLekW0SlhG2OTJdGiNNcaq0V4O86BfibkG4+Ky/GxUjVhI7Tks9adgr3WyiJyXDT0SaHsTPEi7bfD/g+p+5uLfR+Mk/x0wd6i065rPNgjuS8bo+mmVlOWZHiKbSUhN1qS+/MUuYf6wAOXVDq//fymKhqm2JIuvSrJcXti6Pc8jWZPfWbW15sFppaE442/R6kBRmC/lRLuDqRc/nFvt+5x+Uw2caiDoDFB1v6B4TM7Z5L8FPGHmaAW//6sVuenDE1BFIekAWulPxDLaBhyfqHivILNvNf94mZSzQZy5YtFyqr+zi5yKudM6O366RjBaa75ut4tJWA==;u/fBkyRebqOoT7HIyk9eQw=="

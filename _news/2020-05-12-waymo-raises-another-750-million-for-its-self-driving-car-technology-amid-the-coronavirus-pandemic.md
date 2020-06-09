@@ -25,6 +25,7 @@ images:
   - url: "https://i.insider.com/5ebae238204ad30ed40ce0b9?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Waymo raises another $750 million for its self-driving car technology amid the coronavirus pandemic"
 
 related:

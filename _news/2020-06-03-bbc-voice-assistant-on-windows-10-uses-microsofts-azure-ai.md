@@ -23,6 +23,7 @@ images:
   - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F"
     width: 800
     height: 600
+    isCached: true
     title: "BBC voice assistant on Windows 10 uses Microsoft's Azure AI"
 
 secured: "QzZgU90NwDhW2O0jI+0qqZUwPvdh9MUtOVUNbDAWgfRA00KwY/SP9VPmsoC/NkItvkJETMy2IK7GERQwmyEmzjzUjoGN5b1PsVNne6JTMt8s7BkwjhyzyEdIq3bR3rWfLqiOUNsyy9YdvL4HCNQFL0jkmvegYsnEFbWGrvpSgG0RIdcFE7xpQNWSdztJ1rOL7aHWPLs7+pCF0w2tCVCnTEoqB24XEg908pAxR2PKq5ac27p8LWBgSMjPZClH6RZIOgRg6a0vH6BcpT6oGzj4HtXzFGum/w6NwCN0zUIM2e/HErs3WVTOP13QMs6uISn5HzLvPk3ZBh+6QW5mi7qpdkD22OHdZZvc62/N8Q4zFbB2EfzoyT2D7PJjf4WZl7pGIPjnI7hPfPfanG7GSAujDf8+3uGx0ZQq2Dy2pdHG8IATO8HvMR4OKUqel6WecXYqfb7e+wzAnshF6wOYndnaw4E5NOdtBvYDWcRs8NJOARY=;arqk0Fwj7LNtCslbx7NpiA=="

@@ -18,6 +18,7 @@ images:
   - url: "https://www.adnkronos.com/res/img/logo_adn_484x252.jpg"
     width: 484
     height: 252
+    isCached: true
     title: "Changsha: Intelligent Manufacturing on the Fast Track"
 
 secured: "CcS4fhyTEHOn2zg4mAx0YPVrCLI7EAUH+C3hqYmNUvMFgcsu5500QPko147lzog/XPxSPKyZGdA5wgL3/dnsNhHYAFVmnrovrmirFO8mZbcG7L55Gc2yg6nEcwrb9/+wQ0BwjBMi6XwfhTPUlxCdju2T4LCP1jjf4smAiX2v0UE/4WsylTsDhnoMxml9jHeW4aQrUpNdJNZ/+PQW7pdvy15E6pf2+c+YnjL176wDeMvaDW65aT/1ww89wcH1zm4fFwaTuCIlXTVeJnrEu1ulb5on5HcycUjP2rPSIHcI9xPvwBCN3gbKZ11E7ncSqyl8;h+0bNmJJCFkq2eAceQjniw=="

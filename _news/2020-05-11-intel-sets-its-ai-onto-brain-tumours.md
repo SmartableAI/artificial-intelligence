@@ -20,6 +20,7 @@ images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/f21bed06690d5fc91294f0ab3c600bf2_L.jpg"
     width: 620
     height: 465
+    isCached: true
     title: "Intel sets its AI onto brain tumours"
 
 related:

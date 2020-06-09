@@ -23,6 +23,7 @@ images:
   - url: "https://thedroidguy.com/wp-content/uploads/2020/05/activate-facebook-face-recognition-galaxy-s20-launch-app.jpg"
     width: 1000
     height: 908
+    isCached: true
     title: "How to activate Facebook Face Recognition on Galaxy S20"
 
 secured: "GmlQtk8VLgGyjIiL2kwmOxHPbNOpDhOxePsL0vpnyjBl6kNO0d/vlVR5FYDXdw0CPMstU4BY+f6+bUHI8L90CJGq1iLU7A3ToEWT7yJQgQeiXRgBrEbgqyZHu+tWoXHHw/NLjpMQiQ+mYGucOQTETNhEwK6wzlBuYDOhgF5HXX5c8A6kUr2F7UKVOQvEi6+K2OheysKs7yXaROLZGpPt7WlytPCguDdoUprEa5nBdtoeep0v+A9V6GmvU4dSua23BGHS/SWfk+zcTobBgypfEuPkR0K1lym6DSJyYeB3A1L4ybZ3FEMNk9ehyDtsb2gh;e0/WGIOtrbbxyxy7BkNGlg=="

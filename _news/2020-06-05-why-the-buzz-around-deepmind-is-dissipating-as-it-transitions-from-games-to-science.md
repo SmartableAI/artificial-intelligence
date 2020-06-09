@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645"
     width: 1024
     height: 678
+    isCached: true
     title: "Why the buzz around DeepMind is dissipating as it transitions from games to science"
 
 secured: "4tmoRwBvM8+M8GW/MIdEq2yVtRA3TjtGIecPW5NjsvGlCd12ENmPnlGsY4jXB05yhcD7i5fxYrl6a8n3AuatK+1wFu6L23ncAf7imsfTByEmI5FWq6lXmth5i/55VIUcAf+bWkEO6gAL4XS/ERr8nETDpNYrv0orPVB2w2EKm07vmtGdAtZzLAyRMUBObEWbkoYCNn8Rbl1h5TfTtoQT4aJeSgNe/UMJx9g57KBuLflj/0L81NKajhJUr9o5A5FF1T/8uzsxbKYuy2vLEIywVtKNajwgeGL22uCbXTrW5h+MAWMOpUv7M+2RI6NoTPG04lgLfpHeBd1qxarpM4kULI5aKU5ctUeU8WXI3wm3vuNF50Vr4qGpoAbQTSX1+BKZCvbM+r+lihDxjTBk9T4DktpynVNdsbolLcRPaYEs8+xbOo9v1iebd6pC4xvtnGR6lgqieyXPgQtdkje9OUGYF34jHe8J643BBMeWX8gi+/A=;BpdYZ7URn2nZvYreHqUXtg=="

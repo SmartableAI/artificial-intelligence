@@ -28,6 +28,7 @@ images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
     width: 360
     height: 300
+    isCached: true
     title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/963feced-c0bc-40b6-a216-ac13ed576bd1/thumbnail/1200x675/a8bb0d273d07b0025ae1f3bb0acc19f8/sony-develops-first-image-sensor-combine-5ec1bfd7e468b746804e6632-1-may-18-2020-24-23-40-poster.jpg"
     width: 1200

@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-25-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "UK to combat air pollution with AI-powered traffic lights"
 
 secured: "CB1ZubM7SMPfyVP2VgMzSRUyXMfFkqSDT/eQ3FH/wDIlKkd1garI9mjkoGyhvhp6jPAB7+ERJJA+pAtVBL2VqbiIPGzbcPpXYzFmAd967KklLj5DnmC7Q5grpmK0zaN8lnCN5K7GeUFacQ/Ss0YWdUaM0m1eKq6LClAxkLxBI+gK32spLNXG8EoKFaNto+hsOA5hyTjWudRc5LLMxFcR/qkkR8lEpu01ZbNsB3VQ4GCCcyqXkE62AXvWYTZnFP0hGJA3toYn4rV8j7GDjB645FB5Y+OvXhvd9Dy+qbzZnwxeu+oAoE4gck5KNb6VxJanDFFVhBYs73+8RZ1wx1mTY7MOZX0zahcBjd4ubch3NgzBOa/kNh6cupaNFEk8MpWLk77RxTOVNaybHcWSYLwOOSzR0ZnR3K4nt3ocCmiR1KfUjrZxcx9g87HpwLsNHuwrw6Iii0FVQGGGnGm8oQWBu66zhUETW1G+yk86YgEwsG8=;MKnA9Ps8uAW4qwOCTYf8ew=="

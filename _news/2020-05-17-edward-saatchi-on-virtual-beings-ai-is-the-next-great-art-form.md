@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 674
+    isCached: true
     title: "Edward Saatchi on virtual beings: AI is the next great art form"
 
 secured: "z1jRn+Y431FKtYmyHCQBVDbu/0rp7qAQ7RfOjnWgRxVvddshs/Dv3KulqD2icpycu5qh00SJL7WxLkYDaNZtKMV3K/LE3/gtIfafy6fxWgQVJbFqOizyZAFjaw9ri7n6gluBBsLBLdi/2edtANQLKUNgJpAbSblyAufqB71Q9j3NMMWoEXZSNTTlerzzhAAIn0WqiLMmNC7rmvKNISFZWcPs+MpeNEUnWt4STwXFhhMQTICiNC2cn9VWACRQQeixJPFrvyuDGpKfatnsX9u6Dhl4cePR7j+C/Oqm7rL2srZTBhUy/4oBetDyx+agODo93IhOJaOscluBtA9szf7taCd18mHz7+sKgPg7QwFBMIQ+HpVAkt9o79ZwlVXSIXcFCF6pMOr2SCet5HPnbhYO+dZw+SY1c7089gP/aalIRr9ixvPEUOvLM2wb1N68SmnJDj+CEHPfSDpOFEyPU9BEz73JL0DxBgCD4CZ2cYe0WZc=;7mxAfxObPlbMapihbQ6DEQ=="

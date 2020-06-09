@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023"
 
 secured: "ZJCNauO4koUixRLGQzELyHsus0d96oVSXN1ZDS1OAnOI5AFM3hqPGz8mnmwBTBLsJdCP3Gxa+/z1bbBN569j2v9HuDJaujQnIHAsIR1Vx23XXaFVcXK+x4KS0B+b25C/Cvau6n6B7Pm1liCkXw1McYoMajmYy/K/Tm6m8vXyCan8k/KyFGEAv1/bjl8FqGmxTIUL8dcy3gAIk9oKv5V+d42RHyXoocJ/0PsNSb0U086iArsqncug3q2g2Gjj+IJKFtyC7heS2fp1lGhcdmeZKsbLTgJiAx0TSZzQBn1ti3OB8tYimMDLiTZv1MuUR5du;XPuTMuX/BxURLqzVbnJTYw=="

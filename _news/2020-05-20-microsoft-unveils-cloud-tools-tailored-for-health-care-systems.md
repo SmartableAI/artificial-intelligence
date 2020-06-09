@@ -21,6 +21,7 @@ images:
   - url: "https://static.seattletimes.com/wp-content/uploads/2019/04/microsofitcloud_Tzr-780x501.jpg"
     width: 780
     height: 501
+    isCached: true
     title: "Microsoft unveils cloud tools tailored for health care systems"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"
     width: 1280
     height: 1206
+    isCached: true
     title: "The AI Eye Episode 343: Intel (NasdaqGS: $INTC) Acquires MaaS Firm Moovit and IBM (NYSE: $IBM) Unveils Watson AIOps"
 
 related:

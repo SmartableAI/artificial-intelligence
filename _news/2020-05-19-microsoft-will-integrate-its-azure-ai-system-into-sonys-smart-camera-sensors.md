@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg"
     width: 760
     height: 428
+    isCached: true
     title: "Microsoft will integrate its Azure AI system into Sony's smart camera sensors"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://sc247.s3.amazonaws.com/images/made/images/2020_article/LM2005_F_TBP_AllianceAward-main600px_350_200_bor1_b9b3be_s_c1.jpg"
     width: 352
     height: 202
+    isCached: true
     title: "Robotics and other digitized technologies may remake 3PL industry in post-pandemic world"
 
 secured: "vvvYlL7ggFDA2r4rBQN0cNKVa6fA8bWPsOdJg6gyP4Z7iXr6wsn2CDhsXOI/18oz50zGzEfsCLggtN/CUGzqkgqIDk19kpHIp4m2CqcrjOuVBMkVLVnnh60OoYgq41ky/I4rLhk+jeD/eO3yCX7eWLBEKkF2DhqlYOCMO9ytSdUlPEaEWssw7S4jplmI15Xzb4BWXnIuN5gHDx+ytQY60UMY6g4DoUTXpv9oFfbtTe+NKKyu1TVNmsjCDzvTF1fMckcRxBTW1xa2Kn9uyQFbXv5U89puVpD1dbQoTTfoHwG+95M1KDoJ9p2ERSHe9hQ+;Hk8ekPih137Sj+3TjCNggA=="

@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1170790/AMAX_Logo.jpg?p=facebook"
     width: 600
     height: 315
+    isCached: true
     title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024"
     width: 1024
     height: 741
+    isCached: true
     title: "Millions of historic newspaper images get the machine learning treatment at the Library of Congress"
 
 secured: "hFyxzz8Qe21axGqQqtM7UuFX4TPwktXDM9K6IjD+sILIjMVmyCljTTkfFLJ4qPX4mvhv1HpOrUQKBx6RBuYZogIT2c7KfsFxdw/ScSZubOSjz9qBHYRgh3RJrbn6RujBBhLutkvTYupH3P/GpY+0DjbqHHB0LD8rx8QhMAG85RrO003Lvm3JsmnnQzSeZuHxPomZo610PWm1qdO5qv7ycIPR6v3Zj7myUTI0Qd7ReNfEAKJ8KAhyNMbKZR1jhD4YY7eADUK68P1cRuI1iakegn1IR95hmgMYQMZ4xcL+cd0qLm6YhZZUW+lLvronyBLnLUFGrzmgcGkwH1iRkDHrBLNOY9E61HUhoZraHPmDoCGdz8J9Kcetmrej8TYuqcMI1BoEtMFeXaQJDkrvgJogcHdiySkB3Tpld6LHSpHbJlt/lvQQGHPRoIwhnVtbyenEwQumMuTsFEA+hNwrjE/7ox8sTFVnyTlPOBlCf9sKENk=;m3Q7V1TZRCEu9HHsEVrJaw=="

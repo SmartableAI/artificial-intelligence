@@ -25,8 +25,14 @@ images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGJpvPGslJQ5w/article-cover_image-shrink_720_1280/0?e=1594252800&v=beta&t=8Te70QRcbvgA0ztcf48pTIARikFz9Zgtkk2s_ymrn20"
     width: 1080
     height: 720
+    isCached: true
+    title: "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGJpvPGslJQ5w/article-cover_image-shrink_720_1280/0?e=1597276800&v=beta&t=I_XTUJMa9nQ_8XwM1B3ntrKmcPjLCO-YiAR9gqgzxEk"
+    width: 1080
+    height: 720
+    isCached: true
     title: "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business"
 
-secured: "IBj7HQ/zrKji4gvnlFG1ZALWc1fFDiUH3tYxlkSuf7NQJf8FSa9VFv2OjTVNXYzzLgynbbq7R6VV5xkqaMC8uitgW3udbUKSFSUH9ef8MUbjXJHIjLHHw1h0Olsh9UsevqCihDfmYf4lZnWTi9aeDXpmX+AY+cQhKhjPCXq1LZdh+pw7biQHl8DHXEVx2JokWiVxHhzlAuB5w6uwwLQbmg9yp8W2Ix1VNCl6YSQYZVd9CwBxSAXEVW4HB4l+iwm6jwuma9atB6cp44JHKFhwk2hSN2qngMgbUv9nkTaM7rGCvkfPFskGud6WJYseXeat2MeVcFR5jSbJedjr8oZxUCWUBv50r8bSJlVqj+q2MjyufqowWkgO7JH0uMRs3vlKJmSVQwL0puCN53ciZ9mS0+//uFritFZV7m7PWgiEEuv3SlOSzV9rwy+c0lKYMoG74oTYw6vulaQTNgZVJXfo+TgZ2SU/ZPK3K/XyLp3K+zQ=;XbNzLzzrwnE7FghNtCSBoA=="
+secured: "m2pR6/0w2wXPZsN1hGWufTrEaXAm0Z45NVtOq0jW6ON2w6KbnaiXKHUxb6kt0cgPrr1qP954LZhxwzNZm6LUt1L/YtcLKdA42o5S4Vj/EcGpGZxAg2A91kwvmcZn6W6nGLyBnXVruEJJAzuMLszw9cWhDnkTQFwErtSKmFJc+taew7f7qhyESvPSn54QQDy/xllyg6yM0xjiwnillYBsJJ4sDIhyO7DFyxyDhmHaR7GFkJHc9ak5UNuIAWKcGQ9H1z9o9Rdr1tx1aEE9Z+E3oEj24IGc/CNc+zwx7ovrRN/Pyq7slG4F6BXlBKoF+O2i;EaWYunDpLtkCqWOZL7JfKw=="
 ---
 

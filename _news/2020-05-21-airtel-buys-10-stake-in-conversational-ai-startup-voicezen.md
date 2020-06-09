@@ -20,6 +20,7 @@ images:
   - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
     width: 369
     height: 400
+    isCached: true
     title: "Airtel buys 10% stake in conversational AI startup Voicezen"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg"
     width: 1200
     height: 628
+    isCached: true
     title: "The best computer reading glasses to help reduce eye strain"
 
 secured: "3sWr4glk22JP079t5i10F8zcfOMxB6gfHbUZBTQUBrN+6yETJJxjaDNYL00BOpInTQ5pP7/6hURRxZZuA+LZmIdNe2Z+u6XaOwh21NriwzYPPsvob2NnkTYjSyo/xqtEXp89b5ROzD5KACImLyjSioEoRYHkQHC/eiFp+E4+c7P7/3iZJIot2PXarRCQRZuGGO5fe9JE80cl6VC3YmfoHEBzuEZb2W+8YZP/zUEAjkiFnuYbYtZt+DZ62STTydVAyhTsQR8W2XyY+t+7LMJv9JLhNx2UW6K6BVm7vFip+a/zsMB8hGmzwaVVVonvXTaM;TF8wDQOOtOJnoIVb5WbohA=="

@@ -26,6 +26,7 @@ images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200520&t=2&i=1519261256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4J0H7"
     width: 805
     height: 545
+    isCached: true
     title: "China's Didi will begin using AI to run virus monitoring in Latin America"
 
 secured: "C8XsQp1ArhpVmSaKeXvYw1i1/TDIC8WwiC1AqgPalSyG6yKjwAEVZgqbQq72aGCz1MMiSvlP3GCW5fUoha/C2WGtg4K5nzAYH+Xm5bm86N+JqwoHhwT/HoVZumifRN6SPT73MwOKAAZ3/UgADjJGDm3h0c99CJANSGvfmhgk6okdsYBc8Rt1A/Qrm7R+UzvwBtm9N/wpsMgSQQRQB3eqZJ8P1gkemmAsaP+UyOlobIMzWJZLuQqLjJxb8DR9W3lXnjQrHxAZTHYxUg9JUtXS1uBYce3bjFI3bIfP6GOSqtIuo7y0Y8UsYSDlTzb8ql1PPckXPoQ8L4M/eTWYcHuDmY5w/QdBDeY81KOgutBxFtbETIVnZSgCItD6dzcGsT/LCLeFjsmPupIUU1rsWK2F7ZhNm1lrEbrm0S5wCWs/pN7nxaSGBRT290bPr4r7NJph8+K10k7rAyeVrgs/P2zBsN0ZcIbIAlLh0i24FYvY8Is=;4ukPEoDrzkNtrQgNgxQjkA=="

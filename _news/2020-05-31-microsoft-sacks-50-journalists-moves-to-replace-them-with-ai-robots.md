@@ -21,6 +21,7 @@ images:
   - url: "https://www.ripplesnigeria.com/wp-content/uploads/2020/05/Microsoft-CEO-Satya-Nadella.jpg"
     width: 650
     height: 350
+    isCached: true
     title: "Microsoft sacks 50 journalists, moves to replace them with AI robots"
 
 related:

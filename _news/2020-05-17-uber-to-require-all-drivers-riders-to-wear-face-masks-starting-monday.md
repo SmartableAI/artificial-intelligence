@@ -21,6 +21,7 @@ images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/YZWPBRCLF5GAFOXVWLWVLZLZSM.JPG"
     width: 1036
     height: 606
+    isCached: true
     title: "Uber to require all drivers, riders to wear face masks starting Monday"
 
 related:

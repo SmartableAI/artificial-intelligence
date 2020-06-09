@@ -21,6 +21,7 @@ images:
   - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
     width: 300
     height: 206
+    isCached: true
     title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
 
 related:

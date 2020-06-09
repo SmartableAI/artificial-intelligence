@@ -23,6 +23,7 @@ images:
   - url: "https://s.abcnews.com/images/GMA/oprah-gty-aa-200515_hpMain_16x9_992.jpg"
     width: 992
     height: 558
+    isCached: true
     title: "Read Oprah Winfrey's commencement speech to the class of 2020"
 
 secured: "ilnI8gVq3JDba3eyukKl7ydk4QUcgORot2fx9Y7UMjupNllo835uVJGrIS0CpoAGzSu7wDkC759lWZ5QxMF0ZVAvQKwphgP1kX7dJZvaNR7nD5gNCsrHdqHIynOtzOyZrjm0tgd+aXqR9MDezA6N5osAUfYwfEki/5miNlJ7OY+OVd6WazhjocIWk/1relzE6CzNOpI1lZQf69Ksb+Bg9hKf+VZDZT+P3T+zVd4WGSlXT62UPj4qn4lZubmRCam/KUVwqxE9Ke9wRMrgkaNw5VJkojNH5wUPiBkrBWwAl1Sahny8SmXnSofc6aBG8v+A;tiWkcXh7sbbLKQ8qcaH2yg=="

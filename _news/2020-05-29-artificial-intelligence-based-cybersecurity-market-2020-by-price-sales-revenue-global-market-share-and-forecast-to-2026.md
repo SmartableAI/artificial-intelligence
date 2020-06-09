@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence-based Cybersecurity Market 2020 by Price, Sales, Revenue, Global Market Share and Forecast to 2026"
 
 related:

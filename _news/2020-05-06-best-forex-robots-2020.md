@@ -21,6 +21,7 @@ images:
   - url: "https://insidebitcoins.com/wp-content/uploads/2020/05/automated_forex_robot-1200x900-1.jpg"
     width: 1200
     height: 900
+    isCached: true
     title: "Best Forex Robots 2020"
 
 related:

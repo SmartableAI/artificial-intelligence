@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/06/quicksight-sagemaker-38.jpg"
     width: 800
     height: 443
+    isCached: true
     title: "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight"
 
 secured: "X5OuZWUEGakgo5NciLoYnFfambCxhjglP8I7iFw+59XfY0vKrZPdq/WudTuCKTM8sYDxXz7yJ4cjOjwFThlkXCIsgPRjHtErxaLa0Vg240MYCKgTewrVDVXzhNoyfXh6dZzQme4D5plwwm0GT+S4urLl/TN6dGJ+a+Xj64UWkicbcj9p7LvyDbfpWNE/OnYRyXH1CMIL6CBSL52b8WAoY59OG0q5dpIS7CkBnrjyslV9xoRCmX9o0z58JS1Iss5QsHgKardUlC9PY5xVPgcIuiBzTsODv4hp3zlk7COlOOpRx/slsTQ9g2dfxr/u7RkxzDz+pR+b4RJCsp00lR9fLA==;ZY13nqznlhO7e2NryjA+tA=="

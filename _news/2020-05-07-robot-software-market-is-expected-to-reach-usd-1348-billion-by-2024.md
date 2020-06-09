@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Robot Software Market is expected to reach USD 13.48 billion by 2024"
 
 related:

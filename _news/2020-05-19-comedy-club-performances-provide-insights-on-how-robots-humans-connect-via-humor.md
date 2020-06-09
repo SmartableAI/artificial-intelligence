@@ -21,6 +21,7 @@ images:
   - url: "https://eurekalert.org/multimedia/pub/web/232275_web.jpg"
     width: 1440
     height: 960
+    isCached: true
     title: "Comedy club performances provide insights on how robots, humans connect via humor"
 
 related:

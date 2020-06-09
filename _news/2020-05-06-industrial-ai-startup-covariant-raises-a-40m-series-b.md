@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024"
     width: 1024
     height: 691
+    isCached: true
     title: "Industrial AI startup Covariant raises a $40M Series B"
 
 related:

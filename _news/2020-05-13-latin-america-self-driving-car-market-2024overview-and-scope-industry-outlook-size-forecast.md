@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Latin America Self-driving Car Market 2024:Overview and scope, Industry Outlook, Size & Forecast"
 
 related:

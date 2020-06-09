@@ -27,6 +27,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F1a37d3a0-996e-11ea-be1d-2fb343574213&client=amp-blogside-v2&signature=0c0e15f91f5f792fe742dda0de39831e36906e31"
     width: 600
     height: 350
+    isCached: true
     title: "Tesla's 'full self-driving' package will cost $1,000 more in July"
 
 related:

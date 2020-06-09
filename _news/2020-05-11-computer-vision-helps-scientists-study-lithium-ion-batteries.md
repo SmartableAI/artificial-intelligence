@@ -20,6 +20,7 @@ images:
   - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/22660/aImg/42036/may11-2020-slac-lithium-ion-batteries.jpg"
     width: 720
     height: 403
+    isCached: true
     title: "Computer Vision Helps Scientists Study Lithium Ion Batteries"
 
 secured: "JOZmtRTcxmkoSpftSgCwsGK4xKwTRh6oZYVl8CKmkomfIQ9DHm4vMZ7CJ1Tgce9IeCQw4d/7hGZm6nE40UXMGC+jKeg0MiRdB86mw9icNy9XMah2wIujmLIbkuk7RN7Pxw/Um0GFTPo3XInCbGHVY6ncc4m2cLAgRl/n2frxeQrU25Nt54jz2Qoj2q8Rj73+8E8vKRl5Ra6Im2Fc3qYY6RednTpdnHvr10xzKloJvyOhztzXSkgl+xwrzDLO5jqu0q3k5SfhI5UxAQ8jwFJd0TlFTa5rBtxGqUjqSF+ZmwWBGlu5vP1tB/A4omQkApRK3nXUsh3USq6OvczhJN1GTmMhJWlKXEWzWtdqZFrF9S1J3zEm0B57KDMOvIA+7qfgXKUliqqFmz55b3ehSsBPdrsw+yx/yGMW03UQMYYC0Fzb1BPYfP+vMuvZyIG7ZKqvei5AJU475iztQ66ntILOZ1He92aBZzWJrP+EItNci6U=;icnlHcwAf3o4AjZYQliCeg=="

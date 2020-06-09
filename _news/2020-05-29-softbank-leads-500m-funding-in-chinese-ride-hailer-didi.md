@@ -21,6 +21,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F7%2F8%2F9%2F26229874-4-eng-GB%2FCropped-1587102266DSC07383-1.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
     width: 1600
     height: 900
+    isCached: true
     title: "SoftBank leads $500m funding in Chinese ride-hailer Didi"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://i.cbc.ca/1.5600787.1591388829!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1134666583.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "Machine learning helps archaeologists identify the source of ancient poop"
 
 secured: "YN47I9uD+14v1h0z40ybKYGNB521VNaLgZc4d4XgaEAlKcDAq1sKNNs4Rdrrw7b10avyubT2O9ZC/+mdU4gJXt7NoLUh7TZ2Izo93z0sd38MZWzhG3+lDPz4BrVqVV2Wh7nKzYsq16VmutZhQ4r/vjW7oteINoayTzrAYqPCrQ4iFA7EQxaewSDn6SPean1N7H2bMGi/nSvJn5DRW+nJzUeMowBqeCXsgMVkq3vGdk0lrUmO8BujGcO7Egy5hICe7Ydi2galxw7dVidwQByuyJ/YdR1+3+5j7ljvHJ/WGQLlyttRX9/a6l9lI0eFvvfE;GqIIvk2R5FIFMljhUzNuuQ=="

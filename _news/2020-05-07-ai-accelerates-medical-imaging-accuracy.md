@@ -20,6 +20,7 @@ images:
   - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
+    isCached: true
     title: "AI Accelerates Medical Imaging Accuracy"
 
 secured: "A6DsQc9uNerEweU+65Ao+uHt+Pa7C1g+HVxp5pTy++txRSMiMvcapDRwg4G8Bxk7MwxOsDYaYV61+rYrGxuEslJzNFbm96LKvBK7q1iXnkpHYQjbayskO6ZBpEQDlKOg29GCajkidZzhssIJ17DBK5nT5kyxTzsuTZunbaORm8DLGttF8c8tZeTq4ZTYuDHoHYQUpjLwPUUTgtt0LDjZ+hLSZjYcMzaF0TsAcWGRdpkZ2T/xTeIrOWAwjSoQlLtw5VYX2wcaPhMXn1vYSaEbXp+N133U5MjUKKmFOiV3ECo9/hqvhbf35xwsS2DPKNgl;1Wrp05BSd0IbujlCYflKrQ=="

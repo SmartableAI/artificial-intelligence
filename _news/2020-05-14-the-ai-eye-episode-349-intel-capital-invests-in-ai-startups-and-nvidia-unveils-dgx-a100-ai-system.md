@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System"
 
 related:

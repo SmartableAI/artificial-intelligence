@@ -23,6 +23,7 @@ images:
   - url: "https://i.dailymail.co.uk/1s/2020/05/14/11/28169010-0-image-a-6_1589451585546.jpg"
     width: 636
     height: 382
+    isCached: true
     title: "Robots equipped with infrared cameras could patrol holiday destinations under new EU plans"
 
 secured: "V8mSV12ElmSFn6cfZVYOuswZrzW/TUXx9CQ6NhfiHQc9thnJSay/MFd21Wjt7Nls3zevh5QCaBURSCf1UvdXRlbvXZE10wfZ3klE3xmzGCIK1ub5tBzcBgIV32uFuYKjThXI6+MTQqEj5+nTInM7N+tpe8oAffn0Rqu4BNSZnn3ZbOmkmYFIxhlquDfmhiTVJvmcRM1E4129L/vgwcF3f7SwD1d6lYtqUy1T6Q2OsdUXuC63xpHKq/oV3bzLjmzD0YSdR6Xqcc/G/xAKOexHr7xYqQTPZbCNxNxYraH5mNqf1hytV4jbjOyzvR3xGg8v;KoSn+3igGNvyKczg2XPcBg=="

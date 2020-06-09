@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576798%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
     width: 1200
     height: 800
+    isCached: true
     title: "3 Top Artificial Intelligence Stocks to Buy in June"
 
 secured: "9w4fjRsCoPTHHV/5tjJ01Yo53K9hoHsrcUJbxA62jKK3cDAzr4QttG2ZiAgrleJEW+clur2XHV+6V0dLfEqoSri8o91bzaxW62grZ5RY0BMsLHs00d38G2gsmKs9pw5krRIrDPJZzTJWaN1Hl/hkPERsTl+BFYzgTziNKZHni/aZMoXDo//HIZXMDQzKG7MnS6m03L1uaAZNuMocoFzG+CCmNgTouJXr7C2x1RUAUaSFhNoUA6SOMJPjEWPgpyc/gDpOhyo7nQCPvnqB1ceykZPD8G0nwCeYv5ut8QwCskmz+vaG4OQmN7GCTsnjW8CYj82KWk1NK2F2yPo5/GPzffjsYcl7FjicRpAMFfVz6SIh6nGG1XPn9/yTJ/ET8/WMrkSpnjsLrQ5akLqxZAtUHqgzuiNIJXZGRHZfFgaoPU0KdcZ64Cl1eyW8rBXCx+UKFBbxP9qZ88582XQebospHXqnzjGKHhxX4WJTT6s5T9c=;wN58T0Z6YFWf5LoI9dqJ2Q=="

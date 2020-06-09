@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize"
     width: 1200
     height: 760
+    isCached: true
     title: "Amazon in Talks to Acquire Self-Driving Car Startup Zoox"
 
 related:

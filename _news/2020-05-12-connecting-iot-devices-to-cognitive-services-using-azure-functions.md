@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/learn/achievements/student-evangelism/connecting-iot-devices-to-cognitive-services-using-azure-functions-social.png"
     width: 640
     height: 320
+    isCached: true
     title: "Connecting IoT devices to Cognitive Services using Azure Functions"
 
 secured: "RFkM3bWZ4Db9AHki6jCvyiPDb1Gt3nWBx4frTKx6vpme3XWG6ovdmxZlHw0IyV2PxrLyxF3MvzWOcaZ/e5BArYHEEuriOnkj3BEe4ZHyX/aBoEey53NopQe4qi9OzX+FikiwMhqn8ic1rp7mAqPel3v+RPkuOgTJ2lKDx2Toz88TSCC6uIcf9CZZLYqTDSEhMUR+dwmGJoIBEreAAJ/vPp2PCCxgzaMVK1S9rgpxhgqr9y8BoLOgx2YFdH1vA0RIgqn5Cx4D3XVnNsNIez+5vS7S4bw1Tw4YdOK47ZJYEeIKJRBIgxt2PEUrITYEHKkh;zTXLE9DU2jY1D2zGVJ/ToQ=="

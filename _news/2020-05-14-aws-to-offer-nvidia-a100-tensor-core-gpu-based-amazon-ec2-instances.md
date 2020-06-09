@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/AWS-NVDA.gif"
     width: 1000
     height: 414
+    isCached: true
     title: "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances"
 
 secured: "H5DvuFUMokBJ3+Q7Y+xb+tj2Niha68cwzzMQmPSwevMd08ivRbmHWAOfQhCopmT2r2bHxEjuTudeC45JB47xSZlzvuCdJHWUJPDrxQ1yn1y9uGYS9PtnidHBg4oAzXMcQWmpgT5JQrGB106pSM/SexF1MAg+yYKuvApQ3OTuKwOVVxTY9/s2o+xOXIVHdQUaJ1p26pdyMkmLTcRfbLdNAbHOkN5ksJ82DWdwOwhV0IrL/0YlQyFNd2wRsMdmP+cQ4ew2Z1dEg05+1T3u6mInfoFh0jY0ReBQ3TvooZFmYCfjHKA/RzbH5RV0dW9MmuleO6EqRoFuMSJV0L/iAz5AMg==;E8cYYPQ87VbAoJzD647CQg=="

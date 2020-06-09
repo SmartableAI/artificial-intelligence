@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2020/03/05/face_masks.jpg"
     width: 1000
     height: 667
+    isCached: true
     title: "Coronavirus masks are thwarting facial recognition systems. So, of course, people are building training sets from your lockdown-wear selfies"
 
 related:

@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/18/9c02bf5f-14b2-4c9a-81fb-c41203e8a625/thumbnail/1200x675/497b2a0ce40b8724b624d72a84bd65e2/patrick-tomasso-nwvwbv0sv04-unsplash.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network"
 
 related:

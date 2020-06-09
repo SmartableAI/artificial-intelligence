@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg"
     width: 648
     height: 429
+    isCached: true
     title: "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse"
 
 related:

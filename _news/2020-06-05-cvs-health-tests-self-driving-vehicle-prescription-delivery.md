@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/3/4c/34cb1c66-a0f5-11ea-84fc-ffe2e8f117f7/5ecfd4202212f.image.jpg?resize=946%2C630"
     width: 946
     height: 630
+    isCached: true
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
 
 secured: "+pt3WSu9s+Iju/9C0jzt69hjrVb5aUHMq2DXyqjH1D5TM+MpxtJaPCL8VLPdPTwBs4F4+Y9cKTILjITqGKyyfiuyK4DGrkoLl+YwUuQStQjxquA2cen2dBYiLKVHuXlDHYAvsTjVE1l0VcXTH4ElhrZKlmOBcty3cSLDbTrfBkHdK/aC6fmNQgHdvMSyO6ekE4dplfJlE1jpVvibo8+6yieB54SynOuOzs+j0a1DttrxyEMXz6Th7E+LWgQTfXbzLkDWGHf59MXahLK4f6H0jxZpm4goOAsUQAuQYgM+NBJMWhawuyt4ts6Ew9QlzMDd;Qr2LCKjJTBsWFpRUUxijNg=="
 ---

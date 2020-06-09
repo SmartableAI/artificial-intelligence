@@ -20,6 +20,7 @@ images:
   - url: "https://menafn.com/updates/pr/2020-05/21/I_67c36ed7-6image_story.jpg"
     width: 369
     height: 400
+    isCached: true
     title: "Airtel buys 10% stake in conversational AI startup Voicezen"
 
 related:

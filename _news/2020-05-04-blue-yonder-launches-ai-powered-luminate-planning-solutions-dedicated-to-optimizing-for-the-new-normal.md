@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Blue Yonder Launches AI-Powered Luminate Planning Solutions Dedicated to Optimizing for the ‘New Normal’"
 
 secured: "Wh8Dz0FAfH+1cfBsiww3uFp10sL+jh1y7GH8ZH2z8lCgaNGEZcXU1K+SNyVMkIMYE8a4siUes0n69vIfyPDLl0VATCJwy29Bi87cdX0skPV4qiKlsn98/TD1HRm1lPNz0AiXRnbPpGY1gXZBAueyvkzkV+Athz+VG/o9tQQktXN5XlsKDOCYSWbGFiSnl73QiVA2oBVr/PxrpPgUJ4Axv+2sBl3az2MfowAB1ewn3KvVXIWw8FeOifu2WZ7cgrK2RfQSL+6dl2ZtC8WW0WkN6Gv9JsKzlF3iLgJ9z55TP8XDg5w7eT7esPlrsfxBKrzg;Uea1Tva+ON/O2cq8LfmItg=="

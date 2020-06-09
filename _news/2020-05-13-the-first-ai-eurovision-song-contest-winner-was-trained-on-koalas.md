@@ -24,6 +24,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F1a6b0ba0-951b-11ea-bddd-de0c29af979c&client=amp-blogside-v2&signature=cf88798f606f47899dbe3da230d3365ef2894574"
     width: 1067
     height: 630
+    isCached: true
     title: "The first 'AI Eurovision' song contest winner was trained on koalas"
 
 related:

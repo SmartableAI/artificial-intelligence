@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed905490fee5e0007449f0d%2F0x0.jpg"
     width: 1199
     height: 709
+    isCached: true
     title: "10 Ways Enterprises Are Getting Results From AI Strategies"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F41d284c0-90d9-11ea-bb7d-17e552ea48f7&client=amp-blogside-v2&signature=fe89ad135723f6833c30c2b2a4d58452f7fe7476"
     width: 600
     height: 350
+    isCached: true
     title: "Clearview AI claims its facial recognition tech isn't for private companies"
 
 related:

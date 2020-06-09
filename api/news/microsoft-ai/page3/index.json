@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 760,
           "height": 428,
           "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,14 +82,16 @@
           "width": 360,
           "height": 300,
           "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/963feced-c0bc-40b6-a216-ac13ed576bd1/thumbnail/1200x675/a8bb0d273d07b0025ae1f3bb0acc19f8/sony-develops-first-image-sensor-combine-5ec1bfd7e468b746804e6632-1-may-18-2020-24-23-40-poster.jpg",
           "width": 1200,
           "height": 675,
           "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -124,7 +129,8 @@
           "width": 1333,
           "height": 698,
           "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -158,7 +164,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -170,7 +177,8 @@
           "width": 1260,
           "height": 709,
           "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -208,7 +216,8 @@
           "width": 800,
           "height": 600,
           "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -241,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -253,7 +263,8 @@
           "width": 630,
           "height": 432,
           "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 2307,
           "height": 1334,
           "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -332,7 +345,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -344,7 +358,8 @@
           "width": 1200,
           "height": 675,
           "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -377,7 +392,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -389,7 +405,8 @@
           "width": 2957,
           "height": 1958,
           "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -422,7 +439,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -434,7 +452,8 @@
           "width": 1200,
           "height": 800,
           "title": "Machine learning tool trains on old code to spot bugs in new code",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -468,7 +487,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -480,7 +500,8 @@
           "width": 1199,
           "height": 675,
           "title": "10 Ways AI Is Improving Manufacturing In 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -513,7 +534,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -525,7 +547,8 @@
           "width": 1000,
           "height": 563,
           "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -559,7 +582,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -571,7 +595,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -607,7 +632,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -619,7 +645,8 @@
           "width": 1200,
           "height": 675,
           "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -652,7 +679,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -664,7 +692,8 @@
           "width": 2000,
           "height": 1600,
           "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -704,7 +733,8 @@
           "width": 1280,
           "height": 515,
           "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -738,7 +768,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -750,7 +781,8 @@
           "width": 1200,
           "height": 616,
           "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -783,7 +815,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -795,7 +828,8 @@
           "width": 1200,
           "height": 630,
           "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -832,7 +866,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -844,7 +879,8 @@
           "width": 1200,
           "height": 630,
           "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -881,7 +917,8 @@
           "width": 1200,
           "height": 675,
           "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -918,7 +955,8 @@
           "width": 1200,
           "height": 627,
           "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -951,7 +989,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -963,7 +1002,8 @@
           "width": 280,
           "height": 280,
           "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -996,7 +1036,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1008,7 +1049,8 @@
           "width": 1200,
           "height": 630,
           "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1045,7 +1087,8 @@
           "width": 882,
           "height": 589,
           "title": "Microsoft conducts AI Virtual Summit for the students of BML Munjal University",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1078,7 +1121,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1090,7 +1134,8 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon launches cognitive search service Kendra in general availability",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1124,7 +1169,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1136,7 +1182,8 @@
           "width": 1024,
           "height": 686,
           "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1169,7 +1216,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1181,7 +1229,8 @@
           "width": 1200,
           "height": 776,
           "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1214,7 +1263,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1226,7 +1276,8 @@
           "width": 1024,
           "height": 683,
           "title": "Uber may use its selfie tech to verify drivers are wearing masks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1259,7 +1310,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1271,7 +1323,8 @@
           "width": 1024,
           "height": 683,
           "title": "Leading businesses reveal the power of combining human ingenuity with AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

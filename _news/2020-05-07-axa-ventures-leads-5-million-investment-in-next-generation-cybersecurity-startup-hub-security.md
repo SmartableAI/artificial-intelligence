@@ -20,6 +20,7 @@ images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "AXA Ventures Leads $5 Million Investment in Next-generation Cybersecurity Startup Hub Security"
 
 secured: "FHvUvqOwr0R9FCFvzP3f2IVjaTNX/wmrSv6p6srmAlQ9a1Wr2pZv8VtnWIU+++AzRJVcdFzwuoaasBKntWlSdBgNhMckQu7eGfcBogvSgiur14wGpIpvk/uIRUIP/VCC3sJzb6eL8plbSQKXxahl/9vCdnJZ18icSCBxRzqkhFr/5FdOudtcssJ4U3Re0vuyN/xLzodwLHqq2Eb16KnQDTfhyeVRopE570qihqsEJAs8IUhMyVIK+aXO9botswTLHWbKGUIlLdsvnez6Gu/MgkCLysyLvGXJ2/JIz36Fc4NEk1vIgIDTACK2wQuRzM3X;TO6nTD37IYe0aPxDWEeErA=="

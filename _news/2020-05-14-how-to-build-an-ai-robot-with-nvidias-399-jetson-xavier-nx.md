@@ -27,6 +27,7 @@ images:
   - url: "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX"
 
 secured: "QxSuXwbxgUw+xFPUR11C/fJ9fT/G+7cJkiezfvGGz1tB8Ner95HlND6d7UmWwj1hBxtKExDuaZTdAXvy5zHq68Dgdd92AYLTk9Q8PX2zUIpG39QGxu2fQ4JOm2nD3m3zMHS4Lno2xt3fd37ozGDX/9UTmdKd7Q7tCcxn97k8iyOp74gEzaiGr2qrM2arbBn1vn7SnOerHWuxuRf0d+cXLtShpGpdk+NWRTWI5d3sWEXrxQ32M24Q82mzJ8baGIXGvVH0WONPn6Sc5rgdShZHB31o0mHs5QfJnvIqw5xBjhA/eoJz31SxxkZvhhw+hBiE;4hTyfhEaYEXX3KNuomST7Q=="

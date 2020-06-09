@@ -23,6 +23,7 @@ images:
   - url: "https://www.financemagnates.com/wp-content/uploads/2017/06/money3.jpg"
     width: 880
     height: 400
+    isCached: true
     title: "Boosted.ai Secures $8 Million to Enhance AI Usage in Investment"
 
 related:

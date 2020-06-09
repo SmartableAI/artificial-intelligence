@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Artificial Intelligence in Manufacturing Market to Reach $4.19 Billion, Globally, by 2026: Allied Market Research"
 
 secured: "UO8kzAu2bMECtEbxvLaWX99d5IJol7vkHMnTyLqxuzXvmJxjh/BZWcTgvH4vEMcWwhFS4NHF5Pa2K8/n6SYFNvYuU9yZaPTS5/ILLY/dH09H8Lc0i9QKSdvoGDtsTqhrWLuC8p882QQUzVn0j8JFz8naFZ0NSai+Mbe5kkRgao555Z83MCadnbQjk8EP7hC3Z1Rf9MTZifnWG74RzaR2Dk40IbO2owEcPzwfWgVX7Up6zy2c/VdAFvGddCaG8T5BFWmjly3eRkGaEDpQ05l/ZiBN9YOE/JUfKEBP8AGFX03FYXSGjDWjPnBRCX2VdF1v;QkP+LqI9iSMJ67RpuOc26w=="

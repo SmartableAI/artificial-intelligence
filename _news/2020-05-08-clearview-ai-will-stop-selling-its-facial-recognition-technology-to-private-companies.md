@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/15908830396_71f3c072d0_c.jpg"
     width: 800
     height: 314
+    isCached: true
     title: "Clearview AI will stop selling its facial recognition technology to private companies"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4ym9za.png/1589313127560.jpg"
     width: 1420
     height: 798
+    isCached: true
     title: "Police trial facial recognition tech without clearance"
 
 related:

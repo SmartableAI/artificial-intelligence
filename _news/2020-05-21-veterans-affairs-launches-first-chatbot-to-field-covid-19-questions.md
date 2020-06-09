@@ -20,6 +20,7 @@ images:
   - url: "https://cdn.nextgov.com/media/img/upload/2020/05/21/NGchatbot20200521/open-graph.jpg"
     width: 400
     height: 400
+    isCached: true
     title: "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions"
 
 secured: "FpO00mbgBn1EuioHVhmjOsZiU1PvrdEmW4g3I9begLqdE1iDyYA+cjoQHyzBZBEdNSh2ugepTD9LjTNtWPnJKVin384oSRBTV4eqAO16KSmofsAl+lWhPZcSgeBqS1LT0ufyXzA1CT8DXOrg32fL2puyueCEiKpF2kZe1TO3+EuL5KpIJsZvN51ljPEGmFNaRQ3dvbPTqDSMsGTqng84wrqke8MEVeQGOAz9U6rxsHGKnmrRovHOAUJMiW1AyAA53j5S6dosQpbYAaHi5CrrO0pWwj4Mkcg8OnPsuZKsoSuFPjOYNXV6YX2raAYafHXr0zmhqPmQDnm0UbOYbogjL1U/6qViMPBe3rs/0RNA0w2tuuQlHM/+bRDCF2GPZEIiI97q6eP/WkhvE+Z/9OQBJud68p11xQfXaxOwiy1+fqki/52Hks4mTbfjW/OGBLTzXThYZA0iiFT15wAe2/bN6IZgIsD1AJMreAZpHxCLt5eYUc83GKXK8BTQ+eBenqj5;MGQ3LqEEW+a3z25jvSgSsg=="

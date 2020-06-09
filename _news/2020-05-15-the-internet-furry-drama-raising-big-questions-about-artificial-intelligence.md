@@ -26,6 +26,7 @@ images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png"
     width: 800
     height: 450
+    isCached: true
     title: "The Internet Furry Drama Raising Big Questions About Artificial Intelligence"
 
 secured: "sIqrhvYhgEoNeJLF1TNNzlqjufuBouiQzjVLai0LRKvx0S5iREpE8ur4hDDAt7s99l96Qccd4KPljj40fNWbyeKr6kF/lN8znau0EiMZBVi08i8UQ1tPkeoA4tYfUXWyZL0gRwmQB9dYvGbnabi9icARu+ywW/7sVNYdHkbrR2+7VyPTYQxMSWzR0OMfAlJUX7oxULVdV7rdlk6tXva/GhsqMD4QToXWaA8ns5UwtF3Z3gHcvmzLttowSYEvr/DsvJXpO9Szze6bS5jbjkJSNFksScNrhYUnzfLfE2KrYw1nd3ua2qSCCrHzTISoVngYJEKP+lTFsNzDDTw9ePegC8xfwEJCvojwC5MvtGrVH4jr5RuiO8hRJ3BpjPvG6qI5t8NfJHYLA9nEaNNSpYzNwr8jxcPnfbO7mR5o2Q2M0aCLps6oGJnMNy5GAlWLyrzejuS4nHj1xajLcFOA3jnsIqVe2PnsJ58YkXViEDE5BBM=;ZIJLbdwQ6uhQw8+mGgScfQ=="

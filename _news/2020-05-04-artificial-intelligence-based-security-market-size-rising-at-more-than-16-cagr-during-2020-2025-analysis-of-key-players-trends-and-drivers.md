@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence-Based Security Market Size Rising at more than 16% CAGR During 2020-2025: Analysis of Key Players, Trends and Drivers"
 
 related:

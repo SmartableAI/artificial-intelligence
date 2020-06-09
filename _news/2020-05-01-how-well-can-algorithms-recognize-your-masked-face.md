@@ -27,6 +27,7 @@ images:
   - url: "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg"
     width: 2400
     height: 1600
+    isCached: true
     title: "How Well Can Algorithms Recognize Your Masked Face?"
 
 related:

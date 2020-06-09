@@ -22,6 +22,7 @@ images:
   - url: "https://www.brookings.edu/wp-content/uploads/2020/06/Foster_Antitrust.jpg"
     width: 3500
     height: 2334
+    isCached: true
     title: "Antitrust investigations have deep implications for AI and national security"
 
 related:

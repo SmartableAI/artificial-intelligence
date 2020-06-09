@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Mobile Security Market Growing at a CAGR 19.4% | Key Player Microsoft, IBM, Symantec, Trend Micro, BlackBerry"
 
 secured: "QFi6JDVBeR9U/LnhESefLsFZCw8C17WgZ3/mq1Lq8GtY0s26N5ta19cqCEQP0bAGhofSvoaa4xeGKUctsHWZppMUdrEjvTX0xGYdvVHgIMA+Gw/FwE5dl6JOp3Y8JCavwNMQG5T4nvW7XTqVqaijCMj5LUyMM3v5zjZpiadlSKlKoEAEtOVGvR1b+lnWjBmWp8OJ8BWCB4lwkz6wrn8+7x5HFqy79xQH5vDmlqAdNv8uqjqkwZ/HgispAZ886+DXpifzBnI+9ystt4GtfcdC7UgUkW1k+mzrw8AcqTB0s6jO+jXUDFQTxeEBPeN/mmSB;Mur7kENLHlXtzgcdK0eSwg=="

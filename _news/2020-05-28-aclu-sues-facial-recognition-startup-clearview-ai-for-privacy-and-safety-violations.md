@@ -28,6 +28,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/law.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 850
+    isCached: true
     title: "ACLU sues facial recognition startup Clearview AI for privacy and safety violations"
 
 related:

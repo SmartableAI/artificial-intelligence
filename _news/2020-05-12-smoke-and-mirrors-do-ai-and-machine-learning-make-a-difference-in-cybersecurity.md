@@ -21,6 +21,7 @@ images:
   - url: "https://rcpmag.com/~/media/ECG/rcpmag/rcplogo.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Smoke and Mirrors: Do AI and Machine Learning Make a Difference in Cybersecurity?"
 
 secured: "HYLrohSeDWxwNxzphY7ifd9faQ1Hy2Hdpsktz6v+tgG4Jj3q6h3dOM2O5JNqhV84H0TKyNpkpHYNIHNJ4Ayc+i1FQG6ht0dAqE79/zsFZuwO7H1oMkr9HXb0Li4iWN13VW7LUcgvzGOgVw2Qr69GLlBTiHukxz4tJnRvRvrejjPKDLX/OElSWoG//4HU7ODEL+aJJbrY8GyxD+3lTjgLP7wfmJpuV48zxQMP2KR0jrVQn57bWGJ9pkImKJO9lOc0JsArJjpmHwN7GtO2ii52DRoiXtfT+jWqaaSieC1QTFaD+G2tlL0q+Q2YjSDh2W1X;hjNpuCVf0H5QI/nYKKtzUg=="

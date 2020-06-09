@@ -22,6 +22,7 @@ images:
   - url: "https://s3.india.com/wp-content/uploads/2020/05/galcuma.png"
     width: 700
     height: 415
+    isCached: true
     title: "Early Signs of Glaucoma Progression to Blindness Can be Spotted by AI"
 
 related:

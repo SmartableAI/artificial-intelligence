@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200526005556/en/647275/23/HSBC_Logo_2018.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "HSBC Launches First Equity Index Products Powered by AI and Big Data"
 
 related:

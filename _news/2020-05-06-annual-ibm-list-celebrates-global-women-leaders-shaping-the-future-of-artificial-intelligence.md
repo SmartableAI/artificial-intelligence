@@ -22,6 +22,7 @@ images:
   - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
     width: 2698
     height: 1414
+    isCached: true
     title: "Annual IBM List Celebrates Global Women Leaders Shaping the Future of Artificial Intelligence"
 
 secured: "dhZrhFVSbnO93pkIzBH8fEqbOt3RU6IQQxGvPMa+Ub0lWOPDqf3FuQdmi0PsjtPAz5aui87ys+j45rkRQZM8pSLESAL08fZCZF/H81y7XgQgfF+95C+dOIDHRWH+uKGzA9uXLv105WvMO25UeNi7hIY8himSlLbd6pjHgHmFWgUNn0nlnJH8ZNJHegA5ZMr++XB8zu5gFOcRsOAbzP5o6hWXYcVe90fDhCR0w5cTUFwMCD/J+DKizbTSPHkHiZTLs/eFpSQk6H62l8Ysqrego1tDc5fbtCnQOpD5YtEc03+z6ZP+kDAeQeD2iZUB2eCYpIml7WEOk1vx9qy342rzyuuwgpaD98WQvJ9J8wtMhydQbUEKcfK6Bo5akLX7ssiazsiYaf0F9I7dB+C4p99zQmEHZfn+pDhAEATEF086LAXCwAEHVWiRxqt37l6DrvpbayGW+YdNBHdcn5uQXf+C7sOid8JQMFV9slG7+WCkxxc=;ctW+Qk0OXJe/dzI/FUD+jg=="

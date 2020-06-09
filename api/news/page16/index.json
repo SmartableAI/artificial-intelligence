@@ -2,6 +2,53 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
+      "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
+      "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue",
+      "ampWebUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
+      "publishedDateTime": "2020-05-22T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1590146422/itpro/shutterstock_410318023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
@@ -22,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +82,8 @@
           "width": 3078,
           "height": 2000,
           "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -72,7 +121,8 @@
           "width": 747,
           "height": 403,
           "title": "Government trials facial recognition system to improve social aid disbursement",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -105,7 +155,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -117,7 +168,8 @@
           "width": 1200,
           "height": 630,
           "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -155,7 +207,8 @@
           "width": 800,
           "height": 455,
           "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -188,7 +241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -200,7 +254,8 @@
           "width": 1200,
           "height": 675,
           "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -236,7 +291,8 @@
           "width": 450,
           "height": 300,
           "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -273,7 +329,8 @@
           "width": 994,
           "height": 600,
           "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -306,7 +363,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -318,7 +376,8 @@
           "width": 560,
           "height": 315,
           "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -356,7 +415,8 @@
           "width": 630,
           "height": 420,
           "title": "Amazon urged not to sell facial recognition tool to police",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -389,7 +449,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -401,7 +462,8 @@
           "width": 1200,
           "height": 630,
           "title": "Civil rights groups criticize Amazon's facial recognition system",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -467,7 +529,8 @@
           "width": 877,
           "height": 600,
           "title": "Object Detection, With TensorFlow",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -535,7 +598,8 @@
           "width": 1280,
           "height": 720,
           "title": "Using TensorFlow To Recognize Your Own Objects",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -572,7 +636,8 @@
           "width": 1020,
           "height": 573,
           "title": "Details emerge about use of facial recognition software by London police",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -605,7 +670,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -617,7 +683,8 @@
           "width": 796,
           "height": 417,
           "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -649,7 +716,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -661,7 +729,8 @@
           "width": 1200,
           "height": 600,
           "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -698,7 +767,8 @@
           "width": 450,
           "height": 300,
           "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -731,7 +801,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -743,7 +814,8 @@
           "width": 1116,
           "height": 669,
           "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -777,7 +849,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -789,7 +862,8 @@
           "width": 817,
           "height": 545,
           "title": "Top safety official at Waymo self-driving unit stepping down",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -826,7 +900,8 @@
           "width": 400,
           "height": 400,
           "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -858,7 +933,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -870,7 +946,8 @@
           "width": 726,
           "height": 413,
           "title": "Gain customer insights using Amazon Aurora machine learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -907,7 +984,8 @@
           "width": 648,
           "height": 429,
           "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -940,7 +1018,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -952,7 +1031,8 @@
           "width": 1326,
           "height": 745,
           "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -962,51 +1042,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

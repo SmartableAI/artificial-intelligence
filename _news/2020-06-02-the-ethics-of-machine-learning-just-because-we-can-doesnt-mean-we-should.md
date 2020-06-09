@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
     width: 800
     height: 500
+    isCached: true
     title: "The ethics of Machine Learning: Just because we 'can' doesn't mean we 'should'"
 
 secured: "AbhoM1GH1SAFrW+czxCgXnvHB+rhCoPLOkF4gUxkVIiCRf3frb19mjkRr6FFkNP/ac5T+uD2KKcEL1dyjfnq4qWaDU3QX02Xwe0o9TH3/sx+Dv2IYd19N5b0R4aJYTL5Xv7wdaEpvTWMwwemy9QA6SlbirFRzF2Sv44CYaPXzZALu/XND6wXOO04J+TQelL5JVrMcr+D/lRg/bh7CQ+qW6fs9ccwSULSOEUn9e2S4JWBP05vgc2WjzrJ0aC4uJJKYIU48CH9Y9Ij5GfUWHy7/jZvVwHoiqixKBaqhpV7pc3xYOYwOhsGr/sw4xHurgza;D3bqpYKL7DUanAFRajxMMQ=="

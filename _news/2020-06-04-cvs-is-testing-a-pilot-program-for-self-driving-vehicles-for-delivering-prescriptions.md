@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.pulse2.com/cdn/2020/06/CVS-Store.jpg"
     width: 1200
     height: 701
+    isCached: true
     title: "CVS Is Testing A Pilot Program For Self-Driving Vehicles For Delivering Prescriptions"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Insurance Institute for Highway Safety: Self-Driving Vehicles Could Struggle to Eliminate Most Crashes"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://whnt.com/wp-content/uploads/sites/20/2020/06/self-driving-car.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "xefiSs4pp9sgifiCXJdcZHVScuNwEuXHF1CcqadfbREB+EiZCndwz9snV3meS83gxOS1TGYjmJCZ+Rw+yhg7BSn74twFlekeHz0DBGYJuFo61ldrCC+ZfgiKLoJNNtqQx5gSLb5U8M7mhAbfJGz1D8yKPM64uPmHuXRK7X96pO1upaL1inIX8nfcmdlSBLmVxYBvIFgjkJDczYvZc8mLDbn2LTMB05RHQ4Rk6GPJW72xRXLDNoX+MUPqEhTa2jdSz8mJETSJoLsRHZqk2ehHeAut1/gxcrRMJKb16lxJqD3uxMyGEUL6lq70VjjEMrW4;qYMZVorDS5YHi7cBOXrIYA=="
 ---

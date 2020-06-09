@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning"
 
 related:

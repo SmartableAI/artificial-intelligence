@@ -2,6 +2,53 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-19T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
       "title": "Microsoft Certified: Azure AI Fundamentals",
       "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
@@ -22,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +82,8 @@
           "width": 400,
           "height": 400,
           "title": "Microsoft Certified: Azure AI Fundamentals",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +129,8 @@
           "width": 756,
           "height": 567,
           "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -111,7 +162,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -123,7 +175,8 @@
           "width": 1200,
           "height": 600,
           "title": "How to find out which facial recognition databases you may be in",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -156,7 +209,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -168,7 +222,8 @@
           "width": 756,
           "height": 567,
           "title": "Microsoft builds massive supercomputer for smarter AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -202,7 +257,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -214,7 +270,8 @@
           "width": 1200,
           "height": 800,
           "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -246,7 +303,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -258,14 +316,16 @@
           "width": 580,
           "height": 378,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
           "width": 1200,
           "height": 800,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -298,7 +358,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -335,7 +396,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -347,7 +409,8 @@
           "width": 796,
           "height": 417,
           "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -384,7 +447,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -421,7 +485,8 @@
           "width": 1280,
           "height": 720,
           "title": "Facial recognition reunites missing child after 32 years",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -458,7 +523,8 @@
           "width": 950,
           "height": 633,
           "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -491,7 +557,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -503,7 +570,8 @@
           "width": 1400,
           "height": 933,
           "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -536,7 +604,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -548,7 +617,8 @@
           "width": 1071,
           "height": 849,
           "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -584,7 +654,8 @@
           "width": 718,
           "height": 400,
           "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -618,7 +689,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -630,7 +702,8 @@
           "width": 1200,
           "height": 925,
           "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -662,7 +735,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -674,7 +748,8 @@
           "width": 1000,
           "height": 537,
           "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -736,7 +811,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -748,7 +824,8 @@
           "width": 640,
           "height": 320,
           "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -781,7 +858,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -793,7 +871,8 @@
           "width": 600,
           "height": 400,
           "title": "Americans don't know why they don't trust self-driving cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -826,7 +905,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -838,7 +918,8 @@
           "width": 680,
           "height": 383,
           "title": "Microsoft builds a new online developer conference experience",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -871,7 +952,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -883,7 +965,8 @@
           "width": 600,
           "height": 350,
           "title": "Mount Sinai’s AI can diagnose COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -915,7 +998,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -927,7 +1011,8 @@
           "width": 1024,
           "height": 682,
           "title": "Azure Cognitive Services learns more languages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -961,7 +1046,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -973,7 +1059,8 @@
           "width": 1024,
           "height": 683,
           "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1007,7 +1094,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1019,52 +1107,8 @@
           "width": 1024,
           "height": 652,
           "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
-      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

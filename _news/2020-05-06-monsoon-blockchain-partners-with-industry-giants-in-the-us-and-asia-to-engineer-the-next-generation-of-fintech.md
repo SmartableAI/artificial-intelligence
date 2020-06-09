@@ -27,6 +27,7 @@ images:
   - url: "https://i2.wp.com/mms.businesswire.com/media/20200505006164/en/789691/4/Screen_Shot_2020-05-05_at_3.52.22_AM.jpg?strip=all&ssl=1"
     width: 480
     height: 315
+    isCached: true
     title: "Monsoon Blockchain Partners With Industry Giants in the US and Asia to Engineer the Next Generation of Fintech"
 
 secured: "BZMAmLSYKI8YPSSXA+wiuEiF2LZ6TUEmhVM2NyR3pnKyf6NoHPMg6ZO4rK/2GRjbnWMS0F3ToWsKzX4T+nkZ61m8Q+usNyaki9WGe/ScP8Xc5D3hmThHUfxnGHDtyeh/S0uC9699Olioy7g+PI9mwxr8w+O7dB+oP2vhuoM//cOqvxWGvxV3v0r+ZexlEbu6a/VQIDNDnpxT2HT98Itx3n4Kwliz9z76WO8FN+juNE2LBEM7D6tTANmHU9zioExRn/s8JTc9nCMY8X3vx+dFWI9gijeCvBWczFwolwPwsdfDg7x58PBA2JqOCQR0tKlhDpWCyaSFrA1ou6wNFXSYYNfIQEJrjLSobFrSjmCd+44Ug0D6KsZeAk+aBxUMrBQMfBKEk0LNfwcjZtUPwKCAjnW7a5HclEkCXRCxn6bhlEVabMfw1awhwIRuuRm4EFCueSDMVCZmBE7PRRhgHvxmGepzhj292jkIi2BeN9GnHv8=;Btc3P+0JKMXGCLZlfZs0DQ=="

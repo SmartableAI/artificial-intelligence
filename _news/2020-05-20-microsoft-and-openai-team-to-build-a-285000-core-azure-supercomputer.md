@@ -23,6 +23,7 @@ images:
   - url: "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg"
     width: 708
     height: 462
+    isCached: true
     title: "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
     width: 450
     height: 323
+    isCached: true
     title: "Archford Capital Strategies LLC Makes New $188,000 Investment in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
 
 secured: "zdjwpcvdFAGKjJ0aKVwSG7vzA3lw0zJAlSbOxXPgWycVvGgXamrYyYjkTEHh+dwyYDiAI4mvtIimcuiYaYOjdfiD9yPp/gE1QBDsisc1mtPgpz4zCVM0g/nMPYza9y66sl+25jRjbEmlwpNuPzgx/nclR5gUvKFi0UIu8n3fm7Uv7r81xaQzIAfgcII7qx1m+LLc+nyZOGctMZQ+f1ZqBYuZw1dg0DIeP9u+HavQkLNEEoE/qUZwvDhzZy6jFl1xcFItScnTj0OfgAJGxzi4RSljUbPhqW+VUCAd3dIRhsb6Ap32084Mexbv4Pqm6cVQfAXGNsrrQiM/HIuPsFrpTKUBcIbFwNTRekzE3t+zDNVw0P8tM4WMAXny6wsGBxys4rYoiUE41ALPL6Zw6oqQ1BNoREbdueCCaxfiz7OV/qXndUj62YL5wgivpS/lDisLw/2f80YN9FLignsNlHqhHb5MU/GzqIL/wutFIsyW3gA=;mv60waxng77X5u4VJCSmOw=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/aws_2.png"
     width: 4000
     height: 2400
+    isCached: true
     title: "How Amazon Web Services Stacked Up Against Microsoft's Azure"
 
 secured: "f4pG6+olWLx8pvvnqR0N/cJwjxpmOGaxQKX0Re1HUYXdH9hRx5qDc4lTHfS1/JSQzzPVVkuuiVkmobezZ+AE0WJKNMZ3IyqwjqAfj7lOSGlGwJHUhiSk7bryTQGb3dxwiWXRhWOHC/vN2C9RMHSTArhRLnSipT0PLv04uCdDS2MGf1G8GoVPBcHJLiBV60g3rtTZdWWJB78s5gVYukSWUGmrSiG31U+xT24yoYrhp+8/HdNalSBYTuTEwiT5jC8eXdwYMFQ8r6p370LIiZP4InV/vaoxn8Wp5m1Q4pxrxMwL7IywDZAuDaanTIk8tWhsmfaV+Po0hBWSJD/B+Da09SlbZUYcNsgKrC5A8oKgSFQqpdjMywFUc0HTF0wecLWst1fSF7CN7ncVKdFpypuhmmGkeLaawhVkBzQ4kvy+MDx2VwTNBNT5qfeR5K3HWGU0pKl1jqekME9KmmBCYJpB59ecUkItVKDV1f3zETvPh8g=;eWbpNZkGPgct8y7AVdjXSg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.telegraph.co.uk/content/dam/business/spark/legal-and-general/stock-market-charts-mobile-xlarge.jpg?imwidth=1200"
     width: 1280
     height: 800
+    isCached: true
     title: "How can the tech and fintech revolutions be a force for good?"
 
 secured: "yJOWaJZlivps6GaENxrxYXlyZ7UuR9Cczgii76Um/qV1ejegbUPtGTbcBABPup00oQTFSLsAgPdvBB0rbFkQFZk2kXyG47Hr9J0UA1lC+WzUCvQ1Lqpvess/5FiAYsk8StJeVXlr1xTYyRB/YimNSl2HkY/I0tb2flCCioQnD59ju64cOy6GnCU2yw3fSHziWT9UT6QSh1xVuqz6IfBrEw9b0kRgNNoMpNBl3rXEVYrqnvRqpbuo8pYAnB+g1IU4pwjN7vWXJCZ0KS0CWZv4o0+JbjigZyy8lq2iw5YWo7LgCjRyVu2MKHFQ7elq4XiV;xAGlc/xCA2VVUkWbDxLr4w=="

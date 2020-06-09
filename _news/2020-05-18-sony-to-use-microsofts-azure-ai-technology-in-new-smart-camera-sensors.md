@@ -28,6 +28,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
     width: 1260
     height: 709
+    isCached: true
     title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/g-suite.png"
     width: 718
     height: 400
+    isCached: true
     title: "Google open-sources Tapas, a natural language AI for analyzing relational data"
 
 secured: "+CaU4d9b0VnNmp2CYxf5q6mylNizZeT1fHOxgsHpGdmU0NhB/h+DnMCwgiH8JyiCq6cQgjcQoUFwa990A3K1IdZkKor84lMxocIGlRPTz/CZI4kD24Ve98x2T/QiUhySFCuF3Vs5ab+zKAU76POS+51WlC9TZihWmLHbY8GHp6Be1riXmqeJMqOXjOA+NMS/Y5Yxal0/HakW2K5KH19bGRfdcxzZ6uwDzB4C1B7BINHl7P1Pxv1WhveFF2zG0OYDpWfPjbqV/gVCZTLuazU1jdNNJtQG9hzy+pb89xP7Y3YHEOIMevJK2+oW+XsUzTcg5cZQ2z9QvXYHVG71Cgcrk6AwOe8uIfWzmaIO0zH+vw+dNKzYkEXrzAzYcgpQQ3NFwbb0df/UpErWeJmoFeVix1xOxFPrpz9AJoRnvbFLT95mX1tSdcVgK6347/lDWHOlNRzPl3tFLlvmQ0/ULJSH4BsqIzrwTsck2J5Ny0jvGQY=;aiFOdlqFnTApRm0ku9nQCg=="

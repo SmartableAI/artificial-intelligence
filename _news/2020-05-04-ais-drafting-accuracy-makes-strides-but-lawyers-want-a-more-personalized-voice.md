@@ -20,6 +20,7 @@ images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/06/Artificial-Intelligence-Concept-Article-201905311454.jpg"
     width: 620
     height: 372
+    isCached: true
     title: "AI's Drafting Accuracy Makes Strides, but Lawyers Want a More Personalized Voice"
 
 secured: "JzQWy+2nnD5M0/VNHgMBw1h8Cq9WORbYlazK6JGKu3Hu0rqWbyBjPS7mM4OJcfc8jH9N2Mp2+ogjepJMoORJxSfhd8/K+AVlZMUcsemPssolqRXqnBir3u0LlhNerETPJWKnHPPxFXCmqczLluNwJDuPfTd8VpkE0q82CBMV5kJl0/XF7BkErd3cWMurPcTDz7YoozQTN/MYFpBhUykhwwTA4vdQKP65z6YDAY+Rn2iJ02xSiBmLX52v+INt+xaWoVvob/jF2VYKhukxX+T+xm+dJbLD0TH6Q69AtegQB1EJbZGMY8wsrWWKQxsgXFhGExoEnqdasALzbMnXp1GBn01CUzOPhNDh2l+tmc5md1jMmNyGYJcPLwRMGzp0hcNxDNj1GYdNgrOsuNVulriQTSSqqhHAMTTERX7CHFc7H2QlcPO5dZUGaVlNyVSJrrcAvi7xIH35A3QmbEXEoxk6fZmktY8/GSfCzHgEqzHKv8Q=;SlCvr/uzOKS7TpAfHsnyVA=="

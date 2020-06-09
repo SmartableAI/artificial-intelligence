@@ -26,6 +26,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/RZ-7Yg3Al6kQIlnnsAJP2aXcLXQ=/756x567/2019/12/30/a50264ba-0e42-4df0-aed2-70553bf582e2/facebook-logo-phone-4611.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Facebook tackles coronavirus misinformation, hateful memes with AI"
 
 related:

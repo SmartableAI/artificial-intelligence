@@ -21,6 +21,7 @@ images:
   - url: "https://mortgageorb.com/wp-content/uploads/2020/05/Powers.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Technology Firm Offering AI-Backed Servicing Support"
 
 secured: "YUWxQRAsOZB/K+KWYQiTwJSD3S3ucjWgRJZEyHn2SnaRO71bZ6e0KFV+D9hxYXuI4LEeIchabI0p4WP/B+gfMmAdfDAwkzQ/ybgACoVvCfGDBAGsjI/r5+g4h1cooP1lSKWJVKb3fHhqJfia4VJz3suQ8l4F67Skk1juLQ8HeZ75wbkx4zoR/I5EYh1L2XsV4OZ8uPq7ldXfeI4hnzIRxe2Lpg/xNQOdYO+oiiAoRT003fmqkWFYsVJTbgMrD12/VG/kV/fJtYdEB5fge82mxPvGQP0H8KaQzFTaW8SEjhYHvW273tBTQzfWsK2Ds/rTFsb18iUE7kmiCyZi2793p0I02yAURYEV50Cba+mnawZd/hVMDf3yWLraUKpulgviYF4Gipis/YLKAYP8/zNvaedtS4deX9z8cT9eSSLiOReuSGE1Dyn3WIM1YcMGvfcFYbTkxIsFe5E4JyFRqIvNOMVvPOI2fX9DSabE25uTSdQ=;JrcqlidYR7a9hU3rA+TA1Q=="

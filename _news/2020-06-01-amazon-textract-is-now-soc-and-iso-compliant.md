@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png"
     width: 800
     height: 400
+    isCached: true
     title: "Amazon Textract is now SOC and ISO compliant"
 
 secured: "6zSiQ7W1euB+kdkhiEjregq+n8yyrKZILT8hKbN0E37HsBNb2PL5rk+dkpypwjX3tIGIWmlTBkWwOgxYX3v+fRmnvZxzhqXESTXOTwyJheD8U+JsHx5Nk8Ui1X/0a30IyWinMgM1siVNv3lLZBFwl7ikrUHGhUuYLS6VgTjS5pBnp/CI9wzvD+2EpXY6IzmyOI+rJ96Zc3TJ5+WamkEGMfLYO95aCgzO+6b5O1d5/rd0Wz3EvXZ0iU6iC3cQ9XeZ3Eo//JNZNzRK9GQkQ5YbE2tnvHbFpVTseSB9iENmlMTgoT6Vjs0sK+rZlsMwZFnWnZHzgV6ajxE64FoWogCfDw==;jQrsqVUVf9mcZZt2JKNkqg=="

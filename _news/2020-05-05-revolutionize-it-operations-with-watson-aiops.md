@@ -24,6 +24,7 @@ images:
   - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_04_29_AIOps-Blog-Leadspace-Images_Dark.jpg"
     width: 990
     height: 498
+    isCached: true
     title: "Revolutionize IT Operations with Watson AIOps"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg"
     width: 1200
     height: 673
+    isCached: true
     title: "Technology Can Help Organizations Reduce Racism, But Will It?"
 
 secured: "MXzCWhBsAZp093AWuGlpfXW9JZRHOVM5vQv6fpqvzixKwGS79h96dEQqdKne5av5QMJ50J9hd43KPzzbIdk7VwIDkRcOz7XfMzsnWp0WUngnga5kc0WJ9loJhLp/Di0ABs7ASnVvlxvCv9wL9wl1fufHXfmB4YKtaMwUOiH9G6pG0QJMWXM/69D+QXN6NyiLDQKD5S0jLiea8/JOWdXG613djH8QVWB+RBOdavXq4wIW8M3oCuBHSo8tYlUJgwdyX41nUpUAn/2INuEJJuhEpmrOnYylvlnuxgho2Ph0duso5w5b/QUCkl1fZEh5AXfu;H7QyWo/jXONzBv9bM1tmkw=="

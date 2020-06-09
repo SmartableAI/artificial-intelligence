@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png"
     width: 940
     height: 807
+    isCached: true
     title: "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018"
 
 related:

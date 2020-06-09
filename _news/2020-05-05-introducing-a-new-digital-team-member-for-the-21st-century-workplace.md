@@ -21,6 +21,7 @@ images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2020/05/introducting-new-digital-team-member-21st-century-workplace.jpeg"
     width: 1013
     height: 675
+    isCached: true
     title: "Introducing a new digital team member for the 21st century workplace"
 
 secured: "HUiUdOsXvOXY8xrdrnIa1KGQH/db39gDdYEfqljMzfQInyzXeIdyHM3TEex9wLUshmIjCJbxjXcK/eLDw3+v1/zJowPkMO9i/76LPTyO/pE6bnj+bKGxbsVqQUVW1vbDNHoVm404x5pJKI9kFyxXweS9hyfIafB2DpRzYQaeSQu7Gd2cW+al3gxSTeyABHU9H86d1WliGN91cRD5rr4KDydGobemiAh31G2iLIk7ZyvdxLmdgx0PwN/hN1ydhJODxXtkKmuPJh38I7DxnrfzPxUYDQKSbpQLXsV7/fs+BdpwQZLsHWBokrjTUFn1CBUD;XxNEvHnUda0NUQsZIYekbg=="

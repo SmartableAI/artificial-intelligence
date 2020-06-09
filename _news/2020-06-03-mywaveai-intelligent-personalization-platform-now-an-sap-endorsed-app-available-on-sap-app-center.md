@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "MyWave.AI Intelligent Personalization Platform Now an SAP Endorsed App Available on SAP® App Center"
 
 related:

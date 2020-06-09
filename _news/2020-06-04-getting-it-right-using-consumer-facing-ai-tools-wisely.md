@@ -21,6 +21,7 @@ images:
   - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637098267027226915.png"
     width: 600
     height: 600
+    isCached: true
     title: "Getting it right: Using consumer-facing AI tools wisely"
 
 secured: "bcKCFE/eVdXRUxVpaw4hYAK79mfVABxfT3BJL9KwmoFhJ1RJv/K7PsdEdfR2Z6DQYiKkiFXn+A0RYwg9iGA7mgdN6WBq7xtCNify2KKsr2A1Vwd39/Qp/jaOHL1NHpRQHxbdLemO71dK4lCQQaZg4LDf18wvNWVQLhIKJ8g8mjcEHWquj6dG7xnOzYjBt1LADQAbHA0dI6C0Xauotszwt18G5Q69zcxIE57u3EW2HgYvdKZsFtNwOieEEbhAOzeFXG0ovj2s8eXHrGsjF6JfWdLHcEfFNLOM17w9Bp6nVmZay1jWkQIGIQmjfDHPBgq4UerbwcYLd78B8WEzxQqWHFudo1HxCv9EPAX5ceMR5BPq4EcpsVhNaXOPBW62gWINNUGJLuQ81/e2KD+KAYgjTKOVaKI2OTTzZMLAwlFmPzxo+6bMYEQlESsklKSeKdpHb6gfvaqnkEnacZJknnj9GTq3+Yq6N/ZHjElGhlR3K2M=;57LLRhslXUwbDPkUHyIOyg=="

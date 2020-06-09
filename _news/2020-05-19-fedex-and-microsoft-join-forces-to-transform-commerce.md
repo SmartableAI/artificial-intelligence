@@ -21,6 +21,7 @@ images:
   - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
     width: 400
     height: 400
+    isCached: true
     title: "FedEx And Microsoft Join Forces To Transform Commerce"
 
 secured: "pNPOI4eYvV6bycNv+134iXt58znToMRbbIbpaXITidSJBxSLt5NeodaABttGWxC/BDm4mjOAZBoiVLMX6BXK2MBmcVUKQ8sR8seROSp7JsZGVYxwC92tUDplrpKW3Fuq5kQB9aMUrqWOwtcBRMrBvuf0rQxKW+owrZsDUAzPZwWetpiI8fO0jacDVkEHcodlRjxhoBC57DaeU27RD5ctf3/Zuv8asybgRNJ8ecW/Lk3pA3DXGoWgfrATgybWmu4IilujIrBchhU7hWU+Ue7CsK/XOvqZzar5kEOO77l2O4qOrPP/FOxo5U2QnW7+05SE;Yp9Xl1zFRJ0DOSDQAM7V7A=="

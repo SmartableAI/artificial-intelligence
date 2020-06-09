@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Achievers Recognized as a Leader in Everest Group’s PEAK Matrix for Rewards and Recognition Providers"
 
 related:

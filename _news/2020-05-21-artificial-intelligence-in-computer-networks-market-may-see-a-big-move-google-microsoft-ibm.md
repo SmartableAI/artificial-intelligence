@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Computer Networks Market May See a Big Move | Google, Microsoft, IBM"
 
 secured: "PFUwIFT7FMG1tSocGRVGJSzdGW9Yw6E0tm2k22kJ07UleXnPZHcValXN+zzOlmUXBFDyUCQ78xUkBfP/xUpCsjmJB/Xae4oU2QUyeHZuImbIwutZorvjpFVJMdA56Sy0sVYRJD5mw2AToeBOvt+UOPkq23INp4d2gObjYAzeOAw2VAjapso+YVF+ub0l3Du7tADNkXYJzIo8p8GtTEJAhKgVED+y87mtTQjocuO0xsOiQA87qhlJ//8OJXtfqFjLT5i60JzjKP+lwpIxqOUjqcDEhAVo+FkN3C/qcsPpg1uclBIw4QnLEwYNGJUIGJNx;cMHAhuSm5NPIDSEHyvfb2w=="

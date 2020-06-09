@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/kite-team-resized.jpeg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Kite launches Pro plan for its AI-powered Python code completions, adds JavaScript support"
 
 related:

@@ -24,6 +24,7 @@ images:
   - url: "https://chromeunboxed.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
     width: 735
     height: 552
+    isCached: true
     title: "Google’s improvements to speech recognition feel custom built for life with face masks"
 
 secured: "x/MJMLKATqg07BTwqsBzVHJ78pqrGcMDisxf8zaQ75wAiDggvmAJFhdINtF8tYoTbH4BUHoFq7SNTmeV+KNoNt0/SokLJ36semOIHxMpz6st14aE130w+4FA/npU00T2JipdbbXdJnSn1HVlLOMLZY2+nP20+UGqQ096IVFHSuaTRNP1OTKfFqQJJ9qKNosXJuzRGLyizX5uB3pbOf11LOZ8lJJGyhLiVTFnJnPl/jVuHq9Qg4dZx/WeeizHAkFij4lnABwGvITF0MNek4yO7oLArzleBLv332D9Nx8giaZE5RTfybDz5PQO5nPTNnuh;FbC73HnmYVKuwfi0hCKmSg=="

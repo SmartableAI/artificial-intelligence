@@ -21,6 +21,7 @@ images:
   - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
     width: 640
     height: 360
+    isCached: true
     title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
 
 related:

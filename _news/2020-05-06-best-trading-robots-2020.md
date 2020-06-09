@@ -21,6 +21,7 @@ images:
   - url: "https://insidebitcoins.com/wp-content/uploads/2020/05/Screenshot-2020-05-05-at-11.12.22.png"
     width: 438
     height: 370
+    isCached: true
     title: "Best Trading Robots 2020"
 
 related:

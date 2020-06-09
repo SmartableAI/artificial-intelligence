@@ -56,7 +56,8 @@
           "width": 1200,
           "height": 675,
           "title": "Robot dog enforces social distancing in Singapore",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -93,7 +94,8 @@
           "width": 4244,
           "height": 1936,
           "title": "Mind Controlled Prosthetic Arms That Feel",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -126,7 +128,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -138,7 +141,8 @@
           "width": 1200,
           "height": 675,
           "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -172,7 +176,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -184,7 +189,8 @@
           "width": 620,
           "height": 349,
           "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -221,7 +227,8 @@
           "width": 685,
           "height": 375,
           "title": "A New Way To Think About Artificial Intelligence With This ETF",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -254,7 +261,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -266,7 +274,8 @@
           "width": 640,
           "height": 320,
           "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -303,7 +312,8 @@
           "width": 320,
           "height": 209,
           "title": "Singapore enforces social distancing — with a robot dog",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -340,7 +350,8 @@
           "width": 1200,
           "height": 800,
           "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -374,7 +385,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -386,7 +398,8 @@
           "width": 1200,
           "height": 630,
           "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -423,7 +436,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -435,7 +449,8 @@
           "width": 1200,
           "height": 800,
           "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -470,7 +485,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -482,7 +498,8 @@
           "width": 796,
           "height": 417,
           "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -545,7 +562,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -557,7 +575,8 @@
           "width": 1200,
           "height": 610,
           "title": "Hailo partners with Foxconn to build edge device for AI inference",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -591,7 +610,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -603,7 +623,8 @@
           "width": 1502,
           "height": 1063,
           "title": "Sony just teamed up with a robot avatar company with big ambitions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -640,7 +661,8 @@
           "width": 500,
           "height": 287,
           "title": "Transformative Robotics Technology From Brain Corp",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -673,7 +695,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -685,7 +708,8 @@
           "width": 1024,
           "height": 576,
           "title": "The robot assistant that can guess what you want",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -718,7 +742,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -730,7 +755,8 @@
           "width": 1200,
           "height": 675,
           "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -768,7 +794,8 @@
           "width": 400,
           "height": 400,
           "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -801,7 +828,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -813,7 +841,8 @@
           "width": 800,
           "height": 468,
           "title": "How AI and ML are helping first responders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -846,7 +875,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -858,7 +888,8 @@
           "width": 630,
           "height": 379,
           "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -891,7 +922,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -903,7 +935,8 @@
           "width": 1200,
           "height": 675,
           "title": "'Mega Man 11' Review: I Hate Bounce Man",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -936,7 +969,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -948,7 +982,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -982,7 +1017,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -994,7 +1030,8 @@
           "width": 1200,
           "height": 900,
           "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1027,7 +1064,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1094,7 +1132,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1106,7 +1145,8 @@
           "width": 1200,
           "height": 614,
           "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1144,7 +1184,8 @@
           "width": 579,
           "height": 480,
           "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1177,7 +1218,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1189,7 +1231,8 @@
           "width": 1400,
           "height": 933,
           "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1222,7 +1265,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1234,7 +1278,8 @@
           "width": 1050,
           "height": 550,
           "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

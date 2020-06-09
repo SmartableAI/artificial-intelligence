@@ -20,6 +20,7 @@ images:
   - url: "https://thedailyrecord.com/files/2020/04/UMB-330.jpg"
     width: 620
     height: 330
+    isCached: true
     title: "UMB startup gets exclusive license for clinical decision support system"
 
 related:

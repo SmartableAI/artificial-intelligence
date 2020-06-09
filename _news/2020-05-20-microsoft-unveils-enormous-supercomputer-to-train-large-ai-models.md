@@ -21,6 +21,7 @@ images:
   - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "Microsoft unveils enormous supercomputer to train large AI models"
 
 related:

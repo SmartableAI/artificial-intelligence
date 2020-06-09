@@ -27,6 +27,7 @@ images:
   - url: "https://icdn4.digitaltrends.com/image/digitaltrends/france-us-economy-retail-internet-company-amazon-logo-1200x630-c-ar1.91.jpg"
     width: 1024
     height: 536
+    isCached: true
     title: "Amazon moving in on a Silicon Valley self-driving startup, report says"
 
 related:

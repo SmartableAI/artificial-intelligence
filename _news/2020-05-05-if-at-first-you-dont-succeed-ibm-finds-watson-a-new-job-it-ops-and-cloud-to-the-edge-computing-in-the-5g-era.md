@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2015/09/24/watson_power7_cluster_small.jpg"
     width: 648
     height: 429
+    isCached: true
     title: "If at first you don't succeed - IBM finds Watson a new job: IT ops and cloud-to-the-edge computing in the 5G era"
 
 secured: "y84Te34INhV4a0b3i/3UthmCIy/yOFjEEyppVrNF7T3tjQVSlQLH+FR7s0larhpHYNBWApa69r660NTXeWO5KFXJsb17v22r/wUtnEETLOHZkR/GHPp7UlreI6ZhBfNWCRfdri0NrY/uv6qXFGhOFVK37gr2WtUNxI61eL4hiprCJwMBPjg+d7to14P7Pz7mj3ya2wYNaWQ+4MeutjTAn/oLMhFVJgOwn+G6MIv+j+iACJbPgs9zzjPV9MRyuYBK9s4WIIlHN5kXDtLx40tzpemzz3dDj0ZSd/fWC42zJJ1m3ol1AFX/uS+JysCROrs3;EMVAo4sbBJmOUdAghxZxpA=="

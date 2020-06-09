@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Deep Learning Market 2020 by Research Scope, Major Segmentation (Classification, Application), SWOT Analysis and Forecast to 2026"
 
 related:

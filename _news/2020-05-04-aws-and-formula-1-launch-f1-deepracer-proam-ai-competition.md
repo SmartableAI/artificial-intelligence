@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "AWS and Formula 1 Launch F1 DeepRacer ProAm AI Competition"
 
 secured: "e67a4DMK1lnSU+b9hJoBEC13mfZ3HZfd9z8zvTXvXBTyxUT7g3QRGxsJNGkzoDh56ssRRZCazFliSYfZdUZiO9gpgexyxtHvOueaElnOFh/cHMxRSRKlSM9hO8WNa2pObf9nsmzrnPlH+MdKnq9lSqFskAAdP/GK0vLbnLh8Ew6Zzh5NqlHqQ+k4jOVpsyvONX/yEn77v5NgANkAp57Omqw86V8nC1pIrozDFzVMPsQCNh13sMg+2Ichi0V/CmOcguvc2bP/7I3MBB0TaWga2zdr7WRMmW4gzaHORwrBY+75gaSym5R4LP5Hf2eOTiDw;hCutBReJ/qWUC3psRGkY7A=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.stattimes.com/statbackend/assets/uploads/FedEx-Microsoft1.jpg"
     width: 519
     height: 391
+    isCached: true
     title: "FedEx, Microsoft collaborate to transform commerce"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Automotive Voice Recognition System Market Surpass $39 Billion By 2027 | CAGR 21%"
 
 secured: "igeiKv5enY1G0X4d91jPh+aUE9Z2r96aygyDx0N7uAmE5kDo0tsMpAFbSaM8JLwZytBuDCc2pOwI10d7s9QdjHyhod79IYtPI+46xj5KKViYwNPa/8TiRMzRlRRfdpSd2a11C570yjesjbxAargSE+/g8ddPlAYQB2a6jnnM3Ra2oKDkbqb8EJeGtWFebq8ykSf5v7OsR6tA4Jo7n7Z4UArVklGe5r8X4W9RPbLzIS1zdIDxJYc8SUiHtl82E0eAqmzMyCxEZFksfUuGpEhLHubTrj+SUfXx7LVP8iv/+9ygnZ5EvR2VUB86L1BO4cso;fuQv01X61rwwlIxU2NeCYw=="

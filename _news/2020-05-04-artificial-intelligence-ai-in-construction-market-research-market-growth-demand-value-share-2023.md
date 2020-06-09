@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) in Construction Market Research, market growth, demand, value, share 2023"
 
 secured: "H8GiZiTowYgGloCCJ6yN8zz5kFnKj7vCgecquahlsPUWOIHwhw55IrjzDqkJtyx7gq4UGIRbgM6GqbeSTRJiqm9L6vScGfpCn2/OTFBlqo6knF5/EZrAir+/xcgfFd2WYRJFDZp9+R6P7P9s+fQM0rJdgEoIkx6v2lcKlshTK09fu+6gzM5L2bXzfCQHmj63NEpcsW5EnNL0hdd8KuLgWMyRBSE/WnAw01ghbzWyEb1zI1p8UQBhJEoA1a2yQNgjmVbP5kT23D0u6mRF5GM+uFwtVhpbITaGni2DL/6J076WGqofhz5WEn2s4MEvhtVG;iNmDmT+OxPal2kZCfZ3y9g=="

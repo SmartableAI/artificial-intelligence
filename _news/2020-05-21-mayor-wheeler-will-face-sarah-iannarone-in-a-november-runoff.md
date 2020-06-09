@@ -21,6 +21,7 @@ images:
   - url: "https://media2.fdncms.com/portmerc/imager/u/large/28449643/1590025655-iannaronephoto2.jpg"
     width: 700
     height: 467
+    isCached: true
     title: "Mayor Wheeler Will Face Sarah Iannarone in a November Runoff"
 
 secured: "EQaMXDPG0Ld4W7f4nI8HqVlUjwdBK6nZxA72+///UnQiaZugRwTvkuAT62nrgcAsRBEiSQSaNywflAyRNnLhqHpfjCPklLyP8y8rkHik2lIiy+ywlKCIuqHd3RiqAWaOlyee9AWQnnGIdXTltBjiU8/b0Ey6awj8s5DOzyXf4V7arkecjp42SExhqyeq0tED4VIVCoOz7z3adeFatSKZgF6jZJnYCGs+p2Ho+jZeBBUm5gMgfWaq3Vo62qw6K02eIVQbehBNsgUHtNhIgMxWKKSg3xhT7E0m50mp947dMdd3h0WRf7Qztm59w9bjha5c;8P3fi/g+YajoBi+gi6VaQQ=="

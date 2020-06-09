@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png"
     width: 630
     height: 499
+    isCached: true
     title: "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman"
 
 secured: "uygQXiDCWucrDz5PEnphS6o9GNkCNlhsMnB4ddpFPeSVSbSTz2r8PuVbEM2J0Q9mCr2y5KoTR2xP21emg9vPub7urgLc8s9p2rx44yb2GURS/y2vvbwGf125usEQGNcMoMubESRh0mwTpOU45vPJ3YZWfc+cfcNiGa2rmKGos6xmeJhtDP0c4OoeQU6dpz/JG89LubpMn3MmA9dsKKp6E0UZr3h8l7Pg7wSvxVGI9+fOhfYOWSnVg7A5l6tTBpahxBe+8mHhJVtM0DUshUvkd1rzCKUAdSE/pq5MlNH15fibWyZnpsTvXU4ZO8yuD1gQNc7gzJrZsTGcHmiExhHbOWjGhfD3r2s19u5LeGU9X4R2VroO5yJD4WQYxUPmcxUjJfN2bzu84pPkMRHp/PQD74e31LKsf/q/kgmi9RkLJJGIyftAisKhNQWZvKrwtfyBqlhQVNJlhn3cm8/HqkcR2hWjQzJ4vcSgTFyl6C7Od0o=;W+GEwIdxYFqstnExBTxjnA=="

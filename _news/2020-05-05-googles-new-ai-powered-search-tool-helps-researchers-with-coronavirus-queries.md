@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Google-coronavirus-search-tool-796x418.jpg"
     width: 796
     height: 418
+    isCached: true
     title: "Google’s new AI-powered search tool helps researchers with coronavirus queries"
 
 related:

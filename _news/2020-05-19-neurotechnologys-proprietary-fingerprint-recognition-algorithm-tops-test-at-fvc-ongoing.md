@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Neurotechnology’s Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
 
 related:

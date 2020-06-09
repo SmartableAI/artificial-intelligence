@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1116,
           "height": 669,
           "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -68,7 +70,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -80,7 +83,8 @@
           "width": 954,
           "height": 672,
           "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -113,7 +117,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -125,7 +130,8 @@
           "width": 5157,
           "height": 2973,
           "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -159,7 +165,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -171,7 +178,8 @@
           "width": 1200,
           "height": 630,
           "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -204,7 +212,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -216,7 +225,8 @@
           "width": 970,
           "height": 545,
           "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -250,7 +260,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -262,7 +273,8 @@
           "width": 1200,
           "height": 630,
           "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -295,7 +307,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -307,7 +320,8 @@
           "width": 1200,
           "height": 675,
           "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -341,7 +355,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -353,7 +368,8 @@
           "width": 1200,
           "height": 630,
           "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -386,7 +402,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -398,7 +415,8 @@
           "width": 756,
           "height": 567,
           "title": "Microsoft builds massive supercomputer for smarter AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -436,7 +454,8 @@
           "width": 718,
           "height": 400,
           "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -470,7 +489,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -482,7 +502,8 @@
           "width": 577,
           "height": 385,
           "title": "The AI Show: How Intel built a chip with a sense of smell",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -519,7 +540,8 @@
           "width": 800,
           "height": 408,
           "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -583,7 +605,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -595,7 +618,8 @@
           "width": 1200,
           "height": 630,
           "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -629,7 +653,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -666,7 +691,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -678,14 +704,16 @@
           "width": 360,
           "height": 300,
           "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/963feced-c0bc-40b6-a216-ac13ed576bd1/thumbnail/1200x675/a8bb0d273d07b0025ae1f3bb0acc19f8/sony-develops-first-image-sensor-combine-5ec1bfd7e468b746804e6632-1-may-18-2020-24-23-40-poster.jpg",
           "width": 1200,
           "height": 675,
           "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -719,7 +747,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -731,7 +760,8 @@
           "width": 1260,
           "height": 709,
           "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -765,7 +795,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -777,7 +808,8 @@
           "width": 2307,
           "height": 1334,
           "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -811,7 +843,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -823,7 +856,8 @@
           "width": 1920,
           "height": 1080,
           "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -857,7 +891,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -869,7 +904,8 @@
           "width": 1000,
           "height": 563,
           "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -903,7 +939,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -915,7 +952,8 @@
           "width": 1200,
           "height": 630,
           "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -952,7 +990,8 @@
           "width": 2000,
           "height": 1700,
           "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -985,7 +1024,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -997,7 +1037,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1037,7 +1078,8 @@
           "width": 700,
           "height": 394,
           "title": "Nvidia releases most advanced AI chip ever",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1070,7 +1112,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1082,7 +1125,8 @@
           "width": 1200,
           "height": 800,
           "title": "Sony announces camera sensor chips with built-in AI processing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1115,7 +1159,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1127,7 +1172,8 @@
           "width": 360,
           "height": 300,
           "title": "Sony develops first image sensor combined with AI chip",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1160,7 +1206,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1172,7 +1219,8 @@
           "width": 1600,
           "height": 900,
           "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1205,7 +1253,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1217,7 +1266,8 @@
           "width": 756,
           "height": 567,
           "title": "Sony integrates image sensor with an AI chip for a smarter camera",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1250,7 +1300,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1262,7 +1313,8 @@
           "width": 1280,
           "height": 852,
           "title": "NVIDIA A100, the first Ampere GPU, is an absolute monster",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1295,7 +1347,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1307,7 +1360,8 @@
           "width": 1024,
           "height": 576,
           "title": "Sony shows off first combination image sensor and AI chip",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

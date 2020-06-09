@@ -27,6 +27,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "AI reconstructs Pac-Man just by watching it as game turns 40"
 
 related:

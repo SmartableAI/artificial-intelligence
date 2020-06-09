@@ -22,6 +22,7 @@ images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557041001/429b49ce-664b-43d9-a3e8-609cabae2fdd/main/1280x720/1m34s624ms/match/image.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "WADA looks to artificial intelligence to catch dopers | Charlotte Observer"
 
 related:

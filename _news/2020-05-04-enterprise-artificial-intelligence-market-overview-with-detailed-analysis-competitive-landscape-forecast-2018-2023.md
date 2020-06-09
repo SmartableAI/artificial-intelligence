@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Enterprise Artificial Intelligence Market Overview with Detailed Analysis, Competitive landscape, Forecast 2018-2023"
 
 secured: "If1F2tejrBbLRLxazaLN3xXW7d/BmoNAcPcEqZT7u+Q6BNwd9f1S6PFz5lIto/RumAAFNcMdzik3iTUFrmJxvqGB9kd4XZz6k2z7M/EtoPc8/j4GIKtEjjt6m18/J8vtLcswvPljRM2n9whUMse3vFcSvGy/eiNvu4YQOmcvECov3Mc24X7CVaIhAZ0eqDqFEQtFW14scE2k3XotfaMRWjTJre7nSobEGe9m8DyelkyuWU78+YZZ7DjXcv2V4Lk96hKOQiCwWqaAq3STDBpBMyTmmiko0xsv455Nzf/JKen2qa4vYPCw9G8Lusg6Trte;+Y+eVXSYv/nQS+6C1q+1CA=="

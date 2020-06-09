@@ -22,6 +22,7 @@ images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/458208"
     width: 640
     height: 428
+    isCached: true
     title: "The IDF’s tactical start-up innovation Pilot program"
 
 secured: "0soGoDxMVJB3qB8Fcj8WTBNxCmP3NfaGduXGoR375u4JexgnkiYhLe4VAcJV2DAtwyiJwdCI1UtY2aa/3YX45VnPy5eCcM8I69Ezs3NylCJWFMuUwIsT7a4RUnIVcAkb+lYpeZXsW6VU+QGNxCkDhP4nFfh5z3mowvzWVN+R42nmFUk4myg7kG/MPKUOmnM2KMhsiOfgybuGOvjXIIKHRwllbjy1/ITXmv5bXltQEzhmn56vSvruAYOJYS7odmDsG1rejIdgQMgsXo30rUyJSBjLU7sVFRWRELKSviZIfIzRCfv5UqPIWbGfjKOaTVOFNHdttT82TIF1Lz07u/Il3fhHdzKgeLrZp1vlZxUYvbIrvZssH6Ayilb4bUCDYPXyuqDo0cUVGHCl38s2cka+LXhepU3J9O6/WYmECsxGdEFi5++RZHErFMbZqEUQBtwAHVoEJPvEWn0P3Kla6/lNp8SK63nuaHqTrnAg+5IcTbE=;Y9HrZLDeYEM2JKhANmBXRQ=="

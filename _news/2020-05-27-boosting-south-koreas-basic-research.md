@@ -21,6 +21,7 @@ images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01464-9/d41586-020-01464-9_18007270.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "Boosting South Korea’s basic research"
 
 secured: "xeMsWbCaEPAY0StAmV8mVbhyukte74CR4iyFCnxn4iBYdA0CJtpfCd5tLWeQj5tTbhK8MJTgQfyg1Tx7lG4nti5sfUMJGjQOYq1yGNBmtb9pqMAM2ojJvqdZkGmO1o1y8xZSKou17rX2FkLVIgMd8LILOmVaZt1XCSasgKBxxSvtqe6zTeZ6Qksm53Un6+FN0T7BZ+dy45xdH/RK2ZHda8j5qyA/bFtAH6xOqplSCGQkkdNSEHO2/V44Gr6nRkdSriuw7z2N4eTHQnW0xRMbupXRaImJvJhKFkG49OewD493IFHpyNacad93NB0C308V;qrafk6xoR9inQKNS9Ua22g=="

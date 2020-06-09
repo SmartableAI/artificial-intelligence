@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Apple Buys Canadian Start-Up To Help Improve Machine-Learning And AI"
 
 secured: "sH4Xp2JX537B/xFWCV+8XEk3vP9tyDCRNT3K5Wt6lN/jvvGhr2G3wAHkY+/Dh2b0XSeOda+nQq8gIs+DPKaW/iPtSf/2wQhx+RraRPrG/eBmACQlZf3wtpi6vaS5V0TrFrcWcYoykKvfIMbDkAXX8TlrWGUwYuXmMBjwyRzFUAXgJKkVWM1OKxue49NSta1CfQ28ez4QKBLGZDi7JagX+zZ5QPYyMPWAYMAkXNU7QBaybj4D//BfHj9d8SeAtt009yBCxDu5Md+112codkdx59/DzDCNffF4kLP8Nf0d/riacHGybtsKU8yf8NbvWtfH;+9W/BfkErLp+eAPg8p8tVQ=="

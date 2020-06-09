@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-02-at-10.43.56-AM.png?w=1014"
     width: 1014
     height: 626
+    isCached: true
     title: "Overjet raises $7.85M for its dental-focused AI tech"
 
 related:

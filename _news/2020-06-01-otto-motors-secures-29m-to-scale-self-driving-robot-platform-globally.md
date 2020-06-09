@@ -23,6 +23,7 @@ images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/otto0601.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "OTTO Motors secures $29M to scale self-driving robot platform globally"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://image.iol.co.za/image/1/process/3785x366?source=https://cdn.africannewsagency.com/public/ana/media/media/2020/04/21/1587464242163.jpg&operation=CROP&offset=3x0&resize=3778x2125"
     width: 651
     height: 366
+    isCached: true
     title: "After anger at UK's failure to screen passengers, Heathrow to trial facial recognition technology"
 
 related:

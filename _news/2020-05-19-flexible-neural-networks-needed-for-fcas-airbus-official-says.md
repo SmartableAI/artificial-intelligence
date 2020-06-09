@@ -21,6 +21,7 @@ images:
   - url: "https://www.aviationtoday.com/wp-content/uploads/2020/05/fcas-infographic-2019.jpg"
     width: 1280
     height: 721
+    isCached: true
     title: "Flexible Neural Networks Needed for FCAS, Airbus Official Says"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "Washington Mystics Launch Televised Game Simulations"
 
 secured: "Q4oqSe7BfURdiyT3z3xY4uA8DR40eSTYfDwddf4sjaPzWepNk2hYA/2ieEKzTuL0FDr5OHFFAkIB1hNTJwxVDoV31ceCaLQAOtLKELg9IRGfsJJvFzh7V5RT47sUYsyl+Og5L3OLtIihhLS2IACk6+UAImZdKoGkoRyH2Szi77HO9YzDW2ECfKbOXliuQSp3aIXMteHG6Bm8XpDTLCmsKqhbR3uZwmDRmS1Jaypbz50G88LNTkmmbgkAXNVImlMEKQVl9zuqWiClQyozyNgYlCgO9b9lpmI3tEMyQe7H/mYQ+icHgElsJedYwHh4JrQx;DLSohrOG47l5aMBeYRuEkg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://i2-prod.coventrytelegraph.net//article18284623.ece/ALTERNATES/s615/1_driverlesscars1JPG.jpg"
     width: 615
     height: 409
+    isCached: true
     title: "Work begins on self-driving car test route in Coventry"
 
 secured: "9wpAKX82rM0ImYSFpHpCB/8hbJY2Eq9j1W1Ty1tuuLyCweO0dm+/HQcA10TmQdWtghs4R2N+DJFABwv/ZzqxeOd5OdcqZ8QZZPqQpEDV/RHd0NzoSS3NeF2coyYqS0gD3ktkk6UWCCkMHDkUlVP2K8zjBnIgFgj01R3RsJNI1WxYK8NPw23si0g7kiCNVTaRWybN+IkN3buO8gTKe4vPZPKl7NxkoFjavHRzloG8k+avXNHPLM7Sbed+iuzg9pHw/wyh4XRvi3sWqb0LCq7cvLEZdu5Zk1gU/1vlnJ9U7U8fcTyD/qees3EYLa6yF+70;4rzcAX22z1rrb9d8W7SYnA=="

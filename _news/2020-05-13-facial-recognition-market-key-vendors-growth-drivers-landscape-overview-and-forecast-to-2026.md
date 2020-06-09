@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Facial Recognition Market Key Vendors, Growth Drivers, Landscape Overview and Forecast to 2026"
 
 secured: "vA2MZz00vjl0SPDduozE9QjQ8v1g4AiCNakOvwSyaS8DAEZyvmWMesvJQIRuMS/tzDnTDXlz9lAPw0gux5IF67EvsUKcqOEGRHK46SksVZ9BkaZn3DDqKHtJTf6wTVBKRArTsuSSAx/CDyaMCRlKdnKjpIMf0CpqMlyFNZcRKmsnoodmWJOOPxLYuSDY9FLAMKnxSHR2EE+MC37+HJTb1Wek/3nhUOpYr6sUEPgn+SvnFcvQMpUe6hUohNNG/Sti1qItglwuPNaMpqftzukbWGqd5b9Do5MUIsquiFi/H9AE1fKWNF450oX6TA5/1jd1;zsht71sSisg8Al6ehwOdOw=="

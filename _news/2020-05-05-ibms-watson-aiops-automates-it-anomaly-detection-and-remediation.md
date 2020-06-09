@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "IBM’s Watson AIOps automates IT anomaly detection and remediation"
 
 related:

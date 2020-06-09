@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2013/11/13/ba035051-4c63-11e3-90a0-0291187ef9b6/thumbnail/1200x675/635e48b6fd8caa407250956c6594274b/toronto-lake-flickr.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Monash University researchers use AI technology to examine hospital readmissions"
 
 secured: "m7FwHjkX8kR/pOWxUiAHulp4qmgL5ykpChoWqwzI6xLtguAX5GiuOCd0Aj++UY17l97rSBpljeAw24QBG48/IUY2FEG9Sqp97tuXkOIKZoNb2VN9nisVWsFOXYhpPe7HASVNUL8zehuZY2mB4hIxOloSNf/OVgUx00vjIOpJqrrEpcltAbXFYjCbr5HBPn+2UGVjzSsRE3drq2lTk7ogRSaFnZDkbSh7yr0bOJA708fNeGpuqeWQTVlyNmK1Sw8mYWigaFlxlbW96iBXogqZ956m5vf30txNxEsMbgtw4M2S4MkhivV67ulr3hRd8Vh+x/Gj/EAy0JocKiHrTqLRBgJZUlVH/K6sd8zxfFNfNwpDnLtkmGjGHNX333u4AB3ItPkfHsOms0ItaX8zIc1wW6Gpkq0i3h4BOkNOykLslSlUi9tTRbWa02rW3dejpHwORt7ZkNvMWdAfvFFqwSmW50gSBxTFBIzya2DEthDAjeY=;Yxzer1CzPzLNsslZDnBp7Q=="

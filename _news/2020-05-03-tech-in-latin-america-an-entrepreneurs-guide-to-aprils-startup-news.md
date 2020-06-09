@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg"
     width: 796
     height: 530
+    isCached: true
     title: "Tech in Latin America: An entrepreneur’s guide to April’s startup news"
 
 secured: "ALkOw8FZZNYUAsq9b54G/qX2oOygfjM/zYFUc6SGHw9kH5pwUfTnA/jChGA3wcfZY1PSCyfhasti5xr/yg8MpS4j+AuPPatjcuHpINWEhWuqMB9ctFt8MGzJv2kqFu7DP8/A6HCWcHkv7BuE9fCvx/dDMLTElgpjj91+SS5zfJl2fGxBi3pXxw84AtEFcb2TxKgKfYWGWtJHgb+2neogs2u/qOGCJCaZ+YcKHcf6jOQfxw8hJfLWPRRzOYrpw97cNBopzf1BNkHTASrLWrOV3p+7fq4/YVyhUpFUdlWOrnlicJX3ZVme5JwUTBLlOk6A0UcWdY2JscPgE0KH5nxSm/D97eeBKpLMlHkZqfSHGpSCgSvdmrto3hAQsJCIhNW/zPfY1T79djFOrOdTKWNOZHTjSgf+mRzAq0/844umebSp3bbmN+lQjRNaZa4c7Vw4VuEuAu5jqLVpZCgQuzlGRjxEbH0H57f7Rwi3+4KJYp0=;epjC+lPtVKtX/ecUTT0I5A=="

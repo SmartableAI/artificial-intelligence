@@ -24,6 +24,7 @@ images:
   - url: "https://regmedia.co.uk/2015/04/23/moores_law_second_cut.jpg"
     width: 600
     height: 677
+    isCached: true
     title: "When the chips are down, thank goodness for software engineers: AI algorithms 'outpace Moore's law'"
 
 secured: "sLRqr+4DGViIh41tYxJpoqhzdkrmGVwsmBrLGBy3P05iXAOZ/gjYmiK+AvmtkEr71bafVfNH/3LdIwH1wvf6sGpNkcWqa3BNh5xRa92YIFT93PkYiZiyBEyY6kb6Hdn2RKtwEjFgO4vQAaejjWFyDdWIKY+cmaDcemCpowM3Dkqog0gRiGCq7k8nGKvJ/reuHCoRNDTuu571RJzLbOGfyU6HUuW2hA30PvOmpVOg15gaqnjAjY2GbLrEv8lRf5Fk17YGx5Reoe1G8wEzmKvweff02SXk9sKSp2SMxAJLhapHJzCuNPkYdTD2WuUZcQml3dov7lje+5rtQoRY96WXKjLgoqmNNJVJN2lAZdAauc9ZaNMsTPqbzkCRqxERJ/zNIo6LiZ8Lr/xRCZ1zpiqUbLp1sY6mS/OTlkpUAtUkd88n86u8f0j8iLQZknnVU9qkgcqDLU0Rnoxu7Z0DYn0OooXHhLKQ7Yv3KTh268VqVFE=;PZ7xIPRA7NspeFCGVN+0qw=="

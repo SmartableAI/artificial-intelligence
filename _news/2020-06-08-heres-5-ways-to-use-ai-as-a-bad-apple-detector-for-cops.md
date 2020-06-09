@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png"
     width: 796
     height: 398
+    isCached: true
     title: "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops"
 
 related:
@@ -44,6 +45,7 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png"
         width: 796
         height: 398
+        isCached: true
 
 secured: "eNBRbiNazmSZe2VxJ2JmCQe1fhjSw1b3CzFq895BcubI9k6Ck2kZCTCxzTix8/lIxhLRZN0EFiO/3Gd0fHWm2J4L8KtYSlRk2Y+KyHUbXUqHdlqlJf0XAtr89Vive6NS4ME9bUBruRpVvQ+BrptHuSkCrFt8L0B0ofwuObH+L34Y1cOAygsGnz/+HZZkRQ8fpf5J1DrO+Ulx4YBOXkxEIx6z7YetSqia/5Af783zrlzcoQG1jxO6iiDUBdo1oSxeWTdcu6AnftFQCZKYb7O4pNUQ9PkOhtFdZudP1nmSRNq59qC0Frs0QQ66A81CGuay;oENAzn0OrH8yH1u6HWfJog=="
 ---

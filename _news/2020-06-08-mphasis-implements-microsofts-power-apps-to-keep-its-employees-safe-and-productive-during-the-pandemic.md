@@ -35,6 +35,7 @@ related:
       - url: "https://www.thehindu.com/business/Industry/rxila1/article31778219.ece/ALTERNATES/LANDSCAPE_615/WORKFROMHOME"
         width: 615
         height: 384
+        isCached: true
 
 secured: "j4zG8/rzWU8E3so44nvBG/xqGe4DCuZUrShJOxhwyb/4hAoOFQmhRQBXt7IwfTW/3Pq/h1aN5PaoV0JlpgaOay8TV5mACWGq+JQRlRXtNKIO3VqIU6DNYz1ZTmUhyJci1k4zkR+e0kPgnoozpIIhLp3qo6nUmSdyjCdY1qvKWXsIDdX5SJXbReLOGem5/C+F5VWXMEte9E/rH8sn6dBkPmm/UCjQNQNxrEtLC0Apg6hWp4/hktkEcbmxxf5yrsHgxLqcJ0iqOjXZJWoS7+fnYFPMApjb2Bz8v2nhdVWCATaWnBFqjXVZ2Aodb9h2fhFq;K9EnCGmWUWDveoGIOMzrsQ=="
 ---

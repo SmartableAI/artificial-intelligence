@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1024,
           "height": 683,
           "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 756,
           "height": 567,
           "title": "IBM to withdraw from the facial recognition market",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -95,7 +99,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 756,
           "height": 567,
           "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -158,7 +164,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -170,7 +177,8 @@
           "width": 796,
           "height": 417,
           "title": "California blocks bill that could’ve led to a facial recognition police-state",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -203,7 +211,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -215,7 +224,8 @@
           "width": 1400,
           "height": 933,
           "title": "California’s statehouse is considering a controversial facial recognition bill",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -248,7 +258,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -260,7 +271,8 @@
           "width": 630,
           "height": 355,
           "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -293,7 +305,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -305,7 +318,8 @@
           "width": 1200,
           "height": 628,
           "title": "Police facial recognition tech could misidentify people at protests, experts say",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -338,7 +352,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -350,7 +365,8 @@
           "width": 1200,
           "height": 628,
           "title": "Should you be worried about cameras in robot vacuums?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -383,7 +399,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -395,7 +412,8 @@
           "width": 1200,
           "height": 630,
           "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -428,7 +446,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -465,7 +484,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -477,7 +497,8 @@
           "width": 600,
           "height": 300,
           "title": "Balancing Privacy Concerns Around Facial Recognition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -514,7 +535,8 @@
           "width": 1024,
           "height": 680,
           "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -552,7 +574,8 @@
           "width": 1200,
           "height": 800,
           "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -589,7 +612,8 @@
           "width": 1280,
           "height": 719,
           "title": "Colleges prep for facial recognition, temperatures checks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -622,7 +646,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -634,7 +659,8 @@
           "width": 1200,
           "height": 797,
           "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -668,7 +694,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -680,7 +707,8 @@
           "width": 1200,
           "height": 850,
           "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -714,7 +742,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -755,7 +784,8 @@
           "width": 620,
           "height": 480,
           "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -788,7 +818,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -800,7 +831,8 @@
           "width": 1400,
           "height": 770,
           "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -833,7 +865,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -845,7 +878,8 @@
           "width": 1200,
           "height": 630,
           "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -878,7 +912,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -890,7 +925,8 @@
           "width": 1280,
           "height": 640,
           "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -923,7 +959,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +972,8 @@
           "width": 1200,
           "height": 675,
           "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1006,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -980,7 +1019,8 @@
           "width": 920,
           "height": 470,
           "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1042,7 +1082,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1054,7 +1095,8 @@
           "width": 1021,
           "height": 545,
           "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1087,7 +1129,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1099,7 +1142,8 @@
           "width": 800,
           "height": 448,
           "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1137,7 +1181,8 @@
           "width": 747,
           "height": 403,
           "title": "Government trials facial recognition system to improve social aid disbursement",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1170,7 +1215,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1182,7 +1228,8 @@
           "width": 560,
           "height": 315,
           "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1220,7 +1267,8 @@
           "width": 877,
           "height": 600,
           "title": "Object Detection, With TensorFlow",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1259,7 +1307,8 @@
           "width": 1020,
           "height": 573,
           "title": "Details emerge about use of facial recognition software by London police",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

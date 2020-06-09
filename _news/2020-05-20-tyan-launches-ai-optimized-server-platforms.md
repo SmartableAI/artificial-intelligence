@@ -21,6 +21,7 @@ images:
   - url: "http://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=368&source=_blank&cb=INSERT_RANDOM_NUMBER_HERE&n=aaf5aaf3&ct0=INSERT_ENCODED_CLICKURL_HERE"
     width: 300
     height: 250
+    isCached: true
     title: "TYAN Launches AI-Optimized Server Platforms"
 
 secured: "ExMuNCCUaUP3A8IIxLvFv1GhBlKIE5aPWx2GD22jIYwQQF5eVwuPbcaRmQGaAabRdIVxEXMUMr1Csj2JXch8OZkiE5OyzTt6BQHFRuMXCbT80cKJCAUXtNgDilBnzSvoumG3Cxbi9gOA/HhgE19WbeGt+lEwxLPRBawVpKcOLN60/5ycufrTFo8+9j+4bbassVdvDGYhNDyfTXkKB4ZsCO5IIYqXmWJ5GZNRQc9Yqc/KSCpVx+ESpobOCxS/3VYbLjzNctakJLyYhMXsF9234mwcHF2cBAk3UGiYsL6pll8WEGM8HI6dwjecd9A6Hzod;jak269SctKlW/TVIHSMq+Q=="

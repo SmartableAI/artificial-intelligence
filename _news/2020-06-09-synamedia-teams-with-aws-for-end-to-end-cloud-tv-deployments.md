@@ -23,8 +23,9 @@ images:
   - url: "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg"
     width: 400
     height: 234
+    isCached: true
     title: "Synamedia teams with AWS for end-to-end cloud TV deployments"
 
-secured: "Mbewl7sCRS34Jbd3GsT6tEFB7qAIXJn+pGZH8qyv1YgCIKGz7krSZ4cuOq+XbNFFOh5dBrIfkJKzU9WdimLpWaXwVdoRF5Kxqy8RlhODShbWdMBzTghTGflbl5uSG1y7KUwLOx00hN0ch2lWLrJYaraIGWzD88p/Va7L39GCuxJfWCSSegA9yX60mPmra6hnWhPU6McMaQBx9elKT4kXQmD5pAO4F6qKoD1D87TTFIwdTTsIUlH3TOEL97H7zu6F1ZmEkwc9W3EIz/2yMxE8zMazcim+YyiaM4EAFtT9SzQABH93luXtyYaGyYSxYrNO;fv107mgyeJGrpiohaU5lew=="
+secured: "41yHx6/0VxRC1GO3UsUsHA0MuuDOSuxPy5705b1WyITjtuQSIWpD8a8C5J21GNo7ljcVd9FE7+XQEvSVDR/wM7GIt+PxNZluutJONb4nhRgfvwqk0mSW7zDNMNORuLdiwShiVcHA6grO5arjL12ntp1Pke7sOZfdm25nyYuXjWGAkz04Y3wxCP40Ja/ooa+rW+7qEO1l43noAsldR8bmKOtfK6sdTZ/rlHsupO5y9PeX0gU2mREcx/IKrmaDk5NOuCupRLspbwQUTzu5zX5UNueuHiDLpayyqF+XV15Ol9lQ8OxhXYVXQDLCtmMdHXCOhgoySbaA0IMhl0II3h6MExXanHIldWk5fA4Q9rfS3YJ9eFnG06GmlCfyTy+v2tABlfGJs/yRFWHjgeglIxuhfNWI+zv+GQVBJBp1TV3A10sVdbfVyKev61cc4tLELqWM3SSPPELvZT3Pli1shT5aDLj50/RBQI2+7U4rJHafOo0Ess4g563XQSV/QIWs6l08;AWKpm6FUzO3IpgOZ6nXDVw=="
 ---
 

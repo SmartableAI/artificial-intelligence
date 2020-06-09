@@ -21,6 +21,7 @@ images:
   - url: "https://www.nsf.gov/news/mmg/media/images/covid_heart_f.jpg"
     width: 350
     height: 220
+    isCached: true
     title: "Researchers use machine learning to predict heart damage in COVID-19 victims"
 
 related:

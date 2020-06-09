@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/learn/achievements/advocates/responsible-bots-social.png"
     width: 640
     height: 320
+    isCached: true
     title: "Create a chat bot to help students learn with Azure Bot Service"
 
 secured: "yUmhQvrnalTAuJWJ4iJfT8tpajXE9brX+d4jtYQTtjIuTj+FR5iUUXMLbUfMsyU8Vw+E2SKQ3EkKUR8J2ZmywGGCghbsgqlELEDR8giYVlMrzjMitvFZ9kk6ejfn9uMWW/fqk9+UVSuD2vFp+MDBJR3eGaBI+xV0Y6blos0IjulWRp37L7SCqLtaPfH7yXqbW4ue6+JLMXQ+nJGG17byCDi9fJJ36LO1oLQdu2dKlSh824a8I39kyeKDvWe7Fp93I5ZPTxUDFhuQyfn6SheuV15rIXBvlZbhI7dplO2ZjRophpAR+DPUUxJ4GJ+hbqJD;7Lc/zlgD4WsyvH5M54n4oQ=="

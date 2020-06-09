@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/15/3053554c-c824-4836-8a36-0799d582197c/thumbnail/1200x675/e43c36f0d6c95273d85fcae3b0f11c02/applestoreistock-1157988186a.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more"
 
 related:

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Massive Growth In Artificial Intelligence (AI) in Cyber Security Market Set To Witness Huge Growth By 2027: BAE Systems, Cisco Systems, Fortinet"
 
 related:

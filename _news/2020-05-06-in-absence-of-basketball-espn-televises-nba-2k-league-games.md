@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "In Absence of Basketball, ESPN Televises NBA 2K League Games"
 
 secured: "FAMyonNPFWaNiFz1Zvp0A7l6sopLdCBEw/8Tdb9scFNAwjvh2RrPya+28jWmj1536c9siZF3JPAYivqEwfTXLk8+0ep8IozFqmbkDVwJVZER2J5DKBMJfep2eYtXTyFqbWZ3HrJ6/QEXvIARHL3NiavS7Tm0Zpso87Mb8O6duSEXYl/NYPXJNQjVnHKlmQjbcm0/BghT/vAM3NgLJkEnH/EnT2bTjJkaTWUvCFbaHGsl/U351MncW6nSr26gNiH5tLS6tQ5Fvrqci7nwf0dc/iEUAqIPxYv5DzTbTcptlpIxlG6YnNIXZRO2aj31vqWy;4na9nQaTKw7hPRlkV2KbpA=="

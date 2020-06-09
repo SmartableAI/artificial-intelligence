@@ -27,6 +27,7 @@ images:
   - url: "https://electrek.co/wp-content/uploads/sites/3/2020/05/go-x-scooters-header.jpg?quality=82&strip=all&w=1000"
     width: 1000
     height: 500
+    isCached: true
     title: "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?"
 
 related:

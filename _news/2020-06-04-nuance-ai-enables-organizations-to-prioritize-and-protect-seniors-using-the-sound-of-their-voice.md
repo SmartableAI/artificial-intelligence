@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Nuance AI Enables Organizations to Prioritize and Protect Seniors Using the Sound of Their Voice"
 
 secured: "2b9YrxV91e6FuzG2sJsRjhR1T6iJNauTsMO3c7lnS4aXV32fnYYQfFfFEN018txPaEL3b9ytxmn0hPjGNn1tT3kgrneXlHNJsHPPFB4cMihgMCc8O3v7NuZnqdkiTW0kHEa5cmnMWBt/M8iGm9RL6OLH2f++kwcJLtlIVHc4OxHNc8OKp34G/j2pn9HjkpThOtMfY4ZjTbms5nRSvMfgpUTGqwyDRJjdnGAD5Uokn/ZBc5HeX592Qw9SZNWTYhHK4CCu6u3Rt0YLW7ntZDqZYAYojoX5orXm1/tglVvqDpIHWA62vjp1xqLv3gWlMVeD;5/Z0EpCDBDrE9nO8/tJCoQ=="

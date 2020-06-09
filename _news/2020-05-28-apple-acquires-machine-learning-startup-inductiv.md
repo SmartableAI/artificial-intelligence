@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize"
     width: 1200
     height: 800
+    isCached: true
     title: "Apple Acquires Machine Learning Startup Inductiv"
 
 secured: "r4pYuyMNmsR3aoOwjHp5C9cbNRq1OsbYEFjPOUUEIMHShJTUcygs2+/iW2rZnOwVVM6DUCcv8KGI9aoARgtpvQbiITHvRRkHv3BlhtQ1BP2HtP9qWHTOwYG/pfOCg5lAuolNFZTrTpi4cjbEQLcilxga5nkXFIyt9Gmo5tMzD4VkYlk2AGKr4hXYBcRWxh7Y9G8LdehNVaIMhHFqseKxs+q/CiIlBov8lXCpQ+e9og+j32nfPMXpJYWyJmiwY64ukOw2/I6lwdJOYbufgTlJEj6lKmvctiBI9WJ8ShJsBecuBz0hZlEbZALk0dJzP2QclWFMubJM0yR6tK3fcxjXx4j9JlivooQd9s8JPUAXzJi2IrhesciiWkLDx6Wwgjkb7KTPF7MyWNOJLJnEzDybvb3FdIVjkGvftZyov9xKdUU9hKwp5NMM6Z5cQRnjH74lVQDaYDQX2MWjqnQ6HR+/uX/617nDSPJFqrlg48Bv5+Q=;EVIX6tpncR09uuPLlBm/Zg=="

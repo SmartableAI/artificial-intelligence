@@ -23,6 +23,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1176568/IBM_Marta_Martinez_Gonzalo_Gortazar_CaixaBank.jpg"
     width: 400
     height: 267
+    isCached: true
     title: "Spain's CaixaBank Teams with IBM Services to Accelerate Cloud Transformation and Innovation in the Financial Services Industry"
 
 related:

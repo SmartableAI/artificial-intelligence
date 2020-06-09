@@ -26,6 +26,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573"
     width: 5000
     height: 3334
+    isCached: true
     title: "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon"
 
 related:

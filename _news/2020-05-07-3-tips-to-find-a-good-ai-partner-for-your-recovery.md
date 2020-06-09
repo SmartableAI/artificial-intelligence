@@ -26,6 +26,7 @@ images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/20200505205845-GettyImages-1019205322.jpeg?width=600&crop=16:9"
     width: 600
     height: 338
+    isCached: true
     title: "3 Tips to Find a Good AI Partner for Your Recovery"
 
 related:

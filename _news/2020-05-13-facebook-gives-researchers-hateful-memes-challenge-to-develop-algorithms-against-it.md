@@ -23,6 +23,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200513163445.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it"
 
 related:

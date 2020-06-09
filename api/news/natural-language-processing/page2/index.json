@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 3078,
           "height": 2000,
           "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -68,7 +70,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -105,7 +108,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -117,7 +121,8 @@
           "width": 1200,
           "height": 600,
           "title": "Search engines are leveraging AI to improve their language understanding",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -155,7 +160,8 @@
           "width": 300,
           "height": 301,
           "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -188,7 +194,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -200,7 +207,8 @@
           "width": 2400,
           "height": 1248,
           "title": "This AI Maestro Wants to Serenade You",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -233,7 +241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -245,7 +254,8 @@
           "width": 1200,
           "height": 675,
           "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -308,7 +318,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -320,7 +331,8 @@
           "width": 1024,
           "height": 682,
           "title": "Azure Cognitive Services learns more languages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -387,7 +399,8 @@
           "width": 600,
           "height": 315,
           "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -420,7 +433,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -432,7 +446,8 @@
           "width": 756,
           "height": 567,
           "title": "Your face mask selfies could be training the next facial recognition tool",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -466,7 +481,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -478,7 +494,8 @@
           "width": 580,
           "height": 618,
           "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -511,7 +528,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -523,7 +541,8 @@
           "width": 1920,
           "height": 1080,
           "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -557,7 +576,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -569,7 +589,8 @@
           "width": 1200,
           "height": 800,
           "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -602,7 +623,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -614,7 +636,8 @@
           "width": 1200,
           "height": 674,
           "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -653,7 +676,8 @@
           "width": 1408,
           "height": 793,
           "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -687,7 +711,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -699,7 +724,8 @@
           "width": 1200,
           "height": 600,
           "title": "Hugging Face dives into machine translation with release of 1,000 models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -732,7 +758,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -744,7 +771,8 @@
           "width": 1200,
           "height": 675,
           "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -777,7 +805,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -789,7 +818,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -856,7 +886,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -868,7 +899,8 @@
           "width": 756,
           "height": 567,
           "title": "Facial recognition firms are scrambling to see around face masks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -902,7 +934,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -914,7 +947,8 @@
           "width": 630,
           "height": 428,
           "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -947,7 +981,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -959,7 +994,8 @@
           "width": 1200,
           "height": 630,
           "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -992,7 +1028,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1004,7 +1041,8 @@
           "width": 2000,
           "height": 1600,
           "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1040,7 +1078,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1078,7 +1117,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1090,7 +1130,8 @@
           "width": 1200,
           "height": 600,
           "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1127,7 +1168,8 @@
           "width": 685,
           "height": 571,
           "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1160,7 +1202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1172,7 +1215,8 @@
           "width": 1200,
           "height": 630,
           "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1213,7 +1257,8 @@
           "width": 560,
           "height": 359,
           "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1247,7 +1292,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1259,7 +1305,8 @@
           "width": 1200,
           "height": 630,
           "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

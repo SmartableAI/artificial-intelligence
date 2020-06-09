@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI in Retail Market to Reach USD 23,426.3 Million by 2026; Need to Enhance Customer Experience Will Favor Growth: Fortune Business Insights(TM)"
 
 secured: "qzqU/PLrt9LukPeTa3Vsn9n8r8IgOG92Vaf2KOi5+1ZUQAuBOCSa63pCVGrE6ZgLmNZhp+e4Z2tSdx/YqvsHHEF7X2zLe6HJZ0kvaY92K7rKKCQBYgQOlO9ucU3ApWH+TD4IEuVmDHzVkPdMkvEFkc0/UlgEGk5bzp2vu6tEmx78htCiAHqGUw/TnE5BxT1q5ALkFBqckOpRVFe8BPAcAiH1y6wK/WTnQI+kb7MRklRKZSHBIsgPBb21bphEnzblqV3d2nP/QAZSvPaQ/ILQy5fxzxM3Z8JsTuyFevP6+vtyS8Xlu97AbdIjCGl7GoD2;v5J5PAEFocYkTrTzoQTfYw=="

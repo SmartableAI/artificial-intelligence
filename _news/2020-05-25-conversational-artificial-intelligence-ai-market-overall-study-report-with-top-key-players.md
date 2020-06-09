@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players"
 
 secured: "EqPyzwQuJxg78AjlvrbfdKc+tGz7O9gP6HT3IyB3W/VvPiBnPhwIxl63CM0SXSjQICcQtfp/Fz2dqlydPnECimXLKugdx7vO5zhTWhD1ea3aWykjDSktUMVWMrzlm8hHZpy9F2zalKDVsi34pGwCbsV+FNynYx+MQLkSeObLIFWG+SCnlhlwFikTjAPNXbaftcKafhuA1ohqjjEtNTXgNDFpln72oilRq+Tm4xB1N+aS5XU5aldrI58EbYju/IzA29w/BmV9yPpdn2OSXq2TAg2+pY0+ccI59lprcKy2qQwdjY89JiI1EqrNAOjtM4Rc;+35IouaBc+8nWiO+508A8Q=="

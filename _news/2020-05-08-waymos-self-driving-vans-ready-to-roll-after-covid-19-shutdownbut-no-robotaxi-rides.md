@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb47f7d835fec0006764e53%2F0x0.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Waymo’s Self-Driving Vans Ready To Roll After COVID-19 Shutdown–But No Robotaxi Rides"
 
 secured: "V+fVzuoiiM9zVRsXtCE/CGknKfNyCl7OLNyWzv/pQZrw18lbaGmO57VglwprVXeNRxYhE2m4sSkdEEPMq+1knSEk14oyWf++AoZrA1BVv++OxNe51SUt9x2Gw84xwnsJLG4tjxqItBWNzbClWvvQhadw6+vkTxkZ0E8bclqv1ykk3F5SWE6ivyy1fW+DkPqKMzrICv6yunVZ59KHiO2b0Ivgu9VC5RLlO6xIdXojIzU+FHL6aEorVQFBknqtmoDXs4VmzVB1MDtlh4f67l5w9iovk6g9t/Snf5HwkcnupdOZNG/CNRJoIgkH58TAZaAxFFiyrY4dLS0Qkfuph/5OwjNhf1ftiHL/6z2Pdk1h5ogEST+S00ybL2C2ILa77AGFBEUbGEEZSmvms47pIdQvTt+ccX2xCYeNcmFMdzRyPXta6jRWDhluTtwG0GyIrgIf6OyIOktIGRUGsj0/zXzVel2MTUTyUuylwkiXHAnCD30=;e4M78rC50wuglyNKS2D5Fw=="

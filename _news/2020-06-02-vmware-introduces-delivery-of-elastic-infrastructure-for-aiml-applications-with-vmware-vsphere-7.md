@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200602005347/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7"
 
 related:

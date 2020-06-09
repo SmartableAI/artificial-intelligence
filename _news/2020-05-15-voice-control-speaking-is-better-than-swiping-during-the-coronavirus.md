@@ -27,6 +27,7 @@ images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Voice control: Speaking is better than swiping during the coronavirus"
 
 secured: "/S+2Ccumo8h5oEhzoE+8ijLuG/KAWuESX/YyJZhchPbN3pVO2JOCYYk8ohFwXNw6hZibXaAkBZtBccMAfA0F+0Thn09UGJWgQgwv/Z8bvYwj257MaBbKlEWH8MPDMtZcnsDgp6QN7IK3uL1/OT3gd28FjWaVhNqVJ7Eut7Ow4CGYPAfLgMPHXqKrGtNS9SpU0hcp/HSuT07tWPWsD9p2cGJVprTZNRoQ3UaOgfw3COSE07JwnkA3XmGqWQzXUbuulr9MSoT2+9unUgXRp49RN+w78yHK5sL9ilhF1OsQ4AI5LMkDv7WAQOWPEXOUM0kaU7Bf5bnVOFVDIEDCDZTFbDqnj244DjbJetLCMltMHPesksVRtQ93uM4aJrBnH3GSG+nd5+NOIfLOsg+M5cSbkka6vNB1L5aDbZZEqylWYzY5/pDxWA+i+iWzE6r9xLwiIWjfdFeocOjimmmqSF2ydQL6LFdW0Loi3X0RsXiHw+Q=;fK937GpEDHWQvdgGj/OVvg=="

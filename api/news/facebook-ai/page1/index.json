@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 630,
           "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1200,
           "height": 600,
           "title": "The AI community says Black Lives Matter, but more work needs to be done",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook creates shopping data sets to make more humanlike chatbots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -157,7 +163,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -169,7 +176,8 @@
           "width": 640,
           "height": 640,
           "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -203,7 +211,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -215,7 +224,8 @@
           "width": 1200,
           "height": 630,
           "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -252,7 +262,8 @@
           "width": 1000,
           "height": 537,
           "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -332,7 +345,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -344,7 +358,8 @@
           "width": 940,
           "height": 788,
           "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -377,7 +392,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -389,7 +405,8 @@
           "width": 756,
           "height": 567,
           "title": "Clearview AI faces lawsuit over gathering people's images without consent",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -422,7 +439,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -434,7 +452,8 @@
           "width": 630,
           "height": 499,
           "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -467,7 +486,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -479,7 +499,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s AI convincingly inserts people into photos",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -516,7 +537,8 @@
           "width": 1280,
           "height": 720,
           "title": "WADA looks to artificial intelligence to catch dopers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -549,7 +571,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -561,7 +584,8 @@
           "width": 1200,
           "height": 600,
           "title": "AI researchers say they created a better way to generate 3D photos",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -594,7 +618,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -606,7 +631,8 @@
           "width": 1680,
           "height": 940,
           "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -639,7 +665,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -651,7 +678,8 @@
           "width": 796,
           "height": 417,
           "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -685,7 +713,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -697,7 +726,8 @@
           "width": 1400,
           "height": 933,
           "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -730,7 +760,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -742,7 +773,8 @@
           "width": 680,
           "height": 382,
           "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -775,7 +807,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -787,7 +820,8 @@
           "width": 1200,
           "height": 630,
           "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -820,7 +854,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -832,7 +867,8 @@
           "width": 1200,
           "height": 630,
           "title": "Facebook’s Giphy purchase will help keep track of competitors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -865,7 +901,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -877,7 +914,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -913,7 +951,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -925,7 +964,8 @@
           "width": 1400,
           "height": 933,
           "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -963,7 +1003,8 @@
           "width": 2560,
           "height": 1707,
           "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -996,7 +1037,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1008,7 +1050,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1042,7 +1085,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1054,7 +1098,8 @@
           "width": 1199,
           "height": 798,
           "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1087,7 +1132,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1099,7 +1145,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1132,7 +1179,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1144,7 +1192,8 @@
           "width": 1000,
           "height": 563,
           "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1181,7 +1230,8 @@
           "width": 1024,
           "height": 575,
           "title": "AI is still largely baffled by covid misinformation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1214,7 +1264,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1226,7 +1277,8 @@
           "width": 2881,
           "height": 2010,
           "title": "Facebook says AI has a ways to go to detect nasty memes",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1260,7 +1312,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1272,7 +1325,8 @@
           "width": 1200,
           "height": 640,
           "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1305,7 +1359,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1317,7 +1372,8 @@
           "width": 1400,
           "height": 933,
           "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

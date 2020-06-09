@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Now Deploy VIDIZMO's Video Platform Solutions Directly from Azure Marketplace"
 
 secured: "V9KjJaGFl766XO8Z7UPqnqarTrDyUnGehoysAhG972cijbV+Z5nna826yuMIuNIP6cfrN4fn65sREQkN96kkojqunJDLlLNyT7ItaxzmS+aPpsvplBwzUQQFRWR3iM3ijChALfZkgQA4pLzGQl96V7idEbcYBZwfB53EtKjgjCT+ZT9r6XtFNbFJ4juLi52041R1SKUM/wgwFdFBvZoy79z9M49VgohaysxaCD4GWshMtWdAmELWFzVcpTSKOQoaJ1qZDrfcwSeNW534F19TaMs27tEvC4VaM4pgiFpEvY64SqCLH5xGeqOm5QdSW6Ru;ykNat6yAmJArKnZGpk9igg=="

@@ -24,6 +24,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/YouTube-Dark-796x417.jpg"
     width: 796
     height: 417
+    isCached: true
     title: "YouTube removed phrase critical of Chinese government due to AI error"
 
 secured: "rWJ2MExPOJuawAuAkWQBHL1rISg6OIOdxt1PabrnoTVd+/bIYvg8utSu2OASL+XE0d3q1dAeS4H1WIRtxX+HadlIwvNRYa8/QUKGwIy4gDvzthtNoF/INCGl1erHpAYzNkEszPNtUV99BBi3uI+D8weHI4sdiGKPKTxpjLm7/dVSOOOuk26RrvNLZ2kR6IuS9IbyT2Uo/D9g+1pF1oGcInNqQA58+y04kpTbMevZd7pFw/fEW5UDoFJSNwrbyTQlDHZvI6qh2bQ0TyA4eTgyqUiZVnDdRuq7eCUeL2AdNTcUob6saFZCEFUFCfxPvB9kcPiEBZT5qpmT2P8zqtDsgLRnDr68U0U8tlKkvOGePKSXHaur4XztU6IsJO6C1I3caB8BZenGf5h8+GQFo4hiudawKIi4AWKx6eWuKJQPEMUOuloKBwkMuy9OKmHI6a8aylrAh2slJeGLNTih4zCP3riis60db+m5XoF+AD4mRTo=;rxBoPaLiEiQUeWYUfyo/rw=="

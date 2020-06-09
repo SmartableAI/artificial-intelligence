@@ -25,6 +25,7 @@ images:
   - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Amazon in Advanced Talks to Buy Self-Driving Startup Zoox: WSJ"
 
 related:

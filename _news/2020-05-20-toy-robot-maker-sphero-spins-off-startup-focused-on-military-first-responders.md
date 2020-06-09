@@ -27,6 +27,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/BiSR3X5qwXZnYLE7lvZkbVKsPgg=/756x567/2019/12/05/b888d83d-d0e5-489f-bd8e-8060676e3f7e/walmart-100-sphero-bb8-droid-cnet.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Toy robot maker Sphero spins off startup focused on military, first responders"
 
 related:

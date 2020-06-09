@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/finextra-images/top_pics/xl/data_17.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "AI-based financial comparison site monva crowdfunds £502,320"
 
 related:

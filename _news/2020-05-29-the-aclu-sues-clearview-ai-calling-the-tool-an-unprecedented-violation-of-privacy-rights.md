@@ -21,6 +21,7 @@ images:
   - url: "https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2019/10/Money-web-1024x576-860x484.jpg"
     width: 860
     height: 484
+    isCached: true
     title: "The ACLU sues Clearview AI, calling the tool an ‘unprecedented violation’ of privacy rights"
 
 related:

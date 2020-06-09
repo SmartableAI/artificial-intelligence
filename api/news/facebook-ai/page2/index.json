@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 600,
           "height": 350,
           "title": "Facebook deploys AI in its fight against hate speech and misinformation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -68,7 +70,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -80,7 +83,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook is using more AI to detect hate speech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -118,7 +122,8 @@
           "width": 1602,
           "height": 906,
           "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -153,7 +158,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -165,7 +171,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -198,7 +205,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -210,7 +218,8 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Telecommunication market is expected to reach USD 1 billion by 2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -243,7 +252,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -255,7 +265,8 @@
           "width": 640,
           "height": 320,
           "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

@@ -21,6 +21,7 @@ images:
   - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/04/randomsckbutton32.jpg"
     width: 300
     height: 250
+    isCached: true
     title: "AI for robotics developer Covariant raises $40 million in funding"
 
 related:

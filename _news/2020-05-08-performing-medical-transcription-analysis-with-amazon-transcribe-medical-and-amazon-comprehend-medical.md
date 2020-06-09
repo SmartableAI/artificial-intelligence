@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/08/mta-8.jpg"
     width: 800
     height: 406
+    isCached: true
     title: "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical"
 
 secured: "yDcFAiq3jWs84oWZ7qc1I2MIp37s4PJedO+GJPfqVVxlmXa9W3ifVAG/e38EyUsqdVhCDQcPsju01ZcmfjRVNk5IMxPy43l5lJM3oB+i7nG1Tz/0YJGNy/xM4A/SUqISBuEJm3kXfP9lDHwg4TICf8BGOwGa8llrQv3Jp4EXX4OB0HY9O177p5cI0/631sbII6DUb14SUFSTSIGBeNKjiMpb5R4tJWduANrEkzRhxAQ7+koFwBWtyQCylvshBmBYBc+jVq/cqwJ4p3HlwnjX+oJynGBgNVbewDfYYI/D90nEtolqWxRNGUjcGUp/Voa6VTn9Uzx5RbMxkIJ3cJZsXA==;Zg0qXswhb7YzAAjHpeGtkQ=="

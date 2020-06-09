@@ -28,6 +28,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "New AI technique speeds up language models on edge devices"
 
 secured: "d4pQkN2X1Vn1FSKEVsjOM7rSCRD5l64cHltqN482ewnPXVexIFVqBOmDID1gi+Mo1cXiMNr3NKZB2g6WkV4otVvZ5gptHcovVepkfwBawgR/oHvpnEGfmreEl0CUxVoqucm7X41uJ4gzT/j5R4BhsI/GiLUzK/ixFVjhLDVFd2BJRHbrZeyiMSV9Xx0DlrbkwMgDShr3IOrC/3imgxsDuzBnWpVX2k8J8YzKAMLdzNp+MwGJ221FZAHuoPM4H8TtfdbFi3xGIo7EKTUiXasYuwdkjT/u2L/qX09OW0Hze3vNCdyUq2HEFBUUrqsSAStTtPmOYytPhqb5qLhpnDln4YDAVEQek75VH248eeJv++CWosKS5josWOeKLQvLjM9+J1ZqL5poHNMXYChh2OzxWaW0fYUHysO4apJx0/VogMpxh0RnSL81qBuYU9Fjd+0ALhmsqYAUh/lIHFh+MIK7xNSf3HEaXQqSqucXCXOYxy4=;mfRtSiKIf+Gxa/nIEldYkQ=="

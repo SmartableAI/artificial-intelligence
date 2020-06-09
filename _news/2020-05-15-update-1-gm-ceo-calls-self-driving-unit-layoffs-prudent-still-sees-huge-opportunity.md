@@ -27,6 +27,7 @@ images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K"
     width: 811
     height: 545
+    isCached: true
     title: "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'"
 
 related:

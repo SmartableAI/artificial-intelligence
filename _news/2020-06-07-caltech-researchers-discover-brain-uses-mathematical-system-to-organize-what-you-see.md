@@ -21,6 +21,7 @@ images:
   - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg"
     width: 400
     height: 303
+    isCached: true
     title: "Caltech Researchers Discover Brain Uses Mathematical System to Organize What You See"
 
 related:

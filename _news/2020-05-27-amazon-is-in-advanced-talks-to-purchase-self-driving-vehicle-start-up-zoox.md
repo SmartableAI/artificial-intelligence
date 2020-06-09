@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg"
     width: 1260
     height: 840
+    isCached: true
     title: "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox"
 
 secured: "AH6vRMgO5MKg7aPctV6vvbURq8MV+DuxrO7lgc7GsvawziCALPFGB65zzugV0DXyorSKb8GlVNmufcBmFQmS/CUW9uyHvHZgzHSLCXw5DPHP8T2NDmKWHQH/qg0ekh+2uI9sK1N42dgF1/hdj9WcUmBUQizwrjNVlfiYyZOXn6AjzwjHT8yJ+ICM+1IpSEwQNn7yTxJUxFvAeJdj3pkTTcDTitFbCsAvbFv/4D2tIVXMOqpMgfzIgMDLK7gzOb7ABAofNo8ppxxZgcAZoqKAW7d2+kNRz4ILgtUP0UJDTulwLoVUIpnwnE9YNeN/lRRt;Tx9JvABlJh3sNGIu/GK+nA=="

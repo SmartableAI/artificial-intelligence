@@ -22,6 +22,7 @@ images:
   - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202005/Q220%20it%20futurist%20hero.jpg?itok=oH_447fV"
     width: 1440
     height: 500
+    isCached: true
     title: "More Employers Deploy AI in Their Hiring Practices"
 
 secured: "4XuFJBTQ1izLoFnBaoTPWLT+SGKuCVaWwQhOgIbMTOuK26Pv/JjysPg7EkpIqLHSZp8z548FnijYDoWPaRWbrlbAj9C3JhuiT2MDFq9JlK+5lgweaQFF+ZQ6rCBiAURorA/ku3ydAomKrz1zaAFJQ19z4xjxunwAY7Jnhv/Ab7ZIoy7X1TEPJMsEYaXpN4vxWIgK8HR4/bqxMwfKdDo6FyJq4Lm7pkiQF4x5ziaSgNrJ/0zn3XEZZSSbE6Nvuz84bF+p9g6qRUVJmluOZxiJm0ML5Mnfy6kGs+UTCIOeRNHjKsMxtF/hKRN1G1E027iF0VizHsV67vhhWeUieWLZp2lvHqe+25a9RlVU8f2mwVsKpxBVPVPWWoL70CXEPKTJfXfWkBANEmzK0OM+kqv1vRcjxwrirVNvhVk/SqYxXXx3PJ0NJOYOGH+sLKE+RwjHCr0qpt1NyLrh5DsncUZQZFJA85wO9h5hCUMziTUT9EY=;d/XbsqBvs3YAnPJxLo4eEg=="

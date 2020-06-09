@@ -27,6 +27,7 @@ images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Mao-Yin-2-Getty-Images.jpg?ve=1&tl=1"
     width: 640
     height: 320
+    isCached: true
     title: "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech"
 
 related:

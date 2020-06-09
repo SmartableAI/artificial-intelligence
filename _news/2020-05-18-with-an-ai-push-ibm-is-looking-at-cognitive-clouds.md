@@ -23,6 +23,7 @@ images:
   - url: "https://images.financialexpress.com/2020/05/ibm-watson.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "With an AI push, IBM is looking at cognitive clouds"
 
 secured: "sljaI2KEQCp3IY/LNc121k/jBUN7ZFwFR6hQKZqHUGybstLZYgRI7UFIhPXxFfeRL0BwyXtu7epE7XWBFQTUjskAR5vCnVdRGtps7ynaLkB25BXOYluzEfn5ZoKkgMoFw/ooiUcigmMvzKlkv6cs5UT4N/sSljqN/UhhODJK5WT51ekiHBVYUzvneqk+dY2bEXjjMuLjt1dd6SYAe1FX9TOEle9OfirrY9Br82+VzFEW9vqfJWJ4VCNp41bSTq1lHXrJGcZEf12upQaqG8rH4FlXReIxZr2pVW6SDyQpCh/J7IjQlB+h/cZsfCKPlL/y;/kjwee8FPnU4YoyxUI7xlg=="

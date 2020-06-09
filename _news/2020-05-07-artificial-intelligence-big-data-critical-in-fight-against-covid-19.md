@@ -22,6 +22,7 @@ images:
   - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/opinion/2019/5/6/artificial-intelligence.ashx?h=450&w=750&hash=872023A0CF56DC4F70F3C098CE6B8E28"
     width: 750
     height: 450
+    isCached: true
     title: "Artificial intelligence Big Data critical in fight against COVID-19"
 
 related:

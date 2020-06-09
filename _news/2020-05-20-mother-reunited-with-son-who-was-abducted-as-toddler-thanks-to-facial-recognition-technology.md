@@ -23,6 +23,7 @@ images:
   - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/05/reunited_-_pear_video_thumb.jpg&quality=70&width=808"
     width: 808
     height: 424
+    isCached: true
     title: "Mother Reunited With Son Who Was Abducted As Toddler Thanks To Facial Recognition Technology"
 
 secured: "JLD0pLtyRcvGekgQcaScpH+A7jm+A7VejFKJvVLC9mG/dfRY6kqPNkgwSD7pwS/YtoCHqOLYFp590joDZs8uluomhKPUyiQ1BQwmdTKYXYymMBppD1ZJQbs9AP2KuRKQWNxL1QmD9xGpUjU9WjxAc5EUmDN3fzKmZkeNlbUixJS9qcozYJGAKAQBu2ar5XLN5+KNHrwWS52cPLEvhNE2nPm/u8ZiqhRPMBYtjuBwfaUdYwh+7TKn80ims+8na5cO8bEQN/vgIp9NZx6im8y6UzM2+o36jJdFCQ5BzusFZ1760GAZcdaWzJtdtYN8hfHO;xOeUBaYizMJBxIroM7huSg=="

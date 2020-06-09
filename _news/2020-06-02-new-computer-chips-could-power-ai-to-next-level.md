@@ -25,6 +25,7 @@ images:
   - url: "https://images.wsj.net/im-192303/social"
     width: 1280
     height: 640
+    isCached: true
     title: "New Computer Chips Could Power AI to Next Level"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.wdtn.com/wp-content/uploads/sites/45/2020/05/cvs-self-driving-car.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
+    isCached: true
     title: "CVS Pharmacy to test self-driving delivery vehicle"
 
 related:

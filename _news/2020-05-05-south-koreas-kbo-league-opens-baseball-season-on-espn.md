@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "South Korea’s KBO League Opens Baseball Season on ESPN"
 
 secured: "vLVy4hKd2d0wU6EcopFjSpAXOahk49m/5089Z3mzu8CdSuPqG98QZGXzahF0i6yxnzEDx0jOI2Bbt+Ej0n+468MnwaQe2X/o38NPRvAMYc1sJ67FwrfX75uybwoqddTOaXS4PcPWYe839tzqyvD9gueEJf4cJ2L0MLdCSa7e+OqajRH0G6ypxso6a+7GHKjy9KCAmb3DVd6QmZID86MRvWQsbubeWRirrGmijYOUY2X0Yl1n+iZzK5dfS0iNxLZMf9WcLcoluFYz8qG1UWf1/VfMu15vsNMPyZJhYU8+Th01n9BiS8QdDaQwTJAusdse;l69QMJWgZct1fE7Ug7kJGQ=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/AI-and-Robotics.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "The Potentials of AI and Robotics in the Middle East"
 
 secured: "0IPdeyuAabWlkg/NlStmv68HNWw9zjOvWSQlfMQ8JpP9521Okhggkg1YmpxkvM25oNuXACnSNCVt4OCH+NbvDPAWJi06R1x17nBK6tQwuKHjht6N46M6M5I2Lxpq2BZY8+oT9z1Wcb6b6lo/dgXdAD4yfxSEFIG7vocboEtPgYDwfPbcsX64Ozo7ZXW5BdXzsNRpnO138dur4uDu0BD8nMQDWAztqYN/g0COBjNzYgL/X3SKGMaRw/1Nw+tEHTXuYYYOrimnCX/21V9VjmyNowRE1bpXGwnpKn/3nN7BCeqjSrW56mmQCU58qnJGE5lT;bDaBJ9EWO5ScL2RtfPRWXg=="

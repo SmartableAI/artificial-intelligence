@@ -24,6 +24,7 @@ images:
   - url: "https://www.telegraph.co.uk/content/dam/global-health/2020/05/12/TELEMMGLPICT000231053089_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNtm3NAjPW-2_OvjCiS6COCU.jpeg"
     width: 2501
     height: 1563
+    isCached: true
     title: "The facial recognition tech that can identify you even with a face mask"
 
 secured: "/ar4gbruTK1pI0MlXb9BKgTuyvxwbgz9xT5BuN8Zop8F6S/aPjZQSeIZVxrPqYs0c5QOuHd7IKHTDML2mM0xepLpc0835p9F3+ucuFlZEW+x665aH47bVkhHTE7yt+liz7lsjHWZijTTCSOdnKYGlSTixxkIka3qJ4igjhwiT4u6CToXYxZFylS/ElYkJk8VwDA+QzuBn1pWumr6mtdpcnI/g1OQapwwqZ5Y5j2eIgdqxJtL8cYLIu0Zm6lSZo5a5y4bbqrxCIJnHKVvbysHEZZ+xjfhqosTL9qgTu342/sY7KqgXmeC8qnnoMHRblwF2baeb/P0pVkDjXTQhf3m7MvImnJUWoyPHYZWwboen7nAXKHCAAL9aPQwOis+xbYbIJa0Ocj2ptsX0A5B2+Q7ou01aAr/Tdao0klChBiTBJeltBGAqAKEWxpTsrztopHNVcJGSynEVQ0FgVbJxZxdCuoTRE4doXHleDWY/NvLyFc=;saJteDCg4sl68hn/7VmpsA=="

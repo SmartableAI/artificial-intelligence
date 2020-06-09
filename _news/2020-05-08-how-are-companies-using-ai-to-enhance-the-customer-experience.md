@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214961329%2F0x0.jpg"
     width: 1200
     height: 681
+    isCached: true
     title: "How Are Companies Using AI To Enhance The Customer Experience?"
 
 secured: "Wq7BcAaTWav1qHgo1Sjc1ln+YPlpy1GE57OCgQ0xn4HjcJp4VdvuWmqp2VLW3bkmSMWkPRKuW74bRGcE2FT0qYu+sMdOd4Q+aNY9lip2ny7zvcNYSrNZJL+SWAlhCChyFbk5oXUZOzaVFipiC/KSvMTPdTv5L9C0J/vgHgymi44u3nYz1nFv52Y4z5Vlhak2zeciYPKJ1fNBLhc1jsMOh3bMMGE+wnoM+mB35nvNuz8b5elYwyVYaV8tH7N8UkHRAd8yGKi9unEq5kfDJl9upDOTth3lKTKkEHwEketKV/1rW6N2BCJm2/M59VP7ZjzE;n8GeCl7OawjnLLf2zWYzUg=="

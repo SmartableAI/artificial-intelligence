@@ -22,6 +22,7 @@ images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-833615328.jpg?w=1024"
     width: 1024
     height: 682
+    isCached: true
     title: "An AI algorithm inspired by how kids learn is harder to confuse"
 
 secured: "8EZPu5pZu9SQDAiJKbdZ9Quqc1R5wEBbEOgBHACsrDekPDQA/AXX72mUsfYkJ6vU9eKbbr086+ccWxLEvt2uW1Si1dCcNNgyEGOYlfBtJQlrSumqMjUoLfUK3qjqosV0cE2Bw71FwO6R1Jz6gyflELikZ4fJpB+pRna3prFkx/KEZkKAtF9fBQK8dnk2CLquKNlUAoC1p+g2yusgQTDLmymNLUVLN0SyxVZG8f/Y2n105LKtERYuKCWJrhFisjRDWB+dNmp8s4c3zgQxYvS2JS4bPu18RkqLx2VOYoIvxoxDxtvkbfEUlnxajDre+uk2;mIe8BdGEYWmljjS80/0hLA=="

@@ -26,6 +26,7 @@ images:
   - url: "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh"
     width: 2488
     height: 1398
+    isCached: true
     title: "Watch This AI Algorithm Change Humans into Animorphs"
 
 related:

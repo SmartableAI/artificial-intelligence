@@ -26,6 +26,7 @@ images:
   - url: "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg"
     width: 1024
     height: 512
+    isCached: true
     title: "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
 
 related:

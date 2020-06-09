@@ -21,6 +21,7 @@ images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-64707-9/MediaObjects/41598_2020_64707_Fig1_HTML.png"
     width: 685
     height: 428
+    isCached: true
     title: "Continuous monitoring of suspended sediment concentrations using image analytics and deriving inherent correlations by machine learning"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.newsday.com/polopoly_fs/1.44824778.1590091035!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
     width: 1280
     height: 719
+    isCached: true
     title: "The robots-are-taking-our-jobs threat gets real"
 
 secured: "Y6NYzNJCGzhyJCkvJ/06v9kwxbH60AlESeqfLO1DLTBntUxYG4m4t5oA4j7H54EGJX2NQUf1dYjeuCT4DwRvJez7O1ghRXngIfrJPcSTmcL3f63qITtSl/L1zgAHdHnvdnAjrFuQ7rnWU9jn0DV/iTN7TjyXfYeQ6R0Exoz0TxQVhZ+w8ScW8MSW0oUaSnvSHZAxDSleNqQ0sAgReypwaPYq30R8U0M6XOe751yKwqMB0MIfGFB5+W9EIPiyZ2WxYegIkx8qxSs/XS8sh+y/mGpH/A/0ndbP+dKUqyVZAzNpXgGHoZxKAIBlnjH8GEIoMF5DiVwhksuoWZI4mbEJG/IsnyyPeOXVWFA9V0ipIesF3YAM/DW5rTLXoOGBhvu52dgvOTGL9niTYygtzkAs4MJaWhwaYQaC3KXYOz2pUqpF1bBQYwx2V+Ix6VKnDQmNr7AlN5LrYjVic/cQ1mgVLYFE6UORMYhcCG8HzaTjPMw=;suRPTjhYwBWZGqFE7cIV+Q=="

@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/lotte-mart-2.jpg"
     width: 800
     height: 284
+    isCached: true
     title: "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize"
 
 secured: "gFM2Cl1BMKO9Pjg+6Ez6KJbSI79YDXzvblbC68IyOeVgXc1OspGE3fIt3vZ0frh5twBZNjkMm37MrD6fSwtx9n9sy3U2sIKlYfpDeHn4xnzqd3eUTtUFYBDPAzQVHWhE0/lI0HEYXBNbcoXD5dmixPf66PADOniulE/5Iw//GYhA2Uvf5v+QA7dn5qS294zwYg/8fUEJ6DQr10/MwaRNY/ItRKlRCxmYeXX5HR29NVSEE9Zl3GfF8H2IZ5AVlMPew6yebVY/lKbclc7DibtvB3CWVCJtk5LLnqjD9kFMsdUk4Ifu4gLOlt6kq2tXzLjgZae7g0S1fZLZ+3Li0W0sTg==;U63YiBQIqXKbt+uY6SgR/Q=="

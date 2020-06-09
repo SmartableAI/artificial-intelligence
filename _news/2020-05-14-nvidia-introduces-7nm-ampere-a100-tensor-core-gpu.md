@@ -21,6 +21,7 @@ images:
   - url: "https://pcper.com/wp-content/uploads/2020/05/nvidia-ampere-a100-sxm4.jpg"
     width: 1280
     height: 640
+    isCached: true
     title: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU"
 
 related:

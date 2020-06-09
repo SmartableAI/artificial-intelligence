@@ -23,6 +23,7 @@ images:
   - url: "https://images.livemint.com/img/2020/06/08/600x338/AI-keo--621x414@LiveMint_1591634732028.jpg"
     width: 600
     height: 337
+    isCached: true
     title: "Opinion | Covid has exposed the limitations of machine learning"
 
 secured: "q6gmMzD+pvWE6U7xbtDdeUukIXHE4Sil+cPMyWwFnbn5r3e+Ka0dDz0y2l9/wFPQtygdjdwnrciFMkY4Nnlx/1NgKUaWdfL7rGZvI9GClXFBAMeH23stkq3xcRQcO3SMUPmQloNlr8ZfbRpz80tHLafDk9rMdjnolY2g5ll1JRIg4UnbeNVsTjAQIfQboJWwfV4bBD2/YzBIQypBGkHBTU2nn6u/wtxZ54Lpk5Ru9P3YHbXCs81oKrwChoHzbea6qYUaRcqo4nkDXd/UjkivDqPHZfgXur4n4fgiOS5H4LjDOgtm1r9ee1aA0aDAYzUzDE56zEO3V8XIGgZZxq9s0xnenK5IRdYjHqDdD/BuLGaN2bXNAdrclFinEH5Lgbe+2k1NqpYEGTVSA0fqcFIoWwn+tOluQabktGPBgMdXfH0tEGpvSLeQ5GuDIXqntWo9ZbWEwhxVaWPRvAXLpLjYmxEnHFu8bktepqOwbyrfYpg=;2MwIHDTnb0w96+0vS7Ur2g=="

@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "AWS Announces General Availability of UltraWarm for Amazon Elasticsearch Service"
 
 secured: "ZltU+7H8JKY39gXkV7KUZZ8ldQ6eYVkvmqnWtb/8ih97EFAoq0kkkyWAIYmXkGHvFpU8rMl17qfkZkmR2jSFsWKgzE6W52sL2HnzLgAaCWA+y6d77GVa7g5mS8rnSV3oj0iMrv/XK0UTajbSFDkfOl/S3n1jTO+vDAQyAF3f7nUOCeVvR+ZQO35UTmrrj8ag8Gw+eAX1CsQQaSeMkywTZp8jCkCo9dinW19QGCUQDn0WPxj1Y0C5oP8+g/X041tqnnRcWC8p/2fGW6MqWHZIF1qWncnICq2jiKURIX3DlS2vgcwmG7X2YiSnDp2J+NAs;xfDD+xskKr50hWpJr7JLpg=="

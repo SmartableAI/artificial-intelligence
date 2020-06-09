@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
     width: 2697
     height: 1414
+    isCached: true
     title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Bengaluru-based startup launches collection VoiceBot for BFSI customers"
   - url: "https://www.thehindubusinessline.com/companies/mm0854/article30434971.ece/ALTERNATES/LANDSCAPE_615/BL31P5STARTUPJPG"
     width: 615

@@ -28,6 +28,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
     width: 600
     height: 350
+    isCached: true
     title: "Sony and Microsoft team up on AI-powered cameras"
 
 related:

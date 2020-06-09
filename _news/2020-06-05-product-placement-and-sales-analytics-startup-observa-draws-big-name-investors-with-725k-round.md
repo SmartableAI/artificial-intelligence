@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Observa-2-630x381.jpg"
     width: 630
     height: 381
+    isCached: true
     title: "Product placement and sales analytics startup Observa draws big-name investors with $725K round"
 
 secured: "teONSIa950gZZVHd5o9BuqxbDFdBtXrvtGmhUNn5RG5fFXawZvaQfdOZlLa3XtC5iLgKCVjehLjFo5eUGJ0GoXs2uGujdMiKZz2hK4H9E0F+3MP1QOQN5cKJD196EbPy2AB0ylFPUDiczsu9bxo645VtlFLmzwEsOfylxgc8rkwIp+mvT3JV5U37dYb36WTJzKh8CXmT85PQ72PMTANUfcYX6X1azLGk1U5138ePI5iOgjhPEzhetG7qbohB6sWmBqEdHVxP+N+jlU6MSccRUFyaikuUfLIjBRtoQPhbETQWMmNdb0Jhedw6IFh1gwm0kGp4/HE6uqrwtNHmwU7GxewlPNnh2T6w70iF7eNEBWefXswoXMq+nLbDTYJTwoX/0ZwKqmFY2vgAZE4hJ785DJvmRZ10lOLaOzAsy2h6nRW4uCN+PIcEyAUnztL+FvTDmkApt51VNs9au8lH0bxFe/8Y39mljRmGTTDHPCSVyhU=;8N743Fnayi110Ut5J/tpCg=="

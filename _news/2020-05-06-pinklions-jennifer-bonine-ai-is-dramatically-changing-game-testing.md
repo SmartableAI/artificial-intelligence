@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-06-at-8.50.06-AM.png?fit=2806%2C1566&strip=all"
     width: 2806
     height: 1566
+    isCached: true
     title: "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing"
 
 secured: "TTLkPgkPHThb7Z5KYljyuyIyL7BZ0QYoF7hrpMQionVdI3l2zumyrZQ+17a2DU7bhoLYPltevaD2S4kpbiBy27AFP2CZ9iq2t3kRiTshf0gxHEH5TnbzkK7yQL0wyLgziTS7zCOHShy9urr943WDP/RpsyzXKy1jdfW61pgDlWzSPqel0ptJYFHawgAXJJyfLUmvK+MviE25amJDQ2jhVqJmfWDp4rKCxoIc5/WGaYZx9laN4lm1KKjFkgqkYOH67WQ4Vb71Vzeq+zJKcBG2poNKfhbdWcgr6impp5T7uQmreb29yumzAtgL8zT7ui4b1KnYonLo2URre3waAEwInFpAB+RJdBCGoX33ZeDwJQ3uivsom6duzWyKSW+p75yrzQEDEZ9oZsw/hM19SKveyWijdXHonE9C+tOXb+Yi5DNMTIIRGYIbKVY2tjhqqgL/QtQ0amJ9GQG7q028xizXJrO92Bpmxx/BtncUbo9dOvg=;KGpJt5GvljdO+xB+ilQGFw=="

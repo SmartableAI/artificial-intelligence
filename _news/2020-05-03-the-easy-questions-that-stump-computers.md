@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif"
     width: 570
     height: 321
+    isCached: true
     title: "The Easy Questions That Stump Computers"
 
 secured: "meeTmZTkQ5qpzO18q8xBFORtHVGIvsba4UXrHZK/DQ8RX14fqR3YvAq7nS346j3dFlwUODUYNhVa0Kgl7GqKK4dO81LSRgsVLUu04ACTJ4gA505O6DtXB4B2ciSpwtTQ3XPUjv+t/1i6Lu9KNx36RzKFxqPnaM2XcpVI1bLJCry0rrnbMPJG/fFOMYrYWlmo3HRSnsTNsKwYYsXF8FBpjEQqNQ3WFR2jEO15/AQAMZweteQ8Kfe+yWO8cCaRbvw1grH5Rd0hQsBEvs+VkREc8u2fMogYssnPdNcr49LRPrFifEv8/j9dQakmxZLT8QojcuATRsRa1rYm+5Z97WvE3+ZkSq2zCaXIc1T7GNoseb532xs1lkhw7zdGTSFL9dc834u6ncd+Kjn9RV+b548swsTwTdS4yA9lErK6hIpAEkI2DMozWhoCELLAJq9VQEqWc1F5saSWZzdUFUAALzTQcHjPCxPE7tzMI3QledHJe0U=;7MohlBU7ASScemkQmJF4/A=="

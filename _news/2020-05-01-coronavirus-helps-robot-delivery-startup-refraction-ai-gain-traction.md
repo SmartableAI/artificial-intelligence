@@ -23,6 +23,7 @@ images:
   - url: "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png"
     width: 1920
     height: 1080
+    isCached: true
     title: "Coronavirus helps robot delivery startup Refraction AI gain traction"
 
 secured: "OVx0+anaQLunvr0hn8yFbTCEYyrf5ndBTEce7y60ldp+96A4uwhtniRK53ZGl85bgJIla6bY/Xm9foKZbnJPxvYJzjDvQ/Awi5A5kC0VFTzbo9gewNci1HEyty5hZY9biTrHh4/7HTmWZqMd2kB+Hfou2PKtQwVuth4bi2fUGqM4Q5H7Q8QeN+j3GNDjRAiFv3YjdxyOqnsDkOgqArEYMtWZy2JmwTMUSTfF/8ko1jSuwzFtuK0XIA7iB+fTcmsuCqTxj19BdHyvELCUUUWwta6O8uwdL4nLH0s1bZvFUvGC2jR7PhMCRuLk0cXilmudT8bNdYXe8tVkmi3yAC+r14kcyVqvrhlh/641tE7/1lHCLDyBmtXdyMGMh12Vt4oXmyNht1APl0aRlD7yeH1DUzoR4EhRRFUaEPOpQb9VAuZOezAbo/mWG1zBW9WG4lo2MlC3dT9IHQsAkNZLkb2fEgfQK/TGibn2T++dTimhhr8=;EzsFWYkK2eoK0e/Y2LFEjg=="

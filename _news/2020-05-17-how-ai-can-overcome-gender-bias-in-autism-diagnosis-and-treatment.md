@@ -20,6 +20,7 @@ images:
   - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
     width: 788
     height: 443
+    isCached: true
     title: "How AI can overcome gender bias in autism diagnosis and treatment"
 
 secured: "tmpaBmfvlIM6+9FSZJHpr5PiBGaBWlRSMh1BWosdeMhHdJcxW71WeZhLTHSInLZ/a69twjgAUG27b/VFdCQtyJ02tF1faBZ2DJAFnc8Jk6YW+NrnKyGQ8B3WJntfA0fPifb8segqjs1X8OmjpBUXhi5MiXfCXje06Hk5qDY5jq6qxnVe3OpVJBzGOwOmpLfyyGBMGOorJxFsnYGEgjeJ5RuJhYJvdqm507Synpah3Xm5L37QAkJ58YGDs0iNl2DRBJiJmQsXgGmBh3pDuoKY9V/e1oE+AmNlWNttCEyUEYthfCIjXC1bXUA1oZ62+NTM;HsIeJewAMLNhyF6EbTkgnw=="

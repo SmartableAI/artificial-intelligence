@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1121585/Udacity_Logo.jpg?p=facebook"
     width: 717
     height: 377
+    isCached: true
     title: "Udacity Launches AI for Healthcare Nanodegree® Program to Grow Careers that Shape the Future of Medicine"
 
 related:

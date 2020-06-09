@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572202%2Fvolvo_luminar_roofline_lidar_integration.jpg&w=1200&op=resize"
     width: 1200
     height: 632
+    isCached: true
     title: "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022"
 
 related:

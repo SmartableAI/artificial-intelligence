@@ -23,6 +23,7 @@ images:
   - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20200515&Category=NEWS&ArtNo=200519934&Ref=AR"
     width: 1024
     height: 683
+    isCached: true
     title: "LIVE VIDEO: President Trump gives remarks at Presidential Recognition Ceremony"
 
 related:

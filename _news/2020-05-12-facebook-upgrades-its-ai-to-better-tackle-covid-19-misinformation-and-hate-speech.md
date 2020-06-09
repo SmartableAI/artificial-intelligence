@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/02/Reuters-Facebook-Fact-Checking.jpg?w=1000"
     width: 1000
     height: 563
+    isCached: true
     title: "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech"
 
 related:

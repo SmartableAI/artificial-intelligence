@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.turkishpress.com/2020/05/29033719/thumbs_b_c_43397154128eedcaba05a61de31a8ebd.jpg"
     width: 863
     height: 485
+    isCached: true
     title: "For public health amid virus, Northern Cyprus seeks WHO recognition"
 
 secured: "XjrPU7xJiqsR1FY02ORPiet6CqavSp6eY28/xI87rBO88wbdkaaLu5QNwTzPwMByXkIpsrUK1qUgVgUiRGEsdng18FSqDmqiYrh99OeOsHFrP3P5HLCAKbMk/6xgvJ4sbrPsLKoPAIvIk4iBtxKEad/IJJeu+Frfd9+M2XHf6vhxyr1IOXli63uUf/7DideltgBOtt9IhYPTx6/R/UeeAC9xFJz3MiA66Bl353ThLsykDa882sv8kEIEvO7RoezZMxAEymWgS0WHpJBY44tzhQrS+FNW8R31UgCKw34PuzJqDkVbtoGHCrWGzPWJRl8F2NElK+YM/u1sNzy/23a6ti2dVDXmBCTUJv0sJSO5jeXA6hPCO1xpGBzKKEsJvQaT8kTmoxJ/yifv0bRzN0EOrKmodpXZt4xBFYcYBrZtK6X1vyBWei24Amh7pL7DYjla6NV046V0rh7fwUlLRD+lpkc8NVXjPiPUwd7x2/YcjXw=;F0rsjkWI1U1cbHv6jRn4ig=="

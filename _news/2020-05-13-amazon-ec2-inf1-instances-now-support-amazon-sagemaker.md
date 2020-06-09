@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg"
     width: 821
     height: 439
+    isCached: true
     title: "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker"
 
 secured: "WgwHtvwl9BZuv2FM3sLM4DFmKRWmnZQmlQZmzL80aqu0aOa4eLTFT58QHXpq5xdIPXoRVzB0iKzOJpY2rZYxPHcB1eRm2uJQBIjJ5B9Arn2K9xQeCwlk1AoN5SKs7BhERNXdYP9Cx33iPEOpgiXAf8n+DoUYcSaMeAigYFu8fzOPMWCvj3D8ZKnY9MUGRRlMLeYLbPoMsqwgzq2rF8qJJMoVjX/uHV9r7hpK+9vDvGABxftinvgNfGVZ4LMB3zIVbAJyy6qZojCscTu0noC3cDO5gBB/2nFeKgjx4hCANxL6SrFkzDGUZG1eRrvO5zukBcagXAsgElYwI5sIG8LgWsLIJP3qxvKXqnPupRKlHH5abTXAIQpo0ZiLiAULupJjCisYOPdhnoahF4JQRFrV7wSafhZX9m6+mm0WwwyWiwtED0Cwslv6Uy66vQey9XqAwmudBFRDlvQjGU6Fr1I6Sr08pviELYhLNxG+sPtgCMA=;/nXqZRxYue1vfucdU3pUeA=="

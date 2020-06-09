@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/2/b094ec506da611eab285b7ee8106293d/Resize1-1588664204352.jpg?fm=png&auto=format"
     width: 800
     height: 400
+    isCached: true
     title: "This healthtech startup is using an AI-based solution to prescreen COVID-19 patients"
 
 related:

@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg"
     width: 1024
     height: 819
+    isCached: true
     title: "Are AI investments dead thanks to COVID-19?"
 
 secured: "61aU/zCAn9ZeItsqPJVyzOWokXrceUJcJ1FqdV+RxJjahS/PatngCjP9VKpUfTS/LY8GcUND0hOTc3Z42nhZVBC7xXRurU7ANM8/Deawo/h7Eur4y2aGoQ77TxnP+Ff2+7Uo1l5W1P1sq2Re/Osor/OaaybOZhpgTUDSssxw6J/cXZbmhH5MmSNOrriJko41jf/kCYc2lfeFICy1xiI45lPv61Dvpo547DZcZ+6ByhsR5YM6qaUaWERBYM7g99MUEtAbWItNKkd4nVQG0iqT6VCl+a77QGYlHMn/Or1lJeD43B+3mr1XL1XUl6rNOwJVB80GxiAPxQI2lt+8vObIlPZgxyZkSfFU9/sxyWlDA956IlVnGh8e+ssSrHneNPrVgyAVoQhoHjd3ej4YOOZnXmVU/6VO1AodJFasueQAVIBwQKlrUAefMRa/EAXa87HzqztxW59DOcKYASvNAKyEFzaOEMBPBXxfSL0zHeEkQdM=;L5Dk09UPXotRaCXGuEGZMA=="

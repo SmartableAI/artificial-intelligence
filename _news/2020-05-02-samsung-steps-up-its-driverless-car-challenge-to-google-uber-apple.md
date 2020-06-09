@@ -24,6 +24,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486"
     width: 3000
     height: 1888
+    isCached: true
     title: "Samsung steps up its driverless car challenge to Google, Uber, Apple"
 
 secured: "ghxoS1Hy7eQrCtjsaqEuFlMcyTjRU2jOIBJz5sHrTGtBFSN056/ZTb5vcoE61NeAz7HTOygmkjjfnETr5IcEXaqSFQBOi2IuDFdW4lWhz9/knb5YsA/hBeMjnweQIN/FnExlLmIpkUeqxvcXJI3yxNqOfd2L4f7LjF0SMGYLGvz+OnNKatZYl4bQcrweqGuQTSWJq4+XS7Dw+9/FQUeksitbBFxv+jtlf6xg/ZecXZ+S9/VswGTPtr8d+G5dY+/L+MccbJwlBclDViAhbGdBAoLD8thJj3+5PO+6kea5mFiZetGGgom9w2cpZI7qTtCY;Ms/kYYKGsMDeX/ub3mjxjg=="

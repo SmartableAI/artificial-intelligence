@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all"
     width: 1200
     height: 630
+    isCached: true
     title: "DefinedCrowd raises $50.5 million for AI data set curation"
 
 secured: "ZFdPZ+NpOgxWmEwYD+PKLjCTSQWD8qfqVKojT5IltN1LRq2COl5gV5qfJTTtoRLl2bCskD7aecTMx/5Evlttx+O8QCM9/dOHm2nhbI6k3dQfiEECdIUT5Pw/FWgbmdIOgI5wjIOFnxlloClmFpXjWwUYRJeGGHvkWW5pfxxp9v06G4HBhi7dQNcGCg0oVCuEoUy7No7eAKk4eIqGR2akmCfUruKyFOeV1tpBmEgtLS13r3flgzFHBSnqkPNtlGl5VLNpMU113dc49fC3neS5G4WCNE/RlZ0Y5CXPecpM3XPt0VLykuZFEH8scIn7JLHMfYNiA+3vPOS0kV1wCnU2V5sG5qrjBvNBXkLgZlSiqnGuOFs33yRFcWyUTreDTFuwwyctEhB9EszsTP7+u57NeGx7xUJGRiRCfJMcOqB0mjPA15UI00nFsuof7CnjWXQ8+i7Ymxgtes1Zq6iUZsE7bZ4gKY3O7ebAusb2q+4GTi0=;42hdi+Z7bdelfCbG2Ei0UQ=="

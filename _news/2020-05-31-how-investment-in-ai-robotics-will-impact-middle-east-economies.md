@@ -23,6 +23,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "How investment in AI, robotics will impact Middle East economies"
 
 related:

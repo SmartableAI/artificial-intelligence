@@ -22,6 +22,7 @@ images:
   - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/05/May-2020-us-top-startup-fundings.jpg"
     width: 1000
     height: 525
+    isCached: true
     title: "The 13 Largest US Tech Startup Funding Rounds of May 2020"
 
 related:

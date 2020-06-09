@@ -24,6 +24,7 @@ images:
   - url: "https://media.voltron.voanews.com/Drupal/01live-166/2019-04/8BC3ADC6-AC6E-442B-AF2C-1BAF66529B85.jpg"
     width: 6100
     height: 4009
+    isCached: true
     title: "Somaliland Leader: Mogadishu Is Biggest Challenge to Our Recognition"
 
 related:

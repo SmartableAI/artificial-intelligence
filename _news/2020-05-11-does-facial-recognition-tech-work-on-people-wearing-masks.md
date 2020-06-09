@@ -23,6 +23,7 @@ images:
   - url: "https://media2.govtech.com/images/shutterstock_1685691625.jpg"
     width: 940
     height: 627
+    isCached: true
     title: "Does facial recognition tech work on people wearing masks?"
 
 related:

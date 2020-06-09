@@ -22,6 +22,7 @@ images:
   - url: "https://www.orange.com/sirius/config/orange_cards.jpg"
     width: 1000
     height: 523
+    isCached: true
     title: "Ensuring responsible artificial intelligence and data use"
 
 secured: "C2t8/HK6vAQZ1q7foA2b+KDSN/+2xvi7/WDO/WRjC3U+YvLAOt0nfEF4CscKihL0aFsk1xmV22/o5+PXQzsUGDKENRPDxCAoAQxCw1l76Dj26uCw5WPRzyuokMt9Q5k4hI+XcyEdQrxMuJBUJd+ZXYX/ISunXxENl55TKGfcP+BmlegNJ4Tm3bNr2m5Ota0O86R6TKteKOkvd5K+Ni2wdqkclzXY98bTQGAXazYQUlnNePX+o+B7YRMW4c30RMBbZQNKOlGAEZCmjfAY6+goB+DkwuLBzvlpb+t4BLa9wT6EneZ7KfyZ3QLpWiDKpj1+;hQIjRaHhnymloSrD4ETTnA=="

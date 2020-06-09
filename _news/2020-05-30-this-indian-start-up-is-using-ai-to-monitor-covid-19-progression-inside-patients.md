@@ -26,6 +26,7 @@ images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9"
     width: 600
     height: 338
+    isCached: true
     title: "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients"
 
 secured: "/S/FBIA8EDI/jCKzhEkfmqyvxJMwDuyr1bnwVVgKYN2/wcsBo1bAAo9XvEQ6NKb2dyqcnkOZRIcMEGRWbF5kkAhzHycoGJZ1bUM1UfDUwElhtyDKBPbfdoQZd8Hqqt2V3JQixZqm+3YpJNJ+kGe0tiRSEWRNlZ7Np9+j/m1M601x5Xj5As5z+Pg/BdSblxtB4ipQvddaP5ldhnU9uIRSqz2ykwlV/qoEXqQPBiCnxZ4VJyXN7SsHXlc/X/5rLM+sj2BRcb2FEkARUWDtmkq55Cm5twWLjjAgsBUMniZAGNnny8pBsump709lixI1yvTv1OSv8wxoPzxvk+chjzzEFb9iy46MP3N9foUCCQlCdzr9C0eAW6SJkCiqzBWyrScAMr0Y+DxGG+hKPrAMB9mhRZSJc36CJvXyeVGNQ2AU9ZRIAI8xgVaGhq1Wycl30vEAlAfaRvwbfmr85SdW8WX7R54p0/Iwz30/B2AB4Lan0Gk=;A1WjhMVspovL52DyWGKcig=="

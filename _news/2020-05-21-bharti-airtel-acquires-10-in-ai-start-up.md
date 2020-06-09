@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Bharti Airtel acquires 10% in AI start-up"
 
 related:

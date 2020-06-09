@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Facebook leverages AI to improve kids’ safety in Messenger"
 
 secured: "xOn4C9RkUJ9TL2eUe86USh+1Fh2Xm5d73BMn34BGzCFIjlqp01mvJVyvK5DrKF0hOms/htnDvWtGYPF4UPA3hPDJNvs7auFIpvs+xI0W/NlQnCT7sxwnamPG4agg4cMPVNJuiqDOF/W3zJahx1HZwqNdn1qxEcqV/ZiPEKEsxQQ24I0vICa1H7XpLFMvBfVzGTyzKYUP0KkDCwF+OzfmMH39PTN/3ONB+Bjl7QuhcY9bMh4UKU4Oo0W+kyZvOKQ5u/qc0evhC1EZrecHHiYQtS3BfA4UjpR95OyvkdQVxVdt+YKWH3cTVs566GJUzn7gowL5iuYYOtWIpU6fxdCp1yLUS8j6PXCV47l1ozjLn7oz0SVqgcYfCmPB55FmtWQcmy2wSN+x7foZmqVXZJgN6ISB80Lz4DFrk+cBgepgbY0Km51CcK9Jac123OqaXNWLH9oe34CKfP8MJAl7gafc6IhWzGX8kYyGMnJ2vHC6+sQ=;Gb+lE/bWtdcp5MSvMZI94Q=="

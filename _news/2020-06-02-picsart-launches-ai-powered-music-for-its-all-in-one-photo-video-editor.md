@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "PicsArt Launches AI-Powered Music for Its All-in-One Photo & Video Editor"
 
 secured: "9PEKvYW7kW42aLOpuxg/8Q0fp0uTqBICxOgyNYbwHMpFf0s1GK/NwoUZ6g09RmV8gcZ9WNlj/et1CrostFxZDTfbk+ajoNz8/FCxR5YWe3ooZRZ/sZ1QEkqb6LG+DMV6gu7bs6zjJrU3Yh+rIaEIRnr1qorEJicZHSTcZSST8uvNpe5XPBmQ7W3O+ToTg7NKs78zXnWrStVyU7NDIwenU9k8M3MQpHhLloo5yEL5TUYptggC+vSnfjWOynmIIfeZzGvuJp5H55EIgv2mV0Kj3T7u2it2w2TtYb1rk05rD9DtbxKYgEz9uvv/XUMPBj7/;Yh4SDA7zQFkV3X1b97MQMg=="

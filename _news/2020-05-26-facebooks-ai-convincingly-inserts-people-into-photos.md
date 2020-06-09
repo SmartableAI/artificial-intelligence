@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Facebook’s AI convincingly inserts people into photos"
 
 secured: "7sTm2ZP5MpslCHSl3rLESJmfr5euF6LSB57W0it/NXQuJr4A065GbScfZwR0VnS3QUl30sd1o8ZkXox4WT8J/evOusaA9IFykA5azDlB+vIg1pnKaQ0h0XAt+Nl+qaq1Ok4ZSBQE/x5pufWohv99/OMW1uh9scV1uwricQsj0BQwFLWj8fTtmdpINy4EaymDFxmRQcnvs7MvdluoFUQUz7eMg7OLj9Si20FA0d1FNlvUVfZI28qunDh29j+zorcUPWyq0VXBqMkmDVIEpTA+Y5i/+ifb6ZNBuN915+0d1Dwi53oi2VpPIxVOV1bY9xSfLLxTjq4K/SbFjRKrZU0aFaAdrBTHOeoVzzWMmFOhjAn/MN9o4IBf5if8TBH2EqonzVqeAgacnKfhbTnJaNyejV1OAeWu3CQLklKXhK7WdUkXz65NfEUFLl5P62ieCzYavz+k07gv+j9nsrdRjEdBJCpdgkVxrR/9MLjyx91kj9Q=;rFA8j7Vp7KGqDz3ap+28UQ=="

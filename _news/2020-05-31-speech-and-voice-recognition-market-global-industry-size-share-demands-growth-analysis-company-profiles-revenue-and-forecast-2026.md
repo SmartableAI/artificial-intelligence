@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Speech and Voice Recognition Market Global Industry Size, Share, Demands, Growth Analysis, Company Profiles, Revenue and Forecast 2026"
 
 related:

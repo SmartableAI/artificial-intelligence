@@ -23,6 +23,7 @@ images:
   - url: "https://images.medindia.net/amp-images/health-images/artficial-intelligence-predicts-age-person.jpg"
     width: 1200
     height: 1000
+    isCached: true
     title: "Eye Condition Behind Vision Loss Predicted Through AI"
 
 secured: "MOyqd3PDFwuG3VfvUQTwkx6sRRVrOpqLd3/hOKEKrPAO9tr/V78x0Hw8VMfTdELBtsFtnn8Hd1PhQ7XAJU2EgE5i1doISBEKqmy/rkMJoP2oB0EQvJEU1TbDPcz9y3lioDGWQi8gP+0Jmvko1zYPaRqYCr0wy/SIBNzaM1kJ0a7CuOexjTnsJ9qEBAdhFNxiB196DZM/AC0wV/nY10rie8JBdYO0AFl2Qz2pGc2yiG6dLKic+dh2yt7BXOFf80Su7qkDw0R3RnIdQEaZPdUUSmc8onJckeJ6reJhW5tvrsDAf3GusMEDlvC5Qk1ubEyc70y8MSIMA7PLB0pUdvzFz1KvDBBusentnwzQiP/rt0hoPVvYm8CWv35VrwszP4APpTulLizzahujR5fshezPZ1A8hx2URki0+qAQf8jmZd6sZdsQMlgO5r8oeXQG3sQfEhhxmLIkuhS2Z3XoBaJIInfNBAsOiSsv9uGYRsGynXw=;rZ7w8ZthskYWP/vjchVbAw=="

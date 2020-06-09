@@ -23,6 +23,7 @@ images:
   - url: "https://assets.lifesitenews.com/images/made/images/remote/https_www.lifesitenews.com/images/shutterstock/facebook_icons_810_500_75_s_c1.jpg"
     width: 810
     height: 500
+    isCached: true
     title: "Facebook announces progress in developing AI to silence ‘hate speech’"
 
 secured: "nPQxSb/X7DZdS4tns2mb2Pwymy759hnz5NumTgr3HB6x6z3GXnZsdV5zegAOpBA7IMj5HV+KTcCPIcstb6vtW5+e3i9eow7IRPzvAu7cTjh68VYfEv68hSCnWCOhButmGNAMMpv1ZXyzJtzuKlDF5m7EmNQRsw27uncld7zk94TJd+nfnw5xc55DQ3alGxpjPAJN4PqUk2HxssoyEu9tm/BBqZbvLW6ReCBQqaSERXJPMhMpyLSDa9yErA/UXAtiMc29le1wa/ZgVgbJPwwtJ/NfeTbZRi/DZR3c7UbfmqjYLB5p0ZzaOHBz1HhQGWb+HxgtvI4yRsH1TuZROcPqnMLNv0WH95MXuBa1g9i2gc1bWZxkRSAmGBNlAlyC+c4o4Vn8c8ULeDmOD0VrTmBvwe/+gsba4egaWUJ712r+N3sKDSRHlO1Std/Lpn4VPiTpbLy2//itCoN4/wFT1K/c8AXFQF+3z5xGeqTir8U6SEY=;W1tmHzNDvZBXn2sxT1GK6g=="

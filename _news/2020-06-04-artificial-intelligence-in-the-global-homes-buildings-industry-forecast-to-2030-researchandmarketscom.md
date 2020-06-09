@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200604005312/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Artificial Intelligence in the Global Homes & Buildings Industry, Forecast to 2030 - ResearchAndMarkets.com"
 
 related:

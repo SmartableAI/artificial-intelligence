@@ -22,6 +22,7 @@ images:
   - url: "https://pmcdeadline2.files.wordpress.com/2020/05/artificial_season-3_hero-logo_4k-e1588804843763.png?w=1000"
     width: 1000
     height: 563
+    isCached: true
     title: "‘Artificial’ Returns To Twitch For Remotely-Produced Season 3"
 
 secured: "CtxNcFi69k25HE8BtUK3p7Y4vPG24ENj/sJ0ZKWhZfU3ibMKsyMNpLBRm8A7MONH+FZnPpxNwrSKfzjgzTaNk03BfvtajVagUAoy6GwfMzePR2cnKaKYjWdBuwNYHETfEZic1BylRJCH77hG980aky78brs2eyqdUPD+RSrq5xYeN4Z2BpnmT0XGcORaVspwYrcmmz3swgW5pyYOdIyszRxfelF0dT1RdVZd76wpdrPDo7MFGpPuQLDglx0JRyUhhI1BkNcd2K/bTPWvzt6JT0NJYegtyBV6PRy0M0XPVva1A8FPLrYRAHG2e+6m2/LB;d+F1QMMOzXwYDWNUIK5gdw=="

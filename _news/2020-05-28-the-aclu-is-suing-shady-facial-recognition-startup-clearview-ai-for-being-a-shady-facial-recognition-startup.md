@@ -23,6 +23,7 @@ images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
 
 related:

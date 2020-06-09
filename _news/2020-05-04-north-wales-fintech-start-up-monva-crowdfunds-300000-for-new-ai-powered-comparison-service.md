@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "North Wales fintech start-up monva crowdfunds £300,000 for new AI powered comparison service"
 
 secured: "60EUXJtJmTq35JEae4wrOPyflaLv7aVd28q/hYSHtxi8uVw3uZkPfrqKHmRDx9JM6NjbFGTrK1mn7laRv/PQhqTdfnRgsJUK8ouCV8a+5Eq1epc5DTCZRiJj2hlFKcvWxcv3jGvvX0tlg4SbJC1m0tpSypTx24UaJJuHHpmH0L2RMRnHPjiw7niwS7WOfQ6cN626p11jeuxSe/Gc6FjLI8TZZ5jgusxdStthnAsIPcszs7gFwvx6XX9v57AXxRAT3jbfyKnJP/nfMwIfYyxSor5eVjQlBTFHes7yWHTzoe88b2iRLY8aimGYwZB4OTuV;92dTM12BtXLFcfoilKO29A=="

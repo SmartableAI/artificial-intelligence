@@ -23,6 +23,7 @@ images:
   - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/siri-how-to-set-location-based-reminders-iphone-apple-watch.jpeg?quality=82&strip=all&w=1000"
     width: 1000
     height: 500
+    isCached: true
     title: "Apple acquires machine learning startup Inductiv Inc. to improve Siri data"
 
 related:

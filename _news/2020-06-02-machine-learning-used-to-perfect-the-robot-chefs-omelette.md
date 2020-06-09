@@ -21,6 +21,7 @@ images:
   - url: "https://insights.globalspec.com/images/assets/312/14312/omelette.jpg"
     width: 1440
     height: 810
+    isCached: true
     title: "Machine learning used to perfect the robot chef's omelette"
 
 related:

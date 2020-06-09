@@ -23,6 +23,7 @@ images:
   - url: "https://content.jwplatform.com/thumbs/SeTUsSON-720.jpg"
     width: 720
     height: 406
+    isCached: true
     title: "Amazon-Zoox Talks Are Another Sign of a Self-Driving Shakeout"
 
 secured: "KMAWinymOoYC0TJx0pf0a5KdTqQ9oqRmmLVPliyBHZ4A+ZWbcDHstKDKjxsDqgHDo4HLj21Mln7BzBDsSdhaoElax8jJaktBWGGaclTuer8eaz7NoiBDZeXqFOhKzh3Hzk27DrOEQGflX1xnoUAGwicvX3xqJ6VoWQnj/xkNVnkCzs2/QfkcdquelD8GY83ByDQ0L2434NdwHkkXaKKz7KodegXZIiXra3FqeswH9baJ8ps9UErqMoioloFz5q/CvvkGtEUuPQCqY8mbXy6QV2gRpVshyNhh8mzKSdhyD7WgqSB2NfCpZZHEGXqY6eWB;URdAiSsflaqOghfPP1q2Nw=="

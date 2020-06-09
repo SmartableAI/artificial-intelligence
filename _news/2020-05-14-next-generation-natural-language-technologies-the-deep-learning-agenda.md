@@ -22,6 +22,7 @@ images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/130605-520jh.jpg-ORG.jpg"
     width: 640
     height: 320
+    isCached: true
     title: "Next-generation natural language technologies: The deep learning agenda"
 
 secured: "xRNtSqnKXJuoYzbR9SfT9x+8S5j6pqj69S5g49d19047zaTdHHX83Kf9q9phV9MHXViGI+8J6C1faftZtQxRTIwI9/Z9yMqiWMj9vUxMLarLiRR1r6Btp5Bong2e1t6lI+8jNSxtu99fiSQhsGWZsUYHzdbhXBMS6o8Iq2NgbuV/vykXeiITpfUXgf+Sud1rQN5ZU52shTQwD1aR5zB7asonhOxzisVno28TkurqCc7TsNnpFaU8ds407gWdxodRRgjAcpl7Cq8lc84MdD9IbvPVGQ6pFKLPUb/LsJ7t90XJXKTOvxjhrcRFmhtyACbR;hxICmRe1KLNmZvY7/+wWdQ=="

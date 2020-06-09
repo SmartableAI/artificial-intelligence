@@ -23,6 +23,7 @@ images:
   - url: "https://images.moneycontrol.com/static-mcnews/2020/01/VISA-770x292.jpg?impolicy=website&width=770&height=431"
     width: 770
     height: 431
+    isCached: true
     title: "Fintech startup Zaggle ties up with Visa for innovative payments solutions for SMEs"
 
 related:

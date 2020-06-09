@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
     width: 1920
     height: 1080
+    isCached: true
     title: "Corsight joins facial recognition market with launch of global operations"
 
 related:

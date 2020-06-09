@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 800,
           "height": 443,
           "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1056,
           "height": 484,
           "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 1200,
           "height": 583,
           "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -161,7 +167,8 @@
           "width": 581,
           "height": 201,
           "title": "LTN Global Named Advanced Tech Partner In AWS Partner Network",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -198,7 +205,8 @@
           "width": 400,
           "height": 234,
           "title": "LTN Global enters AWS advanced technology partner",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -231,7 +239,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -243,7 +252,8 @@
           "width": 1200,
           "height": 675,
           "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -277,7 +287,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -289,7 +300,8 @@
           "width": 800,
           "height": 608,
           "title": "Omnichannel personalization with Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -322,7 +334,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -359,7 +372,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -371,7 +385,8 @@
           "width": 1000,
           "height": 414,
           "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -404,7 +419,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -416,7 +432,8 @@
           "width": 1200,
           "height": 675,
           "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -479,7 +496,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -491,7 +509,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -525,7 +544,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -537,7 +557,8 @@
           "width": 821,
           "height": 439,
           "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -603,7 +624,8 @@
           "width": 1200,
           "height": 627,
           "title": "AWS Announces General Availability of Amazon Kendra",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -636,7 +658,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -648,7 +671,8 @@
           "width": 800,
           "height": 406,
           "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -681,7 +705,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -693,7 +718,8 @@
           "width": 800,
           "height": 284,
           "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -726,7 +752,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -738,7 +765,8 @@
           "width": 1000,
           "height": 600,
           "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -771,7 +799,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -783,7 +812,8 @@
           "width": 800,
           "height": 566,
           "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -816,7 +846,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -828,7 +859,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -865,7 +897,8 @@
           "width": 800,
           "height": 500,
           "title": "AWS unveils open source model server for PyTorch",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -898,7 +931,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +969,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -947,7 +982,8 @@
           "width": 1200,
           "height": 630,
           "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -981,7 +1017,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1022,7 +1059,8 @@
           "width": 1200,
           "height": 675,
           "title": "MLS Players Can Restart Individual Workouts on Wednesday",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1059,7 +1097,8 @@
           "width": 1000,
           "height": 667,
           "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1092,7 +1131,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1104,7 +1144,16 @@
           "width": 1260,
           "height": 630,
           "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/04/sagemaker-notebooks-2.gif",
+          "width": 1000,
+          "height": 463,
+          "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1141,7 +1190,8 @@
           "width": 1020,
           "height": 573,
           "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1178,7 +1228,8 @@
           "width": 1200,
           "height": 675,
           "title": "Stats Perform Hits a Bull’s Eye",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

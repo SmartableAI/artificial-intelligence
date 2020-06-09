@@ -22,6 +22,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/wxktkQEWhcgX9cZ7XQtbX9-1200-80.jpg"
     width: 768
     height: 432
+    isCached: true
     title: "PS5 dynamic AI audio could blow away Xbox Series X"
 
 secured: "TdeC+VcxosArhA+kH2poeSr0TxzCqI/Zg/83l0BRmhJIYwXjYDAVA+DOJtaPezp7uaxatsOQaIe6usZxV7KCETNpFfVrbuait0z3IukemGSf+N81BGj7TnsIVJNZSAdMFokO459XDUkMPwbHx9abuKoZRlW/ypT/PlnIoceiFmv/XOrJjRCLK8p5TGvryPKi5jfe42AKF8HZwoOXYxBUgL367FJrPPbikjjqCopq15ns5KSjGAFAxAX+66djaAW6B6BHOVI6m5kCfFGEqaxVzKVppPDBhgp9M+yK+SK43hZyaafMWc768N95dSG+rcz6;AoJmDZOusWO5eLRCGhsEdA=="

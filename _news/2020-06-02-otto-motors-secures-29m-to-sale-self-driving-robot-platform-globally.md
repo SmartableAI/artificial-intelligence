@@ -23,6 +23,7 @@ images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/otto0601.jpg"
     width: 1920
     height: 1080
+    isCached: true
     title: "OTTO Motors Secures $29M To Sale Self-Driving Robot Platform Globally"
 
 secured: "JIm/IrwMZPZT+XZZbQNS82QVaOFePFVDJotli7oQyQOcUddoc/fYr2Ep1pO4/tryeNumk3UGJr8/6cBS9p5XPeONJUzUi1JqcsO2kXmOfgJUecxvHM6YiQR4d9HtR6GeuZ2Mm3HiFqHQTTA6+yxkFbwFdl+NYrJ9CwYutBBC3OK4cH1gefvc49tXQe+XuTuBwhG8o6IdQbm/FseTKCl9LvBJUcOBFromqPkofzp/+6ZwqX7r2zEZCU4WR6cLjaDwI/ese7q++hIMn4G/Fh+z7JlrLFM1YOOlkLKLoFGaPWxur7tVgUn8dlT9PdfUYjuJ;qUdauGHzCOTlnOiCoKwhrA=="

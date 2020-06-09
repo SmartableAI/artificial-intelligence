@@ -21,6 +21,7 @@ images:
   - url: "https://www.heraldscotland.com/resources/images/11436503/"
     width: 2400
     height: 3200
+    isCached: true
     title: "Fintech secures funding for next wave of video conferencing"
 
 secured: "JkGzQdyw0iYbg/5Es8+iE1F8eOEtyWEzHNssj8VU2Ne6IHlF+y4c/O/Dqvf+mKXL72nFwTGTwAlJYcylpSDy6udya74UDLe+sLB/Ye1X2kcSKKtVo+vcUgwavmZ23tBQy8oICF6XC6sAuOwASA8IZiDs93pYyuNDdrPzWaJW71fotubd5hN9kSfMHe1TVD29ra6RIc/ipocVNm1kBUtf2YS1zVSgfRIW9m0mPAv4o76VGdHzpEdpgANIyFWQ82l8/+VGuQMuy1bmnNh0/f/pd/xrxstlEgQwpGe/qpwXeAucNfXXu1PAtaVfNwvehL1r;aEZn3/xzfn3LoyAyoTYnsA=="

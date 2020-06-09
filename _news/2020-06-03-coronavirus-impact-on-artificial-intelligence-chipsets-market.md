@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Coronavirus Impact on Artificial Intelligence Chipsets Market"
 
 secured: "8bcjebbY6gUk4x2sOg1m5hkDWvEbAlOvTcj8Cm1c6jtolOigzR1jI+1IjMGKx2wlPZ0n20KqNk+Rzb0XBz1QPBXoBgqqfpGNJgebM64yyzKkYMnbly5ufLn14WjrJDLlboZs0xrAvSYCyM6EDw1+FtQqr5Rfy1tChuPhLrgrgr/6cMiFgEbMUxn1cfvP9paHttJQiA4hi9xoVbX7mI/wxZkmSbYxysgZnqJHVIW3XQ5EULYqrRVc+9YQVTWHlgS+oupptk3FOL1iWJOSpAXdkNjn7OkflOO25p/+CCQXdF2TgiQum2MGWbxy+5CHGsyy;RxGv268b4prn6XVG8IPdAg=="

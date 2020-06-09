@@ -21,6 +21,7 @@ images:
   - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/16/20/Miscrosoft1601a.jpg"
     width: 2463
     height: 1642
+    isCached: true
     title: "Microsoft moves to 'replace journalists with robots'"
 
 related:

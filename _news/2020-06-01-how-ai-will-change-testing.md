@@ -20,6 +20,7 @@ images:
   - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
+    isCached: true
     title: "How AI Will Change Testing"
 
 secured: "Rwz3KzFaMEvaIqjtK3ilh+35fbzsyOBf463RlWPKk7/GAWqomeDR2cN/pVaFU79JNiQFP1WO3L0lrPg1l97PWYOrRCK6Hb0g8A59fQMA3n+SFctdxx58BC88HAwEwCTBzZMkgf10o4elogZIC/iCbH3Mtko0uBU0cyWLoMwqhhiDJvJG2Y2+qfTVzhhzvz+RH34CiBAp12CYwAUNAd/W8PTeZ5dQlRHUjkl7J1Auc6xXr7i/JxeLR3g/hXhMPbRHZUI4x5edLiBbnFcdY49aq5R+c+fgdmQTQLcCR6ePpAAPiWRv4Wf+lGDDz9YfhJlh;K1lWp+LgRjmQf2H10sA/ag=="

@@ -21,6 +21,7 @@ images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/B94F1DB1-163B-493E-8890360145CAE2E0.jpg"
     width: 790
     height: 497
+    isCached: true
     title: "Facial-Recognition Technology Needs More Regulation"
 
 related:

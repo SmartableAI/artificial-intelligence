@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Automotive Artificial Intelligence Market is expected to see growth rate of 37.86% and may see market size of USD9537.46 Million by 2024"
 
 secured: "OR30DFTWTDTPpFgHfrS8aWOQJgpWjO1uDYIYzWBDpWYOwNNjBCz29EbTsMqVAQlTAsSKQpv26rhLMpbEmwXYFd5R9Q3MrnuvPcXfsO6DGUF+Wm09R9iPbu7QxK+7FutGlx55Fo7dz18J8X39SF4oU3WLMufX2If2fdhxwfxoBGnohuKjMo4esmfMKI4lAJtZa+57agiNHRM+GNzmdhXcXZtg/cIlfwyG6/hpkOKYv0LOts0UT5KC3AOXOxR2UWsFFsFljHXx1v3Vv+9RHKVh5rNmZIWH87p0IeLxd3V52XuOZUYE1R8fl6zJzQ0bXz0T;1O1t/JDc4+wK2wqxXUXf1w=="

@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
     width: 900
     height: 499
+    isCached: true
     title: "Fico survey shows support for biometrics and mobile banking as financials adopt voice technology"
 
 secured: "/X9ia6Ekhfhgj+HUoyXD5WfgJUNGVfSWoe+6VTRMfeLgGm91SYRRmmL1nI+6wNcJJQGO3Q7Zs601lu8yCNKA/2MtlQG/RT6oZAuXCzByV2vkVGi1SC+hTNY28mHXnk+ZgTGAVbXExGEuoSj81sGXBxSbnXjoykPQxe2ytrIGC4PnleMyNM7iumc4COtIq4Z6jmafhRSfWOKU70yEsuuefk6W0R5xrPyld+tMDs+bUNxWVcITsPAj5EtL4NlRD7nYMu2tF3abj3vtdJzvP8WPiAhti+62GifJyG3tRi1KvssnwXu/t73RkjSiK+AfHgQ2;6ethRVLx5VWHYQ5dMstDQw=="

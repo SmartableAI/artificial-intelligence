@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
     width: 1200
     height: 676
+    isCached: true
     title: "Amazon Launches Kendra To Solve Enterprise Search With AI"
 
 related:

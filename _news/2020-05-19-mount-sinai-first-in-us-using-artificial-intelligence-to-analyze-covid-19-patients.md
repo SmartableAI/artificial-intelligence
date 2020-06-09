@@ -20,6 +20,7 @@ images:
   - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
     width: 900
     height: 300
+    isCached: true
     title: "Mount Sinai first in US using artificial intelligence to analyze COVID-19 patients"
 
 secured: "wOfJh0g6Xuv/zsQlaXm0bV+PwCxBV2gXn4/Rcvzht7t7MgR8+PP89Ubbwu4ndRTBiKEQ+CxnaxK6XlfI/qKMbAhlj9dNGQzs8EAz6e6ZxSTSJ9Zv/XARCW9njXoC2HfGl4VYGaCVxNhAcnwUe0n80QaXFMHNQmvCpKiiYfRy8GslwNDryX4fYKKDqHEe9CjyNl06jpNVFklV/Gays3TRZQiWMitBuBBOCLBD3yncLVWwE+G1+/BFCF7awLzoLQK6j0UC10U6z5BuWA2aADnVKTl+gssyJzmrAJzveCbDw2VAcOI0MpZsGFqMPE8p1UCu;M5V5QwVXP1J9WecPx46VRw=="

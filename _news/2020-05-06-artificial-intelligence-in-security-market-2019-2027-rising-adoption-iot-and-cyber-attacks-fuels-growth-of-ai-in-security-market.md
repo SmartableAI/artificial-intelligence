@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Security Market (2019-2027) -Rising Adoption IoT and Cyber-Attacks Fuels Growth of AI in Security Market"
 
 secured: "gdP9uK4U9vOHwsDTRBUgnPmNbp1DcGvKZhTAvHK5dlzAuaPEB3/nYvFUQwtu5tJzd8HIhyGtgG3dJvloU3YbWOgr8MZCKTsNLmXM+ItI3q1MsS7aFV+rwR5B6BOPRk/3wbI+6kGLEGme7oY/VDjTWjKftcupVcjIDd8iiGsYIAeixgsE+vPNYZ5DvCKYuc3FV0AJlUDHQ5T5QU0HD6joznXjoo1Rw93qhYDdw1t54tzMKReJRi+FWniUuWvInedW3MxX0g2UoTdU0PzSA2DLxdf9yZ+HBPZwk2S3PV3pZrb6Kdw+RAbnROmeVVyfXqaH;sM2Q/Aof6CtjngzKbk+VIQ=="

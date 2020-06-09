@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Automotive Voice Recognition System Industry 2020: Forecast Up-to 2027, SWOT Evaluation and Development Status"
 
 related:

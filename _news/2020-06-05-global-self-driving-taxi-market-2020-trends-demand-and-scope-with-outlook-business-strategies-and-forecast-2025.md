@@ -23,6 +23,7 @@ images:
   - url: "https://navya.tech/wp-content/uploads/2017/11/40P2858-1024x683.jpg"
     width: 1024
     height: 683
+    isCached: true
     title: "Global Self-Driving Taxi Market 2020 Trends, Demand and Scope with Outlook, Business Strategies and Forecast 2025"
 
 secured: "x0HlMlCE3uwPNamBmsFPGjdyYF64S3aegv8nZ8CFh7hza9FBstraeY7zU2BbjLVPvDXhebbK9OLw4ArWXEanboANx12KbdzJDjxlHLnz053PELIGTYBAKn3oynFxJK/eCUdGuWPoYQgaJlvztQ+8ekXkd7pMDusA2Ppn0cAXT0zG50b2A0csn/2sVHic2Mnnj+Q6orqWmfsVh+KMGpXHaHrSxkGB1qkJYpK3BGCTcEl2x+Ke7eGSgxoun8RkguCuB/9QqU+QENnTHjRtKQb39Lem3r20j9JJbS6JyJo4AP4lzEloM1vBhgTawbuyLao2;GDVntM40fMWBOPGfVqWLaQ=="

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence In Fashion Market Segmented by Top Manufacturers - Adobe Inc., Amazon Web Services Inc., Catchoom Technologies S.L., & more"
 
 secured: "Yw2ggVtA9w1t+baDaexbKsG8pxVQdsbbvnAE3Dljbsr1T866GO4MAiiDyl13Xads1gtExX+A8/SRajtz2crgzUaovLKcHE3AHmjkCPY/F2bX4b/FSnpZRQbhA8XemhcBPybBUx1f09lsFmiuRTJzHj5VLSbnYoPYhEjfXdce6hsrcLmshb8gtLF888ptNklKLFs1ACdKwcxnczalg5xqyItemqfLSCfB41FnxgTQaYfbpxGDszhqti7RF5IFlPOq0mnay5qZghvaMr0RF+831L/282D3zWk0hzfuMdITZcjZC9EJ0PdudyHZFBnM0eM2;AVCvbGHVm3zyNvPLjvt7IA=="

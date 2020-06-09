@@ -21,6 +21,7 @@ images:
   - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/05/self-driving-car.png"
     width: 1280
     height: 720
+    isCached: true
     title: "Self-Driving Cars are Getting a Trial Route Through the UK Spanning Over 300km"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.dreadcentral.com/wp-content/uploads/2020/06/MetallicAI-banner.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "MetallicAI? Artificial Intelligence Creates “Metallica Song” That’s Pretty Hilarious"
 
 secured: "U+H+rb6NMr7dlcsSEAl9v80Q5yAJZ7Ax6BSxiDBV9/u1Q5sAtsVA/JXQcGMtj6QHWLf+u1MdF7bFleVjOBzIBmzBy1kQNGBG2iHyRdBoaheWJct+H7quV9rKyJw1cXjJ2bexvwgcuw44r1Ml1q9AXNr588hKJSufeIOaAoXOPpLCtDeHjyIuV8nGPvfyF9I7vN/SfgZBgR6Oi8d1M8g6izCk6yqG1OXc8jdZ+xqfsuFjGzmYbrJzO+IptRQuY9NUcEIId0pLHI2WGaEcIAOB24fMfB/uCLnz1udnFvsmpR6J4ITm8yVucOOdfrckm0dmSLiuskLIKNIEEfko6fdYbA2x5n+IZVkcLYY8wBDvGLQQoaZcOZyjSOLEVTgG87VYA03faGY0SPWBjN3jMhIQRhLpujSR2Fg5BywJ81/P0H4/2Vi8iVC/4aUQtuXrqFcOe19vXoCgJZlXG1S8jsEiRKqeS3k3nJylYwrIpJa3TSk=;TcSlwU1qZaBjFxHqx02vgQ=="

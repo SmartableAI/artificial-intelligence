@@ -21,6 +21,7 @@ images:
   - url: "https://www.jewishpress.com/wp-content/uploads/Prof.-Sarit-Kraus.jpg"
     width: 800
     height: 578
+    isCached: true
     title: "US Association for Computing Machinery Celebrates Bar Ilan Professor’s Contributions to Artificial Intelligence"
 
 secured: "epVfRDljTs2itGGWw2LMqudLl8YvjYXntGF3teNpNTfY+txLrDRogyhvIG1W+Ke2VWzx0Aori35SPO2QRTXe9orrp3WYI+GvhgZSWdWLXFhLqG+6K6TTeZZxLYjwz0+9ihp3UH49pyRbd/EzA7POKDxTBKyW2yhLzlmxnWcqmKVPfbs1zA5ZLsGEOQIOXzSB6s6KnR9Ihb5xh/99VH3gum9yR2Or/LKLyyUqVtqutnyPvqZECHr/uUQAr2EhJVIdTaVtwkUe11UA+rZdKfSn4bB6JAXLS46+gymoR6+l2XpqbqBbGX4unC7JWGz3sJLn;1XRzvscnkCkz3ks3cLa65Q=="

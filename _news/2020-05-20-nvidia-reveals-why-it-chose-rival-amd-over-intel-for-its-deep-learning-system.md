@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg"
     width: 1037
     height: 598
+    isCached: true
     title: "Nvidia reveals why it chose rival AMD over Intel for its deep learning system"
 
 secured: "vBfUAzPn5aABB5lzVObAMA9VhEL08BmOJt+RCxBWazQ57vNQ51FUBrsWqIxtM4eBFDgB/pb9TGlQLM4Qd1DI3vNR+xTIreoij9qHcznLSqPjXsJ80HhR7kFCePlUiEbFmVVXKA3kiwcUsloOQupbHowCBb573wOazMGFtLydTQNbpZLFKriRkAfWsq6dBdSuM3LEsYl/0EoKKPJwW9ErrqDU6Xfu/xA7nhxzuj3cJdckBQ48pbFdtfHmmd+JlqxMyYx2hIrrI/ANGx5bWISuvcLMJGIpDxnAjN/bbw682zrdoClxZQPqaTb53C/iy91UBFJM5JgaH1Jcm/IaMUd11l6PxhjqTGSJNwSwMXgMwxnJmnLOohfOsDlK/g/e68JdW43NMOxglt56MvItzrzcakzWuNc+rG7pk8Ey++ldbAOk9LztTDR04Iusv4m2BRRwW9yO0f67EeTV9g3eW2nQYtXXaCsKu/8F7w8OYWVwSBQ=;CSB0o2/ONdIE6rd5LRAqhQ=="

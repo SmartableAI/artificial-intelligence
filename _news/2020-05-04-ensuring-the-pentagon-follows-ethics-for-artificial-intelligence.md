@@ -21,6 +21,7 @@ images:
   - url: "https://www.armytimes.com/resizer/u3xhgLEP7y5BqoXGfUiP9Vk1REk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/GTEUDWH56JAEPE3NVL3MWEG3FQ.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Ensuring the Pentagon follows ethics for artificial intelligence"
 
 secured: "HDHNRTmDdlaj8J98vNUXsBro5Wc/o/PfttGWguXZ4Niw2f9/d8J7Jw3uiMpLbtB+cb8SJUDCV0b3v3TznwjcWzriJMFTM7nk/9RFnl65gpPwr6g858PxqGIw+B5c1Ll0YkjpmlOKkMxVJq7r0AJrWne2nNueg0RiKq1yAtFYffVp5t0eOYebb2vj6Hc/zkMCZla9agwo4rm+RTqzPWfGN0T8S8D+tQR1PcPw/Hy1MmndHr6dlvq4YKAHlQ9UpL0DS40Si4VYzfvCAzOjZkzJ3qkQiNcHt0UPgMeUPSEnl8lKZ5ByFiyPBzTQs70unu08TIJQ/AL8k45cnFj6dFxLLnblaI+/YsjlKZ2gCUsyVO2ZbjGFYMtiips1Pnxx7JBrPSAmUR/ENzl1Xws0x0yYq/5ptLXyGFO6jEGvLRJ/aT0tfcanzc+SVmCRFDvI71iUai8rrPAWJaJDzhb90hOw/eWeg1WElgkMMjBxiz+DFxA=;yCWUewQIMWQ0M2V7z74HXw=="

@@ -23,6 +23,7 @@ images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtfoey3ogrxasmbgfcck.png"
     width: 800
     height: 450
+    isCached: true
     title: "Instagram's Robot Moderators Are Probably Just as Prejudiced Against Plus-Sized Bodies as Humans"
 
 secured: "i+fgclewCxoLz1MIvqKUT0/S8R96lHhmC5X9WLljScUrc4B4tcql3kbfsQbzNL7nYryjjsmUcbZQeJ8wGk4jhKTU82Ld2G44+EQnZp9zD9PUmQBcrLyeELuZkMYiATtqRbk30l4hURRqeKQzqhEqteMwbNqJlUAeoBznW+gkxLPmjIT/ov+yV08DmyvFkCqleuMlomkzX45peOlCOVgWKfGk/6ucNQQ5XQ8itWExBxFSyKt4ClEpJ/wGiUuzdEJ8bjHVgdeK6pMf6dOV1/JXntAJThFOcHDB9j/ObdqXg6+7RITTJsXauwgYmFR4DyAL;g+hcRVvBYdz0Nc7DEJD93Q=="

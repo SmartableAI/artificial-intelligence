@@ -2,6 +2,60 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
+      "title": "Intel acquires urban mobility startup Moovit for $900 million",
+      "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
+      "publishedDateTime": "2020-05-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all",
+          "width": 1500,
+          "height": 776,
+          "title": "Intel acquires urban mobility startup Moovit for $900 million",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": "Intel acquires urban mobility startup Moovit for $900 million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
       "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
       "excerpt": "The new series are once again presented by Christopher Harrison, a senior program manager at Microsoft, and Susan Ibach, a business development manager from Microsoft's AI Gaming unit. The second of the two new ... on how to use Python and associated tools within the Azure cloud. For example, the tutors suggest that students could predict ...",
@@ -22,7 +76,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +89,8 @@
           "width": 1200,
           "height": 675,
           "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +123,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +136,8 @@
           "width": 1024,
           "height": 598,
           "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -116,7 +174,8 @@
           "width": 800,
           "height": 600,
           "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +208,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +221,8 @@
           "width": 1200,
           "height": 675,
           "title": "There's more to usability in AI and IoT than you think",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -193,7 +254,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -205,7 +267,16 @@
           "width": 1200,
           "height": 600,
           "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -270,7 +341,8 @@
           "width": 600,
           "height": 400,
           "title": "Facebook AI open sources a chatbot with empathy and personality",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -303,7 +375,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -315,7 +388,8 @@
           "width": 1200,
           "height": 1200,
           "title": "Tackling Cybercrime With AI During COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -347,7 +421,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -359,7 +434,8 @@
           "width": 1200,
           "height": 563,
           "title": "How Should Your Business Get Started With AI? Begin With Why",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -392,7 +468,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -404,7 +481,8 @@
           "width": 796,
           "height": 417,
           "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -440,7 +518,8 @@
           "width": 1200,
           "height": 675,
           "title": "Your Organization Needs a Proprietary Data Strategy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -473,7 +552,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -485,7 +565,8 @@
           "width": 1211,
           "height": 640,
           "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -521,7 +602,8 @@
           "width": 800,
           "height": 419,
           "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -554,7 +636,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -566,7 +649,16 @@
           "width": 2262,
           "height": 1208,
           "title": "Data storage and AI are driving the evolution of autonomous cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 641,
+          "title": "Data storage and AI are driving the evolution of autonomous cars",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -599,7 +691,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -611,7 +704,8 @@
           "width": 1200,
           "height": 1015,
           "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -643,7 +737,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -655,7 +750,8 @@
           "width": 1200,
           "height": 630,
           "title": "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -687,7 +783,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -699,7 +796,8 @@
           "width": 640,
           "height": 640,
           "title": "How Can AI Improve Sales And Support?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -732,7 +830,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -769,7 +868,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -781,7 +881,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -815,7 +916,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -827,7 +929,8 @@
           "width": 1200,
           "height": 800,
           "title": "AI picks up signs of glaucoma 18 months ahead of current methods",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -863,7 +966,8 @@
           "width": 1200,
           "height": 675,
           "title": "MLS Players Can Restart Individual Workouts on Wednesday",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -900,7 +1004,8 @@
           "width": 750,
           "height": 563,
           "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -933,7 +1038,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -945,7 +1051,8 @@
           "width": 640,
           "height": 320,
           "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -978,7 +1085,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -990,7 +1098,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence Market Industry Analysis and Forecast (2019-2025)",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -999,43 +1108,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-top-5-most-useful-tools-all-data-science-freelancers-should-know.md",
-      "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
-      "excerpt": "Freelance data science professionals need to be proficient in certain tools to smoothly navigate their careers in turbulent times.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/top-5-most-useful-tools-all-data-science-freelancers-should-know/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/freelancer.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

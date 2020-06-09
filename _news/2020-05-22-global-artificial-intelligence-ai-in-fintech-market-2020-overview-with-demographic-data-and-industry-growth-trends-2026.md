@@ -21,6 +21,7 @@ images:
   - url: "https://galusaustralis.com/wp-content/uploads/2020/02/Global-Fruits-and-Vegetables-Coatings-Market-390x220.jpg"
     width: 390
     height: 220
+    isCached: true
     title: "Global Artificial Intelligence (AI) in Fintech Market 2020 Overview with Demographic Data and Industry Growth Trends 2026"
 
 related:

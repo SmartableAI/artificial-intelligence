@@ -24,6 +24,7 @@ images:
   - url: "https://www.businessinsider.in/thumb/75575693.cms?height=275&width=412"
     width: 412
     height: 275
+    isCached: true
     title: "Udacity partners with AWS to offer scholarships on machine learning for working professionals"
 
 secured: "uv9WAUFcDb76HLN2blT3jLti2I2Zyb3KhHWjeDY7moAEQFZyc5+mXHi2Q8mf67ze9ZMjgkCVOYHx0S3h2anGBi6cFaPhUQJOkXLTJdKBCRX7bWSmcYImUAtPm7jreBaQvXNCP4ZgI7B1PxH0QIstKh020QzOMsYC8UkB/1624l9bN9KF8p1yV05zGFEWf9bTlwMBVLD4l2+eljUpfxVxBNyESO3V5XrP+D3cvfODDciI89yN2d2bZ7POGpAnqgEqs4qAjJSQ6BiaBDfNmyOgb1AyGVqddrn54FOAL3W2wnY3E4fuzbdzn/eQwh2JU3SN/pmruYiaR+v3icHHdOD5Zzuwm6/wW7PGsG4nT+c/qDWe93ueHuTYCEWFGF1GKwn8oquEeJPaIRhr4rLB6HMJZFbT7oi3uy10dYOR4UyxFqNevK4FXkyxtOGeEBJYYogsA44WBzILc8zm6oKEReDq+HD+3PBNaw9UqcrPhGVgdZc=;tK3UVFhWNQVv2asMWmJERQ=="

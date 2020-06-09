@@ -2,6 +2,52 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
+      "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+      "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "publishedDateTime": "2020-05-21T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
       "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
       "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
@@ -22,7 +68,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +81,8 @@
           "width": 1200,
           "height": 600,
           "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -71,7 +119,8 @@
           "width": 450,
           "height": 300,
           "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +153,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +166,8 @@
           "width": 1116,
           "height": 669,
           "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -150,7 +201,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -162,7 +214,8 @@
           "width": 817,
           "height": 545,
           "title": "Top safety official at Waymo self-driving unit stepping down",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -199,7 +252,8 @@
           "width": 400,
           "height": 400,
           "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -231,7 +285,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -243,7 +298,8 @@
           "width": 726,
           "height": 413,
           "title": "Gain customer insights using Amazon Aurora machine learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -280,7 +336,8 @@
           "width": 648,
           "height": 429,
           "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -313,7 +370,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -325,7 +383,8 @@
           "width": 1326,
           "height": 745,
           "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -358,7 +417,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -370,7 +430,8 @@
           "width": 954,
           "height": 672,
           "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -403,7 +464,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -415,7 +477,8 @@
           "width": 1050,
           "height": 550,
           "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -448,7 +511,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -460,7 +524,8 @@
           "width": 5157,
           "height": 2973,
           "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -494,7 +559,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -506,7 +572,8 @@
           "width": 1024,
           "height": 592,
           "title": "The Trash app’s new features can create AI-edited music videos and more",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -538,7 +605,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -550,7 +618,8 @@
           "width": 800,
           "height": 450,
           "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -586,7 +655,8 @@
           "width": 732,
           "height": 549,
           "title": "What to know about the temporal lobe",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -619,7 +689,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -631,7 +702,8 @@
           "width": 796,
           "height": 417,
           "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -667,7 +739,8 @@
           "width": 1494,
           "height": 785,
           "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -700,7 +773,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -712,7 +786,8 @@
           "width": 620,
           "height": 349,
           "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -745,7 +820,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -810,7 +886,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -822,7 +899,8 @@
           "width": 1200,
           "height": 711,
           "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -854,7 +932,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -866,7 +945,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -902,7 +982,8 @@
           "width": 412,
           "height": 275,
           "title": "Airtel acquires 10% stake in AI startup Voicezen",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -934,7 +1015,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -946,7 +1028,8 @@
           "width": 1200,
           "height": 800,
           "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -979,7 +1062,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -991,7 +1075,8 @@
           "width": 400,
           "height": 450,
           "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1030,7 +1115,8 @@
           "width": 750,
           "height": 563,
           "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1063,7 +1149,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1075,7 +1162,8 @@
           "width": 817,
           "height": 545,
           "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1108,7 +1196,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1120,7 +1209,8 @@
           "width": 1200,
           "height": 630,
           "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1153,7 +1243,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1190,7 +1281,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1202,7 +1294,8 @@
           "width": 1200,
           "height": 630,
           "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1211,35 +1304,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
-      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
-      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

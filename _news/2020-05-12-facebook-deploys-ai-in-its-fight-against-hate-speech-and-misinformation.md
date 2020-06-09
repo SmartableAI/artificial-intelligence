@@ -28,6 +28,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9"
     width: 600
     height: 350
+    isCached: true
     title: "Facebook deploys AI in its fight against hate speech and misinformation"
 
 related:

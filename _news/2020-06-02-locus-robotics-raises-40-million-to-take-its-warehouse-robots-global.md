@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Locus Robotics raises $40 million to take its warehouse robots global"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"
     width: 1280
     height: 1206
+    isCached: true
     title: "The AI Eye: Bundesliga Leveraging ML and Analytics from AWS (NasdaqGS: $AMZN), Draganfly Signs AI-Driven Aerial Survey Agreement with Windfall Geotek"
 
 secured: "/oUlcNVISFX2zvkjge+6eO0zKS+IJIN/jC83Og9pabIFqOswhPMnYyiY0oOFFfgX4WuAuwd8LAwkHjRCJI+fv3/haVe2wnXHBszWewPd25zJcuXNYRspMiZxyq4TYIBHIJJ6PeBAh4mT/nnuqKklkIp2HUMRJCw1L1vry9iwx7VHrxL2MtPPWV+js0RcWBbpCdzJRN5TEKVCc5neNMQmtI2JOBp9czInGMy88GVLo1jywj1MjPt3k3JjlrIZtxqqLXqKwGW3zn6I7YUJtWtxCqE0EscvAeZREX58VzbB6RrdHIf7nJ6yHwwiOjNzSQDW;i++vPW3MuwupLttwfmKxFA=="

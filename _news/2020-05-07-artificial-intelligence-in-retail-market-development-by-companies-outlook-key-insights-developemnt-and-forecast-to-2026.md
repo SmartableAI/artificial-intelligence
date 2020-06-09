@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Retail Market Development by Companies Outlook, Key Insights, Developemnt and Forecast to 2026"
 
 secured: "EQzL9jlnNAbC4bD1rI25Rn5/3Ro7PombpkexzZOOE78S3RAejs8XANgEDVyELdT0Gt14HqstIwRpMbQQphYQkzuMgKZdJBgFDX+C3VDfFDmqYt7hHtzALrvBoCFsaViPLbY6nJJaPakgZXbJM4hNGawI7TZiLIKz9j5FbPoWdHsb/vZF3W3x09m57m/RpFjfR6b13ucbZ/K+NPGqSoIvMGDXde67oY6r2hYnDIydg6V6r6b0mOgIyjdXU8vDN7YxyHQzAeQz/Z0nwODq+EKTuQfCcWsqNXgIBdIRAzgoQF3h7snN0tTw1N9lx4nqUhYT;oUIUO9XXgsVfF9wDaFZQSw=="

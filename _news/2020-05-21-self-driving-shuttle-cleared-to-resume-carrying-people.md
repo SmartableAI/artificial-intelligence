@@ -21,6 +21,7 @@ images:
   - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/05/16x9/AP20141782919761.5ec69846bccce.png?auto=format&fit=max&w=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "Self-Driving Shuttle Cleared to Resume Carrying People"
 
 related:

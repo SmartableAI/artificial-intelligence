@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning as a Service (MLaaS) Market 2020 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast to 2026"
 
 secured: "axpv95IPRxmNIM60QlLedtQpAJeNKu6V25hmQyKvwBQ0fFplhoObz03WqZebETM1QKHcLtpJx5oDaQYn2kIMMHwpQ2PGImEKKpJ9PwxrLzuUs2itpWfbvhwG90hx30OAdXbLwocwHhXlC5KDp6DMrPq6I4F2asT3SLM3gdT6LJlyLfNcUETZIAqMcuKO/Rhuo1sTeOmtW5NpkGKzoatR2RIv9OWE4Fb3hbUHwrKCH7OR2cdgnVnofdr/sy2IQ+34vm5eCljq6nxZGSghNSx6rjwtgUvJEzjLa24s/OkBnCcMY+bmsHddtGmp6y2EMQMG;/eatSfSiHMWBtkh705FvrQ=="

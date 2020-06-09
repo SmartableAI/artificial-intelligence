@@ -23,6 +23,7 @@ images:
   - url: "https://www.carscoops.com/wp-content/uploads/2020/05/e-scooters.gif"
     width: 800
     height: 450
+    isCached: true
     title: "All Hail The World’s First Self-Driving E-Scooter Fleet Coming To Georgia City"
 
 related:

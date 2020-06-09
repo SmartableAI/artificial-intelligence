@@ -23,6 +23,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200513165418.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "Facebook throws open ‘hateful memes’ challenge for researchers to develop algorithms to tackle it"
 
 related:

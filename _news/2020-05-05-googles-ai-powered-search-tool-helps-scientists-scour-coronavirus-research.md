@@ -26,6 +26,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/tIpf69jJyFX6gNpSeblAnegN2Cs=/756x567/2020/04/29/32c22572-9761-43e9-83de-0108e34bd94b/testing-lab-coronavirus-health-test-0591.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Google's AI-powered search tool helps scientists scour coronavirus research"
 
 related:

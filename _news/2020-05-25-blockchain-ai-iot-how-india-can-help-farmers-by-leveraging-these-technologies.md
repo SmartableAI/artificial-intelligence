@@ -23,6 +23,7 @@ images:
   - url: "https://images.financialexpress.com/2020/05/farmer-pti.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "Blockchain, AI, IoT: How India can help farmers by leveraging these technologies"
 
 secured: "i6+OLEJPWVHQm8oa51ylf6nmDlPMGUujbR9Uz846JEArUz6JQ79BV4399L2ZJsDHc/nMBcZiOy/2R4IP6e02f5YQ9QAAeAxwpgNNZ7KQ/IxN7bfTKYBZbY0XlUj/oZhwpQGMyAXQWDam42vEWH3dWcUm0s5kQ0uUiuiwr9TbBNlTHRlZCmI3QMzCgG0qhkso/IqqYWZ8MaLoqZZpuBsvZ9JBLBwQiAs6jr2e9CpQs9L98FMnhoThPbexwIFSa58bwrKank5CcdWtlxyGW2Capw2vK0wLbhTfG7QdOpCwME1c8RE2Ig6eLqqMbKCHDojP;yMt4vmhfJtX5Rm/P9Ssndg=="

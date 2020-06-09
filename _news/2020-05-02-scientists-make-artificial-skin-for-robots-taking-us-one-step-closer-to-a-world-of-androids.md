@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/105897943-1557249763884gettyimages-1044123062.jpeg?v=1557249783"
     width: 4000
     height: 2667
+    isCached: true
     title: "Scientists make artificial skin for robots, taking us one step closer to a world of androids"
 
 secured: "8NqoFU3X/yx9KABRAo/u0iTOvcK/f/2FHtUbiXt5odlDnru1iqUeO+PDf45vxjXdEA2IztkXsc6hUA1uOYwTrBsq6vVxPnUXroNkRGhtyREFQnWMU2Bg9YqYVElRc2zcltoFNrlwtntwMEebMEGZyuH8gbdfKCx1ANnu+woCafgAJ1bR7aqnrPmIpVFeZJ8O+zWYE1/YdNvGie5V8Xb+tfYwQ4QjqxcnYKeXDexcOqOOaVPiCOH0oguyMImihG71AwOZsy3NEWt7HKpb7PemZUXzCkf4Crh81H+l06h3mokqDikCSRmy5ubvJq6uZ6k+4G1UHVPgsrFoxq1ti6myHLDSHNi1gy/EWLmWsSMl7YCheE4ZwPnbEt/07HBB17g8t+GmKyjZKyWQdJo7zH80G/YjTNjLUppdxFo/Mk2DVIXyQHrr9c9XBX3EgZNE1fafiUygQVKP5zo57621Sezy39CoGrM9hvLH5lVRHZoZn3Y=;KG/+l8RuIdgEsZTV+strAw=="

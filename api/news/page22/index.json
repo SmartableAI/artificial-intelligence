@@ -2,6 +2,52 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
+      "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+      "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/state-of-marketing-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "publishedDateTime": "2020-05-19T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png",
+          "width": 940,
+          "height": 807,
+          "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-cvpr-2020-to-reveal-latest-technical-and-commercial-advancements-in-computer-vision-ai-and-machine-learning-in-all-virtual-event.md",
       "title": "CVPR 2020 to Reveal Latest Technical and Commercial Advancements in Computer Vision, AI and Machine Learning in All-Virtual Event",
       "excerpt": "With a record-breaking number of submissions and a finite number of program slots, the content for CVPR 2020 will be some of",
@@ -55,7 +101,8 @@
           "width": 600,
           "height": 400,
           "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -92,7 +139,8 @@
           "width": 1200,
           "height": 900,
           "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -129,7 +177,8 @@
           "width": 800,
           "height": 408,
           "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -163,7 +212,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -175,7 +225,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -208,7 +259,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -220,7 +272,8 @@
           "width": 2400,
           "height": 1350,
           "title": "As Machines Get Smarter, How Will We Relate to Them?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -253,7 +306,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -265,7 +319,8 @@
           "width": 800,
           "height": 450,
           "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -298,7 +353,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -310,7 +366,8 @@
           "width": 2400,
           "height": 1350,
           "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -344,7 +401,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -356,7 +414,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -418,7 +477,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -430,7 +490,8 @@
           "width": 1074,
           "height": 900,
           "title": "AAEON AI monitoring for fever and mask detection",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -462,7 +523,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -474,7 +536,8 @@
           "width": 1024,
           "height": 544,
           "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -511,7 +574,8 @@
           "width": 800,
           "height": 360,
           "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -544,7 +608,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -581,7 +646,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -593,7 +659,8 @@
           "width": 796,
           "height": 417,
           "title": "How machines see: everything you need to know about computer vision",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -655,7 +722,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -667,14 +735,16 @@
           "width": 1100,
           "height": 619,
           "title": "Facial recognition used to reunite missing child with family after 32 years",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": "Facial recognition used to reunite missing child with family after 32 years",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -711,7 +781,8 @@
           "width": 615,
           "height": 384,
           "title": "Vanora Robots launches AI-powered product for hospital disinfection",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -744,7 +815,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -756,7 +828,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in Retail Market May See a Big Move |IBM, Microsoft, Nvidia, Amazon Web Services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -846,7 +919,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -858,7 +932,8 @@
           "width": 1200,
           "height": 630,
           "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -892,7 +967,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -904,7 +980,8 @@
           "width": 1200,
           "height": 630,
           "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -937,58 +1014,14 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-americans-still-dont-trust-self-driving-cars.md",
-      "title": "Americans still don’t trust self-driving cars",
-      "excerpt": "Self-driving cars are having a really rough time gaining our trust. This is not a total shock considering autonomous vehicles remain theoretical and elusive for most people. The limited number of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave/",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave",
-      "publishedDateTime": "2020-05-18T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/m72EzrWuPzWBOfvn1i31svwAU10=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Americans still don’t trust self-driving cars",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

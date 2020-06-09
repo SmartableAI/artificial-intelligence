@@ -23,6 +23,7 @@ images:
   - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200602/1269681.jpg"
     width: 1080
     height: 687
+    isCached: true
     title: "Yandex to launch 100 new self-driving cars on roads in Russia and US in 2020"
 
 secured: "WvRZ/P5rl5c+VEUPfqF3Zu/Q8vAnyS97Q98HP2F1Bio6CoaoJEiYWuQ8iyuiL4hWojEotjlvoWBP6xau09oUIlrC6C5PJ2oIJbuxNGC91p41XfRGFkCyhJ0gT4ayX5w9p67hw9cReHUfkv/pISAcM0hnotKfqiFZZf8dEKpyCABu6b32rTlOoV/77YRCe9VVcZ/SyHbWrW1127yqg+RzDaSVAWV225U0iGR8vzEX5eKv9Cimg4dWvJr0i5uNi4zXp7jT+n4PZyYl1BA64lP7+Zt4DizxNX6PBHMIyzolRmTucwBKaMVSnC6ZG0aMHih4;gB/Ko25v5lvAQHIaXcjffA=="

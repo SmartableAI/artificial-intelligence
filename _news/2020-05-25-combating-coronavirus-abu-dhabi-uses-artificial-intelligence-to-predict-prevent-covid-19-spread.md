@@ -21,6 +21,7 @@ images:
   - url: "https://images.khaleejtimes.com/storyimage/KT/20200525/ARTICLE/200529117/AR/0/AR-200529117.jpg&NCS_modified=20200525205642&exif=.jpg"
     width: 1200
     height: 793
+    isCached: true
     title: "Combating coronavirus: Abu Dhabi uses artificial intelligence to predict, prevent Covid-19 spread"
 
 related:

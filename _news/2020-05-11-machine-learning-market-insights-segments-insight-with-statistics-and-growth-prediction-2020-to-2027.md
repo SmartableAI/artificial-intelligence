@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning Market Insights, Segments Insight with Statistics and Growth Prediction 2020 to 2027"
 
 secured: "68YPEfjM2J5sG1QG1m1JE0HKS9a710VneUpRClcBea2e2GIGZbvd51tFotHPmEpXWSWRtltIxnW7e8317KBDrGeDHiXsVEK7CWrPrUcWxxowqVehS/HuItDI9AokdL2EIVMwm6WduJlVhbjthBfJT1Q2Q+p2XFoxZbq/nO74Xj2/qsDCKd69QLGP7F2SdGTl8GtZrWELcMU10i1WAK0sXYf92tMpQv0ad2Lf1zR+tC4vs9j9NDpf6hPkXWK7s5y2TVUVLfgWDOqVvuBqKmfSf4FTjW3Cvk9dFX1/Eec6X7cOHV375asmKv3sR2MkGTD6;rZmxbKgJvc6rb7vov+MXEA=="

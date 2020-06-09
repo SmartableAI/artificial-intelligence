@@ -24,6 +24,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020"
 
 related:

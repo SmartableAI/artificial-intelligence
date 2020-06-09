@@ -23,6 +23,7 @@ images:
   - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Alliance-Française.jpeg?fit=400%2C400&ssl=1"
     width: 400
     height: 400
+    isCached: true
     title: "Alliance Française French e-classes reach Tier II, III India; Better job prospects in European market"
 
 secured: "MBvgiIjVOAc4CIaS0emQy/iGE09zYXmprn2qRfoRidavAhjJvz8Lk7DS5h4TrYOynx8vNlaytxUtX7dJe+zobpJaxQ5yUwuhpuc4hoqcHz1YJjaDnq5Y1jtSDOjLzaGBoObkOvuCJRGSuf9QUQc+nC2BLdg8i5tNFfSE1K7ukXbsWnIhzcyoDNGRnZUmKvfz4apGYGtvty8Aqt14DQ0FqRzyV7onRJY26DRjhWOFw/dvrElRxcISnQ4LIVvso78SyXFuq7X2b3v7v4C0k95u+4TXq5sXg76yatqzRbamPMVQBVddBitQlYYs3qsex8CH;PTC0SH5twcqRjeRr5QmYZw=="

@@ -23,6 +23,7 @@ images:
   - url: "https://imagevars.gulfnews.com/2020/06/03/auto-argo_17278b781ba_large.jpg"
     width: 750
     height: 563
+    isCached: true
     title: "Volkswagen and Ford close self-driving tech deal"
 
 secured: "nvkzeY/tZdFYbf4PIycZUOuXW2S3CW6Ndl0nJ0xYhNJI3Bk265y7IHykW8984UHkDbYbaNCWP+8h/QEIwTE+1PaHcbMVNSE9plIjYYKpzedpyjvdJchAkYNHsdvFGLQwqmxS/ZvaauRD1mWstY/9zKtABw+rw0tJUrUvOUl3dVnx3yIHQ3hAK3Tg4UuDDqWYeaY+BY6/0RmOx6OqcbYoIBGRuEywBRkQliITJCejFQlY8IogrEiwKiB5HjLuA1Ww5fbvpm8SepoHkZxW4aGnhe0Upou807aoY7Hvt+mNhPFDpOhxsS2BzWX3V3H9BTJ4;picyNwF5I+4i1EZmObG2pA=="

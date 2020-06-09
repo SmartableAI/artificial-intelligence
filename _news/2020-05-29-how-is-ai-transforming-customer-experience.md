@@ -21,6 +21,7 @@ images:
   - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
     width: 1280
     height: 748
+    isCached: true
     title: "How is AI transforming Customer Experience?"
 
 secured: "sKBgi/M38w+nhEWok0GPfn4IL6tA6WiZmY9FofKoX3+NRF9wA8GWwxmu9hzA0HichhCplbNuK/a25zeVu5284+KsdWYQ+aYyaWGcYynJPd7mUevXiyZn+k3RpMa/dOL4mfpMDvHIl4uERGa29/mtp8fSiKlJxSiRujn7MEokp5atEKJQOYuwwkT4GuAXTi8LLQCVlzfMvXkvJzZZCTnr/nGmeTMvegVv4l1Jex/1WMODqgo51NX7G4W6USfDU84KRIQEH5absioT2MuiOp+DuMdkDBs5rpO7YxYb8zpuWhuxku7gc0M0XvQYEV8rVR8E;5ATDMk9loNsisaK3xHEAXQ=="

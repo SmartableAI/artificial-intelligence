@@ -25,6 +25,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
     width: 796
     height: 448
+    isCached: true
     title: "Autonowashing and the dangers of putting too much trust in ‘self-driving’ cars"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://govconwire-media.s3.amazonaws.com/2020/05/11/03/7e/3c/3f/c0/9b/5e/04/a0If300000MFTH6EAP.png"
     width: 272
     height: 270
+    isCached: true
     title: "DoD AI Center Requests Info on Predictive Maintenance Tech for H-60 Helicopters"
 
 secured: "YWO7Eik/Pww19DhBTSCmP0FrdTtcmMvhK2035ruclztbc4T8uWOwlx4815lwsQdyzn4a2KA66JYyqzbZ5qn5WxDwj+aqJ1oQj7BPD4JJ/gMnZ6NzZi1LlNz42ABv6ZU6ebtoGzcQgnpkPeaGmnUImKS6d6+ZSvHk1nprFc4q6VF4+n1OLyqH5C1KJgWXm2KqXHwJB/EOfaoqv5EQbdWOem4++JpBBxokFltreXWX+PxzDxeFHGhdfx5VUuekCsrcuEvymApdtpVt9UOiP80hRSqKEQlceNZpZfNsB4epdlT/rcu+0Ylkgf2AVIZZlWb+;/g61npx5HwN/brCEkbi9MA=="

@@ -22,6 +22,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2d6c339-5931-4bd6-b729-054ce2404a6e.jpg?source=google-amp&fit=scale-down&width=500"
     width: 500
     height: 281
+    isCached: true
     title: "How AI is getting an emotionally intelligent reboot"
 
 secured: "XueIPHJFVlwvZnTNf1bw0Yzxuy5Q0j7jclnqTKViSa2kLaexpgnqJuWHOO5kZBjtTFL/2rU9Ek6c++qFVPXXwxU2+9gmavUMQwD3w/apmquQ/0mEl/z3yVYrzzxiyQQgh8fdIo1xHdETYeZeekKgb/PWAo2p9q3MEF0uHXG/+QggQMeb+w40uo1S1GgknTcGF5shVmaaOUhakH792DCczBGt2UZO1YVXRHQhKvuZJEgcZjneOfBoWO44Z9gqS/CgPBVBG0tC50S+FR6iE+NIN+wgmExFUyfVwU44y/ApolDFR8YK5x0tG7VVA692f2yY;dE5ozQFyWFZTRSR4gx8W6g=="

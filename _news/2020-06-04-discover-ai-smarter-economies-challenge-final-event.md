@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Discover AI: Smarter Economies Challenge final event"
 
 related:

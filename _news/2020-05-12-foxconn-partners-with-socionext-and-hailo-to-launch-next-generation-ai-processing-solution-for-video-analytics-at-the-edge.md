@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1167022/Socionext_Foxconn_Hailo.jpg?p=facebook"
     width: 2700
     height: 1414
+    isCached: true
     title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
 
 related:

@@ -20,6 +20,7 @@ images:
   - url: "https://image.iol.co.za/image/1/process/4896x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/05/27/48563042/high-angle-photo-of-robot-25992443.jpg&operation=CROP&offset=0x255&resize=4896x2754"
     width: 651
     height: 366
+    isCached: true
     title: "Amazon-backed voice AI startup DefinedCrowd sets sights on public listing"
 
 related:

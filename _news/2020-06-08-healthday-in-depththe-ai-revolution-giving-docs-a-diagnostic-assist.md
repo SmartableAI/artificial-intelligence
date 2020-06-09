@@ -36,6 +36,7 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3871591651247/2020/1/0410c427f95d7d3f7d1bf5bc9e362c6c/v1.5/Every-day-use-of-AI-for-health-diagnoses-still-years-away.jpg"
         width: 800
         height: 534
+        isCached: true
 
 secured: "oXVVp9N03XqLE/TTlR7AfmLlYkJUTtp0U51FNoHIBgvCHZ+0BkgjboS81pfIxoMQdJ5VaCffl9iZ6LUiD5FcZadmSWEfbDoGvzGP4MnNkPRUdKb0oinGsgUjdtYZKxxSFgyr7kF4/Y0Jotchyod5QnuyO2VffJ+fQ3d4Wp6ynm3sJzJ+5xZcoHcxBtfgIlckL6gEOzADoq6wYjo3NrqGlv6mWEhqf1+Yd3mp1roXBxc397o7D1zVrRzkzRsnRKoY62BGostDShLEjN1KzbCFQs3eUFgrHdxgn1bHxHgZ0bgGv+AHmrBgV9+8UlYhA0/Z;xWPJDu1Z2pMG95tcR/MAkQ=="
 ---

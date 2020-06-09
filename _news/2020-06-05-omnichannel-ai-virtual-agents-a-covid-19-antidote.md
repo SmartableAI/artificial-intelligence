@@ -20,6 +20,7 @@ images:
   - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
     width: 1280
     height: 1106
+    isCached: true
     title: "Omnichannel AI Virtual Agents, a COVID-19 antidote?"
 
 secured: "n8rCFZzL7CnsfSqUOuAxy5vpCg8SdQG3ZSi3ZVFKsdGL7jyUMHk3ZATexlfNt/+khBRtNFcvs12u65t3hzQJcPKzEWVS102v1PRm76qa+fU7sveOid6PhQxNvcOi2t27WKygtNEKsXVHQKxdXQpLTJj+fGQyK+7/4HvLiAOfzKMf4Llg6YfDRiyVrQphGCjhwOo9LZ4wcvqjYdD4taRj3+w2Hp9vvFzDXGvIS114eym4/n/uOeCBHXXvWZGmTM5ix7MVzlZLlQU84/UWKa4scVCkvxuqk01bqLgWB1zF5154h8Pjtf6HE7hdSqVP60zv;XUtRQJM16hRQa/Yglf0Vag=="

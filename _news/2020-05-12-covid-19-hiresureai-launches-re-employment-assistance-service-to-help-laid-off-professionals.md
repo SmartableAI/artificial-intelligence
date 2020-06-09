@@ -22,6 +22,7 @@ images:
   - url: "https://www.businessinsider.in/thumb/75693531.cms?height=275&width=412"
     width: 412
     height: 275
+    isCached: true
     title: "COVID-19: HireSure.ai launches re-employment assistance service to help laid-off professionals"
 
 secured: "plxIkA+y5YFSz5lElRiJt5DijI5aXsVl2aB1AOg0w1FRH/OUQf0QigfX2RsqjL8vJGyqnkQFNFGJFs+xC1wGEhijS2twnFALv7a8RMeE2+/Tt9WKFdCQKA0yzJ/yu1lOGyllOoiI1nmd1mSR0LrWS0WbCktY5t2WPLHu3MK15xFpBB0encA7gSZVlq6huWGR4DwxmJwVR1LrV7q+8ra1gmInR04diNZzjBjQGM56mNFGs6ZfhGdWI76SBZ32BNhT0Z+msb5efeblXgnlMKM7JIF8qJCm2wcfZ1WEPdGLY0czbmKXhlOXEFV4fKFfrB7r;zxVi/O2+8ZUyyg4eFV1CKA=="

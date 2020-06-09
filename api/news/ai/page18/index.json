@@ -2,6 +2,44 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-19-google-ai-could-predict-eye-condition-behind-vision-loss.md",
+      "title": "Google AI could predict eye condition behind vision loss",
+      "excerpt": "The results, published in the journal Nature Medicine, suggest that the AI model, built in partnership with Alphabet subsidiary DeepMind and Moorfields Eye Hospital in Britain, could help doctors ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sify.com/finance/google-ai-could-predict-eye-condition-behind-vision-loss-news-topnews-uftpa8jjdacfc.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Google AI could predict eye condition behind vision loss",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-aware-combines-face-and-voice-in-latest-knomi-version-26-release.md",
       "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
       "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release",
@@ -26,7 +64,8 @@
           "width": 600,
           "height": 315,
           "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +98,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +111,8 @@
           "width": 1200,
           "height": 600,
           "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +145,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +158,8 @@
           "width": 1024,
           "height": 512,
           "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +192,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +205,8 @@
           "width": 577,
           "height": 385,
           "title": "The AI Show: How Intel built a chip with a sense of smell",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -194,7 +239,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -206,7 +252,8 @@
           "width": 2400,
           "height": 1643,
           "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -242,7 +289,8 @@
           "width": 1200,
           "height": 878,
           "title": "Sony, Microsoft partner for smart camera solutions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -275,7 +323,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -287,7 +336,8 @@
           "width": 756,
           "height": 567,
           "title": "This startup wants to get people with autism into tech jobs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -319,7 +369,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -331,7 +382,8 @@
           "width": 756,
           "height": 567,
           "title": "Your face mask selfies could be training the next facial recognition tool",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -365,7 +417,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -377,7 +430,8 @@
           "width": 680,
           "height": 382,
           "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -414,7 +468,8 @@
           "width": 800,
           "height": 400,
           "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -447,7 +502,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -459,7 +515,8 @@
           "width": 640,
           "height": 640,
           "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -492,7 +549,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -504,7 +562,8 @@
           "width": 640,
           "height": 640,
           "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -537,7 +596,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -549,7 +609,8 @@
           "width": 940,
           "height": 807,
           "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -614,7 +675,8 @@
           "width": 600,
           "height": 400,
           "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -651,7 +713,8 @@
           "width": 1200,
           "height": 900,
           "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -688,7 +751,8 @@
           "width": 800,
           "height": 408,
           "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -722,7 +786,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -734,7 +799,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -767,7 +833,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -779,7 +846,8 @@
           "width": 2400,
           "height": 1350,
           "title": "As Machines Get Smarter, How Will We Relate to Them?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -812,7 +880,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -824,7 +893,8 @@
           "width": 800,
           "height": 450,
           "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -857,7 +927,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -869,7 +940,8 @@
           "width": 2400,
           "height": 1350,
           "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -903,7 +975,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -915,7 +988,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -977,7 +1051,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -989,7 +1064,8 @@
           "width": 1074,
           "height": 900,
           "title": "AAEON AI monitoring for fever and mask detection",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1021,7 +1097,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1033,7 +1110,8 @@
           "width": 1024,
           "height": 544,
           "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1070,7 +1148,8 @@
           "width": 800,
           "height": 360,
           "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1103,7 +1182,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1140,7 +1220,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1152,7 +1233,8 @@
           "width": 796,
           "height": 417,
           "title": "How machines see: everything you need to know about computer vision",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1190,58 +1272,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
-      "title": "Facial recognition used to reunite missing child with family after 32 years",
-      "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 237,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
-      "publishedDateTime": "2020-05-18T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Facial recognition used to reunite missing child with family after 32 years",
-          "attribution": null
-        },
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Facial recognition used to reunite missing child with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

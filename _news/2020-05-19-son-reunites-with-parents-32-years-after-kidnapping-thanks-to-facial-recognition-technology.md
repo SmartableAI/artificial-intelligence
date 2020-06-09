@@ -23,6 +23,7 @@ images:
   - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F05%2F19%2Fson-abducted-32-years-3.jpg"
     width: 2000
     height: 1045
+    isCached: true
     title: "Son Reunites with Parents 32 Years After Kidnapping — Thanks to Facial Recognition Technology"
 
 related:

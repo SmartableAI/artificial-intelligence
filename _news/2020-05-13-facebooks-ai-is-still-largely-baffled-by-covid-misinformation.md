@@ -23,6 +23,7 @@ images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
     width: 1024
     height: 575
+    isCached: true
     title: "Facebook’s AI is still largely baffled by covid misinformation"
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=2276"
     width: 2276

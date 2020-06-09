@@ -24,6 +24,7 @@ images:
   - url: "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg"
     width: 1920
     height: 1280
+    isCached: true
     title: "AI cloud computing platform Enflame raises RMB 700 million"
   - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg?fit=1920%2C1280&ssl=1"
     width: 1920

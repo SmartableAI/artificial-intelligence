@@ -23,8 +23,14 @@ images:
   - url: "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg"
     width: 1440
     height: 1080
+    isCached: true
+    title: "Without regulation, self-driving cars could be a hazard"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg&w=1440"
+    width: 1440
+    height: 1080
+    isCached: true
     title: "Without regulation, self-driving cars could be a hazard"
 
-secured: "KGIhQC6LM8dCpMde2zAC6FIXapeYQ1Fww88lIe4aikqoaCz+oCv39pz3ebpifMP6pRxp4B91qJuH67UlBinCMpDcR1/Iv/jrEvl8a/w7w+rpoVjrcUsOVPMVKDiMFWEO802qTWnpY10irJdncFF6u8rT4xEpM/cvF/5wskMPV2kdwl5ANFI5784VED91UNLkLLAvaj+nmgL886ZzBSK3VuRHe9Z1wjXehtKFCOJflNoL8g1xeSI232ekk9UklX6sHKC3s9DhTyUpt0gfBW93lv/8991svIIhakYAwT1/ng7Ezf7UAS/iMC/9bBBTkAFTq/IUwlzzj4/tFNNxWDHaJ+JO8EeLe8z9tVjOzTUGEGL0BgBe/dDDuQp1F1p4q0WfmxKgRdah/swDadarvoHjEKZeEz56eZ3aazIY3rD7MkEKHTRb2ybUh6tw/97cSTbp6UxsYJvXXK7GJHtRYhmU5W2NHGTa5FPLDZVUfnHraI4=;oEuu696OF/DVz6ATnKsKtw=="
+secured: "chkzYWTge9xXwAkSkLvqRvCUDpW2unYOBhU8mWExeF7ZTRQQCEGE/vEYZb+I1qRoTPTmNGI34rBLBc47wTwnTUdqiJZcxaHfdCTbxUEQq5Rrtn6sDIGWm1ktAPaZd5WeCcM3zWQ78F93A0djKDIa5QyxShq0DEEyYP6mPP/q3mTqiD5wg3DhZsPasnxj61+CpJaUSmJqQE4Oy0sYrU2nXaFrBsyLIbVaNFuPjMeVPqM7KaTHRvTSl71jffrdgVFRBL1qlLkZkGqxuPWfaXc9ruko2MyvEKuVJdPePbQPECX8cfN7GwJEHHpcexsh1Ke1;paA8NrF+kiD5CCZ/PGAgoQ=="
 ---
 

@@ -23,6 +23,7 @@ images:
   - url: "https://i2.wp.com/technode.com/wp-content/uploads/2020/05/640.jpeg?fit=1080%2C720&ssl=1"
     width: 1080
     height: 720
+    isCached: true
     title: "China’s biggest carmaker calls for self-driving legislation at ‘Two Sessions’"
 
 secured: "iCUVopnDTvVdPovAYfVyN4KWBH6keOtXaPrYaCg7Y0pxnge7Uhk57cyN+KQUi2JjGowiHEpADRpNAIBt0JLksypv6cxriN1P2L5u4Vqtj8qA5sHFjL4rsM1+fvLoKySwnPME1kWKzRysG26IMJdGwdrTYVhGorAXeC+2V5C6NFUagNyJaXfyAVoW2WUhtlqjfY53Lur0jMGDurF9v6VhwOUpnGbFVbNIZG1HCMKF5am9BfygMrOagD82K4v/OZNw/21iXxO1ea/+sBKbJt4izxg216gHIGpqGaNA2Nm7Zs45JPyK0lhow5bHO6udyI1Q8CgvZVQO1wcIT8AsUsGi30NaxQwAtCvh9WXGwAf47CFQIInEaurQZ3W40fgQu3x/P58HEcROPieKuzgV8LEPke/QWe6jsnLwrcGqaTsLX5nRA3Vri1adTK8kw5pDC/CV3EI7NgvAfUxZm3n+FmMBRpHf7Ga3ZgFskeg1JVcKv4U=;n6I+IJZXCcaII3v+fPvenw=="

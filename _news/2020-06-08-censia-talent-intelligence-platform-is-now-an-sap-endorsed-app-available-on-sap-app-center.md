@@ -20,6 +20,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
     width: 304
     height: 430
+    isCached: true
     title: "Censia Talent Intelligence Platform is now an SAP-Endorsed App, available on SAP App Center"
 
 secured: "kyjtX2Yj3wQaA4paZSWn+5HoxyQId4+mFkU0mqC0gAp90826W4D0D5ehgk6FkLGmkiJULHAWi4uf4CQh56ahMGJPa1FvZNiS4xvDGxbozzQ+ULynpGhKo3CC1yZbuwd9XxHbq4TPgph9hlUBPD9UCsXvPP3dOTkbqShI4Ls1Oc3Im59qgih/tWIoCxyUYXahn/x5Ro3zs37rClaKxF7gxCtXY3lDsEhd1JY4hKyousmodZDzdxvgAr5Tfqa/j5CI+43ovvvvquKoq+4DR8MqHNqMjNVQfKUecNmrSzJ2O7G/BWjiMpSpnEyLCBOguh9t;AzITbhNkDb50f5riqnFhgQ=="

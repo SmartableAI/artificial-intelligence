@@ -21,6 +21,7 @@ images:
   - url: "https://www.nzherald.co.nz/resizer/BD2M_7Av2okZywhZJEz8TPoIZps=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/BRK5HETGPJCFNPETKPRMFEO57I.jpg"
     width: 1200
     height: 779
+    isCached: true
     title: "Police trial of facial recognition technology 'a matter of concern' - Andrew Little"
 
 related:

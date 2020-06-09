@@ -27,6 +27,7 @@ images:
   - url: "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military"
 
 secured: "fryB31hbdANXLwfII0i2hnIHj0XLYKQ6Iq1lnliBwYUVVeKyYf7K18d0fp8QCYJgNvIcMsR2ozFsFXXde2l7GfYwk5kF7f7C3VTGi77fuVIIm+/VIuSnbFfYWJpu1uvq1TAs1s8MW1ZmT6K1jeQkqekJnYNUk5yOIjvse9+FvbJXI//OUIMm0/a8oVODVFXHtABTBHWN/hL0jvXkxGPfP2tKst84riOGo9/xGi491LoHmpZqMM2M+ivGGgxmuP7NNJYr1rncEwYWaOYPCqrHNvAjwlnTs36S2nnpsOyT5pxt9ai+Wmf6UeNXdP3EkDw2;QbxvFelz9jmDVUDrdnIVkA=="

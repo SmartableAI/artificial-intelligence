@@ -26,6 +26,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Kite brings its AI-powered code completion to JavaScript"
 
 secured: "CllirfL7/GRJ3dwD/tGu+FAFGnVcnJCmCtGTwYyqyYhED+nPw2etIm+FXzHhInLi28S63uXF0A6E78nS6kJWllwZLbGMjkfxKkZ7enx4LBa9NKCPpRfAFZcCDzfeNZcw+CJ/trQGYutzKvJlevVSfdE4FG/OjUPmtExRko1ysVymMD4E98wu2f/Oa5QCOfWU72fbM2uIJeeQPcqgoq6p+cVOTT/sfrENSyEj2xoe6zgm4PUd1uByvitFU5MPZlw+htBp2mC7vnyGCg3UB8u74SIlwyn2YpC2kcQRJp0XLxJaefQeHkfRFzy3kd4oXRUH;O2QewslUOvOP9HZR+KX3NA=="

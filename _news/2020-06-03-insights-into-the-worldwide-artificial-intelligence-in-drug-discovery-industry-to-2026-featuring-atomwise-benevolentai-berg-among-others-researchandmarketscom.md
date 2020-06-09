@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200603005393/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Insights into the Worldwide Artificial Intelligence in Drug Discovery Industry to 2026 - Featuring Atomwise, BenevolentAI & Berg Among Others - ResearchAndMarkets.com"
 
 related:

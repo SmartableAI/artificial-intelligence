@@ -21,6 +21,7 @@ images:
   - url: "https://www.who.int/images/default-source/default-album/who-launches-new-search-feature-for-questions-on-covid-19.tmb-1200v.jpg?sfvrsn=9cd6d9a5_1"
     width: 1200
     height: 674
+    isCached: true
     title: "WHO launches new search feature for questions on COVID-19"
 
 secured: "le9PUz7W5TjaByWkQWbw5fjAffhEh1SVjYnfV6dGeRMa6b2UnQSzd8nIjLu7zNZswRvTZ4KYCIzP7MGkRtMrFghDjOMGhJ1D6VRi91OR1lwJHoDTjIx/qCLxryCAe0wO4gA+mLSkz9T20pGl4Qa0bUVLl0IjB4zSvZqkOANhqo0fvouetbfFHAYxhEvp+GgN+zR4ixf7m2Zuc3AWirdy/Ibi4CV4qdX+u4SixHEylZt8Xs2gtibQNscwc35RqNOsS9bNxl9jK3fap6/ydBVhKCxUrpMfnxw92iCbB7XHHBYc+y0x6dACa0bn+yQAuwW5ZDi1p5s8EAST3pd+h4oaX6kPQJSAFIInk6j58EMHe+kTSsLu/XP9QQx44MjTBOZVUOuB0cCrW9/CriMP6iUpu99yHyJUTUDcTgb3f3SZrJZR+VZ45iDs9X8RxpLfSMw5cbWwqNVqE5ov3OEvdcPeeYjVdvBqfLWhs+miOhPGfRs=;oi4jjP4YCZt2/LB/1wGY0Q=="

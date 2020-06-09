@@ -21,6 +21,7 @@ images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16185-w/MediaObjects/41467_2020_16185_Fig1_HTML.png"
     width: 685
     height: 230
+    isCached: true
     title: "Using publicly available satellite imagery and deep learning to understand economic well-being in Africa"
 
 related:

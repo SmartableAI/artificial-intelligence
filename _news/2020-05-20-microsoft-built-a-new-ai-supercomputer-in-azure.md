@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Microsoft built a new AI supercomputer in Azure"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16089-9/MediaObjects/41467_2020_16089_Fig1_HTML.png"
     width: 461
     height: 685
+    isCached: true
     title: "A unified neurocognitive model of semantics language social behaviour and face recognition in semantic dementia"
 
 related:

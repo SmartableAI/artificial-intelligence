@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all"
     width: 1296
     height: 647
+    isCached: true
     title: "EU robotics project gives maintenance workers a ‘second pair of hands’"
 
 secured: "jTQPVcA6laI8Q7QT4iiOCGbi1ko4BqBOUAwCOOegn2tya/QLNu+yk0noVwjn/SGtjcpKmzqNT+2WrBTzf/FehGecc6DEvI94kHJCNnsF/0K4HDgpmceqda6NBIaeUjjkKx492djhW/kY/LSbcMe6AcD8dURaPzO7w9eWKyVF6zOfzxj2fP2rkFvIAYy1uaeVqwUIc95NMaNymAU1Lj9chkcPm0IBnU67JU2vzuCIL+fKdYjmIqg3MCsaVMiODhKyNNuMoC0cvRZyYwxyai9N8qkoFvBDDiZ/WiMm0Dcc9atzBcNmUU2ZrDxGLGIDSRQvAXGQVCnLS3ZtR0cKtICg4pyEt2H3xwXaYSAwISByY0BGMVGrNjUxzfaXviEWcc9LnZCmc3cMF8defSIrtJPY2XajymYrlQfTOCfJB66WucR41aX4Zypwb4xJdrK0YPY1f5TNSwIOBUPyzBFlBQi3UUkL24pNWi/OT7W2y7NpkJ8=;XJV4mV3yjgFJrYMehW9KGA=="

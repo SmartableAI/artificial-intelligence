@@ -21,6 +21,7 @@ images:
   - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg"
     width: 320
     height: 212
+    isCached: true
     title: "The Impending Artificial Intelligence Revolution in Healthcare"
 
 related:

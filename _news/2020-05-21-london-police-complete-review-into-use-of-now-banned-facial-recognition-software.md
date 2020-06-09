@@ -23,6 +23,7 @@ images:
   - url: "https://postmedialfpress.files.wordpress.com/2020/03/lfp20200302mh0122_77416042-e1583332454891.jpg"
     width: 662
     height: 497
+    isCached: true
     title: "London police complete review into use of now-banned facial-recognition software"
 
 related:

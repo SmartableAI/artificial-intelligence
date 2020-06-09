@@ -1,27 +1,34 @@
 ---
 category: news
-title: "IBM Gets Out of Facial Recognition Business"
+title: "IBM gets out of facial recognition business"
 excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-publishedDateTime: 2020-06-09T00:47:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+publishedDateTime: 2020-06-09T00:55:00Z
+webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
+    width: 818
+    height: 545
+    isCached: true
+    title: "IBM gets out of facial recognition business"
 
 related:
   - title: "IBM to withdraw from the facial recognition market"
@@ -39,6 +46,7 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
         width: 756
         height: 567
+        isCached: true
   - title: "IBM announces exit of facial recognition business"
     excerpt: "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-09T01:09:00Z
@@ -54,6 +62,7 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/04/77f715b9-2438-4c91-a475-435e025ed5ee/thumbnail/1200x675/b30830583fd201b20184073b0c320492/dji-unsw.png"
         width: 1200
         height: 675
+        isCached: true
   - title: "IBM stops work on facial recognition over human rights concerns"
     excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
     publishedDateTime: 2020-06-09T01:08:00Z
@@ -69,6 +78,7 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
         width: 600
         height: 350
+        isCached: true
   - title: "IBM sunsets general purpose facial recognition tech to avoid abuse"
     excerpt: "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure"
     publishedDateTime: 2020-06-09T03:09:00Z
@@ -84,6 +94,7 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg"
         width: 1280
         height: 800
+        isCached: true
   - title: "IBM won’t develop facial recognition tech for mass surveillance anymore"
     excerpt: "IBM said yesterday that it won’t offer or develop general-purpose facial recognition technology to encourage responsible usage of tech by law enforcement. The company has been a big player in the field for years offering several solutions."
     publishedDateTime: 2020-06-09T06:31:00Z
@@ -99,6 +110,7 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/IBM-Facial-recognition-796x418.jpg"
         width: 796
         height: 418
+        isCached: true
   - title: "IBM to withdraw from the facial recognition market out of profiling fears"
     excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-09T02:18:00Z
@@ -114,6 +126,7 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
         width: 756
         height: 567
+        isCached: true
   - title: "IBM will no longer offer, develop, or research facial recognition technology"
     excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
     publishedDateTime: 2020-06-09T00:55:00Z
@@ -129,6 +142,7 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
         width: 1400
         height: 933
+        isCached: true
   - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
     excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
     publishedDateTime: 2020-06-09T04:36:00Z
@@ -144,6 +158,7 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg"
         width: 760
         height: 428
+        isCached: true
   - title: "IBM gets out of facial recognition business, calls on Congress to advance policies tackling racial injustice"
     excerpt: "IBM CEO Arvind Krishna called on Congress Monday to enact reforms to advance racial justice and combat systemic racism, while announcing the company was getting out of the facial recognition business."
     publishedDateTime: 2020-06-08T23:17:00Z
@@ -159,6 +174,7 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1587425495"
         width: 3915
         height: 2534
+        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z
@@ -172,6 +188,7 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "IBM will no longer develop or research facial recognition tech"
     excerpt: "In a letter to Congress, IBM CEO Arvind Krishna called for new reforms to combat racial injustice and said IBM is exiting the facial recognition business."
     publishedDateTime: 2020-06-09T03:51:00Z
@@ -198,6 +215,7 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z
@@ -213,6 +231,7 @@ related:
       - url: "https://images.axios.com/BSi-De8yXAJyuFHPk-8AvK7hYpY=/2020/06/08/1591657676986.jpg"
         width: 1920
         height: 1080
+        isCached: true
   - title: "IBM exists facial recognition business, calls for police reform"
     excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling."
     publishedDateTime: 2020-06-09T03:58:00Z
@@ -228,6 +247,7 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
         width: 640
         height: 428
+        isCached: true
   - title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
     excerpt: "The tech firm also calls for greater transparency and accountability to policing following the death of George Floyd in the US."
     publishedDateTime: 2020-06-09T04:15:00Z
@@ -243,6 +263,7 @@ related:
       - url: "https://e3.365dm.com/20/06/1600x900/skynews-facial-recognition_5009232.jpg?20200609042007"
         width: 1600
         height: 900
+        isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
     publishedDateTime: 2020-06-09T05:54:00Z
@@ -256,6 +277,7 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
+        isCached: true
   - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
     excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
     publishedDateTime: 2020-06-05T18:16:00Z
@@ -269,6 +291,7 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/05132526/StarSearch-by-Real.jpg"
         width: 950
         height: 741
+        isCached: true
   - title: "Facial Recognition Market Size to Reach USD 9.99 Billion by 2025 | Valuates Reports"
     excerpt: "Facial recognition systems are built upon computer programs that analyze images of human faces by comparing patterns based on the"
     publishedDateTime: 2020-06-08T12:19:00Z
@@ -282,6 +305,7 @@ related:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920
         height: 482
+        isCached: true
   - title: "IBM quits facial recognition business, opposing its use for mass surveillance, racial profiling"
     excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday (June 8)."
     publishedDateTime: 2020-06-09T00:54:00Z
@@ -295,7 +319,8 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/06/09/rk_ibm_090620.jpg?itok=MpCKbFL8"
         width: 763
         height: 509
+        isCached: true
 
-secured: "5utnKQ/08O8x/RTXGhd6RfYRbYSAIK6MeOeuIwsoGlhkfsPbqT3R21nCq04WBuvn18qOILsbSNJMybZdGXCDS6rbrAbrtdJ9WHfkkfJz1ucOw0JABoPWakznE6hfSIwiChUVXnknfiD5lk0eVoAgeJ61AHsPwig6LwaMN8iVUYgL1kn3VU2IaM6Eq9td42pG/aldpGlXDy2hGfhT2K25L7RJAd5CRQ7dAHmZL/p3FJoDg/5vrufz2uCNY3UcmwqKZQxWJRLej2gSwpahczmEgX5IbFfoyONvKOSKzCcMN5nr0zlAgkRewGowZNk8qyLhhnwq1H167IzgYlTtqfdHBP64fWt2GXpKT07LztS8YzqjicR53M+XQYfIdCnyCLUC3xXC0mpUGrnGcZYn62cos9csJ9aF4oRAEmucrP34QZdda4PlJ3M9SxZG3KtEIdYmdpZnljuS5n0KVJNGwWno+Tu6Zlo5DiZ3DMqDMIfW7Mg=;/GuBhDSHahBfxPuWHk+atA=="
+secured: "eTS3dQynVGTT/tvfqCCpFvA6IibN85wHKzTsGFh8bAvv1oCJ23dqGl4cGQ8yNGs2ouy79Pj8jEUtvm4Tfr9O7sBZu7MPmsuFJdYlOQX9HSJt8tsKSTwq8NUfHw8fhmcRAGqVNHoJhZB0cL91HZfKcy3QaX1wYvKOWho0XRtRYmhz68ydFxhxPMEd8tkIsZjhiV5eokhn6ulZwT58MX7JjERzd545Ga0pASn47QKJPkFQiDHfgCYNOs3FYpEf6TzcErlEQnSkr+qK8HbPylsOcl0OngAAbersfPEtJEb+x7JqiLLJ6SyaoN0bHzQf6otc;7bR8SvRtk1fapFRzk4eGBA=="
 ---
 

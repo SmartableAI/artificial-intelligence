@@ -23,6 +23,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdd659c6-201e-489c-98ab-4f1cf4a86160.jpg?source=google-amp&fit=scale-down&width=500"
     width: 500
     height: 281
+    isCached: true
     title: "Robots can work remotely too"
 
 secured: "GdrM559OyXICn6Ot8isSL9ZM3SbaGnc0/D41KuSv6x79jAlmE5K6cVEL0ZAZ7fbOhdFmO7Gn7ES9Gg+hATxNQ5S3c+epvpROSQqhSKJl4wFk79qJfu7aCAoReqxEzTHHMj3sA9uvpmN7+IK4hOS8/kS/CoEQ5kQbhY6dkf8WFwaAFRqxeNLn67USJbSxz/5GhpVv4DvW10pIb0AENfsjGtsy1ljnzijzjsXYaJVeVm4jFp5LBeP766zwxi7ATq53qhG8zBeLqZsz1OqUMH0acF/vO0CZaLGev4o/1zv93gOg7H2EGXKGu4i38G7TLlAD;A9f37eyu9gMrnsGWILh9ZQ=="

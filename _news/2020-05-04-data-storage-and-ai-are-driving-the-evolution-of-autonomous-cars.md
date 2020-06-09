@@ -27,8 +27,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?fit=2262%2C1208&strip=all"
     width: 2262
     height: 1208
+    isCached: true
+    title: "Data storage and AI are driving the evolution of autonomous cars"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 641
+    isCached: true
     title: "Data storage and AI are driving the evolution of autonomous cars"
 
-secured: "7pT5FbxKmoN4QhPyCTlWx9ZjVTYoozm113caUAKdBliyXhCHMcHwkPRw+5qEq5uQ5c22cR2ihVW+NXy3hsHSIag/RdRG/wKBo0BLr+majo4Iu8FCECjIguKnT7AiB+agHl+hT9WdiA6O6kTGrSEWDnucT7LlDzHaWnR6hlw9IrQ9FoD8EYo+l6bZ2tfWTfHgQvBKHsnZUhVFgMNVOvKkAKYRW2XlhMpULX7OgFZ/Vz1tchv7wasz+4DrJuaxRpaY2ZdpzYpfgr4cJkJG5FrtG29uWaZjuDj5ZkF/KRE7wMzKjPCu6bQgHCJSlIohdQAyEy8Zm+hWZnkOtgt9mE3n9KC6axkhqiuLbi9NrT7MHuqyP7RaMN4b2uERPc1j64jNMsX/t986OjeBGgq3krp3sBYyNBlM7Qa1bMFZRSCKqbu4n2GJtmR2ZSsrxW6hJdV1SgsYis1E6KEbYBl+wE5pJKGL2C4kTTX/md19Wgg8O6g=;Qb2qOWaXZlh3LaSDc03/jg=="
+secured: "23tJ0MfqInwauIzWLv4+IKA1JzLiWUBlXpdTaZrTWgoPKm0i5/YWgdOVoDhAtYSZhxeRcYiexORVOjgHLo8GgJeBbEyAd+NTxvPMSKhUB6iBJO4TpeHkxS3nWZvtUk4B2JXcFDI9WOaHRDQIRoH+QG+dKOrV3J01HwC6JDfCIufrqc2C5JXr6QOtKikJ2oRsGoNDyJWpOqZk05MQ0RKheEelpy2N/lsmgWryKiRXhYioS7X7BF2Ly0FSITyrU1GMbxM+3dHP6OGED80i6rTGN6m9APMxWQM3jzSTiY0cicxp2KMr2HJGBJ6rCCznegx9;2ICERMKNkqYoM6l5gsp48Q=="
 ---
 

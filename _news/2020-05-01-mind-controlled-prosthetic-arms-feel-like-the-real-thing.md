@@ -27,6 +27,7 @@ images:
   - url: "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Mind-controlled prosthetic arms \"feel\" like the real thing"
 
 related:

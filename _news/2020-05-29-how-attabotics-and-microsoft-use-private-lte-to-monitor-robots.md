@@ -21,6 +21,7 @@ images:
   - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
     width: 600
     height: 600
+    isCached: true
     title: "How Attabotics and Microsoft use private LTE to monitor robots"
 
 secured: "yjvwPFtTo3u/Jvh7HZQx73E40Epo/7xKzJ6cWx269735Z4H/afadX6bT9HL9sw1EnuVlL/8OjIQsFQNlzDuVqzF/xa+Hy1FqnMvBSxbbHHyBQAuu4nYEFD+AocKSbhutEzz14ma6apptXw6BI9TaPjRR4lRVufM8AnJ6bMTZakJeiRM2pN7070TzpLvVz80PIEBTRNX9kwlkGSKv/5BDOZNufJAzmE6ECpnKCHF2Jv48LGTJAOhvgW43dVD5ZARXBmWfz0nz1rWDfqRuWIo4alGzPjD16P3uENQxj3o5X+/tfVR6Q1Fdy+KwcoSqzLY0;3Phh1YZCD8wCDfaMc4izCg=="

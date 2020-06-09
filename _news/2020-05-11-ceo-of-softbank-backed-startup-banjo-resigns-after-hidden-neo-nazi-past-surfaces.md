@@ -26,6 +26,7 @@ images:
   - url: "https://i.insider.com/5eb9a1f9204ad31b3c0f51d3?width=1200&format=jpeg"
     width: 878
     height: 439
+    isCached: true
     title: "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces"
 
 related:

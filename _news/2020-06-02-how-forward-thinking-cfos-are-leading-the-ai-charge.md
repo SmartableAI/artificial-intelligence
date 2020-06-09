@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed52943da1f770006140abb%2F0x0.jpg"
     width: 1200
     height: 674
+    isCached: true
     title: "How Forward-Thinking CFOs Are Leading The AI Charge"
 
 secured: "IeTXc3vNBYx5M7r4gPWCWvh3p1vBoXXsoMYokCTdep4vyDnNgGJWEVyTeJTVW0V2piRrj7Xab5gTIOEZNJECJJg2Lfpd6JShH1QtvZ1N099DDbEHJdN236cPdHqsWFxLgTNjDwuKgNoRkStioc26dfyB5ggeKDBCEer4ghfTy9MUQUKOC2prD0WR2RoZmDa0QlsPod63OSyZgqyUoqIU+PXOFsb/+JaEIzjym/HDOQP5CCrqNNFQ9SUxJI+QIJOqRbMn0fJ5+nfSgYSTJg1Gi2o8ULfh+ndQZX/wMSgT85xn5AUmXsGs2kN2od1ViYRM;CQx8o65xgk006rPTPzPlJQ=="

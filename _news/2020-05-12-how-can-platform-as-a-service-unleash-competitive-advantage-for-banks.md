@@ -21,6 +21,7 @@ images:
   - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/05/bank-10.jpg"
     width: 1000
     height: 707
+    isCached: true
     title: "How can Platform as a Service unleash competitive advantage for banks"
 
 secured: "JFj6+l9KWEex199IST6znKO6gzXIdmmW0CBZW7PCM6S8HptoJStpoomnCe7vTftGnd1BAxk/SJTRHVVU+5R/pARJdJG10Y4TssRfT2+tRUsUUNQWik5i4mh+lAslz3Aa+39MRTdn5Y5o6J25bAneyd/BHyLlkuzJVf5GuQRlzJyZx5uCJA5gPojLH2Rnumy6pf2O7aI6u6U47/VTKVO8hCsBUXAcY/BUDgcafpvgsR7oK9MQ/WSZWKkMQX/wZfT/GSfqDzqouq8xGAoF+1dd39mK0tpeijBeMMoe1VWqIyspnfDSlUYbvvVM7BNileUm;VPUdmPh9UKDvLAvS14GkKg=="

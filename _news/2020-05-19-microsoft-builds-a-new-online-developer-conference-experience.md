@@ -22,6 +22,7 @@ images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/05/KDbEeqOL.jpeg"
     width: 680
     height: 383
+    isCached: true
     title: "Microsoft builds a new online developer conference experience"
 
 secured: "7aPkYa5Lua+fqgmcUpDDS+SRIoFG374J1bOGQbuzXisuuSjycaTCWJqWKkEdJ7+P7R3uMg5mk1VMhXoYxIUh1uKmDXb6zai5yXNDrggHfFmDAUI7DDapz691eiDgGmGyEvDy8votLext2BgQR2vPGRaT5XnkWdGvXZHYdvB8lURlCuDuPmKoggjo9mRsAEHzGzFSlxvOL+BFVMun8cjHf0HiUbSJQbk5OBD0M/yLWqWWBNBIbOir7Ancmglhjae51/+nAQlzH1pgQtbk54RnaOpc58UyQyY0gSfHKs4s6NdeO4vfVBC24KrIoLU/G7EE;kSuyXOJlralxzNolNvVWDQ=="

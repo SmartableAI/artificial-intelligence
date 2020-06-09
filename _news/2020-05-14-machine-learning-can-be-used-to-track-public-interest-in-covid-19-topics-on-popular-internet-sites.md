@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Machine learning can be used to track public interest in COVID-19 topics on popular internet sites"
 
 secured: "X7lUUIdtkxQptbYl9kMDxnoQrb7/k5SfaSVvP4x+dQeV3EQcJfa3+T2V5QeNBUL38nYL0j1ny1FdOqXF3+CVUUQK1wGF0oCp4W9pS/0Rap0XwfUh3pA8FFgGJWlXmhFQJjPbNMQLPbJwAc4j3QAz9FefKfoUNM4TiI1ala/k35LfsX96SrnVFsTI1gnH31/iuCk7+bktxSlFX3vwh0Zazh3HahP1Dv+QQ9TpCSBJ4xLnfO3go5yKJqw1iOfazGOWsCNK8wgCaHlKwLdX6g6dZz+ozd4hO3xhe32Qy9q0r2IJN9NE6EDxqUNA1bM/h0tf8mVQ2I3IYiGCfyCaNLM3NGoT0VAq9TiYeyoz2MESwFrbKGG8uT1AXpX09Fwh/WWLr0HdXl2nAHv1RNJrfnVzhh4HEU5AgVBWat2QGNx2YqTM7pmxYbqhNF/7VBNQm9utSxOLCxXdYXjsCMI/rYrr04td364p4oj/+vd5vo3OCi0=;6GM505KVL+N5W9TiXDNh4A=="

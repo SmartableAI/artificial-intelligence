@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1124381926.jpg?w=1024"
     width: 1024
     height: 585
+    isCached: true
     title: "The Station: Amazon eyes Zoox, Aurora goes back to school and Cabana hits the road"
 
 secured: "GJNPijnUMYsTqaP7nrScp9vvhbFR9B/Mj2eN6gbWCGcbQvTdfJxrkTBHhaXYauZSMrfgj7gQbeKWwTJv87q2ihpDp7XC7KXq+xFv493barlXMza9ulPjPAFA2KD/4zHIYu2nWmiATKfAYrcN7ENY8TU/MfJnooJmEwXcu9IzFiAqxRRV6lD65mzm0PqtxjOyeRVC7/H0ojJPnV/iFIR8N60fWwWxRXIClqXYgxNvYA/NTQUkQH6exGa5fzE1ii03BYrlazTpZXJuZdn7muEFGTnsjw01I5pQIhdBYTeNDeFpGpZVWFWpwV96P7QUs7N6inKcHaL9e9k3JzHDOnVZAdugUn7m6388sjJCRCRee9hcsb4jGz5Mxt4ed0Kz0l8A5wnBoAzYLiCYkwG3yW2GRtM+tjpt+4nywgoHxMMLIRHLHJY7GfVG6IlOIz8TUGkkli8a2rwzIJR2beyqvxfKXLmdZF/mDN7avJckQvz/RjU=;FaviIXIqjhTEul1lKEhlYg=="

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Research on AI in Asset Management Market (impact of COVID-19) with Top Players:IBM, Amazon, Intel, Microsoft, Apple"
 
 related:

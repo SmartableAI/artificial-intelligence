@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindubusinessline.com/incoming/5tzarc/article29290040.ece/ALTERNATES/LANDSCAPE_615/iit-hjpg"
     width: 615
     height: 384
+    isCached: true
     title: "IIT-Hyderabad develops AI-based Covid-19 test kit priced at ₹600"
 
 related:
@@ -40,6 +41,7 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/5/w600X390/AP20143492593570.jpg"
         width: 600
         height: 390
+        isCached: true
 
 secured: "OJIUZat9c6gf5i1EUPNDL7YnnSaqwD54A32aGsHlYEL5XTqsWSKIEoB2NlJoQPE6UUYjc0UooymKMD5oTY00JO+0XshkO5lPOZYG+4g5OyQF9mYSXkzSu0QsFnAEsuBdqFGoyWpT0DtzEszpy7kDnE4iuL2u6ZQsHdsjtGLDM3wjWtcmSTUuCNF2dtsGhCzCzDz7xvUxI/g0TMtB6N3F7g3mJIYoZeAtr2dci9F3fijODAMUOStT4Beo19ujPLE+dS2ISQxbMtfeR8GbC+exxz7/k1W0/gj1mJ41prnKgmvH42A5shI1d6079ZS9jlLU;pFRcAKIYiZjXVg2elCQBKQ=="
 ---

@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg"
     width: 1600
     height: 900
+    isCached: true
     title: "Nvidia's first Ampere GPU is a silicon monster for AI and servers"
 
 secured: "x8ySCMdysJ9PkuRlaPjkEqRH/0HMssnCXnaz1k0KL2iR98vhzo8oH6rffZY8uLCNb3j60NeB3ybGVbHACQacPJiHpNdHyKZdZcJAsaC11YllIMyRY0xYWWybaHKoz8kI47FaOKxDVEg00XRBwyfs52Uyd5+rUoAsnvmd44jRJwvdbUjdchXAbKRiW5yk+0kl36M/pDwkm1fEayGpxO413yS8z7TV/4VFEzoU2MktgfirvGs6S5jo4s4G8RYDiMeRtow7tJQ2wWHNNcdFosSv3kjCi8eQoKRlT0ZT0hZWjPwhyoSnpZNXgiOBCRdEoPg5;ha0ta4zRQU6//4TU40J28Q=="

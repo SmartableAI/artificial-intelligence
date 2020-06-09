@@ -23,6 +23,7 @@ images:
   - url: "https://photos5.appleinsider.com/gallery/36050-66682-front_quarter_SMALL1-xl.jpg"
     width: 1320
     height: 743
+    isCached: true
     title: "Self-driving 'Apple Car' may combine LiDAR with other sensors for better decision-making"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural Language Processing (NLP) Market - What Are The Main Factors That Contributing Towards Industry Growth?"
 
 secured: "e6pJtHcRefet2up3d/s5MRC7bg5vl7Gz4NeOA7X01g2ghyOLNR8LGd72VKrHzxY9NFkgJL4yCEus3dmVL6K7uylnNWD04EubXzvXm3TA58c0+tuqT8aSdBlzLOVId5mTRgjR82nLhA7bxOrj0n4LZOWe+dFFDin0z847zDICAOWiG4anEjJfdBDnbDLSpiIqHm0GV6yjsYiDFo3qPSQHY22VjPxLUIgGWm/tCGgYHX13bitBDTIXa6IQoJiNRuEwumnu1nh8Pcs1I+Iet55uhTjl4K6CvP2fim1/Stt6n4/lIKAlA0BUSVX5d656YiXZ;l4X4r37GhNRlEXl6cHfbjA=="

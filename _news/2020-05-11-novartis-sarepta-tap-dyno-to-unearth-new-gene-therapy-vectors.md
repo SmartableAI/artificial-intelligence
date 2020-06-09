@@ -21,6 +21,7 @@ images:
   - url: "https://qtxasset.com/fiercebiotech/1588979831/dna-1903318_1280.jpg/dna-1903318_1280.jpg?t.2eZ5FSDr1S5ybezl5h3kF0HskfKFHY"
     width: 1280
     height: 720
+    isCached: true
     title: "Novartis, Sarepta tap Dyno to unearth new gene therapy vectors"
 
 related:

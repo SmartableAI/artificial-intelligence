@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg"
     width: 1200
     height: 590
+    isCached: true
     title: "HSBC introduces index fund built by AI"
 
 secured: "pG/GOdea+8XpT7a3WtGx4ByUEKe2hyEKLxBqA0BSYw5L09T2msu/l5iF9qaeTZJCy+MZYealpLxdaSqVji6yvFNMLX1beO7RB35qlvvPna0M8bbCMDQRrFNKBH5CThrCAXGi/6KpYgbYBGFblZw+OEx655SMXZLwFFzCnyT3pNHJkO4iljeD0JKZ0+uwd7QbtRZL1bdvop8qSp0ZIWIT4TWeiyCOCQxaCIZGcD2pUtmLQWdQli/X9SssRQ+B0bJgLV8DNve2B8XVpPiCNTGOY8mCrlReQu9iFHue3tkunDXq96I0k8116iz7SYcprTfqMlsTGbsWOtJqVOEbi8NGS2BWAvOepJc4LlzgSnWzqE/DoWhlN9mHvDb4Ui/trIlk+BAAw571/bWF/ZWmuhGsGjxUmuOnjC2kfjuhyAbd5q0EXz02ITgMgfApLMkHuPC1t21k8u7RUWHKRCZHMwpVgO7q3dWA+3jY4xv0jegcQtY=;UTtvmhVPSaIVz9oBzVpM+A=="

@@ -26,6 +26,7 @@ images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Michael-Kratsios.jpg?ve=1&tl=1"
     width: 640
     height: 320
+    isCached: true
     title: "US technology chief warns China 'twisting' artificial intelligence to target critics, as America joins global pact"
 
 secured: "845jQePi+cmRV9HjFvMDLkqvcEWa8SRkh+9eb/uAVDDEvZDUPjIsevGRcJ0dorSM9jm5R36YoKgav/GFQelK3ENbX4TwoegoDye5bbh6ebvAjJy+LP+jbLUCBUvRl2hxQ6knkxzg7S3l7+Kgj8rpAtYpfZzV1QN9f9KEyqCx4Dr50oZwurdYysq5DPtdn1PZsZIcZ6rtUcZsRKtWxDsLkFi+xp/ENLBjpcMcbhaEzMT4ZFOZt6WP9f/g6j8U8pfxx+p+lvNsRC3wzNQVhkcwCYLx4ap1YYrLxBQz0yRYwGBij+lUcauXRoPW0eQdC9O44h9Bxy2bUTcuLFhTu4Uy74DTxuOiNSVuke6RQ3k3xOb6YqLL6IebOMe9WxXfY+Ns8/XartBz6z2Dq1JaVLgD1HcUaVT6Z7DBusG6Q2e7zYW8MYsMG1SsMQMBjiAwJW0uE7amPIN/r+AnAOsZfgkVoYrF5D1FnU9S151UiZU8Gls=;Z8Ic19/MIRR8OsehdHqAAw=="

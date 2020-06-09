@@ -2,6 +2,45 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-01-aws-facial-recognition-tool-incorrectly-matches-over-100-politicians-with-criminals.md",
+      "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
+      "excerpt": "Amazon facial recognition tool Rekognition incorrectly matched over 100 UK and US politicians with police mugshots, tests found. re",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
+      "ampWebUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-facial-recognition-tool/amp/",
+      "publishedDateTime": "2020-06-01T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
       "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
@@ -22,7 +61,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +74,8 @@
           "width": 1200,
           "height": 630,
           "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +108,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +121,8 @@
           "width": 1200,
           "height": 600,
           "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +155,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +168,8 @@
           "width": 1200,
           "height": 675,
           "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -158,7 +203,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -170,7 +216,8 @@
           "width": 1200,
           "height": 695,
           "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -203,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -215,7 +263,8 @@
           "width": 920,
           "height": 470,
           "title": "Remember S Voice? Samsung is finally shutting it down",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -248,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -260,7 +310,8 @@
           "width": 5000,
           "height": 3334,
           "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -292,7 +343,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -304,7 +356,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -337,7 +390,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -349,7 +403,8 @@
           "width": 818,
           "height": 545,
           "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -382,7 +437,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -394,7 +450,8 @@
           "width": 2020,
           "height": 1148,
           "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -426,7 +483,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -438,7 +496,8 @@
           "width": 6479,
           "height": 4319,
           "title": "Understanding the foundations of successful AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -474,7 +533,8 @@
           "width": 800,
           "height": 450,
           "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -507,7 +567,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -519,7 +580,8 @@
           "width": 1024,
           "height": 767,
           "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -556,7 +618,8 @@
           "width": 900,
           "height": 506,
           "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -589,7 +652,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -601,7 +665,8 @@
           "width": 1200,
           "height": 675,
           "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -639,7 +704,8 @@
           "width": 1200,
           "height": 675,
           "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -672,7 +738,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -684,7 +751,8 @@
           "width": 1120,
           "height": 630,
           "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -720,7 +788,8 @@
           "width": 1200,
           "height": 878,
           "title": "How investment in AI, robotics will impact Middle East economies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -753,7 +822,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -765,7 +835,8 @@
           "width": 1200,
           "height": 800,
           "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -798,7 +869,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -810,7 +882,8 @@
           "width": 1000,
           "height": 666,
           "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -843,7 +916,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -855,7 +929,8 @@
           "width": 1000,
           "height": 671,
           "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -887,7 +962,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -899,7 +975,8 @@
           "width": 600,
           "height": 350,
           "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -931,7 +1008,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -972,7 +1050,8 @@
           "width": 1200,
           "height": 630,
           "title": "Waymo's self-driving minivans will return to California streets in June",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1005,7 +1084,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1017,51 +1097,8 @@
           "width": 1400,
           "height": 933,
           "title": "Microsoft lays off journalists to replace them with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-this-indian-start-up-is-using-ai-to-monitor-covid-19-progression-inside-patients.md",
-      "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-      "excerpt": "Ray in about a minute and provides details about whether a patient was getting better as a result of the treatments administered.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351294",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351294",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351294",
-      "publishedDateTime": "2020-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

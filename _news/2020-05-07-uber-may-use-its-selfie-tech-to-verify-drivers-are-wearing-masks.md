@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/uber-mask-GettyImages-1211871217.jpg?w=1024"
     width: 1024
     height: 683
+    isCached: true
     title: "Uber may use its selfie tech to verify drivers are wearing masks"
 
 related:

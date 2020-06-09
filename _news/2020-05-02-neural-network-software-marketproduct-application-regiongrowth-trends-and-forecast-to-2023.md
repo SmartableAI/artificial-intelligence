@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Neural Network Software Market,Product, Application, Region,Growth, Trends, and Forecast To 2023"
 
 secured: "Bs/IR8C8g7asw8mAA565TYQ+TOkQvK9FzGwjIM9oznGyNkr+g8f2TYgCyAoCZ35wmQxq/jcc9KHbSxLT1Pm4JembHdYLUMpAReAbofRCF8jdIJGpyFVqZ49UeTp/GpCXsLejDrzQ8HCBKI6lorQXPeRnczZBzlaelnPGWMelBd3u6E0zKnF0GBJzUkcwnP7FAMNZXjtcHHqJVeIAebkFHSGUieD/Lzxzz8/9ZyC0iGWu0dPTgdz2StXQLfiWJSlcuYRUoX1jBYaqbS0UWPVQgbWJEKZGZDDiZ8hK2neB4nXIuW8Th/+erNCRL6dypbU1;0gXpyM9hlQT5KhKwBKyVCg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "Robots deployed to help Bahrain's frontline workers in virus fight"
 
 secured: "qlv1BEjsHbVdNDPE+L6ULjkFft2dDDkCm5pDaM/TOuVNHm+VQdepmt6iF2veNSa8ud6+vcRAqcybRvFyoIfHkZgn9SGOjVb5CGGL/Hlgr3DEUv0/+ENPd0i6StW49qeaTTWjjlD5Yo6/oY6YZCQ9SQvyPcF45nA77sCwzgmIDhEZGKNTIDydPivisH3Rky0VIbQ/y46aK/U9GpTTQMT89WkTMjlmw/i/U0XZai0fENtAQJLuswWNh2HQ8mWitKQ0AlyRuk3Jey9BEmOSnw57lIHKieGpVmRyUR65toLhiMVTUKc1c+ze3MAtDPoNCdCR;5l/II5YPrUwGS1ehTax+ag=="

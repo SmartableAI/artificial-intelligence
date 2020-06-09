@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Conversational AI Platform Market Competition & Segment Analysis - The Importance of Diversification"
 
 secured: "JR503FLDHh0Fy/u57idVuGRXZxzl7Dl3y3uIDDGnb8knDL4TysKovpGizbNn6M5lhkioS7Euw4CBviy9oduhIF++MZWfkTV4w2mfOMmiVKcbHWkDNlRBEieE5BczAMuEJExTcltNVsUscyoFms57z5ZANvBfNNBIXCbaGX+VOLVJhi6JoFfIpISr3Fan5Fry8xMt9LZ/kaVbErRgnv9xHDuPE9oN8aXyAlixKCeJfPk1HRT0uemGhk+ykEmUncE6ZnosjoBjp5eJw2rc6lGHSZm+ETPWZpMu6d2U5wu5HtOC6JKw136KplBl85764sw8;DYGs9kFEB1ZqDg3htSxGbQ=="

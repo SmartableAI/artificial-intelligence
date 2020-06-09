@@ -27,6 +27,7 @@ images:
   - url: "https://i.insider.com/5ec7db6bf34d0544465ba929?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Fluent City is a language-learning platform that sets itself apart by offering group classes and one-on-one lessons via Zoom"
 
 secured: "yph/38Kf7SdTdQBl+QuixdjBXPkduSXxCncGxtJKbIz2DoY2tfW8zn21zYXN36tmSnnbVcgTSTERwxin5G8+L2A67wDSXzTkp0cplBZudtiT9Em7LAEM2L3OYxsZv1hCeJQLSTymmQEwxRFLu0QWKKC2mFABAhPsxOUJD9ZzxgLp64T01gQA3JTgfyPtbVMeu9c/PABX4RkgO5PngPRiWNttST9M0274RdSt7WL93bBXJNQoDemU5kJY+UOfsEAHI2Xq45FfSkN/EGkz0KJCxq1aXavDhJVE2lp7BYTQIeaidDw1J0pZN3zGTRfLw6eApaTocJz3uInMiPi0w+VymGYKIrDvA4u66PQCvrEtiEpo6gSHB767PWpL4YAnAIWxr4CNBBPhsiVpijcEviD+ZkeR1mCT6jy8gQFJ7xkQtIWb0+57LsbWYxtZ7ObkFptZOH81XqxWH5QmgOm4NFAlidr0qu0nYftxl5lrjdjAxP4=;rnxtEtwAMwYKPhBIrK7coA=="

@@ -22,6 +22,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/20/coronavirus-home-testing-kit.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Coronavirus Update: New AI Diagnostic Tool Can Predict COVID-19 Even Without Testing"
 
 related:

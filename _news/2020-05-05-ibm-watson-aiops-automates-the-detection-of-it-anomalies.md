@@ -27,6 +27,7 @@ images:
   - url: "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg"
     width: 1000
     height: 690
+    isCached: true
     title: "IBM Watson AIOps automates the detection of IT anomalies"
 
 related:

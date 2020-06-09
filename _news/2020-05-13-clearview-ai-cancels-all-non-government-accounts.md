@@ -22,6 +22,7 @@ images:
   - url: "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg"
     width: 1024
     height: 683
+    isCached: true
     title: "Clearview AI Cancels All Non-Government Accounts"
 
 secured: "Ai8PlVFMQ5Qqtib8MUxTgCyI1m1ni1TDUb1ATl/3YUV9ea+aiJRh+gnduxgagWfh/LjCw7nHxk0CPNiGG8pEz8I8aQl4+EwwH56MeVMJ5u4+nflsPsq7YbDmPAOQQ1EmOROfPIyxarpR4Qg0hDvH93WjSkzBj6acESmR6wLClJwE918tZY6watgB6inmEMik2SWR1+ViB7suRInkC77z20TSj5qtZOCX4FO6BtYQN1xE4OkhKAgrGiz5MkmtAUKjkNrmOvHq5gb7FS7eQD1UBntPMTfefz46PC5SBdUwEIsTKwRtrOkUWR+YfwHgPV1h;VvrbaZbK2yRm+/RkfHQQIQ=="

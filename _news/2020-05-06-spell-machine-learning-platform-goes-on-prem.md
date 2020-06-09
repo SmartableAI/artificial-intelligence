@@ -27,6 +27,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Spell machine learning platform goes on-prem"
 
 secured: "6WpPQUyLo9YowY9WqfbDLJcMGyHxU0RZ4h7je+VEPjlR9O0y73/Zv3rtA+ykQhyeWScNUm+pm/qbxUyTfu9vusBN19or311/hCQESj4lbSac8B9gdYx0fH9RNBMs1pBXlxb4Jw2clEUJCPrzrRA+Op5Ns/hlXtVHUnjJBAldntsVsBl9fK+uE17r6IOvAz1aP7MhRBa46yc4t6bFXXqu17G28O9zUIyWN+Vmw4zQCxRtFz6YhWL0nl2pJ6foWKiMg3H1ujTuiQGgQyFWHhI0Du1Q8zmBqnCA7O7g9e5qGTFcx5xqL4GGs0lgb9cWd20k;G7+Y/Ns4zL22c/P8zgji2w=="

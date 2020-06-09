@@ -23,6 +23,7 @@ images:
   - url: "https://media.spokesman.com/photos/2020/05/22/BIZ-AUTO-SELFDRIVING-SURVEY-DMT_t480.jpg?40e0de30783bb1935d483cf08f48c33db09c842d"
     width: 480
     height: 270
+    isCached: true
     title: "Americans still don’t trust self-driving cars, poll shows"
 
 related:

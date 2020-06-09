@@ -23,6 +23,7 @@ images:
   - url: "https://s.france24.com/media/display/c567b7ba-a54c-11ea-a404-005056a964fe/w:1240/p:16x9/9f25f3b025c718f6696ab287e6a6b4d14ed108cf.jpg"
     width: 1240
     height: 698
+    isCached: true
     title: "S. Korea's self-driving upstarts take on tech giants"
 
 related:

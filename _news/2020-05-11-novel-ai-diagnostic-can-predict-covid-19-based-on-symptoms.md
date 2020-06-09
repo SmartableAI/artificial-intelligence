@@ -22,6 +22,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Novel AI diagnostic can predict COVID-19 based on symptoms"
 
 secured: "6U778VtU5FpztOxiuQrd3jE9xnzj9lbnkVIw1rYOw1OAsgrCYjRxXsQT7UXVpUvGGIRcZp8NxqVuxaKD5/B0rqNWq8QUdQZZAR8TMS9lqBVcDya1G+T0EjIK0zJTjLOBlpQ8YaDcIkBO7U4guTUGZgRN4el8FlM2wYVWkLF7rcdPCT5q6q5gPu1iMqRfN3z8K8NpqfIr284vH/5uBvjH59qE2tJFQTBYs9NMPgepaSPNgRPkoEqHyq+N86RaP4sB9/wyHx4iAvkmJgI12PLcxI+ooNTeXbbHryJvNxN6xHqg74P+Tb2S12oghPEE1awW;8PhjwxJUu6+FsPwZ/Tl/fw=="

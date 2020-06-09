@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale"
     width: 711
     height: 621
+    isCached: true
     title: "AI Can Help To Inform Pandemic Policy"
 
 related:

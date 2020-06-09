@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Aviation Market Serves Complete Insight On COVID 19 Impact Study | Intel, NVIDIA, IBM"
 
 related:

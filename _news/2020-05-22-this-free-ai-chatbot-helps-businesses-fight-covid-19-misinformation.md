@@ -25,6 +25,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Coronavirus-1-796x418.jpg"
     width: 796
     height: 418
+    isCached: true
     title: "This free AI chatbot helps businesses fight COVID-19 misinformation"
 
 secured: "e04UFnvmYdPUNg5odQnhQE1jvWBDDf4XbyWUiI38dvOapktaqjkYrBJMGXFz8KU8aFsp2/77TdXkUEqRK8ukixo1DiOaPDEbQsAQqCtUa05y1OOem0B1sgd4Jo8AhkXB1DofGXgKc9rOY/CosoFFNUAgk0I+qJ3S3yvahI7LnK60oohLEH618E1IKrFzVzQKflJe0DdPpU+FivHUF18LxkGU2jtWktHeEUYR/4YekFMYfa2z/X5yXKG9xTzo2twTeL+WKHBaY159pvRgEVnfqy7F/70MZpKm8V05XsvLpeTgTa9wosCpppagZ4KzxFeM97l/Rn4sdSzN68060vKjYG8thLfBWd0iRnRJEGDZY8StfcNRC7MzL4qCqG1QBfCHz+0orgqR1ao7PVGkjxGs29c/GkXUdVUJ5p1Mf5chFJMFIZvUZhcOYDUq2b/mKMWDEkv0FCa6LzyvIqTQLvc/VT/+8lkJPg5X9fv121qCVQ8=;+W+kp9E+GjWSIJKMM990sA=="

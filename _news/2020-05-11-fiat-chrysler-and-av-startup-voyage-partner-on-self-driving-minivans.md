@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024"
     width: 1024
     height: 682
+    isCached: true
     title: "Fiat Chrysler and AV startup Voyage partner on self-driving minivans"
 
 related:

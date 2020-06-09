@@ -21,6 +21,7 @@ images:
   - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/05/COVID-incidence-rate-JHU_051520.png"
     width: 1021
     height: 607
+    isCached: true
     title: "Using Machine Learning to Estimate COVID-19’s Seasonal Cycle"
 
 related:

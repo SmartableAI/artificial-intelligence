@@ -21,6 +21,7 @@ images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImage/130553-4_20Report.jpg-ORG.jpg"
     width: 2400
     height: 3225
+    isCached: true
     title: "Special Report on Succeeding with Machine Learning"
 
 secured: "yiDcxKrHulaJvrlrDuYDisfVkuNFDWF3WQepBU2L6BqwaL3f8TrJ4BG0nVjJbiU0jb4wblvWT75Dpuarye4Z7NdrbKF8WuhdvtC5Yzqkw6g9ju0VrXt0ziq6jB0knP0s8Yr40sJHxO+Lzrx+K4CQKTgy1HDtCOrMh+eeMeRDplORIAwdrtt0/p/b1/BhltqHBZqrTPBQyg3uC9duymVUOv6xEzhzuJUHzMSkypdjObOxMmWjezXTP/FDjVMsOW7BrzpTUGhTuw4EvBQwTQdFrSdXsdVpYRerZWb7LtWhspPAAozXuYiwGM36VnR6zA27;s5z/6pCT2nvXZJ2B63tMpQ=="

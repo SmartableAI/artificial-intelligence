@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "At CAGR of 33.95%, Video Analytics Market Top Key Players, Industry Share, Size, Trends and Forecast to 2025"
 
 secured: "ojgAv/go4XI02Z3JIqQlXLnaI00NA6fOx8e3FKxHBDWEAreDfrYCNbIxBXOEudbaeQL/2TJNEvAnCLJhDbGj+N896UbHLtBDQKiUnp2icwswT5zLingBF67sy9n0DbhjFzSvWIqigKLPmVUWFscYhpnPsNPLkkABb87J+RjGjs7CZjt+7/sDBXszUWmeeOTFTkyGSDbS2hx0LhJib5YGnsTYSR8sLd2GUw9/43acNXS03+k6YNlX0fcMqflMcfRM0k+achggnKkKY09Aatu52LUkjrURv+8TLR2GIKKU0vDuqG8w1KGSosdIxF4ZQ8jz;LeF0M+WaqJOdXVYIHtx12A=="

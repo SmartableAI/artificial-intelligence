@@ -25,6 +25,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/Google-Lens_Read-out-loud_Spanish-.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Google Lens updates make learning at home a bit easier"
 
 secured: "3xHKPCW/CbWxr3rTPEUhboDC9lYfgxg4lvejww5xJqCsnzz9BET3Np9CV1vqOx+FQo/HBTBQVnyWD3C7sHi8TUgEKyMxCg7b1Y+xmZ86AP7/b6aJq/0NVHhV4l8j+kuZv7IJ0NQfHnIcsAkGe8072CQRhHKDK0SItU4YJKzHcczOf89Ns4NEuBwiryCDIo2S3l7LlbqU2sY3HBAhtm35EjqoRlr283apEQmk+fcCaBrKxpUll0fs8pXCb7OcBhFsPhXGCBvq2HODO/wgoQIXOjVnMT2ya8DHY/V9lUJEt33Kh0tg6iLntgI4qd4F6V2e;Q1wrbo2umqIQ8qpKf4laww=="

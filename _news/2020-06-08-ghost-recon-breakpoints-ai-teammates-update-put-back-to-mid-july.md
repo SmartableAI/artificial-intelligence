@@ -45,6 +45,7 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3674762-gng_site.jpg"
         width: 640
         height: 360
+        isCached: true
   - title: "Ghost Recon Breakpoint is adding AI teammates this July"
     excerpt: "Nearly a year after its release, Ghost Recon Breakpoint is adding AI teammates. This is something the community has been clamoring for ever since the game first dropped, and now it looks like Ubisoft is granting that player wish as of July."
     publishedDateTime: 2020-06-08T16:21:00Z
@@ -60,6 +61,7 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/06/08/60_feature.jpeg"
         width: 750
         height: 422
+        isCached: true
 
 secured: "2zRy8inoyGaKvmhh6iZKNpTPsWvKUWo9MNV4t/KH8HKA9LxCopx2gZ2LHYmX7xBLjjLphZzG+VAzn7Dmb/umHpaI3rrou2RpY8hHqPWKg1ciaTLtQVtLXtKTIJ7WLXNPoGyXhs6jnKMOFNBko9ZSakV0pDdDK8FYjEb7vzz/PBq9J2o1NnB4QszYVLo6JxzP5S5Jssu77YdqVVhpGaHtk6RMEnB8OW/rDGu86H690jcChkzuEQeRSAyspfymSpmX5Tidn7mAQdfYdqsdd2euPaWXCJfYt714g3WSCigeWDgfne7iYoaD4z7a4zC4UNueRnt5LL8kuYhFGrvoNfjAZlmQLklNlDdxypaffyZUPPh5epR+K6j6LH27G3DATFCvPhi98RFm+wq3YQrO5GAyLD96x/knxNwanj/RaCqnNtJ88wztF4ca9Ciieiuo2MhAcRxSTWDFHJBbgubbShyBbJymJNe7oOcGGWWwq66fI48=;clwhq/HbcIda6NtgzSOQ4Q=="
 ---

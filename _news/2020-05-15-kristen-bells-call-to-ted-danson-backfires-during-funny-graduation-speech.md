@@ -23,6 +23,7 @@ images:
   - url: "https://media4.s-nbcnews.com/i/newscms/2020_20/1570020/kristen-bell-graduation-kb-main-200515_fae12516c0827f85af9c9b25f13c836d.jpg"
     width: 2400
     height: 1200
+    isCached: true
     title: "Kristen Bell's call to Ted Danson backfires during funny graduation speech"
 
 secured: "yM3UZ0rHhVPSXEkOgf94GLvsJvZE7aoyHEFaP7eBB3VuluPua59TSh9ey4jGQic4tTcqJ2XeO7qdwAK8IQNdrMlSXWeOKbUSHVF4qh/Fvig2/IhM7kvPPGPOHT24YAWid6TNKwYepsVL3toP6a6+Ahph/EM6y3fkYZkIRdggK8DhNyZKjab6ibWc5kQgr2Yus+6RTI7NF4mHeu5TlXrzWPOPfR2KjIK3mS7YgRbuS4KzCpwO7BA9hRzlvngZqNqFTUMgLzyEeWC6kYns2SWX0r6xJ58t/2Eq7zi79eOoA/zPlIwCpZGYPLuykS3dQPVO;wMST5S8IUiwCKqZEE78eYg=="

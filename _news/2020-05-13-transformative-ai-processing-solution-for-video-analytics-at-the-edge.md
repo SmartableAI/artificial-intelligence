@@ -21,6 +21,7 @@ images:
   - url: "http://share.opsy.st/5ebc581e611ce-Picture1.png"
     width: 254
     height: 300
+    isCached: true
     title: "Transformative AI Processing Solution for Video Analytics at the Edge"
 
 secured: "VkJz8+qBbFxOqg2b1OlcXJmtqzRGedtJrQH+krvnll2U7GBPrQyBe8JI/g3jmacoiRzbohtu9vmG0WbR4YD1A6lkF7Ngx0SQUANwGTm4KP8Z7XoMQN/2dz4mCo2YuTvgm0crRRvxp+jaDDkUpN+BQd+YRLy7JFubmT5jOoK909bON3k6whjwpuucbljvYGua427VetpasD8v7PFRfrDxC6o2eRFB7yq/WydmlhJQvXY3E94Y3ulS3JUAj10DlgrvJN78rFdTE91yU3722zZ5uPtLvqc/1sgwvYmjHm2INgOIUMdF44hKGXoBuVZUXfC1;QQOBzOe+9r73tsInI1ZLZg=="

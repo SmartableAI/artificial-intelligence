@@ -24,6 +24,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "Is artificial intelligence delivering results or taking over?"
 
 secured: "0rSo5B9SpxrrLZ3zs924M7U9XjItattXZlZ1cuxizV6e9kxaitcDfAyHFbBGkbEd7IgZTUuW7v2I6uqs2q96ix1MWKNDzyp032XQ4pBkaZhVFHovwjULf1SLQGUFXVzfHi0eQXCp4KvzFa0vhSePQegblHanzI4iXzxQVenPdQAeKQsVM/PA2hEZPK+Ix1HPh0c7CEbPHFDI8eGCFJWuZaINHhs4E1Hqhtgo+0fyux4J3lBgbbOtatcUnLAvGnVMSTc/lkvB3aWw1hYgtB2RHrQesswOX8MBZlfgjKH9ZDA6Wosy2pJ61V5E/1Sh32Ww;jzkgMcK/hh3mbhVfHO54iA=="

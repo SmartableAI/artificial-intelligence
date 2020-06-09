@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
     width: 1024
     height: 652
+    isCached: true
     title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
 
 related:

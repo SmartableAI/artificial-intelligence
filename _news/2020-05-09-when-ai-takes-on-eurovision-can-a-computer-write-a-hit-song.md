@@ -23,6 +23,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8e4d8686-8edd-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500"
     width: 500
     height: 281
+    isCached: true
     title: "When AI takes on Eurovision: can a computer write a hit song?"
 
 related:

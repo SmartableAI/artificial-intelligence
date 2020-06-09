@@ -27,6 +27,7 @@ images:
   - url: "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg"
     width: 2400
     height: 1600
+    isCached: true
     title: "Why Didn't Artificial Intelligence Save Us From Covid-19?"
 
 related:

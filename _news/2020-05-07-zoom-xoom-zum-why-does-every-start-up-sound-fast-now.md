@@ -27,6 +27,7 @@ images:
   - url: "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg"
     width: 1050
     height: 550
+    isCached: true
     title: "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?"
 
 related:

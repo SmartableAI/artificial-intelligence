@@ -24,6 +24,7 @@ images:
   - url: "https://scitechdaily.com/images/Artificial-Intelligence-Carbon-Footprint-Reduction-777x518.jpg"
     width: 777
     height: 518
+    isCached: true
     title: "Artificial Intelligence Consumes a Startling Amount of Power – MIT System Reduces the Carbon Footprint"
 
 secured: "JrAFR6/8PlrtGpS0HbNGyQoovdqUqLVt7B03iVQV4V+rFaqTkEP7K2xokjtE3H58nb2eUwNBP20gPpyvCdOnLPnvOljnR/nYVha9Wf1yCMl4X7yIwsG/GIOtEM23FCPqxcHZBH3Y1iop8j1Kqqow54JTLCyfskgrQYmpkMDUjVFzUpiRpwP4jvwiM4ZRbzN6KVFIMOXtNr5cYUNX119D6UgA8tu26RnQmR4yX7jBmPeXWt9nQZnfMiGRt+MEuHWRNc0UDZXzNKitiSyaeV66lW5Ycmd5KSq2yAt68iwqjzD01KNTbIer1mXnC73Mr/nx;t0q5IgVRM4U8dd948VQFtg=="

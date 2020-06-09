@@ -23,6 +23,7 @@ images:
   - url: "https://www.carscoops.com/wp-content/uploads/2020/05/autonomous-firm-employs-video-game-devs-3-1024x555.jpg"
     width: 1024
     height: 555
+    isCached: true
     title: "Video Game Developers Are Helping Oxbotica Test Self Driving Tech In VR"
 
 related:

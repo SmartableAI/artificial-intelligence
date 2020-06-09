@@ -22,6 +22,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-435ho3sht28ve5k5t3l8jlceo4-20200522215637.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "Bengaluru start-up uses AI to come up with potential Covid drug"
 
 secured: "HXfSTjoRRbjIMZHzNrThjutjh2xK9VnO92CbAnn6w/IIM1uRzCFZXrfLVsA1swE0bgNXR+VuhrL+gG4vcKhQbc9P9N+xTio7TcbtG8pkjzNmHM2+hpRXplN0xDJGN0qfmeUEuxYHXQQ9K9+20d7DRbo7xLZGScbk1JGIy73FLGdJ/U6rqgjMlDPZvSGKtMVbPzwUFkikUvjUVUeQ8hV6cGdpmuMxgkg1NFNvh8wDsXY6Asq/YR4K0XgKDDGbqcX4tc7wC1n+1v3mwFsSYT0zgNYOHfojgokQ/H9QOyo9sfc2XdHbufWv74+zyw53uFX9/VN9cYVCdDqQ8Wf+ODHSz01y0umMBHdBc8JajB7fMfogWoNjNjhL+TBK+RUQjmI7kEvwxyAX221xvArMoqILVxPjTwMjC/AiekSdDcbIOnQQ4T+iny13RkrGdXxoZ+zwXfMHjeF2gZvhjk26Y5ZgSkuEMWGkljMivmYFEIbOffU=;PQZeOi/BfXW4S8wQraCs7A=="

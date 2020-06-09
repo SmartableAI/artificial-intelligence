@@ -21,6 +21,7 @@ images:
   - url: "https://d28eiw7gjp7gcv.cloudfront.net/qan/qan-logo-a154P0000068DrPQAU.png"
     width: 571
     height: 204
+    isCached: true
     title: "Qeexo AutoML Now Hosted on AWS, Adds Algorithm Support"
 
 secured: "VEoO2iE0oxdshp0mntgaRQY2h4bi5BvQILbckdvvodoXkbcOkHC90Ch4UwetRPS0j+QtS+wnA1uQW1vpLTVYJrPuTcewkfP6xZGXEuAV7CthIXOnw4GENDDaF1CxoeK0peXRVsF9sLwkm7AR9J6dEkYl5G1q3/35op4sY5MupUxSRchBo1MqO6tYMlPS4fQsBfyjPEpcAOuuJ5Y3uipviSa/WoUP7xh8S5u/ad630YL26uCekj3cx8RvA6zF2/trHNebpOMDVXvvskShU8wTykIFhUeVwDrPVQbvNV8y0jxaan/Hs66fkwiSk5N8BZt8Z3Z19UWPizMOUDne7zjzYhqm5OjVYKRVp8UtoXJFAZfuWAabbs0cizDmqDBa0yjyB6BWeQyNfoJhOY6/IWmicAmwMJFihljPc40ly1MezWNX0lQ9AEv17B6ryPSYbH+m3aeDQcC8J50HfgAbr3xT92+CPqcOeqZqEsd+cFDtuiU=;GfITMTpbU6dOkXrnPH07DA=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas"
 
 related:

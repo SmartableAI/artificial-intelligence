@@ -21,6 +21,7 @@ images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Argonne_Cerebras_X300.jpg"
     width: 600
     height: 338
+    isCached: true
     title: "World’s First Wafer-Scale Engine AI Supercomputer Is Fighting COVID-19"
 
 secured: "gTDpiCpVD12hDvQTjEUsbOpShRQr6H4qW/DFs+ysEXVSCbxMbY5I9WCc2N2M59LzHO/zyLJrbxIiy/12IuCDd4oSb339CLxPMpDCvh/wnHF8BDnftEDKGocKtt+JARXldtyEgyeoH3oFy0DU6TxntSW4CdY+jKoToTTwDsEumqV9jipuMkVgRr5hkahS7eWzZpKwjStnMvMAEZE10RGA9KpqTO09fTmECmmaDdujA3oWAQRxH8joChxct/ObrWYRTVurqXeTxVXAf5yK+f1aT1RvI42Td56/bdYGrT1kZBJQzxPnEA+EcIy3U5ICDc5jStZK5TBnsCKSrMWHLblPma8A5IBVUQwWNTqvnCTymnzD2TivLCPYeUrTqfyFAeno53hSBEBss02Y7q4YEmZis3h95CSz/eLNEBNl3v+ivtulPtYP3nF6mGvq9haGbaB8eE7A2i/tnZwDnPQm53HdRwOadRZhaNru9GUqFGZqFww=;p5uq50NVRtELa82p5ky4zA=="

@@ -18,6 +18,7 @@ images:
   - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Red-Hat-hq.jpg"
     width: 470
     height: 353
+    isCached: true
     title: "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform"
 
 secured: "01+c+TLJ97i8HU1UlsWDdIWa8nEJTwV64p5fO+XNjC7cd0NZs/PQavmJ8sXYB82Rcybo48ReRxYQnZ7aXMN63jPFcmRkU2fXgaXK2GrNMm7BYvfUZ6htXRFY8ZuysV24Kmn4LTVoeFLch3zpxAnxTNlgYDP4E7KacyYgOwbswj1tRws1xs7MCUKljgZBy4NWG1TZmR6ozrEmG3VsCS7jpkzvwqIK8szcKEmQik5pI+ZSu4eSjbQHRAJOG5OVxaNz5zF0vctgiqC78nKSzl3fPqEpJpa+UnaweKXsV3kQ6j+l884jK8cdZLOczjqSHG82aQ0ho4HRmYISGJTVHPj2zySPS/3z0XXwY5bYouG3AJ3QwB40ChIZTEmSc2EqNwPyObXX5ylsKK3XJbuGkHXg0Z8rMbkaNEON+FJaQR98acFiBodPWGAxqNZvLoHKxtEI+tRYBfPwkw2NrKZ+Fay5mcPfjudNLr06favZogyOcJ8=;r2+7vSJ/LRJPfAmqWwE1Ww=="

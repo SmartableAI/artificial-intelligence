@@ -18,6 +18,7 @@ images:
   - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
     width: 581
     height: 201
+    isCached: true
     title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
 
 secured: "ssG2PDDvOSi6Jcy2GVkZL9zq/kcAZz63Qks9aOZ1/KnC1O4cnEKkYnkJkTdqYk0ogg69rCQcU1tgUAx4aPrpb5y+OQ5DoBnfvAAODo21hB0m5nKNeZe6FhsIlNhn1Z2FtB1eFPfRv9xoUXHOfFYr8d6mAw+l5EEcEp/8N2mUiFHdfk4QtVuCMQDXcusb5vgcyGM5EExIlOUc9oyoWDOKlTRausHrYv0xRFPncIejDJ8QLrm8bhWJC0vCaYAwYn4kHdBfjyqiPxik8jy4jP9Qc99KRkZBHjnjQ5aiH1+vrW4bZB/XCQ8nZauaRKC2kN4F;R2uf3wN0OsvBmbTKPe33KQ=="

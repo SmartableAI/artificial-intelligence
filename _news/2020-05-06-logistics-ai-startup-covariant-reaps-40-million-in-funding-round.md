@@ -27,6 +27,7 @@ images:
   - url: "https://images.wsj.net/im-183896/social"
     width: 1280
     height: 640
+    isCached: true
     title: "Logistics AI Startup Covariant Reaps $40 Million in Funding Round"
 
 related:

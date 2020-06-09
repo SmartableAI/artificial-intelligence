@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
     excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
     publishedDateTime: 2020-06-05T16:43:00Z
@@ -54,6 +56,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
     publishedDateTime: 2020-06-07T07:10:00Z
@@ -67,6 +70,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-06-08T11:54:00Z
@@ -91,6 +95,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "WruZOm+HZRsp++keSF4U4AeFEQ9jAz7ecTGY2EtA2U3MXYzl32OkhtJfF8uDm4UF1hZt4SD/3ht2mMt+CcU6EZ9cEjmVai9LXLwP6xXX16PnHGl8v5T/JxFqOGaZszF8bksWHAvQf3JKw1fAIKMgUvG6NkbcKx9COwYhxPnLjleqBVIXapExyFExS6TYNf4E4uOfgqCtgggTS0Tx5+7A4/VV1bD6qbU1LkWlarmL72l7SpYQ9vh95+08b2tG65FBHeS8MdtvXqGtsc5TOrEue1EYJfezekWcigQzEVaKxnj2fBElFSIM2DXVGDX+fdE/;NDv4QkgU1kB1DQOPJeJCDw=="
 ---

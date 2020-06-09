@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg"
     width: 796
     height: 417
+    isCached: true
     title: "Google says it won’t build new AI solutions for the fossil fuel industry"
 
 secured: "xbv7l+lAKcj8+Sg9Dd2yIzC4z2EnjLlO5jNGwX24N6oclwqENDFGlCTMKjjzyynpCcGxS/9p1H1fmSUWvqoEsxHRTHJkZziW0zP+yXyYwprAm5+DUqgiBwWVurkBpZhoCtKNVxu0w1Gf6D9t+P5lpIY4yYxIXu7O32io8GuGHd1tGj+Jo6jQtvaplFBAIzBfqSH3Js6m/z1j8Edrd4O5o8emMx+ANGmJ90m17rRJLgjq6xHuP+CrWnEsLzbESlsMSaexaU+aiEoMGt7LCV2z7XmFSf0k+vtG8Zvp1og5VMvh5iGl83jWP6rAYzYwQ1H0;1yMHwUQbzBjbW3ECcxEdUw=="

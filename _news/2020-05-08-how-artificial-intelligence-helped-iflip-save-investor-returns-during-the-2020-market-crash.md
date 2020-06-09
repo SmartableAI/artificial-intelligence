@@ -22,6 +22,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-05-08_at_10.17.38_am.png"
     width: 2560
     height: 1600
+    isCached: true
     title: "How Artificial Intelligence Helped iFlip Save Investor Returns During The 2020 Market Crash"
 
 secured: "Sb/fIBJzKKt8o1p7pAwlLialpHZ2OqBxus8VJQ0HyeHX4CfPDQqbbkvBJ7h2T6KiaeldzdJpl0R/tk+QZoowymsP2FQEwp0V7FScLPE/lMg74K1JoFhxomRBKDJBk8b7UDrZzQ1ObeOYYklhoKufbPZAQ6j6/N/Of3dfdZ08YGuYRCJ7L+yjAO1pceUFIhiGeVYd1H0ob4LSzH22ix2DOpD2EWiRy3WCBc8BCJl1+MBuTMbhbqQrSR/cwAQDKgc7b+2BAvKxrY3/LCHzYQ/aM7jQGYITdzvNdtcErQAFWMIA9oZKFSRtg2+FI+dAjY/ah5+BjqY7nKD+pSRqW6pBNGot+nFvm+0g41fpsxPMMkwbxQKDCJWDn3WjQcFWD/+VZRTXOzZs1gVagkyBeaLaKtgiWDAvUs9AxG8qUcN6LTB186twCuvcWQqE8KXRYhUd08B4E/BQmypIUAtjo79YEKAFmUg/Bjlo7C/uJ3Ojkls=;eiuGrZWoUC/cXH8kCtB1kg=="

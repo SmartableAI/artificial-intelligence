@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "COVID-19 Impact: Which Segments and Region will Lead Automotive Voice Command System Market Growth and Why?"
 
 secured: "melEccnzMxBMkgTXYrpoYaG/SayROWykteLNbILkSugspD0R/f8pPuVhS4kdMspiCCHEcDns9iWY5pYoCPMWg4CdPOgdu4ais5BwmN9iNCDDTXEl2wm7U4/RoxwOvUHtmAbAV8/7ehzs/4PRODxCaZKAB1frG4ZadB3Ua7eEDvcFoUcVdnStXKj1PfnLb5Hgx2UMWTZ3Sim0p9ciRMffK6JoizJzBu4vbc+NJ5TkL4PGfYSrqHe/sWZGIZMaDCYEcJtZO3S3hrJ5QpowXtTtTtxShEY52AbNY67Heim7LwMkxBH4S006A9cj0uZBGNga;czIIML8C+mGvIwWReaT1LA=="

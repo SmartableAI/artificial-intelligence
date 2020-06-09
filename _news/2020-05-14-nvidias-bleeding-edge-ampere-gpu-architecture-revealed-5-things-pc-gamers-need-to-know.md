@@ -27,6 +27,7 @@ images:
   - url: "https://images-na.ssl-images-amazon.com/images/I/41PHJMoCeFL.jpg"
     width: 500
     height: 429
+    isCached: true
     title: "Nvidia's bleeding-edge Ampere GPU architecture revealed: 5 things PC gamers need to know"
 
 related:

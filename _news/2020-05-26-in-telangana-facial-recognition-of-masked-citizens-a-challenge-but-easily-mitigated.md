@@ -23,6 +23,7 @@ images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/26/w600X390/Facial.jpg"
     width: 600
     height: 390
+    isCached: true
     title: "In Telangana, facial recognition of masked citizens a challenge but easily mitigated"
 
 related:

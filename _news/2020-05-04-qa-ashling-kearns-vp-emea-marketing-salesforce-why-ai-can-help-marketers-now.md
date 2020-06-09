@@ -20,6 +20,7 @@ images:
   - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/05/ashling.png"
     width: 1574
     height: 1135
+    isCached: true
     title: "Q&A: Ashling Kearns, VP EMEA marketing, Salesforce: Why AI can help marketers now"
 
 related:

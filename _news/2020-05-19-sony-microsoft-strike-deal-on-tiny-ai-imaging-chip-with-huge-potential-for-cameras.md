@@ -28,6 +28,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/19/8b4e443c-9984-11ea-96ff-7aff439fc3be_image_hires_121707.jpg?itok=KiFTvH6F&v=1589861847"
     width: 1200
     height: 630
+    isCached: true
     title: "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras"
 
 related:

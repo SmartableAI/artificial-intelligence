@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200504005011/en/788500/23/Iguazio_logo_light_png.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Iguazio and NetApp Collaborate to Accelerate Deployment of AI Applications"
 
 related:

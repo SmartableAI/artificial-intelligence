@@ -21,6 +21,7 @@ images:
   - url: "https://www.supplychainbrain.com/ext/resources/0-images/whitepaper-images/2020/EPS__TwoVendor_WhitePaper.png?height=635&t=1589310596&width=1200"
     width: 841
     height: 595
+    isCached: true
     title: "Your 2020 Business Plan Should Include Two-Vendor Voice Strategy"
 
 secured: "zA9/o6OdaaZR1rAfbpTl5z9Z/DJXFV2nOuSUoLaFb3nF+usfeAOQ9/5nI8pCHRMK3DjlPOcOXjFpRd5kjyuL6sdaV59f8EmkVY0zEDXhQi52yf0HfM+Ljq7gMsoWoC9R3G5P25dbdVvYYS8I66RLODsmrBkn3gSbRNRw4gLs/pUccug3/h+kuwDHnB8gh8z4dSNfvBwBoUYcVB7mW00r7THq6cac10Vx+EPvgbV8BpfrDcW2NWhCt//rtW8Ed20NpjbIRG3xscPQn9KYBtj508nggoAWdiZd8Trc8UM8Z+e4t0/5hPFqxeZJ5NOdDelk;fjF1dULoAEhnMpbD0WDCrQ=="

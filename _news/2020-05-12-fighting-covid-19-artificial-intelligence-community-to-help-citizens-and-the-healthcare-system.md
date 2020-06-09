@@ -21,6 +21,7 @@ images:
   - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
     width: 600
     height: 315
+    isCached: true
     title: "Fighting COVID-19: Artificial Intelligence community to help citizens and the healthcare system"
 
 related:

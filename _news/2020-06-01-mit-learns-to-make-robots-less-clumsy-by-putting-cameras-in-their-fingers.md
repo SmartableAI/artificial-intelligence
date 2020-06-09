@@ -27,6 +27,7 @@ images:
   - url: "https://icdn4.digitaltrends.com/image/digitaltrends/mit-gripper-can-copy-1200x630-c-ar1.91.jpg"
     width: 1200
     height: 628
+    isCached: true
     title: "MIT learns to make robots less clumsy by putting cameras in their fingers"
 
 secured: "kGx9SivUjCB7NBuD9ZZDW6iqvFLSGtTRq11LhRsRUV3dR+gWE3TbfMv5KsWg5y/8YSnu7STg2tG8WLHEUATEuhFdaT5pEPKdwLLPoTvxSAinFUCcKYqW/xu7zHAvHaNnTvmVjVfhyuPihoaQx3eq5gk9CN1QaU7OJf3I9pKcVZ7oEbfpcPAHfFyzW+PeyjE0j/SE0z5Y9t/Lroav8RdvZbaRsUF/a9/zXNxhYPLOG3lAOVZRHAx+feSjgZD5Hev0xSvvzG2ZpZHUDn7E2MUvRa38D+MRO09skMINPXe8H8c4kndaFIdIaEvjFmgpUdR4;CFrQNoP3pm4pcwysSHi68A=="

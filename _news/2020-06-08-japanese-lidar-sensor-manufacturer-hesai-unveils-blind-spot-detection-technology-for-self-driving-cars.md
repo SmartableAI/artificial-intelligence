@@ -21,6 +21,7 @@ images:
   - url: "https://www.allaboutcircuits.com/uploads/thumbnails/blind_spot_car.jpg"
     width: 800
     height: 534
+    isCached: true
     title: "Japanese LiDAR Sensor Manufacturer Hesai Unveils Blind Spot Detection Technology for Self-Driving Cars"
 
 secured: "KkFgIo1Fkrza6TSb1eEr/0W6ZR0w/rYvyYObLiKKYqwGMWOH/AejTtvTfqs2Xs9431mUHJDLmdFRNADwszUfc0rMOWEyvyo5cxvGMUg5A/UFZZbQvHylBLMWRwxGPCL9atwQWC6kyBFsDxQR3JpsZFytlZjKjCAygZXFGAArWSueVY73PTTSFkMLUn48TxiAehfPp/xiRK4B85OD5pDaaC1bZdVEBWgedIfJa5C8Uu0x/ezoGPtY51Gva7AcDxwmjgsPRy4n6a1nKDsbmTAv0bPLe4usePfvaMjuZA0da4rl0Ir+we9gs6qINbgeVXIotns/4CmCsDYEMCEJi5zLj1mUHMiQLRHuYuGB7vjsLnnzOv3nE1ShqLQOCAY5Ecx2Yya4ViO1IEWSF0VxDrmlGM+JLwnvz6e/JluJY4FCTVXNbUrdUDHuoQshrPwgAcqrtYsZa3FHfetFNyrX5HC61N9pDDi8FTssHJthoxg7zJY=;zUd4jI94YcMl81FtTudsJQ=="

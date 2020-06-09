@@ -20,6 +20,7 @@ images:
   - url: "https://s.hdnux.com/photos/01/12/25/35/19486528/27/rawImage.jpg"
     width: 2000
     height: 1333
+    isCached: true
     title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
 
 related:

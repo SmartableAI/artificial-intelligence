@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/07/13b312c8-9028-11ea-a674-527cfdef49ee_image_hires_175821.JPEG?itok=J7WDgbBI&v=1588845509"
     width: 1200
     height: 630
+    isCached: true
     title: "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights"
 
 secured: "DGroF8nzZqGtaeBaFeBqbJ5qzg73TwZw81AMcEIPD9Hk2IaYOK9sTLyyXsP5+Gz+vbklHhVaB2hb7VofMY1lyoAW9geDb5Ixvntlx/J6G5Ur1hxpmf0EyVgUaxmidJw+iBlENojQTAtLWQaaYu6HKXnHOqzea5Mm25c9Ph+hBZiJrNrdwPNeUggrczHHSdejnXkxZnec26pJbjfrjrt8NpHmEGbEtPAkZuyUXMxAmwmlbayAQlTfPiInomhWdbozaeRdM4V3YBEf+C2dttJEBKSacVyR1YDkre+mW2d09OT66RF8tjiWEnudKE6nAeLKVx7OhSB0XTCfQ+yaKkpi4GiGB7tfTGQZUYP9WIjC+IKIgLzFljvdP+RJu7HA+A8NGTzDeB/jmZD3M/zhLNkgdJHBA0/mkeV9PzvXLLr22uNtYY1Mi1J3uT4tSBYle8l8CEFMjp8fJ8r09TI7pcKiW21rTeYKG/LGgce4NSBEZno=;nK4ZFU4DXmzRGc2r9RZtAA=="

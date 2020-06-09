@@ -20,6 +20,7 @@ images:
   - url: "http://k6s3v6r4.ssl.hwcdn.net/pictures/957/957510.jpg"
     width: 667
     height: 397
+    isCached: true
     title: "Jerusalem: The new capital of the start-up nation"
 
 secured: "ipRb9b3uuRnYPKWfumVrMcDnW1UgNnJ7XSuhr52rCbhn2DHg8e1KfacYfMvULYtWK4UnIUb9MqKESXQkOKB858R1bDhDP8QOqtZ5ApXcxzhiI5gFAA3pPxr/oniLyJO1ZrTex/xjgeBBsY74XaqBVhJkqWfjD9p2ifmmHOKkY4+YdYF4GFZ3JA/F+iGvUz34AfnuHvvrMZHuEbTt3Ggiby/84TDeh+8lST3hCiur27w2u6hLaN0xJxiopTrmlH692QdH5NfCO6ZyplY0CZzI9yq4lwUYsRzxYS4RuCVRLoWcCt0fxOuyRQ397N7FoDJS;ZtvD7NibVQ1s4U6rGdbWLg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2017/08/03/shutterstock_medical_scan.jpg"
     width: 675
     height: 450
+    isCached: true
     title: "Don't trust deep-learning algos to touch up medical scans: Boffins warn 'highly unstable' tech leads to bad diagnoses"
 
 secured: "oKcNO+TSA/gQ30dDd/4pNCudm3XVuwWfI5rp3R+Z+NIK2rDsPA3ZewYyUdy9iey8INz9ofRHFjSKkZlX1qXIhqi794yfoQvg9KzjlbEdHIeTgVPY049L5exXNeqLmsvq1R9dZ0ezAx4s+tU9bLBgvG2m3mE0wXV6RpFltioQa9SLfmsvvxcYmC0wNXx2w/9ASGGUEdggp2k9nrY+py2wzjfoUKFXKQl2zHLZF20I1dhSuqIh6DLQE4kwCIhGhDR2hBju7kgnCrPskWeyXeFPbbj373lt2FgpEg3UgUCBYCHiT+X7L3z/DGXoaYmlPouwKprWml20m8+McVEpNV9Epu14VczAylNWS0ThDcnyznHitcT50LFCB7ThLIicgC5zQiA27fcxY9s4qfTt49nNIThhPRitsy5VcKP2N3J02llUBJw0DGtwROAyvt1INEnbe7H58pT9oQRJdCXQrGNFb0oNkkgEAd5QHS+PzkcCzCg=;ANAyEmuWIIFn07SfrChZAA=="

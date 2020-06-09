@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/syntiant.jpg"
     width: 5000
     height: 2500
+    isCached: true
     title: "Syntiant: Optimizing Silicon and Deep Learning Models to Customize Voice Experiences at Edge"
 
 secured: "cy2SdGaNVikRZjkC4jhwE2Qs6P7VJ+sdVqToje/IsD54LfQ/R31vc7b+DxniGaUjr5Uy2ciutQ/ROojw1MYIKhV/Vhyz/RcFQdAtLpJQW3Kiyywbx1mYgAIDlThOC3ShTGnZQeKPUSyT6G26ytPTFVSkaEXp4/zgyysZSW+On4SaWmyZRiBFaLnn7D7Fv9EmuizUyQAa9x593BpLM1whgZwCJFsxeLP5Ddocc8Ixp+DUG05k8qViGb23MKsgmIwjExuIDLUtSpt+31jt1cAvDSJDJ/iy22JBgKUJQl156idr4QHaZU69cr3mhMWSO20y;9OgQAo1HbuNvk7sMprrpIA=="

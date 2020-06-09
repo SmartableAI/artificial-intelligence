@@ -20,6 +20,7 @@ images:
   - url: "https://www.armytimes.com/resizer/XG7PdOwtIBu8VeoESjNDs5J1djc=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/5TYIMXX2FVCIXNJOZ6EMNCCPTA.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Central to meeting the complexities of JADC2? Artificial intelligence"
 
 related:

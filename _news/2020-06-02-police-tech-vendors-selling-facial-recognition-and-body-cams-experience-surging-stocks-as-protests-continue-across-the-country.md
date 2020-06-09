@@ -25,6 +25,7 @@ images:
   - url: "https://i.insider.com/5ed5966a3f73704cf72798e4?width=1200&format=jpeg"
     width: 800
     height: 400
+    isCached: true
     title: "Police-tech vendors selling facial recognition and body-cams experience surging stocks as protests continue across the country"
 
 secured: "rbNQbIEXuPDtqHaoF6ZcDKfeGL/DlLX6GW/tiP9weGvfe1yB3ZT2XRrX8Uo9s5bd23Ugu8HIJ6dsndQAFn6cSilDSRJXqleD2PWb9vpr5i97q6Ej4Zgy3PIa3O64ULTriwYQNz+ryzgFlyQ7kslplrARi79+urXsUvdRrw5zMbQ0GuZuzEnFtUXsSZ0KINDIYIxDOEIJxoDYqRp7DZmTtLMoLE5zocCo0gpg4lt/ro6L4psHdfUobJTrBoNYo5mivqx1J0pbXSXs7n2FaT9rUwb2Yw0ydAnzyYJYqqQdxGyj5T6d37WxePEx/k4k0DsEfT32qNlmLE9r18BbzGw0szJmt+RbGjmr0OTAeKgm86imSkrs3FlAU+8+yQcIWBI0G/MzM6m1GIBtKXJMETOmlsy+H1Wan26oUbCeZ69QhpF/s4KtbRf1KqiS7qXmHr/Hrqm2SZhn9JD9H78LELvgaqgpakojZPcFJcr7uEKbUI8=;p2MFgPNAFtKyHFlIBNYGsw=="

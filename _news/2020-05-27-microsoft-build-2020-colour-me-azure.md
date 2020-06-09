@@ -23,6 +23,7 @@ images:
   - url: "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png"
     width: 620
     height: 250
+    isCached: true
     title: "Microsoft Build 2020: Colour me Azure"
 
 secured: "TtCRCitJUzCw0EbncvimcKSKUT7PuZbUWwsq4E2W/9qhk0mvHZrpc5yvL1S1P6+igNJoziXuwSEexHBTygYTvqppVqb01T3U8f77IcsI49P1m5jYpNkAC1XjY8gD20vzVRvKy6sOtyRlAFoIkWFyze9t+vEHrwvf0ZiDmKrQl0H0LyhUJlnxwoXVLLb9Ofhg0bQS2CanZui6Br/jkyOW+Pzws/KHgd0AO1H7tRw+HvkjZStoM6BlAKq/l3T5SkLwhhadhfbATZhpKoiMuhiFyu7FSG7SOGQpCmsgp+ZDOx7/9fHy9DURUs+nbgb45thZSToOqzl5Ujwm7WXj3yVBY+oI9v/zLxfxngTlQAgNrk7gUdlCLwVhzg0UNVGyaIl1Gu7EKBqclz2RFjxRZUp31fII3qXsaStWoa57kBy7UYUUS/TK7wiubqPuxj2LDfxVwODcS8FI0Z0RUa64j9EBwbrSjSA91gpjT1q2DpqV5PA=;b/XXd9cu+EdIvD26gGGw+g=="

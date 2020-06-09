@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
 
 related:

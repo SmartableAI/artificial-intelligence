@@ -21,6 +21,7 @@ images:
   - url: "https://s3.us-east-1.wasabisys.com/kvia.com/2019/10/featured-politics-860x484.jpeg"
     width: 860
     height: 484
+    isCached: true
     title: "Hungary bans legal recognition of its transgender citizens"
 
 secured: "4S3s/kOdj+rAURmQTcpz8pxnGnNcWyiF361b+j4mSbUvPSVlxrLGZA9YH5YTsQE47vR/98AredeGukcdfhDa1dYERzZhN2Y/XpZEE9GKAWjapapV8ED0XRjw97fXUBnuZN+aAtyZdw0ipkaIYfWTcOngPXaoOLhpZkEu1Sre/uA3brx5JU0oCP453J23zAe6lZkShd4JuXBTG33F3xFIY8EKDs26BrWg7yN1/K/PzdM8Y3W0hKN5+h18MVIGeUAMt3MQxmP8y6GYJ3IDjsSci7mZ/rXUgdw67MVkr2EzLdv+takyup4Gf7cl/L7YsyYt;rui8XUiQny98Hlyg5BV4zA=="

@@ -28,6 +28,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay"
 
 related:

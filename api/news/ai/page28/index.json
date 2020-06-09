@@ -2,6 +2,44 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-05-09-matlab-and-simulink-get-a-major-deep-learning-facelift.md",
+      "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
+      "excerpt": "MathWorks has revamped MATLAB and Simulink with a host of deep learning development tools—and they say these updates will be a major boon for automotive and wireless designers. To help engineers develop AI systems, MathWorks has added deep learning ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.allaboutcircuits.com/news/matlab-and-simulink-get-a-major-deep-learning-facelift/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Experiment_Manager.jpg",
+          "width": 800,
+          "height": 447,
+          "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
       "title": "Understanding The Recognition Pattern Of AI",
       "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
@@ -22,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +73,8 @@
           "width": 1200,
           "height": 584,
           "title": "Understanding The Recognition Pattern Of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -68,7 +108,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -80,7 +121,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -113,7 +155,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -125,7 +168,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -159,7 +203,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -171,7 +216,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -204,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -216,7 +263,8 @@
           "width": 1200,
           "height": 628,
           "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -249,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -261,7 +310,8 @@
           "width": 1200,
           "height": 630,
           "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -294,7 +344,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -306,7 +357,8 @@
           "width": 1200,
           "height": 630,
           "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -372,7 +424,8 @@
           "width": 800,
           "height": 600,
           "title": "Benefits of AI and Machine Learning in Customer Service?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -438,7 +491,8 @@
           "width": 278,
           "height": 333,
           "title": "Covid-19 Impact on Global Artificial Intelligence (AI) in Fintech Market Size, Status and Forecast 2020-2026",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -475,7 +529,8 @@
           "width": 1000,
           "height": 665,
           "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -512,7 +567,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Google I/O 2018: The 10 biggest announcements",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -574,7 +630,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -586,7 +643,8 @@
           "width": 1985,
           "height": 1237,
           "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -618,7 +676,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -630,7 +689,8 @@
           "width": 1200,
           "height": 675,
           "title": "Written And Directed By: Artificial Intelligence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -662,7 +722,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -674,7 +735,8 @@
           "width": 800,
           "height": 406,
           "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -707,7 +769,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -719,7 +782,8 @@
           "width": 1200,
           "height": 630,
           "title": "Waymo self-driving cars hit the road again in Phoenix",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -752,7 +816,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -764,7 +829,8 @@
           "width": 1200,
           "height": 630,
           "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -796,7 +862,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -808,7 +875,8 @@
           "width": 800,
           "height": 284,
           "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -841,7 +909,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -853,7 +922,8 @@
           "width": 1000,
           "height": 600,
           "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -890,7 +960,8 @@
           "width": 3300,
           "height": 2550,
           "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -923,7 +994,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +1007,8 @@
           "width": 1200,
           "height": 900,
           "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1041,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -980,7 +1054,8 @@
           "width": 800,
           "height": 566,
           "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1013,7 +1088,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1025,14 +1101,16 @@
           "width": 1200,
           "height": 600,
           "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
           "width": 1200,
           "height": 600,
           "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1064,7 +1142,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1076,7 +1155,8 @@
           "width": 1198,
           "height": 600,
           "title": "DeepMind compares the way children and AI explore",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1109,7 +1189,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1147,7 +1228,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1159,7 +1241,8 @@
           "width": 1200,
           "height": 647,
           "title": "Exer launches AI-based fitness coach on your mobile phone",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1191,7 +1274,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1204,50 +1288,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-ai-can-help-manage-mental-health-in-times-of-crisis.md",
-      "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
-      "excerpt": "These tools will not replace the couch, tissue box and innate professionalism of the therapist's office, but they may very well keep us healthier in times when we can't make it to that office.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
-      "publishedDateTime": "2020-05-08T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-68.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

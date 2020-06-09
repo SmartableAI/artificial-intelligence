@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/images/brandSpotlight/unnamed10-1590121713720.png"
     width: 512
     height: 256
+    isCached: true
     title: "10 reasons why the K-Startup Grand Challenge is your gateway to Asia and the world"
 
 secured: "KXVaWaIB4c3ckLo1dMUOSr/oNl1kU5FvDh4DBo1ywBRSJFQDPn1j9fyOkrphE/TpDyWwZHigyvhmSEasNjrWeLiIA8FnBQWKWRi1oc0nn7syBYymGAcyvDNLjrJrFEohxkwxByn0rNqev6UKFLNQWHdtq20V7GX3IpmnFjfmbAIgDWwyWMjwYq/Vrh7oT9A3QkZW4XqOOuBimDCNg99iJ6V2JeMnKhmDBGf9f9yAHyHMzbsuZWU54x05xXRdvjfIFzA50eyGKCpBwzMrunk7it5UCBRs/WhqZssfF89Bk1RUgH1pDTyIipwkmfuVVXiV;6aTKsHxbZnGVNGHQbOyRxg=="

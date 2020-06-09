@@ -21,6 +21,7 @@ images:
   - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
     width: 1343
     height: 895
+    isCached: true
     title: "The coronavirus might have hidden weak spots. Machine learning could help find them."
 
 related:

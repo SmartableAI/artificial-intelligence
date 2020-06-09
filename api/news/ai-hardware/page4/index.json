@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 680,
           "height": 348,
           "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1280,
           "height": 640,
           "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 1200,
           "height": 630,
           "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -157,7 +163,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -169,7 +176,8 @@
           "width": 1200,
           "height": 630,
           "title": "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -202,7 +210,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -214,7 +223,8 @@
           "width": 1200,
           "height": 848,
           "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -249,7 +259,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -261,7 +272,8 @@
           "width": 760,
           "height": 428,
           "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -295,7 +307,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -307,7 +320,8 @@
           "width": 1200,
           "height": 564,
           "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -340,7 +354,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -352,7 +367,8 @@
           "width": 1200,
           "height": 630,
           "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -389,7 +405,8 @@
           "width": 1920,
           "height": 1280,
           "title": "Gap in AI chips between China and US may be larger than it seems",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -427,7 +444,8 @@
           "width": 600,
           "height": 400,
           "title": "Facebook AI open sources a chatbot with empathy and personality",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -460,7 +478,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -472,7 +491,16 @@
           "width": 2262,
           "height": 1208,
           "title": "Data storage and AI are driving the evolution of autonomous cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 641,
+          "title": "Data storage and AI are driving the evolution of autonomous cars",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -505,7 +533,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -517,7 +546,8 @@
           "width": 2200,
           "height": 1140,
           "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -550,7 +580,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -562,7 +593,8 @@
           "width": 1800,
           "height": 1110,
           "title": "Intel tweets a photo of the biggest and weirdest GPU ever made",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -599,7 +631,8 @@
           "width": 512,
           "height": 512,
           "title": "Imagination supports Google Android GPU Inspector",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

@@ -24,6 +24,7 @@ images:
   - url: "https://i.insider.com/5eb16657204ad356285f38f3?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "We got an exclusive look at the pitch deck health startup Owkin used to raise funding from top VCs to fight the coronavirus"
 
 related:

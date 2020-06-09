@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/satellite-4269348_1280.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Xilinx’s new smaller programmable chips enable machine learning in space"
 
 related:

@@ -31,6 +31,7 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/233820_web.5eda5eeeb8ced.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
+        isCached: true
 
 secured: "ZQdCaLhre390ml/ZEjSEctH340TQ8jjmz2TIm9JSi8fx2ZysRMW8gyX0XFSM3KY59tyahQ7bV4tXp2hXH2pqq8aJuOaDJL2yLOjTaIw2aaHy1OK9uSobBmw2B6MhFznMM/8Ge6eFvldaD/JIJvpb6ln4aO9cxmnMiGzO1ExSvDzVyHlMZe6JRePj/fyXtGqplEt2ZntZfzQJU7+9YnVeEotQV+O+W1hv6Obo364ZSV3JLeHdbwoJ/5ZRKyheiojUitXa/gV165EXu9rDoZu7n0o1hlVWIZQnD8ueduJtuqKaUgROfSeI2wemrkm/1vEedZtCHnDQuw4YawEUGYvgnzuu5UoHYIQveeRI6Q201iyCVkJXl6IyngTGgq8gH3e0YzW2Brb1IQMSB2DwHMMH0Z6tJ5/d4P9qXXqQyzlMW5Tw9RFLngVC9u5s76WmysJMRtfbG0If5+wt3rf+vNbV69tJKD9CTtVQ8gWto9cWoTs=;22TMz8OcEw7mDvOulVAh3A=="
 ---

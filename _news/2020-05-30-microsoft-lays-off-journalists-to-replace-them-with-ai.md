@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Microsoft lays off journalists to replace them with AI"
 
 related:

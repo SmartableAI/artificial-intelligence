@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/08/15124528/Telpo-TPS980-face-recognition-machine.jpg"
     width: 800
     height: 600
+    isCached: true
     title: "Interest in biometric time tracking with facial recognition up as people return to work"
 
 related:

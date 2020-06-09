@@ -23,6 +23,7 @@ images:
   - url: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software/_jcr_content/par/image.dynimg.768.q75.jpg/v1589488860627/GettyImages-1083059548-nz-police-car-generic-crime-1120.jpg"
     width: 768
     height: 438
+    isCached: true
     title: "Police searched for suspects in unapproved trial of facial recognition software"
 
 related:

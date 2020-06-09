@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/07/Nahuku-neuromorphic-board.jpg?fit=578%2C385&strip=all"
     width: 577
     height: 385
+    isCached: true
     title: "The AI Show: How Intel built a chip with a sense of smell"
 
 secured: "PYucRklRRna3+2Ic8OuISffpLVs0by5pqLiG1/j6cpTSj/UuO5+A4KMK35ur1faoi8jQHm0V8aOZ6615kLwJYFEO4d9HpAed6RKiRVmNdSiwVg9HHvU36xtAazHf7TBG18VCuvZS5nkWo3Hb5jPusIUgLjketFjfh7jepKSvrOchn1LaZE+rCkdzAYrBuShswvvzHvkMDBZsSD0/Yy1jfV4RBv7Gg+uyATjSXOAmO8SE4pMYmwnhgHZTwbMA+a9bcVaafcGYBU00pvc2HmYxyHwcrwhkQXEid4USesjlwT1wEPHBmLLVmIVh+2s1b7K2v7BOfrCZjjlNw7LYm1y4yBNt4n1gVWa6lOy0NUwpADpHBtynRdwbQ9RIo0dBCedO9LkVRN8movdytS7RbeADoB5+WPf8Db1uDGBYzlDs5NL3DNrxGqvI+Ukpu8dR/EQAWtGwwgEZB9ZJ6gUI7r8gB56NJ/ALaC7YDJ/CVp1A/u8=;AHgUA9TnPUDq+8pmWnY0Kw=="

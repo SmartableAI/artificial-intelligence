@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.bollywoodbubble.com/wp-content/uploads/2020/06/Javed-Akhtar-2.jpg"
     width: 745
     height: 420
+    isCached: true
     title: "Javed Akhtar becomes the first Indian to receive Richard Dawkins Award; says, “It is a huge recognition”"
 
 related:

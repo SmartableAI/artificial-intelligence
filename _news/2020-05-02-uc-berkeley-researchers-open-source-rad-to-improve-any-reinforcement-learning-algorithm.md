@@ -28,8 +28,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/uc-berkeley.jpg?fit=1800%2C900&strip=all"
     width: 1800
     height: 900
+    isCached: true
+    title: "UC Berkeley researchers open-source RAD to improve any reinforcement learning algorithm"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/05/uc-berkeley.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    isCached: true
     title: "UC Berkeley researchers open-source RAD to improve any reinforcement learning algorithm"
 
-secured: "OdkXj48Yfkkwl/AqmV0JjHsHmGiQHTWKiXvOeenh1pLdkFdCXxQnoAHYLRjRuc3i7OzWjXicnFoN+zwLW0L2w65F5x4aBwVSadnawB2gyar/JKC7eAL3t5jbhx0kJNSc+M9+Rh4kTXOXIp5CbI7yKDerTF+/QduxF8umUkPbZtz9RMpC+0llftF2Tfbi5yHet9094QlLZBKvQXDOo/qNrm0xk2l4SAvkHcE8Hkx6izALBAp5QbeMDRxDGuZO391CFddo+mbe6W02MyM8nY6iYYa6bfjZkUSPdKr3uSC4bEIbFs6lRf1xCc86+hbeBN3E7sn8MaVZKyTIL0XJyiR5kJuqlWnRUyu+3k1hKSjka26o+ISzOmcnevZrheL7G003jf+OV546Z5179NLUjlAXK8pnHwcbOGBBhoqGfXJSZ3ZWlC3xqCtgwBUVHicm0/KDIthLQJJdcAGPaKT6cv6yJbZK9PAljXXqWNmrbnMOip4=;1PhZHvBfaRS3E53xlqooOQ=="
+secured: "z+AlBu5nvhtSDtN3oxKEEYXGfOFlJc46dBzlSCLPhQOC+onhgZPvyPknhhaenSlpqVtZBX9vGvZS463uf1pGnwRJ46J+x8pPvjHbGLGkJGFbFlStpebJZuOICm6ZeHX70DxgEvRh5QSAXnZth0zWLxpZN1fz0JIYcPmkfZZjSjEy+4coJd8dQYaWWSJF6FfGriX9muljlE/opDaQagbCPoBVGCHtQ1H5cQCwKguSIPtVu8ty3Xq/VJs5n7X6G/F04AeC1CGevnZJcpoZxgia6ZCiLTo+zI6eOfC3uHXuQCY0dWWDYPBlY4cx6RSerrY0;aZ71VILNcRLPMn89pQyviw=="
 ---
 

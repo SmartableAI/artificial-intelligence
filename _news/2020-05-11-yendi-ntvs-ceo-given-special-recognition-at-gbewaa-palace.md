@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.ghanaweb.com/imagelib/pics/439/43932248.jpg"
     width: 600
     height: 520
+    isCached: true
     title: "Yendi : NTV’S CEO given special recognition at Gbewaa Palace"
 
 secured: "caBMI03v30IilhBVflbKCzqQDEQm9F8iCnv0NnM288Cv1oxL6i9y3BpFRz9pzMfqXkYLQLcJ0/pu4ki6ml1ZCVYqrdizbYBGbNoLQrs0E/guYwa4cXmYfAprhBD1zGrBa11x2ZcBJsNoTDw1axbAswNWpMtbiLmGcxKqvUtHFW8SH3dgheO0bvLHtA7MmpYtJTh5wG2OL8wMLZkaIyFFyzHdrYU00K7low4cW2iMEmKDWTDUEK51Ci1V4rDj7B4nvVuUVPkN+jf+Sj2oJO4OGMSbZIxaghpKUv3b9lCLqU7IT53ABUwXpueTOQOl+oDveJqLNa9cUQ6tvDNGNbDDpYECfNgZFuyeN1KTFO3OnjmLRDLjD5rGSXnkLk0Aoe3WZ7OyptMbecBul78xTdYCUXtXiEDt0IIzYfuA+Oa7B/6wtvbDmCYJ05RRdrq2nNxdvkMzwu+u9YbY0EsGJajXeruZamh3bCqJ1Q+8wBDYXWw=;ds5gwKd3rrLJ00QSdL389A=="

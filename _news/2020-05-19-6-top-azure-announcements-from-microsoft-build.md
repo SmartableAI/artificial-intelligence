@@ -21,6 +21,7 @@ images:
   - url: "https://www.crn.com/resources/025d-0f723237befd-c26ed7ec1ca9-1000/microsoft-build-2020.jpg"
     width: 610
     height: 458
+    isCached: true
     title: "6 Top Azure Announcements From Microsoft Build"
 
 related:

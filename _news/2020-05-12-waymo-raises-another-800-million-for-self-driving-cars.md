@@ -23,6 +23,7 @@ images:
   - url: "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg"
     width: 8702
     height: 4895
+    isCached: true
     title: "Waymo raises another $800 million for self-driving cars"
 
 related:

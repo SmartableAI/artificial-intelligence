@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "Online Gaming Operator Monkey Knight Fight Partners With Milwaukee Brewers"
 
 secured: "dYpIBM3QpaH9FPICmXDQbLGtmYZ12DKA4Sr6lZd3LsHdS6KTUZn9x0DcAbWzbyHqnRdvvVWRKFg0D7jbKGuc1LGnvueudIoJTfSsJ6cvoZijFgWsBlu+aixxgMvCKKChn6sy4pS18rzGXo9jWzjZhjVZjTnTvWt4gsy3pu4iuKo4cPN9RKT3g3cIf6m52pHBK8SgV0FqvucaU5HZMsn+Is6RLs3VwFmCTmqfGpeY32RniabOMvfHNgjKdmiVudnga0w0OjODYDfgOpifCZQwrxNNZ2rZ+W6NBEDzEk6Uncv6tXz7mmsaRq2PyOGF5c3d;bh96mZHRW53zRuc0SlAaMQ=="

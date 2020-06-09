@@ -27,6 +27,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Sony integrates image sensor with an AI chip for a smarter camera"
 
 related:

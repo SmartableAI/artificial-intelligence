@@ -29,6 +29,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI"
 
 secured: "lWassW7+G5L10PNpqgghg4Q3vpAOlNcUlBFNvJKSX2vUSQ9M70SIQwBcXX2PU4Q2bQz6+vb4P5TZ6juwWhNoRgzGDv2S9dJgl+ABZv98SNinL+cJ4CU1vCJ0Lmx89lQVWAtPUBdliCv9kgzte12ClrhmB9HQDVUXeLYvvZur7h9/aDJEOFGNl6q9IhKEcz5QHIDxHcrH+SkKH/oHrvKeG6EP7Z+LhNFKoCknuPsn0g+JlmJB41hrMhOFWsOW/rZZRsMbb1NAR4UA5pX6dvdiOZWcknKJYTAqQRvYg6ESdGru1PyhtYfSuY5pwccCU8Gk;CDYEbbGhpXuk+11BZltsPg=="

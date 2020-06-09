@@ -22,6 +22,7 @@ images:
   - url: "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412"
     width: 412
     height: 275
+    isCached: true
     title: "Airtel acquires 10% stake in AI startup Voicezen"
 
 related:

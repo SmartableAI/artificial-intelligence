@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Mount Sinai taps Babylon Health for digital healthcare services"
 
 secured: "F0Xox1aiB4XXVJjTt84+pqWG5ScI7uTpi6t4EWRQEbWxvtuJM3qASF0HbRouPW+Jwf0abIeIZc5MKRPytO/9UcfbxhIj6/PpaoyDd0tpwzvlfKwPv/EHdkDy0U+Sju1W50gBhoqxiF1ohtuinwqf2FzEuUkECyBTw3bBtU+aoqZjDXP4gsJeqE7G12IjLLNCzVJMO4XcfGIiCej6pZiKWhmXU/jZn4DsL9pglOK3tJXPSCEwST1S5Tnj0cqLKgoewRaJlf8S6QgEg2ty2LuE8YZbiX6Yurp7gPRcXQT1gU796RHbnsP3mreOMb3XEJJHTbd9hKMtjGYGXij4NUjxoC3KC+9rSaPMK8AKwlWzOj3/6bKvNTAzyMmweLVR4Jt3hkashVxGmJCw600Zyb+N8g/e9Kdkvmpu4Ne+lKSYfCWTk0lqzHB4yDDtsFaGNcYaO5pF4/vFh/rOGsJlJDACtbgmZvTKFqqmFayOeIyRI/k=;3ef7dzIip5iJn4sQHcL+9w=="

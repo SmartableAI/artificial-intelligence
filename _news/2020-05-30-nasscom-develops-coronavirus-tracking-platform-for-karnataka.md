@@ -23,6 +23,7 @@ images:
   - url: "https://www.thestatesman.com/wp-content/uploads/2020/05/corona-5.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Nasscom develops Coronavirus tracking platform for Karnataka"
 
 secured: "Z+kIQ3MiNEui2fs5PTRtdoZ/nnU9A+2IdllEzpZPf/mYTOG/z5HCdW/aByQfZC84xw6tLzbqYF0VN3+jv6JAzv1IP02x2n6nnpCyiFDZnWScsrdXz2GLx3ipmYrBPFrI3vIg5xXJwlXLqljqGXvODnV9anasCbffu1xugUWtmJ3rLHk13OoBfYVJbNI+Z3XVBnlsZ37aNQka1M61j6vnd6uOtJga58i/j6SaAHHoWbYicXYcMnP1U+yvHgmDGalgN44E6/ta16NI2Wlexg0GQF6JGcQ0ZdlugIG0uyNtwVx4cx6mM55DqmWjb3bHtREZ;igdMj5BZdIcYJi1xo52TZg=="

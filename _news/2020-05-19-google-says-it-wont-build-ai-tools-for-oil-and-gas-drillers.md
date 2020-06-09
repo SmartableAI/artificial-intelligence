@@ -22,6 +22,7 @@ images:
   - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
     width: 375
     height: 211
+    isCached: true
     title: "Google says it won't build AI tools for oil and gas drillers"
 
 related:

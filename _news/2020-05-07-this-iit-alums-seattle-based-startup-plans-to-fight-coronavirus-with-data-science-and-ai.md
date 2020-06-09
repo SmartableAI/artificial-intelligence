@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/2/dc9aa1302d6c11e9aa979329348d4c3e/03MWSocialIsolationRiskHeatMapfewmoredayspoststayhomeperiod1-1588844967821.png?fm=png&auto=format"
     width: 800
     height: 465
+    isCached: true
     title: "This IIT alum’s Seattle-based startup plans to fight coronavirus with data science and AI"
 
 related:

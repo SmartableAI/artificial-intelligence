@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
 
 related:

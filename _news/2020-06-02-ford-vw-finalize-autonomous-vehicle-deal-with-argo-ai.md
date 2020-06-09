@@ -22,6 +22,7 @@ images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi/5721591121523/2020/1/48bd56c07fed01b79e02f7d4839e8c9c/v1.5/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI.jpg"
     width: 800
     height: 533
+    isCached: true
     title: "Ford, VW finalize autonomous vehicle deal with Argo AI"
 
 related:

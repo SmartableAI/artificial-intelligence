@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/fc/7fc49438-453e-56e3-af5f-3b1db65eeccd/5ed677b615516.image.jpg?resize=400%2C224"
     width: 400
     height: 224
+    isCached: true
     title: "Finally, a Biometric Solution That Recognizes Users Wearing Face Masks and Doesn't Require Touch"
 
 related:

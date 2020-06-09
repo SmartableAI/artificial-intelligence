@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/2555435ebb0b0b549420.45298401-Argonne-National-Laboratory-Installs-NVIDIA-DGX-A100-Image-courtesy-Argonne-National-Laboratory.jpg?w=1024"
     width: 1024
     height: 768
+    isCached: true
     title: "NVIDIA begins shipping the A100, its first Ampere-based data center GPU"
 
 related:

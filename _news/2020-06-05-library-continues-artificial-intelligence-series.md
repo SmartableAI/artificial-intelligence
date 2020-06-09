@@ -21,6 +21,7 @@ images:
   - url: "https://s.hdnux.com/photos/01/12/31/55/19503939/3/rawImage.jpg"
     width: 1365
     height: 2048
+    isCached: true
     title: "Library continues Artificial Intelligence series"
 
 secured: "A+PbAjZOxoio0j2F65yAzGKGAcNtemOWZEtk5dpPCFDOsIpzX0fOKRQS64NgK0+cwVwpTzRSobmT2IU0Y26OLpbdmgCOlLpv+VOuyg2/Xq+D2Wb58NyjNYB9WS1u0KgXYBLFlE6NvQAJdOGkF9WrvhZRH1i8kguw1KRZF3e5ib25rGUJ65Wqs0CCDGu8hBgqvmevgO89O54FnCwStDTtdh5A2JUBaAtpvh4jAp1NaVd1094H0UZRZtEk0XtbLwVMKei4UUo+pI9VaFVWlVxsIZFM4Xfr+Dp4zsRObfgr4lSKIjAMKjNfxu7IMOx8+XR5scLOeBcN0Xy7dQUybiy9ZfXeqx/2t3Qs5jtP2vZgN+m9qvnSFlmp3eGWiII5Vd2Xug7JA2OgcIxU5OT4S5/jSOS5qVfkdWNgtN8/LVG94oXjlUJfCRKr6QEGQbjkVl8f/x+ayqkCLhupzkLl8syixsKgzIy9MTrs8Sc3G6QTaOs=;zKwKm/8roe6iwn/96YPmmQ=="

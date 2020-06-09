@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1176995/Healthcare_Finance_Direct_Logo.jpg?p=facebook"
     width: 818
     height: 428
+    isCached: true
     title: "Healthcare Finance Direct and Enova Decisions team up to build the new standard of patient underwriting for elective healthcare financing"
 
 secured: "IT+aw3f90G0OHdRmY0FOUBS4R1LW49FdX9Q1Ebu/sGa44ahQ/yA4Ge/zVHCiVhoTyYV1vJ9iyIeoU+6E0IH/O6A+S+MRbHoKRiXbB8PaAyeReF+nYanKOhvmwKC6JCwiW4EgPsFrL3kIp01FTuz9R/iPtitwx6EKtoRqp2U5dRs+V0tCan55B3hdTyEXNz0bWBIn6aWOo0IrzYVV4+2Tvgk540PCX2O661Nl2ikcurNlNIHFwZKWwsuNXyR7WMZDxG/mlN8kLN+wUpyiKSzPpi3QzRdKHKy+8/d2h9yW/aSzzN/cPjEGrLA4Kbd4p0uimwJiEmMM5l809q3RiEaKMVAL6jOPGCwtCEny0b2A9uzghgZ3tGbNnVOGXuKo/dRqN3xO1fhQyLZaXYRGsfAq8QP2+F1dXS9sfmw44VejbufAieCNtEsqItIzoKdnl+KcrHbljDimmN1PENR0M8uOQS0FL092FfmtbJvIryiMfDc=;YUG6zZcjEpRhrOTXkAfcyQ=="

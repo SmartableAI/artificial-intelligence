@@ -23,6 +23,7 @@ images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
     width: 300
     height: 225
+    isCached: true
     title: "Construction Fintech Platform Briq Secures $10 Million Through Series A Funding Round"
 
 related:

@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/GettyImages-1169339105.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "How AI and remote collaboration tools could help the construction industry get back to work"
 
 secured: "IKK01wtf8hfVXlmN86sgtbaENlVM/PWQ6Yem6Udpd5ZYT9y1McgT1+MamlzTHh2fVSo2FugMfEAXsSaIobOnyZ5DvXfaV1cFtz8iR7tzMLUH2HfD/s1gyxbZXTrzY8SVsGdgsMnvTf7e+g7w6yVPTyPT04Eef9z7MjRcxniYpRfGbyFiroSdRVnrdlsFcn2+APKLlQzHvct/sCP+kr858wnu1ex6dIgABkMcm+59LvEDuxbB2U3IKiTaIwWKjnAgmqxXHo85F82gnVCfOHLzun72RB2ky89BrT/bDg22FHb5U8RR9HesKBuC+bjwnHnFkkP5IPiWUPabiNwOPg3JrGFjYsHjTO8OqkxXRKawQlspU8kUcdjBbZ79QwJvjnQG8bbXH37RKg6ZT+Aa57+UEIfGCFn6VjcsXFB3p7X/Vn6pXKi97BABrY2ey0qVR2ujNmTAqLFqnVZXBduAOiQ0u4nTdnJQLVKngCzqek1TddI=;ZgLtqRWGZucmfcbIdXsWNg=="

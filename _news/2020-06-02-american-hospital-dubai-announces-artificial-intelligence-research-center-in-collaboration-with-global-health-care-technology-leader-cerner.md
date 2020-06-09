@@ -23,6 +23,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "American Hospital Dubai announces artificial intelligence research center in collaboration with global health care technology leader Cerner"
 
 related:

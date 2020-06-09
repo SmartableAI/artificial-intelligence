@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200526005021/en/792046/23/OMDIA_LOGO_Endorsement_Black.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Artificial Intelligence Software Is Being Deployed via a Wide Range of Business Models With Annual Revenue for Hybrid Solutions Reaching $45.5 Billion in 2025, According to Omdia"
 
 secured: "J1Z16tXJIhj0qiYOSGteIcQQMBGzIk3PperjpLvfZ+TU/xOHlNrq0Qnwbw0V0P4V5pMV1Oa2n5ciUDrEvw8+icIyFlfQk5UgoGJK10TFoZi44TEc9EUr5c8B7+5Sazf5Qv7Z+jtiZuyFsOJMGBDc8QxhnQjGvRTHRZffRzrG6kTHw8EnwxUcsK2BxKYrLsqywo7cDcMrDKUvPuDVdVT9+5FcnBWz9akenmkFCCdCNNwSrRhbuQ/wlnpHpvulrOyyynmGxUI+54PlVEJmHVvvxLHRW/gkGISs78YKzQRFq7truS63A9S2FLIGD8iTy5NA;IEcvBLnSlWui/Lfc1b//Eg=="

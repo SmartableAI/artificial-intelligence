@@ -20,6 +20,7 @@ images:
   - url: "https://www.uab.edu/news/images/2018/Davis2.jpg"
     width: 450
     height: 338
+    isCached: true
     title: "Artificial intelligence jump starts clinical trial for rare genetic disease"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F4D2VAAQ7NGP3FPXIFEYIHUMIM.jpg"
     width: 3000
     height: 2000
+    isCached: true
     title: "Graduating seniors still getting caps and gowns, recognition in Mid-Michigan"
 
 secured: "lEieRy69eSRKRMrDD94dwTN6IIA1XFlGxIae3cLlLeaHYWisjsqQCDD/tKMF9oLpWtkJxz56yyefKWggnpV9bwcsPMnCo+grCenx/pMcGJzEFnJWOjsViZjm7ZBtybQ5g/LP+EB3v22w5Aj8vWjvwJoErJML9DBb1aa96nRHGONSF1ns0TTFFdLXYsxQrVFK9rQros9hrFXxahcQeNLrVNU6d0cNlCzHfHfL9U8MnKGBuzKUjC41uE05eWwiX8/nWcQiiARyhALh5vk0nzd2PVkM0yLqZ+1iHWpyaWviZpwK7gUx6AyjdzWIYAzqhT+9GFp+KT1eP9+MLvdLXhIgIkhBK/HYdzBoIcpromtNG0ui/X76sWsY3rh40r7qaW6caxjB9gi1t78WEs4LJ/GkOgW+CODvH2lLT/CX0LJzRvoG94mXj2wOwSOYCWzabo6jTp3GKcsm/8BgOrNmqrDUMlwgvkFQbyXnmDmKLVF3lI4=;3OjX+x0sl35HbRrobr2dBg=="

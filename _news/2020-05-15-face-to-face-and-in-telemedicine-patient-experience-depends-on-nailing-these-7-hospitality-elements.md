@@ -25,6 +25,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebee84af1f4880006630b57%2F0x0.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Face To Face And In Telemedicine, Patient Experience Depends On Nailing These 7 Hospitality Elements"
 
 related:

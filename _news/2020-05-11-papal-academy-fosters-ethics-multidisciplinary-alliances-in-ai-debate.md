@@ -25,6 +25,7 @@ images:
   - url: "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg"
     width: 1602
     height: 906
+    isCached: true
     title: "Papal academy fosters ethics, multidisciplinary alliances in AI debate"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/2/bd251c60-2d6a-11e9-aa97-9329348d4c3e/Ravi-Shankar-Prasad1562160297974.png?fm=png&auto=format"
     width: 800
     height: 400
+    isCached: true
     title: "Govt launches national artificial intelligence mission for industry and schools"
 
 related:

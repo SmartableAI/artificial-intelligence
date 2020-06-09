@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "FDA Expedites Clearance of Caption Health Ultrasound Software to Aid Frontline Healthcare Workers in Fight Against COVID-19 Pandemic"
 
 secured: "wMGMV8qj0t5QJL31wRwMnFj4jACLhCqAOUyYNN4WzjMDaeHgknLJ+DuFAUD901F19vvl8F5+0rm4aeMdtGVEZQsqXLfcjxQOdyLma6bapADnCHOMlj6tJq5Bu+yiAfxqnbiGd/K6SMwr525FArkKh2jfeX3Mile3Lb/Jt1hiAljoLscVevsXBIWqyZ0XPAHxAFPMlKmL/BR1FDQqv2S4e9wyF2sczGKMlSrt4fqiEJHBFusryGQv03yB2uKn5Iy/YMnBRH1bgrv4wFCyXqLJRsQpYnPbum2OkmxzkBdrqVYeXcfEh4OH1dC3x0CFsk9V;Mab6Y1Rx3XO8VSoCeBXp3A=="

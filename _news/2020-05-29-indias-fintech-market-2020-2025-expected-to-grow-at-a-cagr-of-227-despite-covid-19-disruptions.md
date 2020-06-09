@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
     width: 800
     height: 419
+    isCached: true
     title: "India's Fintech Market 2020-2025; Expected to Grow at a CAGR of 22.7%, Despite COVID-19 Disruptions"
 
 secured: "lYJH2rgTBOy1GxMUo1VJBs6AjHf6OiQoPEtl4AI+qg8Ch6sq0yyXkDc1xNfjtP4/Gd+XrvKuSn7BfcP/C4H0y5jNoON1PCXnNAh9+LFOKD4JlfmLuzz+eZZ5ZiOT1KY9W9Z+S+whXs1O5rJ/DbIjtk2MsOpdMWsRNWKZ3HAM5tZXhFid2NrmHoIHSkLdHz8eSee802Vh2pxd4WGwQHstcuyZYKmZdO+ZlbT5p+vq2GceO0SBNrg7fnj7RjutzBr8AmBDrZbiZBJwoNB/UOQ8bWXJZEjx5rnU+dhPIs2jBORMPUAMfLmsurmDVTOKpe9jOsCOLBeY/EKArqqEIbPPikuNcKsQ2N0Ig+GSIbdr6xNVqtEpSxTKKt9IYFt1LxkRpJepBFmUZYAJiF/kNnZ/iYsUSTgWVvfj3BncyhytJHOwrdGd7FEBLt0Xc5hPT5G63Bk0Mysxv4MMlYvljCtPA4xezTTsk+ru7p/uA8pYT6E=;EDzio0I1PRdgcznj1n8PcQ=="

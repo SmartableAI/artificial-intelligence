@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1164418/Frost_and_Sullivan_Genesys_Award.jpg?p=facebook"
     width: 1500
     height: 784
+    isCached: true
     title: "Genesys Lauded by Frost & Sullivan for Integrating Automation and Intelligence into its Workforce Optimization Solutions"
 
 secured: "YmOIbNxnqzED0O/zTbopN57D0khF5lVciH08SDXCXDtjBGFqt76XqK6qN9RQ2SHGhMVP80SvrRWw9c3xFFFCYl6/i19xprdqFsF0JNncfopWcdAh8N8A7g6au+WEHypKrX8jEcl+NDZ4hsTEoJcspVzk4/4hShNp+aYOWzztXoa8UVhkA+nO6FVNHN0fgzgNDIlp/yDb7ISt5CznF6tRvgGuPNrpLha9/JnLn/IhwmsM2lbPMOdwiFrL2b+/uiaJ+3yrVLc/Zh1SeQvgJcx4xCvKNL50BLDk9h9h/9wzHS4/ue0xRL8Wpqr0isNAm4nm;XDrt1UqnwxylDqOsK9JnIQ=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "IIT-Ropar and TSW Launch a PG Programme in Artificial Intelligence"
 
 related:

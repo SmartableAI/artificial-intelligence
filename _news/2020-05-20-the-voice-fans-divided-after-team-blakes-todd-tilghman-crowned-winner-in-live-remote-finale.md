@@ -23,6 +23,7 @@ images:
   - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/05/PRI_152080676.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
     width: 600
     height: 337
+    isCached: true
     title: "The Voice fans divided after Team Blake’s Todd Tilghman crowned winner in live remote finale"
 
 secured: "vk5Aylu2YUwRsbf5jy3APojWSFK3YXcEPmK255tP8yezu0KzfBDI0aWsnIU08KhT2bL7wp2IT/cYr/KcEzWu5EOBUn3E+efEalOyriKGNPEHCyhy5Z47rns7ZYBzU3NUQzruUyjsLpEtSp6+R6Z0ou5G0Rl7/K3EnCcT3M2k0ZdqMSx7qWWsHDLrZQizfuFcyn3hsUeqgisS6+jci3ahNU08zpuuoCjgdVD72iXNpuPwNly7DkyDaR8LO2+kQFAQDo86DFQ0VYdxrD76TdHuC5Yfh1weQmDKTlhKQvDDu1rIVIPN2sjoow7m/ARZGLIG;M32+hoEWyjd4uo0V+qPdJA=="

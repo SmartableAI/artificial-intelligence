@@ -22,6 +22,7 @@ images:
   - url: "https://media.bizj.us/view/img/11665221/vast-biome-at-plug-and-play-demo-day*600xx1152-768-107-0.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "AI interior design and VR training — here's what else Plug and Play and Alchemist saw at their virtual demo days"
 
 secured: "SGBOXEExOZ/YKxmTsJn6YI2pP88gJk/USC3IDrHAvHs+I1eOsxg0M+a1fYCkzxFhGCSOLJdiZ5GOPXonY0Wj18WR8XI3arcMzuYw5dfFlZqg4KhFEsyiQpml8NkWM/1q4BaCL1KFgUvbWtKComWIHTOV6pER5/LqFcq24oirxuryoGsHoP4xgjFzsGx+RGMEvxOMSVcfbLVTh5fMRaKbzC0xAPvB6/P2SYIiciBNl8eu0V92jGQpR7P5LWDp2GeuSRn9cwlRaPv1371HmD/I6y39BvVRShz5mt9dHmiWdEMlh13/8qj4FyiUryLn7IOw;JGbjC6VeGA+CmJAsSsQNQw=="

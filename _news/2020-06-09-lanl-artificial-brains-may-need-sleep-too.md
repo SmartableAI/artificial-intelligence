@@ -21,6 +21,7 @@ images:
   - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2020/06/brain.jpg"
     width: 629
     height: 425
+    isCached: true
     title: "LANL: Artificial Brains May Need Sleep, Too"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
   - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
     excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."
     publishedDateTime: 2020-06-08T13:24:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
         width: 1884
         height: 1412
+        isCached: true
   - title: "Artificial brains may need sleep too"
     excerpt: "Neural networks that become unstable after continuous periods of self-learning will return to stability after exposed to sleep like states, according to a study of simulated spiking neural networks, suggesting that even artificial brains need to nap occasionally."
     publishedDateTime: 2020-06-08T04:33:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
         width: 1440
         height: 810
+        isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
     publishedDateTime: 2020-06-08T10:15:00Z
@@ -78,6 +82,7 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_332409741.jpeg"
         width: 800
         height: 600
+        isCached: true
 
 secured: "DGw5RM18egaJ2a7RWSD1lmHApDF6TpsBs0PtZ/2ZywBItoJXKcriJFM4pcoOyLt2oP8pBXOSyOSyBm7JG5E1fi95QCqn1YPwwboszKkiR2xjfjrJ/aTnApvUIp7yz02y6MrfnGePIxxDTwLsOnUXp8yCTcub+Nez9rV0SeHS9AFlVdCH/BRGvMaBYDHqxZ230K+hOzYSEAVm05Pi0z2Ty5T/nYMvp4FCJ0BvPdTBjqDWIhNXv9veWCvv9yy7mQcq/6pIu6NlLkG3L+9KHGFryrIYjrkRhbmjYMBBunkO6fPN46+TRrQmrp9CIZn/gq49ChCG92mJVmIbDYgk5J0WQDICZzAA+0UhKZqyUINCLxzATqWfwwjqf9CEDwV5J+4uxKor2lkXf/dQQ/oHIzB7GPNrSd1KHWFJQpl4MWqFnEYsajxUlXAEQ0LViid2AFuEoydWPajYMvsXblnUUx0zGlmU8vAfZXDglMBh0ejox+E=;8LN0cL3hNvOR9rRStQ9OCg=="
 ---

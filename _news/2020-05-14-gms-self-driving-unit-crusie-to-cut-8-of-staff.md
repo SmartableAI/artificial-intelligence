@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
     width: 1920
     height: 1471
+    isCached: true
     title: "GM's self-driving unit Crusie to cut 8% of staff"
 
 secured: "kxyGjHD/Ea/TrpwG6keJi3M5gcP8XTDiCQTXOmtZ650kOjdLklbfmhH5upR7mNLuIsfmSjIuDlrfYvY+tuv3SkzjruSEIxNwDiupMHwfwI2hYQiYWkxBrXO4Aszg5V3/1ZeoQzsMG54uYcuUKCvMnWcD7Mzdb95up6Gh0Pt8oz4X8arOrX6Ywe2UlukFMXVrnQwqCMr7mmRU04P0V7vylwQV3zoikRFzn8DLtcXsS1WDVPRzJox3V8M6zOgQQ442jveOpIuc7Xf9s48TlUaNeayxWtd2ZilkVuJ5ROFM6Gq2VGr77e2BfR9irCjSlTyh7SH59csHVR/iBoraANXBmRH5iklENIzTBqQRzbDBEw/80cgZ9naGojtdd0d/zY4u7VE3OpWmeqdgpvVtYYKt7/BBqGBbui2CoKOizdswN1r/KeMqLKvHfgNwv9RFbldalnNB8dPhyAMUuX0iyLhKsMiQC5t66TuYtaygDaqwLSY=;TP/j8j0FCtCKLIO+uq9AHQ=="

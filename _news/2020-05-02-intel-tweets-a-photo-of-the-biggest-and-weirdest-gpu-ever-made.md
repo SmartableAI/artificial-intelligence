@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-02-image.jpg"
     width: 1800
     height: 1110
+    isCached: true
     title: "Intel tweets a photo of the biggest and weirdest GPU ever made"
 
 secured: "gGUe/o2ty5XfC1Z/T/1hLuZ0h3RZpGs8R4ONtp7LJvrDMw1PUk3ec8D7QyOLRGSMk6Zb2pDR/o5nfVPzNIPc3Tl1IWPMmvz8IAcq3q3JKHfrqtZ5oyb80iOx7f0POgTJmO/0211LtFkK93wPGw3E+atqXMMrtLd+aQ2PxvQkIkFGq3L+dRPuE30rx/304G/MswJCypCvROcL2HtL6vs6XSUdZ1jk2wprZ7/I3PI0iAA41qb8YKjJRZuvf1VaqWnXNwF8XYFQbcUuClujHQ31pd8OP5LU6Qjr+MfaJuLyUZgseWYPtx2fOkuw3A8jQ9vYi5FEXY34N1qgM1M7cheePIUgda/rPcItsNWb68snVcRCeSaKFxc8oG+v/1yhDBphpfYPTLrfhUeargZ1mTX4w4e7ldfQWPoSbQ/ub58vl45qd3vEUuKph6t0oQOx2BxFMS4SVBFpEqFFDYTnolXDLdvZ47cStQ+3ApQ+JbJwjTU=;MTjJgUXqn4PNrp5LRm4w2A=="

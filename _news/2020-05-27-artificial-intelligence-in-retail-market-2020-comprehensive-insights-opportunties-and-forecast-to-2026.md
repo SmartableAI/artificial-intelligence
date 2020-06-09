@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026"
 
 secured: "2hU19UcL7SAIyq7+FbW2/ksn3Lx7Lx2AMTWSV8Sz9aZYGk0oI1A7MZOsSzTECGaqS+32yVzYRQBHTFFvFs673LkiLzFX4jnQlUkrLf+6eZm+5ZxrH9YhRIbbBXKT+RxLtbZWG/cCtNaIzylpT7RbWF5jDgaOCyMZf81COvTIm+oiRS3oY9tLCHdOGRja5AHxU6ZO23mdw/xz+k0bmAklbaM9yxrJm+ueBYxovfzobfG+7Y90gbmGuvW+Kp+7BktUp2BP99cDFu/iIwoEDcVDR0U2C3wvdv11RAuxqa+DVLZ1VbfDzd2ud/xoD8xh410J;BlUE4HiPBROfERmvRSB+OA=="

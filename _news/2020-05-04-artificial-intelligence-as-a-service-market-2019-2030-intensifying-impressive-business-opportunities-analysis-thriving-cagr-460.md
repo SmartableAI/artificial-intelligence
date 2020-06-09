@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence-as-a-Service Market 2019-2030: Intensifying & Impressive Business Opportunities Analysis Thriving Cagr 46.0%"
 
 secured: "lY2PPeoL2kboYntRkaOndwstJoFtmKC4Zl79Gm1lzbqnsDXWG8GnvlowfrnqBAZNFgWpZ9DjwHXjf+Gn9+hdC9LreHEHuhS7BUN27h2ctpalB6IwpOZnQiKvP3Niix+a4FITDOl5NyqS1sTBitTxUqSqlHfrQz0z58AGmNMHaMyxXlEAYqGdTJp7cd6VayrlbcKjSfcP6+noaUqhwljs7khmg+wT6c+n6mt0p/35fpMiqBxQbhMukE7QgC329wQOzsczH59lbDJByy1zmQgTxmXeElexT02cTmN1ZiPOwRWE0sPN3g+EsVu2Ol7fVYZ4;3P350VZILJvBa4wA/AoAOQ=="

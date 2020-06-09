@@ -21,6 +21,7 @@ images:
   - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Federated_learning_architecture.jpg"
     width: 800
     height: 543
+    isCached: true
     title: "Can Machine Learning Keep Patient Privacy for Tumor Research? Intel Says Yes—With Federated Learning"
 
 related:

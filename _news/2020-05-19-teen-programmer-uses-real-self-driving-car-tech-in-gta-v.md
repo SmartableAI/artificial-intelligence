@@ -27,6 +27,7 @@ images:
   - url: "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center"
     width: 1920
     height: 1080
+    isCached: true
     title: "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'"
 
 related:

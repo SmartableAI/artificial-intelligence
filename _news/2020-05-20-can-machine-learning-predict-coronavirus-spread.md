@@ -18,6 +18,7 @@ images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg"
     width: 760
     height: 368
+    isCached: true
     title: "Can machine learning predict coronavirus spread?"
 
 secured: "Zf+S25ZgP04d5uUJ2G6j7POF1AkB6GvYX2GTxKPIFL+CtGdPvLHcJHoLlkTfJ4n5v8DGSnwSmjSsuWTOqwgMkhSDC95BuCNYMk4+//aHTGfWGsu9j1vTxWBab1iSNC0b/LdGIqAgCQbzeZhYlSHdMSc7Qkcz5OICHCR2uwNIJX2MFi642GrBrFnLNMQY6NVdQtiMuKTVB+8huxg6iQpenc6q6iAhXqV1UzxaucI9E1g7WeTOYlVV49irjeDA0FC/Mfmz2QEd+eMwAKN1jUHOOqqANYUMJ8HD2F1zk6eiQZBYQ0N7jdqBorBjyR60Pw0X;DJvxIO1mm9vHjIOeIq9qHQ=="

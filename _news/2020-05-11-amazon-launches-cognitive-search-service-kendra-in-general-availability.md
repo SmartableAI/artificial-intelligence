@@ -28,6 +28,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Amazon launches cognitive search service Kendra in general availability"
 
 secured: "tq0pbMWzz4oGp3B+Ag2oJav0zQMldzgVpwy4h6ovzII0hExCgKWDzQKadiVHiQAgi6Wnzuz6RaodtFKX21uzg9C+vKiP0GymuGK9Du5pscuuPzHmjtqzc/qhxyzQ7EkoOHGh6fSH30tqO7Z6wzZQqfwHjlhN6aQ6w5YsXoyt5+qbpJGnzCdRJVf1qRngZPIiIMEdO9rQC6IAxazjqZ2SHMKxydL2HMihlmghx5zWF6K08qgAO1XjlMEyJVXR/eD9yNA71o9ubBVjztxIpcgy9Q6GTrKBc8i1+XkngyCOin0Ev1Hya4mByb4CLXTLWbrDdKmeD0uj059gcrFUnd1/hBvMVp+vE0t89VtJSDpBrpaqwhyL1ISNsWzVPZSIt222JcGirFZVSQb+5tfbumQasAlD7rzN8V1tcATdr2Vp10gzvtqSejaw7qZSiuAO0JDCAATXm6bRYDaUAe+oxk8wAqPP9cxOMCzhomibCbJhcmk=;jSg1kf60DsS+9moClCQ8Bg=="

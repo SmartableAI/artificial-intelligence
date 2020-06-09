@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Edge Data Solutions, Inc. Launches Next-Generation GPU Servers to Accelerate 3D and Video Rendering Services"
 
 secured: "5/balliGIl+W0nemDGhCz4D+b4m8OnufZY4WrNKlY1D8h2MqeinVcFyoRJsXRIZ9ujEJgVaLn6DYzvYUBQ5q0hEE0o0v+Vhyvm/Ly/xCR8ef5bGDpystBHlwG1lunJMNJ0j9Fr3gU+0gXmFuboijasPy48Mr0kXfqT4ynviIm2Mz9b2078lor5NOgh79htshg7fPodbF7RcIxfR9UihK4jEt4DwNZfkdBefGIxy6dQ06D70NG/10LqSH1EcGGKbnvnJl8jKdaWl4qZfq/MypQycn3/hog54p9PpJJX3sf2DqB97PI2nXiAeU2OymvCMs;QF7jgfuk/P+sWnfTsrVvIw=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
     width: 900
     height: 300
+    isCached: true
     title: "A hidden history of artificial intelligence in primary care"
 
 secured: "Om0buLA7yKJxrW+fFZ6sIOjqBg9Kak95r9dObIoB2+IvP1/BAmGizZgJp+69AVssfvV3kK7RMvx8CmWxA+E3Lj33I40YNgNC/M8bc5b1iiTUPolKhRAHX6foR4ku8boo05CUyMJNLCSjlOCEpi16eTFET3mrcDn934II4Id6zH+Cj6ToazqT2WZxc5/u6151SUj9BdbRCDdkte5UACaxN1KCgbtnf+VJmuRaM0wCeelvReJ88viH1N2wQGaHIA7o+eVaG4s7isHUMVg7IBuxPXdGtcHrrBNQ4Fxb9sKTy/pt53nKdZ+3D+bsebZfitGe;AdFAir8ApjJkOXMaeM/BwA=="

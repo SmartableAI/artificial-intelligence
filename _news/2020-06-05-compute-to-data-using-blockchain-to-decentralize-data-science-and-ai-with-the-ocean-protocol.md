@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/06/05/a9c5d24a-8255-404c-9243-ecd2ce42d484/ezlmoxkxgaewous.png"
     width: 791
     height: 581
+    isCached: true
     title: "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol"
 
 secured: "AiR2vkDkUuIHog19XpPnEtoiPwtdZkOnKQIRws1HLoUB5E/W6R+1KooCrhGNCTkNbTn6VPpSoVruXwaUJUGIIyPuEPF+YOUmGkrL50B9TOniEP+DuU1Pp8VdQGLiJw2J8FHXF72RBKAQpt71v+qbqxbmbNPK+sfpgHNH3ntLQIBVh6wzMDIWhx0v5lH3vmzzq/65fTSKIfxfoEgRyV/EAHNpY7vD77dgLDJuEipeRDocWcn1vYfHWDEAsQ+tSqrRCu4QsVmk3ThSyI6tJi6C2xEj3eNcxIAWFp7YQTpoHNelklkUjA+/HLYMIJT2Itd3L/SttdNtEpcsVjsylEJ6VRL7jmgK6nKEiOs1ueakRr9Hj3GITEtDQAYPzBNMatGtHyISvh7y097ZNOmuXqwXRreEdHTbIweb+zk2IvkoVPICGR+siR+zxNVKlvLvzyT/VZ4g85rBAjJBOKX3DU1c1sanhy+0bU3ngSwYeTE5XIM=;ITrNE+Psq58iiz/5wsKuHA=="

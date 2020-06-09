@@ -27,8 +27,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all"
     width: 1800
     height: 900
+    isCached: true
+    title: "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    isCached: true
     title: "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online"
 
-secured: "OAu31f3gI6JFJVqw7fOyMErD7vhKra80ZyQuy9ZviZwaHgr2Ld3ZQhMSr+VZB9qt2Jh2j8Z5u22U+fGpyJoiobQ8llS5/8fkvf6i875c0sauTjICXChrVMlMSdHrL4edS5A6Ex1q1s4BiMZR5U/dxX//bXWvZ+PSKfuzy8ssKYAnD53Til5GvcBVxc0yJmhWurbNZ7EVnnZFHgv48OkasMZTKYrpIEDnOSRxvBZT/mFjCE3NAHXqwobc5iVlsGoTvvQuRObxRAsaqPRhmjnVcFHonRDuHxKnjf6BKrBVjVeFeHfbpU+6E9C6kcYaiX9jUbRSzVf+mybQ1Fzs7W/50myoFg9qpR3PUZ0ZpaPcrb67eE10978ew7xgK1CNdQ9aCcb5ybU6FMs6EmhOsqD2L6Em4mFEaSRZ1ah9/+2CuGU7gR0R3kmVbwDSGRU4x696WVBo15+2E77V0XJt78pg8iVewH9NjeKWJTt1eEjTlmk=;I4w0m4GqT4IX+7W1o06M7w=="
+secured: "mO5F7Amzz+SJBUbPhIZWn/pDEA02SGX70A5U0k4vZj0XWz0R6cPYoe6SBsOJksMrUTsZTaC0SaGGqhvMWH3or0GvB1pvjkDILWTIC/vOIqtPPrkWlGsi4deW9LP4dj7oEVCZ+9239IU8ObOASIaWH0T6Jk4/kxPHjgr4/oRxTTPtnu5F8qdUcqm9tlT/Fk6qWIuKchpP9Ux9uXxOVhG9NPnuS5KanW+tcRqP20xs8S4J367a39u7Qlb1PJ72C1f7mLpQdl+sP7iI/+3CyH9AqKYZqHQivsM4hCcbR0B7Ed4Svp6BI4wJKKXVIjCYhqhT;ij8ydZ0veRtZZ5Isy0FAdw=="
 ---
 

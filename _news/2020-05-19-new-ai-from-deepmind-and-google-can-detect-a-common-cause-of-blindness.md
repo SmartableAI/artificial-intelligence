@@ -27,6 +27,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "New AI from DeepMind and Google can detect a common cause of blindness"
 
 secured: "08RyMrVozMEuka4vFk9NnoylMvCv5rCFp6Y7tbDJIyLl/3qVPbpXVzwB6hnqpkjEOYdl9d6sjK6OVN0AAMHI4IDjCziG8xsjGr5Xwyro1MdpDpQiQW5QnnL8lRGUTxW5LDvub1TY291n/Aa6Lqs87uXU60SJksk7IVI07FiC4exLr67BeSaRTrrN78rEMtEY1/IqY4e2UvNFm/db253FeEHeKWQQ4Qqx8Tex/Gpxb14T+GlgmZ4gkU5whQoSYjL43ATyBdAi/AZIVtiPfCMQ0qgZGR77Xkco5MXfyYb33oSISp0XOI30Ko+pILmYE+CvazWlQWRh5wbRajhN8rT7lnby6ca2g8upOQqnJKBSVlIglaccCR61sew7aRM8VuGzj5qZoRH/9TkyhVUjQrf6tP38CxewIi3R7EWF8EuoG7ubC8FKQvlLCfn0YNPNNs6fg/N1JzTk+kucT+LZgsUNffgDPGJsfmWbN5k3t/bxqhA=;mUPn/HnQQSGKDG4Z7Tt3ug=="

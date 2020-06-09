@@ -23,6 +23,7 @@ images:
   - url: "https://sunbeamwsvn.files.wordpress.com/2020/05/bhdn_in-41tu_facial-recognition-reunites-missing-child-after-_cnna-st1-1000000005ca99fc_174_0_moment.jpg?quality=60&strip=color&w=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://c.ndtvimg.com/2019-03/oplcc2q_ai-in-cbse-schools_625x300_15_March_19.jpg"
     width: 650
     height: 400
+    isCached: true
     title: "CBSE To Hold Capacity Building Programme For Teachers In Artificial Intelligence"
 
 secured: "oPyIPh7rTxOWw+EyphwjU7mQdK/MjU5rUi9CvWmmpAcSHD3JMZkpmbJwD+lE8Jp4f3NRtTs22vLUqYQ9EQBeY43QTDg/jadnFUb64CGzQIChCspfwiFYUVdZF6/kyxiT0gjEDfCDsSGZejqQQBqccGodjFEN1fqvCKFTJergABW7J12vgX+qbWiyDrisN2CtFZLCEbODmksoOJCbvTl4pbch3kYyH4JzkPm3rpQGPiTIwaOKfFcKZNkuZ0gW6NlFUHuRFfKRjeO8JFQav5sLC0XinERn9Zy3+cmInM+rZYWy0Bj8onj1Wxj4fhNyFfLK;DRDB2Qt03gzNOuqbxxRm/w=="

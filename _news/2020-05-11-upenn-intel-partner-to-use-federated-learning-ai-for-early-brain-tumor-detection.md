@@ -21,6 +21,7 @@ images:
   - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
     width: 788
     height: 443
+    isCached: true
     title: "UPenn, Intel partner to use federated learning AI for early brain tumor detection"
 
 related:

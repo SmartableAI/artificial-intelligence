@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Resgreen Group Invests in Autonomous Mobile Robots To Aid in the Fight Against Coronavirus and Other Pathogens"
 
 related:

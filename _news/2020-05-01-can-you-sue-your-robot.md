@@ -21,6 +21,7 @@ images:
   - url: "https://img.rasset.ie/000d7981-1600.jpg"
     width: 1600
     height: 902
+    isCached: true
     title: "Can you sue your robot?"
 
 secured: "swynh/qt6oH94FhrbWcKtJU+zvHmmM9GsjOPPzoVQ7zDdxHNr11LkLVd70rptGtvC/+qc4xBuTIA+EZcGAbJ78Oua6CLQIdgpY458hmV5+Nu5aXR7Nz9mtUt6VKz4VqxEKFxiZrwJKBDAWmnwlDGdyVkB8cso1Pb7S6cxhJ/a3/ZB54CEWhSOMkvW86z2XWFvpp6QDror/0PZRROU2lBtUt6bnMEXk62NOEk8821kCTYRd5CFDvpin9OyO2w9pd+hhpyjLV52LG3KZmKMNMdnPotq9/9Zs0tnZ5aDyAOD0/KV2BstE1J4eQUAlEM1Xwr;toJuOtAkdd+cEFDjGQ83OA=="

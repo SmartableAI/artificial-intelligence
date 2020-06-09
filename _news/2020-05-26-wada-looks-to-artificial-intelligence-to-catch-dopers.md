@@ -23,6 +23,7 @@ images:
   - url: "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
+    isCached: true
     title: "WADA looks to artificial intelligence to catch dopers"
 
 related:

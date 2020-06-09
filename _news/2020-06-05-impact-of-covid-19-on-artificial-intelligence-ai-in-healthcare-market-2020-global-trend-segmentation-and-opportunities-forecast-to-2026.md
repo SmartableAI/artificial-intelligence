@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
     excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
     publishedDateTime: 2020-06-08T12:28:00Z
@@ -54,6 +56,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
     publishedDateTime: 2020-06-07T07:10:00Z
@@ -67,6 +70,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-06-08T11:54:00Z
@@ -91,6 +95,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "VfUB5aPEU+IPq2ApzrTruCiy+H5UsS4HVtFu4P78B308GAHSPp9cxjyVvKe/EomZALVsxc7VkrAfi3oo9Pjtp1NYiRzP4dAAcuMwrQfLuqP8JhFrL314uVssMSQpJpn/ToEw+bnvTM/YEk/Zz74v25KKce3015LBj22mlP/D1C1DTLFFCooK7K0dUpIAPU5jw2y4ZvJKF1tVd2NYGEbV8piGxa3ah0aecT0IIANFtC9TEs62LQqGjXn0yPrI7HgqHGIC2m/THfvurQUBYmwyQD5MK5rZEATCasexZxQUOVwZv9tMUnppVqUl0VbzW0pW;XOUswQYLdW4QZVc7Crz6tQ=="
 ---

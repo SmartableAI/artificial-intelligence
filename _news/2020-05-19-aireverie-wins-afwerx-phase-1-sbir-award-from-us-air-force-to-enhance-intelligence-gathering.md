@@ -20,6 +20,7 @@ images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "AI.Reverie Wins AFWERX Phase 1 SBIR Award From U.S. Air Force to Enhance Intelligence-Gathering"
 
 secured: "JeJv28TGnxGNXa0FX8shDVx960EbtisQPy8DOyqS6Zuec/kLfngTJ2I0XoUn40ftGT1xZU5kmV7OeWXhdDCNxiOQv5+tyMDtaC4ruVH20/ufxhj6hj+dfuvltmtIH+q3wc2gAHc+C4dhfQqVwVVJJaTEX5tuNn9VSLRpAxwkcglhxcsTIU0x9DNKOWtZ3KBFVNiAFK3Axp15TolJiwSujKA6Dx+6esIg4g5tJO1v2PlFss2p5nnwqSTbKatlf1U1gItwTN9by7/DIC2OY+mwwI+US5BEYD4B13lkX8ft5+NT3jftx2sQ309L+826KZuR;cbg4JjsNClSNOrKx62PGDw=="

@@ -23,6 +23,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200518155711.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "System using machine learning can soon tell which COVID patients are at risk of cardiac events"
 
 related:

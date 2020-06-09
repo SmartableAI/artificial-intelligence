@@ -20,6 +20,7 @@ images:
   - url: "https://www.varsity.co.uk/images/dyn/ecms/1200/628/2020/05/Screenshot_2020-05-06-Email-Mark-Curtis-Outlook.png"
     width: 1200
     height: 628
+    isCached: true
     title: "Hedging a bet on the future, London’s Tej Kohli Invests in Artificial Intelligence"
 
 secured: "2OZ01bQOMhRhwrnVMP2SaVBDpctJSLBUMZbGWnLBTMzIDVsBNTtk5bwnhiAdkQ8aNXfQY+Frsmgw1K/nuiofGR4WLwPl4jUQfc6fLY4arGJhcLYjDGxWKeXfbaoeer/vWPU6KRe4ZdIu/CdxmDAsX+40oOchfzVozz7mBMEq34+rjAK33CD1zxf/mfOjzCcyyVb5PrKUpjObJwAMsQd7y6RIJ2BOeYDBXqyI9AqBnSEBw1Mcu9+vOI0eqdilSAVTjmqVvfjmx9eaPCbXKipnUfSNo135rgWnoYl3WbxRhTuE7j4K8fTFfkkfibrXaQ5t;gwkK1EnSt2az2sSz4+lQIg=="

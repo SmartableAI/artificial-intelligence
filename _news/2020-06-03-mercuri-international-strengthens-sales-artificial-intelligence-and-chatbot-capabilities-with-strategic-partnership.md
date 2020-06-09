@@ -22,6 +22,7 @@ images:
   - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/xi8wqma8p3t1mzlgfkz7.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "Mercuri International Strengthens Sales Artificial Intelligence and Chatbot Capabilities with Strategic Partnership"
 
 secured: "Yj5ulIzVVv681MpC4IUhZeQl84iS3/b+61wqlL0jlk3+58y1b6eOByKIsAxrYW1X0p2Zfa1wM0aYK/LEbltt3bDRWI4C1/7R8qGklODv8kjt1AU/hAOLjy4bYdFlQJibm90aoUw4Bg/ol4B6LQB94KArxAGtQX8fYcTASJwY4dKlG4Q1v7sJF2UB1IkD43mFI3JU8f3l0NMBQYcoKgTlP8GmWGkEuejeEvHfbIyfU+AfIS273+BSc9YcOUjT4s4micMXxSO/wurzQ/9kg5i8RfEXawbnCb53fr73lYpbnzHp7j6LgZkiisBbhQy70B00;LzxCeb9q+DH4/QdA98XBNw=="

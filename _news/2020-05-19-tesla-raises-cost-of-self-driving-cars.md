@@ -21,6 +21,7 @@ images:
   - url: "https://www.myjoyonline.com/wp-content/uploads/2020/05/tesla.jpg"
     width: 660
     height: 371
+    isCached: true
     title: "Tesla raises cost of ‘self-driving’ cars"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "How machines see: everything you need to know about computer vision"
 
 secured: "miThXRbhtLlaal1ATSE8gvGIlWD0XpkQ8zHvtO53EK+RVNcerdLgCMPtRo6xh3koNUy5G4yaHQPMkdOvn9Cka938Cz8XbfGYapjRAL5RgBYa7rSsHQyETEJiUEA9cjyIWb7LH6iB0dBEn5kveROdxdG00JyMQkVvmPN/dwGWzaqbfG7V80XQvDBe0aODLyCaGAL34Hdv6jZtGalX6iGTk7N1ifMbSrUpkD+VDDppRA5ASO4oVKERBaPrBPmAJFa6Y5sHNG0kuyHk7/xE++cN8E7nQQVpmrlV53xmWmU+A14zgk3KNCmML74hhaT4Py5nw4SfRNGpb3jXm5n5gh9yZB4dvetWftOPKWw5j2eM5qrlyl4WnyOif/Z+dYGXNRh3xBwxeDVMUmAdjWG+zAPs6X3lXSvENjhCYxUdruCqowHGa0FCrzX9X3poi45ixry2Jqas3mLlR2XNvdqo3z9NPiR3df8Vz9wqpFbb/dZ2iXU=;LzVhy2cv4fLq4Q8V94bHkA=="

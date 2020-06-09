@@ -22,6 +22,7 @@ images:
   - url: "https://cdnph.upi.com/sv/ph/og/i/9551588854713/2020/1/15888580152278/v1.5/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient.jpg"
     width: 800
     height: 533
+    isCached: true
     title: "Smarter hardware to make artificial intelligence more energy efficient"
 
 related:

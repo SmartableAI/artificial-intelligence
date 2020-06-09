@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Flip Chip Technology Market Set for Rapid Growth, Forecast by 2025"
 
 secured: "tEsZHT1IZxEBG6DwPCSzRmg3Q4aYF6ndl/0ZDOPq4HQwKTs+xNQ66kTJtqgcutQKTYyU87QtrHJ5ElwOYq++qmXWZQHi04FhqsOjcwOeBselOXRySc1habQxT5wdaVraDAQjgPmbPMQ4EvqcxInQ7I65KewlZ8aWECKotqFIImwkLwnEHk+vXxB3C4Q0HcbEdWVToSwPMhp4vyGS73stHqFPRq6KJ6al5TFti/ejzBmRrFzAbtaglMhD8+T7MI+3NNuDGeAKC8rsVNej2JlvKr17TxyztSQ9Ba878zd0CpixAOgwsiWMICgHEjW9ZSJG;2deLs+QsOvWswerTZsnKwA=="

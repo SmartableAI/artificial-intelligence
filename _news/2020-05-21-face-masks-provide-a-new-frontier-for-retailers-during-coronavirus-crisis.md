@@ -21,6 +21,7 @@ images:
   - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/05/21/masks-range-laydown_wide-2503da241edeaed36a369d9dc32ddbf911f35541.jpg"
     width: 2386
     height: 1343
+    isCached: true
     title: "Face Masks Provide a New Frontier For Retailers During Coronavirus Crisis"
 
 related:

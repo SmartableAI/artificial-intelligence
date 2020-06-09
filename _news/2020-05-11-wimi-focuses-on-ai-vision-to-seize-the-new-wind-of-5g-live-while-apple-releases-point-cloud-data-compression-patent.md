@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "WIMI Focuses on AI Vision to Seize the New Wind of 5G Live While Apple Releases Point Cloud Data Compression Patent"
 
 secured: "oka0X35iXzOguhuGZIBjeWBDr12/5pIZG8gKp9LnddtpNw8ZLeHsV8ipSu3UrUL3J4FmyiVPnmu7OcnaIoEQdr378IYVXYpLyNyyLGdyuuFWMxB/HFq/17dhNxv/SsU960MOaDZB8jgwuMLGXupC9BjQWXK8fqcC9pkvrQoO86XxOFAfvDBaJodk7TXuKRmMjPU5uhX3LypuFc5b1qcaeBpG25TZQXkefI3e6HNKGZphNgatr2LLsnb5nffBkVSYLvjsmfkLQ8n2CRKn/n+m0MiHame4LlHHwLRuU0Wgp2RgWU6kC6RIvLTuJSbW8V4p;b0HLob7UvM3m3W2Biu55cw=="

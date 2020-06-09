@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1179697528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7680%26cropY1%3D0%26cropY2%3D4320"
     width: 1200
     height: 675
+    isCached: true
     title: "Machine Learning: What Is It Really Good For?"
 
 secured: "rQm/is6wztRSS71v1bBKHS/ZyY9xxKHK7C0KelLLt6FQ0nNUB4x/cI43lCOzhq9hrcDZQqAv9j5LIYvkzQ8BWR9KbWRWDRcGBaFoERlMyIa+tk6bltt2Mc2bASnbx15SD/3QTlg0kdcjTCztoS45aO+oPmKAHPkKJx2fLt9lY++MB2lvZs86HDUuMZoHUwr1kHWlEU31Za+QeqUjtWL00Vkpn0ZWnJUHqcChUjd4k9n8espRxLYL2UPv5uDtYJMeUl1t7HmXihj6XGsthi8g3S1mAiUmPzXWsckiBpnTHegWvzKy2LeaVC/F61Gaha+o4eakgzGQAdhTfxa/sdpSbZhREL09cSc91owWGqaY4X++/yKDm//WOWNHoHtxxiC8pT7ASpy+OSTRPP6kwq05E4jU/YNIh/dFBpJ0MzpzmWpR+d3+dClRX8WzJAVsg73Agp/JJV7efQ1oE4X+xQ2ektKoy/ywG/YvsT+wZHZTL7w=;W0k7Np231T9MOp6BXvA6uw=="

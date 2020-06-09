@@ -22,6 +22,7 @@ images:
   - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2020/06/01095331/Technology-photo.jpg"
     width: 800
     height: 421
+    isCached: true
     title: "Smart Planning Will Grow AI"
 
 related:

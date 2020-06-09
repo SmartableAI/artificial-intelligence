@@ -27,6 +27,7 @@ images:
   - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
     width: 720
     height: 376
+    isCached: true
     title: "Waymo to bring self-driving minivans back to Bay Area, but not for passengers"
 
 related:

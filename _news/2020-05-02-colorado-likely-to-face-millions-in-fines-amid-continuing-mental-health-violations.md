@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/0/d7/0d772fcb-b997-5818-8a73-08daced186f8/5b36cde64ec6f.image.jpg?resize=815%2C530"
     width: 815
     height: 530
+    isCached: true
     title: "Colorado likely to face millions in fines amid continuing mental health violations"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/11/42271822770_6d2a1d533f_z.jpg"
     width: 640
     height: 512
+    isCached: true
     title: "Apple has acquired Canadian machine learning startup Inductiv"
 
 related:

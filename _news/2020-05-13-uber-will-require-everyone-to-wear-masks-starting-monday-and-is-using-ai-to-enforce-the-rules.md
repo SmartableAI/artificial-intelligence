@@ -26,6 +26,7 @@ images:
   - url: "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Uber will require everyone to wear masks starting Monday — and is using AI to enforce the rules"
 
 related:

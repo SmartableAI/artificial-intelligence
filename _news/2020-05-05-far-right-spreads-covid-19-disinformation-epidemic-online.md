@@ -21,6 +21,7 @@ images:
   - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-infodemic-1.jpg"
     width: 620
     height: 400
+    isCached: true
     title: "Far-Right Spreads COVID-19 Disinformation Epidemic Online"
 
 secured: "7zBfOVAizcCYi1P8zzsTFZWZYvSHhLTXr40QArRrJ6NGi7QJy6rASB+3Xn8WqfooILoOk0KugIGQIYE5oysFVwMUSbwFfNJseMVfOXvn5Dnn8Uow+G9jz/jVgTl2cZ5ebf8tRP9RxwNtRCul1WShiBitqD173bDtHlT786+miNMeG1U2yXBonYymiGO/7LIqdXExNE2G44th5Pr0iO3MkIxI85Z7L7hE2Un7P4lyReupRbk4d05852ybqicvKyXJ9kDpYnNUVLfgucSHpYblHiVezJeT0GkUyxkEGCDp/JDUKPtOSJp0aVbtABcdyXeA;DvdbzbeIFpAhrmHHvuSqRA=="

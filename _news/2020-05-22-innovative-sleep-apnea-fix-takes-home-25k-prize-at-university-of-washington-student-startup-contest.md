@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/Dempsey-judges-export-630x362.jpg"
     width: 630
     height: 362
+    isCached: true
     title: "Innovative sleep apnea fix takes home $25K prize at University of Washington student startup contest"
 
 secured: "/2XyvLBfK72Py9W77NxHWagliCANz/ra2jDTWBm0FgyVn9B3Gknuj2v/J4vDR8idym5QiBg99aJsRfROp3VdySdui5ai20rV9ltlohZHz6N+9+a5oKk53HcY9C28Gwm4/QmKc6g7ll4UboluNzIUXm0bk3kKQGu2qT8GfIyy0Ef1cxipsZEts6VWpUHivi8LQR6W0TGEsQi4p6sonY3J7B6U9kV1vNAFHftrzwHM6BT1i6yLJh9+2BVhy6Fys2+az/M4ulDbfVaH6Ss5oqWtH5KT+tPnq7mnlgIzkwUhhtJkab150yK9OSIjO4skvBv7Iff2X37akR7xRVwiapxDH8EtOAqWFR9Sb0AJ2DiuB4vn2uLF2ZsksI/nUg5qAaFq5KuzFhAWPJx1CvxW7sgGd60xJVtdZ0ztLSBwXheXJKGTRYkK5lns9kyPevJeHd0+V8jjgnTfXLeQTppXdlhtfoI/ZdyHwoiqN2cQQfqZckk=;7cdq+TDd+kbI6gNfhhTP9g=="

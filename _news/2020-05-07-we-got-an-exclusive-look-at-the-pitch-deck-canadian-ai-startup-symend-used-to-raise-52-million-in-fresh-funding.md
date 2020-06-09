@@ -24,6 +24,7 @@ images:
   - url: "https://i.insider.com/5eb29ad8204ad356f7327ba6?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "We got an exclusive look at the pitch deck Canadian AI startup Symend used to raise $52 million in fresh funding"
 
 related:

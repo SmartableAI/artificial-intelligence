@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg"
     width: 1680
     height: 940
+    isCached: true
     title: "Nvidia AI creates a playable version of Pac-Man without any source code"
 
 secured: "llP4x8KtPyNBMOBGuP7KAfrg85edwBtmQnfbX6ru4t5jxUwVHLO/keVQqOyqtb7u4ai39Lx4x0AHhJydhsFeRTOHxkEOeD6JXiDtHT0ceC94C86/N4+uHSMNZGCoCjNllWMQNDq7+hsKGYGGNwoMsSzQrM7JIBChT8eJZeOCG3gulFcMUgCaIi9bMzsNpLxocWBBvyHTv7LJ9Ske4BQ6qgbyzI/+4L550ErUQ989YpMA9n7XX7jFE+H8AKic3XYi3k+sTpIRnvzoykhx7rIJR4nkNb9KeLSU5TeodIMh9u2x1qby4FOqM5l1fYdFaSTyDNwO/n3VyxNSyR5TxW7W3cIRk9xnAfWJoh6gnRQ9DC/XHxY883wd9wBH3PghbsEUUDtfFRvyLacTzyG7LmhtZ8SiW65uo6lfwoNOMH89IVRTvxjA7e7nwE+2EaPu1BUteVyLb/+x3o0E+f/rhJYqCn7O9qufBUBMUmK3YWWVOVs=;Mv+0wLv/dLF88AkzOCwE/A=="

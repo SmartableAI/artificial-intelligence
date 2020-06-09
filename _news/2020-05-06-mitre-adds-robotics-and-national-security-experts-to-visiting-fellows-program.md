@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "MITRE Adds Robotics and National Security Experts to Visiting Fellows Program"
 
 secured: "C72w7Dr7W7V+oNaxT5QS1dDknFzr68tabyjJHFr2SGFyFHnAB1ZmMmN1vZfQzGNzA2GtD8hCpVNK2Y+sMVVc7pQqmOfYplKnFeEYWN5fhf62a8t6jHbw7A+oHrh+YGzPO+LdywIr53EdsiTo8BFlgjcTryOrnmJev2wMpKgPnI9SACAfZG8PtguOeO0+ipzFvOLMj4G2nmSGPDfJQ2IALo7Tno1P44eDvpbWZ5qMYPcKdMwPdtzRAl/gfAC9pOsMpNnga5Vjmtp7rbFleKctRA6fHFri6q9yJJcRRhj8UX8kCZiJwl0FJ291/J+/kqlo;BSaa/ZRuMsAu1eK1eY2mbA=="

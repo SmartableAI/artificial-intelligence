@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024"
     width: 1024
     height: 576
+    isCached: true
     title: "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform"
 
 secured: "5uGPAE2wJz7dl18Q0HoUZ0o9HkY6y2sF8IbRCLeYUKC+3UaoZ8B/89u3IrAtPMgUIalbufuodhwFJzfylOQjIXQSAZC6diO8mE1BfC4OOlGGM4Uuf9U/y4iNE5urJX5e9Go6VSlfZqnf70kIeaYl2IjH7tMHMEnIsbiJiqihyODh2TnkHJS/h9TvsJ38p95tWDRBSvNYf8j4BRSgEwGxYxZ/XxJG/7wulqhxmCM6lXU4JbbCRoRJdgyi9XNyFUyXJwt5ljJM8y3yKUVNzZ2zJd54bTboG0/Xu1vZ7gs2aUAcWGVUYhwPhrJFtSRedptHRlBF4gzOwbMO2MS+o3u1pLashsuXuGRiO1VxRYsPKoUFpaSPPWFVVAkTMnEb5JTcAMml/IS35/mWyYv+jtqZ2C30TW9zP8xt6mgxMDPEhHyu1XZt0/uYzvrpNDXOQolOgllrLlMM1c0cJf0zmX60JLjtxtpZOAL6gPe5OygOQF0=;oJqWiABv9Ure1h61h9Lcog=="

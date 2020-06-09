@@ -23,6 +23,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg"
     width: 2000
     height: 1700
+    isCached: true
     title: "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'"
 
 secured: "D5sh0d0FnUUI08vepi5SVffTH6RZMndr6nwSJFHqkyT1hI3YIS5oD0Tc3lDdxqHpkW1vJLioY7cHuuPCSilv1UK3r2cTMk9mAN2Fb71SQUN0igWvmK1nw7yCuaPJWSqJBzUYShhcVUOiyi8w1kMTgCygV4tRG/gp4cwxRq76wgilNd8PRnBLRn66qacqm3tg978gRuclW++nUmKn1u1XEKJaY6rOSNdCgQsFLHsewv1QvuinZwRqgB/9fcxzQ2LI95m5Oun/f/Qpvh+aukxkbEbAutzVgpY5GQ5HkWTByP495oTFDtcGUCf5UqSg039/EIJJL34ZCKlGm05rupXB9DSTeKp8RM//VE/J40X35MDqUdVZjTC0KJx3llzKUfsY3uFnbCYsNqv7dIKGN22bmFeyiQEWcGCH0rSJHYrNbkiNQ4hc08Qn4Ckqogm7SZMeGFUWSSgks5A3OQSHL4EE1QbD0nbZNSK1tJcpsaMeNWE=;ZB+bZE5J2b7tj3izXMs7yQ=="

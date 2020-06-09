@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/03/13/132683-pjimage22.jpg?itok=_VOepYCR"
     width: 918
     height: 506
+    isCached: true
     title: "Microsoft sacks journalist to 'replace them with robots'"
 
 related:

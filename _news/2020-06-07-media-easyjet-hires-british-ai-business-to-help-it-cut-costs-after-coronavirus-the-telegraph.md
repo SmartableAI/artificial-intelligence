@@ -26,6 +26,7 @@ images:
   - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
     width: 1200
     height: 630
+    isCached: true
     title: "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph"
 
 secured: "oLjj9M817oy7CTJmcHUt3Ku1NtHx+TPMZPk+Wlw2csSab0rLzU5zNZYWvQ8gGGmy5zF2tkAcDxpVZGLY/lS2uKpTuYs04xZ9IZjqS7L3zWmwLQjVAlZLXvtBkwjtw1/Ghy4xEnymTwOa3LWFmAHca18U1X8rxFVKYkPmSdaN6nUkQkM5Xgkf4cLEUS2wHRqUIGSgCk6vSovOg7OeRU+F1om1ielH0I6maSYNDBwR4janie7gNpKlpAiQe5y/mTTtGNMMSIJG242heL0WNKLxRsSmr3wTYyFLhzKfbfav7kMBJ3KdA06PbVcPTJz0PxVT;mkrb+g/TcBUr7rNp7WX1TA=="

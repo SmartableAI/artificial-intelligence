@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities"
 
 secured: "cus3h1VX01mu9xA9MlkS9P0MF8B677haiz68Yih4GCrZa1Y3zap0pymHjiFDqMS2jsideETsiJetR5HJUkt61zAVDXHMhRncJQFQnsysgZusBxXicmVD4IRB3qaUsRU9BEyLFJ6k31R9CIOd422ywmmZbxooLXA9XcjphCzRJkXSRlWEYNC8lOpz3fJczGJn4QpxUZMLL1RGWHF+n6BSw/ao1UxBezbJUf6hOy5hroFrsWZOPAuNz4lmcg4sT/XXrGkfZPuuBioj8SihzLWrt9EP8HgaVyv+dkmTmhTuBrcfifI6SdDBN2IrW14VpXYWJLktlOpNUF9+KCW2CL++2eNy4wIHvS3V/OYjzweAYO0JSt+5N2+mNEzvADc8Kq23yOdgGrXaurz89voB1GzuqS62cFlDnKYcUXmNOShYA4tdOktpUYcQbrc4GMmnwitkEU8VEuKiXoaYBhD3Oaze1q5TY+QGA68Uh+lPpdFTzrs=;rly6xxiGVLeZKqLVQ1iaKw=="

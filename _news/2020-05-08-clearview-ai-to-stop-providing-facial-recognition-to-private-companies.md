@@ -28,6 +28,7 @@ images:
   - url: "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Clearview AI to stop providing facial recognition to private companies"
 
 related:

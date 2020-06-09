@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.digitalhealth.net/wp-content/uploads/2017/03/deepmind-mustafasuleyman-01-30-2.jpg"
     width: 555
     height: 330
+    isCached: true
     title: "NHSX denies conflict of interest over DeepMind founder’s advisory role"
 
 secured: "vQ/pgMDYhuPwyve85HlLHer6RTU6epgJssbbzZs0VkJhVf/dk59l1T9Q2lfhYt4LrvRb+VDjVEDuoVudbC5b4pHoFrW6cTquA3/xCnCkDMesDC+m6L6mNSYKsiA3BUngH+CLpSJpXoucKzN5q72m7YDWAl3Is8jMLdkE0m+DYfieqUUjzoINB5nLHEMBxlT2CpRGGVwInpm4jixqWPsrTkzkHGRwkNiAUpaj14oiuyz18jXQvpcpvfM6tBcBCevjjeUmohJJEET5hDYCH3p45gzxvWViuqAYubKPWwIN3UGKHSqGvSbwipfl4+KTvhE7QMp2/dc9cIUe7EhM5mGTbKVol4v1n5ovYQGuaI3XggG7HPUZ0P8sfRdYtKM+DqPm+PaRBAjYUpCL06SVKe3Vijwxe6eD1ECfPkSkob08hMPzTc888rN1t9iDkRJSVgdSBQmxPdGng4ygrXyehc+E7aOD9tAhT70l1DCEuiCh2j0=;aY1fz7GCtMrhosn7B98jTw=="

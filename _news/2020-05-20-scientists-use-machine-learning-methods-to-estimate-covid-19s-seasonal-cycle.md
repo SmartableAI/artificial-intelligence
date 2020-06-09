@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2016%2f6%2fChem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Scientists use machine learning methods to estimate COVID-19's seasonal cycle"
 
 related:

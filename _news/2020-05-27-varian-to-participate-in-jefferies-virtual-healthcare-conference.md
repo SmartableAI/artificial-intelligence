@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Varian to Participate in Jefferies Virtual Healthcare Conference"
 
 secured: "sVyGYBnZSlZq7Y473rQ3/j5F2yivNr4hWPB6BY+2dqrhuHBuWO1RfljlRUN9j34n3ez/efUuKBfiviAUSoYz6iWQBX0Uwt7P8eX3m/23GzwJIlP21OMtr4ApYOG6niU4bvIwQLaetPoFI+NQfugstlZouPEXINQGMzBtqIdDTT6qBRj7yHwBWBw5IafgpczLR5MpNR3OB73ZBIpsSef11jgr9HxRvya5cqjzptwMC4we9DRIYx0MshkTUTgHrI+XnN4MCnIYJ2q/jpWRsVwjzvuxhq/WAJuti7Wk2zWDermXC9EJScOGqHCjza4vRgzj;Gu74MwRSQ5JDoV2LHdtomA=="

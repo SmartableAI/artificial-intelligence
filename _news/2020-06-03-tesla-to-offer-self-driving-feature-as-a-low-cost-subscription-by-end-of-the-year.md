@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/tesla-self-driving-cars-1290765.jpg?r=1591182367342"
     width: 590
     height: 350
+    isCached: true
     title: "Tesla to offer self driving feature as a low-cost subscription by end of the year"
 
 secured: "urATZZXSjbrx+lO4PAjBGHrjR0uSyEW8cNYJNXCH8z8zpgNK3eKgUe31fXADdP+qyDBF5kjytl+ckUF4i0bcFkn5uUHbFTExVObi6ANZoIu5P9jfBoF1wQ2IicWeQ0XPmg+DgjZhwRo48QIjTEBxZ5cb8dydmyyegEVHxtGCkDxT5cvLmuCdjtqdTb6LtXFOhZaPt3OgqOD5Mpi/QxGfnNYNLHR6s/98VQkb22qWoFWGQdG3BJcmaacR5+7LGaG0vUeGFjZNnjLhgM4Z43Uh3msMNZxezJmgWBdJ4KzeDQA92hCEBF+mip28ydMD4UFr;0OGjw3eXoHBRhXoik+I85Q=="

@@ -22,6 +22,7 @@ images:
   - url: "https://images.mid-day.com/images/2020/may/stranded-Indians_d.jpg"
     width: 670
     height: 440
+    isCached: true
     title: "First AI flight brings in 225 stranded Indians from US to Mumbai"
 
 secured: "5jTaGBO2rKOvMdCwGq/1glp4bs+1XSwU6dy212Pyd15qIicK7N5SOydBiUQ2lO71FIBLwTzPhK9sXNVwd6UaL2Kt3r3wVLizZ1C5IfqUmoHoDyI3UfD2NNDYXi+JWHMyU3ms+iReguUQZcDxfi7eIeE/7jVsGU9f/giCP+B3j3jWmxJOMWe1xaYIbmEKUF6T6QjMGwUNtraef2viWEAXCzv98w8QqqUHDncZmdjGnieePP23a3f5xGOE+3/54A3pN4gSd33uv+/V4nnNOCoiAzJXXlHlB2C746K2MxgzsVH36ti0Q1YhLPo33ZnwuEdZ;aEs/jKir2JA5MGq+gW1htQ=="

@@ -28,6 +28,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?w=1024"
     width: 1024
     height: 683
+    isCached: true
     title: "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices"
 
 related:
@@ -46,6 +47,7 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
         width: 600
         height: 350
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z

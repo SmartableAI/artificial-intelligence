@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/StarSearch_SGN-Prom_indexed-video-630x355.png"
     width: 630
     height: 355
+    isCached: true
     title: "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful"
 
 secured: "UpKHDjp5izqCgjwrJ4dOQ3yEVgg95GZ7krxmBQUzlsi81dDGPhlmIQKyqGcD2BMaZNE9VGS5I9PRZ5ysYpnH8B6+GfU2WPvVlmJum23YT4zhoO1yffvzcwf6P/pv2xrHhoy1BNZcui1BItmkI/VwyembxVHCAkvfdgiYg5HpG/HzMBwLUb4feXyU9TiXVyJS9Ugm59KpCKRjaBi+6ssJaxOI2SL1nxubs9DYV+nJVfphhaW/cRnzG3gjETqB6v+ov/J/HDDO8d28+WT/yFmbGuszc6E6VoFqvrWkDsWWRBn7uhylDOHaebZrMiekVzQn/+6aRZFQCZ9sltJ2hSMUDeFkejaWZRyk9TBUoIATB2ADiD/I+IbRCXtJre8YgYVkw4X+zyaKAzvlQk2l+mZYyWJ11qol1j0tpIgGGuzdfuJ2Ka6crBkdvB9daBcvYHOc/rA1f/8+38B3MonH6HvOneh8QFwwLZOZEfAWUWpvXBM=;H3IBR6+wqdvSy9TLMNcNGw=="

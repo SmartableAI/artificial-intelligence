@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19"
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all"
     width: 1200

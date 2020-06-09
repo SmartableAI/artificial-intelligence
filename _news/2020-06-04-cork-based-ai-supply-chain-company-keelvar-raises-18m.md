@@ -21,6 +21,7 @@ images:
   - url: "https://www.irishtimes.com/image-creator/?id=1.4269967&origw=1440"
     width: 1200
     height: 630
+    isCached: true
     title: "Cork-based AI supply chain company Keelvar raises $18m"
 
 related:

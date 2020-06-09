@@ -21,8 +21,14 @@ images:
   - url: "https://js.undercurrentnews.com/wp-content/uploads/2019/06/sockeyesalmoninalaska-720x390.jpg"
     width: 720
     height: 390
+    isCached: true
+    title: "Fish Factor: Pandemic cuts Alaska salmon permit values; Fuel-saving tool; Fish voice counts"
+  - url: "https://css.undercurrentnews.com/wp-content/uploads/2019/06/sockeyesalmoninalaska-1024x555.jpg"
+    width: 1024
+    height: 555
+    isCached: true
     title: "Fish Factor: Pandemic cuts Alaska salmon permit values; Fuel-saving tool; Fish voice counts"
 
-secured: "/L0tti2NOBCW3OMnvPh1Nwg5Amk6TKtXlwy88sa3HkEC43DIxe2Qqd1/GqA0HgFlCNbkMXy/abMt6xM5Iqs67mAQxHosWAMPhR5N05/dZPLdcZjrFN1XMTZgJ9gkV0IUmVJbwb66DW9Xwg7IfHb+V9kbmNi9nsRV62LbUT2/fZipWqtPRFbh0sEbPj0MSlZv38VyPONj9aCdoyaJoJ5YGfNZJ2l2bntQj1FkXCu/aj7EEyT66+01ndwsD/50hLXBzXYP2KgMwiav1JNxGC9lJOKdRbuQguQpVeGme2eedpjUz2mAfMCX2X59reX/+glwm6ULEtX87NawufIPuXhj0eYlyGObQxZSkPP5RCMhTx91wrhXPgbKGJSTPWcolXq3RUZdqstPkezSVSB6nGfabOOO114nzDE5tM7dXEFAvpHet7xaxlQyx1g/SVzgoReHnLoLPgUIifSac+4wkyhksxWQ2JuzIJmhLBMymc/bZyw=;OLaURYpGGZO8/QGuea9nSA=="
+secured: "90acNJUBQCjMw6zHsDa7hphYoem0Ba6toAEu+SlCvtAmt+q3zFLZB7yS8ZvQypQ7kSZxxSSggv4aHBVdyYDFRw6YNPruJsKcCcRcWDJF9DHjUEz3pa3/a/CYvuTOsdUmWrRe8Wo+MY/TlGmKHXy1sCwkJThKV7w4x6hAcT4oEt3GPam188XZcVqRJGmIJsXrk7AIu3hqRP2j4hMEroLBQVO+H/WkfVNdKC9SL0fZygPHkHYYDtK6jRMATJjaHty8/JCtYeIhjUbYjn3p7T2CCGza4GvRXmihlhlc+f33VA7uWbB2lz7gtPsqEe0OgSDo;+JWoyXPGckkngRXTaZezZw=="
 ---
 

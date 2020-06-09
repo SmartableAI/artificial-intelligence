@@ -27,6 +27,7 @@ images:
   - url: "https://cnet4.cbsistatic.com/img/mz5ofBgIkIQRE2jr9IGFvfKofLI=/0x44:1074x673/756x567/2020/06/04/fabebb72-d205-405c-84d1-6dc186a8a4cf/screen-shot-2020-06-04-at-10-18-45-am.png"
     width: 756
     height: 567
+    isCached: true
     title: "Popular encrypted messaging app Signal adds facial recognition protection for protesters"
 
 related:

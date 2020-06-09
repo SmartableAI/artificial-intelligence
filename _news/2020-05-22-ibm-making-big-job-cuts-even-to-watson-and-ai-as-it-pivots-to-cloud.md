@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg"
     width: 994
     height: 600
+    isCached: true
     title: "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud"
 
 related:

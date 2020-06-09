@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Exploring Trends And Analyzing Opportunities Surrounding the Coronavirus Pandemic for the Global Statistical Natural Language Processing Market"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "pBtnqZp0WlEfGD4zUxPSCFnby1FiLSr2S8vy60nOWBcFaJWp/M4KvufwzoD/iULyfbl3AeCsIPG1RG83bU6KIPttmiWdCg22f5qjOUoRcjT5wLssB1Vl2iN4yfGsE5kdYchxHJDBx+tjaYSIL4KzSM7YiTcfXr0fFOwGKSvZsuYVVvjhlS4gnidlUf0NBdISljIeNZIj3SE5ibUJ6/Xa5DMkKcdL5STYwllBZCc9OmdgkXfLvbK8aSrHlu4tnGeK0da9QsNqt5susgqcPp0fEzAnTR0y3/3k+7C/KT0G7hlW5zRJil5qX6DBnPJW7FRq;g3m4/ZAVPa0j+0B8LB/oZg=="
 ---

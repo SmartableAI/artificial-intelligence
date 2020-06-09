@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200512005140/en/790809/23/bitglass-CASB-logo.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology to Provide Zero-Day Advanced Threat Protection in the Cloud"
 
 related:

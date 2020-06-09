@@ -27,6 +27,7 @@ images:
   - url: "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1"
 
 related:

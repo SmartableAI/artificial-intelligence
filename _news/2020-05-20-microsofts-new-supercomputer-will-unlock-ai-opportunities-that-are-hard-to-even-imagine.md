@@ -28,6 +28,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
     width: 970
     height: 545
+    isCached: true
     title: "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’"
 
 secured: "Osw6Jmo2s1KEredkmICrF72fYFVPE6wJFmjaDl1R1y8cbobKZ2jG3yY6xmA727NYU7SCFwUZEa5KY2In80Nh6K7F1o5MHf86x70jCHJpU2ikNyWFwfFvYMU3GZ+S1MCTd2+Ewy81ZrzG6gez2NtHDSn7qd+SMfwRSe/e3gV/ml23nFvxTLH46gIEQUSm6AkfQfXKS3F9UDzx+sEsL/ppiX0Xl85asnltG432OQT6AOY9CGQ+q42AphY9HbbAFWBOiGWjznA5YaNln0shFPrE3B5jy6ly1wL1lJ2Xvx1/2zXvZAIXOBoNFd5zsLkIL3iLHwL0vLxQ5D0+gjOZspibfLAvOy9gDga+3QeLwrsBp0uYhDOCxZLM4diPU04WuTH78hcA86brzsEib4ha/kihhbyWlc6gOS9nmy1LvAfWdY52DoOcekuV3BIDV0LLL5ytSOTSaFE1PbS9QPETFjx7qnhpLY+Fd0mL1jzyxFz/hgg=;8gf3cy/LkTJZ8xGbziJwpA=="

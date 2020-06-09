@@ -23,6 +23,7 @@ images:
   - url: "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png"
     width: 512
     height: 512
+    isCached: true
     title: "Senate confirms Trump’s pick to lead Voice of America"
   - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/06/0c0f359303ba4e6aab0e3188ea308ab2.jpg?w=1280&h=720&crop=1"
     width: 1280

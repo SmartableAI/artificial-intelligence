@@ -23,6 +23,7 @@ images:
   - url: "https://www.tvbeurope.com/wp-content/uploads/2019/01/cloud.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "LTN Global joins AWS Advanced Technology Partner programme"
 
 related:

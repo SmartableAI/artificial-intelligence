@@ -22,6 +22,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
 
 secured: "fAV0cVrbzPve1mxl/Iqv7rqpyL5jqUFY0QqYZxWHArzpSuAifIRGN8Zd3UfxJ4g9zd1ZEcvHantjPUdtdQqxCrD1rdG8OT6gWj80wLzirqgoqrNE3x67675QOqlraDhQJRHKSNiSaNGhiZfH3LsDGH36MPO6ooqLzxRkQyyAISNjpvKpyYc9Oy5cd4y1bgw56EDW7HLG7BsA2fF1h+X+zChM6sKdVH1pkAvU36X94Pu7onccS89R/XuQfHmdMssUs8Vt1EIwa0q6KUDtWX3jVUgnF3mLhj0stDK1xGfQ8iod7KxozA1GPaEQvTPiVB61;K1R+KW2pi5Xv/uORlW0frg=="

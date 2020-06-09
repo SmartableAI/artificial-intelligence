@@ -22,6 +22,7 @@ images:
   - url: "https://images.livemint.com/img/2020/05/01/600x338/2020-03-18T164158Z_2_LYNXMPEG2H1XD_RTROPTP_3_VODAFONE-M-A-IDEA_1587623580382_1588340687590.JPG"
     width: 600
     height: 338
+    isCached: true
     title: "Vodafone Idea launches AI powered virtual assistant for subscribers on WhatsApp"
 
 secured: "lxF5scBNBfWfZ8OcPrH1RDsHaI/vK0i1Bt0IK83pTItzF4VvZyqVOrCwKo5Ok8I33qFTNeOcBqBhuLys7WDeKgH4WmUUE+enY7gSZXLIvN5ET2ylqokOX7Q55tCCei/vNEMc4Zwf94+IIRRoP2DJ1IRlcKaWzjmbhwW2Zf6WvPBi7vJlN7TDEfF8L35iuAnCGVDLrEjCgk9q6H57jI6KIZ0aoreOMxSU9nY8EGT57gpcGMmBOVVGstzl0+DFnY4UxuRph0qZULJu0W6iY956IvKme6pq5p/QjRLFGpPVTV9l3yPe0ZKDfCYqrQ5C/m0/;V9yvo4fSaijwRjOXqxrfoQ=="

@@ -24,6 +24,7 @@ images:
   - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
     width: 1200
     height: 630
+    isCached: true
     title: "Civil rights groups criticize Amazon's facial recognition system"
 
 secured: "NWGglKHPfcJak29aq7MeJLbTG4lxDFkcFgalK5I8uEH0EXi+YgbSz2FmTnFfeG6qSzFGCFYngcQX6Yolu62uxS4jz04eXIUfVlUk+XOoZbxV6qNg1iAw1W7z4I3FvWudzODmnyXw3jRKN5C6TrSl+Bg81DYOepJqoSGh2T1CpOBhUi6GoUif50Uq9nbga3Yi0uNDrbIkQKmpp11WFos7n6S6Zqgc7H+NeR91jPyGmEmcp90BOegPy6/HqHkjTXFy5+Ojw+8ukwMYShp0xieFvu5emojI+USESkh/V11kDBFN2lUQ8rek1FRi3BcSwdfI;iBCLUFbCJ64smgefU4EiNw=="

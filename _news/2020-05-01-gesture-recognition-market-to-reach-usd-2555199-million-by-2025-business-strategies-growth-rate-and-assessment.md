@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Gesture Recognition Market To Reach USD 25551.99 Million By 2025 | Business Strategies, Growth Rate And Assessment"
 
 secured: "7WPK2RRuXiMuMkyfGqabG9MVBZaZa+cdXCVwzArWPMRJhrhKQCESACkYFrXZSpk1xhha5Qf1IC89PawweoZ3bXq2b9BqtBlJjoKvWV/vWesRFZyfXD3ha0ZIJ8GMen7+vnOleAdIdjsjF6gEhkFLkzw79j+dx/T5P6UOTZLJs8E8rKqbBSU2gHUDddc4qOn63Z9+nVq3GkOM7pz/Pn64hzRjVWVGLywkHymmrerZhDQ5uP9tuIri+csnynIaBlfqWCRDZnfS6xZGxvcQ2jfBujnl1F3K24WpvpjuBpc1j8YmZLh68HwhKElloAOLZkQs;RUIwGA9PlLqcKK2yOc11HQ=="

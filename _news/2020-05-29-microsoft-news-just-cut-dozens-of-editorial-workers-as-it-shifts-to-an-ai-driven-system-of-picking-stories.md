@@ -24,6 +24,7 @@ images:
   - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Microsoft News just cut dozens of editorial workers as it shifts to an AI-driven system of picking stories"
 
 related:

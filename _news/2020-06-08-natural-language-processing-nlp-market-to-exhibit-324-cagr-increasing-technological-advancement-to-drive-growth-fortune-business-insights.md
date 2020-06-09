@@ -33,6 +33,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "COVID-19 UPDATE: Global active pharmaceutical ingredients (API) market Overview by Type, Technological Advancements & Forecast to 2027"
     excerpt: "According to Data Bridge Market Research the active pharmaceutical ingredients API market is witnessing a significant growth in developing economies due to factors such as increasing incidence of chronic diseases growing technical advances adoption of artificial intelligence based drug discovery"
     publishedDateTime: 2020-06-08T13:31:00Z

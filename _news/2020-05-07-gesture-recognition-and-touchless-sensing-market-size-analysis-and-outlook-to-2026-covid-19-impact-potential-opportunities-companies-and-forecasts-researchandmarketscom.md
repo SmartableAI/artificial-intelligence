@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200507005454/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Gesture Recognition and Touchless Sensing Market Size Analysis and Outlook to 2026 - COVID-19 Impact, Potential Opportunities, Companies and Forecasts - ResearchAndMarkets.com"
 
 secured: "j4NwjTFkKWsCUIuyu/4QCUVtkY9xMaub+fTfN7LKay9tyHLUeqjgUb5hDQ9r+QvryUJSNXMV6jKs5DkZD1Jxk10gqNwTkGnBsy8ir/zYiivpWw3DMF5l9hOYOmqlMYw8jaLBOm2DCGobg4xfMCge2wTXoC5hF4lQRPoO481Qq45q7tYKTh5bqfBLif2bFyo8gTl4W6wcncm6MxwHuMUebsxMBhCswvsTX068pBcdMunVj5mHbGASLbrq1fLCXUPL0KgVV0zwHv2MobLYacSrwKkN2egSKNEwxnjnD1jgNs6Vx6gI97EvJEe1eqjCNJQKfq+DvOhx37dEcv+8cHnuE6eihuS6ORmTlrYIlQoa517ILrBf8JtjdWXnETIwN0cYOyH1WeTd2ObUrZf0pctIvBm/tRq9ILKFglGiT3tQi4KN0uDsTsaFIq9m++Hz0qqu8HFa3sp2vEUWJ/4K/2Yc243bWoqaYLYh7ARKLn3mOMc=;5Z2qrzNvTBTsw2ZJOBUoFw=="

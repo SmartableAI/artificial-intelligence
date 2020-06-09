@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Accenture Completes Acquisition of Gekko"
 
 secured: "wJ7WDQYWceu28qeh2EfsGioNccOtYHKw5EM+I/i1GlBvV8mVym0dWStABwh72EOIffiDDpvZ4a5du6na8iTsttRr9XF1AxsU+MFol33Dx3vuv0oZmo8Pdr9KS7XqhfG+ugOOLhAZmWpuX+jBf4UzNsmfPgTX+sUGzg4xcMb14lWy6K6pe1wBn+gepWqZqs3Xdg47h6yrGRmRRt/4WH6PPuoC37UjuyqSEmO+0eFX8oDTlPXATOWb2/1J4cTzjrz7MK9mDMO2MTuHemfSTT4m06O3benfErKcPopsgVBgHnr2qWXZrwksVKRqoS3HK1Uk;kc0W5VL2qx5f0aQXJqvNsw=="

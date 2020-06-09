@@ -27,6 +27,7 @@ images:
   - url: "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png"
     width: 1200
     height: 800
+    isCached: true
     title: "Robot chef uses machine learning to perfect its omelette-making skills"
 
 secured: "I/NkEFmcK17VwKEFgs2iSsUWFKyK1AWnugZ8xolcuKM8MIJAPyorPvsTU5uFZmfcO64mOucJ4t9HnupxxmxgJ2alZag5GarhqXvYnzvodlOqDi+8Dm2gPl923hN3sQDaCN2QYfXWi+wmEpun4eBv5cCnbGU396Ik6rsGsrrdW3guvuZLdlpX0XnyaKR9Q1PGaygfr9+8SWwM94RR3s6gKP/PZSNHnFZ8H/bFQTDDTZYi3UDlvFcgOJ+ntuw5YCuz/PCbKM0KKVHVtw51G9jF4ZSS+0qUEr2I6tsxNbsp/OhOjglQMQTUhzh1xX8k4sEE2YGJUiwejHK2TwRodB8T1BX6pbsQVKAMocmPjL5z+FyKKoiV6f7rzvia1bv6OP1WtQWC0ZszCVvGRClVPbb6x5WOgWMG1B3dFXmYQAFE3EQ35/2x+7JslD/7sE3vgbbG+Hpcgshl60Lm0mjNC+YbCWK49RpxZve8nnyMlhsbpO8=;H0uvVdi+x//S2hI5SUgFQg=="

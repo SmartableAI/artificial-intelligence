@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Traitify raises $12 million to assess job candidates’ personalities with AI"
 
 related:

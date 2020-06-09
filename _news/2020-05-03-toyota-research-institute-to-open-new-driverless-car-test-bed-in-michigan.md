@@ -21,6 +21,7 @@ images:
   - url: "https://media.xconomy.com/wordpress/wp-content/images/2018/05/06133149/TRI-Test-Facility-at-MITRP-arial-e1525370235514.jpg"
     width: 900
     height: 600
+    isCached: true
     title: "Toyota Research Institute to Open New Driverless Car Test Bed in Michigan"
 
 secured: "ywscqp7kEKOMe+wh/WaOE9fHPR8n6RsLAOkvoOaZjKLmugRrQR+paNXr1eKKkeIh5DRz3Jk4gAZKuHbHbaBBIN+AgaTqQxravsrh8ECrC5agM/G0Rwb4hB0ytyTsWLfjE4AW2q/AMxn8dZkKR0+5foat4pyKfDbqJKbyhpdfNcqtrjIAWGE2yEok6wAX40HFw63+Vno4N1rzcBZG7yFTI9mzlc9C13YJBz2h7Ug4qbVGilsT3tb8qipcfiVsYcjcc9cZRpehGobdFRM1uZqYNGyKmrmSvafOvsWMDYegeOovW+fJhHZ0+wD15zZiPCWv;PtLsjskK6VrDqUq9puW3Og=="

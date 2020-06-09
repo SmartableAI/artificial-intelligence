@@ -22,6 +22,7 @@ images:
   - url: "https://images.financialexpress.com/2020/05/AI660.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "COVID and HR Tech: How HR can use smart AI tools"
 
 secured: "fJfNcu8WIBw/rf03Y0l96TClCJFJq/evG6KSv7/AAR5obBIJrMfLCpaVA3hYIdQKruHcSIgbRpQ4UnCyaJnMym3puH6cUm3LrOs5Hbgbdqlhlw2GlRVQ5tz6QcS6hSAoEBKRHC1kf7Q27GDKS66C1+46h29yXVg9VeS+f1AssksG4oshX3zMlDiVyL12lkhpmvKp7mrcwxCVFqAvJgNtY+GVjKZdvi5ydEWuIr928fDPv/5TUnzbR3/cNnohaY/JMfeQFQeswiccJGJeKriC1s0RRpP3A4lhk1fMXfQoRKNPhycvhGDpMWSD84SFqEFN;i0b2Bccg9N3fBge83jzxzA=="

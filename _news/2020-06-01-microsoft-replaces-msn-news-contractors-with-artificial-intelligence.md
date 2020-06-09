@@ -22,6 +22,7 @@ images:
   - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fmicrosoft-replace-msn-contractors-artificial-intelligence-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
     width: 1170
     height: 780
+    isCached: true
     title: "Microsoft Replaces MSN News Contractors With Artificial Intelligence"
 
 related:

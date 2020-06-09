@@ -21,6 +21,7 @@ images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/shutterstock_1075070774.jpg"
     width: 1000
     height: 668
+    isCached: true
     title: "What Are The Pros And Cons Of Artificial Intelligence?"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://www.socialeurope.eu/wp-content/uploads/2020/06/SE-5.jpg"
         width: 1108
         height: 570
+        isCached: true
   - title: "Connecting the dots: Technology, healthcare, and pandemics like COVID-19"
     excerpt: "This article is written by six students of Indian Institute of Management (IIM) Indore on how artificial intelligence and machine learning based solutions are being used in India in government hospitals (also during COVID-19 pandemic),"
     publishedDateTime: 2020-06-06T14:20:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://www.opednews.com/populum/visuals/2020/06/2020-06-91838-400-Uploaded-populum_visuals_2020_06_2020-06-91838-may-1---amit-rishi-article-335.jpg"
         width: 400
         height: 322
+        isCached: true
   - title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
     excerpt: "Siemens Healthineers and Geisinger have established a 10-year Value Partnership to advance and support elements of Geisinger’s strategic priorities re"
     publishedDateTime: 2020-06-08T12:23:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200608005147/en/692000/23/sh_logo_rgb.jpg"
         width: 1200
         height: 627
+        isCached: true
   - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
     excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
     publishedDateTime: 2020-06-08T14:00:00Z
@@ -78,6 +82,7 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
 
 secured: "hHbJpb2pAGGy/DzSd6QPyv/Ft8tTQsc43Hyy3Y9hMVRgUgOoQHop9T+21LYWuS0Ps8WiWDeAeWmefYA/LIpLYyzqQk30y9ojuE8W1qbmF0uxirqqWtyecTCxORf+viFSBAX/cFf8d3WZ0gSJ0LmS7mNGIKXHoCn07QpOfW3J3DKlw8oVSkHSuXZ/kEcAmZ9bmUSDFxnyQQkrQooqFjPG31Gkkm8lqkJ/wVwRYYmhFsMDwXNVKbElAPw9nvlaQzvD5ORSllzSccuO7mPUS56BqvrXG+ly5iYWZXvSEG+Dbs4fUj+/BEGTUyFNPTDAjtiEWBBQoVS6A0LSJ1GSlQjV28ytD/X9UhkR8nZJjSPa7EacaK29/7Pu+xjW7iZCWJDhOlYNa93gT/j+Ctg0QRAlwAqGvcVLFkNclXK1X4+o2zVkmH/b41CPo0KE9EroH/mxT3Wz2VipR64ej7QXUSj4aHgvkRZPVISQpKzBrG2lCtE=;Wx9rsMrUcNDGhIM6MKBiDw=="
 ---

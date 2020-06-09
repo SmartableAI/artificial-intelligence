@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024"
     width: 1024
     height: 592
+    isCached: true
     title: "The Trash app’s new features can create AI-edited music videos and more"
 
 secured: "4SnL9eLR8O+ej7D4pjbdn533W2H6WxrxHUfNdiWwLSysuTvDacOlJAWnF+QOMlZVW2I3qurNzx4p8hOLPcGXDCn7h2mVGbAlOrFcXjlrUXjy7MJHL8Jfb1StYIEAsVMbWayo6TJDjYdrYIBWsCSkN1r7nd0dfznPyozhxWCXTqD8PSznpQ5bcArh8In1IjUbYf0KH4XAeMpgeBLF1VCI9MIzDzxAuXWWlKbdCTYKWT5RUdS9bmVoIMzWZZ+yM6Zls61b7RemH1kRu17J9jnVRgz8tTvaasupVdlI5JBy3ltOselOLK2VanXFq82kH6eDcEF++Noe+Q6CziRzTLZFeG4nR7zPbe4hCtUs9Gr1b6MUdNOZuPD0+qdkaeXVIHFvz7eLjaI+iUsntNFTA4DsIZrUavNp7NfaMwLLtNPS7rPk4tuUc9N7r+vgFSXNchYSv0YmcqYoCJH8Q1Gb/KzQi4Kh7FDXVCLQ/B1Q9lCUyks=;qXXhdO3HhLcNE+yVjV0t6g=="

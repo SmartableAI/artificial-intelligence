@@ -20,6 +20,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 
 secured: "/elzRwR9NQWwM3quo57VvvJptYYpbU20lcfDs+B605Gmy8ci8KnddxaSAvRc0R1xFRaL+hB2VHKxMQYUbTqy5IECUgqQTGBB7ktIeE02LxhAwWe9m0X1+krmvG4UpWbMJQYuPulfruasTJ+svzDBWslIbPMt+H0M+xN921yG2BuS9d0sxgOFQ2szg2FVnUW4Hc84+uhanEMCbOujKERl22DLtrZfeX+1dgEDI3Wxl6H0MkOx2MUP78k34Cvooo3iixVpWgfBo8TTB+i0QftEBPMK6zRcZWudFru2lTXe2BndmZdIovTqVyzh+HpE4H8y;Zmc+dLjSiQStiYhfkEEMJg=="

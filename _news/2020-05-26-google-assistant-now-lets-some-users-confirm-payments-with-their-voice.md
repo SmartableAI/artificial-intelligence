@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1588349474_google_assistant_story.jpg"
     width: 760
     height: 428
+    isCached: true
     title: "Google Assistant now lets some users confirm payments with their voice"
 
 related:

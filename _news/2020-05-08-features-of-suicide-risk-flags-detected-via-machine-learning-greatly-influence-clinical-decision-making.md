@@ -21,6 +21,7 @@ images:
   - url: "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png"
     width: 1024
     height: 1024
+    isCached: true
     title: "Features of suicide risk flags detected via machine learning greatly influence clinical decision-making"
 
 secured: "sDE4jhmffsEsbNYUB3sRBo4vDJKsv2Ao0L67XTDtwV489v3r90ryGxjg/lx4SwSQE0MlVnWKO+7X3E9/ml5SfgoIMz4TgV2dJ7Ah7r8SUZ0XeZQLieW60tUbWaWgDEIJ3wLTIrfxB/wHqMl5xm3GE7rsj8y0kyrnpRrDNrRS3yyebBZMdY8bJFqdQNVue8W88MxSHYM3+lDkmovfY/Biv0+tl/jrnCO84INmvVhnZ94h0PJvSVbWQmNfKey9IsGcoDd8Bhb1zqTGw8FayTFIIvdTeCeeFM5zwWRfIJKs6rwJ73UjK6ctmoZdrO276uOx;PJT4FR/dzDGIfDDtX4rbwA=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.hstoday.us/wp-content/uploads/2018/12/artificial-intelligence-3382507_1920.jpg"
     width: 1920
     height: 1280
+    isCached: true
     title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology"
 
 related:

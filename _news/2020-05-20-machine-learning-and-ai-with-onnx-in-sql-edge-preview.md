@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Machine learning and AI with ONNX in SQL Edge (Preview)"
 
 secured: "dEmzefRA797xgYJIc6IzuBc60OuAVzZGFuZOuF4Dh4+I+6TmHwbNJ4pcRyZWf322w5PlUShq80hphvnlmiyu9Byw1p0Ja+9AJYy5N/Ns2Q2ExydznJ5vQhFFM+/gsRlNPh8+A9kyswxclDHUmOeKeAOIYPsF9Nyqcxzomhe0TqbgKCSjjT9RwkUm5GOJL4pPx912lpvBsjrijNKFWbEI5YuYJtiljE6TSzBZLSSmdIYFUia4HRrRQaFVVrQGSkirFjNj55sfLdLPO2XnL6UCoOdGvtHm3d0D4HG8lLKN30OA0TBSg960q6exhJ1THjtl;kDpmKOQ9F47Yxu46fP2YJg=="

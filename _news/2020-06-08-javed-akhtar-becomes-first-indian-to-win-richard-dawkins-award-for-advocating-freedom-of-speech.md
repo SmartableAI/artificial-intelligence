@@ -35,6 +35,7 @@ related:
       - url: "https://cdn.bollywoodbubble.com/wp-content/uploads/2020/06/Javed-Akhtar-2.jpg"
         width: 745
         height: 420
+        isCached: true
 
 secured: "r6Ay77t95ir2gfLwdlCHGk+M7BhEAM2uD9HN2zkMqYyEr/FROgyt7ZVPHeR/gfVk/I2g4aKWzYrp85JWMFgbwasvB4DbFJk0Z6Ka1acQsnNhOtacLroHZzmwkZ7NtQEhs+B6TfCYdR+dDE0vRII7cwUrXBi1GpjMjPjoQEUexWjERpkUSC/DRL19+qnQh61M6fXn6/m0J4Azy6Sn2FnVkDiK+fWjR23rRoNws3R3UQOvFAIRKRwzU2cRbdmJLrJGQmiuQpZKkaAL4LEqRZ7oy2fF/e06SwtsCKeU/nTFnW4iw6rbgx1lrLKsZ6bf9Nyq6DGix7CmrlbR0ZqcrO03Si7c3LkO+Rpdkz04xeTzGO1JyHEbutLT3jqOhb95w58e5Ovjc9WQhvCsQtV4etbr1oJIY45ZdCMHp4GVIIDHDiREaWJk//+OHV1drCHDhTznfmf19GzkbeCGlNWAUQ0cSA+xq9iXgMxzy8a1eB4HFN8=;uVVTlo+3riXYZtw3hPBwzg=="
 ---

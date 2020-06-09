@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd33b898984300063f86d5%2F0x0.jpg"
     width: 1200
     height: 1028
+    isCached: true
     title: "NVIDIA Unleashes Disruptive Ampere GPU Architecture And DGX A100 Supercomputers To Power Next-Gen AI Data Centers"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Deep Learning Market Analysis 2020 by Size, Share, Top Companies, Latest Trends, Leading Key Players, Future Growth, Forecast To 2023"
 
 related:

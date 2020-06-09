@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg"
     width: 1280
     height: 800
+    isCached: true
     title: "This AI is learning to spot brain tumors – without infringing privacy"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
     width: 1200
     height: 677
+    isCached: true
     title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
 
 related:

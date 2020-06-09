@@ -23,6 +23,7 @@ images:
   - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyNjYzMjI5ODMzNjE4NTE1/annie-and-john-glenn.jpg"
     width: 620
     height: 414
+    isCached: true
     title: "Annie Glenn, speech disorders advocate and widow of astronaut, dies of COVID-19 in Minnesota"
 
 secured: "Wn0qlzRoA4JGs1zG0hSCotFnwl3UMGCryIZCy1ZCIDNHm4gVCcGtSOlMciG8jTrT5KUdrYUYmMW/EkCFS2K5iu+/+8XuddX0B3zIxekC+dGR6nBUC2XY386ORXNY5v891vzlh6mtTN9OpMbFSPgK8BRHP3e7ZNHFc4NADtfaazcuwUUviZwMXP4+qUuPaVGdH1ILBMPmhm/L417blg6rGAo+dQFwvP1A8vUyJ5f91z39OGZy6mskxxN2sxnQcA924zBtGUUvjGIQuzNW7kMGbiOkou9DSTIPkTXs6mt8DUajakkx5fXBJttGD8AU8JMK0jbFo0W4PI2NCSuMio4L5fjxnL9xGdnOnRCNTb/2cisJpgCO94zt9i5OEiNTPeimxErNWHlpaaCuYG6Qxv/2NUp8+HPbR6a+l9McjrREuFiswkHZnorg63ypETbQt/giqwOPs6fgOn+2XUV82355mC4hM2qJ+9YA+0tetsS+ohE=;/aeNT4DWD6CqAbRQ4eQFGQ=="

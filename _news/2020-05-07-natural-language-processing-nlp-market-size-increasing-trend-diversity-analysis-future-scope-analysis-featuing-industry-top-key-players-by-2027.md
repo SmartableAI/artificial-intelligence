@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural Language Processing (Nlp) Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuing Industry Top Key players By 2027"
 
 secured: "6q+7XFQPOhCWstSaTFOEr0GCKJrkGBDJ7MQTm0JVGD5vgccAeHuKsAEjzwd/g/k9adZum6PZxA3ffTs3zW3Mmrqt5/D4auqm3hw961ZM2w4I6S15uxvGJDs62Li3k2HK4BtOBv4kD4ADD2nHc2eqfIF+iHD9ErHvjjKN4eHsY5AOoKK4PTndshonLd2+V8Or9Fe/C3MpNd1r7eE5oB9K53hFB95RIeE54N93/txqDgKPVBBMbzsTlur5zu7B+gPrVeqJv40ZUd6l7vYKu4tWxSl2fwX0pzC+ClIgMzmLdnXenNWVJnYNqbwkdWQdvFfO;k4M26fNe0IBGxufu2g5kXQ=="

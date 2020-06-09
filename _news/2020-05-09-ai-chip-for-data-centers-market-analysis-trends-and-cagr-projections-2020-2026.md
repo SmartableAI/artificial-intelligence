@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026"
 
 secured: "ZaAY4NJhxuMqFdFgNsBDRSJXUNpbpmC60Aj4s0OT2MEayogtXO14rIIpUgQcenOOUM4DFltU5ysNwqzQEbRbF9FHWJ1CCTl5zCQlgsa1wXfRZgKKnNeA5qYkAcmLI3KOSmuzq1R7zpeoKLVr6vnfyi+MUu2EwieTBNfzPAu7yxcpE/l+lzSdY0lUz+zkYLTIqdT3ZGvBQFlPUnYwEOftTU1UOXJSrShC4BlEenrL6a3wr1EDUPF44hC3ZJuT9XaqytN74l2a3CBiOhNNm7D+3nE9/jQqg/qxbd8UunxuXel5PLU+wrXb390usgFbi3Hb;Jq6onBJaVHRCuKsMtCCEOw=="

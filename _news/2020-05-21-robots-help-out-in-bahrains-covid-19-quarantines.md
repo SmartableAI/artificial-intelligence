@@ -23,6 +23,7 @@ images:
   - url: "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg"
     width: 750
     height: 563
+    isCached: true
     title: "Robots help out in Bahrain’s COVID-19 quarantines"
 
 related:

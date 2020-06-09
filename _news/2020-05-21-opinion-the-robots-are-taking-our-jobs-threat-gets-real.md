@@ -21,6 +21,7 @@ images:
   - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
     width: 1240
     height: 826
+    isCached: true
     title: "Opinion: The robots-are-taking-our-jobs threat gets real"
 
 related:

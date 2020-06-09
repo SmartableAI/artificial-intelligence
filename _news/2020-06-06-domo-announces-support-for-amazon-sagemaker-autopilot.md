@@ -35,6 +35,7 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif"
         width: 500
         height: 398
+        isCached: true
   - title: "Creating a persistent custom R environment for Amazon SageMaker"
     excerpt: "Amazon SageMaker is a fully managed service that allows you to build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality models. In August 2019, Amazon SageMaker announced the availability"
     publishedDateTime: 2020-06-05T16:49:15Z
@@ -48,6 +49,7 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/29/persistent-custom-r-011.jpg"
         width: 1000
         height: 375
+        isCached: true
 
 secured: "4oO6AeCcyiNgQVvN/tsqHYpYHtSnm1+JscFGszT1/BMqtcn1fAYfVx7CSwc68WtL5d1H79Pjryx5wrx8HmE3XqxY10/C06Rh6mqy+e+IIdl2+T5NCyrMpfDU3ChMEDAwQ7U13m3+6f0MhvMWxZq0k4qEgaT4Lg7fSs+mS8IZBJXzGEOWqSZraB4ACV6+6EU9+hPj0sHo4m6IOzgGREI8Gp4CVmfVHOiU6Vw42NUPKm0RdNSkzo+tQnR7owLyo7efzadI5+osN0DaGHUir08+lowdRHhLSFFVABZsP1XnekvTWQ5dmXVHzEHUTj8P3J9m;gaJC2RjOZXmJQgqHvbiPDQ=="
 ---

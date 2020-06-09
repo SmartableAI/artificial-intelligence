@@ -22,6 +22,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/1.1.jpg"
     width: 1200
     height: 899
+    isCached: true
     title: "Former Navistar And GM Executive Joins Plus.ai Board"
 
 secured: "cPSdWdOkhm/4U81cIPMVv10pVlTIWQpGnuF40X1x9t3+vDKCm50f9yTzK5zwkb8VtVcS8y4mnfC1GbVk4A9T/qlymTQwVxQWzFC3tOHsqaSecqQEQEn/qU8QceOcVzZI7dyJWo58vq8QoSo7Y8pXZ8O3qxB3v2sPk8czpQi7WwJpVuwLey78EZV4xsZQkzbBkAuHT2pllnmmdyAXLeBiNytLxvv8hX+fy55zTci/syRCMjgSsJRafmd0flAHLtOhl1JZFNjvVLX/QENLK6ptQ9yLeJdlAHfAeXMhSOC1uoVAzPnGsXekxPBiMmgyQsMi;H4Lr4tfzLTDJK3HzbsTUfQ=="

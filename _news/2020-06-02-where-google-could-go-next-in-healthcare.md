@@ -22,6 +22,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Where Google could go next in healthcare"
 
 secured: "dkdgJfo9wfjuekbK8kSy6afYe1LyheNOvMOnz92KI80S6IFZHNNNONltkWj8cGzttomuiVYFyqiQfklp3BgA53IswatQmO5I0z+A1tViMkSzzsg+K72JCNYc949RqG3LWNMSAyGT7VtreaHXfVvMm4Gc2CZRlfgU8bstbkxZJNVPgdysnQeRQe6ZxgeQeMKfU+GvUBi2pwRHqq5ZYju54jdXUltDvRqHKQOxhRi5QAJq0r3FeL32shmjbILdUDSaAT7+e6qlXQHBuuizW2/flIG4f4WgQeI8GRbO4QZl4XO1aoVb60TiSrw/VhEmxIjU;pLBvXfVVCVu4seLbPgp9rA=="

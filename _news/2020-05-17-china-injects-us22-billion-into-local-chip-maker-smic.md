@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900"
     width: 1200
     height: 630
+    isCached: true
     title: "China injects US$2.2 billion into local chip maker SMIC"
 
 secured: "v+ds6NSTk3k82Nzw1ETUlJUN+Ovj6CsibOsG7fK59epmJEABRYi5uRSRalDKfPO7+E2NpY9npYv7CbhGVc+2YE4tIhSevhM5bY9ENQaGxp1OKunwukijC86jiD7rYpi8DeJQZDT0jKFiiplTqOtbwetvdf4gV768R9rOTJnqS9Tzy0rMGbu2IDTT0zFhOCwkAGbS0S77WNF9MmYm0t+llfj4/QTOLzvSOeFMB9L72KMbRUea9aydJ4OrWOCbrXgieTHAMxf9YbScKtqnm4VFE+QmJK6uESV5neL7bdy0cl1U1PX5AKGeP/DOQWAKoQ1n;AR8+SVDE7B+vPqFCHJ7ZOg=="

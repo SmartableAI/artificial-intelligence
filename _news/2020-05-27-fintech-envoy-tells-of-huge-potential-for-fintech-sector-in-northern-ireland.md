@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "Fintech Envoy tells of ‘huge potential’ for fintech sector in Northern Ireland"
 
 secured: "cW9IH92cMvo/3BSBrdfXKJiCfnECfrRhP8x+YcD2WvEW39fHLT/8ny/44382wBb6dIxmjSyK0gMQa3IH2xDgRYMtWJLR96desOMMbT7iyvoh7lYBbrw5+PABnOfMDlMnPLGU/nAqAxW5IolxIr5XYvG6uTTq4jgkyVlxlQK+jKvT5iKW63e5tsQCZXrO4PXEOdBNpAhnlwZFIKkop6cVIvxLgkjTj1y34gGXboJqvLW2jAH243zYxPBsxxpfD3nFjtRwcH+o/QznJVEhU0sD7/LM43G7jRfnjQTdHjE8o5MKbdtFQpfDCo3e9wt0q3u8;3tryEJkt6REhJV9nBndRxw=="

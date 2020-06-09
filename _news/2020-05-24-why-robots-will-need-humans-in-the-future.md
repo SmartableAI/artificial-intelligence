@@ -23,6 +23,7 @@ images:
   - url: "https://static.seattletimes.com/wp-content/uploads/2020/05/05222020_Robots_132810-300x300.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Why robots will need humans in the future"
 
 related:

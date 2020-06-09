@@ -22,6 +22,7 @@ images:
   - url: "https://news.wisc.edu/content/uploads/2020/05/stopsign.png"
     width: 1008
     height: 1008
+    isCached: true
     title: "Teaching machine learning to check its senses may spare them from sophisticated attacks"
 
 secured: "NeDRavTFEG/B/JtiAd/jhDqmvweZIQfAghnPwJcAdKL+2d50/VJCKKNUriWUbbGHmVNQwXqDM4ZF1PVbqyZDkDPbe/oAZcHbNdq0fMYAQ+EWROe9AREenITyKxLzmhXfG4H5KzVxJtqiJIiJwe2yVCVLjxvFXfFIC1O8zcwf1QUetAakj0WR8PF+SPG5k+qSA6S1qEwsXwkBmXzCPHFIit2a1svFJM9yx9REQ1uO/bl3I/Uf+6doT5ixnQcXgAYF+n1QWFDdIc3Eng3AxlV9rnvhGDVl0Lg0mXbwgSFJP02Qd3fL8HizgmbnMBUZOzlb7TxZrzc28RIxnSVNRbD1hBa6I90mVkLPdFjR6tmDohNbmsR/npNUsgVogU9dr2TtRI0Ws6OEILzqN1kCEp2KB4OPbqbYGPfd1yvMl/lAFPkCp1ck9beBSLFFJxmru3lSdCDGjqwcUED48eDKEWOW7o9n5LcG2PvUb2oppgxyqjg=;YsjMdzuJXQfpFOtkH5qABQ=="

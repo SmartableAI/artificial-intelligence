@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning in Healthcare Market 2020 Global Demand Rises Due to COVID-19 Outbreak"
 
 secured: "7agrUJUA5dsP7CtUF50kdiJIkl23WZdMt+aG8vAaVPLVcz43tZ/TiLdM3wxSBIm+Mxzo71IsInrXrACAOYsVrtnJZe20kMZYTV+Wc739CpJEnW/PU+2+uT5fM5XcuBPmMJVEYL8dJM7KaeCAARktgLLByH+w69xMrXs1LbUVQVzF+mTgAPz3De6VaerR1HAUPb97woQoTeRsiqr23vuka+ChsyNj1ZL3hQ5gOEKddcSt7G1sb2olpnvIDfjtn3YGWsLlSEJIHe/u1GFvhTmej0fuG3r1rMXjLEQD3vr19F3pcp4/ti9eIRWsKHAM68gr;wolFFUM8t8wFkT73GNFh/Q=="

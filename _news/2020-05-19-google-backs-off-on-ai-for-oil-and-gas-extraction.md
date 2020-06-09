@@ -22,6 +22,7 @@ images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_4153f125c63447f9997d9d1955cecda9_16x9_992.jpg"
     width: 992
     height: 558
+    isCached: true
     title: "Google backs off on AI for oil and gas extraction"
 
 related:

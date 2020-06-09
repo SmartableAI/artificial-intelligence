@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1216351064.jpg?w=1024"
     width: 1024
     height: 565
+    isCached: true
     title: "AI can battle coronavirus, but privacy shouldn’t be a casualty"
 
 secured: "ZEB0dWhSrgeE0NhBUtW/FdYmMnHXBDoHzokXecu/Xl8FlzdTAQF3RfCioA/AQrI0ofqjIvD5/R+VtySfSB818QAv+PcG5DvYHty0eY8CFxy3BJYCRKoLMZvZvcFr7JrJZeTHD9JabHFdlJ8FzXPesC6ZV+m9obuaWDKSsIoupNE/UMoyoVG5aHOaQNQke/V+RV+SCtecN5yD1B0zahC2I7oXUvPvvgsa8QJw8VJ2YWUJW0WO30tt/tUk++/GYHBRT0ZIqRNvTYQhPyLxChC+HcATtXeDFmdfviVA5MkPEN6TBTgp2Uxv8UTWTRrxpR5j;vqkAAflJGbODOkitvCdjrA=="

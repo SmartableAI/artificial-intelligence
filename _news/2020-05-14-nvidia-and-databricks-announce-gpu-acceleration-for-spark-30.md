@@ -28,6 +28,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2017/09/29/997be8da-a338-49ec-aaaf-274dc1375575/thumbnail/1200x675/48c52c31f037cfda198e14cd18f0a288/jump-into-data-lake.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Nvidia and Databricks announce GPU acceleration for Spark 3.0"
 
 related:

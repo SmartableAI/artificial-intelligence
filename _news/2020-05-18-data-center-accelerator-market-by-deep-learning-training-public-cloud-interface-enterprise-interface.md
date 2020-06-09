@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Data Center Accelerator Market by Deep Learning Training, Public Cloud Interface, Enterprise Interface"
 
 secured: "1oh+R2DMsMD8J9GN5a8euHwP7pGVpk/8MC8iVoxyNJV6Js2W0pA4iotUKj+YqCR4H+5r6/aEwQt+NSBJyzVEuoWVlcJ4ym6LeYcoyVN/Ij3kYtCKGUfFlvbEM+cIqE+0cMa10POCIR+npft62aH/viefOqxQ6WdYdPB5pZr9+YQPljUxgnKPl3lyoWb3vnO7bg7c+JNTNHlH0RoUOrEuec3usHHsK8KM5RnY/TokWsI41rGuyHXjHJzpXnrrXtsyq7Rr3rciOT8Vm9NbmNOPNtkS+WhiW0JzrUudbn7BUDDkMT7LiIKQVti8FOEQ0viK;1wH8iUTZUviTV216LOiN5Q=="

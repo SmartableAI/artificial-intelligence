@@ -24,6 +24,7 @@ images:
   - url: "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"
     width: 1200
     height: 630
+    isCached: true
     title: "The impact of artificial intelligence on intelligence analysis"
 
 secured: "ZeLIoWtlNDq8SRYmhJRbjxhTLYXIMiKFxCtXILMUC9UTwjX7CXFodkk43fnTDZnwjcBlLfypA+40zOQfe01M22PniOeAYffJWwu5DCAFKeL+zmcdlhgBzqhaQEPc7GWgquzo0hu+uP9+r5p2NYFjdH7wmBbGG10cJbux8EtQJwAez6JRisZ41VrgB5W0YNYszdhKfel5ezN9PeCibeqAiK31OIWxajVbwYgQzQbKOZelx5mRa5fecVECODlFvqrwC8tOzSqxY2gL0EeCiiXSbDH+fMeTpo0BNtImAhLZPLfNWWmyn4Fro8vzY/N/1j8g;6Yqsud5eZUoOv6by3LTspw=="

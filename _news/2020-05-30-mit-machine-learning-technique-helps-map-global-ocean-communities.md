@@ -23,6 +23,7 @@ images:
   - url: "https://scitechdaily.com/images/Machine-Learning-Combs-Through-Global-Ocean-Data-777x518.jpg"
     width: 777
     height: 518
+    isCached: true
     title: "MIT Machine Learning Technique Helps Map Global Ocean Communities"
 
 secured: "b/Zldy9BNmvlyPXuCRyFR1Ja8R1IJu3lsEAXEHAZwRCOd28qfy+9+e2ghbdackhzLVock+09zMMZ3uUHbbah77688jYyizX80V+dZQagPX1gZkxgKPH3jpAhNK+e/XtubAi1F/h4QGtB36uziVftOl7pIEveKo3ySPjIX5q/4JRKiS+ijCrNJbMwHw2+duJxv4mNjflFKX2UeSGvk/a99ePJ/OEArYLqL8vo86JvIeCqzGevWGwS/Gpe9fLOZ3PVoLspSb4sY2bi9C1iOPNM/f3AcjS+SUgqJeyjJbBVjDooV1xP3WLQAdm+4aCpjowX;EnU0i5FxyA4N9ehVyuB/jA=="

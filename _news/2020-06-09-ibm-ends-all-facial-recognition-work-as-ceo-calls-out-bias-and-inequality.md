@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1127480719.jpg?w=1024"
     width: 1024
     height: 683
+    isCached: true
     title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
 
 related:
@@ -43,6 +44,7 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
         width: 960
         height: 1200
+        isCached: true
 
 secured: "vPdsen7Tyk4w8Z7m/YyjDL6rmiT75GlTHVtAMqMAlbmIqrE7DcgbgX+Eak0mwH8K7K76jkgIwvrbI3twjnO8susp3dQ35KHWeOMFHuqfL5HnD3MDJaM1DBkcGm+E3otVVPNC8kqZ51oAiWQm0wB7mVLkNzLveE264hzoT5BkAx5YSJhBcfz4v6T2wjomXn+FFiWv+Pnrgy0HPw3SP9a9ygOumRciafOIq1UmZ5LpYGTNBdB5W6LO+gMLVBK7lThFfsdqJu0AqYP1+eMPXLGGPyRu+0NWC3n3Pk0DPrUkxeuFEYOyxgnambgyCxtYNwQMbbae1LfflwZYhYJQj+HZWCMID/x0YNajQkhthU0yvCDC537fFBjSEM5Q7GsXeXfPd9B2HvtCNErjDaJ3KcBwuWgtLsu1opcpE2Rqp+ieOcC4MW/EhYpq7O6470HEmdWBjwMpaLc5WUmEeGa7nOhRb8jc+sp/oyH/UjFglFeZY48=;n87H/btNPsuXaJi8yANm3w=="
 ---

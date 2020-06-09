@@ -21,6 +21,7 @@ images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg"
     width: 600
     height: 399
+    isCached: true
     title: "Novartis, Sarepta partner with new George Church gene therapy startup"
 
 related:

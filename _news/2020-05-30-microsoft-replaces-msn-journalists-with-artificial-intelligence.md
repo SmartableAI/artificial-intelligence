@@ -24,6 +24,7 @@ images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
 
 related:

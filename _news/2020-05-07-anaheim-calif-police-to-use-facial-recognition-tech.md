@@ -23,6 +23,7 @@ images:
   - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
     width: 1119
     height: 630
+    isCached: true
     title: "Anaheim, Calif., Police to Use Facial Recognition Tech"
 
 related:

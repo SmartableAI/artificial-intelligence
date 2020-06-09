@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200511005265/en/790645/23/Dyno-Logo-Final-050820.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Dyno Therapeutics Emerges from Stealth to Transform Gene Therapy Using Artificial Intelligence"
 
 related:

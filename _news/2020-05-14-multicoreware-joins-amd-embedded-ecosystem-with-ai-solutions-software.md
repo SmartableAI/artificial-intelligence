@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
     width: 600
     height: 600
+    isCached: true
     title: "MulticoreWare Joins AMD Embedded Ecosystem With AI Solutions Software"
 
 secured: "FIUpKfeu1zFg6IhaiIDVnLnEnFkxeCMA8RSSGoj5m2o5vq6G+0al2rRvOQmNeq0dbLJ0OBRy3ve1Sa73dATIA+a79q0wzKmadEQRFaXGp9ncD8tzecf8S4GUaW0HKsZygTePbb85/4qCld8uey9e0PNDfSwFHIz/WmBkOR4vtvzLymvGujMpq3r4/xjGQJmUPRm4WSolSARAf2GH9B2jwd8XTQSdfC8YymNUTXkTdtmu0dqAI3IclAtaDIWrSkA3kOW2jE8F8GdmJc9BNGqkWFTNCObKzDM+iJ1bKxpVigcPoABI0kQ2q84YgtW+K+hr;wKkx7pBlT/+aRVyYQoYiww=="

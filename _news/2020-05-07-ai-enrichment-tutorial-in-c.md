@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "AI enrichment tutorial in C#"
 
 secured: "PeA2BjCR36FOhFfDxdCpON+R5oUMpIduMZkhhSPdaERi73j11zwe8BWN2zcwpDvvWgiTBFgWyVObAvRNu+AtdZZUghrnxvx+60QBKLvicKWGGzGBDoO5scif1mw+gYOpkdjkJHT/tseAO59r4jN884Yy6twXxd964Gm0vsXK+86RZ1GpKYaL6P2pX0z82o8fWrNHzrFJpxS2RyncoSz10JavDQGw/uJFowTWXpaaQUbR9jDHY95rDebIGyu2u8+lDxkXczkJfZiPsJ4xwE/3c9ZEmbZwoObhMUcBQqZau7GngO85RSR5xHdlvbw13zwf;8TBG4L021d5POdk6laqNbw=="

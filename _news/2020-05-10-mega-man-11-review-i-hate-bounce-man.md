@@ -24,6 +24,7 @@ images:
   - url: "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "'Mega Man 11' Review: I Hate Bounce Man"
 
 secured: "a35n9ZPhRUvdR7CQu4y0BoQQvVybuIj+9Pe1rwjbTjoIX6CojxXpTkq2wQygsb3HUJ0Sh7HPEFo7qWT4QVC1gpswZ/XuuMLVTk3PLNqfD80ie55Kfbqc/74LRZl0UdPq7pd8fKlPEuvB9xHor6aX74zJkqriOe91+FEHNSSUUgph4ugoLONhFDNzHbEzXQKOyzJ0o+GtY6ma78Ay8WJoD9hCGKNZKveEUnTx4/jn9AilKs8zHTboQHkXkj/OsVyDJmpzWbi9KoByjckwIatizWRIfh6frntZrprs+bgVHwP9EsWe9FL7RWytlYwcTSWZ;J33nyGHVJPirziBTGpROcQ=="

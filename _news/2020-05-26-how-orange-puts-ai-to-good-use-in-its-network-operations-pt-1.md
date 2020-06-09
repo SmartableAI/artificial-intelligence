@@ -22,6 +22,7 @@ images:
   - url: "https://assets.telecomtv.com/assets/telecomtv/orange-network-operations-centre-9316.jpeg?w=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "How Orange puts AI to good use in its network operations Pt. 1"
 
 secured: "1gGTx9kMh5NNcUoHMcXceUpOs+svy1Teswon+yduUdStU/Ixw7SGgcjCviKap1HUM6jV01NFZ7TNSXKJLHeyVtXOVeXvHYo46SSeTFz0HlRHoDA+MBhrG2fnEwNarK4tbYb08PhJbm5pZlQepJK06nGbex2IgtdiR9bETjgj6rzexwei9Ls5T9HwbUYwA3ien+ctbqk8VKNIqLCafkLhEHDxuLqApenk+MXvnRUzTO43r6nucIVGd2jmBFL/qYiY0h6Z4Z2yl7M3JnJY/COfN+gmV5tDuGNpXP79DWoqL9FOeF5+Fn55zS3W8iDgc5Y/;FvAMoQWr3H5FIQI+htNw4A=="

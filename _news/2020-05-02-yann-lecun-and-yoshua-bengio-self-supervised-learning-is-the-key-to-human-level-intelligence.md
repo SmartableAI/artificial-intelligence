@@ -27,8 +27,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/08/strategy-e1576104489834.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
+    title: "Yann LeCun and Yoshua Bengio: Self-supervised learning is the key to human-level intelligence"
+  - url: "https://venturebeat.com/wp-content/uploads/2018/08/strategy-e1576104489834.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    isCached: true
     title: "Yann LeCun and Yoshua Bengio: Self-supervised learning is the key to human-level intelligence"
 
-secured: "9FRcAJ2pIpckOs9yf90tj1zq/bQkNuaYvcKfVmih1b88EpCHXbaZMHqH5AXoJkuP3I4r9CnukyC9keStzzMYIK9s+Zv7ZC/iu5BiPfDki/jA3HH4x0dLYZ5omFvcBe3A5LED48tzdNPljD6W/RlnjuSxImsOHTqvQSI5Ar7psyBTBxNMXAXvdhAVedSnbZIM14eB7nNFHsOJVWx03b02cG/NCDi9yuZ0s3eyuA/S13ATFhGMV5vZ8AczfxiM4YdZ+8aHFnrG4WwseHwH1omjepg/Ff/H/57jlqCATerEuD1FCF6f+SCV2Mi6gYT3q7DVe6XYXlDhtAOVp3wjSClW/GGbae2sXTgiTyqdYbCYoPf9JuroW3rgXZ74gw+3javn8qf9puSMPUxhkG//e64WTv+ktTrqKIG2GjCd3qwfnsXcBcu/c5/fco4wF3UkP77T33u3Dk2IiqH2AFK2mtdS8xoVY0jWKEi3Pw7Zj4CLhjU=;bO3w6Aj//8gP0Q9YJTExzw=="
+secured: "R0UYSWYC5KelQys0bRYUFnB1xL4a2zYBz5szzdqkOeLMwlAZIott9u9L0P1LtRaxFR8ARaspkYnTv+T+nh5/D3SX6ZlXbBDnnPL2bsrT00O6YlRofOttZ5PXQy+GvBxIm+iEokA1FowdcSS4KYRqU6Bz570P4jyKrwrwA4Wa23lYhv/2DxyDkLwuH9swSpWv+TqI49JfWJZ9KMNMxPNYZquXwth9JR2PZoz/wsWAnf6QM0CGsumtFq+hCZmCIjQ/RlnvzyNK5V5MH+bjSg3zTdVT8pP6u/C+s0FDTUKoR9ZPc/1fhHU7jLWQjBQLk0eR;TXwlLs1SrAz24k84wGLizQ=="
 ---
 

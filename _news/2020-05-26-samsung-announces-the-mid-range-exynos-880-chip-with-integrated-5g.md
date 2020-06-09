@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg"
     width: 760
     height: 428
+    isCached: true
     title: "Samsung announces the mid-range Exynos 880 chip with integrated 5G"
 
 related:

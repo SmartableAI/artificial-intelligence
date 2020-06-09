@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/08/openai-logo-vertical-dimensional-purple-e1588267015132.png?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "OpenAI begins publicly tracking AI model efficiency"
 
 secured: "XVs3bIYPdCR9RK383uiMtDMfyK5tngQ688XGNPY3thFnA6guhjUfNXA6V+wQxTOCuaBw5I8/++DT5XsYc/8KTO6DHPNari+DhkCDduGsincWjIzEecZeSqPG8zCtPY2tGqkv/8O+cOZttGQ0wCgYMTE29k3sirdIqe6hEJAQqoEGHc8uyt7jhPoLz8lePvgnAvJQOUdRpNx0GgiDHeZqvG+JfFTAIwhwGVHpWaS2K/8CVfA/LMfMMeTAfPneFBez9xBg24BBDGpoDFOo21RixDT590opmN9V71EClHzlWs2jSbbFGGp2wEHoGgkfyAOqTXoUd/LQMmOQLSzyDm3QxkbZe657Osv5jKGRIoBXAna2VVKQWNF6x+AmCJF7XL0XDpA4FtYGTPZyFMNIWPmhiFm5zbGOTkcyV+3+YoO25bbl4fW2dmybGhks7OjFgt3F9IpsNMfmn6m8w8S14D/UffybcpzUqZIaiEz8TYHDMg4=;SZdMnfZOJ+aONyDb1L+4hw=="

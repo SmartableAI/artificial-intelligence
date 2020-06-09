@@ -22,6 +22,7 @@ images:
   - url: "https://www.genengnews.com/wp-content/uploads/2020/05/Sep1_GettyImages_1140559402_DigitalDNAConcept.jpg"
     width: 1400
     height: 788
+    isCached: true
     title: "In Machine Learning We Trust? The Future of Personalized Cancer Treatment"
 
 secured: "nW3UNgv91wAUfRGWBxLZOkih/fWkK6ICFB+1N3R8uWj+OBTNqHDFlmgS7098xDyqXm69MxhpM0/yHr7qib5Fz5jw8TOz7uSz4/YncH9rjim4nb3zPCMp0/zBJO0WPbzQa6D4cWO+aGC4OL+524XfG8fJJt/Zpo1xMf915t21YmhuZyXrkQmjEG86KSH+vqs+go4UJi2xQNOvZltb+LMQuXPeg9d2ztFirzBVogyIkzRHAyxwF3bU3H9uBdGBYdlDwpZMoe5kh1freoX6wknH6Olxcj/khCx/ly4whNCdAzxSiUlIsJrISS8j0y4LaktV0NcWec6d+/Q0K9dGrDafMzYSNcnpqSQUdKhvacpzZyp3IGc4ERGJjD9xx+Xqu2AzFAavSDkfZiBTDKsc5UzxaSJpBGFsTEo76292t18HY2bI7REXDD0yvGVgsIXwt2JkWVf32IESpHRdClKK3h/KQXB3CebR7qKIzEskzJKi8bs=;ttjnAA4GPKlxnrMtO8Ue0A=="

@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Lilt_600x400_photos_v2_x4-e1588975057201.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Lilt raises $25 million for AI enterprise translation tools"
 
 related:

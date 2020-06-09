@@ -26,6 +26,7 @@ images:
   - url: "https://d.newsweek.com/en/full/1589117/banjo.png"
     width: 1548
     height: 1090
+    isCached: true
     title: "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed"
 
 secured: "4UI9nwdbuk0oS2mPU/LIFx6fwRI6hljbF7BVaxblxexmUkJvEh8S46U7hG4S7YD7Ns/rmt1noXvYjSgHsyDQXSrSix/yYR8ySa9RjemJE5JtMYQnMqvVmg3luPWrHEptvXffEuiWVUS6u+9rCKZPeMTdNcm9DuqS8VKYh3rUPa0PRpfP9qUbdYCx3GsMVi6wXOJuNZhheWg1dGnHldIDRsceHQa29qxz2Fpy4bNfyxEC1TYn5etduz/efCtBUe8TAUW8fzi6OyJ7EGMzoi/trIBClHc1odiY8l9ZjIoXyFTR38UlrMaMuQvgwmCOi2wWEuWO9a06oJ0ALr0MTbh7SEibRnPnKQJ07G+IIJ9BQvgnlebcdvaewac84QlVkPteb43K3zDWQoc996DvXFsNplxXvjysbfh8bYUT5GvR6mrtXiA7mDKYVMu3XaMp28/IWez1kzsXcLF0YZ3BczYo3bkVxAj6EvKysLSWghph+8o=;Ma3SrmHC9grkn2JsWcn5fw=="

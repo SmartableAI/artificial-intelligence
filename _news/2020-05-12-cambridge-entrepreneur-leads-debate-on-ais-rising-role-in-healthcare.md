@@ -21,6 +21,7 @@ images:
   - url: "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/okra-loubna_1.jpg?itok=7V7djrEf"
     width: 605
     height: 400
+    isCached: true
     title: "Cambridge entrepreneur leads debate on AI’s rising role in healthcare"
 
 secured: "zrkXQ7njnVUt/XVEnzu3d24Me7fpm0bgukVdo2yN7wcFaD5oYkPjgPW+7YZb4TapwjoX/lYl/3vWMcaupUpET1l9UFEZZVx9JPf68Trrg0qU8VMkonm2Yu1EGGwsgJj7elTLifb1V0WSck/FUHy75+c3tHTr+Qb8UNN1Du/UPQcdB618e4S4g55jKFsjYy1gJq1IkFnSG4IDnEZBT6JPT36ezEcyXg/WZPxoLUoQ/7kMUVn8kOlwpHCDlqSI09FOAUSdrxVDosMMEawu72MVoHaXKsSis8xr3+bIIo5gkdOddOdZHXtw+CoHgc0mECsm;RLnlqLrLjC1zqa/8tb1wVQ=="

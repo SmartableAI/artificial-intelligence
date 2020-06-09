@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "Caixa Bank and IBM partner for cloud services"
 
 related:

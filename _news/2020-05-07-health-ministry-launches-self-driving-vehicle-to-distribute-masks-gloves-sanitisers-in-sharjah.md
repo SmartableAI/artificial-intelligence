@@ -21,6 +21,7 @@ images:
   - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2020/5/7/self-driving-vehicle-sharjah-main1-750.ashx?h=450&w=750&hash=A240B14D8B1C432D03E7628BDF317865"
     width: 750
     height: 450
+    isCached: true
     title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-04-image-19.jpg"
     width: 1613
     height: 913
+    isCached: true
     title: "Intel buys transit data startup, wants a piece of the $160 billion self-driving car market"
 
 related:

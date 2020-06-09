@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/200504-loyalwingman2-630x420.jpg"
     width: 630
     height: 420
+    isCached: true
     title: "Attack of the drones: Boeing rolls out first ‘Loyal Wingman’ AI aircraft in Australia"
 
 related:

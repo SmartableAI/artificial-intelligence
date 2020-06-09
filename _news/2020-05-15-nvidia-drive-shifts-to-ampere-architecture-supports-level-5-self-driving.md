@@ -21,6 +21,7 @@ images:
   - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/05/nvidia-drive-ampere-gpu-robotaxi-driverless-autonomous-car-platform-iot.jpg"
     width: 1280
     height: 680
+    isCached: true
     title: "NVIDIA DRIVE shifts to Ampere architecture, supports Level 5 self-driving"
 
 secured: "ceFBh80VPj2sorktUDqeAIgOCv/9vYvusM/iqNAKHUvl1s4eTC3D1CeSxBzIBfJ/1Rf+S/I0XAvFCXgKfmtKA0tG1YOKEaw8FDaQ9Z0DVO25sgEEeMP36dJS9r+Hn6fMJhGUWN5EfIcPpiga7L4j5uZ7nbiIYzUYB1t6hjzxb9gKD6c6PxmlG1Cwp1DGwyMLHlpb3qOR/gMyFGKn9+a42g2B3gZ06Bl8kXuoJCbwvo1DIQcNITnegXbpgUeuZuLwYdGIWt9kNhqCBFeIyiS/TvuAyXBHgB3W1e2zxtQgnXnp+x9JixxfXt7w52XIOwEvD6vRJXbkIv+LPLosCZyYyhS3zbX63xPhAmGf4ft+bfctv07ui7vgaWNlqq0ZiHzR1a5fwOAp7vp7c6o+iOPD9zWvJSfgB6AytPxXIYLwRCj/te8zMLHmjnJZ58F9cKkM6B3WCxyjSu2BLD6TmSq+o7aQGVJHc5jpvOhwS7ujqBM=;6pYTZI8u0Od1P1ZLYIuxjw=="

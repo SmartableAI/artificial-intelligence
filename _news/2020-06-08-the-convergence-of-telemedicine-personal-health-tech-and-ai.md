@@ -24,6 +24,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/08/8c812ed8-6f6c-4372-9f41-f7271a6361f8/thumbnail/770x578/1569d35cab24513e85318d3334e5ce2f/thumb.jpg"
     width: 770
     height: 578
+    isCached: true
     title: "The convergence of telemedicine, personal health tech, and AI"
 
 related:
@@ -40,6 +41,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200607005031/en/796394/23/eyenuk_logo_redesign_2017_onecolor.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "V9WOyb+vnYhdu5jiXtjS5LDm53RminZrW6UxBZqOTZcLfyI4+wJjb5Vxe1gsbwF3inIwQDp5K/2ZHAD1485LmnKdU7Xox5JRbcQo7sWH8mP+WtMkzZxBR9dydXTBZTQD1vIKa9mL+BWmfdfGVcgq6Uxt+hrLiDTCxOaqulYtxX0owQwXjOM2wvFx0XToi+hioHMSh4MIetMGpuqiRtsNcM7YTamQ9SZBF2q222P/NwQl19IzNPnXBgl3IB3TPuArO/7yMrS+0CaZ+A2Lz3dsbbSjEVwwVItmIxfVpwvmwas8gpC9KT/vfyQBtTlfEfg4PAjJK8yBIb2vms3onMnwnBG/Py5TWKaCaOqKzqmW1hV8d0Gv2ccirMinzm+HnTANFS7rEI0SGffjBQJsp8emqm6iwOPVWjBvWxBs4LSu8v/5qfk9ZvZ276b6cmauYgG+QdmZVm1v4JBNN2gLcygFySj6R2GBtZgBTtkcqzOnpEA=;UX9xuCgNuhiflz7LiT2hNA=="
 ---

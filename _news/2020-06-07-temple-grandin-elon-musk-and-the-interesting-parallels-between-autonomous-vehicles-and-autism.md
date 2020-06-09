@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F518969832%2F0x0.jpg"
     width: 1200
     height: 799
+    isCached: true
     title: "Temple Grandin, Elon Musk And The Interesting Parallels Between Autonomous Vehicles And Autism"
 
 secured: "0xpvOHRoHqcDZSy0tsyiTYiWwOqFHiGnOlg6Wmvkj6Q9xZp7JKvH1HdVelO9Sv+aOYWtCeNAuLC+U+YBCa7YsP0bXYRZeClAs3xIFoN8YKwADNRP6KBEW9PNiODFjhlguari0O2e2/lwSzzUPHviEZx9NRLJrNXQ5J+BJNzjedNEsB6wkM1hPMuVIEXu25jCwWju+qYAsXYgeu6SEQrVBclGJubmpKIc+e4EiyUwjqNozNQ54vxWaTwCjnt30xitA0PHT30fh9to5SHIKFaM/Cup+U4NUwYa4ets3TdAd5UGj02SYqpanI4r/WmfeIwL;T1Q61dHZqSxSM7TPsNKGAQ=="

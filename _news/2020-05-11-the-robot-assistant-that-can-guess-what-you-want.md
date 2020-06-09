@@ -27,6 +27,7 @@ images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png"
     width: 1024
     height: 576
+    isCached: true
     title: "The robot assistant that can guess what you want"
 
 secured: "JSIXmZ6qCaAjiMClXfzWsv9fRLxbYFebIr0KBhRKWxCo7lm60e/yZruUFFURkg7qkbUPNgqZF8NlIquN4Vu3ogii+D1MLU8jS456woX5jKIQ6z/Vj6mBvEYhbOrIe5z87GhNMO0TLdYVV9B2pWS1ZdztlDF4vCyM7JZMCXmcP1+CiMxYhUgpvzIgkDP49NXK9j5EJDrtxQG4lFi4kM3bnmeDGVLK9oY771RtT2gO83P+HPq8k+5lFeESUCddkDxPJEs08S4sp1b/0XTuVVqjfJ8rzLhrwlFpItOHVXPjsoHVeZ38zAGxpCqi/yRfcRSv;scmMCULL4dWHG5UajYoQiQ=="

@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/7FHj1F4czAfdkj9N6YN4mLOGHiA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66798730/vpavic_200121_3874_0010.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Cruise, GM’s self-driving unit, lays off 8 percent of staff"
 
 related:

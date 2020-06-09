@@ -24,6 +24,7 @@ images:
   - url: "https://cheesecake.articleassets.meaww.com/435960/uploads/35e9c7e0-8dd7-11ea-b829-4ba55b12dabc_800_420.jpeg"
     width: 800
     height: 420
+    isCached: true
     title: "Can Artificial Intelligence replace songwriters in the future? Study on AI lyrics suggests it is possible"
 
 secured: "5AgWQbBbu1RZP3YBxbWCWgDRrW18w/LIdRYf0Ak6NXiMllcl1Pof+E3+Hyv2LRP7/hgmTzEYzIpJQ62ROCHa1+AOhpJrgf3eDQds4NtOJRJPMjr9dsYBD4eoj32aI2GjUyPvwpNYDqDgNgNgIdPSIsQhnTxGPAqYHs1ZYR09ryWRwvYnKoigJpcONVo9Gb0jZKTiRAEn0iTCvhtGjbZahT5B+itbKPI8CJ3eyyt2mUi1r04teuEXfDuc+GnnW4FQ/ReLe+3U2MdTM+BQYYfgqKVNnGd4n2mGqSSqKCYrDF6TCN064k6H0cXiAEzY2og8qzmGSYcBgYRZi7PMWvIYuPcH1cQ/pRuPF9xHcwtFmnY+ANXYxZW4k/pwXub+5UY6KRypBd7G/Me0wgUFqCdY3RbLew4F+ImjCa6OgWZeKDGoDxyzLQFHWU4hjCbEfB+cvKT0dQicaYOQ1+/yoLpXK8hGDss0XLYoWYHWgV7hLg4=;ol//YOkxbtiL/kH38BXowQ=="

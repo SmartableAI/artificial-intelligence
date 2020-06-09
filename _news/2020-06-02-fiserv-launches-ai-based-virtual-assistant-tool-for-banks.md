@@ -21,6 +21,7 @@ images:
   - url: "https://nmgprod.s3.amazonaws.com/media/files/16/5d/165d4a0151f4b5a1be484e18e7b34f51/cover_image_1591098693.png.640x360_q85_crop.png"
     width: 640
     height: 360
+    isCached: true
     title: "Fiserv launches AI-based virtual assistant tool for banks"
 
 related:

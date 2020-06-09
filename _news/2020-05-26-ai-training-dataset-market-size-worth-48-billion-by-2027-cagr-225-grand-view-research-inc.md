@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
     width: 1400
     height: 733
+    isCached: true
     title: "AI Training Dataset Market Size Worth $4.8 Billion by 2027 | CAGR: 22.5%: Grand View Research, Inc."
 
 related:

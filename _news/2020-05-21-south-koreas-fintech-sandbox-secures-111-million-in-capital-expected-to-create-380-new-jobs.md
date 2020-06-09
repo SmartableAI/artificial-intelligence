@@ -23,6 +23,7 @@ images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/02/Fintech-Sandbox-600x427.jpg"
     width: 600
     height: 427
+    isCached: true
     title: "South Korea’s Fintech Sandbox Secures $111 Million in Capital, Expected to Create 380 New Jobs"
 
 secured: "pGOdCcLWbVx73fSg/jPzhSA/H+Jwelif1c/SAD6GoUXL2r1K/flIhF0B5XShb7iulU1j0zakLQvxw33Ww6AOzzLp50/aMd+NTR5N2ZKWV4EOa+0Tuh5JwF7zVVMdTDEB9AkJFXVF8kkZhw+ixARzDDCwskutjSq7DqddsbV/hDOxTTMbkoFbpYck6TnMqH9t0AJPM6CgkOAVCjyhTvd/rcQFMJUGqPiLLRGxmzOpbKcsghYwDWM6vKQTBCHPiItjaw/X9NoUxrPzYlnVdbq0SOK92joA0YL8vPZKb+FuvGPFGykGYMR/HOydtoWnapn916Ul5a8ZzAfY1rKR2RmtorEscHhUZyxenJqRcrl1x5qHOO5bTbLv8SNU0KYQAC8gWH2kA25ghLd2FR6rRBuYTq7cncRY28sMkcTkiURl2xop+QORCopaveqr6MB7ln7fCWJDSXjlPvJlx7jXVsRsQwLU4vI8etT84GwKWaSiXQ8=;7WkDQ1cXcS9qMzNSoE5uiA=="

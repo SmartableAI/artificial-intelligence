@@ -22,6 +22,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/covariant.jpg"
     width: 1200
     height: 799
+    isCached: true
     title: "Artificial intelligence robotics startup Covariant raises $40M"
 
 related:

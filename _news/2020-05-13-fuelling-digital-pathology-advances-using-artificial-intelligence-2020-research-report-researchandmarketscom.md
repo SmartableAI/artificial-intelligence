@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200513005386/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Fuelling Digital Pathology Advances Using Artificial Intelligence, 2020 Research Report - ResearchAndMarkets.com"
 
 secured: "XIMdgxxCSAaKq+IxeODyC+OSSIaCoZqDiKWSTfeikksb6qyeezXZ4N7mf/jpnK+R2TGQfcYJ7d9EeNlqzoTv+PZLcrpdkAtfeVBk5flS9KCENLp04YI27n+Un9VQSsqgEaPfZwH/9ija7VAwZKE/luLLuHJzsepxxhOu5WkDZnXJZWvRD3aKrnT66sSpgnbdXy1fsh5ezlQ60zV+3SShql4gQrvXkBoY7S5TJUh9Q6M4T8HeFdD9SmktWz+3B9g7MIA4sPpWJjTTG0BR8B5SumrYomXvAfyA2Co1htAl5kcKLHo7eN+67rKsxH9/K9dXvvCP/TAdiT2THBOhgBEIbwyXCPtaYOdA9SBEH/U9l9/kvQ3sG2wM2VLOUxRHnlVNRJ6pZKrk4YSzXJL3RwsMyrcrCkVDuFSos7yRnwQdJz/atp/Orx8Ms+3PZ3f/nHz+HzH5Zb/iXx7c2TOcID1ArKVEvp169Jt6rdEartAhXEo=;yVHSLkFUGut6pxTJKhNdkg=="

@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/04/1f124c5b-e8c9-4e32-bd55-0b43c2ebaad2/thumbnail/1200x675/e2dadb62383d012b4fc239d2dd0ac8e1/thumb.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "IBM launches Watson AIOps, series of automation tools for IT operations, 5G and edge offerings"
 
 related:

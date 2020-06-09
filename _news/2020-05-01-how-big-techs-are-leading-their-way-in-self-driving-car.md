@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Self-Driving-Cars.png"
     width: 908
     height: 522
+    isCached: true
     title: "How Big Techs’ Are Leading Their Way in Self-Driving Car?"
 
 secured: "9OA4ur5Pie3pqw/wkydp3DSHfjYolGlQY8v3CWs/DOKwWQv6LjM90797Co7y9A2IQ/ViGxpANpaYhqPZp4gtZjJzsnxwXJQJ2PPv80F2X0z35+bRN4plDxDsBBzyvt4VBJLgZgcE/OgYDlPRooSlCmADVOGYI4Upx2zDhJwozmv713Hl9RQZZJu4W9rGoSxUuIBIIzMSgHuSNaDviOnC3k4iUo/ZP4QSHNx9R5hE0SbS7Ea7KPr9YGtjhuJtHpfndRhteh+SORW5BxAb0kHKH6yfzo+310NZYcmB0QOeHjCIELN41kZ+34tEZs06slkohENSMlyOd2mg+4VYpdiSWYHnwZtshTb5Qs/wnV4eRp6X2rYOoJ3z1Yt1KI/vZys3z6nCPyoDPXrwe8TARVJmxOz0/cm05EFZYvj8fSZ6QjFGoEfp9II5Eyk6hnQHppTPW17ZzFweIlD+VpXZyMTmGrDz2BfhTu3zMhMDzAVmrcA=;jWsUO07gJKba0Bkuke3zRg=="

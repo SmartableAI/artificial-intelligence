@@ -21,6 +21,7 @@ images:
   - url: "https://media4.manhattan-institute.org/sites/cj/files/recognition-technology.jpg"
     width: 1280
     height: 640
+    isCached: true
     title: "Gait-recognition technology is coming."
 
 related:

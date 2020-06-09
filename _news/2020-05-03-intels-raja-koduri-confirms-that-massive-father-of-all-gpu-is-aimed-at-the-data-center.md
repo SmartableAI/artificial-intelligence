@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg"
     width: 2200
     height: 1140
+    isCached: true
     title: "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center"
 
 secured: "cjmtcwRvid0Dh+crx+pJgQxCFCs6G1gTXDlOE2K3bDyQ94SNX3FI9EyKHkQJhETFJH3zwXIKnYsNOYCaSLCVOlzZ1poHHj48JE5iCoNDJVVUs0q1OBgjQ+jet0SxWj3iXJU/HR1dzHyJA+XD9OBPI39orGY7Y/xCdRox8pZ9zigoaaNmViPdtjIC6ScRNPBw/O02fsIngxDWylnpeHDMYU6nPPOib2tDS3oIPtl5qt4h/IU5FsV6qeU5Sz3sQKD4pcGNnP237tfZ3Fvx1QzDOxv8ZqsfBg/E6+7AJcRj7mVPrDwCoEYRaKvPvpj0lIMaSF84C0X2tE7LfzDTBuiH3bvmuHrdtYfSPNr2TqhHXXfweJNs+z/iJYsg0K+oIVrpOu0ynRp1+fVlPg9JNxx9pzxZ4VyzkuyCvp2I70WlfyLSWrZj0ZnccIhxRMELnyYDBoDmKrUiAFf9mUjSfz+1VbtbjQDCJkm4980b7uPED8Q=;PVvHhdalr3bl6R78StOe6w=="

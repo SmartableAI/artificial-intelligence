@@ -23,6 +23,7 @@ images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/01/UK-Payments-iPhone-Money-600x513.jpg"
     width: 600
     height: 513
+    isCached: true
     title: "Fintech: Redefining Responsible Business Practice in Payments"
 
 secured: "BIBnbWAi3Oal7/0FEE22S16++pjg9fW+fX1eGZA8s8j7O8NttkmdW3Q57VpBRKZ26xbtztzvmrdL2t9ePIPWDbgzJB981oTY0Tg7SlH7YjFpI/Off6cLMoJkj9fH6E/uFxwJ9hoGohsWtsEKXcwuXteis3hvTuHt31NypVzCMgwPrpYrOpzvBzkMXzpHLolOBe3wThEhjqWrlNMlxHuYiffZoQmH0IULaJtOzb13+v+eYMk/BxBe5zQkbWeZHVZk3AIqe2h5J3UzKG0NWXX4ac4YHwW6n5D9PLevgTeC1+IgYUGjixPpTDeruuWKvfwsCWia8zgQ9KQ01gknnkXK1EuDCbWkBDa4wIGdzdg3cAn+EmTnmTxoLde3ZQlBvPPDX4TwjIwF5RjHkmZMWnSOdN5qsS1ApA3Ecf3cPNvGC0e6yfYnvufBoWryQZGQiypgTHnWXK0amHAFTz0bpX5sCrHD4ceNfTiBGUOY1ykBbZE=;ZSnI+6xkcf6A03wMY1fkkg=="

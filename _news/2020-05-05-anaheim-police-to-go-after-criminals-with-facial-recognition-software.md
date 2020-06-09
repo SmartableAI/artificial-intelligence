@@ -22,6 +22,7 @@ images:
   - url: "https://voiceofoc.org/wp-content/uploads/2020/05/©JessicaRuiz_2019_Anaheim-6EDIT.jpg"
     width: 1500
     height: 844
+    isCached: true
     title: "Anaheim Police To Go After Criminals With Facial Recognition Software"
 
 related:

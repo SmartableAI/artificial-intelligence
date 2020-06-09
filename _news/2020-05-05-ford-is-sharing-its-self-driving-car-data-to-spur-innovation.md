@@ -23,6 +23,7 @@ images:
   - url: "https://www.carscoops.com/wp-content/uploads/2020/05/ford-driving-data-3-1024x555.jpg"
     width: 1024
     height: 555
+    isCached: true
     title: "Ford Is Sharing Its Self-Driving Car Data To Spur Innovation"
 
 secured: "x0mumQzNOwQaa2wqIa315pPRw9nGNKbfZo/7USKQ7d/au+GXgFOICQ3t20fdNbh16559uHnEeDNsXZMTlaFzfgSFylk8Y0FTsrRAE6p+uovj6Nw3KuWPvyWbrDKezvOjYkgV/tSldsBl675NsRFAryIge3VYhSO7g5Cc3Q13+ZiaOACR/39Xsd+tzEn1KsJMkzN1/4JxHgVmdtSPzcvD2xcaDQ15xojZMF+eG58WDzk5LIEEXIQZgsKwJtD8k1JyO0yUwG9FGqVCYgsy6zafSoQHC/IuMV2dw0RKy8J0Bd4hUlW/7qohliW7ztnTWIz5;PyLLJL+IVs873Mxxi+/XtQ=="

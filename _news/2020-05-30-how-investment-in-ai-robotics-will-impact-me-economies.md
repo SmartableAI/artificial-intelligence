@@ -21,6 +21,7 @@ images:
   - url: "https://images.khaleejtimes.com/storyimage/KT/20200530/ARTICLE/200539852/AR/0/AR-200539852.jpg&NCS_modified=20200530210308&exif=.jpg"
     width: 780
     height: 439
+    isCached: true
     title: "How investment in AI, robotics will impact ME economies"
 
 related:

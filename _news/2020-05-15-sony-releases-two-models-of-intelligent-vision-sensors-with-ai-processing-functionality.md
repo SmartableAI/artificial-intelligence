@@ -21,6 +21,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
     width: 304
     height: 430
+    isCached: true
     title: "Sony releases two models of intelligent vision sensors with AI processing functionality"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://images.livemint.com/img/2020/05/19/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589903233519.jpg"
     width: 600
     height: 337
+    isCached: true
     title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
 
 related:

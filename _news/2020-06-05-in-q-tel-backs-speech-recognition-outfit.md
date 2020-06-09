@@ -21,6 +21,7 @@ images:
   - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "In-Q-Tel backs speech recognition outfit"
 
 secured: "F2wdwe3LXGvXNZ4h6w8J21v7pZzmtK9NQ/ud5rvTj1/QpHeC04gc3kO60fp9xAMKKuh7FZvDjCEZnDulLlXMJrw+JYhl1NlTbXNYJQFrQcSX2SMZ2XDiqnKtdkS2OfdlMPgU6mTVbtTUVQfWYLJv3o3TAi+wPsMwBMCTleyqPFk6osQqeKZ36Bt/kdae+MqMDwipk2A62yi0CBuzxe9IyeYnlrprrMsNNsd8UWU+iMpIJb8m4zN87in9dSAL/OnlIr/ParBKxgMdQUFvHc8uLmcQAu03CigJ8JsljUfFFVgrhcteJJI17tKSk7fbZg0f;3MfNHGX9O58EzhcSUsQ4vQ=="

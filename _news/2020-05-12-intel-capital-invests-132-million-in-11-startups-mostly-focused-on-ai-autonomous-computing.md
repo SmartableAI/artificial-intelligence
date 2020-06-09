@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png"
     width: 1200
     height: 675
+    isCached: true
     title: "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing"
 
 related:

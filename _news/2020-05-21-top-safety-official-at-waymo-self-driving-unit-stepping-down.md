@@ -27,6 +27,7 @@ images:
   - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U"
     width: 817
     height: 545
+    isCached: true
     title: "Top safety official at Waymo self-driving unit stepping down"
 
 secured: "3duP7xfo7NsA8nEeCm8ubIx+g+SLLunGBLd1btbIQCwhb6ey0d1p8KFTIR2CC4ClaDeULuwIrHJpc+oGEIvv1Q/GzHol/dYhICLm60Ei8Dv0HhE+KOwpyjIOKOEPjovOyDRRreQ7+R9IyKM9MuVqF484cp5O6RCykwCqWQ1Cy7K323y72sCBOaTfTCfswq0ZTBDdjyUhUB1To6zYBtXNE1txeErk9gpQiVttDHLX0+eQ+yfTyatwdpQLcVqITFSq9q8J5mAV2jQISpgRd91Q5BxZ/q7DYAPUr+giCN6d4sRrKW+GV98HAAqK5ipLOGFEYzxNAF/G0uKVMWuYLA8q5gFs2tgzZpWB7GZsv/OC6E52yPwaHDVKRVQPIM90Fzn9sjgzBN/vfAj5P3yZTsxzUJ7uajpjUJIZzCcK5J8rSxTj90dq/F+5sB+kl9eJMVAiTC8uPzRew5QsT3hgOiqmcgW0SM7/mXZaCMo5WbhbkPc=;Cl+/9aOtmA0lyyt+HnKoaA=="

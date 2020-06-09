@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/ChaitanyaEtta-1591190678023.jpg?fm=png&auto=format"
     width: 800
     height: 402
+    isCached: true
     title: "SaaS startup Etta.ai provides market intelligence to over 100 companies"
 
 secured: "KYioXZs76bkwpZoi9G83CusPWOHFOuDF/vwQ77eaq+0C7A5wzZWSSSw8Ez8jbrZKxkMWFMChjV9A7yaq1j2OMcRxgXw1aC//1Ti2Jg8dzPEI5/kz0DlwG/m718evZbOCA9B7IYwpA798V+4PcljlQlTFxs51Z/upErul2KeVglAgBWvQ4KaV36IY31p28qGeDH7rFzfZ7zH74g1XGVgDw3sUmc0AQw5GB6zqKs0cmJAV+BfuGSSJZd63NvRO4Vn1trdQETM7Z9Gul//trOYqePYidp8KlLkv8CeWB7etqNx6+svzsrma0T8VHoaIVjjj;XiXBdNCb35gODf7P8dPWQA=="

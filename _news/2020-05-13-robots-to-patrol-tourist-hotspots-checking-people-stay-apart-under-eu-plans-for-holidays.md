@@ -23,6 +23,7 @@ images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2020/04/NINTCHDBPICT000576661856.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1200
     height: 800
+    isCached: true
     title: "Robots to patrol tourist hotspots checking people stay apart under EU plans for holidays"
 
 related:

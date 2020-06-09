@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg"
     width: 796
     height: 419
+    isCached: true
     title: "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone"
 
 related:

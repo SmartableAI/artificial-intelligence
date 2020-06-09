@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180547354%2F0x0.jpg"
     width: 1199
     height: 657
+    isCached: true
     title: "Using Artificial Intelligence To Diagnose Lung Cancer"
 
 secured: "3eby60d0+44AWMgbMNgyYQPQKNaxKNAzUStKmqmktYeLpIR5Z2ocOR/vttk003n47vZ+zMutxQ/ZUoTnloT2rNmnrQrdR+dQtF6SGCxQZgtPkzqTlgXuKVqVOplTPW5sq/+lZ80ciG40muDRv47Vnuks/L1uf7SknE7PGjf7/ogLIrVJPQ9PxON9XFI+DBIFG7VS+MPAaZqO62jo3fNKZI/gUG3AjYPjDl4qj1R9qYOTW0xpip0MU1NV71+cx8/FQlzJwqArvePxnI4pkwrInEdesGwAmtyTMf/BiNfv45QaSf31FTob9tdYQrv/Mx62pQKb46Pc0Ks/tprq+FiEO5wyjgcdIWmPiTDVr9ZRin55BjorVJCVJ+9Q/tEaiA7BZ33zY92suQypYYEP+EbrSukQoznuFvFZO2/xI2muTXglg93EokNjn/ExL9WyX7scdznR/+ggEZcpY7SY/iJRXPFGU9a/P3OoGHfFuYVm8gY=;XZj0rxvXWKxzcIfqxsAtmw=="

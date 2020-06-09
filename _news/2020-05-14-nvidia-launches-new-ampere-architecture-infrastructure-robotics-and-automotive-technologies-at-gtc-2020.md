@@ -28,6 +28,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581"
     width: 1200
     height: 675
+    isCached: true
     title: "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020"
 
 secured: "CTheosA//chnRUU/XdkVrsrStzwxfCvJdb9nZJOKnB6rjAsUZuIjdgUe/UO7hT0ug0QM8RvsxmDnv13LHNVItWyWmz5Hb91Ue/wSXGP7TqnW1S3tu8/9U1DSwmp19eydz+A5gpZeVt9c+pIEYa1HRn4Lz9dkzVVSq+L0lc/s/HdDAuYKnHdvxP64e3cs0tSxbBtcJRaWpxYw4Z12i78jOUE1i3c4n9fl+T0KoWZqewY/VUxJHCpdJVTN7BcWQKl1IB8nZqaWwWz2HDfs55yOHdQq5cfDc0ZSlHyLXfXCx+p4LoX0x/w+a9urpz6NUHKS/e2qD6WqqsaHVJAU3faDfZvUNUkfNckLT6qxn5Ua0SaUddjb/19c4vNap/Jc0RZ3ezfY46LLk24WzXRGJ5h41HUOrSrCQrI9Wb7CcF0acMQh7kpoTS8R2PXxpoYEtt+N2SSd+Ra9Y2KQSNRV1QUaAeQWkQfFqVW/vL/EccoFKmM=;P/eTvUBvOQkCvG03Vf5zAg=="

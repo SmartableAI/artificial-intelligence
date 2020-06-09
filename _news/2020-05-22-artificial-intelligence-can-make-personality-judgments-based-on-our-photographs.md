@@ -21,6 +21,7 @@ images:
   - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
     width: 900
     height: 300
+    isCached: true
     title: "Artificial intelligence can make personality judgments based on our photographs"
 
 related:

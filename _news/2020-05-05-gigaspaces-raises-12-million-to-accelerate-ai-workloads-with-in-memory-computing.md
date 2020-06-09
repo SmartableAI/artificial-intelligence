@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing"
 
 secured: "0Sksh8lMD6ctyLZ1n9BIiKy4kI9cfonMmmL3zYB75Zb9Cu1U4fePVTRKgeZvduqTFT2kmCkjInN7yDwPCjx9DracXCUUPd8JnC6WjuHEC6Sa9skymMJHbPG0srjtf8qj5nLYdz0Du7wX58FjAgIz7Wb9/GMFBB/YvVxc4KgEdeGwEqTRBAah/qsOP+dcKjLZU8PH6z1l8FTb0QjkpZF9kXnqK+69U2BpGYkbW4Bt4oDcq2myWVUjr0e2P6kzbBjm3C3pgZYE8sWRRE7hDNDY9B7Nwz4ccxB8kLPPQZHW/Y/wgMLrVTkzTIBH9yD9DJRK6HvWQe/u2+fFr+0pSa2emkB9rQhVw9gOIBT0xqQxEUrKZpF1cCpMw5sbxAvNXU+Iz748n8M5P9gNDFr2Fo7itMdNAFr4Ya7CgX+4zhqBUhbOBt7PSVpJzpkRT1YSHYfPkTOHQ8Hc1ehXUaMCtLxZWMIyR5edy8UsdSCTLYra76k=;Cj3LuHyjhmPVg6/FdP7guQ=="

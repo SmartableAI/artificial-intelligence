@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1139760/ThoughtTrace_Logo.jpg?p=facebook"
     width: 1500
     height: 785
+    isCached: true
     title: "ThoughtTrace Raises $10 Million from a Syndicate of Investors to Advance its AI-driven Document Intelligence and Contract Analytics Software"
 
 secured: "fUusG1w2mkd/TSROuFxzkER4JGJwaaXFuhgLPw+o0yMxjNUX5cPq/eK+K2QMU00ly15/2HZNCuUD9AB44PwLiaTt3z0ThVHRLrP+IPjRBJQX1I1FHsklyIlcSrTSauIFYlxqnXXRcNL3GXO463HPUTkBh433Pz96+ppLLCJhVI3Jq8xI8YZbF/QQPjsvQ2LrKLG7yfe5leU05LHje41YH65LzWCgbA0t2/ya2c25cQoVVySSR69DYiWk6jboZMEy3l7FyQoj3/3q2hBqIpsW6Iv76g4IURdtmK7k2IcYHhcM9Df5MyoWBKGW37RybSpB;y27hjT7hy3kunzpL1e8mPw=="

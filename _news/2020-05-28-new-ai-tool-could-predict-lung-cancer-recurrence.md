@@ -21,6 +21,7 @@ images:
   - url: "https://frontlinegenomics.com/wp-content/uploads/2020/05/stockvault-artificial-intelligence-concept238841-scaled.jpg"
     width: 2560
     height: 1604
+    isCached: true
     title: "New AI tool could predict lung cancer recurrence"
 
 related:

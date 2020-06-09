@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200522005441/en/793509/23/SSR_AMP.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "AMP Robotics Introduces New Lease Program for Recycling"
 
 related:

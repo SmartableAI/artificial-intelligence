@@ -22,6 +22,7 @@ images:
   - url: "https://techbullion.com/wp-content/uploads/2020/06/5-artificial-intelligence-technologies.png"
     width: 700
     height: 400
+    isCached: true
     title: "5 artificial intelligence technologies that will change the business in the near future"
 
 secured: "iWK+v9upXNhcJSGoUTOYTy02adPlqljsAy3K5uHNUMTXijeHBXWmKWwXLIHFLwKvS1SL6gjgRJF3LZIPvIiJr34HS72WXciBQqunRAl4TK0kYrEj2xzrSjWYXjn0LiulM4+BRRcOKwR1Yaig3B/b5/Fao1p8QauQgBNraNhJClE4eomOieL1eo5jB9QKBG7Nddqo/wnZVmbh2s8KYQE+G1hJcFTAzTUz85PkGjwxMKx7AzOzFqUSQNtPiFa8kgwEMiHGBz1Gjdo9JI8DubuW5T1RE35j23lgc+wvertofJrqsUGV7PrWXwCoPKfL8+dZEEvWdMX8smb52s/Y2becw2KdY7fHMmsRfsm7vrx/Eq9M/BzAnQrzcEkQxVGgPt1uu5/FT8fq0U8tIZUwpburryzlFS4LW63pL48312VusQPZJS0a5Py6BvcHUUY6lYYuDtdVDZCdt876K5lBw8WlbverNat//In8PKrZRKQWX6Y=;nugE80X6s6njAwq7OeDetQ=="

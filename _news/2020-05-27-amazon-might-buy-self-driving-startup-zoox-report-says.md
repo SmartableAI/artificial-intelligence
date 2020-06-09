@@ -27,6 +27,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Amazon might buy self-driving startup Zoox, report says"
 
 secured: "jWHN2c9WPhy2+yt0enR7rDrHw/r+Icmy8/S5d1meF2+sxyc5qFKxAeXc/o6+jndyf7+QFsv8KEpEGVye7qwxGG5VgpPSGHLtzV1NH7UUee+mFapJXK5rVExvaNZkQ4l0UdrAwzZ5i4lg4HeQ74IGsjIAX/pdQ+pGSRWzs9qQfEYrzpk9QBSg8uoMlEGMwUNtitk0xlvzZdTbK1zO2jVpTcH8ysqfOlppv7oAzNglHC++tPavpKCWGdOSE2DHccFIGbPowRZo+HImPfA0cz34/Pgr7rBsTQboWxcTbm4KS0F86TynS8ZJcdwUVUviefeGn4p3yJ7KU0C9k/XhavVx0MqIUaFzFx/f+1sZ0izAr7ewbF6btFBW9v9Pg2WF6XZ2IVbMHHF7gTetXfd+A9nWueYe6mwnpoMKza7OfTZHhnjlW3cRDi9soqACcgIox5n3QJHxffcVPuR5P9JmaF7EBSJ1GLQF+Od9heEA2YsomsU=;ZzV3ZcxMP8VkY5XYr7W7Ag=="

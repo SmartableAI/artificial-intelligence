@@ -28,6 +28,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb2d996ed706b000616ce8a%2F0x0.jpg"
     width: 1000
     height: 534
+    isCached: true
     title: "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together"
 
 related:

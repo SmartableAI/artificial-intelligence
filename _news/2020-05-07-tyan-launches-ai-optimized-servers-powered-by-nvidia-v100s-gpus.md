@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/B7119F83V12HR-2T-N.jpg"
     width: 500
     height: 524
+    isCached: true
     title: "TYAN Launches AI-Optimized Servers Powered by NVIDIA V100S GPUs"
 
 related:

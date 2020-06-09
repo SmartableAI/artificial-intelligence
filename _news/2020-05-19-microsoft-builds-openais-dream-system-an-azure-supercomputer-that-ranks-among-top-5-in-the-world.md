@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg"
     width: 630
     height: 423
+    isCached: true
     title: "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world"
 
 related:

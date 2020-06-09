@@ -21,6 +21,7 @@ images:
   - url: "https://www.stockmarketwire.com/images/youinvest-logo.png"
     width: 800
     height: 315
+    isCached: true
     title: "D4t4 Solutions launches updated software with machine learning capabilities"
 
 related:

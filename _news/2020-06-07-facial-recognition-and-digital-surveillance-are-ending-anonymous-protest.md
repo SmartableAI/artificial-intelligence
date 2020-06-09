@@ -23,6 +23,7 @@ images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/06/camera-lens-grey-silver-background-1.jpg"
     width: 1408
     height: 792
+    isCached: true
     title: "Facial Recognition and Digital Surveillance Are Ending Anonymous Protest"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://images.livemint.com/img/2020/06/09/600x338/2020-06-09T004203Z_1_LYNXMPEG5800J_RTROPTP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE_1591664297541_1591664311983.JPG"
         width: 600
         height: 338
+        isCached: true
 
 secured: "8Jg8ZeqQN2g/kwXbsog6oCFnU44kMpZrctd+29Gi5LUS03Aw3O//H6RV/+isFfolY6dPIzlnWDBjfmyGC6pebh+C2gW2Oh7bqFGASDe+Ciod3KYzScGZVx3Fd9as65gmG7Ui6mzXlBps340aY+JbK0M26xDdOAJUViyxF+4JVH0A0vm4LperEJrYNZUiCMHZkjb7RzL/zX+K4dJI4Vtgn+2BNd8uMS75/F0cE1Xh6LwuH43R6Wg/mvIl9PRLpcaj29jLMRMOvoUXKYE3dQo/EA9u/SQNZqqAOR+IF1QwMeQ+GkiU5YKEAvwNVvmsOz1yiDEDxnQ8odVc3F9WvXJH9XPYXLz0KMW4QBEAdNGgNA0Y2HC6RbGD9IjWXGbGVbYsx19317UU1Ke3wzlBrm6QdM0AErP47q5GFBfZTAmbfho3eUak7OlRBtFGAYGHL2pSGULaGwVZZTk6z3diiiD094zw2/2EpHTyKuF8SUxZu/E=;zSc3VjyOVPvhverKVpTxQA=="
 ---

@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "New models use computer vision and AI to identify COVID-19 in X-rays"
 
 secured: "zOB1cwhzO0PljD6uU/5Ub47vmgHgtetvu6KADpIDW2GmWor+liMsW7qHLrD91dZQbqTLZowWGW4jgPPzQRcyNNtnlWUUpsJ5S1C1MKIIl9llUE+Yr+96daYH93Jt52iEXay3L2rDl9vSL0JYsmJ1ic+BXIVGvFfnStuJPTY5IarxtBUJIjYUM/KKxPXIHbpCQ+pyXJGpFpQG0S2sib4yT4/6FgTuESw1HvuFRBu77w6thv9bFgylpydPtLGLu0Sb9ffylAjeybuPCs3x8uUs1Dp0xexzh9s89Y+QuH+7k9RrJUH2rlbkHsZ3n283f+Y4;xHaGqcv6VWOTxfl4wNZERA=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NYSE&Symbol=HTA"
     width: 650
     height: 350
+    isCached: true
     title: "First Allied Advisory Services Inc. Reduces Stake in Healthcare Trust Of America Inc (NYSE:HTA)"
 
 related:

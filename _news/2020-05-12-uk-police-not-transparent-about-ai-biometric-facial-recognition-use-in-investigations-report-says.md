@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17152505/police-scotland-body-cameras-biometrics.jpg"
     width: 1200
     height: 777
+    isCached: true
     title: "UK police not transparent about AI, biometric facial recognition use in investigations, report says"
 
 secured: "iKrftm+tkPtXYZftNA2hX51HSKisel9UzKTixcE8jegXLr544MLVv2uXm/dQKdGpfPO59ITn1dMQGtF2LgtOBklqxGDXgzVPJxR+qPXjdZEhVZI/7QxK3ezX3u+hJ95z9c6ZHRsO0/aDC1YF8mJco2lEBlDx5xSlKawoFP/rocjEq7voRN55NUofroCf8J3T519eY3Feowb3tusrlVJAHVqDGNJ0I5AsPWEauROflO5WFkArtxTdJtboyhxCuR469/dGknDMnGT60IFazWkiPM5f6aDSQQyjtmDFKIjdDeHNO+IDicuuzOfEKnWL1DQ5MbQOVJJWxYzEvsEFBerzHUDKQqwzfnTcyIvxUzlx3vczgZIzmUVx8zxqj01oLMOGqHpsmtYvP0/2OW8bily95VsBfqeMkjFNYVzgtvpgpKB0ZhFXn1il1h7rytF4g78gbP5NtArq2upeGFSf9s3xUEyH9PyMA/qEaVIiQGpPPuY=;0gbLWXN9Vska+2iL0uerBg=="

@@ -22,6 +22,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200518005020/en/791807/23/ROBO_LOGO_WITHTAG_STACKED_COLOR.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "ROBO Global Artificial Intelligence ETF (THNQ) Launches on NYSE"
 
 related:

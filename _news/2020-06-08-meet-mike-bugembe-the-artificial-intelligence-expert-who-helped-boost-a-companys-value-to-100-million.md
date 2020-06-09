@@ -22,6 +22,7 @@ images:
   - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
     width: 735
     height: 552
+    isCached: true
     title: "Meet Mike Bugembe, the Artificial Intelligence Expert Who Helped Boost a Company’s Value to $100 Million"
   - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/05/Mike-Bugembe-black-enterprise-big-ced.jpg"
     width: 1000

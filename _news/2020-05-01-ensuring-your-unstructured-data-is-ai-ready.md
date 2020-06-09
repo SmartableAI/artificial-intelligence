@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-1200-80.jpg"
     width: 800
     height: 450
+    isCached: true
     title: "Ensuring your unstructured data is AI-ready"
 
 secured: "H8HQQ7hG28EjLicFfO/TN8NoJ0rJuHsbOsh0n+050vfJrsX7f6u7y7Vf8aoas/vPT0EdPhm3GybUIx2ovDlz0vYBBbMFy3Dn24/FPQKtOvwAcdZzQroxFvB0A4e97y1jY658I5QxxK9bbg1T1/NfSbjygBqFW7vKndRb43ZdHB5wrHR7jHwT0qVXLFdbxndXKhFS8rzKKhW3mIk/KvO4Y/gLwdJ6AKy6oJ4ae9Wlg4wesaWqYam+GWvRJdsKP1LcnnAJie3NZwX+wAul6c8zOwsNuVCHIiL1KrhNK10n2H0F/B+dVoWT0CjizNLEmW8M;ePAj5w4KVpwyLXi4iFvo9A=="

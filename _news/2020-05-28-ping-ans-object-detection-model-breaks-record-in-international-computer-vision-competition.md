@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Ping An’s Object Detection Model Breaks Record in International Computer Vision Competition"
 
 secured: "Ewd6RjZA5quy6TEaS2hmKDuZDX4Qkx70EXjojJsWr42qeUCPria1Tb94ntKws+o180LimauLP1+UNj/XpM/ZM26jXMH2nNirQMx6u6bERq95+kfJYwY4OGLW2te3xAQdexcqoeCDJlmovRoXt80O2keCcxP+dewhcrOTviNOd6w5md9EfCPbAmvvuS5WaV37dPV81R2okVkafn/aG/W1f8exmbw+xO+w4c4zUWHc/artlZjGafrAlxtcdNEBLrYtUqJqnf1hLZg1X60GlmAjwotmMPvCiVIkr090cI+4r5IS1pQwsbZI1Hin/3o9mKuX;rvnof/Jt2uSoMgebIXHlCQ=="

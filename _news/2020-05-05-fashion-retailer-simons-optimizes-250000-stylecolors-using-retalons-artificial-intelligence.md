@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1163866/Retalon.jpg?p=facebook"
     width: 1800
     height: 942
+    isCached: true
     title: "Fashion Retailer Simons Optimizes 250,000 Style/Colors Using Retalon's Artificial Intelligence"
 
 related:

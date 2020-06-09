@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -72,7 +74,8 @@
           "width": 1337,
           "height": 752,
           "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -109,7 +112,8 @@
           "width": 1024,
           "height": 768,
           "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -142,7 +146,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -154,7 +159,8 @@
           "width": 1024,
           "height": 768,
           "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -188,7 +194,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -200,7 +207,8 @@
           "width": 1000,
           "height": 534,
           "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -234,7 +242,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -246,7 +255,8 @@
           "width": 1280,
           "height": 640,
           "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -279,7 +289,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -291,7 +302,8 @@
           "width": 1024,
           "height": 691,
           "title": "Industrial AI startup Covariant raises a $40M Series B",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -324,7 +336,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -336,7 +349,8 @@
           "width": 1800,
           "height": 900,
           "title": "Covariant raises $40 million to bring robots to low-tech industries",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -373,7 +387,8 @@
           "width": 1200,
           "height": 630,
           "title": "Why choose a stock image yourself when this robot can do it for you?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -406,7 +421,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -418,7 +434,8 @@
           "width": 1440,
           "height": 720,
           "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -451,7 +468,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -488,7 +506,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -500,7 +519,8 @@
           "width": 1000,
           "height": 563,
           "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -535,7 +555,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -547,7 +568,8 @@
           "width": 800,
           "height": 448,
           "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -580,7 +602,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -592,7 +615,8 @@
           "width": 724,
           "height": 483,
           "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -629,7 +653,8 @@
           "width": 1200,
           "height": 450,
           "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -662,7 +687,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -674,7 +700,8 @@
           "width": 2400,
           "height": 1600,
           "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -708,7 +735,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -720,7 +748,8 @@
           "width": 990,
           "height": 811,
           "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -753,7 +782,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -791,7 +821,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -803,7 +834,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -837,7 +869,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -849,7 +882,8 @@
           "width": 2000,
           "height": 1125,
           "title": "The rise of the robot",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -882,7 +916,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -919,7 +954,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -931,7 +967,8 @@
           "width": 4000,
           "height": 2667,
           "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1005,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1001,7 +1039,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1013,7 +1052,8 @@
           "width": 1200,
           "height": 800,
           "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png"
     width: 1248
     height: 1214
+    isCached: true
     title: "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing"
 
 related:
@@ -44,6 +45,7 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-05/C8FB7E51-7DA1-46E0-A24D-B6A59DC3C4A8.jpeg"
         width: 640
         height: 427
+        isCached: true
 
 secured: "CebYb8E5A8HCPqlmRQkEPQ5Ww+ndq0OPsONDAhpNTN+EJ0erUJzgiHpryaFJcaR7TbthHsDv5dkOynCBnHBNzi9O1cSLVIjGDT+rbIFiy7B/w67Tye0zlu7sboqzOcR8BBK/OMuw5J3mxPg/YQZDEWP/6Hzlum4xN3Ak+HaikVVgHZmO8otunsfvBtYRaS6+5kTnagBGldfzxafHw7PGXZhRP7p3JRQDDvcj2W5KqbZZk8mav/iYPmlJsVEqIZIFhV6Pw2J47aDm3WesYRNPE1rJHXIZjpv54bUwMZfl2FWGbSXWKEUYvDZbG98mP8p4g7fRdsD+zXoN99VnG5fhIXQD+Eirl/XVJ66zPhw/UFP9Psx96A22BZ5H/a4KiZSEgtNx4AuZ7ESXtwj0DtaVtkbRnheZtYWgOgOFBUy3v3jPzK8PnBNtKqd9H0htY+vbgqb5a+ESkTGlSzbYxlaNW1p+gmeglvVqyUc0HEHv9FI=;8bVM0kZjWGv2Ejo63C1vBA=="
 ---

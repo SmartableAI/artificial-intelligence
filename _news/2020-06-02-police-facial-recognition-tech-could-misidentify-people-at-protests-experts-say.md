@@ -24,6 +24,7 @@ images:
   - url: "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg"
     width: 1200
     height: 628
+    isCached: true
     title: "Police facial recognition tech could misidentify people at protests, experts say"
 
 secured: "+5u6x0S9ktdkqbzbVQoao5L2RvTBsAuvXELtRv3wvW2k+9NG/ZSnS2SlQroIaDW5YerSUUTCf2laIn4qcrzGCk1+ESXoJWGjynDYeSsVi3ID0xdT6y8fEjskMvRMaeyK217HLk6Thk0xYJP27yyNbTeqiXFVWjiVnusI8WejQSoFo4Rq+ia51BciPVs0jtV/btjmzjAW6gbYbbvpHxf18SOipHLJUhfl6dZus7KuPW+wL9o50qJyDKPXFlb+Vt1z1ZcYjx2VG/DvZ3+G52TY+4uWfZxP61tyrrsPahiGRZcBTtei9/h+Tpx5WgHuhXZA;H0ELafQXTmpUmhR9Ozi0oQ=="

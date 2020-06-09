@@ -25,6 +25,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/sZ_2UsUGeZNOIbqOHL1EnN1Qbkw=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19937907/The_Debater.00_01_29_21.Still013.jpg"
     width: 1200
     height: 628
+    isCached: true
     title: "What happens when AI stops playing games?"
 
 secured: "69Ra0Jy2cAj2WiRjRxAg+Z+lzwMGUuafBaVJL8P3+0Ot8PLcICBPcrEXSiuBMWtkhsblX8GfXiqu8bwm3/YPHMgkvINBfOIpxknAbh41dzR8dZ7ot7yKjQcjQL1EjcIhuQKfG+DRo/hZmouF4Ar7NWEWfmq1AuddGxnLvdlYhgryPjvNpzRntxw+fSIdhErbo7DJRx/dIqrNIuRsWbBmjVB/sMCpjmf3jBYHMVPtmZM+wefwVrKx9dgqdmCcys95rdKLR8kJuQdb9/Ss42ahcy1/3n4xU1kgpcWnCE91KZAtRU/UWdmxvrLtu6QicUVcAR9Accx/mrkOpPtNQ5UZ3iurzTpqdqpEKWDraFfECzQoy8CjGDgF37zNt1uEXXcEeOqzdyt6mAwKPuQ1uXwwcvqeHPAhgBONFuQ3TMGgUYP1huPhmtrq0Joqooe8Adl8niiDiwj3NxHHDl49tSDP2Dm89GsWEPuBWP2XkaA9ss4=;vJgn99lx9woDYTmHO6+M5Q=="

@@ -23,6 +23,7 @@ images:
   - url: "https://cdni.rt.com/files/2020.05/xxl/5ec7ef7185f540744153f74e.jpg"
     width: 1240
     height: 697
+    isCached: true
     title: "Robot sex dolls: The real winners in the coronavirus pandemic"
 
 secured: "AlGjXEN0p/9Kr0oRiWi++5HMiZqlNkwggx1RCpN6v31baSuz2eKkFmYl3NBin6z+EyyHe/hfVanX1DUmihw+XhvzGjT+aLrhMtaH289Gcgbe5gLQgcoRbWAcXHYlbXYE6MnjBpEsKoM4GiHInuIdaTd2giymttuZU1DvYk/MScIYeVy8i0JVOwftUJc5gn3gGMpeVIAWLEgy9bgHVFH0SWumeT04UDpl+rJmrs9lIv8FrtnPq7iidmMRgcOqjo7eL7dO9+B69BUCN/ODvjjG1NGrphldCUtEKT4clGeMTaJLGAYyBD5m3MpoX7fgAi9g;5MKxKNvBX6MD6L0M7wwPRg=="

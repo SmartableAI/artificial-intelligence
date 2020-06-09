@@ -26,6 +26,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/RvXgziYDiKnRyBupRm1gPdTpvlM=/756x567/2020/05/14/667a5774-b864-4956-a51a-31e6f607ca1e/1-ats-loyal-wingman-1.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Boeing Loyal Wingman: A combat drone that leans hard on AI"
 
 secured: "8jSXISzop7UspQ5oUjkocMQToWBAJMZS51jAdJkEXX3R/JMy+SusDLvic3RDe2CAiglVfb41p1PxdwhVJvOeeQhirmBTgnax05KiHBMVpjVuWTjkxfXzKPKJuNL1a5JUzuMgvLJvYQPjaxTDwR8T0o/3MMTFeqKPb0x/CF0NXjOJ5Ncw/h4yujiyAKwBzGEkJyOG3QeLFC6v+8IcC274aWj0daHXBu9WEH9b8aa5VQuq/4imnsU7MCyf7Rs/bwjq9xw3Pjvgu8QT7n9GUzU2Af1/+lUAMaeEcwhFaUH/9kDdXXhoAYSBfYlNRIRb/mH43uhnMJkLEnabW529xTVAbRHTMinI650gili8B3aZgaXiGuj1LqIFVx3Vbnuz9ZUPuxx1B4kJ4BwKtFoS88V0RIgAWZG7P+OYOrCngIxClMtAi5pJW5DnBEWi+Q6pUQ4ZlVBo4gbFUmNdC52syldWG7LB5p9GLitgJtYBhlzHcYA=;bn/jBZRTWEw9VyFf1V2dTw=="

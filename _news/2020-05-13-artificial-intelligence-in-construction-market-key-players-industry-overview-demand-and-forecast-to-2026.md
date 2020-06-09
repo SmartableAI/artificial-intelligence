@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Construction Market Key Players, Industry Overview, Demand And Forecast to 2026"
 
 secured: "9MLY9N/5W4Kv5f3kyyKeR1dbKTveFKGe1Li9S5g5w74c1s2UWLGrRr8P2vdJ5Cm5uXuwKKXwbEiHxcT9yGQLxiExNbA406CgQ7dcNUcMTLIUcnEjhqZAVSSpf7XNUGryd6/t5fPE4aC7bFt2mP74EY2cZE76cU1VlAqod94SEwKDgZy6Oz32I4oPx27Eel7uGIIe8jUEeJLje/dH2R5a/apmuhyNOSeoF0hJIPc7PcmtWol0z04aHNQPKCaqXxO8GKbPKcEH7N+buIPUGxxk640QQWpdl4g56ns5myOW84QzmADY3ZqKL5UxnXoUosE7;C3zbpfxHRKEjgn8+NCILug=="

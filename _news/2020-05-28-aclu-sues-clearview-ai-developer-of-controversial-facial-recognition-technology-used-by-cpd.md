@@ -24,6 +24,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/tGague1zuiPeQIBZ6lyPVCnmVsw=/0x0:1320x743/1400x1050/filters:focal(878x270:1088x480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66862861/large.0.7.jpg"
     width: 1320
     height: 743
+    isCached: true
     title: "ACLU sues Clearview AI, developer of controversial facial recognition technology used by CPD"
 
 related:

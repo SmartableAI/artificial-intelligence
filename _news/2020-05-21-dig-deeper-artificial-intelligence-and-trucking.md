@@ -18,6 +18,7 @@ images:
   - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2020-05/artificial-intelligence-gerdaltmannpixabay-__-1200x630-s.jpg"
     width: 1118
     height: 630
+    isCached: true
     title: "Dig Deeper: Artificial Intelligence and Trucking"
 
 secured: "fH1KvEXO1obp5q5llavHBCE04QL3+pnOud4bqKpjjPAVpXIIVQdofkLl586lwdKvhYbt7JIJRYEUP30L3rETcxWKVbCtn0vpUMFAkwztZuYiuXKxkThlRZj1hEsBVs4rv0QFABRT/gCeub4FFbp63YaXtwT0SQDnxhwRjvTSNQvFb1LMwype2yp+2LiUkjHPNUF8Kwgx4fjJsN4Rk9iEJg4q29JciU8Z+5TS6/aJYc7uEHXhj4rHK3SPXH3cRTL4J/hJXOiaETJSGf78drRqekmVK+FSuFruwZLeB73PxOclEVMbRIItbaUHYH+1mFEg;9uBR6WJK9J+PUjF7cqmmMQ=="

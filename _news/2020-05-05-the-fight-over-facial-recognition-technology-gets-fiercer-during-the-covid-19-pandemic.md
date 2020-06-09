@@ -21,6 +21,7 @@ images:
   - url: "https://www.statnews.com/wp-content/uploads/2020/05/AP_19127788378584-1024x576.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "The fight over facial recognition technology gets fiercer during the Covid-19 pandemic"
 
 secured: "hJoFcNZUrTDCqmqobcLg9it84QmWR+ubjBJZ89mWK+UgklE17yE4tp7fFlbW/7iVYzItiFAl/9z9o12Gp2eljywabmyTul3VQ5Yk1n895mrfaeZLJyAizDBxTMvT+FzO4pgHlebQgL3XJYI+/bUNDYvJvyXub44sbE1JMfzDlwFmD0YX7L80wCNDRUn93HTRzOyAiPXY31eHJKn7Ry1G4jV1rkOQ6zXQ80j73LFHlD3IqJXRin1/D9QXV2wXJdoGfF/mTpAVvFOBE2rKWS99EAU/Zp3VrE87XBX0eB6XmA39eCTggJmEkuPIcFsiz9ze;P/nNJRTjb7+q8SquZhQvNw=="

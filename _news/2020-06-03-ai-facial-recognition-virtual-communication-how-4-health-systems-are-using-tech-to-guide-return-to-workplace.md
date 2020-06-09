@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "AI, facial recognition & virtual communication: How 4 health systems are using tech to guide return to workplace"
 
 secured: "LA7dtV51HGPR9y5DrSqvIzdKnGx1UeqqgCE4N5nbhk1gUITRgOU2tjXoslpF2hWrNGbitZyWUZPQpJ6cHJx3xd5s19nGMCrde5cJevWOgwVZ6VZWiS9exkoFE+4CeZGO9zmPAesXgGrQfSTuxh1EbHf2GzFHddA3IXOnle1jNyQ5//MmonItQUceGPTdHoL+ZorezTpZK7QlboXbqeNqBa9OsYlegSjpHtNJ0/jZMIM5v7yn1zaw1Ccc+ODeJkQ/T5acSb0LVvZdkLF8EAIEBUDMs5wIX9FWaJ3Z3pDObU5iZAaUxSi8U99KXnX2YCr69MDwADgPcYbEipO8TwVb3YoWdWxyqoM/3iUbWKBF7NSMcjSWSNs2ituZHlfDLA3whhqG7Kb9gP6/PBZsSfF3mJN8RkExxmg4h1s6rgGtEQtvFuP/lAYa0jnElFw/xY4p81AeZoh05E9niSWrdsXkm91cZ8UVahaQVIDSTOxPQPY=;Qj3Mqs0C5QXXkIb5a45qFg=="

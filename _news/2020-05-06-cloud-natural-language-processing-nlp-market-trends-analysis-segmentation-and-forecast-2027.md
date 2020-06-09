@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Natural Language Processing (NLP) Market Trends, Analysis, Segmentation And Forecast 2027"
 
 secured: "qv3yycfG6pWj9BooI+PM6x9EM8io0Pm4t8GqF9hxQHiypyca5F//Nksx3MhhPF+vbL/hAJLl5gCHseN0EKUADyJdmEBqk+s+GD6lNQMUYW6nSm8A8g3MkcgMH77lwUrd+FrV+Hc+coA1hEFnXl70mG++vifHZLqt6z5cTsPosv8E1WVK6rXUEdfdK273hxB/EXBGNJ5eVLMRUC8J3XoNN3VYl4DN5pTnS3ZIe0HbQSa9yKP4IGDJr/llk/SU5W5BP7YNVltVcTsqIy/BXgX3UPACTTHPlXa1/GrEsWQowF9mEXIYUpeNAtlQphc07qg/;FV6NcE6zlawduC8q2jEQiA=="

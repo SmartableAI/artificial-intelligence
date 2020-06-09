@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence Market World-Wide Industry Trends, Entry Strategies, Regulatory Frameworks and Technologies till 2026"
 
 secured: "0wxUqs90OOhrIkkaYEJrVpYrgMEb00k/wQY7hjr3qYxShgJWiu3BtgD/MJVJcSRn/ew0KZc+UychyEg1H8KLoRddUXG67VwTgG0sPnZc0KKJjx48y411U79INzHI6OUJJWM/zlLD+goNecbZ+P5ZA/sPnG2ufUhcJBpnn5XwBKc1Sph1qx414L2SAwV04EuGU/AfTzHsfWOwMFnkNwOoK1E3VE1JDF1xlefkp+395TCfaVrLdbObdhccV4743D1YxenUyF7YS1clT78Wkd0XZ3TfLLm+pTd2psrWa76k1pbswr5ml5fwvQLIx0+6laJZ;Do/WWrRQRFxiMF82aKWCCg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.irishtimes.com/image-creator/?id=1.4268741&origw=1440"
     width: 1200
     height: 630
+    isCached: true
     title: "Here's the best free software to keep everybody occupied"
 
 secured: "4uZPDojao1Pk821ihW+lnkmFljhDqAyXizkvgWjcBuiTqWQQ5yoSVIdR/8O/vHEPJcy+n8ENXk78x91kvndVJnB9N4N0C2vq3pMMODFjl4ZIFor+UEPZZyC0ko8x25RZ1zS7a3EQqESF4o2VDBKPzEtSPMEZE6X95VZdcPmZz1eBCEpSvVmobYpSpOCmF34vCgXWnmCIymF2G0Hxfya6n/2sgvBZ4sYyRIoXIYOFAiBdhuOyfJWbxxvShNgeEq4dxKWdh+qxVQL+tp+A1ClhbJUu+s3Xu3iw53reU0NcLdaqmY1hezz47FfWUU/IHkrC;7uT6vSbNI2KWrOyMIwjrLw=="

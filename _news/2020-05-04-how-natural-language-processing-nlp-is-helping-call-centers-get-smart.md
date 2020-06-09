@@ -23,6 +23,7 @@ images:
   - url: "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/2-most-important-attribute-of-customer-experience-e1587726933669.jpg"
     width: 768
     height: 408
+    isCached: true
     title: "How Natural Language Processing (NLP) is helping call centers get smart"
 
 related:

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "COVID-19 Impact on Artificial Intelligence Market"
 
 secured: "qpDmVxSrNe+LdlZ26HpR3pJY4afC0Hgq5Jqy4JSbgklCrNzR3z4CUbrucJ6Y8VHPsKH1Cwru7A5zgO0kDMcRcxvYvaf5ewqfV4h7Amdcz6KQb+G7twGhEBUJJpMUbfDdpp1NK8dmF/7wqmJQ4AwIDts43p+sj5iXKUoNPgDsTY6BIB2y8/UidzfsP3Fvq4XzR2SEDDdFK54waalXF/8evt85U/FOrafYTqn6X8TvvewGmoQDe/GiMkdJKQawwCi/Qqr3CBEliGCVLpD5fV6TlvWYhui8dfaY+f4HXIVW0qI3h0aFLI+gq9f7A57NN/XA;ygX7kC0IiTTsfe2nkjOZKg=="

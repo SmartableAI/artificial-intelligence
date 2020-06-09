@@ -21,6 +21,7 @@ images:
   - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
     width: 772
     height: 594
+    isCached: true
     title: "Lucidworks announces advanced linguistics package"
 
 related:

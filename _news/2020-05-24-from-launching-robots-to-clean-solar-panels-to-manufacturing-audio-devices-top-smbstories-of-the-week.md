@@ -23,6 +23,7 @@ images:
   - url: "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/smbwrap-1590246157936.png?fm=png&auto=format"
     width: 800
     height: 400
+    isCached: true
     title: "From launching robots to clean solar panels to manufacturing audio devices — top SMBStories of the week"
 
 secured: "apSmxICpVQY+WUu4D3Osp7X3+uG4//R7vM52w9XNuhVLLCk/M5HlcRWF30kF0iLnnPCmnTdmuH9Egri8ry6/PZK3bGA/66IjbZ50XKNxR3rcOfDemEE+4Bk4rr5a3G4vd/Dj0cO1XZ8r3xe0TOH3oNtHDZs516hsWV4HVB/i6Ky+xP2hZx8UIHtbtPFmQXpjGa2U0B7nXgdntOqbqpojaB93QZTF9nU6VHL1XpQUajEdp8/xNDrIGnN18cMgf0jOxYWFoid6Td7omIvhGO5/2eL2efQ/nUFuZ/Hw9XFtcsla0Hj0Wv3sBGdb/geznA+9;hGIBYpgGVhmmbwYuw1bR1A=="

@@ -23,6 +23,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Sony-intelligent-vision-sensor-IMX500.jpg"
     width: 1774
     height: 1235
+    isCached: true
     title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
 
 related:

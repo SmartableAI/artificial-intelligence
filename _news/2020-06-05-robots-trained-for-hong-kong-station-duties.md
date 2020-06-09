@@ -21,6 +21,7 @@ images:
   - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/8/1/7/32817_hongkongmtrcorprobots3_964023_crop.jpg"
     width: 2000
     height: 1333
+    isCached: true
     title: "Robots trained for Hong Kong station duties"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "e5uKGHQETzMAuIjgtEefiEghR6pL8akFTpBG5ivymveRMGpWkrJB92eFrBNaySrVUo4BKbAE3BiUjFGDf7oGHQhrB5Z2PGh0UiK7Ga2OXTu+F4ogw9QSQRQPVOofEsm//v2MMJkbKVcI864Wx27ByBG23aJma6/28YItUChIMz7+hEiCdMYcIlFOWdrb5kTGeuU7sRKDdZ+RpQf/wuIg4Z91lNwL2dEYukaAzcfzkpzS5iw03dkupDenG+gsRbkBTUMcwILANi7i11+Bs7N7BxQR5b9037dW1C6nr4WRAEtzjW8hIeoVQliinRhJJi9N;UBI9aSSyOedctH7MXaUOKw=="
 ---

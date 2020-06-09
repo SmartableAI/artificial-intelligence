@@ -26,6 +26,7 @@ images:
   - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Senator questions Clearview AI over coronavirus tracking plans"
 
 secured: "46vK6iynSiko5zCxkARhuMWwirzhS7cHQ4BDnDJj+CrFyMAUcE/jWsrtQ0GapFkqPhGsXjfQ3DMc1tu5Y7dT+a+9oANkKLzJRq30w3e4wfGS2xfVO+1qovBO38Lnd6/okGabSpRsg2zL3ovWfn7C0dT5XxDMSjXeuDpPhv5HKOA7urqR+Ytzec/Il9sMX0DFUbvVlfJHS/vQftCwX+EuW/DxNXJbGoRKa5TcQ2JkaOsxqgbydSBmrAceURLRMMDfYjwM740wzhBNO0H4B8NHgtgKwtwKm1HLUsZ1gfqKg/e1Gwc7Pct4QSlq19nvoz0y00rKwCRSvlscj9yTuh82FRgk9f67fpw+QrQYLg8xXPyfmLK5BEH2oRsi2IA7Ue8ifXbBLet4QhSPYYG8IUS7s7B5UboA+D0hIaFjGhcHJUVtei5ELAjn4AqNAn9dYhzRPPPc6gmcye3epLJqiPt2J/Xlyc5Sy/K0H6KXgXSvRSQ=;WgPao4JELxqxUjSh/Nvkbw=="

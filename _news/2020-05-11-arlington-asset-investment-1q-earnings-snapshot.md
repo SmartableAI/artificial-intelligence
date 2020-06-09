@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/ShareLogo2.png"
     width: 700
     height: 450
+    isCached: true
     title: "Arlington Asset Investment: 1Q Earnings Snapshot"
 
 related:

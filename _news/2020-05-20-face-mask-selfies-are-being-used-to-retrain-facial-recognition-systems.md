@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg"
     width: 1500
     height: 1125
+    isCached: true
     title: "Face mask selfies are being used to retrain facial recognition systems"
 
 related:

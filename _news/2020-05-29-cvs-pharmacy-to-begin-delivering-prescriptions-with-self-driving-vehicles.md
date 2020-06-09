@@ -23,6 +23,7 @@ images:
   - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
     width: 800
     height: 450
+    isCached: true
     title: "CVS Pharmacy to begin delivering prescriptions with self-driving vehicles"
 
 related:

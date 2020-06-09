@@ -24,6 +24,7 @@ images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/02/Fortinet.conference.JPG?alias=social_image"
     width: 560
     height: 300
+    isCached: true
     title: "How Using AI Vastly Improves Threat Detection"
 
 secured: "LYhqso4/CTpSq7n6IWEXdGkPnlU+d0XjhCOogOnj/hFV0E+y6o0//wtqe5unqkrqFHYePOTwnFwBNgmQ8jr/aa5GxTmQ8+3v3MDMb6REe8PORhDMMcqstCVsCtL9FwhnzGUQAJiJsttmqjGlYLH3IANejhGE0I/2G1ztaHueKwzTl6Sqb2sACeW8s8pI3dcTfH5boTAxZ6FNHnwULBq8K8Lj7vzIziqDpw6k/amGekVPrMLabqw1Jgu+p5ooHUSv3lvLF9hjhwCCoJwFr/Iip5SQEQOxzkd1SvogOPltOyXBjT8nXLK9VHHVKZ9507N2zUTPfGKfbsjxBwQBdo3UDqZgbre1Wm4wpa/Wb2XZmsVJjkMo+q6JFPgfj5HIOXhCV4eKkwFsHZf230vzC8cliyIH/VZlwblbHsgWvRwtKzQzEBV3nsg074591RMKn47Y91bhKX5iCMRyyCkYX0YVO79fO5DSf9siGEY1OD906NQ=;Z8qMaOzn/jXS+9ibHyQ4aA=="

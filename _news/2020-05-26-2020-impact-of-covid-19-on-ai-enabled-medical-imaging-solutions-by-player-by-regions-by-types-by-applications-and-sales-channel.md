@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "2020 Impact of COVID-19 on AI-Enabled Medical Imaging Solutions by Player, by Regions, by Types, by Applications and Sales Channel"
 
 related:

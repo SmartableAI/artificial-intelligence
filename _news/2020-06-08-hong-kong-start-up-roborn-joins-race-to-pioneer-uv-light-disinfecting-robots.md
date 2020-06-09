@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231"
     width: 1200
     height: 630
+    isCached: true
     title: "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots"
 
 related:
@@ -43,7 +44,8 @@ related:
       - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/8/1/7/32817_hongkongmtrcorprobots3_964023_crop.jpg"
         width: 2000
         height: 1333
+        isCached: true
 
-secured: "1D/iVNKZzQnjqseva8lGlf8tH9GoqczyASRvfctBhLfPwDDYTKeuXCaxXCRMTjYocY0UU+pBNbg4TEURcdk1+XsFj0efcI1bQSnnybcTjFWopnSkrFc/CDE5BMgdnbPRPkLV3MV3AY7VS6oqdzsGcKqmv0gSJVm6LH6ZJaIXdcBn4GS5ZCS+D4rkGTXBaCcEcEzyNHXnEeFrdgwK1pZalmL2XdzizdtVVNNCvSdiO7ki/aYgzuTgfcGaq3ZvGSnFPhYSHXpNLw96AKvW9Sp3ssveYkO87jn/mSOEow09pg0/pF0FbNprRyRIj0/6fulCVKJmOxKeaId4VkQsPQmDAn1KmT4rlqYv8R716UnT1S0wHcTSL60YIyK618xuflR0cPwRpm3KB55bnHVEVz0blswkc2KlhZedkbmJCBg9qZIaUT6j0l/+P/qZGybai/BTuLPpYeuLpwBlZzk6Cz7X3pIDLPUk4jjOK1m/VFAr1VI=;SRMtorD9BzCuDn2BvXS01g=="
+secured: "uEq9m5bdS7erw+ifsXv9DBWZ7dQgwdQxJosvF8kwkd0JIR+RbJFA/z6Ku7REBosfVuP12ekhwMoA3QdjfW9WAEjsZbYd0h/y/YS95OTnC02WpVoT6ROx6PIaMjbsJt6TBhhTZ1sKojHrdIYgWvOCbA7Gn7WtfwP2E7HVpLNfOmAOpLKH0imb/qpZWGMRcF3bgRKGBHN3ariOY5UwpBRCGkw5y4LuIQd1cidsbx1sAa66tdOaySCHEDssTIXN4zPgwCMR6/ndUu6hKLz6HpfbWo3fi0iF1HoTrTIwnoSsc5GK291z3aUToXKi8SA0KkNIPQ0+e0Wa6tHdke5r83+OTGb8uFkgZ59n3pdKlfHb50GkgY3JohA8OI4kYru0+DqAqVz/UFIekHHWIXtEc3UsXdqP1lSSThdu3g+DE5Olplx7CpaPcu87bPH43hLt7ri+Oyj4x472S8TvjP4MQG2n+j3/+P6j93eKIUsu7Ki4SGp4ClFgPyS1Gn0ZWBSYAzft;/CGvZUInkS11dDjfJ1gH7w=="
 ---
 

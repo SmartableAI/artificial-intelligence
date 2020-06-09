@@ -21,6 +21,7 @@ images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
     width: 1884
     height: 1412
+    isCached: true
     title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
   - title: "Artificial brains may need sleep too"
     excerpt: "Neural networks that become unstable after continuous periods of self-learning will return to stability after exposed to sleep like states, according to a study of simulated spiking neural networks, suggesting that even artificial brains need to nap occasionally."
     publishedDateTime: 2020-06-08T04:33:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
         width: 1440
         height: 810
+        isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
     publishedDateTime: 2020-06-08T10:15:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_332409741.jpeg"
         width: 800
         height: 600
+        isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-09T00:27:00Z
@@ -78,6 +82,7 @@ related:
       - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2020/06/brain.jpg"
         width: 629
         height: 425
+        isCached: true
 
 secured: "7xQMLZ3jN09VLRLxbM7TzF3jdmt7oOYjQspfSAUoGr9TfsgW6zS23UJgnL4XuoW/PduGI0MhjwL8NyTAmA0LWjarhI9YS1MES2SEmztrXYb3oZACbrvcPKnOcXD+t6cZgYaMUx5/o4f64Za9lP9zyxmLCKNXGSl4GboprMktMN3Frcgn2TGxGQs62ziLYq22RVCgU5HsaiGJG7rUqOivQPJX8JCXansIOdIwAPokQRdkBzLhDr+gEVbPhFP6lyJSUs9FIKUMH33e6KcIv2LAearXLnIvt8vSU8rkbbswqkhx6xXrsRz1eTNSUbUY3bb3QuMGIHKRbJcs2nu+SGLb7XJgrZK0OBGsxenW/Q1gv7CEWxbXq9evFOSkT0UxgcPJLZ+VMeujuxZhxjUetRMUy39FdEjC7pwDejmB8FhGgJsVymM7PyWFFEl/LUTaM3ws80f3bhsqdOigvUYYXmn9D4/VLgfggFjs6x2bTZmKQk0=;VdOQdWRil0RQfk7ot2835Q=="
 ---

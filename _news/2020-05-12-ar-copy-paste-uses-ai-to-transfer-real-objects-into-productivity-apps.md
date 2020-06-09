@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/arcopypaste-e1589297287797.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "AR Copy Paste uses AI to transfer real objects into productivity apps"
 
 secured: "zypeLQMV9PoyzT2gUD6wwWBXzj5JA6bvsV4BhZeoE+oT6iSqRXOKpdNCmdBWbp5rJ+jYckgBqgZmv+u9c6xk5MdeRRlCOyFEunGNkKhCvs7AJ6v1ZS6JoCmopAvC97hKACSmUPv1CxiZE2HL4gYNcGUo5Fwt1mjYKLBbWYqGGJaIYeP5V3fHalQT9zNd6l2IZHRQ8ywoIRvJdCkEt/kyqbHgYN9w+P4Fa3FPpl9xfEWD01Mwd74mrXwZvpgFpO+jphJMdGsODKf1l/WeGb67Hu9/eM865CqwhtiRXPRSK6rUw7fSqdPv5kA9utLRZ7bjPcw9okZtEIwtG88rrO3Mt8RqCk6+T4sqbA/WuOufrVWMDQBa1Bl1j543FI4/0/wVd51v/HS8Gx8JKjz4CCy8N8OB0doZb8i6saBmODWMqYaJsgBaBylyzyh8qQLqrTsblRknfaW0EjD+JT7c3/WOkT5Irt5hnXEZlj8+CVYeTaw=;s9HcBy0x9bIQGurswwA+ow=="

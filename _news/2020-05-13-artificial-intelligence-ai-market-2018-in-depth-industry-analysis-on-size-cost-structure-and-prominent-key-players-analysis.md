@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) Market 2018 : In-Depth Industry Analysis on Size, Cost Structure and Prominent Key Players Analysis"
 
 related:

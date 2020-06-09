@@ -20,6 +20,7 @@ images:
   - url: "https://www.abc.net.au/cm/rimage/12224750-16x9-large.jpg?v=2"
     width: 700
     height: 394
+    isCached: true
     title: "AI Group back JobKeeper improvements"
 
 secured: "QrXTkW7gO3AZ7OiI/Izj6xpu9vJIq2xQyalQLBy0uTfQD5uEZ1Wk9uJlVSf82m9DrWmrZ04ZXFI8N3igDh4ZTNDMdDXO1SLbH/EI+ht88i+T0xSyH9RK+5JHuVHO45iPngLe/qxEsgpbjOzWL6lgsPFFAjwrPozomFq5lFe4LBr9f0tBE4WU8f91+hIUUDhuExXatNQmFCovBkDHmSBsEAxNEqxI9of2YdRZ/g1wGtO3oiAXJe0zMkBbdIxrOrbLxmVhRVydgBDyWzbIgzpJHN/9GywqKxnDYuB599fM4ZDw9YrygEUQsgtY2Mmp38ni;gVx8WewVZoXbWYMEF7r/9A=="

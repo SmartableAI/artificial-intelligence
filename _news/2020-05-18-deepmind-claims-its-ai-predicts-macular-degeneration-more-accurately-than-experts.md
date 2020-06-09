@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all"
     width: 1198
     height: 600
+    isCached: true
     title: "DeepMind claims its AI predicts macular degeneration more accurately than experts"
 
 secured: "JpZlEziCjW7pklCMH/wWM2T5kMMf9BabOe7N0FljxFDBnWwfxyYMBtZ4nY7TOvChksGSHzJPrsuDnbT6FpSTwH+gbrfyQjHGvRH1/CqAvXPFOReSq1nVfpizp/xiQBEP+Oi1HVFsVV/PEQRrttxR1XPOwd9JZFRYEp1tNIH99IID4l2nBGL1KEG+r2jqpFIyarE8kwPQBQlECHTSCYmqn3lzjituwgqyjuZwJGWk7u/J/Y1mmZr9aJLA5wbuNiqaFhZYbtUfWFVjBXjsPq8PV65BKAoPsLHHtX7zNUHMcZQ/HxkC2EVuUfSybXNeVoH5gZbBeqL1YcRGzl2isFim0MzdRdW1wIIeN7zdBbsCsDDyqFvpLa21P0fzuXatzRtEr2LD3/pASK9/FtOXtOnNfNo1OmCPHNkYBFDT3ggENE78qlgF4Cw6f6wDlA9V4+51sqFWjoSAvR0ADV8MsJTuDNXyG55FMrP3p/uocdF7dKc=;mmq7CCKM1ItiGYcrMP8hkQ=="

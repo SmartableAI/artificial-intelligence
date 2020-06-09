@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106555722-1590687344619nuro.jpeg?v=1590687515"
     width: 1400
     height: 933
+    isCached: true
     title: "CVS Pharmacy partners with Nuro to test self-driving vehicle prescription delivery"
 
 related:

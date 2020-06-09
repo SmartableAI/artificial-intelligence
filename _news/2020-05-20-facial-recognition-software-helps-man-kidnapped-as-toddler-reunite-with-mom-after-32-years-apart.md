@@ -23,6 +23,7 @@ images:
   - url: "https://www.insideedition.com/sites/default/files/images/2020-05/052020-mao-yin-1280x720.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Facial Recognition Software Helps Man Kidnapped as Toddler Reunite With Mom After 32 Years Apart"
 
 related:

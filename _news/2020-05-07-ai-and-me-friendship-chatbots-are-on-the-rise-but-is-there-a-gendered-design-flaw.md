@@ -26,6 +26,7 @@ images:
   - url: "https://i.guim.co.uk/img/media/cd93e24b9be96f0eb2c92574c6aa79bfca6c233c/0_0_1533_1225/master/1533.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc79359cf3584e1720a426392f53a6b5"
     width: 600
     height: 480
+    isCached: true
     title: "AI and me: friendship chatbots are on the rise, but is there a gendered design flaw?"
 
 secured: "8GJ0qTpI9R6boxYhL4zN+6O+hBZkSDT64SMRJNkpuakvBqFxKDpC+yYFmd9S/wgzrVWPIZLLVfWiuJouAfLUvKf34OTe2E5t1+zv9Dx7ek7+OK8Rwpp96xpJjnebZBU//gXm2pPi5L5GD7ohDTqMz8jmuTDXMDmEOQtyRMjuasR5lmVCOhFtJLIIoGTlH2jTfNFkJbo9AHnzroj8Lbl9YdG/jGoetRuvfqd0Ga2DRaM7in2lAvjbsITHf5rQ8y6+OTeRnCI55mBuKM229agkoi3qMIOz9xK/Pjs/Q44TyQ30aOgVwCk3HqmMHk96xpNNhUxtBgKPZc2Leq0FKJcMoFxaogRTw8tF3bDoEyzrusIJz0Fz7aMgoYSTjW0xP6TtZhMyhqdv7RzzmkHiDOmm3b6KeNPy2J7zIBYZr1lJTpivu+rDP2kIp2GqeiMISiGQ2xNNbAby6U3yewo8QCPSOOvwjAlnzTq/Vfxhq2WeppY=;KLy/YFlRLNkpxSMuHab4KQ=="

@@ -23,6 +23,7 @@ images:
   - url: "https://boygeniusreport.files.wordpress.com/2019/07/webp.net-resizeimage-32.jpg?quality=98&#038;strip=all"
     width: 1500
     height: 1001
+    isCached: true
     title: "Uber drivers and passengers will be required to wear face masks"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://diginomica.com/sites/default/files/images/2020-05/traffic-332857_1280.jpg"
     width: 1280
     height: 853
+    isCached: true
     title: "Autonomous transport - help the driver before cars help themselves"
 
 related:

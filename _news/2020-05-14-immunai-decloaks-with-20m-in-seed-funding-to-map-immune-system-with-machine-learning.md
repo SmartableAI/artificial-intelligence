@@ -21,6 +21,7 @@ images:
   - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
     width: 683
     height: 512
+    isCached: true
     title: "Immunai decloaks with $20M in seed funding to map immune system with machine learning"
 
 related:

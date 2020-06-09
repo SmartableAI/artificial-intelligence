@@ -22,6 +22,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Scientists are harnessing artificial intelligence and satellite data to predict blazes across Western US"
 
 secured: "83ufExQefTQ3FocxSZ23HqQIBfnvbmWCThVJDwvqhHpv/fX6I51yjCim63f2L27TDZQfbY0yMj76ubYNwPrXpwazOijCQlM/QOVlspooe6CEwdpe0rUMfs5kHGREsjYmSmzdKInl8Tg1Io+OOmuZo0o7uWXyU/rb+U4bKstnSPhgB40n+Xl57vpCgqAOqGc3bWo30nMwA4xPZ2wafliSuUzso8KW0RWRc8qnKPdukN2Zu7PT1SPqdMn9YtcsF/iOqOYlrqCdkkBKCWVqxc8H4AeCMjnbGsXoi0iMqqskTlLTfkGphAq10UPMnftAXQ3Q;69PzGFFToijrJ5TxFLydrQ=="

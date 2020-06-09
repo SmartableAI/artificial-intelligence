@@ -25,6 +25,7 @@ images:
   - url: "https://images.wsj.net/im-190401/social"
     width: 1280
     height: 640
+    isCached: true
     title: "California Activists Ramp Up Fight Against Facial Recognition Technology"
 
 related:

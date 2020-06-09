@@ -27,6 +27,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F21e1ce80-8f00-11ea-9401-66231619ed5e&client=amp-blogside-v2&signature=83f0352838237c7cb1538da3e17441a630a93a2c"
     width: 600
     height: 350
+    isCached: true
     title: "Ford shares a year's worth of self-driving car data"
 
 related:

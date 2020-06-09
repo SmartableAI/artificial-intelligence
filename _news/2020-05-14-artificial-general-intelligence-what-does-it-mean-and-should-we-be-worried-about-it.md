@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd1b12271b58000717ec43%2F0x0.jpg"
     width: 1200
     height: 943
+    isCached: true
     title: "Artificial General Intelligence - What Does It Mean And Should We Be Worried About It?"
 
 secured: "w/8vEjKZJg1gCL0ejJi1JANkwJj5buUy/kGNQ0bWDRCxiIvBzl4FQuYXOTnhZ0fgqtQ0QPr1ps1iL0CcyhOSXUaygA7Sm05wxun7FK/aDhkTkNJZlA0XCHi2WYvHdqdNkqKUvrkpSnzQF5ux0c1647/fMIZxm3D7QQVyQSLQj+iaV3zrS2fQCXWuw7+kvsMOe3nRgKGWI3rErA4I7xjDr4ndRQ7gxVFu3pksCM6JMvwuHz3hDa6auBI8uWxWlKZhfLrrOEuhJ7p2+TlYz1hIezz1MuCcmKNFp5HDu3G6innOa93bwnFeIRoCrjCGl/XnIqyzUPkUd3AMIX/FvJVxxP9XHFWBEGq27PItS8Q4dynAxUB5KrB5be6j8ZOPlE0KOl38Dh0YmwdBEJg9ETMsf7GGUX+p8YQL1Fm6X1NzOQJheKjcGjrykacSdiIyIK0/Zc8+TEd115cTKaD6iNYTv5N5IwHjdW/boT3GVWJ6ut4=;q+M7NPLOuZXNmGID+EDKmQ=="

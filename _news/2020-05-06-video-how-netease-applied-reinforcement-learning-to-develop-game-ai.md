@@ -21,6 +21,7 @@ images:
   - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1001105.png"
     width: 500
     height: 500
+    isCached: true
     title: "Video: How NetEase applied reinforcement learning to develop game AI"
   - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png"
     width: 465

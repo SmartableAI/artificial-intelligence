@@ -21,6 +21,7 @@ images:
   - url: "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg"
     width: 375
     height: 375
+    isCached: true
     title: "Dell Technologies virtualises GPUs for AI and HPC workloads"
 
 related:

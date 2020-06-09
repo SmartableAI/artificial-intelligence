@@ -23,6 +23,7 @@ images:
   - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-06/shutterstock_617148032.jpg?itok=8H0dyPez"
     width: 1000
     height: 667
+    isCached: true
     title: "Scientists Develop Computer Vision Software to Use Robotic Prosthetics"
 
 secured: "ZDRVbNBqpcjcErS5tA6ldDq5zan4doZB60TBBumhB68bPoOwx07AnZgPNwlMWg4KpxPAid1KHSvO3W0+wcnZ0FKThw3FF5B8rVT7OWAgHxsCzNKNu/VfNTrLzDUS6EGKTwez+QGl0mZYQVeigHJjNibQ+okwjosNbfIQQ9xsg+iKB6G+2RpWas1Aw9XlTI7neYCvGrUQ1Ij7NcCXMObxF8BmznsSX9q3jZoXou1rm3Y20LF6q5M1+hmxJ4JkDHzOG8ks+jO5oBppSyo0ol+L99sB7REuRy0Zz/j0RB/Tzswl7kG3/Va+FZD2RyJmKaZolJ68OhxKegGEvN3rG5qQZY4kWbTeMuHbxm4nPYa/B6NogwmpYUC/DNIoF6pQZIGILYMZiC2krhWNGzZ9fbAiD01TutIhCwl4VR91sZ0mLguuF6LO4XxNB88P29tIJH3b4AyJzkN5DrEmJcpUgLn6+3C++ccQ3rQixPwyp5wC/a4=;U72RicCPXI/AhGdEAGYk2Q=="

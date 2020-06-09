@@ -23,6 +23,7 @@ images:
   - url: "https://www.inquirer.com/resizer/wcjK-8xrRsd_mcBql13VnAWGX5c=/1200x0/center/middle/www.inquirer.com/resizer/54WNhlTqqsbNDDcicOaVuw3XrBg=/0x0:2556x1702/1400x932/cloudfront-us-east-1.images.arcpublishing.com/pmn/6Z6K3GYZTNEERP32ZA3NMGZFUU.jpg"
     width: 1200
     height: 799
+    isCached: true
     title: "America is awash in cameras, a double-edged sword for protesters and police"
 
 secured: "hUDfZa+ZWCMRIsIDH4RBT4Rk436p+3/3+XxgoZYq5wBETuWVnc667e7dGJPfujJ0FRfBM7PkXWkYoCygZ2dcn7EYa8UxyC0MuCfzbAeDl/WBgmQOUW5CauNNQn/iRUCtUAd/oPn0TMV/rWaoGbNeCIClqgiR5MuXyIhdyob66Wa6QE9uY/bYMdD0ULWxyd7yQJn6mwPBdHjViRKIR3dHG1qLprbeAu+0iOvfbyvz96zrBNknYd9O6uNWtf6Gw5CkJFbC8dpQINtwHffnqFKCAzSF2Z3PAyPMQFIK00yhOdT3XnSZz0NKN1JS11ufaZNk;EfVkfhlTA6dvmjWZzSNPow=="

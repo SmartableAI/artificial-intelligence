@@ -29,6 +29,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "The Pentagon’s Joint AI Center wants to be like Silicon Valley"
 
 secured: "5FaUgGbNu777rfNiVcg27C9p8TQoyl0uSprG2FVkXicw0EHTyQIMaVCosZZwWQ6oiUXhz7a7taIZCgyT2aWyN7cVdsSkufNZuMr0xvquqRiQIPaRlSch+7xDj6/NTzb6PJqBOzjye31xEOtlI0WKWksDlA04Wxftx83AQLyQh/ymPWa1CLLMOi2GGsnB2EquxMMn4qQxLMPdnDc/tCD1Z/6o4BoQYHPL8JQ2nREzvDCOXlSoXDKAXkcDX6FJ4HUS1Fyjn4gDbbOMPdBBOYwzYhpWlZ2jqyNi/sM5sgppUFkUJkkFFJwatvHL0VzQCkDEuNSHOLxoIVQ08TI63dmE6kwENY8SvTCWw3pCnkSM0dOygRlcTAsyNTWtFnlGpZi9l+iG818EE1Swz8pqHzo5nd8Cq8jTijJKFC4/UYfNbtebErD20rBa/NGNsy0qg5uNs7SNdOAHycueGwkvknaXx7LTrjVYp59rGOoQX0y5Nw8=;4/1LxbIczHYQ8REknyeGzQ=="

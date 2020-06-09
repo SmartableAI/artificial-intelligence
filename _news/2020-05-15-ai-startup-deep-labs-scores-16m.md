@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/finextra-images/top_pics/xl/satellite-dish.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "AI startup Deep Labs scores $16m"
 
 related:

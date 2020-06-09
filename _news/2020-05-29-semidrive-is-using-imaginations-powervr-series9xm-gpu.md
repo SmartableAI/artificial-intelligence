@@ -21,6 +21,7 @@ images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/1fa61315e52124fda189541c12c9d6a4_L.jpg"
     width: 620
     height: 429
+    isCached: true
     title: "SemiDrive is using Imagination’s PowerVR Series9XM GPU"
 
 related:

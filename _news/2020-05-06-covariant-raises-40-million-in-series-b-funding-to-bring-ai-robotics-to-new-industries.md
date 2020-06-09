@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
     width: 2695
     height: 1414
+    isCached: true
     title: "Covariant Raises $40 Million in Series B Funding to Bring AI Robotics to New Industries"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Microsoft Replaces MSN Journalists With AI Robots"
 
 related:

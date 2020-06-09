@@ -22,6 +22,7 @@ images:
   - url: "https://dur-duweb.newscyclecloud.com/storyimage/DU/20200526/SPORTS/200529776/AR/0/AR-200529776.jpg?ts=1590506435&imageversion=1by1&maxw=large"
     width: 1665
     height: 1664
+    isCached: true
     title: "World Anti-Doping Agency looks to artificial intelligence"
 
 related:

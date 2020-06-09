@@ -20,6 +20,7 @@ images:
   - url: "https://www.abnewswire.com/uploads/1587327365.jpeg"
     width: 3300
     height: 2550
+    isCached: true
     title: "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas"
 
 secured: "UxfHaOVWn3yM/yaGVjohlf43CfqBtlmJGwF/d12fFtnkQ4IqBQKPKAZ/uLwOMxFlvYzqiV3yciOqk4zzKzj1pFKQd7TKlzlhdHSs/IZQCOAR2noG24QNcPVeD2pBDJjbPzm/9EhIxlBd9AApgusSVZmyZ33ezkt6PY5KHDoH8Ue19Jl6rY0KCjAxdMAdoBP1VHVHhJmzEwZ/H8N9jHxB6C7Em7Q2pWFMYe/zkyAjbbePObmgcx8B4wvCCvYXZvhFjt6ZDXeH9sZHIjYmxHKIRKWprqc8ArehFwXiE6pKrppSKzP8VfoSXvn7IkJQtpjx;SADFPVuKWWbzStAxkrDrIA=="

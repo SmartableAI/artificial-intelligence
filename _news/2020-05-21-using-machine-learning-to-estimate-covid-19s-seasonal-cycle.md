@@ -21,6 +21,7 @@ images:
   - url: "https://www.universityofcalifornia.edu/sites/default/files/street-mask-walk.jpg"
     width: 686
     height: 425
+    isCached: true
     title: "Using machine learning to estimate COVID-19’s seasonal cycle"
 
 secured: "/YZnjUF9CTW5erJ51ecCF1NFeVSOWUBDt9LA8+0GwpQpc8Q0UsiZifoePbh3Pmi+7IbJuPr6YHDium+mB8zeHDaLzANLGqCk1Cj5Ij1WxGgSzUIswkEUkokvD1Phy6wQgKMPuI5R0tUqIWt4nSzcSspnGXPH71j+pFKCghHrVzaXtaZyyLB/8l2y2V6fBWPbU9QQCduHoke8qDN8mU7U54T+hCHIyPDoF06g57uWRFQ/FySRIL/6a5FpTG0ZnblbK6sOjr7IdqSai0kQb+1NKk7A8L0EQ3Jm8VL1OvhQOU1nrPvTN93wJHXNzl+N8qsNKQjXgyRFx7z0zAgsE7nSw4kyudFE4YBgC0zHYLQK3lcJ4wdxnhjorDngFw1yLxPodZmP8A3La/0qG5bvvQbgKVGIg72z77dmDpYPfuDrJ9uSelazNDctRUvV8oazJYF3kaZf+rxxlNb1wNUYrCLOPqWdO7es0zgEzwdzI+dAICU=;fs7JDzW7Z5C1MTBAOrprqg=="

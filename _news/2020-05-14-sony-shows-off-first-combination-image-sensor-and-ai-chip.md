@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/sony-ivs-1.jpg?w=1024"
     width: 1024
     height: 576
+    isCached: true
     title: "Sony shows off first combination image sensor and AI chip"
 
 related:

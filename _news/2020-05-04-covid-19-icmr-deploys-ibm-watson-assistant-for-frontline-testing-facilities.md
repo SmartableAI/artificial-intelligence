@@ -23,6 +23,7 @@ images:
   - url: "https://images.livemint.com/img/2020/05/04/600x338/2020-04-21T024203Z_1_LYNXMPEG3K05E_RTROPTP_3_CHINA-CYBER-CLOUDHOPPER_1588605943268_1588605955457.JPG"
     width: 600
     height: 338
+    isCached: true
     title: "Covid-19: ICMR deploys IBM Watson assistant for frontline testing facilities"
 
 related:

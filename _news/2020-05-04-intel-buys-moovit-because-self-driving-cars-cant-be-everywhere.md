@@ -27,6 +27,12 @@ images:
   - url: "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg"
     width: 1680
     height: 946
+    isCached: true
+    title: "Intel buys Moovit (because self-driving cars can’t be everywhere)"
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg"
+    width: 1680
+    height: 946
+    isCached: true
     title: "Intel buys Moovit (because self-driving cars can’t be everywhere)"
 
 related:
@@ -46,6 +52,6 @@ related:
         width: 1613
         height: 913
 
-secured: "KStCXOqFJqzcXPSAiStv5y2XHJNyzG/8Z6EMRKn2a1do6qfYp/Fi/lrVLZk//NMqYHKCZo/vpIWhb3IxpVecrzxqw8o0cVkhnCZdAolB4C/6rRibS7k15hjaBMtHsE76rgcNG78Y1xv7ImNYz2FtljNAVYPtoMUH8+/kqo4446oh6pwqKJhaKJCzFbLQ7ad4v+gHJuNlUUTMeIJ0bMD6mnJHz6CYx2NJYWDWEMCTDjy8Y5RgYRdLXe5g0jtaVZ4TR5I4Hh2nYNMscLHJ/KA0TA5A8wEwolMnCACy2OfRHBsmjF7furldwR8zVhC9sMkKe3mse45gBBclRq7jWj7O8T++rB6hSN3JL5LnfFzDONO0a+VO4daMujvz7Z+tn87/hLSFe3E39ZMwQm50sCj6Nd6OMMRWnEXb5aoP+/DNT40w4tS7WQIpKK3yN/y7Q3ouMeis++KMo9z93ACFJSTkTPFRicsxI0emwVzKoexsBlc=;dxqBezxI7MD23S6prvNUfA=="
+secured: "zBSNyG3nmlNn2KcQIIBtCOsJThFkl+ajbblKQM0bXxm8DntN8xQ09QcmRqFdVXDk1AFJJ9r25J9LeSx4dODLyqfFrhq1tpAOtJSzu+0YVtVvMcP/r9KEhA4RwZdrAZK+BiD8CzY3jHkzB4l6t0rMqeAEx2LH4J/U22YjkH8Cx77qubaM+0o5hFBxz7VqkzXCT0G56pqRidelJnhE5jCL0V3qfTrv1u4cydDywgz8wKfRnrTaGrEaEP1Wp8D+Q9Vc/QZOLft2Js/KLLmM0KUrk8Jt9THmW+r8legmNtmEbvVR6wJe5A8yqAoF6ZJiCXCV;uJOy8FN4AkOdCjLvSQpt9Q=="
 ---
 

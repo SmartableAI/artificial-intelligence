@@ -21,6 +21,7 @@ images:
   - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
     width: 444
     height: 333
+    isCached: true
     title: "Supply Chain Startup: What startups bring to the party"
 
 related:

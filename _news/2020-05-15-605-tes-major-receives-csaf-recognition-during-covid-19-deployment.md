@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.dvidshub.net/media/thumbs/photos/2005/6207987/1000w_q75.jpg"
     width: 1000
     height: 771
+    isCached: true
     title: "605 TES major receives CSAF recognition during COVID-19 deployment"
 
 secured: "WKSP3ttctNfcCLEwmbtttAIUubStUCdhopR61GOLqCLX3ycqfClz8OQmdkul/Rw86gUVqkMxWlp4k7jzwgvkNYVIW0+lOxI5p+Lgv6j5mICNZPLloZ09/UdfrJKfRFNKtsDCIbbAO1P0x5MJebOcmp39hUQhAuT29HGmf5wP76PV2sDtalBCQBmeSs9J+NVlkbtXsqATaXJ4zO0k2YCNcxqPRLm6euh3fPsgqaYEKsFXfDnCIrwK+86yJ/jlWsyyrtEBQT1tg8MYIP18HTtsTYKvJ5E7nEWVPBuChCWTI6J9mpqxB8a6PjrxTSdRTQ3p;SlD7nuX7QxvuAH03D4mKcw=="

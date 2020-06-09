@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/AWS-Summit-Online-May-2020-Werner-Vogels.jpeg"
     width: 1200
     height: 612
+    isCached: true
     title: "Watch live: AWS Summit Online goes global as cloud proves vital for COVID-19 business survival"
 
 related:

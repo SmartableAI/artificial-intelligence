@@ -23,6 +23,7 @@ images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/05/burger-king-coronavirus-experience-CONTENT-2020-640x360.jpg"
     width: 640
     height: 360
+    isCached: true
     title: "Facebook Removed 50 Million Pieces of Covid-19 Misinformation in April"
 
 related:

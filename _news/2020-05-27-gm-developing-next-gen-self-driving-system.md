@@ -21,6 +21,7 @@ images:
   - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
     width: 622
     height: 318
+    isCached: true
     title: "GM Developing Next-Gen Self-Driving System"
 
 secured: "UNMsLxmrMwysCOhs+G18yNrW2/fMMy+Gxe+6gkcex5xbbxmicfMIFYBs3C3/PbgtE+hrZ6KpBsQlJgD+N7RRQd7QRqwmIj986Ew1P66GmrxV0mUx3DbvrQIfg1eBZ97QaYNtY6DIA84OlJjrm2jBJ7Bu4/hA9dVt+UEt8oiITLlkyB+WNIzfJB3YqYbr+5uDaIwPwynYXGgmlVHyjzDoEaFNBap6SHUaTTxI2iFDcj/ja/Jj/H/tcuqUsdIE3GYjveyYL0dzHewtIYlnxUaToJfsAASc1odySvhIgcqrTQGkhGWSFvTJXyIpacaPXUWL;zo6nyNV5r6wGEZ3Wx0Tv2A=="

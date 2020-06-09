@@ -27,6 +27,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "CVS Pharmacy prescriptions go high-tech with self-driving delivery"
 
 related:

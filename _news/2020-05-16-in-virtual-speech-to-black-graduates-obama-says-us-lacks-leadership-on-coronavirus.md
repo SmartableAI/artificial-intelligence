@@ -21,6 +21,7 @@ images:
   - url: "https://media.npr.org/assets/img/2020/05/16/ap_20047025636189_wide-383f5b68850ed66aff7b98e1aafa6c3344135b73.jpg?s=1400"
     width: 1400
     height: 787
+    isCached: true
     title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://patch.com/img/cdn20/users/22905317/20200507/035618/styles/patch_image/public/autonomousandconnectedsystems480___07155544419.jpg?width=984"
     width: 480
     height: 360
+    isCached: true
     title: "Oakland University: Defining the future"
 
 secured: "JalNQaxLB8oMq3XML3hT3S8sHDr94h0ZUIPh/wqVhanqoHjM3YZHDIxWxINqNzNIWs6CBOMz/pr55v/ZmLg9bLHTsWCN9lLhRKe/DN4a76aqFtxMj1LsxkmrjQ/a5NFcz2ww7/kmqHZdy64Jzi3dY4BuM4bHiie0KxnLjnmODeiQ1ndADu++NfSk6llFpXOJ/MMuhTtmKP9OhiS4UGohM6K4EM8w6Faf+NhY2nuPsLTEQm0zkZFK9vzDi8gFF29eWn/lvVopKo1yZWtwXOJDvwGn1YLNbCnaPRW9/XORd2uWlY7npQ9WTQmkdZOGQDvZ;J1OZtAq/IXC/hRLjRkOvzw=="

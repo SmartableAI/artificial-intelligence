@@ -20,6 +20,7 @@ images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/Keelvar-Team.png"
     width: 800
     height: 600
+    isCached: true
     title: "Cork-based AI start-up Keelvar raises $18m in Series A funding"
 
 secured: "tqY+VzWEeq/a+67XUIWjJaYOgI534n+7AEKV4xRS1/yEKGd2Ond4ZjOD/EyQ0nHnai5+pg5yYsZPhQ0YSAU3uW9ndzNQ0dvyo3OttLhaOZ+XNBXgpw5SJbRjJ0gayPLN5Fcl+jfHfzXtkOI4EwMsU0aAmjWoFc9CYt60jLKhnTN+Sj6m9orTAGeBJVFjzlxpxdLko2cSWv/8uYrCHczB5d4eYrzyReY2TQgAOgpLNDeqRtB/F4tF2vgCG6AGVUsOmgFy08aRub6rEA6MOD73txf3su1AR8CXiRggjKn//8nzLXPJANlUvqc9Z8kaTrMh;TbV+o92rZnayKk3sj73o7A=="

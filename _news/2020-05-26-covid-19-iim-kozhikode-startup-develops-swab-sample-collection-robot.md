@@ -21,6 +21,7 @@ images:
   - url: "https://cache.careers360.mobi/media/article_images/2020/5/26/650x400.jpg"
     width: 650
     height: 400
+    isCached: true
     title: "COVID-19: IIM Kozhikode Startup Develops Swab Sample Collection Robot"
 
 related:

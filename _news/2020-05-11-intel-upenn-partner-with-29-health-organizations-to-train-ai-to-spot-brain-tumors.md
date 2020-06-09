@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/07/3ca19d2a-04ad-4c32-b096-900cd093171b/thumbnail/1200x675/19cf25c0ce3f9318ef3b6c6f9d5d75bd/steve-mcmillan-280x400.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Intel, UPenn partner with 29 health organizations to train AI to spot brain tumors"
 
 related:

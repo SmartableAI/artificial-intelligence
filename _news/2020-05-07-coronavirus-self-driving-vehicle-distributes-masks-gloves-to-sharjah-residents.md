@@ -23,6 +23,7 @@ images:
   - url: "https://imagevars.gulfnews.com/2020/05/07/AI-powered-vehicle_171ee14f7d5_large.jpeg"
     width: 750
     height: 563
+    isCached: true
     title: "Coronavirus: Self-driving vehicle distributes masks, gloves to Sharjah residents"
 
 related:

@@ -20,6 +20,7 @@ images:
   - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/621145947/76219803_nx_platform_release.jpg"
     width: 1800
     height: 1200
+    isCached: true
     title: "Aetina Releases New Edge AI Computer Powered by the NVIDIA Jetson Platform"
 
 related:

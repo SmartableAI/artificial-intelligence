@@ -27,6 +27,7 @@ images:
   - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/samsung-galaxy-s20-logo-920x470.jpg"
     width: 920
     height: 470
+    isCached: true
     title: "Remember S Voice? Samsung is finally shutting it down"
 
 secured: "ysy6CkBeAmQ6RVxxBmNBW9hcIHTFR3ODIGL0++pgQSjyeDr0FJfDYNyFnxyk2qSeCVHCZjwZ0OzYyseRGitaNm1XKPAPwE/JtqL2aKr1EttaLLcQegUP/ohC2bCaM31XCR1XxOiVxGI54S+Jpe/SxYR8EuAEQ5YxtB4HM7A12wtlR8DnyHepAVXQtYdE/Px5P1xl0aZPcYlPVZr+GUQDkftPj06hYjapZ84EeYZV3jasjc3GIxSepc8Ym+G9FAG3lwwFMFUXhbf2g/rdTL69y0bZ5glSoRd7parvi9EYXxJPOVfJIjwz95UA48VMA4qzNNXt+htwppEvx+22XCPO61TdCdey9eelQz1JnRrBvaLJuRYus6O+H8yJXolJ7muEMpo/UKHcBxE6W6RLew6VgDXRd9euEiXmIBQ4iAu83U4nDLtOY14uySn35trWVuypD2wNG9IFutTAw6GBIc7mGe5zNYuAEOswdF/oTT/9NJM=;fSDo1GqOryhWpdsOiYX1Bw=="

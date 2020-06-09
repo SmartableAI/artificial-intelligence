@@ -22,6 +22,7 @@ images:
   - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Coronavirus-Paris.jpg"
     width: 761
     height: 412
+    isCached: true
     title: "We designed an experimental AI tool to predict which COVID-19 patients are going to get the sickest"
 
 related:

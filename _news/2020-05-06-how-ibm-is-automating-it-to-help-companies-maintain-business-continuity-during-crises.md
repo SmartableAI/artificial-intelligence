@@ -25,6 +25,7 @@ images:
   - url: "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "How IBM is automating IT to help companies maintain business continuity during crises"
 
 related:

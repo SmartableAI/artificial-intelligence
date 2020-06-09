@@ -21,6 +21,7 @@ images:
   - url: "https://www.bobsguide.com/images/news/79566.jpg"
     width: 500
     height: 375
+    isCached: true
     title: "UK fintech investment up 500 percent in five years"
 
 secured: "wFXaNpC65eKQXSLZTLrUG7sXdM7ZyQQB/P+iX6hlSbQX4D5NWgEbBUGeS01AqH9VpKwIDn9yZI8zEeeM5UQXaCFtB7UEXG/PlTzLady674YAx9YFT2eZ6n/CAT7rNbu+Bw8Atv6wWxprkM4COTqqNQbjBOfKJkqbgiPIH0mnYsi5Z7qDOXgNbwIUPHabp1qbXapvRSUlHAMZOXR6jYlLZE40vi+Ddq4rVReOHECZjjhfy7n5e8fjeXyC3eS9FQiWABD1mHN4gAS+GxK1re/vKZDEa8792sRjvz0ndZdR0jvPmC4zjw1T+U2Gsn2yJMN9TYl6RRQcz7TVEHsJPLsVUG0zM9D+S0NRx7q/csnLWM0GMMfDvGCIaAXlBc3iN6DmagtKrx7QmxBHhXtIJ57Ss7ut6z2yZ6q08N0lA+bQOTlHLs5vcK+aWvPeo4tHHMwUHzvMjmPWFQBxGVfS4dwjsP36xNAvU6KyiycIpU57/4g=;AL9Ql307hF7JAE+Cz+j1yQ=="

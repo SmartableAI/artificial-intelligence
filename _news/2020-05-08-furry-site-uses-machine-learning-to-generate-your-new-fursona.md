@@ -23,6 +23,7 @@ images:
   - url: "https://www.dailydot.com/wp-content/uploads/2020/05/This-Fursona-Does-Not-Exist.jpg"
     width: 2000
     height: 1000
+    isCached: true
     title: "Furry site uses machine learning to generate your new fursona"
 
 secured: "pezx4BV72vdHaQbR1E40aCQ51UrMjjkZALxn7LP/vK35IEWDpKX+NwuxTohNmsMAw8FEDm094ZwhJVq118nPgo77dHwthPo6ThrqlDBlMynEygudLjS49x8AdmxbLKt//fdOocU8mgSVcUKD2BZzzRWBy95oWwZWTD/NgZTMejI/IQiYjFalyPwfUV4SHToEyJIu1DEzLSjaVU7j7sU8T6+0O6wZHpEf/CUN/7aqh0krGb+6SftKYFOP5C2gdLZ4Phj+2XbJYdvjUnCMs89TdApMd2rntl9BDA+af1/YLrVCjdKzegteLCCUQvT7tNsjwVYb9sr6KRxx7R9McEro6G0Zr6BSFEV19x1oJv+iimIfxIwe4oZg2v5Ek9PJ1+pXRlg1mGLN+SM4fToh5/VMIzU04jOEGIxXpbYmqtOfgqjYD/n6F+8JgNDYJYTa7eGWaPrXK7/VLmGCm7ic6eEQyYsRkx0mBBjcXkh8AOyccDU=;mES6svaed9rgmcQmt9HFiA=="

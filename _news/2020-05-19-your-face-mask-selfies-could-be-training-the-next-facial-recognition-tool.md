@@ -28,6 +28,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Your face mask selfies could be training the next facial recognition tool"
 
 related:

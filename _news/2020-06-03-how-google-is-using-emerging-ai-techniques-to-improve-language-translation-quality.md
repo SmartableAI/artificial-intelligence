@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "How Google is using emerging AI techniques to improve language translation quality"
 
 secured: "rKlG8/NNb0p07V9S7cKykxILx4EGY1jUy5qZGQQjMES14yl5st67ugj3PTvKqEGGQSIPNUeLnu+ivfmUTjy8opSH9fbQ7SAssjSPdH78NWv42+NNQ64MeKB1tXFpIh8WwmA7eLRhRbVHXwhKIuiBOMk6KGbsU9f27Hpg0JLfhcQZESY2ub9yoTwsS91ucQ95jJzToNSKj38uizGW9FceAGK+XwrgPsAW2HoqHq/UfIP3xj7I0GAtUs4f8O+lWwXuKUDWP1kEazUbH0oVf6/ZTIr7UHewMbZbmGaK7mJ8yUu7aULwylcEYhDlUcV76DbLgBiJOl3/RdzydOszpqvOrP2iHyMetAoi8ub/fPFHc2D0GD/7Azz+SfgtoAGarjg6vxFchU1hAeqLFVqdoS3ruk4SNzIsKxcmiL8sHmbnH0RstCAEZ4knYkkLuA2fFriOHirhvCwE4NI+x3lpc5nhCZWboUWAqhbvN4SrDJDbh70=;blq7zdMvie4TD40yUgrCBA=="

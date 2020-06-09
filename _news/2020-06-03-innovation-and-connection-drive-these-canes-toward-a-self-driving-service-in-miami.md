@@ -21,6 +21,7 @@ images:
   - url: "https://news.miami.edu/alumni/_assets/images/images-stories/2020/05/ford-alumni-940x529.jpg"
     width: 940
     height: 529
+    isCached: true
     title: "Innovation and connection drive these 'Canes toward a self-driving service in Miami."
 
 secured: "Zkh2Habwsrpr3Bg6W2adYi6pa3s0ezRYnrN4y4vmHWUa+ESwtA4Nkc25ZwnSi4kIJodmYI/XPIZVLNBS+FrP1o7jPvJW91UQkUw33CiqiX/WClDo4RRKxxJtG8zOwN/xnflRT7Z4I2TrTYNr4hBapC7nL8/EJEux2+CUPfiyCuS+6i7UN7LwJjAW20AACCdkcw54IY+ibLnXmG4i9+d8BuZiR3CBUz7UGNJ1RCgcEew97ZLKpcSvPU9xuCdfCI+Y5/VAt0y6sA1/P1jKSNGBLAyMw4R1S97+flWm5rqPL+FP26Cf0Bhc894QK4wzM1BDAFuXFzr30tJaWHhdBKB26MJwUwtcuZmYSnvxA2eXqWPs7nRcQ/Y4z5qVESC8riw0fwuigI2dy0/3rpUdBnpeC3SYuFOZnAY4a4RYVfqr3XaDZu6sA3/rIHbl/XWPXTG0OgQy5FD8L4408UVL9+K05/gmnXOrDa4DC7mmd3+b9Ho=;sB83/gx7saFDbfM9Y+to+Q=="

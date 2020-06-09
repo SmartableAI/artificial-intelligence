@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
     width: 580
     height: 378
+    isCached: true
     title: "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\""
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize"
     width: 1200

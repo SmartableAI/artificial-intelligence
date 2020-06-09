@@ -23,6 +23,7 @@ images:
   - url: "https://www.nydailynews.com/resizer/CD6lRlEa8MoFIEw5ALb-jQNXzrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/J5FAUME2GJC6ZKA6UHUSMFVIVY.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Don’t use face recognition to fight COVID: We need disease surveillance, not a surveillance state"
 
 secured: "ljYnKTPLSSudrJP8vXIOC244Pj4xnWM9ZMD2EkTZD2g15GsND+nJVQmTUtHLKVcj2+LbYI71ccQ3/e5Ht/ck58gz30iHq+60a1zjdQsdgfnGiICD5++IPnZeqGhI50exR8SntyFiaLzupw0dh7Qek+4U4rkFb/6lrlws7FV8YjtU4NQ6gpQkU1gbe21Fi2MhtI/nV/l7jJ0/IOjuwrd4Aapq/iwCKuW624am3n/adHcmcmNNOVBKw51aY9VyRjTBLwC7WTX3R8TsinTbzI1BarcwmsFlE3rB66n/l2kwVyLFEt8AeYLobnStEgKWOwdFSF77y38VNTmNA8VKSmEb9ZatiMCl2K01An42wvXLMbIGpTH0nauDeLJm5KTXMi483L8Fhj9YPuJGOg+0QsN5gIgwTbb9e+wBUCyVu/meQG7oyJWmq1a096O8B7g4hr6e0PJvSVviruHJGQ2G/qcyL6NmA5+TqAtLN0ymHYMt3/o=;+XquNF/NSJoma5Db+8likQ=="

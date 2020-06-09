@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/5av4IoZlR7WwWz6z_6O7O5QryTo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66817004/acastro_180522_facebook_0002.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Facebook’s new AI tool will automatically identify items you put up for sale"
 
 related:

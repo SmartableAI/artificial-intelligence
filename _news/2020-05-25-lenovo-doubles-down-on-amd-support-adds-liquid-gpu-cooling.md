@@ -23,6 +23,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
     width: 1200
     height: 878
+    isCached: true
     title: "Lenovo doubles down on AMD support, adds liquid GPU cooling"
 
 secured: "ZFadv1Ddil4akH5c8gCfpRkSU1hHN0l7ICZQz71CEbzKI7GLhYug/NibcoyhkLaE66ztHnTdH2EfvSE3GCaUa9JmfVGNsZdpWtZ/XNvJ2ysDc4XkWtwX0gvm3IHtPRWvzP/spytrHuVs34HTOkHofyC2oICW4qhSseKRl/YmDaHQAS8zqZAzvU266jc0BpDmprP8DgS6kKRvSrtLPKFWpesGR5j2PmNBd8xjrcZypa6jEWgv1QIdzhfF15bpoY/O+RlsbeuzyvK/ZodQVVX+q2bGrBgLCo6x1RQMQ4ES40/bv7mhBQo71Efs0FMDf6k6;ntPoMmuCcAM+tKGkMN7sXg=="

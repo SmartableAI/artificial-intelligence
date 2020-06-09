@@ -21,6 +21,7 @@ images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/intel-ceo-1.png"
     width: 690
     height: 449
+    isCached: true
     title: "Intel Goes Heavy On Disruption, Invests $132 M In 11 AI Startups"
 
 related:

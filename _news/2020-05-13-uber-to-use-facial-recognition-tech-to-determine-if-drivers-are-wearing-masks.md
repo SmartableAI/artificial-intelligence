@@ -24,6 +24,7 @@ images:
   - url: "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg"
     width: 560
     height: 359
+    isCached: true
     title: "Uber to use facial recognition tech to determine if drivers are wearing masks"
 
 related:

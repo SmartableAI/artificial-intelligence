@@ -26,6 +26,7 @@ images:
   - url: "https://assets.newatlas.com/dims4/default/c9d8663/2147483647/strip/true/crop/720x480+0+124/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F67%2Fc1%2F963214b54c418741f253bda1a026%2F230757-web.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "AI picks up signs of glaucoma 18 months ahead of current methods"
 
 related:

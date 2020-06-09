@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
     width: 1050
     height: 591
+    isCached: true
     title: "Facial recognition deployed for ATMs in Spain, POS systems in Brazil and relief payments in Australia"
 
 related:
@@ -37,6 +38,7 @@ related:
       - url: "https://nmgprod.s3.amazonaws.com/media/files/df/b6/dfb6dfc0be7061ddc2bf22510021e67b/cover_image_1591648133.jpg.640x360_q85_crop.jpg"
         width: 640
         height: 360
+        isCached: true
 
 secured: "WB7f/SERvTyNvag1cQZyT2afwgYhR1ywvgv4TxgS64LKyUG9aFlHMokgiu8dzDH+zM9OTK2GYt5cEJwNrB585MyCa18C6aq8NUAPSGhzMlq4Z3kjdS4ZSuOYgrsOKgKn16cUmr1/YLS6vjA9WkxoPbQ9DyHH3Tg3GeNuExoR0AKJt69UIK/FAcHQZ54nAljXIyATtcjsVE1ZUI444kwEBRvWskUoPIJyertK85/3gi43Ew2bQcsPberSAHBXPbYYLAhkJ/tkNHQt4TpDcYTbhWLXSAUH/hpYWqRznGAzklYlzqmH7POVQzDNHK4m5taciS0S0UwU4CqJRF+9es77on+ciCTZihGbw/RxnO2/gedq66WcfeMtE4wgbpJie/oAT6mIboUQpqP83V8NwT4EBYtFJIY5yYgUtrBr+L9ar6Rodt4wEb/e/s3f9WbRoLQ9h0irIiAUeV06SkUJlZxGldEVGjTnAT0K5pT+9WvKxfI=;ALTzpIIPR5VtHanhjypDQg=="
 ---

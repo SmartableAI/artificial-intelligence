@@ -22,6 +22,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "MBZUAI announces academic year to start in January 2021"
 
 secured: "MlZ1E2BUHsT80jpYAFNCmYzVZpjamHfW0uFLMYq20qxeXPYXsIPfcuW/QU5FKNRwIvuzW+4vLPyQWa+GwuWZrRr+fModvow1PIZ0PWtPeMjGFv7UrEe3AUkiI7VHMiIIHIk1Ti+9zuS1WeswKMxoSTiTHznPrdaGCZseBPD3w1m8yTSM3HEsW7PybqQCWyFUg2ZFLifLklSHkTUG67Q+xJO5lo6yVcx+uR8mGCZ7y4SsH0/bGCz4V5UY7v/j341W3THSU9c3+rEXYOB9BLlwMIHwrjpnBERrla48qbskp3acrcQ7sX5cldF5V9SWJxCx;wJhpjEs5ELG/6k6rqJNWjQ=="

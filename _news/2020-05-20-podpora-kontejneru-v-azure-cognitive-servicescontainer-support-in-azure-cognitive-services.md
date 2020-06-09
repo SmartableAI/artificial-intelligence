@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Podpora kontejnerů v Azure Cognitive ServicesContainer support in Azure Cognitive Services"
 
 secured: "605goZsy0sEuoecdRlZAt3c4aCifEeBQ9xdf6TC1+vA1/4aFHCbuwK5hrGal8RBoZMme04ejebyRHAKANjbD5nPb+zkhWSpeZ+wCDi44Iv+IV5LYXHB3WksrJ2aJGjB+QLECTyM7BuQTvRq8pfLhTM3tQmw1VDQ/2ViX5+lnkyawZG6zl7NonL8Nqadt74ACReX1MHxF291TslkTMNT92dU/KifJ4kXaCWqjwEozWrsCUqb7g5JxTJTpRdamkGF6HFwTey1jVHJ/UN4uANJ+Bl2GA3NCuSAIH6Ra9QNyI4vOWCS79TTz3p83YWLCg51V;WTsE/6FpIIFAcQF5V/BneA=="

@@ -22,6 +22,7 @@ images:
   - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
     width: 1667
     height: 1667
+    isCached: true
     title: "Can Artificial Intelligence Predict Glaucoma Progression?"
 
 secured: "fe/dp2EEFf7Tjw8jpkVA4ILmap3zqXwP7l8OdMhUJfOrNBBKdDvBQwgy7ECqM6aFl93hxCSEEUJIvH1pGV0YlV5IZkVoRRy3dAF6cZb5DJTJKLsUtSY/n0JLuKQdAfZ5cFKsQbNGPZsZLSJc0D8e8MCEf/X5F80J07o9BXNyU6TaQXlUs6D6Q3UhKLLTdmCtbqhaA3Yg+ZhqB6V9GBHxnsJRDNd4V4mHUvtxA88y0tQNLj8L0nMu3od2tnxU5D+qM7/l2AIYWnMcKAKoi/c0u9aopTuzP8Gx0jBk7f82K4Vtcin+A4wE5h+ewXySv0Te;QM416pwhvFNabs/DRXeV1Q=="

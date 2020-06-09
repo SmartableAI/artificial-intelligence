@@ -22,6 +22,7 @@ images:
   - url: "https://images.moneycontrol.com/static-mcnews/2019/06/sony-logo-770x433.jpg?impolicy=website&width=770&height=431"
     width: 770
     height: 431
+    isCached: true
     title: "Sony announces IMX500 and IMX501, world's first image sensor with inbuilt artificial intelligence"
 
 secured: "gMJukKuc1kjvQ/n21iQCJgz5nMOQU/oNyXS/vNPygPnh+AnXqxBFTLGTyHaT9QvZxv3Sk+red2MZsCfyMR6DL2pW8UchDTY87HFoDGu3nwjdexb2nKPHTktb/w9bVz40Pww7FLVrAJM1+Pli2VG7D/TUzNtyMZPsqnNgldzPew7LA+gQbnMQsmOer+rmMbhCfCAcHoAGeJxJsurG1oyV64lCyUM/7q/daw7ehzJw1iGWj3JfAEV/t8Zc/29CRS6u4QcA8xQPC6s36UsaqzBz0bV15y//kB8lloA4fKL4OMGNSmmMGyNRjO76whDbukQv;7kpo38hGUFkZ72TduKDU0Q=="

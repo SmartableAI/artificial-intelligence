@@ -23,6 +23,7 @@ images:
   - url: "https://m.dw.com/image/53352029_101.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "Portrait: African journalists honored with DW Freedom of Speech Award"
 
 secured: "w1lk8zTL45UuObnCo80ZWU0i6+ZcuEsp2oI/aSRgGgqb/8U7+csSoY4jsN2sgJTOw/UjjkcRDY5lvc8OxXs15q8OKNcVQBWX4y5oK9JLnYlLntTCM7O043KeYQOKauVOi+dvz+m1L1XsTnsaP3X4Ni085V2AmJHwrcMFAyNnOwYlFsyRepNlO6ixenKKmokKDyy4xm7bhwwgagl3UWAdRfHjyRZC/XmHEPKa0kG6UF60SyqkHhbjHZ8eZe64oUBeZQVQpiNay8dM2Z/YLzxr0Eah4LmKSp/nB0PTtW5h7vt0oNvIMaKkTpKavPP8TYt0;okEpZ/PXilAg5MVrG4osfg=="

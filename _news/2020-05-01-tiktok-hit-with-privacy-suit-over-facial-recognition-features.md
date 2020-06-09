@@ -21,6 +21,7 @@ images:
   - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/04/TikTok-App-Article-202004302126.jpg"
     width: 621
     height: 372
+    isCached: true
     title: "TikTok Hit with Privacy Suit Over Facial Recognition Features"
 
 related:

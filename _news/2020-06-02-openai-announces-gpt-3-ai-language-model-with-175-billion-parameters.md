@@ -20,6 +20,7 @@ images:
   - url: "https://res.infoq.com/news/2020/06/openai-gpt3-language-model/en/headerimage/openai-gpt3-language-model-1590942288273.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "OpenAI Announces GPT-3 AI Language Model with 175 Billion Parameters"
 
 secured: "Xp1SxyGrdakJAFFONy8s2qGBxc7pFXh3BJ5s+fE2FXYslYTOPlqFw9p+dP7BUeq0M+96DT8njwaNb+aC2zFybmzz5x5gVY3Nfmqodq7U3JbvT9Fz/f48RXXLQLaAT+fm5pOuDU1SFN9JQnZRlIL61ngI7PTKNL3hQatUkgO4wsszSQfuDarsq4ghQ6C5gDdYQTTa46TtiOv+c3MYW6Y+QPz3V8vNc/Au6MyH06mT6BeYrFy5+muS/bkXKefkVyvGy8KUff/iNO7I9uoUXJ8X7kQEvlcg1FkIVsnvXrwmnUNaX7dScKUzanl97eeCTPlp;CG48P8wIFegwPvjpg+qfKQ=="

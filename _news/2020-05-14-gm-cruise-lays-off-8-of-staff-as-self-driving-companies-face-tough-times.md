@@ -27,6 +27,7 @@ images:
   - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
     width: 1000
     height: 500
+    isCached: true
     title: "GM-Cruise lays off 8% of staff as self-driving companies face tough times"
 
 related:

@@ -20,6 +20,7 @@ images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?402973"
     width: 420
     height: 250
+    isCached: true
     title: "Global Artificial Intelligence in Agriculture Market and its Future Outlook and Trend During the Period of 2020 2024"
 
 secured: "PnPsqEsStti5RI8+zc6n0o2N2p1UkGHHeRxeizsJi15kL+H6tp16iz/JFwPfpy0CO5yE6nN+TxzmdWtuWBB1XGOAS3LdCoeJgyPQMXdRTogeRUg94GfTpaZEQHtl5v3gEmHVf0eBamutsx7Y6aqZ+mn7l/b2hNXvz4WutJfa4e6SN6IQD/7LEogmVkqg3Vdw42KAuc2np8uj2e14rE7y45RlY3aPo132ZoU080EVnC6DClWEqGV/5LnVZEjuyfpXWf4EbE9WMOEyKg7/SC+kTcOuYFIX185HAxTkSiPsydjdDqHwwRdD3dKFx9v5F3zF;dnZnIorxGxeB73JLTTiDKA=="

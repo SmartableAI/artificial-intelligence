@@ -25,6 +25,7 @@ images:
   - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cyber Daily: Curbs in Cybersecurity Spending Expected as Coronavirus Takes Corporate Financial Toll"
 
 secured: "zHYfw3nohnYMzoJVkvDKIeZD2GrOLj9NMvNp7lpD6Ha1Ade6QL2lExJf5cBa5V44DoAzozgg1rcI/OWVSeMdk2j0lOonq+xnGdpAhiryS4FLq61Up/zLMnIpXyNxWzKUmSWYRtND4qcWebuRbDOnT0wsIeq1DEStykOam3e5eSmki/mgiZJXGrRE8Ji/3Dw15/22T/LG158ULo/dxzfSWboSw2lw6K7PqZTNefmh1ora+YBwbbMwbnKxs782aUI6e44t3S91Z9Yi1LE8FExK3lL+WWx4i045hMDKpsVDldPs+N+N1+ATFV+fIWqXew6H;yJLYf5sHP6bDLqAAQC4pdw=="

@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324"
     width: 1200
     height: 630
+    isCached: true
     title: "Taiwan dangles US$335 million to woo foreign chip makers"
 
 related:

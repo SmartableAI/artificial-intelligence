@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Mayo Clinic Collaborates With Ultromics to Rapidly Assess Patients Diagnosed With COVID-19"
 
 secured: "kvCTmKj8iQTiaosbmT0sz9FGRica9VeSA/1vQ0PRuhPWSh6qUgexU3R7xSTOchOppvBYWWiAXyzQozl21twI21VEeCC8XZ6vy7yGmHkkTlsZ7jwzKimaf0wqtHMYM9V/kOKF9nHQFh//jdvgrz6xlsq36ZFJvdgmV/HES5l6LO+9LxjlH8LM2TZcdreKsKdxGjfEVAnkp+z7/Y5EDwj9m+q0k4W6H64rrESmgYJYnghp9kKSATCyXjiUM1cWKVsRCpQYFXsQFHn/bG4zb916taMsB22nrHEB46L/b5F02OrVFj6ynfaOIiEh5nHsMctd;pzIibQp5PxLCmzDvJfo/NA=="

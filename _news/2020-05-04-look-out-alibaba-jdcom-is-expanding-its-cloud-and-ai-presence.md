@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
     width: 1200
     height: 675
+    isCached: true
     title: "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence"
 
 secured: "dVIJFJ8zkbaPnkXsnbDH93I8h/Bci7gSTB0lgpdDTE4RKV5VZICHb90lyyEJGi748/S22mUiMvl8AwrpNw07Y5u4ztzjC2Rc5ESieR86e39qNuS7cgLCEIyjskD+jt/HWI1qBrpEZCjSZ3Ealsxcay8974cXtf5fsZ8QVOBKYDUWWfIXCJwOI0lKBw8KOJsRDa4A75Q4vQHkRWCeSpEUf1FOaoB8aLWMpQblqeLulTLlknv52JQU/ZCbfr/qD94OGFTrMHNkHRSZeHPX5LMahiJ/QYdFlqYtL+ZiWbI37NyAJuHX+7gLZNb1WnWgpFoiPiBbyA5OIw70aqVOGi9ElnEjZR3SbibuUl5R9sqh3k9xtrKCugPlOjWGGfw5iQFyuuouevM/z3bxSg91LtKN/RMEIXvDeW34LpDFpNz2sBE0SjSBZpwoZ+kWqHrokSon7w4AoQCNUKBvs9hrky28W1qgP+OpeP18PJYNpoHNKng=;9VVIXDf0RRX/iB7GI/osRA=="

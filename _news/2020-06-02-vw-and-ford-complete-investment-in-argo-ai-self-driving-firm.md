@@ -21,6 +21,7 @@ images:
   - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/f80706a0-3205-4731-a069-ab43c6fd289e_1.jpg"
     width: 735
     height: 414
+    isCached: true
     title: "VW and Ford complete investment in Argo AI self-driving firm"
 
 related:

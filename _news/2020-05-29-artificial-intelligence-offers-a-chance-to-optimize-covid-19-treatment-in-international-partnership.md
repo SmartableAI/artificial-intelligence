@@ -22,6 +22,7 @@ images:
   - url: "https://cdn.vanderbilt.edu/vu-news/files/20200529115204/2020-Barone-et-al-Lay-graphical-abstract-v6-600x327.jpg"
     width: 600
     height: 327
+    isCached: true
     title: "Artificial intelligence offers a chance to optimize COVID-19 treatment in international partnership"
 
 related:

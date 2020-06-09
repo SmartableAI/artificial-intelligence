@@ -23,6 +23,7 @@ images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/LatinAmericaglobeforonline.jpg"
     width: 998
     height: 780
+    isCached: true
     title: "The global AI agenda: Latin America"
 
 secured: "tvGnP5+tPsHNWfM6ZuYfnEhP2C4Y4K3X7ijY4sxM5G7dRACB6NEK+po7dh0IbciCTauq/ykHXBznhaDvUtmZ1Aa1PmzvA2dgT3whZqO7CM5IOVq4jLY6tAaePzgSuppNWh9HwvMfB9XRRKCJ3Hk69fST2QoEfZXtx23ZaefiwfM57OEZpuySoB0/3I+pc5A4Cm2TER1c63s5IamBwLdrV5LAOYfYZpsdHVUPMqu5xTZADYSJPgVx14p7f4LzYQiVPQKZENnuMO6/qwpEDPY43P6II+WNGPNaAyPwROGZAB3/gYXCHS9f0HYqQMvdO2GYXSOBlc7mLNxQxgy4iqcOcgEf2+D9uMTfMgamN+OLd3qRftc1ATBZKkEkjL1SWBLYVpJ5zGQnhuF1d2GnuPxUH88VdpSLHghrJ4Kekq1g9oOxHqGz7Jl1Q1RVuuzUkkWXcQ1yrSXMmZ8olHvMdhImeJgDsF2lUjiHTHRFgv8968U=;S9KkaDheniNgPFF4O6e2cQ=="

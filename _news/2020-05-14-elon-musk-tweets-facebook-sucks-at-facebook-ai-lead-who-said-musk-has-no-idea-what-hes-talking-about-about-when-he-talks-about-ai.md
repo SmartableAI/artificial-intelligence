@@ -26,6 +26,7 @@ images:
   - url: "https://i.insider.com/5ebd3ef3fc593d645f705016?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Elon Musk tweets 'Facebook sucks' at Facebook AI lead who said Musk has 'no idea what he's talking about about when he talks about AI'"
 
 related:

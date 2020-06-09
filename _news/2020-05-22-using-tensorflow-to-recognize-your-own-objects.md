@@ -18,6 +18,7 @@ images:
   - url: "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Using TensorFlow To Recognize Your Own Objects"
 
 secured: "Djv+X17uTpKmi2UeMnwqLzemZKmRfTsBAzAJb/c7IWmN0NksAD+fW5KMi2mtKmNxgJdC9w1GH9aWyMDPREuwwbZi2oEfWarA5yar5bnU9ruEjC+N3LfIcC+uC2FVK/gSdxngeimWua/LXcweLt+4sSisOPInTJPSP/5UXL7oDJyyy+1ND/5ZnY3e/uCNoKLACxMFMnL5p2cm2XHO8hYbkjO5QN8xgcM7apUCCVCZ6Gb2eQavCaCCoBH7XelG60oLYeqAIj2uh4e55W/e0D7ybh0et9jeLLcbDB2vRDxkiiALUEA4nErwUivTN3I0uhiE;dXMlsYvCF74Kh4ac/f3hWA=="

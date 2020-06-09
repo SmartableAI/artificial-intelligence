@@ -21,6 +21,7 @@ images:
   - url: "https://assets.shephardmedia.com/live/default/media/cache/images/images/article/IAI_Carmel/be5cf09b50a6254afae6caf2542b90d6.jpg"
     width: 1520
     height: 1013
+    isCached: true
     title: "Defence Notes PREMIUM: IAI hooks up with Israeli start-ups for autonomous systems"
 
 secured: "i191xdxenrXYc6d5uAcjwGYspaEPmGjNzb3ttuDTvF8d/ixxfhLa56mpi/GGmvh4O8kUgJ7kLiLrMwDJPqfDbWVLiqidYcrbj1U8frFNbr1P07AXi7uuessE7LRF5F7PhWLg37COr60viQjazyCVtJMlc/65RrLup5GYYGcxLmwG8gWJMU3TyVu9nFJcY+Eaz1/gTt3DUZpcLa+Md40XLLfvxMzefawziLD5BBll/sc5/FN9mrkp08ClSMnjKXskrUgw9yP/SC0/x2o8T3Z6tLXQcYmscHjVcu1eRPLrruaGEZDIDlAh28fbfg/R7IWe;NjKMaMNxubeez97kJEdYSQ=="

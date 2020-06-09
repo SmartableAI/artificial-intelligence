@@ -23,6 +23,7 @@ images:
   - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
     width: 2560
     height: 1707
+    isCached: true
     title: "Facebook trains artificial intelligence on ‘hateful memes’"
 
 related:

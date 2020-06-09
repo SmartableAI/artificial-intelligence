@@ -21,6 +21,7 @@ images:
   - url: "https://www.design-reuse.com/news_img2/homepage47965/20200513_1.jpg"
     width: 480
     height: 411
+    isCached: true
     title: "Foxconn Partners with Socionext and Hailo to Launch Next-Generation AI Processing Solution for Video Analytics at the \"Edge\""
 
 related:

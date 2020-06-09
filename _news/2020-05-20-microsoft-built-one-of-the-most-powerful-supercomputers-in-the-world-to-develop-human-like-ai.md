@@ -21,6 +21,7 @@ images:
   - url: "https://www.extremetech.com/wp-content/uploads/2020/05/openai-azure-supercomputer-kevin-scott_2_1920x1080-5ec3bbdb4945d.jpg"
     width: 1344
     height: 742
+    isCached: true
     title: "Microsoft Built One of the Most Powerful Supercomputers in the World to Develop Human-Like AI"
 
 related:

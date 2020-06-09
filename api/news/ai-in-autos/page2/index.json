@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 760,
           "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1200,
           "height": 801,
           "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -116,7 +120,8 @@
           "width": 400,
           "height": 225,
           "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -154,7 +159,8 @@
           "width": 1200,
           "height": 858,
           "title": "Why robots will need humans in the future",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -188,7 +194,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -200,7 +207,8 @@
           "width": 1116,
           "height": 669,
           "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -233,7 +241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -245,7 +254,8 @@
           "width": 1024,
           "height": 544,
           "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -278,7 +288,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -290,7 +301,8 @@
           "width": 1024,
           "height": 512,
           "title": "Scale AI releases free lidar data set to power self-driving car development",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -323,7 +335,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -335,7 +348,8 @@
           "width": 796,
           "height": 417,
           "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -369,7 +383,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -381,7 +396,8 @@
           "width": 1199,
           "height": 579,
           "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -414,7 +430,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -426,7 +443,8 @@
           "width": 594,
           "height": 396,
           "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -459,7 +477,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -471,7 +490,8 @@
           "width": 1024,
           "height": 512,
           "title": "Scale AI releases free lidar dataset to power self-driving car development",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -504,7 +524,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -516,7 +537,8 @@
           "width": 1000,
           "height": 562,
           "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -549,7 +571,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -561,7 +584,8 @@
           "width": 1000,
           "height": 500,
           "title": "Google will stop building custom AI for Big Oil and Gas",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -594,7 +618,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -606,7 +631,8 @@
           "width": 1000,
           "height": 500,
           "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -668,7 +694,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -680,7 +707,8 @@
           "width": 1116,
           "height": 669,
           "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -714,7 +742,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -726,7 +755,8 @@
           "width": 817,
           "height": 545,
           "title": "Top safety official at Waymo self-driving unit stepping down",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -759,7 +789,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -771,7 +802,8 @@
           "width": 1050,
           "height": 550,
           "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -808,7 +840,8 @@
           "width": 1118,
           "height": 630,
           "title": "Dig Deeper: Artificial Intelligence and Trucking",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -845,7 +878,8 @@
           "width": 484,
           "height": 252,
           "title": "Changsha: Intelligent Manufacturing on the Fast Track",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -878,7 +912,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -890,7 +925,8 @@
           "width": 1400,
           "height": 933,
           "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -927,7 +963,8 @@
           "width": 480,
           "height": 270,
           "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -960,7 +997,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -972,7 +1010,8 @@
           "width": 1200,
           "height": 781,
           "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1005,7 +1044,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1017,7 +1057,8 @@
           "width": 1000,
           "height": 500,
           "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1050,7 +1091,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1062,7 +1104,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1095,7 +1138,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1107,7 +1151,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1140,7 +1185,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1152,14 +1198,16 @@
           "width": 580,
           "height": 378,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
           "width": 1200,
           "height": 800,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1196,7 +1244,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1229,7 +1278,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1241,7 +1291,8 @@
           "width": 600,
           "height": 400,
           "title": "Americans don't know why they don't trust self-driving cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1274,7 +1325,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1286,7 +1338,8 @@
           "width": 1200,
           "height": 600,
           "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

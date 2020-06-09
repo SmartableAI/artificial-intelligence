@@ -22,6 +22,7 @@ images:
   - url: "https://patch.com/img/cdn20/users/1713316/20200526/111852/styles/patch_image/public/guy-with-computer___26111758510.jpg?width=984"
     width: 711
     height: 533
+    isCached: true
     title: "College Student From Madison In AI Sales Competition"
 
 secured: "uDnn36RZmLL75HaPH5ASAPkkPAAJbLGpJrdAJHCta7K9QkueFH+kqI47v+lvBn0VT5QaWXx6VyrTSliMmOtXO9ZM1fdgrsghNnFUUakvJ4mjezYxpX7zR99xMDVpedsyRRZt6j3fo0eKnPDNiL/5metn2Hs0Yzex8TfRQ+HROoHxz5GrXVB3k5kX86TChXr3bDZomHtg3w99m1tyY/YoipSJ+JMHNJax5PJlkWBAIs5Taxbhm7qbREP8UYeTshLuOFD0duG4kbdrjhOr5NJX7gTjf++Xb8AxajLguqR3bcaHuGRsuvDhxmUwZaNmaMH5;6bXJWz+S8rNYE6TwmO5yDQ=="

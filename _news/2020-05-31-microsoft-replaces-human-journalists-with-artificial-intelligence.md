@@ -22,6 +22,7 @@ images:
   - url: "https://st1.bgr.in/wp-content/uploads/2019/06/Microsoft.jpg"
     width: 805
     height: 456
+    isCached: true
     title: "Microsoft replaces human journalists with Artificial Intelligence"
 
 related:

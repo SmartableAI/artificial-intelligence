@@ -20,6 +20,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
 secured: "wjsJ0DNkr/OvKyZmrj7jWvEb0hhuTWciYnwnKHhxHi1V2WiKh5yXoqSpKMbd9MKAMZSIp1bfNd3XvF/R52BhDgB7E7ZVZZn7eDhlUIA/EpZNN9QSadA1EssdkWTMQyB6Es02nCSkGs0qPdgQV5vYTh7hl8ia177+iu5GJyjPDXiGxyZQZ8VfsDkFXNyAVPUnBaFQuI+cBhNCOq6XJfRMN7BPaGLc1UrRlMYn+s7mhNs5jlOIop2o+runbbatJFQAW2/Sl9jLpvi7pu3A+H0FusfygLv1hn/WlyvUVIWdprJWCtF06brsMJKPIoRwTxB2;N36BeT/9EIfwvg89salB5g=="

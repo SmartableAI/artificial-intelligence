@@ -21,6 +21,7 @@ images:
   - url: "https://www.rnz.co.nz/assets/news_crops/96617/eight_col_83755442_l.jpg?1582059547"
     width: 720
     height: 450
+    isCached: true
     title: "NZ police conducted Clearview AI facial recognition trial"
 
 related:

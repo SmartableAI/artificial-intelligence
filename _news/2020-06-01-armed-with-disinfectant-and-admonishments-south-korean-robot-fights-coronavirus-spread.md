@@ -27,6 +27,7 @@ images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200601&t=2&i=1520590902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG50147"
     width: 818
     height: 545
+    isCached: true
     title: "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread"
 
 related:

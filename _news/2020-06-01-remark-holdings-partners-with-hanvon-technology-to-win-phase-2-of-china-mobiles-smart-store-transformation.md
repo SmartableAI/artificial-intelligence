@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/220788/remark_logo.jpg?p=facebook"
     width: 640
     height: 335
+    isCached: true
     title: "Remark Holdings Partners with Hanvon Technology to Win Phase 2 of China Mobile's Smart Store Transformation"
 
 secured: "8JHPKCs/nV1V2kkFMTqJh5UDsVCu0xoWMNAm9wPwwN3y/buJOcARQ1aAIcusSh9NMmbczQ+q8A6ABnfrO7z88C+fV9BTxXN9D9cchmHhLvuApZQ1hbpFxGXLfWxYPFGJ/Uxdzy3H55x8H3hrv41Mu8eyNbXiOkJV/1f0rFcltAO7zoow+fDdGxAX7bhEDz2QiBezJeYdRY1YwRvKunSWZIt29y5syGOP6R2i8D0rDV1GkrwiiiY3nffSAHn68PsdAp1Lgo4m6E74gxGCgZo41DZLkQwc6iExodIpjmfHhys1nJYZqBLreWNIIqGeqRNORfWccPqH0EQ6dLdB+1WCHmM+5brdMYRDuh++9/TAV71XM7geNJxA9GhtTU7zy4tUpTWq0gQo8ngqrhzBZyDydMtUMcLzzrrptB3LWfTtr05ZEZ0rqd3ZAwEof7rDFVZqvFv+x+dGQhkewK5EbwiUutvhICQM/vDR5pnbcBVgAXU=;wDS4A9e4f5MmhzmV2mpGwg=="

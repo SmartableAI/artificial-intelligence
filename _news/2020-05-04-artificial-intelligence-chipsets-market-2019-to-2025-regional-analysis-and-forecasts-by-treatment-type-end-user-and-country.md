@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence Chipsets Market (2019 to 2025) – Regional Analysis and Forecasts by Treatment Type, End User and Country"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://res.infoq.com/presentations/ml-streaming-lyft/en/headerimage/og-pres-1590139516275.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning Through Streaming at Lyft"
 
 related:

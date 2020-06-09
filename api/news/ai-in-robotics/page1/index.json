@@ -26,7 +26,8 @@
           "width": 735,
           "height": 490,
           "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1200,
           "height": 630,
           "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -108,7 +111,8 @@
           "width": 650,
           "height": 400,
           "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -141,7 +145,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -153,7 +158,8 @@
           "width": 2318,
           "height": 1546,
           "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -220,7 +226,8 @@
           "width": 1200,
           "height": 673,
           "title": "AI, Robotics Combine to Conduct Autonomous R&D",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -253,7 +260,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -265,7 +273,8 @@
           "width": 2400,
           "height": 1621,
           "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -303,7 +312,8 @@
           "width": 800,
           "height": 800,
           "title": "South Korean Bar Hires Robot Bartender to Maintain Social Distancing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -336,7 +346,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -348,7 +359,8 @@
           "width": 1200,
           "height": 630,
           "title": "Robot to Safely Swab for Coronavirus Developed by Scientists in Denmark",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -381,7 +393,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -393,7 +406,8 @@
           "width": 640,
           "height": 640,
           "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -427,7 +441,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -439,7 +454,8 @@
           "width": 1200,
           "height": 630,
           "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -472,7 +488,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -484,7 +501,8 @@
           "width": 1200,
           "height": 600,
           "title": "Locus Robotics raises $40 million to take its warehouse robots global",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -517,7 +535,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -529,7 +548,8 @@
           "width": 1200,
           "height": 600,
           "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -562,7 +582,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -574,7 +595,8 @@
           "width": 1200,
           "height": 695,
           "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -607,7 +629,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -619,7 +642,8 @@
           "width": 818,
           "height": 545,
           "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -656,7 +680,8 @@
           "width": 1200,
           "height": 675,
           "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -693,7 +718,8 @@
           "width": 1200,
           "height": 878,
           "title": "How investment in AI, robotics will impact Middle East economies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -726,7 +752,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -738,7 +765,8 @@
           "width": 640,
           "height": 640,
           "title": "What Today's Execs Need To Know About AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -775,7 +803,8 @@
           "width": 1280,
           "height": 720,
           "title": "Hello and welcome: Robot waiters to the rescue amid virus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -808,7 +837,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -820,7 +850,8 @@
           "width": 1200,
           "height": 800,
           "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -857,7 +888,8 @@
           "width": 693,
           "height": 386,
           "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -953,7 +985,8 @@
           "width": 800,
           "height": 531,
           "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -986,7 +1019,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -998,7 +1032,8 @@
           "width": 1050,
           "height": 550,
           "title": "The Robot Artists Aren’t Coming",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1031,7 +1066,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1043,7 +1079,8 @@
           "width": 1200,
           "height": 630,
           "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1076,7 +1113,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1088,7 +1126,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1121,7 +1160,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1133,7 +1173,8 @@
           "width": 700,
           "height": 431,
           "title": "36 Million Unemployed: How AI Can Create Jobs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1170,7 +1211,8 @@
           "width": 1200,
           "height": 858,
           "title": "Why robots will need humans in the future",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1208,7 +1250,8 @@
           "width": 300,
           "height": 300,
           "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

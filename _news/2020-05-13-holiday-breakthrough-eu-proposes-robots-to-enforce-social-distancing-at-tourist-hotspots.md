@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/eu-news-summer-holiday-ursula-von-der-leyen-1281649.jpg?r=1589373999732"
     width: 590
     height: 350
+    isCached: true
     title: "Holiday breakthrough? EU proposes ROBOTS to enforce social distancing at tourist hotspots"
 
 related:

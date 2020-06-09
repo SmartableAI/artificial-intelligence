@@ -21,6 +21,7 @@ images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/9c64f03b16d1179ee51e7183e913ffd6_L.jpg"
     width: 620
     height: 465
+    isCached: true
     title: "Nvidia unveils the A100 Tensor Core GPU"
 
 related:

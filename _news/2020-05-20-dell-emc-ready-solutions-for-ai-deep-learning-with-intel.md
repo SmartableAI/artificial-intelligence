@@ -21,6 +21,7 @@ images:
   - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
+    isCached: true
     title: "Dell EMC Ready Solutions for AI: Deep Learning with Intel®"
 
 secured: "MJRknXj9lpId1GpRRmatmRzTO+e/XIqi5MfCXVojYySkqzIIsqF5TPKdU71zkXlLwV2YgdUqtduzxO6pflXxOeuamlt6h/RO0U5MfhQ+Ns5mJHEv05VhGTUFQmh3r4OFrOhpGZrQABaCQBTBcTds5oIYJesl62JQWjxLZT8z3d/tXIecb++ykGTU+besQx0GRvTHH9IbnaNsOktHAsZi+ZBb3xrR0vzuyegN+vVTUnyJrCXPEdk1+Q9ac/5+Ocs6fEsVhsANKu2v+5ZHq8pdZZFGEYaWP4NJ+tFCkuuledcPkELZyn6eoRTgexbThlGJ;syrKuzn6inS4qK4yVmurPQ=="

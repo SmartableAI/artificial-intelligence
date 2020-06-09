@@ -21,6 +21,7 @@ images:
   - url: "https://www.japantimes.co.jp/wp-content/uploads/2020/05/np_file_11295-870x580.jpeg"
     width: 870
     height: 580
+    isCached: true
     title: "Sony and ANA to jointly develop remotely controlled avatar robots"
 
 related:

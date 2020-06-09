@@ -21,6 +21,7 @@ images:
   - url: "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/d3ddd3ced5727d9bd486405a198fe536-K3NLB4UA3QI6VBGCA6JNQWIZCE-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
     width: 1484
     height: 988
+    isCached: true
     title: "The Technology 202: A ride in a self-driving car shows the U.S. is far from ready to give robocars free rein"
 
 secured: "G64GXEJ2CPGSdF9GmAc1Iym/9LAq4Jg4FOg2xWuJEdkGqYtltQV5PclGflAPGwHtE+tQlIuSeeaOpC+OjxBzzNR+5+daqdNgbJkmMB2aKCyZrnxmGV/tzX4dfXToKeUwNPpelRg8kuXu6EnSc65wqyuMjjM+b0xJgiQvneNa5/Y/j6B4Ho9cj1SyBQkJ4skHwCyl3IKCbEWe5wlhR8LwyNPDanpG0yt9dvp7H+VNFltTwNX2/Zkuv/CoSiTKKHdxDvIA/zRllIzQA3W2hx7IVuMh8ByBIj524kc9h8tzGh1GJDREcQauUaidHzHvKNml;HHOLkDeQTPdmiY18PAHqrg=="

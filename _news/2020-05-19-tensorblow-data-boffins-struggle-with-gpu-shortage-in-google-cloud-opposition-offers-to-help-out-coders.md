@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2016/03/11/empty-gauge.jpg"
     width: 648
     height: 348
+    isCached: true
     title: "TensorBlow? Data boffins struggle with GPU shortage in Google Cloud, opposition offers to help out coders"
 
 secured: "i7FV9ggwUqi5kz3i/rg0fZSy6B3Sra0WxNqKZhjT9K5T9/I/j8zmPQpuA6ya2cuZUdO+XQvfKzqbcW3Ezzgo3DJtHrLu0AIH/Rx3ztvW/Y1JZTYKEoBm3ISQkgqjWpOLSnjm6jvKFibb3L31jCPKcXXvpe1bl23ICxdZhQdnMokdd1Qtm72UQxFdPzTNGy72XX6pXTn9+MYmNjr7nBYneYzPWdzphun5l7EdxbKplaAAB4oR52qvhx8EOqnMflwBVx+RpdZE4ue8qm+vUtoXkec8VxQvEMT6FHkWBAedWZIMdZ3FOeY56zWdyw7Em0Ia;NqJMl3vtcbcl8Od9lKqiWQ=="

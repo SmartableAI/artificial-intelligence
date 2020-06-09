@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning Market: Everything you need to know About Forecast Research till 2025"
 
 secured: "hou+qwH4WShhTSZlp0tCqJ5QLjOSvaPgQTaKHl+TVK2RH2hqslR8yMdBDucfsozDJK7SZW4GYwwidN2JFC/ro7MXo7m7yooe2Jp+up4qd21f5mOVe9Rrptnpk/JpgFSDQJJYou1fj4Ak+Een3hLsrwf/48GaGsdas2rZ4iyOcBl7iP/+J6Z464n9h4WJI5g9PZ8LWn4OpvizAMvCXTpNNRrwoyvEOf4XQiuWS903i39WlriCylKespnA0v/vFFzu9XFxm00OoP3/M3oLKjJ42EEzg0surtV46E04owI0eNe8Rb9m4nzuLcTpcXOg14rm;EmE8d69fyqurbWT9JeERSw=="

@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) in Marketing Market Analysis Application, Revenue, Excessive Growth 2018 -2023"
 
 secured: "XycoGrIlOj8+xdFwyZLW7L6YZFGuQAme6pJhBJRz/ZCarTzZyEM47neVGNke3gG4oYTVy0dIidipSuNvdMTL1Y8sJYWV+O7KGaltHdUuwfVQn08vU1ZVfY6vSWtQkG/TiwKJ3vLSQC2j5Pa7jKGjrxc7xFGoEe7xZWBE9t/xM/Sexwlf84kmm3c9gy+0cxFy4fSwUS7EgJm1EwBcdVxiQlQzm6pMX4q/hHGbkRLJNqxZN4um2FQCabDLeGdIivau6U2LEdQ4fUtr+/SrY6geE2QUVUGbICk8PiPeyIrW4pIrZ8w4S1BcPbnqBM9PzrLi;q+n7RNWf/BMobI7NaUS00Q=="

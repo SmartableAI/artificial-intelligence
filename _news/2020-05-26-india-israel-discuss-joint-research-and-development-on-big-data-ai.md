@@ -20,6 +20,7 @@ images:
   - url: "https://aniportalimages.s3.amazonaws.com/media/details/Modi_aZkogzC_6XgtjJl.jpg"
     width: 600
     height: 450
+    isCached: true
     title: "India, Israel discuss joint research and development on big data, AI"
 
 secured: "Ei9iAp+Ivm5vKm+Pga4PRepPZXreGYarSKqtV2Nu/YtsE73d52Id2WZ4me/sFozeZVhnqOCk/ItKKqtPcHdBl9o5ir0JcsKSk+sztKkKuphheaZrZQMwsaNBDvRO0aaZ2xkyXcaXZSNP6zoIzArCKWJH8TYaETTaAF7al6gKoLBcDFVf5gWUv9UxBD2RiHSgpLlmdIFFePiwvnmUFl/l2SEPlgOR9ybrHsidcoZonoE3MH/J9KVYphZ7zIW9rNYMQgeiF1/0PvM2pfT5tY0M7bPVQNDKO8zps/UIlZa2u/V9svHdHhWghnOPjU5yYrTO;R+LKSkdbWpEuoom8exYJJQ=="

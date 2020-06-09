@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200512005415/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
 
 related:

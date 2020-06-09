@@ -21,6 +21,7 @@ images:
   - url: "https://www.purdue.edu/uns/images/2020/somali-chaterjiOG.jpg"
     width: 800
     height: 400
+    isCached: true
     title: "Technology aims to provide cloud efficiency for databases during data-intensive COVID-19 pandemic"
 
 secured: "lEi7zOP03ir9VCXjfqef7XEm66ToCM2EQpN0QCOBVUaIHMeDc2OJXlL3cM85fCCz/N7R7vskjXscQytjNl5ffg4sxSb3rHMhOssw9n8dstK2JlxzexhFlnVQKf+Z/zDvM47fhBkmNemhVdKYYhM/lMqwcqE2hO/Ru/Gd9ftH7cBh/17xELHET/36zpOgyUfypM4IZ2HT3O8wpunuvX8VxfWc+vOxdlQjMIbutaGmuql49YfG/gfXlmJq+TMTgXACTTh7nCKtwc0EUVbPxesrqbt/MuVynYlBtlsy8o8uM52xxYuFaFy5Nx3YOWsRsv3J3pQyEI7J04+otea0iCwlU+a5bsImOVMflV8J84veS/rNsAaccLPJ/UTgJJXpNCGHQZhPctJQF1dliTO4cpQ3Qwq4HSFu4kC2dCaGFTpH9QpUsUYv7UHOV5WaCRNDVeK6gp0bdQsSl8EQDi9eoEqov6EEA53ZMQU0bM8mI9DMPbI=;Ifkc4tqhAnOHaP5hofdMAQ=="

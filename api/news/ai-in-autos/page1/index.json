@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 675,
           "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1200,
           "height": 805,
           "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 1200,
           "height": 600,
           "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -157,7 +163,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -169,7 +176,8 @@
           "width": 600,
           "height": 350,
           "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -202,7 +210,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -214,7 +223,8 @@
           "width": 1200,
           "height": 569,
           "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -247,7 +257,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -259,7 +270,8 @@
           "width": 720,
           "height": 376,
           "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -296,7 +308,8 @@
           "width": 1200,
           "height": 628,
           "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -329,7 +342,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -341,7 +355,8 @@
           "width": 1024,
           "height": 640,
           "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -374,7 +389,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -386,7 +402,8 @@
           "width": 1280,
           "height": 853,
           "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -419,7 +436,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -431,7 +449,8 @@
           "width": 1200,
           "height": 800,
           "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -468,7 +487,8 @@
           "width": 1200,
           "height": 630,
           "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -501,7 +521,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -513,7 +534,8 @@
           "width": 1024,
           "height": 683,
           "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -575,7 +597,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -587,7 +610,8 @@
           "width": 1200,
           "height": 720,
           "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -621,7 +645,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -633,7 +658,8 @@
           "width": 1024,
           "height": 767,
           "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -670,7 +696,8 @@
           "width": 1200,
           "height": 630,
           "title": "Waymo's self-driving minivans will return to California streets in June",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -703,7 +730,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -715,7 +743,8 @@
           "width": 1200,
           "height": 630,
           "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -748,7 +777,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -760,7 +790,8 @@
           "width": 1999,
           "height": 1074,
           "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -793,7 +824,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -805,7 +837,8 @@
           "width": 1200,
           "height": 630,
           "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -838,7 +871,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -850,7 +884,8 @@
           "width": 1280,
           "height": 640,
           "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -883,7 +918,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -895,7 +931,8 @@
           "width": 640,
           "height": 640,
           "title": "How Open-Source Data Can Drive Automotive Innovation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -928,7 +965,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -940,7 +978,8 @@
           "width": 1050,
           "height": 550,
           "title": "Who Will Own the Cars That Drive Themselves?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -977,7 +1016,8 @@
           "width": 1024,
           "height": 684,
           "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -1014,7 +1054,8 @@
           "width": 512,
           "height": 512,
           "title": "U.S. joins G7 artificial intelligence group to counter China",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1047,7 +1088,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1059,7 +1101,8 @@
           "width": 1200,
           "height": 630,
           "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1092,7 +1135,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1158,7 +1202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1170,7 +1215,8 @@
           "width": 1260,
           "height": 840,
           "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1203,7 +1249,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1215,7 +1262,8 @@
           "width": 1200,
           "height": 800,
           "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1248,7 +1296,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1260,7 +1309,8 @@
           "width": 1200,
           "height": 630,
           "title": "Amazon might buy self-driving startup Zoox, report says",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

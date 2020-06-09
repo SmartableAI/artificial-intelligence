@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindu.com/sci-tech/technology/internet/a1ffcf/article31524235.ece/ALTERNATES/LANDSCAPE_615/07NETGOOGLEJOURNO"
     width: 615
     height: 384
+    isCached: true
     title: "Google to teach journalists power of AI, machine learning in newsroom"
 
 secured: "rcYVZtAwFaFFdGTp5UKoRnkRPK26rKPPhk/e0h7dND5hSwJgjaC55M7a5sNYvbWtZMdFUg4e0LZjshosHUSapAkrnPmL1F0xedia+GyHSlCk2MQxenPLR1Tkt+d/IwUDUT2ccC/Rw8xXUzfh6/HaD2rJYvnf1gkAvV8o9uUVaPyqc6z5BCt6Wn10pQKl0A+z/+nOL3KkUcol/8xDnDpFkXylnp2tD9TNMNKZuAxx7zzu1AZMWw0DRntHCjYEayxKAPjJwu3R9l2lLIWoPPfBLWYmF7gjiLbF20ptwTs1WTNkLB/PIN9IjpgjTkdNqgtJLPkSO8U3W8id75S7YakyKvCnjKfm+V8j23JfYhiWUetrHGpLn6atc6p1OwF8d66dZO2xu7TbVh5Il/dtqzLzqUtgDN+/Dlz6hPMdSOikL0yRb67ZSc7tWPOqO+I5LhVjp46IpmbY2XcLxaybBGjwODfnQ1c8b1+hmqol2dTu1BY=;T2lytwpn7Fbiq4ME80f7LA=="

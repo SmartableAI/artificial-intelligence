@@ -23,6 +23,7 @@ images:
   - url: "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479/_jcr_content/root/responsivegrid/image.coreimg.jpg"
     width: 1020
     height: 573
+    isCached: true
     title: "Details emerge about use of facial recognition software by London police"
 
 secured: "L4VfTcVp/wh71rA0pFq1ElHGHVA6VYYbntwJMKgfpMmV6AVdbKlK8QTdQeyoEuL2PryfIRNvtTq/ZAq2syVxEJIaokISgiLfJAsuQPyhg3hhQzmHVj6E4sGSfFAzTj1Kbh+jFfTpTz3TTMeGbMCEtO0cQKEoE9BDjjxe5MXV+6FRi7Zj9HgRpfXd+tgzzjOLJOP7n7cJvPeTiLFqugablPXx90D1GIvBm/OSwvHWkEJ9XBdHkFdOWs5TsOkmjpXaXdctgnfgM8OgkwF3QhVHt7VrC7yxwh99hnwK44qboTzJdfdZDO4M8xzMBHC+2Wen;971g/6/30Md4TCGyA/NJTg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/da5bcbce01706c9bfb9316080948031d_L.jpg"
     width: 620
     height: 539
+    isCached: true
     title: "TYAN releases Nvida GPU-based servers"
 
 related:

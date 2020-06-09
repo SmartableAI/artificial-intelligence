@@ -21,6 +21,7 @@ images:
   - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "US joins G7 artificial intelligence group to counter China"
 
 related:

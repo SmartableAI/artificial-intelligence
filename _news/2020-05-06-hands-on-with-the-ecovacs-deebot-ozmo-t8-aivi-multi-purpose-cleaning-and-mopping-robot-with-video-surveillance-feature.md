@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/41ed2ce0-5f02-4f4a-b2dc-3f942aeb32fc/ecovacs-deebot-ozmo-t8-aivi-video-eileen-brown-zdnet.png"
     width: 1440
     height: 720
+    isCached: true
     title: "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature"
 
 secured: "GMSo+2RTPwee2T9M+1iFxnM7l7focMK6UeyYdVMwvZuwd5IofHYUekV57NH14rKOc01i/p0CX/5IPhfp0liRNpL14wkScBlkE2i6FDFmhvfd8BsWrNvEz7x+xzpB1VzKTzG3dG9MiLxemK/uWn+SuF8ZTLEPLEQDc66E+7Tr7mntDm6cgtCIq1rS/HiPDJ0O8E8N83ILqOPZoHar8huw8hCDLhc0vssE3e79e6GlsWJGaPImuR39aZDzJtEI2mn1dV23VkIho3MvBHeQKH67fOFVQRH5UEFyMGOWCZjdOV7jMnvd3CaZVSITdSalEl5iVFbC48+TkeN9pPhJgDcwUTp0XvYR6sJS9ZRSQo2l453JG0XGPu55JdLEZizV5yOdiuLoYNVz7POXEzvi04SbbB10lb1xPh7xnf8sa6tKgjIdXElxejK0EHhAd+FOg0oFeRhvG3v09JOshkNh5HqrnDK60eI9a5QUWwutlOctysw=;O2H/cmpbAe06F1mDT+SWMg=="

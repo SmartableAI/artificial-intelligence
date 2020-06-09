@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/1touch-io-e1590687948124.jpg?w=1200&#038;strip=all"
     width: 1199
     height: 601
+    isCached: true
     title: "1touch.io employs AI to identify and protect sensitive enterprise data"
 
 secured: "wJNxXY9bF2VrupL1hw0klvnKev6nC0TiN+MUPTjpQ9LKdEKoTNDuw3oeivBnJru6aU6tDQc7cLQm38cNZqkaiYr+0TDTefDq2SOdp1wZIb115wbXdT7X6H4LEqfYgx7FDNcrde/Lx3nQ58JaDXdrbn5+I7/ek519ZkIQFarCJSk5UhO5nvziujqwArgT2uvMD0gtAkSTLmRa3OtGja3iKu1rw5EJ5LAvJFmDOv62EM8uaxJ4DPhlDi3VTzb9kEez8YQ3SpCF/HwVvJYU58BjtWB+o+dJX54vuvfFiXeArVjK34E418cj9ijjD3hrHBI5vvuSlBXkH0b1tJ2MWwvY5GG2J75jBVHgvQSSA+eXl4lX26OAoF5FxPqEc+o9YlCJW/+BFO8d825uIiQi7pBAE7yTT7+QuFgmODnjYNFnp0JP9KnpyIIj2mVebcY6mHEsRt82gPSSfOMMv0c2BgVJbmJo9AOkwW2he2nJpMcjNm8=;tLxUexIiUpsB4pJs8D55ww=="

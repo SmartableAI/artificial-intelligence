@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Facebook’s AI detects gender bias in text"
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
     width: 1200

@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624857627%2F0x0.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "How AI Is Finding Patterns And Anomalies In Your Data"
 
 secured: "uRwxmyHd8RnApGI+MdTnT/S+ciI90eUX9dzog3Orp95IjDbg6B4vtg2I22wjqNeyLUHEWT95xgz9qDKH4oJVROoHxB05glpXTL4+wTrVLFLpW3ICnxi2uc0UwmwIKvDGwDBjg3zEzVQFFPcn858XOj+0WU0GkSd/M0/SviKJGJa8goX6PdWYSIoVZfhNadXweCabLwpXxHyu29gKsLr/RBSc21t9NzWx8QsdcCIi1ShDMkiPkmwySfMHQGwSd1OA5Gpbb3n+UerErcy0/ZiX59pl/cF1V5Mw+k7f61AnnnCi9sFugmooliTpZpExHAUBXEiTkfZAjx/7ktwAjeHbkuYYowCaDjbQZHlFB+aDvzm97PYaL5gx724hE3nmFWTkYrP+F6Z+qupVlD0QuH7UsfrMZap54QDuHdvMsY9hBDZPoisEgXMwWMwFJt8Pa+fCoMN9Z/+FMbo66XLprpyd3BtO3kNIJjUxD+yOySKpStA=;RJ+BYoToTKnkbwVsX/W2Vw=="

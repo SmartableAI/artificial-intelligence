@@ -21,6 +21,7 @@ images:
   - url: "https://www.genengnews.com/wp-content/uploads/2020/05/Novartis_genetherapy_cell-processing-specialist-lab-hero-image.jpg"
     width: 1600
     height: 800
+    isCached: true
     title: "Dyno Inks Up to $2B+ in Gene Therapy Partnerships with Novartis, Sarepta"
 
 related:

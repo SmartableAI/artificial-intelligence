@@ -21,6 +21,7 @@ images:
   - url: "https://i.inews.co.uk/content/uploads/2020/05/GettyImages-175133840.jpg"
     width: 1024
     height: 658
+    isCached: true
     title: "DeepMind: Google AI can predict the progression of sight-threatening eye conditions"
 
 related:

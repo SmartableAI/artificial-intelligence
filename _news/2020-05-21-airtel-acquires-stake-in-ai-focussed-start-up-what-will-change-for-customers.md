@@ -22,6 +22,7 @@ images:
   - url: "https://images.financialexpress.com/2020/03/BHARTI-AIRTEL.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "Airtel acquires stake in AI-focussed start-up, what will change for customers"
 
 secured: "HU7t2IU/QD3bMPXVMDCBk8NkxjonB939QUD12ohlLSD0TRAT8LyZ59usqlBj8EqR3k9SCvxoQZvvhiy/jhUkyoxSPRa0NTUeNaChYPeezDnYLvRWWMBK7ullD1A54LmkhuCYg3EacAs97pzeDTV0dcdpVX17n3Rq4Fa+raPiU1hV43hsYlpL88efgu+VwlvmCySK5tZOA2O07GOF8yZ/9FkI0Aj9YAplm1FN5ZphoAAuYV8O2WH21AO+s7IkWXIXIo5N7C9KaszlOy3OgZlFpIeFk6R/joJV9L8HKj56qnFXm8pLwSgKWM6uCVrIgTrT;2dIddWCvPlzmIZMOe+pKQg=="

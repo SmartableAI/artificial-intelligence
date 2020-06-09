@@ -24,6 +24,7 @@ images:
   - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
     width: 708
     height: 566
+    isCached: true
     title: "NVIDIA's 7nm Ampere Beast A100 Machine Learning GPU Launched With DGX A100 AI Supercomputer"
 
 related:

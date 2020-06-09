@@ -24,6 +24,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize"
     width: 1200
     height: 729
+    isCached: true
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
 secured: "lo3nPbHviwH2OpZ9R1l8FIfgeH4KyyEs5z7vU2xMFLLEniBZZ0oUT8JZ/xaD+79LBl7Jb7IaifRGt3pZwKLz9E/sF38SUiYXPDldHUHuWKzYvAqRDOcNHY4L7dmlPkWlgH5srvdwKGBwbqYUpWghF6VPpNf+renBcCmoHxX3/nw5B22TSH/MMgIruB19qtQeZAYvGE2GoNLvdzfN5p8VMog7dcwRSOSMwXTNOyGDrKScCyKwXWbac5oxuYtZkvJkLq6D78uSkfa7hhbpjs5bHudol4/+TKR/eT+amIRQPdNHCX6vX0p45F8Ma+niK2vA;aRUD5USqapjbtbcfsG2rQw=="

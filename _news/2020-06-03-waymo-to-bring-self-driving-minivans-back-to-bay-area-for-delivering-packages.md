@@ -27,6 +27,7 @@ images:
   - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
     width: 720
     height: 376
+    isCached: true
     title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 
 secured: "67q4i8lm5nHi3ACvcV1x4ZCZSS+KkxTVUpZIJJwU+aU9rW++eFemtgeqhnKSsGPsWg5yICrdli0xQ/fSV73y1OR0ci/wJcD2URjwrYbm0cnDgzg3aXu3dfkQ3TMzekp+ZnZH66zEfj703Zaj5k5wrKTYWcsNMigfD4lyi2da+YW5RLwXXs62rjlILm71l3HJHXX78RIBf0be6N1nyVEBQlHC6Efpgl6aCLKr0NpJJ1gFtnqewfE9kGIhJ0eY2kj6hHUIuhopfl2k9kSfcH9Ss9/mj1DUVxKWhN9k0Tm8hjy9VB5uYBYE/qd3u+XpSpJh;M5qSgq9EfZdM3WetGvMUzw=="

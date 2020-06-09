@@ -23,6 +23,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200510172403.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "People lose the touch, adopt the voice as covid makes Siri, Alexa and Google Assistant more useful"
 
 secured: "RJRKZPWf+THamOIJC6Gnr57N1F6SNq0uR/aE/ogFUvCfRuwCyHUU2pAgvZtl4cwbii68IXOBkVUW8IvYT1hoqP6mOTTdScg+TePz0xYtEnihJOKhPhE+dH246lYPv4y9K54a+HDLvX9VP378rnDHHFB26ihXguL01GUFyWD2mvgmBOazALdlCqzNj1SHf7PRKTGSgljIwq614xOaQVLaMEqylyHQNzWqqWIfDDJIdycIotjgDTDlPzSsrGjZe5ePMNrBofsXdxo/zPQYz+UGPM7ZMYGUueynhT/5dTrY7QSnc2zHZjOuLVZr5xQIg/o/NhOMpq8b4j32X6NPKC5Rw1TS8yxKB5nxXcs0oFKRZSOxONDn6f9a7fhtWCSNX3VUgjIu/nUQtXx40rrxc0daOrx/+fQX/Oe3jplzcak8cETmG4kKLZY+atXrgfYhBByVVBwE4f0VSMJaBILluY+t8LpJmMbdSb5hVX0MtYDHXfA=;WgQhCuRBUGZOoDm14oG0jA=="

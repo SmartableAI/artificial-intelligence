@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
     width: 1024
     height: 512
+    isCached: true
     title: "Alexa uses Amazon Translate to reach more international customers"
 
 secured: "E6nrm32lbG7wOUotUElRogfWKPDHFB4ivRtrVo6+mHehwvP/0F29ryiKyhhMvzOuBrkC03PboQSGbng2sz8qXl/Xdp4HP0EGcCDIzrmvlH3EFJIoyLAteuKYBXaGvTWbE36QV+UR/327oNJxPtRF7RCDEe5EuZedt+/wqxiLSLEoJoBYisZms+Px8p3Lc6buB7QpVxlRyqNjZsmsmOmnyjkRK9BEP7GrDsX/12FKIeioqf3AOVULTzH5loQ5fdP6OcUhEHwjI0m2ZH6bbk/BztMN1omwCTBQOK6vdkGmDQM48KJ8FMWHIoQcCQaL4d4JRdsTzF1s0wZoCWQcQru4AQ==;SsQaC0/lGD4uKrsaLusmEg=="

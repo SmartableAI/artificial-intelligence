@@ -21,6 +21,7 @@ images:
   - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
     width: 2000
     height: 1400
+    isCached: true
     title: "Synaptics Joins Amazon’s Voice Interoperability Initiative"
 
 secured: "Ssx5HPBibwqGmBmOhryF5BZTHfG3wPPCmb2xISHDeUcljE6CA5FAQFvX0+yUsNa3jaY52347MdQnp2/X0U26eBEfbVKKfKw82jHVoqv4HCEC//wUHSNj/NQcsZgvHflffLOUyVkGfjsqSU4SSEShDg00nmRdYmU3n8uZ/JNjz44x5G9dn+egwxbype1G5OSAUCMpd5dH0fdY9rjH9YF9bWU7FyomM/SeuAnwaixDqosPos8WdHgm6zkCwvLQ6OancQBgTthajPdbzy8EPTnC2irnH2iWazYmM6hJnOhlWjzPnB6oxg5IvE1NmNDvjRvT;UGKTXCnhn5ARCGIcR+G30g=="

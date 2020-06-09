@@ -23,6 +23,7 @@ images:
   - url: "https://www.rnz.co.nz/assets/news_crops/99690/eight_col_080420NZHMMCOSTER4.jpg?1586319762"
     width: 720
     height: 450
+    isCached: true
     title: "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial"
 
 related:

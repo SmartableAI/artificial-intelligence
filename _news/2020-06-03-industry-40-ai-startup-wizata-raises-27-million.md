@@ -20,6 +20,7 @@ images:
   - url: "https://www.manufacturingtomorrow.com/images/products/unistream-plc-robust-plc-with-new-concept-virtual-hmi.jpg"
     width: 251
     height: 251
+    isCached: true
     title: "Industry 4.0 AI startup Wizata raises €2.7 million"
 
 secured: "rK2dkmynZw8F791aRQl033VE+PU73gZJTEIFM0EmExXXpE6w7Pg21uCXRCL/FPGsFZcdy48cybNa14jIB0sM4vENg3XC+VXb1rByli5fv5hlbT+pc7eE9Z/FtYxxcXpb/QH+YdoiJwyn5MHR7yFE/XOyFtBGqgdAW+3xOABzuvTgkEPKT/m3cOKxwH+GrTTDWLiAmqcZIbsjGEJtobitsRyXjDt3PR9zLbSncKGswLj8t56GEjEP8EnCbztC8T1pd9vzvz8hrhJPB92HBPwMze2gKKSjJ5XLcAMaJuRNmobWtl9wqIgX9CY8pd91gq75;qMnhZyVQAPAkvx+bbDmZzg=="

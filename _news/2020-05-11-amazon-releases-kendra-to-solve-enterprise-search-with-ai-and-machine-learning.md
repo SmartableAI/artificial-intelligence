@@ -28,6 +28,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024"
     width: 1024
     height: 649
+    isCached: true
     title: "Amazon releases Kendra to solve enterprise search with AI and machine learning"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
     excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
     publishedDateTime: 2020-06-08T12:28:00Z
@@ -54,6 +56,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
     publishedDateTime: 2020-06-07T07:10:00Z
@@ -67,6 +70,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-06-08T11:54:00Z
@@ -91,6 +95,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "aOWHEwBb/zYZkYWzMw+79bOzPc/htCx+tSP290WgUwGtaRd7NVoU0O5u1aeKUa7N6msX7NB2dyCN3z7v/noGiYbfgUZlAgZiqk0uK0NCWSG/7DyFbOlw3c6FuL99xm7qfUFtqBLj4I7/mpHWemce+FSvkB0+w857cTeAZ4Z2fDHGotIFl1GEGAirZ7DmQ7aqgy8L5lh9Q7Ui0EOKRyys4njlKeKMPHWMzjm57VnO6HdXP03wQOFg9ToagHp9Dhc3GvTjQrGtlDCdu1bCwxTzz9LnQhW0v+Fho0yXIDLBQYjsJCVLm4+ZvSG57DmAldLm;uoYs2MUUTtUexl7dx12GGA=="
 ---

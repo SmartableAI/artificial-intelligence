@@ -23,6 +23,7 @@ images:
   - url: "https://i.dailymail.co.uk/1s/2020/05/13/00/28322480-0-image-a-24_1589325449100.jpg"
     width: 636
     height: 382
+    isCached: true
     title: "Prototype 'adversarial' t-shirt makes its wearer invisible to facial recognition software: Researchers create design to confuse AI used to identifies individuals in public"
 
 related:

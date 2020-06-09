@@ -20,6 +20,7 @@ images:
   - url: "https://www.itweb.co.za/static/pictures/2020/06/iiDENTIfii-facial-biometrics.jpg"
     width: 816
     height: 403
+    isCached: true
     title: "Artificial intelligence start-up iiDENTIFii heads to Mexico"
 
 secured: "k48EJLA+pvyIl7zgg7TphDxClbEMLgg7Zm61WnFIPUag3nQnvibZbuYOiXpe9Ex6NvtztG1eXqszHj4o0463845tUW2l7J/dXCm9RlCUDYub2VrR1+frCzVGDSdTU3QcsTQ15WC3IkII2rb3RNzod2kKYuv7PIbqOGzIHcBwDgwFleGv3v4SSIWGuVZKrDFUhr6Oe8QJuJghwBV0dSQEwtHQp1m2N/zR3XrUwulgbuDtCm5NL2NaZY0eQbqTsqSm7xc4RKRvDVg38a9TcmAqs5edEv6+/T8nC4m7SeH1SrEyV3LKQvXxaQplKuD/nChP;kEf/dQ7xNpPl6nTUb1YOXQ=="

@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Indian start-up gets global recognition for initiatives to support aquaculture farmers"
 
 secured: "jefAE9gHRkFpirGN9Q9tHIhGNF0HhPS98K6B6HAeadBWrB1H2A4nN1EvGWv1sVrz0AJyhy39fVWVUug27puinroQnDkvsGkkrAb2BZmfL8hn3QQlRteLzLvwP3XVz7a2YSuEvj1atYG/8cOWB1CZ0Dt51KfVaDOtjQv1y90N38VGEjDqGDB38QTyt2HVbJnPniCZ612ZoW1wu8Ji635GrWueH7NokF+fAQJD0JarbkXnHuf8qFGO3/xNURr9IKc85nPdkoUINBmxRbGfkjT1cG5tK/l6WfdCnwQjbxTJY8jkfAr/UEpK8Z5cn2HjcyTR;PPjehF3epILZUC4kg7Q4ng=="

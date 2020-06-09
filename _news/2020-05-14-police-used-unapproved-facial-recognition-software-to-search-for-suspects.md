@@ -21,6 +21,7 @@ images:
   - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/b/j/q/image.related.StuffLandscapeSixteenByNine.1420x800.4ymbjx.png/1589489680582.jpg"
     width: 1420
     height: 798
+    isCached: true
     title: "Police used unapproved facial recognition software to search for suspects"
 
 related:

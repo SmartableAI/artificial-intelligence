@@ -21,6 +21,7 @@ images:
   - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12795586/16x9/991/557/d708016128eaa39e37a3c6befa058e44/Dl/89th-geneva-international-motor-show-in-geneva-1.jpg"
     width: 991
     height: 557
+    isCached: true
     title: "Volkswagen closes US$2.6 billion investment in self-driving startup Argo AI"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://d1hfln2sfez66z.cloudfront.net/05-18-2020/t_77b1d8246eb0428e80939ecedcd311f9_name_1BAD3DC8C18342768481DBD2ED458B5C.jpg"
     width: 960
     height: 540
+    isCached: true
     title: "Uber to require all drivers, riders to wear face masks starting May 18"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200519005208/en/792046/23/OMDIA_LOGO_Endorsement_Black.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Deep learning drives computer vision market with global revenues set to grow to $33.5 billion by 2025, according to Omdia"
 
 related:

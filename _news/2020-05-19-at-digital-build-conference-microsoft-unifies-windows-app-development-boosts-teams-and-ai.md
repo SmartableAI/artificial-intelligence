@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
     width: 2560
     height: 1600
+    isCached: true
     title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
 
 related:

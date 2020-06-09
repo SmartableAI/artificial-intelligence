@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/21/cd740e5d-f593-4f7a-818a-c5d8b479437e/embargoed-pac-man-nvidia-logos.jpg"
     width: 1920
     height: 1080
+    isCached: true
     title: "Nvidia researchers use AI to recreate PAC-MAN, without a game engine"
 
 related:

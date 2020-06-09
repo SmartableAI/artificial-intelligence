@@ -22,6 +22,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200505005562/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Insights into the Worldwide Deep Learning Industry to 2025 - Featuring Amazon, Google, IBM and Intel Among Others - ResearchAndMarkets.com"
 
 related:

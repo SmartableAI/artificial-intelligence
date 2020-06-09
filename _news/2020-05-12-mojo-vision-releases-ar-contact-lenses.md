@@ -23,6 +23,7 @@ images:
   - url: "https://www.technowize.com/wp-content/uploads/2020/05/AR-Contact-Lenses.jpg"
     width: 900
     height: 600
+    isCached: true
     title: "Mojo Vision releases AR Contact Lenses"
 
 secured: "J0pvfdz39xIXV9f/akbnGI67+P2o5K31YttGtcVC9yBPKmRzrPdUkhBh1dasgJigAAk9RmHMOpWp4Amoh1ovdPAyC5v51x8x7M2YfeTfD7Vl7lyAQLjPhDQ60IW/fVdqRdnWFmnIBz1CFHFxpR2l4CodoUYL7U+TVKS60IbCYrXCD94B8cdqUEuv4gUmS4mTTOGu/QF88VICQlvpnRGr3S7RV8vjv1YQgY8ken+9hFwRohA/G20EXxcChRIWcbWANAOMZ2RR8ur3dXgqwcHjdaArV17mBRmOyLFArnJwoIT7DZysnc+j+EHoECRmwR0xfZdMys8IxEh30QMQjh0gVOx/KvMIaa2Xx1biTTS3HYops0wrFloKiPbEj2qIzJjWU2XcQYRucso2yp/1Nun4bMSjfb8/p5WYyr+BnzDYjSgHmrhRbwFAJ/tdJcwEOHW4UWBuDhUAEoi7yY6k2MnKrkAIf7s05jRQor8zjcKW9Ao=;xsvzHI/h2BdODjtUm5HH0A=="

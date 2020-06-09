@@ -23,6 +23,7 @@ images:
   - url: "https://fox8.com/wp-content/uploads/sites/12/2018/09/university-hospital.jpeg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
+    isCached: true
     title: "University Hospitals looking to more safely open economy with use of facial recognition COVID-19 testing"
 
 related:

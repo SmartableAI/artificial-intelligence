@@ -23,6 +23,7 @@ images:
   - url: "https://images.axios.com/LDXr39K4Uf1_HKpRarvzBH0nT84=/2020/05/27/1590546494986.jpg"
     width: 2242
     height: 1472
+    isCached: true
     title: "WSJ: Amazon in talks to buy self-driving tech company Zoox"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://eurekalert.org/multimedia/pub/web/233069_web.jpg"
     width: 1440
     height: 696
+    isCached: true
     title: "Researchers incorporate computer vision and uncertainty into AI for robotic prosthetics"
 
 related:

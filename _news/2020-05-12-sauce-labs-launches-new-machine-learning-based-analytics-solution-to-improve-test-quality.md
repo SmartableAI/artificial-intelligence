@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Sauce Labs Launches New Machine Learning-Based Analytics Solution to Improve Test Quality"
 
 secured: "Yi9jITRUE1FNcpfgOobry7bRMjEFM8cp5LWDH1ftJfo+pb5yQDFqu+6C1b5oWUO2FrJJNUf1rJD6SsFTDB5SME3oLVLSr4Bwxc55as8VmQOsnLld75tdgOaYIvse78J+y1YqHEBmJNwCLmptINPq032zE8mhcgTzkt/ycJWDovcVwC9TchZ/wo7Z47/gst9wmdAMWu+vh2HB0K3qtqkv+pbZ7dQR3j4AcuvLeo+B+Z+SOZ+BgbwWTrPLu22oPPIaWY98M+4mgUD55SGKGUJY0Z71y/rkkQRUWaRWXk1ScwiczgMowHA8/U1h3mUDFa4l;yixnX+VH3auY/retR7palg=="

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Far-field Speech Recognition Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "jO/F7gpv5am3cdM7AW90hpyLAY3BMIXhQgP6K9JvVzPwSGRh+O+z9V8SpKj+jO+I9ARrch8B6xt7rqLLfbR1EsDrrwaQRQClC3qZxNilNsRCVG2yCCu6kYxYdGms3/5MG+fRlIS0uIbgLI9E9MWnhH8tB26/05VC9HtkupOaB52zyk+0BTaLjCG5B/ZjjAcnWKr5UiSHSffV026qDggds69XmMLH0ccU1j5irHOFdQyBBEiucIdXunRTlXFKfboqiHo5srm8/7y7BJaiI1pFO0mnYWRKX2DlyI5OBQyeMaJ8iX/UUexP6NIcV238/mnT;wQxDmsV19GXoL0gdxOE3/g=="
 ---

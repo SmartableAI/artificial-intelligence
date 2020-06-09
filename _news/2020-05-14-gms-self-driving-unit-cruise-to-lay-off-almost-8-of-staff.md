@@ -21,6 +21,7 @@ images:
   - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-gm.jpg?itok=Efd4vezl"
     width: 470
     height: 246
+    isCached: true
     title: "GM’s Self-Driving Unit Cruise to Lay Off Almost 8% of Staff"
 
 related:

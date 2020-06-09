@@ -23,6 +23,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/0/01/001c6976-7477-59bc-9385-ccc3b21c0dfb/5ecfcec648647.image.jpg?resize=1024%2C720"
     width: 1024
     height: 720
+    isCached: true
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:

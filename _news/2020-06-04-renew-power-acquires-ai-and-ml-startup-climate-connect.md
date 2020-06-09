@@ -22,6 +22,7 @@ images:
   - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/800x400-ii-1591262856868.png?fm=png&auto=format"
     width: 800
     height: 400
+    isCached: true
     title: "ReNew Power acquires AI and ML startup Climate Connect"
 
 related:

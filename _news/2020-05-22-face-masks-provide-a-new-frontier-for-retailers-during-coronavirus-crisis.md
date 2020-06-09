@@ -21,6 +21,7 @@ images:
   - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202005/860506047.jpg"
     width: 800
     height: 601
+    isCached: true
     title: "Face Masks Provide A New Frontier For Retailers During Coronavirus Crisis"
 
 secured: "X1twbIIPblbi4i6pFA7HIGPPpsk0sGMxkxxkH96Thv77X+BDUoAMHaRvRBQpkPhmTkxwwGN13HZHnPByzQicJnaEKF8HmdT7rKJQuvx5IL6LAdBcrdB18f4mp6tFB3qqXF27ovn7vYnO2MDKPAsioHMVHPZdtc9+fJKG6cB3gkalQw8CZOCpiXjntVFayGfVfCXjpLMjYFMbz4ziQpnaEF/ly8VNtHjCm8bfUOH4PGzybssCi0URd1I0NROUR+41uQ2/RqzlHyukSX+a6oEL2dYVRmW8a0C4F7Z7JsDoeR4Q6bffdGX3flRCRIGWo5eo;apU/BzP0lVXrqwGndCLQzg=="

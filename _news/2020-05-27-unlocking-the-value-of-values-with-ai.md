@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg"
     width: 970
     height: 545
+    isCached: true
     title: "Unlocking the value of values with AI"
 
 secured: "0QRKkjS6dGr/Tt7IZfqYtIlLpqSs3Mb1g2YlfM7IB+F0MVhtVjh82xUoKepFGFOKRepu339qHPwZZ0qPjmhSu+tOaha770QoOZHUci0DnKxlBYdb6BGh/jmxvQidpvSBXyizS54ohN0b6yUBAzs5W5hPqe7+53cwnSTotznRZd71k4ppf9yjpEoLeHwNRhJtrKQXeiXryC3XfBMz7AUKKZkiFn1gnLFFASa2FKv9XgAIDq7aKl74MjFmcykcESckhjYpiUrPLXFM2G0FJ5l6mAsVYb7gGGSigT+BDMHltzMbYb7rs+e/I/kNYoxt9Dfdx24PGVLsrGT5wrVUUzz7MtBmlA21yTnXn/OuN8gKdcLEsiOrc84YtNNOxocOaguyD8AptP4taE7QmlHQKwMPBf2+QqjNk1Wo8q/6e8LFEULuP56jZwhjg6qYxA1q9yyPMS4FuAsfFSHcjsHQreYgcOxiw+C4Plq2C13mFDgO9JY=;ItGrxKfZggQVT6USRPdBQg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://s3.us-east-1.wasabisys.com/kesq.com/2020/05/1036177223-860x484.jpg"
     width: 860
     height: 484
+    isCached: true
     title: "Three Ways AI and Smart Tech Can Help Us Work More Efficiently at Home"
 
 secured: "U0DGWF/hdEM7sceRvWQpnggTgHkt+74SUk4RIElicD1HCo/hjAFMpiywwxVJyxY2sgfP6MA7MNXL3A9mziTg8AWwMd8JULdkcWRf2ZrbIH/bQqDz89QjBClxa6h2YOJLWfd2T64vxXy159SrsIT7hd4ndNQuHm0g9UephS8g6JMbGOA6NMMMNwAN4yn0Y/ZZnp7AlHQj2INZMLpdTJ20p+xLSEHGNEQF5O2wq4pFYPfO1Lb8pMnKHiV6QBYEriZRIRBEjFO79o8nn2QqEvbsd88FRXF+9OkC1omoFl0aRqm9zFhULbclJ6aSosHV5ld2sQyeTeydMtaerQrJauMsavr7BfUsUnhn1jXxht0pX0swlR26D/y2TMpH7CmHmbny2LOb6Aq4xzux2Q6vaRP6FqTg6brXI+lsuDYfHeLAxH3+owRelpbs7zIYFMa97V7brOYgMSH8bvYtNcX2FRoz12WD2w60lC59NogPtFAaugA=;XgCIxzsNJvaiOZYkFlVoyQ=="

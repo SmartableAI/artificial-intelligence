@@ -22,6 +22,7 @@ images:
   - url: "https://boygeniusreport.files.wordpress.com/2020/03/coronavirus-travel.jpg?quality=70&#038;strip=all"
     width: 1600
     height: 1066
+    isCached: true
     title: "AI might soon be able to diagnose coronavirus based on symptoms"
 
 secured: "E6mm6qOFQB7391NAATzjDXI2gFHkTRoBSfFIkn2BBGiB3wLTcPs3qVSNPlwei3T+VpoGWXIv9NLPySbitpyOjExQ5IeN8UmQ02jEw6UOf8w6OE9c+nWl9jaRKRjq6u0ZfNmfs5dzkxuAGAJ6LFBDZrTmrLkvpKh19EnkGsdmPB2T/RLZRuBkCf83BwUu+UvFOlmQS7iXIHtQmps2syXhEYXdhCeJQkkf8u2iWuHU2ioXP81AbCf7pquoBtybE/XUpJzRd165UXfJ42M9g+VwJr8JbEyGWYvjF4VV17sR4ZhTHVGz3Oj7viPzB47BxOWsh5LSZiIsUrJx6G2W2Q7Bk7ei/0La+89TmkOtDyIIk2Jl4JyM8qACKghote7lFadn4P9cWjwxQ1eegZbpb0tlLadJNXdpi7GpGmfkfhGa8udHY3yS+VRriXQYFiQAsSbQmxybJJStBPG0rgVztRrEWQ5Dn60BcMJigV7igmy/y8c=;idTZdkmuV1bV3SeOo2pXAg=="

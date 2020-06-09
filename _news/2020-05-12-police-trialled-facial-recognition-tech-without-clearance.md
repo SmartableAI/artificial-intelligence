@@ -23,6 +23,7 @@ images:
   - url: "https://www.rnz.co.nz/assets/news_crops/59711/eight_col_F802.jpg?1529543726"
     width: 720
     height: 450
+    isCached: true
     title: "Police trialled facial recognition tech without clearance"
 
 related:

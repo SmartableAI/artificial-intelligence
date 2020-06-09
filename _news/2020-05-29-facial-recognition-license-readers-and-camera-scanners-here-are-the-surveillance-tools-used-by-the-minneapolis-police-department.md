@@ -27,6 +27,7 @@ images:
   - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-01/5/20/campaign_images/buzzfeed-prod-fastlane-02/charlottesville-cops-showed-restraint-at-first-an-2-29920-1515200861-10_dblbig.jpg"
     width: 625
     height: 415
+    isCached: true
     title: "Facial Recognition, License Readers And Camera Scanners: Here Are The Surveillance Tools Used By The Minneapolis Police Department"
 
 secured: "VwKxYQXdk7J9xR+wMq7woI6fZZt+QCAbWL0Y3qi2wTFpOZds4WVGQmRutGjhdcbQAC+NVDBJ5fiVQBTvPBNA3zRou4oo2Uk3omeZUEhm3QXMkhfjBAS1oOga3fv2/1NF352ZDuiyda4czuG0C+zqWfPUEyYqUX0oHLdFUcwS4O0NnY99ucivprOuRMb8h/xC0bwn6Z2GEtz/+BWQzadtDzb7bEfyQJMIJuTC8ix+lXfWznCgRH0L4kPn3T8YOVvVhUpb2hfd2dEI9N+N8XeVfGqKO98FHaPv6LZ/AxBCTXdNrreEFLNDS8/CKG5VlDgQJyPpeCf3+vsgDHIvrF1KMOIkKfqI/oI6bOiDKwPIOtIL0akHX7HQx84FkMU/VGsS+ZA4oJQGbBgG85EAlNM+rywB4RjebEweeUXtRRAZEh3ToJMcW+fTeGPru2tK4kuGAMSdQLp8KIqQipaQRVBesI991crZXk7XexsJKAh1yRA=;s28STalvEsQlfqGEC3fU8Q=="

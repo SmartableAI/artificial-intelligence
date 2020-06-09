@@ -21,6 +21,7 @@ images:
   - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1430204!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-logo-sits-on-display-outside-the-microsoft-corp-pavilion-at-the-mobile-world-congress-in-barcelona-photographer-simon-dawson-bloomberg.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "Microsoft unveils cloud tools tailored for health-care systems"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2019-2024"
 
 secured: "PtpRN451VWqQpmCwZ+8rCeydcnCS8rZFNFTd/ZV/wToLDopC6jFwunJtxjsX2+HfvdHJeGn9POMo7QYH6Gn7QN8tjRZeX2xXByeDP4NKEX65DOv3+MHdYGUqxQDi3SgLFAI5illM/7ip0P9vvZPi9kFWGqZAbzg0JGs2+BNZU2pWCUFifcsgrU5KCFEPVEhdRi8KcTBjPJk9+UA63u9LxPd+iSqhVtN4LYxKF8TwBeXr4nhLKeyWtOvgqIv435QuSaCDhvvWOaC5QjJq/dohRb+EwD05cZPut8sUQna2ztOgIBZvqQ9tvxthABRTqD08;EsQHoiE6BM3FcenXktJlDQ=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.hawaiinewsnow.com/resizer/2z0b4WEpY851KAVhPDvHacpnV_s=/1200x0/d1acid63ghtydj.cloudfront.net/05-19-2020/t_17c25ce9645142ee9ac4860de6f606a4_name_file_1280x720_2000_v3_1_.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Facial recognition reunites missing child after 32 years in China"
 
 related:

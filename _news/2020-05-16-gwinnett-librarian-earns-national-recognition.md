@@ -23,6 +23,7 @@ images:
   - url: "https://www.ajc.com/rf/image_md/Pub/p11/AJC/2020/05/15/Images/newsEngin.25715608_051620-CV-trumpet-player-CC2.jpg"
     width: 400
     height: 293
+    isCached: true
     title: "Gwinnett librarian earns national recognition"
 
 secured: "Q+cKC0z3I+vI2iJYLsDMTTdjdzR/XOiOJFs/XJjeFyb9syw6HmH9nEN2qpCsM98+hefdyOnEr27CQ7IluMZmDx2MfCDGA7TUf4PtHGGDRO+gn3J345hratAtSqe2w5/Ca77K0fIxLYz/uvR/nKg78qkCYZ1/xMFe+t7vycv43f1X1JjkmH5yHi2ZstflCB1zG0JkRHGm050inS2RAgs9XSZWGV8IhxWbLbBADIjsTU/00ZbXPOhXn76FXxvHA/2le9D5wjkkli28LR5gMFAu+ilL3BWkdX2wKcZmM7PFQqPhRcfvuQUdM/ThDn/rk8t5;2Sc3y7DknPY4p2ZvufbZbw=="

@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/f/cc/fcc534b6-8b58-11ea-b1e8-4f995fcc486e/5eab929a3a895.image.jpg?resize=780%2C438"
     width: 780
     height: 438
+    isCached: true
     title: "Why robots aren't delivering your groceries during the pandemic"
 
 secured: "hbUW71kExXzRnF+7VWwEsqDo4XpSTZLJ3M82m1HooXRuaz1ikW31USEWhm3mi6t2MCFR1sXo1RC80o7E5V3DXhnElXed0jrxX1OAq9pbEMdAfFp6PfUVlqai5kx0DicFAGjDU67xxH1oKGBz7+FvNrdTpTxP6QJEDMH2dXgd7o7s1LjTKA69pgeP9RogJ2RkZHbXaJ9mx+I2HJJvyVOay5lRr2xo50pwY5ZONtTVBjM3c0XKfTdeLvbq5TzQWB2bM/QaE7CblrK+LF54EYYHMxaEMLw3qRsg/Cs2EwQkWoJPKZ6MTuWCA1x2fR1a8xphuzslRVsaWj+DX1VgPkq748/1dzZbLpAp5COJHsrJ/J5AlL6/VrqEr1FhwGLCd7tNb7e5Jb0TEHBsNnkR6aWxiR5xUBNlFA8gb2bT1do1anuY9PT3XT1MisKKl5I/qu+NVrT16gFaWNcbW3oFwiSxUXFURIOlLkEn8gmezO/NGXU=;X4AGFZ3/sm4O8h6s1en28g=="

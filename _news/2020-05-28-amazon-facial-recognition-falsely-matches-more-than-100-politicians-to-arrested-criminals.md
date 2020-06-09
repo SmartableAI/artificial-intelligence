@@ -21,6 +21,7 @@ images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/28/10/amazon-rekognition-false-positives.jpg"
     width: 774
     height: 581
+    isCached: true
     title: "Amazon facial recognition falsely matches more than 100 politicians to arrested criminals"
 
 related:

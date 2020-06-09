@@ -28,6 +28,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "US joins G7 AI alliance to counter China’s influence"
 
 related:

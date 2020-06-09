@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/Volvo_SPA2_Luminar_Roofline_Integration.jpg"
     width: 1680
     height: 994
+    isCached: true
     title: "Volvo reveals the self-driving tech its cars will include from 2022"
 
 related:

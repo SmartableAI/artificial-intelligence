@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg"
     width: 1200
     height: 1031
+    isCached: true
     title: "IBM Announces New 5G Services And Automation Tools For CIOs"
 
 secured: "LD06WVZHJGfsYxcFptJINSuc9zR9DY/Awepi4jCErKh9BRrIIpPLgCuS07Uv15+XNdCKdkct4FSPt/qmIpS9vlEHPDm6pgMa1nehq8k8z0FSQZ1yPZlL6iOidqUdSokpnff/jUfIE4EWe5FXY7vbZ7WrOobWVOkYXK3gcwAaglnGmAygdevcs2E6y0t2wGPxrpR6BVQE3xs5R8oGlo2nG0zI1vg2OYBm8ugwtbd9UmptYzveh6CXvbf+mTPyUJ0C/oisInQkDLtPpHuhh+JzA2TLHxOydVcD0UkRt8tdOei+DQVPr8Mn8oBR7bY5v2txvyQpYBFip6ziqN62Tri15zlKMm/R4yk8VoNa6oyoelPjbXXIvLw/EN7tQHM9pxzZbuWQOMG/Hz6UDaaUNJhq+b6mJfLzS9RugSO+IGA5W3A5wuRpojWZydpOH5/N7vJvlbae1VdS4uwC+SUG2A3LCgmkmuClsk+O1zSh/msymr8=;bPks4N6OJislmszbfqWRpA=="

@@ -25,6 +25,7 @@ images:
   - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Robot to Safely Swab for Coronavirus Developed by Scientists in Denmark"
 
 related:

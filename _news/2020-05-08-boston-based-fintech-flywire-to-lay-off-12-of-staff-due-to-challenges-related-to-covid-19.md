@@ -23,6 +23,7 @@ images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
     width: 600
     height: 511
+    isCached: true
     title: "Boston-based Fintech Flywire to Lay Off 12% of Staff Due to Challenges Related to COVID-19"
 
 secured: "++ipE5B1swFH4EIny07Pro2FxmLzcTbQ/D9bOoLLB8AU8tp11LAtpljQLxNto9UmU3QNYcMQzS5vB7uP/vSqfUt8mHglwzh2zKA+sKrDRDyUiLqjQO4hL4II+uiJ8Rt2WfeVuNdmGyjnTmTciE52uEmdOV54xJUW9wBSS20uiNCU5YrEWhijbAmpFsamNkNKQ2/bIhfokHVF/H5Lq5SuEACeA38MDTxEIo6vOqX4YSfA8TWqaf1GdyHsv14cue/g+B/Rg4XDDPbDhDv5yVAIwEahwbMIJAVyIwx3QEOKmXGfarSC+w8q8hDDIi3WLBzm;a06d858B0zuSidWs87bOtw=="

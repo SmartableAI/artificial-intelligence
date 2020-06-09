@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/irobot-roomba-i7-plus-robot-vacuum-08.jpg"
     width: 1680
     height: 1050
+    isCached: true
     title: "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company"
 
 secured: "H4H+/E+i4AAlgshrgATy/wk5WQ//PHSVuZsjYbOg+TedpSwIWfPLIZSTF5x8pzbXKJxdL6osB2kYBiDkAanMETtjI03rxTrIDB1RaCHKlNm63zySf+LJhzotX6a3ZhopIQvwGFl2CuBCz8jFN6JrQuCS/zN3WW2LV0BdlicbYb3Eayci+s3iU84NgYinkHZNSTDBvCB5gFIm4LgCjnzi1D8orWrIxz9bvkQERDTOkJ8dO7X3AgIFw8SDdywiy2TMJ0LIAtpPh2n8r+iUFkS1fUqCur5VDq7fjjcVO4CuwgC7KhTaw0Q8P6Egx5kGAza+Hqm04YPjwvYq/b3nJQRZJ7P9mdDN6FUW+/LVt0JyZ2VD9wR5nqqTClbOGlYpqoeQYV/+ceJqncL0MecPNY58Ldvz3HJSuJRKReou6gME6+PI5wls0R5uf2GOoN91bAxmfb10/DlR03vvNAKTi+1e0hmNg6Zz/dSbPY9J1IQjT5s=;lievxF2d7dF5y6xCALt13A=="

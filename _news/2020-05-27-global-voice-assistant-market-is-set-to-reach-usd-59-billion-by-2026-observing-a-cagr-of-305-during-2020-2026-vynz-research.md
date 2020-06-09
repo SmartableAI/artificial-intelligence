@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Voice Assistant Market is Set to Reach USD 5.9 Billion by 2026, Observing a CAGR of 30.5% during 2020-2026: VynZ Research"
 
 secured: "CYvFEvA1WDiG8sq66A6VwYiYUEAorlUwDp3DJ99krYjOu606Ybz+4xoBOIOcFo5fcfQQhPPrzIa4oGeQZjJyW2N6xx/S0of5qjXi2bsf/krxAQBe5zcTjfCyZiwQRD2Kl3F8ir4+QoWvJuv4F+EW9aOVs47el0k/andp3JQXnVy/Gqb+1WBUR7QSsfWy2xQnI0VehmHoOjsoDKcfodf5RTTwlPlsLiHD5tgisfzQTRC3hnLQXo8WruYur3LnV7+9gdx13R7WdBABx8IJEIHNI8UF9ZjaSD8CgPWn+lR2NBX+9MFdAT6+b1WY0UkJ+0kt;jpCxyd3qZe03v8t9m8HelA=="

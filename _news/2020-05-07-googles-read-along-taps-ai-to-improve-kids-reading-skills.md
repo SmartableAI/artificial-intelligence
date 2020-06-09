@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Google’s Read Along taps AI to improve kids’ reading skills"
 
 related:

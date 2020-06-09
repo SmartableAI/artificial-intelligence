@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence in Healthcare Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024"
 
 related:

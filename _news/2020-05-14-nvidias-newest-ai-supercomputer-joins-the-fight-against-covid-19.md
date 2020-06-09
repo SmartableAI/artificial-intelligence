@@ -24,6 +24,7 @@ images:
   - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-03%2F0f55cd10-7138-11ea-bdbb-345696d81c5b&client=amp-blogside-v2&signature=07f74a6dcb7a0064c5f40595596a2ffe5910b5f6"
     width: 1036
     height: 630
+    isCached: true
     title: "NVIDIA's newest AI supercomputer joins the fight against COVID-19"
 
 related:

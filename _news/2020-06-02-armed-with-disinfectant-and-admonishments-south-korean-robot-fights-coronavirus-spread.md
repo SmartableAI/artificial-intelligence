@@ -21,6 +21,7 @@ images:
   - url: "https://c.tribune.com.pk/2020/06/2233820-s-1591089869.jpg"
     width: 640
     height: 426
+    isCached: true
     title: "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread"
 
 secured: "1QluHQ4RAXqpqLQAPqeCziyFr566Bn54kLO4ZBZY8hCJwhY3JXuBRkZqBJDqYCIFUiXBengTVeg0UZkRHsy4lBUEGnkWTllg+PY/KRNTHLJGNPx+RMYDqOFar2LAGLIdEnm/n9WTYwQlBxS9npZ0UWjgfqQXLOMpZeyQFWhnGFjl7jMMhC5ILyqUATWtIrmPpt9tnjCrBcR28voc9UL57xBCteeTKrxplfzg/xZd7xTieLmZ1gK5HJhM0zl/vxfywYf1mgnDVewCTtXqi4/pXkbGiNj2SEUzRt6V85n5w38ztX0PNTxEIwfM0LRKFabD;xPKGS8vt9+VIRwlyfYzPQA=="

@@ -25,6 +25,7 @@ images:
   - url: "https://static01.nyt.com/images/2020/05/03/business/00schmidt1/00schmidt1-facebookJumbo.jpg"
     width: 1050
     height: 550
+    isCached: true
     title: "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive"
 
 related:

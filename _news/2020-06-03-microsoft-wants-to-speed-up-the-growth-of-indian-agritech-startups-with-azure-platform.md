@@ -21,6 +21,7 @@ images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2019/08/agritech.jpg"
     width: 800
     height: 541
+    isCached: true
     title: "Microsoft Wants To Speed Up The Growth Of Indian Agritech Startups With Azure Platform"
 
 secured: "cylo4MVaGRJiKBFwYz1bjRzm3n+RLK8XQIaqeATFh/fLrvXzppIchDLsWtRPaSVQY/CRNjuqi/jF4JWE7io5GojkXaL9EHk90iwkld7gGjwNEtFc91oeewRCRQq4cl44oJLSNnHSxK8tnNQFVh9JYKRFqMJF36giy11M162tw6yZCQApuNlLHHilAfoBw9QbFTg6iNGfD/mX4B6zRh5M6eJr5MI4JKqhgnj4yJkr7T1H77ClwMsx5F0FPQ7mzk/JFkSEkvCcjiB2cMDBxAvNjVYYFCNbSZW3dVov243OMcCaxF0PvEWFxXKxEBPQax84bTMGG2s8GA/ZaJbPcJpL82qegh7PHvPbov6uY/Z2oPeBCoCXHWbUs7jlsgh8RFowVDABIqhkjFm4Tuq3AqvnjIepUmS8A2krxtPW5y40tevR6V42i1veUU1HJ7ux4O4X1mQFBBc01XtUXL3vXpGBDN4QzquRBRgACvkMQNrtFto=;m6t2xamlK82AXXLASGgW7w=="

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning Market with Focus on Emerging Technologies, Regional Trends, Competitive Landscape, Regional Analysis and Forecasts to 2026"
 
 related:

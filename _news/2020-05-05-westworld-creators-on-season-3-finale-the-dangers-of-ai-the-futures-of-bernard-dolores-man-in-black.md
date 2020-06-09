@@ -22,6 +22,7 @@ images:
   - url: "https://pmcdeadline2.files.wordpress.com/2020/05/ww308_doloresmavepraririe1-1.jpg?w=1024"
     width: 1024
     height: 500
+    isCached: true
     title: "‘Westworld’ Creators On Season 3 Finale; The Dangers Of AI; The Futures Of Bernard, Dolores & Man In Black"
 
 secured: "mmjarRy4qtO5J8YSRJ37mumWiz/mWcfSEEIMJ88cQ4gQ7d2hLDloFp0qCM5XdwE4NTw7mD88SC7/tKPemiiMS9iDCyDJoLTBuHov5Bq6hDBzFfBb1+34ZIGyOm3Yi+sCmx3u+Je5QtiYbn37hldRQTYS0YYrCMtX1gV/xrbn47mYsv2scsPdY8pqRjycxq6WDT7Z+8p3oA+LIuRiJicrlJC6Flq7Qg+3TWQADJnrI9i02Fsiy6TquWz3AeXJOl7OpjG4F1gP24wSUdhI4AtEXHNdZIYokSOREElQqm84QlVVJRrT7nKtOAj53sdh4kD4;4MF3JXf88xysgqhSXL1p8g=="

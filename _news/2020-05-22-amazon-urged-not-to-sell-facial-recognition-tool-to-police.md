@@ -20,6 +20,7 @@ images:
   - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg"
     width: 630
     height: 420
+    isCached: true
     title: "Amazon urged not to sell facial recognition tool to police"
 
 secured: "g+Fwh5z7kzrSXOUjtE+8xKp9gFvjDylMxloZUFIcEKZ4wu2qlU1DZjl6o3qomA6HxzFEFlKjdwdB7T1hAldmD/FZT1JoNXBY02qDbH0j/4mJfPzfIqCkZcHCIBwostwX/4kn3TEvFqaCRUkz9BB/UVsw2LAS+tyJhhZVujtttXSaxQd+rAonI0CDEfm5u9U4aJz6WvwxTUfYErLb1JRrjiCSV+mypReFYd0pc2nYSIvUPwhO4eDn06NAyjDD4KVAB1U17inC+cxLt461chZVzKNzNT+DFbbR0twU2TIMyQ36If3iuDUhFcS2V5r5oznB;I3xsJvUbbK90DILgnoNk/g=="

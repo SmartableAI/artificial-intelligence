@@ -24,6 +24,7 @@ images:
   - url: "https://i.insider.com/5eb58ec514419271aa6abcf3?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "How a recruitment firm uses AI to evaluate potential CEO culture fits, addressing the number one reason why outside hires fail"
 
 secured: "ivO8mCzIVl0xasKWdugh2XMsfbWXjL5d1mzGl3fKlAObbwtUjO+1zj03+JImpdxxCV37zLx8cQ6H7hoznw+VsDLqhIoxV4cwgqLD9Thyx3IB5UGy3A6n/I7UyAqtMBQdIoKRgVbxv3GCZGUTODcYtmIAp9kUZ2ojJK2OLAXHybJ6VZ7elE+zhNrbh6lGDa8B1mNmZINTAeggAojPpB5qBSt23Lw/I/v2Ygpgkn/pIuv8BHaEFf7r/EUzb/lz09LDuAlXpSnhaH3Y12tJHMETXp2OW8GlR+Wf3D0AfHolp4Z8G75FTZvR2pn9ePneGF8+;PkFAocXZSScg2ZYW+wU1QA=="

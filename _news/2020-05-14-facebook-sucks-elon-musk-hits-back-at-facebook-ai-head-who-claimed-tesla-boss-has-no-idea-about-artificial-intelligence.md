@@ -27,6 +27,7 @@ images:
   - url: "https://d.newsweek.com/en/full/1575729/elon-musk.jpg"
     width: 2500
     height: 1667
+    isCached: true
     title: "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence"
 
 related:

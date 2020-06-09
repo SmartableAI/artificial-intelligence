@@ -20,6 +20,7 @@ images:
   - url: "https://menafn.com/updates/pr/2020-05/05/SR_d32dd11d-0image_story.jpg"
     width: 660
     height: 300
+    isCached: true
     title: "India- Artificial Intelligence in Retail Market | Oracle Corporation, Salesforce.com Inc., SAP SE, Sentient Technologies, and ViSenze Pte Ltd"
 
 secured: "1/x7t4gABvOGqR+lZ97c/ykhlmSuHUP7pJ4JpSwTXRRDSTMv0Zd13CRKEUqeJ4J21m1wAYojAwBQjbOjocpGmWpS9/4sv3/F1bAislzyrKZLi53jwZ0ESiqhdbtj9cjp1FxGsOgMv7nU/clyhUgA1sc54Vk5HSADjmTcAeJpmoIiSrI1LzhVFN0yJSi6a2lLLgHg6BAHYfaE3MvjSdpdLT+p+BY7ORSKP3sd9NuWlyVJ3nMDs3k5gAfQflVt+CSJp3uWK68KvgMZkA6ZjJaJ7SObm3jx9mDDN1j57SIumh3K/hGiJYPVd8c/FE5Nh8ak;2rLgtQUU7kKbYou8T/gK0Q=="

@@ -21,6 +21,7 @@ images:
   - url: "https://api.thedrive.com/wp-content/uploads/2020/05/Tesla-Cybertruck-2022-1600-01.jpg?quality=85"
     width: 1600
     height: 900
+    isCached: true
     title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have a Bridge to Sell You"
 
 secured: "RkaJ/rHmMQXzSzuIDHqTp5arycABuyeJjGNhD7F13reWjLZcvdsUi8YYwIujbzapkj7B/AeiB4r50yGmPrCC+gBeDBG/kMR01fHkunjQXRq6wG2NQezsjUDfkmxH/WAcrlPIbnU4OBSLpr5m6Rx7pqy3P0Q9nOanRo3Agml6pVf9ErzPF+HuqiJcsUkqy9tS+xx9FBX2Xb0Gdqv9FL07KgXIDijDMtvrjBZPB1U4yqul0XtHMKTVgJXoTdBnc9agXVKycPJ0CJpEbZQZo5F3VER7waB32KMEsZaCk1HwBzeHiALv8h/GLvAM3SNK1LfakpATkW+B6hUNnB5fSQuI+qv8mDXEhpjbla0wCoMbrCwzyZz73HuKyuk770vokdGq9vWsWBgz6CZtyRPVCY0TkMEQ1UWlEH/5NmDa15ugStGdN1tJzbwCtsyIHBkaKmrKfagJ0acuiAAIus9y6n4sdu8TTr5TNdjtkc0Kx0WoClQ=;xxdc1X3m7DwNv99zzNKxZA=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.innovationaus.com/wp-content/uploads/2020/05/China-AI-Healthcare-800x600.JPG.jpg"
     width: 800
     height: 600
+    isCached: true
     title: "China’s AI health care COVID response"
 
 related:

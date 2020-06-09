@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1170433/Sleek_Fleet.jpg?p=facebook"
     width: 2700
     height: 1413
+    isCached: true
     title: "Sleek Fleet Launches Proprietary Machine Learning Platform to Find Perfect Driver for Every Truck Load"
 
 related:

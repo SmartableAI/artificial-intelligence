@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/kQ2DWQKhB8ESuyUYp1ZakUHRY3U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66863662/acastro_180730_1777_facial_recognition_0002.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "ACLU sues facial recognition firm Clearview AI, calling it a ‘nightmare scenario’ for privacy"
 
 related:

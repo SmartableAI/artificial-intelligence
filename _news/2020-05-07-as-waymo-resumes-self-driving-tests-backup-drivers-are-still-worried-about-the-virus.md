@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/lveHS73iaaLc1l2TS1Z0FuxmV_o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66767191/vpavic_181127_3122_0042.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "As Waymo resumes self-driving tests, backup drivers are still worried about the virus"
 
 related:

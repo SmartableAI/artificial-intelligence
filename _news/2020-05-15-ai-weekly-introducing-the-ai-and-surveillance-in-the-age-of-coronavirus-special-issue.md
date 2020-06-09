@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/vb-special-issue-ai-surveillance-coronavirus-cover.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 400
+    isCached: true
     title: "AI Weekly: Introducing the AI and surveillance in the age of coronavirus special issue"
 
 related:

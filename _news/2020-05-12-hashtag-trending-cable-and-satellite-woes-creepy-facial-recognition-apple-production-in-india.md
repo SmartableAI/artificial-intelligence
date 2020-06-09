@@ -23,6 +23,7 @@ images:
   - url: "https://www.itbusiness.ca/wp-content/ewww/lazy/placeholder-620x250.png"
     width: 620
     height: 250
+    isCached: true
     title: "Hashtag Trending – Cable and satellite woes; creepy facial recognition; Apple production in India"
   - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
     width: 620

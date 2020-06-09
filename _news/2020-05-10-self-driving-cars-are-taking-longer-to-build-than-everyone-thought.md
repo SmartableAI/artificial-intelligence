@@ -23,6 +23,7 @@ images:
   - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/autonomy-reality-1587733677.jpg?crop=1.00xw:0.815xh;0,0.151xh&resize=1200:*"
     width: 1200
     height: 601
+    isCached: true
     title: "Self-Driving Cars Are Taking Longer to Build Than Everyone Thought"
 
 secured: "52NHq7f2XMlGF0vq2qSOnq7loiTMsFNF7TtZM/NYt1GgupWN6LauiX5bgGdAvjimHiPDRDoTjjr28eEckxXwbdrpxf/aGTiANwHkcyswinjmLi0TxoHshRSrxyLGighHvOwWdqAxkv3ncdrwW6h+XTmPVVYX8r93TjL+7rDpgIClYn+K553nswOm03+7ghO0DbtEL9jXKphspgfznehgs5WS394OyhhYrpV8Mu38bEegK6IcdmS0ZUss1D10nfKlBCweScyY8PsjZAQD6IZlle9UyNnKN7PiMrDcL97CN3lZgaIEKlyaAqmj+fysq2eJ;6r8G9lm/Depf+dG/PwsH/A=="

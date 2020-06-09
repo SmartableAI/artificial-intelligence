@@ -20,6 +20,12 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/iguazio1.png"
     width: 813
     height: 432
+    isCached: true
+    title: "Iguazio teams up with NetApp to accelerate AI app deployment"
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Pipeline-for-use.png"
+    width: 2000
+    height: 1125
+    isCached: true
     title: "Iguazio teams up with NetApp to accelerate AI app deployment"
 
 related:

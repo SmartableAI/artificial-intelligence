@@ -22,6 +22,7 @@ images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/f7cec8ab-2d1a-4861-9342-70bec61b1639/be8ed576-fe3e-438c-9b0f-47a8878f449f/1280x720/match/image.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Ai Weiwei says new security law is the end of Hong Kong | Charlotte Observer"
 
 related:

@@ -20,6 +20,7 @@ images:
   - url: "https://mma.prnewswire.com/media/677720/Eightfold_ai_Logo.jpg?p=facebook"
     width: 2700
     height: 1414
+    isCached: true
     title: "Eightfold Talent Intelligence Platform™ Now an SAP Endorsed App Available on SAP® App Center"
 
 related:

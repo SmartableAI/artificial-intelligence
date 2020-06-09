@@ -21,6 +21,7 @@ images:
   - url: "https://www.nippon.com/en/ncommon/images/no-image.png"
     width: 600
     height: 400
+    isCached: true
     title: "Sony, ANA Units to Develop Remotely Controlled Robots"
 
 secured: "cBA6xSDL0silPjgr+cDQAxA4yYRBqSlB1+WtZihPHEErgLN9eb+zk2c+Mr+F96IIZi2FGZvrSb0aeYfOnA6poDACWmG7fKQxCt4kLLt28p3fSZ1p3knzY3Ei+iGbCiWm9z4X7P7BjNuZhZICZeaKt5JwDVFJb1mVI1xoWGcPMNTKPH6J1RayCbg3H0yyZozolos7gknNc8dMiYyZparanhZI0VMkUOUtLUXcMVsVDatcrpbFMCOUjO6eewA00BL7ZEyI8GzyX3u7xY7ib2LJhLRlMaF0R6pLPeh8CywFpbLa8HbJgMlpAjfd6lW9YLOQ;dMdgN3vuUsoJmlTvskLmJw=="

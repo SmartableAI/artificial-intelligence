@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055"
     width: 1200
     height: 630
+    isCached: true
     title: "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty"
 
 secured: "qaBoUeGjV0e39w7Tx1MWTPh8XFYYDEivmXnKsFljrALzYPke7ZSPSdZB7kuIwFbFnVnLQkcaq6AqdIrHfJfSjb2fHwgq9ueEMr+NQA4VbqIBUfDi+w+ba/Jb3LbARZtD9IIvX1XLeC0bKLkantwG0miITJJe3oRUhW0TdKBi6BexpFa64a1Nb96r8ynLXAZeAT13vzVoJT1RZNJF+NeloDTXoeJpluEydXnWWJvVv2uIJukOQhY+o66XAHfFDyk8kNXl5lja9yFcJr3OKG+Fw7cp28SeT8EutfWYj31c5jzKPqnLGdgzP9VaumkLsX/x440XsknOVYU3Ue2gUucrbHzU8ecK3tctdQOg6QV74Botxnxy6IhekEhm8SAYH6GU33GZkNCdXQvFKTXWqN5BgFQcszvAFUTUaHU9wR5LINvSwxVgz1DJGYXjtlShUzFGEFpeNSCw/LgrksK2GtO0SreU1sMqPvrp6uzDJEv0B98=;7bZuTPiYl+SQq/kCdM3EBQ=="

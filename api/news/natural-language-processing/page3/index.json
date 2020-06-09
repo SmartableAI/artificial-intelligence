@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 2881,
           "height": 2010,
           "title": "Facebook says AI has a ways to go to detect nasty memes",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -68,7 +70,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -80,7 +83,8 @@
           "width": 600,
           "height": 350,
           "title": "Facebook deploys AI in its fight against hate speech and misinformation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -114,7 +118,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -126,7 +131,8 @@
           "width": 1200,
           "height": 675,
           "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -159,7 +165,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -171,7 +178,8 @@
           "width": 1200,
           "height": 600,
           "title": "Intel Capital commits $132 million to 11 AI startups",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -204,7 +212,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -216,7 +225,8 @@
           "width": 500,
           "height": 261,
           "title": "How to set up speech-to-text in Windows 10",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -253,7 +263,8 @@
           "width": 720,
           "height": 405,
           "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 970,
           "height": 545,
           "title": "How AI can help educators leap ahead?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -331,7 +344,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -343,7 +357,8 @@
           "width": 1200,
           "height": 584,
           "title": "Understanding The Recognition Pattern Of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -406,7 +421,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -418,7 +434,8 @@
           "width": 756,
           "height": 567,
           "title": "Clearview AI to stop providing facial recognition to private companies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -456,7 +473,8 @@
           "width": 777,
           "height": 518,
           "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -490,7 +508,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -502,7 +521,8 @@
           "width": 1200,
           "height": 800,
           "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -536,7 +556,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -548,14 +569,16 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s AI detects gender bias in text",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
           "width": 1200,
           "height": 600,
           "title": "Facebook’s AI detects gender bias in text",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -617,7 +640,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -629,7 +653,8 @@
           "width": 1296,
           "height": 647,
           "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -691,7 +716,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -703,7 +729,8 @@
           "width": 640,
           "height": 640,
           "title": "How Can AI Improve Sales And Support?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -736,7 +763,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -748,7 +776,8 @@
           "width": 570,
           "height": 321,
           "title": "The Easy Questions That Stump Computers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -781,7 +810,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -793,7 +823,16 @@
           "width": 1059,
           "height": 619,
           "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?w=1200&#038;strip=all",
+          "width": 1059,
+          "height": 619,
+          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -826,7 +865,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -838,7 +878,16 @@
           "width": 1800,
           "height": 900,
           "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -871,7 +920,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -883,7 +933,8 @@
           "width": 1200,
           "height": 900,
           "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -916,7 +967,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -928,7 +980,16 @@
           "width": 1200,
           "height": 600,
           "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -965,7 +1026,8 @@
           "width": 554,
           "height": 267,
           "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

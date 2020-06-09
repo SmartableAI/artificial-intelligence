@@ -21,6 +21,7 @@ images:
   - url: "https://www.nzherald.co.nz/resizer/RRGwnd0bOrayZWNOQLO_dR8ZwBU=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RWJH3I7LCBBTNLGZWV6N2L5AVY.jpg"
     width: 1200
     height: 750
+    isCached: true
     title: "NZ Police trialled facial recognition tech without clearance"
 
 related:

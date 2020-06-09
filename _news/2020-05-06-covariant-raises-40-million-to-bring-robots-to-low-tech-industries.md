@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/covariant-founders.jpg?fit=1800%2C900&strip=all"
     width: 1800
     height: 900
+    isCached: true
     title: "Covariant raises $40 million to bring robots to low-tech industries"
 
 related:

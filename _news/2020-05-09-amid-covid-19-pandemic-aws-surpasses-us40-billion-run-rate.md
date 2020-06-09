@@ -21,6 +21,7 @@ images:
   - url: "https://i.nextmedia.com.au/News/crn-690_aws_sign.jpg"
     width: 690
     height: 428
+    isCached: true
     title: "Amid COVID-19 pandemic, AWS surpasses US$40 billion run rate"
 
 secured: "NITZr+aBjQRdfNZq0Z83dw748715W6iOppnhmBe/JqMUJbFev0BeNvo505gps8gLTgMJAGhuveRIQzLEP5JUZMTKOexzkv0yPHAZEZ4WBbfr5KLg/eIC5BljbCcO70CqKGv47Ywb6+va4sSOquRJ7V0gFVnNAFnDWHyzkPWbfoocdS1ulUuHrAQIJWdFln8vmbdOQhUu23d3KGxmRd9RTmIVTE8746eOUFCox2jtQZB49rzsByd9lfIeHr7e3PLi7q3f90PdFbR9SkqwHHsd7mIJcY2ESVEgNWs6wKpZ3bkCyyWpyPx5VrGIv1K3HewF1IZi7y74THHE2vf2sOM+vD7sY/GVIfd9CCpvGd04AZkj0jEmnccHnGxC+wZqXxKjmWabK1Gvf623T1W4rQViz90cHJmuWwPjNMofuLl/sZ/v3Bxbj3Bqo2vM3c39NUSbgopvRb3TqhSkQ6ZnTsWoraTE476kHCAbBaeulK85dUk=;LBTO7tGWqlFZHDb6h5Phxw=="

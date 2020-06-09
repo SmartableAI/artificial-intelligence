@@ -23,6 +23,7 @@ images:
   - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/gdp_660_200520114548_260520050131.jpg"
     width: 660
     height: 450
+    isCached: true
     title: "Indian-American scientist gets Inventor of the Year award for AI related work"
 
 secured: "EnCksZ4lRlex3RgtuoYcGWbkhSwBgwSyxnB0aZOqmgdaMeHbaFplKU0BkTWgC5QuI3/8VU04Sef0snrj/PE9wXxjh8rcoXrjav1MJKUoIj1H03BK+RhFqtggm1g0Kphy5mZmD4+F5WnCtX2sL78cr7Iq1mhqmLyYIFNDmOgp1STio1dq1fipJShoiWoX9quOZkwxepV4I/pt7sv4pryWuQzPMyp2jHM9WCsLtGiPJK1jlxNNCY4NU5V+x5mat45hv7NQA8GedSLyfnb3GKXYfyRQskkEhbKT0/CbiIAm5yyrROwzXHD0OU72Dv5sohaE;Bov/zdhdMUrprE8aiV+FuA=="

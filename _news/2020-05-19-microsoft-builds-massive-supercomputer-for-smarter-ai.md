@@ -28,6 +28,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Microsoft builds massive supercomputer for smarter AI"
 
 related:

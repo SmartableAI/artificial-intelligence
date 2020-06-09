@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 675
+    isCached: true
     title: "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision"
 
 related:

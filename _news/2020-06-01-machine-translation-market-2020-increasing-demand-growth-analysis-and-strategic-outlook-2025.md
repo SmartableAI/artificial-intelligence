@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Translation Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2025"
 
 secured: "scrglwrGDU42NllqkEEZ45pW7i0qUc4RV9YDuPS8rOx/k+ihpyjiB865iJka06aaDn8KuwoQiKP8EdrwggdXiQP6S5V2Nff5xIB8Gqq1vEeCjUKBacZrOzq/HJUI47yKmN13g76QJDpBHKg2uDkXfTuzQ/+8d5ky3STgY7YZRr7M4bWxN3UiSReGtssFfYNnA2QU+0XgNjiyP9HpS+x7dvpy5gcZWMP7nFtM3oB4Y3RmAeCGgSo9fhDVgo6P+2rlVoP2uRbhu1ulztR2i0bSOZJI1dC/IEWEC2ENP9OUG5SxRtZ2GWLvZ0J3c/J7uECk;3lSt5BvWqm/KuonJLCM3fA=="

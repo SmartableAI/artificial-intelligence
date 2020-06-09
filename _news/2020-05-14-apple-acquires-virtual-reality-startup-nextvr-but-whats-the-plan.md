@@ -26,6 +26,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-4.png"
     width: 2048
     height: 1152
+    isCached: true
     title: "Apple acquires virtual reality startup NextVR, but what's the plan?"
 
 related:

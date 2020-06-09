@@ -23,6 +23,7 @@ images:
   - url: "https://usatchiefswire.files.wordpress.com/2020/05/usatsi_10593656.jpg?w=1024&h=576&crop=1"
     width: 1024
     height: 576
+    isCached: true
     title: "Chiefs TE Travis Kelce asked his brother for advice on Super Bowl parade speech"
 
 secured: "tBnUe87ta5HYn9wQmwZZfFd5ZHGaClsrWJWNhdu5wBGIdfoIcfKIvoTbQQt7aGuhT6/vHicazTzOv2NaQyX0sgNOmDN6OoiM83COCzdeGnB9WkvwMnOTQaWsm+E9pEPORE9AA5euHTAqAYQdfBaDKJrWFjuSTtHidb7qZ6oqMtmks0WJ2OsOaoynxDlkJKEOTgP6DJj75ZIPKUd64MDfGJK/T89GHQXowWTJgSm42xNWt78fNlhp3hb8wqah9mAoiijFD87PoJ6RTiRWsBeJzQMjZV1dta+Zz7yvwvWGCYhSxGH3RRUPm3BbwsC2IfLF;0bn7RH6GOfbBKAlVv7UOCw=="

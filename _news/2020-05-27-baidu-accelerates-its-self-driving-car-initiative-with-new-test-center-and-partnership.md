@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize"
     width: 1200
     height: 800
+    isCached: true
     title: "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership"
 
 secured: "Tux31dxP3OO4kckQ/ERW/lUCrKk3rwfTsRqLfcVKmb/tmgG1n7YwbD3Ci+Rjr6VejYwtdrFWorIblfOfUjpUxgeThCBDrIa0l5YeaKTyUyS3tWrbHxR9iZwObRVD0mRc8i2XrvlJJz7bjbXLRdvaa/w4MLQDtm1/LyoQDT2ELYUvaBDquFJqifKoZLAv4oZrpwINiaLecedLK3KBfcbbvZ1+9P0oDiZe1DPu0Oa/TvAAj2yj1DmoGoMElWvvdi9necRAG81Sy0sRtDCow/2t0gxYiby3qITK8wF9NIZSCrlJ9BR/LsrryUJv9YBLHex/S+eTzgoV43FFKpoRCuhhSZL8WWht7olEnNHJNEP8Qtbn4tbfm+OCbnbURGNjwnxtBzPBt+WUpvGXuRh6EfnOry3i1d1J/JtqwP7RTOQZ7ZitK1Zv2RymN6uF+UvT2OyFeP/x0zOpENY5IiJWN6eyOFATqDs3GHQWVPRYgV1cMd8=;G1eOXIUxdVxOdIdGRfW6pQ=="

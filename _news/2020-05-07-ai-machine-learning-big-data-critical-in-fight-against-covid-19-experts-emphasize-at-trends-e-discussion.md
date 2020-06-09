@@ -23,6 +23,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion"
 
 related:

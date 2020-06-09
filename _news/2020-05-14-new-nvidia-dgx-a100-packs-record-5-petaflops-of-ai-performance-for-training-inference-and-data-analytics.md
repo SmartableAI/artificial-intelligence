@@ -20,6 +20,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/dgxa100.jpg"
     width: 700
     height: 705
+    isCached: true
     title: "New NVIDIA DGX A100 Packs Record 5 Petaflops of AI Performance for Training, Inference, and Data Analytics"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.motortrend.com/uploads/sites/5/2020/05/2021-Cadillac-Escalade.jpg?fit=around%7C480:270"
     width: 480
     height: 270
+    isCached: true
     title: "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option"
 
 secured: "df8iaEiF1tUVO41ncp6RhOdpmMqmevwOhBschHShEjVe8KUUnitCEMJLHeXy4BXHeN+1KeDaEQpiMtcWZNPgUjquEcxZ8hhbdsCRDx4IlhpCEATEc/V0mMb9mcs3GzbgSJ+KgCefDWuSXV5cEcwhnXyQdNkhkDfO5gd1R/kXc7odJDk/1XvrMPaJdn+yfzwdQnudcMxSPhyOfeYjC2EWnWuwXQabproV3G2mW74z45rANkauZmZTyv+ktExzefCtSiO6oju8K3Uzfk130Kks95sVBjE5fRjIopdAF9mJ4pGPe6fYsIhRXrokC54zxhlb;bDPyjdAQD0JI6KyoD/AIiQ=="

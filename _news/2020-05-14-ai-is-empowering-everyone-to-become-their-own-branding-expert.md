@@ -21,6 +21,7 @@ images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2017/12/artificial-intelligence-AI-disrupting-marketing.jpg"
     width: 1000
     height: 667
+    isCached: true
     title: "AI Is Empowering Everyone to Become Their Own Branding Expert"
 
 secured: "KdR8FgHhMKW0ErxETt/x/6nxai7Zmi5NQc7jnt8U0qGnLV5IVsNFxrAFz7dQ8C1TIg6VnFnj1rAvDXbDX7X/Pc/PbabaXTj8MvvCMaPjV5nJZz9ttDv3w7eDBZVRNxlQ8Kownvx9Cmr5fbiEn7zAtr9mojNd5aoqF0P8N6qq1PG65Fu8U2qccWslOLRuzpjYVqTULyF0ZS4hEbbzZQvfoc8G/nwpe4yMgR05PhGrsGRoomU1amJluDyMipp1309luwqU/lav328nFhFpzp93bFGgegaF6ONlgtxxdnMqacIx8D6fUXjXzYfrdcnJmjXP;o+8wL7w8WHjcDu924Tg/Eg=="

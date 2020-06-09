@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "North America Self-driving Car Market 2018-2023|Share, Growth, Top Manufacturers"
 
 secured: "++X/WYOZwJy0mMSQkm7wwshYTAcu7PcDKn8NUuD/er6pRgmVgABCzgM8QZi1pt14n0ifdCAV+gWI0IYnd1Ja7R5VjgfWctUtfoAct4Bj64+319iQNly5uhwWbSlMpccZfzIo9hfvfMjEIlaaerd00jiNl3h4aZT9FyVweOUBvLxWK2hjagILzfU/TztA8xbqNoXay4yD1954brBmDrWdU8WfAA8y1tLX0NTSJPMdiDzvSPLoCDmpUtruZTrfOeZz1kgiaDUnVLOZzHy/DySS1jELvC7ZGvM65Sy1FgS2kkok1iNwpR02bhofJlX3U/pQ;t6LN9lc/rtFlJRlmwpDYmg=="

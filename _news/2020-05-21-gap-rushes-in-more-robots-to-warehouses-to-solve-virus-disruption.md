@@ -27,6 +27,7 @@ images:
   - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD"
     width: 817
     height: 545
+    isCached: true
     title: "Gap rushes in more robots to warehouses to solve virus disruption"
 
 related:

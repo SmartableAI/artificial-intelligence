@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
     width: 615
     height: 384
+    isCached: true
     title: "Today’s cache | Facial recognition technology, and more"
 
 related:

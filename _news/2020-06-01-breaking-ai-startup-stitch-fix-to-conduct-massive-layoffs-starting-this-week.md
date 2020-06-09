@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg"
     width: 796
     height: 402
+    isCached: true
     title: "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week"
 
 secured: "+e3K0YUiPtjMM1bugXs9M4A/u8Qwo1rdS0gdFEMrwLFU2vkKqeavlFdLakQEj24N6vHWr28GENtr1ITChoA7dWPcZde8Dbw0DDQ1Aux6pNX9nJ56yrWJrAdvly6htDu58WazDkQQ89mcZU0IM0QEmZMZ+1g0ummEFjKedfiqwOaJkbhprvg5+6pKtKdoU6VF+05X0UQBhyfdTxcfH3Sk9+Cbw0BqdovsRfT2iYoXjilB1WRlC93aFSxV+uTefwOB7JWz4FEDCVyRstcEBZFBbV8ogeTr9JgxBxnH5iZDPcVUsQkosmiwt9eCeMmHF4Hd;Y8iXP+EK0eRH2h6L22gxyQ=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
     width: 1000
     height: 600
+    isCached: true
     title: "Nvidia Unveils 7nm Ampere A100 GPU To Unify Training, Inference"
 
 related:

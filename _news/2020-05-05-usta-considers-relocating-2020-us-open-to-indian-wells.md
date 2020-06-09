@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "USTA Considers Relocating 2020 U.S. Open to Indian Wells"
 
 secured: "OivL+afvIbNkCAr5rrKcm7HUM9bdnlg98AVoP6QiOGIhXmnCGBUH9ypAqoVEqnbeee3WEnk0enQ+uFG29oxP4JAQiqXRvggAN4JgKjESeRgahUWblkw94q53ESRqwNCAkUHncegi1SfCLL2uqE66ntDp6CMG2tIYvWIshGvGGyjhmsOXYUQlB9xvL4X2jXgZqCvDhnUzlQHbSFRme58TpqUTrEz777jpH3mC79Jngn1VQiKuHhpyxdcjPJ2oq2xZDNDweLnCMp0pNwwN62qGD4h+uUDDPWt0JZw9vL3VgX4Sp3u4N8rqxqKgvyLVtfcv;WI6UVJZYOh3H74jbf/uR9A=="

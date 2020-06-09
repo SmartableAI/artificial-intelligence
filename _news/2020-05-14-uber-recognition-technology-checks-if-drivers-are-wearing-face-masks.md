@@ -21,6 +21,7 @@ images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/13/16/uber-coronavirus.jpg"
     width: 2273
     height: 1705
+    isCached: true
     title: "Uber recognition technology checks if drivers are wearing face masks"
 
 secured: "XanSrUw01kMsTgUvFSZSKWxDSrCIjRNkPS7asEvJp3HCtB3mc1fNvHPTxNFlk886Rvo71Dot+Ys0An+dJzD3O4H/xua8u+LBUBfc5/2w2m71lztUNrkU2ITcYt7DfB8p9hxbkd4aiQHhPuz/DVR2hKmIjznV7MC3jptsCq3vDAwJli69GusaUgmITR87aaBPDaiYXYvV9NYZlnVKkX+DG5wROHZDzuJNojSuuVC0vUl18Nqk8CKph4X5UDgLDXjPsUH9MOa1ECzkoSgjgDQUtRKdCn8phKPVc9zB9TIWdvgDPpTBqxOlHZ8LVfEhXtGnXHwaoui9rfqGyp7BetnRIaiS1obYpXqkk70ur2kaReARLFjpxT5IUfHeQVOEmYZEvhzV09ElCH0zh/gImtNP7TZZQH+6CzrCX9ImKWEmrVniOaTHWiWj2PX5e4wja527mMeb2jkB084dD8ZXNQrGYdDPCSI/+duiJEoczbZlzaM=;UgMCq8Uatykak/XTx5FT2w=="

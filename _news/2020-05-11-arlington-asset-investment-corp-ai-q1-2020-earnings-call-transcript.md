@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png"
     width: 580
     height: 618
+    isCached: true
     title: "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript"
 
 secured: "aF9W64BZKXohBHT7ep9daJDd/v1xmcqij70SNkLXC/0hi19/vo4mHwPs8RYCd/1TPVWYMXTX58Qlw/667nZYDlKdC7Vz1TQe7miKE3DhG1DQ5+0Rz1y7ME42ScLocZ6UpD3pIcJNXd760aU4OUv9ZZnQS7GJvm7oUshKTy5YK+SFPoEcS2+Vvbvp4iiysgxzOeJz3dtfrVvuKQa6HtGWNVJyWQDtRNxL8fxqFpKpsIjl0mgd50aC1mggwZPMF29KOwp6n65rVLOe8SKVKKNgIA+5CRKxdBUfAHWVzlXdE2AHt2UMcXQuVhjtpR7+4bMZRBy2D2vc1pjCIJPAHlBYmIi+xSU9HKNtgMjj7lHECw6T+ex6CbkFYrY7tmBHhsIyF7LFolgjjVdjyvE0UC0vKSyN6oUX3u0XdQxSL1tPdDvleJC68oHDy5QNq4ANP9Pl7lUBHTcgtNTyxrF9eCi6l6cyWqnf+WcAGqsD+kYmYnw=;+3zw1HKovEriemR4V02ftQ=="

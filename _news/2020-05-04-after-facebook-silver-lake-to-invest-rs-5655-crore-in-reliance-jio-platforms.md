@@ -20,6 +20,7 @@ images:
   - url: "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg"
     width: 750
     height: 563
+    isCached: true
     title: "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms"
 
 secured: "dOU5GK/yTYNP5o1hxWfv2n/qFShevAWFJd2oLyAU+blZGuUuKBcgUnVEwADLvNcX1I2Tq9l+3Smp4Zv09ox2XcARhPMhmo26y5kTa0XFJQeV/JU5BCWGWI5iZmo2+2LlNordCBKGXlyRdxXqUs9gm2/Iq030N1UtpAsySTP69f/xMWdyOVBoRojC8i7hQm0qVDrRlRuuoyQ8w4aCvGQbBl5ensobWDVeLsGZAvgWE7vFH1rcfY0pN7bSHAefVnQuC3qfXlt3f8XKoN3Dhf/IdzpPq8mtpQrKX07cOEV8EZJCnjUKu/VdIo3kZ1Np/na9;AA/SbsQw6pZNIc96UN05Yg=="

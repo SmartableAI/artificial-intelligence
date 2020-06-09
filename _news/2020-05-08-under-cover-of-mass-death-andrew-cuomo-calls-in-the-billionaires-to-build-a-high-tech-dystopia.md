@@ -21,6 +21,7 @@ images:
   - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/05/GettyImages-457954880-crop.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
     width: 1200
     height: 800
+    isCached: true
     title: "Under Cover of Mass Death, Andrew Cuomo Calls in the Billionaires to Build a High-Tech Dystopia"
 
 related:

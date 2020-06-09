@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindu.com/news/national/ldtktg/article31621518.ece/ALTERNATES/LANDSCAPE_615/BreakNews-3"
     width: 615
     height: 384
+    isCached: true
     title: "Indian-American IBM scientist bags inventor of the year award for improving AI capabilities"
 
 related:

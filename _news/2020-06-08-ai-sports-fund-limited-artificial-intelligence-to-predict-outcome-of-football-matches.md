@@ -21,6 +21,7 @@ images:
   - url: "https://www.accesswire.com/users/newswire/images/593069/1.jpg"
     width: 602
     height: 339
+    isCached: true
     title: "AI Sports Fund Limited: Artificial Intelligence to Predict Outcome of Football Matches"
 
 secured: "ixEIfyUmDI1kqWIe4cr/MVYuuC0bpxCKkeMrbeP0SzHp/VjusX1innsJTE8+KVyiduRoBJw91eTZTMt//znIzbpKVd7ULep4Is46m6QtQANMA1n7gZ0diE7nVMx68LfJp1i/vdc4g90gI3OKe5HnaZMkfFdzjRlDtG0A87yaJMKsoQy5oGmaJLqKeYe/7vj73MwMUpSoTBXcoDSX2oK7BkxFR7jrViQix74xn9WprtzwFxsB69c2NIUogdKNw6H98vrWZm7rdIv6CowqZ0Gqtyh5A+swjcw0aST5GwCVyaEaPDy7fCB7ryJ1OImeHQAhqzsTTZ37I2zu3mCuV8f2UPggBqqadKsGhC78Df6e/cEabFlBFlWpqJVu44dZMZ3aeXq8/QwxTBmQuwPfOwMozgAMQFpaBsCiyrmUC+eBO3A2FMYXTaFnXo3sbqXRPTECpP+5ivRU+oDtwb03Q7l5Fvidj2CQScP0l2BT9rq9HMM=;vimd7UGXkfmgDoxglk7C6Q=="

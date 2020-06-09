@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200601005543/en/795148/23/IRTNTR32119.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | Use of Industrial IoT to Boost Growth | Technavio"
 
 secured: "Fk+MiWL+2YO89dIGtbfFhH7DDccY32WK/SHq2j2uMy3kLnBhrFM9Ymqlqw4gLAZWM2tNhoJiu7mZeECK/JgxwRLqaUPYdub1aSz8HasKOocg6wwhT08ZiLIKeTDVu9GE6q4IBSyF3KzDl/GY9OoETtpKUIgLE/grZsf2rAZSlNBILnBkWe/5Wct5oGD9/i7z6QKhfSfI0QmfQCWNmUlYfAvOmaBaMDwhHgh90OxBFI0/24GpklfU54x/V88+qAKFHs4i7ONHbdqrwU0JKr1dvcY6IQPzBc7DZnVkdIAFcAh0/ecmippWsYWNUm5wfX20FR1OQyByHJcTCAp2xvghf5IAvYQ5EAlWkT750wHolwSUlmP0BlEwhCVvyuWj7Jc9OBI7o+GUShMy6crdDMAMYT80nukzmZ2i75m0B5/t2ipHYctwZWX6ASPVmO2IFe+n3HKeZKm8Nfl4XcsaX+vGn7SERyfm12ux+oQ0Lv7M5zM=;Td0zE6zfgVgTQpgAWRGtSA=="

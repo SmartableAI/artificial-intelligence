@@ -23,6 +23,7 @@ images:
   - url: "https://www.thenational.ae/image/policy:1.1027240:1590993751/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
     width: 1200
     height: 675
+    isCached: true
     title: "How do you say 'Hey Siri!' in spoken Arabic? NYUAD lab is working on Gulf dialects to find the answer"
 
 secured: "Luuzs1tOFEioph6/IbymGZVVYtdZqEzVqxCYpzMuWGnxGMCvpcNA8Ei+ymefbRGvLQQXSC898voT9cXpQcaneZssJoFJlMN6T5eJQSEg9+1XADse+OBkbxtFR9S+CnMW/rSJc9neGH9IwOHfunjKqOE1xJaJG9Dq+uQapscDwEF4r2rv4fvEDiP6jXVeMGgC2vaIzh8JUq2o7n5yBlOejBY0DPoFzGqWO6rF/Pp9KYs/pRkiLqBpHU/0l2wfrKg+h+nDNyD4utVs0+evB0SB6Kl+ABOCh0a/yzqyLIL3W0gD4jsn5eW8h1U9ME1hcPdd;VvgmVYimq+JaFKqiTwgoMA=="

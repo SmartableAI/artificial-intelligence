@@ -22,6 +22,7 @@ images:
   - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/AI_1280p.jpg?itok=0lOOR1yU"
     width: 1280
     height: 720
+    isCached: true
     title: "Eye-catching advances in some AI fields are not real"
 
 related:

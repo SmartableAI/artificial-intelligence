@@ -21,6 +21,7 @@ images:
   - url: "https://www.bioworld.com/ext/resources/Stock-images/Deals-and-MAs/Deal-partnership-chain-link.png?height=635&t=1588276656&width=1200"
     width: 847
     height: 635
+    isCached: true
     title: "Titan Medical, Medtronic team up on surgical robotics"
 
 secured: "WxV9O5Uk0OPbaemNP1AyCUV2bV/iRZYUdyz7+sFa2xD+l2HwzSUewvdog7s2g2IAO6Y16bxi6BcU1MYX84C83FEaqFXtxSgOBaSdlWW4bYW6p2ZxuF0W2FrMqzlXlNE8kDsltaCIHBYGmbAVasoVHWxTPwjX0eNksWGJckTdGbT1xZRqwGvYuEcWTrlwBBhunT7sEonz+/bva4w6UuBDTPthykVzU/toGqrNDNHGbUSWDGEtQWAlaJZdLfxvlOt3sjA2WONwuhoXaRgeSLm9DmCnwVSzV1p126ryDpCcwDtdRa0ZYIsaSQpOPIW6WSE+fgeW7aLqu8fpZz+MJZOtBOMLoFaN25yxbb2wCsMgVE2OSUh6B06BanRFq5/OhDfj41NMt4GkJbEPZB0llZZnDRdTbsmfadpLzzhNkGDIcKhLkEpguzmcGIMCGCslbGBFLzd4/r1rPjcy2MxPLa/S38Fa1V6if0obne781FuMI8M=;mt9LHxgfdLWuevY1jjOofg=="

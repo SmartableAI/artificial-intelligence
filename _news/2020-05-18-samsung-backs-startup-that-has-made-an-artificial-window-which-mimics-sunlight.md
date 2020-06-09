@@ -23,6 +23,7 @@ images:
   - url: "https://sm.mashable.com/t/mashable_in/photo/default/samsung-backs-startup-that-has-made-an-artificial-window-whi_ruku.620.png"
     width: 620
     height: 331
+    isCached: true
     title: "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight"
 
 secured: "Cpr5yyQIuu1pojJR2TacWDA488/6DaMvVA8PXs9fOkDaw3CBPE/bSOdXqOHEmzWx/EhwQ7+4FDalzwdwXfKJhfoCpcDa9A6o2X8xRFzgNXdFaQOeA7Sl/r+jugkc+X2CmuU58KOXa7TjXaiIMzQLhRE3lx/XPhQq6RYzSQI/V5ZmSpvFAHyMYRK+jAMxAJ5qSfrZ6fa7FJJPx7TzFeTC90YfE1FKQ6ctrsky9PqhtW6GLRU3IUEgeuhrA8QwAzkG4C1xTYwgBhly8NeEukn6mVq3DPnGRebT+ZH8j7K/2HPN+uy63LbtzgYi6/a/Fcfj;MQ3r1gWsIv6yf6iRr+ncoQ=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/pharmacy/1.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "CVS to deliver prescriptions via self-driving cars"
 
 related:

@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/robot_hand_main_uns.jpg"
     width: 1437
     height: 800
+    isCached: true
     title: "An AI beat humans in a selfie personality test"
 
 secured: "yAJ4A2NPT6ogyiOqfkaZUBY89efcC2gSSV5mic1VQMElPhZFqezfvBxkPmUJYPNJbcYa/eQH0fQBmsHz/bOcymecpNc/H5VGdPF660cdndHP35NkaHfBa5rQvVcHfMNwD7lvB20Ilf7JYj5eLbOon1E6li7GCA2ouhdLD5hVwquoQG7wtR65vb+ekuTfNypPBEZZpgNN9FYDo/mANQfVZUlYHwg6eC5Ssx3KaSyPshxMnqhdXw0QudqceeGQydPflEEJWSLL2WclhC/uimYD4O1H3gZuCR8XUqCNQkJ9l8uK6JlEm/QC0652L5ED+XYFUeHWKLrPJqmD9puYhPyz14hm1+/pAeHqaHwZVnXWVk7ZgNd2ecIvN2PzUzKA/5SNu3iGc3Z7EtieMoPYM6jQDANGpGRv7I7e3gAAkbuJ5d1XaN7rxoa9nk3PvxVqTihDdPy62vmWj4F+G0msz9ynifSszyh97VQb3G/NmnZRrVU=;cGZ6tWa6qqj6VCn1Pb2HMg=="

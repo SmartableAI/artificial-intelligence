@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1174193/IDTechEx_Agriculture_Robots.jpg?p=facebook"
     width: 895
     height: 471
+    isCached: true
     title: "IDTechEx Research - Agricultural Robots and AI: A Question of When and Not If"
 
 related:

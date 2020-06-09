@@ -28,6 +28,7 @@ images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg"
     width: 1200
     height: 797
+    isCached: true
     title: "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians"
 
 related:

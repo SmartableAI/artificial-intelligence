@@ -21,6 +21,7 @@ images:
   - url: "https://multiplesclerosisnewstoday.com/wp-content/uploads/2020/02/shutterstock_570636568-760x475.jpg"
     width: 760
     height: 475
+    isCached: true
     title: "Belong.Life Launches App to Support MS Patients and Healthcare Professionals"
 
 secured: "Wlrog0A05ybjBqv6QmhqwQd5A261pcc0meS+z8KJgKkCN0Zloi6JEtr13pE5DGb+buzlCjHpnovEPoD7eFgBSIr4f9zINO0b/veeh6P4a2mDBdnMaZ7VPJheCS5uvrPR/+v5D3T8x7MrNu5K6IbqCl6NqBdPztC2NjRMlTFx/X9K+diP2rpPN+omKE7MqDrFrSdQXU/TU1f4OIK75Dwdvep41VeaFtjXoFiEJDhI7Ng57qYOwTCnmWTHOPLtmzExX5C9aezkFxVUsZVPlBCm7/LmeoVGUvC8P1Fo1N9CsgNz3Yp8SdNtmBTQiExBdFpw/zdO5Z0HBeExvCeqQcdba/rvcluyi+Ad7NDCvAELFcqIxTbx/kARHgV/hWezxkbS0y0uLjs2KoAD9vwQMXlX4HznaIpiAi0cqIc0vwdNiKiFlMM7Q9t3vsEOXEnJjZSc2xfxgrTW4ElCGnIORAA6dkbo+xpoeIYMmWdpWmhXwHI=;NTakzt+zlpab+qJblYcIBQ=="

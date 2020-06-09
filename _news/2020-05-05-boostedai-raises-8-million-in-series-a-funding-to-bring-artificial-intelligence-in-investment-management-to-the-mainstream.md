@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200505005225/en/789328/23/Boosted.ai_Logo_Full_Color_050520.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Boosted.ai Raises $8 Million in Series A Funding to Bring Artificial Intelligence in Investment Management to the Mainstream"
 
 related:

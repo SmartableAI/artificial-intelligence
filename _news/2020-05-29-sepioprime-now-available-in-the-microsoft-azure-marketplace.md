@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg"
     width: 500
     height: 313
+    isCached: true
     title: "Sony wants to make cameras smarter with an onboard AI chip"
 
 related:

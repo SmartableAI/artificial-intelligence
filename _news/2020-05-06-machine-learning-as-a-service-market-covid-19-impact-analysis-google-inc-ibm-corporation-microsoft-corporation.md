@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning as a Service Market COVID 19 Impact Analysis | Google Inc, IBM Corporation, Microsoft Corporation"
 
 related:

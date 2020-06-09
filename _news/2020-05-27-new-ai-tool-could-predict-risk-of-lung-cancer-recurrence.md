@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "New AI tool could predict risk of lung cancer recurrence"
 
 related:

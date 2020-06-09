@@ -21,6 +21,7 @@ images:
   - url: "https://storage.googleapis.com/afs-prod/media/ebc4a7eae974460f8b39235e31801e8e/3000.jpeg"
     width: 3000
     height: 2061
+    isCached: true
     title: "US agency lets self-driving shuttle resume carrying people"
 
 related:

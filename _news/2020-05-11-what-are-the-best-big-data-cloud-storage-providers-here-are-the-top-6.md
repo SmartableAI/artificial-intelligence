@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb8d364e33df900063dfc40%2F0x0.jpg"
     width: 1200
     height: 776
+    isCached: true
     title: "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6"
 
 secured: "t8BCLuAD8l+z7CV7I7iMujHUMsUyTTSLhnL979kzvR8DEIZ94IyS8HPH4GR/7P0en+9VulP71jYbbj4nUPz5XR8oHtWJUexQUzCaALDizqcEQ22kDOq3U78lo1Q+x43MZXKXEi0olSy4j7CWioqXhxK8QI1L5vMFb0TYFs4mLZCwcy5CVH+8KMSZvDKISrd67kHYYFTvPmpdm6289ZjmuwY473QjVM49LHAheTgflsVXO91ljpMBC/venC6YXsE+gEeR3nOm0CKkdM2dx8U0uuWvQwvwgK8ypQo4wsO7Z4LqRkUtXYeTXkXzssaiSpqv;AzYorCa3GTb/2qhyBaQoJA=="

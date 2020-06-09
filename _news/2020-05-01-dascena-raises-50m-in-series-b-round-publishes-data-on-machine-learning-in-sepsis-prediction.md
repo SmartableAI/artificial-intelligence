@@ -21,6 +21,7 @@ images:
   - url: "https://medcitynews.com/uploads/2019/06/GettyImages-1129146997.jpg"
     width: 738
     height: 474
+    isCached: true
     title: "Dascena raises $50M in Series B round, publishes data on machine learning in sepsis prediction"
 
 secured: "19UzCnLs28/xrG1LaS58Cv2V4PadWGspqaxiVRoWyoqSyLTsV8fEyuHcM/ANttvpyij1Hhytq9Ae1AAhgrFnAUQAakafmA5jRMs10ojztLYGrlIib+oijRUztudR1xy+ucFzVt6eUpMdjM51pKzk3M7uMPeeNCUGbvyJ8/BSAavwEo9y4eydkSJIt6E98kfzIpUyhnumCIAN74pn5PZZwickx+f9Svtqb7D1zIzjGYbVd3lf/UTWLEeIJSqQ9Go/7YEwhbbIadIJF7rgF5uU65ITy827Qg+tWeSSeHXgvYLFNXYe7Zc4GE7y1L1ELMQnkpxkD2R1WNILqy86mfzKgtubsFAOV2YyUZ/snHcphVDXNunxKHDHCGrMjDGyEWzrIQBEH+DOTcXcyDu8YXqTdb5lExWdul0q52Hg3gYX8Cs6fUxHULaXfRhZe/KLNPtc6ZxXp8aIDUUvVsi3fRbQDdRzndAWcGD0TcE9qk/Oqho=;S3pm/qDUG1O5oluFqOQalA=="

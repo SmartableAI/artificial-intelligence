@@ -21,6 +21,7 @@ images:
   - url: "https://eurekalert.org/multimedia/pub/web/233361_web.jpg"
     width: 1440
     height: 810
+    isCached: true
     title: "A good egg: Robot chef trained to make omelettes"
 
 secured: "JRrBhD29Yg+Pzi40gh+FzKNe6yUFA8NlOUalHgG+rIfFw1o7IFpaOqPjVwJQAH6PVP6d1iCdtu+sWIRsnD1SA74O5y+sQ/xA7ywQTW/KBl43qGmKilVvkTkJQ8Q471XtXW7qaZxYLvLGSY+AaefOD6yTS8WKt7x5Xp/qiByI6qGWgbVBhLUWd4Sx99016RbP1paEMyYKh/OFXeP9oveL77G/0ABvpxFcfqoCYAG5rpIoVGabsmedeDJTBCOHzUbm/3qwO/v+xR0LLsvzK/nys7dLfa++DAa0JPbezLvo5RIUCy1ff5Xq9UNbO9KeRpUpu/NmU8PyugvkXnvJmHmJl0KbCPKN7am1SxPK9VVXMjbGHK1UgU09e3OyLBXVIAKC4+ZQSbO7d/LLpC4ZubK1QzSLi3uUvLOsqVwGaZUv2tFP1voSeF55OZESGyzhPK2ZXVMMZWSuRwLbkemG6c4aMflgx+nwnOAI52Vr+RxJKJk=;VCYKlfHQ+lR2SWEl419axQ=="

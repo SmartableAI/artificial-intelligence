@@ -20,6 +20,7 @@ images:
   - url: "https://www.abnewswire.com/uploads/1588957806.jpeg"
     width: 278
     height: 333
+    isCached: true
     title: "Covid-19 Impact on Global Artificial Intelligence (AI) in Fintech Market Size, Status and Forecast 2020-2026"
 
 secured: "TD7gBZ6Uri7HN3RnsHFvgW1Gk621GxtKi9b6xobDUe2wZOsfbxowoZglAoKsXgqEDZINzZuP7i7/TXPRn2WrOfmbWlbGY5PDXkXxXpgzJumjzXvfjXwFkF/B5VOrdL9f3nWgS9kMHzrvPvZYYjFLQgRw0Hxuw6OpKr5DNUhs5lDP7wuCn0NOFMUPOXpLeyCEUVvyM+RQcp+a386oXF3jnTJ0BxuQgGCjEEMPfnF6CnZ7bPbX8UtPcOW5+34JJcd/N0bWzuX6KtXG/CuqlV65Z/RAgRQl9HUaM/GY4UPpa3VgM7p8oxEhWgDc4/KYBA8v;HuoOFoL4SNpBXhCmry2uSA=="

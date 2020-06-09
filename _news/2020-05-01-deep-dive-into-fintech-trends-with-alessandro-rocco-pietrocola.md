@@ -23,6 +23,12 @@ images:
   - url: "https://www.transformingthenation.com.au/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
     width: 735
     height: 552
+    isCached: true
+    title: "Deep dive into fintech trends with Alessandro Rocco Pietrocola"
+  - url: "https://www.transformingthenation.com.au/wp-content/uploads/2020/05/Alessandro-Rocco-Pietrocola.jpeg"
+    width: 921
+    height: 730
+    isCached: true
     title: "Deep dive into fintech trends with Alessandro Rocco Pietrocola"
 
 secured: "78/O36Ryt8bvx1s2S9/Ro49/IO9Y9DbLPk2L0jifb0zTtK0EJl1Yr0TGknTLTrdW1SsP22UV6LQUhxS39cZH3Xo1welAjHkoLlQuY5jPUKG2bJIG66VOh29uAJDl1QXFaJOb8Hs458Ptbpky6sbRB2w1eri2VPDN2RLlNcrQ/BrYRfbT23XsDYRWfEZNXYp+AiBT7i5V43qfJ6mLiaNNrN4Okn+aWSQg8KbZ3iYKFqKMd2373pe4yfbf31bhOIclaOnuTfK1vzcDyQtYeHWPyx500Fj8cNTV1sMBjE39DkhTA3u+VCT+MtX/KdvbY7yc;G0QmPxqrxrjgJ/LcOwPrZg=="

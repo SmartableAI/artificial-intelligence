@@ -23,6 +23,7 @@ images:
   - url: "http://images.macrumors.com/article-new/2019/08/siri-waveform.jpg"
     width: 600
     height: 450
+    isCached: true
     title: "Apple Acquires Machine Learning Startup Inductiv to Improve Siri"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyNTU3Mjc3NTUzNzYzNDEx/file-20200505-83757-1nuyewy.jpg"
     width: 620
     height: 348
+    isCached: true
     title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
 
 related:

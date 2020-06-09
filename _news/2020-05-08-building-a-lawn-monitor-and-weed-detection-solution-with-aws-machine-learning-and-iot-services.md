@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif"
     width: 1000
     height: 600
+    isCached: true
     title: "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services"
 
 secured: "Du5b0b7km+i1AmwiSoAP787PmlHCofODmJGE79MSG5LDZ7aO05ZWP35BlTigZOjmrXRv34ePJxnFEqHX2JqaclHLesS3EIT83AGvjXWPvTEclLaH6xaH15tjdcHq1+Yz5aGOdABS/ArLTMzqWN34CtZlomKEgH790/fPWWFRhKJQiJrXHaJbPXaF7/dQ6Z6VulCsXfB9IzfpcNlMZLx94nJdrKyzzJsN9h+kOwUjcI1x2lWSPll3uJQK7dHl44/Q34KtXhJbNCJtCGWSUejFKoelen58MxATOdujwaShf3iCG9qwHqb9QP37J0JEQHcVubOlF4JCumJCbTVtruItbg==;sd8Kr8W5tIdN3QDtd9jsYg=="

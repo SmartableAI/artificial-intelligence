@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
 
 secured: "k/NaTf7qL+y2U+1HTKIIl8rMH8Paqtx3nQ0D8+O8hXcPbtcv8K2+h0XOkw8nJAoXmbTLZ6djlUN8VGWc2zKOy1vwWDgpYJdLfOlrRTrVrpmyDilopMq+pT2NJuYvBw5Nt3ZSUX+F3RsYzPRpkDGpAlzfOfD3OO/skdDY4hifxgVqLGyH2ESm9AKmZf76Ejx5NwIM43MqLA7fKQ8WLElgc6KLDaJ+qxgY0C8MUDLQu3GLjxt1VlNpJl8FS7sz4yb58ibFsXszd0PZbDRe4uRscH0VN3+nnxse5eoaYwR2FesobkRAiF4+OUATG6IpypcF;vwz0/k2sRTZbtTJCgQ3OEg=="

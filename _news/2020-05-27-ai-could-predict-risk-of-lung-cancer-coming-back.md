@@ -23,6 +23,7 @@ images:
   - url: "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg"
     width: 620
     height: 348
+    isCached: true
     title: "AI could predict risk of lung cancer coming back"
 
 related:

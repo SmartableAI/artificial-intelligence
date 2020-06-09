@@ -21,6 +21,7 @@ images:
   - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
     width: 1200
     height: 630
+    isCached: true
     title: "The robots-are-taking-our-jobs threat is real"
 
 related:

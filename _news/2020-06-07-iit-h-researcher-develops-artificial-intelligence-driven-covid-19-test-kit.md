@@ -22,6 +22,7 @@ images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/5/w600X390/AP20143492593570.jpg"
     width: 600
     height: 390
+    isCached: true
     title: "IIT-H researcher develops Artificial Intelligence driven COVID-19 test kit"
 
 related:
@@ -40,6 +41,7 @@ related:
       - url: "https://www.thehindubusinessline.com/incoming/5tzarc/article29290040.ece/ALTERNATES/LANDSCAPE_615/iit-hjpg"
         width: 615
         height: 384
+        isCached: true
 
 secured: "5Vl8U8KV8q3fi9nFOHKthpQ91FYJLP9OKisEe3KYsEq/I0wDYjoC0D7Rqas7PNxlZfGRghvo2xgbY4M70f75U/DNA0eePCBkfCQBDnYQ9IkioTrhxaLrNRMnMRIbkNsH85TIS5Fj8z+fbSWUOifdlfqLRAUZJbVHdghuXsVkjkW3sT6xaOjUddidSfz38uok2rK+pPRbTpaWnlTqpYZM89bTMR0GofKt+5KplzKvFuOjT2NmV5r2v/N6jhLv0GKP15ll0yVPucpCdhogPNLaUmU8FPJxl9BMexxEY7XCdS/0hiu5qsnIUcWRVyDjMhWcSrwgyLK+0FmkQTkCbzGQx7KYXPYD5QRQDqIHmH1VuTdWS1kZn6374iLiwFmWPi3UjNOdFgtAahv/i86OgZhDUNJh0oRTz51wcT443JoNW6HV6+A0JzTDReyN5jGs6OiyOxMn144Mj5f1zEouCNcYKnZROscR7En0bPYd2zYiqfo=;6RZ/6LvgwyENJzZUsKOAiQ=="
 ---

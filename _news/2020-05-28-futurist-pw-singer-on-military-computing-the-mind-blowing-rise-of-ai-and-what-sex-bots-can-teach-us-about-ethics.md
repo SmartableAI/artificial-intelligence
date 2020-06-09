@@ -24,6 +24,7 @@ images:
   - url: "https://taskandpurpose.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODc0Mjk1MjYzODk3MTU5/promo.jpg"
     width: 620
     height: 326
+    isCached: true
     title: "Futurist P.W. Singer on military computing, the mind-blowing rise of AI, and what sex bots can teach us about ethics"
 
 secured: "I8TzYon1hWGRyIMXOMwVGUIhuknnPa+XyGwpMWIA1mLewVMvEFuAm2P1iyqB8OY/Un56tHAetBZu6YMJ08rTg0z7hD7SO9/Bp8UZJMV0ryqoLn2X7E38/YU1CxxXSvgjG5rOiEMxthP+akhCCN7fzmMYJ2wgsoypuj3VQ7bfn09bdtY9BlI4W3jypJCt4sqA8oNh/KxJckP8vNzpNfxf/LAOYQXgak4sgoKzWDvwnWYQ7ZAdoPbYQ9nFraAsC3pHXAzm1jn3UF/D96GJDCsPslPtpm59UHHf2o8LQ5zp0VN/jgCnXNmtHlJVDxNRJy1vJigvBeuTwl5EZVtFln2t1BkKuKlaAAavRkFF/n9SolGckc8jb/eWt2AoaO0pyMDPV09TB+0aUkYR9gldQe9xrqznuFTeLf1+5kNbSf83Mu8m6A/sEpUtwfregmoM6k0XFz3/z3p/MqKW/uevtu0d2t+cE9gKgDXh0p8DmqVE1bs=;xJBDHPeLjgwKllzFA33UMQ=="

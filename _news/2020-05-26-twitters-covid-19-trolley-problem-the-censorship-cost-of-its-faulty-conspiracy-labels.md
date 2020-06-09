@@ -23,6 +23,7 @@ images:
   - url: "https://cdni.rt.com/files/2020.05/xxl/5ecd550c85f540670f47481c.JPG"
     width: 1240
     height: 697
+    isCached: true
     title: "Twitter’s Covid-19 trolley problem: The censorship cost of its faulty conspiracy labels"
 
 secured: "0D/YHUMG7uy04lUF5v1eOe/6VP5R1FA/NpIP8Rvi6I5y7KKx/8eB1vp2k6GcqR7KEFJR7C3nBg41qouxZTuz8SS8GM/3ylrsBLcYmxJ9hP1jsEw0Q43nipzHXbCrVDJVQJHYn4/lkRojUZakW4OkL1i6SWkDzz6h9dcS0trFjFqMZ0VAI30F55t5rz4Snv25NkH06Bd3U6q69V4tsh+Eb/+gH4VsjzpmH4xhDe52VvsBza++lDdWNAb2/SDcmoT3+vx3yW+K5NyBZ4s7e2o1Y7IYVXOilef0u585GAxXAfdg34a225obUXXzQ4AbCWGq;Ed1FTO8d6vAvOlJSksz8bw=="

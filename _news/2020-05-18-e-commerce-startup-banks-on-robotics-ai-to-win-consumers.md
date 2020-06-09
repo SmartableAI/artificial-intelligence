@@ -20,6 +20,7 @@ images:
   - url: "https://img.jakpost.net/c/2020/05/18/2020_05_18_95509_1589776442._medium.jpg"
     width: 747
     height: 498
+    isCached: true
     title: "E-commerce startup banks on robotics, AI to win consumers"
 
 secured: "XWYt1C3BsbkG/WtOy+KYvDXXZoTbxiRJU44mYt2OzE73evcZeNRepS8MlnzeImP+oKmND8YGc6+MEvXz3LxCnGdzzVCBpcibGlFuv358DsKvob1eK/REbZInLD6dYOY1WksJ1+055KXdMhuizR8/49xj6HYWSW3fVYy9RMEBkAT53GRfFB1QMdVsxIljnFpoZWJkaKiCjag6d4GJbv19rrDf7ZrwrI2gHmVi0YAhof3SkudJ+yJIEFLH8HDAgeO8vFXifT2HHMVTDcCnPLQzXvRWrkxwSKhQfRnXp5tWX4FttPeEAH9p+kK9zMECLkbX;Eh00QRxuL6dSHNY66X4Fdg=="

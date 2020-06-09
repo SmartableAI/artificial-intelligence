@@ -21,6 +21,7 @@ images:
   - url: "https://www.just-auto.com/images/just-auto-share.jpg"
     width: 1200
     height: 799
+    isCached: true
     title: "Cerence powers AI and voice recognition in Ford SYNC 4"
 
 secured: "1BCKrYjo48TMYzFdcvoR2A1EIiFKs0LqTuphPFfGjCD795dpoHQV4cp2i//MUyxZE+RqQy8EXbkU5BzRziX6qsPvNKAhETw8EWqJPkngs2uxZvuZIJyCMX+LI5+gPvRyF87O6dAfqceRdGhPq6cMfBtd5EDa82NKIALSp3VTRPImyOZMM9gmgBJJRVWmCEKku5SpwILhkFM/Z5TZUkCVgSJEVHvdZdybNvhftwxqwAcixYzGJ1nP4FLYRZ10y10nnAkxnPJhy6oWymaxpdq8ODQYf/Er8IWd/beS9xhKcX830qzCKHM3SJqw/cm1O/75;OB99xqbqQyOUWT0rQvU46Q=="

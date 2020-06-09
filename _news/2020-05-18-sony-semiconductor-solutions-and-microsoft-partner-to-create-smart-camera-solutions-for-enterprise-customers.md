@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
     width: 2695
     height: 1414
+    isCached: true
     title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
 
 related:

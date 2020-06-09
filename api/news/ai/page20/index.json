@@ -2,6 +2,52 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
+      "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+      "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "publishedDateTime": "2020-05-18T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
       "title": "Microsoft just gave the Sony AI camera an Azure brain",
       "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
@@ -22,7 +68,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +81,8 @@
           "width": 2307,
           "height": 1334,
           "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -72,7 +120,8 @@
           "width": 500,
           "height": 281,
           "title": "Five robots that are saving the US food supply chain",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -105,7 +154,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -117,7 +167,8 @@
           "width": 1200,
           "height": 675,
           "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -154,7 +205,8 @@
           "width": 1200,
           "height": 630,
           "title": "Facial recognition and your right to privacy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -187,7 +239,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -199,7 +252,8 @@
           "width": 2957,
           "height": 1958,
           "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -236,7 +290,8 @@
           "width": 620,
           "height": 331,
           "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -269,7 +324,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -281,7 +337,8 @@
           "width": 1198,
           "height": 600,
           "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -314,7 +371,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -326,7 +384,8 @@
           "width": 1000,
           "height": 1000,
           "title": "How AI could predict sight-threatening eye conditions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -359,7 +418,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -371,7 +431,8 @@
           "width": 796,
           "height": 417,
           "title": "This AI tool automatically identifies different types of brain injury",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -403,7 +464,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -415,14 +477,16 @@
           "width": 580,
           "height": 378,
           "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         },
         {
           "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize",
           "width": 1200,
           "height": 960,
           "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -455,7 +519,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -467,7 +532,8 @@
           "width": 1200,
           "height": 800,
           "title": "Machine learning tool trains on old code to spot bugs in new code",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -501,7 +567,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -513,7 +580,8 @@
           "width": 600,
           "height": 338,
           "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -546,7 +614,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -558,7 +627,8 @@
           "width": 640,
           "height": 640,
           "title": "How AI Is Disrupting The B2B Space",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -590,7 +660,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -602,7 +673,8 @@
           "width": 1024,
           "height": 681,
           "title": "Should AI assist in surgical decision-making?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -634,7 +706,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -646,7 +719,8 @@
           "width": 1200,
           "height": 675,
           "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -679,7 +753,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -691,7 +766,8 @@
           "width": 1920,
           "height": 1080,
           "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -729,7 +805,8 @@
           "width": 660,
           "height": 440,
           "title": "Techsplained@FE: Ready to chat",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -766,7 +843,8 @@
           "width": 747,
           "height": 498,
           "title": "E-commerce startup banks on robotics, AI to win consumers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -799,7 +877,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -811,7 +890,8 @@
           "width": 1199,
           "height": 675,
           "title": "10 Ways AI Is Improving Manufacturing In 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -844,7 +924,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -856,7 +937,8 @@
           "width": 512,
           "height": 288,
           "title": "Using AI to predict retinal disease progression",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -889,7 +971,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -901,7 +984,8 @@
           "width": 1200,
           "height": 800,
           "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -934,7 +1018,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -946,7 +1031,8 @@
           "width": 534,
           "height": 640,
           "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -979,7 +1065,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -991,7 +1078,8 @@
           "width": 1200,
           "height": 674,
           "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1030,7 +1118,8 @@
           "width": 1408,
           "height": 793,
           "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1064,7 +1153,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1076,7 +1166,8 @@
           "width": 1000,
           "height": 563,
           "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1110,7 +1201,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1122,7 +1214,8 @@
           "width": 1200,
           "height": 675,
           "title": "Could Creepy AI Come To The Rescue And Help Bosses Do Their Job?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1154,7 +1247,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1166,7 +1260,8 @@
           "width": 1024,
           "height": 768,
           "title": "Help wanted: Autonomous robot guide",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1199,7 +1294,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1211,7 +1307,8 @@
           "width": 796,
           "height": 417,
           "title": "In the AI era, universities need to strengthen students’ creativity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1243,7 +1340,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1255,7 +1353,8 @@
           "width": 1200,
           "height": 630,
           "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1264,51 +1363,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
-      "title": "Hugging Face dives into machine translation with release of 1,000 models",
-      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-16T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Hugging Face dives into machine translation with release of 1,000 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

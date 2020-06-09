@@ -22,6 +22,7 @@ images:
   - url: "https://gamespot1.cbsistatic.com/uploads/original/1585/15853545/3674597-4271091041-pac_m.png"
     width: 2220
     height: 1248
+    isCached: true
     title: "AI Recreates Pac-Man From Scratch, Without Any Human Input"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg"
     width: 1200
     height: 801
+    isCached: true
     title: "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox"
 
 related:

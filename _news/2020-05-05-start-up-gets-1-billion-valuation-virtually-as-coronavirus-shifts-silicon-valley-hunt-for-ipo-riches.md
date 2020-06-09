@@ -26,6 +26,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106454360-15847308649482020-03-19t212642z_1866910773_hp1eg3j1nkike_rtrmadp_3_usa-stocks.jpg?v=1584991538"
     width: 5288
     height: 3525
+    isCached: true
     title: "Start-up gets $1 billion valuation virtually, as coronavirus shifts Silicon Valley hunt for IPO riches"
 
 secured: "7DPJWg076lUWLt10aSVpTFpGaTmGQxMp424GNRhpTgOjlW5Ae61ZvZnMl1Blxuh/wScu2se294L5ubYXJzug/gkDBoGSmXZj55q5EGpcFE7i5+8yianDxoGaEIfZPS1PNTzdS/bI2bxPSRP6vKpOh7ya1iH7yQJV3Oqamo4++S8ymlQ+ina8sn3VAOvD4u8rA3Bbdr8KHl90KzMzCq8QPqjhy6fCOyNaMbsin5kAaYMR12ycKOZN7M0HzMi16CwoyeIabYQXivMOPmIFooLSeLAyKTKSRpdEXU+ed/Y4VJ9Sq2tYYTtHMzEypMRHzq6R;2PbUGGDDPayBUeQS5QuD9A=="

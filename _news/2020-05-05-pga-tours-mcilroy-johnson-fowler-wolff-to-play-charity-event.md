@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "PGA Tour’s McIlroy, Johnson, Fowler, Wolff to Play Charity Event"
 
 secured: "4POvHfZHDve6R0n4ixN8V/xdpWCqQEnNqfkr4S2sl6FcZpaNOir0lVTEQ1khMR6NLtMFjXQz5H8aLnP9X4juP8mCe+LUBl8mEBWGHyyrSK/YwX6Jvy2dE5asnDf0lA7twc/PqMcT44HeHkyjXZTKKRjrgmJWvT0fEgCxcvtex6Iyaj+ptulhpwxrXM1MHrBkl8wKq0Jz8m5DX159Kac3A7nol7TiJt/Y4EMKirYPtfwma2J4HwYkQMthyegHuvCecfToJ3vS7eOvRAgg2TOIkOPA37U0KyQq9rAnxmk7qjGwLxil3Cak7VonomfFZFP9;fWjMd6uGlTscSyU0/4bgbA=="

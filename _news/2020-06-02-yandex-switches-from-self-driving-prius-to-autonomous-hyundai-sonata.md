@@ -23,6 +23,7 @@ images:
   - url: "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90="
     width: 1200
     height: 630
+    isCached: true
     title: "Yandex switches from self-driving Prius to autonomous Hyundai Sonata"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Speech and Voice Recognition Market to Watch: Spotlight on Microsoft, Alphabet, Sensory"
 
 secured: "Tf0TVqvw7N+zNL8USGw49PGG0etmGEk684vbxYfZoHYwH5LD7kL46AdI1PKTB1hKzcCmExT1vHHxI7KJN2vp+s53BHzoOqtRBwuSJ1cUJgrGXB3iqucfS0UzyzFmjrBuerU8sYRtzXRAlhXyV1FLkFmTNKjDgft9A/VdecMPJ0PuEJrygLHUkX7435tL8WKBHsOHCecpvo3LHXLttdkAmj3NoHO7pQE7opwjbS+KwXE9l9TUaFi8bjXIjSJCSEFlVthz2R0UP2r2wlZCzkv8N7QyGrWd9Dxkm6k1IV974QuhBysYtZOBR8S5FrzLrqzj;qgJURfss4+nNvruz/YAVqQ=="

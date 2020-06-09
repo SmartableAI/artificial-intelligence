@@ -22,6 +22,7 @@ images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
     width: 1200
     height: 878
+    isCached: true
     title: "Artificial Intelligence can add $135bln to Saudi economy"
 
 secured: "I/aVweMIwFdAdRF3EPjdTwDyfSPJ5fxWO4TecXiaEXnxzwIzFt23Csig0xAOG3lDQh7sYzTuhjVfiCMdwwgMzG56jbdLZDI/+1HafVnTkiz8bV/IDm0YO3ETvJOnOhEaOjFQ5+e5OMtUlD7YTaWXDpklQMum0sTDyq5aDSv35ih3WXrLleprI6d6FTjVx6ZCbWdwQkNcrCnkuWSfiOVi06LpmXucb5t4qJC0a7NKO3WnH506RA6Uba6OYCmR3mQUcLBGr+cwRVYruFxagzrK/BiiIqwXFok3Px02LuGdjsl7kgHpTVU0kTFSy5nt8hZgYexzZ1jGDcfAIBzOeOMvlQEy+foqa7Q2h937ChbdV3ctATFnP7oYpJnZ5sfdBR26xWdLXJ5u44xT2VquqzPFv2kUEgDukI9CYzFjUFTl7UZCn1OCN95wO0bUUJVcdVvvBhVTUTLj1KbGWVT3tKp4QJclsOVkB4aw4P5VGwJzZfk=;IMpbd+4ssu3qNB4iORvv3w=="

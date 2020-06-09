@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/corona-supplychain.jpg"
     width: 789
     height: 432
+    isCached: true
     title: "Covid-19 Accelerating the Adoption of Robotics in Supply Chains"
 
 secured: "QgQUNBLykHrgi+cd6/N5R0M/WtUnvIR+POedbVbY/CWsMHeB7St6kW7Ayd7v2Y0az4VC5C8qkSl8j1DAX8x2lQhVTf/Ulcql0EmfdQ8iNWFl024ksOegnJMbajloW0tha0COT9DKkQr+bLqIQb2yUwldL/1rwO7siGCG8riAkLxf4vRuWnlaXvGC3ik0kmRdI7gfVXBim/wXN/m/DJX0/6POjffWxlGkcn1hUFxyc+ivCLIVhgdXTA187Jx7717gGX1p2AQeTeoxL81UjYIAkox2mHJX6tefBXbWiaWDsAm9ev+NmhVWjd6n/4BXx9MO;MqsCpDhby/zHT87fjjrYXw=="

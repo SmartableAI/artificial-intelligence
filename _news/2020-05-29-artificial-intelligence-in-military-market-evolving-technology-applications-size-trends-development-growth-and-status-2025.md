@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence In Military Market Evolving Technology, Applications, Size, Trends, Development, Growth and Status 2025"
 
 secured: "Z/yeKqv4qTsi6KuTnbE25jQ3aZwluT4ciVSoa5pPDYO458izpQzVW+f9oEwy6OjmPzvfhS1bdGXl3pjke5uprb1afnCcLvwH+RLlzyKqsUiXQm8e4kGuFdzoaWnc+5lA7gfPYaj4LQcIs8pLuDlbIXZZgaV9lyocaLWbsr24EZ4c3EJHXBw927jvpnit5lNeubsrMtIHiK7bt0jKJ1phK/K95A9cCmmwYMEaTzrtIMcnmfkCMHg+5Mis83rO1iXeLCoVcOMoKxPTk5H0WlgGvfJYAcTuggZiCaIw0NFikGytNA/i1cEdXXtthhIhLtyu;qdkpCoKIpuLHLLGfYYwFwg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200512005459/en/790645/23/Dyno-Logo-Final-050820.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Dyno Therapeutics Announces Presentations at 2020 American Society of Gene and Cell Therapy Conference"
 
 secured: "leQej4mttul8cIDp6OrlYL3hL5UKyOQ46EVOMi3jhK3/NIlziOJ4jCV/MxOQl8WQFFGMr4LUxRhQZH5FG7LqJkgUCHbpfjIJyvCyiZkFGq3L/Tb7oASIjphkjcZUOb8dUG0Q+ug7JpCw+nv30mUytLmGpNiugkDvUwAXT9/Utr6XasyUdGMR6OtAcH4KuFA2G7PDBwQ8hx0DnmTxgYbvdgk9ryRTp/HZpUHhWbmpjaeZykd/ckJayIx3r4rTLGbEdG+seobMgjNRoR8o+IlEj9XLAwxn5HQQ4JhyrmEKFEeVVBVeYP1qMS3hdS2DAH3MhugkuPGaGgfqNvBwU3Fs1tS8x8nEpmc1MS0BDw4mIvihCzNEnvUi5YooSUami8ySvDPk0RlLem92FwPshcADw2aEpT1VO/xxuKfkSRTzbiqLvEd89yYR3JGVERuNRf1kAN5HTyT69yjVIT5rnjqI/xGQwq7adSTSEFw+kpC2jTM=;GfXMESd+UJSID+a1+wpKMw=="

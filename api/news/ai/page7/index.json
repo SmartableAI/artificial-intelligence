@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-29-how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation.md",
+      "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+      "excerpt": "In Israel, the government takes an active role in promoting and funding technological innovation, which is key to maintaining a thriving startup ecosystem. According to an account by Avi Hasson, former chief scientist at the Israel Innovation Authority,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "publishedDateTime": "2020-05-29T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17eb35e2c7400068b0804%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D441%26cropY2%3D5328",
+          "width": 1199,
+          "height": 677,
+          "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task.md",
       "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
       "excerpt": "Researchers at OpenAI and Uber propose Synthetic Petri Dish, a highly efficient technique for finding optimal AI architectures.",
@@ -22,7 +68,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +81,8 @@
           "width": 1200,
           "height": 600,
           "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -66,7 +114,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -78,7 +127,8 @@
           "width": 1200,
           "height": 786,
           "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -111,7 +161,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -123,7 +174,8 @@
           "width": 1200,
           "height": 600,
           "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -155,7 +207,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -167,7 +220,8 @@
           "width": 1200,
           "height": 900,
           "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -204,7 +258,8 @@
           "width": 639,
           "height": 426,
           "title": "Machine learning helps map global ocean communities",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -241,7 +296,8 @@
           "width": 1200,
           "height": 800,
           "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -278,7 +334,8 @@
           "width": 1280,
           "height": 719,
           "title": "Colleges prep for facial recognition, temperatures checks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -311,7 +368,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -323,7 +381,8 @@
           "width": 1200,
           "height": 600,
           "title": "ProBeat: Throw out all your pre-coronavirus surveys and start again",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -355,7 +414,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -367,7 +427,8 @@
           "width": 800,
           "height": 428,
           "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -400,7 +461,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -412,7 +474,8 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -444,7 +507,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -456,7 +520,8 @@
           "width": 1199,
           "height": 674,
           "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -492,7 +557,8 @@
           "width": 1000,
           "height": 537,
           "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -526,7 +592,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -538,7 +605,8 @@
           "width": 1200,
           "height": 600,
           "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -571,7 +639,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -583,7 +652,8 @@
           "width": 1200,
           "height": 797,
           "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -617,7 +687,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -629,7 +700,8 @@
           "width": 796,
           "height": 417,
           "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -662,7 +734,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -674,7 +747,8 @@
           "width": 1999,
           "height": 1074,
           "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -707,7 +781,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -719,7 +794,8 @@
           "width": 1200,
           "height": 630,
           "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -752,7 +828,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -764,7 +841,8 @@
           "width": 1280,
           "height": 640,
           "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -797,7 +875,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -809,7 +888,8 @@
           "width": 640,
           "height": 640,
           "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -842,7 +922,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -854,7 +935,8 @@
           "width": 640,
           "height": 640,
           "title": "What Today's Execs Need To Know About AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -887,7 +969,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -899,7 +982,8 @@
           "width": 640,
           "height": 640,
           "title": "How Open-Source Data Can Drive Automotive Innovation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -932,7 +1016,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -944,7 +1029,8 @@
           "width": 640,
           "height": 640,
           "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -977,7 +1063,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -989,7 +1076,8 @@
           "width": 1200,
           "height": 800,
           "title": "Coronavirus And The Rise Of The AI Economy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1021,7 +1109,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1033,7 +1122,8 @@
           "width": 2400,
           "height": 1350,
           "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1070,7 +1160,8 @@
           "width": 510,
           "height": 300,
           "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1103,7 +1194,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1115,7 +1207,8 @@
           "width": 1200,
           "height": 630,
           "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1152,7 +1245,8 @@
           "width": 1200,
           "height": 630,
           "title": "Apple buys machine-learning startup to improve data used in Siri",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1185,7 +1279,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1197,7 +1292,8 @@
           "width": 1050,
           "height": 550,
           "title": "Who Will Own the Cars That Drive Themselves?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1234,7 +1330,8 @@
           "width": 1280,
           "height": 720,
           "title": "Hello and welcome: Robot waiters to the rescue amid virus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1244,52 +1341,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
-      "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-      "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "publishedDateTime": "2020-05-28T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

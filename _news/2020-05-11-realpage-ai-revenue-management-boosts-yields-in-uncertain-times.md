@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "RealPage AI Revenue Management Boosts Yields in Uncertain Times"
 
 secured: "KY4LTAM0rRLCqQusP3nOGqOFyDgLEKv6Lgckrw95c33WU6hq73j/GuIDq0Lp2UpcMZVJfMX06u9bImczFZgc8SajaBW2aB0k9OG7+zHk0UJGN6YlUl+yMqJAqLfbaCbIiih7iYbVAEU78DAUZlUkL8ra+8s9HxEMyJZeUgEAsp4rpUolxwbMqL05hMytAewm2uRSRsWc+b8SUKOe1eFy9ABFUpLnIm7QviSZyQzyiyM8xz4O+ytTpi76wcR2iMCc+L5PTDsIySa8SSHB06BT764Q3J6S0hI+ZWf6nCgN/F6kMD7OOHp8Yh3iVBYMhvJ6;lxnEXPRqiHp/CI2yJr3VXw=="

@@ -23,6 +23,7 @@ images:
   - url: "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg"
     width: 800
     height: 531
+    isCached: true
     title: "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless"
 
 related:

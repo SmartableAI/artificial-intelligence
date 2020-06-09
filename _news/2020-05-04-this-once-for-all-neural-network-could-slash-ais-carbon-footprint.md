@@ -23,6 +23,7 @@ images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/05/OFA-neural-net-AI.jpg"
     width: 1068
     height: 601
+    isCached: true
     title: "This ‘Once-For-All’ Neural Network Could Slash AI’s Carbon Footprint"
 
 secured: "Q5+3a4tCXZTRGw1m/v8Gf/98vgRXnJHS9mNXM9mUZ5V+ZUsf1uYIECRRRag05llQXOyafJsU60TNr3flYhrLNr15VVRUB8ctGcv7PmBPm6Kq+6FjGWqlNSBLbvV0CKCO+2+kBuuBg+oOLWPC837e6kzjpJTmuKtpk6ZGZV02J3++3rRtVMsTOhIsCTvbfBUpoEe4HVKevg4NnQPAZteNIG6ESeTRLYOKGVleZdNCfADChEB9k8qiG+kzuBi9M4H8O1UQCv+fhENPFOwG8D3eN8WadNvF4w8XJLIeKuXzK94jVmDsjSqyWf6+pcECNN5YsfhHJmpJ5mqXGNrgCTAWlZVfIR0Ay7DluYMuuYuqJUcgsrqXKwH6JkxJrkHzmlKJ18soNga3/nE33n77XeRDH0U0LoR3eEAo3zLRkpb80VfR7DAu5L4bzkwMW2QbK+WYT6KdTK4yVKxHtg2dQgcfHamaNkG27ABq7zr2jr2ZpLo=;pYIKLtA/LL/CYXJhhqid3w=="

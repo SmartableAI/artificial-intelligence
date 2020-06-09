@@ -34,6 +34,7 @@ related:
       - url: "https://media.voltron.voanews.com/Drupal/01live-166/2019-04/8BC3ADC6-AC6E-442B-AF2C-1BAF66529B85.jpg"
         width: 6100
         height: 4009
+        isCached: true
 
 secured: "Lx3T/zufdzkbSz1+c3j0de3cvAIoFB7BzNzENYwWbmR2p7h90JfWUNca4QAo/hDmEkgug3jkGM/PavdY1TlWCq7jhsS4UIrEQa1ro9ouByYSFPNEMqM07mJ5AlCddioJAsUK6JueBpvnD9EDMLLcgtZRGwbGm3DYexPHdDLSuwk2bl0Gqgcip3GfcP91BC6JRHmWcDK59LnuqaM+5UmIrCar2S31gb3aCSpucHuPz5hAGBTYgp5L7YN/GV2MSu3qWO8aEbLOCAnyPvOvT7R0qb3Qw0Y5UCplyP19tUXrpMVFNamU8VNQzxpakr+kme/A;jLcL0vWJ4qGllHu4lykSXQ=="
 ---

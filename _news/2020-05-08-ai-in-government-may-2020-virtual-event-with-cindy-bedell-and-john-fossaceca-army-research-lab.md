@@ -24,6 +24,7 @@ images:
   - url: "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-default-logo-social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI in Government May 2020 Virtual Event with Cindy Bedell and John Fossaceca, Army Research Lab"
 
 secured: "52OO9WW5h6hwhlgXRqcgtLw55B0ek/RGOCJ6XkkQU/eLL0686Moed1t3ATGLsz+McVEUmJ7+UG7SRwwYPlExL0nZOv2BWexe/yy3/AOZxHI8be269C+jMwv2XgUOkHDp6t7EKuIvHl5PaGoGYL5soh8QuNXNkc2zT0oQynP0buNjCZ3d0uoUGfdEBWL8mYi8UsBFq5t7PpBC5KkTWvb0elpXW/5lSe//YU47MOTw0dNuAyW9mygk1JA4bV/oml+e09qAKFUddFnRNoT7FAY5T/CaPE1DzXFiVJg/XNPgSL4nLgS2X4VBRRYGQhlpWe4w;4HYikQ+5EbMz3kv6eTmFaA=="

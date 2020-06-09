@@ -21,6 +21,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093159/aws1.jpg"
     width: 1280
     height: 763
+    isCached: true
     title: "AWS launches Amazon Kendra, an ML powered enterprise search service"
 
 related:

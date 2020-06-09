@@ -21,6 +21,7 @@ images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"
     width: 1280
     height: 1206
+    isCached: true
     title: "The AI Eye Episode 349: Intel Capital (NasdaqGS: $INTC) Invests in AI Startups and NVIDIA (NasdaqGS: $NVDA) Unveils DGX A100 AI System"
 
 related:

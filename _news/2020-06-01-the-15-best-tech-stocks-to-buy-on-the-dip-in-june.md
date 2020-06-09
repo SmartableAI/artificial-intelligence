@@ -23,6 +23,7 @@ images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/tech1600d.jpg"
     width: 1600
     height: 900
+    isCached: true
     title: "The 15 Best Tech Stocks to Buy on the Dip in June"
 
 related:

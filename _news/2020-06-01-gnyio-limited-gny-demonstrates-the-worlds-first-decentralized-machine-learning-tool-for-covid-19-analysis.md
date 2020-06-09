@@ -22,6 +22,7 @@ images:
   - url: "https://www.accesswire.com/users/newswire/images/592206/image-20200601085011-1.jpeg"
     width: 1421
     height: 723
+    isCached: true
     title: "gny.io Limited: GNY Demonstrates the World's First Decentralized Machine Learning Tool for COVID-19 Analysis"
 
 related:

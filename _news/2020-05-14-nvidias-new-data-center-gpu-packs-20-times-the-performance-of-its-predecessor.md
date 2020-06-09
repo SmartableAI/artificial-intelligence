@@ -27,6 +27,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Nvidia's new data center GPU packs 20 times the performance of its predecessor"
 
 secured: "VJvaBEdFD7cFLmIhAd5y0E4OblrIbgvamgdrVJkoXCODaVFbfxNxL7xfvjJusWguoBiXB5VCVhzfEx79q1e7t9FIuH+l1KskOY12+UIPkrvtj7Srs9bWuxKAOQU9pVyur9jH6Zo0nmsVy2vX3EyY05n1DeCEq4XwSJWUGwzew+Rfr5LiRTKpWAiCiZWBsr4aR10hPy4flioph8eI6WMDaYSCv4laYqAkHVoK5ILKDyryA1wTUM3c7hnQ6c2fH5AA8cL2haSCP4LUIA3/LdtzEEbf5vY9FmgLgiW00nTfa07UtZAbF9h68FMmwsGFl3UIlY/pVeg/hQSX4cQPjZmOv4JsXnxocKZee72/Qoz7g7d3P9FTLsg5KoEoxQjyP/LpIEJ+HXjoZXl87MB6MS0XSjKYTGc9Fj9R452XvYseN9pE7aZoSt3qiTluXE6urhXWpbdZ2pAmYOhvYHud5hXCZcyql67PvXxvWtbEyCXV8iU=;IvwiaHk5TH2ruzayDecT+g=="

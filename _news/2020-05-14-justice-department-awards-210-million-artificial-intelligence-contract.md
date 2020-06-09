@@ -20,6 +20,7 @@ images:
   - url: "https://www.armytimes.com/resizer/3zTMlk7QAbm49H42lDD_jDnvdiQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/UOJ573CHTJDWDIZYG7UQ6SLUY4.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Justice Department awards $210 million artificial intelligence contract"
 
 related:

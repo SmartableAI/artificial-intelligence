@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-variety/syse1r/article30708415.ece/ALTERNATES/LANDSCAPE_615/bl01bmvalITIGP6727K294jpgjpg"
     width: 615
     height: 384
+    isCached: true
     title: "Covid-19 has accelerated importance of AI, hybrid cloud computing: IBM CEO"
 
 secured: "S4C0/8L8oW/Fp0Ia2/e9/OML8NKdLKiINd3P1xyjCVqUWGoZmLFPTFvK0b/tIQtiwlmjkUpUV2Ro3hIx9EvVvfUwvcw52FgOeZi5DJtzVlMaU5FVFyuJdZyToVMQc+y3vOJQ2W5zjwn2hv1SZO2JexI+GSpwaNTtmueUAZGCvojceX39XXX1uBoQlI6jQ8vXS9G9kMmSVQaV0OBjCqnjYWfCRfvfb3zkFVZF/Wvi71A04LIi6nTDAnGINkdKTFW3mQ7Pa1NrpBHtICor7mBdzlXWCNJkG5EJVxZ0c7Zn0Afj8nULsKGMBRwF5R7CF2Ap;RjYqoJUmMDU8yBdZAcDmzA=="

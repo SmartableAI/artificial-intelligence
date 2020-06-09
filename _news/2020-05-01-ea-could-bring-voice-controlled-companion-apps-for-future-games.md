@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.segmentnext.com/wp-content/uploads/2015/10/Electronic-Arts-EA-e1510228596345.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "EA Could Bring Voice-Controlled Companion Apps for Future Games"
 
 secured: "V6+0joF5vnXsO4tqbGbbjqKK9P3ar6LFQrx7AqQTttCO9uSksAnMmECS03WLFwgbgPebRVvyaK60CaL6/HEFd0rr5icTX4J3ehztgP4Zv4TvJy2Pe+75cemD5BLkVwCihj97ySNsbPXNaoMPiWSKAj9h8zBRWRQEfZa7BfDKqwz4ImLdTPhucxroLYNQL9i2+xKpgYZh6RaPcWrxDevltvs5ezGQImQnvQpShRH7G3G3of7bmZjxCcQJwpfcloQU5R1YN08eOjvibZ9nZY0zKrvBbo0kWraOnh6Qy9kF6gjzo6ytUj8dk2nWNxL6wNJuIuWjemePhOF/Oy8CqITSbumDyGSHQfdbiVGEYRKCW/9CQfuOYwuLgza3wyx6T4TRdDJA9kiHLhOSZ1vot8GlkzqB6zgGpHujXE0C++r1+OLOqXi0fTZMOXxPPQU8Z8y7UF8RS1AWaaOQntBjNSbgTCs2NCjE3ZXxh9D0+NKrOOo=;FdehAdLTZyjenBheqY5rTw=="

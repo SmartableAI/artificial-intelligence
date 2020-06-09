@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Statistical Natural Language Processing Market Size, Status, Share and Technology Forecast to 2026"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "g7CE53pCDywpwo9pNKe4b03RQNzZBYXjljkpUfknDljPcGSWLcS8qdmw28w3KzsF7taj8QrbpdqgD48uK3q0buyisg3akOXCnOsGiMplHUBGhb2FZyEzfJsrm78ZkAGnhvY00LDNvzYzQsrQeahhDjFv5N8TYjWtiqtKWNsSm91Nnz+zRpmkfjV3AIWS7/hQjsUHDtlMdKxxAzdBnqXQBPPW93YZrzLjUpqfVQ9kEPKUOD8y1Pifx+8+Wdp2KTa/BdECVaMghO+9T4Kpn1Xb8cUxEBTVFJJDl/N+QdphNkCcJN+TLECCDpZhpoH7g08l;IRCADZKs7FizfppeEO/XPg=="
 ---

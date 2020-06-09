@@ -32,6 +32,7 @@ related:
       - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/621145947/76219803_nx_platform_release.jpg"
         width: 1800
         height: 1200
+        isCached: true
 
 secured: "K8Z/Ce6qAzNxVwkyrdiKyO5LEhrFexrKo4ZJIMOaeuDa/tY6JJdTo1rMa7KJWzLOetOJNQJLvxtYSUOQNaCGNvTJZ+NP8WeYFoeJKPLV2jKvq4tJpsg5eYF64DXwyeQ2dc+99kCp3PajhgF/Gj8eOWrRzs1+j6lQOyIVYqMN51U5RYmChO3l1LIoO757GTAdE6kYfk1to2QnFwaLMxtflRIJg4sK8qqxW0O7svw9c25muCxfcMhpHIyG5J490QwdDchsKOkwKObyUbVPeGJHlYFdL9yHzCQ+E5lgRzDW/XgPkQHb6Mfzmsbu+/+KkSOR1ll+mkL7/tzVxQyY4pAmiHwn4GiYaHcUBrSNOECjmxsIC4D+Qkb+j/Gtsgt9DTTBiD87134s7Pu0o6lSUgCNana20qUOUH2e+7j8o1c/rAi71bP8EpIrPYCiTNmkSLOmwAZjhfigYk/Ma57CmhJBBeDRI3yM8BcT/NztAvRI9Uw=;kXispF5Ktzh5sSEVlxqR0A=="
 ---

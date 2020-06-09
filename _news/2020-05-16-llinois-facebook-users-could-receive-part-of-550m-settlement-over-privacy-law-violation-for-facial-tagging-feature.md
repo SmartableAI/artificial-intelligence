@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.abcotvs.com/dip/images/6189353_shutterstock_1518137300.jpg"
     width: 3449
     height: 2103
+    isCached: true
     title: "llinois Facebook users could receive part of $550M settlement over privacy law violation for facial-tagging feature"
 
 related:

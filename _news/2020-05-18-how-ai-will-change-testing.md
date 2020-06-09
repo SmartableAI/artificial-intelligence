@@ -24,6 +24,7 @@ images:
   - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
+    isCached: true
     title: "How AI Will Change Testing"
 
 secured: "wxY7J41ZS7FZA4u+xsbsmYzhFiF02FDMXQpKPSJleW5sRqVT7UKSKMgNLgzz6dUjzIBklpVJpbgFfjgIVXyJvdjYH39gVqdI6UrFgdOLMauxZLZEdThLYbyNMbXcungI+RfqQEUysTAi/kuAr8PwG64vqtq75De8wrbwa+LG25SsDgFkAK/DXDNpKOzOJYmMzcXr5I5wtYLNRRbS2CCFMcwE0+LWZ4E+si+i9QSVFxO+1KpZAKuDMmqoqstxrGcFKHvLJBBpUELxY4T0rWq9k5G9nMOfNjVAmD3Isq4j4FBe4ekxXCofeMII1pLOUxiE;YxBdQgqBWZ1xwzcNs3g/0Q=="

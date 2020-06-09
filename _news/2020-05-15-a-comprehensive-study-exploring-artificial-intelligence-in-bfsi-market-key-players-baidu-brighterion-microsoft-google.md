@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "A Comprehensive Study Exploring Artificial Intelligence in BFSI Market | Key Players Baidu, Brighterion, Microsoft, Google"
 
 secured: "BKm/MrnjDsR2xZOayXIePZwAxVlMKOAArDJL2i3ePOFZ5s5pKNtObbZCrsb9XHMf28hTiNVXVLy2uSEBu4k6EpevLUHtcRVlPSrFcwdGU41tHSNf5JmWaLw63hMyOiUHKr3eAIoks2yiXv721JjFZwyJEHoUGK9iq1RQwNrUR2CzpeiuyQRNwIpQ0kXTjPcj8hQnDr8NmB4LFjNiqh5BMLU7zNNN36LASWKPe9q0tm+Sqy3w/Vgkx7wrJXh9ikhaTW+e8wiAJnnDLrZ4cMtPISqSfXqPKHXQcmHjxZ+y2luAad/UEtmgFiUXXDVvmAyc;4zOB9LExrklr5ubxO4bDRA=="

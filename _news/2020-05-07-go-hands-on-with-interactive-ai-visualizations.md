@@ -27,6 +27,7 @@ images:
   - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_baBdUJS.max-1300x1300.png"
     width: 1300
     height: 541
+    isCached: true
     title: "Go hands-on with interactive AI visualizations"
 
 secured: "4pBMb7L89WGr68kHZoznrItb3+4KOy+Sjw3GqgH70JhfO+fYpQuTpH5HiIDa+lqHQ3kkaLPuJqBwWKEfBia/c9+2mAT/mQ/CFAmPpkNHqE0pgaTl/+2Bi+iF/fGObcJwVAOj/Pk39YLfUVYKRHo0qkwLHpNPyTJ94eOnGB7ZdkgoeV+CW0TKrRJAgrmpGXXWnrtJVd8W/3Dmpky1PI3EweRootsVfFjYNINZ4CfwVexdychSdg+Ditfk2AIvialvz5K4yP+cF/3Uq9dAdHkeUqDAzg/0pP2OisODKop5mhpltp5T7k5y7Ls3/bJjr3hewtJIlBG98r9vI+9Wtrv+IA==;LSScKenez83vtG3CMRIgJQ=="

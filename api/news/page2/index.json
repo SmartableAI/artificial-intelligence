@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 630,
           "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -66,7 +68,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -78,7 +81,8 @@
           "width": 5255,
           "height": 3402,
           "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -115,7 +119,8 @@
           "width": 650,
           "height": 400,
           "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -148,7 +153,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -160,7 +166,8 @@
           "width": 1200,
           "height": 806,
           "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -192,7 +199,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -204,7 +212,8 @@
           "width": 1200,
           "height": 673,
           "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -237,7 +246,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -249,7 +259,8 @@
           "width": 1000,
           "height": 667,
           "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -281,7 +292,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -293,7 +305,8 @@
           "width": 1000,
           "height": 523,
           "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -325,7 +338,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -337,7 +351,8 @@
           "width": 1200,
           "height": 675,
           "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -370,7 +385,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -382,7 +398,8 @@
           "width": 2318,
           "height": 1546,
           "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -415,7 +432,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -427,7 +445,8 @@
           "width": 1200,
           "height": 630,
           "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -460,7 +479,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -472,7 +492,8 @@
           "width": 1200,
           "height": 600,
           "title": "The AI community says Black Lives Matter, but more work needs to be done",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -505,7 +526,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -517,7 +539,8 @@
           "width": 1200,
           "height": 600,
           "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -549,7 +572,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -585,7 +609,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -597,7 +622,8 @@
           "width": 1200,
           "height": 675,
           "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -631,7 +657,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -643,7 +670,8 @@
           "width": 500,
           "height": 398,
           "title": "Coding with R on Amazon SageMaker notebook instances",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -676,7 +704,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -688,7 +717,8 @@
           "width": 1200,
           "height": 613,
           "title": "Amazon’s new AI technique lets users virtually try on outfits",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -754,7 +784,8 @@
           "width": 1200,
           "height": 673,
           "title": "AI, Robotics Combine to Conduct Autonomous R&D",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -787,7 +818,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -799,7 +831,8 @@
           "width": 1200,
           "height": 805,
           "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -832,7 +865,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -844,7 +878,8 @@
           "width": 1200,
           "height": 675,
           "title": "Here's how a new machine learning software can beef up cloud-based databases",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -877,7 +912,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -889,7 +925,8 @@
           "width": 791,
           "height": 581,
           "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -922,7 +959,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -934,7 +972,8 @@
           "width": 2400,
           "height": 1621,
           "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -972,7 +1011,8 @@
           "width": 1108,
           "height": 570,
           "title": "Artificial intelligence, healthcare and the pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1005,7 +1045,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1017,7 +1058,8 @@
           "width": 1024,
           "height": 678,
           "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1050,7 +1092,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1062,7 +1105,8 @@
           "width": 5596,
           "height": 3712,
           "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

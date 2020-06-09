@@ -20,6 +20,7 @@ images:
   - url: "https://www.ft.com/assets/product/dynamic-barriers/comment.jpg"
     width: 619
     height: 377
+    isCached: true
     title: "The AI guests are data harvesting our lockdown homes"
 
 secured: "onPAYsClqGZGxgcp8SqUgjWrXv8HpgXFtLM4kM+QzzECP3pHALxuqk/HFlwHTKVBYRwbXi2Nz2QliRQoS/Y5YmUOOYquqVgUz4fV5X1oPzj0dHIVwf1rJ7fN9eSu+mtO0d9OuHpRvdCzDzJiZlxf3N54NvNpjugAGQRMY0LNA4gLrcaoI2v0/Je+MgnCZj7hR0NG60S+ctIxsGbz6Y1HwIIjp/baA/B6frmF4GpoGYkLnnZOkh+mBIJ0ovdqfI0G9y2mdrAX9QpsI5/cQVy6J6fOqXn1ptKodTVlSKUwLZrllFxqTc80OCdy5jBub8Mm;w6w7hYvAZcpVrkYxOWu15Q=="

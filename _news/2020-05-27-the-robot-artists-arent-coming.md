@@ -27,6 +27,7 @@ images:
   - url: "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg"
     width: 1050
     height: 550
+    isCached: true
     title: "The Robot Artists Aren’t Coming"
 
 secured: "+3+fWwI7ouAPmErWV6XVQqmJ5bo9msMAjuOCjVMWWu6RfFHrntFc/hTC8qX5CUg0H2NGV+6lJHhwCmqDYKV1xPG9eWAh9lLWIyL3NT7flTO5PBZs+hg6PtDS+A3MRHMEJnw8S0duHq1tmck0C0MuSUSWVdj9UvmNJJZEBwcTV0LzaQ7ZdMdNjO0KA/dVn2dSA50VxbQVlUXyMWyW0oo453dlOwxA65/kaLlksUs5YUg5od8e5qrz8AvhEqaosRWbMyT5we3kjTVciyPIb/rewCTWY/ZcgYO8Z1YiNdh23Pku8rSvuYSLxeKTUoCfo3KMpnR0fhnhcmWAyhhVNVO9TiovoInxnrn90AtbfKQOMsJOJKBN2KF6HSx05FrwmsCQwXZ/X5I6t0+Fn8cLuMJlXNIzelwDdHB4FStTa+6t9377UMScRI8xaMiDgoviO7W8SQm2A8zt+/nIFPexNBdj2AmnxdTy0aQemi1YLxoII38=;XSdp+AjgJtS6PQ+rZ7QRKA=="

@@ -27,6 +27,7 @@ images:
   - url: "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg"
     width: 2400
     height: 1350
+    isCached: true
     title: "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work"
 
 related:

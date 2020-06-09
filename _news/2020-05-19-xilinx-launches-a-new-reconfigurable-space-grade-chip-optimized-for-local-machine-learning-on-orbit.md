@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024"
     width: 1024
     height: 512
+    isCached: true
     title: "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit"
 
 related:

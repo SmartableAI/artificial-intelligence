@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/r/2018/05/09/4cd04908-1033-469f-be2f-dfe55163e039/thumbnail/1200x675/6cc8d2e936c36888209677284ed1acbe/toll-group.png"
     width: 1200
     height: 675
+    isCached: true
     title: "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds"
 
 related:

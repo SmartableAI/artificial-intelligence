@@ -22,6 +22,7 @@ images:
   - url: "https://images.wsj.net/im-29359?width=400"
     width: 400
     height: 400
+    isCached: true
     title: "WSJ’s The Future of Everything"
 
 secured: "SHeVslMa37FyIqGT2oU49MzkBzTvlPE8IrsbW4E6At4jhmqyH090ssXKtjvRBWZ2RimtvvHluQ/j2lTi+z8OW8tIglKqVsNCEARB222bi7NXlkroAVVdUISaa9+kiCou6xC/tAZILRYTDAnGSV6yDNNlNDqrKUHP//F799k7CpOEXIrBNeSUYwwYhUwE+KEfkl/LoA6n1obTKuB3pSokRYc8INMhchrtfMDzso6KNrmCedMseeXqsHxz8ybLnPk/J4DR8jqfviq9nNmfzP840n+WRvSXtkybCosPqFBkKGRNTCuaU8JXpqD38uWtIVKv;GVlJwKCdwqPSEprKd/NeXw=="

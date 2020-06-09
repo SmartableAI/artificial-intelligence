@@ -23,6 +23,7 @@ images:
   - url: "https://image.iol.co.za/image/1/process/5184x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/05/21/48307211/22-5-21T1637Z_1_LYNXMPEG4KSF_RTROPTP_4_HEALTH-CORONAVIRUS-GAP-AUTOMATION.JPG&operation=CROP&offset=0x270&resize=5184x2916"
     width: 651
     height: 366
+    isCached: true
     title: "Gap rolls out more robots to warehouses to solve coronavirus disruption"
 
 related:

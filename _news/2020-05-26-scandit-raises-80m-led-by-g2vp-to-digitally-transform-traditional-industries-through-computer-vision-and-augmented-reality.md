@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200526005152/en/669469/23/Scandit_Logo_Big.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Scandit Raises $80M Led by G2VP to Digitally Transform Traditional Industries Through Computer Vision and Augmented Reality"
 
 related:

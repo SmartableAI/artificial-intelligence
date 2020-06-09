@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200513005890/en/791605/23/AWS_logo_RGB.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "AWS Announces Major Enhancements to Amazon Macie"
 
 related:

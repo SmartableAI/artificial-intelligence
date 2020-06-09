@@ -22,6 +22,7 @@ images:
   - url: "https://i.ibb.co/VJzZ18C/3.png"
     width: 520
     height: 347
+    isCached: true
     title: "Why Jason Mars Believes Artificial Intelligence Should Be Embraced and Not Feared"
 
 secured: "PgZvH56UvYWpSLHokVudYSeQKjGyC9CPsXDLFC4o2I5bBYoiYSkJc2kNrUgX+xszxg+bRAGcadeYgdvbFHqtJo2eFmfFcSvtBQRDLbsTJPXFGGfzNjEBAnlgzGTIIqTG/Zk1CGr5yVPhdwoEdxykXGRZpqwOd2FmRVRidMOIQDZ2PbO7JWFvp/xZvaTJRA3U6FDgA3lKJhacMV37RyhZ5QUdOFmsZu2K13EeS8rWn8LK67i4RSYsMhvhXuQyadqnLDxGIS5zeuHWa8l3cftyPRIxoqwql/I0tZKlVw8piT3/OnQo9EV1kYqQgiqWrqgE;cvOChHw1mKMrBHiPqZ1k5g=="

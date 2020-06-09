@@ -20,6 +20,7 @@ images:
   - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/26/1_4784484.jpg?cache_timestamp=1588340116540"
     width: 1020
     height: 573
+    isCached: true
     title: "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment"
 
 secured: "SMHZNebF6EWjI1csf5QioXdmkQ7dfuulvmWqYpZe0zigxVzQYvsVTrF/n8t6swb3jE6hd43X8JYWn4SZX1rPuK1x9spqvhWw5olFs994pNIbLN2RqolOestB0iiRaTWU7XTWyzPcyUNmGmOQefeFJ8VXnd3MpLfnIA85lRP7YPMhyBPZCuVdTdIhGF/4/yVBlzlM6hFaXTqJJztMp6fT/uJ1/lGH5h9QU8EhB7UrlkSJvuDsPTS5wgzfm+yk18bqqVnScJi+SlB3h0r/BwoMMx1xwp+LCZrdYaWjOxZJp4xYaR/VpFWjVmEb19S6HWw0;ofIiH7a55p/+Uun2dZnpBA=="

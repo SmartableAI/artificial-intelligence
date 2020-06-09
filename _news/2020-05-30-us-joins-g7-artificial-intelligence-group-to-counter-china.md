@@ -23,6 +23,7 @@ images:
   - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
     width: 375
     height: 211
+    isCached: true
     title: "US joins G7 artificial intelligence group to counter China"
 
 secured: "DJ3UDM0slmMkxlaqay07FqY6FkjrjbYMsRMYHFM2c8NQCQkqO+j0hZ6W3iBUkyHxodxMbQARpTZqg7dfoy+FNt3MYKzPBh+W39hfX/vJgsxlGKVcl3IzxXYeMc/24yh481lsZNN7gOXxQOdnvhmeZ/2ShQ2NTMqZ5QFmY6W5SBRJpFQKJAfukpANYSLiEi6DgZlo8JzD7B/EVIJND2YfdIJz0SjNZXcoEMvtDbbq3iW/opuF2/m5KFAtgSx4/PNRRSt8b2QWkv6u7HyDtYBSBfKo2RkBKaymh/70pooeWKUtpN5xdL7v3mXim5okA2Q0;uSVuMt6noZCV+kxcDbQm8A=="

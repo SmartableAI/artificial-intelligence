@@ -28,6 +28,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg"
     width: 640
     height: 332
+    isCached: true
     title: "Smart Serendipity In IBM AI For Operations"
 
 related:

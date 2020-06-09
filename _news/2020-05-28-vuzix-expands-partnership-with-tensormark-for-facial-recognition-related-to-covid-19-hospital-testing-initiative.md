@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Vuzix Expands Partnership with TensorMark for Facial Recognition Related to COVID-19 Hospital Testing Initiative"
 
 secured: "jKTWrh7hZiZTU/k+I3rlV863J+ESO91FDuZKBiYvZ111L4Pe1IOYzfIEtRbGSnqqVnuBGIC3opnlJFhf/bc9bgliR7GU3CaI9UoHYC9CIfVGzqX++0vbN7SFlV6ZBQfxTIyC25j7tBiTkfy3ZVc8GBsc/kl3tUYXaUHBhWutM5n2J5iaETspCXZOn0OUN9JEVZDeW7HN0FKzh/NOdWwR6YxUyBPatifVEFUZt2KoUHtyoF7EuSQsyqDGD0LiaCRX0VA3G9GtH4/5pBpLUaTdskui4+QhgKNAS4DFKXlUvdN5x3u6uP5X75A9wvHePELE;jVwImfvnRc8Gg55yj/XhVw=="

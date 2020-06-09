@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Face masks prompt London police to consider pause in rollout of facial recognition cameras"
 
 related:

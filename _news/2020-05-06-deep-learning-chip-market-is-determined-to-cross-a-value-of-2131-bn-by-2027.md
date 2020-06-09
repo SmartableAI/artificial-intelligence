@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Deep Learning Chip Market is Determined to cross a value of $ 21.31 Bn by 2027"
 
 secured: "V1rquLexLTkHgUwZzGdUh/W3sbMJEzLEA84tWTSKA+CZ95ajchARb/79oruafEUT5jImU90R0MyAdiJpPjU+EQoD+V6L0y8AxQ+0rMiLF+UA7Aqd7oos3wy7XyLC3H1wgfbvZ0KhnzOyahSOo6C9Q8PI6NKPkzLvRJOCvT0H40eKchDIBGGUm5bn64z7tSlQqnKfre17gLsVmWvJXZocb+9hAB1yLq+kRn36RkeMzF+InPgtrRAaBu0ye3+bD4Yxc1iJhVHvJKTfPJWBdGe9tdGzA+AQPcWQkoj5DtKnpy8qHqkF0qnORoicDASlDUPT;l2mGv6MwZSVS0eSVatTFug=="

@@ -23,6 +23,7 @@ images:
   - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/05/Ivana.jpg"
     width: 580
     height: 386
+    isCached: true
     title: "Bartoletti to AI developers, beware ‘datafication & technosolutionism’"
 
 secured: "6/GqbVQHvronl6TeZrdFituc23MJ1LTPpVIkw5HTsPXQWpm2qgBBMjhKaen5VnnQ1ZklirMCOoVX7cB/APaEHXS6c8dGb+8IpfYNnBbdA+VOjTopuIa4hm9MOYh3hEAcsE6iL94ypn9+x6UHP//pZ4Vtmh7JV2E5zfKT6ZeB4oq6qdCOUot3vmoFUfQCYJl3ccPX0NU+a+AcpHILkIyi1lvbs6rGaui9rccQ9eMtbZ9u0z8cA9HpYze1Ad4l8I9may558Slh2V1PAemTZdz5vPTSqSedNa7/Coy0NIqBm9Lj7rUdqa2v4nv5sj60DDQgR4PPtwutZNIjlkHOGGLuN/gLF257gYjprElkYD0aHEJC/UZ2+xeDvSN0cDRxk0dWRySL0tIo0Xu24+El9EgF1kQjXGh8D8EGUktw13yzYGtsLDwK7pENkjN/n0BXyUWvHQpK0cnmZXQJo+w8mQTnQmtN5Nm95lkZL9JTnk7Z2no=;EdEf55MtbAdVKIGt269Eyg=="

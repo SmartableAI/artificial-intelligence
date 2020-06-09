@@ -20,6 +20,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "DEVCON Names Former Microsoft Startup GM, Chad Fowler New VP of Technology"
 
 secured: "DfZovs+PrlEdlmpi4iz64b71WVT2KPnjSLkENKtBxOpcpSaHP6/izM9ql5SmO998EREgBed+5ZYLyDgweTXQzoO1SIqTfp8X16QEPspdZ+zjjnE0cGBVSW1AdvdbLC4Wc1jJ++UP5vtEH9+v3fqV2UlIJRW4KH7CmuWYTsPxVwqOXhfNA5ciJUrJDwwM/jlzELlWIRLjbb60tK9dtshbaCUEXCvvdL7nCdPcGSwV4QorYG4WEsjSeggmZKDmn9E+Afa720jCpt87pXRA3RFACyZQDhPUA7AfcuD5rDFJydF9MFnsTsQ4//ckyOhLM3k1;+OG08GxBXkaC3znr7rJCjg=="

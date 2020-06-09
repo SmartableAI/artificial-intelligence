@@ -21,6 +21,7 @@ images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/05/SAS-Prime-Final.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "How this company is fighting healthcare fraud with AI"
 
 related:

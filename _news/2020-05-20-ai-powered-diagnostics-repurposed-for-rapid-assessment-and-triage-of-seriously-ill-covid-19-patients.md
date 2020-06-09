@@ -21,6 +21,7 @@ images:
   - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Cardiovascular/heart-AI.png?height=635&t=1589928752&width=1200"
     width: 847
     height: 635
+    isCached: true
     title: "AI-powered diagnostics repurposed for rapid assessment and triage of seriously ill COVID-19 patients"
 
 secured: "abG87OvOKJdeoCP7zzul652N1L4JXA16R3BWIMLQQDMMqByq7HCSz4IIAn/g/ZG5RXXgEgsf5FcP30F9R91VWpRaSRszx38yqAKB+IFSdkRLzRMYcMEy97HrKgG+QxrHPbocAELZaR9Alo86MZYk/xdcVSN9XnPMSfFU7kPG9nRfgw/wjcq0EekC4NWUa/vLBLbJoGqLDL1WBCByfV+C1UcY9/ZBL1CLD/2J1d5HJbaD3Vw0EnTpO5KxM3Cl5gnnElUoq90m7R0Xz47yKkWWVnKqpstMpnrZxZC02sCwj8ykv3tIOMHsamMJQ9xEY/RNUpWkvMwZFlgxv55FRMADzYCqoBxj9zYkKP9AWLvCuOeT8ONDSabi4G+KVkC3C2UoewkjvGEpdbJ35vow2LueuFS0qIx3/bZyor1k0nSZG2vQCClqvowujhfgD5HvKAoTzJMIX8emZnYaQ9MNXOdHbVpmVbVmkThYg/ZGlxpJkto=;+29qsPCnd+oH1GZgchF45w=="

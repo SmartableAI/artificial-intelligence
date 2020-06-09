@@ -23,6 +23,7 @@ images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200505150243.Medi.jpeg"
     width: 800
     height: 448
+    isCached: true
     title: "Intel buys Moovit app to boost bet on self-driving cars in times of social distancing"
 
 related:

@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339"
     width: 1200
     height: 630
+    isCached: true
     title: "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance"
 
 secured: "A3LZtw3tpSqYypaZLfoE6hW4EIjwAdxQcXrSNUeVH9Jf1itOIJNZNvS/2N4Fu+WMVAtyw1/PHldAHLpoBtWlPOGBZFA8uhYF8GqxQoelHK4+sux3DkK+NjqTsuvK9lvxV+aSAsmWpZnQ5Qp05L2oZYJL+Q3lrBLFaOTxmwLKxjYPQl2Hzg7CEKE21Njy9XLbgADViDo7L2oqW94DhjSjRSl5HUke+xLxDf9geSLYvEG9TxrmAmrXfv9pU/bKPpofL5xTPCbaDDMmlqVnofvJIYbamXJjueI7BRADSWvaGW7OpdV6k6ZxiYHqGJ+LzAwkDZvhTZ1TibRxxPF3GBIyfGyq+JF1crHeJPA/lIQpvVMhxll71ESt+nFDYi0nMUSFgoUSv8NaStJDJWWAJqyGb8CHBFHVw+2kJpu2nC9k24sNCnI4WVQ14fsnfDCuA7Ae1pdtPo/UEGTq6m37bTpDmlaWjvSw++patzSgw/AZjiM=;PdqYAanmWC56wBRei7dBVw=="

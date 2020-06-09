@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindu.com/business/Industry/rxila1/article31778219.ece/ALTERNATES/LANDSCAPE_615/WORKFROMHOME"
     width: 615
     height: 384
+    isCached: true
     title: "Mphasis implements Microsoft’s PowerApps to keep staff safe, productive"
 
 related:

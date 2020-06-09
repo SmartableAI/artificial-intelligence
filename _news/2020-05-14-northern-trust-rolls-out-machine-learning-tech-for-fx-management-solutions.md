@@ -21,6 +21,7 @@ images:
   - url: "https://www.thetradenews.com/wp-content/uploads/2020/02/Web-Banner-EMEA-2020-250-x-250-300x300.png"
     width: 300
     height: 300
+    isCached: true
     title: "Northern Trust rolls out machine learning tech for FX management solutions"
 
 related:

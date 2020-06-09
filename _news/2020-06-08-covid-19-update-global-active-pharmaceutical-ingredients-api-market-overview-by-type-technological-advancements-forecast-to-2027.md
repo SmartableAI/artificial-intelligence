@@ -33,6 +33,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market to Exhibit 32.4% CAGR; Increasing Technological Advancement to Drive Growth: Fortune Business Insights™"
     excerpt: "This information is published by Fortune Business Insights™, in a report, titled, \"Natural Language Processing (NLP) Market Size, Share & Industry Analysis, By Deployment (On-Premises, Cloud, and Hybrid), By Technology (Interactive Voice Response (IVR ..."
     publishedDateTime: 2020-06-08T14:35:00Z

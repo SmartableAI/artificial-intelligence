@@ -21,6 +21,7 @@ images:
   - url: "https://s.hdnux.com/photos/01/12/02/47/19409379/4/rawImage.jpg"
     width: 2048
     height: 1362
+    isCached: true
     title: "Uber to require drivers, passengers to wear masks; plans to use face-detection technology to enforce"
 
 related:

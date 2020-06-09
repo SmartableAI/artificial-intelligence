@@ -21,6 +21,7 @@ images:
   - url: "https://static.seattletimes.com/wp-content/uploads/2020/05/tzrimagesusersiqjWHBFdfxIUi5gz6XCAoOasv1piFq5T3pJF0qzS8rF9LjsWaQ-1x-1-780x501.jpg"
     width: 780
     height: 501
+    isCached: true
     title: "Let’s make a deal with our robot overlords | Commentary"
 
 related:

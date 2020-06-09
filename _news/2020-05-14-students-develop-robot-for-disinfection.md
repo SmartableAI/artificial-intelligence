@@ -23,6 +23,7 @@ images:
   - url: "https://www.thehindu.com/news/cities/Kochi/wlxp9v/article31585723.ece/ALTERNATES/LANDSCAPE_615/Main-photo1"
     width: 615
     height: 384
+    isCached: true
     title: "Students develop robot for disinfection"
 
 secured: "yQrwhWRbQgZEGkoo3tIJEqI2bM6lBR1VoMPTV3rZU6dgCGlrItw7HmPni3MpLxzwie0jPQcsBPfhYr9kWFgP8k89jH3hpLzezvODnoyg1xEDyWwa3cQ1XX3yv/AAB5w3CWhvlMNUoCb1iMlHgDl4DelN8PfFLGaDGr2/+T8I3OZPkMm+hk6Q59E47pUlq5D4HdZqwpJqEI9+65Ilr/31qh9D1KJU6qPPAp9SAqp+5PohK3r4OV0PpN9azQKrdsm2ApkGqkRXOhIoPfvIKNPBkVYYSKkA0zRve8wHeZ6U/Np+mWciihBayoTf+cMkzBtX;AFAVpqQW59hDODT/q6H+mw=="

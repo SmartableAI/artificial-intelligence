@@ -20,6 +20,7 @@ images:
   - url: "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg"
     width: 300
     height: 222
+    isCached: true
     title: "Is The Use of Open Source Software Putting Your Business at Risk?"
 
 secured: "EfrfQ4POuNrWdrQsXcn9deE2Y2MsFjyEJSWVFDeEjMO02322HDG6YYQ767dg3mqV3M08MCpRDe7XkuatDalSNYX8hquKXjbqj0VBee4dtiYkRj+36OslL6spdiap3iHmqBYAHk7lpgnKx5E7W/c2uPPt/0zEZ6o193YnecA6+yWzL5HK5XXv9Sym3F9hxqcdfCfRSBsKLQuSuWmrM6s1umMohdoPXE2HEiilxCFGi0BNkRtx1erXduTVqGgjQzVwwu7jnNWb8NrNJ13lGtiobJr6d5eVGPqeG5vQcW80z54Q8lNBsE71sTtAOkibhZxg;Au9IJl2Nl8FgI5oYdhvKvA=="

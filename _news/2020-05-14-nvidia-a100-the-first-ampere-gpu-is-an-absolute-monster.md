@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/NVIDIA-A100.jpg"
     width: 1280
     height: 852
+    isCached: true
     title: "NVIDIA A100, the first Ampere GPU, is an absolute monster"
 
 secured: "ocA7f3Dgaoq55Dv/BfB2BdCzzv6+R31QsGhxKic1MXEy3Cyl80LpL1r2wDShs9GDbo+uYVsyurMtwOH323UUppVCX7K37Znf0GQbyHgKhfoHyssScq4SPctXhL5yKGQI7QroogTMq+8kGbR577Q/nJMWe01ybcJ26zFAoG9ONi6qF1Jpl07Sw2iaiDhHFNT0O7Au5DxB05Bf2HqBUO0XLu6OckEt9PE6xZyq3x1uhw05KmqIbFzKH3sayTePByNZR9IoGZrS6GHcieH3Ef1OAJtDbv6cxelBHLpw9g5QrDDS2QZV61GEq5dR7EIHA7w3;Y2AnC7JlqW+NZocT2V/sHQ=="

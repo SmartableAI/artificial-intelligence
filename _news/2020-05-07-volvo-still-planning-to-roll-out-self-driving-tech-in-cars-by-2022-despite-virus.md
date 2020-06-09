@@ -23,6 +23,7 @@ images:
   - url: "https://postmediadriving.files.wordpress.com/2018/03/uber3.jpg?quality=80"
     width: 2480
     height: 1240
+    isCached: true
     title: "Volvo still planning to roll out self-driving tech in cars by 2022 despite virus"
 
 secured: "VTPB800Ev1yulrA7QBs07yB2zi+hGJ0NbTbFHt79P5f0RqbbloW0wG0TOPBGVvXGRDSgemEfy9Wh888AHQhv18Uqp9k/dRmflAxNND/b6w2qOU0b5l+WMUb2WbPmL51aFv1oC3ISJRTxDdTTMghH6wV8AVaOZv3ET5sq8wL3VZOcaPBVoS8Tng1GjhDdw1waMGlWl8WeE+0N8Cv854qQYnlW6lmQ5oBtOPEbT14ggRLbgGUZrSCMifhGpIXWYkg76/TPk8grg2QrFaz/Dvs54HkqvbQbcrpsIXskOESsZXF5xB5aYAFmFOXRSSj/tYzS;iLLYrhEJjzQWAgnJn+ibYg=="

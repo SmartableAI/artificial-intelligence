@@ -27,6 +27,7 @@ images:
   - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
     width: 1000
     height: 1000
+    isCached: true
     title: "Responding to the European Commission’s AI white paper"
 
 secured: "Z0KPiYntSPyy8uHX/k29oJTT/+/BRopR+eUDRKD1mdM8rvBYMD9HfI2niBRSTf5CAm1c9bD70ssuWLCd5DKJ9nPoKcNBi3zRQqtVJefYmyJmU1PHNVVFbNJeQEzxV+FXFXfGzpNUupxUMIKSUj1yYECyF+XNG8MK5H18ejhp4q9AD+DHpPUuSAf55ZGziaj33ei9pZrKOdFHtxIHYAnoyUEanK1g97ZxFVNn3RkBiqYSF//1azzl6gRF2OTN5a8TjbX1l7BDzkpfFes1WJvTe2xAPmt0P4iE8vcvHEGJ1iZeszUTOSrygC+ojU8wFzYlDDyvvRIGnhkAqrTGJd+zjQ==;FVY673L+o2qyvXhHZondUA=="

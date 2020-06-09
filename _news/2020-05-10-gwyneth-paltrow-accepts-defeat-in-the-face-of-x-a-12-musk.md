@@ -23,6 +23,7 @@ images:
   - url: "https://media.vanityfair.com/photos/5eb83a8677a607fc7f7f1574/master/pass/gwyneth-paltrow.jpg"
     width: 2000
     height: 1331
+    isCached: true
     title: "Gwyneth Paltrow Accepts Defeat in the Face of X Æ A-12 Musk"
 
 secured: "Ai5GAuH16br05SYhdFLqLqyHA43XILBh4+6mOBfSBZK+IlaMUMnHlAbwHpzCS8aK/4nbHeVoVXHPI8lTO13k//+dnD9GREIldxJ0BtMwVmepkLv5M78w/2eb2KNCKL9lxeaqBAForswFh+nx9Jmb2mnqHkXHbNoT/PYQas1Mlt5es/zInhiU8BzDGKWY0gMz6r9gfo+cTeKpzLV/r8CbpjI+ur12z++wQzfkaWVv2gdG1ZQCGdzs0LOWYRGm5SLaEogyPQmw2YLoolpzH0ymogM/t39Xi0jehi8wRb2cxywYXQtlM9SXq7kAVPmbjXwBo9WGkMmxd1B2qv0/gs4MvuqMZbcWH5VDKvzZ+D5BSAqcfFwbcJQ9ymK7Y6Lv45ELTWCgfgoLD9/Q4rOtIp3extauTI0qCfl8FYOrGY70KkdbWU5PibxxXnDszyXQfX1Kjjrw00FtLp+xYbjwhTZ109HiDNPZtU4Pzh8nlQwPU0E=;WpDRWMj0KKm/rDpkUSjhww=="

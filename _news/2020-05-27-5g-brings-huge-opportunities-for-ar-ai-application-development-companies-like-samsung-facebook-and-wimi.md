@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "5G Brings Huge Opportunities for AR + AI Application Development Companies Like Samsung, Facebook and WIMI"
 
 secured: "CgJv/4+wNSUz00wNBuux6I/Y/UEYaXoJy0tBeKhulEE0QDFulSGIfN3cni698SAEcCPiW68yZKtDybZz+qxeVGHh+LF36sbeRiPk0JSENelx4Tc57URXPlY6P9QF1W4aZA6Sx1A2asSAByRLDAfD8hFn0VDpgZrmMNTIAnE2J3TuG/KTYHExCl6J3VzeouZ5pHECcX24NDq596HoNgbJMkvHgui9+nmnM9tr61Kr3Bas72EVc2VFukYZ4gSjGo7jMB3HkNxyaUnyre2zn96X678hiHHMielA2Hssi600UQhXyw5obn+8y0TedDNHyNBP;jW42K+ajAZreCd0yVuft/A=="

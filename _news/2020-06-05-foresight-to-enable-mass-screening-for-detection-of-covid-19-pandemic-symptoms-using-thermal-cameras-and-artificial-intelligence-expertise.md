@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Foresight to Enable Mass Screening for Detection of COVID-19 Pandemic Symptoms Using Thermal Cameras and Artificial Intelligence Expertise"
 
 secured: "+As4Ev7OOfHmYtkUptL/Ji7JQqqNZLIEAQCBetjUplxQdnKv6pCxM89koJdSTaiDKSb+NQ5fx0KUcFDSwBsgUqoYFmC+Hu/OJlAZ+SCsdIs7qewhXQd89pwJEVXIzhI2yar353WO3d/7Uv5wRIc3BkpVbBkD1rj5YK+3j7ECEDNRd3Ua8SPIZvEB3e1MKKfe8W5c5SgFtxdHAAM4//Ili7z0AsXJecZ2Keo/VDCSnCHVG8OtZrgD8FRllIuHlCz6zjovLHPtWVKqdKdGm0lhZF36qHUOb06Idc13pQK8SfcLVsenRdhyZWyyuzLj5odA;wH6cI5dPplO2sikWKnFvqA=="

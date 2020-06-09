@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/machine-learning.png"
     width: 882
     height: 520
+    isCached: true
     title: "New Research Claims to Have Found a Solution to Machine Learning Attacks"
 
 secured: "MGnKOAVJbydNcsnVD9vLdAfGsGbMj3FIQeD5vT+SRvHlh6W1r7doi0/8YssxkekYp6WcdCN78d51FFDueEZvzbo2mnPRRAnwhPg6onUynASSAv8Gnn+eT/HlP8vGSqsmnquuCGlLr8wsOEvt9OTsbn3Q5IjmWqGwJ9r1mO2O2AOTignwSIwq2p5GRuBsT9evwM+4I69KUD9HCtOu84GSyQYdtPMlMQERa/m3ZaUOfVfJz6DYBvF+Sar8ar+bXfC/0zOjzTamYa8MtbTZxqZS/froDtkYec+9O22ymVA5mCZdG8laxifpyaQYJlQkIbBwmJITeABb9Jn5vPT6Vib10cI/UCuEoyEQazkUocGVLnnlRAJxO6UPh0RJP/nOhcLNNsmeItsneQej0rwA0JzyKoqL0yfxpsw0xFa1lANXtGn657VL71qJ/muAhY91IQXkyZxykmUy2ojIXzhakFNeAspA8sDwZwP0UKEgR3FH22Q=;KT/hMM7WivoMAtXyWaWRWA=="

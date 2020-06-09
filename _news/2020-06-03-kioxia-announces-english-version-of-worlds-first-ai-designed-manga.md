@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Kioxia Announces English Version of World’s First AI-Designed Manga"
 
 related:

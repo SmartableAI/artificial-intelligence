@@ -27,6 +27,7 @@ images:
   - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Cruise is laying off 8% of staff as the coronavirus pandemic hits self-driving startups"
 
 related:

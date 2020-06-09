@@ -20,6 +20,7 @@ images:
   - url: "https://images.newscientist.com/wp-content/uploads/2020/05/11120221/pa-53544215_web.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "US startup is testing drones in India to enforce social distancing"
 
 related:

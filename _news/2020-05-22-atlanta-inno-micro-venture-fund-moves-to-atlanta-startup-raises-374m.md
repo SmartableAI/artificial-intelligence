@@ -22,6 +22,7 @@ images:
   - url: "https://media.bizj.us/view/img/11666819/screen-shot-2020-05-22-at-110034-am*600xx1781-1186-443-82.png"
     width: 600
     height: 399
+    isCached: true
     title: "Atlanta Inno: Micro venture fund moves to Atlanta; Startup raises $37.4M"
 
 secured: "+O+Pw+rxOtQNCcw+VJJzqOmNnCvLUTk3hUOtsWOeIKesM7S4SRWoQLv9OlKKZUVpqmMctLs9U2wtJLi2yTRV+01pLlTrKShXTzEyq5WSBW6cIVhpnOKy4fJ6zAChyNPXklynMoFF8LbcbiAQXqu95BOW1N71WKjgu9rpvqVxNNiEIDT1+eLDb8XRtK1p/EwUfI0aZmdW4x5CGZvfYYtd/dRFtm4FxYfP8qtZQ46mBUfXD9mhWn418AHGzxfHp7a6O94DmfmRPXxEgFbJDcxRUPZydoAmW2yy8k7YkbjhQA34dpC8Xhw0s4jMunxCUolkFWvMqGEwzW6UN2e+0bLGGk234gkiFUHXfZY2KoInU5FL7bc1i6q3/oqp7CfCzkYTNllkeYEfyiVCelJKm0OXPHmluWhvexe/5cqrQ+tN392cs4HepCt09iZKFtQYdQueBF06NwAGjwlJrbaGMfc2GCu0N5hhQbZv8Sp9HU8c0FA=;fq5SAHWN1knJjNeqwPhryQ=="

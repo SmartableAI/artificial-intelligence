@@ -21,6 +21,7 @@ images:
   - url: "http://www.engineering.com/portals/0/BlogFiles/61_1.png"
     width: 640
     height: 320
+    isCached: true
     title: "Federated Learning Project Will Train AI to Detect Brain Tumors Early"
 
 secured: "4nMxwIzMImKHqvOlwzH6SWEnU0PtbuAReca5vI1kq9kuKWW7ap52LHWWDrHGrOH30OVJj+MOUNzI067jit6v8pIcC6W9Tv0gnaulH8M+6qAcv5GIWAWpuaq5SNAYyedETEQt/u6L2h0+DqqFy3Dmn7TRgwmysRLRx7ArRYHWulCHZaHAAI/31TJymJAi/5HRCFsq0WDpEk6KjmZPs1/uD5KzUbgkpwzxVCEfcMqotYn/bkj6LtOzniIewdfO2VMH0GNSBavGNe+1EfhI9IXEf3yBm52l6K0yrc9H+uBNBraNKkTu72ApLtjDQXSVwL+a;YmRsFO4dkmYu3fGmV/BizA=="

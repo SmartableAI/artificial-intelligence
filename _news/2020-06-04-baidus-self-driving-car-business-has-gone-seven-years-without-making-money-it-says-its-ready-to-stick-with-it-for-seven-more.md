@@ -25,6 +25,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/c0436612-a646-11ea-8ea0-d7434be00753_image_hires_191027.jpg?itok=zHzIQat8&v=1591269034"
     width: 1200
     height: 630
+    isCached: true
     title: "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more"
 
 related:

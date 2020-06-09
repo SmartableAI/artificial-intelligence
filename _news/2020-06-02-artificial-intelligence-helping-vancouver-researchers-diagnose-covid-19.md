@@ -23,6 +23,7 @@ images:
   - url: "https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2020/06/02/Dyllan-Petrin-300x208.jpg"
     width: 300
     height: 208
+    isCached: true
     title: "Artificial intelligence helping Vancouver researchers diagnose COVID-19"
 
 related:

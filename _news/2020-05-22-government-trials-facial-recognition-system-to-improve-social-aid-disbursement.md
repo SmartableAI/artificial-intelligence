@@ -23,6 +23,7 @@ images:
   - url: "https://img.jakpost.net/c/2019/01/04/2019_01_04_62237_1546584615._medium.jpg"
     width: 747
     height: 403
+    isCached: true
     title: "Government trials facial recognition system to improve social aid disbursement"
 
 related:

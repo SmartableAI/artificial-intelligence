@@ -20,6 +20,7 @@ images:
   - url: "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg"
     width: 1280
     height: 853
+    isCached: true
     title: "Child psychologist says AI can help the poor amid the coronavirus"
 
 secured: "iDxQLGAsWOzdkZwLiFPP9Ohe4zVeSGPlvh25JTESlK+vNKXxbrJenq3HC81BmZlBWEfAIq9jyaUlIqLkU8xD+fbmCupVCkYoV0jRG/Swd6ybGcZCIOzVaidIaCEguCTRJfjJ5cbPLhhowvf12DHciwm+JcClCQXyEqWk9CrGGFTjB7NUvxsrVy6UCeboKNozdOR3pdsKzNDWsELHdhvFuqbNBEcJYK4O8bLuF2VBMnxYpI/qZvKcjNhc4R9Z1hV8tTsTnG76jnaE2sxSiWO2B+FSfUK4Jjz6SUwxI9e58bfyXwN22rxfs3Pyfy6T27kC;HCVRxYedUj38neNIs21yRA=="

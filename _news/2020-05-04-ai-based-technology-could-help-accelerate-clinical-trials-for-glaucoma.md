@@ -22,6 +22,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "AI-based technology could help accelerate clinical trials for glaucoma"
 
 secured: "Gj/EZK9Oby3KLZ2RXBYn9InOBLPFU+tejM9lVPo703Sn8gck+7ZJ4k99G48v/mtex8WyB7Jrmj0uBdbaPh4X6I0ZMJMHQw95bSnBlXSs8ZY2rHfsemyQ9q0FDtBB80nS1pproJIYoOdcHD7rD1btRsEu8JaOZGwcmqBgAkfs76+wKVVmc9tP1JCV63EwVaT6Z+UeCYNx06WuLHbldJfd/4DLIDVAaj7pKjl2uz/XWzSpO3X+8DLpByxcxDMq4uMSpFaHHSrhOrNI5/PPlqv+WBOY3xN8rPIQyEZ+cetP8Z+0pyODSjL2tyE6pub6YLKv;9nxJe4EFBWCE9PoMvACRbw=="

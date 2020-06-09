@@ -21,6 +21,7 @@ images:
   - url: "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/Accounting300.png"
     width: 300
     height: 300
+    isCached: true
     title: "Aussie investors look to CEOs for financial accountability"
 
 secured: "6iIP7H5OJsxEuKXyA5lOzG/soB/3UWhkGMlgHB9GVGg+Or8SVibc1EeI5R9G/XHoDteAYYC00LMiEzFHVJMOISeD0Y4JMhs57FN3XAsia0CBoSEggUlk+OH08CkGPrmKLcHwUCZdE01NqbupWFJGj3sp8Xsua3GJ1eG0qhtl6IdcyxkqYT1+33Z9GJIUQfFHJaBIEZNx14aH6tW4hth7ulzoWsNhJm/PHAJFXe5pldZcSY7fozQFhmroXfFUemTqQJXTs+mf/yY9fDpIs6+Wp9JFgtNhKpln25cR4QRgfXlnpJoF2SmZqPQO1m6CgZdw;MsgoxQ0V7LW3hVYjffzzpA=="

@@ -23,6 +23,7 @@ images:
   - url: "https://media.voltron.voanews.com/Drupal/01live-166/2020-05/000_1HB2E8.jpg"
     width: 4675
     height: 3057
+    isCached: true
     title: "WSJ: Amazon in Advanced Talks to Buy Self-Driving Startup Zoox"
 
 related:

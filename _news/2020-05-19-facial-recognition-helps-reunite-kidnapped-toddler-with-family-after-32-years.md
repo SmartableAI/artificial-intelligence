@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
     width: 1100
     height: 619
+    isCached: true
     title: "Facial recognition helps reunite kidnapped toddler with family after 32 years"
 
 related:

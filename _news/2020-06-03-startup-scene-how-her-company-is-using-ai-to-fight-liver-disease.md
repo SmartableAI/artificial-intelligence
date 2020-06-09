@@ -20,6 +20,7 @@ images:
   - url: "https://media.bizj.us/view/img/11297603/014sfbtdaphnekoller041720192831-web*1200xx1200-675-0-62.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Startup Scene: How her company is using AI to fight liver disease"
 
 secured: "vtx4SiB+fh9/GDeRMzl/zJ6fgnknjvgbpZ2zlqbui1LQwBjqNtQqz6TeNQU3cSxgaxXJRNsJ85IsQI7VBV9gDUGUt9oM3Y9uso+2Di1SIurFklxciWBxTz3WBVI9vS5o00IJGHq2sSgYb2qsRaf+3rqQTWzOU1IHY7ZhO26rEYu5TPykMcUikIkWj2kAmiS8k7ZP8PJQFRc6XRqmSlNvNRXQGPJvWxLr0umVD7vy4FqqagfhXEGlnsEykuAD3PTD3HhCWZknD8b/6AIXXVxURzwS3MCAadaiZ/5pFHulGhZlQK5liV41Yny06CUTvvSx;xXphLJHHvBUXKLZWaNADow=="

@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 618
+    isCached: true
     title: "Caltech AI lab optimizes exoskeleton gait for human comfort"
 
 secured: "29wHyYQczQ1qxQYlFyK8W2LEI3Yqc2JEUL/Uyig1+ngKw2WvPVmu4BryCZo3MTSKFDEKpXZxRAbOjT6te3vPr+qwIY0JRX/OFzGmBNRSqFK5A8LsxNVzkuaZpqUogT2US51XAWO0rH7rUrhsz4xU3av8VSgcDaeQDZXCKo1mCwkcPsckVlM/psADSRvkhylfAkUjsso1WuYBcNhcQcNrdqKu1no6YoCWqifj12rkPgnliUtNgnqvOXguJSZ+wRoZ2QuITzE473G1mWciTZg+wFYoWdTAg9nuPDI2wmcKQbRdm09SmwRhrzfT21kd4GOG;TfnLPy76aG9l0IzXr/5tHg=="

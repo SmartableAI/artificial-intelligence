@@ -21,6 +21,7 @@ images:
   - url: "https://www.computing.co.uk/api/v1/wps/c096680/a58c1446-ff27-40f1-ac9c-39d2f5f9d330/3/openai-azure-370x229.jpg"
     width: 370
     height: 229
+    isCached: true
     title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
 
 related:

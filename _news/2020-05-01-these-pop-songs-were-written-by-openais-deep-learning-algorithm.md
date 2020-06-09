@@ -20,8 +20,14 @@ images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=1024"
     width: 1024
     height: 682
+    isCached: true
+    title: "These pop songs were written by OpenAI’s deep-learning algorithm"
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=3000"
+    width: 3000
+    height: 2000
+    isCached: true
     title: "These pop songs were written by OpenAI’s deep-learning algorithm"
 
-secured: "DqOURHu8qUb0zCEj9K2/g24w0Kwoeo0Aa0QT+n/fXU2krmexi4gagYSchOQunOHVbML6b+6sGR0pmW56F/gTD7GETULrXJ+Adz31e+W8riKc1nOiOI5w93PJs28OyjovGCQGJKuno2wIMjJXyO0sZ3XGB0y28V8zuWy4Mju9zoDHHUosuuS1sJk11Z3kBTWxxi1Yh6zfNIioEUGl+L/sSXdtyBPClX3FBu9V4XjadAo2nZkLPdSfrKzSRYgso9RhcmklkxR/H7rIvx+/YTz16WI7wrSpFFMp3IbzEcRH2l4486S6dbRuEe8JCy0XQA7CMppnt1PR4Db3UD8JFiyBAYLYqwgWz6aGKd8SBHvxsq7zY02uX00u/gFIo/Dq5cdiPxaMpoiAEBwluzEiZ+5aTcxJ5x7G99LF3RoZHYlveVZujEGprQloJTvixgEYjjE3Ye/Wf3dOUeBGLEyPR/dPzRXZkjA2xDqCFq7Rldt5sfM=;79Ge3GTksxnAGAx0sOyQ1w=="
+secured: "XPc+zb1udUIRf/1kUt/n0DwiJ9WSR3tPSZ2/YsOK4wV2URV6uVQ6xVLvwXx6t40Qna+Npk8kDTTJE6hcgHSNkd66nFbHq3B1SMyiJTDsgJfll4ZkZ4yZwZRl9Zo6bpN3Jo7R5x6ZB45mX/mhcs/maPAc1nwNx7HBW0bkZ1yuTPAhTqttv5Qeib1dbJTyvhXzi8xkl4/7lUdSgrJaCuLYWQpZKniK+j2JmZEX3ss7NEU8wMr8kUd7KmiDMMm4jcdcCWs5Otsrezx2iaF4p09diQaw9vtCRmcCB2CMBjzdRyBSJWcAp1/vdztVpNwlQMhx;NvtxJqPq4t1yAAKF8TNvaA=="
 ---
 

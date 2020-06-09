@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Neural Networks Market Size 2020 Global Industry, Outlook, Share, Demand, Manufacturers and 2026 Forecast Research"
 
 secured: "Ti4t62Q/kGF5IRkXdlEyYOqvtgqsJs7pJBPfFey5JhzbhNuWT0bfkQ3SbLI4IAq43PLfrLapFCkaLeOrn5brzL2z7Mq9zdSBEeSzGOGBpeVw+f24Drq4V4xg7TnCBoSX0n0MrGsxlnKC3V4BBb28UwDDs6OcUFA3Bz+z2Wi8Bdsasv0HMugBt7PIvKISSoT/OO08XcJ5QnmGNY2Z9rn2vGjj7o6UkZ3RwYEPmRC/k3fo3M3GseBpxcFKhtDNG++qVQMDK5Db1WhBgjyufVvdb61bo81pKqujOYyuzpRFSs2G7L5h+q1t+ucD0PrfIGSl;GNksmByw/GJcmmM2tPmtTA=="

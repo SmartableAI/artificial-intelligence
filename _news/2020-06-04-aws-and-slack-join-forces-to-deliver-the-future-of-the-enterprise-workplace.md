@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200604005766/en/796123/23/2020-06_Slack_AWSpartnership_Unfurl%5B1%5D.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "AWS and Slack Join Forces to Deliver the Future of the Enterprise Workplace"
 
 secured: "q59rV4n2G0Twv1hlqRPSeHWrF2EgOEiBrCAucYcJvMSw5oYcttSW2yOKycRGdt8nhr1bxxmjpGzIUlm0rnuCMitxk0EQ+Je6yX2ZxeRP/BxQjzrrhlDOp5Zl33fjEOCRKlutV5kuILSYdi8IPYKMy2Uw0GEu5fUEHxB+MHjnKsvOADHWgtQVeCuRC9iaPUnDd1gKttMGxr9kxzOwDRDwCF/3ySaFxkmnqOJodrBsTZA9pZHc9dXImxcwCLHMk0qtGgPcAppgUO/2NIeMzZuUSMofJATq6GEnH+xQQgeFNM7nscHE2oPU3JGOxPVIvMyr40UBUlAnGtMYWjFyj1G6AUDSBvROuiLtZBPzDP7RIc2RYCB2BeSiaqBJfbiAp/oGVvYov3BnaiUGGX4UCRF7vBrhvZTkLKCFi7I5YRIpjnKj0e4jOpGGAWD2XCneDxTYQ37CQjAiNls5oE0LSwPyB5lu8Niq4Qj1a7XTcNgPe/M=;CJuw1eWZNupDfgDcAoy6Tw=="

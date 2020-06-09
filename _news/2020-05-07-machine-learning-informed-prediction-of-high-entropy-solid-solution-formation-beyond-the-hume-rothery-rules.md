@@ -21,6 +21,7 @@ images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0308-7/MediaObjects/41524_2020_308_Fig1_HTML.png"
     width: 685
     height: 534
+    isCached: true
     title: "Machine-learning informed prediction of high-entropy solid solution formation: Beyond the Hume-Rothery rules"
 
 related:

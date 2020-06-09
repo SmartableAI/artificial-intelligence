@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita"
 
 secured: "YJgXrE1Dr5OXfcrj9xAH2ipg0OR2A13udw0XWnV8JlNq1eASx9QXOwSfyzv+L0XSWpQP0SV8IpJGCn6bJ+aL/LiHJ78+fa1kBfhWDn8rIpOAh8zPnyn+ltGtYoO9z5XtdnfdmNOS0X/5do0/nFd2JqIKQJKgMRvmHFTGCa3XjElDYb5B6Q1ENF/E3eEfmf02kvWTXg7aecRQ8aBkedJC0M4EO1gxvIOOMmwEJuCeRZz9jAIqpAZXVn2aPH1OJTCGpReBdtoqYSt9zmMXyWLbiXIUi8PUYg3T5vSHk+NKyDjzl9/on7lvCS7VrhpFzzAD;RK4VKuLPXcD4FnxUUHG4JQ=="

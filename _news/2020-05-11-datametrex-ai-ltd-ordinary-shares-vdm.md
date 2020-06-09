@@ -20,6 +20,7 @@ images:
   - url: "https://media.stockhouse.com/media/images/dealroom/dealroom-300x250-050720.gif"
     width: 300
     height: 250
+    isCached: true
     title: "DataMetrex AI Ltd - Ordinary Shares V.DM"
 
 secured: "gzDZlDM+Ko7z4PPfTYqQevGgzt6v+6HQYPWCOHbLfSOmDmCEnaEKlROhfIm6PBXuIY/QdDKanvlwTDMj+IOe10tZWMD8Qhm4zw0gbNzFUJ5nlS6MFACbNedgJRuiTXufyxnUg0hjlAVuMAdlWKDNT+INtp4OLxzBC3X1nXT6yiZC5clFEsYjv6vBwKDxKhQvSMMDxm8VP5hmZwFU8X94MHhEbbCI1g108L2iwwKAflxVfuQ7rkB8VvgmUVzfd5hJoTbwxxBNNF9t37Cxww8CIh0gfYiitmh9geo6l5BTF/LY0cV9KVvrjODvJXBEmbVE;mFL5ZFyj+f6Wl1HabzhrSg=="

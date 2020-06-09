@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/05/14/140473-11virus-body-sub-facebookjumbo.jpg?itok=OYdgrs8_"
     width: 918
     height: 506
+    isCached: true
     title: "World should give recognition to Taiwan and Tibet"
 
 secured: "STZOEyUpYbq8kRVXb4BIJ/jXW4bpfiPR4fDcYCwTr5sgFZM4bNaiJMlSH8cgS3MSb6VB/9bQ2hNuBtrG5tJXkjS6HTkRQ8fnB68QbU8tDcZF7sDwwukwtHkQAnDVHb/BCoZkNFednzgTSkJnkUZVhEQCn64G6637e7cWm805cOds1nbkW8ULSCpBpdQHEtQARnFSq93LzdiON6AzBSImnXggASEJyb7YcNrXYzHN0ypLad1cx/bbcDaYAMTxXBWn+qWxB6Pjx6DT1wDYaDXqYGBisdASY6sEA5mkF24pfPTeHpI13ZayArptzkY1dHdU;0goiI4yuXYyC0dCZitbx1g=="

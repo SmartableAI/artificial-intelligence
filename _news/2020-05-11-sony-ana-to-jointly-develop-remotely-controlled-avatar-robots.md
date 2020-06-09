@@ -21,6 +21,7 @@ images:
   - url: "https://cdn.mainichi.jp/vol1/2020/05/11/20200511p2g00m0bu050000p/6.jpg?2"
     width: 335
     height: 238
+    isCached: true
     title: "Sony, ANA to jointly develop remotely controlled avatar robots"
 
 related:

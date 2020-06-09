@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/25/a17ff3fe-9e1b-11ea-8055-0ae12e466049_image_hires_082942.jpeg?itok=sU7aud-4&v=1590366589"
     width: 1200
     height: 630
+    isCached: true
     title: "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips"
 
 secured: "VgAuAO1bpMiJ2OF6BfGpDb3PuS8iIQFa5T2F4gdMgMclIHO0oboZ+nz1aWo89qWtNbH+xlbpmRwqHr/FlDIhfSY0CuzHdUS5rE6MQw4DA/tBb0Xsf52ODUn5Abyd1+hGPAajh3nBf7AjODRYCNH2zG7BDqJSFrw0ugeEy4NdwEySqbRLuOvx2wyhNus4lVoQjtw87JnPOG2WmDYwDPB58AM7hiwyvdd+IzQwFmFNT8YBYEr/GcB/PR5l+Yrik4l17QlQRehoGD5um7gs9OvhBWHIJ1Yt0G5ZzaQJLJdbJyPsnqNBvZoTPIxIDzbj2/ui0VKyRznoN0OUls5MmnAiv5lrqBdm5mhewUlPxMjVEc6Dd+KBZyS5NbFrwAj3I3X4nK4X9W7u7dJOkSsDjJVk9JpHbdsFbHfBFUdyais6Lq+wuRFCeDkNaOg7a48aeSH3z5hLGBqYMchxVjEynlbn2TUmI/Z++NL8nVweLS8MvGc=;QMLKyrP3OQgwSSqDW+osbw=="

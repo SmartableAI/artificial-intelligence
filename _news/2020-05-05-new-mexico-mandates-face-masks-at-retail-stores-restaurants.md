@@ -23,6 +23,7 @@ images:
   - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/05/04/BC-NM-Virus-Outbreak-New-Mexico-IMG-630x376.jpg"
     width: 630
     height: 376
+    isCached: true
     title: "New Mexico mandates face masks at retail stores, restaurants"
 
 related:

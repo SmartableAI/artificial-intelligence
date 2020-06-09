@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Artificial intelligence may help study the structures and properties of unknown samples"
 
 secured: "iGWePSyX5JiPX+gwDKY0sZwmUrbgYsc3x8vxb5CxQGjIkFS/kpXvTk9TPTP+aj4/g0j0he3wL4jUGvZaSQxPY4x+IdSSPwMXvny7hV+F9PiZQuO88nSHzB+cDMQDH5wvUgprLpsq3NpUhA8tzI+I+1MJhqSbtibYt9ioRcJ2NSBATrmiQc/M9VF5p+IU6XmHlSbsQalR+2EBaCRmQPJQCqo7VB1ISPc3euLTeYSGrTkRslqlNzvvbMFl37XJg0LObFiRDLdit1CO1PanEoFyRENJ3llKZ8U1cnyG501n1X01o/fm5cDr5M9ihdBeKSXF;/b+9NFS526mAHo/MXbKdVg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://images.financialexpress.com/2020/05/IBM.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "Tech boost for frontline workers: How IBM is helping ICMR to manage process of capturing COVID-19 data"
 
 secured: "ySwxqQ4hm9BFjqlklwEhDbMQ8z83o+p89oTBqOj3yZEJNc1gpRI4i5exIvW0xbWA90ineP7uxFWmSq5IDlumwIn4K8bl30eL3tv5VHeBUM3/0F6Ik9MH346NMGr45ejMExm8qPT25pcrZyFn/h31B9c5pe8xSgThbMVY0yHsHxHAkNxM1fhXXWL78IRv+aD9Jmcyx2QEUjXXydU2CUqf27KC5txa9SURSrMp41Kpf1gbSjuTez3LUQa/hPLE6hKq8kutzT4a9359hwOXJ/p3c0XdDS25xhjcg9qHRrlHjI237XWYVhjabg0gDLrrEBtF;hvzR1D1oUGxDGPboz12vHg=="

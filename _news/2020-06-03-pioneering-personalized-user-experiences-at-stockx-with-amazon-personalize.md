@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif"
     width: 907
     height: 465
+    isCached: true
     title: "Pioneering personalized user experiences at StockX with Amazon Personalize"
 
 secured: "Q/gYpVOiPj4RKJRZkDwlZVHDriJ/f1Q4hF8x41OHiRiOkG2WpH9EmgUlPekb70wtrfof/4T2Jq7jMk+qjUaAme1tGv8Tst6oNsddB5zshkvyG6rAlwhZEE/ZQbbbdiQI1lCVSOlcJOPh72iZbwtbH5ej/kt2zLBFjD+j2nyi/bGvaAxBHI8dgVPsJfJM329gAg7Yp3HuF0Fh1UgrPw53pfy6mBZprBMeurHwIVyD7c3CX/4BpcLO1A54vkXf3Yz+m72FvhbWMfmlAGiN3B1+/v1+ndIOC+Wgv0pHFkEL4226++Zw2IqAXiKO6Utkv2/41O0CRh5BNoAR2HRofNJavw==;xMkjmPU8g1SYXVvIEOipiw=="

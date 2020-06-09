@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "FanDuel Offers Fantasy Contests on Pro Athlete Call of Duty Tournament"
 
 secured: "gEQGUT67VT86+8jTjw+qarSYILqM/JlALivO049yIoT2BA49BSnCF1sn1E6mW+kbRu+eB6DwTcACk0uKOyxTScEBGF9LNOtphL8xhi/B4naU5HXPBx/RRrO9dnKdROw8T1yXJ+sOHW7gtqdmmssCMiUweTDDLel1GM74FI042+2W0ZrDqbkb0BHcMDobKtNfT3DUTJhbNP/KOHYAPGEiAobrv6rLwItBgazSX+WKZNzB6499/onwOS8Y5dz1Nm++nKOvk9CL4S/t4Na5lZRMVj0ZhymJruXgBPcL5LRq1q2Ik1gUu2L9NvDK/cVJugFP;NLJbGyC8hLV4sm8hmzobRQ=="

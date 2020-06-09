@@ -23,8 +23,14 @@ images:
   - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
+    title: "ICMR to leverage IBM’s virtual agent Watson to enable rapid response to Covid-19 testing facilities"
+  - url: "https://www.thehindubusinessline.com/news/national/uddxkc/article31451604.ece/ALTERNATES/LANDSCAPE_615/BL29TESTING"
+    width: 615
+    height: 384
+    isCached: true
     title: "ICMR to leverage IBM’s virtual agent Watson to enable rapid response to Covid-19 testing facilities"
 
-secured: "2r9NPYTg7jLWk7MmKZoexnBOmZTHs2Au43sFb6Ja9ZQCuc8VGJeSA0DWf+RWE01Y13fi4jVYYBecyS/hcXC5UAupRhShRForva02v7fDjE7jfYegyAOFwBM4kjhYmpZ6A4z/szylhcXrEmk2MuMgzWGqvfZQsYSTAq5nhbrzmwOWswZwh4C0ClOd+xtILuZdrA2BDPeuU3AvczTVmSf6gZOmXqKJrfbbyu4eb/1FEfvpBhteWk5U6kPEmft/JSnGY+5PqFNMjmrqHCAkg/DsT9VGCgbTagi7fSaJtD0vjBEW8F4NuGqRRN+2profoQ5ujZJRSVlf+QdF9D6miFhcKiG8Lz7VZdP65chHEsxSX8OwRH5KsKJF/yJf73zFa31DcKJ8HoKcJJ7kIosgB7j8JSqbtkWH2yeKFQ4ApBljfh47cuuJ/F5OqWfqQNWdDzwywnY1zTuoCaqIbZWkVanZM0R+j2wIFh4Wes9yKFrgG9w=;lOFtKcC8b0lw5KjdVciqBg=="
+secured: "W6NPMg7xrLYGVuuVky7ipahkYmhIYsWoDf11aAZNi7xDGNe7k3K7XtoRXuoWoToLXdNlZr2xIQA0u1HpV1+Q7GDUhSVuJ8MyYbTd3sXE5AOm3iodER8KSPfm9EKQNTlrR7EJw81+KvRunFj7ypZRxBUKnTypy4/5U8LT1pmT6s727BRPV/04Aal83e8iFubrMJub0SQuc+Mjb/4Y+aXMCv77gTP7P24R7k90qXhD0R1N2FrBgkSyn4PwhPJUSJDie3yDX56o9Z3hnmPTKeqTMoobqRcM1/XFCnr67sIJc80OZZjRMVgwymVpXIcyB6vv;4ls+Epr9IHfDNN+nkk0ZGA=="
 ---
 

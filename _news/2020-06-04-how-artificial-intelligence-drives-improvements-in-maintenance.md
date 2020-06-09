@@ -20,6 +20,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
     width: 800
     height: 500
+    isCached: true
     title: "How Artificial Intelligence drives improvements in maintenance"
 
 secured: "0UJEEUg0HY4CJeS9loMioWi8QuPm1p6/pwoYVEpkl6k5V0RD7E6Qt1rjeQ8TEvjtzNavwMXD3xJRneINoHXjiakHfRLtB4rpdYYVq1zb6mXsJ01HfZ9l5RyDpj69sPg9xJrEgxFX/akc0LZxVLXlO11gYBLOa5q6N9Ok5CNlINvAyYHHAUu9J0zVvSbJ31nFTWIal5iDpRW7gncSqxn4Z2SVvxwdD1oGfWlmw2oN3PpADICP3rneXpSJl6b43kXlApcZvvc3cn4v6hyHRwbPXUgD0B5+hBCwYV7wwlhHgJx1S1qa11ZtNZ47X44L/a/g;084a3WjSxAbw9T7t/OUoWg=="

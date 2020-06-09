@@ -22,6 +22,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/01/19/iphone-siri.jpg"
     width: 883
     height: 1200
+    isCached: true
     title: "Apple Working On Siri Improvements After Acquiring AI Startup Inductiv"
 
 related:

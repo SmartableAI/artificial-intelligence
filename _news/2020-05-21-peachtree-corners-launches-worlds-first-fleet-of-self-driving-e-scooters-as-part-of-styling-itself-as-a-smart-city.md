@@ -21,6 +21,7 @@ images:
   - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/peachtree-corners-Brian-waiting-for-Tortoise-Scooter-copy.jpg"
     width: 750
     height: 449
+    isCached: true
     title: "Peachtree Corners launches ‘world’s first fleet of self-driving e-scooters’ as part of styling itself as a smart city"
 
 secured: "Jmds5LbT20+xYjChUuQuBIqMEHXCmBDcj5yc3IF6RFmfM0EljEyNlL2Htdb2cPRCneosNdoJmYb+20VQkFyiiJJEExKPkvtJIsxjVxrA6Cl6ZgeSkCU6rtVobYqLajTo7R9LGueI12DSzED3eVjRM6F/a02bWTjEOIzfx4HTgw0INHnIi5LL0K/y8Nvz7qGFyuVU85q7GjRNhfm/Xf+6mCg2nJnX89SMNlEajXEWCOn8WFzqyMRhVY6zJZOI9bxjyTHG2P+aXLSBWADcFOwMuKuEXLrV5T8XtUM3aA40l7ruCHnThuD65/HtHRJjlQUq;K2W2GCBZLJ+DUtCXitccjw=="

@@ -26,6 +26,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106438406-1584006292285gettyimages-1154963750.jpeg?v=1584006364"
     width: 2119
     height: 1414
+    isCached: true
     title: "Women wanted: Why now could be a good time for women to pursue a career in AI"
 
 secured: "pgPoAUlZYijpp8WyyVukakxNv0TXsKAjKM4ptqaJLwKfMULT2evUhZk0XrqCCltM+GVbGHWWLzIHgVWfbnz5fJMywe2z3tKrUO4m8JFPRj47z8SU2vdrxV6DgNI/GgO7B1arE++iYuaWjgfe2WFHSiPcs1tfmFCEPWggxYD0oaHuRelOx2xtBRiuURg8yxM96gW6SxkPZqIhFHXWtm2sV2MzKloy7p8RyCs8LKciSKYRhCYJZlXsMZ8gvSor4XvKhGe04iLafrH41qTePKbMAJ1ocPGJdi6ZgBWXXVnvNBo6oCzIWMCWlXJXH+rd19zCeIwzcBcGkVw9gUqrS+CHfzyhzSDeOMN/YgSf2POYTdCwyt7WmPpj5hzZvC6sm0+g2xHvfJaNljXOVT3bd4c2xdq135VzZZ9A5ektzdeK3Gy0zZb+VT/8TNY+1Lv3dTZk0kSMzesoGXH9g+EEydDArUEfCHemV5yRSSOfDp/YA9U=;BhchWtAiEz+MkkVErSNzYQ=="

@@ -23,6 +23,7 @@ images:
   - url: "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg"
     width: 400
     height: 234
+    isCached: true
     title: "LTN Global enters AWS advanced technology partner"
 
 related:

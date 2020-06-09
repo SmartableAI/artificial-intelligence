@@ -21,6 +21,7 @@ images:
   - url: "https://nmgprod.s3.amazonaws.com/media/files/17/8e/178e92ec00714856396972c30bd35fef/cover_image_1588678310.jpg.640x360_q85_crop.jpg"
     width: 640
     height: 360
+    isCached: true
     title: "Post Covid-19: A wake-up call for financial institutions and credit unions"
 
 related:

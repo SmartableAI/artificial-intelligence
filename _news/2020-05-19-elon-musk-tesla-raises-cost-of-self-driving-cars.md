@@ -27,6 +27,7 @@ images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "Elon Musk: Tesla raises cost of 'self-driving' cars"
 
 related:

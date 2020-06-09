@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Enterprise Artificial Intelligence (AI) Market - Growth Opportunities Created by Covid19 Outbreak"
 
 secured: "9yUMpDWGcrizRUV6Q52ABJJ1KbKjwXYgxm/u3tRA0nifSogh6x1NOd1/UySimuYfoBNp4wBsBccvhNfRZWYjO0GVWCFuMVNXjZZ7lqhe0yAXRRL4KkapDw/lajJXT0I+25gGbKHBzNDAIZDHpMTBDzv39trKlB1mvxnxqg6r602PbTw5wfiS8qER03mRSr6/haUkj84Dws2gkH3d6qt/Qi1IvgCnHm+OfpWU4drvrq4V/QbIqMbWhIHgsHHOh+IlvEXBEgY2zfDx0+eOpVEDlJPu5M+FXJgQ0eBqLZddn6iCv6jm6YNgzFC92aXc3YRt;fs8dSTgHCJUORwxYA3Zqww=="

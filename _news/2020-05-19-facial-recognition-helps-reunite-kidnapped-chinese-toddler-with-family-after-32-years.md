@@ -23,6 +23,7 @@ images:
   - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/83/783f4958-cac6-5157-aabd-a9b7c56883a2/5ec3f148eeba6.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
+    isCached: true
     title: "Facial recognition helps reunite kidnapped Chinese toddler with family after 32 years"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "GNY Demonstrates the World’s First Decentralized Machine Learning Tool for COVID-19 Analysis"
 
 related:

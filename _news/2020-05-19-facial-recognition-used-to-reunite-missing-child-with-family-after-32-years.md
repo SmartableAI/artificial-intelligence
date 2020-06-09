@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
     width: 1100
     height: 619
+    isCached: true
     title: "Facial recognition used to reunite missing child with family after 32 years"
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg"
     width: 1100

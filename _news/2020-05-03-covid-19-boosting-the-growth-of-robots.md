@@ -21,6 +21,7 @@ images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Robots.jpg"
     width: 1200
     height: 677
+    isCached: true
     title: "Covid-19 Boosting the Growth of Robots"
 
 secured: "Z6cmF8JZBzCR0rqgeHV+Tvg14sPy9R4aVQ7ZjXIPbvzNTxVsy9lph3ws/wKKAKKIWswhOYikLOJTrDz6Vg1WB/lwL/xdDcvd87WWaSN7ijFV8Hf3EKhaaSzrjZ8yUnOxn+nVoSX/UCOBVNCa1micriE5LBvwwUptGGsJsw/j2mogxQoIgsq8jbW0S31r8rMIfyuEfGLp3iQ+5qFJn3Ezm+r9NF+l1CkX4OFNINM1TmBLW5fdHALQwULbydJAH+GbXkRs6IQA6puFbfy4mVxvJMXY5eXKKuCroIgQ65i2/zEsdPplRA0w1NWC6DoFBJl+;L3hnioObDNliZbU70L6kgQ=="

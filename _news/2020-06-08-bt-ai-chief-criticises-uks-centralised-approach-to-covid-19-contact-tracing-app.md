@@ -22,6 +22,7 @@ images:
   - url: "https://diginomica.com/sites/default/files/images/2020-05/C8FB7E51-7DA1-46E0-A24D-B6A59DC3C4A8.jpeg"
     width: 640
     height: 427
+    isCached: true
     title: "BT AI chief criticises UK’s centralised approach to COVID-19 contact tracing app"
 
 related:
@@ -40,6 +41,7 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png"
         width: 1248
         height: 1214
+        isCached: true
 
 secured: "5amn6czsQ2Vo98BW+liBz0drtTtg7PCyAbhoh5vC59j0LR+WryT0nXdGdnGOM0a98W9YhBo3sdZz+pQtje7+4tsou+dGXHJkja4X6Io8ggh9GhYHogZMWLSIYsnE/ZVSSOCQJwHGSwTmck6AjUeSueqDLNlrARmP9NIToIEo7jujz07ukz7m9DKqog8enB5ZcpFwcCJehqw6ZK4OOSFcZb+2xwisJoGD6dvcd4/U7fuTIXMp2nunlQz94R77oytJeCmdsNmHPkGlSq6CRd3RAbHenU5tuYhsMh8Q1h7dHUCbU5misxlWh1l64i8qnTotPkSctdSlmCshkEvRNV/ukOsASLLp6EM5iVKCAucy73RyqMOh7wacbhxJ2HAnW5eBX3gxyDQQs6eAwcJ1MBL1S19WvCuaciru2bWBpuKk8PZvTHDcdsgNEtPDyGLOAA8CvwIE5DaSPBMT4wE85DLV1iaRArfjzFALXyKvEd6c2qQ=;lza+vStdO655NfMIcPruZQ=="
 ---

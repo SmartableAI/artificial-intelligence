@@ -23,6 +23,7 @@ images:
   - url: "https://s3.india.com/wp-content/uploads/2020/06/34-1.png"
     width: 688
     height: 433
+    isCached: true
     title: "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg"
         width: 650
         height: 400
+        isCached: true
   - title: "Jaipur firm deploys 7 robots to cut down physical interaction among employees"
     excerpt: "A robot guards the entry gate to welcome visitors, performs thermal scanning to check their body temperature.The robotic guard’s artificial intelligence is synced with the working of the entry gate, w"
     publishedDateTime: 2020-06-07T11:28:00Z
@@ -56,6 +58,7 @@ related:
       - url: "https://images.livemint.com/img/2020/06/07/600x338/ai2-kr9--621x414@LiveMint_1591527445501.jpg"
         width: 600
         height: 337
+        isCached: true
   - title: "Jaipur firm deploys 7 humanoid robots to help maintain social distancing"
     excerpt: "Can take the lift and reach an employee on another floor With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other Artificial Intelligence techniques to reduce human to human interaction almost next to nil in its functioning."
     publishedDateTime: 2020-06-07T11:28:00Z
@@ -69,6 +72,7 @@ related:
       - url: "https://cms.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_2055897041.jpg"
         width: 900
         height: 675
+        isCached: true
   - title: "Jaipur -based private firm deploys robots to reduce risk of COVID-19 infection"
     excerpt: "In order to prevent COVID-19 infection, a Jaipur based private firm has deployed humanoid robots and other Artificial Intelligence (AI) techniques in its premises to reduce human to human interaction in its day-to-day functioning."
     publishedDateTime: 2020-06-07T21:34:00Z
@@ -82,6 +86,7 @@ related:
       - url: "https://aniportalimages.s3.amazonaws.com/media/details/Jaipurfunction_june08.jpg"
         width: 600
         height: 450
+        isCached: true
   - title: "Jaipur firm deploys 7 humanoid robots to cut down physical interaction among employees"
     excerpt: "Can take the lift and reach an employee on another floor With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other Artificial Intelligence techniques to reduce human to human interaction almost next to nil in its functioning."
     publishedDateTime: 2020-06-07T11:36:00Z
@@ -95,6 +100,7 @@ related:
       - url: "https://cms.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_2055897041.jpg"
         width: 900
         height: 675
+        isCached: true
 
 secured: "kyodoqZvfxtS+I1fZKl1XFpyIHnG4p8VKoQEMI01JP5Nj+/os9A6a8qvpqwbhlxfbscnBV63CHakuxeeDa4tv9xmSUifyuISlI2zN35NrOtNE1G5MAK4sPGyyxeM6KvU5B6S6D/7LnH7xROEsAGpiQ4ui+MH5Gp6wLj4zkch2UCrKeirtOklgNDT5SJ7FGVKqfBq8PLqlq7EEHqYD4rvTdFhW20l6tjwOO6K6UxrXtrR4y0rX0wGi2Y7dKz4+617l+aBssGWTP8PRLiZ8w2Yx/ZSj6v53+GGRkP9nAH+qxzHQJ1LvHgeR2g3D6HceClGpcRwuNYLoZYfGyRSMV0F7oD0dRtFX9jfg5Nv7F8/OS1V38k44lNA0H9cC3laUKJDwukf0nNeK2yDKQqza9JxyrGXiJ1678PXeKIAE7p8j55q60eTnFWAVzCdkoMa+OeM/HRP3wLdwnuev/ltxb63oMGJQoeOh2ASlKQwAu/kx5A=;VJs8DIKHkyH4Jc6oD0nXAw=="
 ---

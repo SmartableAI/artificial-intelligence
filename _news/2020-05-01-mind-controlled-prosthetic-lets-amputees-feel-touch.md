@@ -25,6 +25,7 @@ images:
   - url: "https://static.reuters.com/resources/r/?d=20200430&i=OVCBOV9ZV&r=OVCBOV9ZV&t=2"
     width: 960
     height: 540
+    isCached: true
     title: "Mind-controlled prosthetic lets amputees feel touch"
 
 secured: "T0HakmdBChAIck/1W9soKIV3UhC4LmFPMiki1VXV7Mqh/IEbNO4wOFDFMw4w7TM53Ec3yVzrcigiZuf1q6vdz156AZKlB+BPAJm/Sg/QkOMq+ScgPypbwoXoADdYY2S2031eo1ehk0QlEBpgO0qm77va/L21H1WbPVusAVje+czL0lcIdBe6Pa7ut76DVuADzch7AzvTVHQkt0NT/c0nzlFbmI0HlloC0iwNF4QkK6FmT/kyFaNxjEYdIbEE17G6zs0Swo9k/lawaPEyoJqu8a+zUE8ndb5/my5cXQrz4BrHaHbS80Hf9QZ7OHxPnstv;4/p7LS3Hp9JZMxB5EuoyrQ=="

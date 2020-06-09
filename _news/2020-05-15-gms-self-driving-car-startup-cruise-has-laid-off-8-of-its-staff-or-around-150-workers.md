@@ -27,6 +27,7 @@ images:
   - url: "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers"
 
 related:

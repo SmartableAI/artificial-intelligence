@@ -26,7 +26,8 @@
           "width": 1280,
           "height": 720,
           "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -63,7 +64,8 @@
           "width": 720,
           "height": 403,
           "title": "Computer Vision Helps Scientists Study Lithium Ion Batteries",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -96,7 +98,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -108,7 +111,8 @@
           "width": 1024,
           "height": 576,
           "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -145,7 +149,8 @@
           "width": 1200,
           "height": 675,
           "title": "Tech trick: Easily turn your handwritten notes into typed text",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -178,7 +183,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -190,7 +196,8 @@
           "width": 1200,
           "height": 584,
           "title": "Understanding The Recognition Pattern Of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -224,7 +231,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -236,7 +244,8 @@
           "width": 1200,
           "height": 628,
           "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -302,7 +311,8 @@
           "width": 3300,
           "height": 2550,
           "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -335,7 +345,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -401,7 +412,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -413,7 +425,8 @@
           "width": 600,
           "height": 350,
           "title": "Clearview AI claims its facial recognition tech isn't for private companies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -446,7 +459,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -458,7 +472,8 @@
           "width": 756,
           "height": 567,
           "title": "Clearview AI to stop providing facial recognition to private companies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -492,7 +507,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -504,7 +520,8 @@
           "width": 1400,
           "height": 933,
           "title": "Google Lens can now copy and paste handwritten notes to your computer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -537,7 +554,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -549,7 +567,8 @@
           "width": 300,
           "height": 300,
           "title": "Computer Vision = Better Service + Lower Costs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -586,7 +605,8 @@
           "width": 615,
           "height": 384,
           "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -619,7 +639,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -631,7 +652,8 @@
           "width": 1024,
           "height": 768,
           "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -669,7 +691,8 @@
           "width": 1280,
           "height": 720,
           "title": "Harrisburg University develops facial recognition software to predict criminality",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -702,7 +725,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -714,7 +738,8 @@
           "width": 796,
           "height": 417,
           "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -751,7 +776,8 @@
           "width": 600,
           "height": 246,
           "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -784,7 +810,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -796,7 +823,8 @@
           "width": 760,
           "height": 428,
           "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -834,7 +862,8 @@
           "width": 600,
           "height": 315,
           "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -871,7 +900,8 @@
           "width": 1200,
           "height": 630,
           "title": "New Directions in Theoretical Machine Learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -908,7 +938,8 @@
           "width": 800,
           "height": 419,
           "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -941,7 +972,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -953,7 +985,8 @@
           "width": 1200,
           "height": 630,
           "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -986,7 +1019,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -998,7 +1032,8 @@
           "width": 1050,
           "height": 550,
           "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1060,7 +1095,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1072,7 +1108,8 @@
           "width": 2400,
           "height": 1600,
           "title": "How Well Can Algorithms Recognize Your Masked Face?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1138,7 +1175,8 @@
           "width": 2500,
           "height": 1667,
           "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

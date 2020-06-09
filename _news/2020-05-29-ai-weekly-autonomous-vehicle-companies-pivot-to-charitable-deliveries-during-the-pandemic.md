@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/optimus-ride-logo-on-vehicle-e1590635948122.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic"
 
 secured: "pUezd3RxXv9HIq5+1xWpsWrb2Meu4znJewmR+mXcpOSBKMhQ5NXayQtcbHs2kg00rN0NorpGfW93WpZLRgxLsEPYVgQXLGIOmpax+s7rCQqerJ7hBCbevBv8m3/3drcPGr3lfmhHJ2X+yy1Ww6T6suqlDRwdwAyktdnCx4qWsQeo2b8lwJ/NA2Gj0HBKpeCDZvbWVoHXutv3QOdQnLTF+hNTILbNkArJiN+FrA2P/KUNH/HTPB/EB5vVELRuZ6cI3N2RFmZKrgyaYeW9zEQ787/7/YdGuFtBvbrGuE5cs18B9u9icOPt9FaR72AwqRYdz9TcWpSu6qVATkGQ5qd6E4GFNr2iF/HseTj9dMYHmB36zsVK6O/C3PYLvCTg2oE1f1vgxhnsni8mbnX00rqgARWV5KhNpsFm7h3QC8xR+hwa3+mZ2n18QARKv4uZpM6nKH5GivKMmZ11kdDwo10/H/7g2EN1TjKTTx8ZMXM2Ics=;YRT0XRcJUAinbpiHbX3+Ig=="

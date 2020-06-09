@@ -21,6 +21,7 @@ images:
   - url: "https://res.infoq.com/articles/critical-metrics-software-delivery/en/headerimage/critical-metrics-software-delivery-1588501346223.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Critical Metrics to Keep Delivering Software Effectively in the New Normal’World"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://s3-prod.crainsnewyork.com/s3fs-public/styles/800x600/public/TECHNOLOGY_170119941_AR_-1_GQVNTEZSACLH.jpg"
     width: 800
     height: 600
+    isCached: true
     title: "Wall Street jobs vanishing as Watson-powered fund beats market"
 
 related:

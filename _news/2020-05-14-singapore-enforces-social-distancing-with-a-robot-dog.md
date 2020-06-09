@@ -23,6 +23,7 @@ images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg"
     width: 320
     height: 209
+    isCached: true
     title: "Singapore enforces social distancing — with a robot dog"
 
 related:

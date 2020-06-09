@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists"
 
 related:
@@ -43,6 +44,7 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/3/4c/34cb1c66-a0f5-11ea-84fc-ffe2e8f117f7/5ecfd4202212f.image.jpg?resize=946%2C630"
         width: 946
         height: 630
+        isCached: true
 
 secured: "mopoz7e1EAOyVSOsjmddTFX2bOBMuBjY+EGquwoejZCZuLrgrZBFlBCACqxLLYOc4+ZP78RgLHaIngFRlHiB/fcyHXBbtm27JQQ9A/+P8dcEIlPLFXVvid4UlgRAtJO6rZcs32FiIM+bYHInc4RWs8VwiC6ZVfvlSDbn9r3zvEO9FUKQhBCqlZ7PZaGvB47cHov52LkH9bzoU1YpfCJKynxknVdmTZzk4nCT5phy6GPdSkNjSb/IccDXIh2w4GTuR2DRvktOT9Yz50QcnjBOp5WHDpVBLQK2fmLgmclwrSNMOv9rQwkhnDVWS6nLB95rlvK4Kh/YH4PTmhZQ+PeyR8qt23syUmmHvnqqWftrPW4UcZNvKNULymDFxB4b1mhktagMpPxx+dILK1H7T68PuNqZELAWoiorcCf1Pp35/ZcBBAqFPloO72RQPtOy/DVfJZHVCEwqWWU/SwR1LILUIkOFK5i8s0wNQS0lqQmvHiA=;t7E3hT6oxGGhDV+FqMjEyA=="
 ---

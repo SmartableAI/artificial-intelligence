@@ -21,6 +21,7 @@ images:
   - url: "https://www.retaildive.com/user_media/cache/c9/5f/c95f1523326671716aff15e44f3a49a4.jpg"
     width: 770
     height: 363
+    isCached: true
     title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
 
 related:

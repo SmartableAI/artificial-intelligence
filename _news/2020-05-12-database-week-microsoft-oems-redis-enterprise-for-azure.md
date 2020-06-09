@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png"
     width: 280
     height: 280
+    isCached: true
     title: "Database Week: Microsoft OEMs Redis Enterprise for Azure"
 
 secured: "nmglJJfZ19IzehRO9vwqp1OTMhu8yGNMAUNL9gAnSPxsLXiWDoEgPFjF/LGuB+euiwUogDXVeuaO5ymAnbH69d9KSrs6Qu2ccsv8XCT6WxBinOXD72muixheiVK8XMJPZ+j3KRFX3+g9xKuqWgvOzz0wBj36pOy6Tn3H0EY8WigThsT7S7ZZszn2dcNkWdI3nwIqWFt3td7Iuej0s2wtSq6eHzVrwCsu3SNRlaVIoON1Z1Caem0p8Q8RiU+wPMZ30TbTXyMAKgdLhNEy5MJdgoyzJOkDeeTg3fHtA5XZ5fYubkItNBmqPDrwPG92a/h/;rqY2U9ElVz3whARE3E84Kw=="

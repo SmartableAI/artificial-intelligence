@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) in Supply Chain Market Will Reach $21.8 billion by 2027 At a CAGR of 45.3% | COVID-19’s Impact On This Market"
 
 secured: "ZOQ1rgeKGcoZ+T89//4H7ivmFE6/aYbVdGOHyqZlcoFYhGQGqMD0eoo5+DQmOEMssvIZ02nRRZrhIhtEijjUy+yaRbyBIdkak8b/5OFmy7rXDVaZSTJfr3tiz0Zs6hwJD22gBNfuNL3NAsQnBxEbwtgkfYFqpuAhsGR3k4YcVhr9m+dapIJnK4bv9IpNa3UnMNNad7ZL/BkoL4IoJlXSV4jbCSm5owWJfv4kGCEhQheNZZ618OSehudpFtV6PfKpzJEaS/cLOX4OFyQzz6OX2QWOs2mHdhMcQ889Ac4b6VlGLNd2pTGl0WbYjVz62W5q;j3KKYtOWXDz9R4qLft+UJA=="

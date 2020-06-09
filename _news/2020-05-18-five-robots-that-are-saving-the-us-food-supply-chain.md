@@ -23,6 +23,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d98e856-a3fe-498c-8c42-ab85a0556c61.jpg?source=google-amp&fit=scale-down&width=500"
     width: 500
     height: 281
+    isCached: true
     title: "Five robots that are saving the US food supply chain"
 
 related:

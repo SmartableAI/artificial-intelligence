@@ -25,6 +25,7 @@ images:
   - url: "https://static.reuters.com/resources/r/?d=20200501&i=OVCC3V8TJ&r=OVCC3V8TJ&t=2"
     width: 960
     height: 540
+    isCached: true
     title: "Tokyo opens robot hotels for COVID-19 patients"
 
 secured: "OdVUGhXf1sjN0/aAkTdOduIBDBXo4mQdPI2zbMjUhB5j49PLYcA5P2FgTSB1Hs9s+z2B0ICmWNS0K2z/iGMhk1Xw8KGwc4adP5mgdpu6JlM8n24Uh2/adEY4Djg1Hl21shCxvFzmnfudLouDKe+Ykj3AqjYUFFHtnfGTZnamFaPOW/GUqGblF/zg90EVRImvp86FBbqNMj1q4mI7L16cirDGHx7c23MbVd7JUpL9WpPQddAQ9fTJ5lviRjP2RT/Q4ysL/fYaLn5RaNlnFp4OlWNYecBv68aSwVPTH4p8wUn0LHw2XWeRv9YVY6Y7HTUL;HYQOI8UlvoHBmBa4gLLXPA=="

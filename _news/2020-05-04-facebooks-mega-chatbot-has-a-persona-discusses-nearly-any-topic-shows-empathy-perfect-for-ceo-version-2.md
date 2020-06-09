@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2020/05/04/shutterstock_mark_zuckerbeg.jpg"
     width: 1000
     height: 667
+    isCached: true
     title: "Facebook's mega-chatbot has 'a persona, discusses nearly any topic, shows empathy.' Perfect for CEO version 2"
 
 secured: "6uQWhLtnO+3LiQXdGPKZkSlziqtt43hDehd2697OUjXxmWqOQKKdelDBSCll01byj0A0q3gC9rWzvk/P+UZR5PqiMSO6ej88fkhzAhNd+dstTXoo8NGXqe2r0sXAdPvOniYp9GumvaqCQaWQ7oDcfafgWWQCoBMLupHDeuROm3uwnaiKay+vs9rXCj3YCUmMwbAPuXZhSlMP7upByTu1Ac2npnMOtQiM1wi6MWqLxl6nEtcX0kITkBNVp+hTnWqzyV4bV1HbDo6evO5654q4J3aKtDdLmmhtk+GYFsscO66ivq99krdYkp6gFZSoNf5u;cpZdqrGAzdGO/cTZGBG5jg=="

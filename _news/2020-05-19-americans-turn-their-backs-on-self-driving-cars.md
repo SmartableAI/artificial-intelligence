@@ -23,6 +23,7 @@ images:
   - url: "https://247wallst.com/wp-content/uploads/2019/12/imageforentry15-e1k.jpg?w=400"
     width: 400
     height: 224
+    isCached: true
     title: "Americans Turn Their Backs on Self-Driving Cars"
 
 secured: "BlKdl4+hgor2q4tX+NY+6+CZ6dO73xGHA3kTrFAR09Sx2Z8Op1HHQALAnBKB2jhXJdBnjGW4kBxuI+R0ZE02DnS3kB4mbm5/87lIDDbgPoRwYyfjb2I0khTyPUWceNON94+qhqDvpEJoDCi7a6zm2G+jsj1s7E61+G27xfj996mE3oDtNdV81I4FnE/VQ3PUY9vM56cNNGETlhTjZmuyvlINWh5JifAZWXb5/vvvXa2O8pwlEwzpqMaWEUGU0HmylR1wMzXH+hi1yFQJ1Thy3K4/Nw43srmJHu8T0okObUuLN4X3uSOCjf3rlekriqdm;Wk0dgrJbEXgFYX7sQLFgRw=="

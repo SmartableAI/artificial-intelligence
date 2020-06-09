@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural Language Processing Market Industry Size, Emerging Technologies, Future Demands and Industry Growth Opportunities Forecast 2026"
 
 related:

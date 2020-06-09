@@ -23,6 +23,7 @@ images:
   - url: "https://images.toofab.com/image/c3/16by9/2020/05/19/c3a56e501f204e10913fba6cb390463e_xl.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Kidnapped Toddler Reunited with Parents After 32 Years By Using Facial Recognition Technology"
 
 related:

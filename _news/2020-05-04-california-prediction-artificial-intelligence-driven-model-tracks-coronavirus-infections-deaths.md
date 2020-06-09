@@ -22,6 +22,7 @@ images:
   - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/05/comparison_CA-1.jpg?w=1024&h=640"
     width: 1024
     height: 640
+    isCached: true
     title: "California prediction: Artificial intelligence-driven model tracks coronavirus infections, deaths"
 
 secured: "L00NK775oVh15IxouFgpthCpxBPdITloyzccgFjH2yl684l/63wRVz0GQ2hEOXVSisX9hVUWodHjC+OCIqYnWcU3JH1Drlaqz/aaHWWJ1zU5ZBUkuteG5lwK4pZVUsNhGlbB84UKDMwOmBrzHbn5SL256d9gJefYk5s7t+rpkpqiLpssL1K5h4tmW/ZH3fX2ISer8VCoMsfQDAToNJmDwiA9Vgm8c1fRDOnbHrFpqmIc+qzsy0mWkXP0jQ8JxH8+3sE7zj2eHQ7dIUJXJ2eKdTjKIFTjfBjP4fdnvRsBsc5VUBFZYmGDe/+dGLUVBrYgpUqslxYYNcCnkzxXVeIVfn1jCw8WmsxbS/McrqBFrqBf/6iSmaNYk1CL6xoMyWt75QbR/cNFKUNHsJZfrMGqjjTRZCiYTZbJg/BL4HrcPEJVnGhwXswuzLEZMR+KKTt8jPBSy7jOKtW6ewTd6c9Y6B3ZBquzrHIluKPNdYqLF+I=;3Wumj9seVke+z8F4zIqs+g=="

@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/zzoox.png"
     width: 597
     height: 346
+    isCached: true
     title: "Report: Amazon in advanced talks to acquire self-driving car startup Zoox"
 
 related:

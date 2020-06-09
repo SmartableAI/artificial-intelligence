@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural language processing (NLP) Market 2020 Analysis and Precise Outlook: Apple Incorporation, Dolbey Systems, Google"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "kfYsLO3+SmQJuwotWow0PWK6jR04oTZt5wmqiWmrDxM/5SqyCH0ku1ompWEjdAj1fFhePyONxc/3HkED3n/osQqhCMAmr7PJYJ5FZRmZz4hHghPV+Usysc5MiWzbiadGMxUGqEozN8alpAuO3tL0HoJv/u7YfE/+WopyWmFuUT0ZqeYH2moGTYMQ1m9yDcv6PViF0p1t2lUSy3jB0seto+r7K7dSuKZZmti81qqpdOg7bDOiRBDbrSaaIvo3xra291ROz59YSo+7OOsXFHFc4UTOUlAasW725TlWY4tM5iJN/+NUDWY57mVTdIkCaB1B;9sUmF8t9ZoiMrUfLOdXlYw=="
 ---

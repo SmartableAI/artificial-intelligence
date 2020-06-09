@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cognitive Analytics Market Revenue Strategy 2020 | Microsoft, IBM, Google, Intel Corporation, Etc."
 
 secured: "VxeEETzyTJ3zyVNypy2l1kgzicCxxaYbHyQRQqrJuEAl+DTGfBgzKZjpL0tnhm/B5h7OeKcth+p1ZHibmMxCkmOftoP44FtxYzD9aUOLccgm/7HegkfqLner6ZeoUZ5k/mZQNmcRa0SEFpArhc8gNUdOp/Wkzb3KlW4xKn0uEI8L/v4dNNh5kD8FmfmeMWP9tsmIMJjMfDqusDGBnAt3+d7cyYfFq5Np+sUN+v90hObciTXnFrUpwA7v8wCDFngwrm96s+okBzRWTggmsT18B1DQjhagSlWsOqsVLhnNWFV1pv4MDPrzVWTISZOJXKny;5gqtXyABAlcWG/TS6FyIoQ=="

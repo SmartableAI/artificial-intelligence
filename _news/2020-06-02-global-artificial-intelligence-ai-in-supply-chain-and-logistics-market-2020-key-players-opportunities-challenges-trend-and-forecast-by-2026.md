@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market 2020 Key Players, Opportunities, Challenges, Trend and Forecast by 2026"
 
 secured: "orUGiIV3CogYJFe0ixh5wdtjDXDC7YbUub1Q2Ey1QlqRPj7L7GP8ueURP0splU8Wl7gd3jHNa8wjy1+DX4I149/65dNMKSi/nFA+JdEa7smEcfpTV4UsFDea3QK/PsdcQEDWVh6H+KuLNPW83EySVMZ3lHyj32ooxbSjFb53gw4gaI+Cnl+ULE1NkTwFC0huA5FQ0Ev6ga3r2CjGCfJiTHqtdRc0IDzAr81hNRX07YbWGwRXMTNqadlJf6MdJWJ5I1AbSnXhPdBn0JUDo4n0dqcSya97fZW9pGrdRiYmovCBaqYsbkcP1y+gqij91RBR;DKcTGrc/j8Zoz9X9vzcjAw=="

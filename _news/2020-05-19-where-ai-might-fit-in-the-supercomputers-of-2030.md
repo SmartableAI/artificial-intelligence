@@ -23,6 +23,7 @@ images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_circuit_chip_orange.jpg"
     width: 1300
     height: 500
+    isCached: true
     title: "Where AI Might Fit in the Supercomputers of 2030"
 
 secured: "3tmUUeaKafnSHuAAu/UPJ2y2ZN3jRlvbUwK50+b8rG3gyZSBdvocD0CfG/iMbAWjbg12mcMkzCjOP6hLSTV1s5HzYDAKckyev7zJ0kxCbegi3kdui7ENcOFSH5NrvIXd+nIXGU61risU1DxaJIAkHbhuLTrvwKs1KS2jYyb3j9t3xIjil8Okdj+HksiCyhmFbBcJ5zfqAPbLb+wwT8khiXo8m8FhunPrGEN6BEPhWbNsuMSk9yqfDadtvXxi6NgPDYN8bSU5EFTU90i47ddeYR0SL/TW30tHLJTCW4k7EKFP89qnT8r4sZnvtSALuX5xNQd4VD7fvdqnGTrtBBV6EJ5r6PNDCo3aBbpIdmYVgys/DGzwW/HtkLWVaTEEGr97KaE8fr9uGVIxu4oEqvv52R9bdJzn6abqEhSWSYbOhnDDEw6cs7YN0DqPVWk/2GsjEbyzy445HkgG2H+xjrw9Q3zQLE07HcRYKv5HBwTMka0=;scoGNKgMB5hjvVkzp4aW9A=="

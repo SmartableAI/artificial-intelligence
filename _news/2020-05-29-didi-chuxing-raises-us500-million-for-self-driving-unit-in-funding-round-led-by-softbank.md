@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/6bf5e3f0-a191-11ea-8055-0ae12e466049_image_hires_210054.jpg?itok=mH5oeaGh&v=1590757261"
     width: 1200
     height: 630
+    isCached: true
     title: "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank"
 
 related:

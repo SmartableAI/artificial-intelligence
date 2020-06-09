@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1175129/Video_Surveillance_Market__Recovered.jpg"
     width: 400
     height: 240
+    isCached: true
     title: "Video Surveillance Market to Reach USD 33.60 Billion by 2026; Rising Utilization of Deep Learning Technology to Spur Growth: Fortune Business Insights"
 
 related:

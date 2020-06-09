@@ -21,6 +21,7 @@ images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "Applica Named a Cool Vendor by Gartner in the 2020 Cool Vendors in Natural Language Technology"
 
 secured: "JTFA1Zm45VcvZkoy0WMy00n+qLGj241UUpNJUMzaUtsB+Q8/D4CAfcLUgfr4BIwClphBHh7x8crSXEWr/3cbr26iT1A+vLvLosrtMvF6X9XKsQstpK4oManMnjvbikpLFR5I8LVCl17eu/c7h2KXL/vnur6QYw4KlKY9I/EG8rqPxgMEsddS1oODO2KerRV8StXrz0JePNPJHx8Lr2YCwZkEI6nPtSUprVi9if/IK6knUHoIQE2kCW5JAgfcPeoF6Vl62L1XF7IwFPa+rjieHcQkDpzQl3rncc1LBvtgMM1NunDY4HKni3aIo0dPX2rq;ijYzXXDf93Fyxt0e4zEzrA=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Will facial recognition be the next tech used to combat COVID-19?"
 
 related:

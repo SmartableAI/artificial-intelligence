@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/perlman.jpg"
     width: 950
     height: 950
+    isCached: true
     title: "Using AI to Identify Brain Tumors with Federated Learning"
 
 related:

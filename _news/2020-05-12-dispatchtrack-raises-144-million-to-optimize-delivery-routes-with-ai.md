@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/b5786cf5-5570-4084-a3f1-74e0002bebed-e1588908854358.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "DispatchTrack raises $144 million to optimize delivery routes with AI"
 
 related:

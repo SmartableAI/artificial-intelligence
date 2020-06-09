@@ -26,7 +26,8 @@
           "width": 470,
           "height": 353,
           "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -96,7 +98,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -108,7 +111,8 @@
           "width": 1200,
           "height": 675,
           "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -141,7 +145,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -153,7 +158,8 @@
           "width": 799,
           "height": 451,
           "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -187,7 +193,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -199,7 +206,8 @@
           "width": 1200,
           "height": 630,
           "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -233,7 +241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -245,7 +254,8 @@
           "width": 1200,
           "height": 600,
           "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -311,7 +321,8 @@
           "width": 929,
           "height": 523,
           "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -344,7 +355,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -356,7 +368,8 @@
           "width": 1200,
           "height": 675,
           "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -389,7 +402,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -401,7 +415,8 @@
           "width": 1024,
           "height": 598,
           "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -438,7 +453,8 @@
           "width": 647,
           "height": 450,
           "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -475,7 +491,8 @@
           "width": 4000,
           "height": 2400,
           "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -512,7 +529,8 @@
           "width": 1200,
           "height": 630,
           "title": "16 things to help battle your social distancing boredom, all on sale",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -545,7 +563,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -557,7 +576,8 @@
           "width": 630,
           "height": 353,
           "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -590,7 +610,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -602,7 +623,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -635,7 +657,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -647,7 +670,8 @@
           "width": 1200,
           "height": 675,
           "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -680,7 +704,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -692,7 +717,8 @@
           "width": 400,
           "height": 400,
           "title": "Use automated ML in an Azure Machine Learning pipeline in Python",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

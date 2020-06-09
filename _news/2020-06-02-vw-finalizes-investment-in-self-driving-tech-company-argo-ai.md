@@ -21,6 +21,7 @@ images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO-01_i.jpg"
     width: 800
     height: 600
+    isCached: true
     title: "VW finalizes investment in self-driving tech company Argo AI"
 
 related:

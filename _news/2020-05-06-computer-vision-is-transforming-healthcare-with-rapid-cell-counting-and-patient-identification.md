@@ -27,6 +27,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-copy-1-796x417.jpg"
     width: 796
     height: 417
+    isCached: true
     title: "Computer vision is transforming healthcare with rapid cell counting and patient identification"
 
 secured: "jnb+Q5KpulzWdVxUS4AU8lxBI7UbInwDJ/svBvKmV7WdUi9zZ5RCTwt4/B+UVSGz8MoGNJVuEeQHmcPqniyNrqqKOXf7+EcQP0t9AftCYYfovnEafTiPgQv0ylaoVPD4POmcu6Khn79WWMygEeZsm5N05wBNXY5rTMCCvGh6hRF4oF6+zONJyAcaMm1IuFJsVyp511ub0eT9T2EB2PnGnjFTpTlvxd9ELbHtZn+jAxwE0o3Luu/OZTrIUPT3cvrO7g/+ai3a2+rnvZN0I7YJ2ad2NEPS7UcanvZ/NvfMNDzDa9VmpHUAEAU8z0S/MyapkQw2dOawrf26FpbAs3h0o0CrJWka/WgDLWXV9O1QvQFMkE8vV2Gr0mY3d1mv7LIVcA9wWPlfHAI0l68lpVbImK+sacbmjHGvw0zasV6N0eapCoFHl1SC/5sT4KQpPdeOsb9/afyryKz3Ha44xkU4sFaIGptXs9DGIEAR3effWuI=;srRYLLWXOCUALjloPUY3Bw=="

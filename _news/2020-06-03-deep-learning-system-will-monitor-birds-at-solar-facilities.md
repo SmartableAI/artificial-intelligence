@@ -21,6 +21,7 @@ images:
   - url: "https://www.eurekalert.org/features/doe/images/dnl-dls060320.main.jpg"
     width: 720
     height: 405
+    isCached: true
     title: "Deep learning system will monitor birds at solar facilities"
 
 related:

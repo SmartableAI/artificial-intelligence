@@ -23,6 +23,7 @@ images:
   - url: "https://images.moneycontrol.com/static-mcnews/2020/05/Moderna-Coronavirus-vacine-770x433.jpg?impolicy=website&width=770&height=431"
     width: 770
     height: 431
+    isCached: true
     title: "Coronavirus pandemic: From plasma therapy to Favipiravir, here's a list of treatments and antidotes for COVID-19 so far"
 
 secured: "XBpJmUZTpAHTh7Yuvjtbo3e0ohCPhBXgg67eQ+ZgKqKGcezTWT5l5j1vngW6AvxzQmwvxj2Zhu0cDRRz2Eu4gh1QIXVP61kMuJFeEdAMIqcaKBGtqdMvC87iy1aB/iupqNNfGYnBxV5uFNsXW+MNWHMLtd9kiLmGewpgD/OGEVY4yHuromyiholbkUdTse0ZUxD6PCmbPuwDcJvqIcvUnvx2boMAQllVewMgG1susZboY8a7qG+hmUsihmukLkV6YjWHo3bzss57SZ2hUVBr+43dQYY/4ItAK4Z5cYBTk/YFK/NwVPjZue8D2y9vnSOgwuIsqRVjduPxh8knsrbIbPLZMgtL6rEgK+llbu3rhQFVRmyOxKaHCn2/gBRThXJbnY+2jvpquzO9MqoS/TEjRkiX53T2Xem7nfMPPm8ice4DDkB+IFL5CE3AZvkVW3/lU0nbNLCQg6miAWZGkw/SAfUjT8JNhOSmGxFLHI72PM4=;2MM0KHpSQ8ikk/3U3rRKDw=="

@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Form Recognizer encryption of data at rest"
 
 related:

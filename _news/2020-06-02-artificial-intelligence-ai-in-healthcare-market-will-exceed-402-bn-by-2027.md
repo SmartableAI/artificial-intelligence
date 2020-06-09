@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027"
 
 secured: "No+czKEarjHsGmuX2S+uJhKJX1471fQr5pEqXhmAdVms5zHnrkJrKWQzYj6VqtFBSxQcQ1gjUFdDM5wPBkTeZagZdCRT/44aJlXHeCM5DbA/NYW/KG4UZr2APfpoFLbeJTD0Y2uPAptmpba+7TkET+t1rWXMO2oB0qyGDVc9MTkszLM+6MBNDeBZHLel9gah0umSvu7GqE6K8V2ilAVayBaBUke2FWrj779B/7oklxfASYFhDAOEkqwjxDnVWd02vp8kOGaLsDhikmBaB0STZXmcj+RDR2R0T/HHsiq19eUWjojboH0qxnTvyc07Nza+;ZBpOLmbHcSEnR+StUWym1A=="

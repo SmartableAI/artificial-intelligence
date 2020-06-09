@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Configure IP firewall for Azure Cognitive Search"
 
 secured: "ajtjNBuSp8igbJlIj5W4i2qOWQSS5HgWeC5vAm9eYw9n88ta8Np0Elfx8UQnTchdEQwqndjKXjHX8iYyvgoWbjsscI1KazbImn8j07IP+zmTQMiWPWUDioZoONLqRcrgl6B6btaRVb2Wk/G5l3vhZXrN+OcSb2bkaODH+yHpVOz9WNZTr3vW0RPKg3sh3v4nJAQInAqdBCuMZXv17NZj6IbZT6vz3n+PhUKIOam0wEiuafZTjzSmGsJJsTjxdfPyXVOrQaBTmgb0lsOvYm/Jas2qSiuQRXxtZr/fc/N2uHUTFMfRk91/fkHTdZXgUj1K;9XNqGrw1gx8zyXmNNl+lhA=="

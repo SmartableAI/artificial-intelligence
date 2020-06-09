@@ -22,6 +22,7 @@ images:
   - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ironyun-article.jpg"
     width: 612
     height: 355
+    isCached: true
     title: "Artificial Intelligence Technology Solutions announces that RAD is taking orders for Wally Unit with Health Screening Option solution"
 
 secured: "eQiq7cUF0rCfUHsCU6KL2H4+fxzxEi2CaI9+qmDTslenyabqWcTLT7rKLFQTCbEFRrPezgGTvMPfsNUsUWP57V50mDQssODE4xMnIJSvfyZ24/MqE/v4vd9Ts7cBHlfuHtI3hWvA5rq3HIGalvOJ/zSJziktOsQcHanlRsCIkTDUXXmj+Xrg41TDmYbnwgyoQIO/3dEmklpfsnnrQWIicBpECAzz+wnjjw42Urz9hACV5JDxTstpL3XcGtIhVbOmuDd4GOVxEqM8t0mDYF+0jw0IlL9OBMAxEZuvdDtU8rAn15sWYN/z8ynVynz2EX5n;agqcS8xD/GxR5WYp1Tj20Q=="

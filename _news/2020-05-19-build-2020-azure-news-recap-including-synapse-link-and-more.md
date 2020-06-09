@@ -21,6 +21,7 @@ images:
   - url: "https://www.onmsft.com/wp-content/uploads/2019/01/Azure-DevOps.png"
     width: 924
     height: 519
+    isCached: true
     title: "Build 2020: Azure news recap including Synapse link and more"
 
 secured: "sfchTQQAh4dD1xxcm4gRhf4+9EZZb/lYx3UUg4Z4/lLCbBtASoeYABFbJogIYYe2h+9RmPK2ccGVvGaOAxQJsdVIiArYpK1nrGTtcCJvuPrbtioFsgmmGTOaV8L6fzRPHG3FgxkbwemShTKifdGkSuAK620qYfBmldI55LRK0IrqwSS8GczKEOQPPs9QyOXDpWRPIktW1XIXcNnMz09B2PfnYBAtBLjJR4gIHySH+5GA9btTjziah/GLwMaSYHRL6PHQkWm3S1dizIEDbEf6GYZRhwg8wl1EMNHlxGhGcxGrunu1LNP4ppAXS4JkYVShKkTsBf1iHQSaBs3pmnXFnRCoveMjDhLB2O07RoPv+oU3WAaW0jes5R3DL9F4GpVAkkb0RK85bkZyPw65UpyP1DznYz9srEEyIBkukhldgEX68hhvmSosrOnYwYfNpOHKAmEjgfCLLvVJklgTjrPspk24gQ7RKwq/Y10MRr3Qu9o=;K1hMK9Jc4NFaOANIl0VnGQ=="

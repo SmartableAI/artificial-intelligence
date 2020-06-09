@@ -23,6 +23,7 @@ images:
   - url: "https://www.gannett-cdn.com/presto/2020/06/02/PIND/b34f4fc7-056d-483a-a6a5-187dd316a36d-1FullSizeRender.jpeg?auto=webp&crop=771,434,x1,y309&format=pjpg&width=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "'I want my voice to be heard.' Decatur Central junior organizes black activist group"
 
 secured: "D6NzYnn2xZnSS9+1rN7EnD1kDvsE1SSyg4G3uJQuLBWZ/XPSeV+U5uRpTVg2YtPAdpG7RPRxcPy7MMRT6cf7e3VfXDHHNvexgyLCRx+41RRIwJvhub5euvgjPltIbJAHtCozFkIFkwYZYiYoxI3IdaIoeRQ3pDlIemf28J10RHhXE9Dd1tW14L6JRuBC4XpKo4eoUKzty+ihCqxyD5YIkFOXnBbpOzin87JBuc/vxPECLh2uy86KD/1Wo3qa1GvmsKugafLysgdZwSr7aw/UCSmbJ456Zm91z0YMzWfCwCkqsv8g6iEid9bPU3PTJdc35Iw8f0VHyc8jRZVHX/pHcY5PEkFbIeil2lkr6qY2+wtYwXs6ipGrLKGs557XiF2ABfeGoNsoX+kDPyROtR9gl23m7S+LIQOH4KDQdjEcUgdElv0v8Bgv6tqWGvnds/3LjGKRyPpAir0wg5supq8DwXMAY69DZKN03/KRRjPOc1k=;errTKPKvq6tVKXnxmPfkTA=="

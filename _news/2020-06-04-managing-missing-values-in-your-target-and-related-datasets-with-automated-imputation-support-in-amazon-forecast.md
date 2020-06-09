@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/Forecast_Look_Up_3.gif"
     width: 600
     height: 304
+    isCached: true
     title: "Managing missing values in your target and related datasets with automated imputation support in Amazon Forecast"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/tabular-a2i-2.gif"
         width: 1000
         height: 532
+        isCached: true
 
 secured: "cSstjyu5SGRP3RyXEImO1POCnTNalp4iE6PDEiYEPWMRhFPdbxhRj7zVKfRngfYGk6kCj566jiFkhWRc4qz5ZAv4YchPC+rO6EFIEZ5pDCtURzg/cJY4N2FGyEulFurKcSnS55XjjP1KZeUkx4lKgqJ7osjz41kshR4Rs2LAF4KsoJkfTtUWktptxiJ43wY9RZ3rUjBmP3HtL4RwI+NT9xOdaZ+7+sgvaC3z7BQAcxA90AQ2TM2y1GkjClIvLYxDCBjSjyCxnAgZMlQTSsSMeOvS0x9P6/d7fCGPWCl0cb59n1s059nekEptelI0X4pCXm1bJggB+SWn3aJTIHhxNQ==;Tw8D4qumkb4BLsp1oMgSRg=="
 ---

@@ -21,6 +21,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/12/facebook-said-it-is-refining-its-artificial-intelligence.jpg"
     width: 1024
     height: 709
+    isCached: true
     title: "Facebook Trains AI On 'Hateful Memes'"
 
 related:

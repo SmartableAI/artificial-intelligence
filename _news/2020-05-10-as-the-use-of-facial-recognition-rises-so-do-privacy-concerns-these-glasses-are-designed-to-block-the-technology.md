@@ -21,6 +21,7 @@ images:
   - url: "https://apicms.thestar.com.my/uploads/images/2020/05/09/672241.JPG"
     width: 1240
     height: 826
+    isCached: true
     title: "As the use of facial recognition rises, so do privacy concerns. These glasses are designed to block the technology."
 
 secured: "R0eW7LqbFk9ZQxYH5egGXZ8Yo6Xg9FQhwRQJOfYwXGWKctNwEfoUgNDm8lCuZLxxUYfJOOnrwhEWkQAc2vR+FmDAPtWS5vJpnZhbNmAv1L1jNJhzY17eZ4yVsEOrANWbPT1X4RSOXz5A36F4G0ra/53LMAmGWumHBGccUM3TngeEKmSg2GUuDQdOHHmtASNyeq+BDfaiGC2WZzxiHf38YnB/XFd4kRDjd2G28+mOVHBVZaRYT1LcZOPBvHousMNk+cRnUQlfYKzwvZhhWhev6AMCS70V3OIbXWDfHbXUNVDRqHL/v2CNOl6+8LppR61N;RS7TZUZm2ZkoKebacfvkpw=="

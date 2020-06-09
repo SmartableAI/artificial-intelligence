@@ -23,6 +23,7 @@ images:
   - url: "https://i.dailymail.co.uk/1s/2020/05/16/20/28476582-0-image-a-163_1589657836021.jpg"
     width: 636
     height: 382
+    isCached: true
     title: "Boss of AI firm helping the NHS says rise of robot workers will mean MORE nurses on front line"
 
 secured: "TIJMEmvNEuyCPD+nPk+7jV2u9IP6KK+Jcjv0kadL6hD09LWLgYzmChiJaZC4GvUH5GtIIKiuh/5ciRmLuzoeCRcUSymi8cYONm6QLxrXOKeg99qhXAHy3NanG9vcPo/XlhzYcM5Dy15SvVzkVajrJSyCFgSF5/bomdDRBhSN2O4Nwr0WDepiNxoA2gxyu0P6m66Hi8sm2yyLvQaMPQtuclJypehrLwUydolEJT9LMEnZ74fO3XnIoVybvIX2eQmjbB/NL6HdwHUe0lxut9XLW/PHIh/TdU+9NCq1Et6vp5H355WtaF4H7K/hGYvyz1NOKBmr3chYtXTa3zr5Ub8CehKHNlABtDbzsce3hDsLvEjgBGLhqJf7AWZrrwjsRTkC1W6MI0ldoYK5aSYxReV8sDL8ehMEjWmysl5vNnMfrukhsrNgepPwSDH7R0aQ0qahGyPLH2s4of1p0FsG2C6xCzdcVL13N1dxONFGssvzKZM=;i9Wlt/pJVoYhnmwZ3Ko6+w=="

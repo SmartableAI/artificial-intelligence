@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity"
 
 secured: "6aUU0rTdSYD/klulOLFPDx+hoYQmetQBvBqHDV6zJqxNqOEzBsbnHHu06YwNHvRgL4XIp+oHpzBGe2oPnQ9Zh5gOaDh+teNSz5oG1Cm1AJeoYv4/DR6dc8IXYaUiOrfJBujdCbiF9sNlqUMHDnYWpw854bXYPqN7wYhpOQOgbb3X1aiJoyxftrOZv/s/xLvhYnGVGCKqzHw3jrZkxMkpvyjYqGtfNWRQZgUEAHURDOvwVdoLXQETL89C+wXf9M0890+WVs/H5Fa3rOI1haa1LIBSFRAur8aYYddv4k4DfyzGUvXgaN9Tj0mZL9IpzQca;DkmjaF/9sIAw+9RwDO7QWg=="

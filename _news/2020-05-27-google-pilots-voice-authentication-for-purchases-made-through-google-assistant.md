@@ -27,6 +27,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-26-image-25.jpg"
     width: 2560
     height: 1707
+    isCached: true
     title: "Google pilots voice authentication for purchases made through Google Assistant"
 
 secured: "K+QWHq1qutaeyhJw3mWFtIovMoWixkbhheaXcUj6YCsNq6iPydwi7C9nz/D3LEn9O23sK9inmsUJCR2HfqiK7hFTs7sZADBJCQktqkGAeiS5+cWnYj+Gg2thNycNPn5yN90w+T4vV5QSeGc5JXujQs/u4wTrOYY42XMmf+4hQ3+A1AeDe6v4+Fdv90FFiBFO01AYgnuO6LL0XUkCpSP74EbGpCS7/Dqwu2hutdu/3aZrTj9RFmTn9sTTeW7INAl5d8TRcR32gaea8rWLwMtSiCO11yTUmhTa1xzdWyoBt7TXzxzP37cGJEKIzpUScYCR8w501UoEkJofrJfw3P3KGwq0EDaxoq+genSj2OBdUC9Chv0VMIXFPcEyh0uZwfq7l3hR/rTX+swub1OyiBLTrZPkYu6kk9vsCOjEmmMUDXyGaXDA/RB0INtQBCIS+efCLZMV9wSH1pMesV1GqaEdtmAZw85k01xzGVlb/eIKSSU=;Q9vPfeNcAbwk+fK2Ay1KEg=="

@@ -24,6 +24,7 @@ images:
   - url: "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg"
     width: 1280
     height: 515
+    isCached: true
     title: "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote"
 
 secured: "VsljEx8oO48LbPUASsS8OFMQAvuu14HaJKHz3VYkPVkglgWYyfZ2K9hwWmWrEDkAV2KiuKfF8DCHhehjUX8msmWkvxrBhWzNDI3Tz2jiR8pZOOkwi0UAUUNPLosVY0HF+Ab3o43OkeyFpZQdQFPC5oTo1K55U7gDTZk0FsXRcVBEoRO7s/am6gR80jn1C/wOD9c4w8nIQqlgqSCu7I5RpQIWYS99Dk6R31gYv3wQbTqOkmH+WLfa7QJlkBo5w4G6PPsxA3WFjPWsxsoHKds89XTrSibdFeO1/91H3b8gvMAnu0cye9olMdsWQrmaB+SG/+i/QdpqW4jIDS9ZfqC/BDernxhReaD333JWEByhyHZvfu4voRMkfbyg1hKdlqbWokcSUy1uKnc3aXWDDP+bwyA2mKbFkqQntZMV16RGvEHd8UA/rX3tO6kIpU2yZx9D9yNYPs8TKrbHDNvEAQsgVCpgTT9uzUO9uguk7ao3Q7s=;BFRSz3phpzA9XZcPppTkaA=="

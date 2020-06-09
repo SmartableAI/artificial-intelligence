@@ -18,6 +18,7 @@ images:
   - url: "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Your Organization Needs a Proprietary Data Strategy"
 
 secured: "zZkqlSYpfoXtwPBvxt7wT2Rq0I0URlyTxbnuFVkDeJV3CxDAy2mFJhHOUqWlzKFBy7/lT+L4DJnldqcp/OsH+RjwQ/AvOnfv6UH7L6wzzWJ0uIM/H2DU4qf9NjRCJtO5KiC2dkE3u/R+FcdCplfbBOl0zzlTkvgVZj6cF18R+/7VFI9fk3fWjN2s1tWX2QwCOk2majqCy1V7Izvqxq7kRakiX11EsEBt0mgFRkHkC20F5M1GY35p8riaLBGBF8MgTDHeauzYVAM9ta1cJqloWGW4Ke4nfK0v2zPXWH7poi1bFsocpKN5gdI6y3X2u/uI;bC4IhN+adOnlOUzw9rBfAQ=="

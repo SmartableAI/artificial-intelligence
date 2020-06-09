@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1176283/VIVOTEK_P_Guard_robot_MS9390.jpg?p=facebook"
     width: 1000
     height: 524
+    isCached: true
     title: "VIVOTEK Joins ENOVA Robotics Police Robot Project to Enforce COVID-19 Lockdown in Tunisia"
 
 related:

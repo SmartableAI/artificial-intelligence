@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "MATHia® by Carnegie Learning Wins “Best Artificial Intelligence Solution” in The EdTech Awards 2020"
 
 secured: "eO+cR/ene5Oh/RfsFHrpVG0iIqy7Jt3RO0LU6/8t9GsZY873jBlZ/a7nJ0eycY3g0Jy+aVtns/PhFNfYvjBmayr43rQ4mfJL3JqbNdKu5VPffxCdMnZbNt4EzCFmJwzSeIu4i8zyM4/Vqm5i3j/MEvLqky9MUZGOE6I2G5XU+qaajUEWQpEInjmoTMUceW0vrkmNEFLmRKldZ4kMvBczoi9VWTWIkXRqJuiIkUHEfECGgxVTvGfRHvTJyaTh028FVJFQlV2mWLplbz+5JBPdoAc2UmeYGZnV4u75ugk7SMtVc8Z13WyspfDIvLrmhER3;j/f0ohQfrPj3lEz5Lqpzkg=="

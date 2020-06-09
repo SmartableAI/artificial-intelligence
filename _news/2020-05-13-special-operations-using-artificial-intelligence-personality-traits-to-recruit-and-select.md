@@ -20,6 +20,7 @@ images:
   - url: "https://www.armytimes.com/resizer/7qP2xdVe5gqTRzxjcgPBTXxsSmM=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/4XMM6FTIONDUTD4XSCJEAOT6D4.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Special operations using artificial intelligence, personality traits to recruit and select"
 
 related:

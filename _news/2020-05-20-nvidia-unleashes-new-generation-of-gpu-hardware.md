@@ -23,6 +23,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
     width: 1200
     height: 878
+    isCached: true
     title: "Nvidia unleashes new generation of GPU hardware"
 
 secured: "BAl98DjKfgBkgYPCVysKUtRRtuJaXzVGpiBoxzGnPl4xYl2tMuRXZX6H9z0HqMIq1Fy7hn3jh1rR+9dR7kneeJvIwD4mhX7ls82cEGxUaRLWjHzDsnG9eKZgUsA78cK7yjfiavgND4k8CSAUBpdRzLZ6o46w5/zZ6P6mvF1/aMyNJyQxKC5VwgDmaNpt481Amg0PbfkFJyQZu3cdmLKnn9Z5eQHkTXlOXf/SBLQLi1TFkERpMo3s9NeEv1ofZAi6PRlTTWVO3yhjnMokwOnDbDnbJTxOxFoC0LcERUMjHc+D4cwn0MgwXp017J45GE0N;IrEs5B0FwyF4myrXJY1u6A=="

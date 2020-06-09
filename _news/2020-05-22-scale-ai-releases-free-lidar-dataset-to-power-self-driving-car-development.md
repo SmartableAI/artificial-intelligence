@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024"
     width: 1024
     height: 512
+    isCached: true
     title: "Scale AI releases free lidar dataset to power self-driving car development"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-03-31/c0622b51-a47d-4f81-bc5f-ed53627fe191.jpeg"
     width: 500
     height: 300
+    isCached: true
     title: "Tencent tests facial recognition in games as part of anti-addiction measures for minors"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://images.livemint.com/img/2020/06/04/600x338/AI-k8HB--621x414@LiveMint_1591263722888.jpg"
     width: 600
     height: 337
+    isCached: true
     title: "Covid-19: Andhra Pradesh deploys Watson assistant to answer queries"
 
 related:

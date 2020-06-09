@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Da6I4d0VAAESNhK.png?w=1200&#038;strip=all"
     width: 1200
     height: 711
+    isCached: true
     title: "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims"
 
 secured: "MvMixrpuT87RMpUnICzN2ayPg1Kp68k7qwBrPtomZ/BVfOfFVMUD/wf2XNWifKIOWQj4220oXi95/6WmogmvuQztoxajQ/T0g6td4tVdPjy0eXE0KGbja0/KrcUrG3Z0GtN7mZHTWAfkgdQfl00Jp2rzLbyHrTpCmm+b9EoXlZQSy9qRNXoo66OxlD0AXbxbLboxHujnUVQqnxPSAwiz4tEU4D2y35dCHpZHKh3SP4RJd3Xti+UHqa3VH/5uq3VlDna0FsfB33Z0d+VpC4sKRut/s/kWrW4OVxZ42GmTwdM3nF+ly+mt3fiqRo8R55tm60cd6bP9qzfmoeORC7a3TJ3zgx1I1LxsUIY/DWoTKu69gQnIE7XDJnJAKIeGGRZeKCevpcXFexlRRkckeNWEByTUi9Bc6d5fX16kvqSvkaDjf5a9AdBzEMIBFi3TWlNRiOZQIqGgd2TdSvJkd6ewQ9o76roiBMCZRTuBH3eM0XY=;WqGLEundlXGBf5e4Iowf3A=="

@@ -23,8 +23,14 @@ images:
   - url: "https://static-news.moneycontrol.com/static-mcnews/2019/02/1111-378x213.jpg"
     width: 378
     height: 213
+    isCached: true
+    title: "Robots on hand to greet Japanese coronavirus patients in hotels"
+  - url: "https://images.moneycontrol.com/static-mcnews/2020/05/Robot_Pepper-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
+    isCached: true
     title: "Robots on hand to greet Japanese coronavirus patients in hotels"
 
-secured: "FC7GfPsy/8qeGiGSklVgdXeqiVvbJdepT/7619Escncy+tcI38LblL99Bsoc2hdIqV84CmV5WRRtgPTqpk21JSGnrzYv07Tp5mDYuxbbcwDkHKKZPSgfKAbH8nQ/B1+2UY3Jf4QxTXGiGmQVhwIGyH2z3TWmvKY0wrieoIUnIar6KpLn8MxLTNb1vEd0w8MbUsYVWsB7YdjHFZlfGyW7hiM/zm7KQRKrrVH+eqwhpsHfRR4j1I/7ABKLbMxPQdosoLAT5/6m0yGwkNKOeODBh5ZMQmrXSSYR5+y+0sPs4GHB6+QBeCUyWNN255dGwUdC1bvxjxuk1z4l2D6VCCm10nQuovUgBU5MXODUcRyMro5JvbhBllkZzJ/cfJJZtnb05RR948b3WVK5JGT0CvbtOsOE7sDXMJAaPDHgAYLLqcM2yJCwksUlhizqjHup/J3z3LwqjWlC8HDhkFWSVUjneZURAAs+oTXh7BqbjORUnuA=;85fgNuTbRmcwWuzlumrAWA=="
+secured: "jwSO46o+y9OLDxNGIMdgDCyI0t4L30jsqGFIy4KdjgrXv8JnLMr6oCxjHHJRFXPr2scFdMRcQIvO85oPMWWV73kAyGwUwuFZRc64CTOjvUr2iWkJ3dkQe8Y7e/MkgZ/vvm7C+LY7FVvQouh5eOmEar7GfBLYSLkJajWaDzJtSTDsNusIH2cft9Vuqn6F6QUlOMgKeWYosYcUEVCIB/+ggTuCADFyiNE3IUUfJY9lkL277BXOynfudsKIuJe6fLkxCtCgk/YCi6mZQQQcyV6kLhFN3MU5BO7o3zkLBdKq7IvYpt1nknMhciYVocqOvgzD;lW6MtfgNyHjhxfutsVqmQw=="
 ---
 

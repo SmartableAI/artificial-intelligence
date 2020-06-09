@@ -22,6 +22,7 @@ images:
   - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/05/May-2020-top-startup-global-funding-rounds.jpg"
     width: 1000
     height: 525
+    isCached: true
     title: "The 13 Largest Global Startup Funding Rounds of May 2020"
 
 secured: "XS15cswULGOpiARMAl8AJJo2GT9rpHKyV03TZ0ECjf+iGFDvuqmRuOlpBlshvctLt1wBKdSMxfYfddUiyT63h+r5CgyGrtSnvWp/OTJNplo2fqkBfenB4PQVsxdOOM9gnIDYLS8oMYj7IrAVteLR+xqDEu6xdMXCjos0FkD4c68biqPKNlnho1VqMjl7xS6+LsVZ7UtIEsxjMUALxP29YF390XbrzlvNcBc0gwA2lUysFKQL6oe8xxL4TYaWz9MDDRYjeNpH54ZMkOWHIUUjJYnBYtx2jn9fUQ2Pwz6poM75Rlab4ByqUGEWdoDJDZBx;87IRTYuJU0Ku4lfvHLpeWA=="

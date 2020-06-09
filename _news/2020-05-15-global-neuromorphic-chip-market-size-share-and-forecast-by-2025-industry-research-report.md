@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Neuromorphic Chip Market Size, Share and Forecast by 2025- Industry Research Report"
 
 secured: "Zwx2qggZyRCc3VwvMoOVvll9aqMLPZ8C1DnCRx8RNDjCVwzwGtr6XVjzoLwJnpn3H9KwsqBrUFXYWXcrZl2GsXM3unzOyoBPrNTO789lapApzM4pIYEHLv5mfWDRTq2UoJYbk9BC4hwPWMXAZW7YMnPf5SmTJI/KA4kFYutYm4YIm9TkukjzRcnr29OnMFwghl70H7+Y08Rx0v+TWm3Xu4Z5RUF/tK8SZy0jIVUY/oTFTAyuYJ/a/8f1vfoRhJvhVLvgzPzbWMks8fPmXXY1UO0flepletub2d1lK+1nozbfZBhw1NNLZgESQAoEYeM8;rcBUR39qFiV3S5JI9TNQ1Q=="

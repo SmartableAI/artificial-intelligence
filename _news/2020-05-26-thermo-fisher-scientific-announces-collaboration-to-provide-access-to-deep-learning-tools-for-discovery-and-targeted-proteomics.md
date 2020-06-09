@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/490330/Thermo_Fisher_Scientific.jpg?p=facebook"
     width: 2698
     height: 1414
+    isCached: true
     title: "Thermo Fisher Scientific Announces Collaboration to Provide Access to Deep Learning Tools for Discovery and Targeted Proteomics"
 
 related:

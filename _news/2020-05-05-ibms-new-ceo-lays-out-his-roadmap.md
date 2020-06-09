@@ -27,6 +27,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
     width: 1200
     height: 633
+    isCached: true
     title: "IBM’s new CEO lays out his roadmap"
 
 secured: "eCG2lvrrW8gmaeGjvfJycfQaZbDUg5Td+RnPxZzGEGK/N3wkyBd3nkv0H5P8lLGMwUTYP4pLeMl22xsajx04a0J5T84QSsHyHDo5n45NFgmLUhQzgDb5Xuon3TVM0k5Yrrk3MOdeTht7Vo/xxpznjXWTEtFXLOzDYqykqA4TmB4oAJIL66/AOsvpXw1HP1zsutVJuBDM5mu0oUjguhkXP8hjUp9RJal15FWrWAedns9Xh57XcYQcIFfmxj+t4tPLWOGoCfP3tw3iv2+mv1kn02D7FAVBExsPl4OBW9IaXYVhhNoGn8RuZzDl6alVajUN;jjf3e7k8MeiULqcc9AefvQ=="

@@ -27,6 +27,7 @@ images:
   - url: "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Clearview AI faces lawsuit over gathering people's images without consent"
 
 secured: "HBIPPEHaw1Ckzznic07fKfkELk3I9LFfCEiAOZUHUtcbuv+5cYc7Jq9qu+pd/d4BP9eIk6YVpwqWm+7JqyMwN6ekF12fJ+uw+dEYdUdfeXuCHVwcEUEmwbklvulkan10/WEXF5lXrtFUqOIT2IJ9Mm41eGKOTf2GhBaXy2tqpIkt+3ykSto3DTmjuTNFyBfD4ha6H3v/RJAu2kwdVBm34FgblFTRiIp+m+yABqy1DLllbvT+F/XXVpGRMVprFkqE0sQYPzRvEirbZq9/+ManR/kqUWp9T4Lj5nB4uZNQS3h7p5RGbaHWNO75yUVcTDgSGGAsei/6PCXZxVt8kk1ioS/1V7h8jXwivFjhATmorM2GhA4aHjtYdxFoXAD8pTxMlwHna3BCn4s1IRZzaSTLcP1C3yZkyiS1DD1K9DREzJfYFn/T1IBp321lEEx+nNqXS1bKPoeCiQ0e6HU7K2VhGqKdamSzTCk3I72rX1GhTMw=;n4UTzEsunatIMjKzPcJFUQ=="

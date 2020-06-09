@@ -22,6 +22,7 @@ images:
   - url: "http://www.qrcodepress.com/wp-content/uploads/2020/05/Artificial-intelligence-system-Robot-with-Computer.jpg"
     width: 886
     height: 460
+    isCached: true
     title: "An artificial intelligence system cannot invent something, says US Patent Office ruling"
 
 secured: "7dr6eVo1Z4XJnwUPZIUMVepBOaMOzym+MkzsrMdIhzreG1VZHNGurg+rgHJRDVEfD60DX5Dijwn01WJxrvWwyQbOXC8Qs235AbxU3w+GmmaFkKOrNYA81xYBTcsc1pGfSzq9s0WyIcUoRQbMfBXoL0FKzOQ5CDa7wk7WWd4PjopQpeAyFSeIYH1sr3YOuc7qwlZfYkEXWsKQOZQUzvLiohXQJc+rZdqcQYR3GVSvd0dPqUxvLObz1eyDxyhFp3kOQrTqaYzfTPjln4VOrNww5g853WZKgs4sG+8LrMEXWpcqQXs6COfW26THsPC75ZAr;y1v0o1H6vLycvoQNZlkJbw=="

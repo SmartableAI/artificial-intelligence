@@ -23,6 +23,7 @@ images:
   - url: "https://images.moneycontrol.com/static-mcnews/2019/09/Microsoft-image-Reuters-770x433.jpg?impolicy=website&width=770&height=431"
     width: 770
     height: 431
+    isCached: true
     title: "Microsoft unveils 'world's fifth most powerful' supercomputer developed with help from Elon Musk's AI firm"
 
 related:

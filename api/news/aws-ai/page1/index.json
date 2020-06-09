@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 800,
           "height": 433,
           "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 500,
           "height": 398,
           "title": "Coding with R on Amazon SageMaker notebook instances",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +129,8 @@
           "width": 5596,
           "height": 3712,
           "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -158,7 +164,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -170,7 +177,8 @@
           "width": 1000,
           "height": 532,
           "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -203,7 +211,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -215,7 +224,8 @@
           "width": 907,
           "height": 465,
           "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -248,7 +258,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -260,7 +271,8 @@
           "width": 1200,
           "height": 675,
           "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -297,7 +309,8 @@
           "width": 1200,
           "height": 630,
           "title": "Amazon-made Rekognition software now able to detect fear",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -330,7 +343,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -342,7 +356,8 @@
           "width": 1000,
           "height": 578,
           "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -375,7 +390,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -387,7 +403,8 @@
           "width": 1024,
           "height": 512,
           "title": "Alexa uses Amazon Translate to reach more international customers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -420,7 +437,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -432,7 +450,8 @@
           "width": 800,
           "height": 400,
           "title": "Amazon Textract is now SOC and ISO compliant",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -465,7 +484,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -477,7 +497,8 @@
           "width": 500,
           "height": 415,
           "title": "Creating a music genre model with your own data in AWS DeepComposer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -514,7 +535,8 @@
           "width": 1024,
           "height": 680,
           "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -548,7 +570,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -560,7 +583,8 @@
           "width": 1200,
           "height": 675,
           "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -598,7 +622,8 @@
           "width": 800,
           "height": 450,
           "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -631,7 +656,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -643,7 +669,8 @@
           "width": 800,
           "height": 428,
           "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -676,7 +703,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -688,7 +716,8 @@
           "width": 1200,
           "height": 797,
           "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -726,7 +755,8 @@
           "width": 660,
           "height": 330,
           "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -759,7 +789,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -771,7 +802,8 @@
           "width": 674,
           "height": 630,
           "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -833,7 +865,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -845,7 +878,8 @@
           "width": 1000,
           "height": 580,
           "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -878,7 +912,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -890,7 +925,8 @@
           "width": 640,
           "height": 640,
           "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -923,7 +959,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +972,8 @@
           "width": 695,
           "height": 391,
           "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1006,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -980,7 +1019,8 @@
           "width": 1260,
           "height": 630,
           "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1017,7 +1057,8 @@
           "width": 816,
           "height": 459,
           "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1050,7 +1091,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1062,7 +1104,8 @@
           "width": 1200,
           "height": 752,
           "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1099,7 +1142,8 @@
           "width": 700,
           "height": 370,
           "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1136,7 +1180,8 @@
           "width": 630,
           "height": 420,
           "title": "Amazon urged not to sell facial recognition tool to police",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1169,7 +1214,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1181,7 +1227,8 @@
           "width": 1200,
           "height": 630,
           "title": "Civil rights groups criticize Amazon's facial recognition system",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1214,7 +1261,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1226,7 +1274,8 @@
           "width": 726,
           "height": 413,
           "title": "Gain customer insights using Amazon Aurora machine learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1259,7 +1308,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1271,7 +1321,8 @@
           "width": 1000,
           "height": 537,
           "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

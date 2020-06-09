@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/Lyssn_telehealth-630x383.png"
     width: 630
     height: 383
+    isCached: true
     title: "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions"
 
 secured: "UQgbWuNHWuJA3+JEpjKmGz3yM15YNMzj1qXy8cEJORPE+TUevVM1u23pzxsGZu57R6cPHzh21ZqgSYOfJ7P2fY1CdczjPLwBUIuBGG767reGWijYx0NdUwlmHk2vKC8l1MGe6oJlTQ5u5sDSV2XLnbCkQWpzBihi9JbGfp/QJbqGy1kplExazRxJzovL3vaNbkfzn2yeTqtL3uJzPpRkF/A3vndlwCrFmKCJMO6Twgy2XW08stlNcOkPxShGfT4LMiv+xldKwIDixm1Ut8jC4zMkdv8GKK6ZZt4EP34uBdyIj3jqAcMmBHEQMJR4e+FacrZVRy8kG25dH4eh3ZO+rzTPGloO5FgX2Gm88Iz+6jcUPztUEm0jar1NcbGN0fUVO1CNT09u2yOuOf9l3FTCP/Zvztbi62lH2Jx45CaR77mqQhPZM20l61/cjiGd7uesiAuXZhw8RBZRR2CLTJhbPX1HfuF0kMCUAn+6y0H3/ps=;dB1xLKZNyDHc1wpBxxnd7Q=="

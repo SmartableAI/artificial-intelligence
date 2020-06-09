@@ -24,6 +24,7 @@ images:
   - url: "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png"
     width: 1200
     height: 858
+    isCached: true
     title: "Why robots will need humans in the future"
 
 related:

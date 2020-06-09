@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/shopify-balance-card.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Shopify unveils Balance debit card, opens AI-powered fulfillment network to merchants"
 
 related:

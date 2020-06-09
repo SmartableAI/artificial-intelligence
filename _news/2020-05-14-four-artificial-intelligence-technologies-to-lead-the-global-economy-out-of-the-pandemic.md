@@ -21,6 +21,7 @@ images:
   - url: "https://i0.wp.com/www.ipwatchdog.com/wp-content/uploads/2020/05/Depositphotos_207844888_xl-2015-scaled.jpg?resize=396%2C220"
     width: 396
     height: 220
+    isCached: true
     title: "Four Artificial Intelligence Technologies to Lead the Global Economy Out of the Pandemic"
 
 related:

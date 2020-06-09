@@ -25,6 +25,7 @@ images:
   - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg"
     width: 1024
     height: 538
+    isCached: true
     title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
 
 related:

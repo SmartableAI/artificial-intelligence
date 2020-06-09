@@ -22,6 +22,7 @@ images:
   - url: "https://media.bizj.us/view/img/11672613/abhinav*600xx5976-3984-0-4.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "Are you a laid-off tech worker? This AI startup may be able to help."
 
 secured: "Z/IXa2laSkVsvvWua0JtwJWJJAAabU94jxfGRuqk9Q6/sdkLIixOftqt3Lw9P0pfWjJqHpNmkrzP80ZXEn+GAdeeqoz8jUeIVQp7H6vFpjkrvBYA69xrRifzPc2+NOurcr+YEJQzCSkHl+D3PDDbqcN8En1LLJGd9IVfSkGx5xBQWK33tWk/qDGd9iNEC5vtQFJLZ0UR0pWBeo9bFtIyiYK0q3tzCIe+X9q3hjzKUBD6QR71dOq3rPzLNJCGf/4IlhPDkibf5kO+7fKMdgrSSpMdbDIToqekFNkFPN/FtFIm2hKilIpnihexXEN1ZEfZSfhKm8euz+hx8LYI2RrAyvQABcD9Ht3WTv+hxkoOxW2a9eqMZrtUJI2ikiOXtRI6AFEMCrL4x5usCBHSIFjY5F541LAOaUhdqWYyDKkI6ibY8f8lqvAChZgsVIlcVzzZnbrL4uTW6No++roBWPeDloRJrGJyh6HqiQzDWZ9KBUY=;ztm2BqVqskqxC8n0HY0MaQ=="

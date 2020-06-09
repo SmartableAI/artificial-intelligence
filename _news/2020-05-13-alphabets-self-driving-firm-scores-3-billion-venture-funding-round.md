@@ -23,6 +23,7 @@ images:
   - url: "https://247wallst.com/wp-content/uploads/2019/04/imageforentry1-5kd.jpg?w=400"
     width: 400
     height: 224
+    isCached: true
     title: "Alphabet's Self-Driving Firm Scores $3 Billion Venture Funding Round"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure"
 
 related:

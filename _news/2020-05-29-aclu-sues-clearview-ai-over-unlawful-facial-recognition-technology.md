@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
 
 related:

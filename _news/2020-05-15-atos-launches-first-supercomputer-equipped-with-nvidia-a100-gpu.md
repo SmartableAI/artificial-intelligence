@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/atos.jpg"
     width: 1000
     height: 792
+    isCached: true
     title: "Atos Launches First Supercomputer Equipped with NVIDIA A100 GPU"
 
 related:

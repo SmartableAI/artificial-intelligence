@@ -23,6 +23,7 @@ images:
   - url: "https://d30fl32nd2baj9.cloudfront.net/media/2020/05/10/zoom-graphics-100520-01.jpg/BINARY/zoom-graphics-100520-01.jpg"
     width: 1024
     height: 640
+    isCached: true
     title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 
 related:

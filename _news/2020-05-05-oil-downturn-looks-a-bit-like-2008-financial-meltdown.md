@@ -20,6 +20,7 @@ images:
   - url: "https://images.rigzone.com/images/news/articles/161977_582x327.png"
     width: 582
     height: 327
+    isCached: true
     title: "Oil Downturn Looks A Bit Like 2008 Financial Meltdown"
 
 secured: "SW1RsaIVqO78pbBC7T+rPrDPRLoiU7blUqewtDixK/c/pB4KGCtpmOU1oxBl65Rp+K5eoZOP9PUXJnSlBNakC2FDwjSwcWU+pe/q9gtpn1T1dq8V5eohng2XHVjI+bnPyQcaCDH4YgAUI8+k86Tj9uRl7Q9XMgavs2VdX/mD4DPqYulu5NnaFMx8fmzXGHWW+TyuLjpFVZ3EC/cSKFWQ8j3HLBaCkBmilCqYpDPClUBdesRUWai348t/bV3BtDGOnPIxiYsYg+gUDs32LQcYBY8+KWVMaP99HoDzQPkrD29FxNSRlmLDQ28KCckTK1WW;eoRYwKRKUn9vB+EtcqRoQQ=="

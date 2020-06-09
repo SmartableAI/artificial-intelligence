@@ -24,6 +24,7 @@ images:
   - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
     width: 375
     height: 211
+    isCached: true
     title: "Chicago police drop Clearview facial recognition technology"
 
 secured: "/J9p146PcM2l9SR+fA2u0sjXajCuzRwjZYfQBYI5HC7zoi//UcBAe3VLAcjEuo80VIaAPS8zkjgwEUcOpJPFEeJSywDrBTiudNqO2SqTZh9x7kLxgAoQ0nNYHiehBvOLQg50EntlxNc/g6tqqG4e6bn94rgYOxUw4EuzhGMeoBw1bB0ZETM0X6NzJ8C49aZgsXG6aAWDOh16FU1LnWebwlyA0RrZs2BdbKttM/5oE2++cfvs696F+5QrR58yC6VnU1ul/w7aqhcl3PFBFJjCM7yhlW1Pb0vcO8dODA2iUAs3I44xYqslXKZlKbi6LAHm;a4eobBKzPgXqS+8hJLNEUw=="

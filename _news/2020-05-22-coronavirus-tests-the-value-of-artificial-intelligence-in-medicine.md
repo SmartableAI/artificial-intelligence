@@ -20,6 +20,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Coronavirus tests the value of artificial intelligence in medicine"
 
 secured: "WxXK9PgwyEJZGTFtobcrHYI32cZ9uo2ytCU7xlEKVYK4RzQokD0OKUTftVC9Yvn9IatM8nkuC/axmVZLztIcvqgbZdwEQUfLaJ0rs9VpDKUV0Ypwv337J1NeKMBZmk3AzrOCoWcR/H3U1etP9TzukXS5+EtNPGOq620Jvb1uNwQa2MpdIG00QL5H5XYmc7xqR9kO94GdN6yWswrLSA712bVOgZNf0whtJVTwzI3aaX6nv3t+hVnckWa/wgN5ivTngX3Gy+U6qoZmIQndjSMzh7MEENfmRuVV5OtSE2fcJ/gtFoopuIcuudrBSNgw+Qom;3kje6ZUXeo4ptHztuYgFsg=="

@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Microchip Reveals Software Development Kit and Neural Network IP for Easily Creating Low-Power FPGA Smart Embedded Vision Solutions"
 
 secured: "RHU3/mA14XeDpZnYRNKYALSteZljl8N6vD6l7cK81QGa60EvUoY3PXf+nSEFB48wIuOd7Bbtw2VnA8GvxTeus66KhfJuinv5c4WG3Cq5I+ujZdcYwqON+ZXdblBmu+WG2eBnBowIVb9Jh98oRSWjhsMig6aB7h7T1NB8HFtp87lKDNO8uD7fwYJeYFNYFZz1tSTCNkvIUTbe8xwPcOEVPQzn1MORJBzwUDtPtiFaYZdUcF44QvyBqJjPqdqTYs9adhZFczgUtL2a1japOuu+8SR7//lo0+mNL5mEsMfCRLlMDPqG1UrVBvm5d5zDl1Dd;A3MBhgQnq9hs0wOsKKfyJg=="

@@ -25,6 +25,7 @@ images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/NVIDIA.Cumulus.logos_1.jpg?alias=social_image"
     width: 560
     height: 300
+    isCached: true
     title: "NVIDIA Acquires Cumulus to Accelerate Open Networking"
 
 secured: "mhK5QPW6/NdzklWdqOPBg9cniF5bMUImcWeKl5CeYAL1XWpTrber42wBA2gA2KbcK8xG3BdBWWbzLgMvtICDa7b7g+Pf41lH2ZTSfx1X1QF42Ip9TWIfWOfgBulkaU77twROuj/DptaND3m8R33zOwp17VITZx1IcJfU7hdhWf1toQqNa+vSROJxVY80WbADX1emNVVtKZ6VQKgpNyMLFhq4N7nJ8Y9aUhzOgAFjCTLaDsnsvNZ0YW6fMzWI9Rj3n+UtYkMfqqBCiW4FJdbkhnfci6yvFT9ry6XsUgR7oHHWXruVHbNtjfaUQYozrP1BI2tpe6T4X/piZL3hgHN3lZwXaEfVobotdjPA/GhzG1Dn32/iXqFrqHLDhq6UFzVRdUcPhayY4UnE5MKssXto0Z3tocuiOzRUkOan6+bxeHfRiBS+j9OCnvotc445+8sPxWV8R2j0bHYVeXOYVzswWzlj6VgSm9woil1k+g8/LZc=;0LtOARIpLJlk8VYCGved3g=="

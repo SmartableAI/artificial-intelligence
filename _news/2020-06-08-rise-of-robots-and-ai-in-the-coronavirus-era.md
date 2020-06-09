@@ -21,6 +21,7 @@ images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Rise of Robots and AI in the Coronavirus Era"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167"
         width: 2318
         height: 1546
+        isCached: true
   - title: "Rise in robotics is helping companies survive the pandemic"
     excerpt: "Robotics companies are seeing a sharp incline in sales and product requests as companies try to maintain business with fewer workers in the building."
     publishedDateTime: 2020-06-08T17:17:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/2bddabf/2147483647/strip/true/crop/3360x1764+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb7%2F38%2F33d06f8d4fa6aff7e93c4b40785d%2Frobots2.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Autonomous Delivery Robots - Demand Is Skyrocketing During The COVID-19 Pandemic"
     excerpt: "One thing that the novel coronavirus COVID-19 did for all of us was to push us outside comfort zones and to adapt to new ways of working and living no matter how resistant we might be. From enabling telecommuting for workers who hadn't done so prior to tackling video conferencing,"
     publishedDateTime: 2020-06-07T13:20:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHPM3AQzLBqtw/article-cover_image-shrink_720_1280/0?e=1597276800&v=beta&t=J93CKJzVxzAh_VhnrQl4X0_1lcg7ZAahKzxJiqWMLNg"
         width: 1280
         height: 614
+        isCached: true
 
 secured: "xeeg6VMHamwYYT8tplx3O/7lvinaB4dvCtwcy9+uLBdvonncLhAaK/CNsU2SNU4fh6hNsldC5FW4EMMw57LvaU85beS5DgJIeilxoWAo4fSGnIKqh4S07KQOou9JhsWj0zBO6U0fherq/KVfddVSqVWSPwxCDjUyJep9EGgDZCsfyLhtLH+J96ptR/uBWhKvQCrnsuMLTWr7wxJfbOT3Gnl+f+Ub1QgGz9O0D8svhSNiw75iopvZv9p7U9SM9S5Xpfhwzocjt7z41IIZZN8WLzisBzc4AQWHQz2gLv6H7J8m3u5zSJoH8AOxI/OFuhGVlvgXnWU94L96kPzxKLTWy2jbyZpm9S5/klIPr7YocxSChDXQJR6wAS5I0A411nSzRVnCa9sHHL4DNRj+0IPYU54T1CwKftHzhPD6i3Au77nRdTg7hy8nTOEu+e/zZFSPzO5bQNyj1g3ehzq0AhLdQHb8t3KkqtlKWfYhp7MqQ9c=;FBULgvuu8FwQvI3lpnmpGw=="
 ---

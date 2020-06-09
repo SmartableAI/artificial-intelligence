@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "AI VIVO Seeks Collaboration Partners to Progress Top-ranked COVID-19 Therapeutic Candidates"
 
 related:

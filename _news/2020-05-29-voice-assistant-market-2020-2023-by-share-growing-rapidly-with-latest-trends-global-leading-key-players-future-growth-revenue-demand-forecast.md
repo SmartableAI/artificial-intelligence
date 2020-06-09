@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Voice Assistant Market 2020-2023 by Share Growing Rapidly With Latest Trends, Global Leading Key Players, Future Growth, Revenue, Demand Forecast"
 
 secured: "BqGJbaJEapkz5FWQyg+MbdPulMbG9CXGOGQWhoRabwYVLb8YvEu/GN/irp2nI8XmrxgFvK2NlRQAzx0zMeUU/Vmow505wYr6fcDPQjuTfEBG5ZQ9TDTV2k58yHOjr1kzW5HITzhEmDoWhB8LwTVpz6WgcrV/2bXxH6QsmCd+cXPZRNIZevZy8T+A+dGNa7L/mB8zkxBuUDySw030+gSB7HRURdjZj1aRt6O7EYGorCEFYNl1Q910dcJSGWzrSNxXJIIwTp78AszORSCK081okHgM5ReWGi8lfNFJwpZrVQM6zMDMcmlXARBqjWwOsOOH;wgm84+6GO3eGsPre/CM4jA=="

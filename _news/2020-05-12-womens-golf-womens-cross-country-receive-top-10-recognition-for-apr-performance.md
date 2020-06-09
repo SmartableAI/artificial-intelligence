@@ -21,6 +21,7 @@ images:
   - url: "https://media.graytvinc.com/images/tamu_texas_logo_mgn_810.jpg"
     width: 810
     height: 456
+    isCached: true
     title: "Women’s Golf, Women’s Cross Country Receive Top-10 Recognition for APR Performance"
 
 secured: "7H/hvg75XAw2OkVyp2e3R0Bh6TTZqFZXW/n3RES30aOAY++031AzECYpUn1bRNCMN8u+1L6obt/l2ZOC7nYlr++/tZrXKd4uWVmvsLeIkH7ELuaXMMQAB5rLDB4dLpk9ZqtookkDHSUQ4yAG3CBdSE+uk9AE4xUtLegBcOlMEmr1DndnJPBZlYGkLDgTc2Ddlf52g2RXnDMCOLJJ9blerLxGbTQ37X5XKT47MyRKCcORfVytZTxw6d1j9oyQZ9XlFsEjBBRf3wNTgShYcektNvB943t+5bVtvQ/ngeOm2zfqcwmfIGuaY1ZjPZcZZ/Qm;LyxAgEJtlYM+RCM+8iUOXQ=="

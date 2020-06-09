@@ -23,6 +23,7 @@ images:
   - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/police-apologise-over-secret-trial-of-facial-recognition-technol?w=700&h=393.75&fit=crop&auto=format"
     width: 700
     height: 394
+    isCached: true
     title: "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI"
 
 related:

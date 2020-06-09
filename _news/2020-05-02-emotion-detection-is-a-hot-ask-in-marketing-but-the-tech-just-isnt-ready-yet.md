@@ -27,8 +27,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all"
     width: 1059
     height: 619
+    isCached: true
+    title: "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet"
+  - url: "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?w=1200&#038;strip=all"
+    width: 1059
+    height: 619
+    isCached: true
     title: "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet"
 
-secured: "SCpG1zINZHBPSeLsVeRzaHJZbY38A26FU3l1gx3ESvhFdYobkVPqAnr0jfaoHX2EB5DETqFgSfU7lgh9VFAH81HqwA0kucyJiRJheNE1Q1XjSb2XJKVro2oKSzisyw46tljfaIuSAWE37oNBLHGyavYtdIgkuyKa06poLvZ3WrtcRSo+Ftd1Zp7rQi9y5O8p6figuME+KqcYIzeRBpnWN6ZAh56ODQDamS7aKCQ9amYrAryTCR4++aesb6uIuFZyFaJei9Uw5N0adiSdwFicwkusI+utYWzpeU7L3zSbs9O0aMItJ3KzI9uA+E3A/voSUwZIYU0mMNE10Qo6IxkrbwTdOpzCPgf/9dr/iY4Hk6kAX2vAItEULxPo47vmYg2v+Q3lilWfr97uREzNj3eY/YeoeFN+K9hXIoFjV1EeCDQb4AsAnnFbuVKOFrpwokvxbiCdaME9kouEXD28En4yy0mckm+E2n+zoJfZtrSFlsQ=;/698vLDeCE/UOvFGIbXl3Q=="
+secured: "0i4K2h+7Dr/218TmlIiakfBUJ18L65MgL2+7WDwNNp71uTmUtuhD2FwWTHSUzGL8hdJ8ayIoEkBe2RZ8kxwFlHn2BFMMS4vxg8YHkcoln9+cvXnVMy5KiTy7DyRadBVX3sErCWOB35ADZo4Zpwjiu53KzNXE54vFVIREjy2Ty0+BPOt2f6u7QgY/A9igFG5+FH/kP6B6rS10bOJK9zjOLGpT6q8T3tM4k30RQl3DMF1g5g6Pc/bVM3dnJl8numnCxPrQQ7m/g9vO75D1X6p6DWl3vhrW+gnfKLwkFfLNpP5LVRMKftELUEwflEMzO+5J;I30NtSHpljafSVtxEFRcrw=="
 ---
 

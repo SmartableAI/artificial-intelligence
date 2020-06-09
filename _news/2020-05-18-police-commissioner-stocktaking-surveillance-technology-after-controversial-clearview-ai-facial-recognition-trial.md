@@ -23,6 +23,7 @@ images:
   - url: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance/_jcr_content/par/brightcovevideo/image.dynimg.768.q75.jpg/v1589315212941/new-zealand-police-generic-badge-CREDIT-NEWSHUB-1120.jpg"
     width: 768
     height: 438
+    isCached: true
     title: "Police Commissioner stocktaking surveillance technology after controversial Clearview AI facial recognition trial"
 
 related:

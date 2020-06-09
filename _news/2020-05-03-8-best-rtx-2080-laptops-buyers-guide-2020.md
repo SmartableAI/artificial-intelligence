@@ -23,8 +23,14 @@ images:
   - url: "https://heavyeditorial.files.wordpress.com/2020/04/best-rtx-2080-laptops.jpg?quality=65&strip=all"
     width: 775
     height: 517
+    isCached: true
+    title: "8 Best RTX 2080 Laptops: Buyer’s Guide (2020)"
+  - url: "https://heavy.com/wp-content/uploads/2020/05/rtx-2080-laptops.jpg?quality=65&strip=all&w=780"
+    width: 780
+    height: 520
+    isCached: true
     title: "8 Best RTX 2080 Laptops: Buyer’s Guide (2020)"
 
-secured: "Tpomt/Xn9rWqgexEaqVgrOi+R+gEY1ZOtZN/A5v6WqGtGruV9AdJB+pm8DOWxpRS6SwfACNNwN07vkxCVEqZnTEuuSW6W6/dvjd6YJ6nMXIT5I2zhqW9HhN+yECU7s55/1L2X+2t3mbjYeYrybYi1Ac/MlXT3D2mPhynW+/f4CLnrpjPc3zvfjVMLpgozrIk2f059ml8CV80DhOrBPEP1u9ymYH+x9l8+Mne0Gzq4y6lMwwabmAz041Ae1W0AV+AbSCcIfWbEczh7A3xxCvm7R0fyAaXg5JwZoyOQnXYqOskPPOpYI9BSL2smkDwTssmDMzKaPuPDkQj3k6qQMTLj5iYzlkQrzXw36VkVFIsfPjFZ51tY343NqFVdvWf1aUq/huGinAert3V/oQqPegA7k/FeFDPyiMgSJyg5HF8FGRsYa2Ujq/wZIVCsfd3QWQ0xP8bjSMYWyUUYYEFx2xqY/RCmXCGxAyjLVKVqbr3I6o=;HlyTg9i0vPBlmqOS7nxNew=="
+secured: "N05eEgziEh/Ep7WLKci0HBFaj061B47vjXL4CbBL6UJuqIMqK75r3qlpNPrABDufCOxs97O4wn1bhjDRV48f2fvaA0DMxspJkyHytP5PqxpcaaQxWunldla7alUQDl+w7WhPvFQUY3Z5snTX7oFV61X2EnbGIFOR881XxNRNYsYiZ9azHd7xnfQB42VQ958DJZBIJ/jOpxUjS5VyciIuI/MT5EMSejEnVA4CVKSZdBIVL5FzAyvE8ErM+tPGoRuGQldblJSz/7T7EXSruyB2gtfjqrmO7V1uJcad+rLYhYv7fJ1Wg9m5FSjiehHBG3cY;EGgDQ+Z0Kq32ft17rzpFIw=="
 ---
 

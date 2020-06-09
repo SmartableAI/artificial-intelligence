@@ -27,6 +27,7 @@ images:
   - url: "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg"
     width: 2400
     height: 1600
+    isCached: true
     title: "Are AI-Powered Killer Robots Inevitable?"
 
 secured: "9ivL6a3fX+KaHmZeUwEItPfBNG8R+y+NcY9wTwKPEKTYIc01ZeicNmorKFXcu9NaIZrOve/xHT3Y0Aga8JORD/H8wgVn/sUAO+icbU7WWda7bNWFHt4wh1jvLr1fv4C+JNk+xaHuHMZMmXCf7xdcWoyI0RV2/DKzVQVtmGhXzKEmyl9ETqiYHkaATQCQgdyMSVZc3DeCuDMe2bfsveOFFbBrrUqiNwOCnqCh1yWZONsSWwnWjjAV2k/nKonoaR9IOpfy7F40IUzsgN2Hw+r/oeNEnusqcv9gZw9Oqplll/TRi0cPRqp/R3k1Pd5HTxwbI/braDRXI61bI00EWM3ktsig4TsaYZVvbGnkd1P3Iyxyplg2Lia9r3db0h/NnefmsBE1f+HePoWV2WoYnZPE4aNNZLD5v6FAeaE342Klb4C4DgIO2ALPp0DMAhhxAuXAV4lYvm6jAP+73npMoEgmd2x6LLQ5QoYj346M8OZWvDk=;HiUY0c3vykztcUqPltDU1Q=="

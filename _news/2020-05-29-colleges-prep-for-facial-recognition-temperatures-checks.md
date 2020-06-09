@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
     width: 1280
     height: 719
+    isCached: true
     title: "Colleges prep for facial recognition, temperatures checks"
 
 related:

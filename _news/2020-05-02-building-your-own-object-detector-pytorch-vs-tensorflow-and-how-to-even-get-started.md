@@ -22,6 +22,7 @@ images:
   - url: "https://miro.medium.com/max/900/1*UUF6K1NYWO9BFMvyTlVqMQ.png"
     width: 900
     height: 484
+    isCached: true
     title: "Building your own object detector — PyTorch vs TensorFlow and how to even get started?"
 
 secured: "wQgbi3J6zWc1KNkuOjaQGlRo9zse5tbdU8GVI8EHAQcX70sGlnLOpm3I1lyFeNm5qsvkzuJVKUJwtWnn5EVJk7Usyw6/cBSWkfPtE4hOH+ZX5q1AiZWGtlAcqHitn44lTHsYakrpOPwifPPKFZEpu0DLVFXTuMo6s5RQzSkM/BPvoAI84XhJxHKkuGaIEcW8i6MSxtdm8CMRje5Hx8NI4NZVmhVAeaxUpcz+Jm0xCLM5CDd0RmqcM02GAy6oP1ONF1KAzKfHoqPFv9Zbw6px3t3gowcmXXzq2uPL0VvSoR7614pQEJcp0XfMnolDtN+c/X5FcUEr5ZLYKFYqMNF3MpFUufGDVSpTyNdfynauHx1FnNyeP8tkBnJMwjgNfChVCm0mPF80bLVICC/G6cE5WKD2HFMfZCSXzCGNUFz2sybZQ6iL6ADyGWqPMYI26jHqAYWYn64ICOV3/LIF6zew13SYD/kNAh3SghYUXJjREso=;iBHD+vKdabLY8zDs5GsjJA=="

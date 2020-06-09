@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence and Machine Learning Market Analysis by Manufacturers, Regions, Type and Application to 2024"
 
 secured: "KRiukIFLvIN9KozgOmq9khOsnCnDkNBstz/27FomCNWHg8A1S9BhldeirNMmNWVdi0c91z54nM0nggLZA1gjdRAsFkurhwEGD09wUuUFF1I5FKZpSWbru73DGxDzrUrMkxJrJQLlPrgM5LN0AJH93g1xeQN3jWgztCnxivg6LSARKMaMyMqOSA8gH+yedsz6XagBPXtjFWzjvVzXH32DKEtH9YDay7WFMnf7/mreNbH42pGMd7+r+PMSH7G3nMTOgw0tDeerEsP3QdIp7jAUKM+1+uajgppju23KHMdh33qg6Ykb4UFxGpdZChXYC6g3;2ZB0sIYsb0blnVTgc/XCPQ=="

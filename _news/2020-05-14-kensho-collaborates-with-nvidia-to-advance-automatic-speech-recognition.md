@@ -22,6 +22,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition"
 
 secured: "xLS+ATL6M3CvxXc94ubD5pMsQc3edD6l2/myHiRiJ/Ywr+ce63nsJXyConF5/+e78oc1gau2ONSY5qRMQurHPAwTE6hrHDNPNiMCBFDxdAnP0a7pKkG2cwPWQEd0Uy0r40pSy1LvBrKlel9JcUviZbGZj7nSlk4whFK4qMAyrKPoKfuR1vPP6QqrABbTAlGK7Jtq4YAkFPjadgNrfQRW+y0+VVWlrRYxJ1eO2HkvW8TQWOGCakh6eOF6RTuKeqPONeYBj7t/2TYO+3xPP2hE+OkvGrwlsO4sLDrnX0ofhYprEkg1qtgqidXD/1O4JUw3;uHQ0Nn/mMcq0w0uPM+rqdg=="

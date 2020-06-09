@@ -23,6 +23,7 @@ images:
   - url: "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png"
     width: 700
     height: 370
+    isCached: true
     title: "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance"
 
 related:

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Influence of COVID-19 on Asia-Pacific self-driving market are Apple, Microsoft, Toyota, Volvo and General Motors"
 
 secured: "Ihutc3aATOvadQZLeu5NWee7chtdn6W/IWc07s0LXmfT2DGlsxKsQKF/IPpcPKlaIL9rrpl/WhR8TSHEM18r83JRxa7hykN8PprclyFi8TX09buh+tZqYVa0gGNBHRnkkjfaRyM1dQEeERL4bvNjv+BYhSzjF/JvlxcKk7Mn5hyk3+zPQs+DsFWr72mvzepgbxAKKrYYuL+ouReir/si9syQiHkE4O1mWDwTy7TA5fsRCleMYcGN2G560r5fR7DH9DnaAJy0denCLZ2yiOP0h0dXe2xB7eZhmdwBv5DgnhD35QtnmvI2a0fGcohZ8+ua;DrcD+pMw4hVLkiwsnl2RJw=="

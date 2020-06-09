@@ -21,6 +21,7 @@ images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?497061"
     width: 640
     height: 250
+    isCached: true
     title: "Microsoft unveils enormous supercomputer to train AI models"
 
 secured: "qSwCTfiMisNaJ2n8cWsSMVTG9N44AaA1G+blE839dznQD0ibFFuNdMUwKiXmpyJufwTtXsuQu7pW9oDeVi1EV6PgLavyRBoJiAnNiRwWMHTow0jqEy2E3rXmL+Fs5Oe7fwbL7AFLdwv8IMeH3kUTyJNVMvb1mDhXOsALU+LKoiuhx7F+KmVQeN6DB0TxC3nIuEr49at8TbWvw2EwGpjpL6nVJr71+ZY5sz0HlRJyWXAoIdoDvLkv52eJiesfrPm30JTjcicSC/DH9j13kS2uZMwIH7Z9jEHIYhNPG3Iy7rHhPsbWOPZdxrNIS1TMAabT;2tVUBT5x4KsIBcr3wNxQew=="

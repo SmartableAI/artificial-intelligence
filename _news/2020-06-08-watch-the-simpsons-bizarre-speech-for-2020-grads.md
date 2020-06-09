@@ -23,6 +23,7 @@ images:
   - url: "https://collegecandy.com/wp-content/uploads/sites/5/2020/06/donuttt.jpg?quality=88&w=730"
     width: 730
     height: 730
+    isCached: true
     title: "WATCH: ‘The Simpsons’ Bizarre Speech For 2020 Grads"
   - url: "https://collegecandy.com/wp-content/uploads/sites/5/2020/06/shutterstock_1127030048.jpg?quality=88&w=730&zoom=1&crop=0,0,730px,410px"
     width: 730

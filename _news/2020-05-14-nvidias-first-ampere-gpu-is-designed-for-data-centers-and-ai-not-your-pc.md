@@ -28,6 +28,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/HF2WomES921lXx07YJ_w3OkXx-w=/0x0:1980x1320/1400x933/filters:focal(832x502:1148x818):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC"
 
 related:

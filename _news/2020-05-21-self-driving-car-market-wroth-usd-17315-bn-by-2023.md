@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Self-driving car market wroth USD 173.15 Bn by 2023"
 
 secured: "5KFU0rW057UCRCe7awwsyVeMzSRiRbKju/lBWuOu3lyFFCVMG6WLuV+kTa1Jc8Z9RYNr9F6Lfis+JmBRF0aR9rIoWgQkok9+kILaR0WhTeJLct7FxefdStyuA9DlhkTfmx5vQ9SbtRsRS1CbS34ooKKj8xsD4DrgdFV3s5qRdBygiJ1CT1L7u1Ku61+LpbssqlzFpIWMQh25sVdowOxbCiBBSWMnJtY4a+7iuK3iPJz8vGfnZl2DwjUWL5MhrJmlmsDtzewRZfPpq562GiKpaHssh46823lfLo8S0ilGnGYmcV1zbCz1C5BJoN6txvRt;eHSEivfBXkPGHJr2XWSFpg=="

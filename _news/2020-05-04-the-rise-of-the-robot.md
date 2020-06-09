@@ -27,6 +27,7 @@ images:
   - url: "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg"
     width: 2000
     height: 1125
+    isCached: true
     title: "The rise of the robot"
 
 secured: "Kkb7RP0ilUGU05BjOP2POyGOnmIASBc9SYHFCAcIBZaEbJJe7mmL1k4B8qONNNULEuQ5iAwpWx77KDyjhEmCPC/Hf6NZRrxejr0kp1DB0y4a7ipjRHJ40eHPkThkm+hvWgy7ie1dwY2/mfWvYaPa3hYSHdKctIi1XHJ+sp8490TzDaPfq5HuTj/1bW9JejYq6i57/l5DYbrsGjiyV1MH0X+HdjE/1nVhlJzeUeWDNj3azWBHT812koQBtSEPCQpvNnF9tYnX7XybvIyNk2SO3tDGW4nrz4S/M6GeaGxiNVhhHsTlnGwWOO4/QfBasZmm;ZLe4Cq8pv7W9dlrjdlmZaA=="

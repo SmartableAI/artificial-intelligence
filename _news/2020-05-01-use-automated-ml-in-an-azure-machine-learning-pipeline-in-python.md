@@ -26,6 +26,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Use automated ML in an Azure Machine Learning pipeline in Python"
 
 secured: "yKXGqFBnbYjKImH7YR5veIKDSZsTF4fqisNB3Es3IPAZ6bGzFotB7KCX5Ys7uNLpOmrDrBijBF7z/t8RFY6NSZLKe7GsZpATgN1UWIFS+qsRB9cJJcdbVbr5nnZGlx6JyTkCM9UxDS9xH4YhwFGTCz2sy/iMnOl40NxUMpjWWMwkIpJyDDNeovykUxUhU2I2hSg7CoC7IFNsrzLJ3E4iNRsTVKLDuGrhLD/BxRCOpP/AgFiEn2Czlt4D4xGBrOcjk5qeuL5t3YFS15s37PeQbmh4nKYwQ80NMXtZ7Bx7u5gh19fDzawY9Wl3eeKkQqJu;KOGVU0RPIRXBbRlLZnfljg=="

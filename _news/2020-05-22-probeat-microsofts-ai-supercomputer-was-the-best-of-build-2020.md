@@ -28,6 +28,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020"
 
 secured: "qIOKue6sb+9chYYJp++dO2eDb1p23zd/JqiP09UOF2B1ABXShxFvB0FpbAoE99qheVP5l30e1klvUoTEd73oYlCzB1j5nVUSwFWY4y0rB2H1DBCF7Ckg0hQTrvTTZ1JTtuMenCKX28ZejThNHZxJ6vuErm4LqtTSZMykge282LjhtzU6gti2Ci9M8yUnUucv5kAgQDqtuR/Q8GuwCvMeOxhcaLWICIwvyHHGvE7UZX/K8hVDR8CnP99hC69A4qGD41D+RS7acmSwYyOtSJYX+OIExMvgE0ctKavq0V8lv0pcvXZi6caAjo/RErJUynNbiD6pUibNH0flFPXGzBCuM/UhHnqNbyskCrL9N8I3LKaU4aYe8/ouX+ULKW9JJiLsZDVHnUaxq1mcngqkr28gBk5ykd9DbUSHstcR+LfxasyCtXk90y7bMtwCDAPrK0i8HA93dgz9ZLMTFPKcy1tlf2OFQJjPzdBP4y3EYiG+dgI=;WcYczncRCLkxAxU2HAWN8Q=="

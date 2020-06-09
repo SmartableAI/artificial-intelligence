@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "AI Market In Agriculture Market Precise Outlook 2020- Microsoft Corp., IBM Corp., Blue River Technology Inc., Agribotix LLC, Granular Inc."
 
 secured: "aHTX2JTXwzrB/cts3hPHLYanVgBxLC73HUUV+RiMYAt4edVy2uyUPYEZWieU3Sah8egQbCZ2j/IV8bL+W9Y1lhhEF5Sdeu+PqfuYr9dg5N/F4HE42xMCzFNwLB6N3sBbiopNxC38anhvYtjiXryXucNdLfMWRmvFVkNL8qQPioQ+5e/sU4nHBp4uHtKFqquN6b+ZCszA659AMFpIsN2j0s0ADIcK+ty7uuZ3zWGE51JFlKpcst2VB9RdTZD2L+/V/Jp0LQf0ffBPl1oM193zG/mYEFKKqfx2+WkdVT9JFBElXI1fdGyxD5i1eKFmJfRE;T9l4C4W7++6n3lplqeCWIQ=="

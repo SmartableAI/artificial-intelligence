@@ -23,6 +23,7 @@ images:
   - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
+    isCached: true
     title: "Facial recognition reunites missing child after 32 years"
 
 related:

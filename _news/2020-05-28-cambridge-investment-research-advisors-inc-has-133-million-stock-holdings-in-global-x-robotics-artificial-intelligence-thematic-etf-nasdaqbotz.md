@@ -23,6 +23,7 @@ images:
   - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
     width: 450
     height: 323
+    isCached: true
     title: "Cambridge Investment Research Advisors Inc. Has $1.33 Million Stock Holdings in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
 
 secured: "KlYvpEqqs30GNtjoHZgvfeoGtReDiPqYE7LqJsI1XWnvBjpxCl2LhOIp16Y5u62lazUkk0C3vk1/QXYXOe4KkbMpSgkL5Dy0AgBX0sX3GFVpqYA9l1hO8gjUmS20d1n9i9eDbimpj31fvR2J2/iBFAoIN+eMMPXyF7OYU1J9D76geqNB8c1QPlglXntedM5IClwIe/TOY4zUJO0/QdLl/GjzkwVNWSW0l4r3QOysxM5uRRFnh5/lYEgl1az6V1SxW08uBAJsF9+tQ0PJBjAzRIJNo48jGvuVz4I+GEL4YrgkQlTOXM32fNePSr7xMY0/I3uQG3DGv2NWUiaNwA5pYNEYSBWZoM1cTUqnfDtb1CAI4xWCQZyddJYCPeS9nU93wbzxPaTnZ9aYGzLIfSCnTgvq1l5WPgrMj//yOfal3iCJXsbqnjtoWC7RY3vAJoIJVhQdUIV6XwmNIdhJJ/iSgXQDV3KyI0rEYgIw/nRkmC4=;ddOllgLLQEf39mgoVcyKeg=="

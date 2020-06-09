@@ -21,6 +21,7 @@ images:
   - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/cvs_pharmacy_i.jpg"
     width: 800
     height: 600
+    isCached: true
     title: "CVS tests delivering prescriptions with self-driving vehicles"
 
 related:

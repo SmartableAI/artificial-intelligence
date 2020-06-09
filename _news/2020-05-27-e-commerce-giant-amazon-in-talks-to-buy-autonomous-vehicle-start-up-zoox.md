@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099"
     width: 1200
     height: 630
+    isCached: true
     title: "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox"
 
 related:

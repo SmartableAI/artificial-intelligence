@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200602005331/en/775856/23/LinkSquares-Logo-Original.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "LinkSquares Announces First Enterprise End-to-End Contract Lifecycle Management Platform Powered by AI"
 
 secured: "mAM5T8MN6LC5rHPmKOhNunsKHNX6o+oj4cujTm4PHDPH7cPBYhb5hNhLWs9KcWSJ+xn4FRT2jdJuSSK75KDSkzNgNTsDbImcOK3SyqVRYnGyh7Uh9pYO1dRdFKTMQTHBuoWw4pN06CHHWmOOffRk5MM/auQOLV5d4ihiG9TdtSVVzVFW025Kb60AYaljNzH+6sTQpwkd7TQAO6qjsM9B0YE/cTpOhPVL7Ramn6UBiL9ZTop3Yvha+HmWZdNuIpiIV/hyhX30VBui0waAYg1Y5JrIBINwyvuCJMjF5uWtE41EP55RnEZd00/BOu8gJoDC;G8slOFNDCouCBwnYYETwGg=="

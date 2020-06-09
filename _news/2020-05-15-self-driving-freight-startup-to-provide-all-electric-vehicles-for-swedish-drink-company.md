@@ -21,6 +21,7 @@ images:
   - url: "https://insights.globalspec.com/images/assets/195/14195/einride.png"
     width: 752
     height: 420
+    isCached: true
     title: "Self-driving freight startup to provide all-electric vehicles for Swedish drink company"
 
 secured: "9kgIQvkNLxwl5+OrfduwARJbfqhOcZWJAOps0fHu6LHdxKxjOjPfCfm20/zoHu4pIhVMfthLEn1SxiFmvq6Cshc4+wjldssQlqfBpB7VC+gdlHy11f2UWgQeeRlYrktKwsHsWziG6nCfL1J/izPK5FPkc0zZCI2maDux+NuRkReWgNMqWC2YR63dVEaeqMfo97yHTJPhQJuA7BcpDBpwSfxIr+g+4fdNfkEK0MLQxuGLMuwGhii3ukbLOd1j56pJkzzMikjOjveObtMB8HLud59ky8Z3zlUv6cbFOF+CVZFE2dfiFXO8/ChVXTfuNV5cNdEaRvKcOILlutfTywp8c7CO7O+srHnU221/+wL//txlFgYwqg5/N4IlKeiJWbm00G6+tDrvLd1XkVNQGlki+WpsIBiMufX/mTzqtn0ADzEUAYMP2FsYdCAJYR+bDuKR9BoL8TlH8Qdzpb2STCUp5rIUeuImy1WFloc1acbk+pM=;LqgpZtXPhgNRtpmJrLpfPg=="

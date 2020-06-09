@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png"
     width: 300
     height: 261
+    isCached: true
     title: "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra"
 
 secured: "7/ht4duPE0xqJLBqBuegnRUVQY9qcPkD2Kfuup1lXUbP2P38TXTobokQ9q/49ld/MykRlthga9G2zf7QKx3WOnODM9/Jk6dY6BPdnnu1CQ1KAjI7epQV3sa+OHjmRxLs9GGsSG4YSuBIXwBefFZJTRIDVgZvFH8SRrcbUBfh/iJ5/EMVetlzMJW0aOv4vL+siYAzIaBUFICBmufJ0KLCb7gAznUKWZRmi7JqxbBcPs+q29D1vn71SPFGb6YtZhEAkJfuT5Nr6aCnzLsS2hHMJmbDgPqQSYISkF72dg0lGE+9EqjitXGrAvzQyrVEgBpxHZY0Qr9DHbcKkrufyo6jrf5TuLQUrz6OmOvw/w7z7cZgpPSoXHLy5somZKZiF38d4SUVE0bb9hfQuy0oKBtWNNQ58oduR66IChugc2Juz/N5igP9XaKxYsPvfzdW7qNKU4BWTRrxSRFRXjeRZzOozHf3Nqn/K6tWTErsuEVF7IY=;EHdndR0jueB8HO0mWrWbAw=="

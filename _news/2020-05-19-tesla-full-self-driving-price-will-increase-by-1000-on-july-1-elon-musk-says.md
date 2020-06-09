@@ -27,6 +27,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Tesla 'full self-driving' price will increase by $1,000 on July 1, Elon Musk says"
 
 related:

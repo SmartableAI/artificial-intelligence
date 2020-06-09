@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200514005480/en/791666/23/inspur_logo.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Inspur Releases 5 New AI Servers Powered by NVIDIA A100 Tensor Core GPUs"
 
 related:

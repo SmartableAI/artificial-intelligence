@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/27/image001-1.jpg"
     width: 800
     height: 428
+    isCached: true
     title: "Designing human review workflows with Amazon Translate and Amazon Augmented AI"
 
 secured: "9g6Q+mn5ChaGy9R8ezy1MfIr4rALeu+HjOHIVdGlmW5MOCS9JJIyjkjnaeDm8pNqNqJvEz1t16DEOlJpfuGiS+nynYpXhLQmnmQmLPPHjTzlHWtsK8VsKtg28AarpAxDeOYTKqeRifx09eP4PbmYgsw5kN4jCZ/clIP3+K16zBfq/XScpjr23oiOZbWx8d9K+C+b/Zxk5Yi8Y7dyNXcBXoBUeXZIMqUD9FhDbBTNcrkK3VgqPsQZqckcZ6lxxj4GpJTA08yNXz/Wy8AoTunAq+NG8kardvAVm4R4UFcBQoCaoQBotZA+Q6MTEWh4is02FduwNdh6HfsXXkRJGvVAAQ==;ak6dT8MqAAaBzX+FplTTlw=="

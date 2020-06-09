@@ -21,6 +21,7 @@ images:
   - url: "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Predicting Failing Tests with Machine Learning"
 
 related:

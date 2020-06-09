@@ -24,6 +24,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/46119635215_a80d93864d_c.jpg?w=600"
     width: 600
     height: 400
+    isCached: true
     title: "Your startup can still be seen and heard: Exhibit in Digital Startup Alley"
 
 secured: "IDduv6lo2Bf/dGAqjIjZSRzakf7QFn+oGwvION8g21IYWwDkGTOVP30/nPnrEoCvi1FtrE3Zibnx0I1l2jlji+FZFO4Tyad6hhtudgisUXTpzKmc2f8RSawxUs4iDmh1U7wNoQM5D8fHkmoHZcXDFCPqEuiNfZo8jOMRfesWw/BjkL0U9kB+twp7AzaPGL2uKGURUHW2WGGAWWq4bp5owiEEBIaBd7fparXNVUCAt9kwXNUV929WLMAQQpiPDSvY8D2z0sPDnOSGKC7viP+DbWdmO9e59zCLpuP1BQ7b+dSj7iCkSfyqlPOgYtgLQ8j9;m9pejHzbj5oUg1rq+uMMqg=="

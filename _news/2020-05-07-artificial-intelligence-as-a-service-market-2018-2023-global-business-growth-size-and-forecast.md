@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence as a Service Market 2018-2023: Global Business Growth, Size and Forecast"
 
 secured: "kGoD6aINVjfVFIYKtdeAD2ihaJJShsvk62cdBy/irCp37UQ1VFGP5a48k0vlmYsaWTmBjaVu6rxkfJ3z7csgn677wsUvFplEKYgcVnUtTtCHqxeXqqe926rMT5VVjnUyuF1NoaS79PJ+/kWDK9gvosl4psmiUY6gmeFMsm+Viofyew6eHTMm/uupk2d+Bsd84B1dZkad4hMHhGC+X5cJWSLiNMgfdzGjWPuphIxOmcjgLpVJducPN0fi/KVDUggzp8+DUPB9k8vGGkA6ixy6XuYrcns4o3wxOoET/OOmq3DB8wrHGmVDqzCSOVzRTrHr;sVbusbvpm75YYNRH/9Q1EA=="

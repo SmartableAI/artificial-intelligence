@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters"
 
 related:

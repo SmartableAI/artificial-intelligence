@@ -20,6 +20,7 @@ images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/231465_web.jpg"
     width: 720
     height: 759
+    isCached: true
     title: "Artificial synapses on design"
 
 secured: "74Z5xz9JpjRGYnIYAAnAIzjMcoO4hswuRDlHR0ojEq+J4x9G+sOxPrmpJbFVMaQjrf2S6vIO9+tnLJMgzz8OiGUqtzxNSAZqFHvkR5BHCxWN/Ihwwyma7kzdqUoPg6KEGB0Q0wv13daRkkqQdyOJKNeFA928YdgDti2IArLCj+ALDtsTBy52bOPeRtlh6I0Ud9WUg/NFbRXQCMxRWFNhKDN7OS+SbINy3qgOkdsz7DdKVp+ZfI7Wmh5uLRhL9z2nUUDbH0Kn9fZUzPUlYPK/uLUZJq903otkKnR3ZTNK9O3CnJ4R4hIJ4f1BPZ6Y0/O1;NtLZVVhARNdkQx0TUAOwTQ=="

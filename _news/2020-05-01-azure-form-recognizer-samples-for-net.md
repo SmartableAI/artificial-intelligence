@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Azure Form Recognizer samples for .NET"
 
 secured: "kcyHDqz8+CmCYXua9oRCVezGZMzVIyzpK0/hSyp+t1YnQ5tGPuEcM+4hsnb84wAcvokxK8OlbQqhSWiLMdks3pAcc8oSCt3IIbw7fcTY9vpM8Nn0zqEitRQeG7zvSSr6myXxI8sHvA2OYYXhxs1YxQodFqhPxBNUJUTj950c5YKOvDliSbLMjHf90Y8ljCKQLkHw+X2VHPTmwCmu+zGjl9q/nAWeAtwIRE+YD/wegFq1TEAwTjC77u09xUaPyg/wtNrIjG/7YM/5p3QDtO896uG144NMfLJ0quLBvxeD/9a3mDk+jxCbZmqIIpztBBeg;0Jh+hGUb1edAsdXK/mxeGg=="

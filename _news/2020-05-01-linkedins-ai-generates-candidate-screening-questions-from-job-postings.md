@@ -26,8 +26,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
+    title: "LinkedIn’s AI generates candidate screening questions from job postings"
+  - url: "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    isCached: true
     title: "LinkedIn’s AI generates candidate screening questions from job postings"
 
-secured: "LXzGvBWmMgjCsD0WBg3EqV50UgsDFf/fayEqtK8eTI/sU6LgjQMuvps+hXhyePRyxowUvAHFi+R2eH9TExP078IZs+90jK4PuHSYzRYb1AQ/XcA1rS0NNZH87OXHct7GBNdTWYr4E/7QYw+x2kd67iXU2nKW5O9pQqjl/miyMVuqr6wjx4nEj4slJ+750LWJpm1dH6Jmpqg27LnujJW50IejANpaNxGl34+SMj/dWy5EbzWgRVErz2VVilFdCVJWoUj9LqTXQ9nP6HjpFD/bGO6ZBn6LLXBD4JmNS3K2EpI1mpzjO7Ugy0uJu6AJvH+rh/ei2Jz6Hm0edUu+KOYkFh3dNgvPJzCUncuWwv+6mCeLlFMsUINrD56iAXUBqZnfSzp1b6hdfzT18QA8q2A2Ddec38UrllqaF+m7GtuaYrna+Oye/F3bMbH52bUjiTBeD+IA8+s3fDdfEFFwwvW9k+fhmDshBvH/X3wVe0f+LsA=;/Tp4Jx0MMW9uSJbyntEofw=="
+secured: "2PD9a8VeFRxrO3IcDaN4LqAFre522nu5Tl4hBkJ+AM7FfPrA8ZGDuWvMD6frYYbrHowjD05OleOiI4/t0p1ABnxSYxCUmk1OE+zGEfHSXLHTzkQ5WsV9+J5SxtKHNaahUcDgGBxDu9mHwwXxlIzPckGaYgZDXvcUcderiAUmapkKbW2nex8xrztDXhIZ+yr0Ql4zhAPMDDuQNmn0KiP8/7U9vtuE9/Q3LlItzCbPU1XboZg1aqXskPN11GoGDwlVN3QhJT+J+Ydbuz3+EMjxrv4tSKmIbN67IQ5gUx8hYXugmZJPAGx9QH3uhHoydWlE;X/SdjqvG7l+L9SSgUcE7Ug=="
 ---
 

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
 
 secured: "NFxRnOZr/uxzzUVVdkGLr4XUbz2qv1Fw05s1X5DHP++rfPwzoHYMsFNr0K134l6IfXLFt156dF3O2Im/OzXf/Nt+aq64U8doKTVFD/+yu4srulye6eMThB3DoQDApPXPfAnWb7ABvD/44jUolF2NWIAM+Fey83kLKnp/6LTHlYJGPLETTx1Rss/eQzb59IJ1BCxckLHnE+GFYtUUNccBjj7Y3ST5qMzljTZby1UNfQrrCcHHLkvtvijP/RPra6e4GngLO6Iwwa+n408TSV9HpsMbBYsErQpeP4hw7WkAcp6bS4UBErAi74i2cjgHlgEp;vheb4CN5ak/Tdlyz7RxMIA=="

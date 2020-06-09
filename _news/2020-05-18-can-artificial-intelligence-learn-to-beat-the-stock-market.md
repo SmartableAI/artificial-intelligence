@@ -20,6 +20,7 @@ images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/05/p-1-the-supercomputer-that-taught-itself-to-beat-the-stock-market.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Can artificial intelligence learn to beat the stock market?"
 
 related:

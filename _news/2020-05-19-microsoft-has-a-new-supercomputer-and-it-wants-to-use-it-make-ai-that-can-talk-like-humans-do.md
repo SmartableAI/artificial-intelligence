@@ -23,6 +23,7 @@ images:
   - url: "https://www.businessinsider.in/thumb/msid-75831319,height-275,width-412,imgsize-4280140/tech/news/microsoft-has-a-new-supercomputer-and-it-wants-to-use-it-make-ai-that-can-talk-like-humans-do/supercomputer.jpg"
     width: 412
     height: 275
+    isCached: true
     title: "Microsoft has a new supercomputer — and it wants to use it make AI that can talk like humans do"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
     width: 480
     height: 270
+    isCached: true
     title: "Thought Machine’s creative arm, Cauldron, partners with design studio ustwo"
 
 secured: "g7osLRWHmAG7/76S/BPEopl5LXfyabrYFkyYht/i/dQZ3BU7HKNBX1Ji3qUy2FZ1t5s7iEk8IdAXknvc0gUtvKKCQMnjXbIhciDu5tO7M68QblcAGb128ZEmEPqNMi3XYCQPX4bx9I6qc9MUs/I1nz2lyMEVaFaIV2wjYBxiTbhrn6Ocy5cWJLvxvI8UBzlPo1rFnVSzBs6O3DIMSKggXvVJifWX6kJ9OOitatiy8boR5wXKIWXbn5ICee/oh4FmoXlTidlpfaohbpdjd3oWCKhnPX+1MUle+8hinbqT3GnXVsnnQKKVvytqB96GSqHb;4BhekL1BWLJ0LujxztmbRQ=="

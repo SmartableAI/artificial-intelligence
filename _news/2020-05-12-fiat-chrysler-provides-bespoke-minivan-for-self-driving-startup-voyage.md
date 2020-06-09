@@ -27,6 +27,7 @@ images:
   - url: "https://assets.newatlas.com/dims4/default/2a79a37/2147483647/strip/true/crop/3499x2333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F70%2F5b%2F56764e5944a6b276a76f33e5bef0%2F1-izrzct19dhmbk5ijnyimia.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Fiat Chrysler provides bespoke minivan for self-driving startup Voyage"
 
 secured: "3hva/llpAUeQr+Jn3nqx3TrWfS0VUG44iM1bn/R0IZrmO/58mrRinEGyhCqLNnWf9spSMxVr/Ypuv0E1CgqGNZr7VPtebzQiTsRz5vO3sPGbc0aFFfdssb6eydaTqbQu8HentHrb5qIGRUDgI9diO8syH8nrm6vn355bUMDVyKlmrB1CAjkcyaTqF8/SfbSuuctkvo8AcUGf3+cDqdX1aDsAnhX4KX3PK4s50ZoqECQtW5gcbIw0epmLVYfaKUyglSWxA4cgTtSxvI5Z+nAWoDF1kXgr2N6uQcx1efM9Sm/nUnlbQKERvTUV+YXuwQ4C;z9JIUv0XOjBS2X6XuNJm/Q=="

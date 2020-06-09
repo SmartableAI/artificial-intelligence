@@ -22,6 +22,7 @@ images:
   - url: "https://www.engineering.com/portals/0/BlogFiles/27_ima1.png"
     width: 640
     height: 523
+    isCached: true
     title: "3D Printers with an AI Brain"
 
 secured: "Tf2Z45fKUeRGEbgnuedWkE0yThtBsN6wyg+0XTdCjtuW//mpR2dxE4nAko2bVdEjWilFsPyJ1yDXLhV2lCtDbut4aYwksbY8OoU6kLTLbIPWURoxPeli0ktJLzBUi0JzREdrdp+XEdXyAX/DzZXQTpaU/2ghV8mQB2YgWQ2FeR5fzbH0Q2QZZAUlCWpRCRMttns1VgyRjOvs4Gv/j90Tj7PgE+a5sJfIn3uYr1TEdTKBgTM1WmwhSZeYDEn14YLbGcQrskuPedwu79h867WWLKa9gMtfzbN3G3K10ehMDm+KrYkDyHRp6X83reV/BwmE;K2yNFXIpfXRHylYbUwvP0w=="

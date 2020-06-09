@@ -21,6 +21,7 @@ images:
   - url: "https://www.logisticsmgmt.com/images/MMH_QnA_Handshake_Relationship_800px.jpg"
     width: 800
     height: 533
+    isCached: true
     title: "FedEx and Microsoft partner up for supply chain collaboration"
 
 secured: "vYcguYmb8MH1sPhRbSKpY5su8oyIJCg6pkNwqOHvW7j4TGoU4+127Asg7vhv1koOkgd/lZ45u96qJm/7PxdMZDG52nAPGvqm0S+bWBaxpoviniZif0Fl64VOPIfbV5Z3TuoeReSaVxejAjaFmJvobIURW42rWCywWDq8PW1wS37ucL3YjsrQiPmjHVbhV6quhisHqTgyKZqOczTsFvXRSKxdlxGeuCFXTVluYw+JMyf4IIqtSknlN+QRpiEz7ZDYlqV21ZO0R3SRvNr4kzePfFkswzeV1ctDmYXzIASkE+kMy228snVHDwcdA7LfXdN1M71e+aEROT4zGkzIQGmE68jmr1tfTr6TMYxhOwUqYViTmWNPCHS01ponIS5Cpi+SpyX9pWqyn/9rQSNy9VbsRSMwXL/QT/CeUjZ1JgilpdaC2kmkn2RC7wrBLD83GUdS92VCUPKaaYWxLKBAyU1TgOHYWLYQxsdnCj8BB4hGM/Y=;9DOqtHUjtWuU+tZAzXz41g=="

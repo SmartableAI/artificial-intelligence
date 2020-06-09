@@ -23,6 +23,7 @@ images:
   - url: "https://www.grandviewresearch.com/static/img/research/north-america-precision-harvesting-market.png"
     width: 600
     height: 300
+    isCached: true
     title: "Precision Harvesting Market Size Is Expected To Witness Significant Growth Of USD $ $22.9 Billion By 2027 | Grand View Research, Inc."
 
 secured: "7+xcA3XYq9KQAFADgxRDEwOEwe+0OWaTkZ+IL5MZPiatrX8jNXCw+2+zJ2EPbHn9TDWXjVrDMiCTHn9KfLGsIan9SwbgsPFw6dayLrBKFAm0Ej1GI8w5vWRCaczUXtMY/bjMmise8OrsIqkINoDxQyzlze7OCzLPIILZR7eGIBveXDWXOZ4/vnq4WFuAdn5YV0Y/Dt6eqhZWSLtKB4a+aMzHeNP19EaU1yETIOWVeL0iS1vRqfbS3em/WB6cPDb8Dsx3tWUkvSSzOYhlXKl+bhXokia4tN1hNQ5Ot//GSzDSC7smXIKwMkd5u+TQNCW3;2ojgLPKhLMV6I/ESV7eGIA=="

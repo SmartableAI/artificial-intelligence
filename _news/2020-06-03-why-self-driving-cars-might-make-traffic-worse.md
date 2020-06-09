@@ -23,6 +23,7 @@ images:
   - url: "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Bay_Bridge_San_Francisco_Traffic_XL_Shutterstock_410_282_c1.jpg"
     width: 410
     height: 282
+    isCached: true
     title: "Why Self-Driving Cars Might Make Traffic Worse"
 
 related:

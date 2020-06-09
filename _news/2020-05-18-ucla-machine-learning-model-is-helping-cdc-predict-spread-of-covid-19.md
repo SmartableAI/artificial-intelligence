@@ -21,6 +21,7 @@ images:
   - url: "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20204/5ec2ca082cfac24bf1473201_Quanquan+Gu+UCLA/Quanquan+Gu+UCLA_mid.jpg"
     width: 1152
     height: 767
+    isCached: true
     title: "UCLA machine-learning model is helping CDC predict spread of COVID-19"
 
 related:

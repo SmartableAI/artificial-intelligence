@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/28/bf70959a-a0c2-11ea-8055-0ae12e466049_image_hires_171312.jpg?itok=3qxBBGTj&v=1590657202"
     width: 1200
     height: 630
+    isCached: true
     title: "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more"
 
 secured: "u/P8grHE7Cioy2H75b42BJvjEWopuj84RshZHgyNFFRoiluQfSFRP1QEruCrOtobJzIx33195a4xfn55DRw3lN24JFlr/4yM+30NRPaTk62SGD/GQCcZsZRpyh12fiOD8bWIKWI7ULCijrRGf2/g7+KaB6DrGrJ+QperDeJGNzEPwCuYYbmNcUU2z170wefq8iZescEm+dGwJOPs1zhqnWXT3c7g1fxYbWXq72DyeU2T8D1/FbMFnHlkgCxO/ljCF0BnwC2XoIoYtffPNwYR3cBFNcVVQEFm79llS5B2q0WUl20CdoDXg2DNO82sZdvLxyvOAskb3rex4mY2UGyNNGV+5qKzuk9TGm3A/qe1i7dueBiKYnl3thWYnOP6JrzDTVPIAt9C0t+qtji+u9imXj6eiwM0Y9W+eA01XFN1EhW2TejJ7dBVgive0mJyf0fWmrUCKLTWFhCwzsQD+R1q/IRgOlqiCJOhTByCk3RG8Og=;DtE3o4VZTrfRafNfBkxltQ=="

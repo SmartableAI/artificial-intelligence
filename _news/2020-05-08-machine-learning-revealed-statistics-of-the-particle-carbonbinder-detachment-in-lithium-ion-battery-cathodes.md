@@ -21,6 +21,7 @@ images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16233-5/MediaObjects/41467_2020_16233_Fig1_HTML.png"
     width: 685
     height: 598
+    isCached: true
     title: "Machine-learning-revealed statistics of the particle-carbon/binder detachment in lithium-ion battery cathodes"
 
 related:

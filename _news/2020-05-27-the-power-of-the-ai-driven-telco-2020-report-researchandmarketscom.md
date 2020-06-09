@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200527005628/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "The Power of the AI Driven Telco, 2020 Report - ResearchAndMarkets.com"
 
 related:

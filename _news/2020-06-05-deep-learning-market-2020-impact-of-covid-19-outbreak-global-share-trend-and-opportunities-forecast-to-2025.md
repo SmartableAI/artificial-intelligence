@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Deep Learning Market 2020, Impact of COVID-19 Outbreak, Global Share, Trend, And Opportunities Forecast To 2025"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "I7RSYupIz2ORFyshd+975kk8w0zaWFIfvmnxzO86i4TLSRGnc6xWE3m/gxAbRn0UlSiCtrZMAadLVb8LSYAZT4f/YEe3XjSE3VzAh009haSOGNDDIFTem3cK+TyknOsvD1uY44Z8rOM6gmgd5yxV4HVdlvlngF51cOd7qM74KRWqnj6Z8R+g362nx5p2r46WDCS2u7/9caPkJSTAKiG98M549KCDqckt82CKWJmm5Mjd3zqB0vj7saFT4+Qdsa9fe8YpyMMz5K5UriCg2DlgyQHfpN+Bw2FxdfQxhukdQqlYPbMT+pqdCTSZ3txn3HqD;LpcGlI2kwEg5zhzESLLTSg=="
 ---

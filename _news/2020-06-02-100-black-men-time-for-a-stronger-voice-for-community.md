@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/custom/image/fd83d8a8-033a-11e6-80c7-775cd15a5fb2.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "100 Black Men: Time for a stronger voice for community"
 
 secured: "22HVb1BO5VUfvh8Njt1vHBTWTyddHC1Y6zVMg+HNdsFIOtiEmqyUmo/xzaxnY1sP4JQHxhT265oy6nvJ6P4sdBgayUY1LkIxjVX8fGZ+n14H3p+hgGTlWSaPPJzEmdjNWTSKRLqfjIgXY/HQqNYnxiU2/JY94EkbtfUfvsjwYYfyOoXMxGsxNiA/AnombxDg/LTrwV4dWGdbZnrvCNJLHh7C9FZEur3qFnaHgTMfTzkkjOXsFF6QR5XiLQ8hYhnFvjGGDihMuNLJb0ZDjxgIjEEFCNnZZhvPEjkGAprdYk0onxTDiOKmJ4NzITQMvZiK;TpA4ZT4BvsDx0tfWUdVDZQ=="

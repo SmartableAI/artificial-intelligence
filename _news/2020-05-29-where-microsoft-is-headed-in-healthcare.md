@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Where Microsoft is headed in healthcare"
 
 secured: "AcpS0Q2U3c+jLlq9HD70FWwSCciLfnoX7pm57aud/WMML3FOMTWaaHx91LrTA9dte19ChoFX1JjA6DMsd8/LIzFgjo6kM12Ik3jsKAYcflzi6TDlujaEqOo3ZVDcGQjG2xVKzJRk2UI2Y9o7sQHBqxYLyVzNI9bjV+ZKpMcvpf/MS4somdKVwEDIZDcLrglt7kI0w92Lp+3VUdVUp/63PylXihDNrIwJfJVqsGISNyLkksSO1uFn7SM6+121UsoiATB+BSDlKPWOatL/A4NViUmIhrXD2gX4HZj0XTo5lqIqtQUU5YCx6Y33VkcJ0tBs;Plq3FMHkSWIu8uX1sbPRUA=="

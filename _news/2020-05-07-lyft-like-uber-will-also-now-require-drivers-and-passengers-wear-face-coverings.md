@@ -27,6 +27,7 @@ images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uw2xuwlauikynzyh6drw.jpg"
     width: 800
     height: 450
+    isCached: true
     title: "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings"
 
 secured: "rMBTk2ncbxA0NkAJnYefz2yqUE2zbzFK5LJU9nUfXNOlnRYPqIK3Nxm7cp0cmIu7dmKR6es1w0C7mZxkSJVnSdbR06oQZWR652gOkAPLjzlevA/aAUOV813QVZUqOw/1qosT6kmeeai4UkXjIhXp0s6qswCEVcQMzaU8wnjYqBeNPYD2nYdlesIwjIDekyoY4FxuZ3GaZUM+JPzJY2BnIgd2JfzRmYbONkimZNJ/pT+4xJB/AB9ULcOKV7O/lsRwi88en6sdllDYMGbWxmljDIQQWVU/cMseYYrwMZYLgcqYCc6zZns7usOWeETFV+sycC2OATW+tOPU2cIlvgG6nVxxoIz8yRTlJ1w2EE1ba9hSrV+KD2bL1oz7BZYvlcIwHvZNjixXHsmvZM45OHLf/sPIjmJ8x5cAI2J3/8GRMRU9LQ6WXUMFlX4jZEgpQAVXJ5fhFyn12q8GqrXLrqjvXAQrP/7pgf2XrnWnuq+/9qU=;/ngWD8AsAP63q1mVQBDANw=="

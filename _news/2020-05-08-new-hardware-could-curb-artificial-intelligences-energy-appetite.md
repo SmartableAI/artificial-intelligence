@@ -21,6 +21,7 @@ images:
   - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/05/New-hardware-could-curb-artificial-intelligence’s-energy-appetite.jpg"
     width: 800
     height: 453
+    isCached: true
     title: "New hardware could curb artificial intelligence’s energy appetite"
 
 related:

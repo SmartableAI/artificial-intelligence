@@ -24,6 +24,7 @@ images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg"
     width: 800
     height: 448
+    isCached: true
     title: "Study Shows How Our Brains Replay Recent Experiences During Sleep"
 
 secured: "QP/y3V41ddEsHiD9pOq32wwOJIiSwTjpeo1k849ne8WdKc9vJ2tPGOOKAQsV/ALCyQ/KPaWMPt6R8XFWqbmOijcAQQAEo/Sp5GFC/pVmymdU2egAY2waQuLE6x5sjlsMQbwTCgze+zBo2wSCtAQNhsKdfNAYUVURUPAqoJLjQG0f7MDwFlTgZLWFdGUBs/1eQ6NENaWIARApQhGtGMmWeu4Qkke2ZF3X7YItlyv1+Al0SW38WE8REBBs+/xp8Psv9vhHE6yuKAT5+ltjWIFUOd2Zmx/pJTuPFcIZoIwCrygmbHaWT5T65Fz65U98I8Qg;jVZnNWST5fmD72cRv29IWg=="

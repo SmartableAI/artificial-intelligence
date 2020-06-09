@@ -23,6 +23,7 @@ images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/06/coffee-homes-retail-chains-CONTENT-2020-640x360.jpg"
     width: 640
     height: 360
+    isCached: true
     title: "Microsoft Study Argues That Language AI Researchers Must Do Better at Addressing Racism"
 
 secured: "+J6aCSiQ5v/PwzD7qWZ6eOwVqfLfnmhUHd98buB9G49525Q7Gb79vIvjXD51J5d7+LbSvfUVSaQWf/YEvgvtaFGDw44uFiAVi4C9NdvUuoo413PbYvk59x/Ag0SdEDFjWlVOxSVqs+4M/PtWEBzvoS52HcjNaWTlXZJ5Nukq7hKUyynw+Wrt86aFNA9Zue4VgqpEmeY1HoafXV2jBm2JnbZxwL6FCW3Bcqx2Rzjeb/ldDsBwgfJG219CJ33DVFH3fUdCt5rbW9NXpu9qMaam1Lv8X6WCmR5iXB0dkd6BMZXjdphHksUDgRpyAArwZKgVdNTMLraOvy7hFxWNBqRt5UuHQdqNFVTPW8zXteagCB0LZurqJKzgRwDfjZOfy532EvouWBqxIvQcIzxtRs4oHXFIMuv4h4m9ETAZyyLA9tYOuSR5eHKo19NVTaZDLBTJ3dzCgFmHXH62becLgXWK/2f9+x/ipnbRHT8f9NswH5I=;RWbi/N8DVXFMb6XozUge2w=="

@@ -23,6 +23,7 @@ images:
   - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
     width: 268
     height: 250
+    isCached: true
     title: "Samoan AI-based Virtual Agent Piloted To Ease Public Consultation Barriers"
 
 secured: "liTuWpzpt0cMMnZ2s/EPVMfx3h1OMdcquAr4hKPY7a0PLlfIn16AtfSPVFyrW+OvW4w4DS3LI2xhuhcb8hgqb9Pj1lJDSqjBMB4Py0663Bm7ey5HHVECPUHUNLU/IcV2SqcFuNKeLvGqWMpGSSHhMJdXW+i6Hv8UB9+wQJi64RnBgMtwV1CMUtMWpQ9m7JoYGoLzwvaRI6wDZAndeZ5AkC1chXWihgAgsschuJ4zfjmKzanpwo3LV4fk1QBnaBpkEXVR1//OYvJIyKLd2cIcFCNNCCVZHZ6UGffHBkGk6p1Fx2EB5uTAXJyutAlUSsaR;57UuJKlhGIseCAdZp4aSEQ=="

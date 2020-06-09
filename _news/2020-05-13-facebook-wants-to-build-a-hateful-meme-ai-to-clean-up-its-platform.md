@@ -21,6 +21,7 @@ images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
     width: 2048
     height: 1536
+    isCached: true
     title: "Facebook wants to build a 'hateful meme' AI to clean up its platform"
 
 related:

@@ -22,6 +22,7 @@ images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"
     width: 405
     height: 228
+    isCached: true
     title: "Inspur Announces its Latest Open AI, Compute, and Networking Solutions"
 
 related:

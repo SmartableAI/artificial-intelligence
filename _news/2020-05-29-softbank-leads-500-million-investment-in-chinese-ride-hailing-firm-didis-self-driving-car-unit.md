@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106104268-1567143051659didishowcasesitsautonomousdrivingfleetatthewaicinshanghai.jpg?v=1567143214"
     width: 1999
     height: 1074
+    isCached: true
     title: "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit"
 
 secured: "4ht500aj/xIz20dj9Mu+g5/Uv1wqh/kg9RgzuWzz7Fq3F8oBXUO/XUKx9g+z9W8hURh03O5UKIoJrS6ZdD6GKYeSpFDVBGhWcwIybGxGlx1ci+ba4ej1rk+Y1s9Pd+BghJZS/LB5MYywUAu6GDbWdz8pzO08PwH1zJVWS/q0fMz0iEoMh3SWtmQgoSK2G6FDiMNLOHtbQpGw6fHjyId7l8OLFbBB1tER0gtSF1sR7K3NHuv3Ywunr67umLwKhHis8riiYEQUHRIe6haVXpr/G88y11kxya+d+/fQifNfNlIiBKMK1iSxFKzHXtNHngipTThelrgjUAxcIC1gnB7kMZ/IDAed4i/WcquXS92tx7C8QAQMxUr6xYJO1VPbm+puETrGoTjcJp7WW1td9DaCqc2LWp1rBI37txV7Q3XGfZG12TMnVNfyH6qTxlLm559WwUhfmF2FZpfzAytai6kn4WrGdS25JztUUrJcTyK9VU4=;yoF5HRqlBm79G7pMQ7QvrQ=="

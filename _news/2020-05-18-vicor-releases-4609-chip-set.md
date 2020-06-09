@@ -21,6 +21,7 @@ images:
   - url: "http://share.opsy.st/5ec2b902a342d-Vicor-LPD-OAM-card-xlarge.png"
     width: 5185
     height: 3456
+    isCached: true
     title: "Vicor Releases 4609 ChiP-set"
 
 secured: "TBfkGPHG/U+zz2qsl1miqc5yrHwdxP6c5aZFzY+HvR/24/JP5zzLyPJEBJYXzM32YZpmCF2J0fnoWSubNv3qezvXmCQtMy6cTePR50HD3SaZMfUYZI/FOOdXPR3GpbmisFdKO/o/aWDpR7da99BGJYAgTmHdMvDDpPPDb7uS2wfAI/CmzL9+E6OjbVboN1If0jdxKOapQoZQcVK1cQ5pVXaconcyD59HE/Ix+Aj8v5egwLza6wVwpVfExEWbqYJAzDVwQnbUsSMb+VXQ64rrANcMq6i67JUuTXZViiJ+4j1pwPjVSThos3z5XCqDV5sOeyz6JADZqV/rSkMZF0IZkNXa/IKwN/OvMVEZw2ejCwczVCkicxiN0donzq2OL9U21uNP/BhG678lFZzRhZpFwgSNGj0S673XT49jX06vKYkyNhC/ir5UDlAjnMUMTZnSiohWkL+mnauaN6umtEJh+RjUbEbGZbYlIgBY6rRHnSo=;Ln5qbHUoOwFgyQVaFgyGyA=="

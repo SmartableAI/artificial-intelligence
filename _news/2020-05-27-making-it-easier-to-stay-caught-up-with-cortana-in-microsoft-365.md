@@ -27,6 +27,7 @@ images:
   - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png"
     width: 1200
     height: 634
+    isCached: true
     title: "Making it easier to stay caught up with Cortana in Microsoft 365"
 
 secured: "57FoZP8Hkg/qJmIsphJw3MwePNdYUVG8jo8bEqCxTUfj9wJgcDoz/iozXUSgSVfanEslbELyyf3eEyfubtw1/nEI0op388nV1vSJeVks+lyJyo1oIbpYvqUM7QdhfotvgGPxDYSw/YTIBPenfUK1hrRhSd6VRnDb9le4kwkRIPIcjizoMXlaLd4Su225LzBDhBivOsKVRbCgDuxs8LApRKzd5Ncysmp4tIQCn4QyYSMTjCgWFVdJh77gJGmfOD5CciliLZmlUaQwrBCGpdMU5WrZzviqbe332wAum480txxozzcAOK4oL02xoyf5zo/YEan0LyUqm/eZvsydyl87bQ==;rfykSMhP1anYj0fF7TD8Hg=="

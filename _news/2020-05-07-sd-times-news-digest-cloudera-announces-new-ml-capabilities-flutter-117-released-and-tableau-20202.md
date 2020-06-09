@@ -25,6 +25,7 @@ images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/05/end-to-end-production-workflows-in-cml.png"
     width: 799
     height: 451
+    isCached: true
     title: "SD Times news digest: Cloudera announces new ML capabilities, Flutter 1.17 released, and Tableau 2020.2"
 
 related:

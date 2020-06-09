@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed908fc0a0c710006933ed3%2F0x0.jpg"
     width: 800
     height: 444
+    isCached: true
     title: "Measuring AI Performance On Mobile Devices And Why It Matters"
 
 secured: "/gsj2i7wwDttD8IzY9goppCZNTfbdCuBo3alOZa4KgOERqRd212rwPZh5q+HXhtahkh4jmWqwXISzcoSXMpTLd8Z8U/64cuwC7shuTWvmaXs2jdUe+0XvxsnJMEQXp8pbHCzsNkdFmUjgPElPOp54srv0sXXjyv6GdpycgYVen0Gc4yyxux58rnWShS9xaOeAZju4VQXDvZl5A350WfBVrzQplseK1SZp3kwOA21PSFwtTEu18UB8hoxWK0Bt3q6fuTilxe9RG85Xns+1rsGYO0SVNWl76HqwoYjjMhxLfSK4K5EtORYO1TffRHoguIx;Q6ZuQX2VmOeus7+3VDV1Fg=="

@@ -23,6 +23,7 @@ images:
   - url: "https://m.dw.com/image/53330737_101.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "Freedom of Speech Award laureate Darvinson Rojas: 'What we need is more journalists on the streets'"
 
 related:

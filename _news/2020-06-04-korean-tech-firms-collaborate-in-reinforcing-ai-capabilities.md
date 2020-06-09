@@ -21,6 +21,7 @@ images:
   - url: "https://s1.econotimes.com/assets/uploads/20200603ffa14371bd4ac7b71_th_1024x0.jpg"
     width: 1024
     height: 576
+    isCached: true
     title: "Korean Tech Firms Collaborate in Reinforcing AI Capabilities"
 
 secured: "yEVzAMkkEofiY6pvy+nynerhKmOHmJjsJK4ZvJ2Zby2sbtxgyQo0RaxrIB8a+WBk8eZsAMFl1iVP80OkVtsyTDzx/4mYVIp/B2lomuQNi1MsoAiW7ojxVvlyYDh4lAaarRz8flhTSpaQcPb4XU7a4cRWhHa+8tF2Cg3RVKLmY9LzN9FRLk9sNwtVteSbE5+iWMgNMVSu+VC1PHoAyQcbj/O8GTDfioptU/lF4IaDAdtMSpRdCfL6Kt2MWK6afC+oKa21vWbPnye/O+OEdb4q0q1CCPSC8JVXl/S5JnDnIlKzCcRs2gIIkDXCgVqYA9FQ;OWjghOqdYbmvIfRGZWQDew=="

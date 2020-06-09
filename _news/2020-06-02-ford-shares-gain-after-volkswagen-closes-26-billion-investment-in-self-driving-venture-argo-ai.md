@@ -23,6 +23,7 @@ images:
   - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
     width: 720
     height: 406
+    isCached: true
     title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
 
 related:

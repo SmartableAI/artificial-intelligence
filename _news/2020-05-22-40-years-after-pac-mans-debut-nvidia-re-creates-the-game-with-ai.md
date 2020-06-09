@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/QaJbB_p4BbX6bckLGeXQ5SQrUyk=/0x0:2896x2088/1400x933/filters:focal(2051x1626:2513x2088):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66831239/162915406.jpg.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "40 years after Pac-Man’s debut, Nvidia re-creates the game with AI"
 
 related:

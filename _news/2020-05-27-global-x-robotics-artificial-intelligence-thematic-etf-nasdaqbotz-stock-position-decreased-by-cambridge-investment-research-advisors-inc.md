@@ -23,6 +23,7 @@ images:
   - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
     width: 450
     height: 323
+    isCached: true
     title: "Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) Stock Position Decreased by Cambridge Investment Research Advisors Inc."
 
 related:

@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024"
     width: 1024
     height: 716
+    isCached: true
     title: "FortressIQ snags $30M Series B to streamline processes with AI-fueled data"
 
 secured: "fizLrWuZRsqoSJRSr5VW89TaZgZTjti+9JwbvwsI85DKD7Qe/8BaHWMmkXhE1onb5/c3my4j01MfmM8EgPZZKbvYXIedBWflNtiKtv0dd/0wFVuVTtKVe07YHFTe2uwQd3CjaZkG2icOam/UCPajGYI0uD8S929Rru9BOmlCQUl+X/yYULk7KJKRSCip3cBk9BMaKZTQ6yw4d8R8VQHcfDK7AnCxVFCCexITYJ2/X9f9pfd0bqlbyTZiRtcrfmOYd5GtKzjXUn2oS9+WYz6M4kEXNjXpvOPQTvXEfVcmuaYeDCEk4dKcR4BtvFtEeDGO;b50KPk6z0paZYYPcynWgaA=="

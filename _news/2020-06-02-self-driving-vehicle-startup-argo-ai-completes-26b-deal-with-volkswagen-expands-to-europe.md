@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024"
     width: 1024
     height: 683
+    isCached: true
     title: "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe"
 
 related:

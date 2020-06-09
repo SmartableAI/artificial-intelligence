@@ -23,6 +23,7 @@ images:
   - url: "https://imagevars.gulfnews.com/2020/05/25/NAT-200525-Robot-Fleet-1590395688773_1724af85747_large.jpg"
     width: 750
     height: 563
+    isCached: true
     title: "UAE-firm launches robot fleet to combat coronavirus"
 
 secured: "sapxEZK4p0wy8XHXneVWzt9Bup04xmiinoKSZYPlkcqFpuU3jMsNheddaoHYOzSss8W69qmqASP7Yr9s/PrI/hq5L6KEwq15+UOhlp9vO5rxeSYfeC+QB66U5qZrKIzJC7czoUHNKkDsrkWCYYLy8f68eJQE9VY8Im8EzwalZxsLaaE6EofOxL1rjIdJ5x4o9A2HIWgNahATi4wX2tgFIIDD4Gew24D08vt+B+fO6pvCSOvnSbB6L6ZP5/EHgexWjqvI61u4w6vDIkaHr/Mkdco+ftZAo9g0pXB+qomOcJx72RCOzCrHTH168/bBZa3U;YmY5I5Mh9cUq+wPqWmVyvA=="

@@ -20,6 +20,7 @@ images:
   - url: "https://images.khaleejtimes.com/storyimage/KT/20200511/ARTICLE/200519860/AR/0/AR-200519860.jpg&NCS_modified=20200510224958&exif=.jpg"
     width: 1200
     height: 780
+    isCached: true
     title: "MBZUAI appoints AI scientist Shao as Executive Vice President and Provost"
 
 secured: "esDrAQnZmBPee8Tz9VMiSKoChMuZcueqzaMLMeuP2l5SWQRH7JSUmmw6k1zNfdOG4p3cTXpnuNWCoLXLifaODHlqeEnVW7ybqjCjxzpGleDx+JqRznqMZDRlVS6arcB3ghYn9upak4ynk8EGkD1nAzhOSa/cI8I0OLsamAgvQ9DAOXhtmWDz587E+sRTpTZ1reE5ydrDmA+a7dAiI2V9jzGs3LzIIMzZrt3WKJtyQnOyvayziY710Mu61OB1heYIsXZJMBATJ0R60Au6Ha6FgIquFE3Em5Qnq33NgGRt+/ZSxI7pCy59R/oarBu8w89U;UoHkfSfLcermIQaimxCI4A=="

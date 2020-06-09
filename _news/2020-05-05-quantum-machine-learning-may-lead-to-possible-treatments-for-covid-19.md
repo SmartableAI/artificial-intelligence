@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Quantum machine learning may lead to possible treatments for COVID-19"
 
 secured: "Lr8T/X8g8JlggenIGBXdKHOkNH4VAGhNnb0BX3QHk68nQ3cnxfXNMeNY2Sq+q2Qq3bkmza2QfajVjzFQEdQBSlHG4G05MnjhVa483Uq2Rr6PJ59dKkGthag46JOvtB7/+02Z5vH+eCnfzvmw5Fj+6VkdpZpwAbvehbEsck/V5tIPFpW2LuVb3YvQrKc/2OlmBq1dW8hUpu/kMb8y9iLEc85Op3Xjyyrnfkstc4PxTsdIJUm1B9SwUigqlk8TOQiXvpqeLseT0CuzVnxchJPKufIV8jWQLwFjgdFEYeBhzIZf2R3Ui8Z9u6BSzRD+V8YY;Eh2OTu404r3glJBgCY7F8g=="

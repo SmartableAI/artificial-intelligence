@@ -25,6 +25,7 @@ images:
   - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cyber Daily: Privacy Activists Aren’t Happy With California Bill to Regulate Facial Recognition Tech"
 
 secured: "ied9jYWtJSq24xSbxdQ492R8G7VAwp8MHxBWRpokxCzfdWUJAD3/toHW5aSZuVhLPT6r1GGbml4L4RldNcgYIArKaI3UfYjFX2vonW78JOUb6muRZdyU3GMPzmIknk4tadnROuxRabx2fShLv99p1mtT9kYVYQKenM9suWqvhzO486Yrz406RjOrYEpEOaPpQ7B6NCwuW5MSUwh7v4MA9N8mcNkMF/b3V75Nyp/OaTnQ1We9JMWdomgpNX/2dC/yAv5l+bQTGMM61iSq33bM1sz3FUG2p/71XFA3WaY5gSUCwtQRV0WnJsM/Sy5F+FZA;MifMIEI5SNAlijX/9aZthw=="

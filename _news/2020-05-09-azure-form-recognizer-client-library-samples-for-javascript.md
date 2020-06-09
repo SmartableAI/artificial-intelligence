@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Azure Form Recognizer client library samples for JavaScript"
 
 secured: "KmqMhyPQwWlDUQBA/tHMde6K7MYkeg5uLzTULFzSV6TTu3xgezBUuDisqyRXzcJrzjy/h3TQVHqGwQnL9g4Z0426ftgrKFYXXjPm6kZfGmWf61yXo+T6Hy1Rt2uDGSphOI1TzHLQgUlXjTLqCS5rCRNwOppDsCOltpK/JzKsUwZYqDKTGXGInpTdSMfCbf8pLkxa2ruNNHNnl2jMz4e62lKmaM5uoFpD9Y1/zG65jjUhl8ZJFmWjYL3pybtzK5cU0GgooFrZuhwhd8LpeeaLxXjZ2ZwbNzJ7bgSs1s4h7L/6+VMius06W5YK2QvNgHwX;BhYOJ0AQB7XduMSQf3FD4w=="

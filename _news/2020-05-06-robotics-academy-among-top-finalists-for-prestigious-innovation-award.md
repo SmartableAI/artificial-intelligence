@@ -21,6 +21,7 @@ images:
   - url: "https://news.fiu.edu/2020/_assets/arcimage.jpg"
     width: 745
     height: 486
+    isCached: true
     title: "Robotics Academy among top finalists for prestigious innovation award"
 
 related:

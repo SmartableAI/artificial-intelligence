@@ -23,6 +23,7 @@ images:
   - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NYSE&Symbol=CHCT"
     width: 650
     height: 350
+    isCached: true
     title: "First Allied Advisory Services Inc. Has $232,000 Stake in Community Healthcare Trust Inc (NYSE:CHCT)"
 
 related:

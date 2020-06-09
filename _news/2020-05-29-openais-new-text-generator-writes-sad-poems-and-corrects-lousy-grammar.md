@@ -27,6 +27,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-58-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "OpenAI’s new text generator writes sad poems and corrects lousy grammar"
 
 secured: "u36D1ZRJwN0z6Eqv6Sp5rZ3gcnneE1Nc2zbDmlTk1gRNL6h+YAWZeNXm3zPivrmcIRX/kuygylugecGPCydS6oKp5YR10lubi5YMYZhynai3UAZlSML8AcbKd9cGXD4eSihz5F1eLZ5sAQNQVhLyySwwNVPhui2mwUls+HCMkQ3lZRdQF/SQQzKnZQmOoLOYEW4a+bokMooJYUGrVG8cCAJy5iQAJDV1XbZVt0lbSq378qaFv99wIpPOSwlWDtUP9GP8TlaVdV4/evI0HkLjXdfX8gfkFshvr3ZRgkFG56L7+65JexdS5HodjPfHczght/u1XuVdwK9M3kFlLc7DYdOtZj//GLuF4XKIcPbvVvo6LP8N9v+B82/W57JoJan+ZnExivErao2JPK8E6NEPQvpyiX1vCYX1BFsNNFE/hBtMUac9nqcQ1Qmh70K7C/mvbukQWIZwiPoPtC4ZMbHrwlwH/OUr9Cee0KxUOn477gc=;7ChgZQzi+fRkGDaqLusvXg=="

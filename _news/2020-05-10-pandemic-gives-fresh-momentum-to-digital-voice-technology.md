@@ -21,6 +21,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/10/voice-activated-digital-assistants-such-as-amazons-alexa.jpg"
     width: 1024
     height: 671
+    isCached: true
     title: "Pandemic Gives Fresh Momentum To Digital Voice Technology"
 
 related:

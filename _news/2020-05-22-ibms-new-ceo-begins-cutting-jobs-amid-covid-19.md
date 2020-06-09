@@ -21,6 +21,7 @@ images:
   - url: "https://media.datacenterdynamics.com/media/images/IBMpilgrimage.2e16d0ba.fill-1200x630.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "IBM's new CEO begins cutting jobs amid Covid-19"
 
 secured: "9Pi/ux5sFQm5FKRpVkhWfXeFmeyOU5IBuO3ZyiLXHSfQmAPCK7M6LWI8W6npWVkWwHXzZKcmSnsHkz84n3qaKp2LUGZGc97zFVKHOlV4hZAITlHdqepeYYExrgi7Yhbi+YDspSCIRnWS9fCX//9S+qYG4D+iA+oVpYdwZP0sAcZMwbsWSYnseoCy1ZsO2So8CmCRNLwu56DsSyxsJC9ZRMUvTj2SV7mDVmnG0PS1V+C62Mv1OyoSTfjE62XzgPRZRk0J0vNSbpxDUIF9BwCKlRFcBc7TOTLW5kgilRJP+6J49Rc4OP+Qwl0Ixqc0Dr3fWwSerTM4YlNauMwZ+QeB6Q+wpMsKlvXOEM9ZkfT2Zi12rqkWHrzA6X96yeC+zcpZVwxQylU1a7xSNlQkVCXuQgz0pG7XdU1BcreSw2Yy61wn0W+7/3dVUtM45ef3541G/FeLWEakZ1QNQutdccvosw6HQEdtANy3mujY2MOwzTE=;yJOexrR64onRjYg9EIuaFQ=="

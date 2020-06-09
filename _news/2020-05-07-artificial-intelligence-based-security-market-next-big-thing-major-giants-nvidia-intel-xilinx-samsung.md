@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence-based Security Market Next Big Thing | Major Giants Nvidia, Intel, Xilinx, Samsung"
 
 secured: "sN7R8ihezfGnj0+gC5a/2HE9yohU4hqiqdjXqgqOPrkkq2bIQp5SReOUDf7kfkjhoBlGLyX7wvm52dx40MeEiPJ3YmlsWDV77ENduMDCT6rqcuRPD3NuI8vVHkUIMjR5iICCgaLA3uR1FZBrfHhjHpdKHfF5yMlCYwA3CeK8jTJgP7Ho2sugXuTIUxzgQ2hJ6EVw3Nw9hgT6hXJRAWFIapNer4fUjYmQiOrJP3+rAq3h5Eu05gSiRfGnBdZFebYZjOlv0P+sLhQnmTFA3b7JaUwR0rVyF16KcebvjRyyIYvl85CV/uAHD9OMKdOSRbMT;sBAqmtLDk+cNWFf4ETp7Gw=="

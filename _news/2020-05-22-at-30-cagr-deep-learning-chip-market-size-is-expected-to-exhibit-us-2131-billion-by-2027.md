@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "At 30% CAGR, Deep Learning Chip Market Size is Expected to Exhibit US$ 21.31 billion by 2027"
 
 related:

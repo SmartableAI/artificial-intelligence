@@ -20,6 +20,7 @@ images:
   - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/artem-beliaikin-N35J0N8ZglQ-unsplash.jpg"
     width: 1920
     height: 1280
+    isCached: true
     title: "How IoT and AI can enable companies to restart their business during Covid-19"
 
 secured: "2LCfJfm1qjGD8Kb8QjLst2jWOaadxGGtrPLIx4lHF+Ts0YXNjPO8fJIQzfjZyF6p12Nq1upVScnZF7WbKsiaayXhfh4nFg2h8erKorgqCnZyZxHG1y6AythnZSwsXtjmh7vj4MNOfVnRKBS+ixvEqm8XUhLO3jT/SN8U2XIHBR5HwQs2G3lhuqB0ZKB8DiaXTwHjzUVFTHF8AY/9jtZBKnGSxEu+sYx5qzUlPvwjQqGOObMO4SDM1AJdJH5yxOGGWTDQxJ7gqC6Gb0MWa8GkTpEaEgoeICAGkpquRtBSrzq3kkbg7qImNe87OjB6F6aB;odxArrmU6E9/kwOwz7WjxA=="

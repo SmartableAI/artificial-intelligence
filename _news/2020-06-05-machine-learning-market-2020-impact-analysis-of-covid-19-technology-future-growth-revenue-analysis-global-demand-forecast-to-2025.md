@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine learning Market 2020, Impact Analysis of COVID-19 Technology, Future Growth, Revenue Analysis, Global Demand Forecast To 2025"
 
 related:
@@ -42,6 +43,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "vLJX5nF+AS7YjwWGd375+uuHmapVjWG1mVUOqaucsRs/8uXBv6b0z0eZmZmfab9Wg6mTdHidNgNvqRjBXBJjlq2+28c5nZTkQ0MVFpMCXgzbGz4V0+Xqp92YkIEwqAtz3Fb6ssf6rN2KIeaxwsUkxnZ7Zt02Tk7hR7h7QKncjJBjBUgEXWa6Csq80JW6MyhZLo+hT+RRPuyhHo6HiIKNr8n9iyEcPgSY90SNOkgGFKFt22vaRhLvXLleHoYk8nl5XOFjJMDHqI0QLS+F+TS2KFC/u/Q/7yHJUANhEjhuDd9EM0HM8qg88Rhrf+JuDsJG;R+qDOL3v5PmMwPcSMmXM5Q=="
 ---

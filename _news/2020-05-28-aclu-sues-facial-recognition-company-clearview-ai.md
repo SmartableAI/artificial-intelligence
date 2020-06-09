@@ -23,6 +23,7 @@ images:
   - url: "https://www.dailydot.com/wp-content/uploads/2020/05/ACLU-Clearview-AI-Lawsuit-Facial-Recognition-scaled.jpg"
     width: 2560
     height: 1280
+    isCached: true
     title: "ACLU sues facial recognition company Clearview AI"
 
 related:

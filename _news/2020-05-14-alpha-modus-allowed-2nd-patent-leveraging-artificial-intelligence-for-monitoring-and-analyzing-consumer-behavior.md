@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Alpha Modus Allowed 2nd Patent Leveraging Artificial Intelligence for Monitoring and Analyzing Consumer Behavior"
 
 secured: "bpQyUbEPGSvyRYqSyHtxjvoUItSrRhjU6WnpGn42UzNFIzo06T1Tr84pFErqAVnK+M5jmexXXDP345kw3e6cTsCW1ZM8q6Vqm8zSfaqkffW1VPVFdKceZpuOlm9yIXMa/5nZoHqJFw0gvZ3cjmHU/jQEn399rKpOPTwalNcJdLoXRKXpZAX/ZomJ266z8vqb9ApRzWeBe9dAmwpEf/HuGyD8QO2ynok3HZFCrIFH9T68fXWD9KKtCR2sAy29aJSgpJzH2+cCjefbYg1q2PzCdNPQjElKHAOo6muy4C8oUML7L+WG7XpUZr8h3vxQOCzQ;+neWXjD7gj6Fxa+lYh7Iww=="

@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/robot-2301646_1280-Computerizer-Pixabay.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Robotic process automation adoption looks strong despite IT spending slowdown"
 
 related:

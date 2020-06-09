@@ -23,6 +23,7 @@ images:
   - url: "https://www.nydailynews.com/resizer/HOOohnVayfl2byjed_nnY8TiwzQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U3V2CT35TRG4VGCPGP33D6VYUU.jpg"
     width: 1200
     height: 808
+    isCached: true
     title: "Uber will verify drivers are wearing masks with facial recognition software"
 
 related:

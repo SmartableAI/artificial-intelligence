@@ -21,6 +21,7 @@ images:
   - url: "https://menafn.com/updates/pr/2020-05/07/SR_cdca53b3-bimage_story.jpg"
     width: 660
     height: 300
+    isCached: true
     title: "India- Facial Recognition Market Size, Demand, Cost Structures, Latest trends, and Forecasts To 2027"
 
 related:

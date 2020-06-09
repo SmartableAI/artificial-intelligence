@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Machine Learning as a Service Market 2017-2024 With Detailed Insights of Key Players, Influence of COVID-19, And Technological Innovations"
 
 secured: "/xhyCopR+mMfVbyaC134IdExs1mvrhk//HhJp+Q+HTP39ael2+ki/8baHWq+OyRYtF0nEEFUfcL0/EYkMl+1BNnf4pPRj+0G7wqDj7B91/1j/9p6vlCarvSQpNLnt+PwrSwEgDJUqYNoO/VnIWa1ifC/9brp1sa0OFaSqrNPqNJn5+beliqeZ/hFfwpfRUY3+17P86Q4cvcNVIk326yblo3miK8SDNLa+7jPngCBmARbZGdUb1hD9qsFEp1skPR3Lw3j8t5j3/FqXN5h8QgQZGtPlMZqgVaeKN7loV8lcsx+DjoisovOKjZiAAJ2EiH4;OOXGFqyHrT4Z0h2ogB77Cg=="

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report"
 
 secured: "CHg5VHJ6jA06oQkRFZhzi6GB7ALJ+q+GQHfAPn90hQ2udmG4sFWe/pnHgkVCL5uF6NXTtgki7p94I1mDQVtl4dJl+uiJHDT8T0kPhmg5mMRlJ9MlvC4v/eUMGxe5gXzTOi9RCBQRyOgwVyLZgCgFQfiFFMUAzIfoh7kHEmpiopERap95tqLSGVjCs+YPfDNUJ0BQohGIU3vyJtHV5DArzbGzrSFxFvdamSr0/9D6feNOXcGDq5I1MAcn5q/6h9LU9ZhRFMcI2VMvCvyu/lF7HEkuYrDlolTER48CmwQykM8PCVLbtxaUQMVvcCkj1Kde;k0sQUAMmVTk8B/U0vCV0ag=="

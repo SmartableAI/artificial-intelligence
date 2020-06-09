@@ -35,6 +35,7 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
         width: 600
         height: 350
+        isCached: true
   - title: "MIT’s tiny artificial brain chip could bring supercomputer smarts to mobile devices"
     excerpt: "Researchers at MIT have published a new paper that describes a new type of artificial brain synapse which offers performance improvements vs. other exiting versions, and which can be combined in volumes of tens of thousands on a chip that’s smaller physically than a single piece of confetti."
     publishedDateTime: 2020-06-08T18:44:00Z
@@ -50,6 +51,7 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
 
 secured: "TCM5Zc6+B6ycKd8E9KvBZ2neGhtkhQ6pXoRuL+oroabDIMI9eZn2KyGMHLZQr5pcqyIZzlnFqLIB8kYUJp3/y20e+zD9ungrSnd/SG9n5eCLOKkJXdwQnlYmlJdbkitYCFrul6bIoLaAmBtoge+Jx8KF3V85b7chHCCBBSiP3n/5C9r4gPqnySCDFeZwOve5i5K1EwtGfHT+T8k2yjahKEUUlEk7dl+gaqlbz4/BMWeHScs78BBAyQX2KpxfeLtTaiSyaXA9bhD2QZ8S7AO8u4mJicVFmY6/jYZo9KSuYjup7WHOyxRx2AoHL3ZQDl+TpKcvHGbBfxzYXFuNXIRXUJF4zJY2dwUWBgki2yyYeFdJ6OH0TakD3Vxs+yTgZTDYANWzNb3Eax25cUd+Tiy5vwzB7NzS9+St3OSErXXVt8v1GowG3e4bgBkuJ5IYQrKuM6LIFuzwFBa1/g+U4Ebd//ngu2VUPBg/9FXpA2UUvAo=;n5XIO3+D0TTHI4XhtbXySA=="
 ---

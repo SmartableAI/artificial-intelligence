@@ -27,6 +27,7 @@ images:
   - url: "https://media.wired.com/photos/5eb1926f0371f8083eb2ceaf/master/pass/265652_V60_R-Design_in_Crystal_White_Pearl.jpg"
     width: 2400
     height: 1600
+    isCached: true
     title: "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car"
 
 related:

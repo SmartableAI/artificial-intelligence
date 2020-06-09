@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb1b5c5ea00bf00063ad5af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3321%26cropY1%3D0%26cropY2%3D1283"
     width: 1199
     height: 463
+    isCached: true
     title: "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?"
 
 secured: "tsk5uZQYa300iJWfIzpkXdY7IZiqDO6k1IrcC6yFjA7koSCYW4UjvT+hy5AcjqSwhH6+gdO/eLB3ML+um3dFOsl7In9SrcGOs9NK4LsWIeKhiAK2jfWbxIbQEJqA8AuMIq4kucfdW0AmEL45rnwfS7ALzjbnKeKdbVzOe2y4j8fGUyqpxnJcxc5bVHxGcnIYrr+EhNrisHWbNAnC9ZU4rz2F62q0KnQj4En0peB3K/bz6lmwRHNI9t0YcJ22M6uIRmQHvPxU97ZvimwR5yWrNWuzXcC1ES3EH+7EaQdibFcjxCLnJEV1PNb9W2Tu7Zl712S0Fc0TkIHR9H/pS75IMRRiUc8e2Y1ZRt2F6ZrP+/qpzamhvFlCuVsfiQ3KnptCgd16twJGPXnw2eILgotgDSgvvriv7WFieOqwRnzfQmyPP+BlUzHCerPiEk0AzGD1Ru0zk/vBdigJP2JA2Xezacb1e+QrDtmSpRzfSqQwNeo=;s9/jeDP+r7MI9G45E5LD0Q=="

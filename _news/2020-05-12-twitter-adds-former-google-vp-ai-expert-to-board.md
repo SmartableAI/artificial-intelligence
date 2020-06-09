@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F931524864%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2234%26cropY1%3D207%26cropY2%3D1463"
     width: 1200
     height: 675
+    isCached: true
     title: "Twitter Adds Former Google VP, AI Expert To Board"
 
 related:

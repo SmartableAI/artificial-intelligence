@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200604005343/en/532501/23/NICE-LOGO-300px-web.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "NICE Actimize to Acquire Guardian Analytics, Expanding AI Cloud Solutions for Financial Crime Risk Management Across All Market Segments"
 
 secured: "7KK20bdk5e33QjIUZWR8kbKzQnWTGbW73N2DMlNyofbleuEmnPCVekBSkFpWwARVx8y2ZI50GfOr7DOs4LdS93XXa/hgjVek6KdC0G5Ibt2+fqj7MtDEG20HslJQWtv50j8AWu3NfA+tTqL25Z6HMp2w1IWb9h9qeRRDsulRhbAysbn83evBYFbpRI7vwggkRpDDoOu6CKcpp0hcGw2X4+Q2H2G1gkyUaUvxl3hjtwaafYnevr5RHrIbkA72daXMGna/fDpP0kIK74i4Qc0kT6onlIUtMQaq59+AYqVFh507GyVMBJY6PA+fMueN4Zmq;bwCxevtYV1NaY2FfZMqG+g=="

@@ -21,6 +21,7 @@ images:
   - url: "https://www.accesswire.com/users/newswire/images/587824/593b1d1d-36a3-4808-a0a8-71b91edf360b.png"
     width: 1568
     height: 915
+    isCached: true
     title: "VantagePoint Software: Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?"
 
 related:

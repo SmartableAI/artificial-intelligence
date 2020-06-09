@@ -29,6 +29,7 @@ images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg"
     width: 400
     height: 450
+    isCached: true
     title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
 
 secured: "OfDnc1irLGVMV8A4kAM1hyyxUmwybaImE4LSG5n8lMI+DEJhupQ/WGE/RAw74e6OWOK/mzIOI4ogMTIJRVdfiLAEii8fuO66817ISGWTvpeNWuFWP/YdX6eQ81uGlvj5VyYBhMgMAUQ4aYZFXwj+NpyoVMDxl9i2pwEbWTZDALCaqkmF0M4tLAqlFSQjEVn+waa6thdTwQEDBUqoyPHaIg/XlPfLNBXv5S5kXwbVGAaFEfJpBsTCFNkxvb71Phvo86RCJWw1edUweVtdfuqmd+KPbkTxC+UxDmK1Pj5LcjD02Fm2Aam1QGU+8qjcSFrTk3+aPQqsDLTL7Dl97hhDnjxPRHv+ztfyf1tvijlwp93pjdZj0rzvA6j4zITnL8plyVu5Nw8pOnPQjs5DLQ+e4vMAP46hHRoBA1H4Q9DDlvyfs+iodz69Qqaw4Myl7J5YkpPTAsF8NGmsrSr8J+hF/mogN+gOPve6Snj+5rTRogg=;gviqo3LTVVmb0jTlMkFjfw=="

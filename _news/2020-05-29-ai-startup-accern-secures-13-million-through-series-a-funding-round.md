@@ -23,6 +23,7 @@ images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/Money-US-Dollars-100-Benjamin-2-600x450.jpg"
     width: 600
     height: 450
+    isCached: true
     title: "AI Startup Accern Secures $13 Million Through Series A Funding Round"
 
 secured: "dvDQyDnkovjI4c1vMBiDU30glgBTnD00ZyaLrIrnoPF/+X8dMRqK6oHY9hogpZ2i0fJatK7NrBB9Tlkyf3F8rGHhfwYiRW3qCUaqS56KkzTHmoSBnV67O+1AhizOf5J3ucoKP5OXmlgM4Hrtp/5c8ChZtnB5zR+eep+NqE2IQf64tRI68oMJQpBlYIDPR6hm9z1tpVYhaU0tXdVWRQCxiT7v/4QxT9mBiijgfGz/gBE2RSiqoGKRzqLWmaqrwCnVrkZ2KXnNgc9U4S7qWqQgdmNFaEXqqk+P1EHzyCc7RAlXVgQsE5XsYG2P7V/BDjsNiTbvSDVIhtitwGVDMlFzs19n1Chbt/+yjlZXAM/tc3fWhB3dQGa5oSpOhIerLXtnXXGsy/+fGC3tetgtD91Esd6OY5ZysuQPFquFLT4ilEDm2aRSq6ZHr+KAlTzYHBCZME9bexY2xi7KvrEuj2X2qiRvqk3ofc9GJCs88e6jYxQ=;UPFuZbDgNEmKL8bJG9CyuQ=="

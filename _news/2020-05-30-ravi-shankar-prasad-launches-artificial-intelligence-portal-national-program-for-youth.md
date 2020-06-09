@@ -20,6 +20,7 @@ images:
   - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/c4lvgughfswgw2lm_1590857581.jpeg?tr=f-jpeg"
     width: 1242
     height: 711
+    isCached: true
     title: "Ravi Shankar Prasad Launches Artificial Intelligence Portal & National Program For Youth"
 
 related:

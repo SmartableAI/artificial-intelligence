@@ -18,6 +18,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "AWS Uses Machine Learning to Create New Soccer Statistics"
 
 secured: "YG41YQkm4RSyGgpt8YQk5Xfr19mU8uhMnNg+E46VfMuUSUQYjXpCCz2X5BH+2vSQvIY9Kk3UxgvxvFC2SBCKW3+cc944VqrlMc0pI/KaZ8zpG9Fvaa4K98h6p8IIyf6uRinwHIk2kkm+Qnxf0CCc6gZ+rWqRk11NtU/oy2xAPFNOqbqGlEr4AoyD7C74Jmt0lCxwVNj28WubYp+CkUvTW+jsWNziMUgIuBFg3AwHTv0gTDnfg0RA+7Rw+gM/WJoRC98/y1FzS9PvJUm/mrIXl6QRgAeLdUS15cR6r/l3mTzYavGl25kohpJEySWcasxm;JN3dY0iwFcSKEZMW2g38ig=="

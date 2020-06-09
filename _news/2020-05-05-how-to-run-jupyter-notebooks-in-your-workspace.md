@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "How to run Jupyter Notebooks in your workspace"
 
 secured: "VOmiLR7eASNa4QoeRN0G3xm0SMxrYDyny36OspCcQes3KGpPokGU9lzKKpBCH67Q5bqHb9vciZlo5zmedAGHm4MfUhax00Yq3qrFXmaXtMBag2z0gaJTrnrS8WwG+We+VrFT3zKlyTNsOzfQyD6gISUtMhLX1NgjusD8tnawS0B2azsCSgkSos1wNBgYFHmLxn9XR8gyoYlFWQMGkD3ReNzQkLnPiyj50J9hElyyXtHySIm18vItKi5mjbhiEN4EDLHMGLo0gOiswk1foOd/w2h9u0xUMB/XcELs4VWL8T7GfGoLcTiPJKErobo3fAo6;qvMrdwbIWZdb7t1d80kF5A=="

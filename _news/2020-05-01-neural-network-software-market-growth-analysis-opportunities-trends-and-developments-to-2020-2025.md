@@ -22,6 +22,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Neural Network Software Market Growth Analysis, Opportunities, Trends and Developments to (2020-2025)"
 
 secured: "NohAFOq9QfPRcH57Uzme5h82TZSKmHooNccZw/iuNcKLfdyZyyTRyP3Gw3+uIL7EImz8C+BJS44K1YFo8loJ6JsYR3lyHSd0B3XkF2Qowu5Le46QAlBBRAwghYyQmd3iQXJMenk8PCEHY77wIew67PXj5QDT5QZBYBW9xXA7lMWfp17UC9EWxDhWiW3nMp7GqGs/FmyEIBF81A0uyBmyULnLMqlAMr2jM41XkvPrGsjW7OTPIyEmKpTwMTcQkTRzDPzGc2QlNa7o20YP5GQYe9Vz3G+QaGBWbYXkaUfbM6jyPAUk4JafqJgdchqkLolV;UTb4Lvrd/kA2hUmqhAJOVA=="

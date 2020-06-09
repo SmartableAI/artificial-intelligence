@@ -20,6 +20,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/DbFUpRqyVsAAX7TLoL3287-1200-80.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Artificial intelligence creates their own comics after being taught Osamu Tezuka's works"
 
 secured: "oyJsOkr8b5ktYrlNbyoUUz+o494o/CR4A2Lj7mAN65rsyZI4QChWM/QDsANVdhVkpSt+2I58Pn064SFoOdzfFKiGiPvDrp6BFBQQ3P4cBYWRku0/TFNSslVumf3OroFcbBiwtF82wMxPYST6Gm5x8yAX2L6IeYJ8zHpS9UnC7WcwErKQR4/BDer5KCMEpW+wGqALkx4yzzBgzGqXDztcXkBOKdX/OBL94KkW1dOyMMz3HcggNqD0MgWbyPQUuNkYFTyOmIdcubOkGigyllWujzXJ9rkxny0aanVb8QlHvOR3O8HfB9Mj6v4tu2bWi41OMV+SO0BbF3O2mDr6MFmwrMIYDxlISXcn7wqfRlTPyUHC2+wIIjvYbXIQMYV9zJdhD+sO+K47j/f6c6njVyrs3hpfEGEM8VF7oTTMYqnTQTneI31J5882zvI30qseWDF2TXKniXbTyMM7CvWjXz3LAfrnxmgB9DkSw74+/UWR1io=;q0tPd1Ql+ecIw/FZZR6Gaw=="

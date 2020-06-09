@@ -26,6 +26,7 @@ images:
   - url: "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1"
     width: 480
     height: 360
+    isCached: true
     title: "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI"
 
 related:

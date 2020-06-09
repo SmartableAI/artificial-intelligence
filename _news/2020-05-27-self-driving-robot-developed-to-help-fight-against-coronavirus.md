@@ -21,6 +21,7 @@ images:
   - url: "https://www.independent.ie/videos/c1c5a/39238480.ece/AUTOCROP/w1240h700/3750593-1590592036274014.jpg"
     width: 1240
     height: 700
+    isCached: true
     title: "Self-driving robot developed to help fight against coronavirus"
 
 secured: "0diqoHZk+C89Ik01WDOLpwT0ItxWPquLaRaLrIYfC7V4MQkP3TgzMze79ZTpao32QhX07wEw/yISckBdzyYbmUscvSVBgmcKV1R8cEoGwcSYbKllU1niHMW5MOkeebn3zKWkBJNSFOptidaNJtE5R7Ka9NNUHNgAGncBlESIhosNt8fuxthnfwlVobovaxGjruBkjp5pn6szeutXnmo/My960Cx+78qZVQ2IDQlkIE4C+2zMHPx+dtHmoEthwGzQqxYyf1z/88S9yuYDBE5TENlaNRnni2AEoS7THMkNu/Cr02vXay3dCNQ4M6KYGEsH;jNv9nPCCtCUKdkZRUDF2HA=="

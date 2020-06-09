@@ -21,6 +21,7 @@ images:
   - url: "https://d1hfln2sfez66z.cloudfront.net/05-12-2020/t_dad6caeac53e4991a86925f8851bbfbd_name_15A83341FD61468885426C48BED1DBE7.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Memphis woman receives national recognition on talk show"
 
 secured: "AcThIKYNfsDLcGqkZErk0WPczmTSoK+dPyWqz73bsfsYu5tVW/48xLVvRPD6YEZ8NvptS+jCYnIGp+TOYJoX2HW5o0gNP4pmNbS3+mH3csjXoe/I4/48XD3GI/coz0dromdXPw02uYdLN7j6DnUw4ouIAwNUGD6fE52Xp+5FGk2vzWHdGsmEgXyemNnW58eUBXBeO8IhBqWS8EZE5cvYuK/wYb9l7gBERLXUiTuGrnXsAwXv6V5RtpnqSHgoAirL994arqKvQCs/quIFpf9Hu2S9jvM9PzQ3WrwGyUnXhd2epJNu8n5avGg3N7NB1327;Ju5bGHLvFyr0E2bqPCl0wg=="

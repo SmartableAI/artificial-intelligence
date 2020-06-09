@@ -23,6 +23,7 @@ images:
   - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/05/musk_pesenti.jpg&quality=70&width=808"
     width: 808
     height: 424
+    isCached: true
     title: "Elon Musk Has No Idea What He’s Talking About, Says Facebook’s Head Of AI Jerome Pesenti"
 
 related:

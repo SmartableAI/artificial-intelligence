@@ -26,6 +26,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg"
     width: 2560
     height: 1705
+    isCached: true
     title: "US Air Force to test autonomous AI fighter against a human next year"
 
 related:
@@ -42,6 +43,7 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/1923f73d-8647-4672-b56f-11ff356874e5.jpg?height=1200&t=1591298431&width=635"
         width: 300
         height: 400
+        isCached: true
 
 secured: "VjJWh05s4EdINmur823LvFtrOYsau0Wz0kEwoc0KDIFEQ47mDhs2fuaRysSPeZkzv0X6p9sls9pxCj3T9isJYYx/5bfyedKvHLxDz/yBMxtrfLvGHuU7Q9A5dB4oc8Y4T/MFiOrOT4+mmuEy7D+F7CBmsJ3cdL6rraVI+IW2xueEJN5MSI+NaxV4GxUeP0SsH7vrMvjz95D7fOx/B9DIMwxzh4oBC7dNGeITuPMB3Qeo4Lv8BWNbjk+oXd//6tvNmSDYaWTn7bQ8+F/uEeWSMoCsJNU+kD6eF9LSCoxnwdY0H5yWOZc992Zt3TnGaDSEX7IUTOb+EKXvRSwEP9+XLdI18IpmAZDRgxiwdvqGn1ezFX0/xeAEvdJHPNatxLdRrgEZ6EBbAZ1LjiDtyHCSkgds7eOdp+I3QjoD/ozOVjzsc65KJx9aB5THSsQsLVCySRvD/TsdlzPcq6GWVnbrRtZt8TxBzX5V2SJ/0WruBrA=;43G5Tfjn70KT2f4FdRi4cQ=="
 ---

@@ -21,6 +21,7 @@ images:
   - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
     width: 600
     height: 600
+    isCached: true
     title: "Reveal the invisible: using machine learning to transform the mobile user experience"
 
 secured: "hR8ernU98X0gywc4GYg3Dq2ZilopmBeu//5thhRr/wq7TaUHH8AOk93GuZFumwTw3UtGAQzzLzDV1eb7LHEJ0M2qDvPID+KSFUErxslgKTbf4Ks6Lr0WjSnGzF67JdW023fZp1ZVtKmoxSo0ag3rD5BpdwK0q3MCCVt90QtwztNcw7qu3FIOOIp/3orZAN8RWIRcvI5p4FBsiVk9t5jOeAjzXcFGrVHEzAWsiQB0zBS9hv3dx+kiv2Q9x07uwOgFXZgyQzbSb40uvqzZUYMZQHn8JFw3OFG6V1wB8ugS0FAa9Kz2DKnOpaNmA+rNG0GE;CIUZ7ZsOw/yp0UZAukPi/A=="

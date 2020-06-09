@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17eb35e2c7400068b0804%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D441%26cropY2%3D5328"
     width: 1199
     height: 677
+    isCached: true
     title: "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation"
 
 related:

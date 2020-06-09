@@ -23,6 +23,7 @@ images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/6/w600X390/Raveena_Ravi.jpg"
     width: 600
     height: 390
+    isCached: true
     title: "Dubbing as a craft deserves more recognition: Raveena Ravi"
 
 secured: "GGQtKv6jSoh6lEe52OxnXQB1/O23iI4eI5FVLkT46uB31SdD8gKufrlCGbO0Z1fJaz5DiFNUibN/6/d1JPYnEpWUDltLlPyTMiC4pfPA0pDej0G7+bZHy/FegJoUZKwE+LeVpszg1uuH9zn/H/dcVfbZwW/s2GlP7maZ7+JMFKs4qN6oYOVliqMoSDbdRUKmyODc591ji0UgnmL4fTbxnssDsV6VKC9FVgxGAX5FKSX21OniF/sjmmvA6oq+1VzZGlWrpXkaQgtAZrYs9PqXf2EmIYfxV6ZUlOosa1f4hjDuWN8TD4GwhLWKYIMsDC97SQLtRj0nq8HEy6hnmIdBcLzc6pLlizeWFVl4WhIQNCRbMWsFg2LaJ/3ZDeqttvSJOeOdSkljjW66dAyohFlaHDeo98DQnTS1QHo/F8KsauYF9zIOBvi1qv0IeGrj+12mTcnaJxJFcbc2NWArXz2wg9pA0k+UQSsB//ugrX4YaI4=;/At2aDe3FoTbsewcYcOUIQ=="

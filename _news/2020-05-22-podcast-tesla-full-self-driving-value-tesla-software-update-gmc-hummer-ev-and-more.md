@@ -27,6 +27,7 @@ images:
   - url: "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000"
     width: 1000
     height: 562
+    isCached: true
     title: "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more"
 
 secured: "NNMyTBccGF39Bv+IWkKUjhgZwntSQ6crX1NrdrRIQv52Gljl4i26CCo8g6ux+VZqcQ5u01zHPSGpTvGODUT0R8eENEcwSiSxY9oGKqofZ9TItE9GJWXnII69iYXKj87Oy2NFsFaVHbbOhz/jg3PsdW3DDi14EZUSNqVC69wcJp1aVkqjRlOfBf25sRJvxM6XA6AgeH0g2/zktEEui2hb2D85ELTkPI87J7nMeiePueY1U61QKuWJwl3qIr+w2yJ8wuLmKzBm/XiTQ4ARUJrBp5uFobEPVNR9601cwhjEle1RAxNamFtRCI5G8NxUlTpfFkQbc1uu+cJCA36mFYUXHDTOOo58DeADr5J6EFKOn6DKQHjAvHH4HnoRECaKWqZWPxYg3lFO3nIGhe0itpfjjcIMSMIW98QgKZEQ6WLqEhP+HVP6OlAby8cyUr+1u+ekG+MmMWo/TxHyVuEy+Nyv2haBZNj6QFJ5TNfo12tYcL8=;66FiqcJCoDvPuvyL93qBLw=="

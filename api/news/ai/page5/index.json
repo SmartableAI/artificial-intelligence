@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
+      "title": "Is Your Sales Team Ready For AI?",
+      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "publishedDateTime": "2020-06-02T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Your Sales Team Ready For AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
       "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
       "excerpt": "It’s said to support 10 languages, including English, Japanese, Korean and Spanish. The company also says it supports 12 Chinese dialects, including Cantonese. It also looks nothing like a pen, though older people tell me it actually resembles something called a cassette tape.",
@@ -22,7 +68,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +81,8 @@
           "width": 1200,
           "height": 630,
           "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +115,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +128,8 @@
           "width": 1200,
           "height": 630,
           "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -112,7 +162,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -124,7 +175,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -157,7 +209,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -169,7 +222,8 @@
           "width": 1200,
           "height": 900,
           "title": "Argo.ai closes $2.6bn Volkswagen investment in European, US push - with help from Ford",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -201,7 +255,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -213,7 +268,8 @@
           "width": 1200,
           "height": 800,
           "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -250,7 +306,8 @@
           "width": 1200,
           "height": 630,
           "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -287,7 +344,8 @@
           "width": 375,
           "height": 375,
           "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -320,7 +378,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -332,7 +391,8 @@
           "width": 796,
           "height": 417,
           "title": "All you need to know about symbolic artificial intelligence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -365,7 +425,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -377,7 +438,8 @@
           "width": 1024,
           "height": 683,
           "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -410,7 +472,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -422,7 +485,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -455,7 +519,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -467,7 +532,8 @@
           "width": 1200,
           "height": 630,
           "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -500,7 +566,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -512,7 +579,8 @@
           "width": 1200,
           "height": 630,
           "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -574,7 +642,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -586,7 +655,8 @@
           "width": 600,
           "height": 338,
           "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -619,7 +689,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -631,7 +702,8 @@
           "width": 1200,
           "height": 630,
           "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -663,7 +735,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -675,7 +748,8 @@
           "width": 1200,
           "height": 675,
           "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -709,7 +783,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -721,7 +796,8 @@
           "width": 796,
           "height": 402,
           "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -753,7 +829,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -765,7 +842,8 @@
           "width": 1200,
           "height": 600,
           "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -797,7 +875,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -834,7 +913,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -846,7 +926,8 @@
           "width": 1200,
           "height": 900,
           "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -879,7 +960,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -891,7 +973,8 @@
           "width": 1200,
           "height": 600,
           "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -923,7 +1006,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +1019,8 @@
           "width": 1024,
           "height": 512,
           "title": "Alexa uses Amazon Translate to reach more international customers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1053,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -980,7 +1066,8 @@
           "width": 800,
           "height": 400,
           "title": "Amazon Textract is now SOC and ISO compliant",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1013,7 +1100,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1025,7 +1113,8 @@
           "width": 1200,
           "height": 900,
           "title": "Aruba releases AI-powered tools for the new way of work",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1057,7 +1146,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1069,7 +1159,8 @@
           "width": 1200,
           "height": 720,
           "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1103,7 +1194,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1115,7 +1207,8 @@
           "width": 500,
           "height": 415,
           "title": "Creating a music genre model with your own data in AWS DeepComposer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1148,7 +1241,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1160,7 +1254,8 @@
           "width": 1200,
           "height": 590,
           "title": "AI News Index: Replacing Workers Or Creating Jobs?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1192,7 +1287,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1204,7 +1300,8 @@
           "width": 600,
           "height": 300,
           "title": "Balancing Privacy Concerns Around Facial Recognition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1242,44 +1339,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-aws-facial-recognition-tool-incorrectly-matches-over-100-politicians-with-criminals.md",
-      "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-      "excerpt": "Amazon facial recognition tool Rekognition incorrectly matched over 100 UK and US politicians with police mugshots, tests found. re",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
-      "ampWebUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool/amp/",
-      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-facial-recognition-tool/amp/",
-      "publishedDateTime": "2020-06-01T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -22,6 +22,7 @@ images:
   - url: "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1-1000x600.jpg"
     width: 1000
     height: 600
+    isCached: true
     title: "AI and Machine Learning give Cloud new power"
 
 secured: "+R6vGmlg72nHYxUSGLxBYvmtdQjYdGcMurw0HUlWgqrj5l7C/WOuFH7R6Bs4id2wPh41zaLxaJfirSKmhehFwxzB9rwXaMtdsHl5LhmLjwECrKt85B+F6pCmR/uCjMSfkZHt2++/J5DLwAH5GN3zJbo6Z195FsnVLCBBhKmhlBczeCMuCpv8B5iN2RTI+yacb15upTQveYIeVxxebrIe8WDdDLQjDtHXz2A9h/tpT+TIWbLfcJ7kV5A6ikN/O2+/ZAwT8ivpbGzi1Z/OrPyT1ZP9FxDDb8s7O2rWdAeUwlGtL3RgEpOkNKYwhuwP6HPf;58AykwqMR3m1fJLPjagFXQ=="

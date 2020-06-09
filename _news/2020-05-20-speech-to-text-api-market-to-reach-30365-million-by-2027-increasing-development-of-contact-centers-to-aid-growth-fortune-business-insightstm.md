@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Speech-to-Text API Market to Reach $3,036.5 Million by 2027; Increasing Development of Contact Centers to Aid Growth: Fortune Business Insights(TM)"
 
 related:

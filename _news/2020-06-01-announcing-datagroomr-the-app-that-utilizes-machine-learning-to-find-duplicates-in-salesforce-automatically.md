@@ -21,6 +21,7 @@ images:
   - url: "https://mma.prnewswire.com/media/1174642/1DataGroomr.jpg?p=facebook"
     width: 600
     height: 315
+    isCached: true
     title: "Announcing DataGroomr, the App that Utilizes Machine Learning to Find Duplicates in Salesforce Automatically"
 
 secured: "d9kxZkcV325YO23DM4c2AzUFVDljteOBwtz+j6h/G4xgkMJXdEMggqte9Yi3Ov6wzE4bfVddTKC6nRoM/JcCV4KXqPzw3xFD9+Do+H8yrR3jKL6s5vvZ+eY4KME1z8Ju8R6ALS0cmfQdbccRkejGinGCmrY/LneNrwKwr21RvAlCEW11EIXWlKByNGWOG+ns17SSKN3/VkAjxQdUdn09cXHYHiAblTTwzvYol0vflrCA+4HFRz3GJhdV0u/qSid/SrvORMayxHt2KL/jvvf7v8HhwD0O5cc2Y+kfKH3GFxPPsKLLyMPddxA+WNqkYB8ReVB8dB9qx6e2LGsomw7SmdiKfXvw3KvWC3e+AZYVCUaZ4095pIGwcY6XEVgJejR8l+5Grx1vxkoMjEqtbynoBZyl3vHP+4Z0iBLh1prXweoLPImXbTxR5hvW482N4rDFJ2el4yihUp1iedjsYcCpJm2xcEFnJVWlYFPEMx787EM=;CyPdbn+R0dN4cQkKDbamfw=="

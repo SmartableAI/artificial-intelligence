@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg"
     width: 630
     height: 428
+    isCached: true
     title: "How Amazon’s Alexa voice assistant is changing its tone during the pandemic"
 
 secured: "5lrB8Bq07VOyEWqfYUxTpVC5eGDGxIpqZyfGOpJf1cgO2YzZIo6NOdOvD2Wx8NwPysnfk7t6OoK8QKr+eKMQ6iwaYlrGa4ujCc/+9DrG6r7Uma2y/522Z1L99PKCiyfLgBU6BdFzSM8jvixALOcRDVdVZXkGwM9g1toi4DaIkG5N+tCOcNWA7054cQohQeJmzSeWik4izVlA05ZhcXFix09qqWi8/W+kndAuIVmIgRrsTs4T4SBKKdevLfI9IiPfk1ea4Zyjg0jZueT+DgL1BjbxIum4ag/kydKysyNTXzYl4QFmt7lfFMKwnwi+rgtOFgfenJBzoQSxtkJjW9tDSiSKoRCXTuHHqD/X84FGyVptLrpbUK+t6oJYaHCbC/lWYoK07bkNumVOFvyx0fXFftR/6UjVhH7146IVm6b6wy0lP+ww8NNCNLe/djGKJXDGNtnObLcaPLhQlwlrAFzNY5+OlTT33qrxOr9df5ks0xE=;KmriqmdJ0WFwD0X4U5o0TQ=="

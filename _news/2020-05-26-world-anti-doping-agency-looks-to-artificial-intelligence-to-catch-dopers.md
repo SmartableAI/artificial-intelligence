@@ -22,6 +22,7 @@ images:
   - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
+    isCached: true
     title: "World Anti-Doping Agency looks to artificial intelligence to catch dopers"
 
 related:

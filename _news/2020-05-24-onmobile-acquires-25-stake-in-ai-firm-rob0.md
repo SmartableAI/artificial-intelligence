@@ -20,6 +20,7 @@ images:
   - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "OnMobile acquires 25% stake in AI firm rob0"
 
 related:

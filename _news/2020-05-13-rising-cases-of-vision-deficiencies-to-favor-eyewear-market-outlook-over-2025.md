@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Rising cases of vision deficiencies to favor eyewear market outlook over 2025"
 
 secured: "qigPana485RpjRHdHBU677ZDFTyFgGzo7Q+ss4lF2rkRhGwmjFgxjJXbS0uj1bINz/PYVcXpFKME0bDUJomtzNwf0LOUTjCoPKIohcugluqTO813zFAupB8yKWZTO5zhowpALcHak6daTJAV+7Z5lzqrLnJ2TGCQ+zxQHwxBdRooZ96tj6WIEL6VSNFQH4rxyleMg4c8I4iIydLIkPjA4N8xzpJBzWCaK8rJMdtjfmFr+P26HUq00ujeJGUiDhRo5QztQpQ/I4aUJKosXq/Ub4dkvCEhtrbCLMgmhT4WhRv0Ws6D3DjFu1ls4+KwziwL;JQeUqNkRwhrwpRDOQJCeBw=="

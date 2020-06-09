@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=578%2C434&strip=all"
     width: 578
     height: 289
+    isCached: true
     title: "Nvidia CEO Jensen Huang: Merlin will power ‘the most important AI model in the world’"
 
 secured: "BxqpncwhTJQ7zrcbRbTWI4BbE3WEwVx9gobz2lCIhgR5IXKiHlXBzvNR0At7zbymis61P0pUYhjqFLiIoIbkFbe1KN89gcuuL3B0nNgsZvi0ZCij4C/cub+zAVFzuR3wMFk2zOKyo2NQCGnsJJZc8fwQN5sdggOGQ03QhEMQV78N1/rk9tGnUzFMfAq/YIeuqY8LG372HP0tDGHvOtnauQABy7Mo9PVEW24pRO5cRvXJ6HJUhh4r8AXdr5DFKhNXafRPNh01Cn0f/ww9rvxWfFyyK7ZOycBAZaP2P0H/5QdKH+2rpqLl25SUBJB6B6fBtiR6j1pnGMC8+cpHwTJSqu0fMwd9bDoL2WDxr+gVj4FSiOj/+RuVXVHwqoKTJOvhI/goO4EYfoTjrr7AAhertKC2Gq95jUWIvGvWWcesFh7O7Xb1eDh8ODGrfQCbtWgX6OEDYQ9P/4Yfyf3/kaVlXPyJianTzvy1loIdmbFfZG4=;N/2tC0Eou4a3PTsCfYrcKw=="

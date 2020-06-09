@@ -21,6 +21,7 @@ images:
   - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/05/23/st_a20200523_adtodd23_5686230.jpg?itok=Uo9lkxce"
     width: 763
     height: 509
+    isCached: true
     title: "The Voice winner eyes family trip to Disney World"
 
 secured: "On6J7FXYNJudB6ryZp6RmysRC/Tg+GFPCetSeKy/yDtuakxByi1+LROucRmB7tJ09RwrwLlu+RVup97WsYJgXAle67bFe3N/q/FKfagkfjK6nJNf6Zxof+yXpvKW4AZ8Yz6AL6PdXEW7xZzQPtKYxRrej+S96z+AQSdGzlmwYgtD3VhLhq9QO9CUEwRkmeFRtmt4hNlt9lXbDs6uU8Z0p0LKPzcjsuAxeii0g7PYVkJP0+QZOuaZyu9IKK9m/SL5wrKRrzGKZkX+fQYt33Qnjr+KkRbMbT6PrfIfs+9aGA/zv1r+NEioWskQpPbNzXaq;kCmIJZC25Wc5kNWa1WCOmw=="

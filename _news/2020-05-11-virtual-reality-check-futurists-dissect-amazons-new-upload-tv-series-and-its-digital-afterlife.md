@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/upload-1.jpeg"
     width: 630
     height: 471
+    isCached: true
     title: "Virtual reality check: Futurists dissect Amazon’s new ‘Upload’ TV series, and its digital afterlife"
 
 secured: "uQc7XOlL+3LXKSIDitDWFpKr9efaS3gJfJrT/uLCM6pXgkMOlt9rx8lEmhTC5bnYd/8FWCi5YQoIbeFPZ6qVu7eT2rhZGQdVIsBwkA9y75Ov81U9OgLIVTTAzn2zibQ4OasxJfD8ewU3X26nHseNYyuSURQEUAdX65igA7AZBDMb9zypbdH+Bd4EfGxx7gHwEAcv8/y7WQCYGTmKe+lxZ7UEjSE07IAM1AYYpSOOy1a4QyOP+bA5Xjy7wceXKWe6bgQGz/oY4GN9TIM2zLhNCUMDiIjBIrRvw15amCD8O+Lrn/BYJs/+57sFQrXikD7t;B3+ulHRT4ttYsuZbWLHAyA=="

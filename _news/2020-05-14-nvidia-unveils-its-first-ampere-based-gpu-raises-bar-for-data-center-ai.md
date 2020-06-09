@@ -21,6 +21,7 @@ images:
   - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
     width: 1344
     height: 742
+    isCached: true
     title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
 
 related:

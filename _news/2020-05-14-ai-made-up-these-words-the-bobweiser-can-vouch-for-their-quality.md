@@ -26,6 +26,7 @@ images:
   - url: "https://cnet3.cbsistatic.com/img/AW1VvqXLO7aOfw-b9TUXy1QqewI=/2020/05/14/ef2a55d1-b389-46ab-83d2-61ab30396648/1137415971.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "AI made up these words. The bobweiser can vouch for their quality"
 
 secured: "mzuU97E4La0Ymhb4AMlUDy5YaSqQsDhidoyxgmNPWFTSX6h/X5Z4WgCxBLXQkpdbOIdwM5hhi+ezL+gRAxGlHNVvcNLGS136347cqL5TM2CKF/bS8BCq08UaRkJd/A3XIPiRhmFFVIKGNgO8sO8NpxK/7zrsgI6Bk3ML8tcsCdGNUiqpzd38ArUVKwAXmVUvELRLQmrnpmoRfq/c954GjXIZuw7s399DDEbVc/rqoPAHiKB6apTks9pxdopp3Fkx1kmwQvecJGv/9c+Nf6MP9KJZfVL8Y0WjNOBLxAG9gd9pEjmcmg85cLSODIOREKS1Px1CnGbvukqNTIluyyFGMz9x6k6GVWU7vmWu/1XEGpdpmnXfAn21joEUBf80xtVfoU9vb9AzxAFD3c0JA+h/P/SD95TXapkK4MiCyF3nZCiEuxr1fytQG8SAmzipTIdYpsexLkmUVgHyMPfLYpiSOah/5DAcz/usZMOBsaIPt2s=;KS1wSgXPPTdoXSPPpHoZUA=="

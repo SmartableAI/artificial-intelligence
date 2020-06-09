@@ -27,6 +27,7 @@ images:
   - url: "https://cnet2.cbsistatic.com/img/-HBTqIvR2Ygwa3wLzsz5LwiJOJE=/2017/10/09/4570d0cc-50a5-4d63-873e-6612deda4970/gm-strobe-ogi.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "GM Cruise self-driving tech company sees round of layoffs, report says"
 
 secured: "Ti+GOCS6vymw8ee9B3okjCKuh7wXE6lHbAXKymNivK4Yso4v9al9jMBGsHqA0UhNhxnn0+sBjwT8buagK1RP8XcFdzGP6q350YWD+9nHVp9wbNRtauo4g7b0zG5HsimbL7TaRSAjHPjFPTqpBM+foiM21avtuIqhkbxttWo/YHpU9gm66NktApKzzRKSRZWDyiLNSyqwG9Uckge9Zhd/yEbDG1SRur4qjt7L/mSMYwOAsuPMVUmr+fMJzQ3nqOYyxmsRUTfRjBWzY00eZM3kbBSG1ZJ9z5HZ/HO+sg3e1qKmqKIEK0S/mseTXIjbbrJaAIjz4uQZ5bIek2ion847DQHUpLHqKwCeUiiXgFwfXn3Xvv2ZZtza0ubW9Svb2E5+krH+8S8RKRCS0+8oZ7GfMEdsYjvj6+DukcbNbpwqVTBS8y3LqXR0Vy+kbqQiLCnzvVX1Xhn6slV3IoaGfRRAwXd5vvt/mYXoRpmsb3EVo04=;q5zhnn5xyL1pLcWuEyjgcw=="

@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/PcI721WEgK8c-vtOQkuIo7Krjrg=/0x0:5184x3456/1400x933/filters:focal(2178x1314:3006x2142):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66763988/1220742527.jpg.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "France is using AI to check whether people are wearing masks on public transport"
 
 secured: "fwr8NKAmbQPoII5b72p1wnGoIcQ4/ul8UDjhkOh8I+xddy2uhFXKelU8V+pVOB5GnmwUjqck+/5ywAY2KqcoeMNTFES9UayJC5vkSedRYyKKVwyDm+Jjo+6IPakGrTyFJf59gT1PI6bKqd3PTO8GScCW1Jgrtore7ugjdrAJ7v/J25nHig4635Eot3ecFZ9GUTmi91IfScAergb+awgdPg9USLKsR69FUDqvB8imSUzwgzFjv3WI0HjVW8SqmXr4p2dVDNKnZMyWcVEYANGQqdW1v5Wu8cuXJTGCfP6GkUkMMkW0RSdR9yKT6yxN/O9BPOrh1jwPShrM77fyGF0btiS1tFFQIVA4Sb/Xr+s5W5vnRcfJ0pxKbU2MN7O/wwbHBa2p+qlc+zl8uePfnk3eVziMDUYMlDb2CeX/ZlreZCn+VvAOd8bAfRmkuDBhFysAvCtBcf2OZ38q4sNhUSXybO5F90IOpB2hzoyjirMOhas=;L+DMgyO+bH2FUkHAzWWtLA=="

@@ -26,8 +26,14 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all"
     width: 1500
     height: 776
+    isCached: true
+    title: "Intel acquires urban mobility startup Moovit for $900 million"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?w=1200&#038;strip=all"
+    width: 1200
+    height: 621
+    isCached: true
     title: "Intel acquires urban mobility startup Moovit for $900 million"
 
-secured: "5rx3lQsXvRdb8kSSV/1ixYXjnvYgMwVPY6K8Hgst4zjKeWR13CeQ2kKXmbplMLYmu0qU1BR+1kUJnsRGGNqwuZ70yOcr8LOnyjVdt3WAVXePynfVT58z28isT8Y8rOfeoutwBZRbww25HxyIQP4HzS8Ek2v1YVjSgDodxjSzBiLlfToZDWom9kBe/M8ZiwfEmSuHVzWOOrLySQvNDeI9FyZayHK9ZioBhDPMe4Ok60maKNOkD1IMliKRVP7I22tUM2DduS9L5x/W+UmHdv19b2EUBn4SH9UNXDU775U+9eA0Lzmxxg2TWqPu+sFZr63Mh5Og+8r3H3xaFGthoh/M2M05Y1T4D8XcT7ijHJ3w3qbwwhPMeP9OjyOqVkJjPryRt2JCbH9eDrkb7P0l4b0dzNVLbzTA6Ht8uWoNaKo10/9v7Xps6lWmoiuMQm9qEvkXMvMNXJyqjU56VfzEQelxy/hNASEWdr97/vP+xhkWcy4=;SWQHGz6iZ4nwJGoZLiLiiQ=="
+secured: "B+jVOpDVIiQQ+/V/HxAKUJHriMjNSClbWaEKx3C8e++iFfKFNAXXceYvGNAPzyIbR/xHIdB3MaSIVXQb2Nh7xYI739FxIhcOr5FY4eMaDgRCewU/OAOlhJ8TIdE1qVm3SeaZizEA/Xj+t0fOEa5W71T7Z/gksMCyonTySX/8+mLkdlSvByHcO0RWKIvD2KUFjindxzPBsf1NTdUarmG/Sm9UqfESJGc6f1f2pDudKu90Wfn5YaADAari3KGZ6WIVrglrpbKuM5b5qW9UI4GBLQoZaHGB9tAwZuZg5FuXX4CvM0h9c9v1RJC8bZJoXW1j;N+DTch41RaeSOJf0fbn3Hg=="
 ---
 

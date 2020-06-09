@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/15/transcribing-covid-social.jpg"
     width: 1056
     height: 484
+    isCached: true
     title: "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical"
 
 related:

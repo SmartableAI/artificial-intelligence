@@ -21,6 +21,7 @@ images:
   - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/Chief-Technology-and-Innovation-Officer-Kali-Durgampudi.jpg"
     width: 450
     height: 360
+    isCached: true
     title: "Giving ‘Voice’ to Healthcare: The $3.5 Billion Opportunity"
 
 secured: "bDowX9kG3MWocnuFDnOK4OiF0c+bMJzxRPwEQhGaYtAkmSGQ0ZGWspByH/5LZML5evNpM29SqU+OGticipVMw8GGFRDsg7fzcaZpUznLZtBosHsBZXYHxiXfqvi/YTKXP6KbTC9mfFdI/fgsFTH+v38odWd9FNuNMQ5CnrniYTAsmaGjoO4DOUvqnRAL0XJ4sDhoQb41IQg/RNsMwwQTr/ilPKWQRDnO3FT+qz2EEi/Pw9twpKB8aP2vUOxFRwgZTBAawmF0prPdR6f8y9Yz8sjtoH5uPTpH8JFCgIBAPHy2jwQsraHeQsPRTms9qHOuHtocdgL6h8BSVWL5PG5gZiyJ1+ktoZnsYglTrQNY7WfSW+un0NZEs9vXis6SpA6zn1GGsmx7OM/6DZ/WBg8hHG/Lv5VWMhExDLZtN5GVAXd8MvAqhnKwd4efOhdIvoNPeqmYHkvcql4VdUGOxIhZyOex8MkX14Wf9TBw9PZ/13U=;3TxM5PnOt4VqQTdVFub00g=="

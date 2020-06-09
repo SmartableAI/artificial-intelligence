@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
     width: 500
     height: 295
+    isCached: true
     title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
 
 related:
@@ -37,6 +38,7 @@ related:
       - url: "https://eandt.theiet.org/media/8217/neurons-concept-art.jpg?crop=0,0.380364344319288,0,0.12589347795855932&cropmode=percentage&width=1200&height=450&rnd=131987777760000000"
         width: 1200
         height: 450
+        isCached: true
 
 secured: "w+Odr4pyV2BpaD/hSk7e0NbSpmoNmZFe4CQ9ioTLZuFnjbtgMz8uYfZMC2yj6qBdsBWfy2+lSMxGhZbkH07EqhFgIZmg5+5rIcyoXGj209couuCEdAW7BCM097dNe9K3vqaNFGlV9/1zAw6MU0CESENp8O0R+37B/3wKCcwqZ84EnKoGIgvzjr940DbZywqikRcQNGXC44I87PVDvqyDHlXBWT4hpdbq6O6IxEY6FLkz7JxIa5OWTRMD/gOXr7w37ULfuXgypvuvgmdVmZN5YlwhdW+tGIGM9RtKVit6Zwgh0G1FKNRaujLRlVNv61YLMsB+89QVH/BqbWBvr16FzZayiwhLiVJcPOG82VtgbW7HXjb35Sim6/zOxKx4TfnGHIeUyF3M1Wy4ZPJv5jNAFJggGzwwj4D7la17areUpYBzrqPdUJ+K6I3CdiejP5zIVzroew2/pyOg9Gh4Yd1MXgRfDkImnl+iU/cekwvay5E=;Ob4LkbeBRor5LiH7x+F35A=="
 ---

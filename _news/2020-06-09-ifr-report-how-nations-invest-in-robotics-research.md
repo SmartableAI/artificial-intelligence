@@ -42,6 +42,7 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Top-Robotics-Investments-and-Funding-in-May-2020.png"
         width: 1698
         height: 956
+        isCached: true
   - title: "Robotics : 2020, Year One Of The Roboticized Economy"
     excerpt: "Despite the number of unemployed flirting with Great Depression levels, the valuations of companies related to the roboticized economy continue on their stratos"
     publishedDateTime: 2020-06-08T15:34:00Z
@@ -55,6 +56,7 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
         width: 529
         height: 639
+        isCached: true
 
 secured: "lPM8rYTMKhSKna11Obp7t764hJ4UUKCe8m8HRIaJ7ZIirqYygsW16g52XnICod/Ia9xfH7N62M9Xm9K9HTAW3KM8O3Q+tGLKPmuatbunIiC35ZyRhETTEZI9gOaz8n6KWCGVU6n22I/f2A1TXVG5BxLd63QhEMnQhG/9t+15x2/Q0iYFtR4JMC4qIQ1bIZAZ0sdI95ck2qBNYfRTdy+z5DP1WqfbGh9st+L/lMS2PIkRBhVGDIe4Xbv4vqgwYDFBY3GtzNDJHCBtma1fGXtA0K7wAa/ayw/AP6hUuY3krREd4jKbzrxdUdbNoPp7Rfm8NkFCCzBuPl1YCno1eYTn5OVnfJTiTVOhrT6G5d0SiC9V15d/hhG+oHQZIME3xGbpekBZOdLeEsKkwc4QpiCFh3MFv/QTViLmRUzp+4cC9Ee/c7rJ1hsPg8BzSbYoiQysYwl7VuZPNptwiwnPYxPBsLud3FPGkmuxzcz8l2hWOeg=;aI2Z4cp7CckKY8gXVgTLWg=="
 ---

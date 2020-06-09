@@ -28,6 +28,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-10-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "Scientists found a way to plug adversarial backdoors in deep learning models"
 
 secured: "+BNj05OE2DXgEck8E/0C7uja6dvO1EHidt2xD1hjzxhL5TGm5kxgn95oB1UkKalxtr+f2WRiDsahiLrToVXCi1wqLF9CsDooG11ZOfwNiUixdc80yHva5juZN6Rg4jGIohAG+eCDNcwa6y7FcTzPeczwXp/sf7Vgx/AUa7fzCo6ZhsWJ+6qjYPQb/VU6OfddOZHDNvHJpGrq94LdZ+mWL4OjlZBhtvEqjY4Jli90isMY3Z+dKyUwT8SUYiq0fJB3JY20lNM71itql8+4k+Gg74y8EtxhGEs4F5fC62HJyZo0uFfUkDFTvYI4L3IC3uyiIDt4dqSIRzzt18k15f4/aUzucXE6D0pz0TiPNsKgK0lem+rjB+byDDvYtlerDzKsu8Qgy9S1Jw4zUvCXzYhXSjnvMcghEQ3RFTfeL1IMaCONpkZNuemnv0BrISNIIdlnCOkNVPQ4lhiJDweIDq7zKaAN+zBqk2lp0yi8j0XYv/g=;N4WDhwup4B64Dm+Ud3X78Q=="

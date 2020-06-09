@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Facebook is using more AI to detect hate speech"
 
 related:

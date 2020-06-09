@@ -21,6 +21,7 @@ images:
   - url: "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png"
     width: 1200
     height: 675
+    isCached: true
     title: "Bundesliga Runs 1,724 COVID-19 Tests in Push to Restart Season"
 
 secured: "RRN08YPuw5e3Ucatue3sQ9WsQNoHYNtvUkmLs7QdiIUWwR6Hliy/P0pAW8paj5WhkBHK89bkbPEWgMapPBMOUCq9BW7BQkz2Y7zQyllrhDp4uTeElOZVa7ZFXCCPdFbZCFq2Ao97qf3j5VqqqPTAHz+QmPuOGz8zFteL7Y5K7CQXZpV8Ph8Y3f8ugyzV/0OuawChgmXFpzvOwcBR7pPY2+LyGeW6InBPqvK+WPvKIqx172RsOWLXiPRIGDje5R4Grhlxs+uSxPZIdAaHoKhAXh1BG89SX81N+DHvvI3C9IYJrW7VjCeKW8jI+gILOvZh;3DEwy3xXF2aSxPFY3td/Xg=="

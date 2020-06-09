@@ -24,6 +24,7 @@ images:
   - url: "https://cdn.ttgtmedia.com/visuals/searchAWS/management/aws_article_011.jpg"
     width: 1200
     height: 400
+    isCached: true
     title: "IBM Think puts AI to use in IT operations"
 
 secured: "XkfxQ4V+u0Vntxc8k2wrKZHWhRaRMN1yM0zSg2K62KUjAHIVmyD9LGRGUdAk9d05kysHmP4ElC1eufBxEBOa1VDr6V3G+rhr5TGI44mFc7RepsbnNccUccRaEhLZuFcrjPgMyZIiQfv4GQaC9CI21zXYgpNZkMflHXsujHs0I/MJ8PLkF/M6QFuGNDTljE87abbnb5tIJV/WZunJl5Q9dCzHlH3/sVXoyj19VLOnKr0ZgrhW/2LWnf/K9Bs/Ir20iRNv6ULm0v7JGC4gQaFWrMDa2JxheLYW6DVqMI36OkvdYwX+jxMvf6e+4XtJcEQR3TN9Rk1au2i48okJVr7z/UvsXAYRQIJqYerCIyhoQXUzVEUydbWWtXJ8VM34VwutdatzVSOz7TWE3XfLPGG2OY8LqRn7hjA8KVyDvVKcxLFCBgGN1YzK6zyrouS3tg+5gRAafDH5+B0fEywRYp/k8ldQ7zalAn9RVciOMatWKrY=;LZsL666aF7L7hnbNKVqqUw=="

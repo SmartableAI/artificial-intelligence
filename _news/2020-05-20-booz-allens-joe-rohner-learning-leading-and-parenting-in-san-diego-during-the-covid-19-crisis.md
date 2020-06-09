@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Booz Allen's Joe Rohner: Learning, Leading, and Parenting in San Diego During the COVID-19 Crisis"
 
 secured: "3UdRvslz4ZkVpWmilMRoFXaMt/cfbE0WlU100kQb/aAUpRHpkNaWoXiIbHxOIzyAy2b3KW9F5iXYWoOZhTwhRbTlQ3Hq2bS5QHG0AMJZrlBeB68I4+uprsdm5PkcASG4G8s2UNYFHfmGXvJ2ytj1Y7bXgyn2um5a26jeyf3Fz7slwqxfNNLbYIq2Ucrcf0u38Y7yt8OLBtijfEClwheXASBwexnZbY/4zMujYs6k7QtdYYEsCuxQLjJ3N0YTFMd9Uf6t7X4SzJFbwE9HRX3aOw2/ey4fq3xbgHlwWtyZ7LCDaqFmzUbEkNtFSjzyZuL5;JEEr+xmnq/Z7HaS5U6lBoA=="

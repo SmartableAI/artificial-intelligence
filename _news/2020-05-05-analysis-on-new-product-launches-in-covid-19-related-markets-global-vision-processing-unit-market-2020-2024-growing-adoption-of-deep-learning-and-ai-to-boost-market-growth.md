@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200504005524/en/789195/23/IRTNTR43075.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Analysis on New Product Launches in Covid-19 Related Markets-Global Vision Processing Unit Market 2020-2024 | Growing Adoption of Deep Learning and AI to Boost Market Growth ..."
 
 related:

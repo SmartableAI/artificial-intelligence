@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence Market Growing at a CAGR of 36.2% | Global Industry Report to 2025 | Covid-19 Pandemic Impact"
 
 related:

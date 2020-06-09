@@ -21,6 +21,7 @@ images:
   - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/1923f73d-8647-4672-b56f-11ff356874e5.jpg?height=1200&t=1591298431&width=635"
     width: 300
     height: 400
+    isCached: true
     title: "Resgreen Group Invests in Autonomous Mobile Robots to Aid in the Fight Against Coronavirus"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg"
         width: 2560
         height: 1705
+        isCached: true
 
 secured: "nVmpbD/2urrS4lNh0Xc5TTThsKwpRoXUr4SqEUIjanO9ZseFHeoHkqyyiT4WwUyYDxPBnNq2YZCFaf1b7GxNqfJzM+HXprZzDmF+R/CeSPtVL3l7WMDgYYegQKLCYJyhd+YvSf2U8tlyvQd23u3Ph4l7kAzdz6Iatk8sfyjDJte0Osh7KPhFGWxZC37kJZ97JGD3bGCoX/H2Ti5/YjvNb/YG5HoQPO+YSH2cMTpzqHwpKlTAlHqsZ1HmR6c8hpsnCvTQ1RsZgRcfrQkcjHBi3ijMOhAOeI8Mr8oTN6zvaqu5HEy4RxJbEpQIMjBT3jxAFL8PjZyTc4WpOzpafr8xBIgKv1KA5bSXfq4llhGsUW8X/VVTK5Or/JjVFQMLEMyNaUT6oSMOYRR/WaTlyPA0srEJc49tNL+V0xzucZs+cMOd1GxqK7YmGv0Udih+a1JeDMnhxl7iJcT+y5VR8bBYltse3hFbdTYj0Pgw2xz70Uk=;EI+H5bBYSBLQj9lcNsXnTg=="
 ---

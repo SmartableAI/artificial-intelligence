@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/exer-ai-3.jpg?fit=1200%2C647&strip=all"
     width: 1200
     height: 647
+    isCached: true
     title: "Exer launches AI-based fitness coach on your mobile phone"
 
 secured: "QlHWK9C53RwoNFSDlxKoUZbSiFFe0l1J8vqzBr7mvdjmMKESIWrs90KKcL+ymk0lI096JiJV9qivl/hgf9vq0tPy68BnKUHv1aNpMygG83RmYURMXsGRS/2qZhTJ4CwN97cvY+Kz+XbL8GqXuCvScBn1TfDIOzgJEnagiG09YTFZyDCwIEypgNIAN65zqmCCWNJ4l+wGmYhk4Soxc2bRszQ+vL71KMq6AMyvft6Eez25/aEkri15/JB880egRGjof/WWahirJ+5IkH1moiZm/g+gVEZlaP4nPnPmKbcBSFAJUnYb65KIYt81TUVDRWho;HDhdpntKad6b8vanQjJxag=="

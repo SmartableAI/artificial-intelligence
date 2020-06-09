@@ -22,6 +22,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200512005642/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Insights into the Worldwide Natural Language Processing in Healthcare and Life Sciences Industry to 2026 - Key Market Developments and Financials of the Key Players ..."
 
 related:

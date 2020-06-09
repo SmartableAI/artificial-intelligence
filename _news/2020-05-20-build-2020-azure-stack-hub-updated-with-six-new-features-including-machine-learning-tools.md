@@ -28,6 +28,7 @@ images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools"
 
 secured: "FRiarffveeKeYXqeXuZbAc7+OBVxEZbTfTcuTlklzAw0K7l8VBormREzyCCaRkScLcr8Og0RBgy5mqkr/6N+CYGQrdezeR/OqYfS6BvTDMHZpXTbvndK0DRfZLDxWZPk51bvCDmWbzGhP8qK2LMZ/5Q59jKxsDz0JfoPeGg5WGM87Bjp/91RamnHVUZj1FoGWCrQn183OugnvwlLkiRkyTIUHv0LyhuClfUnQLzQ2ybwiE2Rl4OjNKe6bhmpWNG4Az/l3MKAHwZsnEAwVSpUmrPhUsTKYls7UjRoOd6oWqXid28vaz9AimQi3CJFsEUg8Snzg+dacJto4fkW7RjmMcuk/nE6xNz4DuCFa+2uR4vJdl1zkF8jstIAOQQPWIBhy+k7HQmJEtMlv/RoIbJJUWulJeI/x6P9TxOARwNt0sSmGlzuprXq1t1IKoVJldcklMYU9qGW+8bBKEybRjljaY3BQXM9x3MReOZn2pAc5O0=;c6dC9M91m1elMIYTiAykhw=="

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Natural Language Processing Market 2017 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
 
 secured: "82UtEp8pcuHCsnc77UuEygBtH6WFr+XuSlB0Xb2mPmBc6tkvV83Ckwsie0C4QrwHw1CV1TQowgFSiEgsL4Ci5rDvOHsWhBrrXOwwFC1gdECl5Dv4zmszpwoIkL+V48gUcHAiOf9zMR7nImoOrYug1/3pRNxbyuC9OeizW801tiV4Ikh4qqRWRQsWZ5gDWhBmQg9ZJU01vA2QpvgpykYFXQ/ESfUALU6BdYQ5KTQOSwXXZJRVZoTA26fk/a+NORmIpEW0D4yabZJg6eAHjc41+Rso+QXS7KtF8WXOXZfz3SNzY5q9sm969hdSpjyX3IOs;q8e1/wV+bl2no8GQ2qITgA=="

@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-77.jpg"
     width: 640
     height: 640
+    isCached: true
     title: "How Can AI Improve Sales And Support?"
 
 secured: "Wzy4OHW/MHaWT9mcXkV5sKgiVo48fg4TvP85RIEb1KcM4lwKe+mLVofaxRj9yzsO+S7KiLMvbikQ0MJmc5HbPL6xy4bgVbOECbDt8MoTQS2Ye6fTEqPP6B76TxL7kdTcPDVMLeuK8QZK3CUf6bG+toFohNs3GNdGpQ5GKWXKzgUsx/zZaMcXjDJHRkKIXn4iygCmV06y8xoEZk6RFfAL6vxS8SAa6kXW4oBNdDmYwgD/ei7PAfcJi2WTzEWOeKMeMKetZVdcns7ojxSHBEScIvVlbusKZCYwZQUKOU/3+BQBQ3WaGLHh/yquuhdIF+zh8oBNJzKq3XTsrRoiSIXD3bkBWz30NpeBZBSowYdVRMQtoONE+xNKqaxe/BKK07GSk1HDwB3ZOl4HuHEZGYPwEhOE9968vRGg9QitKwntvXd64s7VI+e8Bj6FhOY9MKpR7bLWz2ceail+dGeRovTMQDGGcVXRVzfVds0Ku7fEZ7Y=;xwTyqISEzKsSUbR6MkfDhw=="

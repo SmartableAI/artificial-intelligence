@@ -26,6 +26,7 @@ images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/20200509193918-usee.jpeg?width=600&crop=16:9"
     width: 600
     height: 338
+    isCached: true
     title: "The Advent Of Digital Asset Regulations In The GCC Is Good For The Region's Startup Landscape"
 
 secured: "3FzN4EYq2mBeJQr/j9fboko3V7ndWboPE2aNL1WqCxOU76CMc+W0m27i6DMAcgf4dMtoOPhIlYRpkx/XqRlGOLCZIF0M7P2SxcnDezvPliC3hixRHRfSnHNNisWhv8AoE1YX8J2WAHHvIy3KFdYa7WzMO9kJwVO+y1J58jxVHdo8sP0hEy6suW3LSWcGB47n4xhIiSNWRBDMSONd/mouwnu9vIbBzF455KHd8QyCT3Y2Uri5f3Uo+7gBKvjkx5FI2fKVnxMILTuX84I3tL4NUAY0yipbN51GF+KnqxP/An9sKUgJXmvoXpFUjZ7mXrjO;tdfyNiY4LwXyNP1+mlNAtw=="

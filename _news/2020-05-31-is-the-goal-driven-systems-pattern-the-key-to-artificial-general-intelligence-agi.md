@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed39d7ae1cb0a0006708d41%2F0x0.jpg"
     width: 1200
     height: 900
+    isCached: true
     title: "Is The Goal-Driven Systems Pattern The Key To Artificial General Intelligence (AGI)?"
 
 secured: "N1eNK/yv2aKsz+BxLZ9XG8VWfzupNeOk+bLfQOUrUOJEBDVyzsUePWb5ksH/w3yBbgC06gNU546/I1CnqiGVoela5MJbCm/SD0l/5X7aUJzQ+mikxheSSKh3T8E6+wweNV92q6ua+L24nta0h3rahxohJHxKetBN6hIUMAKOxNXM7BOCYe4hwV/ncxatctmHVStmt0Hex37hYKU5WlTpAEnG+YWpN54O0J/R5giRQkmxkJN0aoMusHIxzc5rePAPsmWP7hi/XvZBSPkSFpotq5ojfuls7QzhMGQNLq50oSq8eIU7fbLAJarDr+VPasD4Q/h4N0hSsSdZNIxuSvInBrHR3trMiPWNiIFro/nLd9NNe9SgYX8aoZHHavi3VnmSato3CGObDNs1HcBLfnmGwGXyqRwIY+vmBc9eWJ8KbfnuLWbp5vHoVlF/SGugB/9JLvaiPGeNX01oLvLSbzqGM/Gvf97y2p4Mg1Bd2qJoxtg=;Egazl0gAkLgLaS4H1b8tVA=="

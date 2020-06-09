@@ -26,6 +26,7 @@ images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1590631973-CoverWalletContractorsImagebyJensBehrmannviaUnsplash.jpg?width=600&crop=16:9"
     width: 600
     height: 338
+    isCached: true
     title: "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy"
 
 related:

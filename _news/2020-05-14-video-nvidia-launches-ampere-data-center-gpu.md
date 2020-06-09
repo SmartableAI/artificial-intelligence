@@ -21,6 +21,7 @@ images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/A100.jpg"
     width: 1000
     height: 1084
+    isCached: true
     title: "Video: NVIDIA Launches Ampere Data Center GPU"
 
 related:

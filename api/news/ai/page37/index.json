@@ -2,6 +2,44 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-01-imagination-supports-google-android-gpu-inspector.md",
+      "title": "Imagination supports Google Android GPU Inspector",
+      "excerpt": "Imagination Technologies announces that it is supporting Google Android Graphics Processing Unit (GPU) Inspector to help developers profile and debug graphics on",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eejournal.com/industry_news/imagination-supports-google-android-gpu-inspector/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": "Imagination supports Google Android GPU Inspector",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
       "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
       "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
@@ -22,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +73,8 @@
           "width": 1200,
           "height": 900,
           "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -71,7 +111,16 @@
           "width": 1024,
           "height": 682,
           "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +153,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +166,16 @@
           "width": 1200,
           "height": 600,
           "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +208,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +221,8 @@
           "width": 756,
           "height": 567,
           "title": "Senator questions Clearview AI over coronavirus tracking plans",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -197,7 +258,8 @@
           "width": 1020,
           "height": 573,
           "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -230,7 +292,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -242,7 +305,8 @@
           "width": 1200,
           "height": 675,
           "title": "3 ways SMBs use machine learning to power digital transformation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -276,7 +340,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -288,7 +353,8 @@
           "width": 2488,
           "height": 1398,
           "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -324,7 +390,8 @@
           "width": 750,
           "height": 422,
           "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -361,7 +428,8 @@
           "width": 400,
           "height": 233,
           "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -398,7 +466,8 @@
           "width": 1200,
           "height": 675,
           "title": "Stats Perform Hits a Bull’s Eye",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -431,7 +500,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -443,7 +513,8 @@
           "width": 796,
           "height": 417,
           "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -475,7 +546,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -487,7 +559,8 @@
           "width": 1200,
           "height": 645,
           "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -519,7 +592,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -531,7 +605,8 @@
           "width": 640,
           "height": 640,
           "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -568,7 +643,8 @@
           "width": 960,
           "height": 640,
           "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -601,7 +677,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -613,7 +690,8 @@
           "width": 1024,
           "height": 678,
           "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -646,7 +724,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -658,7 +737,8 @@
           "width": 1024,
           "height": 576,
           "title": "Deezer develops AI to detect explicit song lyrics",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -690,7 +770,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -702,7 +783,8 @@
           "width": 2400,
           "height": 1600,
           "title": "How Well Can Algorithms Recognize Your Masked Face?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -735,7 +817,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -747,7 +830,8 @@
           "width": 1200,
           "height": 675,
           "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -780,7 +864,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -792,7 +877,8 @@
           "width": 970,
           "height": 545,
           "title": "Fueling driverless navigation with AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -825,7 +911,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -837,7 +924,8 @@
           "width": 1200,
           "height": 800,
           "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -870,7 +958,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -882,7 +971,8 @@
           "width": 1200,
           "height": 630,
           "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -916,7 +1006,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -928,7 +1019,16 @@
           "width": 600,
           "height": 350,
           "title": "Tesla's 'full self-driving' feature is coming in subscription form",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=a125a2031bcf5e44d04403d2f8899332da91bee6",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -990,7 +1090,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1002,7 +1103,8 @@
           "width": 400,
           "height": 400,
           "title": "Use automated ML in an Azure Machine Learning pipeline in Python",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1036,7 +1138,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1048,7 +1151,8 @@
           "width": 1200,
           "height": 630,
           "title": "Neural Network Software Market Growth Analysis, Opportunities, Trends and Developments to (2020-2025)",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1081,7 +1185,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1093,7 +1198,8 @@
           "width": 1200,
           "height": 800,
           "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1125,7 +1231,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1137,7 +1244,8 @@
           "width": 800,
           "height": 533,
           "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1173,7 +1281,8 @@
           "width": 554,
           "height": 267,
           "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1210,7 +1319,8 @@
           "width": 2500,
           "height": 1667,
           "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1221,36 +1331,7 @@
         "Computer Vision",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-05-01-deep-learning-brings-a-new-dimension-to-machine-vision.md",
-      "title": "Deep learning brings a new dimension to machine vision",
-      "excerpt": "At VISION 2018, the camera was demonstrated as an AI-based object recognition system. Also introduced at show, FLIR’s FireFly integrates Intel’s Movidius Myriad 2 vision processing unit (VPU) onto which trained neural networks can be directly loaded.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.laserfocusworld.com/home/article/16556323/deep-learning-brings-a-new-dimension-to-machine-vision",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "laserfocusworld.com",
-        "domain": "laserfocusworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 38
 }

@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif"
     width: 800
     height: 433
+    isCached: true
     title: "Introducing Recommendation Filters in Amazon Personalize"
 
 secured: "CyeJ6bIpMUHXzpWAmLAinco5Y6v/o9PhfQQHiM4tQi10/t3T/k7XfQqcE6kfMaHdIdBIFGPt9Hw5nxhV6XtmPxDlMMYJcWA+53K8ip+wDDx+XrTSg/Pw8MQz0TuUJiwANE6w7q+e8uaRK47MhXljuHavNdbfQrzPJtf7NftfdBb7wxSLvJmpJye48BDISTr9+NPl8FxquyvibrZ9tqtc9nJVLQJJcfRGohBqCMG13/zWey47rF1cVrUce7FGGijm3JAYTK1qwx5AqyO5H9BdjkpysmiZVColc43vYFNkcvJwzlMdZGhENSTn8J+YWwAOLyRg9BTLVc70aScYPVXaHw==;SzCT0HIMSNI+Qjf+IKM4XA=="

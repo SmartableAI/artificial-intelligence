@@ -21,6 +21,7 @@ images:
   - url: "https://californiahealthline.org/wp-content/uploads/sites/3/2020/05/xrays.png"
     width: 1350
     height: 900
+    isCached: true
     title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
 
 related:

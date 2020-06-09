@@ -21,6 +21,7 @@ images:
   - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
     width: 1667
     height: 1667
+    isCached: true
     title: "Study: Network Representation Learning Could Help Identify MS-Related Genes"
 
 secured: "dRR89Q3x1CTqye3pAS6ArC7Bi8m1EoRpqwWOGRJ6aqzkG0hTP/anOjhbmbEA2HzXvso160ueHVJzNFuNBf/qryJlvyTRxBVVh6mXY5tvNVQwvpmGv3LT9blOR/zntO/t5QfRwB97cayaiEU0KY5BHMw2qFmCaVRWnbKhxHuiLCtl05wvMLLRjKoaZJ0QokRVis+lp0Y3NdRy9CZDfAakaKZG/OF/wisQdpQjt3j3ox53fPHOzyDhmKuWX4pDtUmq+I4/EMh5oYWYY9ZPjNX5EYbOQxfpxsZoSzxBrdXIh6GFKqsiQoe2rVsOvW+oKb5N;GcbwWhoOj1QJzm9tkhEY/g=="

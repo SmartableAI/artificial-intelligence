@@ -27,6 +27,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Deep Learning Market Research Report:Forecast till 2023 , Influence of COVID-19 on Global Trends"
 
 related:

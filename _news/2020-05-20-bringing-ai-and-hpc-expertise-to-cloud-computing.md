@@ -20,6 +20,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/05/digital-cityscape-pano-100842712-large.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Bringing AI and HPC expertise to cloud computing"
 
 secured: "pSxTQOTmj59YQnIWcV8vDzxNIJJhvKTtpwGeJGBWT1LOOIhjs1fR/zQ0bo9rN1djWrVdVUKHwMNeZFzffFkRpUfJ8ydospV7vurkmC03YEWFu0jbN8G+XeT8RA3aojj6RmE2Dsv7pPyfQaHpe4kxQvzAdc8m4XsFHrIWlBTa1UlN7RpjuVfT26MgKVu6O+HkF7dBcRHa5+bxdmPRQ6E4xC4wtRc6FDozGNBckuz5dadtHEiBA33Px7ADZCWH7zCpsEETaGRpzota0C2KCquor5AAjFEaL2W0piuZqN1/N1jh4rI4YhryR5gXWytaqFjj;BK+ZDEkK/ZS8vEnv6tKNZQ=="

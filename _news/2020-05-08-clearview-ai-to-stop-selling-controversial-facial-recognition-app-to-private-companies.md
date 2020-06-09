@@ -28,6 +28,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/JgPymIe21_tzx6tv4zRVd9KfmLQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66767987/acastro_180730_1777_facial_recognition_0001.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Clearview AI to stop selling controversial facial recognition app to private companies"
 
 related:

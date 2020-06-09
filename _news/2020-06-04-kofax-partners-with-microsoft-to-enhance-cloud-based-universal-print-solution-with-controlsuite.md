@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200604005146/en/754278/23/logo-kofax-blue_west.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Kofax Partners with Microsoft to Enhance Cloud-Based Universal Print Solution with ControlSuite"
 
 related:

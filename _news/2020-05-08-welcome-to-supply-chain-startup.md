@@ -21,6 +21,7 @@ images:
   - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
     width: 444
     height: 333
+    isCached: true
     title: "Welcome to Supply Chain Startup"
   - url: "https://www.mmh.com/images/LM1901_VC_Session2_Inline3.jpg"
     width: 600

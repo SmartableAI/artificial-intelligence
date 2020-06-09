@@ -21,6 +21,7 @@ images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/231172_web.jpg"
     width: 720
     height: 403
+    isCached: true
     title: "Computer vision helps SLAC scientists study lithium ion batteries"
 
 related:

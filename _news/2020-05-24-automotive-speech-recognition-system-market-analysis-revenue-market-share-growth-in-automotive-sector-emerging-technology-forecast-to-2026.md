@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Automotive Speech Recognition System Market Analysis, Revenue, Market Share, Growth in Automotive Sector, Emerging Technology Forecast to 2026"
 
 related:

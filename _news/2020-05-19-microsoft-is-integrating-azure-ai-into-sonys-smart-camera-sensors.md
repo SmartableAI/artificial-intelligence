@@ -21,6 +21,7 @@ images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
     width: 1200
     height: 900
+    isCached: true
     title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
 
 related:

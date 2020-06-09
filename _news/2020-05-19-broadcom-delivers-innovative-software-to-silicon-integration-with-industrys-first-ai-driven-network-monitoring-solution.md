@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Broadcom Delivers Innovative Software to Silicon Integration with Industry's First AI-Driven Network Monitoring Solution"
 
 secured: "FctEkpZ56QtpCkH3C6rm8wuGmR0IJppacHYMw5u3s9RwucN3/fncx6VqU578LxZLW8DwfgaNQg2gHDUAe/10tRMTwiquY1G+DR8TgB5EOrGYgwuZ21+lKzRdtpFT+vWxim5MbmkbEVHmz+38KLZpzETCTsn96tIAxqhguxaXTBKKV01V5BKuW5CuB144Gbh6UfGXN+QX5nAHIyEukXY6+aDlyN4Q/HoY4ibDCkbeci9CHpjNZemlt9Z8E0h/MZmJ7LEH2XJnNEDSflOMhntmqA1fQLoONknHCLHrFanslmpd8hhe7BnXSeC/XtUHu8EE;Cp7hTiQZvvdBXFNvE19d1w=="

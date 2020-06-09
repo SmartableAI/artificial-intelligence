@@ -25,6 +25,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Microsoft.Search searchServices/sharedPrivateLinkResources template reference"
 
 secured: "/F2ban+dI/nB8+Rtsx2JkkY2zMf38pPoxjEqnzaPSnXpoyjVSj7yyccJMRqx/tifALtopanpepNyMzW33GjZoYEDDoLSIhHV8DyBlQqaud613MAs24DEtKRKw4K7c6cQa9i1zIidBa0TGlTPBu887w2K0po9Z59LXrcEMbS+YWCIfcb7qMUjIbx94cjf35wSgHQkyDh60qNWnR7tmlDLu5MlkVsrrIGzQwVXhM4dHDtuzxuvgQPWFujmrs7UzpvB7QdccTW4LTwPUXzAn1jlYqoWRZb+SMofDWqa67umic1aa36tvXz9NRdBWrF3jYQX;m0BSd0dngsNDrbvOhrV4jQ=="

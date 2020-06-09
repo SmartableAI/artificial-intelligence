@@ -22,6 +22,7 @@ images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
     width: 992
     height: 558
+    isCached: true
     title: "In virus-hit South Korea, AI monitors lonely elders"
 
 related:

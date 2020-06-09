@@ -27,6 +27,7 @@ images:
   - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
     width: 1000
     height: 1000
+    isCached: true
     title: "AdLingo Ads Builder turns an ad into a conversation"
 
 secured: "h9nKGijUjblResLNAAbUncWVcrmyfh8Ihxr4r4BFGkpzKHq0QC6JGFYmePd4tRQpDIKGmlbZTxea9hfZaeD+YvMUDOuDxsr8ZAtggXEPPKmg4mUO8GQLY7iQAVdoV+Ge8zAQqhsmq+5kbVEM74SdageHlY8urIiW7FYd4jMSzvKGY4EpzKRdSLenCJSp9zEKquNMAb4+VMCqL4RZ1swxQQdpatfut2KU7S+PQ+MN3oLBm4Qu8uLLZ8ipLpFMbjRCamNzpSn9y8jJ2b3h9hPLs+SRVp+g5QSHumGJhV9T7um3Pyj7u9wmwamorjwsYVoxogyHrZrBagc6uGAcv9qwJw==;hX4O1mDe417LJpP30FlnQA=="

@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/10/05122924/NEC-logo-office.jpg"
     width: 640
     height: 417
+    isCached: true
     title: "Touchless biometrics terminal for multimodal authentication with face and iris released by NEC"
 
 related:

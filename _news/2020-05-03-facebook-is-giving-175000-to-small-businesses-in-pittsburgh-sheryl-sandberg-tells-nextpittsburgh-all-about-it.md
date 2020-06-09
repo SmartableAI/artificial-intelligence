@@ -21,6 +21,7 @@ images:
   - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/05/02082417/Sheryl-Sandberg-Nisha-Blackwell-750x500-copy.jpg"
     width: 750
     height: 500
+    isCached: true
     title: "Facebook is giving $175,000 to small businesses in Pittsburgh. Sheryl Sandberg tells NEXTpittsburgh all about it."
 
 related:

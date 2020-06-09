@@ -23,6 +23,7 @@ images:
   - url: "https://www.newshub.co.nz/home/politics/2020/05/andrew-little-says-police-facial-recognition-software-trial-a-matter-of-concern/_jcr_content/par/image.dynimg.768.q75.jpg/v1589394930500/Andrew-Little-Getty-1120.jpg"
     width: 768
     height: 438
+    isCached: true
     title: "Andrew Little says police facial recognition software trial 'a matter of concern'"
 
 related:

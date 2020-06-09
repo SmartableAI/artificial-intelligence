@@ -22,6 +22,7 @@ images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/457686"
     width: 640
     height: 428
+    isCached: true
     title: "JVP, pharma giant AstraZeneca mentor Israeli health start-ups into market"
 
 secured: "FfiME3JXgjswyIjYNHIF87VpZVEmF+garmBnA7NUAzvEn+tuC+bQu5B2FyP0H/IQtrgJcVml+H7vCMM5bSncruwC5mg04IJf0awRUP6XzybG364SNygBRSf/o1NBlHshD0ZbBukcbrx3RGtmYpaC4Mt0qmGVXJ+4eRlpy6gixgvUyhn5pME1gW5HDfAEknT2QtOlixkGBu1+FZlvbIkrTE1oJfSsW/rRzDG5fB57mpjUUdTiG/3q4YZLfcI816IaQ/yIsC6RIZ2vAgXhCdJmbld7OVC0wbtVDX0AB/UoUPaxAXG5miiwxMg3HlDV3Wb2;r799vBZ57oRPT6fqzUxmnA=="

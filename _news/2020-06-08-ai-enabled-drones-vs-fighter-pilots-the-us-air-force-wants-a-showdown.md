@@ -22,6 +22,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/14/us-army-drones-on-the-tarmac-at-the.jpg"
     width: 1024
     height: 693
+    isCached: true
     title: "AI-Enabled Drones vs. Fighter Pilots: The US Air Force Wants A Showdown"
 
 related:
@@ -40,6 +41,7 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg"
         width: 1200
         height: 800
+        isCached: true
   - title: "The US Air Force wants to put an AI drone up against a fighter pilot in a dogfight that could change aerial combat"
     excerpt: "The Air Force wants a human pilot and an autonomous drone face-off in an effort to learn how to build new types of combat systems."
     publishedDateTime: 2020-06-05T21:46:00Z
@@ -55,6 +57,7 @@ related:
       - url: "https://i.insider.com/5a7b1f4df450ffc1268b459e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
   - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
     excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
     publishedDateTime: 2020-06-08T15:30:00Z
@@ -70,6 +73,7 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
         width: 708
         height: 382
+        isCached: true
 
 secured: "w4GnthiUXVV2ZltW2QjEf76ZZCsTXoddOhDOOHSzbyJGCS7Dc4+kSdz89M+mnjsJG5zkkj7yDGVvY5c4YfncqDP18+AjssvHZx9UUrpDtNUWvAYdRCkJTZzdlV14ROXVUGFTScFqYK7gcuX8hXAyQh5ABIni3x+VBawc8ZQ2AYWNmoXOk77rMEhS9+EV26PgDSWx9nRgVyILn7NjE8mYO7+78r/HttOnhwj5Ot6QgLuAwHh58fHZ1dzTdwObslp6pyg8/oqpq8++y+XtU5be/Y2btiufcEI6IsjZBZQ2+Wr9W+BLuWiEEnLBFslQnlNYBzy6g6KFhoIwrfZCJV4GcRtn911uHFIfB2kSo5y9EGhIO40ywo1DDRygCBCCGSvFlFh4ESeIKnjUFNR4yPJRYEe+MTGrgrQgADSB0/7qPcqAqAXw2SOdTZPj9tLkNGIJblhFskEl7cEpk1UxDlNCPzyxkU3oDY6TiM/Q3huV0Os=;p8hQgSWEzTDn6GZhrcXWjw=="
 ---

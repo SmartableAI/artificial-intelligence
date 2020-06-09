@@ -23,6 +23,7 @@ images:
   - url: "https://www.chicagotribune.com/resizer/x0gcXQF_LCUEtlUBGh5CzJBGlRM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KND54AHOTNEXHLYMW3Y5Y7A2NY.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "ACLU accuses Clearview AI of privacy ‘nightmare scenario’"
 
 related:

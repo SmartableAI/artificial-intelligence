@@ -27,6 +27,7 @@ images:
   - url: "https://static01.nyt.com/images/2020/05/29/business/28bizsky1-print/29wheels-3-facebookJumbo.jpg"
     width: 1050
     height: 550
+    isCached: true
     title: "Who Will Own the Cars That Drive Themselves?"
 
 secured: "he+r9iamL9+jRBfo8eDLOEHVHec7vzm9ECote91zXoGrkjYxK0B4a4LL8RqASWwqyTTo1WO9FbuawQluCRNB7n9qdTwPNTArSTLRrHWLHCeYiNAvkhlGmgWNWHCW7Y8iqjQPWUe8+7WIKYchcm20kuSxU8Rg8uM3NnP1ker62Q73zhhq5xed5Pz3l2TNOGV/dSGppebZmtFvdviOYarnoci5kfZaflSEKQoUWUDc4Va/TrAuqxk2i1bFr92fW8nfq1BkK8gOaLGIPjHZJhPcjqV8zHQedaI5T7G24uOTuwFTM4ZqIDZ4NuS/EzipimOJArRkTmobLbBOlcvR1tNsMS/7MKFsQi0GD7UNKEQEXn/Gy+PdleVnTuS5UBRJgnG4c5tIdEgCXURnkzz8hZGchfDYAgYMSIj1TIpbmyBulHAKDemBcKLHmaqH3rxokLzTA67vq6RC77iZL0mgdVeuAw0mDQEbjpAbq4AxAf0dC/w=;xGzGQ6rQFAHpQicBot1DTg=="

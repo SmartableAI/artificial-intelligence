@@ -22,6 +22,7 @@ images:
   - url: "https://media2.s-nbcnews.com/i/newscms/2020_21/3357371/200520-oil-ai-google-al-0752_6a6bf87340ba869d23f0d6a33a87699d.jpg"
     width: 2500
     height: 1666
+    isCached: true
     title: "Google says it won't build AI tools for oil and gas drillers"
 
 related:

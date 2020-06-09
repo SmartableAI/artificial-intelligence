@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
     width: 580
     height: 378
+    isCached: true
     title: "Why an Ugly 2020 Won't Change the Long-Term Buy Thesis for Arista Networks Stock"
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572732%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize"
     width: 1200

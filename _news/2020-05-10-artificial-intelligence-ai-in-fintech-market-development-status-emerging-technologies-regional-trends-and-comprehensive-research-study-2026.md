@@ -22,6 +22,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
 
 secured: "dikLC0z8Nf+UrccbFbW2v/SUE/GZ2q9ROU1jQyiGpwjNzlcjB/jkOvjf284sL9L8GRCM6u4+PI4mqdVJVFppQFk2Jl3BaGje4BFOsug7CoIf3P/5zV20g/ePPp7a8HBatge1meSL0mrsTW+uhEfZn0SjtRBkSYqqT5BI3XdBtyCGnERLT1asHhC9haDVk6cTTFAHucSVeqsjfCw6uoa1RcdeBN/RVtJHZ9PKq/3PBuNMdewYnAEQsR8FdrroutRZ486J+XQKkGMZXHcsK921rSo70kByeGEOqX7AnCiSc0ewYQ7hoZuojKszJgdOXzev;IjXvlkB1aSxKf6KlTKskQQ=="

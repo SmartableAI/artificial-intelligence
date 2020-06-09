@@ -21,6 +21,7 @@ images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F6f836204-8e04-11ea-af59-5283fc4c0cb0?source=next-opengraph&fit=scale-down&width=900"
     width: 900
     height: 506
+    isCached: true
     title: "Chips are down for artificial intelligence"
 
 secured: "bK48HGRjTWeE8o/bpSODc2NfD6i3M45GC8uWF0AZlYAaJbjbs61MpTm0BzaUDjEQJpwMpN9O3+rcJebYBccswEFk/pBxitgO5eInYM/iem0/dJAI7gG+NKHmscALPzfaltcK2JC5ZzeS2JvloFyhMhmjkpyBNqjdPAPPSvMh/fKFk5n0xrvZ4PpYPkLDHvH08VFkhyhXKRH3zUKnuISdO8nC//LxzPsjY0nW3eVt2VDkVHTNIj0KD6QZoM8hPV6ZAbfgmMbPxQk1Dx+s2u4wG9sJQlTEYKtDz3gf7KPLo+d2848Qx0qsx3KtYCZQNaPr;jSy8ZfDGLWesSrM9J3AGPA=="

@@ -23,6 +23,7 @@ images:
   - url: "https://i.ibb.co/mcZwqpL/1.png"
     width: 500
     height: 291
+    isCached: true
     title: "Huya Cooperated With Huawei in High-Tech + AI, WIMI Focues on AR + Live Broadcast System"
 
 secured: "l3V7HxPj72/UQ83q92pI8bjDEn+t/LLYSFOVjLbC/kP1jMjknJ7qZyv0Y5VmhId4KiwWmOX8oAawcKM4E510V1hFUhW1ohhyiXmvAdEJUGoeSfAl/kiktF7Ky8RUHHnpPA8nIquSs6dF4ezZAvdSC3O5cxVsBdJ3RKqPEWECxA8INlDVWWSX/gke5maTO5MGEPMKgJDHBcDgT/S/FoBcmnJg4G6F5Sjtivy4yVZDpia6bdYenvxGD2Qq8H9UPtQxYoCaGqBz7M0+RGD+7/zgKIE4W/r7eHqXgZ5grQcErejYyhAFWjiykIL0YMR7+9qQ;z/NlN4aTpr236347ijlkTw=="

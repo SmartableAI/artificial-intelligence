@@ -22,6 +22,7 @@ images:
   - url: "https://www.businessinsider.in/thumb/75604623.cms?height=275&width=412"
     width: 412
     height: 275
+    isCached: true
     title: "IIT alumnus-founded startup launches AI-based test series for UPSC aspirants"
 
 related:

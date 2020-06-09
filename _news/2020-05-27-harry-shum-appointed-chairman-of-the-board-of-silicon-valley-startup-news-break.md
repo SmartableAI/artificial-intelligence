@@ -20,6 +20,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Harry Shum Appointed Chairman of the Board of Silicon Valley Startup News Break"
 
 secured: "0yZ6i0zdO4UHLmOn+o4KEkQrEzI0fhXIHJ17EI+HkmK+CM4poKu5xMuEcdV++dBWcgdWar4abCAuj1CxF7K0nDNCuzDWWZThaGpQbReI2uZdJVzwZQVx6tzJdSbxefQVvHTywEMtsrVwfI+592aX1JMaImuVkxggdOKTWo3VSqSCy0apJRxSj8yZ0Fa6aVbvh4V/73NyZPgEcKuZo6E3kORV8dKDbNqXgJ4WUUB+ndQNs5HWSgz2Mu6jW/jkxjVUhwgFASyimz2tzC5iJ0U4gC/Bu4ad4Q/vz5uU96YXhx7LUoDIs7Zy6OO081BGQ1JX;voKpQunJkp5w2OK3gLgrHA=="

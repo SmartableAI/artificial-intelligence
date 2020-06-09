@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg"
     width: 640
     height: 640
+    isCached: true
     title: "Is Your Sales Team Ready For AI?"
 
 secured: "ppiuM6u8VGXuCEt/dBknMvhFX3BQklrkMuE7lzx8TeA+0eDbnyK/rgbig7qFF0YLDuKMbAaRZIM6RhBL+zaUkmut5ct0aDOEm0kalU4WnbJJ5dXTbdqzLt00EPbGnrluPQdpIy0xaY0nvMO03uf8xPbHgrDdMT85kgiVUUTS5yvR6qzvBlyPQpttsbOnNaqcH0JsMU9zukR3rdSspetY/Z+prb2TiKQHYkRaAsnVDutOuhip0+t4G/DgSSlDOy52sn84oT6KeStT6On+Fl7WW6J6hCN2xaai3peeBB7Gx96zgS7WujezRnO5OdbPVU24;2PiCfKFqx7l5n/QxtT4Fhg=="

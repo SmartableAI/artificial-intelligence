@@ -21,6 +21,7 @@ images:
   - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
     width: 1500
     height: 1500
+    isCached: true
     title: "POLITICO AI: Decoded: COVID-1984 — Workforce monitoring — Facebook’s AI elite vs. Elon Musk"
 
 secured: "1LMRQCuIO2avC9Tf2hSWqG2D1CS+ZjHSISZcqwyEqRpQWdF9ob7wr73aDJfg9CmtWFeX0ohXGlkeCn78LWQR3W46S0pJZKNtNgU6fdZHOX8jFEHNNwEDihFrBpi+7CiO+SzSsExqj7JXDXkwfUxUYsZRCYYg4iwZB+KAgwVhfKCLr4/MOjtDE4EBexkxHkehs6Zz583TLAjK9KHzGKPFzqxy6yFANcCw6wc4zUNTaZJRF8tjOPHGLuGvWKjIoHWTuk3YhCwoa/eEjjh2cyzg6FiNpl+xu/ELpdu9TxASlFuuLLZ0HyLZwohog9i+5ZlXKqDYrnSWGz6iSiFNZ7/QLkkwFb+wSJKpVtg7W5AUGPrQFOLPRRmtmNxqq5KMJeTgatcLIXAFlicY9uVwgntsd8prQ4PRspHOuDMJ59nMrdsziqaGSriKpiQbewId6IITUMcdgGC18vRNCfI0OXGXQTKYD0GJxcvU1dLU/3SRsOc=;soSpboLRibNLAda9nBRBjQ=="

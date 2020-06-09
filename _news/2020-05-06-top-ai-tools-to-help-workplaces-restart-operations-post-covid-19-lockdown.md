@@ -21,6 +21,7 @@ images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/afivelayered.jpg"
     width: 800
     height: 480
+    isCached: true
     title: "Top AI Tools To Help Workplaces Restart Operations Post Covid-19 Lockdown"
 
 secured: "gfcnmHDaqDD4rO6qpRHQRjmN0vOgIt0FBWPBJpZAo5bU3fgV4NDt5DIXqm3qRqdLZPSd/rB4Oy7eqiEnjarl94km+a61GZxly8DcDwg1nzsx25+oxjb7FiqAbGKAy4SG9JETa832Rs/aC2rmGKU7WFXzwhvvrfrpVpEIWYUvbik1/HrH7suSNc+q8VXubY5PmEdjT3j7i95RwBy438GoqRFh/apwSHgI/cgWEohDIG44a3lXRovjGrrBm16/KQIULosLzvIhXNAbQi/8ItDrfP9I39JfpRoluye52F+dOWvEml1Zr8R3V9pgKBbUEE6u;YC18LK62EhbQYtS8CAVrEA=="

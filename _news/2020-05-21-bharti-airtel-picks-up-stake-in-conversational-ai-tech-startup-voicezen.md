@@ -20,6 +20,7 @@ images:
   - url: "https://assets.vccircle.com/uploads/2017/03/airtel_re_810.jpg"
     width: 810
     height: 506
+    isCached: true
     title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
 
 related:

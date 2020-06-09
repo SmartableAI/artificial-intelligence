@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Behind Microsoft's healthcare cloud strategy: 4 details"
 
 secured: "2V7mbpdqNU2pIXFLjvZd0Jdne0SyDgkJvI0w72HC7EKftgVmhGaXf2zdiciatP37c+e6ManqNxJDt12DvW/1Oxd5y6ih82rIPYJPg5xgiiTC0gK2J/4vgqNWorK3RcRpbcgk+XZoGE74ASf9+PLXG+srovF6yXvO+z5MGvAlx3VRNN9V0gSoaurYWcRTyWKCKD/ew6kaFOgdxCVBIMHyF17nY1W8Cg6WFzGxxwm5bqRkc8MJacnCpdY9dKWlB9dPgV2b4l7ZH8UEe2QKcaCiDYuLfGi65bU0xFo6+jXRyLCsRjql4iCXRg4dDTIoK5+L;hPBlD7KVPwHDh35ZYCL2Eg=="

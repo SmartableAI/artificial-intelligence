@@ -21,6 +21,7 @@ images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
     width: 2000
     height: 1333
+    isCached: true
     title: "Aware adds voice recognition and passive liveness to mobile biometric software Knomi"
 
 secured: "MRsgG6Oij+JFfjC/0eGQV/vofjBW0ylIniczKD9KsqqzgTSOzssfLejXRz8P7hh1gX5lU5+ULlUlRL80IqCi61IiSG9JCb4ezERUYxtz+jLP5vGa5C3MdHaom4toZDItPM/vuAOHyeEnAXYWvXpYCfiswwkJlB/1/djkMBJvEwX34M34utw2zCO8aZGkyvvgOhR8dsoJKYyyFrmYeK3yS9INX71tkTaskLxE2YqdsyFuh6wyYKyn3cS1wZldB3I8ivSKF8CIsDHnUof6Fn3RxNIprevgQgHrQ/j7Aa5hj/olZOnCQA+go6Yd6muui81VC/y+nWQSFsBm8TLasSzs3pTIC9ioGIshb1ypT6PIbI5Z31ILL+C0kzqqcMFVbrCRF6Xj8tXorUOMv6HHFtjz1zofDpeiKv4vFo5vvAvi4e8RBK9MsOlWzC9nDmHiLUvaksEBsxJYUjsIMJbkrS3UY0HefpdMyH0ypG+UZLBZjCw=;jN7SqfnxKRG1yvtlDvqSUw=="

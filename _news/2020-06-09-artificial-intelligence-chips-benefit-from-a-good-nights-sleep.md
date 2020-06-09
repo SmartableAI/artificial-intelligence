@@ -27,8 +27,9 @@ images:
   - url: "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Artificial intelligence chips benefit from a good night's sleep"
 
-secured: "8Xd1dj9BjLRsk6YZONlfPL3Ef6wEqi40FzP0XqdVok++DyxY18jwIcG8avnepq8gn69vjSyIcFWZw7JyA7H+36HaJXG/OlFmq2BlzxwKxk79xEGRVw0k4vzyucGL3on3xVR+ud58Gt8dyFjny9c/XpIom5zZhxZAhoFoe9cMncnOEy6JQO/at9BKSE7LvbhprwxfKvUsUSPj+ht/yyBPOIEgsk7FX7+e+RKnxrv7OFF7/K41L+X7eEYcmzGK9u8HkvShmCmMoDSdhEb7t3XSGZwCc9WHzZj2RO69ngficjCtT+KLkI+ONgO2rsOs7jZaVUJuRAcjqHVBK5PI+c2mUac+bGBhc7R1wHsOzS9hU8LQTE3kbG3UdSy6gCZN9aBlTvsv+uJZ3Sc0xW1QTnBKNzZghdE24uq7d0QIel/Og1wbiBvuaZt7xmSlgymcEDBqQDAKr7fLY+2clG8pC1nGh8oNlqyPREVXKoUsyqZZbwQ=;yk1rA/lTSZiMUjA98zgcPQ=="
+secured: "Eb2e1WdY7A7iuZvtQGSU1klFimTKc1KhOsOFgIjWie1vGowfnASUamBtiAlTo4evDvmVwx//lDZXxAUyXUYCwQvcFB35j5dj+4AOy9l3eoe1zaF8g5F+b24K1gi/VLCYe1O31pCrYpl7EH2V+bhWBTVHq3IJa3Br9vnCcRMOAJMyJj03GSCXDFZIu59pW1P8OyifjyZeT4h5uL1RMFSWRqjQ1fYvvb/f3f2cPEBzDzPBNdkVqPal158YMBe/866TX4TG96XvJGQOYv5hoerjN1KItDlcz5BmR71m6AnRRgiubIL1Dn9tK3ECZlRlPF2pRzvLJhlZCVUGIBYkL8znML+i2NrM2O2KsdA4Fw/FnUEWKWQNKJj8NOmbAikVx+yr75oTUduOwjZh77W9btpfNyIZHkDzzlTfwp+/i4Jvr1My5yH0G2ItBSun5rEw97p8crdXdM9xZUG9dHl4oIjq3WWgJkowCNC+3Sp3vxi2Pt4nXiVb4yMUA7T/Nwp5D9HH;Q0abcx8bFtX8TR/48FDy7g=="
 ---
 

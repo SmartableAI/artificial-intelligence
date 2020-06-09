@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410"
     width: 3986
     height: 2657
+    isCached: true
     title: "Elon Musk has a complex relationship with the A.I. community"
 
 secured: "RAaB+g4wrd7vGhdR8JJlNS4ywkanLsx9aCNa1zdOStXtVJBXQS8Br7ZW3qrNNycC2iTpTqunrG1W5hjCC5k/vIDtO74eQgi0EsYhNowHqV/5HiU/Fps7snYQchAJ/QyUg/igvqqIM6pbTDmCIwRZZX93lk2HiXN1FFFRyRqS5aWos3fC7Rm6nFd9V9P5zWvi2zCDuLHM8u7hWDrQPc8MfJAq5tBsYE0r3RBPXsfXfW3ScUQb4qUdqFCuOFnIgCQ/6nnIspxLXkZWUc6SddJxckddYRTfSNEUfKkHakBhnOXNNgmzgzSVR0utMogtwXsH39H8BWGTBZ9WLY/GlavAbwv5ZWMQZxWrVhXbN2e7DoWRIMSFm64NWJhlnzPsS7MEC6sdlmoo0kQPGudi4zDXc1NDbmqo5lfcofXJPCzhf9MJgQKcW1sz1XCdFjofJXP1hubfpNOxd/qaOhMbZT1IKBKYBnTzvYsWiaVwqksFlj0=;/5NPkn6eitnnQzGYyRCLyA=="

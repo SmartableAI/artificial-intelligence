@@ -23,6 +23,7 @@ images:
   - url: "https://i.insider.com/5ed176fa3ad8613dbe717645"
     width: 1600
     height: 1200
+    isCached: true
     title: "20 LGBTQ figures you should know"
 
 secured: "+86XcTzyBz5TTopBliMz4CUXM8W2qMWgOgszvyM0Ej0lQR8b+zwuPfETdMpOJ938xLu4ctOf3zFO9GDBoaXKWk+/Zckf+WdPiPjUpXf3TL4N1LpobnDM883Ccpn8WQ+iJj1GRR2VJDKHHBZkecrFVFpc066zjUizINLTtg7T4iBLcDfD3vwMifF+v/GMl3xgXYYzYlUMKNS5wnwPnwaE0gBa4WejhGTq/gkUWAUWPgM3sRJQ/93p3YHf7yJo0jzeuYXao1H4bY1hOOJdfU1yE4kmCFfKFFAWbZ7Vy7tOQJJiGaGiZB3RwaVhTnHlArkM;oo9Bk8VHE5nAcR7LSoiU9Q=="

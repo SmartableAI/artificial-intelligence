@@ -21,6 +21,7 @@ images:
   - url: "https://www.storagereview.com/wp-content/uploads/2020/06/StorageReview-Dell-EMC-HPC-with-VMware.jpg"
     width: 850
     height: 850
+    isCached: true
     title: "Dell EMC Ready Solutions With VMware Accelerate AI"
 
 related:

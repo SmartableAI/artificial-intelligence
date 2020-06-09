@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif"
     width: 500
     height: 398
+    isCached: true
     title: "Coding with R on Amazon SageMaker notebook instances"
 
 related:
@@ -41,6 +42,7 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/29/persistent-custom-r-011.jpg"
         width: 1000
         height: 375
+        isCached: true
   - title: "Domo Announces Support for Amazon SageMaker Autopilot"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2020-06-06T19:30:00Z

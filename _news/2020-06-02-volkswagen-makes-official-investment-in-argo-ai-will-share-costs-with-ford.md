@@ -26,6 +26,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Volkswagen makes official investment in Argo AI, will share costs with Ford"
 
 related:

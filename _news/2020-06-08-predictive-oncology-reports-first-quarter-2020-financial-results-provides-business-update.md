@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "Predictive Oncology Reports First Quarter 2020 Financial Results, Provides Business Update"
 
 secured: "WxHb5qBRya3zIYxiJDTYoJaniqJ/NsvBN3PoeOjMsJMFn/Yqccpi+GEATMkq6jMGgbAMgs2bgBB0Ws8LFDRkdQxOa77zuBdHzcjlesO/rgdIIoERgqr+kMr5d7Y3tfs3gSHC25q8HhVpifmEEwa1pW/eCLOPRQLG58hV51wcq8BD5MHKVlQmkqRxTKxkWYOpF/tm+B3Q1Adkke+6wi0pnXqU3IB8BpYzAsUr3IeUoLbUeP7GgzOA/zEUTk5HnpDiFORjQAoJ0XsPIdkOg/eSmaj65SnyhNbAzXcq99m5tv7zNK6Wm+yXPhCcIUVRcbyO;1iCMdP9z2ugudFK30tezoA=="

@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 800,
           "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -71,7 +73,8 @@
           "width": 640,
           "height": 360,
           "title": "Pandemic is showing us we need safe and ethical AI more than ever",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +107,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +120,8 @@
           "width": 1200,
           "height": 630,
           "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +154,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +167,8 @@
           "width": 1200,
           "height": 720,
           "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -195,7 +202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -207,7 +215,8 @@
           "width": 2400,
           "height": 1350,
           "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -240,7 +249,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -252,7 +262,8 @@
           "width": 1200,
           "height": 675,
           "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 796,
           "height": 417,
           "title": "US joins G7 AI alliance to counter China’s influence",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -336,7 +349,8 @@
           "width": 480,
           "height": 270,
           "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -398,7 +412,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -410,7 +425,8 @@
           "width": 970,
           "height": 545,
           "title": "Unlocking the value of values with AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -443,7 +459,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -455,7 +472,8 @@
           "width": 1193,
           "height": 872,
           "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -489,7 +507,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -501,7 +520,8 @@
           "width": 757,
           "height": 468,
           "title": "Towards A More Transparent AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -534,7 +554,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -546,7 +567,8 @@
           "width": 1200,
           "height": 600,
           "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -581,7 +603,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -593,7 +616,8 @@
           "width": 1200,
           "height": 600,
           "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -626,7 +650,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -638,7 +663,8 @@
           "width": 796,
           "height": 417,
           "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -671,7 +697,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -683,7 +710,8 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -717,7 +745,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -729,7 +758,8 @@
           "width": 2400,
           "height": 1350,
           "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -763,7 +793,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -775,7 +806,8 @@
           "width": 1200,
           "height": 674,
           "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -814,7 +846,8 @@
           "width": 1280,
           "height": 853,
           "title": "Child psychologist says AI can help the poor amid the coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -851,7 +884,8 @@
           "width": 500,
           "height": 281,
           "title": "AI set to transform healthcare in world’s poorer regions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -888,7 +922,8 @@
           "width": 960,
           "height": 540,
           "title": "Google cancels AI ethics board just a week after its announcement",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -925,7 +960,8 @@
           "width": 1602,
           "height": 906,
           "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -960,7 +996,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -972,7 +1009,8 @@
           "width": 970,
           "height": 545,
           "title": "Building transparency and customer confidence in AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1005,7 +1043,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1017,7 +1056,8 @@
           "width": 1200,
           "height": 573,
           "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1050,7 +1090,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1062,7 +1103,8 @@
           "width": 1013,
           "height": 773,
           "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1095,7 +1137,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1107,7 +1150,8 @@
           "width": 770,
           "height": 578,
           "title": "Call of AI Ethics: The origin story",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1140,7 +1184,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1152,7 +1197,8 @@
           "width": 1200,
           "height": 848,
           "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1187,7 +1233,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1199,7 +1246,8 @@
           "width": 1024,
           "height": 682,
           "title": "Technology and ethics in the coronavirus economy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

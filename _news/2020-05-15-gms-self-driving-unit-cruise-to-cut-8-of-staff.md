@@ -27,6 +27,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
     width: 1920
     height: 1471
+    isCached: true
     title: "GM's self-driving unit Cruise to cut 8% of staff"
 
 related:

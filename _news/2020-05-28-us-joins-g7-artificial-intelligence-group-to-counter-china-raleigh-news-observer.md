@@ -23,6 +23,7 @@ images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/d4248f89-2748-46df-bd94-d9dbc306d039/8f442ba4-5c7b-4b49-997d-622eb9efe742/1280x720/match/image.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "US joins G7 artificial intelligence group to counter China | Raleigh News & Observer"
 
 related:

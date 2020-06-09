@@ -20,6 +20,7 @@ images:
   - url: "https://www.fedscoop.com/wp-content/uploads/2020/05/6213810.jpg"
     width: 1920
     height: 1280
+    isCached: true
     title: "JAIC awards biggest contract yet to buy AI for the battlefield"
 
 secured: "BhNmyOVe8TejgS+96hXC9CKLfWSaioIQAatewJ9hOSaaVCGMhuwo8C9r+3XVJ1Ld/RUOpbh8snaVHecKRfBRLeaErOYSqEeueCypSEao2co6tKpkJXLJ7JRw59sZTHzrNGjUDFkgBlZvI775vkM0gg7HowpNLduTmIs5YnFlyw8pQ/sKsbZnzskPgZuAzSn8Lk1sDN7vmuqBPnWRMs/EFBFcjmhYIpD4pQ1j19+IKPArXtVqYeRWy3pV+jlQU3YxaoFng/MwTxTrrhe0GbApiHOQNGI0obKvjceO/KamQ2ppG0a8TbcF2GSv7UaFPDfv;NwKFujwnkWzzegtXpy7kfQ=="

@@ -25,6 +25,7 @@ images:
   - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif"
     width: 1200
     height: 583
+    isCached: true
     title: "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services"
 
 secured: "hjUF5J6XGWOWkJ5I6wH6GZQ2QeOw4ud7VrdpFd+fnx55p6JEcEpUDajiWt27xLIT2wjil2YYhNNSIC69zl75slMNwA3uOYDKb0FZZvyQxdHPuyZsE9gcoKk8PjfoUn1TaHvQn8yMOJPYL3B6zJV3YXtbwOFY99Uk/Hq4Kmmm0XZFdUBtc6qb1puqtApYauYpDpfotcdbcue9QONXPICUqbTDkxStpcL/I8j3bzqG4RhAT+a2nivIqdDSvFAWeseM6c0CfboUAxp0OdRV3XEYkeVzkP6vdgCCQcr4nGP9fJ7x2+KFomEWLHy9Gx7ajpj06EVRR6PlAOsfwcCmzUiPCQ==;DTWFilbQFDHXY7HghL/TTw=="

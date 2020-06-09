@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports"
 
 related:

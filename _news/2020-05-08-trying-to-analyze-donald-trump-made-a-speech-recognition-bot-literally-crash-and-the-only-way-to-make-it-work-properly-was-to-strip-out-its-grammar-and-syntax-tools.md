@@ -21,6 +21,7 @@ images:
   - url: "https://i.dailymail.co.uk/1s/2020/05/08/21/28176754-0-image-a-30_1588968726012.jpg"
     width: 636
     height: 382
+    isCached: true
     title: "Trying to analyze Donald Trump made a speech recognition bot literally CRASH - and the only way to make it work properly was to strip out its grammar and syntax tools"
 
 secured: "lAYHsnyKDH0KDlb/kaR78OiJWlQU6Njy1lipaZTTpfuqG8DXZAf84n5u3OBYfGXu7iDE1roa7TUWjYQUD20mKd5wLZoaKHVjZYztm8cEIhMrIe8BXBNsBxcV6/xkUVT9BBz9ajtBYRiSm/5ycGQfyz0ue/Dz4SY19VWghPtE53W9Dx6TkWn+BnWsiCJXZVDlCcwIPeMZm9ZqfQREOYdvINXVpIA5xt2qVFoBvgWfBpuHY+/hlWblakjMgvoAunU5YSBr16blY1Tt3evnNNdid9+fuL6ckSxAS3Ynagrs44Q41y8pIUoPPZvAY+61OU6U;UPLnTZt4Av6cwAKSZ7z8ZA=="

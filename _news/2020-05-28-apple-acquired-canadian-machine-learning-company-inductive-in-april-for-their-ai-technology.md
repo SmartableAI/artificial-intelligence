@@ -21,6 +21,7 @@ images:
   - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263ec1dc8fe200c-600wi"
     width: 600
     height: 228
+    isCached: true
     title: "Apple Acquired Canadian Machine Learning Company 'Inductive' in April for their AI Technology"
 
 related:

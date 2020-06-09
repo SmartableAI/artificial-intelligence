@@ -18,6 +18,7 @@ images:
   - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F1UEM.jpg"
     width: 647
     height: 450
+    isCached: true
     title: "Cisco and Microsoft Partner on IoT Device Connectivity"
 
 secured: "+4dDnP/ezLY5ezKSGYhedwGO1aHFFfivWnhGACgLRW3F2qK7IhJy1hMU4V2SWF7OZY/oa4lv4tUYh8TvbUC+VCQKBynA5buh8hvhc/r/qa+5jdbHy4JQfQbQJEXLyaeJRti5gwn8d9KK6hEDbqbTiVpsbz8o/YxshGDPGLQoUpZL9vQS69yYhHQHPdwtYQI3Qh/rM9zj3TAn4d0R1M+dxdUiSuwDw/yuOMh+WoAPK/pmXQK06NwTFEFtNi+EfQeBU9dA2KGhlUpfePOfymbqydIk/1I5bOp1S9ip9d9OEeN5BFykxe/On9NQzRCcCkM1;ZdeNtgGRJzYub4SDd09lXA=="

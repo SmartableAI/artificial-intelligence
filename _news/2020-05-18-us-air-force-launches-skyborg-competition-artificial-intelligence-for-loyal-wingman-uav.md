@@ -20,6 +20,7 @@ images:
   - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/1/2/0/70120_usairforceresearchlabratoryxq58avalkyriedemonstrator_605835.jpg"
     width: 2000
     height: 1333
+    isCached: true
     title: "US Air Force launches Skyborg competition, artificial intelligence for loyal wingman UAV"
 
 secured: "0R9QmoZnSRpSkz4Q/ZIoqh0K70bqRdOd6yfxzwLQZ517GvchLFBKbv2DSnqiD9l8kKhrbG0N68xpT4+CJoWwu9caGsJ1boRrZzqjnqFSxHZHUPjlatlhwxYO66xiLIx54mt+S813qUnqZtQvc13EnX740Ocopp0YwjW6vmry4dB8btcGXguN60N4cqPQdJOvg5LRZBp6+wdJAiadMTqMnOYwJCWsvZMxaL/9oFXAFIE3KrQslWmJvQWidujsAVcGctFfcPvbjZwwV8E5cuCGmC7hXfFRrJGYNztHgskYHSWLblfrB+pSew45sL9c7gRFAhq1VWSm4AGRT3TrWb7PbeetfkB7sPaiZ6KZIt/oq2Qj/SRZ1cpOBEVLVOHgmWBlfdDbWMNFTCrYZWrnCFopzlxKhYL/4gPl6yhi4CbcTjJpHRAfKvhz3tzE278bPyVOQNT49RVEMpfR+jn6HDJEEMBVF8LHS5GMl3BGA+vnZUo=;JtiAYReyTq/jQoMx1pxpaA=="

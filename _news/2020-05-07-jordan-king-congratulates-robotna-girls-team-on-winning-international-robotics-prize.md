@@ -21,6 +21,7 @@ images:
   - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
     width: 300
     height: 250
+    isCached: true
     title: "Jordan- King congratulates Robotna Girls team on winning international robotics prize"
 
 secured: "T+cC7H7YbwE9wD5RYl7+TgayzYULtmH072X0+6OvNzsjcHGrARdD429VUt/JcRFbreElUqLoelXa2Yr7l1ovC9WmlbSViS+xNDGYptgVb6v1OPdCUjW7M7txUSkjHNi2IF5xcsaavLzhEdMFbKDO//DjXjR9P/YTVzNYqHbTJBPgNvBMppcpDvrUDRAHuBW9UNh02KDuZr4F5KFSMfMqIaG5CrnNNtGey1Acmqb9z0p5ENcmpKwnaedDXEcHi2UD+XYg29yzSWEjTf9Z7AouXrRMKsuQYsR22Dny4Se875pd/+jd99LB+d9us09hISBF;5WVZS+fg0klndPNXsrj5Jg=="

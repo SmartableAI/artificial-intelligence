@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/26/22677008-082b-5f97-93a8-3e76f2dfcc4f/5ec47383aa920.image.jpg?resize=400%2C353"
     width: 400
     height: 353
+    isCached: true
     title: "Sleek Fleet Launches Proprietary Machine Learning Platform to Find Perfect Driver for Every Truck Load"
 
 related:

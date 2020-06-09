@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global AI-based Surgical Robots Market 2020 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2026"
 
 related:

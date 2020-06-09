@@ -22,6 +22,7 @@ images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/31/w600X390/AP20143199262804.jpg"
     width: 600
     height: 390
+    isCached: true
     title: "In coronavirus-hit South Korea, Artificial Intelligence takes over to monitor lonely elders"
 
 related:

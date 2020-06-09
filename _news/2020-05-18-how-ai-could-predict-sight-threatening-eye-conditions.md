@@ -27,6 +27,7 @@ images:
   - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
     width: 1000
     height: 1000
+    isCached: true
     title: "How AI could predict sight-threatening eye conditions"
 
 related:

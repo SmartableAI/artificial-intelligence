@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/NVIDIA-Drive-Ampere.jpg"
     width: 1517
     height: 800
+    isCached: true
     title: "NVIDIA Drive upshifts to Ampere GPUs for a smoother self-driving roadmap"
 
 related:

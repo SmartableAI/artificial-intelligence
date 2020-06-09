@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1200,
           "height": 600,
           "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -106,7 +109,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -118,7 +122,8 @@
           "width": 600,
           "height": 350,
           "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -151,7 +156,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -163,7 +169,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -196,7 +203,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -208,7 +216,8 @@
           "width": 800,
           "height": 448,
           "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -242,7 +251,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -254,7 +264,8 @@
           "width": 560,
           "height": 315,
           "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -288,7 +299,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -300,7 +312,8 @@
           "width": 1200,
           "height": 600,
           "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -333,7 +346,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -345,7 +359,8 @@
           "width": 1326,
           "height": 745,
           "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -378,7 +393,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -390,7 +406,8 @@
           "width": 620,
           "height": 349,
           "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -423,7 +440,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -435,7 +453,8 @@
           "width": 1200,
           "height": 800,
           "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -472,7 +491,8 @@
           "width": 750,
           "height": 563,
           "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -505,7 +525,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -517,7 +538,8 @@
           "width": 817,
           "height": 545,
           "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -554,7 +576,8 @@
           "width": 3000,
           "height": 1815,
           "title": "Brain Hacking With Entrainment",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -587,7 +610,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -599,7 +623,8 @@
           "width": 1440,
           "height": 800,
           "title": "Sphero startup will make robots for government and first responders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -632,7 +657,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -669,7 +695,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -681,7 +708,8 @@
           "width": 1200,
           "height": 600,
           "title": "Sphero spins out Company Six to bring robotics tech to first responders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -714,7 +742,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -726,7 +755,8 @@
           "width": 2400,
           "height": 1600,
           "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -759,7 +789,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -771,7 +802,8 @@
           "width": 596,
           "height": 344,
           "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -804,7 +836,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -845,7 +878,8 @@
           "width": 1200,
           "height": 878,
           "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -878,7 +912,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -890,7 +925,8 @@
           "width": 640,
           "height": 640,
           "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -923,7 +959,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -935,7 +972,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -968,7 +1006,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -980,7 +1019,8 @@
           "width": 1024,
           "height": 544,
           "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1017,7 +1057,8 @@
           "width": 615,
           "height": 384,
           "title": "Vanora Robots launches AI-powered product for hospital disinfection",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1050,7 +1091,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1062,7 +1104,8 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1099,7 +1142,8 @@
           "width": 500,
           "height": 281,
           "title": "Five robots that are saving the US food supply chain",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1136,7 +1180,8 @@
           "width": 620,
           "height": 331,
           "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1173,7 +1218,8 @@
           "width": 747,
           "height": 498,
           "title": "E-commerce startup banks on robotics, AI to win consumers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1206,7 +1252,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1218,7 +1265,8 @@
           "width": 1024,
           "height": 768,
           "title": "Help wanted: Autonomous robot guide",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1251,7 +1299,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1263,7 +1312,8 @@
           "width": 1680,
           "height": 1050,
           "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

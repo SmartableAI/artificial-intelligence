@@ -21,6 +21,7 @@ images:
   - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/05/22/ab_tilghman_220520.jpg?itok=Kwt9lR3b"
     width: 763
     height: 509
+    isCached: true
     title: "Newly crowned The Voice winner plans to use prize money for family trip to Disney World"
 
 related:

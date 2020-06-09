@@ -23,6 +23,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/GiDCjmXwz52GeJtpGPC6Kc-1200-80.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Intel teases enthusiast gaming Xe GPU with 'tens of billions of transistors'"
 
 related:

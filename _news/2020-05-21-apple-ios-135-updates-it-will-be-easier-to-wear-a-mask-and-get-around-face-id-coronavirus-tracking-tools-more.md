@@ -23,6 +23,7 @@ images:
   - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/WOGKDICRXVEULOPV62BCSX6GBM.jpg"
     width: 720
     height: 406
+    isCached: true
     title: "Apple iOS 13.5 updates: It will be easier to wear a mask and get around Face ID; coronavirus tracking tools, more"
 
 secured: "SEEQ13EKMpdyUlzxmKAdf45s8wR+17oK3huBXEb8c+szN1RmPvNXWPuYtIP9ZCpCqwWlSXkDcEvjfARaiHnxvgzwtorHowjugHI5ZRRwpCDiys2fvvOiwayPyMaH/28WpatYV/RL/2YqtuMtjXWm8qg+Uq/yWeEnjXDuM/EA1Z88l1QD4BgnnltMWm6n6xVGyZKM6CAw4xbbSEdhV8G/5cOkzxM3Tyi86JiJ0j4EICkEy6zwsh0mi6Y2X0zpSr/24x6vvewSEmqWNbyuoX6ZGSq6k9+sjy9f4nVKnLTf9YhwGQ54waLN7Sg/vf0LhM2X;klXv+9LHxQLMcS7ZFR8VLQ=="

@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Machine Learning as a Service Market 2020 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2026"
 
 related:

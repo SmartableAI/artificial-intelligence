@@ -18,6 +18,7 @@ images:
   - url: "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png"
     width: 936
     height: 624
+    isCached: true
     title: "Inference Moves To The Network"
 
 secured: "Ka+UhhiwDikRJx9+6QYZFKL1VMo7GifXxk46qwCLwtZzQFaotqXRiJvAXGAFSrexw7VKxb7mGQb5ksetAVw+mqUge/c4pk+1snftXgi4BvzjMidzLEwlJnSSW6QXXp6YFevWhXBx7zzchKIJRLZm8A+Kd4rhmftFLMuFTTcDnxVJNYXZHYIP+YlIJo9z8dF53OakOaGb1ah9DG/vZVuPXFDhnKF3n6DouDCaP2iux6qp7tTNmtcQYWea5TlSkZ4lW8xJoqWYa4z6q/HNA2NvsajDY1DocFvDeab6monUVjkOI743n6kbz/pkpDtzF18/J+IswS6hYztVMa3uxx6eDQOSFl4wVqwJTlgY9Lg2LMLejGJCgBKjDPY17o9BaEOMLqF2g8OftgtAJiIgeOn5yxcH1Dml9SZn+y0UQQJIRPfkWHEFYhSAt4RGen0Rl7tHCYoJ2EDd6GgxwHsSJeEox5o3yvA6LZRnEfDuAWtO+9Q=;n+/Vy3jIpxvOPAl/4ia8KQ=="

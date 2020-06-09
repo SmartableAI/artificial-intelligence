@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/19/9c1802a8-a999-47f7-b53e-d3abd334f523/instance-mask-projection-model-graphic.png"
     width: 1071
     height: 849
+    isCached: true
     title: "Facebook develops new AI techniques to one day make \"anything shoppable\""
 
 related:

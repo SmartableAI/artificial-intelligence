@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Learning Analytics Market is expected to reach USD 8.3 billion by 2023, Influence of COVID-19"
 
 related:

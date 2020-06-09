@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +35,8 @@
           "width": 1200,
           "height": 590,
           "title": "HSBC introduces index fund built by AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +82,8 @@
           "width": 1200,
           "height": 900,
           "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -117,7 +121,8 @@
           "width": 1200,
           "height": 675,
           "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -150,7 +155,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -162,7 +168,8 @@
           "width": 1200,
           "height": 600,
           "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -196,7 +203,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -208,7 +216,8 @@
           "width": 970,
           "height": 545,
           "title": "IBM publishes wide-ranging free data sets to assist AI developers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -241,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -253,7 +263,8 @@
           "width": 990,
           "height": 498,
           "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -289,7 +300,8 @@
           "width": 1200,
           "height": 627,
           "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -326,7 +338,8 @@
           "width": 994,
           "height": 600,
           "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -359,7 +372,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -371,7 +385,8 @@
           "width": 990,
           "height": 498,
           "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -403,7 +418,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -415,7 +431,8 @@
           "width": 600,
           "height": 338,
           "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -452,7 +469,8 @@
           "width": 660,
           "height": 440,
           "title": "Techsplained@FE: Ready to chat",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -485,7 +503,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -497,7 +516,8 @@
           "width": 1200,
           "height": 675,
           "title": "AI models are struggling to cope with our rapidly changing world",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -530,7 +550,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -542,7 +563,8 @@
           "width": 1200,
           "height": 800,
           "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -577,7 +599,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -589,7 +612,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook is using more AI to detect hate speech",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -623,7 +647,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -635,7 +660,8 @@
           "width": 1200,
           "height": 851,
           "title": "IBM’s Watson AIOps - A Killer App For CIOs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -668,7 +694,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -680,7 +707,8 @@
           "width": 1200,
           "height": 675,
           "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -714,7 +742,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -726,7 +755,8 @@
           "width": 990,
           "height": 498,
           "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -758,7 +788,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -770,7 +801,8 @@
           "width": 2400,
           "height": 1600,
           "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -807,7 +839,8 @@
           "width": 1200,
           "height": 800,
           "title": "IBM retrains Watson AI for IT operations",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -844,7 +877,8 @@
           "width": 1200,
           "height": 800,
           "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -906,7 +940,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -918,7 +953,8 @@
           "width": 1200,
           "height": 800,
           "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -952,7 +988,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -964,7 +1001,8 @@
           "width": 1200,
           "height": 600,
           "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -997,7 +1035,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1009,7 +1048,8 @@
           "width": 990,
           "height": 498,
           "title": "Women Leaders in AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1041,7 +1081,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1053,7 +1094,8 @@
           "width": 1200,
           "height": 633,
           "title": "IBM’s new CEO lays out his roadmap",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1086,7 +1128,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1098,7 +1141,8 @@
           "width": 580,
           "height": 378,
           "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1131,7 +1175,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1143,7 +1188,8 @@
           "width": 1200,
           "height": 905,
           "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1176,7 +1222,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1188,7 +1235,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1222,7 +1270,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1234,7 +1283,8 @@
           "width": 708,
           "height": 534,
           "title": "IBM CEO Krishna: Every company will be an AI company",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1267,7 +1317,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1279,7 +1330,8 @@
           "width": 1000,
           "height": 690,
           "title": "IBM Watson AIOps automates the detection of IT anomalies",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

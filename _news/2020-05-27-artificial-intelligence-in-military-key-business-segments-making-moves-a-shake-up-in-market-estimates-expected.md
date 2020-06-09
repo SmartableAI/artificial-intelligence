@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence In Military Key Business Segments Making Moves, a Shake Up in Market Estimates Expected"
 
 secured: "/90wn/r3m3OCW6wjk1HfbFs6/+WAlW8Oj8gGTAmqAJL5ovsAlpWYiOuB9fyt7UQsZsDlgU+u5xgWFoJzOPs6md3BFt3p9HAyR3VBdeKgQkldiHLGkcC3MLQlMKwATg0hueIZITkTvDxjrVFTRzNrgAGRFpesZb+HXjGjnOK26xp2T7cf0sIIWa7bEZITwPT/sZvqpzhKulKJshNtZxLXETeT+NB8fKdLOwo4JdLmvtlqsWjNjilvqp71ZtWyJZjfHNGe08lDwpTnYespG1okvU/sMrO1yjgGQjs7sCeJkrdgoHPqBoBuU0qlF30myYEX;Jm9RO8Uq3yaVAxJw1N+WCQ=="

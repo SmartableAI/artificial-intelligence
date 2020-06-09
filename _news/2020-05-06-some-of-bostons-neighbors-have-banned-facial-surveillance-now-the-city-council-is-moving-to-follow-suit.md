@@ -23,6 +23,7 @@ images:
   - url: "https://www.boston.com/wp-content/uploads/2020/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_blanding-010420-cameras-850x478.jpg"
     width: 850
     height: 478
+    isCached: true
     title: "Some of Boston’s neighbors have banned facial surveillance. Now, the city council is moving to follow suit."
 
 related:

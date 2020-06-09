@@ -21,6 +21,7 @@ images:
   - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/233820_web.5eda5eeeb8ced.png?auto=format&fit=max&w=1200"
     width: 1200
     height: 673
+    isCached: true
     title: "AI, Robotics Combine to Conduct Autonomous R&D"
 
 related:

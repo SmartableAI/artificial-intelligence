@@ -23,6 +23,7 @@ images:
   - url: "https://regmedia.co.uk/2020/05/14/a100_1.jpg"
     width: 2000
     height: 1700
+    isCached: true
     title: "Ampere, Nvidia's latest GPU architecture is finally here – spanking-new acceleration for AI across the board"
 
 related:

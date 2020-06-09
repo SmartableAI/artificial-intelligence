@@ -26,6 +26,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Impact of COVID-19 Outbreak on Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024"
 
 secured: "inFanYIrUnFnlaMhjHnoW4raKWX2HAHl/23nsqqxgj8b8zUHnRvpB6JSwZl04wel+QBt7l0Gx+BX7XbMKBmWyE80Qd2B0nK1yrWGwg6okflC/eeSJhvz5+qkseJG4xWcTB0QANLuYVnWldxey65wEKQpu5AXhVxZOrHHy1e+lZmbR6QFnSziK8EofD80saFj5CHERmnIRL27g229aqvC6GlLmVZnamddPeR0/1nZjNi0xpPEicLrdX1XrKjjCAvfiJkCQueQlPTMZ1jE7l5VMpZ095TJGO9wzGvMY17HpBuyNqc9v1bgF0VO+LyuANvN;VzJFB41UeDEks99ZgCNvRw=="

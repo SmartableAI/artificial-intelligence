@@ -27,6 +27,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb413ca76d463000676c602%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453"
     width: 1199
     height: 675
+    isCached: true
     title: "Google: The Next Big Fintech Vendor"
 
 secured: "Qa/5/6v8aMzHoRSVgwAYT1VXu4Z60+SWXNdRZRA8FtP8uH5H/ed1WvanmdXVMx/R3rTc1CsZmoyVcQYLOZiFKAwZ3lab5+J8R2qesV2vczRCZ3AaPk8Mutd3N8lIzAK7SRb2gCWrJcCTeM9qTjyvm0SeEHT1rz3teE8nN7QPCMNLo38F1oGnOXwYsTAGOd3GaOpfdy6hxfNrxCRZkcB8dmJexScboGBA2aPbNAEhfGUZr/m0Z8u7pevSwPBg4GcHWsiEKSlcNnIGcxOrPjRWMCbusoQ6/odPKJ/Vgb47t1G2aeQUG8wVYbCz3bQ+O39JJg/KqKt2ngHWx9jUcn8XjyhNdjPGVNVadG4mhqKCytRP2hwGeOeJrOH63sWrGwTKMDIAPMY9HTZzrjltgPO79YAHOUAl4Plf265wFrLTwwO7MW2XCL/UI7rEnEp4Xk2GiNY7PwGTRLUCQI7rihpZyWAAHE0KwK0kLNlkHVh8OnU=;HG4piq2qRVcwDqMfo3YG4A=="

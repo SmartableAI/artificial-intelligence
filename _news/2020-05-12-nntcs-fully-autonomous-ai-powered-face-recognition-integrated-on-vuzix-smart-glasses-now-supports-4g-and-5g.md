@@ -18,6 +18,7 @@ images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G"
 
 secured: "VukZ+xFT5s4v6ZQeKFCa46FWa3XERG3e/dkqHuKJsog4ztVM/QkDAhfWAGndGA85ZEIinlx/geBzh0ZXzgy6g6/6I+Rk+9bAJmqnQ70sM5tfzYqR8AYOJxvz1V9tSU2drTxs9CmX4XOr/AEThu+cusjXRG7htFydqbxH16oDgwbef5p9+XuS8bhUkj6+BVl20KiPz+2tfwFuJgeig7I45OlHX/ZUoG9OunioUxQmobQwpQY/51pRXbjjDrZu/3LBJ2INE3YQkgA/WclNlic1cYOjgwkyLC+3Ow1p4VaNVPPlc6Y2lHjnYOOVFt+wpd3J;Z152eRChl+lYRxGcdj+6rg=="

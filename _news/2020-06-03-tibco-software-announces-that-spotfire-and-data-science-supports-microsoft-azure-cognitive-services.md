@@ -23,6 +23,7 @@ images:
   - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg"
     width: 612
     height: 355
+    isCached: true
     title: "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services"
 
 related:

@@ -2,6 +2,53 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
+      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "publishedDateTime": "2020-05-03T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
+          "width": 2200,
+          "height": 1140,
+          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
       "title": "The Easy Questions That Stump Computers",
       "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
@@ -22,7 +69,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -34,7 +82,8 @@
           "width": 570,
           "height": 321,
           "title": "The Easy Questions That Stump Computers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -67,7 +116,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -79,7 +129,8 @@
           "width": 1200,
           "height": 600,
           "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -111,7 +162,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -123,7 +175,8 @@
           "width": 1200,
           "height": 630,
           "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -156,7 +209,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -168,7 +222,8 @@
           "width": 2488,
           "height": 1398,
           "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -200,7 +255,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -212,7 +268,8 @@
           "width": 1050,
           "height": 550,
           "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -249,7 +306,8 @@
           "width": 647,
           "height": 450,
           "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -282,7 +340,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -294,7 +353,8 @@
           "width": 1200,
           "height": 675,
           "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -326,7 +386,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -338,7 +399,16 @@
           "width": 1059,
           "height": 619,
           "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?w=1200&#038;strip=all",
+          "width": 1059,
+          "height": 619,
+          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -371,7 +441,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -383,7 +454,8 @@
           "width": 711,
           "height": 1066,
           "title": "Is Augmented Intelligence The Best Perspective On AI?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -415,7 +487,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -427,7 +500,8 @@
           "width": 1800,
           "height": 1110,
           "title": "Intel tweets a photo of the biggest and weirdest GPU ever made",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -489,7 +563,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -501,7 +576,8 @@
           "width": 1200,
           "height": 675,
           "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -534,7 +610,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -546,7 +623,8 @@
           "width": 4000,
           "height": 2667,
           "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -579,7 +657,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -591,7 +670,8 @@
           "width": 1200,
           "height": 630,
           "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -629,7 +709,8 @@
           "width": 4000,
           "height": 2400,
           "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -666,7 +747,8 @@
           "width": 1200,
           "height": 630,
           "title": "16 things to help battle your social distancing boredom, all on sale",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -699,7 +781,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -711,7 +794,8 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -744,7 +828,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -756,7 +841,8 @@
           "width": 3000,
           "height": 1888,
           "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -789,7 +875,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -801,7 +888,8 @@
           "width": 630,
           "height": 353,
           "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -834,7 +922,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -846,7 +935,16 @@
           "width": 1260,
           "height": 630,
           "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/04/sagemaker-notebooks-2.gif",
+          "width": 1000,
+          "height": 463,
+          "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -879,7 +977,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -891,7 +990,8 @@
           "width": 1200,
           "height": 900,
           "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -924,7 +1024,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -936,7 +1037,8 @@
           "width": 1200,
           "height": 600,
           "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -998,7 +1100,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1010,7 +1113,16 @@
           "width": 1200,
           "height": 600,
           "title": "LinkedIn’s AI generates candidate screening questions from job postings",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI generates candidate screening questions from job postings",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1042,7 +1154,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1054,7 +1167,8 @@
           "width": 646,
           "height": 314,
           "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1088,7 +1202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1100,7 +1215,16 @@
           "width": 1800,
           "height": 900,
           "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1137,7 +1261,8 @@
           "width": 1920,
           "height": 1080,
           "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1170,7 +1295,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1182,7 +1308,8 @@
           "width": 1200,
           "height": 630,
           "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1215,7 +1342,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1227,7 +1355,8 @@
           "width": 796,
           "height": 417,
           "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1235,43 +1364,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-imagination-supports-google-android-gpu-inspector.md",
-      "title": "Imagination supports Google Android GPU Inspector",
-      "excerpt": "Imagination Technologies announces that it is supporting Google Android Graphics Processing Unit (GPU) Inspector to help developers profile and debug graphics on",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eejournal.com/industry_news/imagination-supports-google-android-gpu-inspector/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": "Imagination supports Google Android GPU Inspector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

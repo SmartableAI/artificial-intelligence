@@ -23,6 +23,7 @@ images:
   - url: "https://centraljersey.com/wp-content/uploads/sites/26/2016/03/library-computer.jpg"
     width: 1024
     height: 938
+    isCached: true
     title: "The Coding School adapts computer science learning during COVID crisis; summer programs offered for students in grades K-12"
 
 secured: "TaU4uYlzzHbsYm8icco//j+/a3eNsVY3xjAFqrtwx18umy3deXJ7YNqPy1mDLFps3Kn7DgLhZ/oAK282+IljDnV3AKMIgQEBFLMYqf6GDjrlRU31DxS4Zk4NrUY+RzvnywrJYjGimetAZCwgsYEQ/94QD0GW+ZIYkfQ7gx4bKR/cBIkoO5EQDLNp0ZW5pY+6XlErteUJUuaNaE+cho3afiAMmM3p7byZPbZvJGldWXSA12h0fxBFuuoC5lMPcx67PMBYkh8k2o3OveQZhBWkkqn4yEaWsaRhSC4kcHBb41xnwmY89+0QDo0vSi6zAupP;+lv/CfHBx1wBlGuWMEcGcA=="

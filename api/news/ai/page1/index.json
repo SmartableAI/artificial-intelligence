@@ -26,7 +26,8 @@
           "width": 620,
           "height": 480,
           "title": "New machine learning approach classifies common type of brain tumor",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1200,
           "height": 800,
           "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +107,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +120,8 @@
           "width": 1200,
           "height": 800,
           "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +154,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +167,8 @@
           "width": 1024,
           "height": 683,
           "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -198,7 +205,8 @@
           "width": 620,
           "height": 480,
           "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -231,7 +239,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -243,7 +252,8 @@
           "width": 756,
           "height": 567,
           "title": "IBM to withdraw from the facial recognition market",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -276,7 +286,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -288,7 +299,8 @@
           "width": 1200,
           "height": 477,
           "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -320,7 +332,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -332,7 +345,8 @@
           "width": 796,
           "height": 398,
           "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -347,7 +361,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -364,7 +378,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -376,7 +391,8 @@
           "width": 756,
           "height": 567,
           "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -410,7 +426,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -422,7 +439,8 @@
           "width": 1200,
           "height": 720,
           "title": "Your company needs AI training: Here's how to get it for free",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -458,7 +476,8 @@
           "width": 735,
           "height": 490,
           "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -491,7 +510,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -503,7 +523,8 @@
           "width": 600,
           "height": 350,
           "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -536,7 +557,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -548,7 +570,8 @@
           "width": 1200,
           "height": 600,
           "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -581,7 +604,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -593,7 +617,8 @@
           "width": 2560,
           "height": 1705,
           "title": "US Air Force to test autonomous AI fighter against a human next year",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -625,7 +650,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -637,7 +663,8 @@
           "width": 1200,
           "height": 600,
           "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -670,7 +697,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -682,7 +710,8 @@
           "width": 800,
           "height": 433,
           "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -715,7 +744,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -727,7 +757,8 @@
           "width": 770,
           "height": 578,
           "title": "The convergence of telemedicine, personal health tech, and AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -759,7 +790,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -771,7 +803,8 @@
           "width": 1200,
           "height": 600,
           "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -805,7 +838,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -817,7 +851,8 @@
           "width": 1200,
           "height": 900,
           "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -849,7 +884,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -861,7 +897,8 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -894,7 +931,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -906,7 +944,8 @@
           "width": 1200,
           "height": 800,
           "title": "Artificial Intelligence In Education Transformation",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -938,7 +977,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -950,7 +990,8 @@
           "width": 1200,
           "height": 800,
           "title": "The Impact Of Artificial Intelligence On Professional Services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -983,7 +1024,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -995,7 +1037,8 @@
           "width": 1200,
           "height": 590,
           "title": "HSBC introduces index fund built by AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1032,7 +1075,8 @@
           "width": 620,
           "height": 480,
           "title": "Sleep is also essential for artificial brains, shows study",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1065,7 +1109,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1077,7 +1122,8 @@
           "width": 1200,
           "height": 630,
           "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1110,7 +1156,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1122,7 +1169,8 @@
           "width": 1200,
           "height": 630,
           "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1154,7 +1202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1166,7 +1215,8 @@
           "width": 5255,
           "height": 3402,
           "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1203,7 +1253,8 @@
           "width": 650,
           "height": 400,
           "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1236,7 +1287,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1248,7 +1300,8 @@
           "width": 1200,
           "height": 806,
           "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1280,7 +1333,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1292,7 +1346,8 @@
           "width": 1200,
           "height": 673,
           "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

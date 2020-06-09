@@ -27,6 +27,7 @@ images:
   - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
     width: 2957
     height: 1958
+    isCached: true
     title: "Hackers spoof new Azure AD and Microsoft 365 sign-in pages"
 
 secured: "fu2MLHGpLUINsDo+NnXsKrJDwwru4WBLjHP6mqcBHKz9ekONuOYn1D+Lfxoo8yGmd4XgISc2bWcgMzfn2ObSmCL1sl0L3ccm0FQYe+0ubWDLMkrvhoGtKT9EUAf/16u46hI7piQkwDbLpXt/0o3jNNI7cil8cRnC/y26UwL9qZL72nYngZXjlj9nUHkrdWZHXjlwaJYRlSa56SzD4AZIjofCmLDT7GgSaE+Gb909m17IXbihv5qxVmIyi3LejR9aJYIP2hgZL/6dZBHC/Ll2sGmDuAfyifSO3lbr2i5s89wu4KOYWwDy4qiYo22kXLiE;RcGBdW0d5l0umkUABtx7IQ=="

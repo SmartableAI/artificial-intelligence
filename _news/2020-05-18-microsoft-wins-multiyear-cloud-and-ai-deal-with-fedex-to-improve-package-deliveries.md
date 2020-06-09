@@ -21,6 +21,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
     width: 718
     height: 400
+    isCached: true
     title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
 
 related:

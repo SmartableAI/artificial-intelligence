@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "Sleep is also essential for artificial brains, shows study"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
         width: 1884
         height: 1412
+        isCached: true
   - title: "Artificial brains may need sleep too"
     excerpt: "Neural networks that become unstable after continuous periods of self-learning will return to stability after exposed to sleep like states, according to a study of simulated spiking neural networks, suggesting that even artificial brains need to nap occasionally."
     publishedDateTime: 2020-06-08T04:33:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
         width: 1440
         height: 810
+        isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
     publishedDateTime: 2020-06-08T10:15:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_332409741.jpeg"
         width: 800
         height: 600
+        isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-09T00:27:00Z
@@ -78,6 +82,7 @@ related:
       - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2020/06/brain.jpg"
         width: 629
         height: 425
+        isCached: true
 
 secured: "ujx5X8OC91IlN6Fh3GZzFfFQzEUgWiWk2qmXGywoF/BzjSVSHc7fr6wG/y8kAUBuGOypRgzxYvqOWFnMlb/zgjkF39gNBIK2MDgy0nVtdQargjhniXcm6jyPjcfD2pBncXE8MAIWa6xMO6hGakkHPOCl3UHWS9vZPBcOjhZQqREIjNq2NtQNGh+YDlKZaGGMtqmXaZRiiLXuPJiAjhT9zrc2u1A+1uAbkNCvjnvH7noh4zZc8C4v0dQAKtRonXMBVZop4d5hXNs7pqQXFtz9rMaH8kkXiSRsuYmM/zRiQg8FcqCRopUAKxugak4EdTuC1yxovEYNhqxW2GxgXFEGxnujL82UcmvAIWf+iiYbTfvwyHrdskvSG6r2P/XqHwVUgGgwRebgVXtA0uYvcXYVG4MpfG9V9UhtpGRotmcGZUi2ikmyAlTrbt3eIWvy/JC8ttBVp7fB+WtzWlhwI+ewMnx55vn3azojiL5b9jzFjHw=;0HivZVD4KesQuQR3avkAWw=="
 ---

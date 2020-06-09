@@ -21,6 +21,7 @@ images:
   - url: "https://apnews.com/images/PaidContent3.png"
     width: 700
     height: 450
+    isCached: true
     title: "CyrusOne Enables Customers to Scale AI Through the Power of NVIDIA DGX-Ready Data Center Program"
 
 secured: "MG2OGaM/6is6ifXJtnWb0ql1thYQlOTbDCdrqJoIpgWy7myJDZXSRqlG4im5R/2CFtTbiWGtTuBops5nLMDdtfmnyY1bDFvazbsjQvXtkKWI+LN8tJ73hZz848IjJpFhuKfAJ484nDf/uh3geYzYFiP09qn1aHu+ecKhZwUGScbOk7ljq7i6RYi9/PlIpCZzYueBAwqxaFDgyCEOS0HCaLuqpevUDHW5D/XBpCu9n4xpPbQheSL71NPoonfkoY8UjXfPPCSNqjzTctS8YsqnO46DgjpEY2H8MHYZ8Pg45jkz9G4ONa9YWGuIcvIAVLLj;qE6wQgWZ9jHyaaqWn9HX9w=="

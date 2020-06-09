@@ -26,6 +26,7 @@ images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-24-1.jpg"
     width: 640
     height: 640
+    isCached: true
     title: "The Small Data Revolution: AI Isn't Just For The Big Guys Anymore"
 
 secured: "KreXp49d6pFWaHa+9+7hBehfrpBjpzmnDpVN9iNec2Ebaswg1Q4hA3cbk6Phk83EjOIj3bpxP+ngIeBYauoR/n/f2X1m6r5VupSGxbJhFImfwhGvj+AcETrRCOydQ0tjqC9uoeq+zisfbm8i+Lifu2h0vXLkH21/EL25pgR05J48QNW61vmG70dwCfznshgDsrrsbdcnfqBjnMGE2uarV9mHe9uc9wPw2Fkz88mL+md5djAz/TNsxcKCiDzQ1vYLwsraG/l5kssXzLdTEkV06PQwrhPivhc6WtPoQqBomNSzET8EvrS08eInsnFSPVfS;dzoXigurUwrBO75pznVahg=="

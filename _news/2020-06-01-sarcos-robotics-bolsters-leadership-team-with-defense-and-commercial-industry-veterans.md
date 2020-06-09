@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200601005029/en/794817/23/Sarcos_Vertical-blue_2019.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Sarcos Robotics Bolsters Leadership Team with Defense and Commercial Industry Veterans"
 
 secured: "JJ0IdW/SxKVeFlK6sCrAyidoa5UqvwsvAKot8JCAcwF3Cx8Rys53zDmXPPgdt6X9soLGqr7R/M1elsjUBdUJwo5zdF1oV0iLhLw7TXWC5fOVcrRLy7Tvgu02cOJ03CoNXQlFRGaFP/oovXOaOSgCTaXGhF9/g6McFF3+Zpuclu05qkTXbCeaciE3nOiGBNMRGtoS0dGKet8qxxLJR8vsBbg2T99mIQyqrLZl00oc+E11pcD7zf4qIMp3KRbRqOu1RleEFrlz22SizidetGkn0UPzjcBKzkuknvMsfmXsJkByge6lEdfRtzwIBu9oSuFV;NMgF+szgfq87aC6VPjz4aA=="

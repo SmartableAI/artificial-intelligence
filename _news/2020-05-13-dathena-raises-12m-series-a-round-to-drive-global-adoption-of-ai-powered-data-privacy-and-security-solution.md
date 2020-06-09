@@ -21,6 +21,7 @@ images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
+    isCached: true
     title: "Dathena Raises $12M Series A Round to Drive Global Adoption of AI-Powered Data Privacy and Security Solution"
 
 related:

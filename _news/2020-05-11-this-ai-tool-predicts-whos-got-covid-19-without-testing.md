@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "This AI tool predicts who’s got COVID-19 without testing"
 
 secured: "2qVBbLPvFJ8mYs+bqtwON1GYJfMsx90lt5jrNriZO+ZSlOOmj3S196U7t6QO/AEUTJWg5RerXmq3msV3Ca/YJTGS2jMscDxm0nYQHqTmG1i7+TcoT7lmAw18FMfN7p60Fr9rauNRmjjVsG/LZV53sFCq48mn/zVr7Qx8oTpaX4/ojNucyC0biVLvPzrGUV7EIVBBXbpVy65sOJRtLMLs88bM+drEK7Vd2d05QqN24447/ZCyu0snmZGg9AVugvVK7J9gcMXur8W/6TS/EU4sckpdp6mNJgXxyaCdmuxpCc8rt5jY08S62QM3F04RgYwD;nTUVUMA/H/HwvRsXZRoakw=="

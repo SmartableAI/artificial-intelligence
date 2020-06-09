@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png"
     width: 796
     height: 417
+    isCached: true
     title: "Cheat sheet: A comprehensive guide to AI terminology"
 
 secured: "FoobpPxhfNLFV6uT8lP1arVFXpiwxFyMDltg8Lqcm62mezmqey5fIfkV3paaItn9mxLcjtKW6Cx8IdZ7xPCxdK1JhSU3cRb929sc6AZAYRbydQDmp6jzv+p5jDB2qF4A50WU1kVx0XZuCdCNLbpIy8ceeeQ+ioRgyBrBGtAzmikTPSj2dXyxxnp1/rBCNotnFTu0LH+gNbJ757q+/AwACgvqI3LTc62DmTWmY6PlmaI8BRrflkc2xdDRGcUXkWQVta+7Xu/rjn7FrcTu2BerUEnyyS/JipTUNBemUq3SnlzguN1EbT+MkJmFdzOoySd/;HbwKuAC/1202pAwrud2C0Q=="

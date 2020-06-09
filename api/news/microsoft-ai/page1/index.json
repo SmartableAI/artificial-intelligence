@@ -26,7 +26,8 @@
           "width": 620,
           "height": 480,
           "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1200,
           "height": 800,
           "title": "The Impact Of Artificial Intelligence On Professional Services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -108,7 +111,8 @@
           "width": 800,
           "height": 600,
           "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -145,7 +149,8 @@
           "width": 612,
           "height": 355,
           "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -178,7 +183,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -190,7 +196,8 @@
           "width": 900,
           "height": 592,
           "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -223,7 +230,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -235,7 +243,8 @@
           "width": 1200,
           "height": 675,
           "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -269,7 +278,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -281,7 +291,8 @@
           "width": 1200,
           "height": 630,
           "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -314,7 +325,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -326,7 +338,8 @@
           "width": 1200,
           "height": 675,
           "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -360,7 +373,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -372,7 +386,8 @@
           "width": 1000,
           "height": 666,
           "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -409,7 +424,8 @@
           "width": 1620,
           "height": 1080,
           "title": "Baidu releases homegrown quantum machine learning toolkit",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -448,7 +464,8 @@
           "width": 1024,
           "height": 722,
           "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -481,7 +498,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -493,7 +511,8 @@
           "width": 1200,
           "height": 634,
           "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -530,7 +549,8 @@
           "width": 760,
           "height": 368,
           "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -567,7 +587,8 @@
           "width": 620,
           "height": 250,
           "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -604,7 +625,8 @@
           "width": 760,
           "height": 368,
           "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -666,7 +688,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -678,7 +701,8 @@
           "width": 768,
           "height": 513,
           "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-          "attribution": null
+          "attribution": null,
+          "isCached": false
         }
       ],
       "locale": "en-us",
@@ -711,7 +735,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -723,7 +748,8 @@
           "width": 1200,
           "height": 600,
           "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -758,7 +784,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -770,7 +797,8 @@
           "width": 1200,
           "height": 600,
           "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -804,7 +832,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -816,7 +845,8 @@
           "width": 1119,
           "height": 630,
           "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -849,7 +879,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -861,7 +892,8 @@
           "width": 620,
           "height": 349,
           "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -927,7 +959,8 @@
           "width": 648,
           "height": 429,
           "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -960,7 +993,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -972,7 +1006,8 @@
           "width": 5157,
           "height": 2973,
           "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1010,7 +1045,8 @@
           "width": 1494,
           "height": 785,
           "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1043,7 +1079,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1055,7 +1092,8 @@
           "width": 400,
           "height": 450,
           "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1090,7 +1128,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1127,7 +1166,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1139,7 +1179,8 @@
           "width": 1120,
           "height": 630,
           "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1172,7 +1213,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1184,7 +1226,8 @@
           "width": 1200,
           "height": 600,
           "title": "Search engines are leveraging AI to improve their language understanding",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1222,7 +1265,8 @@
           "width": 708,
           "height": 462,
           "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

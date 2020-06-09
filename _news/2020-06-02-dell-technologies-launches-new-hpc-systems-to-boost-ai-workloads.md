@@ -27,6 +27,7 @@ images:
   - url: "https://media.itpro.co.uk/image/upload/v1570815380/itpro/2015/11/dell_rr1.jpg"
     width: 1000
     height: 565
+    isCached: true
     title: "Dell Technologies launches new HPC systems to boost AI workloads"
 
 secured: "FAzddhE0BrwFsm9Zy9CpCaG+BONi9zEfyE5aL+8FPlcaFUJZBjU7mjgv8vszjMq+b0GgugWxIpzpt3F7Kk0+Zcug4q2ki+YP11dBOl+rpa+29jc4Q++uUKpF2/lmTxjkuKgXrQmohbWNA9qTO1hKwh/lHVJQ/ryguj/itV+hkt2WwIATpWV757Fr1Uw1FP73yhjOtA1+lIv9OF1GMliW7P98DiWElWsTGUocCFh+uogQxZfWTlrTf9D5gI1CgvRKd1lyLFZ1KZyRCWH53yWeT3dwSY81SKan+sU7HMYT+VO64INRHnYkHS/8h15a2JbXO6dOUd9SuakpBZOqMvl7gR5o1MOI2sUmQzZpeTDUvr0BxJonVgXdw/aEGstUtGc69WbunqSasFh1cLS123dYMXxl4T68FUBL3x7zzITdAgp13qOv3e/4XtSjKpnz8MXzk4cf400+pO9T/cH8iWMkKtXS1LRkhe4nX1B9NCsciZ4=;8F8m3uJRpML53S0cUKie2w=="

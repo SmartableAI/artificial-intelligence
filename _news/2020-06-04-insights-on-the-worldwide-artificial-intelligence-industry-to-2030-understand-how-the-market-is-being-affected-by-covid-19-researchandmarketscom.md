@@ -22,6 +22,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200604005407/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Insights on the Worldwide Artificial Intelligence Industry to 2030 - Understand how the Market is Being Affected by COVID-19 - ResearchAndMarkets.com"
 
 related:

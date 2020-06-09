@@ -23,6 +23,7 @@ images:
   - url: "https://europeansting.files.wordpress.com/2020/05/robots.jpeg"
     width: 752
     height: 1002
+    isCached: true
     title: "How AI and machine learning are helping to fight COVID-19"
 
 related:

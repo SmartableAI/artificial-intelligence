@@ -21,6 +21,7 @@ images:
   - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
     width: 400
     height: 300
+    isCached: true
     title: "Elon Musk claims AI chip could 'fix anything that's wrong with the brain'"
 
 secured: "gnPN+cm71EzNYGn8TvU+6K4Y4ePbC+pA9V1tCmncjveiZYO44ME7rECjotRBQrVO78wKvdLClN6S34ns4VcEjmtd5saOK++vjeXcrw8dbcXOrInqk88/nlSlmueAYR5Q6hDwMhx4eu+kZUIssQMoVYR7vgzljKxTFfGeVVGvMlEEJhRwTSdp5Bji56Dd5udmGdQ+3q8jCsDEb7EvfsXYsmUZ9cmHepRClFq3a0t2nmw1xRx7aHm5tnXtHV8EQYo+qHizeE3mdLVH7uZoEjxL1P7uLMIL4iDwSzEp2u6uVf0JSJhk72QZl/dNVcFbFWqG;b9+mReHcHmpqtQxrlisH+w=="

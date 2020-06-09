@@ -26,7 +26,8 @@
           "width": 1200,
           "height": 800,
           "title": "Microsoft built a new AI supercomputer in Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1071,
           "height": 728,
           "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -104,7 +107,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -116,7 +120,8 @@
           "width": 640,
           "height": 335,
           "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -149,7 +154,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -161,7 +167,8 @@
           "width": 970,
           "height": 545,
           "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -195,7 +202,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -207,7 +215,8 @@
           "width": 1200,
           "height": 675,
           "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -241,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -253,7 +263,8 @@
           "width": 400,
           "height": 400,
           "title": "Microsoft Certified: Azure AI Fundamentals",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 756,
           "height": 567,
           "title": "Microsoft builds massive supercomputer for smarter AI",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -336,7 +349,8 @@
           "width": 950,
           "height": 633,
           "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -373,7 +387,8 @@
           "width": 718,
           "height": 400,
           "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -436,7 +451,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -448,7 +464,8 @@
           "width": 680,
           "height": 383,
           "title": "Microsoft builds a new online developer conference experience",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -481,7 +498,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -493,7 +511,8 @@
           "width": 1024,
           "height": 682,
           "title": "Azure Cognitive Services learns more languages",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -527,7 +546,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -539,7 +559,8 @@
           "width": 1024,
           "height": 683,
           "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -573,7 +594,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -585,7 +607,8 @@
           "width": 1024,
           "height": 652,
           "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -618,7 +641,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -630,7 +654,8 @@
           "width": 1200,
           "height": 600,
           "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -663,7 +688,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -675,7 +701,8 @@
           "width": 630,
           "height": 423,
           "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -708,7 +735,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -720,7 +748,8 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -754,7 +783,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -766,7 +796,8 @@
           "width": 760,
           "height": 506,
           "title": "Azure Machine Learning gets Responsible ML innovations and more",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -800,7 +831,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -812,7 +844,8 @@
           "width": 760,
           "height": 428,
           "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -845,7 +878,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -857,7 +891,8 @@
           "width": 1200,
           "height": 675,
           "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -890,7 +925,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -928,7 +964,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -940,7 +977,8 @@
           "width": 1024,
           "height": 538,
           "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -977,7 +1015,8 @@
           "width": 1200,
           "height": 878,
           "title": "Sony, Microsoft partner for smart camera solutions",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1014,7 +1053,8 @@
           "width": 600,
           "height": 400,
           "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1051,7 +1091,8 @@
           "width": 1200,
           "height": 900,
           "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1088,7 +1129,8 @@
           "width": 800,
           "height": 408,
           "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1155,7 +1197,8 @@
           "width": 800,
           "height": 360,
           "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -1218,7 +1261,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -1230,7 +1274,8 @@
           "width": 1200,
           "height": 630,
           "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",

@@ -27,6 +27,7 @@ images:
   - url: "https://images.wsj.net/im-191133/social"
     width: 1280
     height: 640
+    isCached: true
     title: "Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox"
 
 related:

@@ -21,6 +21,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200525005028/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Growing Adoption of AI and Machine Learning and Increased Use of Drones is Driving Growth in the Global Mining Ventilation Systems Market - ResearchAndMarkets.com"
 
 secured: "r8perekZ0FIIeZpG1PNRxR9l3o9zUkndvy9Uyx1cSS9OWezAhfr4xy/4ojFsUSYt3MHsWW0kw1BZ6ljhAdPgWg9Kiz5y5DOwafNmZDYlxrd3YFfL1SiwZKKLUVkXO4mFF6VhEcgQ1EUc8zY3970V1rTUMVj7Vs07nTMeflVD2bOMa5D+oBqk9Lf6y5jxjtwEXtvPs1fO6opYTwQgUdkpV4zxVGgzdmNAQPsEu7pA+6x27VSXOIIECgLsTkK2XGVJ1gSNuAx183E0egXs2wPVD4gkG/OTn+dOL7N+DmF9XTYhjAzLP5rQaQlGaNV5DD4XLqIjGia/XIsos5tm2YQfLEvUcvixaXltXpUYKhNirS8TPyE4p4LlTcOX19KfurjRjFlPjBxIsg+niYXINO9N3KxAV4A2xFetFni4zjdZtEfwD+6SCfaVq5s2eLaTaIm+b5ORSmcgRr8G91d4SAOGvwjCypM0ZMoGOn7AbMaHrFI=;rdxzfAZ5vE5ZOZvL8vsxiA=="

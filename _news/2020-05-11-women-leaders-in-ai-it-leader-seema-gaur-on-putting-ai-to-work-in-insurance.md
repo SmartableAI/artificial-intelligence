@@ -24,6 +24,7 @@ images:
   - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/Seema-Gaur-gradient.jpg"
     width: 990
     height: 498
+    isCached: true
     title: "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance"
 
 secured: "TL9FE8GsZjqK8q60+7kLSNd+25Ib+zXXf4p4JZ32+anRt7GHLYoY6cRAFpQDf5GOvR7McpfCjT/r6W4BYYbWrQ4zMEKg50qAMpPgreqnE2ra1aIou9UMwHrGw8Jtk3ejBRuqJnb+XzCL5W4VkJeJeKJib9bI9ttljsr17fidB+pLvLTF0L/hFYttB6sB0eXiqHDyIzIzJNsAsRHvCkr6B0BTNR7y0JVzehCfcftIeuCWpkeqzhf9pydM4IDY/cZT6g0piB3H4/4ZyAofNDAjo0tjKCc4gw2EQDe2K/jagZflcNm7kkZCMmq5WWV46vQt/y5b8XBIlftss1ZitBOhUA==;Bt1m4ZH9hvFRTxGr+x/BvQ=="

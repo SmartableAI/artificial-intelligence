@@ -23,6 +23,7 @@ images:
   - url: "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
     width: 1200
     height: 675
+    isCached: true
     title: "Robot dog enforces social distancing in Singapore"
 
 related:

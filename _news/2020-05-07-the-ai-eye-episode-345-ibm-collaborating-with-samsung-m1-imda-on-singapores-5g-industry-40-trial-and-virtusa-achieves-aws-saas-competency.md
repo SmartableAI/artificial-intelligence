@@ -22,6 +22,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency"
 
 secured: "1Y1az/fOamMRHQOWLOhEi7s3O2fTDmEh25PVD66rwDyUHDA7yeULINLYjnC6B/Kvq3X6OxC1BRv0zHxm5J03a6vaGuqgIiLOcq+bkWHwP8fV/V5mq0TCEFl9fB1la2P+E7CxsRuhpFhTCiAX4u+GWDx5CfgTd0ihYtU70Y6a8LJvuZFd8DnKsF3LCm1PN5I+YJD/Wl8xOCqphxn4VxYD+7chO7mJhWPv56PSRNorNcXn6h/fizARzxZogX1nWSDM1ByTlsjxi8bst4yRcu6J+o+jeA+P1GuGJ6zQuxKOT0JnKlBdK9UmXM1AUXIkB+kS;0XOFPolFonA512MeVBql/w=="

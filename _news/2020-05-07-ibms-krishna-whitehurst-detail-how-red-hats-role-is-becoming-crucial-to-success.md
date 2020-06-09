@@ -23,6 +23,7 @@ images:
   - url: "https://media.bizj.us/view/img/6202071/jim-whitehurst-17*600xx4000-2667-0-0.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "IBM's Krishna, Whitehurst detail how Red Hat's role is becoming crucial to success"
 
 secured: "g69G5e+j5VO7MBM6dhy6wW1IE3gx7iv3A7BwSooDy84GIGxL2nprqLFxLm4KcVeNy1qDoe7WqTFsfohEkL8FIdJZWJyu+4J5C4Y0wI/r/10YyLKqYs4zkvKlRsgUOYeWmAEOMavToBemTkPdw3JjUc62oJvAcSqaMRuvIyZl7xaInSB7/V5tl9KATEkL2ZZVqAhbUNRStNQYWRx+TL2m4MZYTIb6kHdAVGKti+XClwErJTubhHu8z/8c11GCFVBIDJjhwm40GDeiCzgXLgqygVGRVkCPD+wpzzzmQiW0R72tREHm4wneHAzKiqsn+lZ6AWBF3kCkBPXapGxHNlD2dvuhO1A7+5rIM68iIcpDm4jmMRJngxwFCWNLmROSHbxB+1+cw1ouXULhw9S+Pc61C3+UDtPWjJVALyWS5/YT7n3LJbL/OhMMkEuqp6zFrCZ+E+zsLllrRbUF/P8RmZVAKzT6MAdP26F86ewCttRDnJ0=;BEGH10sdOW1dB+g1SACN3A=="

@@ -23,6 +23,7 @@ images:
   - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/142279-rlpqhntwxl-1591076596.jpeg"
     width: 600
     height: 315
+    isCached: true
     title: "‘Please take part in social distancing’: Watch how a polite South Korean robot is fighting Covid-19"
 
 secured: "62BeQGrLQwvoNDEweYl0qeNjt52nB532OZBugM9NWaWMJoBIK/0lO9xqu0Ul1V4B3tmVakJUsAzuyQNph3G+gvGZBmJPMeabybAra8MYqhYTQfVRprEb28/OSb1nTP3cQcuaLkTpfJIocsSOZAEC0F506NYTDPWdLMKQfjn3GyhcE9VD+rDLcqXJ3LoW2gj/jSQqDwGlXuQTtV5Wu1mGtfWJ+bkm7Nj2I3orZ7lGPvrenfHLqrIzPa7kf0rMx7jdNe/6krRZcDUC3nvkkM++YMp9aneQjiX20ZbBuzfUrC8WgC0rzgE+fMoaCulptzVG;K0Lo9L1QSkf9BwcrXmvVfA=="

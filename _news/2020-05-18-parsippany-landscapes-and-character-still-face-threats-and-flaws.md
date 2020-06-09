@@ -23,6 +23,7 @@ images:
   - url: "https://patch.com/img/cdn20/users/3015765/20200518/102653/styles/patch_image/public/aldo___18100321757.png?width=984"
     width: 984
     height: 738
+    isCached: true
     title: "Parsippany Landscapes and Character still face Threats and Flaws"
 
 secured: "c/sCEKAzj+v3e31dcbsxJtLxEY4jMVMloARFBSRh+K8b88tii+G5vsJO5YWj3LPTT43SwqF2ayjcg35LD8tfoaX4vGyEv618OkIz0IHGkmS3s1X0m+8Y3kErHRQH21WZofBEQIDs/jqaGUold1p/qiTHteBhGyey4Tzb6snBdjZ9bvW7h8sRjjMuEuB8wgeLuEWFDvoa0keEkU6IC81yIfdVTLLQCrENnkxBl/9KvXj/+q3UjH8A6TuPtlbc3bzcPrxhuIcKagqQq6DAd/ngGUjs82UOkJAY9JbxJSGSWZ5RWlGKscVOYah6wxjCKFsQrygtOYYmt1v+DZjyzXqDTbCeOmUP4ziXZWKtAORBbWqm9mLyOfoPmsNx832xNdxwYM6PPsG4jzLzAtITa4xZxxNtlwK/WMAnFWUs2b0cZOTUmEwxr7jdrqWIn3P/y4McgyYJqYt91D0LJrukptW5bdD7Bpisa3JdK6sEoiZsQQo=;VTxpQtNqWGY+3k5YlZAhVw=="

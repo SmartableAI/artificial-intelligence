@@ -28,6 +28,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
     width: 1024
     height: 683
+    isCached: true
     title: "Microsoft launches new tools for building fairer machine learning models"
 
 related:

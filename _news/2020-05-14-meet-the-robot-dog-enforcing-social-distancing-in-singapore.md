@@ -21,6 +21,7 @@ images:
   - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
     width: 945
     height: 630
+    isCached: true
     title: "Meet the robot dog enforcing social distancing in Singapore"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://i2.wp.com/www.thenewsnigeria.com.ng/wp-content/uploads/2018/10/image-3.jpeg?fit=342%2C320&ssl=1"
     width: 342
     height: 320
+    isCached: true
     title: "Robots kick out 50 journalists from jobs at Microsoft"
 
 related:

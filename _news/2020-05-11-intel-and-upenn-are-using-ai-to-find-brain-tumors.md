@@ -26,6 +26,7 @@ images:
   - url: "https://icdn2.digitaltrends.com/image/digitaltrends/intel-pentium-silver-front-2-1200x630-c-ar1.91.jpg"
     width: 1200
     height: 628
+    isCached: true
     title: "Intel and UPenn are using AI to find brain tumors"
 
 related:

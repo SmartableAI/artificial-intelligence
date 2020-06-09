@@ -27,6 +27,7 @@ images:
   - url: "https://cms.qz.com/wp-content/uploads/2020/05/2020-05-04T000000Z_1119147073_RC2JHG9R4DI0_RTRMADP_3_HEALTH-CORONAVIRUS-SOUTHASIA-e1590558563343.jpg?quality=75&strip=all&w=1400"
     width: 1400
     height: 770
+    isCached: true
     title: "Social distancing apps and facial recognition are the new normal at India’s IT firms"
 
 secured: "DD7+MeQRmTB4ggWqC55GY2Q91UIUG68ivpREGnEaf10bPLj5awr66IQuJ6MNScVewKJT52FrzY+u+DdcXPjOY/FAu0j5pXOfZ0o6c+MZ2Us4DZgF5PNqbWVcFo4z3INCeoHV0Ss7a7ZJReXFtfuZNstsLAc+Mj5x8XTG6sTQQP3FzbViga68SIxGl80H4+duaBzHiFVH0W6ZnpQxA29TCzHWI/GfrohXvTvXJnGnqqQDV0xV6zs80lnTFE0erpLn4EHGFKcRQOKUxNhpOzI7vefLKPwtdr2J9hVGeP+01Lr+acVslAOLcZULpsfXwFKd;DbaZLx0O50OiaBb76/cxoQ=="

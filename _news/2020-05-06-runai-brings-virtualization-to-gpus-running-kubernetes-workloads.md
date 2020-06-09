@@ -27,6 +27,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-06-08.37.37.png?w=680"
     width: 680
     height: 348
+    isCached: true
     title: "Run:AI brings virtualization to GPUs running Kubernetes workloads"
 
 secured: "YLQlQE5mlA0r0/ksaEj2hFQD5rOHeZDLa1XmtebwMutPSEtsoRVy/ZxGDSe5810KsBzALn2xr6taDhGe90BgeM39n92XOhxgiO3a2Pqga/TovX5t20KLA6hwNd8fCt55TfzI+HW/GtehZ3TCIVYU/91oaMbmJUJCB2FGpO/Huo0HzVYbsFeIBcCzzDUBT9g40pyJ4sdWsPLKMZB4N0sn0EZNY7i/o4yNpKqF50xyKvafhMyXToum4jB60/0rBwOMa/t6kamzBRS7nwHbQiRg/oyLO+anOG/YzTIJflCIBUKuotMIoNtC6FjetM1tCBvRF+t15GFb744ebTlw5EFRhH/Zo4xQPMTlvC6RMSNQeM6/u4AV6RWwXuoM3dcOQ4GTIWr1RSr0z5lfkjCHdAa8bSPz8fiPtZNxZsneT3XVJvj82qum7xAYO0ILYjL4gKAssJImO1Jp+FUYjRcVJvMhFGN1JV9f/3JIhqOlENnTswE=;M+cVRZLzAPz3Z6Wv3oLrkg=="

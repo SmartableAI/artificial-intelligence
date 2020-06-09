@@ -25,6 +25,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots"
 
 secured: "FqS91lQb4nTAoO6j8Kr6hS/wy01MOuPVa2i71OG6fl5LAYUCWUyewn1MVML/eyjLptDF+yLsWVYzFNBM4/iQmwKdFOklh7AwxtYUX63JjTYh7ZSPE1cQqq7j6y6yibP4VKH2WftRjglmA7x5kfdvyZ/2BfoWxL+LmcWjDOcMEj9eZrGtJT431N0qGsq8am6K1CFkeuY4t1OB1226Jl+HqD6E88w3MkunGsM925hT2sTt3w+QwMlbBEelUxd+ZC1mQjmtGoc0c69zMtNZ6KRQUPnKFV3GMdLNublYPNxlmics9+DII+kyWX9UAfQhMUnhE3hQnD4Dp0USjwgqI/O3nrWqFF3GXlSHkdZLnf/JMndmLd1L9jtiDxU1XQHKhQ4Qw2JFjRfAwZvkgWCDR663o44lEgAJt9Et05F6Yj7RIxeWhgfEXhm71J+Mnf74ZRrU01CuDHpCcLLPucdYzEcejKZmc65bcN5AXn7gSKUV3Q8=;2ro0aKNeJNvrMkmuKueCVw=="

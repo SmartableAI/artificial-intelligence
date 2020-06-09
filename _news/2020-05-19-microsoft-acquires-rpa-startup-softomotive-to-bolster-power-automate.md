@@ -24,6 +24,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/Softomotive-Finding-Investment-colour-version-e1589902183179.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Microsoft acquires RPA startup Softomotive to bolster Power Automate"
 
 secured: "oWuNe6OGCxSnF+Y3D10n7dMCzd7XJS5f3lFT0N6TqDja/MJuCcoN50Wi+dW8Ov6nolldzABz1xSXFO6fAcZKt0NXPPB80yVtm1jpgmpqpxBwkkDWkbfEUxMh0gBXGzM9IoDjS2FwQKftskMNMvi5dks68ZaoGcIA/3vi/sgVBZumbCcdytvcmkRKcAnIm0MegOdHaxnitYjC8MB0NUHp5a2XLRGlXnRfQRpuChxB4aZmbsxtFoZJmvdwjnXxH8xvgk08L8GIMpqdivAIF+7QDUMkIIiZbpMStUYM9lgqlvgSyMIosEmCXpfqFpawOMf0DgsQLVcwnD8VOPPpK3gPrc1P61v1lBXg+CWywqLiInpjDJ7V8Ec3hyJLQNSvZNUcimpup89KOGGZZNHDYUPrRcoy6ZzXjf5aF4WOnPFuENU/j54iMmFwt9cg7IXe6Ac0FzwiNehup2nEvLFdTDT2RrLfnYb3yYyLkuG7laA74Io=;LSYdhCH3jg2+DYTkoClhrw=="

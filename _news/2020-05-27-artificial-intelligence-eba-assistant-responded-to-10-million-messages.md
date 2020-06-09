@@ -22,6 +22,7 @@ images:
   - url: "https://i2.wp.com/rayhaber.com/wp-content/uploads/2020/05/yapay-zekali-eba-asistan-10-milyon-mesaja-yanit-verdi.jpg?fit=1424%2C800&#038;ssl=1"
     width: 1424
     height: 800
+    isCached: true
     title: "Artificial Intelligence 'EBA Assistant' Responded To 10 Million Messages"
 
 secured: "5RFkP+RiuXEnNTWE4LfnKG4Oi6urMVnG+TaHTbl18rFwKBxFw91NKXKHOnqTO9HystJqSCNH72SXeQPivOByKGaN56iw/f4CJduIWtwbVnfWumpNwSag2gnsN+85WcAZh/1aatfrkWtBxhEiXxeCH7DUWAQvxXvYrKjG2iIB5IhltGhywcO5hasNuC3h1CNlPx+Miv9mJK6qYbgR0CNC6qVQHTroeXonkRHOI2mVauckulPekjMg76f8ZsP7uM1oTzcnioE+PX02Jyltvp518JOmB3u7Bt47Q2hkpaPDIMZbmUdmiKLY97AndYiQnAoX;oaBrGo5Ci8S3XgKEAMVZfg=="

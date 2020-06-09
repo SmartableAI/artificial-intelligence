@@ -22,6 +22,7 @@ images:
   - url: "https://i1.wp.com/inc42.com/wp-content/uploads/2020/05/airtel-social.jpg?fit=1200%2C628&#038;ssl=1"
     width: 1200
     height: 628
+    isCached: true
     title: "Airtel Invests In Voicezen Under Airtel Startup Accelerator Programme"
 
 related:

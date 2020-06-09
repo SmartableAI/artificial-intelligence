@@ -24,6 +24,7 @@ images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/05/waymo_minivan_7.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Another fundraise, as self-driving startup Waymo’s investment hits $3 billion in 2020"
 
 related:

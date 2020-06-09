@@ -23,6 +23,7 @@ images:
   - url: "https://www.dailydot.com/wp-content/uploads/2020/05/facemask-selfie-facial-recognition-scaled.jpg"
     width: 2560
     height: 1280
+    isCached: true
     title: "Face-mask selfies are being scanned to update facial recognition databases, report says"
 
 related:

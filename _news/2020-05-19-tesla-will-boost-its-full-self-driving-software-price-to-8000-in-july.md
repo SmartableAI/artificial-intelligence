@@ -27,6 +27,7 @@ images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
     width: 580
     height: 378
+    isCached: true
     title: "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July"
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize"
     width: 1200

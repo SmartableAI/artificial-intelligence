@@ -23,6 +23,7 @@ images:
   - url: "https://images.financialexpress.com/2020/05/students-1.jpg"
     width: 660
     height: 440
+    isCached: true
     title: "Studying smarter? How learning may change post-Covid lockdown"
 
 secured: "5na58PEPT3cXdJ3Rxwe1jIasV5pRKUEyIms9scTnYYdfXVV0YqC/EEM6+1jL3QEd/I6UqJW/MoEkT8lRxnfsrjD3RzEHLOAmsQYLUTPNJHLw6ifABAoa1QHFJrHltmLgP2PEQSKwZXAsQvTUxUPX7XcTUz1V5gvh+516j1Y2K+ohG4S1matSMuB0xy1b7V6QoOnssh2FlyuKEGlPsN9Qd4uZ38H3fo1T1Q6BUWuz3gYCOmOp2f1Kg6Tw/jGwF2TmOAT5D6C3DgYyu5+Vjqw1Hgw/MnebLj/Z0aBG3goQrIGhnItmWqXphJ49l3tBZQmL;H9wlHF5EjsOYdFhdYcFuSg=="

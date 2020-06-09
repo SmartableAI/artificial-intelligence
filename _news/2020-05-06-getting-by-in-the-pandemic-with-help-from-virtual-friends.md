@@ -21,6 +21,7 @@ images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/virtual-friends-created-by-the-mobile-application-replika.jpg"
     width: 1024
     height: 685
+    isCached: true
     title: "Getting By In The Pandemic With Help From (virtual) Friends"
 
 related:

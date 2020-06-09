@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023"
 
 secured: "psP1GZEq/30DlY8cSgFXGmuCMQYQhdEOVh5Z8IQ1U5SsvwpTdZ2tRkjBHE2OBAqW/rMYTB3GZiLvEp092QgQRLU5DBc8FLpiFVxCuvR+hinDCbOBCEY23VewfrhS5vlv3KISw4s6bEgfym8dUj/92IQnzd5M/DgaClRDt1d5O+NHegkmQW1976XinsVatLicaFVhRlxT47ImgzoRU7vfSi7zxGbQIWJKBMQUXLj+G59Lnqm6L0BH2i6Nh5Ftv01+w+a6GHQKhQIE1MfCy+GD1PIunWj8eZVP1ixpBqoNwYebg5KAkBw6Rm8SZvfzL60L;oHAuDdlZ50gXqG8lKa+Row=="

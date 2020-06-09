@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg"
     width: 1440
     height: 800
+    isCached: true
     title: "Sphero startup will make robots for government and first responders"
 
 related:

@@ -23,6 +23,7 @@ images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
     width: 620
     height: 480
+    isCached: true
     title: "New machine learning approach classifies common type of brain tumor"
 
 secured: "SOdWWuGr48R5nUkEGRpqSrCtTWR/nwssCSAOzsTR7iZwrGrs+hCB4/ZwhHveSEshtv9Se9ghkqhTSdgG9RGpB5zZoe1C70RmDcJ2kfYuChQKvxDhqxlYx9A1uYCydDgbLIRkdsMwwU3qGM20VwjJAq8rwlKjvUCNT2TkJD4iusDG/zkSh/gp9SjwtxpkmiFq8HaVe1UZALw1XJ/ZV6U0QshGaDJp8O3CjmTC3E4Hg1DmcObtklC3vUNVIaRXL9kuASkUPQfjoVkE+jp60pFYz3tQSewhuZP1waTR7LVNAvPyJoejCFkuJc85fROxGyB2;bHDCJCFVGK7iHog2yBP68g=="

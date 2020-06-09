@@ -23,6 +23,7 @@ images:
   - url: "https://thenypost.files.wordpress.com/2020/05/mao-yin-03.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
+    isCached: true
     title: "Facial recognition tech reunites family 32 years after son’s abduction"
 
 related:

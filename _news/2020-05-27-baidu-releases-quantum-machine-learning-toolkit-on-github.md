@@ -27,6 +27,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Baidu releases quantum machine learning toolkit on GitHub"
 
 related:

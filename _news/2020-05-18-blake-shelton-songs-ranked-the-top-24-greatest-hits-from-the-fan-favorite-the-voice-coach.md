@@ -21,6 +21,7 @@ images:
   - url: "https://www.goldderby.com/wp-content/uploads/2020/04/blake-shelton-biggest-hits.jpg"
     width: 620
     height: 360
+    isCached: true
     title: "Blake Shelton songs ranked: The top 24 greatest hits from the fan-favorite ‘The Voice’ coach"
 
 secured: "tyIWyXq/nZwEvVWY04q/GyuGEoK/7Peimd+ccK4AUMN5l0ZyjbShLvi3ZhxOdZGddfp5I31vYVFcN8X50I+s6pPPIBhRe9k9pTEaXd1v3uzjarYD4z4kQ7TImRowpprtpCmi/+NBS9kUEEoC7sm5ApheTSXvzoGqAzK2+Qxrqeiz8fbE/bPB+mdC5Qdydj3/gczSFf9PHJbX1hoElDxrRGF+WxyF/FvYSNxkq0LXqagf4Y00PDjgjKQNXevKLtAl07a5Asi8gehviRwCxRhjQjEBw4Czy2MshKyfJ0EraXhmk5clgEoLP9rrr0WgL64WM6TUKiPGKEvF1ePnpEP++dU77HzxXglvF26SQnW5OZPfIBvCWF1N40WCPdVHa84T+0dP9UhIwoBq7JCvJF0tEY1CSgPlxyXwSAbAX/bClVLBKJRVVneY4Whcay7C9bAsFRQjOdpy4gWqFVqKQDdPRcrwN1LmpNKl3aZJeaeRErY=;ikShCPXs3KpED7ZkuFBdAg=="

@@ -27,6 +27,7 @@ images:
   - url: "https://media.itpro.co.uk//image/upload/v1590146422/itpro/shutterstock_410318023.jpg"
     width: 1920
     height: 1080
+    isCached: true
     title: "Data centre chip demand fuels Nvidia's 'record Q2 revenue'"
 
 secured: "ODK9B2UnXQeTktJY4Gm1TTUJNkIjp8RCPrW5C+Ox0k5L7Kim1cUAYZX8REG7xhRQQ0li4kFh8tO7jXAH6NVZ8mbuzmN8fLvRy+HK7IaLkD3TqmtAiTs3JZsVyhPUnHpUbJLYEm0SHrDq1feLsPVvxQhcte7ch/G4zzgQEE4sO5kAIIVj9Fhe/jK8jH5C7A8rbdB9gjMlbgXDuDXh4tSSl0qlR/J6Eg1bG3kN13Wf9wqZ4ZUhdir+AME4sibaUN+t6CXIYQ+nBlsn4Of6/sbxcXykunKHWI092G40VZ5jKHpGJq92tqpgRMjPPwJ//R3N;8w4s6GSh/sDyg3Nt1K7oaQ=="

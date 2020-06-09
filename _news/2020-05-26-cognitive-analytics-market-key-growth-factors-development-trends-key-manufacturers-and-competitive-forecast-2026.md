@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cognitive Analytics Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2026"
 
 related:

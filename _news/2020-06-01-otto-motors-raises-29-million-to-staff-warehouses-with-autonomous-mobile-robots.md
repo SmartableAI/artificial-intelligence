@@ -27,6 +27,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots"
 
 related:

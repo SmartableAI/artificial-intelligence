@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?w=1024"
     width: 1024
     height: 681
+    isCached: true
     title: "Startup Battlefield is going virtual with TechCrunch Disrupt 2020"
 
 secured: "mic5hU4467qSA+MKHKZ9eXzFL4W2oI94v0jrU8RCZ0gBzJW9PdCp61aQFtFPhvGoCLh7wNnAGKwV9gzdfUCgV5pGN0kcdbZELKSSdO4rgG22R5iKQmRDaQZjcp6uSgTOf+pkRB/2qYESZlHT/6M+DmR4YfcBegT/c5Hdn3zVCTOq8EWDBRCmXAeiXpTTqLwZXfv3BkKRhYV+h/Q9hMSOnISvpIJ5Y5fXFXwgkQ8lDMg9puGx1H9wf1ODOso7/gQAf8EGkvDyZAhCzQni36KZsHeq01TaJnftL4Jzz4Dqs3Q0XA4PMQ2ZvcMiTgDmPkS0U2WyxLtsy2+rdPa6SzcG8AeT6focNFCSF3Kw1asCpqaYN+YbfylTg1CZQqegVBo6APche+3Op67yAjVJIbaRln8S1Zr70mCZVpqbHcO4RxgWR6/Y8zzoiH+s1GMfHM5m5mkMnssFcPLoKR6ckjJgAioLRYgkFEaaNFwHV2Rqmd0=;jer6WtIDO8GDhbNKh4+kvg=="

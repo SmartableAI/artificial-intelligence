@@ -21,6 +21,7 @@ images:
   - url: "https://st1.bgr.in/wp-content/uploads/2018/11/google-assistant.jpg"
     width: 805
     height: 456
+    isCached: true
     title: "Google testing voice-based payment feature through Assistant"
 
 related:

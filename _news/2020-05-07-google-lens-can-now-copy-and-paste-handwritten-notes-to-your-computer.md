@@ -24,6 +24,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/OB8GZ9S31DDSxMolJNrmh8gUyr8=/0x0:2050x1369/1400x933/filters:focal(861x521:1189x849):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764297/DSC04857_2.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Google Lens can now copy and paste handwritten notes to your computer"
 
 secured: "3ToP2O8amfzhCcza4G+PknUXr0OMaDrX0tR5O5scUXcD8h6Xun6sjTci+hkAwVkOHLjG1zJwkSZh4t5KPh8tadiPMNd9Qdm/TQwqj0/poeTxCo4DR3JhHBMkD6r0SRa94v6ki1lOe/kZ2wTM7KHfWsQ5kXqch3x78beISlvZZ0nppU5BZGdItfi2bOTg2vD/U+HoQQZIXpPFVRUAm6jQhgPV76dviA/vfUh9JP1lBEkF+i0Y1eFXUXJokvj80RPxzRXk7lVziEb1E6t+AYch3/d8btk9yPRpMKqEwtTuP9cmYcjC6zsMNlQCSuuE5Z4a;mHHtl96F9R9o86GjiVgOsg=="

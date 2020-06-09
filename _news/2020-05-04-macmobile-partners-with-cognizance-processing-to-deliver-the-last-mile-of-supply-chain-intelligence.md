@@ -23,6 +23,7 @@ images:
   - url: "https://www.itweb.co.za/static/pictures/2019/05/-fs-Andrew-Dawson-MACMobile-400X.jpg"
     width: 400
     height: 345
+    isCached: true
     title: "MACmobile partners with Cognizance Processing to deliver the last mile of supply chain intelligence"
 
 related:

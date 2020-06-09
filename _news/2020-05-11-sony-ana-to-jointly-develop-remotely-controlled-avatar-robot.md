@@ -21,6 +21,7 @@ images:
   - url: "https://img.jakpost.net/c/2018/04/27/2018_04_27_44992_1524829163._large.jpg"
     width: 1360
     height: 935
+    isCached: true
     title: "Sony, ANA to jointly develop remotely controlled avatar robot"
 
 related:

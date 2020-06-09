@@ -26,6 +26,7 @@ images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all"
     width: 1200
     height: 600
+    isCached: true
     title: "Omilia raises $20 million for AI customer service chatbots"
 
 secured: "TJ3ipvi9d+5Vt4X37nRR7pOZEZ+PdGAI/pLaZ6CBjV9Ca4tnolKEKGI8/LMAKJhE2afUemjP+NvBphhH9ajRkRML/6YNKx1kSHI+tFkZrdBiWyuMzaV/dLwQiV1Tzvh7A4FgGIaryTU5Je4/1Vu+HR7Iw37mMp94oTw7IGCcXVOU3XHd+dgkiNbFjy0Un+snmrOwEVoxMktI0Kq0EroMQu/Z3NKC1jN575bFGGRKsieIlTf0TxrAIsN5NXGVyEqxNPMK80VctVROHbl8UDcaZaXJsJVNoSYmBoZxzHl3hpxFrV3ZwqrLQYkttiw3nibn7GF7/A2WIbXGMOwvoZwQOaJIzWM7y77eanXpJbdSz9DNIUOTU3n5EPXRYYM9/kml7AJZF9wE13mJb8vHB4NREb+wmefhxFGZ1BU8bIk9HheBGf6zSKCcYx0IZqgqLlqOoTcmUed6gDVunhUjdqkxHCs23uJq85FTc8PPIMhIwhs=;3j5AjPaJUVGS0vGQsToAfg=="

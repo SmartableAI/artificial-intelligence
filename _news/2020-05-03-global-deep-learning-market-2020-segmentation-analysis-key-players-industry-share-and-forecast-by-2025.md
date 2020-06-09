@@ -25,6 +25,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Deep Learning Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
 
 secured: "h2UNj8O5zreeaAW4V4Fjm6xbXZ1pNH7NL4NpIi8apCQfPFLu4rt2tDgfjbNs+n1ZcOYXUPvWAAw0UhS+ttp0QOxFgMs7X4bT6zrWDk8iKXKIa9++lU8IIKhouW6pLbLJawXsOrPgN4amOkgNg2UKAczyJEuw9uwzknD0CngM1dHkpv81fmG5tHTrcW4ajyf/K7w2tH+8vsZSMGNzQumtEkTGpO6xpE0JQwP86Tfx1DMuwfY6+zXMYMOWzz0F1PpSilq509iGzBbeWLnOtVXBS/05peUZ8T8ebnafR+xnAhwn4hxbqTKiZOJTkS33BueO;XoicQTrlwEhjVAiBZa0mqQ=="

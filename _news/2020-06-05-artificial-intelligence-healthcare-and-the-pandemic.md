@@ -23,6 +23,7 @@ images:
   - url: "https://www.socialeurope.eu/wp-content/uploads/2020/06/SE-5.jpg"
     width: 1108
     height: 570
+    isCached: true
     title: "Artificial intelligence, healthcare and the pandemic"
 
 related:
@@ -39,6 +40,7 @@ related:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/shutterstock_1075070774.jpg"
         width: 1000
         height: 668
+        isCached: true
   - title: "Connecting the dots: Technology, healthcare, and pandemics like COVID-19"
     excerpt: "This article is written by six students of Indian Institute of Management (IIM) Indore on how artificial intelligence and machine learning based solutions are being used in India in government hospitals (also during COVID-19 pandemic),"
     publishedDateTime: 2020-06-06T14:20:00Z
@@ -52,6 +54,7 @@ related:
       - url: "https://www.opednews.com/populum/visuals/2020/06/2020-06-91838-400-Uploaded-populum_visuals_2020_06_2020-06-91838-may-1---amit-rishi-article-335.jpg"
         width: 400
         height: 322
+        isCached: true
   - title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
     excerpt: "Siemens Healthineers and Geisinger have established a 10-year Value Partnership to advance and support elements of Geisinger’s strategic priorities re"
     publishedDateTime: 2020-06-08T12:23:00Z
@@ -65,6 +68,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200608005147/en/692000/23/sh_logo_rgb.jpg"
         width: 1200
         height: 627
+        isCached: true
   - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
     excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
     publishedDateTime: 2020-06-08T14:00:00Z
@@ -78,6 +82,7 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
 
 secured: "Z/1ckz2Lt77MoHXbLvw/mN+SDJnmZD1bI9XP/SN4KCeLgRJUWo2SBjMic07eGd0I0QvlJ6iuI1GRRxCqBUswzuy6GZ7KQqmJe0Vvz6+jX4vF0Rudz0c9oFgTwzV/qWdnK312hLOAEpKPQlQ2yqMqw/g4r4vCH24cDW+8XQmr/4m7MYwnPmZUgkb5FP5sXFtWhzcTsfLbt3UXpKN6MYP6EQ2UCs2rXVKi5syQQaCZRVLfVUzEqbayHey2AqI7a/mGWAjvkQ0cCrXIx5KUdozJtdz7QIe+Pvd8vwaZ+fRnUbKPCz4XpJkLm8xTyk9DhDyeId+VpJvtxipNUwuiYCrEX2Q7z8POccZZlCoPB3H2EMJQtPP6PR+oGNaq83uHyOmVTeE4vbTwMowAOkWPN59jTsOS4ySbYe+oJLxbNMqACUr3uCgLPw4u+1GLSq2XgmtSB7mPBz5asq2q3pNm72Pmsv1TiUmOXdsOvSgrQYUYCjY=;A1y6iqiC9UGbs2j8AZFqnA=="
 ---

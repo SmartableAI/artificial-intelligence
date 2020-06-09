@@ -24,6 +24,7 @@ images:
   - url: "https://images.wsj.net/im-185345/social"
     width: 1280
     height: 640
+    isCached: true
     title: "Intel, Health Institutions to Use Emerging AI Technique to Improve Tumor Detection"
 
 related:

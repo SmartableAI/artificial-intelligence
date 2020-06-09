@@ -27,6 +27,7 @@ images:
   - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
     width: 1120
     height: 630
+    isCached: true
     title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
 
 related:

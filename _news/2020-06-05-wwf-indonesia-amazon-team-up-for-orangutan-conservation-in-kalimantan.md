@@ -23,6 +23,7 @@ images:
   - url: "https://img.jakpost.net/c/2020/06/05/2020_06_05_96998_1591343124._medium.jpg"
     width: 747
     height: 500
+    isCached: true
     title: "WWF Indonesia, Amazon team up for orangutan conservation in Kalimantan"
 
 secured: "ua22qOp7/ddAx69kzBSorqv1gAz2qZ+f1+7YtkuglPbHkVdy3a+oqcVo3xNorArfqt5aG8BySw7ZRJWMun9y+Wf3zKXKGIU64AGQiQ+Q8DKfnpB9YOgi8UZreEvz5/v0nH/UvqdjEooPfbfwPAonB9Gb8sgxLsBF9z/SUblkns0EFhuWjKAP6qE2NguWmeHkw4nUB8rqpWQcw7u+R0i8h0cE+LF6cQKwU9rPgGkA6tKpnvLgusJMcvEBcGqI13bb3A+B4YLzDVfrZsmz5mqrh41oDa6pK2pmB94oUlxJKFaHu7Sv7MVCxhNQitg56NbLWKURaXwfazT/FhEwxzktOGgIDmEnqxG/QmOfjhf035tzx30B0cd61bkkluSUpR+2W2HNkNGSRa5Mhs+oQ+M1ZD2xtCr0oDruCrY013ntrC/wCDjBmJw4HYP0zS9tBYtEj80a7OZNkDA4OrM79KXWG3ABJWwUiTpqIo+sktmCEb0=;pZhwrDb8H2dB/2C2QfUzPQ=="

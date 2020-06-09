@@ -27,6 +27,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Sony’s first AI image sensor will make cameras everywhere smarter"
 
 related:
