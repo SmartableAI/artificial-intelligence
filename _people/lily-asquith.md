@@ -2,7 +2,7 @@
 name: "Lily Asquith"
 bio: "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex"
 type: "profile"
-heat: 673
+heat: 738
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=cFhAMkoAAAAJ
-  citations: 165691
+  citations: 171707
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 128
     title: "Lily Asquith"
 
-secured: "fjEXkKyBVRw61JVSOWXyVKG5xmFdUF6uPtmC+vnFuH9cRthyBnOseGOpea1wOYCzuThLzaUj4Av+395ZK3nCVWRpkLHnHnCx9+mmo7xnoWi6n8DwuptT5NyvkJJLvkQtW3sMWuJ3RJ30BT3HvQ2+0gQENLC8DSclk1+qcwIdNQgPA9t2O5ygEvc9DTxYf5O4vJVje9kyoS111FwHMpiu0B4iJ8Vt8KG2QRNUjhJEHwAx1O6UMOlmjdlJqSSADMCpUmyTUjXLuieRVOZ9qT3O5RwHNtHBTDDIRvkkV6SYZWKh1Re2iF+0zsu5BVIhMsJpmSfdH41sonAKYDkhywevYg==;kEYVizRCgAGixwjK4pNg2g=="
+secured: "tzFUWefq0FNQFUOAVjtBtZazRGfB4bSWQssr7WnZItMRqwiSIr2sIjOCJDg10eKVzpAvbAZqrzYwZB7w4iSeyeSFSRYQVnsT9Hf4vAAet42TjG4goRRGBpYjU80O9HI/Z7ldx0/9qJaqZGAHe6R2vJTtdB2D9vVBAC1rzKWmRa9eT9hYfaSCeSah0jssww+Ih2XdA5VL/2Rl4fH5StXo82pcbuy00saMtso4sdh/f+FAv0nDQ0L6lmCYZRqTHUVtK5LP3uGvhKTjf3DXJ6V3KZGgQATgNdfQmeXw4Og/6wyAEVd8omRksiXzS+SI3quYpyYMsw7qUpp4y1BVU3yJPg==;yXk2L/hucQ3qsNgGn3H0RA=="
 ---
 

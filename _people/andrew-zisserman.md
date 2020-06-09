@@ -2,7 +2,7 @@
 name: "Andrew Zisserman"
 bio: "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind."
 type: "profile"
-heat: 678
+heat: 768
 
 affiliation:
   name: University of Oxford
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=UZ5wscMAAAAJ
-  citations: 200400
+  citations: 206659
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Andrew_Zisserman
@@ -25,6 +25,6 @@ images:
     height: 128
     title: "Andrew Zisserman"
 
-secured: "9smfKbLy1J5K4BcAjgYrASFZTYn5Wzw3OOuNGScMJboCZB+Oco+rwxruiymMQX4gfGNpvYyTxREoofxOsgVe1bCrU/jGE8qtqX+YUdVW8uEgbc58DdEjCy2dJJl/AmuOELqSxZ25qQuvbyWBXo/RxfgWiaSIA9AZurQ35RrzfDqHOmq7lhYrwoMQCbdrahum2VV3Gt+IQIsE2B+h3Iptkz1pGEshT6pU7mXXK71qGbYC/5vHhDpaehGkXvWsF0M9swuKWDzc7ns/Y0P9Ok41QdhsZx8TJqFeUol7tGQBlcxCq1zl9AIEatZlYJbiKpn9MyYQJ71blhzO3skqkV6G/g==;kAihzST5HWV0ZC0p4TVeZA=="
+secured: "fLPD5YCpVo2m6R5B616xd73V1wW3YrRV113J+BkTFnVgwxikXY5jgDmcOBb93v0i7/w3uxNy5Qp9zf/8zNFcFvq0mDPqOygrHTaOp6lNste+zMia35nnlxGS4OSLtXk5Lk43UHstOiQh5npdWFPMHeYrS46QhfavQWKYFRm9Op+Q9n1qV8yfafDZlgD1hfV2NEQ5wVzKB6uyQwCSoFiHi2j0OLgjbgbkNwIm5DPY2QdLlApVH5MyyLApb0JWmoXbsBpMs/uK1ahGGr53UuDYmcrUQiXoyp6cwlmcEQb+ovQdJa34jix/SjXeb095jQBhpCeT29wwwPs6smS3z+/zjA==;UN86Kng0RQ/ItTKaHE4PXA=="
 ---
 

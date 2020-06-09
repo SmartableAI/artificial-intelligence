@@ -2,7 +2,7 @@
 name: "Erekle Magradze"
 bio: "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia"
 type: "profile"
-heat: 1587
+heat: 1031
 published: false
 
 affiliation:
@@ -16,7 +16,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=4mF2FgcAAAAJ
-  citations: 289921
+  citations: 298322
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     height: 128
     title: "Erekle Magradze"
 
-secured: "Ngp7oykVJo4p1g3O5959tO3cIOYksEm4M4swb9Ql0gmGle6ZRmk4FFsNKp5GfZf9sIDsZrzXGrshC/ZoMTCvobzz0B3jRAW/hkxaFFbGCCjf+ETPB+iHD9WqgqvEXXnTfEhDYC3PjyeCimaEzpBcgqNINFCaDwqW8tBHxEKVzEqN12CbjSLUwfBIzZnArYzbkZ7Jn1Pu3HQEKltmWHwFsx75P5jLs9Y9KVAoy6a/quCL9X7t/88rUGZqa1MHI7KuBdiIhe4LYXOWsWK8a7OdX0k4DIjtFMfq9g7xTo449wh4CCjSDmGXkgaKw4zC3HijSZHVDex8nWaWfJv67eHzsA==;X4kUdm4BPQVUBRp+k3Ngaw=="
+secured: "UEVYIsKxNfAF16Dlh4ZO6SifIqd0q9iJ2Woxyrpuo0muUEXMVFn1RpCutMgdbvht0OoExXXmOGBe7Yfc/sFyu4WkdNroURmin225omRZ9O5wqZLvEoyayZQjIbAPqLsYFHO43KU53doq7Gw0DBHsZGotzKGc2cA5JKmn+7SFafSfzwNqf+tQpm452O0p9ESwMfk3wFcc1M8O0oXdvunHiRIzvCvwz7JKXU7cBPq2Oc66SVKCGiUUKaq+mZ6T+n31uIayIusjiX71k8FgdwV3PLNO/ZjRyVInsNdKBHAgReOWcSLKMDP8D2dAwDH6H1dKGAvt7xo0zF0m52sxcgxPOg==;gOVw2vPfGdhQl92QKYqXVw=="
 ---
 

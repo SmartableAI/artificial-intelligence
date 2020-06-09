@@ -2,7 +2,7 @@
 name: "Yoshua Bengio"
 bio: "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning."
 type: "profile"
-heat: 1675
+heat: 1853
 
 affiliation:
   name: mila.quebec - Homepage
@@ -12,7 +12,7 @@ website: https://mila.quebec/en/yoshua-bengio/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=kukA0LcAAAAJ
-  citations: 270467
+  citations: 285560
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Yoshua_Bengio
@@ -28,6 +28,6 @@ images:
     height: 128
     title: "Yoshua Bengio"
 
-secured: "rw3tENpgEUsIsMx3tKcllcjViVr3SM9Zec6iLFdsL1X3Pm0zcnp6b7nm5Xn6wz9ZXvi6JXorbPifaBR4qSaB3ekuX68KLoVBdvgQXgnvvcs10skr9EoRa8/nWV+03IbhRvcwbvhV117VlhB+80huFs6jJfzig23S+7EYnjYXblU9ZuwYJV/s61qO6/yaJIHnYMFM29CN2faRDwqhqib716IJAxSAyzI0T/WiHB7Yg4YG/kB6pR/BzaXTc18BsqsstujPRWopLm2qak3KnqiYP+92JOlWQtFVs1NijEt/rSOgqOFnjqGvf0FHp6EugscNpV5BlHBDBevMmruw2oWDUg==;1mJQMJEN1JR5WiZwEaWWyQ=="
+secured: "8iV4GVdKk9eJUpaYupcLhwdHGKsD/xUdeyP+xnNalFXmX3zg4F85LibaEvmLrhJ6Li/NrpKZocb/KunEOflIFqr9n579dr/eD5ZBQJjeAkjmAFlvvX8CxJFjnFG7VYqYYzwWOTwZDmw2+fC3OzUlZJ/DLf7KYWjzrVp0DYy231gX1Qg+/0KwHJJ99RGjJYAMkH4obr8iSEiZISy5RbNjEdCmx/+5l6MCSdjIsIbTA3zcJ4lpzFw9OVDBBrNqTtRWT7joi05iGTpXyGTWjlPNXb/LXqLa/5N8F8JzN7dkd0cYBti39d1F2HmpRbLitymvR0NlQG8J4oSNQppHe81DQA==;IS8KFnFgCQDfkQSv3QX0yQ=="
 ---
 

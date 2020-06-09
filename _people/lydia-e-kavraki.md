@@ -2,7 +2,7 @@
 name: "Lydia E. Kavraki"
 bio: "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University."
 type: "profile"
-heat: 34
+heat: 44
 
 affiliation:
   name: rice.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Q6pxNZYAAAAJ
-  citations: 28113
+  citations: 28472
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lydia_Kavraki
@@ -22,6 +22,6 @@ images:
     height: 
     title: "Lydia E. Kavraki"
 
-secured: "0Coy9YB5EaIHGiEeyj61ecaMD4BlIs4u1RlcDD3mO8ooW4JfUnSiuCFJaa9XaGhHOcYP1lIL4m3BjDBm7SImkqd1b6JBxOZhoDykRCto5F+jIVmBKH9IQq1WxAVOtr+hqaLmzvaWNGWPgQlO3D8Bzs17spVOcdY4Q4Ak2wrQPUjyCWZ+f2cBfE+iyAKwUhgPHiOu/W9diX8TEsNJBOM4+Oa1sTr2GfL3TL54ZLM0Yqk+HBdHxZOK53HenrlloXkIHeDTdOazTmbmN9QNDWJZfzkhwKxCubCaoR3kIe5pXF1Ai/1Mxsv8tvXpup3QcmxtjzmZ0pukmq8avPnLFagruA==;H5Igypb8oeoIL5iCCIjgZw=="
+secured: "nd/QZx9G7720HNfX95tvRru6G19oUXksuaXT1eBsaMWFRM7Chnc4Y4mF+fqdkOWpuLEkDh8GjPWGLQLDj2mzCghq8J3k4hKUvNlW75BUa31vuU63Df/z8FL6q6IlwNEOtIopeUaQH1dlpi3N0bXmL6nafE1ydbk2h5vtRuzbOCs4WNBXBxRmH7EFbKubD/yP4y5Zjb3LhrEGePdlifg827NDkMB38l3C67jp2zW03sMo2G3UvmYzwb7+dtxAFVJxxtoLqwjfKAvdSG6MSH4FzVWxJca0BVDurdhkrg19XiHnvqof+5aBtgOPqypHk4f5ViDorC204tQaa84mINupZQ==;iB1Aj+hvyDycAJbkTI1BqA=="
 ---
 

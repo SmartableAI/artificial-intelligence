@@ -2,7 +2,7 @@
 name: "Lotfi A. Zadeh"
 bio: "Professor Emeritus, EECS, UC Berkeley"
 type: "profile"
-heat: 314
+heat: 334
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=S6H-0RAAAAAJ
-  citations: 239318
+  citations: 242044
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lotfi_A._Zadeh
@@ -24,6 +24,6 @@ images:
     height: 127
     title: "Lotfi A. Zadeh"
 
-secured: "pxIG9j1/Qzj1GCkgdJAzr/anYitwDMzmX0z8CXVXI4ET9Rt10HofSoo/C2y7kOv2+3Ie85C8647XAZ6T4pAYVOCjybUCuhBVYQjacLEs4mPVeglWZ1zzxRih+gLe1cMO1qY+Z7erl5ZrWmYkeMHX9FOnh34GygVhMsph495rbktvs1ce3vPrgCg5owLg21i8A9rF4c/wkzcf4eaqBu9ct5ZByc/H7UI2/lEvqlurUr2LIqV8eptv9dX0+PUqED9S1kauKfKzSKupxddBprKpJRzO6udJ1pPDLEwtFp+iQ7E6JGaLu/F3Rvrr1X4SF9lvk/tUqTp8tP7FO3BPgYJYJA==;/pKuSqjV1DyHTiFB1cGJtA=="
+secured: "M3S9SSIs7rBw6fWcyl0PoRm2T97uN6/8zFTogGPjMQ/59WoYTC5omaKhhDB6Mbyv06DYf6Jy7GuB92tUC79407/M5DElpd//Lq1oxw6vNeNHDbCFbp9MFJBKf3C5R6t/K9qClkJ1kTU+6FM/042nj/ANgn616FlR+LlIdSWnCxK2miFKDJ4I5WuzJECdolYELp/5/p65w41Oni4cdEnqdv7DiImpDm9k7gzmaGDQAcdKe6mPnjKEnrbMxF76mHEvKQYBAtBBxlZj9cC1NRttraWIGvt4n60A5+5t6P7aeC7sngkR3YvWDQrWjk63m98l9edjUtgwplvbWp4oGdzfZA==;bKkaY3Mq/yMoJKH07K8K7A=="
 ---
 

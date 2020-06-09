@@ -2,7 +2,7 @@
 name: "Kalyanmoy Deb"
 bio: "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …"
 type: "profile"
-heat: 253
+heat: 277
 
 affiliation:
   name: msu.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=paTAXiIAAAAJ
-  citations: 140815
+  citations: 143073
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 127
     title: "Kalyanmoy Deb"
 
-secured: "TM0GNI2HsPz/VcgPvbLWRsTGmhHgbM/7V5Z4xSi5LfP0Vz0UAMpzvjvLoiGLCvBUzYLXFwKVBL3JdeoYToy8H9qUTqlgFVH0wZVZ2i+sG0iiUZnhgLDDkZ6XPhiETNk95E73BjN6Pvv6AQmk6ieh6DC278XXJCu/vXzKJ9AZKietVlu2r+XkihiGyp0tQa+/0IYupJ4wy1mbJvRUmEZ20KgnvRWsBKT+XOW+9Xj/uZPL+ueY+joXDp4gFh91M0mLwjNL6WVYPi0bXphsgS+CclRoTC/bHqB+XiBBmEqowGCilX9UC/9gWJ7WzYlV4UAHGaE743wKtJ/pb4eV9c9DvQ==;DSM1zzoyzPTLO4p0TjK8sg=="
+secured: "v+3Rhtm4BMjEvdR2Ali8lTbDoKscFORdKcAD2eHW1zgj+1Gz6eFVcvgEj7OKrlTnmjAUIJ65mUCtrxNvYAOMJcuFM8NhCNHBiEY+z2SUPUPedlUo0+G5J/fxIEzUJ26Fa9Jd9lqFLv7CHMSL5prKX0NCbHcrNtonGZkeqEQMLlf2MsyKvpB32EgrP0RVfH7RnzgbcbHMmUB72ye1Zr4F/fXPzTEuiP1QhFxBuEluNMyQxD6LKF2la4J4qr68DH4eUWjyrN1cNNVIP/iZxkTpm+foMb/ylSdwKyBOAAE3S6x2+yg9jl1vm50OcSAikNCLS2ApE5U01BZhB/z8MicBYw==;X8INgg1EQSQOanrGTm52/Q=="
 ---
 
