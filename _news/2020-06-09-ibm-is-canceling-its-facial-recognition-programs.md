@@ -1,24 +1,24 @@
 ---
 category: news
 title: "IBM is canceling its facial recognition programs"
-excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
-publishedDateTime: 2020-06-09T13:06:00Z
-webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
+publishedDateTime: 2020-06-09T21:17:00Z
+webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KITV
+  domain: kitv.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+  - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
     width: 500
     height: 326
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "akESs4kyoJqeenwcDT7SN+JxSQ0sNXsam2ODXG8lnHm2aXkeB6C1E8WA1XTj0hT7qmhd6P84tq8gzzuAoxdgrD7WrSNBhRvBgCSeB9sx3+eqQT5YrS3TisYrOfist70OX0TmMNGSgch1ZGFC9cbHqM0eoGgq+EvbbpMz+rtUMsnmBHgTPxok7Tox++ANGz/e3IjToOPbwC0cCMTza6f6kMy8d64Ycq1ERSJZ+zbsbaA2FNf8R5tNZmv7OHzle8PhKZlw2nzEJUKQHZvzWLIRKV4dq+45JtgsEiniiWfZFgBgvF5DLfo/4f+MBpkY+dTh;RLI0lc1dtZl/O19syqZ7FQ=="
+secured: "rvj7/pEZzhjswK7Ff7GDYaafZUE0R2Te2VEP3LEbLxgQhb5/XBpk5PdQF7sGV2nfDWowK4R27SSUnizTOa3c7LbY1tTssrkKDaFAf5lI8AHBYoo4Y0aQq2lUjjk4IF3Itb471S3mfvhzlrUKbewDxBVEW5WkGSz6lLOkv8zPz2v6DLEdEiUV5AV/MzcWcIDhmcxi1sXk5dKXX45aJV5ejuPHO/2ERHI0CvJV/IoXQFW/NjUIfRGDI4o7JPVQ1RAszUZMnrrNqP9Vm4FJfpvNSIaH0sHsCNMMCTxKhsHFEaM5fS4sQR7kPWs884VhgWuE;3pokU4AF8QHZe2oQc9WaMg=="
 ---
 

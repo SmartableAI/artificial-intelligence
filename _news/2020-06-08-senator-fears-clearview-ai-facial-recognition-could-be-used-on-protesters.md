@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
         width: 585
         height: 363
+        isCached: true
+  - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
+    excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
+    publishedDateTime: 2020-06-09T19:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/senator-questions-how-clearview-ais-facial-recognition-tech-put-use-protesters/166026/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 30
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_1658380954/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "CKNHg/0Puz6A1YAxXpO8WpgD1+zTnwCYDFTj+HbozBjcuGqSflZE9V5nBkAhzsS8z2pqPKHRYE8VRU6RA4lCg0fJvICKwCP2INQvdRaS90RP3CM3TpW+0vSCvhoRWqL6yp3PxBYpU1j1GYQt5nVnUrU0xM8sz/nbZrsM3ZTvIqWxwdYiDUzUnG6AiVnjLMi5qfdBedQ+SxlZ965zB1KMwCbs593Hovc39aFTee2oohPhkD3t4mq69Xe6cl78pvYl9kLvmSz8dNGjyMUa08ullPuEoBIuiYFbpi/HbG1meYlcihbEHiVU3hKF2nQzW4mJV9Ta3QTlXS5sCncY4eGSqtnyHB9aakiZ7VdxeNHZjeTx6yVy3E5hKup3vtTFlpfXrJnWAcQR59aarCaH6QazNmtnT4z5wM8pNFLjOJSNq4pJStQLr+Da8G/wuoPhU2cHmmLLOEe2WfkrAxvCZLNd5L76/dF5gJ12Fc4ogmNv5BM=;Y4zdMNhFXBD36TZIjzxl/w=="

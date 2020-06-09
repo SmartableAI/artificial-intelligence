@@ -30,7 +30,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
         width: 600
@@ -95,6 +95,34 @@ related:
       - url: "https://www.imeche.org/images/default-source/default-album/shutterstock_1069662992.jpg?sfvrsn=0&size=705"
         width: 705
         height: 396
+        isCached: true
+  - title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-08T21:38:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+        isCached: true
+  - title: "New Memristors at MIT: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-09T00:02:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
         isCached: true
 
 secured: "TCM5Zc6+B6ycKd8E9KvBZ2neGhtkhQ6pXoRuL+oroabDIMI9eZn2KyGMHLZQr5pcqyIZzlnFqLIB8kYUJp3/y20e+zD9ungrSnd/SG9n5eCLOKkJXdwQnlYmlJdbkitYCFrul6bIoLaAmBtoge+Jx8KF3V85b7chHCCBBSiP3n/5C9r4gPqnySCDFeZwOve5i5K1EwtGfHT+T8k2yjahKEUUlEk7dl+gaqlbz4/BMWeHScs78BBAyQX2KpxfeLtTaiSyaXA9bhD2QZ8S7AO8u4mJicVFmY6/jYZo9KSuYjup7WHOyxRx2AoHL3ZQDl+TpKcvHGbBfxzYXFuNXIRXUJF4zJY2dwUWBgki2yyYeFdJ6OH0TakD3Vxs+yTgZTDYANWzNb3Eax25cUd+Tiy5vwzB7NzS9+St3OSErXXVt8v1GowG3e4bgBkuJ5IYQrKuM6LIFuzwFBa1/g+U4Ebd//ngu2VUPBg/9FXpA2UUvAo=;n5XIO3+D0TTHI4XhtbXySA=="

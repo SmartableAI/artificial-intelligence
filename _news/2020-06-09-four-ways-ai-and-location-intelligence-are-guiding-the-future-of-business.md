@@ -3,13 +3,13 @@ category: news
 title: "Four Ways AI And Location Intelligence Are Guiding The Future Of Business"
 excerpt: "AI alone is not enough. Executives are already seeing that machine learning programs require real-world context to connect AI with the physical world, and that bridge is location intelligence."
 publishedDateTime: 2020-06-09T19:54:00Z
-webUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/?ss=ai"
+webUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/"
 ampWebUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 96
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +21,13 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edfded8a1823e0006af20f5%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D1200%26cropY1%3D94%26cropY2%3D694"
+    width: 1066
+    height: 601
+    isCached: true
+    title: "Four Ways AI And Location Intelligence Are Guiding The Future Of Business"
 
 related:
   - title: "The Future Of Infertility Treatments: Artificial Intelligence and Automation"
@@ -40,6 +47,6 @@ related:
         height: 338
         isCached: true
 
-secured: "l2XOHfaVtb9RUZGylZo98VKz1Ih7H0Q6GUl4zhQc8ZsxHfetcktTKCa13rjOgOB+2cyhkbM8Nom58px+2qCqEyy7AMZmEDpumUha1H3e+CAhdqfWM0Oz1V16fAuMqhiLDSbEHWrgyk3RbxE81SylTC1MOv4I69xgiYevfz73g3ncTvxpt4SRBZDRHO5Xofeft5Zn0ADX80wvqCu/21yBJuPMJD3oUsG8FYXECqXYQi+L2EXqJYlRH1QUKPjbxdsgwPbjR0B1NfILX/hTTfBlWxvgE9+vvQPB4hBta6uo49CwG9InSB7wGquqkMxZwre4OR0vjISVkFSCPsUrRMqtM5BD/PczvfWvdnYTvvIZXrmThLTE+ETKhlTLowzf0ve6r1UBaaPd65SwWBqqJODxpCUKnc1WRSVKOGFqHb64R+Disf/14jPysKzHPBYlkt9Rhl6AYQj1JJvZoYOdRH4OLNpjr7cpzhIiftLMlidtVNZ3H0lGONIrpvXnjV803QyY;JssQivSHAcRaP7T6v5js0w=="
+secured: "gD2MoYyH1dNtV4lhCGvVmnPUoEIw+NnoYBTLpb1qJmWq/rRuNd8/MlZvRf/0BKHh6AZEUO0oLSSx9Zg37583olF8mjrn5lle67QTGecEydmuS0i/PAwbYif7CCNpDnWvbcroq8lTh1pBzqzpAk6K0fzqAuvBEYJUzEOArYL27De6gvaCqOJYrPGt8ibLoyPqqrgsasipee2Rdqy7mXs7r5XnAR8LSXHK5IqOKVD0T/g/znZgBrfNY/nnLwmVpU1muHPhylDKGcgYAPAVOSkLKOB3KO7scCwEtD9Nj7LDjVkt13fGh9YALAZGQVs8JD8V;Fp0vnG0ODRAw8h9Ja/D8tw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Modern Artificial Intelligence systems are finding their way across en
 publishedDateTime: 2020-06-09T18:22:00Z
 webUrl: "https://www.analyticsinsight.net/does-explainable-ai-uncomplicate-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/XAI.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Does Explainable AI Uncomplicate Artificial Intelligence?"
 
-secured: "/vAXQWe7RV7KBX8b7CkAZWpr4T4daHxdDUaW44HjPQMIDE2E+aSaZ2UOGLtPB9ao3A08fXf/ztPt1pCuFp4ng3qFSXOo4/vSmqdJq1P9v43wih7u+vq2IVwCdJx+rzFYFRyT2uo2f9q5qvI/4zogE9fAlD9sq819YMMN/hYE0B/Wgbcd5VEYSua/MVJ3ozWnaX5UM+8jx47c8Nh0xaTgdx9Pm/a8fumpTgM0uMNW5gIxbll/UFTfw0n5vMqXAXwGTLTvRzV85/odup4G5vAGSKrh8XzNrYPrN6OBGvWyghEb+fwRpensSUQDs4ihtQV2;KiTrp16r1ARHzvZfww+5iw=="
+secured: "FhpFxQy/OcRjAbHy7aVm1OHgRjPWXjqB+90eT7B29b88T3pETgSNtjs0JZyODkdwkCb8ZpSL3Bj1FlUs9s2aXNyOO5XJMEDJ3E+8VxZsm1uYvPwDCpCiCD8r16H4oXiKsKg7D3dc8xUgwP2swrTM5gbsS0Hk6uhlfvxiQKXnCSTGLYnnhSJcMPzhlUpKRi4jdACZ4wO4fEO18k/LxXngeGHSNm3dbKj4dMFxTRQeWdfr85gPM8j6tJPt1h4hHYAUxXlggS6PuVKaVB/CB2KxaxuExv4ZXsmTuFavhqQWqqkJv1TTO3THH05C/NBO8Uwo35MvAW8eVfWRhwYWV57VzWngslU8hsgeWaKKdIl0YGvqo4dfEpkDIKAePlCeI6RgfAbbPwgWWJ1butKNJrqDS5KcdlDgM77ZiMCnmXitqaU0hoDvcHs4LIHMcOwERJjUspQE8lWckKVRZTI+vwGqnjdisEql5OdgKMIsjmzfLc6Yv2TMx13Vp+lFY9M2GQuF;AvTO6rxAJhKLbTONUvEe9Q=="
 ---
 

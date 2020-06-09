@@ -26,21 +26,21 @@ images:
     title: "Microsoft is struggling with their new Microsoft News AI picking stories which embarrass them"
 
 related:
-  - title: "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News"
-    excerpt: "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?"
-    publishedDateTime: 2020-06-07T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/"
+  - title: "Microsoft's news AI publishes stories about its own racist failures"
+    excerpt: "The inciting incident for this entire debacle appears to be Microsoft's late May decision to fire some human editors and journalists responsible for MSN.com and have its AI curate and aggregate stories for the site instead."
+    publishedDateTime: 2020-06-09T21:24:00Z
+    webUrl: "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error/"
+    ampWebUrl: "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Mashable
+      domain: mashable.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F06%252F09%252F76%252Fdec069b9f3b44584ba24247a3a38d8a0.d7721.jpg%252F1200x630.jpg?signature=2jw9zmc73TP_TwyQ0MGmPUALBJg="
         width: 1200
-        height: 806
+        height: 630
         isCached: true
 
 secured: "u3lbKuKkGV0nQdQb8MV5m4YjgfMXHskszYyhPEnLQxIXT7GCZyLj+AtsPECOoCYWjBKyCGb7exBKL6SJUyinhqRh3rc+NsizsfOS4Xmabc903BmfTuWIMUCBvhxmwGrKBdfESIngu4MODe5vqoajNTzdiqovooQh6PCLNOIEdQhbBlZy8WEgApQHvSjc4jiSZNatnr+CCueTuMMl3efRYKdWG4+XzGpm9guwJ0mOvoaiV3wpOj2qxmgol7SQOMV9SIskp3YBBdLfBtz+MQUsaM4BOI7xQ/0dNeemlMgLXboxZLMprO6gkn092U/R4R33;+HilPb3i8sjz41kV5R2HdQ=="

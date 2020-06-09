@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-1
 ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 type: article
-quality: 104
-heat: 155
+quality: 106
+heat: 177
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
@@ -102,7 +103,35 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 36
+  - title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-08T21:38:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+        isCached: true
+  - title: "New Memristors at MIT: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-09T00:02:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+        isCached: true
 
-secured: "CIGVtXXtdjEX18njFuRueQ1kJCXhg6EbYLJPrtiWov/sMxAM8QpuesdwYMcjZW7KL20QNQpWMds6IUBueRWzZlEHGR4VTJXu1RQxUals5HojVrxaYovVM8rHwRMuVjwI/muck0v0J18SBwRlpHq5jyMNtgUxnvu16vAtjZHLIEz6JucI6K5u6mw9vDL5cPWfJqOYWbPNwoMKsOR6L4xsfdd1omwhDJN2Ssd+IvJzpvC15Mtl/g9Tz9sLI3LCfmxQpDL/pSvupnPtRUdkeINABQ2e4QQsM6DZRj1YhDiVpi+0NZbOMKdAhmocz9ZybL6X;NKgY1t1dmsZ7Iiokah2acA=="
+secured: "HAcfuaVpEQ5soR3vQmLBFobeumoc7COsHTkzO2QVYz9bI0UFFTrIc42qJgK3NLfBQLTOUxcq+wu9eVUFophJlpjtvRuzyDxQSbPKLOxkQHfbwfN1nxtxpBccrStSJSduJJCsKOksz4Q7RjFElc97oVUlqO8UTTBbOzq8AktT6cvyE5r+Ras2VH5F9t+6lar+F0ERvfCn3oEu/oeJ/v2yBVtFDsx79PC7LP/qjmzxBO3SYgmCWRNjgQmBAk/BL1m1UcemhdLdpixiLLxBszw6IiF6RNch/o2YpXiXCepVIlxkbbPkS/zeIrdo4aYXvNPwI6FNQHqi8Tq81g6Eb0k5w5Cx7PhE3k5wdcl8gEAFi8uENtLTQa9+jACRJ9chB6JhLQMGVh+gv0WiyHtAPP1b8i7/07r9LfzaLXt9SZV1dcDujLI4RoT91IThJn2KOoba2k1y1MuBFKFT1LYYEaRHkwGcHnmHxLC2cAKBzgZl/pL1iTv5w4DF/UTDnCJtV4y+;7Wx6/xCR54krANagb2k37Q=="
 ---
 

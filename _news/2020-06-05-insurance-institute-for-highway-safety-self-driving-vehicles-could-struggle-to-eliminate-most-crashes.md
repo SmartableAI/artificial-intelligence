@@ -55,17 +55,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Self-driving cars won't be able to make roads completely safe, study finds"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94 per cent of US crashes,"
-    publishedDateTime: 2020-06-05T04:45:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/world/self-driving-cars-wont-able-make-roads-completely-safe-study-finds"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 22
   - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
     excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
     publishedDateTime: 2020-06-05T21:17:00Z

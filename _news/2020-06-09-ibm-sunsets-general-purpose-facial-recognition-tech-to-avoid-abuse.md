@@ -299,20 +299,20 @@ related:
         height: 480
         isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
-    publishedDateTime: 2020-06-09T13:51:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning over racial injustice and a closer look at the use of police technology to track demonstrators and monitor American neighborhoods."
+    publishedDateTime: 2020-06-09T13:46:00Z
+    webUrl: "https://www.chron.com/news/article/IBM-quits-facial-recognition-joins-call-for-15326884.php"
+    ampWebUrl: "https://www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
@@ -441,6 +441,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "ZQ8JNmPIiLbz/BWMZmx2LIer64Y7+1oAK61zAtHY5ehsl7e0fTf07byA5sIbHmw+86sRvtgMomRTi1om5hZp6vuruygQmGQvix21weTZTVwxlkHJT6t/Q88EePnot7KJPxK8WoQjbaTHlrv8TEegjb1hefPBpAe9mBIF5hjBEJYYC2Y/zVsrqLd2f/UeLljnMwkbySr+LppZaq9Ornz/edA/60ALVhTkcGS05U/PXQ5esG7ySvoHEffPRdviLabia1A5hrRIcKTflOzjE/IFpvXvoVoUpIStc1hgIaCHnVymiEWXBOXUsCU+ylhEY2GS+353KoFt93naipxfoSHRQ7afbzqx59FDMB7DhC/b4Hr0YpaB5z9kh0Dk8ZGTwZGPxrPQj/yZjiC8aa9fzZVuIxet08TEUIbzA7WDaozW25bMRqVaJbMipvSfbQi2/0iFTxc8fNqFGojrNcnck4Qki8rGCdP68aFkEKK+iK2BIjpaIzAoDx+LNlGas6xjVvYg;VkD3URVEQ2D1L2MoMR3Ckg=="
+secured: "pWNY32+eEBkcJkvmMA+7wN7TG4tTXFKwRUIRPANJrDoTP9l35mpiooNYebJPHqOrGdD/n0yKeeJPYCHB70Fp699MAgNc80dhPWYGbIBbiGiHt6nrDOVFVJ5io4OE6p7RjjJa27k5QOXvcHIupUDBkt7IebvZupA5+tL0bA+aMt0iEmELzpGctH9um37jjKhI9jFUbW1nJtFhqP8UUjEouNGhWLbwdMXjyFtUQF+7HrP34qzFi5bc4jG6ZVrLjqFTiRyfUrdL3dJBvdP/4UhfLiwdOwEuH4EvkfLNgSIWXiiEdgeA15JsF2qZsVhrsT9mhnjuGqhECkwviNgVVm6UEVR7zkE3SvgGp8oWcX7qrbYziV9qQJEJiu91JPk9rKmVPZ38hknd7Su3fQKGDcwkH/4xYVrs3u4a/IWauEXcLrf1qAegi5FpT+atW/DqWL2CXrJ8MohtUODaCzVQpSi4MW1IAdAEOHjutusdbYd3bMv3pZhiSVByy9XJ2ENn64bQ;CGECrMnjI9fAibnrsSFYXw=="
 ---
 

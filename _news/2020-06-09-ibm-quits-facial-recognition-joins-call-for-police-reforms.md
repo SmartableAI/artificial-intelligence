@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM quits facial recognition, joins call for police reforms"
-excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
-publishedDateTime: 2020-06-09T13:51:00Z
-webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning over racial injustice and a closer look at the use of police technology to track demonstrators and monitor American neighborhoods."
+publishedDateTime: 2020-06-09T13:46:00Z
+webUrl: "https://www.chron.com/news/article/IBM-quits-facial-recognition-joins-call-for-15326884.php"
+ampWebUrl: "https://www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
     title: "IBM quits facial recognition, joins call for police reforms"
 
@@ -437,6 +437,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "xOuVRIOBw1J+1JWt2vHchdCczfeO1zYQ2qYmPtciHfA4ijHV9xKs5BXKi0MAX7ngVGMM93wEotROWZju6CsuCa7ZrbqqZOOXtePM1p6wvy9yf94k7ti8XBcXBjPdeg4vmqpubWiV9DNkDq5ZYgGnkdAZzDuMeWgEXj0GCdM233Qcu4n7+RsWlyEwEtUosLszVkViYRBORbvjKxLH4K2TK8PvT6+YWs16MXYj2GLLoHXF0cSr5Fuy5yKQauzH0k2UF0Vb8ae85yoxOhJoX8yTHBUOjHKSxX9K1nzMIDX5rqG+hwnYuFPgDZCzitdcv3jJ;4zhQRk7hfrBRjvIzYDJ2bA=="
+secured: "Z+cqAKW7CPwHdkN6F5+E2lF0DYP+axFjUgOBcf1Gg+BWRXmTS9wsKDmjekcNB4Idieu2WpZ7pHgdwFoxWf2cS3vB1rKa0PXLw4aOFlmGsqn9O4rteq84Xn3YcnN/ZJLNwHh9kqc8uQOdljTPeShogI0LzkJI5J12/rsvBBiIy+OP9jJ3XDIln6hFqVyZo6sdQD5IxC2UhbDKTLiyzx6otUkqYkPeknnpXXisVRzn7divR3UmUJzLCMIzngDbsMNCMGCCXM0Jo2d8WTBUljJE12r9KIT7nn77sue1WVkq7jWlqKNVaccgxMYilH2Q4Xdu;PNIlMv5NQ6XT+Jl8IAQXVQ=="
 ---
 

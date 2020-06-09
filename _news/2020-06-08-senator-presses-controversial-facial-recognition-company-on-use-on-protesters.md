@@ -104,6 +104,20 @@ related:
         width: 585
         height: 363
         isCached: true
+  - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
+    excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
+    publishedDateTime: 2020-06-09T19:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/senator-questions-how-clearview-ais-facial-recognition-tech-put-use-protesters/166026/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 30
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_1658380954/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "AYPTQxcnjWm1Aj4MN3a2NkSLslAIMQOB7CojxJdH+MpxW89rmssSyXlVXocVhrSkE8ovx1n2I0m0cKXiGReEyxHF0WEt+pig7wduqLQyBB9p3zQfa2iALruURVIuLefTNdPh0E7wi/Iupr5XG53lBwvbUBC9RVJXJ4ZnU6LjztOF8Wc/1OtrvJd+6CmAh7yIVGGR3pWxrQFp1RPsyyemiyES3NSOD5aSNGPwShZdgPLUVcVEjLBss4lMQiBD940k261eBtxwvawgaZn/6NeiPU1wrSCdS4Qbmw92tLVVXQqKdjychdq3mMYzcSYYNCkl85CC0HFsREYyrdCs5EgOG1w0DTteF1XXNv4AzOQQLKQ6NnAPnoAczQdPE4B/xovzzL9BcY69Z2G0hVlOWyNoxLkmzt0l/nkZqcwa8Jokl786/xwJI7GR0098UXNzxIn//kXPNzpzsrX4iV7J/Q1p52AFY5zto9eSYrLkV1PyM4I=;wlfQl1/x/DvR4K7biblZ7g=="
 ---

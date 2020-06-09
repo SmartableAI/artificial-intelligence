@@ -40,7 +40,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6"
         width: 600
@@ -101,6 +101,34 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 36
+  - title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-08T21:38:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+        isCached: true
+  - title: "New Memristors at MIT: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-09T00:02:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+        isCached: true
 
 secured: "8YzSPmIw8sneTiq8wyQ1Lh1tLhSTgdrgmpbBpy9jhyDByHYjkZ5KKMR9mX5xHxTMDo5DMJqquHloTS7JPfDu5scXm7lNZOiMlPrY5y/Y5yDQ1ID9c6EipPNCgk3rRWRjgly4EOCxhVo6h48T9PtzePCBCMzkuXtYUeYFo1ihCHv3jGTsAhzvcht0MIaYGXgWo/aJY6NwE7ztPsiow0oyXydZA3WR5loNBUxALJ+whCSDu5BSoNsVszhU2bBezMHi/Itrans05fB0rBjWUisoF5SzllHgRN7S9ZSpsZVyItKsuYMgByIyeJei4KVqqHNk;9yVt0dKN/xieXLwLIMRQmQ=="
 ---
