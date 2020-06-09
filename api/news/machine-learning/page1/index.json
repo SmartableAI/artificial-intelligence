@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-09-turns-out-artificial-brains-need-sleep-too-but-do-they-dream.md",
-      "title": "Turns out artificial brains need \"sleep\" too, but do they dream?",
-      "excerpt": "Humans require ample sleep to function optimally. New research suggests neural networks may also benefit from extended rest.",
-      "heat": 149,
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "heat": 179,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "publishedDateTime": "2020-06-09T07:56:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "publishedDateTime": "2020-06-09T10:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -31,10 +31,10 @@
       },
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Turns out artificial brains need \"sleep\" too, but do they dream?",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
           "attribution": null,
           "isCached": true
         }
@@ -361,6 +361,44 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1224,61 +1262,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man.md",
-      "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-      "excerpt": "This is an early test of a very ambitious project that aims to build entirely new games and real-world simulation engines in the long run.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "publishedDateTime": "2020-05-22T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 654,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

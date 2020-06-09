@@ -41,6 +41,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Flipkart launches AI driven voice assistant for shopping"
+    excerpt: "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’"
+    publishedDateTime: 2020-06-09T16:59:00Z
+    webUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece"
+    ampWebUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Flipkart launches Voice Assistant to help customers buy groceries"
     excerpt: "Flipkart's voice assistant responds to mixed language commands as well.The voice-first conversational AI platform has been built by Flipkart’s in-house technology team"
     publishedDateTime: 2020-06-09T08:36:00Z
@@ -74,19 +90,14 @@ related:
         height: 431
         isCached: true
   - title: "Voice assistant to help you shop on Flipkart"
-    excerpt: "Homegrown etailer Flipkart on Tuesday introduced voice assistant capability on its platform to make consumer's e-commerce journey simpler and more natural.Introduced in Flipkart's grocery store Supermart,"
-    publishedDateTime: 2020-06-09T12:08:00Z
-    webUrl: "https://menafn.com/1100294968/Voice-assistant-to-help-you-shop-on-Flipkart"
+    excerpt: "\"The technology team at Flipkart travelled across the country to understand the various contours of building a voice capability and fine-tuned it to identify and respond to the different variations in Indian languages,"
+    publishedDateTime: 2020-06-09T15:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200609/3573319.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2020-06/09/I_cb7571a9-bimage_story.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "R7m6T4RtQYqE5CsAraQCTiWDfbgb9g59NNaCA/8xNZjvxgWZgg0UvJEWIMPVUyKM0w01TJB6Mbc4y/mcEC47XyRIvYsgkhKuvO9uWdbhSGElb7DUD/v8quTmJSA7xmKIpSNScVJRLwX9T/rmfleWVgMwZs8qD1NquEjtRgiOCiHKa4wh4IO4a4w9XeHI6u7vbp6tClHmTiXZsG5zxem9NAaWsFY8gMG7ak5i0wU1ILS7cmEVoZl3vsXnLqBjNGGBWF2NwxtIvEe0DfkNUTfOmIp/YcRhajSvZNKENhcR6CcaIi4XIK/jOnW9j/HCJ69zu/oz9BDMYZjCtZIdwXo1Z7auyKIzEcvt9jQt9LE2S/uWqpWKnWjuEiNJd+HPvG7ZOZR2EMP+KEoH6MgbFa8JsiWtd+ettNSmGoQDnEuKU1jOCME4tCILRe4XXEPsSRXVv43ltlbY9WP2uWfxtn+X06baHAbzgSPi0+dYvDhOIxFYCSZ2nNjWAgw55QZkgL5Y;+RftkF9cWuZ3McLoy1HSjg=="
 ---

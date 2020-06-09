@@ -122,6 +122,15 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "IBM quits facial recognition, calls for federal regulation of police use"
+    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
+    publishedDateTime: 2020-06-09T15:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 50
   - title: "IBM to stop selling facial recognition technology"
     excerpt: "IBM Corp.’s Chief Executive Officer Arvind Krishna says he is withdrawing his company from the general purpose facial recognition market over concerns that the technology is being used to promote discrimination and racial injustice."
     publishedDateTime: 2020-06-09T00:52:00Z
@@ -150,15 +159,6 @@ related:
         width: 585
         height: 363
         isCached: true
-  - title: "IBM quits facial recognition, calls for federal regulation of police use"
-    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
-    publishedDateTime: 2020-06-09T15:29:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 33
   - title: "IBM exits facial recognition business"
     excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
     publishedDateTime: 2020-06-09T06:44:00Z

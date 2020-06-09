@@ -2,6 +2,194 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
+      "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+      "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "publishedDateTime": "2020-05-16T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebfdc7cdf2b8f00069d4a2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
+      "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+      "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "publishedDateTime": "2020-05-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/F2kIQhUcGfgh3zP_EUna2KVKcrk=/756x567/2020/05/01/4390e8d4-7ab5-43eb-af57-126a3d9e863d/aeri-concept-x-05.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-16T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-irobots-roomba-i7-robot-vacuum-has-been-perfect-pandemic-company.md",
+      "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
+      "excerpt": "You’d think that, after all this time at home waiting out the COVID-19 pandemic, I’d have got around to vacuuming more. Instead I’ve been offloading most of the responsibility to",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/",
+      "ampWebUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "publishedDateTime": "2020-05-16T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/irobot-roomba-i7-plus-robot-vacuum-08.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
       "title": "Facebook’s Giphy purchase will help keep track of competitors",
       "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
@@ -1114,185 +1302,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-sony-develops-first-image-sensor-combined-with-ai-chip.md",
-      "title": "Sony develops first image sensor combined with AI chip",
-      "excerpt": "Sony has announced it has developed the world's first image sensor equipped with artificial intelligence (AI) processing. The new image sensor has a configuration consisting of a pixel chip and logic chip.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "publishedDateTime": "2020-05-14T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
-          "width": 360,
-          "height": 300,
-          "title": "Sony develops first image sensor combined with AI chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gms-self-driving-unit-cruise-to-cut-8-of-staff.md",
-      "title": "GM's self-driving unit Cruise to cut 8% of staff",
-      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "publishedDateTime": "2020-05-14T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
-          "width": 1920,
-          "height": 1471,
-          "title": "GM's self-driving unit Cruise to cut 8% of staff",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ai-set-to-transform-healthcare-in-worlds-poorer-regions.md",
-      "title": "AI set to transform healthcare in world’s poorer regions",
-      "excerpt": "There’s been a lot of hot air in the business with respect to AI,” says Anup Akkihal, head of Logistimo, which focuses on less sophisticated but more robust technology adapted to local limitations in order to improve healthcare supply chains in poorer nations.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "ampWebUrl": "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "publishedDateTime": "2020-05-14T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F17acb522-8da4-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI set to transform healthcare in world’s poorer regions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gm-self-driving-unit-cruise-cuts-jobs-as-pandemic-hits-sector.md",
-      "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
-      "excerpt": "General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22Q34W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W",
-      "publishedDateTime": "2020-05-14T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U",
-          "width": 830,
-          "height": 545,
-          "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

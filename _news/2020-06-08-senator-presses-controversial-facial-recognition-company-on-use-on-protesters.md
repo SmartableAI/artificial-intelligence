@@ -108,6 +108,15 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "IBM quits facial recognition, calls for federal regulation of police use"
+    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
+    publishedDateTime: 2020-06-09T15:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 50
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
     publishedDateTime: 2020-06-08T02:13:00Z
@@ -150,15 +159,6 @@ related:
         width: 585
         height: 363
         isCached: true
-  - title: "IBM quits facial recognition, calls for federal regulation of police use"
-    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
-    publishedDateTime: 2020-06-09T15:29:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 33
   - title: "IBM exits facial recognition business"
     excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
     publishedDateTime: 2020-06-09T06:44:00Z

@@ -403,6 +403,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "IBM gives up on face-recognition business – will other firms follow?"
+    excerpt: "IBM has said that it will withdraw certain face-recognition systems from the market, a move that acknowledges the well-documented racial biases in this kind of technology"
+    publishedDateTime: 2020-06-09T16:49:00Z
+    webUrl: "https://www.newscientist.com/article/2245647-ibm-gives-up-on-face-recognition-business-will-other-firms-follow/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 24
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/06/09160034/td01t4_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "B1hpK2dmLOhMrlpRkd9xZjuqIUAH/NcA/E7ef9bZexQ3QnMKJvzE+PCTA9i3aDdPwkQ9KOaWI7RgJq7rq+KKGEuehdFfIt458kap34yDfCijg39Fr1xBghNfTn5n8GFnc5gL6uTQBbY1/vKCfPzlqaH79gbvDk9/EuM543wtmwPY3s8tWqKITfP0lQVPBN14NISmGqgeLaOb7J0n7OwEhdEayeS+Y3/i85Oiw8FiaQPbaWVtALH88bLMt4EfOg+kPoFyIz4xMVvtyiPzTup1xwkRSPchCqQr2/Sg8qTRUgxXk0ID9uwV/P4b926T+nQC0cdRLAdsaG0AZIeimmToKH8pSDKzpRlLisWN4uvSYyYNARB8p5s7Klx1xC0ZMcd1Pin26huV+osc71DjhRHclnUnodCnz+KgogVgV2Ts0l9xwosDugGbdbATYbcuv3873Ep5Q0v2UFzAkOGRAz1IkL7Odz9Sd2bJn/o3RqkM/6/UVq9mI7lizKRt7L3Ne4Wp;PzCnO/+6kgSx8/wFpDpo8Q=="
 ---

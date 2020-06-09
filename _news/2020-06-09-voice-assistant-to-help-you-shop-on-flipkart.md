@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Voice assistant to help you shop on Flipkart"
-excerpt: "Homegrown etailer Flipkart on Tuesday introduced voice assistant capability on its platform to make consumer's e-commerce journey simpler and more natural.Introduced in Flipkart's grocery store Supermart,"
-publishedDateTime: 2020-06-09T12:08:00Z
-webUrl: "https://menafn.com/1100294968/Voice-assistant-to-help-you-shop-on-Flipkart"
+excerpt: "\"The technology team at Flipkart travelled across the country to understand the various contours of building a voice capability and fine-tuned it to identify and respond to the different variations in Indian languages,"
+publishedDateTime: 2020-06-09T15:57:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200609/3573319.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2020-06/09/I_cb7571a9-bimage_story.jpg"
-    width: 400
-    height: 400
-    isCached: true
-    title: "Voice assistant to help you shop on Flipkart"
 
 related:
   - title: "Flipkart introduces AI-driven voice assist for shopping"
@@ -40,6 +33,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART"
         width: 615
         height: 384
+        isCached: true
+  - title: "Flipkart launches AI driven voice assistant for shopping"
+    excerpt: "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’"
+    publishedDateTime: 2020-06-09T16:59:00Z
+    webUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece"
+    ampWebUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Flipkart launches Voice Assistant to help customers buy groceries"
     excerpt: "Flipkart's voice assistant responds to mixed language commands as well.The voice-first conversational AI platform has been built by Flipkart’s in-house technology team"
@@ -88,6 +97,6 @@ related:
         height: 384
         isCached: true
 
-secured: "KhfiebAzJTkjJlVPpujOoJR9MWFm5OBxyq9MC/TTQvPDl6XiaNKxf+k94j5offD2kBAPnIM6DYBtIeVf3ozBuIUr6/RCpNfLdGgwDS+TCE99BnwaDolKodKdW9OQ+EAeiTA/cFPBy1V8s2Ut8CBU9+yb1dw28DbDzTkEJJOaCoksQMvWW2aVdin65FfCUyC1dMm7NMCp+JIICnqinMSfUWk2jnC/bDezCpWFCNdiLuufbhiicQ3yDO0fU6A4uY5OsVFxlWoZXFt0Qau7zMGBqjEaz76TWjitFDkWdyt9J003iu+Ze7MRvwmV9j+fT/kC;HBOx5LMcjIAv5DdsvxblBA=="
+secured: "rOU5XLjWAvneIN2wXe1TFP+vRilVYbBq/I4w4gX4DqDk1iZWKOWMow4tzHhu6ubX3d1/cyeTGDWKCzSaP0HlbeMl3B7gCqrmwpBgvYcBevsH4OnYIGwvb5YaRxb8OwccYDFZmxziW0wn+1ng5QRKGOBhAiTY2ttGmMA7wlN4tdfsIjdNaENCLomtQ7n8TP5PE2AmmxcCiwVOfMATE503MINsM8Fgo8lP8ICimDk0OSFTH+Yu6pfwOjRgRMnfySixNHQ3LLIFPIaYAcO0DJSqntxSXrbga9XKMk7j1MPQJJZOHvYuaFR2WV5iNK2pWN2B;K76uUlh7/ZegftMVu7xY6w=="
 ---
 

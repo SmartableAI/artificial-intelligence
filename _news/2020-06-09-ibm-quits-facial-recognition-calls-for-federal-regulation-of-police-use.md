@@ -5,7 +5,7 @@ excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analy
 publishedDateTime: 2020-06-09T15:29:00Z
 webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
 type: article
-quality: 33
+quality: 50
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"

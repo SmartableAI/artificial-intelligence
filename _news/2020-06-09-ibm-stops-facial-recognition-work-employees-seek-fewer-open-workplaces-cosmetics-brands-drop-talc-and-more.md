@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-09T15:38:00Z
 webUrl: "https://www.prdaily.com/ibm-stops-facial-recognition-work-employees-seek-fewer-open-workplaces-cosmetics-brands-drop-talc-and-more/"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,35 @@ images:
     isCached: true
     title: "IBM stops facial recognition work, employees seek fewer open workplaces, cosmetics brands drop talc, and more"
 
-secured: "vmhaWs+1NwGY2F4/QjhiqSv66pg2tHzVxhQIHGqA9GQ5t/zP/l2Dbuicm0uv7BxjJkJT0yo+gjdR9z67qpJdDXBZ0cisk12XrMyc3LqPCEgSKHZnUxSjxp5h1NhHpUSgymruXx5Bj8BpCC4obYoYO0vbI09Ubthz5o5r6ofnnu+0N7iFaybvsHgBMQD605DnUoyvd5NQmfBWFd7ARa5pi+CfQg2BP4lWybookfY3rX6MA+NtPDWFc9jlIcyS41uji/ZItb8glhPZg85wjQyW61O3XszmJlcOrtEGYPqiaeGyinebmH7DYRh0ij4m77zH;/jW0BkKOcWU3A2lL6+/S+w=="
+related:
+  - title: "Daily Crunch: IBM is getting out of facial recognition"
+    excerpt: "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality"
+    publishedDateTime: 2020-06-09T17:19:00Z
+    webUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/"
+    ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
+    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-09T13:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243392126.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243392126.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243392126.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 34
+
+secured: "YAGepWFKlSP5w4wncb/IbLkMbWbbr4uwlPbpDRYIfTV0JwbapsfVT2xIRHcJ1/cchH9bCB6pYfEnvdLAEz+JmOEfL7gBaOu4XNHhznT0rzByjibyGlNSmAnfQwO8Mhw5ermkhskwRzJGqJURg15xqvTmRD7082t3giYhugFwaXwOHEZMedhlJKlgJK3xb4JOgDeZxUsRJOqO6j2NU2+XX4kdWoG6AZ73CiceKFYoDX3MYG/tYFDUEaYosWKDOVc9dmNuRCIDNeBg5N5BJs3869U9bcu61eP0nX3ZNceodP171WMQ9AIww3Txtb8ayYnWdHBFF6bUTePxdzoUGJDo/OAV3mzaWe+BmqrmyhUJ8ETu2EcsURNtZRToKkZKRq0qrsctpM/jew+OCoaxnh17Pf5YE64IECymaALqpFhNQ05cVOLnupmykqx1sjCEsBvQJmW05aFIUUDw8h7hn+xfhky9Y5SmXwCe/JdncrTcGGt/UiSJtOp0axKXnWNZvmDf;h3cVk0LA2/Yb//M4qyoDuQ=="
 ---
 

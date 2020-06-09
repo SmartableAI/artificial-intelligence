@@ -25,6 +25,22 @@ images:
     title: "Research: Artificial Brains May Need Sleep Too"
 
 related:
+  - title: "Study: Artificial brains need rest too"
+    excerpt: "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep"
+    publishedDateTime: 2020-06-09T17:55:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Turns out artificial brains need \"sleep\" too, but do they dream?"
     excerpt: "Humans require ample sleep to function optimally. New research suggests neural networks may also benefit from extended rest."
     publishedDateTime: 2020-06-09T14:56:00Z
@@ -57,6 +73,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
+    excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."
+    publishedDateTime: 2020-06-08T13:24:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-human-sleep-ai-los-alamos-neural-network-a9554271.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 45
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
+        width: 1884
+        height: 1412
+        isCached: true
   - title: "Artificial brains may need sleep as much as we do in the future"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
     publishedDateTime: 2020-06-09T10:46:00Z
@@ -84,6 +114,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Artificial neural networks may benefit from ‘sleep’ breaks"
+    excerpt: "Scientists at Los Alamos National Laboratory have found that artificial neural networks (ANNs) which closely mimic biology may benefit from sleep-like cycles. These cycles appear to quell the instability associated with uninterrupted unsupervised learning."
+    publishedDateTime: 2020-06-08T12:55:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/06/some-artificial-neural-networks-may-benefit-from-sleep-breaks/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/8217/neurons-concept-art.jpg?crop=0,0.380364344319288,0,0.12589347795855932&cropmode=percentage&width=1200&height=450&rnd=131987777760000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
@@ -114,6 +158,6 @@ related:
         height: 425
         isCached: true
 
-secured: "0W2dTqy3A2cxI/4BjBwffPNkDSJ4DVBXY2Q9+AVkIIj6+U/OJY4qBCe+aSZIUDFAfp+zoLxzHZIgtkArseRccfTpcolZYafibZLBZc1suo/u0q+nrvGw5Krfqh7xTy9ZAxS0eoMZgV4xuL9Ah3CGVWG4bXfkSYATjgA//EGwBE9Up9jAotQfsehLsNAKEH3ZhWGICn/4jNKVGO0CesK3JFzZX0OeOPeJ+gC2xLhMxGUpc2bQXobGobjZ89trsvALC6MYM8nQomD6d0D5wT1u+SxXGpyRuBVYQdcKYkazsN87IbTO7RHw3bvMlAIkUb8b;RhT5qd9/Ku0zVSXf+j8hQA=="
+secured: "577GoZUgSVBiApsFOCEA1UO+4iea71mYTAL8r/ilGcIGEaDW3E5uuqipj6+udC3KTUeBJCDsuq+FLKaJYrUa62CRAaDAnnczc1TeHtJL6YUOXuskvzoqRQzpi+rIy7RAO849Cr/n3gP0aoSKgkJDQ/1CWZnRoRW3/l8IeIEfvpe7mR+bBRXBaQtEGpqHWxtAuh3XciCFX4w9T1l16n2yu6ntWbaTNBBC1qrm1+vObk8I0gVtc0UjGNYjBhp3pUnFDt6GGJbxLfVpqX34c5vPMAPfrfQyITC5FMhbGXUYkPgbaT2qe0vEQpruU8MaX3qGalIz4SOXCZaNbf+SgeRf2aS5jZLIwD+IKb/y6yu7wAc7wHOsb/wYUbrnUk/o3puUuXgLgIacJkD97UWm/pKRUfo7sXwUT6Kx9plWl9zF2ME1l6bRcJCBYhpG2S1fnf/Fut+yV+ecRe13P+TYjLEK3cyDSIQ81Up09ta1UmRzSvX1DO6ZKSqk2+NaQifH6rN+;SvUQQKlgHEC7ZbDTh6u1bA=="
 ---
 

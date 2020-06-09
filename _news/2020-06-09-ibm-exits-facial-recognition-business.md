@@ -114,6 +114,15 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "IBM quits facial recognition, calls for federal regulation of police use"
+    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
+    publishedDateTime: 2020-06-09T15:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 50
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
     publishedDateTime: 2020-06-08T02:13:00Z
@@ -156,15 +165,6 @@ related:
         width: 585
         height: 363
         isCached: true
-  - title: "IBM quits facial recognition, calls for federal regulation of police use"
-    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
-    publishedDateTime: 2020-06-09T15:29:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 33
 
 secured: "KzlA12p36JzyHPcurvHVreLPdgKyzCaLsDtEn1ve9Sovhwy7U67F0BqVu2NE0aFG266wLWqAM7OSogKIIfxtLbLqWyx5a8K+7/MI/NUA9MZ3PrYSyMjBb1/dEc1lYf/IO0aNmD0c3aEshV/Uv1PO3d3WhGlfr7CtZxnrcyLXo2V6/PX6B9aB6pWor4zxxIYVQL/gAXr7FlawmiVRaGWJFr5Dbm1trKSlhclrtj/YFTE9o/ijSZ5NZhiWOecesnlSrqQVLsqy7SSnXSQnwJ1lArsnB8QwyqwlsqumHC2+wo4d9PcOALYiJ9r0GRRQ9p31;ykbC9W1VqQTUeaerJ/GR6A=="
 ---

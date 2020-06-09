@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
 type: article
 quality: 89
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -399,6 +399,20 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/06/09/rk_ibm_090620.jpg?itok=MpCKbFL8"
         width: 763
         height: 509
+        isCached: true
+  - title: "IBM gives up on face-recognition business – will other firms follow?"
+    excerpt: "IBM has said that it will withdraw certain face-recognition systems from the market, a move that acknowledges the well-documented racial biases in this kind of technology"
+    publishedDateTime: 2020-06-09T16:49:00Z
+    webUrl: "https://www.newscientist.com/article/2245647-ibm-gives-up-on-face-recognition-business-will-other-firms-follow/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 24
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/06/09160034/td01t4_web.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "IBM Is Dropping All Facial Recognition Research and Development"
     excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."

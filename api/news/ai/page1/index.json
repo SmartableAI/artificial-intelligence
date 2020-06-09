@@ -2,6 +2,239 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "publishedDateTime": "2020-06-09T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
+      "title": "Daily Crunch: IBM is getting out of facial recognition",
+      "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Daily Crunch: IBM is getting out of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
+      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "publishedDateTime": "2020-06-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-how-rea-group-implemented-automated-image-compliance-with-amazon-rekognition.md",
+      "title": "How REA Group implemented automated image compliance with Amazon Rekognition",
+      "excerpt": "Amazon Rekognition is a machine learning (ML) based image and vision analysis service that can identify objects, people, text, scenes, and activities in images and videos, and detect any inappropriate content. Amazon Rekognition text detection enables you to recognize and extract textual content from",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-rea-group-implemented-automated-image-compliance-with-amazon-rekognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T09:36:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/08/rea-group-3-831x630.gif",
+          "width": 831,
+          "height": 630,
+          "title": "How REA Group implemented automated image compliance with Amazon Rekognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge.md",
+      "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+      "excerpt": "The Aruba ESP (Edge Services Platform) uses AIOps, Zero Trust network security and a unified infrastructure approach to improve services at the network edge.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "publishedDateTime": "2020-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/08/f9a79f50-c3f5-4edc-b9dc-260699e37d1e/thumbnail/1200x675/b872db662e3e175ae4e51774fbf33515/istock-9183650881.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-dow-jones-slumps-as-ibm-exits-facial-recognition-apple-set-to-unveil-custom-mac-chip.md",
       "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
       "excerpt": "After a long rally driven partly by optimism surrounding the reopening of the U.S. economy, the Dow Jones Industrial Average (DJINDICES:\\^DJI) gave back some ground on Tuesday. The",
@@ -129,53 +362,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-turns-out-artificial-brains-need-sleep-too-but-do-they-dream.md",
-      "title": "Turns out artificial brains need \"sleep\" too, but do they dream?",
-      "excerpt": "Humans require ample sleep to function optimally. New research suggests neural networks may also benefit from extended rest.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/",
-      "publishedDateTime": "2020-06-09T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Turns out artificial brains need \"sleep\" too, but do they dream?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -697,7 +883,7 @@
       "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
       "title": "Flipkart introduces AI-driven voice assist for shopping",
       "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
@@ -961,7 +1147,7 @@
       "path": "_news/2020-06-09-ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality.md",
       "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
       "excerpt": "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability.",
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/",
@@ -1046,7 +1232,7 @@
       "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
       "title": "IBM to withdraw from the facial recognition market",
       "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
@@ -1178,185 +1364,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
-      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 205,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "publishedDateTime": "2020-06-08T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
-      "title": "Your company needs AI training: Here's how to get it for free",
-      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "publishedDateTime": "2020-06-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "Your company needs AI training: Here's how to get it for free",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
-      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "heat": 155,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "publishedDateTime": "2020-06-08T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

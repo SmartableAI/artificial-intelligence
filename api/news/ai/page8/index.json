@@ -2,6 +2,167 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
+      "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+      "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "publishedDateTime": "2020-05-29T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
+      "title": "Machine learning helps map global ocean communities",
+      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
+      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "publishedDateTime": "2020-05-29T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": "Machine learning helps map global ocean communities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
+      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
+      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "publishedDateTime": "2020-05-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
+      "title": "Colleges prep for facial recognition, temperatures checks",
+      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "publishedDateTime": "2020-05-29T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Colleges prep for facial recognition, temperatures checks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-probeat-throw-out-all-your-pre-coronavirus-surveys-and-start-again.md",
       "title": "ProBeat: Throw out all your pre-coronavirus surveys and start again",
       "excerpt": "The coronavirus pandemic means your technology survey from earlier this year is useless. Your business needs to run the survey again.",
@@ -1174,157 +1335,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
-      "title": "Apple Grabs Machine-Learning Startup Inductiv",
-      "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition.md",
-      "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-      "excerpt": "The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
-          "width": 660,
-          "height": 330,
-          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-lets-all-vote-should-we-crowdsource-the-morality-of-driverless-cars.md",
-      "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
-      "excerpt": "If a driverless car is hurtling towards a pedestrian ... those MIT researchers took the subsequent data and created an artificial intelligence that could learn from these results and make similar ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scpr.org/programs/airtalk/2017/10/19/59749/let-s-all-vote-should-we-crowdsource-the-morality/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/f95e247b712a2d44b88eab362266ac4e/174547-full.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
-      "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
-      "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
-      "publishedDateTime": "2020-05-28T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/05/09/4cd04908-1033-469f-be2f-dfe55163e039/thumbnail/1200x675/6cc8d2e936c36888209677284ed1acbe/toll-group.png",
-          "width": 1200,
-          "height": 675,
-          "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

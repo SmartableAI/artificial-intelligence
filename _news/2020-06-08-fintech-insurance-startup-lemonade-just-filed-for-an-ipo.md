@@ -25,6 +25,22 @@ images:
     title: "Fintech insurance startup Lemonade just filed for an IPO"
 
 related:
+  - title: "Lemonade, the Insurance Startup Backed by Softbank, Files to Go Public"
+    excerpt: "Lemonade has filed with the Securities and Exchange Commission to raise $100 million in an initial public offering, with plans to trade on the New York Stock Exchange."
+    publishedDateTime: 2020-06-09T15:53:00Z
+    webUrl: "https://www.barrons.com/articles/lemonade-the-insurance-startup-backed-by-softbank-files-to-go-public-51591721595"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lemonade-the-insurance-startup-backed-by-softbank-files-to-go-public-51591721595"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lemonade-the-insurance-startup-backed-by-softbank-files-to-go-public-51591721595"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 42
+    images:
+      - url: "https://images.barrons.com/im-196404/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI-powered insurance unicorn Lemonade files to go public"
     excerpt: "Lemonade Inc., the startup behind a popular artificial intelligence-powered homeowners’ and renters’ insurance service, today filed to go public on the New York Stock Exchange. New York-based Lemonade was valued at more than $2 billion after its most recent funding round in early 2019."
     publishedDateTime: 2020-06-08T20:26:00Z

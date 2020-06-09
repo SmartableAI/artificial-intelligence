@@ -400,6 +400,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "IBM gives up on face-recognition business – will other firms follow?"
+    excerpt: "IBM has said that it will withdraw certain face-recognition systems from the market, a move that acknowledges the well-documented racial biases in this kind of technology"
+    publishedDateTime: 2020-06-09T16:49:00Z
+    webUrl: "https://www.newscientist.com/article/2245647-ibm-gives-up-on-face-recognition-business-will-other-firms-follow/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 24
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/06/09160034/td01t4_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Is Dropping All Facial Recognition Research and Development"
     excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."
     publishedDateTime: 2020-06-09T11:36:00Z
@@ -410,6 +424,6 @@ related:
       domain: ign.com
     quality: 19
 
-secured: "zZTMslKwhunSpnU0u4OnAvnMvmebSReGShjJVzg/kXutCl7c3XkDRVaMulamiEwQKXio3KZkEhnTRdszk7foittPOZ9fpJBWnD0we/PavRs6M8JfyQevRIbPCESvU2TMDjQM7NtW4CLT1YD8oT2nqau+wCrchDnJGmT9zfiDTQW0ZcS1FM32pB+0ZYygJAqO9KxWMGZZwfRCHAOS0q+bgqquyrhKQhWC4tFqAqx4zV41TrCvNPQj+woCBICjnOZT28n2EinF5S8V7plQqf45JegiAgvgv6SFF6yNpKQNdVXr9zXvqkWsSl4Uvm1Auh4z5dJkZJgCTchgLVf7T+SRmgqIzVStaEQaGJBB3l8x8ULg6YW3lER2Y2cap3hGt9lbk45BZGbWJjqLckVAKNZ9GOIlj/3UYi4y7G5NgC2dx5XWW25EMFEBJWHuD3ZbDjU/iLEnvfNpSXG62KH4mJtVoTjP2OxBIiRw4syQME6Rfa2vu5MX2B9lkYNMLI0owdhM;WQFu/kjKFXvkdoK26r7fnw=="
+secured: "G8e9FY31FENwD0N/5gQd/hn9dlHA5mSYVLvqNjxNqnVZ+8Byi750yz6VGBzyhlidkFtpQnN+s9w2wOH8nKvasmmIchom9I8QsLFU5hZ6ZcDN43/vaOC4Gp0fg1gLSALjz2IyMz30HKfn138rElvw0NuYf52s/LlXQvcu946CjSgF4vhK35sE6p7dbwsyN/LUGOJbOIBMq85ZUtrXtwUvCVNnC30jFwA5xNdl8iwmekTP02mG0abxbtUb3q1TvH7tYealefxPrv0Y6Vxpsxj3/ab8XGUHv2wA64V8ulMYAYCaXPOxEpT+NM8OdBBy0PnXr1dAzUg3uj1z6b3FQ/Rwbqk3ColBVD38pkma3pnAQVMjxBJy9IHNZUxFnOYsg2aQj5dgbtsyoC3YAVWZr4LLyQtLQTF6OjBOCFemO4b6REfWTwxdr32l5f4QFMoA8MLBFLgkdrMpfFADYahAcO+PU7lYnD9g0PY0pgGJ/WHZKcy5aoUv87pvswrdVUrNxo8n;0AOONjo/1++T68yh8UxlWQ=="
 ---
 

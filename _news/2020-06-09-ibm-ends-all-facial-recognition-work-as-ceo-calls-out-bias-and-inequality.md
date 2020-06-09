@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-wo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 960
         height: 1200
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."
-    publishedDateTime: 2020-06-09T13:40:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243392126.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
 
 secured: "vPdsen7Tyk4w8Z7m/YyjDL6rmiT75GlTHVtAMqMAlbmIqrE7DcgbgX+Eak0mwH8K7K76jkgIwvrbI3twjnO8susp3dQ35KHWeOMFHuqfL5HnD3MDJaM1DBkcGm+E3otVVPNC8kqZ51oAiWQm0wB7mVLkNzLveE264hzoT5BkAx5YSJhBcfz4v6T2wjomXn+FFiWv+Pnrgy0HPw3SP9a9ygOumRciafOIq1UmZ5LpYGTNBdB5W6LO+gMLVBK7lThFfsdqJu0AqYP1+eMPXLGGPyRu+0NWC3n3Pk0DPrUkxeuFEYOyxgnambgyCxtYNwQMbbae1LfflwZYhYJQj+HZWCMID/x0YNajQkhthU0yvCDC537fFBjSEM5Q7GsXeXfPd9B2HvtCNErjDaJ3KcBwuWgtLsu1opcpE2Rqp+ieOcC4MW/EhYpq7O6470HEmdWBjwMpaLc5WUmEeGa7nOhRb8jc+sp/oyH/UjFglFeZY48=;n87H/btNPsuXaJi8yANm3w=="
 ---

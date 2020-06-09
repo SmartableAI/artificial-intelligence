@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
+    excerpt: "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by"
+    publishedDateTime: 2020-06-09T16:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Software Platform Market 2020 Covid-19 impact, By Key Players, Sale, Trends, Segmentation And Forecast By 2023"
+    excerpt: "The global AI Software Platform market was valued at USD 2.75 billion in 2017 and is expected to reach USD 11.3 billion by the end of the forecast period with a CAGR of 28.1%.The"
+    publishedDateTime: 2020-06-09T16:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-platform-market-2020-covid-19-impact-by-key-players-sale-trends-segmentation-and-forecast-by-2023-2020-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
     publishedDateTime: 2020-06-09T13:50:00Z

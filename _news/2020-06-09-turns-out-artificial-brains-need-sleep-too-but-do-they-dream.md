@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/turns-out-artificial
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
 type: article
 quality: 89
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -31,6 +31,22 @@ images:
     title: "Turns out artificial brains need \"sleep\" too, but do they dream?"
 
 related:
+  - title: "Study: Artificial brains need rest too"
+    excerpt: "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep"
+    publishedDateTime: 2020-06-09T17:55:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Sleep is also essential for artificial brains, shows study"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, according to new research from Los Alamos National Laboratory."
     publishedDateTime: 2020-06-08T06:11:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
+    excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."
+    publishedDateTime: 2020-06-08T13:24:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-human-sleep-ai-los-alamos-neural-network-a9554271.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 45
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
+        width: 1884
+        height: 1412
         isCached: true
   - title: "Artificial brains may need sleep as much as we do in the future"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
@@ -74,6 +104,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Artificial neural networks may benefit from ‘sleep’ breaks"
+    excerpt: "Scientists at Los Alamos National Laboratory have found that artificial neural networks (ANNs) which closely mimic biology may benefit from sleep-like cycles. These cycles appear to quell the instability associated with uninterrupted unsupervised learning."
+    publishedDateTime: 2020-06-08T12:55:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/06/some-artificial-neural-networks-may-benefit-from-sleep-breaks/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/8217/neurons-concept-art.jpg?crop=0,0.380364344319288,0,0.12589347795855932&cropmode=percentage&width=1200&height=450&rnd=131987777760000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Researchers believe artificial brains may also need to ‘sleep’"
     excerpt: "Attempts to build neural networks similar in capacity to the human brain have found that periods of sleep help quell instability. Researchers’ efforts to build artificial brains using powerful neural networks have discovered a potential mirroring of humanity in their systems. A team from the Los Alamos National Laboratory in the US led by ..."
@@ -118,6 +162,6 @@ related:
         height: 201
         isCached: true
 
-secured: "Z7Hf/CXnTsIz+vFblFPtGYjV/E/QnLvW1KA7umGuudQdTq3B7qHEbT9R3/SylqAsw/S0SeC+pQQNRJUeyGLDA8W3vMxr+7KgJim+/Ri2FaKXymrwwoExrZAoKOL+MP/+yxGfwrnI8Nc3lRGWQQ91NPVhbPifX8VDbtPOi9VHeRHaEG4ZXeLc9bTjHmSeomEGERaJGEvAjTEvfgpgeycVLK0GMNXAf/swQQfetTQg1Ibyev6p7Z94OmqsaELK/kG2OlNDBXrITxS15b+liYxxR9ofh0cGKOqgEonZqUcPoor9yPr3xqj1W9qDcNiRSS6W;dHey2UYjm4BLLdtyv4QG4A=="
+secured: "IGVCHScS6rNxx2EzkoE6Vk3DwfKIBA96hXz6BmX1xeb0MLmzeVC4LeHhotT2UU5u1Az5cGjhKCcm9jSt9/QPcAKKejbkvhCnw0JIY8z+9ImhE9F27JTigeQpGMwi9y+WVC4U7V+WHz0jbpFo+vdsMhlYQhgR65sIWT6mZX32DeQta6HX8hXVcObrygBrFPNDYEVL2rWKSeJgVngjwyFj/cwB2KHr/XbvEtnYmAuh534sjplMhoFyHsbPkNEWN9ocvoJpT3x6GhBasqJN5eqc9a2khP8He1z4zuV9Uj3VeYS127BPywo3ut79r3MEL55x2DRFMIUiG/ET/4M16WtxmlNaswu6qNx6uwnItiKiAN8sa9agv7Pyi2wdsOmy+Ih+6uS1pdkKmJQqwEgI8CSYEJSho1ZmjQ0hbZKS4MTEYk4hZMI/V4QUaju3kwWwjmYxwEjtwoNibqwH9bmi6exxgpWsiiOcxiq3JdAyhI6y+s9iCWwHrqhKiRIZbc3l4vGt;kHG4L6FcGZgSr2qbV5IpXw=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
+      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-uber-to-use-facial-recognition-tech-to-determine-if-drivers-are-wearing-masks.md",
       "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
       "excerpt": "Chiara Sottile Riders and drivers on the Uber platform will have to verify they are abiding by new COVID-19 safety guidelines, including wearing a mask or face cover and regularly washing or sanitizing their hands,",
