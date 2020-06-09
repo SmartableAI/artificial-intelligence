@@ -1,22 +1,25 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
-publishedDateTime: 2020-06-09T13:30:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12609165-artificial-intelligence-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
+publishedDateTime: 2020-06-09T13:50:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
 type: article
-quality: 33
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -102,6 +105,6 @@ related:
         height: 627
         isCached: true
 
-secured: "G05ZHL+ecQ5yFfR3kqmkIhXuKzxpMWGPAytGyMPoLMxCTnHNuH3TdtWgS8KlesXiOj/aW0ukN/XZbvc7Qj7wFfNGUZJrKJJHUaYtrMrFT5oSQgMP739oOsB7eI9Vjx2yrZGC3CVt/OuoqF50wDcRPJKhM8yyVJK9N38TiZW8fU+y7eGtXb+nRiYWbzuP0uSaaa70k2EEKCjhokA3BEzMMfPL7F93Itw5kghCjzFomQTZBK2ec9+YOiTRjbY2uo8VR9kuRl7MarFNl7bOYchGpv3bzSHt9VWdV21lISROkB0O7/3wsH8I2+5aMg0imXQD;/J6IAKQRrXs4RonBf1rTVA=="
+secured: "IreEOvgSf10wdxakD0JgzaZlNWrWaMr6skjwnxWux3NKu02U5h64CyP/XUX1E6OYcH3vQAylbrCjUy5zZeTP9SqaaYxJxBeogTsZDinmv8kAofyzE0++d+RmnvI27sI9fE401U2wL33AHvS8JIA3cN+sVfSSzMMTtpHrvvKdTPQ5iSdkPwf3VIJDHL5cj8f9TLyTgtPqLIM0XEP4ZAT5zCrHX7DGA3n4COWwcgkFBVy7EocQQnYWVtMVVZoQqZVkbVhmYQz7RghrBRsOjNVmYXUxzoNzJfhiXUP/gBWcu2iTLRWh/+EjL+GQ0GrMnRhE;1fYoCnf/uxAxKuWtaTiSmw=="
 ---
 

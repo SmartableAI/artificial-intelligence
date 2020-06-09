@@ -63,6 +63,20 @@ related:
         width: 1528
         height: 900
         isCached: true
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
+    publishedDateTime: 2020-06-09T13:06:00Z
+    webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+        width: 500
+        height: 326
+        isCached: true
   - title: "IBM quits facial recognition and urges debate on its use by law enforcement"
     excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T13:06:00Z

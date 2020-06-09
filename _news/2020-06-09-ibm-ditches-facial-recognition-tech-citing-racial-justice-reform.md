@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
+    publishedDateTime: 2020-06-09T13:06:00Z
+    webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+        width: 500
+        height: 326
+        isCached: true
   - title: "IBM quits facial recognition and urges debate on its use by law enforcement"
     excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T13:06:00Z
@@ -74,6 +88,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hWyvGwLH6datOr4sXaD/7UVAwEsrKtsCB5tXNsOFxJX0JX1ARQ6w2yf9BwV9PccsxKSe/KXjhKncjiRnkqJBsy0G9us5tXFFKKhi6ZI8ej0OTtyjap+b+hb/7TyvwJYVxvOCQUz7/lW1eUEPHn/4AK3dUfrEWER36JubqaEBYMJe/z9aus/VEGg8aFAQjI6dLuwHwU5XYFimCo2guTMBf3vHKm/7U9eZ2NAZwiwqEEyXrc/5FkCLJk6qdWb71CZp2bUNGI19rQzMcvIoh61PvBy6SV6Kz3veFGXhQTU/w265xQonBy9gedYH3Ucsv7bu;kAeLMQuSte6yDAHU+zH9Kg=="
+secured: "ktaseSFx2z7s+RALzRIsJNpVcDYpDrBaANwlq12rgMpBvtM+dXpyOv/aMmpDUYjbTaotourB1hXysB9IOqXW7+WUPC9RZe76NeShyudYQnPKeoj1FrDEOf9bW5Sn9Ez749m+DFsRemCYx8/VjQiyy0XPDXsJa5dXCI9Fem87UvucdnvN7kmd5o9JW00LgMZYCkZw/6Yvd9YgiSpSppaOyUeccfSZroSP/FRlDEu8oN+jDnLQoPVvt4zfbByfkRARdyIwvLYgvTZqQGyfI+iSiylPUtCVU+no5Mt2VthT5QSLhj7OPbK4QU4rkotX4sfM6WOqQyh46HrkDD15d0eD8pglWyqXVYNMKwq7v3hjX70vbBwpCPYZzk/K37s+AvEXJnZ09j5j+zwxDZ8Q940SBFvVgQNJ/cVIpu2iPDZ9jwTqYg9BSGYlcHkhFGgvVsHk32km2P1wpVkxb+wP3kSVgsp2CPV/Kf6MqtMSYiQsc7eXCHKsVAQ7uz0AFCIhPs32;aH2mbEnZgLlGfbMwrkivWg=="
 ---
 

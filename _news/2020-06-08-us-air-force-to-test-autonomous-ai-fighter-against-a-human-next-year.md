@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "US Air Force to test autonomous AI fighter against a human next year"
 
-secured: "VjJWh05s4EdINmur823LvFtrOYsau0Wz0kEwoc0KDIFEQ47mDhs2fuaRysSPeZkzv0X6p9sls9pxCj3T9isJYYx/5bfyedKvHLxDz/yBMxtrfLvGHuU7Q9A5dB4oc8Y4T/MFiOrOT4+mmuEy7D+F7CBmsJ3cdL6rraVI+IW2xueEJN5MSI+NaxV4GxUeP0SsH7vrMvjz95D7fOx/B9DIMwxzh4oBC7dNGeITuPMB3Qeo4Lv8BWNbjk+oXd//6tvNmSDYaWTn7bQ8+F/uEeWSMoCsJNU+kD6eF9LSCoxnwdY0H5yWOZc992Zt3TnGaDSEX7IUTOb+EKXvRSwEP9+XLdI18IpmAZDRgxiwdvqGn1ezFX0/xeAEvdJHPNatxLdRrgEZ6EBbAZ1LjiDtyHCSkgds7eOdp+I3QjoD/ozOVjzsc65KJx9aB5THSsQsLVCySRvD/TsdlzPcq6GWVnbrRtZt8TxBzX5V2SJ/0WruBrA=;43G5Tfjn70KT2f4FdRi4cQ=="
+secured: "oL6eY9uqxC0ZgJ0VFAMDvp4jjnkImhtN/US60VzosjfWTLRUK4iAMMBPrMtjogdMo6koh+/N3JDPdL5pMyTYKnedYWM/CdrKrj+QyzjVJEVZcxbCRjPUOESXoWavIS5k/J3k4qnOlQAGr6QVZOgm6+6YPhXfCgIFG6q/LOl61FEKojYy9A09aNJN9AP3yq4+jwBVmY6emOrGRNGAQUPwwNmuvhTdHLkeu3fWHbm233kUul83pLTnGR5cCfvHt4lq67LAMD7+xV50asO0V7j4d2//Hx2PlZU7vyU+JE2HoeaL/6IumHhWgluf+iHGrjQiE7nkXI+QTF4NCpX6/OBjUZEQvUhIMSrxl0ojY/d9STA6xXgBOHIKWzXtzImzb24JMBCK1Yx7/5tn1ryLEJan48geBgVB+VUET3hK1w17qf473Nx7hyFFns3pTqbzH7pMeH7adsSohr3Bu/30zWENEvlaqAX/jesGSRy9sziquZc0/nXKC9MEz8x1Rl8wPQSS;xPSXdE+bHFh9xFR//RnOxQ=="
 ---
 

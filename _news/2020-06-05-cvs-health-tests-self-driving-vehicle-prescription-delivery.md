@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-05T17:07:00Z
 webUrl: "https://www.wdrb.com/news/national/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_938940b1-8fe6-5058-aa10-809d9c27cb8a.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 630
     isCached: true
     title: "CVS Health tests self-driving vehicle prescription delivery"
-
-related:
-  - title: "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists"
-    excerpt: "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists."
-    publishedDateTime: 2020-06-04T21:41:00Z
-    webUrl: "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/"
-    ampWebUrl: "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "+pt3WSu9s+Iju/9C0jzt69hjrVb5aUHMq2DXyqjH1D5TM+MpxtJaPCL8VLPdPTwBs4F4+Y9cKTILjITqGKyyfiuyK4DGrkoLl+YwUuQStQjxquA2cen2dBYiLKVHuXlDHYAvsTjVE1l0VcXTH4ElhrZKlmOBcty3cSLDbTrfBkHdK/aC6fmNQgHdvMSyO6ekE4dplfJlE1jpVvibo8+6yieB54SynOuOzs+j0a1DttrxyEMXz6Th7E+LWgQTfXbzLkDWGHf59MXahLK4f6H0jxZpm4goOAsUQAuQYgM+NBJMWhawuyt4ts6Ew9QlzMDd;Qr2LCKjJTBsWFpRUUxijNg=="
 ---

@@ -1,21 +1,28 @@
 ---
 category: news
 title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
-excerpt: "In the wake of COVID-19, cloud-based Artificial Intelligence (AI) will play a critical role in the transformation of three key industries -"
-publishedDateTime: 2020-06-09T12:30:00Z
-webUrl: "https://www.oleantimesherald.com/news/state/covid-19-pandemic-spurs-strong-demand-for-cloud-ai-in-warehousing-healthcare-and-conversational-ai/article_c399ffaa-2fee-5e8d-a901-efdebd0c4ae5.html"
+excerpt: "In the wake of COVID-19, cloud-based Artificial Intelligence (AI) will play a critical role in the transformation of three key industries – warehousing and logistics, conversational AI, and healthcare & pharmaceuticals,"
+publishedDateTime: 2020-06-09T15:20:00Z
+webUrl: "https://www.abiresearch.com/press/covid-19-pandemic-spurs-strong-demand-cloud-ai-warehousing-healthcare-and-conversational-ai/"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Olean Times Herald
-  domain: oleantimesherald.com
+  name: ABI Research
+  domain: abiresearch.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://cdn.abiresearch.com/media/social_images/Cloud-Based_AI_Media_Card.jpg"
+    width: 1650
+    height: 825
+    isCached: true
+    title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
 
 related:
   - title: "Artificial intelligence, healthcare and the pandemic"
@@ -91,6 +98,6 @@ related:
         height: 450
         isCached: true
 
-secured: "suwbYeYoGcQ24EPFq93WEXzRs04SsRIJofRbq2z6E6R8ckXoSP8rPa2Hu9V3Rg44RO6hvHLukIKhwgptS+oP7H3EA1Dx+FhXwfn794N96oO5odcZzTll9DA/9Si3ceVb4qpNJdACUmOQJaO2nQhcVoigabm6I950w1YowW99wFBOQKE47jDRD5L0ez1n+NzDHZzL260+I0RCXsu6MlMvKqVlNPSDC1XzsykIwCJMAsYAGjGPbjYvyhNJAiT04WtV439fc7K/n/gu1EOcvgwKte06p1EkCd7326UFd7njVjAQYuKlenVP1WHrdMDLqMV5;I/9p1YnO447UVjlXQyrzgA=="
+secured: "rOIfLie2QY6AUF05JY8q5ef10MW5k3iPjRPOE4uYMiX+fgZsmy9qDA3v8zo/RLuR9CHfEQrw1O4dvjg5fSe4x8j6ejBpvX7JnTkbKIjDIgqJaLTJ4Y93rIjkMOfD4FSWIsmFxODlxnbYGrJjtsgkuYZQkwKCj4hr8bgKOQhIanp5pYhobVTB99C5tHUdFuw24OdBk11QWbEdswFmAQ0x9zgeFmuuBVBEBUpE1bkOvVuviuhFo1vq9uBKM/zn/YXy1irnpWk4FM0uC02v7uiPk+5RFAYKlBpDqKyhzvBO7anVKnWdFM/f3/L47zChpAlJ;Wn0Xb+pWhxaGz7I6KzAzCA=="
 ---
 

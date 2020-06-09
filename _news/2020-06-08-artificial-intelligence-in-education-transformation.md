@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 800
     isCached: true
     title: "Artificial Intelligence In Education Transformation"
+
+related:
+  - title: "The Hackett Group Names 2020 Digital Award Winners; Companies on the Cutting Edge of Analytics, Automation, Artificial Intelligence and Digital Transformation"
+    excerpt: "The Hackett Group Names 2020 Digital Award Winners; Cos on Cutting Edge of Analytics, Automation, Artificial Intelligence & Digital Transformation"
+    publishedDateTime: 2020-06-09T14:08:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005093/en/Hackett-Group-Names-2020-Digital-Award-Winners"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "CuAHv0jB4XbITaX0ejMNie0/4FIEez/9SjPpUHTdug+WhnsdNvuWCtkSBax1/Jbt7WK0l1bEZznRCmxEnKrqPcn2DXMQN7L5r3wdIb3uZoN6XmgWDeoWk2Y9WrpS/BYcvPWFF9dDZzBEPEDzAk6tBHF3Qy0nTZTJNGtYBfRpK80VWjXrrkrDMwPkEWqVAQd3f2nZhfulnZoashWcCL0Nml9jRddpH123aLSkSKF+xtWyawss0CQT+IPEBKaJtwPEIOgq/Obk5j3vJT1eWtWEMZI0Np6Ms72W3lz1L+UfLD/iQ69g4mcfnG/YLTq7644bErTjiAF5g9WnyroWw4IIIKaJLceRC83HJxBMlHe3WbeTb3kqiFqS+S5gCv66U6eMl6Eyu20FC+25HU3K4diI+Ylap9osC8oevXBibdQX2b2ooexkbOfysi7qsuey6lilXlV2wrCAgTKeq11hKrzc32WU7CLuGWnQ8wPjQ7wRsaQ=;bWotj5Aa0cmBvfgdjCJSxA=="
 ---

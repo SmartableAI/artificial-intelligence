@@ -8,7 +8,7 @@ ampWebUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recogni
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1528
         height: 900
         isCached: true
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
+    publishedDateTime: 2020-06-09T13:06:00Z
+    webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+        width: 500
+        height: 326
+        isCached: true
   - title: "IBM quits facial recognition and urges debate on its use by law enforcement"
     excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T13:06:00Z
@@ -78,6 +92,6 @@ related:
         height: 450
         isCached: true
 
-secured: "JE16BWlQqUC4/b1VVbgfps3t+CAVEQvNBfjSQCBrTrSWycvoHURsoDTUtpLS1bdmKRc1sszwkkJyo7sJPkFOUSkBFlmcYD5fZoqaAGdy4OlPjA3LIGyrOcpUnonwWQ0HkWztbdJb01qmddquI6umkWIKPr7zty5yV+/y9KNToL6evlWd2UWuTF0K7NmpRqZf4I87Cv6DfXmJ6VuKpISYZDlqVZPDntpsKVGbsY42azNOKpFXySWw2H97OsFg055QfSCTvsurQYS36XUBgi8fxSZ1Rs7RJa8ScrIzpdHa72U99U9Yr9+P96WBDhuGbrOc;wylZNVsYCDDT7jWR/PsmgA=="
+secured: "h95OQ/wD2pjwhDsaSB5iYCon7wYO03mwnZLlPGsKBxXZCsO6pBDZ2soxB0epcXxmqlf/Dk3QMmXAxFp+5PUh8hYrWzFPoISTPIgXJYPfvFfCURYDPcOiiSoBtCwlgW3kCGOXjT8c2SRXMfraB4ehtigzh13gTGbw+4a50z2qHw3wHvmqWlHBJfG16zZs/qfo66jxaY/Xq8OBIyaLkgc9nSyBFTMzOr6O1bDO8RsjJSuuOXYxALDVGh9zjEX85wnYtEArwOfStVq7Hf76iMLqqpK2/TqQr9b60yW99s1W60IlPcZKSecKHb0+lft1nHr7kw91H0ln+R7icMet9kDOmC86hkwygiLWNzzbx4s3c34QyxA1hWG6fzKP+wxu4aulyYjdDntWnlH8d7XKPJ7l3cqS4PcZucAx6w7LJbQz/04I1/ReZG3q+1rL0Ms4LegKS2Z3lJ9odlR2YFJ4s2u05irawyBmVZSmN3JhWUVOQPh03jogn0PJSAKzz5qEHwBd;qZA/f/1CpmNON+PKSKotHQ=="
 ---
 

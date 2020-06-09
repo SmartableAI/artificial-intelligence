@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Little Mix-up: Microsoft's new 'robot' journalists already in hot water after confusing multi-racial girl group"
+    excerpt: "Microsoft's news portal may have saved money by replacing journalists with AI, but it appears even news-curating bots are not immune to triggering social media outrage."
+    publishedDateTime: 2020-06-09T14:59:00Z
+    webUrl: "https://www.rt.com/news/491303-microsoft-ai-news-little-mix-racism/"
+    ampWebUrl: "https://www.rt.com/news/491303-microsoft-ai-news-little-mix-racism/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/491303-microsoft-ai-news-little-mix-racism/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 39
+    images:
+      - url: "https://cdni.rt.com/files/2020.01/xxl/5e16f6cf85f5405a1518d6ca.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "DkS+51I7QQNk2tUc05A+lP3+mpGWnYUPDvl4tbUMYR4JWsv2yMHHzPlbC8Be+1SIewfLTg27p8E6NUWELptk21YPXA7t/rHRrml8GkVPyTHmkAEe9I8ens1oL8+Zd2EoWBxbxjAxOwuTaD04k4vHB6p9v4S3lCSv+9UofpSL8G76ygXayjwMhyR6Yz/huZiJ72WK0zXt8rEtMl8c//26Mm40fNScQRZo6pbvWQiXmCz0dk5fP8NtOq1Gq9rBfqvQpnU0BWOCjxF9K1R6XfNiqAng2ZRT/geBH4S/QKqReFQ1Tvbl4G05vlISKdTL7fxLzHlpHvnjSsnq5bOGPavc9ZfbIVJEsNvUdIo6+bxhFcfnam9zgyQuX3BTucaG/HlLGFENQfwDRsa4MKC38EH7EIZGMdQTgRl4Cek96kFB2Wp1DJqNMz9pIEvF2ucZx6Xld5NP4bpbAXlmBgFPm4O4yzs0d5lKX9ytqamooNaP6IaLWx4KKsnxfRWUngi2J8s+;HSZM7DzKjB91o2Pjf0DzQQ=="
 ---

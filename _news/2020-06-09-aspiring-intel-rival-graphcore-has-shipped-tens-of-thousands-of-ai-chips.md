@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html"
 type: article
-quality: 71
-heat: 71
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips"
 
-secured: "oC7DNU9UNTr4h94kA6a8QPdOP44a0gYgPwYQYXSE6Vx1RMQ5QwV2AtSltrOEpy3I4Kj/ah9//chC9cPsO2yGfARvlAIeAM2w5si2ZGcXQskKa5e0SCQD59RoBYHTvWSpWSQd6d5G7ZYE4pvyIWccua7E3UMffkEiIjiKhpZjmEkJ1j6omZF3LBvWSWe+ZEfjY7+TM+PNjf994yRrSiy1ZZ/XG8+N4k9T0dquvWt/aflCi1//j/fQ88+Jrp6Xb93eHJg477I34rh+YCeViU4xOlwNvuTyQEDgysS6imE1Ylg+7oIYFLhSwTwQ373x7TGg;Qk8CtUwRP5619s01f7VC6A=="
+secured: "1h+nQl36MGVMJgoTAp5kHOfd7gKlFa9peAazoR07uhMMxq4PuK2rHDA8x+f7abZHQx2disjdK4jma06SI54CICKg2gj1bknEQ67PDsuYDNWVTFG4WesXntYcGhPKbUAerULXdKkxNqR3nQKoNOxqvOPGQushyxHeFgy7lYqCPz6CUA2RBVbpOQsbSKEQltpnOqZ44crAX1rzdq4+YpE6LdJOSJdbt4XU5yXEU2XNLuR60vXBiXTSLdDY3s/tC1lZlKeRYvVSrmKmnjCHVOyxoawPRyDW7mKRh4of8QyBRVJo+HEemX3/WRGwReTUzZ4s5/qhsMk14u+6P3TfsdKg5TGPOp8EQ6CgLtl4B5idObvvgVJ/fwE4YS1BS7cjR9pJruV3Eic8IFsHu5abzcjedDitGGEyCw73mYOBwto9CEhXF/hYbDNp5ZLTZ8xEYEd7c4wsvRRcvtHjg9FPI+Zj3AnCrua3oQJnugNDGple5BVhj+k/+f+9CHNchJl9ldFm;2voYcP2DesUOZQAhWLS9xg=="
 ---
 

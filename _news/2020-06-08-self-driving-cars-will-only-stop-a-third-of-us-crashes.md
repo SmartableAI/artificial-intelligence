@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Study: Self-driving cars would prevent one-third of US crashes"
-    excerpt: "But not all human mistakes can be eliminated by camera, radar and other sensor-based technology, according to the IIHS analysis of more than 5,000 representative police-reported crashes"
-    publishedDateTime: 2020-06-04T21:19:00Z
-    webUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/06/sjm-riving-Vehicle_74669439.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
     excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
     publishedDateTime: 2020-06-05T15:56:00Z

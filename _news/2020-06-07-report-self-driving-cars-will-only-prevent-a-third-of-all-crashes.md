@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Study: Self-driving cars would prevent one-third of US crashes"
-    excerpt: "But not all human mistakes can be eliminated by camera, radar and other sensor-based technology, according to the IIHS analysis of more than 5,000 representative police-reported crashes"
-    publishedDateTime: 2020-06-04T21:19:00Z
-    webUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/06/sjm-riving-Vehicle_74669439.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z

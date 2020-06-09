@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Facebook’s TransCoder AI converts code from one programming language into another"
 
-secured: "1z99PzLuiN03SYvOGc6D0VWabTng0LdvOp/aBqqMq736MLsne1WbgrqwYbBCURurUwb8ZhjHfhBIUPn1ww84hbyEe/D8dT9qEbxgdzy03YaYby1rp6t4dyQ08FlS2Ftu7jeCNkyfTNjPMirwS/Ngs/CWFgfKm2yEPJ906PCUAhTCAg1Qpy870B5VVGCdshs5kfiB+Jb6pMLLiZlc3RIJtd4nRxkdUv9pSVqHtIWQK9tCgVjCRLp7rGbGdLMPE8Yp7Pz68Y/eHdkrIEYTOteqCzeanQTnF+QlD9CKVEOK7o8hWgzRSXhFOQqqJt0ByRyPZWHhLrhR8+mkKbPoelsW3Ex5PvCwpoLSUiq5jgoGXH3FUhhKbrX1uM2BLZzyPHWxN+pVfWMO5n7ye56riYbWQFVngUIOXW8jNED/6nZFo33GU5Jnby+Hj7DQVnkoWrM1PIQZ9a1igKfcxwmAsJF2juggt2SoomCiu1Y8vPosjyY=;NA9i3PaIlOHT6sc+vvz9hw=="
+secured: "wBZsHGiccT6FnJwdOYwfuDF2K8l2Su7qCDuqy0yJYc1drhBoY9MUsJ/PgNDbI4f8oenWcdhvymHzaMr2GHBK5asIynDOwPpXXw5Yxg/tK4en4JKu+2B9IKnNoN6W2VJgsmhnmB9sVthesmfs5RNrX8xv0ZGnYxPt48VqwQk2TXUVqMOwx9kMGdooLslH6aF7+oKmMvsP8osASyca5eHgFORuWZUBLDeZ5n90m85Ep4/StjDt12dNMjBpruTXzfk4xkE/N3zL5/VfroSHdnvZt91yBGR7fLfUlrS+rJalz4ZUewxYwTs+P3n4GtNiuasvt3ftRIhy8fNNUiPJXw9TUpWHJmsLCM6IHnHjZmf1mYiULaFXZdloJcGKzUm3CIXgiVGCjhig11bFHiBcp6/aTmEZwHEFo2ybNS5XYwK4oZT2tLXTgyHMnLcpjlo7e02ZuL/smA97JPZY2S4Ltc+K5uU0mKrPO39Z2B4Id+AiiHwVA/E+Sx+9ChCOYA7heOyq;USo0OzrPPnvq3OZLwi1mMA=="
 ---
 

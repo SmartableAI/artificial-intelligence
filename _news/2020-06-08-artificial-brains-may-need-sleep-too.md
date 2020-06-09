@@ -25,6 +25,22 @@ images:
     title: "Artificial brains may need sleep too"
 
 related:
+  - title: "Turns out artificial brains need \"sleep\" too, but do they dream?"
+    excerpt: "Humans require ample sleep to function optimally. New research suggests neural networks may also benefit from extended rest."
+    publishedDateTime: 2020-06-09T14:56:00Z
+    webUrl: "https://www.techrepublic.com/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Sleep is also essential for artificial brains, shows study"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, according to new research from Los Alamos National Laboratory."
     publishedDateTime: 2020-06-08T06:11:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
-    excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."
-    publishedDateTime: 2020-06-08T13:24:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-human-sleep-ai-los-alamos-neural-network-a9554271.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 45
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
-        width: 1884
-        height: 1412
         isCached: true
   - title: "Artificial brains may need sleep as much as we do in the future"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
@@ -96,6 +98,20 @@ related:
       - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2020/06/brain.jpg"
         width: 629
         height: 425
+        isCached: true
+  - title: "Research: Artificial Brains May Need Sleep Too"
+    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that"
+    publishedDateTime: 2020-06-09T14:47:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/research-artificial-brains-may-need-sleep-too/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Sleep-LosAlamos-300x201.jpg"
+        width: 300
+        height: 201
         isCached: true
 
 secured: "b1vfA5+nAh++jm6lPAywMSH/4fym1k/Se7+JLZ3Wz6YKbAcWPDAyagBnwIpYQmDdA9wtHa0hzHGYi4cZDGqE2qeEijvAJQXr6G3ayfJM1O9wdFZecH9XcpCbvTVUdXhz3RSaWA3WNbYT2QY1vdqXyBfgREysdTZd7aOceXYwK1CDUQrHa58pUVLVsgN3RXj4UQNJBC2cvHRv9YBmx4id0e5f+xqX0d0Q77QtnpNedgOky/kf6tiD8tzYQLA8Kd4LW51ko5ZwZwBmyDPlSH5R9YwDDlCKxzOt0ovbEe1V/E9z9yZ63URvU17Rl0dV2Oc+5NPsovvevTVUYTr75jPmkxOg5TrkSqp/UFMgqMp1PVUaQAk3MbApJ+uTOshUBfXet5BffbwgEDdzAkjQDxkPVROtuFvKlV0pKNmhMsnkJJ35Vd5DrfId2htyvLeQA9WMkORbY9TRSUK2ghENpBt/JqHYNSb3M/vESFwANwE2Y10=;FqqihrQBLh9BbAhA2ZWB3g=="

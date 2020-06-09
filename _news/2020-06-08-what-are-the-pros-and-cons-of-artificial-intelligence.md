@@ -41,6 +41,20 @@ related:
         width: 1108
         height: 570
         isCached: true
+  - title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
+    excerpt: "In the wake of COVID-19, cloud-based Artificial Intelligence (AI) will play a critical role in the transformation of three key industries – warehousing and logistics, conversational AI, and healthcare & pharmaceuticals,"
+    publishedDateTime: 2020-06-09T15:20:00Z
+    webUrl: "https://www.abiresearch.com/press/covid-19-pandemic-spurs-strong-demand-cloud-ai-warehousing-healthcare-and-conversational-ai/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 40
+    images:
+      - url: "https://cdn.abiresearch.com/media/social_images/Cloud-Based_AI_Media_Card.jpg"
+        width: 1650
+        height: 825
+        isCached: true
   - title: "Connecting the dots: Technology, healthcare, and pandemics like COVID-19"
     excerpt: "This article is written by six students of Indian Institute of Management (IIM) Indore on how artificial intelligence and machine learning based solutions are being used in India in government hospitals (also during COVID-19 pandemic),"
     publishedDateTime: 2020-06-06T14:20:00Z
@@ -69,15 +83,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
-    excerpt: "In the wake of COVID-19, cloud-based Artificial Intelligence (AI) will play a critical role in the transformation of three key industries -"
-    publishedDateTime: 2020-06-09T12:30:00Z
-    webUrl: "https://www.oleantimesherald.com/news/state/covid-19-pandemic-spurs-strong-demand-for-cloud-ai-in-warehousing-healthcare-and-conversational-ai/article_c399ffaa-2fee-5e8d-a901-efdebd0c4ae5.html"
-    type: article
-    provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 20
   - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
     excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
     publishedDateTime: 2020-06-08T14:00:00Z
