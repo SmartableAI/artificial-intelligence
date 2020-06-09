@@ -26,21 +26,51 @@ images:
     title: "House police reform bill includes face recognition provisions"
 
 related:
-  - title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
-    excerpt: "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability."
-    publishedDateTime: 2020-06-09T01:15:00Z
-    webUrl: "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/"
-    ampWebUrl: "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/amp/"
+  - title: "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance"
+    excerpt: "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform."
+    publishedDateTime: 2020-06-09T02:22:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1127480719.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM ditches facial recognition tech citing racial justice reform"
+    excerpt: "The IBM Model 5150 is legend to a lot of us old folks, tottering around smash talking iPads-as-computers and telling grand stories about floppy disks. The point is that when it comes to computing, IBM is a household name."
+    publishedDateTime: 2020-06-09T12:12:00Z
+    webUrl: "https://knowtechie.com/?p=121777"
+    ampWebUrl: "https://knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 44
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2018/11/security-cameras.jpg"
+        width: 1528
+        height: 900
+        isCached: true
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
+    publishedDateTime: 2020-06-09T13:06:00Z
+    webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+        width: 500
+        height: 326
         isCached: true
 
 secured: "gAMOa1Y/lqX/x2nrQlJgvcYF63MF8v1vlcdJJ462OfQhIB7OPtFzBOYVV49fgD/+x/yIi+pwdByCag/VCmzbn1B8WTnmvQ8+F6BuoQvOsJG5DRex07HHPkd8GOMDxsvPMOO/PwppkyVzrIpaaZQMG6ovL3mYYER/QSe4BfbGoMvNuAouWOrW6sGHvXSdHSqMUnJLiUiNEqSbJC8E1wF9Znx3drX713gqmM7xUkleQFttPRzjhPYT2mQ3Grz9Mo9EhXTc/nH6rr9d6Jo5TjEPzx1Krz6vLvQoU9O7Xk8gmnkT39T7mASfZ+gKCicg8kbEdruVtJIXIc6JwoLclonce76EcxyTTfAUioK91Bwa7lg97Zgv/vQBEIuu6YOwyeFpDOIz2pyUsN3q+exp2wkZo3PHUfclCL3CYj78wF+6fB+8gNfQwkOBx65aYG5SQSMe6SWoebDgo4zbhLkYo1s2hYzEgub31Ez9fOp/eL93LoY=;j9ug+1Qkl0AFV+5wDc1oiA=="

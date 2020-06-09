@@ -8,8 +8,8 @@ ampWebUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recogni
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -31,65 +31,97 @@ images:
     title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
 
 related:
-  - title: "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance"
-    excerpt: "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform."
-    publishedDateTime: 2020-06-09T02:22:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
+  - title: "IBM stops work on facial recognition over human rights concerns"
+    excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
+    publishedDateTime: 2020-06-09T01:08:00Z
+    webUrl: "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html"
+    ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 57
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "IBM will no longer offer, develop, or research facial recognition technology"
+    excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
+    publishedDateTime: 2020-06-09T00:55:00Z
+    webUrl: "https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
+    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
+    publishedDateTime: 2020-06-09T10:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
+    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
+    excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
+    publishedDateTime: 2020-06-09T00:53:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/06/08/technology/08reuters-ibm-facial-recognition.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM ditches facial recognition tech citing racial justice reform"
-    excerpt: "The IBM Model 5150 is legend to a lot of us old folks, tottering around smash talking iPads-as-computers and telling grand stories about floppy disks. The point is that when it comes to computing, IBM is a household name."
-    publishedDateTime: 2020-06-09T12:12:00Z
-    webUrl: "https://knowtechie.com/?p=121777"
-    ampWebUrl: "https://knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
-    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
+  - title: "IBM quits facial-recognition market over police racial-profiling concerns"
+    excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"
+    publishedDateTime: 2020-06-09T12:37:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 44
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
     images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2018/11/security-cameras.jpg"
-        width: 1528
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
+        width: 600
+        height: 360
         isCached: true
-  - title: "IBM is canceling its facial recognition programs"
-    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement. In a letter to Congress on Monday, IBM CEO Arvind Krishna said the company wants to work with lawmakers to advance justice and racial equity through police reform,"
-    publishedDateTime: 2020-06-09T13:06:00Z
-    webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
+  - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
+    excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
+    publishedDateTime: 2020-06-05T18:16:00Z
+    webUrl: "https://www.biometricupdate.com/202006/realnetworks-launches-facial-recognition-browser-extension-to-detect-celebrities"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
-        width: 500
-        height: 326
-        isCached: true
-  - title: "IBM quits facial recognition and urges debate on its use by law enforcement"
-    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-    publishedDateTime: 2020-06-09T13:06:00Z
-    webUrl: "https://cnnphilippines.com/business/2020/6/9/IBM-facial-recognition-.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 22
-    images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/6/9/Arvind-Krishna_CNNPH.jpg/jcr:content/Arvind-Krishna_CNNPH.jpg"
-        width: 750
-        height: 450
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/05132526/StarSearch-by-Real.jpg"
+        width: 950
+        height: 741
         isCached: true
 
 secured: "h95OQ/wD2pjwhDsaSB5iYCon7wYO03mwnZLlPGsKBxXZCsO6pBDZ2soxB0epcXxmqlf/Dk3QMmXAxFp+5PUh8hYrWzFPoISTPIgXJYPfvFfCURYDPcOiiSoBtCwlgW3kCGOXjT8c2SRXMfraB4ehtigzh13gTGbw+4a50z2qHw3wHvmqWlHBJfG16zZs/qfo66jxaY/Xq8OBIyaLkgc9nSyBFTMzOr6O1bDO8RsjJSuuOXYxALDVGh9zjEX85wnYtEArwOfStVq7Hf76iMLqqpK2/TqQr9b60yW99s1W60IlPcZKSecKHb0+lft1nHr7kw91H0ln+R7icMet9kDOmC86hkwygiLWNzzbx4s3c34QyxA1hWG6fzKP+wxu4aulyYjdDntWnlH8d7XKPJ7l3cqS4PcZucAx6w7LJbQz/04I1/ReZG3q+1rL0Ms4LegKS2Z3lJ9odlR2YFJ4s2u05irawyBmVZSmN3JhWUVOQPh03jogn0PJSAKzz5qEHwBd;qZA/f/1CpmNON+PKSKotHQ=="

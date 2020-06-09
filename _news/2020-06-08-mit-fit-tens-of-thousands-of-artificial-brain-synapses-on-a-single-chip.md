@@ -103,6 +103,6 @@ related:
       domain: phys.org
     quality: 36
 
-secured: "OaRoEVruVdGWi/4FUYR7fHG/DizevK7pHuCAIaJAV4itQxE+bvx2zNeoZ+HYUSzJdR4t0oCCl+kp0G1Bybk6luaw9RRVz0xPxLiKxKUP+z6ovjRI8f0tShQWXQTfOinxBnfBn//OIwe+CPdnV4NLa0wtWEKtcEpz8DxUQ9wNY3+3JA2otAHAqeXGOH0dR4QWXYRvMQ+UW8qZy5eP9173W2DHMtq0rJop6uS6SMxpqGwlXxzdmiQ5unHq0oc9Ikl8V1yoTgkBTK7CQLvSO/MSysrUcKgAcAS+unvOEbd3LsjtC3/f6InXQW3ZMOgNSPDs;4EB0e8GNLou+7xhDl4Fl/g=="
+secured: "CIGVtXXtdjEX18njFuRueQ1kJCXhg6EbYLJPrtiWov/sMxAM8QpuesdwYMcjZW7KL20QNQpWMds6IUBueRWzZlEHGR4VTJXu1RQxUals5HojVrxaYovVM8rHwRMuVjwI/muck0v0J18SBwRlpHq5jyMNtgUxnvu16vAtjZHLIEz6JucI6K5u6mw9vDL5cPWfJqOYWbPNwoMKsOR6L4xsfdd1omwhDJN2Ssd+IvJzpvC15Mtl/g9Tz9sLI3LCfmxQpDL/pSvupnPtRUdkeINABQ2e4QQsM6DZRj1YhDiVpi+0NZbOMKdAhmocz9ZybL6X;NKgY1t1dmsZ7Iiokah2acA=="
 ---
 

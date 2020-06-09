@@ -57,38 +57,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "IBM abandons 'biased' facial recognition tech"
-    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-    publishedDateTime: 2020-06-09T13:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-52978191"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52978191"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52978191"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "IBM Pulls Plug on Facial Recognition Technology"
-    excerpt: "IBM will no longer offer its facial recognition technology for general-purpose use, and has called for a national dialogue on whether it should be used at all."
-    publishedDateTime: 2020-06-09T11:01:00Z
-    webUrl: "https://www.thestreet.com/investing/ibm-facial-recognition-technology"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/SB6I3e5B-720.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Senator presses controversial facial recognition company on use on protesters"
     excerpt: "Sen."
     publishedDateTime: 2020-06-08T21:35:00Z
@@ -121,15 +89,6 @@ related:
         width: 2880
         height: 1800
         isCached: true
-  - title: "IBM quits facial recognition, calls for federal regulation of police use"
-    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
-    publishedDateTime: 2020-06-09T15:29:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 50
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
     publishedDateTime: 2020-06-08T02:13:00Z
@@ -144,29 +103,6 @@ related:
         width: 1240
         height: 940
         isCached: true
-  - title: "IBM to stop selling facial recognition technology"
-    excerpt: "IBM Corp.’s Chief Executive Officer Arvind Krishna says he is withdrawing his company from the general purpose facial recognition market over concerns that the technology is being used to promote discrimination and racial injustice."
-    publishedDateTime: 2020-06-09T00:52:00Z
-    webUrl: "https://siliconangle.com/2020/06/08/ibm-stop-selling-facial-recognition-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/facial-recognition.jpg"
-        width: 1021
-        height: 694
-        isCached: true
-  - title: "IBM exits facial recognition business"
-    excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
-    publishedDateTime: 2020-06-09T06:44:00Z
-    webUrl: "https://seekingalpha.com/news/3581366-ibm-exits-facial-recognition-business"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "FnpMzAvjP2WEyMhks52l514MWftmUbUvsswknczt32caVSKL8KOHmN0FReQDs076rRHgJQaGMAJx71FziljfsDcBjuIFITQzZ+2bZSYz8/XFGJMMjzZJ3rkTdUDAn7uGHifgAhORc5uIiqKkWjXR/ZOsqsTJEhZ0oZxoatZuWyLBUW15wMVMSUWVkOQZMycgdj66nBA8UgNKMaifYybQnBmpgs8dhSpe7AN5PTMugm/zl2U4rULCnF6MBRPpsxkmOpm5lC4YrsgKKVLBNLsFrcBewECAstgoyiq0ZuptHSqwMqz9ZAisROMi6+SwEkFqoDVO9gUvRBidO23QS/1k6ySgAhBP+Tqpz/p2hPHjrI57/yNQgDog7ftHKJA36GV0qSKyStZqwKi21fjmQMchpvdd4Jin//rsunrpIzRSIPA1tIU6BNQo3WvBJYHPmDxkvJm3xJf65uzLTTAzPhaYSDhrYQqWtNgQyGikJYSdNlw=;fiXV9oHMRFp49drW7HHjbw=="
 ---

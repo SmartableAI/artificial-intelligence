@@ -100,7 +100,7 @@
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
@@ -141,7 +141,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {

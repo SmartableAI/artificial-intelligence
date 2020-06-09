@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - Google AI
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143"

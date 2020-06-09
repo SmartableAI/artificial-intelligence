@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "AI software at Microsoft's MSN misidentifies mixed-race Little Mix singers, report says"
+    excerpt: "\"You might want to make sure you're using an image of the correct mixed race member of the group,\" Little Mix member Jade Thirlwall reportedly says."
+    publishedDateTime: 2020-06-09T19:39:00Z
+    webUrl: "https://www.cnet.com/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 79
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/EYBPpknqxGvno4xRxCB5mf4wpxc=/756x567/2020/06/09/b795f993-8598-4744-9396-3f89c5f5f745/screen-shot-2020-06-09-at-11-34-39-am.png"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Microsoft’s robot editors called out for racism after confusing Little Mix singers"
     excerpt: "Microsoft recently announced it was planning to replace journalists on its MSN news website with artificial intelligence algorithms. However, this decision has already backfired as the software recently chose to illustrate a news story about racism with a photo of the wrong member of the band Little Mix."
     publishedDateTime: 2020-06-09T11:19:00Z

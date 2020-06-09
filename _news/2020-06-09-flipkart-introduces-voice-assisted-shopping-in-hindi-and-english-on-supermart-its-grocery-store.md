@@ -89,6 +89,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Flipkart Rolls Out Multilingual AI Voice Tool"
+    excerpt: "Flipkart, Walmart's supermart online grocery store in India, has introduced a voice assistant that allows users to buy products in multiple languages."
+    publishedDateTime: 2020-06-09T17:50:00Z
+    webUrl: "https://www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/"
+    ampWebUrl: "https://www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Voice assistant to help you shop on Flipkart"
     excerpt: "\"The technology team at Flipkart travelled across the country to understand the various contours of building a voice capability and fine-tuned it to identify and respond to the different variations in Indian languages,"
     publishedDateTime: 2020-06-09T15:57:00Z
