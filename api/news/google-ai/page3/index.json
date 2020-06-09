@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-deepmind-cambridge-ml-professor-asks-ai-winter-or-the-wonder-years.md",
       "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
       "excerpt": "And will the promise of AI be delivered without heavy recruitment in more ML specialists? The issues will be addressed by former Amazon ace and the first DeepMind Machine Learning Professor at Cambridge University, Neil Lawrence, in a Cambridge Network virtual lecture on April 21. The Network's first online business lecture – introduced to ...",
@@ -1223,51 +1271,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
-      "title": "IBM’s AI generates videos of chairs, golfers, and more",
-      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
-      "publishedDateTime": "2020-03-25T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI generates videos of chairs, golfers, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

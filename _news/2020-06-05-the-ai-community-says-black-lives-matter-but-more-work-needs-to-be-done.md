@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matte
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

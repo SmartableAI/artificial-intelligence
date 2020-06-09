@@ -5,8 +5,8 @@ excerpt: "A possible glimpse at a future form of high performance edge computing
 publishedDateTime: 2020-06-08T21:38:00Z
 webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
@@ -22,6 +23,6 @@ images:
     height: 295
     title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
 
-secured: "m1mfIt7AZa4njE7ozsk+mqKuIrXYkCSIMP8j4PIK5rKXw8U4Lnkr8fj8o5sBUFIOt863pt6171krKIk7K7/kW69MF4q9of+kKiCBhg7AvUy3lXWJ9rMYUTzdwsNAK3pdwHZLRCrSXb6jsyDWXF3QDVTtFXOqbA6vsTECP/0+2qFadkgGqO2YF1MLvyX8sbgFD9LdpzmecfqlQNAQtYT1YVjQuip7SLXO8rGwgl+EOevUxAcJo76/fyVvTPor96FenVJ2gyBbjLKhI2EN4QkzokYlqgHhA72JiHqnv2FhQf5/i0R7StJZ7CoKUaCD6SHz;Rl69xwa13SsQFrXH5cJQ5w=="
+secured: "w+Odr4pyV2BpaD/hSk7e0NbSpmoNmZFe4CQ9ioTLZuFnjbtgMz8uYfZMC2yj6qBdsBWfy2+lSMxGhZbkH07EqhFgIZmg5+5rIcyoXGj209couuCEdAW7BCM097dNe9K3vqaNFGlV9/1zAw6MU0CESENp8O0R+37B/3wKCcwqZ84EnKoGIgvzjr940DbZywqikRcQNGXC44I87PVDvqyDHlXBWT4hpdbq6O6IxEY6FLkz7JxIa5OWTRMD/gOXr7w37ULfuXgypvuvgmdVmZN5YlwhdW+tGIGM9RtKVit6Zwgh0G1FKNRaujLRlVNv61YLMsB+89QVH/BqbWBvr16FzZayiwhLiVJcPOG82VtgbW7HXjb35Sim6/zOxKx4TfnGHIeUyF3M1Wy4ZPJv5jNAFJggGzwwj4D7la17areUpYBzrqPdUJ+K6I3CdiejP5zIVzroew2/pyOg9Gh4Yd1MXgRfDkImnl+iU/cekwvay5E=;Ob4LkbeBRor5LiH7x+F35A=="
 ---
 

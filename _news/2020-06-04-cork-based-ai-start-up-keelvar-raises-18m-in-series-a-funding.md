@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T10:04:00Z
 webUrl: "https://www.siliconrepublic.com/start-ups/cork-keelvar-series-a-funding-ucc"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 800
     height: 600
     title: "Cork-based AI start-up Keelvar raises $18m in Series A funding"
-
-related:
-  - title: "Cork-based AI supply chain company Keelvar raises $18m"
-    excerpt: "Keelvar, a Cork-based company that uses artificial intelligence (AI) to transform how suppliers engage with large enterprises, has raised $18 million (€16m) in funding to support its expansion plans."
-    publishedDateTime: 2020-06-04T05:04:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/cork-based-ai-supply-chain-company-keelvar-raises-18m-1.4269972"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4269967&origw=1440"
-        width: 1200
-        height: 630
 
 secured: "tqY+VzWEeq/a+67XUIWjJaYOgI534n+7AEKV4xRS1/yEKGd2Ond4ZjOD/EyQ0nHnai5+pg5yYsZPhQ0YSAU3uW9ndzNQ0dvyo3OttLhaOZ+XNBXgpw5SJbRjJ0gayPLN5Fcl+jfHfzXtkOI4EwMsU0aAmjWoFc9CYt60jLKhnTN+Sj6m9orTAGeBJVFjzlxpxdLko2cSWv/8uYrCHczB5d4eYrzyReY2TQgAOgpLNDeqRtB/F4tF2vgCG6AGVUsOmgFy08aRub6rEA6MOD73txf3su1AR8CXiRggjKn//8nzLXPJANlUvqc9Z8kaTrMh;TbV+o92rZnayKk3sj73o7A=="
 ---

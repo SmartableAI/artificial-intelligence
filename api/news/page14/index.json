@@ -2,6 +2,141 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
+      "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
+      "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
+      "publishedDateTime": "2020-05-24T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
+          "width": 1116,
+          "height": 669,
+          "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
+      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "publishedDateTime": "2020-05-24T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
+          "width": 1021,
+          "height": 545,
+          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
+      "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
+      "publishedDateTime": "2020-05-24T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/micromobility-comeback.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-artificial-intelligence-can-make-personality-judgements-based-on-photos.md",
       "title": "Artificial intelligence can make personality judgements based on photos",
       "excerpt": "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientio",
@@ -974,141 +1109,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
-      "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-      "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-22T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e",
-          "width": 1119,
-          "height": 630,
-          "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
-      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "publishedDateTime": "2020-05-22T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

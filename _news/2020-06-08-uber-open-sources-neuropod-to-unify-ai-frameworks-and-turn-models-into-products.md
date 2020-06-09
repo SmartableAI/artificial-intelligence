@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-
 ampWebUrl: "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all"

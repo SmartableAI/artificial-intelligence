@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-suprema
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

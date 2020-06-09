@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
+      "title": "IBM to withdraw from the facial recognition market",
+      "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "publishedDateTime": "2020-06-08T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "IBM to withdraw from the facial recognition market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
+      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
+      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "publishedDateTime": "2020-06-08T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters.md",
       "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
       "excerpt": "Encrypted messaging app Signal unveiled a new blur tool on Wednesday that can be used to hide faces in photos before sharing them. Signal said the tool aims to protect the identities of protesters currently demonstrating against police brutality.",
@@ -188,7 +279,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=38&itm_content=1x7&itm_term=2376504",
+      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=37&itm_content=1x7&itm_term=2376504",
       "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
       "publishedDateTime": "2020-06-02T14:24:00-07:00",
@@ -1161,80 +1252,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://abc7.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "ampWebUrl": "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "publishedDateTime": "2020-05-20T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
-      "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-      "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbc15.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC15",
-        "domain": "nbc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.graytvinc.com/images/aa413.jpg",
-          "width": 700,
-          "height": 400,
-          "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

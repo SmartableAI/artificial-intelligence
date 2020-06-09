@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

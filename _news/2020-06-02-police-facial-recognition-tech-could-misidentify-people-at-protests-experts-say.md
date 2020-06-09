@@ -3,7 +3,7 @@ category: news
 title: "Police facial recognition tech could misidentify people at protests, experts say"
 excerpt: "Facial recognition algorithms are notoriously bad at identifying non-white and non-male people. But the tech may still be used today as protests roil the U.S."
 publishedDateTime: 2020-06-02T21:24:00Z
-webUrl: "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=38&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=37&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 628
     title: "Police facial recognition tech could misidentify people at protests, experts say"
 
-secured: "DiA3nNOUd7EDOEiAGS948KtLn6znu612VHox1VkwSqmD3zJFlyokebfJp6S0KLVFD1HftlSnhgpVXIqoVfDBEgHpjdgQScGqAsDeBvmh94Z6FMFoXHbjXt8mehpRX2n6bPavgaGa4A5HoCCcBkNRnWcQ9e6uMXjuDkW4TUXpcq5c859cuDID33M3f67+rT+bi6SvJiDyGhsxAqwshNbz/4aLkjFk/l+RZxFc8ir/9/UM/xPRMHe0zldd5sbTy0fqD1t5SVm84vOPpx9yBTiiIY1Oh9gz5g77UKYZDd7uRRLP6jUKaCscxkJEZY93Lyo6+v5kOwBjKda0/pZIhsgWU97e8gq6ZblBmf1AIjJGTmUHMZR8ZN7zRByiVAREl6+vhavfeqmZNS/xu+ZKbInA5MJXGxdkAynN17zA63M86O9X67RnmhihYgh8k3KBTmz23GP2b8c00DK1+Ld9gDvjv1WxkyLoO9gyEyfiVa23lA8=;ZD7CSqg4fvRHG/S0NaBbAg=="
+secured: "+5u6x0S9ktdkqbzbVQoao5L2RvTBsAuvXELtRv3wvW2k+9NG/ZSnS2SlQroIaDW5YerSUUTCf2laIn4qcrzGCk1+ESXoJWGjynDYeSsVi3ID0xdT6y8fEjskMvRMaeyK217HLk6Thk0xYJP27yyNbTeqiXFVWjiVnusI8WejQSoFo4Rq+ia51BciPVs0jtV/btjmzjAW6gbYbbvpHxf18SOipHLJUhfl6dZus7KuPW+wL9o50qJyDKPXFlb+Vt1z1ZcYjx2VG/DvZ3+G52TY+4uWfZxP61tyrrsPahiGRZcBTtei9/h+Tpx5WgHuhXZA;H0ELafQXTmpUmhR9Ozi0oQ=="
 ---
 

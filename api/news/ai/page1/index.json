@@ -2,10 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
+      "title": "IBM to withdraw from the facial recognition market",
+      "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "publishedDateTime": "2020-06-08T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "IBM to withdraw from the facial recognition market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
+      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "publishedDateTime": "2020-06-08T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
+      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "publishedDateTime": "2020-06-08T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 106,
+      "heat": 125,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -42,7 +175,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
       ]
     },
     {
@@ -264,7 +399,7 @@
       "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
       "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
       "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
@@ -301,7 +436,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -963,7 +1099,7 @@
       "path": "_news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap.md",
       "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
       "excerpt": "I’ve found an AI-generated music app that creates great music for at least one purpose. I’m listening to it right now. And I like it. A lot. AiMi.fm is a new music app that mixes generative AI and flesh-and-blood human artists’ beats to create really,",
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/",
@@ -1141,7 +1277,7 @@
       "path": "_news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done.md",
       "title": "The AI community says Black Lives Matter, but more work needs to be done",
       "excerpt": "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change.",
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/",
@@ -1180,132 +1316,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all.md",
-      "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-      "excerpt": "Whether it's white supremacy or AI from tech giants, systems made to work best for white men are incompatible with a diverse world.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "publishedDateTime": "2020-06-05T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_20200603_175404.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
-      "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
-      "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/",
-      "ampWebUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
-      "publishedDateTime": "2020-06-05T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
-      "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-      "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-05T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

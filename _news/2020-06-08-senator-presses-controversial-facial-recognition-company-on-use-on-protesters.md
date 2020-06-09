@@ -37,7 +37,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 86
+    quality: 105
     images:
       - url: "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg"
         width: 756
@@ -58,6 +58,6 @@ related:
         width: 620
         height: 465
 
-secured: "U5XjKHer6Sj+GOI5VR9y3djsv2MmwmJR4drU7RZYMAwsyzTdw1V1jV+tQtwB9QX6tVvJJy/cm1xrQorSkrAYLtR05D0p7XYUtlijZ8rM83vtMUD4b6s+JappssrPMtqUzMTWStmOnzPCPunvwqgZ/AmMX7iObhfJvawQbnEX03Zr98LzSggI1QGMnhLBevE5ul7VNKWGI4F/myrCEaRVSE/Up7Fi3+F7TV0gSjYhfGEjLlTHm0xhwnWkemKGEhr3zTNY3pYK+e2QHUVywpF/5KSkWo6g7w5uMNEX5bQZLNwQyrbBkv9fxuIMkxi5mWG8;ZAL6alQ+g/VuCKakdQxz4Q=="
+secured: "AYPTQxcnjWm1Aj4MN3a2NkSLslAIMQOB7CojxJdH+MpxW89rmssSyXlVXocVhrSkE8ovx1n2I0m0cKXiGReEyxHF0WEt+pig7wduqLQyBB9p3zQfa2iALruURVIuLefTNdPh0E7wi/Iupr5XG53lBwvbUBC9RVJXJ4ZnU6LjztOF8Wc/1OtrvJd+6CmAh7yIVGGR3pWxrQFp1RPsyyemiyES3NSOD5aSNGPwShZdgPLUVcVEjLBss4lMQiBD940k261eBtxwvawgaZn/6NeiPU1wrSCdS4Qbmw92tLVVXQqKdjychdq3mMYzcSYYNCkl85CC0HFsREYyrdCs5EgOG1w0DTteF1XXNv4AzOQQLKQ6NnAPnoAczQdPE4B/xovzzL9BcY69Z2G0hVlOWyNoxLkmzt0l/nkZqcwa8Jokl786/xwJI7GR0098UXNzxIn//kXPNzpzsrX4iV7J/Q1p52AFY5zto9eSYrLkV1PyM4I=;wlfQl1/x/DvR4K7biblZ7g=="
 ---
 

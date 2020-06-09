@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recogni
 ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
-quality: 86
-heat: 106
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Computer Vision
 
 images:
   - url: "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg"
@@ -60,6 +62,6 @@ related:
         width: 980
         height: 551
 
-secured: "wdn4sOwJLl/t78sky4tFPft6iEfD3tmRRcbZMk86NnGRgp20ucYPdkSm6aOI5ky+yU7dPy59XkFBCzj13YgW6rMxIEn+Cinhf9GswUlxACvh7asOdYUCCH+qPrb/u227k7BVdDFQWZCV+lYlM7JgjjjzSAEU7ac401ZGMoR7vFB8nQRQE2krVqWniXWC/nAph4PoxWfPLkjBW/++CC4bAzoVBJAsO4arN5IlLG7zBFHqC7sF8k4wQlYh1mFNFLN7ztwToIuTtTRlwukOVG7Amo+CBiDfDgXVwpNELcgWwD199HSNYsABwpQXGxJ0yUuR;rJBfpOQoyZAdtaOVCjDCSg=="
+secured: "CKNHg/0Puz6A1YAxXpO8WpgD1+zTnwCYDFTj+HbozBjcuGqSflZE9V5nBkAhzsS8z2pqPKHRYE8VRU6RA4lCg0fJvICKwCP2INQvdRaS90RP3CM3TpW+0vSCvhoRWqL6yp3PxBYpU1j1GYQt5nVnUrU0xM8sz/nbZrsM3ZTvIqWxwdYiDUzUnG6AiVnjLMi5qfdBedQ+SxlZ965zB1KMwCbs593Hovc39aFTee2oohPhkD3t4mq69Xe6cl78pvYl9kLvmSz8dNGjyMUa08ullPuEoBIuiYFbpi/HbG1meYlcihbEHiVU3hKF2nQzW4mJV9Ta3QTlXS5sCncY4eGSqtnyHB9aakiZ7VdxeNHZjeTx6yVy3E5hKup3vtTFlpfXrJnWAcQR59aarCaH6QazNmtnT4z5wM8pNFLjOJSNq4pJStQLr+Da8G/wuoPhU2cHmmLLOEe2WfkrAxvCZLNd5L76/dF5gJ12Fc4ogmNv5BM=;Y4zdMNhFXBD36TZIjzxl/w=="
 ---
 

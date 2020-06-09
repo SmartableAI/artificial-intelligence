@@ -23,6 +23,6 @@ images:
     height: 360
     title: "Mount Sinai receives Microsoft AI for health grant to support COVID informatics center"
 
-secured: "WZAYq4VplppyVogtpmsczZQe/ATE8e9L/S0o5QqBwK3o/CyzRB7zbs2C0x9noamsuU6X84CVFquoCoMLFF8OlEckstkIN25PuWRAcyUZ78hd4OwK3gTKqxSXX+JaMheY/f0WL+11Qd9GGH/3vOwlJk/FYFgO9p4ZzaNPRW2uZpjIZlXmahP3yHmugdFWDAZcaZRTB/LQY56b5GRzzQacYuu/Wy/ikYSeVmfDDWI66pM/tWP4pIEM3iuHsBa6ZCJXvnFJ937aJrWAz3A9f3pAucEbiFzommt6UjgpVb15e3/SeLbs5+NInguSst4xZE9E;N6Ro2jOMXsrZzllR+RV0Nw=="
+secured: "f+9O/e76VUnoi0SAd/k0ulXaT/O3YqcqsPacahq1UZb0pqbhZbkRxE6epWZBLHchIz41HN/S12xjTz7zYOVf9NYiglkNrm0eZ6A/P/N1ygpXbMJKI3SRHhpT2mzn/tU3KKvE4yk6Typ6m75cRe/TKr94EGaVNDM7WU6Ojbty4ueMdbmX4AGnm0dYFnky/pDY5ThlZ3d9Rd8UmVhe/WTEMm9kqOZzVQGHHufHSXMFv63Go2RQ6xRLCHFYjR0XQNeTrOG62dGUo5z19EXN90DkYupExJf/fBBuIKGxN399mundcn5WE04Og3cOLnw7BNkNVp/ZJaGINhA2tZzMWgwWhGzPiJK2hxZZbOqNWmTflQI0jSJtf4JWDyFflIgVSMAJQhkhqWk18V6Kt0Li/EVwlaZTI0c0EsNYVwg4dOE0e7aaBxNWOsxtxsMtKorn2wiKgtcW/bK8mvrnBKXKod+ZQqOC/dgEn+w7P19P6PteuVY=;1G2TahtB2oUAGx4t4xotfQ=="
 ---
 
