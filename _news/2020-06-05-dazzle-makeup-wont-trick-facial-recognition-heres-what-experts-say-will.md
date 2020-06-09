@@ -3,7 +3,7 @@ category: news
 title: "‘Dazzle’ makeup won’t trick facial recognition. Here’s what experts say will"
 excerpt: "CV Dazzle makeup's creator said it won’t trick today’s sophisticated facial recognition algorithms. Experts said there are other steps protesters can take."
 publishedDateTime: 2020-06-05T12:09:00Z
-webUrl: "https://www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/?itm_source=36&itm_content=2x4&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/"
 ampWebUrl: "https://www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/?amp"
 type: article
@@ -23,6 +23,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "23YqVFGcAcV07ssO1cSuCV+1ZurrYjPWSqPUlhZ81W4NVHTqgKJeRfOn1U+xpTGqV1wfLca16w6C1IEuTzNThKEbEjIE01JI1FSpTGFqMUsGAGjv25cWGcT+FUiqIUvqXd688V25YZw5Yh5GjCt60kfM25q/qZusPee2fg4+cIvEZRYhQiNvx5BVmDODZCx1OkiTDXE1oDg41OjxWhK9lGTCwg+P9UeJYtswOFHgu12RKEzM8OwNXAkyPdqtI0tr+icux4zHbyc72GEK00jRyC7rN8YN7d50pp+x5x9rh/9gD0i69vVt+NKnO9Ql9QwUDUZ7zDoHrg2JZq7XzdrozbRaJvyDBu1F4a4SQcNe9Bia7dQ0hkXJzThcDq5PTRCL8MuKIVaDHo8dbdtGysDZP4awHmsrtOFMOf3enWu8tNcYKYaSSzy0SGXk9gyVQw1HzLnsUBf0mf03aeTPVuqcVsoePHV5HEQXzX06Jub4npY=;H9OzofJuKOmux4Jvb/K7tQ=="
+secured: "y/wzss7a2lAwyBoWUAvaxHoBHlrmSeSuKizx+X3xT25t73cZ8YD7q4XjSoLq0C5zTZvmMqbC/i6fmckbW9NibOS+P+wIOOjt3+yMLUQuX0cq6zXYXkxuVnlBL20Z9tInqohu5cTvrwaVKYtaYL/v5O08xNMAS4B67NhZtTpO0pnw2FQOYnMozNBG0M//TQHEirafoRkstGqXk716zJIGQAqRGVRxl4NHj3y4AVhr0iOIL9lpmxVKBTNUIKsM5dreBKx3w5/ANSp3jtpX6ouWSChFufPSTAZ1amlP4PB7p7QT49G9uqwuwbdvRkAr4/TWZvzzLDOfs2avrSJU/IQVQnLTj6L2sUOUzc/f6EhL4R4ZuXHjjiKeMRqW1KL9pdDqNU/Pj2NRWid3aEqKnwN1mGb2nbJ9mrkP3h9hcZpz8XWIo4fEIgmjZf7rg32ihN6i5x+DNajQxKHtmGcuh4/Rn8hEvlzAeluYbTdIjRvy/yk=;hnS7nsaH/o0UFCdgiYOCXw=="
 ---
 

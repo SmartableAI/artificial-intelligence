@@ -23,6 +23,21 @@ images:
     height: 810
     title: "Artificial brains may need sleep too"
 
+related:
+  - title: "LANL: Artificial Brains May Need Sleep, Too"
+    excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
+    publishedDateTime: 2020-06-09T00:27:00Z
+    webUrl: "https://ladailypost.com/lanl-artificial-brains-may-need-sleep-too/"
+    type: article
+    provider:
+      name: Los Alamos Daily Post
+      domain: ladailypost.com
+    quality: 39
+    images:
+      - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2020/06/brain.jpg"
+        width: 629
+        height: 425
+
 secured: "b1vfA5+nAh++jm6lPAywMSH/4fym1k/Se7+JLZ3Wz6YKbAcWPDAyagBnwIpYQmDdA9wtHa0hzHGYi4cZDGqE2qeEijvAJQXr6G3ayfJM1O9wdFZecH9XcpCbvTVUdXhz3RSaWA3WNbYT2QY1vdqXyBfgREysdTZd7aOceXYwK1CDUQrHa58pUVLVsgN3RXj4UQNJBC2cvHRv9YBmx4id0e5f+xqX0d0Q77QtnpNedgOky/kf6tiD8tzYQLA8Kd4LW51ko5ZwZwBmyDPlSH5R9YwDDlCKxzOt0ovbEe1V/E9z9yZ63URvU17Rl0dV2Oc+5NPsovvevTVUYTr75jPmkxOg5TrkSqp/UFMgqMp1PVUaQAk3MbApJ+uTOshUBfXet5BffbwgEDdzAkjQDxkPVROtuFvKlV0pKNmhMsnkJJ35Vd5DrfId2htyvLeQA9WMkORbY9TRSUK2ghENpBt/JqHYNSb3M/vESFwANwE2Y10=;FqqihrQBLh9BbAhA2ZWB3g=="
 ---
 
