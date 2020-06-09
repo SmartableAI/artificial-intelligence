@@ -24,6 +24,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/58989840/Photo_98_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Vishal Sikka"
 
 secured: "T0uIOQnNXvL0XCI+vNlDIVPbVOuY6loljiBI8t9zIYqxESBUFDwtIO2FN/37tuTCfGSziOgIM4avHc4QeTseHIoeLvLuneRcwLHJBlRZ83Mpc4oH/A+gUwb4Cnqg3JDM/biDHlXQbEpOI7TNb/kFa0o03U3O7PJgEwA+ryVmnmVu3eMlkC7aENMx6ODgQTokSUwn4wg/spzjOfdYowmBG2gErEFT0VAtgYte9pXc+PYMopTj8juGBIiY7gMudjvrjEMBi4oIks00szRGymPGKuMyWh6t07R6LFQp4WskL/fyejVHOG4ts9A4QMYf2TYso2+WpmmuexrV8kjOaR7rrw==;BbEQKsPrvcxAI/HW8UEjUA=="

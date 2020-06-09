@@ -33,6 +33,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg
     width: 400
     height: 400
+    isCached: true
     title: "Yann LeCun"
 
 secured: "8jJNqkY8sybknzbtBsf72UmAf75fP1yBi8fZeo6G8Zqf7H7mmKCsyD4TubrhfEoEujkPicGA0l4nDspBjdFDwcVl/1GcqloNaU9Sn0GNTUdU7GMtQ70xSPlN22tfjEN+9GbOJ9/UDKWGBj/NYyIF/CD2y1uvGZZL18Mi5OblAL0QYUi215oh/AVrsaIsqD+mPSDxtOdHJHqviPNRbL77KGfdRCsEv7VogJUlv1sNog6UJcNo81lDUO9bE79BLQPmY8FPuzLoJTqfF/Br8YGAdJGp/6gSpRtRSFYKHhnGMkLswQ0sWDwI6r1797Cugx/aIODqYDarcVKGyGISrr4IqQ==;zPygHNGnwxrpjXzgBqqqow=="

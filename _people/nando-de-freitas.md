@@ -28,6 +28,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1210841647224897537/_jraFz64_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Nando de Freitas"
 
 secured: "i/WBT6LlCBKLKPH9TSJ3UEnx5iQN7HVHiF5Rwbh+2/Bok7MqLF6OBclFvPV4Em1yDHib8gOvwCd7kmchfPH8Y5aefi1zJiIETEWHmiOopZCNVo0hbibMbx4E03CFsBRxdMdx914ldKbYdhgV1miiLQCVHzv8/STJNGIcGod7UKa9OWAbuzuxIXNZF2r6U7/pLJGfH2gwojxEXVMsWeq1BhFXdqofPMZI/31LiyNQmJuQZRazGQ56UivLDu3QK9eTMR9Lpz+eACO/7GcyvltlXc60I+SVygHi4YhhRMP9ZVoeZuijrfcD31Ia3XehIcQXcm0wIiGV9M1MypSE6yc4Ww==;99KPfvuNPyE614yzOKZgEw=="

@@ -41,6 +41,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Andrew Ng"
 
 secured: "+3jCdoZdkmIuWW4fwQXZ07aQImRfRWmUUYtU38SlFHgRnUPwY2DnaeIAYtUnFZPrCKrJnrDgFzvNWxWUlKL0vLgU9UPONrMISQyrDbOVTid1lwPAmspEQsuBCN+aZulfFmRW1Yav9aJ7nLXxmt/4YIaJ7eeODVEQ8KTXRVzzxQ7UazPqpBmxZBWXOdtBfkzYl5AJp+pvC10gCYvOw4zYaINLQ608p5x73ik+2QPuArbTnfnqn9Tmj1QCKAg/l2/Dj9pvGQrN6ULtFQ2WHnBcJR2Rfslv6tOPmgzzwvLxApKdLyH3EkCUMJs8JlO0wqBZRVr/YOnQ1Nal89hV+5W+tA==;EdqF6Hb9C/7zoMP8iSHp3A=="

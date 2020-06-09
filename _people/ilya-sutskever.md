@@ -28,6 +28,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1267878101356212225/b1l6KZM4_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Ilya Sutskever"
 
 secured: "rRXluSpkdMMYDvS1c995KBNd/Tp11WBuMxIjildCaCDPS48d5cl/fgm7JG1X3RFGezDx4VUQQX+Ku/LwG0Q8vI1kJ45kmNbYBfjKTROu8R5aTXCbXjfTLH71ST3Hs0ceX0uiYBXGnodjihnfQZz1B2YG5QdpRxXNqxl+NmS/4t7hzbhEHpsvxF3JvhATLUbVG4VG+nNJUXmX2QDWMTChqmR9Md7lQUM7WsV0fHJQyDibfOa4Z0bCcLKGMV6RW84ZGYjlrWCi5tyVKl9FL83f9EdfnE75gQFuCofdj06mnItB3kE5ATu7wLBLEWHZpAhOOk28pwD7q8r3GHgxZRCMkA==;AaySzPjNVqiCrL9Z3XMBeA=="

@@ -27,6 +27,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1173119656665604101/Ke_EP63l_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Chelsea Finn"
 
 secured: "O9qAkLGU94aidu+UHB1FVev663YPfSCoXBRoSjXYrQqWmAtQcHt0KVgFEop4mO1vTBx/8eKEeaXHxT2dfrg5Vd4oWVU7BedfHIGO1TBLuV4aWL0bTtiU5B3fpaqDj521q7RzGJSnmwcwsmGkm/DUVH0Tw9hG3lroVGtkHOg7wOxJ9Wi/dRvmD9KuQFi4noJOxQBOUcSibWt5svJVl4KqEg6N+rAgXHub6x9w30Uf4hTVK+zlbRywTlTv5ACUJOd/f8If/wwxOyKA4Cq6uXwW/nQHn+9nelWXbGUz99PboZwHGtJMJs4IILKWDeMsOYJqk29wOR4C8iiNE7qmcaTTQw==;BoVuTJ+zWFKwsoe3NNjrFw=="

@@ -25,6 +25,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1262944301866086400/_gcktnbe_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Andrej Karpathy"
 
 secured: "3mMsC3FfdqGy6qApOD0Nh0rgIIwMkisVRS/KkF/RRpA2R1wiDfdY6NLLKoSr2i7hBed/42wLkSwuJUFzAvprXtfO4uQMvNl2bbCkcJ3tpuUBEmYFNtwO7yYoFfgvFFI8GwkI/iSXSco8e4Fb766YvFyHFTASVmo1XxeXRP/ruxvikIcM2r70KjHp6NXZV8flTESEShiU/6aL7SWOiNC13csjTr714Hci3KCSXeI9xhhPD8qYy2exlnwObdjS0YBh1ppAdUHjZVjKTqFBwitNQZvJ8AJHN2CjzmUvnM7V5fqc5s+uL1H7MNRwSh+CM82oijp06HOer2X2LURhr016ng==;O216AZxK2fsxoQk0qaPbYw=="

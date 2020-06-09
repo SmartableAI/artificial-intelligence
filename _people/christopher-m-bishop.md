@@ -32,6 +32,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Christopher M. Bishop"
 
 secured: "0VRBaMda45MeSEyicv/nlJ/pk6KUcB9MDVlAL48SB4fgS25KHfe3zexXYMKeQV760kBGtM8pc+Na9TAT61PNjI+IQes14aKAgQALLawqebo6KsrgvBZVtPKwxD7SeuSL0tIpOueJ2fvgJckmUST7X7RN0zlSaVhMsMz1OubwLkfd/ex1bWWlYEVrBTEIfJ8M+PAz0b+3eGBHksJ0fvHFMybEtsrcAx9EUsBCwlc7s3ToHHy6MJMvDU4dLRi4Agj1o2XQtHHGj2xhIorOFZjY7WMT4nI1vXtfuglfL5hhYR38Sp1ebrBqFtnSD6/XSwsia4L8uJwjw9yYlAbxugHgNg==;2w7/Vyz6VCA0x0YQfR41FA=="

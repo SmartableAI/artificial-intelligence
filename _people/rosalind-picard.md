@@ -30,6 +30,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png
     width: 400
     height: 400
+    isCached: true
     title: "Rosalind Picard"
 
 secured: "t4zRatfx5gSn9tcuXAbarFK9o+CvvSFDz5mm/DYeUn/FsDOVpDYal9jHYGCk34L9m+TekLq3IDVk8mjPm3Jzb986CZv2QsGT793Z1Dzyr/O7aqYGJz5Y/A2og2RP6ZfWmPjiqocdEC3kV44W7ohULDaOPgKX/Sir0gEJ6HTKi83MgSK5PzKIgPRWliZd2kFuiAxCGgfCSQArc2L4KmONKX71/yaXTR+vTuhmivOIfARISc+kI2SxodfQxpiQJ2G0fZbKdwScz8bSdDByerEYj57aL3EniPOXwgu3LvaAcOLDYkV/Au6sDF0AkPyhmmlic5cVwX07ypokYl7xFUeqfg==;6GxxvJY/oo8quDpQ0CEasQ=="

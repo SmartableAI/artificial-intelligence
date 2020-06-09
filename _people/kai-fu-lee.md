@@ -35,6 +35,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Kai-Fu Lee"
 
 secured: "DDBbnkWYe0inki1YNP6jpH/3vj/azQa96IEJ0doSFVYhO0lTvMzkz1HHanBFO1tpvwoxvGovibB4ubHkR5HIFKbwhLLk9bwf980pCfArDtQepO9Ta6Obj5dMD7Kq+rXah0W5CktnQfLGw2rRix+MnMY4fYSOV+ioMOkbweJUSMJsOpIdhzsoV9c6HreYDsndvn62bDduOkbCDne9HMb4FyqGnEZVuXFZy7pIEDS/ZXOshbOUZWpRO9pJbJJeTr2CV8y3AIDNskk7CO6fOOHpTwMJULGRfttFOCzwwnRncp9biY7mr0Ei1miI4PEMp3B2sEbprRKRDn0aJ9lwhKEXdw==;u2FskbtQyKHnzbpal6pHJQ=="

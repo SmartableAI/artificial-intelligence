@@ -40,6 +40,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Fei-Fei Li"
 
 secured: "xy7Y69NuuXucq24RiSYrZjZI60Qi0y8xHG/qts+1GjhwOI4whdXCWeEE8q1jfQUx2/RWqtkJAfatyPTXzIBxrXI4s92uL8NLomI5CAkdAWSw71x0+/AzN/8WeM31/htKwkvRPtbPyzLPVcOjaCh1/dTAWiMWQ3qZQoava6xLD9an0GwpUoc6LFADdaaIt4UyrU0iNW4YloHRJVnOybEHPcHkCnPBpcsan6tsvSGu7B94YUvwmPbVqHgV538xUfIcBlYPPvSbe6GtJqls7oUFg5XpgFsu4s0In+XfFV+Jj1EVqkeW3bW2eT1V0OVGEXcZlObp4VAm7Dd/66+kW27PaA==;5CyRv6harJhJvWfpB3SPAQ=="

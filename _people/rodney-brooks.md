@@ -34,6 +34,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1144121553346392064/dwqvhw0H_400x400.png
     width: 400
     height: 400
+    isCached: true
     title: "Rodney Brooks"
 
 secured: "aHixETuW9ORkQL4sy1wnd4jyPID7roWHStrVKXGb/gN8LkqD+VjY9R/hll/DklG4Hs7L6judJZuK2Y8fmEhGAs5dfU6fiOlvmu9v6DoB397BEhkf8K6ONHLex6qC0jENVMDwiSBgbj56AseXk5Yz1Oa/hk+W0nxOxv7cl2QTX1EbMUfBZ9RCqWFN9Pozgq0YvjwSGWNtklOKwCteslIUVDCJECpBW9vjhxNCMI0yK8JYw7B2oJyvcaPqpb4VQFTni5EX+yvqxKk6Fgs3CRfuSnwODvNm5TclHZANkbD6tG+hU7gpU8sNnIwPAUqgdg6ZLmSqYY+XnvSki661QJX2Zg==;NO7LIC4A/wrjCThEh5RYLA=="

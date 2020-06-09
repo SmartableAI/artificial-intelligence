@@ -40,6 +40,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Rajat Monga"
 
 secured: "PwxBzrz25HE+LnCIR3mw3BRDD/2lwTKjJ0iVDzpDMIryTtM9EKOjeDiJxpTozVGl/f4U36yObxswgJ404i+SG21b2/2NUDOP31kk7J5KH2aOCn2op3vY4IYVoPk4WkOUwQsDidPaZGKDgPQnRGAmmM0OCgzR73orNIVtbVCKacrqgFIarMAXmOoJBMcxm4jlccXbBx/JQ0dIBP6ltOLL+7sZjDZ3tV1VGcJ6KEukMlxJbE9p+2JdZU2GBrmIgYDV2Jw6VSVajKLtrIPnuqk6Ur9tPk+FhWMjK6R0Z87bfA+BYLozaKFM078HQnHBJd6Ys0QNQC7q80cHHuYI2D/Ohg==;RzgHHGJCJfEwV6Wx5J4DHw=="

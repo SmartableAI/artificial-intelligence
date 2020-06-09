@@ -33,6 +33,7 @@ images:
   - url: https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg
     width: 400
     height: 400
+    isCached: true
     title: "Alex Smola"
 
 secured: "MgRF6WxrmMWOngk8wp8VoYHUntlsWd7kB2uU37fuhvF1YI+tfMsjq5BmIjAcyQQWtRrdLtxGemYDfFJGwuyuukkNtENwvYS2zOrbe4ZhnGC+spfgc0vWshOcMmsob7FzR4+HKJ8+oyHNP7PCqW5QMLxg28RDOg7d3lbigUT1Ea9jqA6bchRGFwnnQN+UirA6xE+5eDcfN7Dv+/fiQqqPjlTNkHIpZz/yfLu0l9BZA2A69sbUTDStXUkn37M5pmVjmJW/CgvJS+d6jvK3VuHYDmivTQsX2ODzTzq2jW7rCWULhIx7PcxwlvW5MEDB5EZwiZUVUz5+2r2MJQ/idci8oA==;l2TEWWPnOjjhsY1SApp+aQ=="
