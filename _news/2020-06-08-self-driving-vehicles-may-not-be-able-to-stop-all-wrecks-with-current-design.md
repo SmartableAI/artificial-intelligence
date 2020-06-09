@@ -8,7 +8,7 @@ ampWebUrl: "https://whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-
 cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/amp/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,49 +25,6 @@ images:
     height: 720
     isCached: true
     title: "Self-driving vehicles may not be able to stop all wrecks with current design"
-
-related:
-  - title: "Study shows self-driving vehicles may not make roads completely safe"
-    excerpt: "A new analysis suggests perfectly functioning autonomous vehicles can prevent about 34 percent of traffic crashes."
-    publishedDateTime: 2020-06-04T18:31:00Z
-    webUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make"
-    ampWebUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_selfdrivinguber_060420getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Self-driving cars won't be able to make roads completely safe, study finds"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94 per cent of US crashes,"
-    publishedDateTime: 2020-06-05T04:45:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/world/self-driving-cars-wont-able-make-roads-completely-safe-study-finds"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 22
-  - title: "Insurance Institute for Highway Safety: Self-Driving Vehicles Could Struggle to Eliminate Most Crashes"
-    excerpt: "The Insurance Institute for Highway Safety issued the following news release:. But autonomous vehicles might prevent only around a third of all crashes if automated systems drive too much like people,"
-    publishedDateTime: 2020-06-05T15:47:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/insurance-institute-for-highway-safety-self-driving-vehicles-could-struggle-to-eliminate-most-crashes"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 8
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zUrnYUvvgcBkfZ4AMxtK4BG/laGC+iDTZzLm7E0jwX/7yhIdsbupj7omDiIYk8r/+uumGz1fOAi6DJsDT8q0nXQ3UrfKhXg5LWgNIRI+r7o7hD8wGxN0JjwvUiBwh5h8pbL5zC94M/cqeUphmhDJ4eeDPgrBjXreyoM/+FZfyp8c+34FCVFqwBXOFFeAElxqQ3aFteUK3XcBnOSQSDVq7fZ8fJd5J7QalnjMOrmbfyejeiR5G3+ZcyAm0LQ3oKvPV/jHSWOoOTWanDmiSvNjNNWtOOrXI3iAzmjJ7d79TbfFl5lhdwgDD5SpuWt2J/DK5GSTKj/7rtO2btmKD2FO8nbisR6jt4+X7TpW0G9F0eTaRW2qGJ6Eqenb8uv5YnQAqPnocKM+CoyuJKYqcVLv+jI8KKAykYnaM5iTnE4ZE+o3phP9QE7nLq3dB9zrplbILjSlqM0EbK/1P5hsUnDimE18nFQaxgUT7Qf+ftEKSeg=;vJpSlFlcpdSHdfEKpaHuiA=="
 ---

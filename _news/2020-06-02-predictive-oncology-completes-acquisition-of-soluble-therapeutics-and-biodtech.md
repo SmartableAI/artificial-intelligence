@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech"
-excerpt: "Predictive Oncology Inc. (NASDAQ: POAI) (the “Company”) a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery, announced that it has completed the acquisition of the assets of Soluble Therapeutics,"
-publishedDateTime: 2020-06-02T12:50:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech-1029272380"
+excerpt: "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence"
+publishedDateTime: 2020-06-02T12:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16158810"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "hv0/mh2w3wfBUotvif4GR/vNanUUIlSwZvhbwwq3vNSk9Z45XtaeTdWL2RUfWjG9hcaPQKv+TXUURPNM0/aVaQfbSP7ErghUfPKdslY/AGFThNXpny9LHsKJnFqgwKE87YWNXcKllMBz0re699UfuumB/6e8iT566ObLawcJKn5oq7jUxDURqGv3ini/pSgfvKmi/EMCXxZql9L/l30SSUCIZHGDV5r2QiHQDmM/THuy736PX8Z4w31TQoeJiUTLUnoXmbXQLVE/IYdU1Hbp2C0d+w9+1aqbQ7g/d+kWzQLiu0pkjX6VqpLxYiFz4QZS;rZkjTXLBpC/+RskXmgb7nA=="
+secured: "Iie3DRPbAWtje0j3iSstJAEh9A3htRgt3j23LHX4u4CCIrITZLDbF7tvCCuLsBbrV92uaKzb/CUsujNZQccjzL5fyNfbNa25BKjiMXRDYTOyAIDzgvWNIvUcqCa5MjQ3OytLw/dbR/wqeeVzcU3LKCDdXxWfDAnS8iXKJ0B4fDr7jq1ecB6yd8AGCUl3Ki/K145sPXRgdPK/RxpX5xAf2xgt/h8Lvsn2XfpW/HbNfxc/r0/1Fbobq0Jak3BJNQsU50qeRCewC3Cw23CtBZNpZVmhQ2kAT/yd1fWOMwMtzgN4m0fQfHlbAZphHmI0cgL+;21ktMncpJrVzALTBhr2VMg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
     title: "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage"
 
-secured: "ySnVIz3OOPDP1sGa2/EHDjIjpdoEEGIfyyQTC7syQVHl7Idr82ZioPSEcrnKI91k/l/iO0LIDJS6r47cgoStQLeNLi/K5m7oF39rkpF5jDEhgAkWUhW+U3ZB9WpTREVpFlvura0XQ46JIhHXljZIynrgz/4CJmGYbKplZD4YiKQ7DHHiOXkcrYgxN3zwAOdoH3gDiq65sBFe3UfY46Oq4Slry6Kq6EgcvphI8BwE5lgP6rEnj65NxkXooaFVukHePe3WKOR0ouZKDTLYI0OYc3ZgocT1rwaryXbX8Hla7xWIoHM4Zi4XjHZDDxcsc4CX;G4olieIWnzRCR0bRF7zuZA=="
+related:
+  - title: "Microsoft’s robot editors called out for racism after confusing Little Mix singers"
+    excerpt: "Microsoft recently announced it was planning to replace journalists on its MSN news website with artificial intelligence algorithms. However, this decision has already backfired as the software recently chose to illustrate a news story about racism with a photo of the wrong member of the band Little Mix."
+    publishedDateTime: 2020-06-09T11:19:00Z
+    webUrl: "https://www.standard.co.uk/tech/microsoft-robot-ai-editors-jade-thirwall-little-mix-a4463706.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 33
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/06/09/11/little-mix-comp2-0906.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+
+secured: "KIzEHit28lT139SguavvKzlS/1atMaNISfatgpVP0z4RimKp9XXoPe6L6Knq/PADq6+LWX19nhTJKaPUwyE8t+lFpSca3fhQG2RK/bA07iJZxthjJAXQZitawGukBGGOpW5CEPA137wmZVUx7z+4vlZ3YuiOuik5GnW8oZugLH4qWTufJW6trQnyyU+PoDi7mP/A5ZzMUYHhxNgmtWuqgScQ/mAPN9BrAjHYHKGneI57vfcQX4ZGGq7r4CbLqYz8L4WFmCmHXD9781UsGS/wtyfQPWYopNl4Uw2OguGsuV3EJA2qJ+dxe/duUwVdeEhMuKjacHDgSNbEcNTTiannLY7b/goEqxiKkuIsxuKjK749dAoGtILK4xcqQlKD0MGbhCDX8mPCHEuTTPKNQAA64EZxT/PT8lpq1nRrRV66YvLWGInvHUEWKypQOdnyCSwPscgGlMtfUrtPCgYZ5ateY1vqIw1o2Tm0c8RCKXKZLkAnYsH8IyMfTkMMNPzkK4F/;FShlmnN97iIuRzpD9V5/oQ=="
 ---
 

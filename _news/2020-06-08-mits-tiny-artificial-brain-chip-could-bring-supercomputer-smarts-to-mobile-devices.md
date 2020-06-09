@@ -48,6 +48,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "MIT boffins develop new brain chip"
+    excerpt: "Small enough for a mobile phone   MIT boffins have published a new paper that describes a new type of artificial brain synapse that offers performance improvements versus other existing versions, and which can be combined in volumes of tens of thousands on a chip that's smaller physically"
+    publishedDateTime: 2020-06-09T10:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/50970-mit-boffins-develop-new-brain-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/62bd4fbdfdeb3209ced04ea08cfa19c0_L.jpg"
+        width: 620
+        height: 433
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z

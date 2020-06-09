@@ -7,9 +7,9 @@ webUrl: "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-lear
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: Bloomberg
@@ -20,9 +20,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
-secured: "t2u8gP6uMO3/vbTMCR3b0MRBWXT6x5BzdNOg4L08UhgjBhkf6IbUmflgsnzGmv7qI3ky+4qCKIIZFc2IwCXFnMoVtlWYT6pwm+AfvHXK0k8vtP6yg7v9G4xCEfNI1atrl9qhxx2bUnBaWDfJUvNnYvayafp7PMbO/ws+aE4Rcm9Ec0kPgTJ0XeY8iSTyPolkBNLEQgeAVizlnS6Kqe3CBFMYJYctVSNMfhhXF9tAOkgq4tLwbdq4Z98rih+tjCZNSwJgH0j1t31sw4Y9oTTPQeao/g2PCtS+XeCZVVa/gzjo58ENjSK+ks3X7vojkDFnsNj+QvYKfUA/V2i6k0RzG8ryMy0eNw6maGvjP6uXs56E4m4LOBfG64c0UPhPU5HY2bEj+QL15p1lB2lGmgXwihSpJEWD2oL/RlMCQQ2guDrlK9FwH3QZzvLIHYpl3tk9o4dlgTRb5Ss4fiGwoyrz2LD1z/HSLBG4j1AZyWP0uAS9dFQ+QIYyXl5zldexLvlN;VMi3kNqPTbWRjP7G5Xekig=="
+secured: "sQfYodEShKSD7dKHZesXU58X8nuXEreBfT4zD3um8+TmTwYJPVZGm8Si6M+XUA6ziA2bjE20VaULDIzdm/U80FXPk335flkCA7brjQBvAwK4hITxMfZ0a/6EprIknbXMXaWx6uaE83S1n4O+4vG+/4drUsJh9ZXulTYdC/rYzQs8ZlxVtx3OgcfXLdpSX6Gu7rsD6Ic0ti87FEt/OyoBRhmKtpaYTYFEcpZrgoWtoIPjN/Ps1qZyHEu82yVSPK1GXnUgm4AvL40up6K/a9OILUUBkMJh5d1zAb2IEn3VwGWX9WRde98YXVwDFk9jBQvJuZRQeexS4bbtyrALE4oT2JUM+xs9sgGNYKccVa8aOp6WYxX1h66+f9qNyJcxYOe0BD00KFeHreCL67GUCev5/8Ynwu324cIFU3ndVpZL0KveAyRXYYNnNKwEaEPJ/OP0OqdL7pcMIGtBarKFCWVZEGp097T8c3z+Id7pRi0Wi1xJbYBW8jfistp6EYHcIzRg;X9sgk5dfJjSj2lca0ESNpQ=="
 ---
 

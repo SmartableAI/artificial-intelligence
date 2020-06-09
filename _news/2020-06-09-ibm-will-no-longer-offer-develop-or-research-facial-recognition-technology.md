@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
+    excerpt: "IBM has scrapped its facial recognition and analysis software, citing its use in mass surveillance, racial profiling, and \"violations of basic human rights and freedoms.\" In a letter to Congress, CEO Arvind Krishna this week outlined policy proposals aimed at advancing racial equality nationwide, and announced the end of IBM's facial ..."
+    publishedDateTime: 2020-06-09T11:38:00Z
+    webUrl: "https://au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns"
+    ampWebUrl: "https://au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
+    cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/67223/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_xyg2.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "IBM stops work on facial recognition over human rights concerns"
     excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
     publishedDateTime: 2020-06-09T01:08:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
+    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
+    publishedDateTime: 2020-06-09T10:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
+    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "IBM Will No Longer Offer Or Develop Facial Recognition Software In Pursuit Of Racial Justice Reform"
     excerpt: "CEO Arvind Krishna wrote a letter to Congress calling for police reform, as the company stressed its opposition to the use of facial recognition for mass surveillance and racial profiling."
@@ -331,6 +363,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "IBM Is Dropping All Facial Recognition Research and Development"
+    excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."
+    publishedDateTime: 2020-06-09T11:36:00Z
+    webUrl: "https://www.ign.com/articles/ibm-dropping-facial-recognition-research-development"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 19
 
 secured: "hv9pHenEU3OZs2PsAdDlOdQwxmO1KMIo1eSwzCiRex4ibU2y7loAeNRntEdWyu4dyW9aFOqLiIeRZEZqBUAetVxw4i0/lPXeEaLaajw3WwuPw8WAPxBieeoMvHKgFXCDGab86wds+N2iqjfTPySLBZi+rij7PwXwD6CTy6DrvU5lxMkMP6uZTpzIWBKI/pLYeRh7F37qLYIqfyS/F5qGT4EWwtf0/A+UaD52Av6fWfHgqVQU3Q7qdnNFwA3UbjwdV0wyJqIFwleM5+VMF0xORhYJjL7WnGU1Qq8BXq+kJ5c3JINMlTJcM2yuplvlyXHhFvbBTGfITIbNpBKpxduYdNFKvqPKOCKcRvcDd43y2Ct6eRmv1ie01BDFPvBLkTcPHhL9ba43H1MGgW5uFU+t+s+ipxfZcxIRlL28sVfRxg+SosoHlnVbw1P4cIZZcm+ZVzmgc7CX3xdR2x2r7sMNesmCDTm2Xx3HkmBvBjBgbtU=;l0wFb8QqamAwxtT37oyvIA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200608/Sleep-is-also-essenti
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Sleep-is-also-essential-for-artificial-brains-shows-study.aspx"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_332409741.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Artificial brains may need sleep as much as we do in the future"
+    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
+    publishedDateTime: 2020-06-09T10:46:00Z
+    webUrl: "https://knowridge.com/2020/06/artificial-brains-may-need-sleep-as-much-as-we-do-in-the-future/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."

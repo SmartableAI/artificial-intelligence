@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "IBM Pulls Plug on Facial Recognition Technology"
+    excerpt: "IBM will no longer offer its facial recognition technology for general-purpose use, and has called for a national dialogue on whether it should be used at all."
+    publishedDateTime: 2020-06-09T11:01:00Z
+    webUrl: "https://www.thestreet.com/investing/ibm-facial-recognition-technology"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/SB6I3e5B-720.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Senator presses controversial facial recognition company on use on protesters"
     excerpt: "Sen."

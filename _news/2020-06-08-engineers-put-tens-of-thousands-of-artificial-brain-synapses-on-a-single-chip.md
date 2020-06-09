@@ -52,6 +52,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MIT boffins develop new brain chip"
+    excerpt: "Small enough for a mobile phone   MIT boffins have published a new paper that describes a new type of artificial brain synapse that offers performance improvements versus other existing versions, and which can be combined in volumes of tens of thousands on a chip that's smaller physically"
+    publishedDateTime: 2020-06-09T10:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/50970-mit-boffins-develop-new-brain-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/62bd4fbdfdeb3209ced04ea08cfa19c0_L.jpg"
+        width: 620
+        height: 433
+        isCached: true
 
 secured: "TCM5Zc6+B6ycKd8E9KvBZ2neGhtkhQ6pXoRuL+oroabDIMI9eZn2KyGMHLZQr5pcqyIZzlnFqLIB8kYUJp3/y20e+zD9ungrSnd/SG9n5eCLOKkJXdwQnlYmlJdbkitYCFrul6bIoLaAmBtoge+Jx8KF3V85b7chHCCBBSiP3n/5C9r4gPqnySCDFeZwOve5i5K1EwtGfHT+T8k2yjahKEUUlEk7dl+gaqlbz4/BMWeHScs78BBAyQX2KpxfeLtTaiSyaXA9bhD2QZ8S7AO8u4mJicVFmY6/jYZo9KSuYjup7WHOyxRx2AoHL3ZQDl+TpKcvHGbBfxzYXFuNXIRXUJF4zJY2dwUWBgki2yyYeFdJ6OH0TakD3Vxs+yTgZTDYANWzNb3Eax25cUd+Tiy5vwzB7NzS9+St3OSErXXVt8v1GowG3e4bgBkuJ5IYQrKuM6LIFuzwFBa1/g+U4Ebd//ngu2VUPBg/9FXpA2UUvAo=;n5XIO3+D0TTHI4XhtbXySA=="
 ---

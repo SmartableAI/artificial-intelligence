@@ -43,7 +43,51 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Flipkart's voice assistant to help people shop for grocery"
+    excerpt: "The Voice Assistant for grocery is currently available to all English and Hindi users using Flipkart's mobile app on android devices and will be gradually made available on iOS and the website."
+    publishedDateTime: 2020-06-09T11:15:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/jun/09/flipkarts-voice-assistant-to-help-people-shop-for-grocery-2154307.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/4/3/w600X390/Flipkart_Reuters.JPG"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Voice assistant to help you shop on Flipkart"
+    excerpt: "Homegrown etailer Flipkart on Tuesday introduced voice assistant capability on its platform to make consumer's e-commerce journey simpler and more natural. Introduced in Flipkart's grocery store Supermart,"
+    publishedDateTime: 2020-06-09T10:19:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/voice-assistant-to-help-you-shop-on-flipkart.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 24
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/voice-assistant-to-help-you-shop-on-flipkart-2020-06-09.jpg"
+        width: 1000
+        height: 800
+        isCached: true
+  - title: "Flipkart introduces voice-assisted shopping in Hindi and English on Supermart, its grocery store"
+    excerpt: "Flipkart, has introduced a voice assistant on its grocery store, Supermart, enabling consumers to discover and buy products more easily, using voice commands. The voice assistant for grocery is curren"
+    publishedDateTime: 2020-06-09T11:15:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/flipkart-introduces-voice-assisted-shopping-in-hindi-and-english-on-supermart-its-grocery-store/article31786876.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 11
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/xvnx4i/article31786875.ece/ALTERNATES/LANDSCAPE_615/BL10FLIPKART"
+        width: 615
+        height: 384
+        isCached: true
 
-secured: "qihAOfuXX8eWf4r7sS2KK9Qq8Cx0kUu4MxPyVWORZYG7wSMF4eZJkvdve1wEFVSxM1IE9SvrwQwCkewnRjawl3aUOSjnOtRS6epuHniwPSjWRKqlf/6qebubSbcMRsbPEa8MpnRHadoaIpLN7YpdSY0hsPMFHcgIiWHqP7robKuOtI0kpvs9I5TT8Zp6Xie8Sq/zMLB8ij1omAXI7Sf8QEsfgwmEmF2VCb4wgOtL4qjCaIEWQ/O7wn5c1dwwHYxOT+jnFlKZ0u8D3+TraOBJtwZsvWix5Z8xpOP5deRuZtlYweE60ZDX569eQr1GjZdt;rdcnXGLodeVRi54HlSHVeA=="
+secured: "JNRL4J5AFie/eMC1J75YAEfgFo/mEP+ACWtWKFuC9ie1Kf4wx2FTGOPgjUIRDPUgw+fFxl5Ny76pu52sli32iUD/iCK8qZ+GzPB9c0ZHigVnOuEVtJzrqetR2X8+YNQJKi6pgd4pMKQe4MRKkvEbsWkmhRCS9B75xlLgEmn8ql+RjYrMqONZBMIzuUZTY1kaooozVlnILfLx+tAAZ4p5BgXRA86+37jp6IyKTPBHV4LDwhfXyKM/nwgiddHHX/nuFBmXij2FK2mNtEbWyjdzK9gHxGHVJKoPPp5sQTDCuLUCKQm/dMwCXXjntKSdQPFODEvN35I9RBnm6B/4GHc21mPVgRR3xGS+E5eK42JP4cnKao4oTFi++GAdSdtPzZ+Dqlj96LfhQ0r7XJYMCTWDOnrVNPHXucpzwx0VbmcaqAJYLaOi9g9asjP3i8s611YAKl63c0+HTn3U9hURbAmmcdIJNBEJVh0Cv/U4Dik+cA9nk7g5FC5ta6+vxITHMcC5;ky6OWe7d0FQkkAxJgXbTDA=="
 ---
 
