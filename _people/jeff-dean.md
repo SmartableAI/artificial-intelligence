@@ -31,10 +31,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=NMS69lQAAAAJ&citpid=3
-    width: 102
-    height: 126
-    title: "Jeff Dean"
   - url: https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg
     width: 400
     height: 400

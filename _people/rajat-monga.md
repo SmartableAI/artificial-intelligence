@@ -37,10 +37,6 @@ topics:
   - TensorFlow
 
 images:
-  - url: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=W8yZCNsAAAAJ&citpid=2
-    width: 400
-    height: 400
-    title: "Rajat Monga"
   - url: https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg
     width: 400
     height: 400

@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 52817
+  followers: 52818
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
@@ -25,11 +25,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=x04W_mMAAAAJ&citpid=12
-    width: 128
-    height: 109
-    title: "Ilya Sutskever"
-  - url: https://pbs.twimg.com/profile_images/1135299033352720384/7DdnpOBp_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1267878101356212225/b1l6KZM4_400x400.jpg
     width: 400
     height: 400
     title: "Ilya Sutskever"

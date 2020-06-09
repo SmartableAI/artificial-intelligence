@@ -33,11 +33,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=1zmDOdwAAAAJ&citpid=4
-    width: 128
-    height: 128
-    title: "Christopher D Manning"
-  - url: https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_normal.jpeg
+  - url: https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg
     width: 400
     height: 400
     title: "Christopher D Manning"

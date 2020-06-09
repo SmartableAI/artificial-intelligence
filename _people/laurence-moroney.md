@@ -22,7 +22,7 @@ topics:
   - TensorFlow
 
 images:
-  - url: https://pbs.twimg.com/profile_images/833813140081029120/LQHZlMZE_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1267872415758991360/8NiSWIKQ_400x400.jpg
     width: 400
     height: 400
     title: "Laurence Moroney"

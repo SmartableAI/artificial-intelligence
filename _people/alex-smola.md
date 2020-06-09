@@ -30,10 +30,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=Tb0ZrYwAAAAJ&citpid=2
-    width: 85
-    height: 128
-    title: "Alex Smola"
   - url: https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg
     width: 400
     height: 400

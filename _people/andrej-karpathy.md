@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/949761503292370944/jNCD5LL0_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1262944301866086400/_gcktnbe_400x400.jpg
     width: 400
     height: 400
     title: "Andrej Karpathy"

@@ -15,7 +15,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/872536266381770752/OXMZTl7c_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1246157692613230592/vZdR1BUd_400x400.jpg
     width: 400
     height: 400
     title: "Mariya Yao"

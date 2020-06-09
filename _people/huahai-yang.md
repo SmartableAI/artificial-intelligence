@@ -29,10 +29,6 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://scholar.google.com/citations/images/avatar_scholar_128.png
-    width: 128
-    height: 128
-    title: "Huahai Yang"
   - url: https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg
     width: 400
     height: 400

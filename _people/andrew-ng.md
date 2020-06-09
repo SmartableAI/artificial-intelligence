@@ -21,7 +21,7 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 494594
+  followers: 494595
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
@@ -38,10 +38,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=mG4imMEAAAAJ&citpid=1
-    width: 117
-    height: 128
-    title: "Andrew Ng"
   - url: https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg
     width: 400
     height: 400

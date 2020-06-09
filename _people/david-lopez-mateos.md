@@ -23,10 +23,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=P6krKIkAAAAJ&citpid=2
-    width: 128
-    height: 89
-    title: "David Lopez Mateos"
   - url: https://pbs.twimg.com/profile_images/1082941401040650241/SSPcU9t1_400x400.jpg
     width: 400
     height: 400

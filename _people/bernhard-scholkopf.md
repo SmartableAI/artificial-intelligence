@@ -23,10 +23,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=DZ-fHPgAAAAJ&citpid=2
-    width: 105
-    height: 127
-    title: "Bernhard Schölkopf"
   - url: https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg
     width: 400
     height: 400

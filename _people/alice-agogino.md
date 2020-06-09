@@ -17,7 +17,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_normal.jpeg
+  - url: https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg
     width: 400
     height: 400
     title: "Alice M. Agogino"

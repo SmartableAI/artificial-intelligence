@@ -30,11 +30,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=WLN3QrAAAAAJ&citpid=2
-    width: 115
-    height: 128
-    title: "Yann LeCun"
-  - url: https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_normal.jpeg
+  - url: https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg
     width: 400
     height: 400
     title: "Yann LeCun"

@@ -22,11 +22,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=q_wYjF8AAAAJ&citpid=1
-    width: 77
-    height: 126
-    title: "Francisco Matorras"
-  - url: https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_normal.jpeg
+  - url: https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg
     width: 400
     height: 400
     title: "Francisco Matorras"

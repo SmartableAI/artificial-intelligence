@@ -14,7 +14,7 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 77963
+  followers: 77964
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
@@ -25,7 +25,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1532482636/DSC_0549_037_normal.JPG
+  - url: https://pbs.twimg.com/profile_images/1210841647224897537/_jraFz64_400x400.jpg
     width: 400
     height: 400
     title: "Nando de Freitas"

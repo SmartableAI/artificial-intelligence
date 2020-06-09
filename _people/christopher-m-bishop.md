@@ -29,10 +29,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=gsr-K3ADUvAC&citpid=2
-    width: 106
-    height: 129
-    title: "Christopher M. Bishop"
   - url: https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg
     width: 400
     height: 400

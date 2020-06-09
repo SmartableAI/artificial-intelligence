@@ -25,10 +25,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=JicYPdAAAAAJ&citpid=2
-    width: 96
-    height: 128
-    title: "Geoffrey Hinton"
   - url: https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg
     width: 400
     height: 400

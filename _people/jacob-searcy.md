@@ -27,10 +27,6 @@ topics:
   - AI
 
 images:
-  - url: https://scholar.google.com/citations/images/avatar_scholar_128.png
-    width: 128
-    height: 128
-    title: "Jacob Searcy"
   - url: https://pbs.twimg.com/profile_images/1136398150929829888/ZdXbIrnl_400x400.png
     width: 400
     height: 400

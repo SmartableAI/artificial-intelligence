@@ -26,10 +26,6 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=GTtW9H0AAAAJ&citpid=1
-    width: 128
-    height: 128
-    title: "Javier M. Duarte"
   - url: https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg
     width: 400
     height: 400

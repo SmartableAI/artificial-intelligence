@@ -26,11 +26,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://scholar.google.com/citations?view_op=view_photo&user=EZjSxgwAAAAJ&citpid=2
-    width: 128
-    height: 84
-    title: "Kyle Cranmer"
-  - url: https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_normal.jpeg
+  - url: https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg
     width: 400
     height: 400
     title: "Kyle Cranmer"

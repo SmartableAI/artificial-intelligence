@@ -21,10 +21,6 @@ topics:
   - AI
 
 images:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VishalSikkaSapphireOrlando2010.jpg/440px-VishalSikkaSapphireOrlando2010.jpg
-    width: 440
-    height: 293
-    title: "Vishal Sikka"
   - url: https://pbs.twimg.com/profile_images/58989840/Photo_98_400x400.jpg
     width: 400
     height: 400
