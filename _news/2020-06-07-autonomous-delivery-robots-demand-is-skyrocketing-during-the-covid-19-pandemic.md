@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-07T13:20:00Z
 webUrl: "https://www.linkedin.com/pulse/autonomous-delivery-robots-demand-skyrocketing-during-bernard-marr"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,49 @@ images:
     width: 1280
     height: 614
     title: "Autonomous Delivery Robots - Demand Is Skyrocketing During The COVID-19 Pandemic"
+
+related:
+  - title: "Amid the coronavirus pandemic, many companies could replace their workers with robots"
+    excerpt: "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ..."
+    publishedDateTime: 2020-06-06T13:51:00Z
+    webUrl: "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167"
+        width: 2318
+        height: 1546
+  - title: "Rise in robotics is helping companies survive the pandemic"
+    excerpt: "Robotics companies are seeing a sharp incline in sales and product requests as companies try to maintain business with fewer workers in the building."
+    publishedDateTime: 2020-06-08T17:17:00Z
+    webUrl: "https://www.thedenverchannel.com/rise-in-robotics-is-helping-companies-survive-the-pandemic"
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 54
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2bddabf/2147483647/strip/true/crop/3360x1764+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb7%2F38%2F33d06f8d4fa6aff7e93c4b40785d%2Frobots2.png"
+        width: 1200
+        height: 630
+  - title: "Rise of Robots and AI in the Coronavirus Era"
+    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
+    publishedDateTime: 2020-06-08T10:34:00Z
+    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
+        width: 1280
+        height: 720
 
 secured: "EXeUv+zX1CJewDgd0EUmpNKurIw3KlhYpLxRnVG5lkh9fvUC2VgXX9HPvV2zNJaLQqJD3RZWGGDm9sRFsQu+MYQ60vcTUxTWPFRwpABnaJUb2CjM4Dfvu3b99sbyiRpghEulE24bV7Xq9F45NCPkWnPCNTnPPYOwj0AutRiNi0B+H8NTspYF1Ou2usYSCjHR26Mqv6Q+Q4lAVEkGJGr5IxaGphRLDDkisqiVzzV6UXp+n0bYQaZC+yUZAQJFcAUBHhAZKcxj1+Fr/3+rIMzBa387ZqK1ag2Zz6Rore/Ilu0ww5h06HsZYXD8vKIToTpaP61eTxuAM/N/AkWhBjQ8Vu0tdE/iFoWEXlLuiSCpm06aW0ML01FQx3taNerYdlj4Rj0dJFQ+AgLzkfnnoiGCtUL5V9+recVqpN8dNOcMsQX58tlZF/IY6YK1+Cg6xviQ8UyrF1bGl+EjIMrFO4ZmtZpMkZRrUpisUl3w8RRleK4=;q7UnzD5O5O/K8xnLhQXhtg=="
 ---

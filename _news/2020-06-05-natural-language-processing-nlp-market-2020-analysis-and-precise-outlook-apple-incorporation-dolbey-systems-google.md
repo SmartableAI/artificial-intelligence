@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Natural language processing (NLP) Market 2020 Analysis and Precise Outlook: Apple Incorporation, Dolbey Systems, Google"
 
+related:
+  - title: "Global Far-field Speech Recognition Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
+    excerpt: "Jun 07, 2020 (CDN Newswire via Comtex) -- Global Far-field Speech Recognition Market 2020 by Company, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2020-06-07T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-far-field-speech-recognition-market-2020-industry-analysis-by-key-players-product-type-application-regions-and-forecast-to-2026-2020-06-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
 secured: "kfYsLO3+SmQJuwotWow0PWK6jR04oTZt5wmqiWmrDxM/5SqyCH0ku1ompWEjdAj1fFhePyONxc/3HkED3n/osQqhCMAmr7PJYJ5FZRmZz4hHghPV+Usysc5MiWzbiadGMxUGqEozN8alpAuO3tL0HoJv/u7YfE/+WopyWmFuUT0ZqeYH2moGTYMQ1m9yDcv6PViF0p1t2lUSy3jB0seto+r7K7dSuKZZmti81qqpdOg7bDOiRBDbrSaaIvo3xra291ROz59YSo+7OOsXFHFc4UTOUlAasW725TlWY4tM5iJN/+NUDWY57mVTdIkCaB1B;9sUmF8t9ZoiMrUfLOdXlYw=="
 ---
 

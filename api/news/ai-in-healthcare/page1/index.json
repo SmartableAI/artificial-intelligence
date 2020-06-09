@@ -5,7 +5,7 @@
       "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
       "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
-      "heat": 102,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
@@ -50,7 +50,7 @@
       "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
       "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
       "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
-      "heat": 83,
+      "heat": 113,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
@@ -80,7 +80,7 @@
       "path": "_news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic.md",
       "title": "Artificial intelligence, healthcare and the pandemic",
       "excerpt": "The coronavirus crisis demands a regulatory framework for the application of AI to protect public health without jeopardising human rights.",
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic",
@@ -101,6 +101,51 @@
           "width": 1108,
           "height": 570,
           "title": "Artificial intelligence, healthcare and the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025-2020-06-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
           "attribution": null
         }
       ],
@@ -1195,53 +1240,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
-      "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-      "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-17T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

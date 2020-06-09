@@ -2,208 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-14-police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.md",
-      "title": "Police searched for suspects in unapproved trial of facial recognition software",
-      "excerpt": "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand. This week, RNZ revealed police did not have any of the necessary clearance from their bosses,",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.html",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html",
-      "publishedDateTime": "2020-05-14T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software/_jcr_content/par/image.dynimg.768.q75.jpg/v1589488860627/GettyImages-1083059548-nz-police-car-generic-crime-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": "Police searched for suspects in unapproved trial of facial recognition software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
-      "title": "Uber introduces AI to make sure its drivers wear face masks",
-      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "publishedDateTime": "2020-05-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Uber introduces AI to make sure its drivers wear face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-simcam-1s-security-camera-hands-on-ai-facial-recognition-and-super-loud-siren.md",
-      "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-      "excerpt": "The Simcam 1S security camera is solid with a nice look and feel to the camera body. It is slightly smaller than the Netvue Orb 1080p I looked at earlier this week, a similar size",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/simcam-1s-indoor-security-camera/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "publishedDateTime": "2020-05-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/603e9526-85f7-4709-bde3-eb6cf52ca7c4/resize/1200x900/35115003e97135c8e3aca57eb8e51b94/simcam-1s-security-camera-eileen-brown-zdnet.png",
-          "width": 1162,
-          "height": 900,
-          "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-uber-to-use-facial-recognition-tech-to-determine-if-drivers-are-wearing-masks.md",
-      "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
-      "excerpt": "Chiara Sottile Riders and drivers on the Uber platform will have to verify they are abiding by new COVID-19 safety guidelines, including wearing a mask or face cover and regularly washing or sanitizing their hands,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-13-coronavirus-news-n1205916/ncrd1206346",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1205916",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1205916",
-      "publishedDateTime": "2020-05-13T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg",
-          "width": 560,
-          "height": 359,
-          "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-to-use-google-lens-to-copy-and-paste-handwritten-notes.md",
-      "title": "How to use Google Lens to copy and paste handwritten notes",
-      "excerpt": "Google has just launched an update for its object recognition too, Google Lens. The AI-powred camera assistant is now able to copy and paste your handwritten notes and memos from paper to your ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes",
-      "ampWebUrl": "https://www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes?amp=true",
-      "cdnAmpWebUrl": "https://www-androidpit-com.cdn.ampproject.org/c/s/www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes?amp=true",
-      "publishedDateTime": "2020-05-12T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidPIT",
-        "domain": "androidpit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fscl01.fonpit.de/userfiles/7640001/image/google-pixel-4/AndroidPIT-Google-Pixel-4-Camera-w810h462.jpg",
-          "width": 810,
-          "height": 462,
-          "title": "How to use Google Lens to copy and paste handwritten notes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-12-nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g-and-5g.md",
       "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, together with",
@@ -1211,7 +1009,176 @@
         "Computer Vision",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
+      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
+      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-massive-growth-of-computer-vision-market.md",
+      "title": "Massive Growth Of Computer Vision Market",
+      "excerpt": "CHICAGO May 01 2020 databridgemarketresearch com announces the release of the report Computer Vision Market Size Share Trends Analysis Report By 2027 This Computer Vision market research report proves to be a very significant component of business strategy This Computer",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2031768/massive-growth-of-computer-vision-market-competitive-outlook",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-a-facial-recognition-company-wants-to-help-with-contact-tracing-a-senator-has-questions.md",
+      "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+      "excerpt": "That said it's in discussions with federal and state agencies to help with contact tracing of people infected with the coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-company-wants-help-contact-tracing-senator-has-questions-n1197291",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1197291",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1197291",
+      "publishedDateTime": "2020-04-30T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_18/3327421/200428-ONE-TIME-USE-hoan-ton-that-clearview-ai-cs-841a_e6b4c42a3fac6df661c90396ffe47bb8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-deep-learning-brings-a-new-dimension-to-machine-vision.md",
+      "title": "Deep learning brings a new dimension to machine vision",
+      "excerpt": "At VISION 2018, the camera was demonstrated as an AI-based object recognition system. Also introduced at show, FLIR’s FireFly integrates Intel’s Movidius Myriad 2 vision processing unit (VPU) onto which trained neural networks can be directly loaded.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.laserfocusworld.com/home/article/16556323/deep-learning-brings-a-new-dimension-to-machine-vision",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "laserfocusworld.com",
+        "domain": "laserfocusworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

@@ -26,21 +26,34 @@ images:
     title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
 
 related:
-  - title: "IIHS study finds self-driving cars may only avoid a third of crashes"
-    excerpt: "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else."
-    publishedDateTime: 2020-06-04T16:45:00Z
-    webUrl: "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
-    ampWebUrl: "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
+  - title: "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars"
+    excerpt: "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ..."
+    publishedDateTime: 2020-06-06T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
-        width: 600
-        height: 350
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg"
+        width: 1200
+        height: 675
+  - title: "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars"
+    excerpt: "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution."
+    publishedDateTime: 2020-06-08T16:24:00Z
+    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Self-driving cars address only a third of crashes, according to study"
     excerpt: "The primary objective for self-driving cars, at least the ones pushed by proponents of the technology, isn’t the convenience of the driver or passenger. That is just one of the goals or even"
     publishedDateTime: 2020-06-05T10:13:00Z
@@ -56,89 +69,71 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
         width: 1280
         height: 800
-  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
-    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-04T21:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+  - title: "The Three Top Ways That Cyber-Hackers Will Criminally Make Money Off Of Self-Driving Cars"
+    excerpt: "We are all somewhat numbed by the continual announcements about cyber-hackers that have broken into an online database and stolen our personal information, oftentimes doing so via attacking credit reporting agency databases,"
+    publishedDateTime: 2020-06-08T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self driving cars will only stop a third of US crashes"
-    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-08T10:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
-        width: 620
-        height: 463
-  - title: "Self-driving cars might only prevent a third of crashes, study shows"
-    excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
-    publishedDateTime: 2020-06-05T09:17:00Z
-    webUrl: "https://www.iol.co.za/motoring/f1-grand-prix/self-driving-cars-might-only-prevent-a-third-of-crashes-study-shows-49001225"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053476626%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Here's Why Our Gleaming Self-Driving Future Has Been Delayed Indefinitely"
+    excerpt: "Autoweek attended a great number of these demos in the early part of the decade, and watched as developers and CEOs hedged and carefully promised everything ranging from a revolution in driving in mere years to some form of narrow use of autonomous tech in the far future once the legislative framework emerged from the dark ages and allowed for some nationwide uniformity."
+    publishedDateTime: 2020-06-08T10:34:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32782600/why-level-5-autonomous-driving-has-not-happened/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 24
+      name: Autoweek
+      domain: autoweek.com
+    quality: 43
     images:
-      - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
-        width: 651
-        height: 366
-  - title: "Self-driving cars could only prevent a third of US crashes: study"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
-    publishedDateTime: 2020-06-06T01:47:00Z
-    webUrl: "https://timeslive.co.za/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lead-paris-saclay-autonomous-lab-new-autonomous-electric-and-shared-mobility-services-embargo-10h30-uk-150519-28-1591375164.jpg?crop=1.00xw:0.893xh;0,0.0406xh&resize=1200:*"
+        width: 1200
+        height: 603
+  - title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
+    excerpt: "The company saw the coming of cloud computing, and now it is witnessing the latest wave of artificial intelligence, although at least one executive believes that growing use cases are moving into a phase where the tangible benefits of AI in the enterprise are real."
+    publishedDateTime: 2020-06-05T22:16:00Z
+    webUrl: "https://siliconangle.com/2020/06/05/dell-and-intel-answer-the-call-for-ai-by-building-specific-solutions-for-real-problems-cubeconversations/"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 24
-  - title: "Report: Self-driving cars will only prevent a third of all crashes"
-    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
-    publishedDateTime: 2020-06-07T18:43:00Z
-    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
-    type: article
-    provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
     images:
-      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
-        width: 750
-        height: 500
-  - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
-    publishedDateTime: 2020-06-04T16:27:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-cars-could-only-prevent-third-us-crashes-study-says"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Lisa-Spelman-and-Ravi-Pendekanti-2020.jpg"
+        width: 1667
+        height: 938
+  - title: "Mateon Announces an Expansion to its Pharmaceutical Manufacturing AI Camera Grid by Including Contact Tracing to Ensure Worker Safety"
+    excerpt: "TracePoint vision grid will identify workers who came in contact with a sick coworker and alert operational staff. -- Mateon’s patented AI camera grid system is similar to Amazon’s technology but at a fraction of the cost."
+    publishedDateTime: 2020-06-08T09:00:00Z
+    webUrl: "https://apnews.com/8a2ca332d267671ee1c02c7e6a6420f0"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
-        width: 800
-        height: 600
-  - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
-    excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
-    publishedDateTime: 2020-06-04T14:06:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs/"
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
+    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
+    publishedDateTime: 2020-06-08T09:41:00Z
+    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
     type: article
     provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 4
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 2
 
 secured: "gCOSsUkYP4oC4M8ssgLVtYlzMLFMgNcBIWDfBP5kHz/ONeflW1NGautJcOGgpfD2oyLBqx+P2/6inF/DhAB1MmPemC1f1IQSsKUMIJSSEFw5OPgdKfPYSs+7/h6x+LlCM8MR86DoNq2Pq0b1pj6A6gvWAcHzIOO2E5OBF3RU/jg3V1rMollWQEkwCwfiu31nVLmjcjAqVe1uwx8fMhZZL62z3nxmoG9zTT1gInsvd7Bl8QLVoR8kSWm/PEMs0tbRzhBF0mY0CliW1XJhaDKrSo5iAsMcUZ++ahJbWY+cutILC9s4lFIfjDverenqNf/wz0SQZV+jPh9xrV6W0qblHKM6o6GP0E7Z5TxWOw72GJhxxnuZdnQb2/5+Ah4uNm44sFyRZi2vD7cGp5+F8sjuzUfoB/w8CZHOp/kZudiho3QNwyzwYdvpu4pFAlov4dD8YGtSc0vhjCS3/MLDRBg+F2LsCOkmNqlqm7KccHYr1u8=;Jv1+3rNnmOYuaKGQx2YOIw=="
 ---

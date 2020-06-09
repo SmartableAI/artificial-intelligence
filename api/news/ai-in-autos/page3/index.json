@@ -2,133 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
-      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
-      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
-      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
-      "publishedDateTime": "2020-05-19T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inside EVs",
-        "domain": "insideevs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
-      "title": "Americans don't know why they don't trust self-driving cars",
-      "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/pave-self-driving-car-survey-154045444.html",
-      "ampWebUrl": "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
-      "publishedDateTime": "2020-05-19T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8",
-          "width": 600,
-          "height": 400,
-          "title": "Americans don't know why they don't trust self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
-      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "publishedDateTime": "2020-05-19T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
       "title": "As Machines Get Smarter, How Will We Relate to Them?",
       "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
@@ -1280,6 +1153,125 @@
           "width": 1200,
           "height": 630,
           "title": "North America Self-driving Car Market 2024 Size, Future Outlook of the Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-port-automation-technology-demonstrated-by-cosco.md",
+      "title": "Port Automation Technology Demonstrated by Cosco",
+      "excerpt": "The successful trial runs of a new automated driverless container truck operating on a 5G platform illustrated yet again the opportunities for port automation. The technology, which is being developed jointly by Cosco Shipping Ports Limited,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "width": 643,
+          "height": 361,
+          "title": "Port Automation Technology Demonstrated by Cosco",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
+      "title": "Waymo raises another $800 million for self-driving cars",
+      "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "ampWebUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "publishedDateTime": "2020-05-12T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg",
+          "width": 8702,
+          "height": 4895,
+          "title": "Waymo raises another $800 million for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
+      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
           "attribution": null
         }
       ],

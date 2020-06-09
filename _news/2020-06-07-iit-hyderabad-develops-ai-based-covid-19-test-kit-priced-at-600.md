@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/science/iit-h-develops-ai-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/iit-h-develops-ai-based-covid-19-test-kit-priced-at-600/article31773056.ece/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 615
     height: 384
     title: "IIT-Hyderabad develops AI-based Covid-19 test kit priced at ₹600"
+
+related:
+  - title: "IIT-H researcher develops Artificial Intelligence driven COVID-19 test kit"
+    excerpt: "H claims the tests can be performed at an affordable cost and that the test kit can produce results in just around 20 minutes for symptomatic and asymptomatic patients."
+    publishedDateTime: 2020-06-07T05:41:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/jun/07/iit-h-researcher-develops-artificial-intelligence-driven-covid-19-test-kit-2153282.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/jun/07/iit-h-researcher-develops-artificial-intelligence-driven-covid-19-test-kit-2153282.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2020/jun/07/iit-h-researcher-develops-artificial-intelligence-driven-covid-19-test-kit-2153282.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/5/w600X390/AP20143492593570.jpg"
+        width: 600
+        height: 390
 
 secured: "OJIUZat9c6gf5i1EUPNDL7YnnSaqwD54A32aGsHlYEL5XTqsWSKIEoB2NlJoQPE6UUYjc0UooymKMD5oTY00JO+0XshkO5lPOZYG+4g5OyQF9mYSXkzSu0QsFnAEsuBdqFGoyWpT0DtzEszpy7kDnE4iuL2u6ZQsHdsjtGLDM3wjWtcmSTUuCNF2dtsGhCzCzDz7xvUxI/g0TMtB6N3F7g3mJIYoZeAtr2dci9F3fijODAMUOStT4Beo19ujPLE+dS2ISQxbMtfeR8GbC+exxz7/k1W0/gj1mJ41prnKgmvH42A5shI1d6079ZS9jlLU;pFRcAKIYiZjXVg2elCQBKQ=="
 ---

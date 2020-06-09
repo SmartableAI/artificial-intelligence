@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-05T15:47:00Z
 webUrl: "https://insurancenewsnet.com/oarticle/insurance-institute-for-highway-safety-self-driving-vehicles-could-struggle-to-eliminate-most-crashes"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Insurance Institute for Highway Safety: Self-Driving Vehicles Could Struggle to Eliminate Most Crashes"
 
 related:
+  - title: "Self-driving vehicles may not be able to stop all wrecks with current design"
+    excerpt: "A new study found self-driving vehicles may not be able to prevent every wreck. The Insurance Institute for Highway Safety looked at 5,000 police-reported crashes from the National Motor Vehicle"
+    publishedDateTime: 2020-06-08T10:51:00Z
+    webUrl: "https://whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/"
+    ampWebUrl: "https://whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 41
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2020/06/self-driving-car.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "IIHS: Self-driving vehicles could struggle to eliminate most crashes"
     excerpt: "IIHS: Self-driving vehicles could struggle to eliminate most crashes; Ford Transit now available with efficient and durable new 10-speed automatic transmission; Ford"
     publishedDateTime: 2020-06-04T14:49:00Z

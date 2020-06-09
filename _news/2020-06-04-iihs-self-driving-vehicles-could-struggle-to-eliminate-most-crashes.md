@@ -18,6 +18,21 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving vehicles may not be able to stop all wrecks with current design"
+    excerpt: "A new study found self-driving vehicles may not be able to prevent every wreck. The Insurance Institute for Highway Safety looked at 5,000 police-reported crashes from the National Motor Vehicle"
+    publishedDateTime: 2020-06-08T10:51:00Z
+    webUrl: "https://whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/"
+    ampWebUrl: "https://whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/self-driving-vehicles-may-not-be-able-to-stop-all-wrecks-with-current-design/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 41
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2020/06/self-driving-car.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Insurance Institute for Highway Safety: Self-Driving Vehicles Could Struggle to Eliminate Most Crashes"
     excerpt: "The Insurance Institute for Highway Safety issued the following news release:. But autonomous vehicles might prevent only around a third of all crashes if automated systems drive too much like people,"
     publishedDateTime: 2020-06-05T15:47:00Z

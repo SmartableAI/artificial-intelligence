@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-f
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     width: 1024
     height: 693
     title: "AI-Enabled Drones vs. Fighter Pilots: The US Air Force Wants A Showdown"
+
+related:
+  - title: "The US Air Force Is Planning a Human-Versus-AI Showdown in the Skies"
+    excerpt: "The Air Force Research Laboratory (AFRL) is now developing a system that can engage in air-to-air combat with a human pilot. The Air Force hopes to test its skills with a real dogfight in July 2021."
+    publishedDateTime: 2020-06-08T20:39:00Z
+    webUrl: "https://www.extremetech.com/extreme/311458-us-air-force-plans-human-versus-ai-dogfight"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2016/02/f-35fEATURE.jpg"
+        width: 1344
+        height: 742
 
 secured: "w4GnthiUXVV2ZltW2QjEf76ZZCsTXoddOhDOOHSzbyJGCS7Dc4+kSdz89M+mnjsJG5zkkj7yDGVvY5c4YfncqDP18+AjssvHZx9UUrpDtNUWvAYdRCkJTZzdlV14ROXVUGFTScFqYK7gcuX8hXAyQh5ABIni3x+VBawc8ZQ2AYWNmoXOk77rMEhS9+EV26PgDSWx9nRgVyILn7NjE8mYO7+78r/HttOnhwj5Ot6QgLuAwHh58fHZ1dzTdwObslp6pyg8/oqpq8++y+XtU5be/Y2btiufcEI6IsjZBZQ2+Wr9W+BLuWiEEnLBFslQnlNYBzy6g6KFhoIwrfZCJV4GcRtn911uHFIfB2kSo5y9EGhIO40ywo1DDRygCBCCGSvFlFh4ESeIKnjUFNR4yPJRYEe+MTGrgrQgADSB0/7qPcqAqAXw2SOdTZPj9tLkNGIJblhFskEl7cEpk1UxDlNCPzyxkU3oDY6TiM/Q3huV0Os=;p8hQgSWEzTDn6GZhrcXWjw=="
 ---

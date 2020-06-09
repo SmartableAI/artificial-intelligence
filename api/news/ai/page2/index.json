@@ -2,224 +2,10 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-07-jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees.md",
-      "title": "Jaipur firm deploys 7 robots to cut down physical interaction among employees",
-      "excerpt": "A robot guards the entry gate to welcome visitors, performs thermal scanning to check their body temperature.The robotic guard’s artificial intelligence is synced with the working of the entry gate, w",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees-11591526460461.html",
-      "ampWebUrl": "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html",
-      "publishedDateTime": "2020-06-07T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/07/600x338/ai2-kr9--621x414@LiveMint_1591527445501.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Jaipur firm deploys 7 robots to cut down physical interaction among employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
-      "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-06-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it.md",
-      "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-      "excerpt": "Unlike humans, computers don’t care about your race, gender, or religion: they don’t have a fragile self-esteem they need to boost by bringing other people down, and they don’t need to bond with other computers by stigmatizing certain groups of humans (or computers).",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
-      "publishedDateTime": "2020-06-06T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap.md",
-      "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-      "excerpt": "I’ve found an AI-generated music app that creates great music for at least one purpose. I’m listening to it right now. And I like it. A lot. AiMi.fm is a new music app that mixes generative AI and flesh-and-blood human artists’ beats to create really,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/",
-      "publishedDateTime": "2020-06-06T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edc097303ca62000785e0f9%2F0x0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
-      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "publishedDateTime": "2020-06-06T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 76,
+      "heat": 156,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
@@ -264,7 +50,7 @@
       "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
       "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
       "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
-      "heat": 82,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
@@ -354,7 +140,7 @@
       "path": "_news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done.md",
       "title": "The AI community says Black Lives Matter, but more work needs to be done",
       "excerpt": "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change.",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/",
@@ -443,7 +229,7 @@
       "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
       "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
       "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/",
@@ -479,7 +265,7 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
@@ -522,55 +308,10 @@
       ]
     },
     {
-      "path": "_news/2020-06-05-self-driving-cars-likely-wont-prevent-every-car-crash-study-says.md",
-      "title": "Self-driving cars likely won't prevent every car crash, study says",
-      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "publishedDateTime": "2020-06-05T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars likely won't prevent every car crash, study says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
       "title": "Coding with R on Amazon SageMaker notebook instances",
       "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
@@ -659,7 +400,7 @@
       "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
       "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
       "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
-      "heat": 83,
+      "heat": 113,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
@@ -726,7 +467,7 @@
       "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
       "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
       "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
-      "heat": 96,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
@@ -809,51 +550,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
-      "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "publishedDateTime": "2020-06-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -952,7 +648,7 @@
       "path": "_news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic.md",
       "title": "Artificial intelligence, healthcare and the pandemic",
       "excerpt": "The coronavirus crisis demands a regulatory framework for the application of AI to protect public health without jeopardising human rights.",
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic",
@@ -1125,7 +821,7 @@
       "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
       "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
       "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
@@ -1170,7 +866,7 @@
       "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
       "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
       "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
@@ -1298,6 +994,302 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
+      "title": "AI, machine learning to support digital lending landscape in post-covid era",
+      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "publishedDateTime": "2020-06-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin.md",
+      "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
+      "excerpt": "Researchers have used AI system to spot thousands of new stars that could hold clues about the formation of the galaxy",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/amp/",
+      "publishedDateTime": "2020-06-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-64-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
+      "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+      "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
+      "heat": 224,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "ampWebUrl": "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "publishedDateTime": "2020-06-04T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703",
+          "width": 600,
+          "height": 350,
+          "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-measuring-ai-performance-on-mobile-devices-and-why-it-matters.md",
+      "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+      "excerpt": "It will be incumbent upon these benchmark app developers and the press to sort through the finer points of what makes for a quality mobile AI benchmark, and also what is a truer measure of performance for your own personal pocket AI assistant.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "publishedDateTime": "2020-06-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed908fc0a0c710006933ed3%2F0x0.jpg",
+          "width": 800,
+          "height": 444,
+          "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
+      "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+      "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "publishedDateTime": "2020-06-04T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed905490fee5e0007449f0d%2F0x0.jpg",
+          "width": 1199,
+          "height": 709,
+          "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence.md",
+      "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+      "excerpt": "Customer support is changing. Some people claim it means customer support personnel will disappear while others say AI will enhance what the customer service people do. To both, I say “yes.”",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
+      "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
+      "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "publishedDateTime": "2020-06-04T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

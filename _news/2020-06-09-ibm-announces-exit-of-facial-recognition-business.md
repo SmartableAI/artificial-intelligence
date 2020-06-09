@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-announces-exit-of-facia
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-announces-exit-of-facial-recognition-business/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,21 @@ images:
     title: "IBM announces exit of facial recognition business"
 
 related:
+  - title: "IBM to withdraw from the facial recognition market"
+    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-08T23:49:00Z
+    webUrl: "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
+        width: 756
+        height: 567
   - title: "IBM gets out of facial recognition business"
     excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
     publishedDateTime: 2020-06-09T00:55:00Z
@@ -45,6 +60,96 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
         width: 818
         height: 545
+  - title: "IBM stops work on facial recognition over human rights concerns"
+    excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
+    publishedDateTime: 2020-06-09T01:08:00Z
+    webUrl: "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html"
+    ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
+        width: 600
+        height: 350
+  - title: "IBM sunsets general purpose facial recognition tech to avoid abuse"
+    excerpt: "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure"
+    publishedDateTime: 2020-06-09T03:09:00Z
+    webUrl: "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/"
+    ampWebUrl: "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg"
+        width: 1280
+        height: 800
+  - title: "IBM to withdraw from the facial recognition market out of profiling fears"
+    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-09T02:18:00Z
+    webUrl: "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
+        width: 756
+        height: 567
+  - title: "IBM will no longer offer, develop, or research facial recognition technology"
+    excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
+    publishedDateTime: 2020-06-09T00:55:00Z
+    webUrl: "https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
+        width: 1400
+        height: 933
+  - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
+    excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
+    publishedDateTime: 2020-06-09T04:36:00Z
+    webUrl: "https://www.neowin.net/news/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias"
+    ampWebUrl: "https://www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg"
+        width: 760
+        height: 428
+  - title: "IBM gets out of facial recognition business, calls on Congress to advance policies tackling racial injustice"
+    excerpt: "IBM CEO Arvind Krishna called on Congress Monday to enact reforms to advance racial justice and combat systemic racism, while announcing the company was getting out of the facial recognition business."
+    publishedDateTime: 2020-06-08T23:17:00Z
+    webUrl: "https://www.cnbc.com/2020/06/08/ibm-gets-out-of-facial-recognition-business-calls-on-congress-to-advance-policies-tackling-racial-injustice.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/08/ibm-gets-out-of-facial-recognition-business-calls-on-congress-to-advance-policies-tackling-racial-injustice.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/08/ibm-gets-out-of-facial-recognition-business-calls-on-congress-to-advance-policies-tackling-racial-injustice.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1587425495"
+        width: 3915
+        height: 2534
   - title: "IBM exits facial recognition business, calls for police reform"
     excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling, Krishna said, who also called for new federal rules to hold police more accountable for misconduct."
     publishedDateTime: 2020-06-09T03:12:00Z
@@ -56,6 +161,32 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "IBM will no longer develop or research facial recognition tech"
+    excerpt: "In a letter to Congress, IBM CEO Arvind Krishna called for new reforms to combat racial injustice and said IBM is exiting the facial recognition business."
+    publishedDateTime: 2020-06-09T03:51:00Z
+    webUrl: "https://www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ibm-shut-down-facial-recognition-tech/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+  - title: "Study reveals parts of the brain linked to facial and scene recognition"
+    excerpt: "Using \"sub-millimeter\" brain implants, researchers at The University of Texas Health Science Center at Houston, have been able to determine which parts of the brain are linked to facial and scene recognition."
+    publishedDateTime: 2020-06-04T20:37:00Z
+    webUrl: "https://www.news-medical.net/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200604/Study-reveals-parts-of-the-brain-linked-to-facial-and-scene-recognition.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z
@@ -86,6 +217,60 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
         width: 640
         height: 428
+  - title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
+    excerpt: "The tech firm also calls for greater transparency and accountability to policing following the death of George Floyd in the US."
+    publishedDateTime: 2020-06-09T04:15:00Z
+    webUrl: "https://news.sky.com/story/george-floyd-death-ibm-scrap-facial-recognition-software-over-racial-profiling-concerns-12003219"
+    ampWebUrl: "https://news.sky.com/story/amp/george-floyd-death-ibm-scrap-facial-recognition-software-over-racial-profiling-concerns-12003219"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/george-floyd-death-ibm-scrap-facial-recognition-software-over-racial-profiling-concerns-12003219"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 50
+    images:
+      - url: "https://e3.365dm.com/20/06/1600x900/skynews-facial-recognition_5009232.jpg?20200609042007"
+        width: 1600
+        height: 900
+  - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
+    excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
+    publishedDateTime: 2020-06-05T18:16:00Z
+    webUrl: "https://www.biometricupdate.com/202006/realnetworks-launches-facial-recognition-browser-extension-to-detect-celebrities"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/05132526/StarSearch-by-Real.jpg"
+        width: 950
+        height: 741
+  - title: "Facial Recognition Market Size to Reach USD 9.99 Billion by 2025 | Valuates Reports"
+    excerpt: "Facial recognition systems are built upon computer programs that analyze images of human faces by comparing patterns based on the"
+    publishedDateTime: 2020-06-08T12:19:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/facial-recognition-market-size-to-reach-usd-9-99-billion-by-2025-valuates-reports-818692228.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+  - title: "IBM quits facial recognition business, opposing its use for mass surveillance, racial profiling"
+    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday (June 8)."
+    publishedDateTime: 2020-06-09T00:54:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/ibm-quits-facial-recognition-business-opposing-its-use-for-mass-surveillance"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 27
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/06/09/rk_ibm_090620.jpg?itok=MpCKbFL8"
+        width: 763
+        height: 509
 
 secured: "cbSZ1sKcn42fWQ7TvXZgJIC+ytyq9xEoNlafj45tOpfLe2vyX2w+ni7GlUXoJzhSdxlvsrcmeEI3qkj8ZohXx0Yq+ZHwuKgN8pd3K3xurojXd6O4DQ0NyRonV6H6Pd6HJU0wR3CIV8m70xFPLgzRcpeNNDmV5Y+xwPoBTWD21AJfnFeHMOP8a+EBd3WcJorEZ+vqESrdEAHYcQk5fxM4nnelj3f2PDRMd0EubkyM6SzU6Dt0AxXpvDT2wUv3hXolYt01mLdgzDOK6859YuYM8C3Y32m4nas98Iu5c25tHtNy9AURFXSyjgKIDpCaMFnqyQTFw+u/xPxo8EFWR9Tf7FlSRwYlD4MRoDgmn7E9S/z0SxFNPkarnPitEeLgDn94sGZbzUm3v0C8xTtqxd2qE7YuFDXBNG+oriRHpr25gWSzjgY0JBE0OpQFUxSXzbhajxaAogS7rHriqvKEVfsnSlbw2IWKFs40X0dbpJiuEHI=;3YezHJmaeQPgauCHdJ33Ow=="
 ---

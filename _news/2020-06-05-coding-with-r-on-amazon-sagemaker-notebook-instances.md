@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-05T16:48:36Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/29/persistent-custom-r-011.jpg"
         width: 1000
         height: 375
+  - title: "Domo Announces Support for Amazon SageMaker Autopilot"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-06-06T19:30:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-03-19/domo-announces-support-for-amazon-sagemaker-autopilot"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
 
 secured: "d+7EGC/dDVWOIah7g9pgicniLQ648UO0FpGA3gEXB0wkCR1dKlMZMBPMilMh4LAKNcgQqiDbNDKBbA1ASaefVQQ8k/XPTe3Vy+FOfcL6hCaQ7DvBTnmVDcnWasx/JCGWO2VoBQjIIpu5slU7+3OMgvQDGjPl3dSck4K0cstiaLUs82u90e/JwYOh0j0kWiPwb0JBrPmq9KRoCH/h0DRc/9e+s/EwD6qWI9Ec3Ynj7jLv8mEtxj7zBXMcIvg2KEMHv0IbOjbw9uz6onTcULKg+VKYU/xv7WmFgp9gkVtjJuXeAGh1BTF1eM/5PXT72es7CsFG8kvTpzHeIGd7FeZZcA==;vtKq1YjXW90Jf5E2PBWeww=="
 ---

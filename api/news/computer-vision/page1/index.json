@@ -2,100 +2,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-09-ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias.md",
-      "title": "IBM backs out from facial recognition business over concerns of racial and ethnic bias",
-      "excerpt": "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias",
-      "ampWebUrl": "https://www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibm-backs-out-from-facial-recognition-business-over-concerns-of-racial-and-ethnic-bias/",
-      "publishedDateTime": "2020-06-08T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "IBM backs out from facial recognition business over concerns of racial and ethnic bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse.md",
-      "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
-      "excerpt": "Like any other tool such as a hammer or a knife, technology can be used not only for good but also for harm. Facial recognition, in particular, is often promoted as a convenient security measure",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/",
-      "ampWebUrl": "https://www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ibm-sunsets-general-purpose-facial-recognition-tech-to-avoid-abuse-08624081/amp/",
-      "publishedDateTime": "2020-06-08T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ibm-facial-recognition.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "IBM sunsets general purpose facial recognition tech to avoid abuse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality.md",
       "title": "IBM ends all facial recognition work as CEO calls out bias and inequality",
       "excerpt": "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability.",
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/",
@@ -137,100 +47,10 @@
       ]
     },
     {
-      "path": "_news/2020-06-09-ibm-announces-exit-of-facial-recognition-business.md",
-      "title": "IBM announces exit of facial recognition business",
-      "excerpt": "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-announces-exit-of-facial-recognition-business/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-announces-exit-of-facial-recognition-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-announces-exit-of-facial-recognition-business/",
-      "publishedDateTime": "2020-06-08T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/04/77f715b9-2438-4c91-a475-435e025ed5ee/thumbnail/1200x675/b30830583fd201b20184073b0c320492/dji-unsw.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM announces exit of facial recognition business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-stops-work-on-facial-recognition-over-human-rights-concerns.md",
-      "title": "IBM stops work on facial recognition over human rights concerns",
-      "excerpt": "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
-      "publishedDateTime": "2020-06-08T18:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497",
-          "width": 600,
-          "height": 350,
-          "title": "IBM stops work on facial recognition over human rights concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-08-ibm-to-withdraw-from-the-facial-recognition-market.md",
       "title": "IBM to withdraw from the facial recognition market",
       "excerpt": "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "heat": 109,
+      "heat": 259,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
@@ -275,7 +95,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 125,
+      "heat": 175,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -315,51 +135,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters.md",
-      "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
-      "excerpt": "Encrypted messaging app Signal unveiled a new blur tool on Wednesday that can be used to hide faces in photos before sharing them. Signal said the tool aims to protect the identities of protesters currently demonstrating against police brutality.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/popular-encrypted-messaging-app-signal-adds-facial-recognition-protection-for-protesters/",
-      "publishedDateTime": "2020-06-04T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/mz5ofBgIkIQRE2jr9IGFvfKofLI=/0x44:1074x673/756x567/2020/06/04/fabebb72-d205-405c-84d1-6dc186a8a4cf/screen-shot-2020-06-04-at-10-18-45-am.png",
-          "width": 756,
-          "height": 567,
-          "title": "Popular encrypted messaging app Signal adds facial recognition protection for protesters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1279,6 +1054,211 @@
           "width": 1021,
           "height": 545,
           "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech.md",
+      "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
+      "excerpt": "The U.S. Commerce Department has put another 33 Chinese businesses—many of which develop artificial intelligence and face recognition tech—on its economic blacklist as a punitive measure for purportedly conspiring with Beijing and the government’s brutal crackdown on Muslim minorities.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762",
+      "ampWebUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
+      "publishedDateTime": "2020-05-22T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/evgliw8dn4kegcxqbxok.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement.md",
+      "title": "Government trials facial recognition system to improve social aid disbursement",
+      "excerpt": "With the new system, recipients only need to visit a designated merchant where facial scanning technology will be used to verify their identity.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thejakartapost.com/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "publishedDateTime": "2020-05-22T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2019/01/04/2019_01_04_62237_1546584615._medium.jpg",
+          "width": 747,
+          "height": 403,
+          "title": "Government trials facial recognition system to improve social aid disbursement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
+      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
+      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "publishedDateTime": "2020-05-21T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
+          "width": 560,
+          "height": 315,
+          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": "Object Detection, With TensorFlow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police.md",
+      "title": "Details emerge about use of facial recognition software by London police",
+      "excerpt": "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://london.ctvnews.ca/details-emerge-about-use-of-facial-recognition-software-by-london-police-1.4949479?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D89531%2F5-things-to-know-for-friday-september-13-2019-1.4591474",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "publishedDateTime": "2020-05-21T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": "Details emerge about use of facial recognition software by London police",
           "attribution": null
         }
       ],

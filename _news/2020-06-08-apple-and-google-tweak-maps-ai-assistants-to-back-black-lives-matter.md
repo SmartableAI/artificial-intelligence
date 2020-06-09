@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 600
     title: "Apple and Google tweak maps, AI assistants to back Black Lives Matter"
+
+related:
+  - title: "The AI community says Black Lives Matter, but more work needs to be done"
+    excerpt: "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change."
+    publishedDateTime: 2020-06-05T20:33:00Z
+    webUrl: "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/"
+    ampWebUrl: "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191122_111658-e1591389328766.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
 
 secured: "o9JS30tmurWXB4WwsvHCeFXhv39BsGiVrJpE1CIMnTFu/pmdOq6wXqx2XO4G0IseNSgwrFVueEeWR/cLsPczzvDoj4DAFsJ3pFmRT6Z1O0zGyzrLAP213mCI6AJJFbt1VFAx2ZlzIRAo4EER6G3QxJZkO/+NaeaUFB+Vtu7/3cQMay5rK7PiPYn/hYbJtDHw3CdGqJcrvK38Nd6t/sB+1xcst6XhD5Oa0f25S878pglLYIgFnAe3x9tlr2DmFGAjV9zCvzVYEF5IH0dMhrHgXVjryKkyAdnRvnaLf0jOLyXGE8mvGGwSGQDFt2yk2b4kzN52dvTiEZWLGdyDQiXCeFVX2ZciX6ZTRKDrpnw5hBjwv5dK53+HusPHZivI6HJupuBcbVKUprsaDRJG8U66kwNCc/OALwEgWGl7I0+aE9VcpMsZPEvjyR1/gGs2FqZz2xk11cqSjvDFF/XXGJZacayuVVAynXmisQRvmeNk2yk=;B10jJoT/5+cPjTCiPfhcAg=="
 ---

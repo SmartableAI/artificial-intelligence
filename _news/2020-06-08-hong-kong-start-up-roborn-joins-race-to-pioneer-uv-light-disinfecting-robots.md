@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots"
 type: article
 quality: 86
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 630
     title: "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots"
 
-secured: "YaImvfTlkt6zcumYk5Q73Csp9/+mbGllT4AxrBliq/nLVxJ6rnwE4VIp1g5N1Mu5RmwRWfUIsJ7IcKLkhazhuPw/6zsqDJ5M0aXzVJjIs7Gnl7jcvr/JgiINaRZE6lL9LUKdJHQntWFgG3d71CKlJq1XeQSYO1RZaOVcLicUYCApXHca7xHjiLgq2J5qhncoXax3FhFAotvyX2pdClb7vA2zZzHAswoPLi8DAEGOViXU7IBHxWQJwb9kEu3iQQVuKmSAit1glCf276QoZsVyhktX+t5eG6lvzoT1/zN4IoVZjgyX8GAs5+4XhP9R3+bIp4bnT4oEQF4E8retxg+mErBpJM14AGCM5KIbkwXQ+Eoa00dxz65yr41oQSP+sBZyGCjUZbn19VdGc8U/S2XI8Mj3qJqU09lhAdy1zC9UP/nA+gf9kHp2WITXK0NR0E5xRTFZysJT4W5EynLkMS6VHoe9d62wZ+eAgDA9QzEN3Kk=;QZtWCW2COchoWC5jmWcGYQ=="
+related:
+  - title: "Robots trained for Hong Kong station duties"
+    excerpt: "Hong Kong's MTR Corp has unveiled five types of robot which are to be deployed at Kai Tak station later this year, and its train maintenance staff have begun using a train underframe inspection robot."
+    publishedDateTime: 2020-06-05T09:28:00Z
+    webUrl: "https://www.railwaygazette.com/technology-data-and-business/robots-trained-for-hong-kong-station-duties/56689.article"
+    type: article
+    provider:
+      name: Railway Gazette International
+      domain: railwaygazette.com
+    quality: 54
+    images:
+      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/8/1/7/32817_hongkongmtrcorprobots3_964023_crop.jpg"
+        width: 2000
+        height: 1333
+
+secured: "sK3Fs58mQjEUM2C4ehYqz3iAILgeSWQke+CMQjkt15ZLzBuzQEayiANTyo+qljx+5uwf0N/gEZp0ZfKvox83r6nDR4zPT/sLmSCHJ1PvivghHTFJrkUi6PxZHQK8AbgMnOL6l/NGJeDrNecm1hWglQCac48ncqy98s12/fQFLktRuCx+ZgDdNog4EzrpMhKQ5dRb5JxxFqZv3+Y5h6HlMJuhirIFR2bIJ0ceirNIvonMyZAaDbEoU98GLR48T+H9XED0+tRUITilEsESCBCwrGyHnrLAFBNPRdwAmjEwFhZlSU0QAqRNxPPbGzysUY+O5x/DjfNmgyyXjKaRP1c++mv8FsEtt2Q8RIgwP8RJcIp730Chcg9zBpSQ2Y+Mi7CM8yjy0qKLURsxT4Eh85ujiHjsXN/UkDbCsP/F7hAwwnt/TrSxoiM132NxsX/5uPfw9KHF3vdxjLhe9MvGfciojRjTFFsBmZf6mAKl3YWwkBw=;FhuAx84GpsIGk0GK9ZsjEw=="
 ---
 

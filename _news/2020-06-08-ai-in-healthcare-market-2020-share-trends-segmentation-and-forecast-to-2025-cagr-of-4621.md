@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
+    publishedDateTime: 2020-06-07T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-industry-analysis-by-key-players-product-type-application-regions-and-forecast-to-2026-2020-06-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-06-08T11:54:00Z
@@ -65,6 +78,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
+    excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-05T11:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200605005216/en/COVID-19-Impact-Healthcare-Information-Technology-Market-Product"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "aOWHEwBb/zYZkYWzMw+79bOzPc/htCx+tSP290WgUwGtaRd7NVoU0O5u1aeKUa7N6msX7NB2dyCN3z7v/noGiYbfgUZlAgZiqk0uK0NCWSG/7DyFbOlw3c6FuL99xm7qfUFtqBLj4I7/mpHWemce+FSvkB0+w857cTeAZ4Z2fDHGotIFl1GEGAirZ7DmQ7aqgy8L5lh9Q7Ui0EOKRyys4njlKeKMPHWMzjm57VnO6HdXP03wQOFg9ToagHp9Dhc3GvTjQrGtlDCdu1bCwxTzz9LnQhW0v+Fho0yXIDLBQYjsJCVLm4+ZvSG57DmAldLm;uoYs2MUUTtUexl7dx12GGA=="
 ---

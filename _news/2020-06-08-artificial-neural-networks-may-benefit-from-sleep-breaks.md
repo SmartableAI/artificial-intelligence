@@ -23,6 +23,21 @@ images:
     height: 450
     title: "Artificial neural networks may benefit from ‘sleep’ breaks"
 
+related:
+  - title: "MIT’s New Memristors: Networks of Artificial Brain Synapses for Neuromorphic Devices"
+    excerpt: "A possible glimpse at a future form of high performance edge computing – networks of artificial brain synapses – developed by engineers at the Massachusetts Institute of Technology is showing promise as a new memristor design for neuromorphic devices,"
+    publishedDateTime: 2020-06-08T21:38:00Z
+    webUrl: "https://insidehpc.com/2020/06/mits-new-memristors-networks-of-artificial-brain-synapses-for-neuromorphic-devices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 32
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/MIT-0620-shutterstock-210785077-.jpg"
+        width: 500
+        height: 295
+
 secured: "jEey3ZJg3jb05X9SyxvtNEf9Qbs4gakMlQG2dc/1Uq4cWUyJUZsqD9nf86hkYigGZFKI45Gn/CWe8zvcrur0E/cRtmSFV8jtLdIWN6sGSzAgEewlJqxkYEuX5RGUailPR5zuUCF5WfUebaSwIeR/Nx9KWIqjO31Sth2YcDQ1DfbbDxzNipTjRHrJ8HGxKxkHglETfLuQYSiUDI9CjMXaK636sA4x7nhTA/innDDMpqePfT7HrY1JPdTbNRLlWh64juBTTRGkiKGbW8NMDPNPsG9gTawpPx2DpBxHJybsf8gyqtMzEOeVskCLNS02rEytGDNcM7Cnkfpl8LBdqNTahle1A7mHSk1UM0jTud9SUDr5ir/d0EBpFEhs2V3K4cp5ScqWFxXfbpLpvqjOv2zdRWMD6ofMl8jUx1wIHXQecLV++WsjdIqi7+W81U/rNeeXoo0NeEh5DPa4tojcFndYP2CkYkF8neAoy/ImTvpeoLc=;rTZkyZSNYDxn08W3rMOUsg=="
 ---
 

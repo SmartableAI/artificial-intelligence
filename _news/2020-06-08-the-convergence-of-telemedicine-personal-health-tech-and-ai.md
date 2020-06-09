@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-08T15:56:00Z
 webUrl: "https://www.zdnet.com/video/the-convergence-of-telemedicine-personal-health-tech-and-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -25,6 +25,21 @@ images:
     width: 770
     height: 578
     title: "The convergence of telemedicine, personal health tech, and AI"
+
+related:
+  - title: "Multinational Optical Retailer Piloting AI and Telemedicine Technology to Protect Community Eye Health During the COVID-19 Pandemic"
+    excerpt: "Eyenuk, Inc. and Devlyn Optical, a spin-off of Grupo Devlyn, a multinational optical retailer with over one thousand stores in Mexico, Guatemala, El S"
+    publishedDateTime: 2020-06-08T06:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200607005031/en/Multinational-Optical-Retailer-Piloting-AI-Telemedicine-Technology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+    images:
+      - url: "https://mms.businesswire.com/media/20200607005031/en/796394/23/eyenuk_logo_redesign_2017_onecolor.jpg"
+        width: 1200
+        height: 627
 
 secured: "V9WOyb+vnYhdu5jiXtjS5LDm53RminZrW6UxBZqOTZcLfyI4+wJjb5Vxe1gsbwF3inIwQDp5K/2ZHAD1485LmnKdU7Xox5JRbcQo7sWH8mP+WtMkzZxBR9dydXTBZTQD1vIKa9mL+BWmfdfGVcgq6Uxt+hrLiDTCxOaqulYtxX0owQwXjOM2wvFx0XToi+hioHMSh4MIetMGpuqiRtsNcM7YTamQ9SZBF2q222P/NwQl19IzNPnXBgl3IB3TPuArO/7yMrS+0CaZ+A2Lz3dsbbSjEVwwVItmIxfVpwvmwas8gpC9KT/vfyQBtTlfEfg4PAjJK8yBIb2vms3onMnwnBG/Py5TWKaCaOqKzqmW1hV8d0Gv2ccirMinzm+HnTANFS7rEI0SGffjBQJsp8emqm6iwOPVWjBvWxBs4LSu8v/5qfk9ZvZ276b6cmauYgG+QdmZVm1v4JBNN2gLcygFySj6R2GBtZgBTtkcqzOnpEA=;UX9xuCgNuhiflz7LiT2hNA=="
 ---

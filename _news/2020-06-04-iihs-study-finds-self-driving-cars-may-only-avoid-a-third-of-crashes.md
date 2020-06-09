@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-a
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
 type: article
 quality: 74
-heat: 164
+heat: 224
 published: true
 
 provider:
@@ -30,21 +30,21 @@ images:
     title: "IIHS study finds self-driving cars may only avoid a third of crashes"
 
 related:
-  - title: "Self-driving cars address only a third of crashes, according to study"
-    excerpt: "The primary objective for self-driving cars, at least the ones pushed by proponents of the technology, isn’t the convenience of the driver or passenger. That is just one of the goals or even"
-    publishedDateTime: 2020-06-05T10:13:00Z
-    webUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/"
-    ampWebUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
+  - title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
+    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes."
+    publishedDateTime: 2020-06-05T14:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/"
+    ampWebUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
-        width: 1280
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
   - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
     excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-04T21:06:00Z
@@ -56,21 +56,51 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
-    excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
-    publishedDateTime: 2020-06-08T16:17:00Z
-    webUrl: "https://knowtechie.com/?p=121732"
-    ampWebUrl: "https://knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
-    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+  - title: "Study: Self-driving cars would prevent one-third of US crashes"
+    excerpt: "But not all human mistakes can be eliminated by camera, radar and other sensor-based technology, according to the IIHS analysis of more than 5,000 representative police-reported crashes"
+    publishedDateTime: 2020-06-04T21:19:00Z
+    webUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/06/04/study-self-driving-cars-would-prevent-one-third-of-us-crashes/amp/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 50
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
     images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/06/Van-1.jpg"
-        width: 1600
-        height: 901
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/06/sjm-riving-Vehicle_74669439.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+  - title: "Study shows self-driving vehicles may not make roads completely safe"
+    excerpt: "A new analysis suggests perfectly functioning autonomous vehicles can prevent about 34 percent of traffic crashes."
+    publishedDateTime: 2020-06-04T18:31:00Z
+    webUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make"
+    ampWebUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_selfdrivinguber_060420getty.jpg"
+        width: 1440
+        height: 880
+  - title: "Self-Driving Cars Will Eliminate Just One-Third Of Crashes: Study"
+    excerpt: "A new study says fully self-driving vehicles will only be capable of eliminating just one-third of auto accidents if automakers don’t prioritize safety."
+    publishedDateTime: 2020-06-05T15:12:00Z
+    webUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/"
+    ampWebUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
+    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
+    type: article
+    provider:
+      name: Motor1
+      domain: motor1.com
+    quality: 44
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
+        width: 1918
+        height: 1080
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z
@@ -84,6 +114,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
+  - title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
+    excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
+    publishedDateTime: 2020-06-05T15:56:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/05/iihs-self-driving-cars-prevent-one-third-human-crashes/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iihs-self-driving-cars-autonomous-crash-research-report-study-iot.jpg"
+        width: 1920
+        height: 1280
   - title: "Self-driving cars might only prevent a third of crashes, study shows"
     excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
     publishedDateTime: 2020-06-05T09:17:00Z
@@ -97,6 +140,19 @@ related:
       - url: "https://image.iol.co.za/image/1/process/1600x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/05/16904093/IOLmot_360c_g.jpg&operation=CROP&offset=29x0&resize=1570x883"
         width: 651
         height: 366
+  - title: "Study: self-driving cars won’t stop all crashes"
+    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
+    publishedDateTime: 2020-06-05T19:32:00Z
+    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 24
+    images:
+      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
+        width: 620
+        height: 330
   - title: "Self-driving cars could only prevent a third of US crashes: study"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
     publishedDateTime: 2020-06-06T01:47:00Z
@@ -134,6 +190,17 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
         width: 800
         height: 600
+  - title: "Self-driving cars won't be able to make roads completely safe, study finds"
+    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94 per cent of US crashes,"
+    publishedDateTime: 2020-06-05T04:45:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/world/self-driving-cars-wont-able-make-roads-completely-safe-study-finds"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 22
   - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
     excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
     publishedDateTime: 2020-06-04T14:06:00Z
@@ -143,6 +210,15 @@ related:
       name: Consumer Reports
       domain: consumerreports.org
     quality: 4
+  - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
+    excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
+    publishedDateTime: 2020-06-05T21:17:00Z
+    webUrl: "https://www.cars.com/articles/self-driving-cars-promise-safety-but-autonomy-alone-wont-eliminate-crashes-422508/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 1
 
 secured: "BHTyVOlemF+FAVPRZiFDKqAKEv4CD5nuU5ThkNZHQliWMd4m5byVXUkXAf8YH07dtjVRuBVSfGWyIFrjfHLZXz7UojKgTNz7Q+hRsw8IgE5pOzUc7cxtPZqIa0PcpJTcuKfow4Z9chThvURd2KzWNwc95mP4jSs2ZXr8YQzKFMutU6inYpKoM2HVcjASAkifnqb4Ul3kOrxh8EHZ3Sm8nbqQD+VrnAdBjSEMavTNoUdOdoh69QihXxdb4qgkpBHrmwf2KEv7RPVHjTI/kDRjx1EW7dJt1E3y1Pp0v7jOVuWPsBKgeiNOncgVclEh7mfib0gwnYLTbGDXtRjV376d3xltaOSHeoFDb/TvimUvqVtVsjxrNGIKbHz/0yS0VzHZhSCcCcBMRxm26whoJf6x5srprpsfNtmltM93orZ9BrMd41RGzGwV3Q4XGrQcAT/KN54hwhxRO8doITTQa68zBG3CTqiJzqUCLNa+goqaGl4=;R/qzeUvOHBbTyAe0xPofgw=="
 ---
