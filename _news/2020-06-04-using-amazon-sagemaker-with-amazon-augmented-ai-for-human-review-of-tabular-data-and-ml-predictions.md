@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T22:11:16Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 532
     isCached: true
     title: "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions"
-
-related:
-  - title: "Managing missing values in your target and related datasets with automated imputation support in Amazon Forecast"
-    excerpt: "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, supply chain optimization, resource planning, energy"
-    publishedDateTime: 2020-06-04T16:08:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/managing-missing-values-in-your-target-and-related-datasets-with-automated-imputation-support-in-amazon-forecast/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/Forecast_Look_Up_3.gif"
-        width: 600
-        height: 304
-        isCached: true
 
 secured: "T3iMPoJXPhVFPY9q+Ch2d0SBpAXJoP1t9pLLeyCNg4yFXJ39x+xTcDVmwGrTdzn7mYYf6UTEGVukyo7wPS7NyMMRK1dfO8JGG+XE7kAkKYPpIo2eV20ZxCJhHfILKY8Y2DTPF1udLcQ8vmBFu/1+v2SCgbNVcJql6susSMxRlNSgLLsSGBusIvlgg+0Ma4HY7+rnreKkqFXqzvn3XDS7vRkWIrcGw/ns3FHv0ySEKbPLpxpRAUBYgSuR0DeNP9FI1XWt76zRWOQygOuZ6SEub89CkbPY1Sc3QDkEsa7jtu64bpbnb4G6mEn8AUjkoydTCiMkC378tbgKzpTzLkSJ3g==;77RzzP6/NbQgkdOWbeMLtg=="
 ---

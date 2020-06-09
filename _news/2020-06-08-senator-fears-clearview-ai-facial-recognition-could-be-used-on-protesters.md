@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://thehill.com/sites/default/files/markeyedward_012420gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "IBM scraps facial recognition tool in wake of Black Lives Matter protests"
+    excerpt: "The tech firm's move comes amid broader calls to scrutinise the use of technology for racial profiling by police"
+    publishedDateTime: 2020-06-09T09:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 58
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197244899_AFP_FILES-US-IT-POLICE-CRIME-POLITICS_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
+        width: 2880
+        height: 1800
         isCached: true
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."

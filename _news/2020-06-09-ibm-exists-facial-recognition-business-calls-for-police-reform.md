@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM gets out of facial recognition business"
-    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-    publishedDateTime: 2020-06-09T00:55:00Z
-    webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
-        width: 818
-        height: 545
-        isCached: true
   - title: "IBM stops work on facial recognition over human rights concerns"
     excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
     publishedDateTime: 2020-06-09T01:08:00Z
@@ -171,6 +155,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "IBM Will No Longer Offer Or Develop Facial Recognition Software In Pursuit Of Racial Justice Reform"
+    excerpt: "CEO Arvind Krishna wrote a letter to Congress calling for police reform, as the company stressed its opposition to the use of facial recognition for mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-09T09:33:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190695006%2F0x0.jpg"
+        width: 1200
+        height: 1074
+        isCached: true
   - title: "IBM gets out of facial recognition business, calls on Congress to advance policies tackling racial injustice"
     excerpt: "IBM CEO Arvind Krishna called on Congress Monday to enact reforms to advance racial justice and combat systemic racism, while announcing the company was getting out of the facial recognition business."
     publishedDateTime: 2020-06-08T23:17:00Z
@@ -201,6 +201,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Gets Out of Facial Recognition Business"
+    excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
+    publishedDateTime: 2020-06-09T00:47:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "IBM will no longer develop or research facial recognition tech"
     excerpt: "In a letter to Congress, IBM CEO Arvind Krishna called for new reforms to combat racial injustice and said IBM is exiting the facial recognition business."
     publishedDateTime: 2020-06-09T03:51:00Z

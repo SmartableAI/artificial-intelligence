@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "NICE Actimize acquires Guardian Analytics to help financial services orgs battle financial crime"
 
-related:
-  - title: "The AI Eye: AI-Startup Cowbell Cyber Partners with FICO (NYSE: $FICO) and NICE (NasdaqGS: $NICE) Actimize to Acquire Guardian Analytics"
-    excerpt: "AI-powered cyber insurance startup Cowbell Cyber has partnered with Fair Isaac Corporation (NYSE:FICO) to \"add the FICO Cyber Risk Score to Cowbell Cyber's multivariate risk rating factors, Cowbell Factors."
-    publishedDateTime: 2020-06-04T16:16:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/06041AIEye-FICO-NICE.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 5
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
-
 secured: "42cW36kA/XZ/4i7YGq16HGQf6QQB46Rzbd+VrtfEB+C4Rf18PN7CjqTlfRceOCZxSFe23lKnoQIpN0RZWh52yw0CMsc9COw0XDe7WTFdwVl4Hi3BUklZgm+KxkozkRf3Y6kUbj0MCnjbCYm2L2AfiZaEXWI3lBz0zB43w4c8yd3eS1OwlA+I7TXZ2q0TmoJblFLU/7YTFzNwUbirDe43UXQIrbDA29xaLM+EcE5MWm39BydqIYOeUjS/knOL5JfJ3EanOHP65sMZVw6PCu1O3T4AO5K3AumBJcHNbgE9lcbVGg2yR+frcrQHk0Dm7tufhsLwGzb/spYRImeSlixiofADXdzVqZcd2lINPY89cmsGLXnz0T0J6WOIuxv1Up4WmG14YGjJLYgLmULxxstOcgBn27kNUxI46h+AAOVZ8TykdeNpWbHk6FYOYdw7zH4Nu7KoRm/YBm0O3aDmF9NbeKCbQA2NMP4VEAASioIjgYE=;kHByZO8yn15rutrRFypGMg=="
 ---
 

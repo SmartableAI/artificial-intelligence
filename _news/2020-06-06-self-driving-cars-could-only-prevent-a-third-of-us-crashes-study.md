@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "IIHS study finds self-driving cars may only avoid a third of crashes"
-    excerpt: "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else."
-    publishedDateTime: 2020-06-04T16:45:00Z
-    webUrl: "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
-    ampWebUrl: "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
-        width: 600
-        height: 350
-        isCached: true
   - title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes."
     publishedDateTime: 2020-06-05T14:22:00Z
@@ -79,38 +63,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Study shows self-driving vehicles may not make roads completely safe"
-    excerpt: "A new analysis suggests perfectly functioning autonomous vehicles can prevent about 34 percent of traffic crashes."
-    publishedDateTime: 2020-06-04T18:31:00Z
-    webUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make"
-    ampWebUrl: "https://thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/infrastructure/501161-study-shows-self-driving-vehicles-may-not-make?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_selfdrivinguber_060420getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Self-Driving Cars Will Eliminate Just One-Third Of Crashes: Study"
-    excerpt: "A new study says fully self-driving vehicles will only be capable of eliminating just one-third of auto accidents if automakers don’t prioritize safety."
-    publishedDateTime: 2020-06-05T15:12:00Z
-    webUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/"
-    ampWebUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
-    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
-    type: article
-    provider:
-      name: Motor1
-      domain: motor1.com
-    quality: 44
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
-        width: 1918
-        height: 1080
-        isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z
@@ -153,20 +105,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Study: self-driving cars won’t stop all crashes"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
-    publishedDateTime: 2020-06-05T19:32:00Z
-    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 24
-    images:
-      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Report: Self-driving cars will only prevent a third of all crashes"
     excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
     publishedDateTime: 2020-06-07T18:43:00Z
@@ -181,40 +119,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
-    publishedDateTime: 2020-06-04T16:27:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-cars-could-only-prevent-third-us-crashes-study-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving cars won't be able to make roads completely safe, study finds"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94 per cent of US crashes,"
-    publishedDateTime: 2020-06-05T04:45:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/world/self-driving-cars-wont-able-make-roads-completely-safe-study-finds"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDYlMkYwNSUyRnNlbGYtZHJpdmluZy1jYXJzLXdvbnQtYmUtYWJsZS10by1tYWtlLXJvYWRzLWNvbXBsZXRlbHktc2FmZS1zdA=="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 22
-  - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
-    excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
-    publishedDateTime: 2020-06-05T21:17:00Z
-    webUrl: "https://www.cars.com/articles/self-driving-cars-promise-safety-but-autonomy-alone-wont-eliminate-crashes-422508/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 1
 
 secured: "NwfJkbh1aAD5s/p/BRuzPYmZ3KfjL7+m2N2TOY3O+L6pdlTLrX2NyDuAVnpGSXqIuWhBdPF78Pv7S2C8fFMWRUYcG8hg0wwk1kDlEY+bhHrNnztjZUciQB1/01tg8EHe+HTnLFBV7nwaq+cpps1DRnQGsZV4akV9mARwn4etmaGYj1MKVNSvF+eE1t0l985d5TibrjcUGGPXRU2ZhsUVPRX9mqn0slbI7QvG4/BZ6xjzryeQbNSqTpiKYnbEGeODVmTKdTx7vBv5CsMGHXjxf016nWYsW1njdUBRDkgGdbRiCC//bt6h/MPrsXHf3FPVFC/RSjF/Uv2pGrPzJImZnn+PJuEIOlmxQxT1eQ+tzlL845N78iNiOFSW6zLGbI08Kd516c1peLd8Y7bzz8YLAWTEX/HknSIXV2UXuKMIQ5Rucj6IP70fy6Kx7Z+0noIfQqod5g8WY7FhPAK5Gxn5gAoKgFne98wQ9ad9KjabzEQ=;fusmOvKdFnE72kmC9cDnJw=="
 ---

@@ -1,34 +1,27 @@
 ---
 category: news
-title: "IBM gets out of facial recognition business"
+title: "IBM Gets Out of Facial Recognition Business"
 excerpt: "International Business Machines Corp will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
-publishedDateTime: 2020-06-09T00:55:00Z
-webUrl: "https://www.reuters.com/article/us-ibm-facial-recognition-idUSKBN23G01T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23G01T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23G01T"
+publishedDateTime: 2020-06-09T00:47:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-06-08/ibm-gets-out-of-facial-recognition-business?context=amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200609&t=2&i=1521584563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5800L"
-    width: 818
-    height: 545
-    isCached: true
-    title: "IBM gets out of facial recognition business"
 
 related:
   - title: "IBM to withdraw from the facial recognition market"
@@ -158,6 +151,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2018/06/1528483415_36061393564_af59f6feae_k_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "IBM Will No Longer Offer Or Develop Facial Recognition Software In Pursuit Of Racial Justice Reform"
+    excerpt: "CEO Arvind Krishna wrote a letter to Congress calling for police reform, as the company stressed its opposition to the use of facial recognition for mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-09T09:33:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190695006%2F0x0.jpg"
+        width: 1200
+        height: 1074
         isCached: true
   - title: "IBM gets out of facial recognition business, calls on Congress to advance policies tackling racial injustice"
     excerpt: "IBM CEO Arvind Krishna called on Congress Monday to enact reforms to advance racial justice and combat systemic racism, while announcing the company was getting out of the facial recognition business."
@@ -321,6 +330,6 @@ related:
         height: 509
         isCached: true
 
-secured: "eTS3dQynVGTT/tvfqCCpFvA6IibN85wHKzTsGFh8bAvv1oCJ23dqGl4cGQ8yNGs2ouy79Pj8jEUtvm4Tfr9O7sBZu7MPmsuFJdYlOQX9HSJt8tsKSTwq8NUfHw8fhmcRAGqVNHoJhZB0cL91HZfKcy3QaX1wYvKOWho0XRtRYmhz68ydFxhxPMEd8tkIsZjhiV5eokhn6ulZwT58MX7JjERzd545Ga0pASn47QKJPkFQiDHfgCYNOs3FYpEf6TzcErlEQnSkr+qK8HbPylsOcl0OngAAbersfPEtJEb+x7JqiLLJ6SyaoN0bHzQf6otc;7bR8SvRtk1fapFRzk4eGBA=="
+secured: "2kidGDlxQf96GqXHuSTviR++mYprCKP0hBvUL/xOV8q/Svd04bVkbOAEyqCP95deAFuGj+W2K+CtSp7UBQJ+BY4ltymCY2BqTtwWMcaVUtny+SjqWoQuFDGCgVyqi3df2Md9/4DNKxobf9v9BEpuOAVGEOqHapbImFIN3pxk/Cx9RhIrTnuEnnXcI0QE2JVjhBJUBRQB4iOhvrqXyV9v+AqImE0sAhxGZywBxspHLNfmgx/NbiBoWpro1EWbKXq7EDNhkGfGBWyRar9k7s6o1+1eB1BVPBnWEbB9e4JqIG777DCznv0WCvNf5VT0wo/kJ3pUPcqzB/5GuP4P13tKEiuD6TBHgNwdzHFqeJ3gUFYR7Yrr3kiDE23SSnfSyRsLrRx1S04AADuO1fQEti1Q99bFAXlwvmiLvv2pWrYE5r6mJuPTtC526EFdjj6x47x2wWnga5MI5zpiRsJZmi96h+FStj7epohb4Y5EhkRNCHAdEXahoglP81NFqSASCf3k;ZKU9nmzbmWBOkM1AZ/q86A=="
 ---
 

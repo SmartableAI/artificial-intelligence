@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
       domain: phys.org
     quality: 36
 
-secured: "cbzuHHz+bZFBiENQHhdtFBNdTl3LUQfxrpzlJwee9aQEUkPkfdALPq8Joa+rQuX7gZ3p1LFX9eg90+IhjLmUCHm8isBXe4VIbNAs1q30LvcIfICIMvgNVngpNlk3sukxf0CFfitc8arXd9TxcWUiHcQn8V5ANUuRdxwAUE1u3TWrD0Onp73Fuz6RU/s9MspvQ0uwN/l7gg0LMP/xT+B6am5BZHEIxjXVDUqTlXiQDWrn86bp/H9OS1LzhhUJSwgzoTn17qoPCb73QVtqkdX0Qd4hs9Z8HATqVgq/LELsl/BQhpdItoG8T9GXBSqpY7Br;fo2Nih/rY4/GJu1KGzlTDQ=="
+secured: "dH0ZbDE94bo9l56U8Yx3rlqWqK/zDH3ZQLwWbYPYWTQofkq7OSEE0hHlWzEGwNGdgVTug+mo24Ai6yDJWgJClQtDC9JsuyOsGGVKPTPTwTayudA6xECCXNJnmjKV/WHyAVz2hvnE8hRZyB2C9Di1GCdPko7xb1mUGaae2bLa6WG+WdEqtkBXB55QFOmWJovfgy2vGamRO5jU0K2DRe3bJLs1u4wpI0PNTlbiHiZWHvo3P/flYrr7TxieAlfAEEB5Kb6YBYHjefzYd/NGOqB0h6VomfvCaevV9MchNneCDTGYptRCILGGdclf4faM9Kf5;Kelr906oBFL19lzbFlaSzQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true"
 type: article
 quality: 88
-heat: 118
+heat: 119
 published: true
 
 provider:
@@ -80,6 +80,6 @@ related:
         height: 693
         isCached: true
 
-secured: "IDy9P3mZqxmbommqiUzucCAEkR8VOopy7rjMGI1a0AwiG2ZBM3SYmQvtqT/ZEY0OoKXkuwraNEFo94WZNNHFLu0BA1x6syXosuOb+VSOJNFGlsbHeP2fF98rH4iEAlZtQAesnkb7Qp+EsshPPWuQH+07v20Oz885u5JtfT4doJRoKYNDAggXvSYbAMwJgybJMxpUj1Oz2bwKFxHom5T7jSkSEt0iZWgV0uylD4aanp++IAuJ1myLHtjz/ngD/H9GKCF22izSFiAO2fSevCbU2mztSr8pQnyL0OnsthOZEIdMfHqOqQw3qRUVc4VucrNmY70os0cj74sjBYBmzp2xDCHsaebc/Vu203Cg5W/IvNy1mICyniZS320m0/TBO5bKN16SG6YN6X7aYQx8rWYH+C71mqaOeJhiyRxoRswd8GUrsSVXZc/e9pAkzN00NC21AslfAe54Z5c1sG56XWilVnN7PbPiDlQDZQH1BN+TTZw=;+zao7UYIr1rDG8O7vX66Ug=="
+secured: "OuRhUC5AE3swLPwTz5u2Hl4GAOVgh8gR1pq5RuiSXRfFyRztdC4tfTNdsOTtwGzcRu4XdsyS0xSBnvx3mU3PcnNwaWUNNJJMsInL4UmZOicaEA/Qv0oCGC4Qyq9DPdp97MiSphPQbw9wDgtJm2aIkFdPuyiIiKPHbU4qlnQcJK8BI566ZgF36ZaMRMhiL3KDMEnxHKSmXR8eDDxrDIqFfU2JZq49mdZl9gRPMJfZwGPkv7MqZ6AlK3uAN51m8aJgPxp/9DxtI0BgONnl3LAWMjoqcwyQoeJobQO8QnvLkygEYG8tiYOlGTfmuHHE96G8zft5n03AHVFh6xHrA5BwBrxEJ0GHAmBwc2bng3urxq0+SukjHktOAJYoQ7mw6gPs9Z4v6/1o33jvtDliax98wBouNYoRfXQPP+Ga/A4Te/hAkBFJokRHENLPrz0iK8H6PPn1+TiDSoJGUGZjdTnqJ40iCSf0s92SgBvcr7YdSfjruWbkMZJwW9Y7/nnn+mor;UjnXbsQu2O2wNf275zx/XA=="
 ---
 
