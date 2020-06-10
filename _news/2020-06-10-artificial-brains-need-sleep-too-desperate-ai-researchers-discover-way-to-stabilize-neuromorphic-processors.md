@@ -7,7 +7,7 @@ webUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-
 ampWebUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
@@ -174,6 +175,6 @@ related:
         height: 201
         isCached: true
 
-secured: "vGp1laRe3QiCLAAf8OUsRbi+0qtsdL91caastTQ23/DevP7+yqGvZsYhX0E/y7IP2Y8szWxUzFY3EEH9JWhGURmH1yxNIIriw/HiQ1QfFBjsEerj/2neTPPgpsi1T2X/OJTHHVoo+WhxV5d66Ff3dcPEg5CO0mZWh6z4VYzRO9d0rM/iFiyBfkQ3eSnaepqE1pq7amYyYyiUwMtTcyTHc0d5FiYNRf2Wo7Nxb74aWGbLcto6/gKbAMyFMzl0gJ8nmviLW/L1ye+TZzSgQUkxtP5w15wtDS97bLQaPCmHV0XZlXoclJE7bTJiTce3LvAG;6aBUu6LmzEsjSXQxJtWlLQ=="
+secured: "8UoMunKd+LUtC4o3zxYEL2VgDd5LDTzKZNPjBuPWrhqDBP/PX9BJpI7FWce+RW8LcARzBojYfhEG5XMkU6Jx8zcItfeB8MbOgxW0tBYv5XElvMt3P4sA5a9ehJm571WQIgUlbqH8wHlO6xTdrcCdchDqcTSPcVy6Cn/5xLiBdV0eDRUXLrG/89ZwWqxA9symM82mK3ZNiV9g9OEjdlpkgdhaY9a8vilcJyEwk+LV1Uqgzk0DzjaCOgdaKya+m3Z+13bzUoxtjEaV5/yCeS3ffiVobwUZSC+K7qnNj3jTER33Y0QIUnwZ/rFYyipewLDfe1xd63/S0kobDrfU9vJnUPbIOgHZuvTdNw6LKh9g8cyVkA7dXOuGpZPomn1f5okJYPrn2FqgT32aKze65usUhzXb9a2ql84YqIwd5UKPOtMCoHI9bRO+fGl2vgZh4/pTPZ/NpElKswoXzFpDllR8IPnMkvwqaBF/UQTLh9Soc2PQN/30h2XSoxTqWTaQ7K1d;7/iT4OT7bC6UwDOOZjbGLw=="
 ---
 

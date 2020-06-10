@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "How SaaS startup Vernacular.ai is going global as voice AI adoption accelerates amidst COVID-19"
 
-secured: "XC8+KFTEKKqyRG4oY2przBzC+nUiyv0CQbjkay1JxybDmJDhEaJf86/HWmhZW3vPc0i5ceA3xoH8VBVtrgtnnMYKGDHFaoKAE3GPff8sSCqFuOijet0aWt0ixDAKObxlwauYsssofYdkZySgTkC8uEpD90b5Te/Rgrlcx4Dk0jTo8Jg2NnRx0hh5j3Mmu0hhR4vi8RSjRtRjQA6eqlFojyZBRRVeY4ratk8sx4vDYAUxymRZTcrR467W/xFcyBLrkmnf5NIE2r1WZVchlAwAbpEmNJyL2Bu9Jze7QJ/TcxAKlo9oHR26Kwx2Iij/kkb+;IqB70e4Ujv7bmjdq3OLh1g=="
+secured: "d9PdLdgYLOBsRkEUw7K8vAE3K78PF41SHab39R8DCqSCxnpHkWJ0xv9DNTYuyRrIFveQrQe7Wc/Prm3+VQbF+EgOtRfGx7nBKwvv/mWNhiyEYcJIoiSl3ryusRt+qz3Sl/2lgHtQ/cTvEflQEFvdcmIv4P1sfaUoC/1n7V9jZzPbb1VOYLWh6hAtjk0k/vI5QMiH+BFBh68c8KJW24vKBamZaAWnc45MbUiR+jLYXTL5sBE1tOjnPGoy+PUEArQ7kyEvqXptStXpClHNNxB25FwRx76kNXBxuRWP8+FAcgJbt5BGf668H0G+M4vTjEYlfbHd+AMzrLXeCUv5sRkfv9/yuSm5lyejkp9RoT921gmclT3kZ0xkgH+G1Au/jmL5qWD8ud4GK+To2EQoI5nbaxJPXnILIzH/l5pWugdcU1zLrA+MmXAHjNqD+MAVQO3Ys2+o1+wcFQ03h2niLOkqSwhPFxcduy9rtRpyZXk8YzRWHN/Uz3bnlh/Vk5k0fRgf;t/20rkiLVkEzvgIPWjzukA=="
 ---
 

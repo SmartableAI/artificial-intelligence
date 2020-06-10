@@ -98,7 +98,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
         width: 777

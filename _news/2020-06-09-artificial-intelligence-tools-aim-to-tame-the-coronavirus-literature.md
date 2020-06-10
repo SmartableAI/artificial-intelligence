@@ -5,7 +5,7 @@ excerpt: "Developers hope that tools for processing natural language will help b
 publishedDateTime: 2020-06-09T18:40:00Z
 webUrl: "https://www.nature.com/articles/d41586-020-01733-7"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01733-7/d41586-020-01733-7_18049772.jpg"

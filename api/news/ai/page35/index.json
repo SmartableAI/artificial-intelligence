@@ -2,6 +2,100 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-05-mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements.md",
+      "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+      "excerpt": "MediaTek announced its latest chipset from its Helio G gaming series, the G85. It combines a 1GHz GPU with MediaTek's own HyperEngine for what the company is promising is gaming greatness.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588628153_mediatek_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
+      "title": "Omilia raises $20 million for AI customer service chatbots",
+      "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Omilia raises $20 million for AI customer service chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-uk-to-combat-air-pollution-with-ai-powered-traffic-lights.md",
       "title": "UK to combat air pollution with AI-powered traffic lights",
       "excerpt": "The UK plans to tackle pollution with AI-powered traffic lights that delay the arrival of vehicles in toxic air hotspots. Trials begin this year.",
@@ -1197,90 +1291,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-australias-national-intelligence-office-seeks-smart-satellites.md",
-      "title": "Australia's National Intelligence Office seeks 'smart' satellites",
-      "excerpt": "Looking to demonstrate the application of miniaturised satellite systems with on-board machine learning and artificial intelligence applications.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "publishedDateTime": "2020-05-04T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/12/30/410e04f3-e6ac-4a18-a430-61d1f5aa4809/thumbnail/1200x675/daf07249572277e1dbb0e5bce705f46d/newspapers.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Australia's National Intelligence Office seeks 'smart' satellites",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-deep-learning-hybrid-method-to-automatically-diagnose-periodontal-bone-loss-and-stage-periodontitis-scientific-reports.md",
-      "title": "Deep Learning Hybrid Method to Automatically Diagnose Periodontal Bone Loss and Stage Periodontitis | Scientific Reports",
-      "excerpt": "The novel hybrid framework that combined deep learning architecture and the conventional CAD approach demonstrated high accuracy and excellent reliability in the automatic diagnosis of periodontal ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-64509-z",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-64509-z/MediaObjects/41598_2020_64509_Fig1_HTML.png",
-          "width": 506,
-          "height": 685,
-          "title": "Deep Learning Hybrid Method to Automatically Diagnose Periodontal Bone Loss and Stage Periodontitis | Scientific Reports",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

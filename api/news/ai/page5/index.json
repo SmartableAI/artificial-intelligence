@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful.md",
+      "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
+      "excerpt": "RealNetworks is releasing a browser extension that automatically identifies celebrities and other public figures in YouTube and Netflix videos, using the same facial recognition technology that",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/",
+      "ampWebUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
+      "publishedDateTime": "2020-06-03T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/StarSearch_SGN-Prom_indexed-video-630x355.png",
+          "width": 630,
+          "height": 355,
+          "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-ai-or-human-lyrics-could-you-tell-which-is-which.md",
       "title": "AI or human lyrics: Could you tell which is which?",
       "excerpt": "Could you correctly identify AI-generated song lyrics? It seems that many of us can not tell the difference between a human or robot songwriter.",
@@ -1310,53 +1357,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
-      "title": "Should you be worried about cameras in robot vacuums?",
-      "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
-      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "publishedDateTime": "2020-06-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Should you be worried about cameras in robot vacuums?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

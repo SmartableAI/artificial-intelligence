@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Forbes
@@ -24,21 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes."
-    publishedDateTime: 2020-06-05T14:22:00Z
-    webUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/"
-    ampWebUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
+  - title: "Self-Driving Cars Will Eliminate Just One-Third Of Crashes: Study"
+    excerpt: "A new study says fully self-driving vehicles will only be capable of eliminating just one-third of auto accidents if automakers don’t prioritize safety."
+    publishedDateTime: 2020-06-05T15:12:00Z
+    webUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/"
+    ampWebUrl: "https://www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
+    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/427184/fully-autonomous-vehicle-safety-study/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: Motor1
+      domain: motor1.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.motor1.com/images/mgl/AVPLN/s1/2018-cadillac-ct6-super-cruise.jpg"
+        width: 1918
+        height: 1080
         isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."

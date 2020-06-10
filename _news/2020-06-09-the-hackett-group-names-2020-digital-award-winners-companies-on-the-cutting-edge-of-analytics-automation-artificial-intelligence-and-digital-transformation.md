@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "RayVision Uses Computer Vision to Detect Violations in COVID-19 Situation"
+    excerpt: "PRNewswire/ -- RayVision, a computer vision-based solution as part of RayReach Technologies has ventured into addressing COVID-19 monitoring such as"
+    publishedDateTime: 2020-06-10T07:53:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/rayvision-uses-computer-vision-to-detect-violations-in-covid-19-situation-835005687.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "J4hf+ev9ftLkF/OR8wCohnCnARwBBRAJ6h5oqDm+jZAtRPGJFghs94hCCLk82v/YIRMt3O1tF7+bf4eyCKvFWoXDBkvGGqsNrZhW9PYapLm8wl3T9wi06Ga173SsyWYCktd/NMZM2YrlzsDmHGfbuH5KkkiwrIf6SRjFfBh7E5ixgCTuLzsNv8Msjq5vIz8bdejqCtxzd2oQmZ/4h3bu+OjjmW5/T1cIAr7d6Ab0pn4sx3irzHAY4UdEAlIJpnpo3+W9gFGJEflpDL0hVyqnDR4kS7OAfQnXesmnGMB8tx2+pU39RlwvI8F+mNeID+r2;SEkP+fHh4L3pEf1pNk/Bnw=="
 ---
