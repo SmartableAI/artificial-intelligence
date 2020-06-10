@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg"
         width: 1200

@@ -2,6 +2,52 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
+      "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
+      "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "publishedDateTime": "2020-05-28T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/05/09/4cd04908-1033-469f-be2f-dfe55163e039/thumbnail/1200x675/6cc8d2e936c36888209677284ed1acbe/toll-group.png",
+          "width": 1200,
+          "height": 675,
+          "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
       "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
       "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
@@ -1287,35 +1333,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
-      "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
-      "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16124574",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16124574",
-      "publishedDateTime": "2020-05-28T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

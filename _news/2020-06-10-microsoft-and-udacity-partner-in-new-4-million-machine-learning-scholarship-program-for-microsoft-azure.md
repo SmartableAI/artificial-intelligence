@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-n
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg"

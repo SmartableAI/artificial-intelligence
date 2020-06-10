@@ -2,8 +2,8 @@
 category: news
 title: "New Statesman's new digital chief David Tomchak: 'We shouldn't be scared of robot journalists'"
 excerpt: "Standard digital editor in chief David Tomchak believes journalists have nothing to fear from AI-powered robots."
-publishedDateTime: 2020-06-10T15:36:00Z
-webUrl: "https://pressgazette.co.uk/new-statesmans-new-digital-chief-david-tomchak-we-shouldnt-be-scared-of-robot-journalists/"
+publishedDateTime: 2020-06-10T16:02:00Z
+webUrl: "https://www.pressgazette.co.uk/new-statesmans-new-digital-chief-david-tomchak-we-shouldnt-be-scared-of-robot-journalists/"
 type: article
 quality: 27
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pressgazette.co.uk/wp-content/uploads/2020/06/Tomchak-e1591802054446.jpeg"
+  - url: "https://www.pressgazette.co.uk/wp-content/uploads/2020/06/Tomchak-e1591802054446.jpeg"
     width: 367
     height: 275
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 405
         isCached: true
 
-secured: "RwkzR7wCwPhDNsi2OjjoIS4sxKZOwse4O8RggYcVeIfbi39q/ICXUZXxSmADLGiBwOeVApI891bdHzJQEwFuPr2X8AYoz+wgETD122ssCCOWqzjIucxGyOVKxonrrpNVl0tiRrwPBCTzSyKcMgI78ae/6n19wWrv1DNd/loxnsN3OwluNZlXiCq07cWazSw0fOQb42JsyBnd+Rd1vT3irvKkScwll16qQsh0aMm5E+Shnn4Lozu1ezHl0mGe7K5ZjUKFNGVZYhBVL2gqQjuKf2UDmANblDnWcYQkX9WSuNTJjN+Fx6RbanR2iPnFEDTQ;Pd2IQxwNZjLlmff8ZOtZYg=="
+secured: "P0wk61cyPaQVeefn1D1yP9UtgTD0noR8Zt/RJauk0P3Gn+s214G+7WpVQiNlArX+pnyCQfYC6iG2XvDL51tGO5itfXHSuWNQbOXTtELWjGE1jpuL6Ndg8rMBJgqTgOiMoRtUvTMZwXYsQ/GwQsfHi+/sW+L+vHYuICXF0sA177ASrm2jvivzVYfnvYAZZI6298M1NUrZUeZi3U62OZZ2nX/vyPb6S+wNA1w/LmSKK4LgOi+rdQ4ezvVwd3e0QZj0VQJAL3Z4GRYnE5bC2wBiOLZfpHK25HQ+O2Ka45hNC8GSKdVA2zcf+HlVwcnONL0G;5/0aS1oy5U+ryGNB78d3cw=="
 ---
 

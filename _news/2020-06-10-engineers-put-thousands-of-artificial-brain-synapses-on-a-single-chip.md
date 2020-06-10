@@ -5,7 +5,7 @@ excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a pi
 publishedDateTime: 2020-06-10T14:42:00Z
 webUrl: "https://www.controleng.com/articles/engineers-put-thousands-of-artificial-brain-synapses-on-a-single-chip/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTL2006_WEB_IMG_MIT_Graphene_Sheets-Slider-1.jpeg"
@@ -155,6 +156,6 @@ related:
         height: 295
         isCached: true
 
-secured: "aM/+KYh2SDyXTELm8jCG3JNixxKAQlPo6cX2xnIZ0G9RT34xN2aRFVigGohxBTL/CnAaq6ly5qJhzuiQN0PZCrKUyVnyJ+pE2OvE2qWaKLgJxa+NGaVxkASXotGvGDjkgQbI32RtuSgFOvwgMgYzxacEcRMGgqdIzW/h5qQ3/HEFq+Kmh8WpzAFbMxLjZ+WoMFPF70AY/EYC6PzTynIz0yKkgQCDqPWnRiZDqQMZ/u97qvwV/xlu13UIhQlnm7kK3aCO8el7JxO4m2+vCin1ivm5Ht09QadldNdnM3W7ZxW/eJOXSbYPeQeVOb5cqWUx;1OnALV4n1FKRkSLJlOZLbw=="
+secured: "sxXVxVeOWeRFo1lmh57wRejjrRYpN6aOWh65HbmceCmk+eMotJe8c1NHiYkYLlL/CRPdy81tw1j6vsmAjCgx5e8qlSE7qxWGWpr+zNqYapo2B85AaOq6zzEOHpg3wzkzWFbkCNhFYoruTSEesLjI8x+6+H/975wG3XSZhKbnaWfU3wBhAAlVGoCWBKo1DqLy5MhNMLH2W0qQoMNFzcbVeNs14I2y5KQZd42vRXb/UwWil9KLgQgxdbklWr8H/Cu32us6QrW7u5c8di31jSR6y/5VN2mK6xbrHZiDaxfrR4S9Hu1XjsLOGJDluNl1i/sKPZ1qN6QSkRt+cRbVjh4z6TpLljBjShGFZ26H41Kob72Y1D1ZpEI2VMbiBBrD4H436/fV5CxyznlS8F1dJohJwZCoJmQSMcEm6D+8LIau35p8iYqdIVZ2WC1h7OIwhR6OAMVWLz2jvEznpJsO4Kj1I8fy5k/Ck2eNkQEg+TyM9TCNM0FoSbNxJp3F1Dyrz3BD;bLLGgRGQFXRo9fEJmoXa5Q=="
 ---
 

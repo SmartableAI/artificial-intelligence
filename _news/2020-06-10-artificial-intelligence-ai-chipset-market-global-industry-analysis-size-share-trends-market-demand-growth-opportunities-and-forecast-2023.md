@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024"
+    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,"
+    publishedDateTime: 2020-06-10T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market Size Analysis By Growth, Emerging Trends and Future Opportunities Till 2026"
     excerpt: "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has"
     publishedDateTime: 2020-06-08T15:58:00Z

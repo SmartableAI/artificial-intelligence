@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-09T14:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     title: "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report"
 
 related:
+  - title: "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024"
+    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,"
+    publishedDateTime: 2020-06-10T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023"
     excerpt: "Global Artificial Intelligence (AI) Chipset Market 2020 Research Report offers up-to-date information and historical"
     publishedDateTime: 2020-06-10T14:38:00Z

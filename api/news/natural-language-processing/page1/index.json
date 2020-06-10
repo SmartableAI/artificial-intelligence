@@ -426,9 +426,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_176079931/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_176079931/",
+      "webUrl": "https://www.zawya.com/uae/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-04T00:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -438,7 +438,16 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI should serve us, not destroy our humanity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
