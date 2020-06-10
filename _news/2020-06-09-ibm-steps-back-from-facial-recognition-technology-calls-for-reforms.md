@@ -3,7 +3,7 @@ category: news
 title: "IBM steps back from facial recognition technology, calls for reforms"
 excerpt: "IBM CEO Arvind Krishna called on Congress to enact reforms to advance racial justice and combat systemic racism."
 publishedDateTime: 2020-06-09T12:24:00Z
-webUrl: "https://www.nbcnews.com/tech/security/ibm-steps-back-facial-recognition-technology-calls-reforms-n1228186"
+webUrl: "https://www.nbcnews.com/tech/security/ibm-steps-back-facial-recognition-technology-calls-reforms-n1228186?cid=ed_npd_bn_tw_bn"
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1228186"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1228186"
 type: article
@@ -471,6 +471,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "ri0E0Hozs+/gB0HPs0IWyRrfmA+RJCaG+70ZQtIrHoEbG5we47VdvR6OZSK2Vau9ez2resOFUW+V/Iq/S8Bm6BK2nlXHh1cuWGkjsHa6EjnZ8UWoC3maSzDds4VViyD+zyUoiricCLQTxmU7djS1DuDVpXTxIcWDbq+HkjQwkiedTujbXvzVYzhYDTE5U/r4SJIvPraGuPGrTevuQ/4P5JYqV4eHlK7aPIO4iZvaacV/IlnGlpkPUBQE8sdqfiCxnk0jHktm6Ywjubkg+beMJ5exx/U5wGkQR8hqUZNCzm3VVQGovWY1HDuns1mIB3nYGVIjFy1rQi4Eg6L4JZpi3GVJaoGe2TPfOXUHn+wV4S8qe+FhFiMWQbM905qC00yUyoeeN2CbDZAF9oZkZPS9QUKvjoyoQKI6Gcp4TghKfVsk9uJx7OYGV3FEcG4O/a+BNqFgx25DDYo/gVqxLxwfoxnJgmj1ZwOsOuTjYeXLS25cQ4YmbgVuE30SaeIJw4ow;NIFFr0y/GAuwParl1o6G3Q=="
+secured: "CRT2jcBgIYbStR3XF87o+fXjLvHA3evWcHreUUr1blx85EbBqUoQMfLmbefwOQC2f6O/IeIvQFdX65wtu3ux2gCrKRJUTwXSBu0KIEDAyoasaFeXtIdqfCjRbzt5suPJLo9C3kq5Co0s/TeWIPfThhaRDUKriaCtIU1fGkcMQMgStTmR5lOuo14d+2xKvPrRu9ecJnozmFFYEuQnUyxVX5AFHwzmvYwf8Xw96pcoprNc4TBYy1gPma2MPepDGvqU0UpG20avYYjJYKS0ii/3BF6cO5RbLnBmwlTw0a1fE41SKdKVmHshmh6S9St6PKCm;1SKpzJ/m4M9nrSSvsJ1dng=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Foresight to Enable Mass Screening for Detection of COVID-19 Pandemic Symptoms Using Thermal Cameras and Artificial Intelligence Expertise"
-    excerpt: "Foresight Autonomous Holdings Ltd. (Nasdaq and TASE: FRSX), an innovator in automotive vision, announced today that it has started developing a mass screening solution for the detection of COVID-19 symptoms based on visible-light and thermal cameras."
-    publishedDateTime: 2020-06-05T11:15:00Z
-    webUrl: "https://apnews.com/9c29c79bff30491dacc32c51ccbe78e6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "cIkZzYeTrtvnwd7z7atAEnX77Vy+1O4281St0Q6cEbZyFi2N+0jT5TkFntF20pRiq2yhx5QqhWzQbapVp8Oe4UQd217fa3wqavksi7Z95L17GNVyN3gUeNDS7vherbODrdKhbLZb3g8egMCqAedBat0bIn1M1OFZbZmc+8fXfr3J1G9kxLbjdBNPevnsf4foVbER96/sZ4Hbzjs5NRrZpPnYqrXa8oMQ/EVdmo0WHLiptDMGbTyYSqmJTJ7k6r2T9LtfBvJ/mjAXidI9gakg4wh/5ysgY2osYRDxD6SfXBlbO3fH6txmmo4nB87W8+s1tf1M2ryYRHWbTX8U/AwGxM+sYRErIhN0QShz2WV9Q5VDeBWCpjQbME4TyL0uYkcxYyot4gbK1wEsnglM17c1/ym//cOIejIuXCTlavC1tb8tRPYmesZdPk0ZFm5sJukHjErxtonCjTHJCvE1R/W7oPumgSbqgybkO6mMWt+SfGoQCNeTPMGtKyj3Z9+0Baro;Ndb7WaPnVnjQBsF0Y3YsXg=="
 ---

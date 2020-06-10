@@ -133,20 +133,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
-  - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
-    excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-06-05T11:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200605005216/en/COVID-19-Impact-Healthcare-Information-Technology-Market-Product"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "rvhCWsqo3v6fBLgEb20DGk6XD5dGi0Qjo0295UA/yY3v4wuwfUhjijjTRmpKMusnS/Qy89HuYhnxA2bavX8Mxq47itUoLQnt/c2iXPoFq2tqzUwasWtYc12e4q8uvfqFy8PpdPnViH8KYGQBX3NjNc6Yl7HCLBuaDlZGemdhGSJzMY57Y2Ah/q7tIQKmz1zEORK8ZNVhEkmqmKn9XquUfTEqkkrtoTCO0N30DR6/a8FULDzrv0eggO4KUvxE3CXZQUIMyXWABz3vrpywoGxub7a4aYmDiie7yDbSeq9twn/sLUdVu/4KutIPLyLJtZXl;kFWXjW2VaJzcy3Zhb1P3gA=="
 ---

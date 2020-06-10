@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-nee
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
+    excerpt: "States that resemble sleep-like cycles in simulated neural networks quell the instability that comes with uninterrupted self-learning in artificial analogs of brains. No one can say whether androids will dream of electric sheep,"
+    publishedDateTime: 2020-06-10T05:06:00Z
+    webUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/"
+    ampWebUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 40
+    images:
+      - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
+        width: 777
+        height: 486
         isCached: true
   - title: "Artificial brains may need sleep too"
     excerpt: "Neural networks that become unstable after continuous periods of self-learning will return to stability after exposed to sleep like states, according to a study of simulated spiking neural networks, suggesting that even artificial brains need to nap occasionally."

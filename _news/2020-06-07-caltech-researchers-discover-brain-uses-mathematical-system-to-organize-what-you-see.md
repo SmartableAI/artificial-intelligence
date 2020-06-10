@@ -24,17 +24,6 @@ images:
     isCached: true
     title: "Caltech Researchers Discover Brain Uses Mathematical System to Organize What You See"
 
-related:
-  - title: "Researchers discover the mathematical system used by the brain to organize visual objects"
-    excerpt: "When Plato set out to define what made a human a human, he settled on two primary characteristics: We do not have feathers, and we are bipedal (walking upright on two legs). Plato's characterization may not encompass all of what identifies a human,"
-    publishedDateTime: 2020-06-05T12:14:00Z
-    webUrl: "https://medicalxpress.com/news/2020-06-mathematical-brain-visual.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 10
-
 secured: "Eolm+EFWzamVBVWkqnXx8XXVS+k/2VStmV8CCKe4Bs13qw3ZRSVQmOM5CuhXy1/zkZOeJHAqC8Ji1b38rGcYANrWMi9ZodK4JYMbHpTnXSCsweekzx6t9U1zznVHBTh4Vs+LjUuXD/GZajvHNjpLHZrf/1z97BvkJ/DwrrFS9awkx7Z0b4FXWZw2jhP7l4G2ScMnygzauu1hENIGs/uVUAmW0AYIU3A7IkUeQcQdO6WZU7cdAsd5wD1JA0iF2CfU1FoP3pqZqndrwLyZyfXiQFarA0qN1CG7tnEU3bdGK4CpveEYtRR5wJtQP3VzHt1wyUy3+MN147KcaFt1bnwTY79WogAxjjoM6rfbzuzLgLvk5Dvfi+gP9WPUfpY/OBrNd2dcPOzduRvfkCeI1UUH1NWgUuCd/MAycykKnARH/pHWZgYCzQtvMamnEdBJlwYxiCbKfS6hCaaNiwnkAAG17vskXPEgS3XmftVnYGCfRBA=;+TG0BBg4Nm/0MGceAY2RGw=="
 ---
 

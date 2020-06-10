@@ -47,17 +47,6 @@ related:
         width: 796
         height: 418
         isCached: true
-  - title: "‘Dazzle’ makeup won’t trick facial recognition. Here’s what experts say will"
-    excerpt: "CV Dazzle makeup's creator said it won’t trick today’s sophisticated facial recognition algorithms. Experts said there are other steps protesters can take."
-    publishedDateTime: 2020-06-05T12:09:00Z
-    webUrl: "https://www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/"
-    ampWebUrl: "https://www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/cv-dazzle-makeup-facial-recognition-protests/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
   - title: "Facial Recognition and Digital Surveillance Are Ending Anonymous Protest"
     excerpt: "If we want a society supple enough to respond to the voices of its people, we need to keep a close eye on how surveillance technologies are deployed."
     publishedDateTime: 2020-06-07T14:00:00Z

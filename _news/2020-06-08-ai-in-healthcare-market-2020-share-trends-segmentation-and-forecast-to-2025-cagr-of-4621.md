@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
-  - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
-    excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-06-05T11:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200605005216/en/COVID-19-Impact-Healthcare-Information-Technology-Market-Product"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20200605005216/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "aOWHEwBb/zYZkYWzMw+79bOzPc/htCx+tSP290WgUwGtaRd7NVoU0O5u1aeKUa7N6msX7NB2dyCN3z7v/noGiYbfgUZlAgZiqk0uK0NCWSG/7DyFbOlw3c6FuL99xm7qfUFtqBLj4I7/mpHWemce+FSvkB0+w857cTeAZ4Z2fDHGotIFl1GEGAirZ7DmQ7aqgy8L5lh9Q7Ui0EOKRyys4njlKeKMPHWMzjm57VnO6HdXP03wQOFg9ToagHp9Dhc3GvTjQrGtlDCdu1bCwxTzz9LnQhW0v+Fho0yXIDLBQYjsJCVLm4+ZvSG57DmAldLm;uoYs2MUUTtUexl7dx12GGA=="
 ---
