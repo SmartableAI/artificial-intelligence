@@ -2,18 +2,22 @@
 category: news
 title: "IBM abandons 'biased' facial recognition tech"
 excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-publishedDateTime: 2020-06-09T13:55:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-52978191"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52978191"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52978191"
+publishedDateTime: 2020-06-09T13:56:00Z
+webUrl: "https://www.bbc.com/news/technology-52978191"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -365,6 +369,17 @@ related:
         width: 900
         height: 598
         isCached: true
+  - title: "IBM Exits Facial Recognition Business"
+    excerpt: "IBM announces its departure from developing facial recognition technology in the wake up of recent unrest due to police brutality. The controversial technology has drawn criticism for its racial and gender bias."
+    publishedDateTime: 2020-06-09T22:09:00Z
+    webUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business"
+    ampWebUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ibm-exits-facial-recognition-business.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 39
   - title: "IBM to stop selling facial recognition technology"
     excerpt: "IBM Corp.’s Chief Executive Officer Arvind Krishna says he is withdrawing his company from the general purpose facial recognition market over concerns that the technology is being used to promote discrimination and racial injustice."
     publishedDateTime: 2020-06-09T00:52:00Z
@@ -404,15 +419,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "IBM exits facial recognition business"
-    excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
-    publishedDateTime: 2020-06-09T06:44:00Z
-    webUrl: "https://seekingalpha.com/news/3581366-ibm-exits-facial-recognition-business"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "IBM Is Dropping All Facial Recognition Research and Development"
     excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."
     publishedDateTime: 2020-06-09T11:36:00Z
@@ -437,6 +443,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "PnzyU5TIK7K2Td9G8Ec8T35OnsVp8YuoALGMWi/1UInUZWznS0Rqlnks7go2Twk54CCzQjGDGkcSxYXpG1FPSvl95Brd2yBk6hzG2d9cFhz2lrbQzCOY7ROJEgrRc6JfwVV1euvI9eAUOxinyrL//YFd33HUsgA+PEYb5enL9UatZljKO2vCyut/nSKt50N0Yr+keBkbEjkh+D2+aQ9/CwKj2yo249XZ8+/tQLvnpR16IgTC5SdaFJuXskBqWFBqwI6bUDCsKJ/Has6yIx3xyezBlFlsp6EibTGRGkoMdwHhmWs7gOm1sGnoB7L5/I8iUuFwg5AC19uNQDGD8Eijm+PNROX04lnYQ7XtiQKRJsFDYhIdBAUJHn21h5z8qROt0lZQi/FRRFuor2q+tg+BbPNNdeYLFk0wAlknXrX8qAk0Fv1diPUHeeH/Ud2AatulNXsNFFTNc5euyrDmfcwjunvTOf3kfjzOvbhFAvRjN8tU1VQYIMLQFHGkFkBs8IlM;xrp/XdW9jofBOHXWfdpo1w=="
+secured: "r++yhGGWiWJyYcEkJmaiJHGKaG+whvWTDOMf8EQ8gafV6iI1+Wvok2wheZQjvE/u+T5ZWAAmyKkvlfhVTpg3owFm41cQUa4s0QOKAHCB4TdPF6bncnXKot4P0KP/Wtip46akg6x+FuzKiWsAMBZ6DMrX5HOXdaDvZFs0RjfvSl2G9B9TkJ3vgINEptCe03EWYfrQd5T0IhQSRAtF1ybDGqA78hStUuqDdH2tijxzUVKnbsRCmw75n5vAvvqdnAQ/WqO6/QhZXbPXhnCSD4bSulPO3jlVzCn/BctoInrIrlu5WLRkwZmyeDfgBLqqgMdW;+U9pOrwZQvlVPIBaiXSoHg=="
 ---
 

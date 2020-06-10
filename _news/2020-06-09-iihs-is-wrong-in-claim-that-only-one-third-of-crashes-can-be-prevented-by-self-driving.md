@@ -1,28 +1,27 @@
 ---
 category: news
-title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
-excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
-publishedDateTime: 2020-06-05T15:56:00Z
-webUrl: "https://iottechnews.com/news/2020/jun/05/iihs-self-driving-cars-prevent-one-third-human-crashes/"
+title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
+excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
+publishedDateTime: 2020-06-09T22:10:00Z
+webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
+ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
-quality: 24
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: iottechnews.com
-  domain: iottechnews.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iihs-self-driving-cars-autonomous-crash-research-report-study-iot.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-    title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
 
 related:
   - title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
@@ -41,17 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
-    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
-    publishedDateTime: 2020-06-09T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z
@@ -65,6 +53,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
+        isCached: true
+  - title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
+    excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
+    publishedDateTime: 2020-06-05T15:56:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/05/iihs-self-driving-cars-prevent-one-third-human-crashes/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iihs-self-driving-cars-autonomous-crash-research-report-study-iot.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Self-driving cars might only prevent a third of crashes, study shows"
     excerpt: "Self-driving cars, long touted as a way to eliminate road deaths, could likely only prevent a third of all US road crashes."
@@ -106,6 +108,6 @@ related:
         height: 500
         isCached: true
 
-secured: "PlfiFqtlmuKEWOx7NHcJm0z9kIsP0NCcIuy5bhq+HHv6WGN4XwBJbHu02ZBRvH2VpQmc2LeAAvGqoBPCMK1IEaWXWAPkzXDpcv3sDydYktIX/jpJ6NJwNSR5MbiHGa/IQAsPEj6yCzTb2eFSNmc/Uqbk5LFqHkynzVQHWFu/jb5t7m76bVZMKojzC4StIiGZTOpAuZ8sgXAs9FY18KRhq8SMQ6TCCdwFU41M+KWzx/qs35s32k7jyCziGuXZRGm+V1W97V5mxJY4YLMOG7wDpNxvCv5GoGh8TES2BvgrxbemSpC+6Z9Cx6JyRpmpg1OhxZrKHAsPtd2T8UGB5tJnAoHwChFbHLQjcjT+PjLhO7KeWhL06FdWqTvl/MMwPu+blKrs8v5Nd6N+Rh3TocN9GplybWOtBHjeKHXBW+C6B4X7pqVrsFZlYhzwtTmkKjHkC/oG+lu0yJEElf3EquCXoVncvQQ+ycaEgt7mi7sDQlw=;x3G/mOEQnFvE70DLk1edPw=="
+secured: "OMlwlSVZzqdZKhIBHNAx36ILwniX22NxY4mDuLuEf07RAzBscHp/bkAmFLsZACMgqoTOmWV3SN5ONJFGNukdl7chgoVCWRNDwyhlBvcC3ubKH0tV8faoNaCxLoPyCSHK29LqmKfKhlHGW8WIhlfnPd8j23wEWd+7pTgHcdgrLZbaWq6JbMfTMByL+y/X8sDLVdFWnC9LH8XIfbVNjQVPCs4xQPx7T+jTjGiED0o5a5O/LcZKY5Rg46QUPz2PHs1Y/0e20JJpKNRP73IQpGhYWAqMw4/x7cAcdGkfSakhrmT+AibpiX6eYrHmvgheVx9PRZ0wu8GXM1kUifI8ekq3nX5zXG1BsFVfcQTAwP4yXmGR0G+YpwXg/daJ/o3CItLJjGBRhgvdfdy8FKQNZvtYujsGrvQks49cYZVHp4lKGUBuyIB3KqSZJCkbOqNRlk6f4zrdUrRWOhNw8At+3hNR0RfTYi8SmUE79cvsP0yZbKDEG0Rz1SdSIHKFjW7MRvBy;bXaZZ2lufpXWVpvlAs0c+g=="
 ---
 

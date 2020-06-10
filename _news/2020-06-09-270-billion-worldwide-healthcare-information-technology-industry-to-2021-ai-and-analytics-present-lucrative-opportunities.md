@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
-excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-06-08T11:54:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16199822/global-healthcare-information-technology-market-to-2021-the-rising-prevalence-of-covid-19-is-helpi"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16199822"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16199822"
+title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
+excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2020-06-09T22:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/270-billion-worldwide-healthcare-information-technology-industry-to-2021---ai-and-analytics-present-lucrative-opportunities-301072916.html"
 type: article
-quality: 13
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
+    title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
 
 related:
   - title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
@@ -129,20 +134,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
-    excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-06-09T22:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/270-billion-worldwide-healthcare-information-technology-industry-to-2021---ai-and-analytics-present-lucrative-opportunities-301072916.html"
+  - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
+    excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-06-08T11:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16199822/global-healthcare-information-technology-market-to-2021-the-rising-prevalence-of-covid-19-is-helpi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16199822"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16199822"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
     excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-06-05T11:19:00Z
@@ -158,6 +160,6 @@ related:
         height: 627
         isCached: true
 
-secured: "MJOCKO7B5nMyrwT7ZkA1iH6GY/q0dKfmxagaAMLaVNW0r4bUgH7gSfbpJsLz6PL3w74Pj5q/qlA56hm5YeFzg6eBUlAgWqofMO6kg6wJLDjkZQ52Tfm9cxUFPo39HmN7PgjW5kHjtRMfzvWLLYarcMFxm8sAvWn4uhvAUS9wzB5ayLVu9QSFVTJZYq+vJL5Q8Ea2Sf8u/hl4vKjalSAIft2RF8tOmkFAZ4jn3W2USDMhN6dXx1bBllJt+7xFaKr9y1dvGmcYL63RB0sUQ+12ZxIm04i0t6nkAyawE+PdS0i+4UDBTsxv5Pr1r2JWSNPc;o5GiUqwdeKbZssll1cKQnQ=="
+secured: "+jaXTsbtuKgHCU5L7EafDJa7TBCtrFPiGv8A+EY0MxLt7tKfhgvYcRC/7OQthrqFwPIbyA5WO9L6DJK/YQG5P1g+MqQXgCE3RI+P9Cq8HfXfcN9+T2PfUylf9LDSOvh68pBmPtVBCPy0P2ekl7d7eqvXlaU3pXzHSwgCSuPWm83OPhQTNkICl5kEDSj1kb+qh214xXy7V7exmx3V5qPwHhbtUuudxXFbJsf6mPlBEq9ryjeqBTUpuE8Y7TeCGc1pyV0mx62PlkiYRt4WOSsE3wvR0EC7O/h1a+J8VwyuXFjk7DJHSov88ox/YON7kiEG;hxTobQoNCHUeNT9gRnQuPA=="
 ---
 

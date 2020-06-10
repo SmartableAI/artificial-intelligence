@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
+    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
+    publishedDateTime: 2020-06-09T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "IIHS: Self-driving cars would only prevent one-third of human crashes"
     excerpt: "Research conducted by the Insurance Institute for Highway Safety (IIHS) has found that self-driving cars may not reduce crashes as much as hoped."
     publishedDateTime: 2020-06-05T15:56:00Z

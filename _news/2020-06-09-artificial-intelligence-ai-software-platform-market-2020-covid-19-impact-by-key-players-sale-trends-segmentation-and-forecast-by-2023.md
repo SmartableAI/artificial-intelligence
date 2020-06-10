@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 09, 2020 (CDN Newswire via Comtex) -- A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and ..."
+    publishedDateTime: 2020-06-09T23:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
     publishedDateTime: 2020-06-09T13:50:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
+    excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-09T22:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/270-billion-worldwide-healthcare-information-technology-industry-to-2021---ai-and-analytics-present-lucrative-opportunities-301072916.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
     excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."

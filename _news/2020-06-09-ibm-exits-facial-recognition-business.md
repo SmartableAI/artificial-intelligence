@@ -1,17 +1,19 @@
 ---
 category: news
-title: "IBM exits facial recognition business"
-excerpt: "\"We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies,\" IBM CEO Arvind Krishna told"
-publishedDateTime: 2020-06-09T06:44:00Z
-webUrl: "https://seekingalpha.com/news/3581366-ibm-exits-facial-recognition-business"
+title: "IBM Exits Facial Recognition Business"
+excerpt: "IBM announces its departure from developing facial recognition technology in the wake up of recent unrest due to police brutality. The controversial technology has drawn criticism for its racial and gender bias."
+publishedDateTime: 2020-06-09T22:09:00Z
+webUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business"
+ampWebUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business.amp"
+cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ibm-exits-facial-recognition-business.amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Cheddar
+  domain: cheddar.com
 
 topics:
   - Computer Vision
@@ -65,6 +67,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/06/09/business/09ontech-still/09ontech-still-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "IBM abandons 'biased' facial recognition tech"
+    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
+    publishedDateTime: 2020-06-09T13:56:00Z
+    webUrl: "https://www.bbc.com/news/technology-52978191"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "IBM announces exit of facial recognition business"
     excerpt: "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,"
@@ -253,22 +271,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM abandons 'biased' facial recognition tech"
-    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-    publishedDateTime: 2020-06-09T13:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-52978191"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52978191"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52978191"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IBM exists facial recognition business, calls for police reform"
     excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling."
     publishedDateTime: 2020-06-09T03:58:00Z
@@ -435,6 +437,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "KzlA12p36JzyHPcurvHVreLPdgKyzCaLsDtEn1ve9Sovhwy7U67F0BqVu2NE0aFG266wLWqAM7OSogKIIfxtLbLqWyx5a8K+7/MI/NUA9MZ3PrYSyMjBb1/dEc1lYf/IO0aNmD0c3aEshV/Uv1PO3d3WhGlfr7CtZxnrcyLXo2V6/PX6B9aB6pWor4zxxIYVQL/gAXr7FlawmiVRaGWJFr5Dbm1trKSlhclrtj/YFTE9o/ijSZ5NZhiWOecesnlSrqQVLsqy7SSnXSQnwJ1lArsnB8QwyqwlsqumHC2+wo4d9PcOALYiJ9r0GRRQ9p31;ykbC9W1VqQTUeaerJ/GR6A=="
+secured: "CsaRimdCAb0K0urpEG7vUTvtUFiHp9LNFRMq/PbKwzE1HBdL/VsA9nJd8UYYz4p6SmKDw6yv3RJIjRVo+yeNYYPtgk20DIq3qbzIDlJLStipZqbMw7kek29qZLOvzV60+Fd0d96Hv+DsJ/k68/RvbXwpL8e2aCt/JXQ0xlXNwsvcJHeg3cRdoRIon66rHiUpJJoKyaT2eOQ3PFfx/LcIXU4vNp55RAzrB++vUxACIK8WBEl3T8RwPEyGyEujNVRvY2FqN3HaAmglZohOXE4aCLv2DzdRJ7KsdLs1zIl4IfZd9arHzTlJqK59SPENr8n2HTx4q54M6TrBr+ygtDqokdHNrIZkDPbrNMK2WfyJDsXd+33MFaYf+eNiz9cOwSMPOY/ZsCzr6ravmiOC4BWYo9mHSUsGwCSjhOct4neQeBsCWirvDaGwvf/wDjWWO2mutgE0SEvgm2CZW5uJ43oMDgN7k13lF9jfSh4LJJN/tWEyFbmNRAuiepqg+/Z1grgI;/Fc5TWz2QBP5PXeGCownNg=="
 ---
 

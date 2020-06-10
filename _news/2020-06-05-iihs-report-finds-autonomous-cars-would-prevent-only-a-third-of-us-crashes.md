@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/"
 type: article
 quality: 70
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     title: "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes"
 
 related:
+  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
+    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
+    publishedDateTime: 2020-06-09T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z

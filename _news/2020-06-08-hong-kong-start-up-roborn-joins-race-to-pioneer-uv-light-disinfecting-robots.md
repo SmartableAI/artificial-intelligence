@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots"
 type: article
 quality: 86
-heat: 97
+heat: 96
 published: true
 
 provider:

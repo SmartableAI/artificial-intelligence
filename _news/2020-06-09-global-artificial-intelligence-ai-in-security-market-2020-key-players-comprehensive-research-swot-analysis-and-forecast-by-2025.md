@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
-excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-06-08T11:54:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16199822/global-healthcare-information-technology-market-to-2021-the-rising-prevalence-of-covid-19-is-helpi"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16199822"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16199822"
+title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 09, 2020 (CDN Newswire via Comtex) -- A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and ..."
+publishedDateTime: 2020-06-09T23:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09?mod=mw_quote_news"
 type: article
-quality: 13
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
 
 related:
   - title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
@@ -76,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 09, 2020 (CDN Newswire via Comtex) -- A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and ..."
-    publishedDateTime: 2020-06-09T23:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Software Platform Market 2020 Covid-19 impact, By Key Players, Sale, Trends, Segmentation And Forecast By 2023"
     excerpt: "The global AI Software Platform market was valued at USD 2.75 billion in 2017 and is expected to reach USD 11.3 billion by the end of the forecast period with a CAGR of 28.1%.The"
     publishedDateTime: 2020-06-09T16:45:00Z
@@ -143,6 +137,17 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
+    excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-06-08T11:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16199822/global-healthcare-information-technology-market-to-2021-the-rising-prevalence-of-covid-19-is-helpi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16199822"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16199822"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
     excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-06-05T11:19:00Z
@@ -158,6 +163,6 @@ related:
         height: 627
         isCached: true
 
-secured: "MJOCKO7B5nMyrwT7ZkA1iH6GY/q0dKfmxagaAMLaVNW0r4bUgH7gSfbpJsLz6PL3w74Pj5q/qlA56hm5YeFzg6eBUlAgWqofMO6kg6wJLDjkZQ52Tfm9cxUFPo39HmN7PgjW5kHjtRMfzvWLLYarcMFxm8sAvWn4uhvAUS9wzB5ayLVu9QSFVTJZYq+vJL5Q8Ea2Sf8u/hl4vKjalSAIft2RF8tOmkFAZ4jn3W2USDMhN6dXx1bBllJt+7xFaKr9y1dvGmcYL63RB0sUQ+12ZxIm04i0t6nkAyawE+PdS0i+4UDBTsxv5Pr1r2JWSNPc;o5GiUqwdeKbZssll1cKQnQ=="
+secured: "mjuXJsSVXtXM0VfAkhrGlWYMiS2L5EAlHDhdQK2EMEcrITpCl05bMTCENJ4PxlQb7YNrWC0lppqfk1hAFnCx9gOHfFfxzAqCmCgHuF1hZxtigSggU8lX+NzY9vSpoW6SNkEDuEBxQNowhNtIcQFvf4+Ib/RwnZYC6Gt+ixud3h8bRKc0AFKMjzNBpKtVhjKZSTC+RyzNy6oW0LLRoqlggUwt+9YNnwLLYItI4Z5GPCIaUWSv/WG0EC1TyziHeiqUrNC/rYvsVKxS/ycsmG3K+ZB/SOBnWSpUvc3J3tx5cyG+l75wGBwUCAjHzzWazwKN;35fxrfzKSq2bYl2SGtHEqA=="
 ---
 
