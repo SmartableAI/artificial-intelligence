@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://cdni.rt.com/files/2020.01/xxl/5e16f6cf85f5405a1518d6ca.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Microsoft’s robot editor confuses mixed-race Little Mix singers"
+    excerpt: "Microsoft’s decision to replace human journalists with robots has backfired, after the tech company’s artificial intelligence software illustrated a news story about racism with a photo of the wrong mixed-race member of the band Little Mix."
+    publishedDateTime: 2020-06-10T11:29:00Z
+    webUrl: "https://www.irishtimes.com/culture/music/microsoft-s-robot-editor-confuses-mixed-race-little-mix-singers-1.4275502"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4275501&origw=1209"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft’s robot editors called out for racism after confusing Little Mix singers"
     excerpt: "Microsoft recently announced it was planning to replace journalists on its MSN news website with artificial intelligence algorithms. However, this decision has already backfired as the software recently chose to illustrate a news story about racism with a photo of the wrong member of the band Little Mix."

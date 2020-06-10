@@ -1,0 +1,40 @@
+---
+category: news
+title: "Applying AI in Sell-Side Equity Algorithms: Challenges, Government Concerns and Case Studies"
+excerpt: "Side Equity Algorithms: Survival of the Fittest\" report has been added to ResearchAndMarkets.com's offering. Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels."
+publishedDateTime: 2020-06-10T09:58:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/g16219273/applying-ai-in-sell-side-equity-algorithms-challenges-government-concerns-and-case-studies"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16219273"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16219273"
+type: article
+quality: 28
+heat: -1
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "AI in Sell-Side Equity Algorithms: Survival of the Fittest - ResearchAndMarkets.com"
+    excerpt: "Side Equity Algorithms: Survival of the Fittest\" report has been added to ResearchAndMarkets.com's offering. Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels."
+    publishedDateTime: 2020-06-08T13:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200608005375/en/AI-Sell-Side-Equity-Algorithms-Survival-Fittest--"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20200608005375/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "HEmg7bY58oBp2xvF9IliPuxNCS9HB5O1xuQGfVk90HJGjW4w5RyCoHGhHvgCM3r/0G3ekIcPg8WfmxFsNyOvE44euXasTlRnZLshjIljps4yitVu8bSOISoMmYXMpRl7TPkPHEz5rWQ4ySEfnnEP7PrNFX3R4NuU9g+/8qE/cEYIM8sjNdyjUnS5z+95bcpE9AcE/cgIvrGSxa5ZRvfjoB+FAlSb8/24UVJGCzAxhM92cWGkhYVzMBzQibgbym+RCg7rd+KcCHL3EkPS90FyabNJ/9QmY2aA3lm/r0SpifTLekl8JZkaq/XXHw7vn0Lr;gdnyIDpH1qXR6wiYCvU/Qg=="
+---
+

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Forbes
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars likely won't prevent every car crash, study says"
-    excerpt: "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry."
-    publishedDateTime: 2020-06-05T17:34:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Study: Self-driving cars don’t prevent all crashes"
     excerpt: "(CNN) — A new study found that self-driving cars likely can’t prevent all wrecks. The insurance institute for highway safety looked at 5,0000 police-reported crashes from the National Motor"
     publishedDateTime: 2020-06-06T16:11:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
-        isCached: true
-  - title: "Study: self-driving cars won’t stop all crashes"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
-    publishedDateTime: 2020-06-05T19:32:00Z
-    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 24
-    images:
-      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
-        width: 620
-        height: 330
         isCached: true
   - title: "Self-driving cars could only prevent a third of US crashes: study"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
@@ -123,15 +93,6 @@ related:
         width: 446
         height: 213
         isCached: true
-  - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
-    excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
-    publishedDateTime: 2020-06-05T21:17:00Z
-    webUrl: "https://www.cars.com/articles/self-driving-cars-promise-safety-but-autonomy-alone-wont-eliminate-crashes-422508/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 1
 
 secured: "OMlwlSVZzqdZKhIBHNAx36ILwniX22NxY4mDuLuEf07RAzBscHp/bkAmFLsZACMgqoTOmWV3SN5ONJFGNukdl7chgoVCWRNDwyhlBvcC3ubKH0tV8faoNaCxLoPyCSHK29LqmKfKhlHGW8WIhlfnPd8j23wEWd+7pTgHcdgrLZbaWq6JbMfTMByL+y/X8sDLVdFWnC9LH8XIfbVNjQVPCs4xQPx7T+jTjGiED0o5a5O/LcZKY5Rg46QUPz2PHs1Y/0e20JJpKNRP73IQpGhYWAqMw4/x7cAcdGkfSakhrmT+AibpiX6eYrHmvgheVx9PRZ0wu8GXM1kUifI8ekq3nX5zXG1BsFVfcQTAwP4yXmGR0G+YpwXg/daJ/o3CItLJjGBRhgvdfdy8FKQNZvtYujsGrvQks49cYZVHp4lKGUBuyIB3KqSZJCkbOqNRlk6f4zrdUrRWOhNw8At+3hNR0RfTYi8SmUE79cvsP0yZbKDEG0Rz1SdSIHKFjW7MRvBy;bXaZZ2lufpXWVpvlAs0c+g=="
 ---

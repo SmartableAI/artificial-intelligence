@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
         width: 600
         height: 360
-        isCached: true
-  - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
-    excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
-    publishedDateTime: 2020-06-05T18:16:00Z
-    webUrl: "https://www.biometricupdate.com/202006/realnetworks-launches-facial-recognition-browser-extension-to-detect-celebrities"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/05132526/StarSearch-by-Real.jpg"
-        width: 950
-        height: 741
         isCached: true
 
 secured: "2SzAyrZHa6jGycGCybeFZUeZTXWBwVyuVbKpvgaTGgILl3QuPGL4vF1dS0tjvDZ2v1gaVUnobeNo9jo0xYfVPCUZ0cO9RaIQugL+QKlXwvwCfZjIumx3Vygcqdfa0/4txPgPjwtTRw/Nnw1aBy0ZtD19IDrqVXfivfnzToUAlRmr6iW14vqImt/QcLF8ozCDuBZPeK4CJuYlqup423YzDWx2F34JZm++FIfso6vfUgiEPD+qm7ONHvyp2zX/3xU74sEjDzxnvTVJ37Ze2aXVxgSSuag5S4965y2s4Pa9a8xcnRqJ95uRneyJ4kXzkUR2eaPXXSYcr+YEX243crs8Lk+rwUutiqP7t52ng/JaTzIrcNYWiqnGHmqN6BZgdHVxkVaNdlqdo+vM/4S1RUnQvE2cyD35IhUNWSh024B3A8HQcny3qSWlWuwRDRz6st5lp/QrdwknwlQbMk+85NtjMuzqL4L5rcOdnEkzwrJA7GP74ZoV8QiA6yUQDu2kiiUT;SC2Jwa0YMOpobGDB/YYUFA=="

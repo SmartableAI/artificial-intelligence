@@ -84,6 +84,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market Advancement in Technology, Innovations and Global Trends 2020"
+    excerpt: "Artificial Intelligence In Military Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading, and key players of the industry with a forecast period of 2026."
+    publishedDateTime: 2020-06-10T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-advancement-in-technology-innovations-and-global-trends-2020-2020-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2020 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-06-10T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-growing-rapidly-with-latest-trends-development-revenue-demand-and-forecast-to-2025-2020-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
     excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-06-09T22:00:00Z

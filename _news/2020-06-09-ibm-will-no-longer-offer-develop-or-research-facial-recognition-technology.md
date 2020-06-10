@@ -109,20 +109,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "RealNetworks launches facial recognition browser extension to detect celebrities"
-    excerpt: "RealNetworks is introducing a free browser extension that uses biometric facial recognition to identify public figures in YouTube and Netflix videos. Dubbed “StarSearch by Real,” it is also a"
-    publishedDateTime: 2020-06-05T18:16:00Z
-    webUrl: "https://www.biometricupdate.com/202006/realnetworks-launches-facial-recognition-browser-extension-to-detect-celebrities"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/05132526/StarSearch-by-Real.jpg"
-        width: 950
-        height: 741
-        isCached: true
 
 secured: "hv9pHenEU3OZs2PsAdDlOdQwxmO1KMIo1eSwzCiRex4ibU2y7loAeNRntEdWyu4dyW9aFOqLiIeRZEZqBUAetVxw4i0/lPXeEaLaajw3WwuPw8WAPxBieeoMvHKgFXCDGab86wds+N2iqjfTPySLBZi+rij7PwXwD6CTy6DrvU5lxMkMP6uZTpzIWBKI/pLYeRh7F37qLYIqfyS/F5qGT4EWwtf0/A+UaD52Av6fWfHgqVQU3Q7qdnNFwA3UbjwdV0wyJqIFwleM5+VMF0xORhYJjL7WnGU1Qq8BXq+kJ5c3JINMlTJcM2yuplvlyXHhFvbBTGfITIbNpBKpxduYdNFKvqPKOCKcRvcDd43y2Ct6eRmv1ie01BDFPvBLkTcPHhL9ba43H1MGgW5uFU+t+s+ipxfZcxIRlL28sVfRxg+SosoHlnVbw1P4cIZZcm+ZVzmgc7CX3xdR2x2r7sMNesmCDTm2Xx3HkmBvBjBgbtU=;l0wFb8QqamAwxtT37oyvIA=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Ethical AI and the importance of guidelines for algorithms — explained"
 excerpt: "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants."
 publishedDateTime: 2020-06-10T09:07:00Z
-webUrl: "https://thenextweb.com/neural-basics/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/"
+webUrl: "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/"
 type: article
 quality: 69
 heat: 69
@@ -22,12 +22,12 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1-796x417.png"
-    width: 796
-    height: 417
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e"
+    width: 1200
+    height: 600
     isCached: true
     title: "Ethical AI and the importance of guidelines for algorithms — explained"
 
-secured: "7KIpIpBGVcvyDkksktQsqqIQx/XPk1yLm/Rp+ywQeKQw8F2E4uZGWwp6/9B0ukyA2npl1/VrLMJiecYZrW2EVTvzq97gVYePQGxSD6WYXmtW2jXbzMgOQfN2Nb9SVxqsesS7/7pettEUHuiZuiX18urDwaXsAQpC2XUk4OAEdafx966KtPBsBtKuZR9p7bXDxhBc/iENyeawKXA2Vzjq7jDuNrYibLACnjeGYERXe6glJshmnpOtJ/KY5JOdrzYeXo/0a1trn0rczzPRuF5NR2IbN6JRPL9LpsWvCtTjEsqkz7PAGXvMxbAia1fWPfPE;DdisHedRF+33YO7fJyZtBQ=="
+secured: "M53P5Mjh6Lg40WesxJOmOv/kvHUMARDhJhkfoe+uPQhbCFbPgKmGFHxm4WSjsg6yMNUY2vLVDM+uVjhTzFEFD98ACEgClObEl22aL4aEi1OdkvNlsB968VZYcGPa18gteqUiwaAm1vyhOij8TcKSkguRDDfs5d8OCC0qG5trmY749tlOsE8CtCv4I72lXbE8V/Wo8/gwDNCZ977epJraFq9ZMmw72tfOtJJayu1s9PZ+H0OSkjBa9HepiStAmUXHFBGS7XCxfTCATlPK6Q3/d3LZPSxyRLnQuKwKKgwhCMxkCXxISIr7xMVGhlpinM2R;DXftmHX9MHHtRTEgzX3hdg=="
 ---
 

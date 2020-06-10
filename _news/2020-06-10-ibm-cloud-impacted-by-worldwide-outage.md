@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T00:07:00Z
 webUrl: "https://www.itnews.com.au/news/ibm-cloud-impacted-by-worldwide-outage-549092"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     title: "IBM cloud impacted by worldwide outage"
 
 related:
-  - title: "IBM Cloud suffers global outage, bringing down customer websites"
-    excerpt: "IBM Cloud suffered a widespread outage on Tuesday that brought down multiple services hosted on the platform, as well as IBM's own cloud status page. The problem likely started around 2:30pm Pacific Time (PT) and escalated at around 5:30pm PT."
-    publishedDateTime: 2020-06-10T09:02:00Z
-    webUrl: "https://www.computing.co.uk/news/4016300/ibm-cloud-suffers-global-outage-bringing-customer-websites"
+  - title: "IBM Cloud hit by multi-hour worldwide outage"
+    excerpt: "The outage impacted general cloud services, as well as Cloud Object Storage, Kubernetes Service, App Connect, VPN for VPC, Identity and Access Management (IAM), Continuous Deliver"
+    publishedDateTime: 2020-06-10T10:06:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-cloud-hit-multi-hour-worldwide-outage/"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 24
     images:
-      - url: "https://www.computing.co.uk/api/v1/wps/1595956/8f3a4997-4f60-400c-865f-0aae561360b0/3/IBM-Logo-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://media.datacenterdynamics.com/media/images/IBM-Cloud.2e16d0ba.fill-1200x630_4hXGUjt.png"
+        width: 430
+        height: 227
         isCached: true
   - title: "Widespread Outage Hits IBM Cloud"
     excerpt: "IBM hasn’t yet announced the extent, interval or suspected cause of the service disruption, which temporarily brought down the webpage used to check on the availability of IBM cloud services. IBM Cloud appears to have suffered a widespread outage Tuesday that temporarily brought down some popular websites,"

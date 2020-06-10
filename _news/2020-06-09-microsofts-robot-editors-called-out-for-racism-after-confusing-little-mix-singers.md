@@ -73,6 +73,20 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Microsoft’s robot editor confuses mixed-race Little Mix singers"
+    excerpt: "Microsoft’s decision to replace human journalists with robots has backfired, after the tech company’s artificial intelligence software illustrated a news story about racism with a photo of the wrong mixed-race member of the band Little Mix."
+    publishedDateTime: 2020-06-10T11:29:00Z
+    webUrl: "https://www.irishtimes.com/culture/music/microsoft-s-robot-editor-confuses-mixed-race-little-mix-singers-1.4275502"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4275501&origw=1209"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DkS+51I7QQNk2tUc05A+lP3+mpGWnYUPDvl4tbUMYR4JWsv2yMHHzPlbC8Be+1SIewfLTg27p8E6NUWELptk21YPXA7t/rHRrml8GkVPyTHmkAEe9I8ens1oL8+Zd2EoWBxbxjAxOwuTaD04k4vHB6p9v4S3lCSv+9UofpSL8G76ygXayjwMhyR6Yz/huZiJ72WK0zXt8rEtMl8c//26Mm40fNScQRZo6pbvWQiXmCz0dk5fP8NtOq1Gq9rBfqvQpnU0BWOCjxF9K1R6XfNiqAng2ZRT/geBH4S/QKqReFQ1Tvbl4G05vlISKdTL7fxLzHlpHvnjSsnq5bOGPavc9ZfbIVJEsNvUdIo6+bxhFcfnam9zgyQuX3BTucaG/HlLGFENQfwDRsa4MKC38EH7EIZGMdQTgRl4Cek96kFB2Wp1DJqNMz9pIEvF2ucZx6Xld5NP4bpbAXlmBgFPm4O4yzs0d5lKX9ytqamooNaP6IaLWx4KKsnxfRWUngi2J8s+;HSZM7DzKjB91o2Pjf0DzQQ=="
 ---

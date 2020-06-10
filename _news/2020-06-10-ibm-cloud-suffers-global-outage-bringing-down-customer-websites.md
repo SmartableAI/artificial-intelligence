@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T09:02:00Z
 webUrl: "https://www.computing.co.uk/news/4016300/ibm-cloud-suffers-global-outage-bringing-customer-websites"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     isCached: true
     title: "IBM Cloud suffers global outage, bringing down customer websites"
 
-related:
-  - title: "IBM cloud impacted by worldwide outage"
-    excerpt: "IBM is suffering a worldwide outage of its cloud platform, taking out a range of services and customers' operations. In status notifications, IBM confirmed widespread problems with IBM Cloud. The problems are also impacting services such as Cloud Object Storage,"
-    publishedDateTime: 2020-06-10T00:07:00Z
-    webUrl: "https://www.itnews.com.au/news/ibm-cloud-impacted-by-worldwide-outage-549092"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/ibm-stock-2.jpg"
-        width: 460
-        height: 285
-        isCached: true
-  - title: "Widespread Outage Hits IBM Cloud"
-    excerpt: "IBM hasn’t yet announced the extent, interval or suspected cause of the service disruption, which temporarily brought down the webpage used to check on the availability of IBM cloud services. IBM Cloud appears to have suffered a widespread outage Tuesday that temporarily brought down some popular websites,"
-    publishedDateTime: 2020-06-10T01:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/widespread-outage-hits-ibm-cloud"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/025e-0f9d3f9ab158-4c28303afeb4-1000/cloud-mobility-touch400.jpg"
-        width: 397
-        height: 397
-        isCached: true
-
-secured: "mFuBb5+Bs/IwbViYyLIEbHloq4OTRnt4bMYmgvXuB+oAvuLbRhXuxIsFdQU4JDRxKJkAv32MZcvw73AgHri8PbpSK96R34jRqzLc4LBA2w1BbCQRxC1bDDj6u3QR5SSqq3wTApL4DrBlivgDXV6t0Tgyz8LsSif7vmlDx51o0ypc/kUsrs4ltsDw8oEg/ULYHCVLBAFzbbXuCuR0fumwqZ66RhQAMJ+D5TxG3Rz7o2kkpPk15Xm53dooqeVWzbfCjAhT9J2PL5KBgejjA2fa2JE/3JeQWOzeqUbW1BXtXJuZ9VM6F1d7WPQvFVjdhl3V;H0RaXd0yMbmDDyZTi+p7RA=="
+secured: "tY+c02VKElQLt6NHq15P1io9Hy8NB/9IGdp1nVPYi7Ejss+U0ytLM0j5sXtmo5KTEKEO6mse+hN/TW0gBHbQAd7iWSgb1FIY4jsZsPg3bOXj9rX5g1e5znJdPgjJd40rkB3gG0jH4bpOtPuK8FBzsFh3o3N//Fwq+C4zyHi/Nqvl4yjOtl4xbCQE3C5pXvfYKQLZ9wObBukczU4lo1al5Vzo+s5Xd1bJ0+TjxcWEyhfGozcuZROUHHZ/WzJlP24FWDeIHMll5JiGQBkZnMUNdgpwohQOlDv9+/yZL0iu6ocgg3uPWOmRU41BeJbiWIBkzhrSDKwFgw3J+Yw2m+HLMkct2OOLSbTe3LlnLvBubCMumhmznxmcdlzugwZ6rlurD3cwovutt89fDaFSIWUUoJDZFfcTOsKAoSpAAiFGZ7AsY1XwQ8fAOMl9ciKagL3KVSSCcogbhG0Hf5k+7MTzTfDpwOA6uhsEwyhlFiR7y/yOeVjnNRDbrID+suAU83X1;yDGpbjl0AbRkEYiaNyd74Q=="
 ---
 

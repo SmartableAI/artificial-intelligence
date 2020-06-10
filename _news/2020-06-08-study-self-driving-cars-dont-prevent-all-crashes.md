@@ -25,22 +25,6 @@ images:
     title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
 
 related:
-  - title: "Self-driving cars likely won't prevent every car crash, study says"
-    excerpt: "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry."
-    publishedDateTime: 2020-06-05T17:34:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
     excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
     publishedDateTime: 2020-06-09T22:10:00Z
@@ -82,20 +66,6 @@ related:
         width: 620
         height: 463
         isCached: true
-  - title: "Study: self-driving cars won’t stop all crashes"
-    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
-    publishedDateTime: 2020-06-05T19:32:00Z
-    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 24
-    images:
-      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Self-driving cars could only prevent a third of US crashes: study"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
     publishedDateTime: 2020-06-06T01:47:00Z
@@ -121,15 +91,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
-    excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
-    publishedDateTime: 2020-06-05T21:17:00Z
-    webUrl: "https://www.cars.com/articles/self-driving-cars-promise-safety-but-autonomy-alone-wont-eliminate-crashes-422508/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 1
 
 secured: "AwJOjsdQYMYa8g+rJpVCMGeZMpwR3eUnvboPFL7LVmECYYY1762Px6WSKWcCudIFsWw/17BgnbnxJ3beVWiJEZHMk1Cvum11pjlUfkLhjr9F7cKbZOg8k1OlfycumcyxP2b6a2Oh0x/66LlTor4YhBGhqy0P0KwnyW2qEfRxf5YbZhzhSDFN77lf5SU7Q946hm05BeB11CMwX7M51Gwky5FInHF1GSx+3ROkHilrHBssruJQkz3Ynr/UZiUCa4bFCX973wnOHl0FUjeydgoUkp/w5lXzee2pnIRr5YO6szczdYZg06oBTCupzeywyWSxhIqiCavX2j1Lpb9Vd6LX8GHOgTTui5ZhnFojKQR9a+FvkOJEcYzayjpoytTyT6Da/cC9vOuPMPc/Tn1Wq5U0I6Oc3Y/wUU0Y5lh6Ral4LbmvA3PsWkp4YNr9Cf8AME1q2pE8UGNDC/yxil4FpYlyJcDxic84FJ0OWGbDfI/2b5A=;JT8ETyNZgVfDa00gETmkLg=="
 ---

@@ -13,6 +13,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
@@ -21,6 +22,6 @@ images:
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "OxpztCxzwRl/fLvwCuFCuaV2yiZ1lKFu0gxKIR2dOdjrBwI4106MW90bvo84AwGnRA1DQmg1CUSGkB8hAlYsvDkX/CJqyUWId4S1ifpOH0tx8b2iw/Ad61FKaaAwn3S3vS5W0RaIt5b3Lh09feawH8z+viSX01Ic5lXrI29KhZOd1ZpWE+F8WkMQmCBZKE4Tl7Ygx5Rk3PaK5Hch38j7lavOla1RcPP7lOCFVTAih7SULP9FxoTazdk3O4shSyRh1Il30onfqQjtrLArXcZAgsKtzUj1tnWli1Au1HyGNQdodKy2w4Z0yry2bgGmzNEh;VtM4602drnnoxbiaWK8jmg=="
+secured: "Y5aU1TAraVN/ihAx9wfip7GRyHIKnC/2QYQG1I+MBTND2CJB/BbHB3cTYH3ymgSeFjX6yI00JkeGuoHrRhHFgaDBWj8S+H7Z6qmHXTMR0zkEzQqDG3303X9X3YoGTQ7vrV2R9k/Rc0MTyu/Na/VD7nt/MAfH31CtrbNa1i8kCZm5I+TwMMnFbdgHZFvNUpIeKZaWcscot6OrUQSfY4EfKCNmzBCiwO1O9n/v9+7MC66M9za0YIR1z7JErz0rjjbLqqOYWu3f/7UwpXhi5+rbq79c96GkSBw+bv1vWKgJU2Tp0wmvkDbtwXyoK829ftv/kLjIgRD2uXUR55WCy6B40f59ItlaQbTnjSW0hi8zq6jKOa/tg9SaUsJ+BwnxufSg8FiQI9y0uOnzPYGDmczjXsSsy+sVo5KsJVJBuZCfcUjtTFrNwnTx8A2YlCXKn+szMd9i7zMQLuFB7opISlZGdLxDSMzPVCOoOI0psxhN40yWlmTrlPfVKpjH9zCGAQ9M;9QzCXFS9RE+Tb80b9Kn5vA=="
 ---
 

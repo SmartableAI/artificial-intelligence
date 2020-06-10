@@ -175,6 +175,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "IBM's Withdrawal Won't Mean the End of Facial Recognition"
+    excerpt: "Many other companies continue to offer similar services, which studies show are less accurate for women and people of color."
+    publishedDateTime: 2020-06-10T11:00:00Z
+    webUrl: "https://www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5ee0345decb467cf4ea5f55b/master/pass/business_recognition_1161938837.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
     excerpt: "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability."
     publishedDateTime: 2020-06-09T01:15:00Z
@@ -394,6 +410,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "In wake of George Floyd’s death, IBM gets out of the facial recognition business"
+    excerpt: "IBM says it is abandoning the facial recognition business out of concern over how it can be used for mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-10T10:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e78e101/2147483647/strip/true/crop/5685x3713+0+379/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F04%2F0062bd8046c6baded94c42e07e03%2Foe-john-stanley-ford-ibm-1950s.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
     excerpt: "The tech firm also calls for greater transparency and accountability to policing following the death of George Floyd in the US."
     publishedDateTime: 2020-06-09T04:15:00Z
@@ -521,6 +553,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "/cVj1QdERdBz9Yk6+AfogdaopK13XOk5mfps491wYawwE0fMY5rU55xssJv+pgguq444IENmQN1JOKXN0Hu7LSeUCv6xohsORn7YdG8p/aJCBpOzyBfu7rbeaEtDQGCS/gNfosdbn04nl3DcN9BIPWaI8CpmLb9Jfj2LBy9J9ao0oOVVJ/sHrS1axJSwiThdBBoY6us2fogFgYc/s34fyG22mm/LpMYJJFHraraCzCvHPqrBF0bhGeSUj24VH5qmbbLw20YF0aWosII/ZLJAUCEYr6N5uk7mB+cq02e9yke929gjAUQXt5mI1d6og5QG;3/VD4f8Jg5XFCbfjRRRa0w=="
+secured: "AeFivlinLKtsfaXfRRUajy5mQz4UF5lYqelVnL8tbQCXslx+g/yYfDxkYWpdwhpW9e4Md+a9Zls/6zHXqPt8oTiK1M6zy93gNDChCEI6FfgDoFYHN3lhbHnI+0YNacc+q2nA7KfHeJsWGENoIfT4KE2LFkGUaMx8xAumnxYM7JtHs1Hy1bnWzx7t6jRNWwYCCFsWuDa8l2QokdE8T1zZJjd1eIxqemorlvzfCANfYrX6jMTgKwuk1hcjsXTglN31SWSJ34IscGsKNCSduq835zh7eFXbRws0bxZiPkIah/EUOeX9Qxafkyr99RfPxRISSyybr2DgXsr1zt635+26wYjt4VST/FNo40nytssoarm44z3QSeUIPlDwcj5DfGaqY4Cq0F4/up4YcaRVPzq8m/Wcm1wygeWekecigE4npXNPiudnfknhR726s2N+tfombuDjagHLL6t8/BoemxN9iK0Zf0Co7rumSPEe1UWp6MzWuRQwjZXkHuZJxc70EuJl;+x8LSoPuTAMsRMi4TFDoxw=="
 ---
 
