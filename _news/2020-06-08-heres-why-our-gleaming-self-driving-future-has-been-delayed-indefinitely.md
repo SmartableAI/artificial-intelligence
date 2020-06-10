@@ -89,6 +89,17 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Self-Driving Cars May Not Be The Game Changer For Safety We Think"
+    excerpt: "Automated vehicles of the future may struggle to eliminate many crashes unless safety is prioritized over speed and convenience, according to a new report."
+    publishedDateTime: 2020-06-10T17:16:00Z
+    webUrl: "https://www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/"
+    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
   - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
     excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
     publishedDateTime: 2020-06-08T16:17:00Z

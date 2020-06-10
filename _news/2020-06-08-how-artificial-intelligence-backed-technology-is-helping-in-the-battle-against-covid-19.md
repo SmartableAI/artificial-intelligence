@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intel
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.amp.html"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Week
@@ -26,19 +26,21 @@ images:
     title: "How Artificial Intelligence-backed technology is helping in the battle against COVID-19"
 
 related:
-  - title: "Connecting the dots: Technology, healthcare, and pandemics like COVID-19"
-    excerpt: "This article is written by six students of Indian Institute of Management (IIM) Indore on how artificial intelligence and machine learning based solutions are being used in India in government hospitals (also during COVID-19 pandemic),"
-    publishedDateTime: 2020-06-06T14:20:00Z
-    webUrl: "https://www.opednews.com/articles/Connecting-the-dots-Techn-by-Citizen-News-Servi-Doctors_Health_Health_Healthcare-200606-605.html"
+  - title: "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19"
+    excerpt: "In fact, AI can improve decision-making for healthcare CIOs in three areas, according to Erick Brethenoux, research vice president at Gartner Inc. They are: Anticipation: “Predictive techniques and knowledge graphs can help with predictions and analysis."
+    publishedDateTime: 2020-06-10T17:36:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/"
     type: article
     provider:
-      name: OpEdNews
-      domain: opednews.com
-    quality: 38
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 73
     images:
-      - url: "https://www.opednews.com/populum/visuals/2020/06/2020-06-91838-400-Uploaded-populum_visuals_2020_06_2020-06-91838-may-1---amit-rishi-article-335.jpg"
-        width: 400
-        height: 322
+      - url: "https://www.cmswire.com/-/media/2928bf8fcbe34c17880bdd8af4530429.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "mqshKazQoHaTXYSWj+0/tY0h0fsq3U+JovaHWmxolpqyvIuTfSGAKg3xeE+bGRea9fT8J+28lIANOKVlj94ba12WOx54guf0hZq1CijmUmIjSxL/MH44QApXF/I+HAAjO4PEYaZ+tM7YniDKUl6GREIvxAYy5JdmAeWbJtG6USy4OXW6J2D2KJ4Gf697DK210r+lyFuj3RbW8dexVhMNNdNM56pZ10AR0ZteLSCiFCdxkUSzVkUeuYlCCvl+KDf4IHdC+/JQRYtBbXGOseHENsvGh5e7540VwdfChC0/ZbMCQ4xsYmyN8hz72Vetukpm;SRgmiDHK6kyZm2q/NUhG8Q=="

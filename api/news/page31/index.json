@@ -2,6 +2,53 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
+      "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+      "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
       "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
       "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
@@ -1036,44 +1083,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-microsoft-intel-combine-deep-learning-and-pixels-to-nix-malware.md",
-      "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
-      "excerpt": "Microsoft and Intel researchers have found a way to combine artificial intelligence and image analysis to create a highly effective means to combat malicious software infections. The researchers call their approach \"STAMINA\" -- static malware-as-image network analysis -- and say it's proven to be highly effective in detecting malware with a low rate of false positives.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technewsworld.com/story/86662.html?rss=1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-malware-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

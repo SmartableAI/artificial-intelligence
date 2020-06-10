@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
+      "title": "Introducing Recommendation Filters in Amazon Personalize",
+      "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T10:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
+          "width": 800,
+          "height": 433,
+          "title": "Introducing Recommendation Filters in Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-bank-of-americas-ai-robot-learns-60000-ways-to-talk-about-the-coronavirus.md",
+      "title": "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus",
+      "excerpt": "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "publishedDateTime": "2020-06-08T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-the-convergence-of-telemedicine-personal-health-tech-and-ai.md",
       "title": "The convergence of telemedicine, personal health tech, and AI",
       "excerpt": "Dr. Jason Hallock, chief medical officer at SOC Telemed, sits down and tells Tonya Hall that the COVID-19 pandemic sped up the evolution of telehealth by forcing a fast-paced convergence between personal health technology and artificial intelligence.",
@@ -232,43 +316,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.md",
-      "title": "How Artificial Intelligence-backed technology is helping in the battle against COVID-19",
-      "excerpt": "In an interview to THE WEEK, Prashant Warier, CEO and founder, Qure.ai, which is now deploying AI-powered solutions for COVID-19 management by using chest X-rays which are about 10 to 15 times cheaper than the RT-PCR tests,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.html",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.amp.html",
-      "publishedDateTime": "2020-06-08T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2020/6/8/Prashant.jpg",
-          "width": 760,
-          "height": 443,
-          "title": "How Artificial Intelligence-backed technology is helping in the battle against COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -778,7 +825,7 @@
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
@@ -1299,53 +1346,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
-      "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-      "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "publishedDateTime": "2020-06-05T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg",
-          "width": 1200,
-          "height": 805,
-          "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

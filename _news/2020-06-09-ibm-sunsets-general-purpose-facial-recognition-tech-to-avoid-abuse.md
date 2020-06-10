@@ -330,6 +330,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "IBM pulling out of facial recognition market out of profiling fears"
+    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-09T09:55:00Z
+    webUrl: "https://www.cbsnews.com/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Pulls Plug on Facial Recognition Technology"
     excerpt: "IBM will no longer offer its facial recognition technology for general-purpose use, and has called for a national dialogue on whether it should be used at all."
     publishedDateTime: 2020-06-09T11:01:00Z
@@ -553,6 +569,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "bxs328kv8KZp0EJeQGZvqnHeFcjtE1yBPY0Lht9kW3nFBfwpqGYM109GZMpgZFV3JeKnZv/+s7uwPOh2o9QkJHvgBeDhd9NvBGTEfciPdSkY15FAC6XC4qlDx4uPt3QGp+SgwDQ1RRdrq0wfYepqAUvU+aD9FT7aCKUFQNIgooViQiZv7WkvJ69ianThwhNJl17fv3E4TIucUEpzyBYShm3XGXcsIrqmtyuoaO3zI0UrZAOvGofWXHpOKwZHif2G0HMbg4xzqR7s+a3UJ+vmTzWtKeLc4sZoo1kxKzP5m1A7VNmiHtd6mqXwhxKw6oIi4avoPzGQo1Z3Boti6MdvspI0XlHuv1PgAGgUWdRfhP/ywh2Bc9+02ekJxWjfPmxlu+IDa1q5Pf8Z6uUkJTtOqx3DXkcD6ZzotGe64u+thV0tZqAuu0YxvTJd3yeQ/v2LWQNKzAlnRO+Nc7HhWG3ZLMsNOgPq4UqeYuu/69dT4PJIjksjKWHP8sIrz/u6eidu;qqmvu8P7Xig8MGY3jKSRsA=="
+secured: "XkM15S4FU8qtAcolSsNLP9YT/EF27FbbE8UivCFBOEk69YnjZSMPApgmGPr0DTd43Qn29B0dThHiA5h7HiJoLmm26MX81YTndvNziaHMLcHRjJQjA2EppFOLKmuMhHgaUwu/u7q/2R8hHKXnqDr6z5OqSiLRXOTJEg9igvd1wCS36nfNrvU1XrS1CeupgSG59o8nS2gP22PNpQYUfHuuH89sUjLc+VxVs9L0uVS8DH4FKxB2g6q8DedxhYx7TMuAcAmJrVmMc+kEDLXFOhZQBlVh7/pc2KFoWgM9kOIwUFQreF+IanrVaSHRfENJ+XNHtElKpT+hZX+Oiaj8aR3wcLnQsIGGX2spyvYYcREPXKMNEe5uqIlL8zyiQtLFOUUTM9EVJimtertWz0s9kRr7m4YjrU3a0nFiwnbHjo8787PrF5vU/Wza1EM3YMtdx9y/+9xFDmcy2Nu+wi0Bh46BPgR+XHVnsoJI63DQGUXVPG34bjOWQge+h3K+rWhQ3fh4;Q6AELKZTZUoeRQkcEO+W/Q=="
 ---
 

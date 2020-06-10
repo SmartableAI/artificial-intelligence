@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 456
+heat: 466
 published: true
 
 provider:
@@ -330,6 +330,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/392760"
         width: 640
         height: 428
+        isCached: true
+  - title: "IBM pulling out of facial recognition market out of profiling fears"
+    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-09T09:55:00Z
+    webUrl: "https://www.cbsnews.com/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM Pulls Plug on Facial Recognition Technology"
     excerpt: "IBM will no longer offer its facial recognition technology for general-purpose use, and has called for a national dialogue on whether it should be used at all."

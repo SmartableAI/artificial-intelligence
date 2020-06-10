@@ -2,6 +2,52 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
+      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "publishedDateTime": "2020-05-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
       "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
       "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
@@ -1260,53 +1306,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence.md",
-      "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-      "excerpt": "To conclude, while there is still a long way to go before we see equal numbers of women in AI for healthcare, the glass ceiling is breaking and I cannot think of a better career choice for a young woman.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F915025868%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D926%26cropY2%3D3626",
-          "width": 1200,
-          "height": 563,
-          "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

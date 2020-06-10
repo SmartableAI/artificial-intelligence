@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it.md",
+      "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
+      "excerpt": "Unlike humans, computers don’t care about your race, gender, or religion: they don’t have a fragile self-esteem they need to boost by bringing other people down, and they don’t need to bond with other computers by stigmatizing certain groups of humans (or computers).",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
+      "publishedDateTime": "2020-06-06T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap.md",
       "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
       "excerpt": "I’ve found an AI-generated music app that creates great music for at least one purpose. I’m listening to it right now. And I like it. A lot. AiMi.fm is a new music app that mixes generative AI and flesh-and-blood human artists’ beats to create really,",
@@ -97,7 +144,7 @@
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
@@ -1080,52 +1127,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
-      "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
-      "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
-      "publishedDateTime": "2020-06-04T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png",
-          "width": 1248,
-          "height": 1214,
-          "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

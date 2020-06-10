@@ -2,6 +2,53 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
+      "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+      "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T11:40:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
+          "width": 907,
+          "height": 465,
+          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
       "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
       "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
@@ -1075,53 +1122,6 @@
           "width": 1280,
           "height": 800,
           "title": "BBC Beeb voice assistant is built to understand different UK accents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
-      "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
-      "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
-      "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
-      "publishedDateTime": "2020-06-02T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
           "attribution": null,
           "isCached": true
         }

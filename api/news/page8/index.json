@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-02-artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027",
+      "excerpt": "The global Artificial Intelligence (AI) in Healthcare Market size is expected to reach USD 40.2 billion by 2027, at a significant growth rate of 49.7% during the forecasted period 2020 to 2027. The research report provides a big picture of “Artificial Intelligence (AI) in Healthcare Market” 2027,",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027-2020-06-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-argoai-closes-26bn-volkswagen-investment-in-european-us-push-with-help-from-ford.md",
       "title": "Argo.ai closes $2.6bn Volkswagen investment in European, US push - with help from Ford",
       "excerpt": "At a time when COVID-19 has disrupted investment and acquisitions, intelligent vehicle tech is still going strong.",
@@ -1069,52 +1116,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-ai-news-index-replacing-workers-or-creating-jobs.md",
-      "title": "AI News Index: Replacing Workers Or Creating Jobs?",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of AI highlight the impact of robots on jobs and the widespread adoption of AI in enterprises worldwide",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
-      "publishedDateTime": "2020-06-01T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed25e873c7e9c000678ef1d%2F0x0.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": "AI News Index: Replacing Workers Or Creating Jobs?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

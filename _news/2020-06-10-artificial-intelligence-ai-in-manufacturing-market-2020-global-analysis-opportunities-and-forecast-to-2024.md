@@ -5,7 +5,7 @@ excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market: by Compon
 publishedDateTime: 2020-06-10T16:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
