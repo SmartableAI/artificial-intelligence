@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-weird-frightening-future-of
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 567
     isCached: true
     title: "The weird, frightening future of AI may not be what you think"
+
+related:
+  - title: "Self-driving cars may not reduce as many crashes as you think: report"
+    excerpt: "Insurers expecting the rise of autonomous vehicles to lower collisions may not get the results they were hoping for, according to a new report. It turns out that self-driving vehicles might prevent only about one-third of all collisions,"
+    publishedDateTime: 2020-06-10T20:37:00Z
+    webUrl: "https://www.canadianunderwriter.ca/claims/self-driving-cars-may-not-reduce-as-many-crashes-as-you-think-report-1004179390/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 24
+    images:
+      - url: "https://media.canadianunderwriter.ca/uploads/2020/06/autonomous-man-read-paper-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Cz5URtaCr3N8EJJXicp9WNJczv8Mk0gEPxKVr31f6k99RXXpkw/reQZs/OeN97GPJ1s/zo8NbXP/BYPNHMGZGhNvDrRufSTuCLkoNU/D0KD1CcyrDL9xhS7gm5ZV6X1Ery3Obp0xW4LN4EGkJ3tjMKWdGFf3H3qlOrwa8Xr752wemcWABD+2SoAbnVgBl+NViHwts8A8KIbPYs0PUKhcwdm0SVs8wlGyHGR5tXQIHs1qrP/AoF3RzhChke9p75wCCHGxWuboQX8adzYrpfyUGdhfVVqP0n4g1ctJf/MLzSpgd94ps9MG2UI4gEBs4NhddOvJx+9oj2s94KOQG6UZuJNz1kpiW0acRqh/5oQnpQCgRc5F2w9YIxTMiHmlY3zk4OCcWgIn+BR/E2xC+9tpPnmKDZAwMz0spj1yW9ODNkyllvbKUn8iS1imw/cJetc1vf2sY+9D+C9/SRroaEQCxlhmGOqP8uRh3E3KfSYt5jbeU4Yyu188VTYdvOqEUGhJ;T79V+A182XhrMtAR/Z3Tcw=="
 ---

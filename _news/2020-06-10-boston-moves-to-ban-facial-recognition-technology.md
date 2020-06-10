@@ -41,6 +41,54 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Amazon bans police use of facial recognition technology for one year"
+    excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
+    publishedDateTime: 2020-06-10T21:34:00Z
+    webUrl: "https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104617474-GettyImages-813883120-bezos.jpg?v=1591825130"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Amazon places 'moratorium' on police use of its facial recognition tech"
+    excerpt: "Amazon will put a 'moratorium' on use of its Rekognition facial recognition tech to give Congress time to implement new ethics laws."
+    publishedDateTime: 2020-06-10T21:50:00Z
+    webUrl: "https://www.engadget.com/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    ampWebUrl: "https://www.engadget.com/amp/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F31334610-ab62-11ea-9fbb-a4dca49ee546&client=amp-blogside-v2&signature=d5b85a3cd5ee2facec16245aaf540aa39c16c2d0"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Amazon bans police from using its facial recognition technology for the next year"
+    excerpt: "Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday. The news comes just two days after IBM said it would no longer offer,"
+    publishedDateTime: 2020-06-10T21:42:00Z
+    webUrl: "https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Markey Presses Clearview AI on Facial Recognition"
     excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
     publishedDateTime: 2020-06-08T14:17:00Z
@@ -132,6 +180,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Zb1mWf5IwWLKJX5hN2mCi0//VWHsfmMqaUgjCzu4a1b+k/WGyjJ/VYpBaMF8QKFpJNOCG2vsZYMgDoOep0tVSILMc+lP+QH0hnn/h4hddYGMyPxARP6KEeg5p/TrgC9ca2kHNH3Wx/x0nJjrRbRpAM+CStz+EYqtOwWKKZBiljZN9wfDTKHmiMdsllKF+hzaBP0hxxjUkvKVAQbkkPbN0OKw5AsEkubCYGLgWrVuqJTfaW0QedG+9ZGHBZOuOzx05etX7QNxQY82NzM4DMJusroyXmenof0YCN0vUkHTUQ1ltYTXFbGV5Icy4QMFU+Hm;yts+soWuHdXOSNGr3TPLyQ=="
+secured: "c1Mmza1RXWLEcoVg2vXDoySbELdxWpNCEUMIpEJPfNQp0c1wPnF4/ljAbU2kgeM0HTlhbV2tBzf+3UfoJecZOlGtKhmbExttGCoNV890kJgka0ZE4vzf01wVssKajH7OiTfsa6blvVihs/BFYrfHTqqks4fxt1lEHeNp6AVDHl/qgGn4tLAeRb6S2U5sC3HGkI84LHwJo3o1jZCVteSuqIqaJGzEZ6iQzT8vL3aBTWFhAC+91daLb1nZ2NGj+WLrsKREc4l3gwVV+pl2Qj2JIZnwQ3sajB83jD2xRUYLjnKtRdwyhoQIQj/UXZoR5Lcc4XOGQVhfPljwGO5SSCg8n7YO14DPpyhyc6Ehf+6iMXBzf1u8viuqOZVWoluQzExGbvYsYZDWLGHgxYam3pTcU0sl+E8Gifl1OaqAAqFp5whI+L4x1POKfbEfZ5X+yuVM/LbDfryhfIMH6qS08BjI61cECXv8/byOz4K/d3irBqfq2YpvTJ/eLriZrDyxBQQj;5XQn9quT120qPxmwetG2rg=="
 ---
 

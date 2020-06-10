@@ -2,8 +2,8 @@
 category: news
 title: "Huawei Empowers Global Financial Customers' Digital Transformation with Mobile-Centric Strategy and Cloud, AI, and 5G Capabilities"
 excerpt: "Huawei held its Global FSI Summit 2020 (online overseas part) with the theme of \"Thrive Digitally in a Mobile Future.\""
-publishedDateTime: 2020-06-10T16:58:00Z
-webUrl: "https://www.prnewswire.com/ae/news-releases/huawei-empowers-global-financial-customers-digital-transformation-with-mobile-centric-strategy-and-cloud-ai-and-5g-capabilities-839889783.html"
+publishedDateTime: 2020-06-10T21:28:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/huawei-empowers-global-financial-customers-digital-transformation-with-mobile-centric-strategy-and-cloud-ai-and-5g-capabilities-839889783.html"
 type: article
 quality: 9
 heat: 9
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Huawei Empowers Global Financial Customers' Digital Transformation with Mobile-Centric Strategy and Cloud, AI, and 5G Capabilities"
 
-secured: "f3blzRyNkNNbAyX3OFA36st5Iq68G0epye7BiuGuK+dupLuVURhWYQeSZEHtZZRLoqrfUxsXuvF9fCvbmVRbn2dQbsejw6DH49SzC4VSxuOuC8j83aspuaR3Yu+tM7Ef5PTwIpbyKh+TgmzsO7dwp9igQvRdSL3gG+JbPzcccRtTF/IWSTdkVHFpW0P7kjC4r+lTPUfybgw2k2DN9nvWkg8UoitEsHmbmgjIW7p5IgowUaKSedlLpcc3Ahj/ILRYMaJBXIr8LS70jpbUzINGkb56E9Ot5BOjIbZ/LRuINzlKHjM653A7APSOjMF7j9lS;OU9TGCZLzvTxWiFludL7gg=="
+secured: "5exnlhEdgVMJj2SkAyIf98HgogpskJ0Swrz80mcsPmfRlirvuFWJxf9+Tq6Bi9O0U2O9oxpgUHTBlcivrJvdNmzvK+qer2hK8VDjOyO4DUNRrqNPFs5424+Frc7V/LsLuBxyQ4f7zfgfiH/+ebqkQeU7/wK7vYhc51VvQWykM+cyHEv8DeH/A7XnlpCjJZyAvGs2VSvZZPyB38Z9yirXzdDBmrv5Sp7+TyEnRk4VR4BipKVW0LB3ZnYUUUq8warrBlVq5Vs4O88AEghtSKBNdT5j9qwI6x/RVot4p1//s6tRRBcARXYgpqvq7stuOCVE;cWGGkdNWHnHVHrWrXHqc7w=="
 ---
 
