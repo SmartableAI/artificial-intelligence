@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/computers/artificial-intelligence-chips-benefit
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

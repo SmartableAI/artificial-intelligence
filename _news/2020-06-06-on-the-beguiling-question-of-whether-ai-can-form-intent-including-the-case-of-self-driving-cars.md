@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lead-paris-saclay-autonomous-lab-new-autonomous-electric-and-shared-mobility-services-embargo-10h30-uk-150519-28-1591375164.jpg?crop=1.00xw:0.893xh;0,0.0406xh&resize=1200:*"
         width: 1200
         height: 603
-        isCached: true
-  - title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
-    excerpt: "The company saw the coming of cloud computing, and now it is witnessing the latest wave of artificial intelligence, although at least one executive believes that growing use cases are moving into a phase where the tangible benefits of AI in the enterprise are real."
-    publishedDateTime: 2020-06-05T22:16:00Z
-    webUrl: "https://siliconangle.com/2020/06/05/dell-and-intel-answer-the-call-for-ai-by-building-specific-solutions-for-real-problems-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Lisa-Spelman-and-Ravi-Pendekanti-2020.jpg"
-        width: 1667
-        height: 938
         isCached: true
   - title: "Mateon Announces an Expansion to its Pharmaceutical Manufacturing AI Camera Grid by Including Contact Tracing to Ensure Worker Safety"
     excerpt: "TracePoint vision grid will identify workers who came in contact with a sick coworker and alert operational staff. -- Mateon’s patented AI camera grid system is similar to Amazon’s technology but at a fraction of the cost."

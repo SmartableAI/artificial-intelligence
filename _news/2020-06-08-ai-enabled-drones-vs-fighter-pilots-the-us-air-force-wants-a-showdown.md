@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The US Air Force wants to put an AI drone up against a fighter pilot in a dogfight that could change aerial combat"
-    excerpt: "The Air Force wants a human pilot and an autonomous drone face-off in an effort to learn how to build new types of combat systems."
-    publishedDateTime: 2020-06-05T21:46:00Z
-    webUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-air-force-to-have-drone-dogfight-a-fighter-jet-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5a7b1f4df450ffc1268b459e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
     excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
     publishedDateTime: 2020-06-08T15:30:00Z

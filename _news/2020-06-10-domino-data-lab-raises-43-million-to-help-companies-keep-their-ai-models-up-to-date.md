@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -42,13 +42,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
 
-secured: "Kw2oeV4ROcONCRy03z1cxulmdRUS4CGTGvK+cUA6p13Sj9K5qlRDODAbSj3kZX6zDdg7HZqb5z0f+E+XolLTA1wMgV9tdKXtba6BUK1EqExUj6ISQeVWSKEJdu6105dQCLV7kYQS+ZLMzvEEmDfRAYFggJYM3SYd2EaRSAobcnhYqWpP/hZbsSISQa/De1IKGQ929z5zsYt093o4/6XA7pEKqu9TJRW77BfX+35rG0FRSTagol9/SW+TW0pVDdLTxflPhhuXNJwXpEvoILrbbJdPXXEPCarLzs/x58DORga89G1Tp6bs0tqBj+A+rOFD;uo9Fw1A0Yxvp83KVsQpHfg=="
+secured: "vpx+gouo5rIOqyeXVvSdirnxItnsdZkqlvVxVg2p0LN6DQ9tzphyzcDx7AdMsAHzW9XNKYOm9cryGbjmgUQRlYmWSNMSXMm0eBRUdkvyV5mKZpH7TO2i6GoYmzAy+4ZC5IaG7UST9xJdPp29fYthb2QTBdM9a5KkmKUWi5qA3Uycx61NJHZdcav18pH7OUhkpD48/kU0j9XEEnsqgMcAiE4TMEYkCU5sHIcIuYpZun8O1ruh0rFzHgAxtlZR/qDp7DUEdYphz9FHjj/9XOQ47omaYvx0xKP0zpH8I/XR0bUOT3HL7N9hCgsprqckMwIgwUUyZ33lN8Mym0N32YO7LhjuKz93jKkDHlvANa422o7SrfncrdC1WQO0u9eaRZNzpZfs8jrlNXscRdVIhJG7jGSgsHLI67vqEdF895eTlFCM5Kh9HaNVvCxLgXX/Zj9hNb4P6iTK7qszYdMGMZjB630C53asWX6Z931VmplhdM1MqIrpA1A4DU+T3I57dA1g;YD6hV8wDtJjCSLPNLY4GKA=="
 ---
 

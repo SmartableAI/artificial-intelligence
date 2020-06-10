@@ -101,6 +101,20 @@ related:
         width: 705
         height: 396
         isCached: true
+  - title: "Engineers put thousands of artificial brain synapses on a single chip"
+    excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as"
+    publishedDateTime: 2020-06-10T14:42:00Z
+    webUrl: "https://www.controleng.com/articles/engineers-put-thousands-of-artificial-brain-synapses-on-a-single-chip/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTL2006_WEB_IMG_MIT_Graphene_Sheets-Slider-1.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z

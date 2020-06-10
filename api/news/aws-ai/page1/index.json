@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-10-domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date.md",
-      "title": "Domino Data Lab raises $43 million to help companies keep their AI models up to date",
-      "excerpt": "Domino Data Lab, a company developing a platform for AI and machine learning model management, has raised $43 million in financing.",
-      "heat": 94,
+      "path": "_news/2020-06-10-labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth.md",
+      "title": "Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth",
+      "excerpt": "Amazon SageMaker Ground Truth now supports labeling 3D point cloud data. For more information about the launched feature set, see this AWS News Blog post. In this blog post, we specifically cover how to perform the required data transformations of your 3D point cloud data to create a labeling job in",
+      "heat": 81,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/",
-      "publishedDateTime": "2020-06-10T06:04:00-07:00",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T07:25:37-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -31,10 +31,57 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Domino Data Lab raises $43 million to help companies keep their AI models up to date",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/08/3d-point-cloud-1.jpg",
+          "width": 1000,
+          "height": 485,
+          "title": "Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
+      "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+      "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "publishedDateTime": "2020-06-10T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
           "attribution": null,
           "isCached": true
         }
@@ -45,20 +92,19 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-06-10-learn-to-become-a-cloud-pro-with-these-aws-courses-for-60.md",
-      "title": "Learn to become a cloud pro with these AWS courses for $60",
+      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
+      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
       "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
-      "heat": 89,
+      "heat": 110,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/learn-to-become-a-cloud-pro-with-these-aws-courses-for-60/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-to-become-a-cloud-pro-with-these-aws-courses-for-60/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-to-become-a-cloud-pro-with-these-aws-courses-for-60/",
+      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
       "publishedDateTime": "2020-06-10T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -82,7 +128,7 @@
           "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
           "width": 1200,
           "height": 675,
-          "title": "Learn to become a cloud pro with these AWS courses for $60",
+          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
           "attribution": null,
           "isCached": true
         }
@@ -100,7 +146,7 @@
       "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
       "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
       "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "type": "article",
       "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
@@ -1295,44 +1341,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
-      "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-      "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/",
-      "ampWebUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "publishedDateTime": "2020-05-22T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png",
-          "width": 700,
-          "height": 370,
-          "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc
 cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 77
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances"
 
-secured: "VpFjNyQPSnjIHx0E3CO/Mfd/PgwUhoqBlDyGLGXyGAnukimbwAObPz/l6wKixBKnM5GzkyTkRtr7dBzwOIatpZ5+IJrdBYXONq3dLRwY8Vj1z+cXDXN6XY8zxBoDgTIMjGKbn9XOk9KIK7XwcCgBfkx14zZquLaY70qPDgUJKVQ2/Wupaev9Wv4ikIVxLhPkui2BMmFh/D1don6KuNTj79pvsIacEM1qiCj2fJqZNyT8CvwAxak7LECCU+1oLr7weoFOKGNZuA4ipnQqnyWkAyv/+cgW7nmAbVtRx5O6GotLUhgMmYsWhPlBpVLRpyZfdgmvpRZXTPK3dNkVZ54DLkmTsIrHEKNcFpgLPcfS96kAOiDdq6wgubbvX4iAqgewxkJrRquSjuR7uKfCnrmIUNCi/D0uK2UkgfOzq2GxXY1kaAnhdzTzzz6vBqdl42m23qHnQSmUKBgtCUkTvTwZ8Mk4utvBQrUYs+hlO6wUFFGdCcTU7EdSzoTZhKvlZbZh;G/Q2JP1TuugmITzewjCYeA=="
+secured: "j7ersZRY/j0JaCNtH7NUGZ+WBgjdjUtxby53BktCxo7Np4sxTMvJ01LKZchNAch8F366DupritEyrr3ZE7QZ7K0i8avECC1b/MUVzQRPRJWrYxfjAY/3VrfMdBOzg3zsfTP2XziiT2QH+CkYdNsId9y5qTrkcUt5WUJFtbnFSVX69aWGcNU3Mu2CW/Bl9uwxqnfxCmRejRArXBktbkm3ESgGFwoR0XHXmxaqrCniQ70nftnqECB2YWyfSyj0cDPHE7X2QWbTxqL3Oe3wO7xgTlh84ygEb8+ogoqFqyZSb7cnejXPHEYn1BuqOk+UpRgDExyb/iPlRO/hjMCRF/Tgs/x/xTvxmJWoZVRerFV5O0VCph5Aripckx8+WRF8EnHbs7rNH+rxizHXTDyXfrCUZWloUdgi1aB2XCpP5UZVm1lufwefW2eQ3K7CnCV6J6kqQIdryjcZf0MBE1Oyc4kKdCmwYE79BOiJtucRvvfFrINCHLIgq+5trd9xGdl5N4pq;2UytmJ0uyQvA3PSH9CapVg=="
 ---
 

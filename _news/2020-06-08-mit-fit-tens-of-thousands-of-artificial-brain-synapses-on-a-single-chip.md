@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 type: article
 quality: 106
-heat: 187
+heat: 196
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://www.imeche.org/images/default-source/default-album/shutterstock_1069662992.jpg?sfvrsn=0&size=705"
         width: 705
         height: 396
+        isCached: true
+  - title: "Engineers put thousands of artificial brain synapses on a single chip"
+    excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as"
+    publishedDateTime: 2020-06-10T14:42:00Z
+    webUrl: "https://www.controleng.com/articles/engineers-put-thousands-of-artificial-brain-synapses-on-a-single-chip/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTL2006_WEB_IMG_MIT_Graphene_Sheets-Slider-1.jpeg"
+        width: 645
+        height: 350
         isCached: true
   - title: "Tens of thousands of artificial brain synapses on a single chip"
     excerpt: "Engineers have designed a 'brain-on-a-chip', smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors - silicon-based components that mimic the information-transmitting synapses in the human brain."

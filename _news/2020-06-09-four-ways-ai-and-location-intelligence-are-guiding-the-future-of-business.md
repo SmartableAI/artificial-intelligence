@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-locati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 338
         isCached: true
 
-secured: "vUUmnMKLGKERc3LR1GwCEyH1fY/pYLmL0qEUYVxulFUeT9qrEae8qyznbndzVFIGrREoTpsXGaZtLlkOxQLT5fnwXSS27UR6YhXip6o1/JYIO+2NdCdXZXM+DoZoDKwndyIGMU2YsmuViZyA/yXucDzMukYy5O0KgCXG8wcUxd0vkp7m6EQ5dIrU4mtKBczrqj1QyZN9LJVC2ehzN8ymt8NyiIYNcxXBjD+1toGhmeppfxebsFb3N8fIit5m1dIqA6Q7Htw8lakxhc9E4J9PT8XGz+Ce9DKudT+r1CJsGuPw9kKGGQs3HuVlM9KMhW/vg9OEvTKKXnz+cdJkRgcavgYoILsvkGNJH91CJdLUtIAgE4Su0nkRVFgq+2/3Huxbs/sF3EE1eraKFZV8T7Epth1J1nejzbjQ9LjwL3IjZLAXk9yHYPOf9aY3Cs1DCyCY7EQS77u5qludhaa3+YvsLHuZDy3VIBmF505gvV11449+pHE6McZmu8YCFTdJ6loW;DzIwIknQmVIwW++c2O9Qeg=="
+secured: "78m4Sak9DgnheQFFP2zhHkHfAIwhjiNDWs/pnjj4ptli2nE3L9vSRqVQhE/Ld3Y/8EOz7Tq8I/B5tS9l/qh8QA1X0RnnMjR/9CtPwMSKWd0DX3smR3dMkq4oP2+5WOCi8ock9Fkp6R9LJyvAOMtMTGwWDT/0mrie1pLdVtgv85RfZezZtQruJuK11JVXEKTFySTsSPokU8dP7BBF7CGSCw2AY+T/EKBCi46HzQjaWx+0g3c86iaU06ei5HEuJwTlud9vp7MV/uXBuRn3NHZJz7tLHAZ/cC19ZurldppXnffQaiCqjuvXLBESB8Ci7qdYpiYnevVbtbi4XuHxWJ22uPtK4BjwAbJq8TAdtqP3pnhlENX+eVgqY0e/h8muY+Iw302tkaYrHV7HiCk9dT51pTK7ENSLnq6R1V1cX7zWz5ysRNRF01/5G32EqDsr5TXeQ3rrpcqiXTOI5NCIGhBSusAqf5flTefMxbJLyy4QUjG75RJ2ElnvC2kbreacBEVF;e9MW4r/CUjYaqw2aRnkGgQ=="
 ---
 

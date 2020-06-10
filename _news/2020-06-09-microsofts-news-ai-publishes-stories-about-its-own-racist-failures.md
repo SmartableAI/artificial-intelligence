@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-news-ai-publishes-stories-abo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp"
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 865
         isCached: true
 
-secured: "WFEpGVZO/52Jo9QFFWa+2l++G/ZOf8ofNtblzy0YvIfNpBnlpK1FfRHU3iBOYhPgygJxMv99uE1uiRFIuMCbV4Kp/4ScEMcjp2n1gBqP/3Q38zPa1a8yUExw1Lq6MqO7rLsUlKv4RpRzsZUr9o9dEIFO9BfuAQbk2eVTfW8RcUAnD8r89BY0jtoZhno/yKyGJVwCSEK6VSXQU3T/GOuptJXLylaeQS9buHJOCIZ3gq8alxEadc0WPYNBnvfvXMLCeqUCocW4igcVrvYHEUDNB8V7U7RcU8Xfs02/CS+X8kemP0hXx2XAcQlhmCb5bDnYYVWKuqpRRvM5WA6qE5cDTI/FCc+mnALGb7FdguqQvDK70EB5au6W24SzNHPe+4k+bC+mjNGAQ77neYtespJCQwbMvqbtQjHrmzg92gHG5oVuzKtJ9Cm2zKdMS7uE5eYiYuUV8Lr9wfSqNr/CQi8AKObdf9L0tII5P7RuTyPThg0KuWYULCQ5mJN8JCbpbBvH;iDKcFu2mb57eJvilmKyMlg=="
+secured: "cci1FfVy6xdTMAqshKmyq8Ceodchbfq8RCyxUoRlqNj9rtPe4Tw7vKiQ8jWSKxTka7jXFp+nVuHerKuViBS+uZd/GRzhMDqD0nQ6CyWScQspl2RY+tQKLGDcog/Z+GMRh+h9cypcqtrA4jsNI/LwkgQVEIhJ/8ujN6cFS29ezn1N8jFFj+1K60aVOq0lJYO25lHOLYhQRsFFV8soEokMNPbNlcLKNXN3UH0X3fZJbd8yInrrP4tOQs+hQAv/rN3+sYBrsZHEsF0tnAwFQNM8WQ2AA1Lf4MmsCA8yS3e6cMy5q0RiHdTDoMJXQS+bRE5fu1IQEKcbv+ijdW98jFagMNHcg4OrZci/CgW7YR1Zoo/wTAxSdhP62JkG7O64k3IrfLslVbDX3pc5ZvAknwTdcQIj6VnvE1i5vo1vNCJfwWM43/u8olb0XLHDAd+LKenwgEPydFlqk8N9w1nU8G5ovW9KxlyITY8b0GEoULkKQZpF1OMKdF9xuINozbcmdNu6;mwc6sU9hFkggiOboji5axQ=="
 ---
 

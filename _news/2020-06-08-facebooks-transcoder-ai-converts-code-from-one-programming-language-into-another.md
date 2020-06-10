@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

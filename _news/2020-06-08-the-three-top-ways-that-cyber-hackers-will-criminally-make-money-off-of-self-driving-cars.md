@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
-    excerpt: "The company saw the coming of cloud computing, and now it is witnessing the latest wave of artificial intelligence, although at least one executive believes that growing use cases are moving into a phase where the tangible benefits of AI in the enterprise are real."
-    publishedDateTime: 2020-06-05T22:16:00Z
-    webUrl: "https://siliconangle.com/2020/06/05/dell-and-intel-answer-the-call-for-ai-by-building-specific-solutions-for-real-problems-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Lisa-Spelman-and-Ravi-Pendekanti-2020.jpg"
-        width: 1667
-        height: 938
-        isCached: true
   - title: "Mateon Announces an Expansion to its Pharmaceutical Manufacturing AI Camera Grid by Including Contact Tracing to Ensure Worker Safety"
     excerpt: "TracePoint vision grid will identify workers who came in contact with a sick coworker and alert operational staff. -- Mateon’s patented AI camera grid system is similar to Amazon’s technology but at a fraction of the cost."
     publishedDateTime: 2020-06-08T09:00:00Z

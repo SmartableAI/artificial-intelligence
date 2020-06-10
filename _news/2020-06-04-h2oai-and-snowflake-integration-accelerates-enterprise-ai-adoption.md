@@ -1,27 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
+excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration,"
+publishedDateTime: 2020-06-04T17:43:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "Y5aU1TAraVN/ihAx9wfip7GRyHIKnC/2QYQG1I+MBTND2CJB/BbHB3cTYH3ymgSeFjX6yI00JkeGuoHrRhHFgaDBWj8S+H7Z6qmHXTMR0zkEzQqDG3303X9X3YoGTQ7vrV2R9k/Rc0MTyu/Na/VD7nt/MAfH31CtrbNa1i8kCZm5I+TwMMnFbdgHZFvNUpIeKZaWcscot6OrUQSfY4EfKCNmzBCiwO1O9n/v9+7MC66M9za0YIR1z7JErz0rjjbLqqOYWu3f/7UwpXhi5+rbq79c96GkSBw+bv1vWKgJU2Tp0wmvkDbtwXyoK829ftv/kLjIgRD2uXUR55WCy6B40f59ItlaQbTnjSW0hi8zq6jKOa/tg9SaUsJ+BwnxufSg8FiQI9y0uOnzPYGDmczjXsSsy+sVo5KsJVJBuZCfcUjtTFrNwnTx8A2YlCXKn+szMd9i7zMQLuFB7opISlZGdLxDSMzPVCOoOI0psxhN40yWlmTrlPfVKpjH9zCGAQ9M;9QzCXFS9RE+Tb80b9Kn5vA=="
+secured: "KVvy8FsSWBPoNheImTRGceMp0MXyuJJpOlmmznlFaMMydEt9FdHBZVFWnxoHgIZVaVhBPjL9l5Y83ZZz6lvezx2U6eK0CnOSNV+VVxSZ4rx1Dta/lASr77hjINn+b0nh4qC3TXWmgRQ3c10Hxm9egXwAUamwlNVBDIRgb9kqFV+2TTnD3DqXBC4peZE5eP33wbPOnZijuLmLtiQEc1d7ZCmsXMp2/qDVm/sokl43JSf5H7s0iLdLZdBpOyN3Ji49pCBlYQZ5wPRdNjNRMr9bYodxamkt+tLpyBf/eInqwgNL4XoEKqACUiKVovhXEgnY;x9cSrbZk+2qq4i4ezpN86g=="
 ---
 

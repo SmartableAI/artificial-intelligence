@@ -40,6 +40,20 @@ related:
         width: 330
         height: 330
         isCached: true
+  - title: "PSC combines Cerebras and HPE Superdome Flex for 800,000-core AI supercomputer"
+    excerpt: "The Pittsburgh Supercomputing Center will build the Neocortex supercomputer, featuring the Cerebras Systems Wafer Scale Engine and HPE's shared memory Superdome Flex hardware. The system, made possible with $5m from the National Science Foundation,"
+    publishedDateTime: 2020-06-10T14:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/psc-combines-cerebras-and-hpe-superdome-flex-800000-core-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Sean_Lie_Cerebras.2e16d0ba.fill-1200x630.jpg"
+        width: 976
+        height: 513
+        isCached: true
   - title: "AI Supercomputer at PSC to Combine Cerebras Wafer Scale Chips and HPE Superdome Flex"
     excerpt: "The Pittsburgh Supercomputing Center has won a $5 million award from the National Science Foundation to build Neocortex, an AI supercomputer that the center said will “introduce fundamentally new hardware to greatly speed AI research.” PSC, a joint research organization of Carnegie Mellon University and the University of Pittsburgh, will build the new supercomputer in […]"
     publishedDateTime: 2020-06-09T22:50:00Z

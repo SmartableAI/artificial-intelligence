@@ -2,18 +2,22 @@
 category: news
 title: "IBM abandons 'biased' facial recognition tech"
 excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-publishedDateTime: 2020-06-09T13:55:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-52978191"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52978191"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52978191"
+publishedDateTime: 2020-06-09T13:56:00Z
+webUrl: "https://www.bbc.com/news/technology-52978191"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -549,6 +553,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "jGIjHokd23QcugDN2sTo5VsGl99PBy+R1jZCH4PRyUPnLsI+36e4VRUnUmOYIEdL31/bjdfcYsqThqB11aBEw7f9ZnEJECIDOCgu50yzxkI7iCVEfRE++evownRnBjkD+lbZ+7pZx0XkyLIZaxWRAXO8+MF3gh1rKuOqevCpZIFDawEsCPp/fnJXTPd3ev9V0Zhqb2hXn5kKUCRIww2AmeeSIK7XfxZiCJA4/VOaoUAgv4G2cb0NzeWbjgypD8JVaRomTBmV9UQPjuqpZZOg/hkp0NC5FxxBlKw4E1/fi5yxoUCTkTCiZRY6yze2X1ME;Miv+nJFBfiunCYtExDixUA=="
+secured: "2lE4s+8vvDMrZGFC4ExIMssyhDMUcgPsZwAxMrb3ytbAiJa5S5/gMuy5AoKfAUBKsJndyUvc6H8IfDMiYNezu+RnSAAY1YGdtsdwPABbzRU6xTYsn0NLujBYCa1AHtUJybo/web2ERRWVlHEIU4sgdcBc3Ij3cwlo8TDgComJc90PfMyWwhv7BwPizc4kIBiWvlZdpoyS15TY8SO7cmdV/bqXmI8BWajxPBa7hrowroalGPj6e7mFdZmBnEzmOeQFqNWLr/2Ozh8kQtXThvaD4QNH3O9K47aXuhnUGfIatNStXqeEmNygTEHrqU9mdz3;r7vcBxMLDFBio2rIH5kVtA=="
 ---
 

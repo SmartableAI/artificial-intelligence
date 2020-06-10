@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
