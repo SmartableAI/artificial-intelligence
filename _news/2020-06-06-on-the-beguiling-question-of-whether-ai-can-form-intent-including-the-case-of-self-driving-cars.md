@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Crash test studies: Insurers say self-driving cars not a fail-safe option"
+    excerpt: "Companies working on self-driving vehicles have criticised an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
+    publishedDateTime: 2020-06-06T01:30:00Z
+    webUrl: "https://www.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    ampWebUrl: "https://amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    cdnAmpWebUrl: "https://amp-independent-ie.cdn.ampproject.org/c/s/amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 58
+    images:
+      - url: "https://www.independent.ie/business/5b445/39263963.ece/AUTOCROP/w1240h700/2020-06-06_bus_59404810_I1.JPG"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
     excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
     publishedDateTime: 2020-06-08T16:17:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/06/Van-1.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says"
+    excerpt: "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
+    publishedDateTime: 2020-06-05T19:17:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 43
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Here's Why Our Gleaming Self-Driving Future Has Been Delayed Indefinitely"
     excerpt: "Autoweek attended a great number of these demos in the early part of the decade, and watched as developers and CEOs hedged and carefully promised everything ranging from a revolution in driving in mere years to some form of narrow use of autonomous tech in the far future once the legislative framework emerged from the dark ages and allowed for some nationwide uniformity."

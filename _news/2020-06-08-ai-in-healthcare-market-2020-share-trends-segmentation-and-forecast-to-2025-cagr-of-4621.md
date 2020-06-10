@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%"
 
 related:
-  - title: "Impact of COVID-19 on Artificial Intelligence (AI) in Healthcare Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-    excerpt: "This report provides in depth study of \"Artificial Intelligence (AI) in Healthcare Market\" using SWOT analysis i.e. Strength, Weakness, Opportunities"
-    publishedDateTime: 2020-06-05T16:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-ai-in-healthcare-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-06-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
     excerpt: "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by"
     publishedDateTime: 2020-06-09T16:14:00Z

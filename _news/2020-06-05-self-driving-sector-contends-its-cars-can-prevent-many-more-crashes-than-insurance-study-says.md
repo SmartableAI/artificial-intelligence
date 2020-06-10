@@ -29,53 +29,51 @@ images:
     title: "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says"
 
 related:
-  - title: "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds"
-    excerpt: "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,"
-    publishedDateTime: 2020-06-05T15:27:00Z
-    webUrl: "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/"
-    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/"
+  - title: "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars"
+    excerpt: "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ..."
+    publishedDateTime: 2020-06-06T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 76
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg"
         width: 1200
-        height: 805
+        height: 675
         isCached: true
-  - title: "Self-driving cars likely won't prevent every car crash, study says"
-    excerpt: "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry."
-    publishedDateTime: 2020-06-05T17:34:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving cars still won't prevent the most common car accidents, according to a new study"
-    excerpt: "Even in a world where every car was a self-driving car, two-thirds of all accidents would still happen, a new study says."
-    publishedDateTime: 2020-06-05T16:13:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6?amp"
+  - title: "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars"
+    excerpt: "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution."
+    publishedDateTime: 2020-06-08T16:24:00Z
+    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 76
     images:
-      - url: "https://i.insider.com/5eda49e04dca685c2a43f1a7?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Three Top Ways That Cyber-Hackers Will Criminally Make Money Off Of Self-Driving Cars"
+    excerpt: "We are all somewhat numbed by the continual announcements about cyber-hackers that have broken into an online database and stolen our personal information, oftentimes doing so via attacking credit reporting agency databases,"
+    publishedDateTime: 2020-06-08T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053476626%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Crash test studies: Insurers say self-driving cars not a fail-safe option"
     excerpt: "Companies working on self-driving vehicles have criticised an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
@@ -93,36 +91,75 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "Study: Self-driving cars don’t prevent all crashes"
-    excerpt: "(CNN) — A new study found that self-driving cars likely can’t prevent all wrecks. The insurance institute for highway safety looked at 5,0000 police-reported crashes from the National Motor"
-    publishedDateTime: 2020-06-06T16:11:00Z
-    webUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/"
-    ampWebUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
-    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
+  - title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
+    excerpt: "The study found that one-third were “the exclusive result of sensing and perception errors, or driver incapacitation,” while the other two-thirds made up a variety of errors that self-driving systems are currently not equipped to handle."
+    publishedDateTime: 2020-06-08T16:17:00Z
+    webUrl: "https://knowtechie.com/?p=121732"
+    ampWebUrl: "https://knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/new-study-claims-that-self-driving-cars-would-only-prevent-one-third-of-crashes-in-the-us/amp/?p=121732"
     type: article
     provider:
-      name: myhighplains.com
-      domain: myhighplains.com
-    quality: 44
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 50
     images:
-      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2015/11/Ford-self-driving-car-CNN-video-image-jpg_5567455_ver1.0.jpg?w=400&h=225&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/06/Van-1.jpg"
+        width: 1600
+        height: 901
         isCached: true
-  - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
-    excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
-    publishedDateTime: 2020-06-08T05:15:00Z
-    webUrl: "https://www.wltz.com/2020/06/08/study-self-driving-cars-dont-prevent-all-crashes/"
+  - title: "Here's Why Our Gleaming Self-Driving Future Has Been Delayed Indefinitely"
+    excerpt: "Autoweek attended a great number of these demos in the early part of the decade, and watched as developers and CEOs hedged and carefully promised everything ranging from a revolution in driving in mere years to some form of narrow use of autonomous tech in the far future once the legislative framework emerged from the dark ages and allowed for some nationwide uniformity."
+    publishedDateTime: 2020-06-08T10:34:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32782600/why-level-5-autonomous-driving-has-not-happened/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
     type: article
     provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
+      name: Autoweek
+      domain: autoweek.com
+    quality: 43
     images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
-        width: 446
-        height: 213
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lead-paris-saclay-autonomous-lab-new-autonomous-electric-and-shared-mobility-services-embargo-10h30-uk-150519-28-1591375164.jpg?crop=1.00xw:0.893xh;0,0.0406xh&resize=1200:*"
+        width: 1200
+        height: 603
         isCached: true
+  - title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
+    excerpt: "The company saw the coming of cloud computing, and now it is witnessing the latest wave of artificial intelligence, although at least one executive believes that growing use cases are moving into a phase where the tangible benefits of AI in the enterprise are real."
+    publishedDateTime: 2020-06-05T22:16:00Z
+    webUrl: "https://siliconangle.com/2020/06/05/dell-and-intel-answer-the-call-for-ai-by-building-specific-solutions-for-real-problems-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Lisa-Spelman-and-Ravi-Pendekanti-2020.jpg"
+        width: 1667
+        height: 938
+        isCached: true
+  - title: "Mateon Announces an Expansion to its Pharmaceutical Manufacturing AI Camera Grid by Including Contact Tracing to Ensure Worker Safety"
+    excerpt: "TracePoint vision grid will identify workers who came in contact with a sick coworker and alert operational staff. -- Mateon’s patented AI camera grid system is similar to Amazon’s technology but at a fraction of the cost."
+    publishedDateTime: 2020-06-08T09:00:00Z
+    webUrl: "https://apnews.com/8a2ca332d267671ee1c02c7e6a6420f0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
+    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
+    publishedDateTime: 2020-06-08T09:41:00Z
+    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 2
 
 secured: "fuOmYVm6r2hPMInibaViligGF3F7OzrfOabOIfjNUFADryHYWIJGkQjmHX6UQLeCQuvE2IpH96+jjueaedU+68K9DjDE6PstmDnJb7b+44YusPQOnPlu5aVkExlKg+XC8Qv8sCMFi2IOB1BjRO5OdUr8IH4Q5PjAyy3oN7T6fb7BysADU+hRcka88p3uN4HgaDEBYxah64MyN3KQZzYLEg0nftZlUu2kIx1/AfnPEmaNrCNZTrZTAAA2W1e5wJInBf/8E/Z7lIL5237eoUN2gk8NX/FlMGI51VKtJJhbrRdBE6k56t+6Lj1UPF5TgG65;ksA42nBjj6bFeipbeuex9g=="
 ---

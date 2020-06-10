@@ -191,6 +191,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "The influential project that sparked the end of IBM’s facial recognition program"
+    excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."
+    publishedDateTime: 2020-06-10T08:00:00Z
+    webUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/"
+    ampWebUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 84
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 932
+        isCached: true
   - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
     excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
     publishedDateTime: 2020-06-09T04:36:00Z
@@ -330,6 +346,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "CaixaBank introduces facial recognition ATMs"
+    excerpt: "Spain’s CaixaBank is rolling out cash machines fitted with facial recognition technology so customers can withdraw cash without entering a PIN. The bank began using the ATMs in February 2019, with an initial 20 machines installed at major branches in Barcelona and Valencia."
+    publishedDateTime: 2020-06-10T09:44:00Z
+    webUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs"
+    ampWebUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
     publishedDateTime: 2020-06-10T02:46:00Z
@@ -426,6 +458,20 @@ related:
         width: 1021
         height: 694
         isCached: true
+  - title: "Daily briefing: IBM has backed out of the facial-recognition business"
+    excerpt: "IBM will no longer sell “general purpose” facial-recognition technology, Black scientists call out racism in the wake of police killings and the latest must-read papers and preprints on COVID-19."
+    publishedDateTime: 2020-06-10T08:30:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-01725-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01725-7/d41586-020-01725-7_18065162.png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
     excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."
     publishedDateTime: 2020-06-09T13:40:00Z
@@ -475,6 +521,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "2i4iPjmOlTV6aUwQbZ+4ZDzVi7d6zWRGrm5Da7pX1+gH3G32uMcEp0Ehc57Y8b60A9sVa4X1ClrgNe92iYTZeg4GRTKpKH7Yn/WsdcKzVFkydtcb443QdqFbKLe1avPW+PfJ+YB4++YTgZhZGtZ419q9+SoSJsWQEXxVOgov3/QhUBzvTnrtLc9/EH4P7z1EygOyPZg52dkYS9MEJPTIh/g6ejtiLoxxcYmKGSmk0lZmjIDouS5rm0D/4KZ3LarJRHHDoy05Dy1CXCI82HD3P28RhyYwlJT1Luh3voqL2+x7oDhZkRVpe81PpYKKasTXdf/9/5PYlgYeOWndQ3mH9P1Ix/TvcfEP3COALF/7ASt0IzRu8mlqyCJYvrS0vfNPHO954FSYHuvwCegB4KI6y3M5vPr52mGFvxBvuHysIi+UR2GycgwaonRvnm7m//+CJC6httL8vns+DopBOfdd7X4KEZlw1maJpuoEWdJj8oFuDI1J0KSRovaWriJB0cV9;Ky6Jpwv+I3cRHglCCv6khg=="
+secured: "E5f4dFWu3KCz3oolNuDHgdkWqQJgj1K73h5dm2ad24o1cPUvVmGQabqniMJRbYMCblFQM1fHa+6geKOrOGH4mJtsUQZGfY1ybiIv+5+Tun0W0RDDAo2GenUcsD38HQteFB1WVul9T/x4LmtNlm4F1+onR7oPobMbKRuHPwdIyKR9J63VD3x4s3xWHWTtjU/5Yw2tHVJIj/c2ALqt2YX2PUybfNnossIQciVR61fl+heZuTHhOTb7qkEGg7/IALnf/ju2PKYKPdiy7dvWZ6L13lzr7+V+c/hpBUvNrakA+mKwjeUsVECojSg0UiNo9T8p0vXF+TrVnVuOYoiYDb7GMceQY8sYv0qe44bilDuKuq2CXRLHFm3Ux/yxiQlAW2sjk6RbmNZnrm3qbc1htA49ZsleL5BK5QjY2q/nolBDA/DL+EBXpwFiSA8vIFz3w2WBmoe/zcUo3Rv9IFIAMO6rouMyG1y6qF5mlqc3xRpizupp6nC/bSvFdwYcGVpJwwuT;ghmhnn44yizcRuWeAo8C9g=="
 ---
 

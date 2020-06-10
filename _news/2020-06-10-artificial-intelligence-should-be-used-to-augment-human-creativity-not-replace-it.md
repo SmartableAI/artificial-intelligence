@@ -7,8 +7,8 @@ webUrl: "https://www.businesslive.co.za/redzone/news-insights/2020-06-10-artific
 ampWebUrl: "https://www.businesslive.co.za/amp/redzone/news-insights/2020-06-10-artificial-intelligence-should-be-used-to-augment-human-creativity-not-replace-it/"
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/redzone/news-insights/2020-06-10-artificial-intelligence-should-be-used-to-augment-human-creativity-not-replace-it/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://lh3.googleusercontent.com/4hVE8RqHkGRsQ32YbA_JyZHaYbvlXZR6UnXkJUk5MudE_bHVbUNyiM1jG68535_00TEI_2CvPx8qSBO4wyJbsbX2NRnGkxYSUA=s1000"
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Artificial intelligence should be used to augment human creativity – not replace it"
 
-secured: "t9pcmJZEDEkAxz1z10m7vAwcJMfp8cXK5vgAuU91grp/rwdSpGDx6sojBwN+m7KRRuy6WWxOUNxmkpAgcBND7Q5+r4HXrlEhLgX1SznSP7LuLB9tnL5voiMo8K0u4O9730x03ciT+5IZZh6pCvABrZQd6H5Pdn/4bbUSQkWCjtB301fT6Nk6HA1uVS3fbYjRKO+BgvFDaxgSF7ezSbbJ6FXXI/VqMsH9n5CgqAuocMFNeoaAnCvpJFj6wu1IJ3mG9xPig7wNjo1RCjv16+SkD80dpNbut4D+e26IS6MsR6VulIVFW8yTawZUHTrQmJm8;KAsPVKc3AJIBMm+EGC9sLQ=="
+secured: "59NieK+vApPCptwZv4vRADzTYjhkQWL/JqZ7pXgw0ZsC633MwLyoINsdBulQy0+wMAW9+GBf/i3QS0tKuGqbVvpGQk+F53AxH++p3JXzhjKTcGreEpFCJbIjTBTkIQpWeg+LzihMlsBgVEtN/9TBmAwgHdEGfnEsjWLaXcF5kA5G3z1RWyOVUaSuyO663eV4BWToSKqQxfNJ7S7ZBMVnnv8ZnEgldyOqVpxNKYQe/MsR6u5jxvULNMiVA2LK21hcSrueVkPMXx6GtgC2Pr5SZlJGUjtMoDe+54/LNpFC8JvfmsvBdQVnjocEBEzbg8s/TmuvzP8hvGYSj+/q5Ht6Ou6LM0Jk0UcQZD9nPdQx0hHI0q3oWyWEpUGspBYJWK7Dbib1AXxhX8y86m6j0L89sX7gE/os4eMIHuxjudhUubVYEdxoLHrl3VWXaXtkrmDSGNBPkjFY3KWpQxEq7Y7X/7KhB1ZjtHETE63JKyws8J2NXgtITXebefoyjkOOUDdw;J/+rP5XmXqCbVKWny7pbYw=="
 ---
 

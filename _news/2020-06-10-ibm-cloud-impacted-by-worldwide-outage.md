@@ -25,6 +25,20 @@ images:
     title: "IBM cloud impacted by worldwide outage"
 
 related:
+  - title: "IBM Cloud suffers global outage, bringing down customer websites"
+    excerpt: "IBM Cloud suffered a widespread outage on Tuesday that brought down multiple services hosted on the platform, as well as IBM's own cloud status page. The problem likely started around 2:30pm Pacific Time (PT) and escalated at around 5:30pm PT."
+    publishedDateTime: 2020-06-10T09:02:00Z
+    webUrl: "https://www.computing.co.uk/news/4016300/ibm-cloud-suffers-global-outage-bringing-customer-websites"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/1595956/8f3a4997-4f60-400c-865f-0aae561360b0/3/IBM-Logo-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Widespread Outage Hits IBM Cloud"
     excerpt: "IBM hasn’t yet announced the extent, interval or suspected cause of the service disruption, which temporarily brought down the webpage used to check on the availability of IBM cloud services. IBM Cloud appears to have suffered a widespread outage Tuesday that temporarily brought down some popular websites,"
     publishedDateTime: 2020-06-10T01:04:00Z

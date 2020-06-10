@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
 type: article
 quality: 106
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
         width: 705
         height: 396
         isCached: true
+  - title: "Tens of thousands of artificial brain synapses on a single chip"
+    excerpt: "Engineers have designed a 'brain-on-a-chip', smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors - silicon-based components that mimic the information-transmitting synapses in the human brain."
+    publishedDateTime: 2020-06-10T09:38:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=55359.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id55359_1.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-08T20:23:00Z
@@ -132,6 +146,6 @@ related:
         height: 295
         isCached: true
 
-secured: "yDkl6qJLJA5aqjCP4ae1zY49+7SpxY/p5hKnkxmBbyUz1GPdtam6HhPr6SxpRAxIQPRzXvWH35Xif0ztYEPibycW7bt6K/zGrFoWt1xl/BFBbAb37yvqX0uWBqPCYRE6zXJMSrzP/jFkFsPIbnx2u34P4UvTgKyPKK09gcp3N4GftUc7txM+SaAHkv7wCBA5rF+EJijHoIez+SRQnezLIywSANAbRtyXkpdPcP+yTutB6kRJF9MmB+VNgM651/tJmaT4slNcphQG9v5cqrtS3SmhpaaSTSEznghsIxIQJkOQJ9BZENXhQwQEBTjTlMtmV/fpXZ3/RaAsK70Z2dj7Lf05ZSpnkL3LIcO+eknSCnTTzQzNHodTcRJqg8x7Hdrn+SDgQJ+pnFGI85SYpBBnSY9sxWeHQ6wBNd0pB82RGM+0FZsRXO86TsTFeMGigbXXPWpwZw5gpS4lTfC1X9u2nsYmQ5SfqinYIx7oPld9ogOcnESMXLfzYH7KI45XT9dI;VEkpka0CZnNAwkIvS1pxMQ=="
+secured: "0z2x2Tj0fyNrGTRkEWeuMebk4G5XbSUJ36CLTTOzSoRzKNgCk3xWcYLSxL8ihfGE+1pEw0JziggiH1Z5QTQZf61WBPHRmPkUZWAlbrbUb6LT4eDHTBYjJUMHlBj8AkXEmTeD2x02wDCOf2AfEAtY77dQO0IWQQ0Qwa5LV4HPPukvn0atgLqK8S6kbpk7A/Qp+zrcUiEefp3HIVK9yqxRp8P5DQ31Z8Pygs6WbE9KONv6kaFFNpEnu0GvL6zVw2eeyJ7+OmtfJpIbVtUKsTXT8B323xn1nhtSMoHUDzHnw/OPAyX4rBnwAdeWTBGTI7LKVncVlu+qsSuuhafy4uCdTiO5Fe35ivnCNUdBb5k9mQv+tKEAeFr3+gwJckWuYyXynEfdI+VQF4csoQeoL91EUaBSyPjSelMHaPk3cIpq6zOX7YpkaScQ7zb4JMSaGeTD4nZP3/B5Up5qDlqhh7W4HpRqbszT70MEff4CUZLGdjbtSK/lk3v71Gl+sJGT0Dp8;NY4r7moeyRKgbrTr0YDNxQ=="
 ---
 

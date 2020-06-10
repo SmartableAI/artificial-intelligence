@@ -39,6 +39,20 @@ related:
         width: 460
         height: 285
         isCached: true
+  - title: "IBM Cloud suffers global outage, bringing down customer websites"
+    excerpt: "IBM Cloud suffered a widespread outage on Tuesday that brought down multiple services hosted on the platform, as well as IBM's own cloud status page. The problem likely started around 2:30pm Pacific Time (PT) and escalated at around 5:30pm PT."
+    publishedDateTime: 2020-06-10T09:02:00Z
+    webUrl: "https://www.computing.co.uk/news/4016300/ibm-cloud-suffers-global-outage-bringing-customer-websites"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/1595956/8f3a4997-4f60-400c-865f-0aae561360b0/3/IBM-Logo-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "DwaY2LAYci62uLbesDLvLR05ElE/o5YdcMn2oQP+k+ICOVjFg3Wv7Mr30vXAcnjLpm7sIUE1BzCAt706yh7O3FjqsGS9Phjtz6LY+ABtH22aizOZ3m4q5FbaRJTsbYpeqeDYamXFRbebyNh0RMwO4ygsXPOVe+cfH+pZWmpFCBfY4Dc/g5BiFWtE++nohC5TQTlOYAD1CmKmjdEzhGMJbDS4+Cw5sX354Pu9WfxTCAtwj2CcWMOvQbO+Gki60XJMS7lbI7tN0+8yQoUq9YKVO+iDMFGAaqjUbvLaidMJ97gdaFuP6hAXV21BmvY7LGg9l+2ulz8AUhAZ0lpTbJE2pRtMZkuK3ovjdUWCQH4Aoh2KG6qXNCOr2OFp2qpV1+Z03AnEgNLozLyW30qlJwPgkic/EVdgg1bUVyxvRqHhYddWvSgGb72tOPogPdukFSh7aBGTwSR48iiSoG3FAC6qM+/k4cR+iQpDbT/QAqbJ2sgNZXjYgLyZEipF3KX6gTIR;Xea2Q6ecpkvw+owhBSfsvQ=="
 ---

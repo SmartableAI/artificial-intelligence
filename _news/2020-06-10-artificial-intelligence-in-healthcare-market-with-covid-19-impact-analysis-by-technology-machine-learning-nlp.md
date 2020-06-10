@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market 2020, Impact of COVID-19 Outbreak, Global Share, Trend, And Opportunities Forecast To 2025"
-    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
-    publishedDateTime: 2020-06-05T15:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-impact-of-covid-19-outbreak-global-share-trend-and-opportunities-forecast-to-2025-2020-06-05"
+  - title: "Covid-19 Impact on Warehouse Robotics Market 2020 Global Size, Share, Analytical Overview, Growth, Future Prospects and Regional Forecast 2023"
+    excerpt: "Market Scope. Market Research Future (MRFR) confirms that the warehouse robotics market 2020 can attain a strong valuation of USD 5 billion by 2023-end. The market can most likely"
+    publishedDateTime: 2020-06-09T16:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-warehouse-robotics-market-2020-global-size-share-analytical-overview-growth-future-prospects-and-regional-forecast-2023-2020-06-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine learning Market 2020, Impact Analysis of COVID-19 Technology, Future Growth, Revenue Analysis, Global Demand Forecast To 2025"
-    excerpt: "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during"
-    publishedDateTime: 2020-06-05T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-impact-analysis-of-covid-19-technology-future-growth-revenue-analysis-global-demand-forecast-to-2025-2020-06-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

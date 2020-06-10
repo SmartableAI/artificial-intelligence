@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Asia Pacific emerging as global AI epicentre, says analyst"
-excerpt: "Supportive government framework and policies are expected to enable the Asia-Pacific (APAC) region to emerge as the global epicenter for the growth of artificial intelligence (AI), according to one global analytics firm."
+excerpt: "Supportive government framework and policies are expected to enable the Asia-Pacific (APAC) region to emerge as the global epicentre for the growth of artificial intelligence (AI), according to one global analytics firm."
 publishedDateTime: 2020-06-10T05:54:00Z
-webUrl: "https://www.itwire.com/business-it-news/business-intelligence/asia-pacific-emerging-as-global-ai-epicentre,-says-analyst.html"
+webUrl: "https://itwire.com/business-it-news/business-intelligence/asia-pacific-emerging-as-global-ai-epicentre,-says-analyst.html"
 type: article
 quality: 39
 heat: 39
@@ -18,12 +18,12 @@ topics:
   - AI
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/17de5170e476aec94a4097d553be2980_M.jpg"
+  - url: "https://itwire.com/media/k2/items/cache/17de5170e476aec94a4097d553be2980_M.jpg"
     width: 375
     height: 249
     isCached: true
     title: "Asia Pacific emerging as global AI epicentre, says analyst"
 
-secured: "cf5qStN+N0WsgcxSyZHhS3fx4Zrj6F+b6FD/cOqPXga+qrjaE+R0C5N+tHd4V4NzfVlOngsWHVGkUIk2dP5+hoFyZyE6l6PzyBrLpGdjraC95mnBDgpmp6QarDzrbP4WBB3PHoMA/2MlVPWf9VVaCU3RefUSF9D/t+u3cuj6Nl+gC3UAQ1vU26+oTz82aKlCZPy/SPJxRJSNoAoLGNpiD2IknKQJglkIPSAif4U2bgGvEtCr58aFIG8LUKRugYDdF5/th0o/Y2YzokYBES4WIdzKUuwDgl3WfpP5Sth0CKU9ti8AXdgnotWH80hPiPyu;VV86Exc3ZsLW7RNF2Tqp/A=="
+secured: "TgPhJgZVbBaittZ8iDwx2fy1xM6Sk8SbxL5tKIldksoBngkK6ThTSJVeqJtSwEHV3ay4TzJXodBbFLTIuTxAAHWUQesPUD64pKp8xjoT+y3o4sO6hpiP2EKM9zFH3kE1strYZKSpymz6U+RUu9dQWKqt8RSnHtKEvOAWLGWjR3yut1MufGm1YhyVF5YaxuIq9Sh9nUqmHy83BBmS5K6L6FBgH6DZrw4NqX7JrtSpEdiN3Gu84eFb/duWLu4Do63SeBZekiXBNtsbufm75S8qjK1saiPgg1Ry3kVHWuz7eGC7JDSd0lxbifQwngIh2+cQ;5AMyIPt3Fyk4PjqpLkHsHA=="
 ---
 

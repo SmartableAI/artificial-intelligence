@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-06T11:41:00Z
 webUrl: "https://www.analyticsinsight.net/top-robotics-investments-funding-may-2020/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics Insight
@@ -25,30 +25,19 @@ images:
     title: "Top Robotics Investments and Funding in May 2020"
 
 related:
-  - title: "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)"
-    excerpt: "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,"
-    publishedDateTime: 2020-06-05T16:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics"
-    ampWebUrl: "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp"
+  - title: "Analytics Insight Predicts Robotics and Cybersecurity to Create Over 13 million Job Opportunities by 2023"
+    excerpt: "Despite the pandemic-induced crisis, the global market for Artificial Intelligence, Big Data, Robotics, Cybersecurity and others is expected to rise. Analysing the prevailing market trends, Analytics Insight predicts the Global Job Openings,"
+    publishedDateTime: 2020-06-10T09:24:00Z
+    webUrl: "https://www.analyticsinsight.net/analytics-insight-predicts-robotics-cybersecurity-create-13-million-job-opportunities-2023/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 83
-  - title: "Robotics : 2020, Year One Of The Roboticized Economy"
-    excerpt: "Despite the number of unemployed flirting with Great Depression levels, the valuations of companies related to the roboticized economy continue on their stratos"
-    publishedDateTime: 2020-06-08T15:34:00Z
-    webUrl: "https://seekingalpha.com/article/4352540-robotics-2020-year-one-of-roboticized-economy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
-        width: 529
-        height: 639
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Analytics-Insight-Predicts-Robotics-and-Cybersecurity-to-Create-Over-13-million-Job-Opportunities-by-2023.png"
+        width: 1582
+        height: 901
         isCached: true
   - title: "IFR Report: How nations invest in robotics research"
     excerpt: "What are the targets of the officially driven government research funding programs and what can we learn from these findings? This has been researched by the International Federations of Robotics and published in the new paper “World Robotics R&D Programs” by IFR."

@@ -2,44 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-05-trucking-high-capacity-solutions-beyond-adding-a-second-trailer.md",
-      "title": "Trucking: High-capacity solutions beyond adding a second trailer",
-      "excerpt": "We’ve seen many changes reshaping the rail, ocean and air modes that are being driven by innovations in technology and the rapid growth of the interconnected “digital” supply chain.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.logisticsmgmt.com/article/trucking_high_capacity_solutions_beyond_adding_a_second_trailer",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2004_SUP_Top50Trucking-main800.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "Trucking: High-capacity solutions beyond adding a second trailer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-05-scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models.md",
       "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
       "excerpt": "By installing a backdoor in the deep learning algorithm, the malicious actor ironically gained access to the building through the front door. This is not a page out of a sci-fi novel. Although hypothetical,",

@@ -25,22 +25,6 @@ images:
     title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
 
 related:
-  - title: "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds"
-    excerpt: "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,"
-    publishedDateTime: 2020-06-05T15:27:00Z
-    webUrl: "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/"
-    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "Self-driving cars likely won't prevent every car crash, study says"
     excerpt: "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry."
     publishedDateTime: 2020-06-05T17:34:00Z
@@ -57,38 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving cars still won't prevent the most common car accidents, according to a new study"
-    excerpt: "Even in a world where every car was a self-driving car, two-thirds of all accidents would still happen, a new study says."
-    publishedDateTime: 2020-06-05T16:13:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-cars-dont-prevent-most-common-accidents-crash-study-2020-6?amp"
+  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
+    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
+    publishedDateTime: 2020-06-09T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/5eda49e04dca685c2a43f1a7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Crash test studies: Insurers say self-driving cars not a fail-safe option"
-    excerpt: "Companies working on self-driving vehicles have criticised an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
-    publishedDateTime: 2020-06-06T01:30:00Z
-    webUrl: "https://www.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    ampWebUrl: "https://amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    cdnAmpWebUrl: "https://amp-independent-ie.cdn.ampproject.org/c/s/amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 58
-    images:
-      - url: "https://www.independent.ie/business/5b445/39263963.ece/AUTOCROP/w1240h700/2020-06-06_bus_59404810_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "Study: Self-driving cars don’t prevent all crashes"
     excerpt: "(CNN) — A new study found that self-driving cars likely can’t prevent all wrecks. The insurance institute for highway safety looked at 5,0000 police-reported crashes from the National Motor"
     publishedDateTime: 2020-06-06T16:11:00Z
@@ -105,20 +68,68 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says"
-    excerpt: "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
-    publishedDateTime: 2020-06-05T19:17:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html"
+  - title: "Self driving cars will only stop a third of US crashes"
+    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-08T10:54:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 43
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
+        width: 620
+        height: 463
         isCached: true
+  - title: "Study: self-driving cars won’t stop all crashes"
+    excerpt: "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error."
+    publishedDateTime: 2020-06-05T19:32:00Z
+    webUrl: "https://finance-commerce.com/2020/06/study-self-driving-cars-wont-stop-all-crashes/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 24
+    images:
+      - url: "https://finance-commerce.com/files/2020/06/Cars-w.jpg"
+        width: 620
+        height: 330
+        isCached: true
+  - title: "Self-driving cars could only prevent a third of US crashes: study"
+    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all US road crashes, according to a study released on Thursday"
+    publishedDateTime: 2020-06-06T01:47:00Z
+    webUrl: "https://timeslive.co.za/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-05-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 24
+  - title: "Report: Self-driving cars will only prevent a third of all crashes"
+    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
+    publishedDateTime: 2020-06-07T18:43:00Z
+    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 24
+    images:
+      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Self-Driving Cars Promise Safety, But Autonomy Alone Won’t Eliminate Crashes"
+    excerpt: "A recent study of police-reported crashes by the Insurance Institute for Highway Safety suggests that only 34% of crashes might have been avoided simply by replacing the human driver with an autonomous self-driving system. These findings by the insurance-industry-backed safety-advocacy organization challenge the commonly held assumption that ..."
+    publishedDateTime: 2020-06-05T21:17:00Z
+    webUrl: "https://www.cars.com/articles/self-driving-cars-promise-safety-but-autonomy-alone-wont-eliminate-crashes-422508/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 1
 
 secured: "AwJOjsdQYMYa8g+rJpVCMGeZMpwR3eUnvboPFL7LVmECYYY1762Px6WSKWcCudIFsWw/17BgnbnxJ3beVWiJEZHMk1Cvum11pjlUfkLhjr9F7cKbZOg8k1OlfycumcyxP2b6a2Oh0x/66LlTor4YhBGhqy0P0KwnyW2qEfRxf5YbZhzhSDFN77lf5SU7Q946hm05BeB11CMwX7M51Gwky5FInHF1GSx+3ROkHilrHBssruJQkz3Ynr/UZiUCa4bFCX973wnOHl0FUjeydgoUkp/w5lXzee2pnIRr5YO6szczdYZg06oBTCupzeywyWSxhIqiCavX2j1Lpb9Vd6LX8GHOgTTui5ZhnFojKQR9a+FvkOJEcYzayjpoytTyT6Da/cC9vOuPMPc/Tn1Wq5U0I6Oc3Y/wUU0Y5lh6Ral4LbmvA3PsWkp4YNr9Cf8AME1q2pE8UGNDC/yxil4FpYlyJcDxic84FJ0OWGbDfI/2b5A=;JT8ETyNZgVfDa00gETmkLg=="
 ---
