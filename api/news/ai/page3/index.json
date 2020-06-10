@@ -2,6 +2,146 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-08-us-air-force-to-test-autonomous-ai-fighter-against-a-human-next-year.md",
+      "title": "US Air Force to test autonomous AI fighter against a human next year",
+      "excerpt": "The USAF started an AI-drone project in 2018. The goal was to implement machine learning in a less sophisticated craft like the F-16 within 18 months. If successful, newer fighters such as the F-32 or F-22 would eventually be outfitted.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
+      "publishedDateTime": "2020-06-08T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg",
+          "width": 2560,
+          "height": 1705,
+          "title": "US Air Force to test autonomous AI fighter against a human next year",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
+      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "publishedDateTime": "2020-06-08T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
+      "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
+      "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
+      "publishedDateTime": "2020-06-08T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
       "title": "Introducing Recommendation Filters in Amazon Personalize",
       "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
@@ -825,7 +965,7 @@
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
@@ -1223,129 +1363,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
-      "title": "Coding with R on Amazon SageMaker notebook instances",
-      "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T09:48:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
-          "width": 500,
-          "height": 398,
-          "title": "Coding with R on Amazon SageMaker notebook instances",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits.md",
-      "title": "Amazon’s new AI technique lets users virtually try on outfits",
-      "excerpt": "In new papers, Amazon researchers propose techniques that let users virtually try on apparel and fine items that complement their wardrobe.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
-      "publishedDateTime": "2020-06-05T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/254e31ef-d314-45c1-a9c8-fb8d21df459c-e1591374186746.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": "Amazon’s new AI technique lets users virtually try on outfits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
-      "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
-      "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
-      "ampWebUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "publishedDateTime": "2020-06-05T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

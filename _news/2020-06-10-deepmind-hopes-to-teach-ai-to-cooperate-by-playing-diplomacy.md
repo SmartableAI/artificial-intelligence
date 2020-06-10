@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooper
 ampWebUrl: "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all"

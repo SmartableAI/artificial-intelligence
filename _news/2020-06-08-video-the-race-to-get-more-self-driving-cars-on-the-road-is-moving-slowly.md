@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Crash test studies: Insurers say self-driving cars not a fail-safe option"
-    excerpt: "Companies working on self-driving vehicles have criticised an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
-    publishedDateTime: 2020-06-06T01:30:00Z
-    webUrl: "https://www.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    ampWebUrl: "https://amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    cdnAmpWebUrl: "https://amp-independent-ie.cdn.ampproject.org/c/s/amp.independent.ie/business/world/crash-test-studies-insurers-say-self-driving-cars-not-a-fail-safe-option-39263964.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 58
-    images:
-      - url: "https://www.independent.ie/business/5b445/39263963.ece/AUTOCROP/w1240h700/2020-06-06_bus_59404810_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "Self-Driving Cars May Not Be The Game Changer For Safety We Think"
     excerpt: "Automated vehicles of the future may struggle to eliminate many crashes unless safety is prioritized over speed and convenience, according to a new report."
     publishedDateTime: 2020-06-10T17:16:00Z

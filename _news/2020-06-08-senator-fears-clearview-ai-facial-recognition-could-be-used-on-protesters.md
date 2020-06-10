@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_1658380954/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Boston Moves to Ban Facial Recognition Technology"
+    excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
+    publishedDateTime: 2020-06-10T18:56:00Z
+    webUrl: "https://northendwaterfront.com/2020/06/boston-moves-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NorthEndWaterfront.com
+      domain: northendwaterfront.com
+    quality: 24
+    images:
+      - url: "https://northendwaterfront.com/wp-content/uploads/2020/06/PSX_20200606_205504.jpg"
+        width: 1776
+        height: 1184
         isCached: true
 
 secured: "CKNHg/0Puz6A1YAxXpO8WpgD1+zTnwCYDFTj+HbozBjcuGqSflZE9V5nBkAhzsS8z2pqPKHRYE8VRU6RA4lCg0fJvICKwCP2INQvdRaS90RP3CM3TpW+0vSCvhoRWqL6yp3PxBYpU1j1GYQt5nVnUrU0xM8sz/nbZrsM3ZTvIqWxwdYiDUzUnG6AiVnjLMi5qfdBedQ+SxlZ965zB1KMwCbs593Hovc39aFTee2oohPhkD3t4mq69Xe6cl78pvYl9kLvmSz8dNGjyMUa08ullPuEoBIuiYFbpi/HbG1meYlcihbEHiVU3hKF2nQzW4mJV9Ta3QTlXS5sCncY4eGSqtnyHB9aakiZ7VdxeNHZjeTx6yVy3E5hKup3vtTFlpfXrJnWAcQR59aarCaH6QazNmtnT4z5wM8pNFLjOJSNq4pJStQLr+Da8G/wuoPhU2cHmmLLOEe2WfkrAxvCZLNd5L76/dF5gJ12Fc4ogmNv5BM=;Y4zdMNhFXBD36TZIjzxl/w=="

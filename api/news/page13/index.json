@@ -2,6 +2,138 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
+      "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+      "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "publishedDateTime": "2020-05-28T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2480600971_1c62bbb626_k.jpg?w=1024",
+          "width": 1024,
+          "height": 745,
+          "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-this-start-up-is-adding-a-layer-of-ai-to-video-feeds.md",
+      "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+      "excerpt": "Bengaluru-based Integration Wizards Solutions started with enterprise mobility, creating a platform that would allow for seamless communication across devices. While the computer vision solution is their latest offering,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/351200",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351200",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351200",
+      "publishedDateTime": "2020-05-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590657051-20200110-1415551-min.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
+      "title": "Baidu releases homegrown quantum machine learning toolkit",
+      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "publishedDateTime": "2020-05-28T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
       "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
       "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
@@ -884,146 +1016,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox.md",
-      "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-      "excerpt": "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "publishedDateTime": "2020-05-27T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 760,
-          "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
-      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "publishedDateTime": "2020-05-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
-      "title": "Baidu releases quantum machine learning toolkit on GitHub",
-      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "publishedDateTime": "2020-05-27T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

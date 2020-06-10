@@ -2,6 +2,138 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-15-google-lens-preview-officially-spreads-to-ios-devices-in-google-photos-app.md",
+      "title": "Google Lens preview officially spreads to iOS devices in Google Photos app",
+      "excerpt": "Google has a lot of services and apps available on both Android and iOS platforms, with the search giant’s proprietary Assistant and Lens getting big pushes of late, as artificial intelligence ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pocketnow.com/google-lens-ios-support-google-photos",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2018/03/Google-Lens-iOS.jpg",
+          "width": 700,
+          "height": 458,
+          "title": "Google Lens preview officially spreads to iOS devices in Google Photos app",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
+      "title": "Facial recognition firms are scrambling to see around face masks",
+      "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/health/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "publishedDateTime": "2020-05-15T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/bxotKLLLXdGY0MGRcmXGsKAdVIo=/756x567/2020/03/19/c7c10680-5921-4f44-9797-3902b191bcda/coronavirus-masks-n95-health-5058.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition firms are scrambling to see around face masks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-new-ai-helps-people-exercise-at-home-during-pandemic-infographic.md",
+      "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+      "excerpt": "Many people have been exercising at home since the outbreak of Covid-19. Gyms have shut their doors and the CDC has suggested we stay in our homes. So much traffic has shifted to online services that we could be seeing a permanent change in the industry.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "publishedDateTime": "2020-05-15T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd8f5f228fb10006a3cd15%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1440%26cropY1%3D429%26cropY2%3D1239",
+          "width": 1200,
+          "height": 676,
+          "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
       "title": "Nvidia releases most advanced AI chip ever",
       "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
@@ -1200,147 +1332,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-gms-self-driving-unit-crusie-to-cut-8-of-staff.md",
-      "title": "GM's self-driving unit Crusie to cut 8% of staff",
-      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "publishedDateTime": "2020-05-14T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
-          "width": 1920,
-          "height": 1471,
-          "title": "GM's self-driving unit Crusie to cut 8% of staff",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
-      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
-      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "publishedDateTime": "2020-05-14T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
-      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "publishedDateTime": "2020-05-14T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

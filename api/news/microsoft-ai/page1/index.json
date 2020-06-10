@@ -50,6 +50,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
+      "title": "Azure Machine Learning—what’s new from Build 2020",
+      "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T05:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
+          "width": 1024,
+          "height": 586,
+          "title": "Azure Machine Learning—what’s new from Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure.md",
       "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
       "excerpt": "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure.",
@@ -1220,54 +1267,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
-      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "publishedDateTime": "2020-05-21T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
-          "width": 5157,
-          "height": 2973,
-          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

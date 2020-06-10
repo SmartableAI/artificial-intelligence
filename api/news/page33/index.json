@@ -2,6 +2,130 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-12-ai-is-still-largely-baffled-by-covid-misinformation.md",
+      "title": "AI is still largely baffled by covid misinformation",
+      "excerpt": "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/",
+      "ampWebUrl": "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/",
+      "publishedDateTime": "2020-05-12T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": "AI is still largely baffled by covid misinformation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes.md",
+      "title": "Facebook says AI has a ways to go to detect nasty memes",
+      "excerpt": "Facebook has developed a data set consisting of 10,000 “hateful” memes and suggests that computer models that can “fuse” multiple signal types, such as text and image, are the way forward for classifying content such as hate speech.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "publishedDateTime": "2020-05-12T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/12/c82fab43-1856-4a3f-b289-fc5ab9d052bc/final-9-benchmarks-table-v2.png",
+          "width": 2881,
+          "height": 2010,
+          "title": "Facebook says AI has a ways to go to detect nasty memes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
+      "title": "Waymo raises another $800 million for self-driving cars",
+      "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "ampWebUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "publishedDateTime": "2020-05-12T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg",
+          "width": 8702,
+          "height": 4895,
+          "title": "Waymo raises another $800 million for self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-twitter-names-former-google-executive-to-its-board-to-boost-its-ai-chops.md",
       "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
       "excerpt": "Fei Li, the former Google executive, and Stanford professor is coming on board to help expand Twitter's use of AI on its platform.",
@@ -960,146 +1084,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure.md",
-      "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure.",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-to-set-up-speech-to-text-in-windows-10.md",
-      "title": "How to set up speech-to-text in Windows 10",
-      "excerpt": "as well as how to enable speech-to-text in Windows 10, so you can start chatting away to your favorite OS and improve Windows’ “ear” for your voice. Note: Speech recognition is only ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "publishedDateTime": "2020-05-12T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/10-incredibly-useful-windows-apps-2-1200x630-c-ar1.91.jpg",
-          "width": 500,
-          "height": 261,
-          "title": "How to set up speech-to-text in Windows 10",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

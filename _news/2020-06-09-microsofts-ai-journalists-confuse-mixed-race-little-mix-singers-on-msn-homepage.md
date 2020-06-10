@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/EYBPpknqxGvno4xRxCB5mf4wpxc=/756x567/2020/06/09/b795f993-8598-4744-9396-3f89c5f5f745/screen-shot-2020-06-09-at-11-34-39-am.png"
         width: 756
         height: 567
+        isCached: true
+  - title: "Backlash after Microsoft's robot editor confuses mixed-race Little Mix singers"
+    excerpt: "The company has come under fire for its response to the Black Lives Matter movement."
+    publishedDateTime: 2020-06-10T18:23:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/502059-backlash-after-microsofts-robot-editor-confuses"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/502059-backlash-after-microsofts-robot-editor-confuses?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/502059-backlash-after-microsofts-robot-editor-confuses?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_littlemix_61020getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Little Mix-up: Microsoft's new 'robot' journalists already in hot water after confusing multi-racial girl group"
     excerpt: "Microsoft's news portal may have saved money by replacing journalists with AI, but it appears even news-curating bots are not immune to triggering social media outrage."

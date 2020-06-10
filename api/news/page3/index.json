@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-turns-away-from-facial-recognition-business-amid-public-furore-over-racial-profiling-and-surveillance.md",
+      "title": "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance",
+      "excerpt": "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
+      "publishedDateTime": "2020-06-08T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-ibm-stops-work-on-facial-recognition-over-human-rights-concerns.md",
+      "title": "IBM stops work on facial recognition over human rights concerns",
+      "excerpt": "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases.",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
+      "publishedDateTime": "2020-06-08T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497",
+          "width": 600,
+          "height": 350,
+          "title": "IBM stops work on facial recognition over human rights concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mount-sinai-receives-award-from-microsoft-ai-for-health-to-support-covid-informatics-center.md",
+      "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+      "excerpt": "The Mount Sinai Health System has received an award from Microsoft AI for Health to support the work of a new data science center dedicated to COVID-19 research.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "publishedDateTime": "2020-06-08T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
       "title": "Artificial Intelligence May Bring More Management-Free Organizations",
       "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
@@ -97,7 +229,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -998,137 +1130,6 @@
           "width": 1200,
           "height": 630,
           "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
-      "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-      "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
-      "ampWebUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-06-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
-      "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-06-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
           "attribution": null,
           "isCached": true
         }

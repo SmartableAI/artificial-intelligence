@@ -2,6 +2,148 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
+      "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
+      "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
+      "publishedDateTime": "2020-05-29T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar.md",
+      "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
+      "excerpt": "OpenAI has quietly unveiled GPT-3, the latest incarnation of its headline-grabbing text generator, which comes with an enormous 175 billion parameters",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
+      "publishedDateTime": "2020-05-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-58-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-softbank-leads-500-million-investment-in-chinese-ride-hailing-firm-didis-self-driving-car-unit.md",
+      "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
+      "excerpt": "Didi said it will use the funding to \"accelerate\" the launch of driverless vehicle services in China and abroad.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "publishedDateTime": "2020-05-29T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106104268-1567143051659didishowcasesitsautonomousdrivingfleetatthewaicinshanghai.jpg?v=1567143214",
+          "width": 1999,
+          "height": 1074,
+          "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank.md",
       "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
       "excerpt": "Japanese technology conglomerate SoftBank Group Corp led the funding round, which marks the single largest investment in China’s autonomous driving sector.",
@@ -941,121 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
-      "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-      "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T16:39:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
-          "width": 674,
-          "height": 630,
-          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
-      "publishedDateTime": "2020-05-28T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
-      "title": "U.S. joins G7 artificial intelligence group to counter China",
-      "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/",
-      "ampWebUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "publishedDateTime": "2020-05-28T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png",
-          "width": 512,
-          "height": 512,
-          "title": "U.S. joins G7 artificial intelligence group to counter China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

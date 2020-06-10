@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
+      "title": "Sony, Microsoft unveil latest joint AI play",
+      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
+      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "publishedDateTime": "2020-05-19T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Sony, Microsoft unveil latest joint AI play",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
       "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
       "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
@@ -1271,44 +1309,6 @@
           "width": 1200,
           "height": 630,
           "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university.md",
-      "title": "Microsoft conducts AI Virtual Summit for the students of BML Munjal University",
-      "excerpt": "Microsoft conducted an AI Virtual Summit for the students of BML Munjal University (BMU), a Hero Group initiative on May 6 & 7, 2020. This was as per the MoU signed between BMU and",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/",
-      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/?amp",
-      "publishedDateTime": "2020-05-12T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/04/bmlmunjaluniversity.jpg?fit=882%2C589&ssl=1",
-          "width": 882,
-          "height": 589,
-          "title": "Microsoft conducts AI Virtual Summit for the students of BML Munjal University",
           "attribution": null,
           "isCached": true
         }

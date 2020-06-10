@@ -100,6 +100,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Flipkart introduces voice-assistant to ease the shopping experience"
+    excerpt: "Introduced in Flipkart’s grocery store, Supermart, the voice-assistant lets you discover and shop in multiple languages, starting with English and Hindi."
+    publishedDateTime: 2020-06-10T19:56:00Z
+    webUrl: "https://www.afaqs.com/news/mktg/flipkart-introduces-voice-assistant-to-ease-the-shopping-experience"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/afaqs%2F2020-06%2F6a99c4a9-7ab0-4955-a70d-bedf7f37ab79%2FFlipkart.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Flipkart introduces voice-assisted shopping in Hindi and English on Supermart, its grocery store"
     excerpt: "Flipkart, has introduced a voice assistant on its grocery store, Supermart, enabling consumers to discover and buy products more easily, using voice commands. The voice assistant for grocery is curren"
     publishedDateTime: 2020-06-09T11:15:00Z

@@ -2,6 +2,147 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-01-aruba-releases-ai-powered-tools-for-the-new-way-of-work.md",
+      "title": "Aruba releases AI-powered tools for the new way of work",
+      "excerpt": "The solutions include contact and location tracing, secure remote access points, contactless visitor management, and more.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "publishedDateTime": "2020-06-01T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/07/87c59611-55ac-42c2-b657-f6338ca74c1f/resize/1200x/3d1d914514d6bb6c7be55bcacd52ee8a/coronavirus-office.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Aruba releases AI-powered tools for the new way of work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars.md",
+      "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
+      "excerpt": "A Kansas soldier that happened to be driving his car on the bridge, waiting in traffic, realized that an active shooter was ahead of him, and so the soldier opted to navigate his car out of traffic and steered directly toward the shooter,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17cfd1234f60007ce207c%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer.md",
+      "title": "Creating a music genre model with your own data in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer is an educational AWS service that teaches generative AI and uses Generative Adversarial Networks (GANs) to transform a melody that you provide into a completely original song. With AWS DeepComposer, you can use one of the pre-trained music genre models (such as Jazz, Rock, Pop, Symphony,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T07:48:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-2.gif",
+          "width": 500,
+          "height": 415,
+          "title": "Creating a music genre model with your own data in AWS DeepComposer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-ai-news-index-replacing-workers-or-creating-jobs.md",
       "title": "AI News Index: Replacing Workers Or Creating Jobs?",
       "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of AI highlight the impact of robots on jobs and the widespread adoption of AI in enterprises worldwide",
@@ -966,145 +1107,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
-      "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-      "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "publishedDateTime": "2020-05-30T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
-      "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
-      "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
-      "publishedDateTime": "2020-05-30T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed30063b8ac0f0006007345%2F0x0.jpg",
-          "width": 1000,
-          "height": 671,
-          "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-cuts-dozens-of-staff-as-it-shifts-to-ai-for-msn-news-stories.md",
-      "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-      "excerpt": "Workforce automation is about to cost dozens of news contractors their jobs. The Seattle Times and The Guardian report that Microsoft is letting go of dozens of news contractors (about 50 in the US, 27 in the UK) after June 30th due to a shift to AI news production on MSN.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "publishedDateTime": "2020-05-30T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F77552a90-a2b2-11ea-8fb3-a06b72cb410c&client=amp-blogside-v2&signature=216f5ed49c68fd2fdbd1101a5797fe95635f0dd0",
-          "width": 600,
-          "height": 350,
-          "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

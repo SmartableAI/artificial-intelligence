@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-dr
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Flipkart introduces voice-assistant to ease the shopping experience"
+    excerpt: "Introduced in Flipkart’s grocery store, Supermart, the voice-assistant lets you discover and shop in multiple languages, starting with English and Hindi."
+    publishedDateTime: 2020-06-10T19:56:00Z
+    webUrl: "https://www.afaqs.com/news/mktg/flipkart-introduces-voice-assistant-to-ease-the-shopping-experience"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/afaqs%2F2020-06%2F6a99c4a9-7ab0-4955-a70d-bedf7f37ab79%2FFlipkart.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Flipkart intros voice assistant on e-commerce platform"
     excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
     publishedDateTime: 2020-06-10T01:35:00Z

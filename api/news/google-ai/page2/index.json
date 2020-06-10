@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-14-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
+      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
+          "width": 800,
+          "height": 438,
+          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
       "title": "Elon Musk has a complex relationship with the A.I. community",
       "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",

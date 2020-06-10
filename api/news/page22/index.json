@@ -2,6 +2,138 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
+      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
+          "width": 596,
+          "height": 344,
+          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
+      "title": "This AI Maestro Wants to Serenade You",
+      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
+          "width": 2400,
+          "height": 1248,
+          "title": "This AI Maestro Wants to Serenade You",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
+      "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
+      "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
+      "publishedDateTime": "2020-05-20T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction.md",
       "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
       "excerpt": "Don’t view AI as a replacement for your team, but rather as a member of your team, to provide better workflow, better processes and greater efficiency.",
@@ -960,146 +1092,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
-      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "publishedDateTime": "2020-05-19T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
-      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
-      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "publishedDateTime": "2020-05-19T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
-      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "publishedDateTime": "2020-05-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

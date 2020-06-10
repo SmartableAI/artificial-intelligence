@@ -118,6 +118,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Boston Moves to Ban Facial Recognition Technology"
+    excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
+    publishedDateTime: 2020-06-10T18:56:00Z
+    webUrl: "https://northendwaterfront.com/2020/06/boston-moves-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NorthEndWaterfront.com
+      domain: northendwaterfront.com
+    quality: 24
+    images:
+      - url: "https://northendwaterfront.com/wp-content/uploads/2020/06/PSX_20200606_205504.jpg"
+        width: 1776
+        height: 1184
+        isCached: true
 
 secured: "S0CA45Hl+EMbo8MQmzaxQTI/+RwoWl3iFMZNSDvsNTbc1k4DDNB7ygXa5bDE6jP8OBLDDot+zTIVnLqby9nG85D69tpDmwUECIOc5pQ66U10A9O7m7uaAziqqThxk5ElYqg6lJTpC3vmMb5kXuZ3c1ICchmBSSnGcU3G3UuiOL5q4lUG65UnZKu1KEBjG3b1agsSIvsv5fT9UmnR5fdbvf0BRi6zvBHvYZZZBnlMoe9DpsCwry2gPcmJeoAgArG1CjP3BMcHZ8qQFWTOuaocshSnxvMATwUdteqXitIBvv6Ad+PA+AyeyzF2BcMAywqDnOFRGF4MeRgH0HImffQHIIcUfGOYBoKNFuqSG58R4/P0mtf7AvB8mOdjQQqxsBz2WN/T+rDQ4IexEvLJcoE2zEWm2rBWRThArWRctPXOMxvgIIMXRIMbm75TNVFhSCxrXR3NgYAoRkUEzUEqtcqOubB9m46KNXTaEzNl9iUPHV9kfOnvLjaey2lG9v2wy9Yn;kGyFK8p3xI1fqkkr9IwJrw=="
 ---
