@@ -103,6 +103,20 @@ related:
         width: 1240
         height: 940
         isCached: true
+  - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
+    excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
+    publishedDateTime: 2020-06-10T00:04:00Z
+    webUrl: "https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 37
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/09/ap_19287456839427_wide-8aef6472073b160bdb7216880ae663d0748cef40.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
     publishedDateTime: 2020-06-09T19:35:00Z

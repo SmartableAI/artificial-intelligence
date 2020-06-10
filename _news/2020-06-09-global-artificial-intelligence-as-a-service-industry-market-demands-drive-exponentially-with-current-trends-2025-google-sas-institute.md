@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-Driving Taxi Market 2020 Trends, Demand and Scope with Outlook, Business Strategies and Forecast 2025"
-    excerpt: "The global market has been segmented on the basis of technology, product type, application, distribution channel, end-user, and industry vertical, along with geography. The global Self-Driving Taxi market is expected to thrive in terms of volume and value during the forecast years."
-    publishedDateTime: 2020-06-05T08:59:00Z
-    webUrl: "https://surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/"
-    ampWebUrl: "https://surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 23
-    images:
-      - url: "https://navya.tech/wp-content/uploads/2017/11/40P2858-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "91PtfK795UxzE3be5DxTrPTgvNJa/AYR3nPfmQIQA2UFM9/ipgwZEfi2XoYwztaLpZcI3dPDA9eHZicX29D+YvX28y1aoyI+1KYYSkcfK52q2utPLIKDeEBEnUXnHRG3d/R3pBfcFazs6DM0SM3AjXDd8skiaZeEJuAkG9aB6ZvH26hcUdblv+djwYC6C8qbS34MIwedSui6tbw/xCRxkBavQW6lyV5lmva/fr0maDTzlV856aktzFhNY/sM1or6cywqrtcYvEJzp5V54fzohwj1GmGUvYgxMPAjwO5lBzMdIv7iC1xxcUo8b4QxNHCh;O508j46058cIlzbBBmlKuw=="
 ---

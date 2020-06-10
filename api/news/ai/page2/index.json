@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-stops-work-on-facial-recognition-over-human-rights-concerns.md",
+      "title": "IBM stops work on facial recognition over human rights concerns",
+      "excerpt": "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html",
+      "publishedDateTime": "2020-06-08T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497",
+          "width": 600,
+          "height": 350,
+          "title": "IBM stops work on facial recognition over human rights concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mount-sinai-receives-award-from-microsoft-ai-for-health-to-support-covid-informatics-center.md",
+      "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+      "excerpt": "The Mount Sinai Health System has received an award from Microsoft AI for Health to support the work of a new data science center dedicated to COVID-19 research.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
+      "publishedDateTime": "2020-06-08T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
       "title": "Artificial Intelligence May Bring More Management-Free Organizations",
       "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
@@ -97,7 +182,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -688,7 +773,7 @@
       "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
       "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
-      "heat": 172,
+      "heat": 162,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
@@ -729,6 +814,43 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.md",
+      "title": "How Artificial Intelligence-backed technology is helping in the battle against COVID-19",
+      "excerpt": "In an interview to THE WEEK, Prashant Warier, CEO and founder, Qure.ai, which is now deploying AI-powered solutions for COVID-19 management by using chest X-rays which are about 10 to 15 times cheaper than the RT-PCR tests,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.html",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2020/06/08/how-artificial-intelligence-backed-technology-is-helping-in-the-battle-against-covid-19.amp.html",
+      "publishedDateTime": "2020-06-08T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2020/6/8/Prashant.jpg",
+          "width": 760,
+          "height": 443,
+          "title": "How Artificial Intelligence-backed technology is helping in the battle against COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1231,147 +1353,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
-      "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-      "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 156,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-06-06T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
-      "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-      "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "publishedDateTime": "2020-06-06T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167",
-          "width": 2318,
-          "height": 1546,
-          "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
-      "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-      "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "publishedDateTime": "2020-06-06T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/06/41509c3c-a7ed-11ea-8ea0-d7434be00753_image_hires_202444.jpg?itok=DJd8Kxei&v=1591446290",
-          "width": 1200,
-          "height": 630,
-          "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

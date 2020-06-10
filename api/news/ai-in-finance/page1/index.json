@@ -183,6 +183,44 @@
       ]
     },
     {
+      "path": "_news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream.md",
+      "title": "Machine learning in finance: From buzzword to mainstream",
+      "excerpt": "The financial sector is a late adopter of machine learning. Top applications include fraud detection ... Training such chatbots requires hundreds of hours of customer service logs, but once the algorithm learns, it can successfully replace a lot of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/shutterstock_1006988995.jpg",
+          "width": 1313,
+          "height": 933,
+          "title": "Machine learning in finance: From buzzword to mainstream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
       "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
       "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",

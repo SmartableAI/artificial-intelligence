@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/06/07/710900.jpg"
         width: 1240
         height: 940
+        isCached: true
+  - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
+    excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
+    publishedDateTime: 2020-06-10T00:04:00Z
+    webUrl: "https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 37
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/09/ap_19287456839427_wide-8aef6472073b160bdb7216880ae663d0748cef40.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Researchers call for new federal authority to regulate facial recognition tech"
     excerpt: "A group of artificial intelligence experts including computer vision researcher and lead author Erik Learned-Miller of UMass Amherst's College of Information and Computer Sciences recently proposed a new model for managing facial recognition technologies at the federal level."

@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
+      "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
+      "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "publishedDateTime": "2020-06-09T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058713%2F0x0.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
       "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
       "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
@@ -1325,53 +1372,6 @@
           "width": 1200,
           "height": 640,
           "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-facebook-is-using-ai-to-combat-covid-19-misinformation-and-detect-hateful-memes.md",
-      "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
-      "excerpt": "That’s because Facebook is relying more on the technology to help moderate its platform during the COVID-19 pandemic, which is preventing the company from using its usual third-party moderator firms because those firms’ employees are not allowed to access sensitive Facebook data from home computers.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "publishedDateTime": "2020-05-12T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/29Ohkhnj8vaOLcOrf4YADVErTsU=/0x0:2040x1360/1400x933/filters:focal(831x690:1157x1016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66785966/jbareham_180405_1777_facebook_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
           "attribution": null,
           "isCached": true
         }

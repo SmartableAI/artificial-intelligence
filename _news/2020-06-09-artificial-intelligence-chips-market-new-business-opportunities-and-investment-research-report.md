@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-09T14:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and their business strategies,"
+    publishedDateTime: 2020-06-09T22:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

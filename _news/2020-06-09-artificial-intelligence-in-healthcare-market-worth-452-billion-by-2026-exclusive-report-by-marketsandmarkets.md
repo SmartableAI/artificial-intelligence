@@ -1,25 +1,20 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
-publishedDateTime: 2020-06-09T13:50:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
+title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+excerpt: "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysis by Offering (Hardware"
+publishedDateTime: 2020-06-09T13:33:00Z
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49874732-artificial-intelligence-in-healthcare-market-worth-dollar-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 46
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -74,20 +69,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 09, 2020 (CDN Newswire via Comtex) -- A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and ..."
-    publishedDateTime: 2020-06-09T23:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -161,6 +142,6 @@ related:
         height: 627
         isCached: true
 
-secured: "IreEOvgSf10wdxakD0JgzaZlNWrWaMr6skjwnxWux3NKu02U5h64CyP/XUX1E6OYcH3vQAylbrCjUy5zZeTP9SqaaYxJxBeogTsZDinmv8kAofyzE0++d+RmnvI27sI9fE401U2wL33AHvS8JIA3cN+sVfSSzMMTtpHrvvKdTPQ5iSdkPwf3VIJDHL5cj8f9TLyTgtPqLIM0XEP4ZAT5zCrHX7DGA3n4COWwcgkFBVy7EocQQnYWVtMVVZoQqZVkbVhmYQz7RghrBRsOjNVmYXUxzoNzJfhiXUP/gBWcu2iTLRWh/+EjL+GQ0GrMnRhE;1fYoCnf/uxAxKuWtaTiSmw=="
+secured: "o80Y7TNlcCpZkDL+QFQZRp6ZJX5pIjrNhXEQ84l3DflSBbdd0ZUJss3Cr5lQRaUApnjWUgfpyuoDi8Wg4omrpFPLK3BipOpsXcPhG54GOOBvt7k05RX6tzzSEaCkN5zlzqzw+aSaIHKE/mUWa0c7iAk4hebEMD798zzMnLCNhNsT2jy0TOS1BHu99bpKvg6OLMS7k0kDMZYSlJN1w3oaKkbZZqSg+SbK+VCYTNUr3awR1B8izedJw5IZI+3Re7wJx1y+ZVvWrSMNaXi2fAYRwTqNeFQDABxsGucgn4oSGbknQMO31AWLxR++KuF8VJK4;RUhgndwK8IErTisrtRkAUQ=="
 ---
 

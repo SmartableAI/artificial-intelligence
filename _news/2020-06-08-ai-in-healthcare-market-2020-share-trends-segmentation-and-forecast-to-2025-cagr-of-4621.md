@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 09, 2020 (CDN Newswire via Comtex) -- A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and ..."
-    publishedDateTime: 2020-06-09T23:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Software Platform Market 2020 Covid-19 impact, By Key Players, Sale, Trends, Segmentation And Forecast By 2023"
     excerpt: "The global AI Software Platform market was valued at USD 2.75 billion in 2017 and is expected to reach USD 11.3 billion by the end of the forecast period with a CAGR of 28.1%.The"
     publishedDateTime: 2020-06-09T16:45:00Z
@@ -99,17 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Software segment in AI healthcare market projected to grow at highest CAGR during forecast period. Many companies are developing software solutions for various healthcare applications; this is the key factor complementing the growth of the software segment."
-    publishedDateTime: 2020-06-09T13:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
     publishedDateTime: 2020-06-07T07:10:00Z
@@ -148,6 +123,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 13
+  - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysis by Offering (Hardware"
+    publishedDateTime: 2020-06-09T13:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49874732-artificial-intelligence-in-healthcare-market-worth-dollar-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 13
   - title: "COVID-19 Impact on the Healthcare Information Technology Market by Product, End-user and Region - Global Forecast to 2021 - ResearchAndMarkets.com"
     excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."

@@ -2,6 +2,243 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
+      "title": "Why robots will need humans in the future",
+      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-25T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
+          "width": 1200,
+          "height": 858,
+          "title": "Why robots will need humans in the future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-05-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance.md",
+      "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
+      "excerpt": "The latest versions of Adobe's Premiere Pro and Media Encoder bring significant encode performance improvements to our graphics cards. With this 14.2 release, we revisited all 21 GPUs we just finished testing for our latest Radeon Pro review,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techgage.com/article/adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techgage",
+        "domain": "techgage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techgage.com/wp-content/uploads/2020/06/Adobe-Premiere-Pro-Logo-600x315-cropped.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
+      "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+      "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "publishedDateTime": "2020-05-25T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
+      "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
+      "excerpt": "This report presents a wealth of information on key market dynamics, including drivers, market trends, and challenges as well as structure of the deep learning chipset market. The study offers valuable information about the global market,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200525005127/en/Global-Deep-Learning-Chipset-Market-2019-2027",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200525005127/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
+      "title": "NVIDIA Launches New GPU for AI Systems",
+      "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20316.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20316.html",
+      "publishedDateTime": "2020-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/2_ima3.jpg",
+          "width": 640,
+          "height": 336,
+          "title": "NVIDIA Launches New GPU for AI Systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
       "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
       "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
@@ -1092,296 +1329,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
-      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
-      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "publishedDateTime": "2020-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
-          "width": 3840,
-          "height": 2561,
-          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
-      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "publishedDateTime": "2020-05-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
-      "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
-      "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
-      "publishedDateTime": "2020-05-22T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg",
-          "width": 1680,
-          "height": 940,
-          "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
-      "title": "Scale AI releases free lidar dataset to power self-driving car development",
-      "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "publishedDateTime": "2020-05-22T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Scale AI releases free lidar dataset to power self-driving car development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more.md",
-      "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
-      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including the value of Tesla’s Full Self-Driving package, a new Tesla software update,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/",
-      "ampWebUrl": "https://electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/amp/",
-      "publishedDateTime": "2020-05-22T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man.md",
-      "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-      "excerpt": "This is an early test of a very ambitious project that aims to build entirely new games and real-world simulation engines in the long run.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
-      "publishedDateTime": "2020-05-22T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 654,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

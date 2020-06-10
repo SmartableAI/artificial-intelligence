@@ -29,22 +29,6 @@ images:
     title: "Self-driving Vehicles Share, Size, Global Industry Analysis, Growth, Trends and Forecast 2025"
 
 related:
-  - title: "Global Self-Driving Taxi Market 2020 Trends, Demand and Scope with Outlook, Business Strategies and Forecast 2025"
-    excerpt: "The global market has been segmented on the basis of technology, product type, application, distribution channel, end-user, and industry vertical, along with geography. The global Self-Driving Taxi market is expected to thrive in terms of volume and value during the forecast years."
-    publishedDateTime: 2020-06-05T08:59:00Z
-    webUrl: "https://surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/"
-    ampWebUrl: "https://surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-self-driving-taxi-market-2020-trends-demand-and-scope-with-outlook-business-strategies-and-forecast-2025/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 23
-    images:
-      - url: "https://navya.tech/wp-content/uploads/2017/11/40P2858-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Global Artificial Intelligence as a Service Industry Market Demands Drive Exponentially with Current Trends 2025: Google, SAS Institute"
     excerpt: "Latest Research Study on Global Artificial Intelligence as a Service Market after Conducting a Thorough Research on the Historical as well as Current Growth Parameters the Growth Prospects of the Market are obtained with Maximum Precision In order to give"
     publishedDateTime: 2020-06-09T15:13:00Z
