@@ -1,26 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
+excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration,"
+publishedDateTime: 2020-06-04T17:43:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "1ufAfBlJCECrIeYawLbu9+1oSzUYW9tazsPUdzqraKC7pWltb8Sl2Zg2HrQZYKQsMvnEorXnAR0PbQYUgxR7UziAp5VOuJ5LF5/p48ZGxpZ7ZRJ9O9/5X9XPuxsTqTk6JdkHThn2gmk4oJ/PF5DzODykR/nKcDelYV3o91UicROOB+TSVbOJBj1E9t4LzWgCYbXldv2Jxp1DdlRFNJLD+LfLBBch/T46V44F4cSnPDStzpMMjLY149EijGCMOgXz4IahVli8LP6HP9LJ89ZS/LzVz6Bjo2Ihglm866Mr3V6BUYFO+3SlDkmadzVYcRQl;yubDuZQjEfNmdAhCy9ylKQ=="
+secured: "Eg2ecU/yMc/aoc5Vcs895SZcD3fwWcP+1HraqI5yXyHZuKSDw+SwjSlO2UHnjA/FkO0/YDkMtNAa7BsJN77o5ewfKREza0CrN++CXSbaYZAf9dsvOZNWNjrinvojWbIqsChzspZkVe35JCrC6cuWf7/eP9TfFFp1PeV5/JdBDax+o/EifqjQVTLDqacKMM4WXidD1Alwtos3H/l6gsrU3QjqHbU24R71JtmpLwts0njF9WZqpLZoHMlGgK+MwnHgc6Wlq56ef/0ZxYujn9fWunC8Uv6F1kCwqDyU+/ot5TYYuPNd4ctZPKw/qOmpUmcQ;8cTqS7oLw4qlHdSLGFWkMQ=="
 ---
 

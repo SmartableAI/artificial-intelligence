@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Self-driving cars address only a third of crashes, according to study"
-    excerpt: "The primary objective for self-driving cars, at least the ones pushed by proponents of the technology, isn’t the convenience of the driver or passenger. That is just one of the goals or even"
-    publishedDateTime: 2020-06-05T10:13:00Z
-    webUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/"
-    ampWebUrl: "https://www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/self-driving-cars-address-only-a-third-of-crashes-according-to-study-05623759/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/waymo-fleet.jpg"
-        width: 1280
-        height: 800
         isCached: true
   - title: "The Three Top Ways That Cyber-Hackers Will Criminally Make Money Off Of Self-Driving Cars"
     excerpt: "We are all somewhat numbed by the continual announcements about cyber-hackers that have broken into an online database and stolen our personal information, oftentimes doing so via attacking credit reporting agency databases,"

@@ -330,6 +330,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms"
+    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
+    publishedDateTime: 2020-06-10T02:46:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_a5ca1949759a4f3abfa16a5d94f716cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
     publishedDateTime: 2020-06-09T01:09:00Z
@@ -371,22 +387,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 50
-  - title: "IBM Quits Facial Recognition, Joins Call for Police Reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling.  Ongoing protests responding to the death of George Floyd have sparked a broader reckoning over racial injustice and a closer look at the use of police technology to track demonstrators and monitor American neighborhoods."
-    publishedDateTime: 2020-06-10T00:57:00Z
-    webUrl: "https://www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms"
-    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
-    images:
-      - url: "https://media.voltron.voanews.com/Drupal/01live-166/2019-04/DFF62234-BFAA-4AA4-B5E5-F5BFF470925C.jpg"
-        width: 5184
-        height: 3456
-        isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
     publishedDateTime: 2020-06-09T05:54:00Z
@@ -475,6 +475,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "j+dxgBioBYQZ66ffEtiyJTrEV5sCSZu2L8o+xGDxKdsrfRhxTOfkd9HiwzMiKmed9D70yVQu7uJGvzpjHZExKe3dpTQd4Dg2pt3BKr2mmk+3FdA/l1FLqkzdrPPG6Lzcw8AaLk88Xa06gxc2fOBhLH+aVwDXVXOyjCtiuZmPFSHkl9UbojrnjGDgqRxD/L+J3LFQrmUuPerUVbiO6Pe9Q1pR7EZ9rArrxSajEn9dRchj3PlU8cwwwTe/pBqcRJTLBNFq/SeNiUWt4Ewe7xrpmybaxJq3+WpwYeDFj0pv9xPd+22CZd77VyyPNwaOZSBzfImaWKmX3v7/LbBaYImF9nUFpcnHS9s1EFw1L1ZYw5VePMg18H/KaNC/mjplbe4a3n1vRNHziKRdj5O+3UNoVmdmgFddnIY7cY1JfKZprQROGDahwLUBbNdO60ekoy9YHzfiRj5MGwE3/D8NTG/dv1A6SnAyYiuK11q5z/skjqjTaH7iBo2ndC6PUjkn+Z8t;IAeDOkaTyU/wsCl/WsWmzQ=="
+secured: "yMGCmQPxBbnFbM6Mlorb15wFzHI4zBt8ooiMiGqXM+zo5HlYeyjkOqbCru074b4hf2FQVOGYUT1lunUiLaamFb4bWDDUQVA3M504rIijdz5sIHnGfPJljWCAX6A4F1+BIUl8NDlTtAzi4FQJv8xAw2jbhKDpUlmq45BuQN+UgZTgQUOD3BIKkAiRll6Oat1ORO2ZE5YXQcYq0s8KxIXrj4SZXjznYF6lQ3YMa9TfxqGHCSiPtxE4T5scVotu4Q7grZr/ucA8fLu5G5SxYF9pIV3CsE0cQlFWp2OKxh7mE1yfbyiTc3OChSTn2CX5wwLn72bnqlk1XQ+2/74mHX0R7N1BGLBNHDS9pDk67L88lJDxhJ6iNWMDq++g7I3C9Ds9iQ7HnmEna3ZGcDvS6xQA9pVeqXpkE/JAvytI9ioqu1qHneTX8NvKNKnEu7e8FO4UM5gN+sG2ZCiqa4M6Ux6XapJ+x6GA5Kpqgj7QDVAo4nFFlutpkkKxwuMbWziQyJp4;/c06IMyqQaSRqxi9zz0YNA=="
 ---
 

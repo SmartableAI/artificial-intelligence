@@ -328,6 +328,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms"
+    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
+    publishedDateTime: 2020-06-10T02:46:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_a5ca1949759a4f3abfa16a5d94f716cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
     publishedDateTime: 2020-06-09T01:09:00Z
@@ -369,22 +385,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 50
-  - title: "IBM Quits Facial Recognition, Joins Call for Police Reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling.  Ongoing protests responding to the death of George Floyd have sparked a broader reckoning over racial injustice and a closer look at the use of police technology to track demonstrators and monitor American neighborhoods."
-    publishedDateTime: 2020-06-10T00:57:00Z
-    webUrl: "https://www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms"
-    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/ibm-quits-facial-recognition-joins-call-police-reforms?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
-    images:
-      - url: "https://media.voltron.voanews.com/Drupal/01live-166/2019-04/DFF62234-BFAA-4AA4-B5E5-F5BFF470925C.jpg"
-        width: 5184
-        height: 3456
-        isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
     publishedDateTime: 2020-06-09T05:54:00Z

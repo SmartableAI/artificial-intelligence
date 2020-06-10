@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Based Medical Device Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "MarketandResearch.biz has released a new report entitled Global Artificial Intelligence Based Medical Device Market Growth (Status and Outlook) 2020-2025 includes the trending current scenario and the growth visions of the industry for the forecasted period of 2020 to 2025."
+    publishedDateTime: 2020-06-09T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-medical-device-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5hXopGcbaVY2h44ak0Lgw1CT41GTqeN0EVVj8cfksn6camJgxRft78okumg9jiWBBgZNPHAQS4tQOpxhUR2Qktg2039Mg5KyENxaf+yaAB4Mm5/2QnZmIP8PPnKwtyIOqqafA8+TIQyUaDsJ7wZQX/CeM+5lbwT7AqHPNLoMLMuVTteof29DWyN65JUSUHFgIgppy4WkiyX3LzvRg07xE98ISPszLiopkc7jjUMqNR1B+IqUYDerbKe/oHAcdAOnaOy8FPV8w0oBMfJwkOyHO51naRFbmx9ZnulR/8xMa6KLiYhF68YOHBgGjKpjx/qc;EpGtIeztbtmJStAnh2FB+g=="
 ---

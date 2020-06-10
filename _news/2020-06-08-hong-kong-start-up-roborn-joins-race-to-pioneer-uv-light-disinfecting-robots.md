@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 630
     isCached: true
     title: "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots"
-
-related:
-  - title: "Robots trained for Hong Kong station duties"
-    excerpt: "Hong Kong's MTR Corp has unveiled five types of robot which are to be deployed at Kai Tak station later this year, and its train maintenance staff have begun using a train underframe inspection robot."
-    publishedDateTime: 2020-06-05T09:28:00Z
-    webUrl: "https://www.railwaygazette.com/technology-data-and-business/robots-trained-for-hong-kong-station-duties/56689.article"
-    type: article
-    provider:
-      name: Railway Gazette International
-      domain: railwaygazette.com
-    quality: 54
-    images:
-      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/8/1/7/32817_hongkongmtrcorprobots3_964023_crop.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "uR2CZVkoAYFTQcsaYvPvlLLRpiADpvi5tSwK9UV6L0xHU8gesyW4+oAbxO6HuOMgrIUmwfCarTAM2SlFMMQACR1jRsbv3uHvjspw21y/AEP51o3feYI8jtn231KcCZGswl7jtGNInx7AKFMisr7vdhyJtr47lor+6MTPPr+Ap5mM3JBZxo6F0m6uoItJNgEXJ3QJqMZvq2nmtERR5GU8KlUxaESrc9i7MoB57Bh3bLB/ck6CN2rAfEXCDi884sSLAFWP+HRqzEUQZTl9mIiXYokinoTAtPTYv475yPvp+YPZ2BKtGwjTtbqnOBa4VwSHOKG2gnmYU4kPQPVsAkEI5DUfnX8cgoZc/kATD/tChCIFYQvQaWtZshow7R3b7vrcTNT8Dvfz+hdRdWSeJggy03sgyvzFy6xbuKGwbaLYcfhbVVxdodrJbHhmGfEzE7kftKU1pWKZx6RPb4wMV87IAuCNQIqqVxNdy41QSfbarAP7lN5DO6At7I0zj4Ti7fdC;dXo3wqw4ESjG8fVRfqGj6Q=="
 ---

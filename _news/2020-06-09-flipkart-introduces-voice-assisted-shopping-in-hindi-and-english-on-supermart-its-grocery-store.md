@@ -100,6 +100,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Flipkart intros voice assistant on e-commerce platform"
+    excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
+    publishedDateTime: 2020-06-10T01:35:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/flipkart-intros-voice-assistant-on-e-commerce-platform-61671"
+    type: article
+    provider:
+      name: infotechlead.com
+      domain: infotechlead.com
+    quality: 24
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2018/10/Flipkart-India-e-commerce.jpg"
+        width: 631
+        height: 420
+        isCached: true
   - title: "Voice assistant to help you shop on Flipkart"
     excerpt: "\"The technology team at Flipkart travelled across the country to understand the various contours of building a voice capability and fine-tuned it to identify and respond to the different variations in Indian languages,"
     publishedDateTime: 2020-06-09T15:57:00Z

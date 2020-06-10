@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Flipkart launches AI driven voice assistant for shopping"
-excerpt: "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’"
-publishedDateTime: 2020-06-09T16:59:00Z
-webUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece"
-ampWebUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+title: "Flipkart intros voice assistant on e-commerce platform"
+excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
+publishedDateTime: 2020-06-10T01:35:00Z
+webUrl: "https://infotechlead.com/artificial-intelligence/flipkart-intros-voice-assistant-on-e-commerce-platform-61671"
 type: article
-quality: 59
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: infotechlead.com
+  domain: infotechlead.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
-    width: 300
-    height: 300
+  - url: "https://infotechlead.com/wp-content/uploads/2018/10/Flipkart-India-e-commerce.jpg"
+    width: 631
+    height: 420
     isCached: true
-    title: "Flipkart launches AI driven voice assistant for shopping"
+    title: "Flipkart intros voice assistant on e-commerce platform"
 
 related:
   - title: "Flipkart introduces AI-driven voice assist for shopping"
@@ -42,6 +40,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART"
         width: 615
         height: 384
+        isCached: true
+  - title: "Flipkart launches AI driven voice assistant for shopping"
+    excerpt: "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’"
+    publishedDateTime: 2020-06-09T16:59:00Z
+    webUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece"
+    ampWebUrl: "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Flipkart launches Voice Assistant to help customers buy groceries"
     excerpt: "Flipkart's voice assistant responds to mixed language commands as well.The voice-first conversational AI platform has been built by Flipkart’s in-house technology team"
@@ -86,20 +100,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
-  - title: "Flipkart intros voice assistant on e-commerce platform"
-    excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
-    publishedDateTime: 2020-06-10T01:35:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/flipkart-intros-voice-assistant-on-e-commerce-platform-61671"
-    type: article
-    provider:
-      name: infotechlead.com
-      domain: infotechlead.com
-    quality: 24
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2018/10/Flipkart-India-e-commerce.jpg"
-        width: 631
-        height: 420
-        isCached: true
   - title: "Flipkart introduces voice-assisted shopping in Hindi and English on Supermart, its grocery store"
     excerpt: "Flipkart, has introduced a voice assistant on its grocery store, Supermart, enabling consumers to discover and buy products more easily, using voice commands. The voice assistant for grocery is curren"
     publishedDateTime: 2020-06-09T11:15:00Z
@@ -124,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "wIPM1Qsh7IeSv2Mhg541Yj5jd4fxvh0Br5YGCaw2E8O8pACIwYM1rUe8CVeM/LRGrHDl3IjxJqT0m0TPD6C6G22oYMOWa48pwSAtCXBhfUUBIpnc5nWUMYI4Op/xDjSH5MBBB+rWWRsjyi/aznawDIVvZsPx9L2pGYxGKKO4BJRoTrmfZKRM8uIDKeorrgBfTxuTaPL4jpCwiZMF06KBYsHMbIEqN6Kz7SK1dECn5acvfhudavykT+YSw8EKIQggvqnXEjjjPPABsptviz72DN5ilflFLIwHzJFoeBZQNzj66awiOpePcjosVW0nAJxd;yy9Z1RMZszSPoEvSTTpijg=="
+secured: "aiy2j8jRtFvRduNahSJC6z0jIoi2Gro5XwI+dA9P/iVsVezE0DPGfxS0rYWS4faQfRaYGiRIE0Oo7OuTctEAl1iNpvUbRRCCPpZ9IvOIwx99SS2XbSm5wrAT/R3uP04HbZbMSn56rR7qvUwEB/hvNLbPH8LnI6zq+XR6A2XrYMjsG7UzvFOa6ZQEqzfVUNdketw5q8616/izj+3d6wXAtk+Yjr1dpVQVVabCHekOmokV2OpdbBvYBzl4T9W095UkJOJW327v0RnRHTUG7ga1ODL897EnRLnltb9u6WSMompxM455EcjAnLo2+LWamhE0;iB6disudZmdCFy+v+RWzrQ=="
 ---
 
