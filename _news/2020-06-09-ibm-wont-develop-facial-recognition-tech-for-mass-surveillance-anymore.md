@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-rec
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -31,37 +31,49 @@ images:
     title: "IBM won’t develop facial recognition tech for mass surveillance anymore"
 
 related:
-  - title: "Why IBM abandoned facial recognition, and more tech news you need to know today"
-    excerpt: "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!"
-    publishedDateTime: 2020-06-09T12:02:00Z
-    webUrl: "https://www.androidauthority.com/tech-news-56-1127243/"
-    ampWebUrl: "https://www.androidauthority.com/tech-news-56-1127243/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-56-1127243/amp/"
+  - title: "IBM will no longer offer facial recognition software to law enforcement"
+    excerpt: "Artificial intelligence powerhouse IBM has had it with law enforcement's misuse of facial recognition technology. In a letter to Congress this week, IBM CEO Arvind Krishna outlined the different ways the tech company intends to address racial injustice and police abuse."
+    publishedDateTime: 2020-06-09T18:02:00Z
+    webUrl: "https://mashable.com/article/ibm-facial-recognition-law-enforcement-congress/"
+    ampWebUrl: "https://mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 85
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2017/02/ibm-logo-840x470.jpg"
-        width: 840
-        height: 470
+      - url: "https://mondrian.mashable.com/2020%252F06%252F09%252Fe9%252F178d2594fcc543c79108043508a3e1ef.8b543.jpg%252F1200x630.jpg?signature=QB0plclb5RFeA6NrNcEjHbW9nLg="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial Recognition and Digital Surveillance Are Ending Anonymous Protest"
-    excerpt: "If we want a society supple enough to respond to the voices of its people, we need to keep a close eye on how surveillance technologies are deployed."
-    publishedDateTime: 2020-06-07T14:00:00Z
-    webUrl: "https://singularityhub.com/2020/06/07/will-facial-recognition-and-digital-surveillance-end-anonymous-protest/"
-    ampWebUrl: "https://singularityhub.com/2020/06/07/will-facial-recognition-and-digital-surveillance-end-anonymous-protest/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/07/will-facial-recognition-and-digital-surveillance-end-anonymous-protest/amp/"
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
+    publishedDateTime: 2020-06-09T21:17:00Z
+    webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 58
+      name: KITV
+      domain: kitv.com
+    quality: 24
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2020/06/camera-lens-grey-silver-background-1.jpg"
-        width: 1408
-        height: 792
+      - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
+        width: 500
+        height: 326
+        isCached: true
+  - title: "Policing Reform Bill Would Prohibit Embedding Facial Recognition in Body Cameras"
+    excerpt: "The Justice in Policing Act contains several restrictions on the use of facial biometric technologies for federal, state and local law enforcement."
+    publishedDateTime: 2020-06-09T19:08:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/policing-reform-bill-would-prohibit-embedding-facial-recognition-body-cameras/166020/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_190202576/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "8q9JZk3n9I7a69tSQ3v/YQtzvdHIn3BZz3qp4ph2nH+onQFzHCQw2XJDgCJRVEUPea7gR5uqLyS86pdKDxf3PUWQNWQMKLX9ACZfuzQHwKERq0qKw+V7AHh3S3teH3R3DCIMbw9CNfT9Nqrprc1jnj4rStT8Mcibp8nraoJtMPIeL8+3qMbBChA9vsR+rfRZzp9mw+iaEY5+NQciZWc+lXHS/wWKcXYZI0kNTyi4+CdwhYj3JR88pJ11a1uXYdZ+36t1l16Kg+S5vsLQgfDLDD6JRpQIFpKQCyTPgcH1hG06dWrtGNB6UgQEopjTNlyi;5xppo1LhCspvUmx3bnRJiw=="

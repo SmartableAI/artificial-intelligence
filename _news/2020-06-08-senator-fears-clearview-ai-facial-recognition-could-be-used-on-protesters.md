@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/06/09/ap_19287456839427_wide-8aef6472073b160bdb7216880ae663d0748cef40.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Researchers call for new federal authority to regulate facial recognition tech"
-    excerpt: "A group of artificial intelligence experts including computer vision researcher and lead author Erik Learned-Miller of UMass Amherst's College of Information and Computer Sciences recently proposed a new model for managing facial recognition technologies at the federal level."
-    publishedDateTime: 2020-06-05T19:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uoma-rcf060520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-        width: 585
-        height: 363
         isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."

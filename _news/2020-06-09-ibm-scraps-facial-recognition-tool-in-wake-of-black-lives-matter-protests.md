@@ -103,20 +103,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Researchers call for new federal authority to regulate facial recognition tech"
-    excerpt: "A group of artificial intelligence experts including computer vision researcher and lead author Erik Learned-Miller of UMass Amherst's College of Information and Computer Sciences recently proposed a new model for managing facial recognition technologies at the federal level."
-    publishedDateTime: 2020-06-05T19:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uoma-rcf060520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-        width: 585
-        height: 363
-        isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
     publishedDateTime: 2020-06-09T19:35:00Z

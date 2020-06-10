@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
 type: article
 quality: 84
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     isCached: true
     title: "Facebook’s TransCoder AI converts code from one programming language into another"
 
-secured: "HfYp0AM884wp+DegXUgZUDM7atUrFV1/vK56kE7LyOLolCmu7djPp7M60IDu1xcO2qpiR7sFCM4HkeW0veGdQaeEekBER3Vl4+MS+3GTwV5RFo65RQ+59p7TUFqfd4NXsYtLebB4LOplz8RG0qT7ibCrLTWrqjNkc80vSAlsaevkzYXkFXwjFh8PPCUuNUSoiy8Mtwt1lsGrrkE1Ri5zCHMLtEgzAjJBgw/VJw0b8qdW251pKXfNne2svhD5vsZjL66I9CGhf97pU22pKBAE8JcFlsCh8Q32+maHp73478chnHp6LUuduILwn87dpFEupA8S6QeSCBFTBMFzhkHLv0rx8YR9AP3IrVEuXvQmj6hFmbNidH95/v71P+iwRzi4ZPTYCwRt6R+sGJaiqiF2P9ah62M6/S0lJgE3BXPs/8sh1U/uthbRezxgVxiKYAgC/dx3vgMZqVtvHb0qD2rDyhcggs9+sLARW3pf0/1rINtXVGP2fZzSMN2sP23bVTG7;U6fbU5gRhYe5/aTJEMon/w=="
+related:
+  - title: "Facebook’s AI Can Now Translate Code Into Other Programming Languages Automatically"
+    excerpt: "Facebook’s AI research team has developed a system dubbed the neural transcompiler. The system uses more than 2.8 million open-source"
+    publishedDateTime: 2020-06-10T13:04:00Z
+    webUrl: "https://propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/"
+    ampWebUrl: "https://propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 55
+    images:
+      - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/facebook-ai.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+
+secured: "4jqT393PtCul/XHZXtCiCJr85zrFbYVSUcVGJmPt2KH/Q7CmUu9AzOTGZEEqRXGIoRcqT0wmiBAcpurg6AKFJ2o1vZBmHRO1B7LXklLopApinE5jZ6C/6f5BSLLfwdQEVLwqY6hQlo1Gq6c3zKI4PQCSDf25j4y6dMhVVvVtXwAYXC50RCScEpRjWNrbhAPcGbVZKTq67wlX40HFJKkprCJhDe0J1+7ElZOZjSAUkSA3n+p9HVFrLUtaEetfxGqGxywdJZgHW+W0DIzDMeQahVm3FRLt/dzEmzu1yjuk+sljZVYnqnHkoz17ewBUFtREkGqSAE1ssePVNZbmNRq+VYnIk6LRvN0xcj/JuMr4qEG5BIiXqjgYq+wsBDVEih65UvaP+dSrypekMbpYjDYUiCrisVxMVwiKKc51UYK74bSaNJpGJ1QUsvYbWGZFObqRjPJ9ft02JU+zTpFrhYBIoxzD4FVdhU7HyY/RA26iQUO87xqPRauZajm2C0isDQiP;G3mBbRCU3SZQedCs1rn3vw=="
 ---
 

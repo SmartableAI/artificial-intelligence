@@ -117,20 +117,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Researchers call for new federal authority to regulate facial recognition tech"
-    excerpt: "A group of artificial intelligence experts including computer vision researcher and lead author Erik Learned-Miller of UMass Amherst's College of Information and Computer Sciences recently proposed a new model for managing facial recognition technologies at the federal level."
-    publishedDateTime: 2020-06-05T19:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uoma-rcf060520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-        width: 585
-        height: 363
-        isCached: true
 
 secured: "2bIcTFGn8Zfgt9mbVXxA6jUknbobk1vl0hmNG39nNNbQunMVmcdOBUB1PMwU9/Yh13B+I2NQkZK7w6CA35bWmzrMclRDN2vvoRPzGZP85//VL1hXVumhVTGcYQsFEKZgMkqufxYrPbWCOCsWQJRp4vsN1dtFfwfDiJqpN//JYRbI4XIZ766HgpgKhxGbSACjyfKtu3HjSEjaQELTfhxgYtlpgWaXQ1cF3lNkOqxdhsCdtrGzI/WS0D1Vt5dvm5JEg03DpqnAuEqGDqW492OTje7a17Tgo0Q2QY14UQYntDJOpht7Io9Up57LZQfBQV1qhWNdma6yXZfoMJwCzp0Qi55zqL1J6RxDf5lLw98BljcIHAu7/zAhfZ75sT29WSZqmau7sy1iTew9moaHhCdBQGEMQowc/smvnSWGE9G6LKL/tOxsW+hBOrXGCcYmMG7bBTWCR4/sw6+rAj+niGrRQcGwR2dZIklxWEaMEzhZAO0QtsBxURI4XqfP270B7X+g;JfdJvP9PTK5lA2jh8t9HNA=="
 ---

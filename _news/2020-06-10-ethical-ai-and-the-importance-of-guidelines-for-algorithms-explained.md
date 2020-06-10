@@ -5,9 +5,9 @@ excerpt: "Amazon had to discontinue an artificial intelligence–powered recrui
 publishedDateTime: 2020-06-10T09:07:00Z
 webUrl: "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: The Next Web
@@ -20,6 +20,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e"
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "Ethical AI and the importance of guidelines for algorithms — explained"
 
-secured: "M53P5Mjh6Lg40WesxJOmOv/kvHUMARDhJhkfoe+uPQhbCFbPgKmGFHxm4WSjsg6yMNUY2vLVDM+uVjhTzFEFD98ACEgClObEl22aL4aEi1OdkvNlsB968VZYcGPa18gteqUiwaAm1vyhOij8TcKSkguRDDfs5d8OCC0qG5trmY749tlOsE8CtCv4I72lXbE8V/Wo8/gwDNCZ977epJraFq9ZMmw72tfOtJJayu1s9PZ+H0OSkjBa9HepiStAmUXHFBGS7XCxfTCATlPK6Q3/d3LZPSxyRLnQuKwKKgwhCMxkCXxISIr7xMVGhlpinM2R;DXftmHX9MHHtRTEgzX3hdg=="
+secured: "FDDZH7R/u4qUMQWMj/8XPq5c0rDc8CJcRPz1R2ZO2/Si0MRKkn913ooe5NPv2LL5SDfVltOboBKZRQ7yIyiWVwKELtRHbvDM8c8THWQb5WyD0Z9YwnQyTvWSieBPXjwqRbzHoFvw8CyHL7tm5LNVb/rEyP3lrRVYepsEHUZ4ol04ilYg99pOV1MLNIxMbwMvwGmf28u4x/6rCWbGuSDlbYXBcX4ieWwjyj7VyoRQ+rGG44e7lYsxRKPSYoLArQuxoRbgNXXLTYSQd0cg/o0xNJTf/DI0oxGpkWsYOITPADJQWfLj+O43PpJYqhyMvooJPsS6sLf37PxtP9kpGvZEUJ3UGsfR0K3vPitSrjsLezsN8dSk0M56zAhKFZPobYco1z2KioaAOfrQ66CXNQVwDcBDCDPpFXIHiRQAMmv/OTku4dbwxX/tKmhjJw+rZxzLTaLjMREtbIHnhh+kUh3r7cuqVx+xewPElKpNDRwomvl/mAlz8t5PaSUh7hE3xMxC;czWqSjmbCpdcxg1FkTscFg=="
 ---
 

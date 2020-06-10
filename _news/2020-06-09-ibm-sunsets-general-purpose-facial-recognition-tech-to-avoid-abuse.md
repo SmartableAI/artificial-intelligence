@@ -79,22 +79,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "IBM abandons 'biased' facial recognition tech"
-    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-    publishedDateTime: 2020-06-09T13:56:00Z
-    webUrl: "https://www.bbc.com/news/technology-52978191"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IBM announces exit of facial recognition business"
     excerpt: "IBM has announced it will no longer be offering general purpose facial recognition technology in fear that it could be used to promote racial discrimination and injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-09T01:09:00Z
@@ -313,6 +297,22 @@ related:
       - url: "https://images.axios.com/BSi-De8yXAJyuFHPk-8AvK7hYpY=/2020/06/08/1591657676986.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "IBM abandons 'biased' facial recognition tech"
+    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
+    publishedDateTime: 2020-06-09T13:55:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-52978191"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52978191"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52978191"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "IBM exists facial recognition business, calls for police reform"
     excerpt: "The company will stop offering facial recognition software and opposes any use of such technology for purposes of mass surveillance and racial profiling."
@@ -553,6 +553,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "+06X4uFr+4OdcwlRyfMKXWMjNeD3udEUfhBRc/7ejAodMoXBB9Y/y6SUVOvz0cqF1acqbjfuYol2m7GjV9qkFY3u+Mbn42a24JFFrXUEgE/S3eQsyEcKjhIr7RaKp0APGtIqKv+YfWcNZCQ5qEjAcfR7g7m6wDpGIVdOTulJIa0xp+ID0lMnVSwbLUJIvR3wURp1l8iHQ3RUaN/WmYzbj0hZdJHP9cJ97cbJnsH8bRqrusvTky9Gl8HiTU6Mjif8ypOw+VMAI2jWNp3RrKgRI78G07xc3nJQcowwZ0fJf/iFregFk9IfMWLlHNmcDH9QCwo/VnpGCgARSGiBvwwa4HUF+8NQYPI7MvtX2aoXqEoLqDbJrsNHENpEMiGU/BfBsozdi/lH7wnlyY7RnGau0loWGVSUNV43REKDDAXcmjo3ZuJHbVzRFwbklM26yoc871sVwTO+YNXwAdjzuVzpyKhZ0BFjWXwghiZ6rFUBxPqscss0NCYINS3mnDs+b9EF;zgJCkLq3ZAPoJQL15nPT8Q=="
+secured: "hpu58DD+P8EnPOadDKjocwQ69MNJSGpsfHV06Hf+baMR9OQzpMmsTMuMI4kkfqFybzBlN+Tfltf/Igt72rRA7BYGCi08W12pIsrJi4ACEqCv8Fy4PwIQtE7jAQzMvjbczK/ZuESrsuPsDujIuXmt4bVW5l8MQiXS5ApPHlCB2nQkP3Lhk27zdKep6g3RTPN3Ze+mT6le3nZT/Ae+TQb13/3IZuivV+b8Ush4L/Mn4XtiTRdRklrRMRTTWKhWWmu6uMQU2NyU/A6cWwBZ2NsIEpmZBnoEGXOIWejEv6QqZ8QHatqjPnBwdh+Yc7iT27el5YVy5NCqbPMUKoaCxqPuLCEH+hI/PAGY6uUNC+UM/hSo2kLUeGS/Zn/dEwpXLa+JyArnWa0tgCpjRHgD89MWkCwMui47oE4atzlRKYyRUZSX1exejrdFrVJ3+OC3zDz7dh3QecI5gpNWcfkVSsHBsBCP1JtJhIrBYlMV6jaxt8dnPs4tzN5UvcfRrd6VzIG9;5po5Ds+yD8vqrtBZJL0OYA=="
 ---
 

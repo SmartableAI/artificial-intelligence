@@ -25,19 +25,14 @@ topics:
 
 related:
   - title: "Lantronix Teams With Misty Robotics to Create Open-Platform Robot"
-    excerpt: "“For robots to become a part of our everyday lives ... Misty&CloseCurlyQuote;s software utilizes the Qualcomm&circledR; Artificial Intelligence (AI) Engine for object detection and machine learning, Qualcomm&circledR; Noise and Echo Cancellation and ..."
-    publishedDateTime: 2020-06-10T11:59:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/06/10/lantronix-teams-with-misty-robotics-to-create-open-platform-robot"
+    excerpt: "For robots to become a part of our everyday lives, developers need an accessible robot platform upon which to build,” said Morgan Bell, Head of Engineering for Misty Robotics. “Working with Lantronix and its Intelligent Edge Solutions (IES) platform,"
+    publishedDateTime: 2020-06-10T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lantronix-teams-with-misty-robotics-to-create-open-platform-robot-1029296100"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 54
-    images:
-      - url: "https://ml.globenewswire.com/media/a67aae53-8bdc-419e-8c11-b2f230183fc7/medium/misty-robotics-photo.jpg"
-        width: 300
-        height: 224
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "Pnz4aab3YjeiOKC9I7GMVmoClzCx+4xTLXFpUKERJI6/udyHtVrhyJ8UNn1IAMabsx6NwSRS+rj+dLJmVXL1boi+4b6+4RC00x8y8Iqj0FOHHaXVaFksAAp2Ny/RI5oEnxEQlXdcStkbZZrFewusqUKTm3YBwQDCL/WZ0EjjVQhKtmx5pOJW4pt+Y1/l3CUOe6y9mi7BzJp125cSkp50/TiUeaamLjEq/q2eb79mSZyJ50cug5EA5dGCt2+isbVmX3GY7zxFiy8d1jQjg2BXojJqbZqHqzgiEziDl+jnwIvTgy0DW9yiEeTZv7PUBj+/;i426YeL5auVq3u8PUasjVw=="
 ---

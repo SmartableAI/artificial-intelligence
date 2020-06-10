@@ -2,30 +2,87 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
-      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
-      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
-      "heat": 75,
+      "path": "_news/2020-06-10-domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date.md",
+      "title": "Domino Data Lab raises $43 million to help companies keep their AI models up to date",
+      "excerpt": "Domino Data Lab, a company developing a platform for AI and machine learning model management, has raised $43 million in financing.",
+      "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T12:23:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/",
+      "publishedDateTime": "2020-06-10T06:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Domino Data Lab raises $43 million to help companies keep their AI models up to date",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure.md",
+      "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
+      "excerpt": "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
+      "publishedDateTime": "2020-06-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg",
+          "width": 1200,
+          "height": 894,
+          "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
           "attribution": null,
           "isCached": true
         }
@@ -534,6 +591,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
+      "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
+      "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "ampWebUrl": "https://www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "publishedDateTime": "2020-05-29T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
       "title": "Baidu releases homegrown quantum machine learning toolkit",
       "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
@@ -737,18 +823,18 @@
     {
       "path": "_news/2020-05-27-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World's Largest API Marketplace",
-      "excerpt": "The addition of Microsoft Azure Cognitive Services enables RapidAPI's 1M+ developer community to add advanced machine learning capabilities to their applications RapidAPI, the world's largest API ...",
+      "excerpt": "The addition of Microsoft Azure Cognitive Services enables RapidAPI&CloseCurlyQuote;s 1M+ developer community to add advanced machine learning capabilities to their applications RapidAPI,the world&CloseCurlyQuote;s largest API Marketplace that helps ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/b16115846/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketpl",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16115846",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16115846",
-      "publishedDateTime": "2020-05-27T02:10:00-07:00",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/27/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-world-s",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1180,93 +1266,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
-      "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-      "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning-301063525.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/367508/impetus_logo_Logo.jpg?p=facebook",
-          "width": 1494,
-          "height": 785,
-          "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
-      "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-      "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "publishedDateTime": "2020-05-21T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
         "Microsoft AI"
       ]
     }

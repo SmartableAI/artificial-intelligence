@@ -105,20 +105,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says"
-    excerpt: "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities."
-    publishedDateTime: 2020-06-05T19:17:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 43
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dell and Intel answer the call for AI by building specific solutions for real problems"
     excerpt: "The company saw the coming of cloud computing, and now it is witnessing the latest wave of artificial intelligence, although at least one executive believes that growing use cases are moving into a phase where the tangible benefits of AI in the enterprise are real."
     publishedDateTime: 2020-06-05T22:16:00Z

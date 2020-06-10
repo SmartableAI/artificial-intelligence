@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement.md",
+      "title": "Government trials facial recognition system to improve social aid disbursement",
+      "excerpt": "With the new system, recipients only need to visit a designated merchant where facial scanning technology will be used to verify their identity.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thejakartapost.com/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "publishedDateTime": "2020-05-22T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2019/01/04/2019_01_04_62237_1546584615._medium.jpg",
+          "width": 747,
+          "height": 403,
+          "title": "Government trials facial recognition system to improve social aid disbursement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
       "title": "First-rate cleaning is just the start for this super-smart Home Robot",
       "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
@@ -1184,53 +1222,6 @@
           "width": 768,
           "height": 438,
           "title": "Police searched for suspects in unapproved trial of facial recognition software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
-      "title": "Uber introduces AI to make sure its drivers wear face masks",
-      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "publishedDateTime": "2020-05-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Uber introduces AI to make sure its drivers wear face masks",
           "attribution": null,
           "isCached": true
         }

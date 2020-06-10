@@ -57,20 +57,6 @@ related:
         width: 960
         height: 1200
         isCached: true
-  - title: "IBM is canceling its facial recognition programs"
-    excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-    publishedDateTime: 2020-06-09T21:17:00Z
-    webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
-        width: 500
-        height: 326
-        isCached: true
 
 secured: "ktaseSFx2z7s+RALzRIsJNpVcDYpDrBaANwlq12rgMpBvtM+dXpyOv/aMmpDUYjbTaotourB1hXysB9IOqXW7+WUPC9RZe76NeShyudYQnPKeoj1FrDEOf9bW5Sn9Ez749m+DFsRemCYx8/VjQiyy0XPDXsJa5dXCI9Fem87UvucdnvN7kmd5o9JW00LgMZYCkZw/6Yvd9YgiSpSppaOyUeccfSZroSP/FRlDEu8oN+jDnLQoPVvt4zfbByfkRARdyIwvLYgvTZqQGyfI+iSiylPUtCVU+no5Mt2VthT5QSLhj7OPbK4QU4rkotX4sfM6WOqQyh46HrkDD15d0eD8pglWyqXVYNMKwq7v3hjX70vbBwpCPYZzk/K37s+AvEXJnZ09j5j+zwxDZ8Q940SBFvVgQNJ/cVIpu2iPDZ9jwTqYg9BSGYlcHkhFGgvVsHk32km2P1wpVkxb+wP3kSVgsp2CPV/Kf6MqtMSYiQsc7eXCHKsVAQ7uz0AFCIhPs32;aH2mbEnZgLlGfbMwrkivWg=="
 ---

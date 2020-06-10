@@ -1,27 +1,19 @@
 ---
 category: news
 title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-excerpt: "The TensorFlow Lite for Microcontrollers port to the Synopsys DSP-enhanced DesignWare ARC EM and HS processors enables a wide"
-publishedDateTime: 2020-05-27T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip-301065763.html"
+excerpt: "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ..."
+publishedDateTime: 2020-05-27T13:26:00Z
+webUrl: "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-
-secured: "tO/Tami0D+JrKBlBwhFo6SL4Qvn5MSzh4p60emwlqbR2vQXgJANSZbydjcwlhz8XrIKt0R9QE9FDLCF6DKWX6dMgVF2jBToJX/va4wOisHnunkKRe3nlUeWobR8CxahIg1j5aepyHO7pHIVBBlh9VHpE0p8jqix3UuabSyOwFRt6qNZA2L2znIf5ADD7DpKIpq0R8KeKyFpJXRtHqIOA/0l5YgfaBKFmZbwOoGb6OzRmBISy3u442dZTA4kiVnOoRaK2DxgIETPszNTfGvIOK1zKyu0P4Hrag3MSyF++XNp7GrWLMv/Wr5iLwnoIsv45;gf4MTQ6uiumU4bgMU62Nhg=="
+secured: "+xZG5I8trQ/yJD/8SoAGkyuj+MfJBppAiRmWDlD2zB0CbMKa6ZTF6VbW4+7e0wcWEmQAtiWWVNHhdTPvl34lBWJfsj5RMuC4Go9Cbz70x+qPzM0IoLGSrmsm0XJUgykVPigthLUA4v6fxYuMnYEJHQNZ6mxCjZfzxne7sdsq+yBvnRx5CjLY7/LdTv5zfxu3PpTuIkGwJq3qE9fjNB6bguvoINm8W6hhARPFKlffjKaxwMqKL3NGG0+67t87GhTGtxukPzdYOc0US8qSW6NGqk4aLaifHPco8xF6kGF+H3/bvqVO+0xO4geXN8iDe9ht;XhqKN9N2ih9T5uL/CRDwIQ=="
 ---
 

@@ -91,6 +91,20 @@ related:
         width: 446
         height: 213
         isCached: true
+  - title: "IIHS: Self-driving cars might only avoid a third of crashes"
+    excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
+    publishedDateTime: 2020-06-10T13:28:00Z
+    webUrl: "https://www.repairerdrivennews.com/2020/06/10/iihs-self-driving-cars-might-only-avoid-a-third-of-crashes/"
+    type: article
+    provider:
+      name: Repairer Driven News
+      domain: repairerdrivennews.com
+    quality: 24
+    images:
+      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2020/06/nuro-iStock-1175392532-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "EsJupRx4ggpOpkY+GEKd3SSh3ZD7O8oOU2Yzv+7rs/gqAysq97QMNuWv2NPGi2XLxCSwC8LHG3D4N7ASaoD4m/tHVnfxO01Fizx1Ntq1KK84d9463EYMDjfxsRlL2MNCzoo0Q3EVFra79LhzMRhkcpjY6hBD6VJYWbFuMsr+BZ2FnUajQeHWHRBXDlB3a3NoEzv0rpntYIE1PpN9XLdj56Q+pXCuTtD9UZk3haxORGeM/W0cCWM0PrHkcs6n3p89LRwUohhPcsjrvHJ2m9uX1Y8Hbiv2TuOiKHVaECQMU9P21/sErxAFmIZ/z6UwFGbLKg9SnzfD9gM8MhcmXWi+YokuTPfVL61EL2zd5HUM2i8T/FBzZElEV9TUFGeiGE1FQXBQeVSDZSFeGMpEHLVZurYOfkC5HLcLE78mF/ramvmW4yQuwrBPzVspD0aQav14rumHAzB3cdecdeLjbvSDBbaOccs0ko1/Du2MZcAvc64=;Hm+YA6tF9DJnnwOOfkeNzA=="
 ---

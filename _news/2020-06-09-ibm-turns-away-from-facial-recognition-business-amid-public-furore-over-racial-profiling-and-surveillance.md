@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-fa
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
         width: 960
         height: 1200
-        isCached: true
-  - title: "IBM is canceling its facial recognition programs"
-    excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-    publishedDateTime: 2020-06-09T21:17:00Z
-    webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
-        width: 500
-        height: 326
         isCached: true
 
 secured: "A3LZtw3tpSqYypaZLfoE6hW4EIjwAdxQcXrSNUeVH9Jf1itOIJNZNvS/2N4Fu+WMVAtyw1/PHldAHLpoBtWlPOGBZFA8uhYF8GqxQoelHK4+sux3DkK+NjqTsuvK9lvxV+aSAsmWpZnQ5Qp05L2oZYJL+Q3lrBLFaOTxmwLKxjYPQl2Hzg7CEKE21Njy9XLbgADViDo7L2oqW94DhjSjRSl5HUke+xLxDf9geSLYvEG9TxrmAmrXfv9pU/bKPpofL5xTPCbaDDMmlqVnofvJIYbamXJjueI7BRADSWvaGW7OpdV6k6ZxiYHqGJ+LzAwkDZvhTZ1TibRxxPF3GBIyfGyq+JF1crHeJPA/lIQpvVMhxll71ESt+nFDYi0nMUSFgoUSv8NaStJDJWWAJqyGb8CHBFHVw+2kJpu2nC9k24sNCnI4WVQ14fsnfDCuA7Ae1pdtPo/UEGTq6m37bTpDmlaWjvSw++patzSgw/AZjiM=;PdqYAanmWC56wBRei7dBVw=="

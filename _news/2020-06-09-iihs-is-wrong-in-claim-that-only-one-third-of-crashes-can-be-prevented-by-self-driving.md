@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
         width: 446
         height: 213
+        isCached: true
+  - title: "IIHS: Self-driving cars might only avoid a third of crashes"
+    excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
+    publishedDateTime: 2020-06-10T13:28:00Z
+    webUrl: "https://www.repairerdrivennews.com/2020/06/10/iihs-self-driving-cars-might-only-avoid-a-third-of-crashes/"
+    type: article
+    provider:
+      name: Repairer Driven News
+      domain: repairerdrivennews.com
+    quality: 24
+    images:
+      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2020/06/nuro-iStock-1175392532-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "OMlwlSVZzqdZKhIBHNAx36ILwniX22NxY4mDuLuEf07RAzBscHp/bkAmFLsZACMgqoTOmWV3SN5ONJFGNukdl7chgoVCWRNDwyhlBvcC3ubKH0tV8faoNaCxLoPyCSHK29LqmKfKhlHGW8WIhlfnPd8j23wEWd+7pTgHcdgrLZbaWq6JbMfTMByL+y/X8sDLVdFWnC9LH8XIfbVNjQVPCs4xQPx7T+jTjGiED0o5a5O/LcZKY5Rg46QUPz2PHs1Y/0e20JJpKNRP73IQpGhYWAqMw4/x7cAcdGkfSakhrmT+AibpiX6eYrHmvgheVx9PRZ0wu8GXM1kUifI8ekq3nX5zXG1BsFVfcQTAwP4yXmGR0G+YpwXg/daJ/o3CItLJjGBRhgvdfdy8FKQNZvtYujsGrvQks49cYZVHp4lKGUBuyIB3KqSZJCkbOqNRlk6f4zrdUrRWOhNw8At+3hNR0RfTYi8SmUE79cvsP0yZbKDEG0Rz1SdSIHKFjW7MRvBy;bXaZZ2lufpXWVpvlAs0c+g=="
