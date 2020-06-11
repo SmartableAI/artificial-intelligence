@@ -2,26 +2,25 @@
 category: news
 title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
 excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
-publishedDateTime: 2020-06-10T00:04:00Z
-webUrl: "https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance"
+publishedDateTime: 2020-06-10T22:03:00Z
+webUrl: "https://www.opb.org/news/article/npr-ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance/"
 type: article
-quality: 37
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: OPB
+  domain: opb.org
 
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://media.npr.org/assets/img/2020/06/09/ap_19287456839427_wide-8aef6472073b160bdb7216880ae663d0748cef40.jpg?s=1400"
-    width: 1400
-    height: 787
+  - url: "https://images2.opb.org/c_fill%2Cg_center%2Ch_300%2Cq_90%2Cw_400/26331616bffc72dfa41ee236123957c3.jpg"
+    width: 400
+    height: 300
     isCached: true
     title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
 
@@ -57,6 +56,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Amazon Won't Let Police Use Its Facial Recognition Tech for One Year"
+    excerpt: "Amid nationwide protests over police brutality, the company is stopping law enforcement from using its most controversial product."
+    publishedDateTime: 2020-06-11T01:06:00Z
+    webUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/"
+    ampWebUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
@@ -106,6 +121,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Amazon Hits Pause on Offering Facial Recognition Tech to Police"
+    excerpt: "The moratorium arrives as academics, civil rights advocates and the company’s own employees have all expressed concerns Amazon’s facial recognition technology will lead to policing abuses."
+    publishedDateTime: 2020-06-11T01:14:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police"
+    ampWebUrl: "https://www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03qfvECTTUxLCSjZpiiSVeS-1.fit_lim.size_1200x630.v_1591837092.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Amazon announces one-year pause on police use of its facial recognition tech"
     excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
     publishedDateTime: 2020-06-10T22:47:00Z
@@ -137,6 +168,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
+    publishedDateTime: 2020-06-11T01:43:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Amazon bans police use of facial recognition software for one year amid protests"
     excerpt: "Amazon will ban police use of facial recognition software for one year, in an abrupt reversal that shows how quickly the dynamics of law enforcement technology are shifting. Police use of"
@@ -228,6 +275,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon bars police from using its facial recognition technology"
+    excerpt: "Amazon says it will stop police forces from using its controversial facial recognition software for a period of one year, in order to give Congress the time to enact legislation governing its use. Concerns have been raised regarding the accuracy and consistency of Rekognition — part of Amazon’s cloud business offering — particularly when ..."
+    publishedDateTime: 2020-06-11T00:07:00Z
+    webUrl: "https://www.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
+    ampWebUrl: "https://amp.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F6a2c4282-a739-11ea-a27c-b8aa85e36b7e?source=amp&fit=scale-down&width=2048"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Senator presses controversial facial recognition company on use on protesters"
     excerpt: "Sen."
@@ -334,6 +397,6 @@ related:
         height: 1184
         isCached: true
 
-secured: "S0CA45Hl+EMbo8MQmzaxQTI/+RwoWl3iFMZNSDvsNTbc1k4DDNB7ygXa5bDE6jP8OBLDDot+zTIVnLqby9nG85D69tpDmwUECIOc5pQ66U10A9O7m7uaAziqqThxk5ElYqg6lJTpC3vmMb5kXuZ3c1ICchmBSSnGcU3G3UuiOL5q4lUG65UnZKu1KEBjG3b1agsSIvsv5fT9UmnR5fdbvf0BRi6zvBHvYZZZBnlMoe9DpsCwry2gPcmJeoAgArG1CjP3BMcHZ8qQFWTOuaocshSnxvMATwUdteqXitIBvv6Ad+PA+AyeyzF2BcMAywqDnOFRGF4MeRgH0HImffQHIIcUfGOYBoKNFuqSG58R4/P0mtf7AvB8mOdjQQqxsBz2WN/T+rDQ4IexEvLJcoE2zEWm2rBWRThArWRctPXOMxvgIIMXRIMbm75TNVFhSCxrXR3NgYAoRkUEzUEqtcqOubB9m46KNXTaEzNl9iUPHV9kfOnvLjaey2lG9v2wy9Yn;kGyFK8p3xI1fqkkr9IwJrw=="
+secured: "UcI6lOR3RiO2pzEzZhkGgK04Y7h0BZkb5aIoSvaUyi3t+2qtn5yljkS+AK2v/EKMceUG8U+1tqmByUdYi2i7l3Fw6z25+kMI/LedhZiAecA26cA5IsC8A7CzI3A19wEV6eute8qlERIcGQv5gWc1FHuW2/84IQArJe8MvY/Mcfee5TVNYqXlb9xfEuX3a9NP8+Dn/P8Ko92VxUuoaFaQL5vOeVvcqFsXjQ55p4/rktMO0bHU9jJcPrCk6pik7PYx1ESLvQPHdhB5b3doj7M0evFnGmohUcds6SbyR7wRd5HQIgo5iHh7CqwSKnHdUYeg;ZlIEEgUQExjSoVuWutLROQ=="
 ---
 

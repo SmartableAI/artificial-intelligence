@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "House police reform bill includes face recognition provisions"
-    excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
-    publishedDateTime: 2020-06-09T03:34:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 41
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
-        width: 960
-        height: 1200
-        isCached: true
 
 secured: "ktaseSFx2z7s+RALzRIsJNpVcDYpDrBaANwlq12rgMpBvtM+dXpyOv/aMmpDUYjbTaotourB1hXysB9IOqXW7+WUPC9RZe76NeShyudYQnPKeoj1FrDEOf9bW5Sn9Ez749m+DFsRemCYx8/VjQiyy0XPDXsJa5dXCI9Fem87UvucdnvN7kmd5o9JW00LgMZYCkZw/6Yvd9YgiSpSppaOyUeccfSZroSP/FRlDEu8oN+jDnLQoPVvt4zfbByfkRARdyIwvLYgvTZqQGyfI+iSiylPUtCVU+no5Mt2VthT5QSLhj7OPbK4QU4rkotX4sfM6WOqQyh46HrkDD15d0eD8pglWyqXVYNMKwq7v3hjX70vbBwpCPYZzk/K37s+AvEXJnZ09j5j+zwxDZ8Q940SBFvVgQNJ/cVIpu2iPDZ9jwTqYg9BSGYlcHkhFGgvVsHk32km2P1wpVkxb+wP3kSVgsp2CPV/Kf6MqtMSYiQsc7eXCHKsVAQ7uz0AFCIhPs32;aH2mbEnZgLlGfbMwrkivWg=="
 ---

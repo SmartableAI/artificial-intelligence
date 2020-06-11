@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
+      "title": "TCL’s latest TVs in India can be controlled just by voice",
+      "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "ampWebUrl": "https://www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "publishedDateTime": "2020-06-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
+          "width": 1070,
+          "height": 602,
+          "title": "TCL’s latest TVs in India can be controlled just by voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
+      "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+      "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "publishedDateTime": "2020-06-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
+          "width": 1200,
+          "height": 630,
+          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
+      "title": "New machine learning approach classifies common type of brain tumor",
+      "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "publishedDateTime": "2020-06-09T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New machine learning approach classifies common type of brain tumor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
       "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
       "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
@@ -92,53 +224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-turns-away-from-facial-recognition-business-amid-public-furore-over-racial-profiling-and-surveillance.md",
-      "title": "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance",
-      "excerpt": "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over",
-      "publishedDateTime": "2020-06-08T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -323,7 +408,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 305,
+      "heat": 345,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -1047,100 +1132,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
-      "title": "The Impact Of Artificial Intelligence On Professional Services",
-      "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
-      "publishedDateTime": "2020-06-08T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Professional Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
-      "title": "HSBC introduces index fund built by AI",
-      "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
-      "publishedDateTime": "2020-06-08T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": "HSBC introduces index fund built by AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

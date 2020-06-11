@@ -311,6 +311,31 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Amazon pauses police use of facial recognition"
+    excerpt: "Top News Amazon pauses police use of facial recognition. Posted . Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognitio"
+    publishedDateTime: 2020-06-11T00:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCHSMNKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200611&i=OVCHSMNKV&r=OVCHSMNKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Amazon bans police from using facial recognition tech Rekognition for 1 year"
+    excerpt: "Amazon said Wednesday that it will temporarily halt police use of its facial recognition technology. Activists have pushed Congress to regulate the technology."
+    publishedDateTime: 2020-06-11T01:52:00Z
+    webUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?itm_source=4&itm_content=2x4&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
   - title: "IBM Is Ending Facial Recognition to Advance Racial Justice Reform"
     excerpt: "In a June 8 letter to Congress, IBM CEO Arvind Krishna said the company would halt all facial recognition research, plus the sale of existing related software. Police departments have access to these tools thanks to firms like Clearview AI,"
     publishedDateTime: 2020-06-09T06:28:00Z
@@ -598,6 +623,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "c+V5BTWT/j/okCeelRJRx5qt8B4Zw9aNFzJja9GR35upj6OC0l/5W6DR8MYMFrdW9orEFbPVD90CS/m+SgKK5NK9Uj1v3BZYJvolLub0XoKhBxP52JqYOi+N1IxpvO4XFOcyLrirc4Q0/FfOXvktPnk5uE3Zlp64RlC2S0uKyyfUPaHjX/xEYq3/8lBxh68E3QWF+4ToqSrQ8FdFuGkbSYF0RTCLi482k4Tl0myzHPxZHO5I3arwzlT8OQSL2Qg6HelnRguqrBPpCQDVfp7YjY1lLarpewNR4Ulvelj2W0hP9ICLs/tbKa7byAiK+2o1;qoDuenekPBPm4sFvAFMSpQ=="
+secured: "sOTWgaS9cadoZiTIO96s+WdtmbnoIw+IDYOlwxJeC0Qc6bBw+InuAc0sKM4GmgNEJ8L//WyrulAEum9gjGIU3fvs1CLqvipY7TkoGFps5CehfcKtPm5ruxhcnWEWR5rCsCeaE5R0VJ6zGGar2WUfu9p62mfdtKoGq+5/UQjiHd2IFzYjTFhvv06uDEoJJKCYyyjtefuyemh/p5MsVRgNHB/s+gDWR0137kE6zfDdcfiA2sTLVnAWhNF3QwhHXDC2on5vNXC//cAJk0+w5/M6M0JLwnebmMUO0GW1hj+2SIwnKd9OeMOSzytlBonF4KWfr1YsF5uRQKgEN+Lr6lQ6H4opXyvvMbraM368PBaX9zzsPORUDZgyikZ5cF4USkZBR3A8zGPF6bNgAIj1DcWFuojTuYLYraibWtAc2cJ3Glhgo3dNQ7C4DQTF2kDYcWb9hQ16rd7s0hhoKDXayiEUEgOiEULU5J/LmR6r3NGtK5Rsf83XNPDxoK9IWLxRYPh9;pS/+co6UAAvGujh7R2jzZA=="
 ---
 

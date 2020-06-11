@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
 type: article
 quality: 90
-heat: 170
+heat: 175
 published: true
 
 provider:
@@ -154,6 +154,6 @@ related:
         height: 864
         isCached: true
 
-secured: "g+oMIteslGdv2JfIoJzNcxUv2RQRatAQqtwHQX885yqI5NOoAuA2wG7FmK23/I3n3FUZBNNMW1jSxuyiN42+YkmGbciznE5s31bL5AXPqTm0KpvXFMcFh/+Ksi/xjvOuSZDO7bV5nlYtmlwXXmu6bvQzEln3owbn9U81e9zS5lj1jxwIjc2yfNYlZ1bfznttWZl8MX0NnO5zi+0QMSBmLZr5sJEs4V6Gbs0VruBuF+homuVnkYMCC3jiuuVmmEbWBkDYW/1p6+agpkjJiq5+Sic/WMDJW6PRr7YLlJsIN3PeuphWVTpV0fQtHgL4A4cx;uEB3qFJNGxDJH8OPUnd5Dw=="
+secured: "OAwRu9YZB5jV1akVCgENup6X1IWIWClOOcAxHIaAyKqiYqhpgD32t0ghpiFfCxPBDm4HITCt0ftTNmRPZscvYEBIpkbz1/MlGV85Z0Fy09CdOKmlPLpoMxjphm1lXA8wwJ5WULdwTWCLfIwLscQwopSCoKu2xZB+f3FHhpG3e9zjmyIPHKi00cOzSHIgb9Ux0QHmIMTRdYGaKLPIvTST4grKxtIcTG2TSZIpEYVB2AljuieVC0SXTYSj43YMPIli/qo4cTo6eUPQZIOI4minZIHy3+0VbFRDGC4KycEBuv2382/Qw5UOleWdDAbG5PQTIp+AIq6hUwba9VP2crPQx35wuJlx8C27nTa1FSd0ROwzaFXWe4GWoe3RiTnG/dQGQR1mYLlcjun1+AJsJ23qRyjUrNcdmsn0tXihppjYQzwoJQHNOOGuiJ1TM+w5ddWJx2FNq9Nibx30AWQSFLv5Ul8j8NFgsuQReCkNB5aM+NVeUEVKuNXcfKdTsuH3T7Wf;PTkbN5rDYW7EjbN9GK/1TA=="
 ---
 

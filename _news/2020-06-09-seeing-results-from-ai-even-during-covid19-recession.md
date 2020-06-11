@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 750
     isCached: true
     title: "Seeing Results From AI, Even During Covid19 Recession"
+
+related:
+  - title: "Seeing Results From AI, Even During Covid-19 Recession"
+    excerpt: "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps."
+    publishedDateTime: 2020-06-10T10:39:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
 
 secured: "BrUzMDlEUfcqMWz8MQd9JpZ9BLS0YHX0LYAwz6KcBJBZF69nJlzf/XDP4KKcJ60BqpVBfZqwllynflgP2QhGrY3Mvr9C5kw1qUycAFcaijRLm2CM2zGTDgHS3pVBbfiz2sWEZv3TQu9nRkiXs5Cs3IK5FdDIc4D5+5y9SJdx935TcOEXomyLDR0V6QMuTeWQhs8fRzZZ24onlgiMXRxvRcL2Q1crJNSuA4CnMgYqJqJeVVOE0Er/8oJCi45MjrnOk+jU6QKTIIPYdY1j7Ny1C3OoqbaQ7IiwKi8bMjCvzjxLMrw6/s31q4eYGKgvmpWjfMlKszxtASUVusileT27p+jUU87PxQ73eO93x5qIfXMKUAtVT/vkhmefTJICt7lm9Ro0DqyTBpN8Qqi1RtLAjhIhzh0rIf4b3Vm1L6zF0KCADbZFWMmah9dVLMu7OsgOi9FE/ClJ3VY04nUqaQ1MAwmuE52H2b63ViHwmF6P6bJhiqONYYNdj3aIA/vMB8cj;fbk5ktAGd/GvPGgzCzuOgQ=="
 ---

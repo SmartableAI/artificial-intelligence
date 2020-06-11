@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-fa
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: South China Morning Post
@@ -46,20 +46,6 @@ related:
       - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2018/11/security-cameras.jpg"
         width: 1528
         height: 900
-        isCached: true
-  - title: "House police reform bill includes face recognition provisions"
-    excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
-    publishedDateTime: 2020-06-09T03:34:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 41
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
-        width: 960
-        height: 1200
         isCached: true
 
 secured: "A3LZtw3tpSqYypaZLfoE6hW4EIjwAdxQcXrSNUeVH9Jf1itOIJNZNvS/2N4Fu+WMVAtyw1/PHldAHLpoBtWlPOGBZFA8uhYF8GqxQoelHK4+sux3DkK+NjqTsuvK9lvxV+aSAsmWpZnQ5Qp05L2oZYJL+Q3lrBLFaOTxmwLKxjYPQl2Hzg7CEKE21Njy9XLbgADViDo7L2oqW94DhjSjRSl5HUke+xLxDf9geSLYvEG9TxrmAmrXfv9pU/bKPpofL5xTPCbaDDMmlqVnofvJIYbamXJjueI7BRADSWvaGW7OpdV6k6ZxiYHqGJ+LzAwkDZvhTZ1TibRxxPF3GBIyfGyq+JF1crHeJPA/lIQpvVMhxll71ESt+nFDYi0nMUSFgoUSv8NaStJDJWWAJqyGb8CHBFHVw+2kJpu2nC9k24sNCnI4WVQ14fsnfDCuA7Ae1pdtPo/UEGTq6m37bTpDmlaWjvSw++patzSgw/AZjiM=;PdqYAanmWC56wBRei7dBVw=="

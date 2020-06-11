@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "300,000 Facebook Content Moderation Mistakes Daily, Report Says"
 
-secured: "WMcS+rzkhGMAGHV3xkD5wb0AJ/fyU8ua9b5CFsg9+QEtY6R1gCgTfZrhWWDOxwSP4EtJd+sZrfaBtJQDFHUMdpsLdGCvWr6BQjVVPAfk2htuwDcKRU8rVkL4x1CPk12xa/GC7CK7y/UFiKQrgleaxAZw2BjF+oCzncX7binzpKAAP9HlZerpHqcY79KrgAEcrX1LtoIe/c3XJBfXXLBHt8DqRgC7KdTRgqiuQrS5B1rfir397eYw9X5RlXg3+C2KSklyNNlHutaWkoPEBuw6PSQp/EZQdSEHcBoemfd39b5ySjuJb+F5ai+Cn/wdbA5+sPivO+gfkdJ8GS/vwHKOGlWtAbgivItB+8UbTfzXj2OC1lpmQ5BGTPBuDMU2eq6jokHS45OKSvKH+Pfpv8U1tsmhOD2basu829alutJHKVUjel2Dkk8Q9cr3TB0v/7q50K+ecFYw6cut4ThLOW/qkh56yyvPFfwQubUerK86Qb0CpbyrSF7pwxamW3kZPKMt;ZROS1vrrwSjYeFZAoCKMIQ=="
+secured: "unUQkEj3uWOQOQYJL1+SVzXXHsi0JlX7GN4juq/CZ5vwuQs3XN/qkYHkQkr0P65Y4hKa13omf834YZZxV9+wTxrSARmQCLq+TX741ZYgS6bVUdy7IYObTXXoJFpdMMqegbPrbEKwLUnJisBodQ2qfV4Y9Uo2jX+dCzAPmV3cs3OP0/a8NFR/7Ng+Dn/wylvnxR8cnR6kw6cSiOvkeBYVJdsRZXu1NXYSXtMUO4JuSUMT1Xp/jRn6KTj/1SsvdUtkDTbV9MFiHihrsrqkv6PuyiBHCkhPa1i34qyTIuTH6fJn5meGvFCcHMttslzGbj4hMPfVpnOMulIUYSOCXxroCtmtk6fHP85FkyqTgW7Sk9+vqP/c+HreACCxhsZJGSALHSj2ZucgSP73JRaeInoNYb3w9ATYKADXMpxt8nq3D6PX9KRvL8Dawf5prTcKIk2QunLB6mvh3tex3C1BfPGHrEEuADY/uYHqebMy17hmoqk1QNZISMY204ou34mcCZ7Y;OT8d32suy4Eyw/PlIClw0A=="
 ---
 

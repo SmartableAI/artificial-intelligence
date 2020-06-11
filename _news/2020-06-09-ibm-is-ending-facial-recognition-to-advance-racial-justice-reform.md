@@ -327,6 +327,31 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Amazon pauses police use of facial recognition"
+    excerpt: "Top News Amazon pauses police use of facial recognition. Posted . Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognitio"
+    publishedDateTime: 2020-06-11T00:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCHSMNKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200611&i=OVCHSMNKV&r=OVCHSMNKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Amazon bans police from using facial recognition tech Rekognition for 1 year"
+    excerpt: "Amazon said Wednesday that it will temporarily halt police use of its facial recognition technology. Activists have pushed Congress to regulate the technology."
+    publishedDateTime: 2020-06-11T01:52:00Z
+    webUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?itm_source=4&itm_content=2x4&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z

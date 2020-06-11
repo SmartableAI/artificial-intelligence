@@ -855,6 +855,44 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-artificial-intelligence-is-fuelling-innovation-in-healthcare.md",
+      "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
+      "excerpt": "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI ... the dose of medication or even radiation therapy required at different stages of an ailment, thereby ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/news-analysis/artificial-intelligence-is-fuelling-innovation-in-healthcare/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Piyush-Gupta.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
       "title": "AI could predict risk of lung cancer coming back",
       "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
@@ -1220,35 +1258,6 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-artificial-intelligence-ai-in-healthcare-market.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market",
-      "excerpt": "The latest 154+ page survey report on Global Artificial Intelligence (AI) in Healthcare Market is released by HTF MI covering various players of the industry selected from global geographies like ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "ampWebUrl": "https://www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "publishedDateTime": "2020-05-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
