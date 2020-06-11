@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon bans police use of its infamous facial recognition software for a year"
+    excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
+    publishedDateTime: 2020-06-11T05:58:00Z
+    webUrl: "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 71
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z
@@ -161,6 +177,38 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F10%252Fec%252F8180ab03cd1e43c283bfd18c15144741.faa5e.png%252F1200x630.png?signature=2mcp9pdOB40qPvlbaUjNgWJyeko="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon issues a 12-month ban on police use of facial recognition"
+    excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
+    publishedDateTime: 2020-06-11T06:49:00Z
+    webUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: My ArkLaMiss
+      domain: myarklamiss.com
+    quality: 44
+    images:
+      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/01/Amazon.jpg?w=960&h=540&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
+    excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
+    publishedDateTime: 2020-06-11T06:40:00Z
+    webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
+    ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 42
+    images:
+      - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
+        width: 512
+        height: 341
         isCached: true
   - title: "Amazon bans police use of its facial-recognition technology for a year"
     excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"

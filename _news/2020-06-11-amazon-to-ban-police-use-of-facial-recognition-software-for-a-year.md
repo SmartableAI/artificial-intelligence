@@ -406,6 +406,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Amazon announces one-year pause on facial recognition for police"
+    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
+    publishedDateTime: 2020-06-11T06:28:00Z
+    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
+        width: 940
+        height: 512
+        isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
     publishedDateTime: 2020-06-09T19:35:00Z
@@ -463,6 +477,6 @@ related:
         height: 300
         isCached: true
 
-secured: "auCr0eb6etl+pxxGaj0EawMYYDR4PJvMX6l+IMvoVGpA7pyV+nek0T8R4Z9C7WH1KjRed+fSVnnKXe4fwgPcUk5TV7gHHoUpwbnA1RnCaENEtegJ9W485HPTyKfW3kk9EUVosqddV0DcWDyI1i22WkHRYCGA+4f/Qr7wug0I21KPEiqcvJNB7/jvnVdBciztqAYCaNbixH69Fax8QQbhuH2XRQrOhsCHylXl68E7f68qzE2OB53wfod2UIWOrQSsSWTdfJ6oq59tKDepeYIs/VvxhMiJlV1QDVLqVVIgu6438YCw0NFof17ib4S6JR3E;XAdGVQMiS7rvkg0kIQbSzA=="
+secured: "00+aveRgzFR6nYNThMn5G4gJwBK7iYyVB75lgyLOqdN7b3GGf/3fJ/ECgJa7jAhxtmkGn0YMmD2egIv2vtn9+EbzUFjCWc3EaufuL9E1bc//LUtw2ONKPfLvxR64e0dKhHlAVQjJg2SkSqzsN+dEetuKafAn0PQwEb5YTl18f9o/amRfOieRQtG/5Jcdpwy5sHhZdmijL0hBnhMPEisoOMtgEPOZ8xHQmak72t35b5XCCiU+HcXTrJ0KasVPEyUb0tuTSZS+ITRjBiCm/fs3HptCHzNbGsXmBtEVccElTjZbeF6BAzHwrM8MGTNb2ie/gH7NjHuMRccl9rXwTGNJAfHCNZO4/S4f01afvSol5drCUzRyDxll6exbXo2sF524aU/aK7zltFKdxZgnlkEr+mEWyYh0YYJ6ysaWwO0QPbPZw6Pg8swyVcNRJI89rxF+G9AIc1vZV6LnmhOJdv+/fS6aNwWpMrXd+9+NIV4m1TJvGWprO1tlmLQICsqPSJ0z;hhTH8I1riC5kF7golYDZTA=="
 ---
 

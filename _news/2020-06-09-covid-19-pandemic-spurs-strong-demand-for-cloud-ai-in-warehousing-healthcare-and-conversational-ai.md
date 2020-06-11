@@ -25,20 +25,6 @@ images:
     title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
 
 related:
-  - title: "Connecting the dots: Technology, healthcare, and pandemics like COVID-19"
-    excerpt: "This article is written by six students of Indian Institute of Management (IIM) Indore on how artificial intelligence and machine learning based solutions are being used in India in government hospitals (also during COVID-19 pandemic),"
-    publishedDateTime: 2020-06-06T14:20:00Z
-    webUrl: "https://www.opednews.com/articles/Connecting-the-dots-Techn-by-Citizen-News-Servi-Doctors_Health_Health_Healthcare-200606-605.html"
-    type: article
-    provider:
-      name: OpEdNews
-      domain: opednews.com
-    quality: 38
-    images:
-      - url: "https://www.opednews.com/populum/visuals/2020/06/2020-06-91838-400-Uploaded-populum_visuals_2020_06_2020-06-91838-may-1---amit-rishi-article-335.jpg"
-        width: 400
-        height: 322
-        isCached: true
   - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
     excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
     publishedDateTime: 2020-06-08T14:00:00Z

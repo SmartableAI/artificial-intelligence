@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T17:17:00Z
 webUrl: "https://www.thedenverchannel.com/rise-in-robotics-is-helping-companies-survive-the-pandemic"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     title: "Rise in robotics is helping companies survive the pandemic"
 
 related:
-  - title: "Amid the coronavirus pandemic, many companies could replace their workers with robots"
-    excerpt: "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ..."
-    publishedDateTime: 2020-06-06T13:51:00Z
-    webUrl: "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167"
-        width: 2318
-        height: 1546
-        isCached: true
-  - title: "Rise of Robots and AI in the Coronavirus Era"
-    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Autonomous Delivery Robots - Demand Is Skyrocketing During The COVID-19 Pandemic"
     excerpt: "One thing that the novel coronavirus COVID-19 did for all of us was to push us outside comfort zones and to adapt to new ways of working and living no matter how resistant we might be. From enabling telecommuting for workers who hadn't done so prior to tackling video conferencing,"
     publishedDateTime: 2020-06-07T13:20:00Z

@@ -1,34 +1,30 @@
 ---
 category: news
-title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
-excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
-publishedDateTime: 2020-06-10T14:32:00Z
-webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
-ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+title: "Amazon issues a 12-month ban on police use of facial recognition"
+excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
+publishedDateTime: 2020-06-11T06:49:00Z
+webUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/"
+ampWebUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
 type: article
-quality: 81
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: My ArkLaMiss
+  domain: myarklamiss.com
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
 
 images:
-  - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/01/Amazon.jpg?w=960&h=540&crop=1&resize=1280,720"
+    width: 1280
+    height: 720
     isCached: true
-    title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    title: "Amazon issues a 12-month ban on police use of facial recognition"
 
 related:
   - title: "Amazon’s facial recognition moratorium has major loopholes"
@@ -111,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
+    publishedDateTime: 2020-06-10T14:32:00Z
+    webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
     excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
     publishedDateTime: 2020-06-09T10:22:00Z
@@ -173,22 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon issues a 12-month ban on police use of facial recognition"
-    excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
-    publishedDateTime: 2020-06-11T06:49:00Z
-    webUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: My ArkLaMiss
-      domain: myarklamiss.com
-    quality: 44
-    images:
-      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/01/Amazon.jpg?w=960&h=540&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
     excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
     publishedDateTime: 2020-06-11T06:40:00Z
@@ -231,6 +227,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "DPywKz+Ku+2BVT+G8CXct0uxs7kx/3/YIYXuXe+lEu20f9aj8WpwuMS4SRqL5jXQi9rbDfMe+MWYLr1JdPAweXb/QNUg8gkTcl9wge5w8JYiv7+nnnmYeyGJSs8r7NBjoWD4bSdT2bl1K7gvDUB+VgUWd7guJOSIEx1aIlifHcx+pHgyeeCTGS9P6DAlXnuXHMpIjC26tHm+Tzq3K9zutEVJXttvWvUTwNexPtV6q8T7sEagzo3zabLBde1BXp4gvh6AxOyE0KCpVxDUt+Ms76qvIBepBHKWJbFHvkmOnL3Sr2zdUKV5NJL0McZgmBTBL7y9BDo8ud9FxIdWKC1L50eH1JfCC6EomrzbIJcQRr+2Xfn2njlR8CCNpP41YHCaoFk708h9Xl8eStjrnLMN+bXysKR7RJwJ+qijzHyRiz38v7EJjTnBvRvp5pmejNozGKNMZQjM3Tz8v40SgCgakzBWYQmsfye0aiL7eVVjoFIR1Tf7yLc2gi3LDWcE5toi;o0qpMNi3pWs3FJXHuFaBGQ=="
+secured: "WNiDSLS3HOkCWWi1XaE1wadKEn6pkHpLypWV04gytZWRaw6t6X182R4gIB0A35jEavoYbFz/welLvi7MgA9f2Jow9600XukpEc2zYv7lZhIiPRR9x0ggS5wiUQue/4v1JTp7gLrc4flB+Wdpcfv7e3Y6DIoP72UxVCdMtjsPIEWxm00v9iTd3eor06HXl89Dl4MlnNse5E2b/W0rp5I0XoTwQs/hyUlILDKkkS8dDyR/928FiSHFJoDa5w0WPxmVuhQcIW9qDcaY8unaeNJifGjpZj8l1JM8SN/l3sSwoMpl6V3UY+rEyxO+gb0osjkq;8hb9yOXFEIi3oT3iDNi5bg=="
 ---
 

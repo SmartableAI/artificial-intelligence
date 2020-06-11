@@ -1,34 +1,34 @@
 ---
 category: news
-title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
-excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
-publishedDateTime: 2020-06-10T14:32:00Z
-webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
-ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+title: "Amazon bans police use of its infamous facial recognition software for a year"
+excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
+publishedDateTime: 2020-06-11T05:58:00Z
+webUrl: "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year"
+ampWebUrl: "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
 type: article
-quality: 81
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Neowin
+  domain: neowin.net
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
 
 images:
-  - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg"
+    width: 760
+    height: 428
     isCached: true
-    title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    title: "Amazon bans police use of its infamous facial recognition software for a year"
 
 related:
   - title: "Amazon’s facial recognition moratorium has major loopholes"
@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
+    publishedDateTime: 2020-06-10T14:32:00Z
+    webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
     excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
     publishedDateTime: 2020-06-09T10:22:00Z
@@ -126,22 +142,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Amazon bans police use of its infamous facial recognition software for a year"
-    excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
-    publishedDateTime: 2020-06-11T05:58:00Z
-    webUrl: "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year"
-    ampWebUrl: "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 71
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
@@ -231,6 +231,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "DPywKz+Ku+2BVT+G8CXct0uxs7kx/3/YIYXuXe+lEu20f9aj8WpwuMS4SRqL5jXQi9rbDfMe+MWYLr1JdPAweXb/QNUg8gkTcl9wge5w8JYiv7+nnnmYeyGJSs8r7NBjoWD4bSdT2bl1K7gvDUB+VgUWd7guJOSIEx1aIlifHcx+pHgyeeCTGS9P6DAlXnuXHMpIjC26tHm+Tzq3K9zutEVJXttvWvUTwNexPtV6q8T7sEagzo3zabLBde1BXp4gvh6AxOyE0KCpVxDUt+Ms76qvIBepBHKWJbFHvkmOnL3Sr2zdUKV5NJL0McZgmBTBL7y9BDo8ud9FxIdWKC1L50eH1JfCC6EomrzbIJcQRr+2Xfn2njlR8CCNpP41YHCaoFk708h9Xl8eStjrnLMN+bXysKR7RJwJ+qijzHyRiz38v7EJjTnBvRvp5pmejNozGKNMZQjM3Tz8v40SgCgakzBWYQmsfye0aiL7eVVjoFIR1Tf7yLc2gi3LDWcE5toi;o0qpMNi3pWs3FJXHuFaBGQ=="
+secured: "+fnKp8gvaZWXuC9jDeBz5KxcmnGcGWAzjpKi5iiSz+3l00HZVtKl3RWJEhjhZKMexHIr0ALwrXknxgJGlPyUlyU8HTiHl0Jv+bBTuF42T5Ag2Vfj/T7ps5oaAN1Vfb0+sAs8/uN9suJ1z/dRdr+klADcBPFLaj1psujuUu49AQINL5l2Za7W+sGhjaRAvbCHmGNpeqRHPD5Yyu+PFaGHSEeY2ri2mPyOxDKjPvT+lv1kqpw5oyQeEr393QIcSCJosNet0av2EStpyhHOjx8Qx4d0RD8Eu+QR1HVAEmo6z0FPth+KzudKkjPNxx6TeB22;aFUoJgsep0dWO7/bG+eKQA=="
 ---
 

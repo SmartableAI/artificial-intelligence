@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Markey Presses Clearview AI on Facial Recognition"
-excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
-publishedDateTime: 2020-06-08T14:17:00Z
-webUrl: "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition"
-ampWebUrl: "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
-cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
+title: "Amazon announces one-year pause on facial recognition for police"
+excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
+publishedDateTime: 2020-06-11T06:28:00Z
+webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
 type: article
-quality: 76
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Multichannel News
-  domain: multichannel.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
-    width: 620
-    height: 465
+  - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
+    width: 940
+    height: 512
     isCached: true
-    title: "Markey Presses Clearview AI on Facial Recognition"
+    title: "Amazon announces one-year pause on facial recognition for police"
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"
@@ -252,6 +249,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Markey Presses Clearview AI on Facial Recognition"
+    excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
+    publishedDateTime: 2020-06-08T14:17:00Z
+    webUrl: "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition"
+    ampWebUrl: "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
+    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
+    type: article
+    provider:
+      name: Multichannel News
+      domain: multichannel.com
+    quality: 76
+    images:
+      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Amazon Won’t Let Police Use Its Facial Recognition Technology For One Year"
     excerpt: "The moratorium comes as civil rights activists have criticized Amazon in the wake of the George Floyd protests."
     publishedDateTime: 2020-06-10T22:22:00Z
@@ -403,20 +416,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
     publishedDateTime: 2020-06-09T19:35:00Z
@@ -474,6 +473,6 @@ related:
         height: 300
         isCached: true
 
-secured: "2WQwKSCGQTxKPCqfRyiQA8a7/KPAYhJLgVMtoVEdpwXqjgx2kcMAKQjoi79jIfJQCPgxeK2ztjP2hjsG+UM8x47J6ooJETT0kVxD5XaYvT7+ywvuwkfo4/6wIy1JTXL8bqqEfmgA99BbCvhQY7ei6l78zyd2oDh6TFej8Gs1pYgJDLSLc9SvCB8RPkukd+qloEn7dTiZFUBbeHEMa6Y/HYcFq60mQfSJ8IgceQPaFeFca66SYosUXj1HdsNoWriT3IWngKJJRzNqsVt2u+zA9MofQF2QPq6rmr18OhN23R+EtjelJ6q8anO78/vQLmqh0D02eC99HlT82X1Z3cy4dybzwT7RGLSJPKOBGSJFszMb+mjjZabnyTq4ouR2UYu/lDSc0cEM2PK+owqOLLun+/jJy6yNn4cG0jntrKL0upH7NXxdGMekLpz3H0Gssth4InVAQ6KYXzoE3VcBs3Jmli+LKKuNZppMLE32sesCBGg=;FDPQSMQxy6OmW2t6DxFKxA=="
+secured: "8GWo3ZKXnpTt7/+xoBAVgEyG1k5Iwto+mZ2L5hx395XWlaNmlFOufR4bpM/Z1ppDk8AVg3W9ZtkkijAfDCxdxo/qjETC/OFfghlUECaKqEB2gsXKppCrJePhxREW5OKoR8KNQZfF67sKrfFkPCKARSAAYLLjRSytSgtYTT4Aw0KyyoCzVfdjSau5CK8WEBtZhvqcUkxrwl3EvwVE8sfZVC0kBzoe8y4c2azHHin0HLLIf3CdnCgd17ftjxdGkhZC4Jx1+Y01AG98EvUf3AwHyLoJ2aHuhuJca1ibAf2uwudcsTJQHxFSU7SIdf2hYnET;9LZcNehORQLnD0YsWJkAJQ=="
 ---
 

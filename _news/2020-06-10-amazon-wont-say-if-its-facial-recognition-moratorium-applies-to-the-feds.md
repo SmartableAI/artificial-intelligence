@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon bans police use of its infamous facial recognition software for a year"
+    excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
+    publishedDateTime: 2020-06-11T05:58:00Z
+    webUrl: "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 71
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z
@@ -158,6 +174,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon issues a 12-month ban on police use of facial recognition"
+    excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
+    publishedDateTime: 2020-06-11T06:49:00Z
+    webUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: My ArkLaMiss
+      domain: myarklamiss.com
+    quality: 44
+    images:
+      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/01/Amazon.jpg?w=960&h=540&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
+    excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
+    publishedDateTime: 2020-06-11T06:40:00Z
+    webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
+    ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 42
+    images:
+      - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Amazon bans police use of its facial-recognition technology for a year"
     excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
     publishedDateTime: 2020-06-10T22:49:00Z
@@ -184,6 +232,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "QIdqK5TMpaqY7VXgAQZDQTToBtTSk5PsmNHd1fatAyAuX3H2v0QGXeZMXslVWB8LUxHu/wJyHRi43aKacrYpJ7WKBDbRoP8toma6GY+aZWEiBjT04fToS7cnxjPNXN/KYO24Kyop8BNEFGc3H87+aMMs9utLyf/BWLLR5r1xmpBnmZVB8Rwu8WIukpmI2++Lz2b/a7DKvQRPC8UZcMFfSDu14q+YM0GjEroJB/4Mo4ST7DC1UQIiu+SC5ainegNk/Kp4mukLI8Zi0RSi10eYMZ/7I6zVFgTODi8AqcOY/57HUfiMqu0t1wli64G5m/SmvKsGyCHcZo+E6U4JLcYUhJHdx9RKWWWbYG9BvGXFGHpUMYeP3GEkw6ub0jwOAmVkQZDmVULCMg8wEfRoLH3np4qLDYs9+LOFrSvH4GUhBMv+JHylaUuIN7aPF0X5/YewM5tH2xbPjrC8f4INx9nIRLRvHRjGyBX7p4VVIQMUC8BtXhmyX85n5oWA8JY4mBKG;YFJLGvEo61MlWX5Pn0PunA=="
+secured: "s74kG0aWqMnf1ZUlJ8BcZ6w8rnb5j+nhDFaVuDUE+7XiU47HrutkuyOC73AnkD5OIT4dAB97A/9oT6ZElnsyeZ46JqEW2vDGchjqD6vDDerk1ZPoCvBVcS9FulNOSdYpZN40LyFa42cC2BliP9GHVryFjgDtIsbEHv0iUdLOpX/Jn7zEbHyF+AcNNqfNCHv3xhtej515Bm0tmDufSQXKOCmwfhIgDdwFbqiEfFodC9fXyeMC1TSC5a9upwpk8JA0gp1/1v6bs/d06VrAkEXHsQ6JS6mbIZmMk1g6XilbDq911ErcuB5B2Wy//tnWNN6K41WxC3O1wbpyyjg7MBnz3CZ6b8gCG/YqQ/Z7ozLLzmGsFhBZcS2G+H96FBRN0fzD65mFhCa1yDmcn3t/+zjUajKWiKT5km4uT2X57WZhxzKpJtTU10n+8U07MxuKfg2jOgn0pr0J55bEKvWEktiIfV9MKNgi4DAlMF3N4y2vq418ASqMyC0qkxg9YuOl6Bhc;WUlSa/S0YZET4az+MF6oXw=="
 ---
 

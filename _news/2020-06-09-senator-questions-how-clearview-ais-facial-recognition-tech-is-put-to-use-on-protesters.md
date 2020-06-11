@@ -416,6 +416,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Amazon announces one-year pause on facial recognition for police"
+    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
+    publishedDateTime: 2020-06-11T06:28:00Z
+    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
+        width: 940
+        height: 512
+        isCached: true
   - title: "Boston Moves to Ban Facial Recognition Technology"
     excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
     publishedDateTime: 2020-06-10T18:56:00Z

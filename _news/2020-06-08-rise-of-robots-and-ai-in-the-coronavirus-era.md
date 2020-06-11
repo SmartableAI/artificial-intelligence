@@ -25,49 +25,30 @@ images:
     title: "Rise of Robots and AI in the Coronavirus Era"
 
 related:
-  - title: "Amid the coronavirus pandemic, many companies could replace their workers with robots"
-    excerpt: "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ..."
-    publishedDateTime: 2020-06-06T13:51:00Z
-    webUrl: "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html"
+  - title: "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus"
+    excerpt: "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,"
+    publishedDateTime: 2020-06-08T16:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167"
-        width: 2318
-        height: 1546
-        isCached: true
-  - title: "Rise in robotics is helping companies survive the pandemic"
-    excerpt: "Robotics companies are seeing a sharp incline in sales and product requests as companies try to maintain business with fewer workers in the building."
-    publishedDateTime: 2020-06-08T17:17:00Z
-    webUrl: "https://www.thedenverchannel.com/rise-in-robotics-is-helping-companies-survive-the-pandemic"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 65
+  - title: "Artificial-intelligence tools aim to tame the coronavirus literature"
+    excerpt: "Developers hope that tools for processing natural language will help biomedical researchers and clinicians to find the COVID-19 papers that they need."
+    publishedDateTime: 2020-06-09T18:40:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-01733-7"
     type: article
     provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 41
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2bddabf/2147483647/strip/true/crop/3360x1764+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb7%2F38%2F33d06f8d4fa6aff7e93c4b40785d%2Frobots2.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Delivery Robots - Demand Is Skyrocketing During The COVID-19 Pandemic"
-    excerpt: "One thing that the novel coronavirus COVID-19 did for all of us was to push us outside comfort zones and to adapt to new ways of working and living no matter how resistant we might be. From enabling telecommuting for workers who hadn't done so prior to tackling video conferencing,"
-    publishedDateTime: 2020-06-07T13:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/autonomous-delivery-robots-demand-skyrocketing-during-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHPM3AQzLBqtw/article-cover_image-shrink_720_1280/0?e=1597276800&v=beta&t=J93CKJzVxzAh_VhnrQl4X0_1lcg7ZAahKzxJiqWMLNg"
-        width: 1280
-        height: 614
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01733-7/d41586-020-01733-7_18049772.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "xeeg6VMHamwYYT8tplx3O/7lvinaB4dvCtwcy9+uLBdvonncLhAaK/CNsU2SNU4fh6hNsldC5FW4EMMw57LvaU85beS5DgJIeilxoWAo4fSGnIKqh4S07KQOou9JhsWj0zBO6U0fherq/KVfddVSqVWSPwxCDjUyJep9EGgDZCsfyLhtLH+J96ptR/uBWhKvQCrnsuMLTWr7wxJfbOT3Gnl+f+Ub1QgGz9O0D8svhSNiw75iopvZv9p7U9SM9S5Xpfhwzocjt7z41IIZZN8WLzisBzc4AQWHQz2gLv6H7J8m3u5zSJoH8AOxI/OFuhGVlvgXnWU94L96kPzxKLTWy2jbyZpm9S5/klIPr7YocxSChDXQJR6wAS5I0A411nSzRVnCa9sHHL4DNRj+0IPYU54T1CwKftHzhPD6i3Au77nRdTg7hy8nTOEu+e/zZFSPzO5bQNyj1g3ehzq0AhLdQHb8t3KkqtlKWfYhp7MqQ9c=;FBULgvuu8FwQvI3lpnmpGw=="

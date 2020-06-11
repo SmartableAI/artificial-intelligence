@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-rob
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Rise of Robots and AI in the Coronavirus Era"
+    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
+    publishedDateTime: 2020-06-08T10:34:00Z
+    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial-intelligence tools aim to tame the coronavirus literature"
     excerpt: "Developers hope that tools for processing natural language will help biomedical researchers and clinicians to find the COVID-19 papers that they need."
     publishedDateTime: 2020-06-09T18:40:00Z

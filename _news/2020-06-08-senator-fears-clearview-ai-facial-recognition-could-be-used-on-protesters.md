@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 385
+heat: 395
 published: true
 
 provider:
@@ -406,6 +406,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/06/10/ap_17047619531765_wide-52d59385b7a6e24c7b53253cf3d3bff466942afb.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Amazon announces one-year pause on facial recognition for police"
+    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
+    publishedDateTime: 2020-06-11T06:28:00Z
+    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
+        width: 940
+        height: 512
         isCached: true
   - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
     excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."

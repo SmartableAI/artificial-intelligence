@@ -1,34 +1,30 @@
 ---
 category: news
-title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
-excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
-publishedDateTime: 2020-06-10T14:32:00Z
-webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
-ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
+excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
+publishedDateTime: 2020-06-11T06:40:00Z
+webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
+ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
 type: article
-quality: 81
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deadline.com
+  domain: deadline.com
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
 
 images:
-  - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
+    width: 512
+    height: 341
     isCached: true
-    title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
 
 related:
   - title: "Amazon’s facial recognition moratorium has major loopholes"
@@ -111,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
+    excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
+    publishedDateTime: 2020-06-10T14:32:00Z
+    webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
     excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
     publishedDateTime: 2020-06-09T10:22:00Z
@@ -189,22 +201,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
-    excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
-    publishedDateTime: 2020-06-11T06:40:00Z
-    webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
-    ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 42
-    images:
-      - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Amazon bans police use of its facial-recognition technology for a year"
     excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
     publishedDateTime: 2020-06-10T22:49:00Z
@@ -231,6 +227,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "DPywKz+Ku+2BVT+G8CXct0uxs7kx/3/YIYXuXe+lEu20f9aj8WpwuMS4SRqL5jXQi9rbDfMe+MWYLr1JdPAweXb/QNUg8gkTcl9wge5w8JYiv7+nnnmYeyGJSs8r7NBjoWD4bSdT2bl1K7gvDUB+VgUWd7guJOSIEx1aIlifHcx+pHgyeeCTGS9P6DAlXnuXHMpIjC26tHm+Tzq3K9zutEVJXttvWvUTwNexPtV6q8T7sEagzo3zabLBde1BXp4gvh6AxOyE0KCpVxDUt+Ms76qvIBepBHKWJbFHvkmOnL3Sr2zdUKV5NJL0McZgmBTBL7y9BDo8ud9FxIdWKC1L50eH1JfCC6EomrzbIJcQRr+2Xfn2njlR8CCNpP41YHCaoFk708h9Xl8eStjrnLMN+bXysKR7RJwJ+qijzHyRiz38v7EJjTnBvRvp5pmejNozGKNMZQjM3Tz8v40SgCgakzBWYQmsfye0aiL7eVVjoFIR1Tf7yLc2gi3LDWcE5toi;o0qpMNi3pWs3FJXHuFaBGQ=="
+secured: "xDdWWv0h2Sk3ZL5qw6HDGx0ZEZxGl/CJ1FAyo+1UbIkbZqD1o1Tn4TJj7dW1RlFwGxQUoxqPpYMigi7lg6rvAa1+rq+Fd8Qm37BOm7YI/IoxZMB0eX+Op2ejjFL0SL04s9i6VgKmWLhZaPAaWFvhArurW74ERQwdDGEDlkXd7RCMDPXAgfFOEihWBlTss0G7NXv3aT0Wh5lnXu6qAQ9znq95H1BNmh3Ufb/M+uj9v6e6bp86AYMHJpkd10s4S3p4JI02aWnKFU+hIBZSs6WYPXYbh56gQqpnQGHuvDBzQP/DlqPfqCEQ5D74fcyzym9B;rtPOfRHSgFdokyGnkU9FlQ=="
 ---
 
