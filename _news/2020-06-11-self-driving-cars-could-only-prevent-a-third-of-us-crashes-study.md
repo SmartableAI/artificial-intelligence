@@ -38,50 +38,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
-  - title: "Study: Self-driving cars don’t prevent all crashes"
-    excerpt: "(CNN) — A new study found that self-driving cars likely can’t prevent all wrecks. The insurance institute for highway safety looked at 5,0000 police-reported crashes from the National Motor"
-    publishedDateTime: 2020-06-06T16:11:00Z
-    webUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/"
-    ampWebUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
-    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
-    type: article
-    provider:
-      name: myhighplains.com
-      domain: myhighplains.com
-    quality: 44
-    images:
-      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2015/11/Ford-self-driving-car-CNN-video-image-jpg_5567455_ver1.0.jpg?w=400&h=225&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Self driving cars will only stop a third of US crashes"
-    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-08T10:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
-        width: 620
-        height: 463
-        isCached: true
-  - title: "Report: Self-driving cars will only prevent a third of all crashes"
-    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
-    publishedDateTime: 2020-06-07T18:43:00Z
-    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
-    type: article
-    provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 24
-    images:
-      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
     excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
     publishedDateTime: 2020-06-08T05:15:00Z
@@ -110,6 +66,15 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
+    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
+    publishedDateTime: 2020-06-08T09:41:00Z
+    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 2
 
 secured: "QN75CbKE/h6oRpceD7mL4K2vW97riqUt3NGAXKJxGVJ009T3HJ+TRXarJlpA9EPCbe0tJQ1tBiOwPRFHov18CnqkqLHw9J7RiUw7sfr5R1be5bggCEcKdsPUewR0jw5O5sn2wGHms+I/rrPqmKpirNX+NJ468ThrSbbRHkAnhAr29XYPdaZ6pITTc80GS4UDROM6tSjLbY9HObQ+nPu/1dyADu9r8prcSYhvGe0/4Ct3cppTCF+/K7Q+P3/SPxEC2pwu/1dTyFiw2cXvMtnZbXQanwB027GtUG71uD9hAf0+iZNZ3reDRzr0HAvO+NVuqYpDsfEEonYPqqAgt28dUV6beGrjLqkEGR6sjO4XfPh4ROyybam78g+kEarqkw+41LMy+uKWCQ5cFhIoM/25sjQUgBL/AWym0C33CNcXiTkDP+MzFO2iPt3EAzouLecxCvRhv74qRPAsixk5QsQex7gejCgGSsMVx6BgaKmsH4TOcWt1JkRYYSDrdKp6X3/8;RwXp14thpRxWLVJp5BORtw=="
 ---

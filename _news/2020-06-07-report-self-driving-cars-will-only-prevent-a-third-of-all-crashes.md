@@ -25,48 +25,21 @@ images:
     title: "Report: Self-driving cars will only prevent a third of all crashes"
 
 related:
-  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
-    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
-    publishedDateTime: 2020-06-09T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
+  - title: "The Three Top Ways That Cyber-Hackers Will Criminally Make Money Off Of Self-Driving Cars"
+    excerpt: "We are all somewhat numbed by the continual announcements about cyber-hackers that have broken into an online database and stolen our personal information, oftentimes doing so via attacking credit reporting agency databases,"
+    publishedDateTime: 2020-06-08T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 61
-  - title: "Study: Self-driving cars don’t prevent all crashes"
-    excerpt: "(CNN) — A new study found that self-driving cars likely can’t prevent all wrecks. The insurance institute for highway safety looked at 5,0000 police-reported crashes from the National Motor"
-    publishedDateTime: 2020-06-06T16:11:00Z
-    webUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/"
-    ampWebUrl: "https://www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
-    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/study-self-driving-cars-dont-prevent-all-crashes/amp/"
-    type: article
-    provider:
-      name: myhighplains.com
-      domain: myhighplains.com
-    quality: 44
+    quality: 65
     images:
-      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2015/11/Ford-self-driving-car-CNN-video-image-jpg_5567455_ver1.0.jpg?w=400&h=225&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Self-driving cars could only prevent a third of US crashes — study"
-    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
-    publishedDateTime: 2020-06-11T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
-        width: 1000
-        height: 676
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053476626%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
@@ -81,34 +54,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
-        isCached: true
-  - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
-    excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
-    publishedDateTime: 2020-06-08T05:15:00Z
-    webUrl: "https://www.wltz.com/2020/06/08/study-self-driving-cars-dont-prevent-all-crashes/"
-    type: article
-    provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
-        width: 446
-        height: 213
-        isCached: true
-  - title: "IIHS: Self-driving cars might only avoid a third of crashes"
-    excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
-    publishedDateTime: 2020-06-10T13:28:00Z
-    webUrl: "https://www.repairerdrivennews.com/2020/06/10/iihs-self-driving-cars-might-only-avoid-a-third-of-crashes/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 24
-    images:
-      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2020/06/nuro-iStock-1175392532-scaled.jpg"
-        width: 2560
-        height: 1706
         isCached: true
 
 secured: "o8VgunsZSvlBUUiGBBkLGQ4YB9cVaN4t4GosQNEm0V3v9qqro87ZKBnE1lkM3wDQJBhNuc5tfVQ5Fl8ltiP6SlgGNP9w6+RTGNZkcAOKcoETB4x9b0W6XTBCJJX0R0VtKXJG8GFlBNZ/3vcD5DgQrYxRDwUFN0mZnBOm+rSnSjTGH39I9P95ekhU9HmDU5YcFkAZWw6rixfUTMVsHmRozRteme7QXhREnMlF/81RwGdDX07D6Zj3DTFuLIOIWoa76T+e7fDpu08fpH0eJuw2NvLFC9RHAvy+NkjOHdKSqxzZxLHvDC65TktrlC0fvst77MONotYMC4LL8YTSi2IfOXzgCtMZQtpQLJvQXVsPcENwKiMOtKoavV2ast5YcriEW8c3wKgn5lG8HM8d4YsHVHpSJj37SQB5ZNILJnJ+Gi/Rqhk+K65j9UcQcEps+kcSSHZv+bA0Das+CWR06TY9S2ieKUCE+sVRoBz2c2xnfOM=;MpZ7o00lhp8RF7GnT6SUgw=="

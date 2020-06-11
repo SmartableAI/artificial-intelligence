@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/google-updates-its-android-develop
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 670
     isCached: true
     title: "Google updates its Android developer tools"
+
+related:
+  - title: "Google announces major updates to Android Studio and Google Play Console"
+    excerpt: "The big news today is the official release of the first Android 11 beta, but that's not all that Google has been working on. Today, the company also"
+    publishedDateTime: 2020-06-10T17:09:00Z
+    webUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4&amp"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4&amp"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 43
+    images:
+      - url: "https://www.androidpolice.com/wp-content/uploads/2020/06/09/android-studio-hero.png"
+        width: 920
+        height: 498
+        isCached: true
 
 secured: "tpovcahLzPBJZrFGv4fJ5ISs2hmHJqEJiyxMf0jwRHUKuRbAOsppmwkcHWDas1+k+uqiyMSNC8PQVZ9AJkicSLOHRvoP47fWqFKtYB8+Adb6xILlI7a+Fn0BVPyfvNOjh7tleUJHDRcFqgm/ccGQ4qIsZ5RMIN/rPqUN4HEElGIDDJd6QqprEeTDC3Dx+JF35eWbtvaU3I7Qzsk2eEzApVniLF8r2vdm8vnG05jgY7rO92C0dCy6aF3d+QxRTAExEbGIp+0FQ2FILgqupOEhdpBRxpeXLMLwqMXzTatlCLRoQdbjifp7PrkfgN0XlWszHeAO+4uonEJe9BBMkx5LIEFnLlcUc3Ft//FdCk5bkWDwCVheFkxapUtIZkCflLTKwjYO2TnBzfSS17dZybklaC1P5dQSoWcgfAayRkK+mNGCt8mcY5EnQNXOE8Wn0LRELaZOWXeivWfbE30zd0+iy6X8KU5OXgjaOI196QBaKMDxehLmVNqmIFoDJ1FZJkst;41jI/DW7Y4pAOy/DvHrbLg=="
 ---

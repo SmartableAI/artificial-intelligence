@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
 type: article
 quality: 91
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon halts police use of its facial recognition tech"
+    excerpt: "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,"
+    publishedDateTime: 2020-06-11T09:55:00Z
+    webUrl: "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech"
+    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon bans police use of its infamous facial recognition software for a year"
     excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
     publishedDateTime: 2020-06-11T05:58:00Z
@@ -206,6 +222,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Amid Protests Against George Floyd’s Murder, Amazon Bans Police Use of Its Facial Recognition Technology For 1 Year"
+    excerpt: "In its bid to support the #BlackLivesMatter movement and in the wake of the outrage over George Floyd's murder by Minneapolis officers, Amazon announces ban of use of its face recognition tech by poli"
+    publishedDateTime: 2020-06-11T09:11:00Z
+    webUrl: "https://www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/"
+    ampWebUrl: "https://www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 37
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/03/Amazon-1.jpg"
+        width: 700
+        height: 415
+        isCached: true
   - title: "Amazon bans police use of its facial-recognition technology for a year"
     excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
     publishedDateTime: 2020-06-10T22:49:00Z
@@ -232,6 +264,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "Ir20srBFRJ/LYpx2eIDq8WWJqnTu+PWwbtZEynJ7pboKB0OucBaBE/l5vOPNv55jdP66all4V4Pdc+NmpF4ZYAY/uZKGt3CzcW1hVrj+vmzIPtYV12YTwXhGS4tt/UChlP4pz/C2ZAxhS9anx4Xy6434oLgwXBpXmLs1bKsQzTNp3poJnZ4tpJq1M4aL5iRJJxYO1PaAM6ml5qeRqRsLHIqgtC99KuCDqye4kf8zQa6mgXTvJ/vBZno0payQOWEoG/tAaqheMagd6aYWrTGBnmzI9UKe6E6OYlSRgwNJNb0dWYLZlSLy5/hlQOW3QOFVDihFpsZiRdOQugqM8Qz0u2S16yOzNQBE9rEJ2SdVm1PpDZgsqeuchCXYx6jiIMa/SZ7ompG1AEzleSMXKQ8bmdlO/UlP2F/4XMBX2fCayB+aEVZlvIuGghk6xueTybQgaNw02XsDSlVR7EHIz1QQC5p9pQnTDl6vZcpcfSM5bveUa96Oi0SOlHTkypoCUf34;cYgL8OvMphsGxsj9hoMQkQ=="
+secured: "uBvaOXA7MPqOUrodcYfqrvdyoSu5MuKeUpzPf12rpkIWNa+ozgqNLoRosKuHRvkYqzzH0XceUI66/KFHRni8CIjYr4+VkYATwDGr0yd7U/xO8NAVZ0V1udOE1hxHc8Pmaxm0xtvDR9q9b/GYnGpLjRlML13HnHRAhuQxPhUoB0nvdx16/Mjb6PwwJTWI5M3h66RVejyBMWc+cyDazfuSlwsU+ceIJEGoaSffJSGia728NUfNf5yWjc8IbhmGGBVW/maHlGHLr4HZWRt6Pc2uDhaaRcS/RB0bUh1zl6doOnItO6Qw4beye/RsQh8vuvq8H13nKsLwstWiMBnJdN1Xyq4l3hFslKKFELHeenSGqKIiVJld6x+lFn9lGHSv202796pSJVJbQcjF/q2Qj/tlXx41Dg4C2O986QPYAYOMCDHBs+rAQ7flOGTzlzVSAdcRbQJcQj5T8tUl07R1Ss8kZ+reORKbB3nIETjszvop1lItwduoKz7E9f5R9B4NxHRX;ByD7cSR+L9jB24VEnFVZ9g=="
 ---
 

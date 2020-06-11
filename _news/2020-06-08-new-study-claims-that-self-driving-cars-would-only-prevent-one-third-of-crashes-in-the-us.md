@@ -27,22 +27,6 @@ images:
     title: "New study claims that self-driving cars would only prevent one-third of crashes in the US"
 
 related:
-  - title: "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars"
-    excerpt: "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ..."
-    publishedDateTime: 2020-06-06T15:54:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars"
     excerpt: "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution."
     publishedDateTime: 2020-06-08T16:24:00Z
@@ -57,72 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Three Top Ways That Cyber-Hackers Will Criminally Make Money Off Of Self-Driving Cars"
-    excerpt: "We are all somewhat numbed by the continual announcements about cyber-hackers that have broken into an online database and stolen our personal information, oftentimes doing so via attacking credit reporting agency databases,"
-    publishedDateTime: 2020-06-08T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/08/the-three-top-ways-that-cyber-hackers-will-criminally-make-money-off-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053476626%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Self-Driving Cars May Not Be The Game Changer For Safety We Think"
-    excerpt: "Automated vehicles of the future may struggle to eliminate many crashes unless safety is prioritized over speed and convenience, according to a new report."
-    publishedDateTime: 2020-06-10T17:16:00Z
-    webUrl: "https://www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/"
-    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/06/10/self-driving-cars-may-not-be-the-game-changer-for-safety-we-think/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-  - title: "Here's Why Our Gleaming Self-Driving Future Has Been Delayed Indefinitely"
-    excerpt: "Autoweek attended a great number of these demos in the early part of the decade, and watched as developers and CEOs hedged and carefully promised everything ranging from a revolution in driving in mere years to some form of narrow use of autonomous tech in the far future once the legislative framework emerged from the dark ages and allowed for some nationwide uniformity."
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a32782600/why-level-5-autonomous-driving-has-not-happened/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32782600/why-level-5-autonomous-driving-has-not-happened/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 43
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lead-paris-saclay-autonomous-lab-new-autonomous-electric-and-shared-mobility-services-embargo-10h30-uk-150519-28-1591375164.jpg?crop=1.00xw:0.893xh;0,0.0406xh&resize=1200:*"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "Mateon Announces an Expansion to its Pharmaceutical Manufacturing AI Camera Grid by Including Contact Tracing to Ensure Worker Safety"
-    excerpt: "TracePoint vision grid will identify workers who came in contact with a sick coworker and alert operational staff. -- Mateon’s patented AI camera grid system is similar to Amazon’s technology but at a fraction of the cost."
-    publishedDateTime: 2020-06-08T09:00:00Z
-    webUrl: "https://apnews.com/8a2ca332d267671ee1c02c7e6a6420f0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
-    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
-    publishedDateTime: 2020-06-08T09:41:00Z
-    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 2
 
 secured: "gCOSsUkYP4oC4M8ssgLVtYlzMLFMgNcBIWDfBP5kHz/ONeflW1NGautJcOGgpfD2oyLBqx+P2/6inF/DhAB1MmPemC1f1IQSsKUMIJSSEFw5OPgdKfPYSs+7/h6x+LlCM8MR86DoNq2Pq0b1pj6A6gvWAcHzIOO2E5OBF3RU/jg3V1rMollWQEkwCwfiu31nVLmjcjAqVe1uwx8fMhZZL62z3nxmoG9zTT1gInsvd7Bl8QLVoR8kSWm/PEMs0tbRzhBF0mY0CliW1XJhaDKrSo5iAsMcUZ++ahJbWY+cutILC9s4lFIfjDverenqNf/wz0SQZV+jPh9xrV6W0qblHKM6o6GP0E7Z5TxWOw72GJhxxnuZdnQb2/5+Ah4uNm44sFyRZi2vD7cGp5+F8sjuzUfoB/w8CZHOp/kZudiho3QNwyzwYdvpu4pFAlov4dD8YGtSc0vhjCS3/MLDRBg+F2LsCOkmNqlqm7KccHYr1u8=;Jv1+3rNnmOYuaKGQx2YOIw=="
 ---
