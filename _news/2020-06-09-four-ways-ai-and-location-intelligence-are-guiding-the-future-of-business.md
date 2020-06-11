@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-locati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
     title: "Four Ways AI And Location Intelligence Are Guiding The Future Of Business"
 
-secured: "5A+bv1ZozAEcPWqZYTGvq/CQbUUk7RBcdoUFLCWhBGtboKH8ZqWt5BYtqWaWvMAU/vPwJzWvWFO0wcEBsBlb6FCI3PZpjcl4LJROss7hm8mBKctEkUEFo/QO32BHxPfG1cmei5TkEo1RKSpmlJDugWtXZHwSjCBKj5iMndQ6MWKhEWr7JgL9z3fMRVWcoLua3omem2d0K8CVD4iu5m0BhWlzP8qyI+O5GuV8reGGejp2AKaT1p1jchm5oeHBgYcQUIPlu9OlymE+mpM7pZvX1ezaNbyAJ3ms+Q8zWbNCXxAgC1/K8pdoXWXk527pHF3+yM9dAdQDfBVdnqKuMIuF1iqmi0ihEo++ARatmy2A17DBnPxxOnoDOHa3uFLBbuWp3+LAOhuWb2+JGCWcbm/hTus/UZPESnYVy0G/ynv1wz8QWyxBPJBM+K3bQedFJre+Kca7zDbGVKvZaEe1mbzY6UsmkJcbzr0n+lqvF5Hnl88meyJaQih66paju8pi3gD2;oRY9NLl8mYIqEyygnCmouQ=="
+related:
+  - title: "Artificial Intelligence and Intelligent Automation: What’s the difference?"
+    excerpt: "Artificial Intelligence, or ‘AI’ as it is often known, has become a buzzword used across industries, for some time now. But what does it really mean?"
+    publishedDateTime: 2020-06-11T15:30:00Z
+    webUrl: "https://www.ifsecglobal.com/smart-security/artificial-intelligence-and-intelligent-automation-whats-the-difference/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 37
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/06/artificialintelligence-20.jpg"
+        width: 770
+        height: 500
+        isCached: true
+
+secured: "MlA9ZBLm3sg6dLpv/A+l0ZgEbuRtRD76Yg5GBjA8QHJxRJe4ub1LQ9zjjv29TwD7joJpy78QNsPBwPwJn1zrIHBWOvmJxl2Eje/Ak2zsJIS9B9YkMYztLLQAh0kX1l3SwrpBEH6A3UBif8cQapPRpQUrsFkEGSH95c7kSOr9qle0Fq1F10gF6ITLKP5Fi/jtaICPtjHGVu6hJNUAqbgh4XfEusjbZfCkR01OTwFzStBLGv7ryaKGCXU+C3ImR18pmka5izVs0geO6Jh5Ty+ZWIRAkB87woRjcle3HyTi9H6DAeXnb18a96bUHtIiWGvYXfKCaPI25jq2+/bSFJ/jKwPSx4rn9/pi9dq5dQaCC5nl+J/V1BzI54TM/XnMVm1QUlry6y18gE6nXkIP9h8i3rlmqIHEnweq+YE/lX61A5RMlmy6HMm9sPzCwAY+akF2G/vaZTBUBnTiOzXNT+2DSCR8M5DD5yfHiXCaWgUbXgvReonrOdI86HBmyzDcx9bA;rTjCbG2W5QyxCjkCu/GMCQ=="
 ---
 

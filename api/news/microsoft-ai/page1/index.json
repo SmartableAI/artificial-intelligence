@@ -499,19 +499,28 @@
     {
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
-      "excerpt": "Despite the adverse impact of the novel coronavirus, AI stocks have fared relatively well. Consider the Global X Robotics & Artificial Intelligence (NASDAQ:BOTZ) ETF. For 2020, the fund has returned about 6%.",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Despite the adverse impact of the novel coronavirus, AI stocks have fared",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01?amp",
-      "publishedDateTime": "2020-06-01T12:24:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-are-looking-to-the-future-1029270022",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-that-are-looking-to-the-future-1029270022",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-that-are-looking-to-the-future-1029270022",
+      "publishedDateTime": "2020-06-01T13:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

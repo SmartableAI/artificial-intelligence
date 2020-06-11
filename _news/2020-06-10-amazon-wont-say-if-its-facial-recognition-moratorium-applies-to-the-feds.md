@@ -249,6 +249,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
+    excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
+    publishedDateTime: 2020-06-11T14:12:00Z
+    webUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 42
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
     excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."
     publishedDateTime: 2020-06-11T00:46:00Z
@@ -330,6 +346,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ZOdvEU2l/5OR8r7wiJWyC4gT0KHGJs5TgWVxf5fr3+zywleMu1vpjOZCtN72ZsW6oxA3WIdcTtmbWqD1prH7CLx2dyECx1YghoOdz9O1wAix3C0v9Ed+9zOFbBv+ERFdntaj3H4HxmNsiwVzPL41NkFsK3atclx27CIiOSpt63cXe/eiRqo/myT4pd19oppDKoqY+7Wm1uWY0vVoxheElgPuMgi58xsBkedaJlzNZPlEjRURvX7E1vq6Bov6VCm7WKnIIm5yKFPdDjYCEgcnxlY/7RyGAGOPg5jGyC179zv/OtVlHi8dT0/xgphFAQDvAw+VU8G3Dj20Idlnm8Cd4fV8VkvXkDyWuP4B41g4GeLXZfmjN/Nnq4OddsAaHaWpCrIjyTWgG5qL7RjSYPNNvoGcnT9UyI7BKqGJwsX/xv0OZF7qaD403Bul2RM/gvaF+3HHSfidJyHj57qusdUHp1TimDhwSJ7thPEuvSZznK/RcU/TgZQ9a7B5ulEuj8sr;y17HlMrRah9ymKRuK00NYg=="
+secured: "vDzKugzJsGtQu0YOqwVf+Ixgt1LkRPWBUs3r/2JmKPQ6Ql+fvKuIBzQxMBMST+ILaeffjgNOIMXhDrbGeBAFiYICg+BJbVhbqvVsSueqRyIaS8nJEoyf9FPUYs16lqsh//GTeskrc6LAb8/cMQpe1H1Xp7sF/7Hduhw/MSa/3JYnSe4Y2AUW+EiysmLC9oldPhswOz3ht5n1w91iKVt96oyA2KEmyGIWwJsxMv674jywTTvPJwb9epHUT9Qgo1rEDudqYpJScuJbXmTn5KD46xuXb6aFYL8prdtyq5C8zrcdl+K4e8CHqySt71NDD2M8qjwsMC75/+j2ZuarzpBJd9cM2fwxCXtg/6qCIuAgTzoy/4tv0qnkWVE9vCKgDzWTnsQF29GlAiG2wg8hHl9wqfI1DEQiMNjvWwa708BIZN13J80xxzu1XR8/4qcWlzHl/d/zCRgNQ4IKiM9GDU4m3nNV0+KGM2Ie/wBSV0ncdShd/jhg5N8lYWMD4vsyhPul;PSsPQc6HW0Lf7EknXU1bdQ=="
 ---
 

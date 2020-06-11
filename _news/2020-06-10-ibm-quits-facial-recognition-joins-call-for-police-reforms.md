@@ -536,6 +536,22 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Tech companies reconsider facial recognition software"
+    excerpt: "IBM says it will no longer sell or research facial recognition software, and Amazon announced a moratorium on police use of its software."
+    publishedDateTime: 2020-06-11T14:51:00Z
+    webUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/"
+    ampWebUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1161938837.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
     publishedDateTime: 2020-06-09T05:54:00Z

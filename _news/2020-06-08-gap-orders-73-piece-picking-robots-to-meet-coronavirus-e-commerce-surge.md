@@ -24,17 +24,6 @@ images:
     isCached: true
     title: "Gap orders 73 piece-picking robots to meet coronavirus e-commerce surge"
 
-related:
-  - title: "DIU looking for robots that can kill coronavirus"
-    excerpt: "The innovation unit based in Silicon Valley is looking for hardware solutions to stop the spread of the pandemic in military installations."
-    publishedDateTime: 2020-06-09T19:50:00Z
-    webUrl: "https://www.fedscoop.com/diu-robots-kill-coronavirus-hardware/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 19
-
 secured: "1P8shPcoGKWYBbXnu6hRT6Z4Ka+NBoZnbWKpX+X2kFbRyAuAn6cuGqBC/6RNgWeCdODCNRDGE5pjCIPkh+vIVMSd1enwR/7+4e6GCunq4HePeROxejdAYwmCXPTN72LK5M1ioiaEYJTO5U9CrwmUQy7/LfaRVODZv92FS28PEttgn+zEoP6T6a9C74d5sGxunclU33NDOdP78J/eEfSFORWHgSiBZ1DUHTEaf5M6gt1V+/tIFUBcGfB+5qCa9iD8ghpvcA31U6Y30n7sO7kvwF24zBLdHl+1cBofbdoGgAQ5a3zx+/KrTlt9IRZGk1FWqwCGwl6t9WGsyGYupadCSCAHNc7+LC1+fbT65fNm3xH6ZBfX21ifHKr1vwnGOLb9WYDeELWyQq0sqhZ5GD99/Ygy4u/OayIBiVmMKegnhWvNPylzzHlxkEC1g3TNlT1E9vy//kVHrATCsOfwm540N1DZaD8I7HkC7H/7aOx5wyQAsTk5c8QW93vl7QSO2pqp;iUJty6Lc7E0hmcHLsPX7UQ=="
 ---
 

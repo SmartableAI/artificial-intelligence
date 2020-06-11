@@ -91,6 +91,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
+    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
+    publishedDateTime: 2020-06-11T15:54:00Z
+    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
+        isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
     publishedDateTime: 2020-06-10T21:34:00Z
@@ -171,6 +187,38 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "PimEyes facial recognition website 'could be used by stalkers'"
+    excerpt: "A free facial recognition tool that allows people to find pictures of themselves or others from around the internet has drawn criticism from privacy campaigners. PimEyes describes itself as a privacy tool to help prevent misuse of images."
+    publishedDateTime: 2020-06-11T14:37:00Z
+    webUrl: "https://www.bbc.com/news/technology-53007510"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Amazon puts one-year moratorium on police use of facial recognition software"
+    excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
+    publishedDateTime: 2020-06-11T15:22:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-puts-one-year-moratorium-on-police-use-of-facial-recognition-software/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-puts-one-year-moratorium-on-police-use-of-facial-recognition-software/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-puts-one-year-moratorium-on-police-use-of-facial-recognition-software/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2018/05/23/0dc8c74a-31d2-4630-833a-8ac0e1a7f36f/resize/1200x/a47cd327c4dc6ffe82d70c9a26fc9051/aiface.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Amazon announces one-year pause on police use of its facial recognition tech"
     excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
     publishedDateTime: 2020-06-10T22:47:00Z
@@ -234,6 +282,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-2.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?"
+    excerpt: "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope."
+    publishedDateTime: 2020-06-11T15:27:00Z
+    webUrl: "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/"
+    ampWebUrl: "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
+        width: 630
+        height: 442
         isCached: true
   - title: "Amazon puts one-year moratorium on Rekognition facial recognition technology for police use"
     excerpt: "Amazon's bet is that the one-year moratorium will give Congress enough time to put a regulatory structure in place for the technology."
@@ -521,6 +585,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "+3MbGs5UVUO9uLKuzLKRNJdYyOIf10cL2Uf7osFMDyvDc+BhejxiUoc8qEMWjOjgHhJmbf3+qjgDG9kMJX2yBBUYDxxgeX7wYjMJqIzJC0+Ugl8wR4mwuBxdT6cvQrq0+yRsQMrv6EOpIjRthz1FMonp8W0wtFQ3CcP+MDV7AsaZj2we7BMN7wo/M0rI8iHJqd8Br7397Yl1OLAuJAhaXONb5XthJ0U5L/fXkU7Hwu7V4W38x8AEPtpNJglpf45a1Sa3nmv84tKtPA3vaWSwt1w5BDHBVSOeh6PGn8jhkqJRdDQaxVrWZa9KBsbTsfMb;N3/XmwamswONvsBX3kjtkw=="
+secured: "TQhDQK2Kqt6sgMHQSm9XXjvNR6Z0jWYEOnQ1o2ETZCYT7pHvuhccHSY3BO+r9t2Zm+5XvfFwCs+0wXR120nuSewLovWnBRGLqgb549FZ9At1m2TptDDAeT1kY2J4anakdf3fUGMiT52CdolPBZQqg3KYdIeoBiI8vb+FVoEcQT8JHqog5upAkFCditbB0/p886S20irYCyr9DX1ArllxW/+k/CDJ+NNIIhkQFd8CHhaStq1r3b2gDfny75pHYV3CDq2/6JF038PMjvQYAdFq+Ak7BP4Uzj7n9qhlzC8Fq3H2krYNk9IaNIPdV9s035URvA3at3Hy9K7v6gcfq3d5/WWcK1mR58xzEDZu6/PEiGZxJHAxbK/tRq4YpgcA+5CPmtA3Xu28apeMR5ZXFoo+57db/ZZgnnfrYL3mkoprZW+5U+Co0bYpun4VzCVicJAD+ZXkoFjNtQrMuRZNG0O83ah3y+yYomM5kJsvuhiFQiS7Vy1jgdt5MSQcX98ZdZeE;FCYj+lLuCYPJunm+U7jPzg=="
 ---
 

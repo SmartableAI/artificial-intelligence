@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     isCached: true
     title: "Sentropy raises $13 million to develop AI tools that detect online abuse"
 
-secured: "0XMbUCOG16n+ZBxr8AxnFWoVqgo0dqGJfCDNisxzjfegwiu7pQMMT1MZUTBxBKNqsiT8s9cW0GC5QKBVrMt0KnyOJUgpT0Tjr01eJfeBi1vxhAM8DHYLdUmLPcMTL7TV1r/UBF9tKeExQPaME4D9M4YikUblsXdTtQUFXagvr/MFVCRE1nB12yLseQVqZjUUPQ2hRDgYv7QuUCA569MeTULKvD0Kk3Cxv+ioC+mZMi/Af8Ph2lu1OLAUpsSvAjRjfh7bUkLDhUxMXuJrKbgQ+MpKqDVtDNI/OfUWbzYm6v1fRGKzTLGUcRlfTWkon8kW;tlWuvYlnDcEAgdppo102FQ=="
+related:
+  - title: "Enterprise automation platform JIFFY.ai raises $18 million Series A"
+    excerpt: "Enterprise automation startup JIFFY.ai announced today it has raised $18 million in Series A funding for product development and expansion into new markets around the world. The round was led by Nexus Venture Partners,"
+    publishedDateTime: 2020-06-11T14:05:00Z
+    webUrl: "https://techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/"
+    ampWebUrl: "https://techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/SS-automate-02SS-automate-02-1.jpg?w=680"
+        width: 680
+        height: 533
+        isCached: true
+
+secured: "228RAaQr3DD6LxO77Ioq837lJsZ9p0/zYdx2w+H4creXT5P0SdtXuoBEQQ6Mdc8dOqD6BmTOZnh3873ayYDAyXjm6cTa2m4soXsh6IeEIfyLKpFMJq+lthAf3PLuIIbvaDloINmdv/AEiiNBJROg0SfviDx/qIv3bS60rFlL7w1K6i0XHWVJsNxRRbKXAG0LLDXv+SxwPS//avM+obrueoUcSCgM3X3Ae8KCP7TzAqRKz1tF+22rHyOnEx3elfA+uWvp9Qd31PCZmOXAZK9CJ/q+eztUoh+oa46WMavccBIR/Ll2VCJeU8bx7XtpAa0KEw3tk/KdpS/TDQnMBcGHHrlUE0GVlYNF0djEH19AK2zOTyn9Y82aLWVAX+rk18Db+zuUx62O8KD1IS6e6LAXv7vmgO+HfV24mcEAv3EWG+N4gcIwNXeljwOhoBzUTbHe5/DW1t0j9R70DwjyQC0xgBHdNYJk9TqQ5sF9xb3NSPS8JRVHqtUB6peLRMtGVuu0;Jf9I9ygqby7GmZ9WKw6X5g=="
 ---
 

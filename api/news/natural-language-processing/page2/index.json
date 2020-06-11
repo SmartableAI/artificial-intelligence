@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more.md",
+      "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
+      "excerpt": "FlyTek’s sales approach goes against the grain of the current move by many merchants to take their business and sales online amid Covid-19",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
+      "publishedDateTime": "2020-05-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/28/bf70959a-a0c2-11ea-8055-0ae12e466049_image_hires_171312.jpg?itok=3qxBBGTj&v=1590657202",
+          "width": 1200,
+          "height": 630,
+          "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant.md",
       "title": "Google pilots voice authentication for purchases made through Google Assistant",
       "excerpt": "Google is piloting a \"new\" voice authentication method for securing purchases made via its AI Assitant. The feature, called Voice Match, has limited availability for now and is only usable with Assistant-enabled smart speakers and displays.",
@@ -1241,53 +1288,6 @@
           "width": 630,
           "height": 428,
           "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition.md",
-      "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
-      "excerpt": "NEW YORK, May 14, 2020 /PRNewswire/ -- Kensho, an S&P Global (NYSE: SPGI) company, introduced Scribe, an end-to-end speech recognition solution specifically optimized for the finance and business community.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition-2020-05-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
           "attribution": null,
           "isCached": true
         }

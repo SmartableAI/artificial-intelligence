@@ -2,6 +2,185 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
+      "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+      "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "publishedDateTime": "2020-06-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
+          "width": 1200,
+          "height": 630,
+          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
+      "title": "New machine learning approach classifies common type of brain tumor",
+      "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "publishedDateTime": "2020-06-09T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New machine learning approach classifies common type of brain tumor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
+      "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
+      "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
+      "ampWebUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
+      "publishedDateTime": "2020-06-08T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
+      "title": "Artificial intelligence chips benefit from a good night's sleep",
+      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
+      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "publishedDateTime": "2020-06-08T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence chips benefit from a good night's sleep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-stops-work-on-facial-recognition-over-human-rights-concerns.md",
       "title": "IBM stops work on facial recognition over human rights concerns",
       "excerpt": "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases.",
@@ -182,7 +361,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 435,
+      "heat": 475,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -643,7 +822,7 @@
       "path": "_news/2020-06-08-bank-of-americas-ai-robot-learns-60000-ways-to-talk-about-the-coronavirus.md",
       "title": "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus",
       "excerpt": "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,",
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
@@ -1186,184 +1365,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
-      "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-      "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
-      "ampWebUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-06-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
-      "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-06-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it.md",
-      "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-      "excerpt": "Unlike humans, computers don’t care about your race, gender, or religion: they don’t have a fragile self-esteem they need to boost by bringing other people down, and they don’t need to bond with other computers by stigmatizing certain groups of humans (or computers).",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
-      "publishedDateTime": "2020-06-06T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

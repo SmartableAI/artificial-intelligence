@@ -550,6 +550,22 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Tech companies reconsider facial recognition software"
+    excerpt: "IBM says it will no longer sell or research facial recognition software, and Amazon announced a moratorium on police use of its software."
+    publishedDateTime: 2020-06-11T14:51:00Z
+    webUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/"
+    ampWebUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1161938837.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
   - title: "About-Face: IBM to Exit and Oppose Facial Recognition Technology"
     excerpt: "International Business Machines Corp. will no longer offer general purpose facial recognition or analysis software, new Chief Executive Officer Arvind"
     publishedDateTime: 2020-06-09T05:54:00Z
@@ -652,6 +668,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "gV9ATvhoeHAYduR++psRAxyh+/WCXTboZz61jNKVoVhwxxVE2NdQNrdsF3AK+u2FkTSqjWgw86JtalHpcLcBeN/nfYt1PpgO9DryO7Itwf8q7Y+xRvfnTXCHlhNEzHiYaHzEG01KAzhLCzT44HfmMYgdD9GDgmj2mFrwManBlG8JwWfSMEFLM3jrxwBwZLXqaLPmvv+0cFx1VIQsUOYhd7I7nw4CHlm6GNrkZ66gV2fCoK93f4ta1voB4g44Qd9h0qXvLitsoHURlEHCXKGMVIH3M2eQfCe1al5ybshJpAqn8AREPRdv+atDV0DhDwD1;MubUL06agFj85ssqXykRPw=="
+secured: "3lxoB92ngX+sM12dV/MRf45/V8Y2Kogsxf2Q6iMb43Wd9On+EqtVekZsYxYggUCjMrul+FXLkWE2pfshHfpws72oS3dlEYXdt0aAd1SFs+pN25lXwZqvsKJAayvEmpJ0CwI2ffQmjjaXoGov7JFALb7T4xPJYZh4FDOV1l/RbdUgrtyan87TPE6eG0yQyD+0/fllLGbzvyG3MNYE2MPWUKRLkcw3oCkB8/KiAo59uomJwyDx4ZGtFIDCrl8d/wJtaIpGAtdHpt+aym2AaxtUh6LW8/mQUFDCt/EK9XOj2XJNa5uujxnEEb9T7+b2KU0tQUsV7zEMBZn+35d+WrNmo7H6ct3hJXmn1/aGvK4lQa1VEjeljw0bkuMRAcibXHOpcT5di3uM605U0djPfsDlU/a9gdIsLA7FfqSHDJ1d7pPQc2j4Cy04DZdrudPCrL4j4Eb2zvwKcsF4QRbK3IaFHMZWneWrnp0eFpjpRwFT7iz1IdmOXKFFSjAMC5OZfpB1;OPdalcPAld+2OyMqn1SCCQ=="
 ---
 

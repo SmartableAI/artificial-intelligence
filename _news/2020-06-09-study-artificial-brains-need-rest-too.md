@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-nee
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
+    excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
+    publishedDateTime: 2020-06-11T14:48:00Z
+    webUrl: "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/"
+    ampWebUrl: "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/"
+    cdnAmpWebUrl: "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/"
+    type: article
+    provider:
+      name: StarMag
+      domain: starctmag.com
+    quality: 58
+    images:
+      - url: "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg"
+        width: 744
+        height: 389
         isCached: true
   - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
     excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."

@@ -37,20 +37,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 65
-  - title: "Rise of Robots and AI in the Coronavirus Era"
-    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "oLp5O6s9S8IfgSj7BfaNoGxR8jFvkTcwlD+qQIE59syWpBab6djVm8DaZ4wA5S0lu6vqwLjL6V1B5/VASAsWFagVcG8UiH0Ekqv5ZK0W4zlYdrq/Z/gXBV49jLykcSgIun+1X01WKacCnwJye8jXM0o9qzZgn8GwhI8OdV2W+sxswNKNV9kio4HqYphoEXNiHPoE0YGK6mpg3UAVh3iv8IUMJDhqRrdHMYwVVmZIH5aL8mv2082EwE2nfO+ig1YHB7ixxITzAsZpd+f2GU8IXboKZgOSESsSoa9OS/xEdnTrWtTJikoQ2wdLefdmh6OKIHEQMiEUKQYiw6X3M1IXPlBHGHdtCaU2MSj95TE90VgmJLVB912fpIsyv2qhmOPixw2dn+YElVetsKgV9swQ1bYj7hsQvyfhat7Z3i/BYnYY5+cdY0VY33qtEqt7i8+JWhnvPTsFQXyyKVidj5Sp6OmbJxm05UiL/K84Ed+0JknFrLoq6RZQdlZXQ7APPyhH;zjeOwR04su6Sq71m6y/z4g=="
 ---
