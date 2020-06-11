@@ -2,6 +2,44 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
+      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "publishedDateTime": "2020-05-18T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
       "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
       "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
@@ -1089,53 +1127,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
-      "title": "Using AI to predict retinal disease progression",
-      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
-          "width": 512,
-          "height": 288,
-          "title": "Using AI to predict retinal disease progression",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,53 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
+      "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
+      "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/351348",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351348",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351348",
+      "publishedDateTime": "2020-06-01T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591031101-Webpnet-compress-image43.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
       "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
       "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
@@ -1070,53 +1117,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025.md",
-      "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
-      "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

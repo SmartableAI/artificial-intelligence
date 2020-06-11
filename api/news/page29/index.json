@@ -2,6 +2,44 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-05-15-ltn-global-named-advanced-tech-partner-in-aws-partner-network.md",
+      "title": "LTN Global Named Advanced Tech Partner In AWS Partner Network",
+      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help simplify and speed up news and sports productions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://tvnewscheck.com/article/249000/ltn-global-named-advanced-tech-partner-in-aws-partner-network/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV NewsCheck",
+        "domain": "tvnewscheck.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png",
+          "width": 581,
+          "height": 201,
+          "title": "LTN Global Named Advanced Tech Partner In AWS Partner Network",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
       "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
       "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
@@ -1039,53 +1077,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera.md",
-      "title": "Sony integrates image sensor with an AI chip for a smarter camera",
-      "excerpt": "Sony has announced an image sensor with artificial intelligence processing, calling it an intelligent image system for smarter cameras. The processor will make for faster data transmission, better security and less power consumption,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
-      "publishedDateTime": "2020-05-14T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Sony integrates image sensor with an AI chip for a smarter camera",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,44 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-05-12-port-automation-technology-demonstrated-by-cosco.md",
+      "title": "Port Automation Technology Demonstrated by Cosco",
+      "excerpt": "The successful trial runs of a new automated driverless container truck operating on a 5G platform illustrated yet again the opportunities for port automation. The technology, which is being developed jointly by Cosco Shipping Ports Limited,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "width": 643,
+          "height": 361,
+          "title": "Port Automation Technology Demonstrated by Cosco",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
       "title": "Australia wins AI 'Eurovision Song Contest'",
       "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
@@ -1269,52 +1307,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
-      "title": "Cheat sheet: A comprehensive guide to AI terminology",
-      "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "publishedDateTime": "2020-05-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Cheat sheet: A comprehensive guide to AI terminology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

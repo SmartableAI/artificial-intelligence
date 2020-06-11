@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
+      "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
+      "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
+      "ampWebUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
+      "publishedDateTime": "2020-06-04T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-BA60516.jpg?w=1024",
+          "width": 1024,
+          "height": 770,
+          "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025.md",
       "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
       "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
@@ -1059,52 +1105,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data.md",
-      "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
-      "excerpt": "Network analytics-based data discovery startup 1touch.io today emerged from stealth with $14 million in funding. The company, whose products are designed to help enterprises automatically and continuously identify repositories that process,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
-      "publishedDateTime": "2020-06-03T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/1touch-io-e1590687948124.jpg?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

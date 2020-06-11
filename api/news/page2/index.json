@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-10-ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained.md",
+      "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+      "excerpt": "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
+          "width": 1200,
+          "height": 600,
+          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
       "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
       "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
@@ -1068,52 +1116,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
-      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "publishedDateTime": "2020-06-09T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
-          "width": 2000,
-          "height": 1333,
-          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

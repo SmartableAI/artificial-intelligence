@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Amazon bans police use of its face recognition tech for 1 year"
+    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
+    publishedDateTime: 2020-06-11T11:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "0BQBEX8sCfmUuZ/1YSaw648Cs0hoMUAxgc2R63v3anM/9sDkaLtgBo8DD6z660Jw4jfxgEEPuV3nNHIiAhz2vymCFE+FktUU4g4HFwDeRT2m8+EE7l67ogGZdtOBF5C77Hoihvuq1zED6rtl7xHfUz6rhkDY0bD2iIOjr/SVDYuUN0Ill5f7Lac9jvOKMzTXhKxrDdy4ZtmG9/zgRYyLsNO0kOZbis50SebUBBGJShoWk/3uD1FRpp0hjLW3bJXvz/H2HM3f7MGTAc0se+NQIxn3RBULtBnZ4rYC5eTO/5uT1N+4mHEwUzUl7x2jO/+R5BnDPlH2PG916NYnK82abQEWq7o534wjm7kzkuXsqPnclBSQ/c24itLbXyJHw73aYouDuO39fIOR944cJJE0DbJFTOZmULhDPju2LwBvttU42pOz7sLZbcTHJZOo2AAr2xrYkfgXaWmEXKZFg8grWAE2zs7SRHckqWpXuF8CkxQhHnZo/nhAeqfX4tpI3mpO;K9CnxssAg7VGO5TXkcNbTA=="
 ---

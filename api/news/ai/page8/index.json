@@ -2,6 +2,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers.md",
+      "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
+      "excerpt": "A wide variety of food options may be available at a self-serve salad bar (Image source: Benjamin Ashton on Unsplash) In fact, this activity at a regular checkout can easily take 16 seconds or more (see Proppos: Computer Vision Self-Checkout).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5ed522170cb2e-Picture1.png",
+          "width": 804,
+          "height": 479,
+          "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
       "title": "Amazon Textract is now SOC and ISO compliant",
       "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
@@ -1293,44 +1331,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster.md",
-      "title": "AI Startup Combines Mouse Neurons With Silicon Chips To Make Computers Smarter, Faster",
-      "excerpt": "There aren’t many computer chips that you have to build a life support system for. But when you’re combining actual living brain cells with inorganic silicon chips, you can’t feed them just electricity.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
-      "publishedDateTime": "2020-05-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

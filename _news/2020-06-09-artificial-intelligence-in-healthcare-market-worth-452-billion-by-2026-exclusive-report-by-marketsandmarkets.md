@@ -141,6 +141,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
+    excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-06-10T12:43:00Z
+    webUrl: "https://www.openpr.com/news/2071607/covid-19-impact-on-artificial-intelligence-in"
+    ampWebUrl: "https://www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "o80Y7TNlcCpZkDL+QFQZRp6ZJX5pIjrNhXEQ84l3DflSBbdd0ZUJss3Cr5lQRaUApnjWUgfpyuoDi8Wg4omrpFPLK3BipOpsXcPhG54GOOBvt7k05RX6tzzSEaCkN5zlzqzw+aSaIHKE/mUWa0c7iAk4hebEMD798zzMnLCNhNsT2jy0TOS1BHu99bpKvg6OLMS7k0kDMZYSlJN1w3oaKkbZZqSg+SbK+VCYTNUr3awR1B8izedJw5IZI+3Re7wJx1y+ZVvWrSMNaXi2fAYRwTqNeFQDABxsGucgn4oSGbknQMO31AWLxR++KuF8VJK4;RUhgndwK8IErTisrtRkAUQ=="
 ---

@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report.md",
+      "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
+      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-06-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads.md",
       "title": "Dell Technologies launches new HPC systems to boost AI workloads",
       "excerpt": "Dell EMC Ready Solutions for vHPC are capable of delivering up to 18 times faster AI model development, says Forrester",
@@ -1060,53 +1107,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
-      "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-      "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351348",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351348",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351348",
-      "publishedDateTime": "2020-06-01T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591031101-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

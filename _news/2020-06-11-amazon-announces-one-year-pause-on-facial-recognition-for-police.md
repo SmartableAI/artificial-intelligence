@@ -279,9 +279,9 @@ related:
   - title: "Amazon pauses police use of its facial recognition software for year"
     excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
     publishedDateTime: 2020-06-10T23:46:00Z
-    webUrl: "https://www.cbsnews.com/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
+    webUrl: "https://www.cbsnews.com/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
     type: article
     provider:
       name: CBS News
@@ -372,21 +372,21 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition software"
-    excerpt: "Amazon said Wednesday that it was putting a one-year pause on letting police use its facial recognition tool, in a major sign of the growing concerns that the technology may lead to unfair treatment of African Americans."
-    publishedDateTime: 2020-06-11T01:02:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html"
-    ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
+  - title: "Amazon bans police use of its facial recognition technology for one year"
+    excerpt: "NEW YORK (AP) — Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T10:12:00Z
+    webUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.html"
+    ampWebUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
+    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 44
+      name: KMOV
+      domain: kmov.com
+    quality: 43
     images:
-      - url: "https://www.mcall.com/resizer/UD81TG1bKzYtoVNQyX1L2a7UulA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A7JNP4O5J5GVRMO32SGIVBEN6U.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/d/7a/d7a60a10-ae69-5f50-9250-3c9e62e3e97c/5e871e78e6b06.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
@@ -472,6 +472,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Amazon Pauses Police Use of Its Facial Recognition Software"
+    excerpt: "Answering widespread demands for new curbs on aggressive policing in the wake of George Floyd's killing, Amazon is halting law enforcement use of its facial recognition platform for one year, the company said Wednesday."
+    publishedDateTime: 2020-06-11T11:25:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21141770/amazon-pauses-police-use-of-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 4
 
 secured: "QKnoX0hxi1NBdDVssP0zhpISPczO9zxtJk2rkYmC+uWSUH0WSvLI4H6ET9tWRZsJwxlm2OJDouImUkUy26Ty1xBoB8wowOtt7uicaRYMQGKLyzHyHZq0QYiO/iBR2tJ1LnKkcjSEeYsBC8Z0MKjleXjYDcNulWn5X5BRiG0zcC/l82Rw2V8qj08ZSUqMQx8RdU/DI4ljfeiS/kWA2VVoHaJmfWGtFcZ+jkK2jH+zKjItozWMxhesw5WIT9fZJFLQ/ZJTjsBKOiNbUATRzxkOi/qI4p4S7kAT0ZQoFcPjuHZVHO4qZK7tlfLYSEvqC8Kr1iMXgwge9jsnmUXAhSWsgqhULFhWjlROts/DYb/Vl0tjvFt7iXplfTm6X5Z3Uo7cX4eFIpassdMTQtM7YWal7dcayLzlTYH/GENTy7Cod/qtobzybRcOoSqV5pSolJXBYgywlukssWCxrVMqJKz8S+ovPNxtqLNadyf1EC/pVZ9N1R8WN9jopOnW4oaFpgW+;u6P2HkmsPKo8pnYhBTk18w=="
 ---

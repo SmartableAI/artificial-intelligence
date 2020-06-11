@@ -2,6 +2,45 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
@@ -1076,53 +1115,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-can-ai-improve-sales-and-support.md",
-      "title": "How Can AI Improve Sales And Support?",
-      "excerpt": "No matter which route you choose, you should aim to create or purchase a scalable platform that enables your business to implement data-driven decision-making wherever possible.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "publishedDateTime": "2020-05-04T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-77.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Can AI Improve Sales And Support?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

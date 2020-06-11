@@ -164,6 +164,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
+    excerpt: "\"Rekognition\" has been shown time and time again to be ineffective and biased. Rather than shelving it altogether, Amazon is putting a one-year moratorium on police use of it."
+    publishedDateTime: 2020-06-11T10:15:00Z
+    webUrl: "https://www.vice.com/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 70
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5ee156a9329d2500bd1ab495/lede/1591826437188-Screen-Shot-2020-06-10-at-55950-PM.png?crop=1xw:0.9538973384030418xh;center,center"
+        width: 2676
+        height: 1505
+        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z
@@ -226,6 +242,17 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
+    excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."
+    publishedDateTime: 2020-06-11T00:46:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a"
+    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 37
   - title: "Amid Protests Against George Floyd’s Murder, Amazon Bans Police Use of Its Facial Recognition Technology For 1 Year"
     excerpt: "In its bid to support the #BlackLivesMatter movement and in the wake of the outrage over George Floyd's murder by Minneapolis officers, Amazon announces ban of use of its face recognition tech by poli"
     publishedDateTime: 2020-06-11T09:11:00Z

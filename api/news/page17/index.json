@@ -2,6 +2,52 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-25-an-ai-beat-humans-in-a-selfie-personality-test.md",
+      "title": "An AI beat humans in a selfie personality test",
+      "excerpt": "Another study has found that artificial intelligence is able to beat humans — this time it involves judging selfies to determine the subject’s personality traits. The machine was best",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/",
+      "ampWebUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
+      "publishedDateTime": "2020-05-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/robot_hand_main_uns.jpg",
+          "width": 1437,
+          "height": 800,
+          "title": "An AI beat humans in a selfie personality test",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
       "title": "Why robots will need humans in the future",
       "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
@@ -1045,53 +1091,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
-      "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-      "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "publishedDateTime": "2020-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
-          "width": 600,
-          "height": 350,
-          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

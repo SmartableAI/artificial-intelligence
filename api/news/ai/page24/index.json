@@ -2,6 +2,36 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
+      "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
+      "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
       "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
       "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
@@ -1253,53 +1283,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
-      "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
-      "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
-      "publishedDateTime": "2020-05-14T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg",
-          "width": 630,
-          "height": 428,
-          "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,53 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-01-artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025.md",
+      "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+      "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread.md",
       "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
       "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
@@ -1055,53 +1102,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-the-need-for-speed-faster-ai-adoption-requires-a-new-plan.md",
-      "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-      "excerpt": "As companies look to leverage more AI, better planning will be a critical requirement. A look at what businesses should do to move forward with their AI strategies.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
-      "publishedDateTime": "2020-05-29T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed161661234f60007ce1e59%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

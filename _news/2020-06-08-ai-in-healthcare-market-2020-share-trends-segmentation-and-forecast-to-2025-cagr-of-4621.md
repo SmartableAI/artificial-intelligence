@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -147,6 +147,17 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
+  - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
+    excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-06-10T12:43:00Z
+    webUrl: "https://www.openpr.com/news/2071607/covid-19-impact-on-artificial-intelligence-in"
+    ampWebUrl: "https://www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "aOWHEwBb/zYZkYWzMw+79bOzPc/htCx+tSP290WgUwGtaRd7NVoU0O5u1aeKUa7N6msX7NB2dyCN3z7v/noGiYbfgUZlAgZiqk0uK0NCWSG/7DyFbOlw3c6FuL99xm7qfUFtqBLj4I7/mpHWemce+FSvkB0+w857cTeAZ4Z2fDHGotIFl1GEGAirZ7DmQ7aqgy8L5lh9Q7Ui0EOKRyys4njlKeKMPHWMzjm57VnO6HdXP03wQOFg9ToagHp9Dhc3GvTjQrGtlDCdu1bCwxTzz9LnQhW0v+Fho0yXIDLBQYjsJCVLm4+ZvSG57DmAldLm;uoYs2MUUTtUexl7dx12GGA=="
 ---

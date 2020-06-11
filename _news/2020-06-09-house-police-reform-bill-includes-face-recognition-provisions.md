@@ -80,6 +80,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Amazon bans police use of its face recognition tech for 1 year"
+    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
+    publishedDateTime: 2020-06-11T11:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "gAMOa1Y/lqX/x2nrQlJgvcYF63MF8v1vlcdJJ462OfQhIB7OPtFzBOYVV49fgD/+x/yIi+pwdByCag/VCmzbn1B8WTnmvQ8+F6BuoQvOsJG5DRex07HHPkd8GOMDxsvPMOO/PwppkyVzrIpaaZQMG6ovL3mYYER/QSe4BfbGoMvNuAouWOrW6sGHvXSdHSqMUnJLiUiNEqSbJC8E1wF9Znx3drX713gqmM7xUkleQFttPRzjhPYT2mQ3Grz9Mo9EhXTc/nH6rr9d6Jo5TjEPzx1Krz6vLvQoU9O7Xk8gmnkT39T7mASfZ+gKCicg8kbEdruVtJIXIc6JwoLclonce76EcxyTTfAUioK91Bwa7lg97Zgv/vQBEIuu6YOwyeFpDOIz2pyUsN3q+exp2wkZo3PHUfclCL3CYj78wF+6fB+8gNfQwkOBx65aYG5SQSMe6SWoebDgo4zbhLkYo1s2hYzEgub31Ez9fOp/eL93LoY=;j9ug+1Qkl0AFV+5wDc1oiA=="
 ---

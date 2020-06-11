@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
+      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "publishedDateTime": "2020-06-08T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
       "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
       "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
@@ -51,7 +97,7 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 395,
+      "heat": 405,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
@@ -782,7 +828,7 @@
       "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
       "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
@@ -1326,53 +1372,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
-      "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-      "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-06-06T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

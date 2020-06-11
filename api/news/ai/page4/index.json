@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
+      "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
+      "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-06T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
       "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
       "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
@@ -1086,13 +1133,13 @@
     {
       "path": "_news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show.md",
       "title": "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show",
-      "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream the first 3D Virtual Fashion Show since the coronavirus pandemic forced the fashion industry online.",
+      "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/",
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
       "publishedDateTime": "2020-06-04T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1297,44 +1344,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
-      "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
-      "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

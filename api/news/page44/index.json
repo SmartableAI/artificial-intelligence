@@ -2,6 +2,44 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-05-05-microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value.md",
+      "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
+      "excerpt": "Microsoft Azure IoT and Cisco IoT, industrial IoT market leaders, they have decided to team up to share the availability of an integrated Azure IoT solution, that provides the necessary software, hardware,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/05/microsoft.png",
+          "width": 929,
+          "height": 523,
+          "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-global-natural-language-processing-market-2020-to-2025-ensemble-of-nlp-systems-to-boost-phenotyping-capabilities-presents-opportunities.md",
       "title": "Global Natural Language Processing Market (2020 to 2025) - Ensemble of NLP Systems to Boost Phenotyping Capabilities Presents Opportunities",
       "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",
@@ -1034,45 +1072,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
-      "title": "Let’s Make a Deal With Our Robot Overlords",
-      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "publishedDateTime": "2020-05-04T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

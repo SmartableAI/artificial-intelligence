@@ -2,6 +2,53 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
+      "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+      "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "publishedDateTime": "2020-05-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
       "title": "Apple buys machine-learning startup to improve data used in Siri",
       "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
@@ -1031,44 +1078,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
-      "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
-      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "publishedDateTime": "2020-05-28T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

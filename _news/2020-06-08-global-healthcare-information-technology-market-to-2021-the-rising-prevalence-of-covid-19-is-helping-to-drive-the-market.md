@@ -141,6 +141,17 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
+  - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
+    excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-06-10T12:43:00Z
+    webUrl: "https://www.openpr.com/news/2071607/covid-19-impact-on-artificial-intelligence-in"
+    ampWebUrl: "https://www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "MJOCKO7B5nMyrwT7ZkA1iH6GY/q0dKfmxagaAMLaVNW0r4bUgH7gSfbpJsLz6PL3w74Pj5q/qlA56hm5YeFzg6eBUlAgWqofMO6kg6wJLDjkZQ52Tfm9cxUFPo39HmN7PgjW5kHjtRMfzvWLLYarcMFxm8sAvWn4uhvAUS9wzB5ayLVu9QSFVTJZYq+vJL5Q8Ea2Sf8u/hl4vKjalSAIft2RF8tOmkFAZ4jn3W2USDMhN6dXx1bBllJt+7xFaKr9y1dvGmcYL63RB0sUQ+12ZxIm04i0t6nkAyawE+PdS0i+4UDBTsxv5Pr1r2JWSNPc;o5GiUqwdeKbZssll1cKQnQ=="
 ---

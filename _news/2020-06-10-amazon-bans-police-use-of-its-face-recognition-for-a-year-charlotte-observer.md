@@ -77,6 +77,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 41
+  - title: "Amazon bans police use of its face recognition tech for 1 year"
+    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
+    publishedDateTime: 2020-06-11T11:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "3KQHWHX+QsZ0P+XX0N75VgHVY24oRQErOuZ88d95H0UGWeHihwXb4v0KSP62uAl0B6/mDrm9sn6ZidpdxS99rVbaMpyuqWxXtd5YGMGDcy2bBFx/w7BV3UfH7NacWijak5HqxlfCuqdpd3CZAnZAHSJIiLOBES0iAl/WnsgkqlE+7Q/XLNUfwWeOirMZaa38MX2yHx57sf9sFt6Ajsd0IPvQRLS46K/1PaSbnzj5w9mZE5ViHR2UDpxJfYniWepGnaj0AwKVK3ktCjXdm1aiqg44ndn+HFc0xtHpswuzzGLaYBdsQ3APqrGgdF7j9to1HgARRDWN056B6a7sc3Q629MMYFUmmX/0X6V8DD8KAbZGCQTDjSunSSsVizTzUosptCG0WfxyhU+RzW3TSzFS/KU965ZVuTEJLr6vMm5pZ6wQCYxszvTp//9nNM7VOYWBbe4Cmq1wyG/0Qt0gO0q/BFUh/LxydcZ+EWhK7DU6ximMW3FNwxkwXxvw8c3sz1tz;I8iqSMhRTbir8IolcA8yFA=="
 ---

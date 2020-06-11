@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-09-four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business.md",
+      "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
+      "excerpt": "AI alone is not enough. Executives are already seeing that machine learning programs require real-world context to connect AI with the physical world, and that bridge is location intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
+      "publishedDateTime": "2020-06-09T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edfded8a1823e0006af20f5%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D1200%26cropY1%3D94%26cropY2%3D694",
+          "width": 1066,
+          "height": 601,
+          "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-will-no-longer-offer-facial-recognition-software-to-law-enforcement.md",
       "title": "IBM will no longer offer facial recognition software to law enforcement",
       "excerpt": "Artificial intelligence powerhouse IBM has had it with law enforcement's misuse of facial recognition technology. In a letter to Congress this week, IBM CEO Arvind Krishna outlined the different ways the tech company intends to address racial injustice and police abuse.",
@@ -1303,52 +1349,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
-      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "publishedDateTime": "2020-06-08T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

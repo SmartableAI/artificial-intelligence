@@ -2,6 +2,44 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
+      "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
+      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "publishedDateTime": "2020-05-28T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
       "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
@@ -994,53 +1032,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
-      "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-      "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "publishedDateTime": "2020-05-27T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg",
-          "width": 1260,
-          "height": 840,
-          "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

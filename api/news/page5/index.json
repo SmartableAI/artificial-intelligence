@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
+      "title": "Coding with R on Amazon SageMaker notebook instances",
+      "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T09:48:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
+          "width": 500,
+          "height": 398,
+          "title": "Coding with R on Amazon SageMaker notebook instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits.md",
       "title": "Amazon’s new AI technique lets users virtually try on outfits",
       "excerpt": "In new papers, Amazon researchers propose techniques that let users virtually try on apparel and fine items that complement their wardrobe.",
@@ -635,13 +682,13 @@
     {
       "path": "_news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show.md",
       "title": "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show",
-      "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream the first 3D Virtual Fashion Show since the coronavirus pandemic forced the fashion industry online.",
+      "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/amp/",
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
       "publishedDateTime": "2020-06-04T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1060,52 +1107,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
-      "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-      "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
-      "ampWebUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "publishedDateTime": "2020-06-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-BA60516.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
