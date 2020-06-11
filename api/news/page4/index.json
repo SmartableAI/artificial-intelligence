@@ -462,7 +462,7 @@
       "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
       "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
       "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
@@ -588,6 +588,44 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
+      "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
+      "excerpt": "(Reuters) - Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-06-05/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1077,54 +1115,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi.md",
-      "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
-      "excerpt": "A Novel of the Real Robotic Revolution is a technothriller that follows the hunt for a terrorist through the streets of a future Washington, DC. More than 300 factual explanations and predictions (with endnotes) are baked into the story,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/",
-      "ampWebUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
-      "publishedDateTime": "2020-06-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg",
-          "width": 2400,
-          "height": 1621,
-          "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

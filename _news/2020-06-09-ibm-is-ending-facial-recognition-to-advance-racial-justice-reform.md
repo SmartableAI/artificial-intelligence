@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Amazon issues 12-month ban on police use of facial recognition"
+    excerpt: "After years of criticism from privacy activists, the company will stop law enforcement from using its Rekognition tool to give Congress time to develop regulations."
+    publishedDateTime: 2020-06-10T23:46:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1229601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1229601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 91
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg"
+        width: 2500
+        height: 1690
+        isCached: true
   - title: "IBM to withdraw from the facial recognition market"
     excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
     publishedDateTime: 2020-06-08T23:49:00Z
@@ -219,6 +235,22 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Amazon Is Suspending Police Use Of Its Facial Recognition Tech For One Year"
+    excerpt: "Amazon said in a blog post Wednesday that it would be implementing a one-year suspension on law enforcement use of Rekognition, the company’s facial recognition technology. The move comes during a national moment of protests against police brutality,"
+    publishedDateTime: 2020-06-10T22:51:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/amazon-suspending-facial-recognition-police"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-suspending-facial-recognition-police"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-suspending-facial-recognition-police"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 87
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/10/1/campaign_images/ba8118d67a7c/lawmakers-call-for-halt-to-covert-surveillance-of-2-1067-1591752377-17_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "The influential project that sparked the end of IBM’s facial recognition program"
     excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."

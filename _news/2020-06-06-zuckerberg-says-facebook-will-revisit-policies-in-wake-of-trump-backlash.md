@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-say
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of t
 publishedDateTime: 2020-06-10T20:08:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image"
@@ -46,6 +47,6 @@ related:
         height: 800
         isCached: true
 
-secured: "H528RfX6dGUl/r7kAyowKmuVnRr75IvN9FuTSRxQev8LWTW3wNpwCzZIq58y0zfInc+soNkQ3M3HFAGqJrRO9m82IV/NpRfJbdwj9llxOrk3Nz1rJsjB8THgZ+1MM4yDRhnB5sY94vVkFw7eskuTKimifi4B8bRIE/M95cMjfBmyA37kWBJ+4CYQEO9EWAkdkX3nnG88fSSGKkPIGqO6nmN8cXbBkGN/M+v3Jtrs2/W433X8YeRIVyIskf+qA8EzrHrFMbC0PybYJ2rkg1j74niss6GLtRStoF4wGIvCgUcOLoqi1smtj8le+VpRVJgH;nnNaUZKdyPURLAEbB28/Tw=="
+secured: "bIDzE04JjlMa2q5TjM/hVg1L3MvhMiL4fVzvhPVWH+wEanB5cs/yngPinrP3rI/CRbs3VAJe4yMd9vMdFfOZrMK5aWNlCu3O32paYQkK6naivh5IkfVlLaN0QauFsdK1PurjweAcZJ2LbG7j2VIZfOrTeODWavMsOD74ZL1RPHsr8yIdfTt6eQX/W7m8vRx4XWRAw+R2UPpfK34KxRTXYphHT8qsVJgFTKqBo0HL4Krfg7g0q8og+3kX+V5aqqDryh3Q9E7K1or1z/k6ROsKpxe0aI8VsgJqMYBmAeXsEjdZ/WuVZNkUJPO8oIHw0Yks/NcqdblLghy72ZKPd+5sTRmywCUw2qERw5SC5MiUFKpgIk+a1xCBMlNtQqB8beqKr50mFOOqrFx08q7EzApZNNXAr8B7aGSZvlDEHnG0NXcnjcLQZDcE9PNTk2WTVMF0R76i3+7q3fNcWqPDu+my+LgjpQyvE6LVwC4Sq3QQJk7ZJjibrbD/a3l/63SRtF5b;aLLehx8JutKRwSZjwJ/uEA=="
 ---
 

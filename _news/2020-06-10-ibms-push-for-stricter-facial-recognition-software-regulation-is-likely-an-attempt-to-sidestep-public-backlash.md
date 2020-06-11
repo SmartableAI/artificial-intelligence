@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM won’t develop facial recognition tech for mass surveillance anymore"
-    excerpt: "IBM said yesterday that it won’t offer or develop general-purpose facial recognition technology to encourage responsible usage of tech by law enforcement. The company has been a big player in the field for years offering several solutions."
-    publishedDateTime: 2020-06-09T06:31:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/ibm-wont-develop-facial-recognition-tech-for-mass-surveillance-anymore/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/IBM-Facial-recognition-796x418.jpg"
-        width: 796
-        height: 418
-        isCached: true
   - title: "IBM is canceling its facial recognition programs"
     excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T21:17:00Z

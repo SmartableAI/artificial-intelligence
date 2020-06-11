@@ -2,6 +2,100 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
+      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
+      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
+      "publishedDateTime": "2020-05-19T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
+          "width": 1024,
+          "height": 652,
+          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
+      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world.md",
       "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
       "excerpt": "Microsoft says it has created one of the world’s top supercomputers for the exclusive use of OpenAI, the San Francisco-based artificial intelligence company pursuing breakthroughs in",
@@ -1197,92 +1291,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
-      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "publishedDateTime": "2020-05-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
-          "width": 800,
-          "height": 408,
-          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

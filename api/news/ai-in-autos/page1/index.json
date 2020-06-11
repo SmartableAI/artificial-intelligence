@@ -87,6 +87,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
+      "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
+      "excerpt": "(Reuters) - Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-06-05/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-self-driving-cars-likely-wont-prevent-every-car-crash-study-says.md",
       "title": "Self-driving cars likely won't prevent every car crash, study says",
       "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry.",
@@ -300,7 +338,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1254,53 +1293,6 @@
           "width": 512,
           "height": 512,
           "title": "U.S. joins G7 artificial intelligence group to counter China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
-      "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
-      "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
-      "publishedDateTime": "2020-05-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
           "attribution": null,
           "isCached": true
         }

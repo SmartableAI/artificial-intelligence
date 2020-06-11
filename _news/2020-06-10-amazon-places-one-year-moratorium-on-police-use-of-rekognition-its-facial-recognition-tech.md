@@ -1,0 +1,338 @@
+---
+category: news
+title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
+excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
+publishedDateTime: 2020-06-10T22:45:00Z
+webUrl: "https://www.thestreet.com/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: TheStreet.com
+  domain: thestreet.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://content.jwplatform.com/thumbs/pnoedQhp-720.jpg"
+    width: 720
+    height: 406
+    isCached: true
+    title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
+
+related:
+  - title: "Senator fears Clearview AI facial recognition could be used on protesters"
+    excerpt: "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies."
+    publishedDateTime: 2020-06-08T21:16:00Z
+    webUrl: "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 105
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Amazon Pauses Police Use of Its Facial Recognition Software"
+    excerpt: "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology."
+    publishedDateTime: 2020-06-10T22:11:00Z
+    webUrl: "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html"
+    ampWebUrl: "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 91
+    images:
+      - url: "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Amazon bans police use of facial recognition technology for one year"
+    excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
+    publishedDateTime: 2020-06-10T21:34:00Z
+    webUrl: "https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104617474-GettyImages-813883120-bezos.jpg?v=1591825130"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Amazon pauses police use of facial recognition tech for a year"
+    excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, reversing its long-time support of selling the technology to law enforcement."
+    publishedDateTime: 2020-06-10T22:56:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521826553&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Amazon places 'moratorium' on police use of its facial recognition tech"
+    excerpt: "Amazon will put a 'moratorium' on use of its Rekognition facial recognition tech to give Congress time to implement new ethics laws."
+    publishedDateTime: 2020-06-10T21:50:00Z
+    webUrl: "https://www.engadget.com/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    ampWebUrl: "https://www.engadget.com/amp/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-moratorium-on-rekognition-use-by-police-214316554.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F31334610-ab62-11ea-9fbb-a4dca49ee546&client=amp-blogside-v2&signature=d5b85a3cd5ee2facec16245aaf540aa39c16c2d0"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Amazon announces one-year pause on police use of its facial recognition tech"
+    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
+    publishedDateTime: 2020-06-10T22:47:00Z
+    webUrl: "https://www.cnet.com/news/amazon-announces-one-year-pause-on-facial-recognition-for-police/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-announces-one-year-pause-on-facial-recognition-for-police/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-announces-one-year-pause-on-facial-recognition-for-police/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/u1UHXAM9bGayclAZemteaCXUML8=/756x567/2018/05/22/c586ad20-a7db-42a8-ac2a-3cce54926dbb/screen-shot-2018-05-22-at-10-20-57-am.png"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Amazon bans police from using its facial recognition technology for the next year"
+    excerpt: "Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday. The news comes just two days after IBM said it would no longer offer,"
+    publishedDateTime: 2020-06-10T21:42:00Z
+    webUrl: "https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Amazon bans police use of facial recognition software for one year amid protests"
+    excerpt: "Amazon will ban police use of facial recognition software for one year, in an abrupt reversal that shows how quickly the dynamics of law enforcement technology are shifting. Police use of"
+    publishedDateTime: 2020-06-10T22:01:00Z
+    webUrl: "https://www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/"
+    ampWebUrl: "https://www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 84
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/IMG_3773-630x473.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "Amazon imposes one-year moratorium on police use of its facial recognition technology"
+    excerpt: "Amazon will impose a one-year moratorium on facial recognition software contracts with police, technology known for race and gender bias."
+    publishedDateTime: 2020-06-10T22:15:00Z
+    webUrl: "https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/"
+    ampWebUrl: "https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-2.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon puts one-year moratorium on Rekognition facial recognition technology for police use"
+    excerpt: "Amazon's bet is that the one-year moratorium will give Congress enough time to put a regulatory structure in place for the technology."
+    publishedDateTime: 2020-06-10T22:06:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/09/742e847c-ad53-4e81-a404-0e46b9c52af6/thumbnail/1200x675/b4649c139d2b6879892f35f3f102f43f/domino-layers.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Markey Presses Clearview AI on Facial Recognition"
+    excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
+    publishedDateTime: 2020-06-08T14:17:00Z
+    webUrl: "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition"
+    ampWebUrl: "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
+    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
+    type: article
+    provider:
+      name: Multichannel News
+      domain: multichannel.com
+    quality: 76
+    images:
+      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Amazon Won’t Let Police Use Its Facial Recognition Technology For One Year"
+    excerpt: "The moratorium comes as civil rights activists have criticized Amazon in the wake of the George Floyd protests."
+    publishedDateTime: 2020-06-10T22:22:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/06/10/amazon-wont-let-police-use-its-facial-recognition-technology-for-one-year/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/06/10/amazon-wont-let-police-use-its-facial-recognition-technology-for-one-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/06/10/amazon-wont-let-police-use-its-facial-recognition-technology-for-one-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+  - title: "Amazon pauses police use of its facial recognition software for year"
+    excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
+    publishedDateTime: 2020-06-10T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-pauses-police-use-of-its-facial-recognition-software-rekognition-for-year/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senator presses controversial facial recognition company on use on protesters"
+    excerpt: "Sen."
+    publishedDateTime: 2020-06-08T21:35:00Z
+    webUrl: "https://thehill.com/policy/technology/501707-senator-presses-controversial-facial-recognition-company-on-usage-at"
+    ampWebUrl: "https://thehill.com/policy/technology/501707-senator-presses-controversial-facial-recognition-company-on-usage-at?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/501707-senator-presses-controversial-facial-recognition-company-on-usage-at?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 58
+    images:
+      - url: "https://thehill.com/sites/default/files/markeyedward_012420gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "IBM scraps facial recognition tool in wake of Black Lives Matter protests"
+    excerpt: "The tech firm's move comes amid broader calls to scrutinise the use of technology for racial profiling by police"
+    publishedDateTime: 2020-06-09T09:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 58
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197244899_AFP_FILES-US-IT-POLICE-CRIME-POLITICS_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
+        width: 2880
+        height: 1800
+        isCached: true
+  - title: "US protests fuel calls for ban on racially biased facial recognition tools"
+    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
+    publishedDateTime: 2020-06-08T02:13:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/08/us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/07/710900.jpg"
+        width: 1240
+        height: 940
+        isCached: true
+  - title: "Amazon Halts Police Use Of Its Facial Recognition Technology"
+    excerpt: "Amazon is the latest tech company to respond to demands that law enforcement not have access to controversial facial recognition technology."
+    publishedDateTime: 2020-06-10T22:59:00Z
+    webUrl: "https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/10/ap_17047619531765_wide-52d59385b7a6e24c7b53253cf3d3bff466942afb.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
+    excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
+    publishedDateTime: 2020-06-10T00:04:00Z
+    webUrl: "https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 37
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/09/ap_19287456839427_wide-8aef6472073b160bdb7216880ae663d0748cef40.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
+    excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
+    publishedDateTime: 2020-06-09T19:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/senator-questions-how-clearview-ais-facial-recognition-tech-put-use-protesters/166026/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 30
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_1658380954/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Boston Moves to Ban Facial Recognition Technology"
+    excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
+    publishedDateTime: 2020-06-10T18:56:00Z
+    webUrl: "https://northendwaterfront.com/2020/06/boston-moves-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NorthEndWaterfront.com
+      domain: northendwaterfront.com
+    quality: 24
+    images:
+      - url: "https://northendwaterfront.com/wp-content/uploads/2020/06/PSX_20200606_205504.jpg"
+        width: 1776
+        height: 1184
+        isCached: true
+
+secured: "GajdMikNeQokRsC3/t7Cin1oMf+XYO3HKaeBAQ04Joj91aR0OSvVRCr127znF1G0BVYRguD6+WkjzgFiBL5KrJEV4phbaxVjwsE5ssihjlM3qdjZyC0jt4rvxonQst8sHSG/6PCJuinqcckBp2oiyTqn91nNmlGljZOsEt+sEb+R+0qgRyffN53OmvH7cjj8dc3zdHcqTp7guzf5KSxgUZFSb53MJR2zoy5Fgod5WNnc8i9Q/u+Jmgjg/9XYZuuCBgcx/0LgaInD21wreVoMEAbCEwIXHLNev0Q9thpuV2q2hNw48NHmYK8ZWCT2i9eI;6RNDOKVy2KeYOiQSvbn0hg=="
+---
+

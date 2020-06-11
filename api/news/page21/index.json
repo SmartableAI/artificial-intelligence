@@ -2,6 +2,82 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-20-changsha-intelligent-manufacturing-on-the-fast-track.md",
+      "title": "Changsha: Intelligent Manufacturing on the Fast Track",
+      "excerpt": "a type of self-driving taxi developed by Chinese tech giant Baidu. \"It's really a convenient service. The taxi arrived in just a few minutes after I typed in my destination address and pressed the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adnkronos.com/immediapress/economia-e-finanza/2020/05/20/changsha-intelligent-manufacturing-the-fast-track_ttuqFGGEuxEqbcLraqdlQN.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AdnKronos",
+        "domain": "adnkronos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adnkronos.com/res/img/logo_adn_484x252.jpg",
+          "width": 484,
+          "height": 252,
+          "title": "Changsha: Intelligent Manufacturing on the Fast Track",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-can-machine-learning-predict-coronavirus-spread.md",
+      "title": "Can machine learning predict coronavirus spread?",
+      "excerpt": "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg",
+          "width": 760,
+          "height": 368,
+          "title": "Can machine learning predict coronavirus spread?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
       "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
       "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
@@ -996,91 +1072,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
-      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "publishedDateTime": "2020-05-20T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
-          "width": 1071,
-          "height": 728,
-          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
-      "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-      "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
-          "width": 400,
-          "height": 240,
-          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

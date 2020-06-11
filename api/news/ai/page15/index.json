@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
+      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "publishedDateTime": "2020-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
+      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "publishedDateTime": "2020-05-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
       "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
       "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
@@ -1222,82 +1316,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
-      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "publishedDateTime": "2020-05-21T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
-      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "publishedDateTime": "2020-05-21T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
-          "width": 994,
-          "height": 600,
-          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

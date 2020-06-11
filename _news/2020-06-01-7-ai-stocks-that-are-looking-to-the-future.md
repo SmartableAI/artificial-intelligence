@@ -1,34 +1,21 @@
 ---
 category: news
 title: "7 AI Stocks That Are Looking to the Future"
-excerpt: "Despite the adverse impact of the novel coronavirus, AI stocks have fared relatively well. Consider the Global X Robotics & Artificial Intelligence (NASDAQ: BOTZ) ETF. For 2020, t"
-publishedDateTime: 2020-06-01T18:24:00Z
-webUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/"
-ampWebUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
+excerpt: "Despite the adverse impact of the novel coronavirus, AI stocks have fared relatively well. Consider the Global X Robotics & Artificial Intelligence (NASDAQ:BOTZ) ETF. For 2020, the fund has returned about 6%."
+publishedDateTime: 2020-06-01T19:24:00Z
+webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01"
+ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-that-are-looking-to-the-future-2020-06-01?amp"
 type: article
-quality: 65
-heat: 65
-published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI Hardware
-  - AI
   - Microsoft AI
-  - AI in Robotics
-  - Google AI
+  - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-    title: "7 AI Stocks That Are Looking to the Future"
-
-secured: "wgkwATvK74wYHemSVP21H/WzWKI4ruenlYQrXic8N0FtzUrqw3z5eMyznh93goCzuKh+bgUQDrkhYYazHMn6AZtRF7jQRN5g2dqZOKl4X5pBgNTOXIFgsp2yj5Q/tl+xiKQaWjd/iUC22heFLol0QdLl3mq48ud89U7lWvOd77BXTjjw0+cgFFdKKXYN1ywFzuUxQi1nOzvPrKHE3fui8255pqej6/G+H2hMyto5kN9N+GJQXopUgsoD0pcRHgmdzplcJFBhSxcFSaB0YMPEiYE3MPyG6EgMmjfF4/8H96f8F2C27V6ePty5IlpDF6w0tMtQ5X3RGSIBE4e+t1W1OlXn8X08idiAB0htIZmtsd1Y3wc9zZoPtWprDkRrcm1SoFPlhztodgcgiMGHBe9mqVlBCJdRQKgNIfRrdk/TiB23X70NDdCt9UT6T/JnAh7lkH2MDlEEP6rnvDs9xeKSAXrkqn9ci9CSXlLtQmMnoAs=;GH5BbXn9v0jbNXrRwaJcAQ=="
+secured: "iANC8usyuU6KRTEEegPAAQ+5+HbeTQtw5kPx8EJU3+uaKtbwyU88eGLkFPZ6sDUfy+knHnxERcy8G44ylcVD7bvuy8gvSRUmGnzQ03VWLoqXuYZwN0K/w178PpVmoU1tn5TYDAvKe4PLKsymbeXoO2+s07u3bOjBKj86YF7O8ke9E8vsW9gugt9CmC5F04/UdzdnXziiIIXF8wOI2SAeO2my+PiBNkWzDoC9Y0th2f/Kp2RtuqmBepAqyxzPj1ManXnxZyqiRo1J4NiJcT1BGozf+ZWdrxn1fgUA3FADwhx5pENwy2EOR+KApTlKEyvLXCkiQhoaeT6B+oMv38D6N4W8F9Lx6jQ26ogP1msRO5efS7Q6pQIz4abmZ+tqAbs7bn+yU6tFbABDqwg8aWW6FgxbacRC1N1M3Oxm4pTZRmk5Aoo7nn5LPx23/sQNBwU6YE6vMhxHqILAvFpkxYH8jzNvyOf0OuMsKZSgLPsrKC9H4Wtw5J4175hQa63Euk09;XdIhX8fTFtJbEswip1Q34w=="
 ---
 

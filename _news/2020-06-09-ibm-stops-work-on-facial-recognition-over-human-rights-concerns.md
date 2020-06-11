@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
-    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
-    publishedDateTime: 2020-06-09T10:22:00Z
-    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
-    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
     excerpt: "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide."

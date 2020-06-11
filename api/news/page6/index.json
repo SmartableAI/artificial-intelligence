@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
+      "title": "Nanox raises $20 million to scale its AI medical imaging system",
+      "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
+      "publishedDateTime": "2020-06-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/565d38a9-02a3-4ac9-9e24-fee9c3b9094a-e1579032983901.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Nanox raises $20 million to scale its AI medical imaging system",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
       "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
       "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
@@ -1085,44 +1131,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
-      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-      "excerpt": "TIBCO Software Inc., a pioneer in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "publishedDateTime": "2020-06-03T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

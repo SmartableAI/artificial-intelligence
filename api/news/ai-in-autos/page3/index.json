@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
       "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
       "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
@@ -1309,45 +1356,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
-      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
-      "publishedDateTime": "2020-05-13T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

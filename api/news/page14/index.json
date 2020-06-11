@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
+      "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+      "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-jedi-delay-slows-dods-ai-push.md",
+      "title": "JEDI delay slows DOD’s AI push",
+      "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 27, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterpris",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://defensesystems.com/articles/2020/05/27/jedi-delay-slows-ai.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense Systems",
+        "domain": "defensesystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
+          "width": 760,
+          "height": 368,
+          "title": "JEDI delay slows DOD’s AI push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says.md",
       "title": "Amazon might buy self-driving startup Zoox, report says",
       "excerpt": "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash.",
@@ -1014,90 +1100,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
-      "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-      "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T17:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
-          "width": 990,
-          "height": 498,
-          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream.md",
-      "title": "Machine learning in finance: From buzzword to mainstream",
-      "excerpt": "The financial sector is a late adopter of machine learning. Top applications include fraud detection ... Training such chatbots requires hundreds of hours of customer service logs, but once the algorithm learns, it can successfully replace a lot of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/shutterstock_1006988995.jpg",
-          "width": 1313,
-          "height": 933,
-          "title": "Machine learning in finance: From buzzword to mainstream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

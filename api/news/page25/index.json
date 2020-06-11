@@ -2,6 +2,82 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
+      "title": "Sony, Microsoft unveil latest joint AI play",
+      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
+      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "publishedDateTime": "2020-05-19T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Sony, Microsoft unveil latest joint AI play",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
+          "width": 1200,
+          "height": 900,
+          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
       "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
       "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
@@ -971,91 +1047,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-raise-self-driving-option-price-by-1000.md",
-      "title": "Tesla To Raise Self-Driving Option Price By $1,000",
-      "excerpt": "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "publishedDateTime": "2020-05-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "publishedDateTime": "2020-05-18T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

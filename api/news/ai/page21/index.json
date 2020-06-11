@@ -2,6 +2,92 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
+      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
+      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "publishedDateTime": "2020-05-19T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
+          "width": 800,
+          "height": 408,
+          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
+      "title": "Are AI-Powered Killer Robots Inevitable?",
+      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Are AI-Powered Killer Robots Inevitable?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
       "title": "As Machines Get Smarter, How Will We Relate to Them?",
       "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
@@ -1206,64 +1292,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-deep-learning-for-oct-image-analysis.md",
-      "title": "Deep learning for OCT image analysis",
-      "excerpt": "Deep learning is a form of artificial intelligence (AI) in which large amounts of data are processed to combine key factors and predict an output. Deep learning needs an ample database to reach conclusions. OCT generates abundant data, but needs more ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.laserfocusworld.com/detectors-imaging/article/14174629/deep-learning-for-oct-image-analysis",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "laserfocusworld.com",
-        "domain": "laserfocusworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-latest-news-update-on-google.md",
-      "title": "Latest News Update on Google",
-      "excerpt": "San Francisco, May 21 : While Google has been working on life-like version of its spoken Artificial Intelligence (AI ... has quit the company to join rival Waymo owned by Google's parent company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newkerala.com/news/tags/Google.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Kerala",
-        "domain": "newkerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

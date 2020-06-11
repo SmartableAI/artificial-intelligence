@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-ceo-krishna-every-company-will-be-an-ai-company.md",
+      "title": "IBM CEO Krishna: Every company will be an AI company",
+      "excerpt": "IBM CEO Arvind Krishna laid out how he wants a more entrepreneurial culture to help customers meet their cloud, digital transformation and AI objectives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "publishedDateTime": "2020-05-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png",
+          "width": 708,
+          "height": 534,
+          "title": "IBM CEO Krishna: Every company will be an AI company",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
       "title": "IBM Watson AIOps automates the detection of IT anomalies",
       "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",

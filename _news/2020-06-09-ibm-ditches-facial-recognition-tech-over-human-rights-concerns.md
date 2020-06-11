@@ -63,22 +63,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
-    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
-    publishedDateTime: 2020-06-09T10:22:00Z
-    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
-    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z

@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025-2020-06-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-3-top-artificial-intelligence-stocks-to-buy-in-june.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in June",
       "excerpt": "Leading the charge in this new era are technology stocks -- specifically those helping organizations and individuals cope with shelter-in-place and work-from-home orders. Artificial intelligence (AI) was already a promising growth industry,",
@@ -1310,44 +1357,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
-      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-      "excerpt": "TIBCO Software Inc., a pioneer in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "publishedDateTime": "2020-06-03T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
