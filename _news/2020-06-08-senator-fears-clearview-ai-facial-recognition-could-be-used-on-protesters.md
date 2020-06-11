@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 355
+heat: 385
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03qfvECTTUxLCSjZpiiSVeS-1.fit_lim.size_1200x630.v_1591837092.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Amazon pauses police use of its facial recognition tech for a year"
+    excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
+    publishedDateTime: 2020-06-11T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
+        width: 818
+        height: 545
         isCached: true
   - title: "Amazon announces one-year pause on police use of its facial recognition tech"
     excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
@@ -283,6 +299,22 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Amazon to ban police use of facial recognition software for a year"
+    excerpt: "Company has stated its support for Black Lives Matter movement, but faced growing backlash over ties to policing"
+    publishedDateTime: 2020-06-11T00:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Senator presses controversial facial recognition company on use on protesters"
     excerpt: "Sen."
     publishedDateTime: 2020-06-08T21:35:00Z
@@ -330,6 +362,22 @@ related:
       - url: "https://content.jwplatform.com/thumbs/pnoedQhp-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "Amazon pauses police use of its facial recognition software"
+    excerpt: "Amazon said Wednesday that it was putting a one-year pause on letting police use its facial recognition tool, in a major sign of the growing concerns that the technology may lead to unfair treatment of African Americans."
+    publishedDateTime: 2020-06-11T01:02:00Z
+    webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html"
+    ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 44
+    images:
+      - url: "https://www.mcall.com/resizer/UD81TG1bKzYtoVNQyX1L2a7UulA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A7JNP4O5J5GVRMO32SGIVBEN6U.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."

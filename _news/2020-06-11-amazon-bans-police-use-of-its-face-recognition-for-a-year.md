@@ -57,7 +57,29 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "Amazon bans police use of its face recognition technology for a year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T02:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
+  - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
+    excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
+    publishedDateTime: 2020-06-10T23:05:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243441421.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243441421.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243441421.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
 
-secured: "gUJESGRGLnniDgcvS92mjPrBslqga1HPf/behT04yMwq6fNg+51H83sLt+Yesct5095iu5tJv4QkzDVrkmANzUaZRKahoL+zQpNF52u+ZUOgNvVqXec1rLvDkJiBV++MDRJaONvy4OkL67aLsCPG9ATzHER2FqVTHWIPARX/F2Eux1wsMfKXzD79yhwhM/UfKPuHBhevh9lHw8KW3X4aJY42AvO1JpeGgqtZp2oN23m2s3QCvUWoxrCwSqDmkzXM/krGxHlJZAt/iWUbgnmAp71bLHXEbq80ZM7LArlro/wxmMkepjmbe8yBvBxxH1Cx;LDr+e4qtRQx1Bhej+zyJog=="
+secured: "SjI/UlZ8wEz8v5rJTulTpEpZEE4HCQwCpldua7mtwLJVXAW0pxDUBtBOcIe0TLMSBY9JD1t8rjRXf9FlnRwqtypENnkteMWJyN5DDk+qjtSyE8hk3QEJLRGwH3fSn/qNKan10SUthYM9cVCapNQtDYa0MzHyZwJjyxyyX5/v+YpYNE16niqCoBL0oUrSkUl8Neq2+J477eH9COyawwGpWgoexeX/x+Z5HebxZUQdvujaB+p5KdJPlzKzERxBpizytNAr/Hz8k+FP7B/5IJKkqTSxl8N57s2iwA3s09qz0ynSvAxW3YT8iczX94MKgfgCSSMzPGejaDWKair81iEO+8c5tcYrsmGvlLs+2uu05/Dw5sYPZEeW3ZMNkeIILoNIwMG6zisrYVjTZwAWFjXqDnTEjGA75xkWcJr6BQ3DlP6nbTE+WBmGvx52rz5AzzeTJZtsw6e66g5350iQ9trxgY37fXkoI421Wr50Nv1Ck5S6pEvmME/waYwg3t7tRFyk;6x42lvxcBxA4ugndBZpfnQ=="
 ---
 

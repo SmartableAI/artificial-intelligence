@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Clearview AI still backs facial recognition, despite competitors' concerns"
-excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
-publishedDateTime: 2020-06-11T01:43:00Z
-webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+title: "Amazon pauses police use of its facial recognition tech for a year"
+excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
+publishedDateTime: 2020-06-11T04:22:00Z
+webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
 type: article
-quality: 102
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-    width: 756
-    height: 567
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
+    width: 818
+    height: 545
     isCached: true
-    title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    title: "Amazon pauses police use of its facial recognition tech for a year"
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"
@@ -44,6 +44,22 @@ related:
     quality: 105
     images:
       - url: "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
+    publishedDateTime: 2020-06-11T01:43:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
         width: 756
         height: 567
         isCached: true
@@ -142,22 +158,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03qfvECTTUxLCSjZpiiSVeS-1.fit_lim.size_1200x630.v_1591837092.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Amazon pauses police use of its facial recognition tech for a year"
-    excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
-    publishedDateTime: 2020-06-11T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
-        width: 818
-        height: 545
         isCached: true
   - title: "Amazon announces one-year pause on police use of its facial recognition tech"
     excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
@@ -463,6 +463,6 @@ related:
         height: 300
         isCached: true
 
-secured: "378mDNU5MDI/L235ThxVhmd8RKwIhQILcKvengPJBLapv7boBWiIfBOJ25QsD3lWfeheEFNsmZ3qZ/nMg+yXVSOm1ax26vJkGpvOWa/wEwbWnnjSqpCPIhTb5MOisVAemjA4Z/i1Ez+YH/t1LQ7G1pqN5KwgPNdQOjBhVBRN7l0o8hgzb/smVlewa4DA97CdI2bqPgJdaDv5StihRYPdZ8mJBb0pUXGBvYHwJ+oq3EdJqNZMxEFjj5Bk9/0nsUob7k/7QsC4971ZXxEFaqAYjCLg6byK1BPa2bEsZdj3m9jiJU6/77pQph2isFZv9xJxMbBQbdZbBGA/s8qnOduPyPpcnMRaKYQyjzjhgxWsmo3KNbZEpXZKzY34HyX1iA7L61RX5VhcAKiHNW5PHU6EreHanXBCn/xPctVbAZukS/R4e8IqCT3o6G5BEBt3yhzYM05vGwu65Sk0KxesNIIgEepPnyNRk1RNQ81AT5YO9Zu5Otlc9w8w4vfneIwFwLax;JtthfFV3PEW3YKdwUZ+MAw=="
+secured: "KvpIXnVhnYKfIrfUfnyharoqEYbJLjUW/R6VtuKUNROX//mYg2N0/sao6k91d0M+i0C7tjHzlGAnur/oN5ABGOPkfBFK6N6oPlAVU3/EVFjt2BbEPGiXS4fyhmAerK/8wFbDjySDvsm3LV+509yD2MC0K6ZAr6X6RUjwgk/h4nn11lObdv0d30giXNrR3/2RJj9GFpI3U8A5Y4qxBCIsnXMvJvMuMaatTAXS8W+F0MAigmkoO8g2eg1R9PYiS+qRJjpXiyMCNIxPWcIzFlIwZID7PxcByhvj9HzobI8aGULfFTl1NjeKRnaWvEE227Tn;2tk8M53btmaj4uX3THArrQ=="
 ---
 

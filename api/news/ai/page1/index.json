@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
+      "title": "Amazon’s facial recognition moratorium has major loopholes",
+      "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
+      "heat": 196,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
+      "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
+      "publishedDateTime": "2020-06-10T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": "Amazon’s facial recognition moratorium has major loopholes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
@@ -51,7 +99,7 @@
       "path": "_news/2020-06-11-amazon-suspends-police-use-of-its-facial-recognition-technology.md",
       "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
       "excerpt": "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias.",
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
@@ -92,54 +140,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-wont-say-if-its-facial-recognition-moratorium-applies-to-the-feds.md",
-      "title": "Amazon won’t say if its facial recognition moratorium applies to the feds",
-      "excerpt": "In a surprise blog post, Amazon said it will put the brakes on providing its facial recognition technology to police for one year. The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether.",
-      "heat": 205,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "publishedDateTime": "2020-06-10T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": "Amazon won’t say if its facial recognition moratorium applies to the feds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -279,7 +279,7 @@
       "path": "_news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically.md",
       "title": "Uber researchers investigate whether AI can behave ethically",
       "excerpt": "In a preprint paper, researchers at Uber explore whether AI algorithms can be trained to make decisions ethically, according to philosophical theories.",
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",

@@ -63,19 +63,21 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
-    excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
-    publishedDateTime: 2020-06-09T00:53:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/08/technology/08reuters-ibm-facial-recognition.html"
+  - title: "Amazon just announced that it's going to suspend police use of its controversial facial recognition technology for one year"
+    excerpt: "Police departments across the country use Amazon Web Services' Rekognition, and studies have shown that it's biased against Black people."
+    publishedDateTime: 2020-06-10T22:17:00Z
+    webUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+      - url: "https://i.insider.com/583c6db9ba6eb66d268b6326?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
   - title: "IBM quits facial-recognition market over police racial-profiling concerns"
     excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"

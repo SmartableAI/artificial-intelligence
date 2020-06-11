@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,28 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "Amazon bans police use of its face recognition technology for a year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T02:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
+  - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
+    excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
+    publishedDateTime: 2020-06-10T23:05:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243441421.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243441421.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243441421.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
 
 secured: "0BQBEX8sCfmUuZ/1YSaw648Cs0hoMUAxgc2R63v3anM/9sDkaLtgBo8DD6z660Jw4jfxgEEPuV3nNHIiAhz2vymCFE+FktUU4g4HFwDeRT2m8+EE7l67ogGZdtOBF5C77Hoihvuq1zED6rtl7xHfUz6rhkDY0bD2iIOjr/SVDYuUN0Ill5f7Lac9jvOKMzTXhKxrDdy4ZtmG9/zgRYyLsNO0kOZbis50SebUBBGJShoWk/3uD1FRpp0hjLW3bJXvz/H2HM3f7MGTAc0se+NQIxn3RBULtBnZ4rYC5eTO/5uT1N+4mHEwUzUl7x2jO/+R5BnDPlH2PG916NYnK82abQEWq7o534wjm7kzkuXsqPnclBSQ/c24itLbXyJHw73aYouDuO39fIOR944cJJE0DbJFTOZmULhDPju2LwBvttU42pOz7sLZbcTHJZOo2AAr2xrYkfgXaWmEXKZFg8grWAE2zs7SRHckqWpXuF8CkxQhHnZo/nhAeqfX4tpI3mpO;K9CnxssAg7VGO5TXkcNbTA=="
 ---

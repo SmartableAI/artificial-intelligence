@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Clearview AI still backs facial recognition, despite competitors' concerns"
-excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
-publishedDateTime: 2020-06-11T01:43:00Z
-webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+title: "Amazon pauses police use of its facial recognition software"
+excerpt: "Amazon said Wednesday that it was putting a one-year pause on letting police use its facial recognition tool, in a major sign of the growing concerns that the technology may lead to unfair treatment of African Americans."
+publishedDateTime: 2020-06-11T01:02:00Z
+webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html"
+ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
 type: article
-quality: 102
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
+  - Natural Language Processing
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-    width: 756
-    height: 567
+  - url: "https://www.mcall.com/resizer/UD81TG1bKzYtoVNQyX1L2a7UulA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A7JNP4O5J5GVRMO32SGIVBEN6U.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    title: "Amazon pauses police use of its facial recognition software"
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"
@@ -44,6 +40,22 @@ related:
     quality: 105
     images:
       - url: "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
+    publishedDateTime: 2020-06-11T01:43:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
         width: 756
         height: 567
         isCached: true
@@ -362,22 +374,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition software"
-    excerpt: "Amazon said Wednesday that it was putting a one-year pause on letting police use its facial recognition tool, in a major sign of the growing concerns that the technology may lead to unfair treatment of African Americans."
-    publishedDateTime: 2020-06-11T01:02:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html"
-    ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-amazon-facial-recognition-police-20200610-vgoebv2m5nbwthpgkmqhw5qtse-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 44
-    images:
-      - url: "https://www.mcall.com/resizer/UD81TG1bKzYtoVNQyX1L2a7UulA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A7JNP4O5J5GVRMO32SGIVBEN6U.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
     publishedDateTime: 2020-06-08T02:13:00Z
@@ -463,6 +459,6 @@ related:
         height: 300
         isCached: true
 
-secured: "378mDNU5MDI/L235ThxVhmd8RKwIhQILcKvengPJBLapv7boBWiIfBOJ25QsD3lWfeheEFNsmZ3qZ/nMg+yXVSOm1ax26vJkGpvOWa/wEwbWnnjSqpCPIhTb5MOisVAemjA4Z/i1Ez+YH/t1LQ7G1pqN5KwgPNdQOjBhVBRN7l0o8hgzb/smVlewa4DA97CdI2bqPgJdaDv5StihRYPdZ8mJBb0pUXGBvYHwJ+oq3EdJqNZMxEFjj5Bk9/0nsUob7k/7QsC4971ZXxEFaqAYjCLg6byK1BPa2bEsZdj3m9jiJU6/77pQph2isFZv9xJxMbBQbdZbBGA/s8qnOduPyPpcnMRaKYQyjzjhgxWsmo3KNbZEpXZKzY34HyX1iA7L61RX5VhcAKiHNW5PHU6EreHanXBCn/xPctVbAZukS/R4e8IqCT3o6G5BEBt3yhzYM05vGwu65Sk0KxesNIIgEepPnyNRk1RNQ81AT5YO9Zu5Otlc9w8w4vfneIwFwLax;JtthfFV3PEW3YKdwUZ+MAw=="
+secured: "1a50Ho9c2okWfo9rTXhbqgusk0GvJeTkdOmxTP7DBykhWJtNbqg0g0oXW36fws09t3xNZAGX6xzE1pYmqdY3dM6R/ZNR7VqotRLD1NcmuykGa34u7fXEJiQIRAYwws0m9MX1/MCuolmgsK8bkFQ8BjutM3+QIwsYoPtv4KfLyzEw+KXSuPlg0J7D8ITUmX2SjAwgQ/QBBkBOdl0PIPfWcU+82SQlAE3GV7jQGYwwMYWCH/UM5CKkX9+lEo3e70NT/qtgUm8kM82WAK0S72GaQQEla9R/Z06eN78VkbRM0LJ4BE9EteHxOhhqnWCMz6h8;Z6eqTajVWKJlKDRizKhIxg=="
 ---
 

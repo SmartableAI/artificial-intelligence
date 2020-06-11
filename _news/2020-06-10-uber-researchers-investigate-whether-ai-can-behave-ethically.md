@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

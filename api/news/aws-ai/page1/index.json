@@ -2,16 +2,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-10-amazon-wont-say-if-its-facial-recognition-moratorium-applies-to-the-feds.md",
-      "title": "Amazon won’t say if its facial recognition moratorium applies to the feds",
-      "excerpt": "In a surprise blog post, Amazon said it will put the brakes on providing its facial recognition technology to police for one year. The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether.",
-      "heat": 205,
+      "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
+      "title": "Amazon’s facial recognition moratorium has major loopholes",
+      "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
+      "heat": 196,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
       "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "publishedDateTime": "2020-06-10T15:58:00-07:00",
+      "publishedDateTime": "2020-06-10T20:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -34,7 +34,7 @@
           "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
           "width": 1024,
           "height": 685,
-          "title": "Amazon won’t say if its facial recognition moratorium applies to the feds",
+          "title": "Amazon’s facial recognition moratorium has major loopholes",
           "attribution": null,
           "isCached": true
         }

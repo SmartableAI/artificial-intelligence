@@ -1,52 +1,37 @@
 ---
 category: news
-title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
-excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
-publishedDateTime: 2020-06-09T10:22:00Z
-webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
-ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+title: "Amazon’s facial recognition moratorium has major loopholes"
+excerpt: "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month."
+publishedDateTime: 2020-06-11T03:45:00Z
+webUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/"
+ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
 type: article
-quality: 80
-heat: -1
-published: false
+quality: 91
+heat: 196
+published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
-    width: 1200
-    height: 600
+  - url: "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024"
+    width: 1024
+    height: 685
     isCached: true
-    title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
+    title: "Amazon’s facial recognition moratorium has major loopholes"
 
 related:
-  - title: "Amazon’s facial recognition moratorium has major loopholes"
-    excerpt: "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month."
-    publishedDateTime: 2020-06-11T03:45:00Z
-    webUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/"
-    ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024"
-        width: 1024
-        height: 685
-        isCached: true
   - title: "Amazon won’t say if its facial recognition moratorium applies to the feds"
     excerpt: "In a surprise blog post, Amazon said it will put the brakes on providing its facial recognition technology to police for one year. The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether."
     publishedDateTime: 2020-06-10T22:58:00Z
@@ -127,6 +112,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
+    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
+    publishedDateTime: 2020-06-09T10:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
+    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
     excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
     publishedDateTime: 2020-06-09T00:53:00Z
@@ -183,6 +184,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "hq21TE7tbomR8WGiLqzq223OapvqAcWjYRx6j3AAFqcFIe2i3P+VTA20PZmrCMYVZXgZShg7QbvFCc1O+CNxm9rMb1dV/yk7PaCTLfNuZqDoBREiAETxBA9UmliWVfQLhEOzIMXn9IaiPlS6zznI3cRvtPjzRHP4Q993RyoDnxR69B2OWIZ5wltviV7xKfJ4Zenzv+X/XlEUaOG0RIisy8fP5P2/3X3jtJ1ZbQIbB2OKeG+mi9o604RcmFz3fBvUf6ZzTEZhbzaeaJ8C3Nk5vG8E5IJsQqOoiDNwiUMsWDkdyqRK3i038TEePY00J+z1FN0qMxZP3Up8eNtYiFN0Kw3ZNEV4b23f1IloZfn73b+Zunl9MjnNZvEXH+7Nn20fsPrJaEYwrG940VA0J0GjXOrJrbHNxPt2445zyNKpUFMHXREq1HMNKGq5b2N0jbHHJXXRdBuNOIFrqYoLq0Wl1+oTA/GckoK7+h1denWJ30oKGCvIE4EsUrJS+B0/ro1Q;i0qcOqH2CSo3DFFYeYS2yA=="
+secured: "OA+L6qFHHLuHZydkBoueAVGr9ax6LnWo1q0HnSuhBMWZxxnp7hXNYT3C/ANP9gWzzixvTiI1HGyRDBHcSD6N3uWwA3LiTSg588paHdlB82oQMcZkwSMKoLswTb3xHfFRhjc5qWU5gXIlUynS03Li3wO03VeSVNEg425JMgDvTrYuPJyq6OiX+BMm4LVTUQTcL0MzSrpCx1NZor3oG4F4VSzit1Zy5U1fAzGHLdDgioXkyZnV1Rr2VkIPdHs1okOdaFu7FknNW1AJTeJuz+fysWZ/othXKJKmVWxsAWwnxUO3sV54HPAU+yA74ba3MpYg;bG4K34GxpcrEInzaJCwKKQ=="
 ---
 
