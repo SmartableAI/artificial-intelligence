@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023"
+    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ..."
+    publishedDateTime: 2020-06-11T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023"
     excerpt: "Global Artificial Intelligence (AI) Chipset Market 2020 Research Report offers up-to-date information and historical"
     publishedDateTime: 2020-06-10T14:38:00Z
@@ -79,6 +93,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Marketing Market - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2023"
+    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
+    publishedDateTime: 2020-06-11T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market---top-companies-business-growth-investment-opportunities-share-and-forecasts-2023-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

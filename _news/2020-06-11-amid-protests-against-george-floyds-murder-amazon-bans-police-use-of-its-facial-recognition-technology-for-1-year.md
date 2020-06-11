@@ -172,11 +172,11 @@ related:
         height: 428
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
-    excerpt: "\"Rekognition\" has been shown time and time again to be ineffective and biased. Rather than shelving it altogether, Amazon is putting a one-year moratorium on police use of it."
-    publishedDateTime: 2020-06-11T12:00:00Z
-    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown to be biased against Black and brown people. The move comes during widespread Black Lives Matter protests after the police killing of George Floyd ..."
+    publishedDateTime: 2020-06-11T16:39:00Z
+    webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -244,6 +244,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon stops police use of facial recognition technology"
+    excerpt: "Amid nationwide protests against police brutality, Amazon has announced a moratorium on the use of its facial-recognition technology. The software has long been criticized due to its history of incorrectly tagging Black and Latino people."
+    publishedDateTime: 2020-06-11T16:14:00Z
+    webUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/"
+    ampWebUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 44
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2020/03/Amazon-GETTY-scaled-e1584465181587-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
     excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate"
     publishedDateTime: 2020-06-11T06:40:00Z
@@ -275,6 +291,20 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Cramer: Amazon Facial Recognition Software Is 'Last Thing We Need Right Now'"
+    excerpt: "Amazon has put a one-year pause on police departments using its facial recognition technology. The technology, called Rekognition, was launched in 2016. The tool uses artificial intelligence to help surveil and identify crime suspects as well as human trafficking victims and exploited children."
+    publishedDateTime: 2020-06-11T16:07:00Z
+    webUrl: "https://www.thestreet.com/streetlightning/news/jim-cramer-amazon-facial-recognition-rekognition"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 40
+    images:
+      - url: "https://imageproxy.themaven.net/https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTcxOTIxMjQ0MTY4Mzk4MTQ2%2Famazon1.jpg?w=1024&q=40&h=576&auto=format&fit=max"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
     excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."

@@ -52,20 +52,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "House police reform bill includes face recognition provisions"
-    excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
-    publishedDateTime: 2020-06-09T03:34:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 41
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
-        width: 960
-        height: 1200
-        isCached: true
   - title: "Amazon bans police use of its face recognition technology for a year"
     excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T02:01:00Z

@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Food & Beverages Market Outlook to 2026 | Raytec Vision SpA, Rockwell Automation, ABB Ltd. And More"
+    excerpt: "Artificial Intelligence in Food & Beverages Market research report is generated with a nice blend of industry insight, talent solutions, practical solutions and use of technology"
+    publishedDateTime: 2020-06-11T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-outlook-to-2026-raytec-vision-spa-rockwell-automation-abb-ltd-and-more-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$270 Billion Worldwide Healthcare Information Technology Industry to 2021 - AI and Analytics Present Lucrative Opportunities"
     excerpt: "Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-06-09T22:00:00Z

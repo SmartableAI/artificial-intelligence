@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-11-microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place.md",
+      "title": "Microsoft won’t sell police facial recognition until there’s ‘a national law in place’",
+      "excerpt": "Urging action from Congress, Microsoft president Brad Smith said Microsoft will not sell facial recognition until national regulation is in place.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/amp/",
+      "publishedDateTime": "2020-06-11T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Microsoft-e1572850220242.jpg?w=1200&#038;strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Microsoft won’t sell police facial recognition until there’s ‘a national law in place’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
       "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
       "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
@@ -43,7 +90,7 @@
       "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
-      "heat": 306,
+      "heat": 326,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
@@ -91,7 +138,7 @@
       "path": "_news/2020-06-09-ibm-will-no-longer-offer-facial-recognition-software-to-law-enforcement.md",
       "title": "IBM will no longer offer facial recognition software to law enforcement",
       "excerpt": "Artificial intelligence powerhouse IBM has had it with law enforcement's misuse of facial recognition technology. In a letter to Congress this week, IBM CEO Arvind Krishna outlined the different ways the tech company intends to address racial injustice and police abuse.",
-      "heat": 129,
+      "heat": 159,
       "tags": null,
       "type": "article",
       "webUrl": "https://mashable.com/article/ibm-facial-recognition-law-enforcement-congress/",
@@ -129,7 +176,7 @@
       "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
       "title": "Daily Crunch: IBM is getting out of facial recognition",
       "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
-      "heat": 536,
+      "heat": 546,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
@@ -224,7 +271,7 @@
       "path": "_news/2020-06-09-ibm-stops-work-on-facial-recognition-over-human-rights-concerns.md",
       "title": "IBM stops work on facial recognition over human rights concerns",
       "excerpt": "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases.",
-      "heat": 139,
+      "heat": 179,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html",
@@ -1280,35 +1327,6 @@
           "isCached": false
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "Traffic Sign Recognition (TSR) is used to display the speed limit signs ... be applied on sharpened edges for smoothing There are two approaches to detecting the object, • Colour-based Detection: Colour is one of the most powerful attributes for object ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

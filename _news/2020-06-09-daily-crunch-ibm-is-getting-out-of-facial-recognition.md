@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 536
+heat: 546
 published: true
 
 provider:
@@ -353,6 +353,22 @@ related:
     quality: 61
     images:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/facial-recognition-program-is-demonstrated-during-the-news-photo-1591711901.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Now Amazon Is Banning Its Controversial Facial Recognition Software"
+    excerpt: "Days after IBM took the unprecedented step to halt all development, research, and sales of its facial recognition technology over concerns that it unfairly targets people of color, Amazon said it would also put a one-year moratorium on Rekognition, its own widely implemented facial recognition software. Amazon will stop selling the software to ..."
+    publishedDateTime: 2020-06-11T16:35:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a32837598/amazon-facial-recognition-rekognition-ban/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 61
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/surveillance-camera-royalty-free-image-1591882799.jpg?crop=1xw:0.79594xh;center,top&resize=1200:*"
         width: 1200
         height: 600
         isCached: true

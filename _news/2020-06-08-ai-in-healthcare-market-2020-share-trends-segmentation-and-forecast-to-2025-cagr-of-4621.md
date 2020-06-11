@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Food & Beverages Market Outlook to 2026 | Raytec Vision SpA, Rockwell Automation, ABB Ltd. And More"
+    excerpt: "Artificial Intelligence in Food & Beverages Market research report is generated with a nice blend of industry insight, talent solutions, practical solutions and use of technology"
+    publishedDateTime: 2020-06-11T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-outlook-to-2026-raytec-vision-spa-rockwell-automation-abb-ltd-and-more-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -367,6 +367,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Now Amazon Is Banning Its Controversial Facial Recognition Software"
+    excerpt: "Days after IBM took the unprecedented step to halt all development, research, and sales of its facial recognition technology over concerns that it unfairly targets people of color, Amazon said it would also put a one-year moratorium on Rekognition, its own widely implemented facial recognition software. Amazon will stop selling the software to ..."
+    publishedDateTime: 2020-06-11T16:35:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a32837598/amazon-facial-recognition-rekognition-ban/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 61
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/surveillance-camera-royalty-free-image-1591882799.jpg?crop=1xw:0.79594xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM is exiting the face recognition business"
     excerpt: "In a letter to members of Congress on Monday, IBM said it is exiting the general-purpose facial recognition business and said it opposes the use of such technology for mass surveillance and racial profiling Why it matters: Facial recognition software is controversial for a number of reasons,"
     publishedDateTime: 2020-06-08T23:11:00Z
@@ -668,6 +684,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "H6Fem+TljKn7YAx6cXqvAghkNoABabvboOw0SK0/BJWYQQPrxiitGzJ0dZlf8ss//SpufjAwa8iO1X1uEWc0L7/LO+8Ds09CvzonEmMDvT7nIA7H1gS+0qqCV7QfAAovlOnxmLi4R3RMWNc5wL+TRH3xtRRuOMTEefEa2Vo9FtV3afgUGTk1cnCqynEZorYOBfQb7xz8+YlXkF1yCSZ+8Dg7702k96hWoAKsnjow1QDwWZ6oZntpr5eNF+qP9f0Dp4Z/Pj4bKeDSH3EGEp+FbSEttaS2L/Hc8Y6UMxT/EelaSf21NLPizESMGR7fOUtf;n3KdF6yTx5UQrjpZ0O9BIw=="
+secured: "+vKQjir5otr8DRhLYZBCd0E8v4MGfR+AG3l4UXNIhlQeU172PVMLfQoiaTtMCWL0dPWyYxBukUB4xNLrbCB5MVL+du8QAYKLBZs/x8BvxjlBgOZj2aTSktyt1aJiAEvHn8h692W1YlVd/qiRsFLMBYI0X+JL00UCautCVtV2nvhjJCwbItIpEkWXVXD4pYVNPQbhlzP+ImxNXYw1lXFBOt5Dxr8yuxz8wCKGNxOoYwm7AoKICLZ0sMSE5JaeHRm5gBKf9HOlQvIMdrEy8lYLYLihAaO6CEpN4UKUjAxeOc/87FrlrOf31f+Cyf7Lud2UOoSdOj58uZe7XYhngMu0wO9tCM+UXdRjzC5/B7YKTNXPqSEb3msSvrTTv87dVO+k8vY5IsfQCqsKmkif2p3VvQPnMSoeD5Qauq9WUO9ki+5eIXeczB5q0gzLS/9hV+8oiw8KReECetCyouDn+jCRGP9FngSS7g6JAkPlTkHRbhTpcsnetbbeUntqzbjdwN0i;H3VLRnMsQX9JteePo5DsBQ=="
 ---
 

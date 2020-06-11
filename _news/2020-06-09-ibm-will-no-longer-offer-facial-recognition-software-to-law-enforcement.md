@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/ibm-facial-recognition-law-enforcement-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp"
 type: article
 quality: 89
-heat: 129
+heat: 159
 published: true
 
 provider:
@@ -27,6 +27,54 @@ images:
     title: "IBM will no longer offer facial recognition software to law enforcement"
 
 related:
+  - title: "Microsoft bans police from using its facial recognition software"
+    excerpt: "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place."
+    publishedDateTime: 2020-06-11T17:28:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/HR54znBsd8jxCVa5CV_hoVJt6rg=/756x567/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Microsoft’s Brad Smith says company will not sell facial recognition tech to police"
+    excerpt: "Microsoft is joining IBM and Amazon in taking a position against the use of facial recognition technology by law enforcement — at least, until more regulation is in place. During a remote interview at a Washington Post Live event this morning,"
+    publishedDateTime: 2020-06-11T17:43:00Z
+    webUrl: "https://techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/"
+    ampWebUrl: "https://techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
+    excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
+    publishedDateTime: 2020-06-11T17:32:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/brad-enviro-630x418.jpg"
+        width: 630
+        height: 418
+        isCached: true
   - title: "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban"
     excerpt: "AI experts and civil rights activists have been campaigning for Amazon to halt the sale of Rekognition to law enforcement for years."
     publishedDateTime: 2020-06-11T09:53:00Z

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Microsoft declines to sell facial recognition tech to police"
+    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
+    publishedDateTime: 2020-06-11T17:56:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition/microsoft-declines-to-sell-facial-recognition-tech-to-police-idUSKBN23I2T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521939835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "IBM will no longer offer, develop, or research facial recognition technology"
     excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
     publishedDateTime: 2020-06-09T00:55:00Z
@@ -79,6 +95,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech"
+    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology amid concerns it can abused for surveillance."
+    publishedDateTime: 2020-06-11T17:53:00Z
+    webUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition"
+    ampWebUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 70
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04GJl7hOyfwYd5NZ7bRluuL-1.fit_lim.size_1200x630.v_1591896950.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft Urged To Follow Amazon And IBM: Stop Selling Facial Recognition To Cops After George Floyd’s Death"
     excerpt: "Microsoft and Amazon Ring should stop working with police, say the ACLU and EFF. They’re hopeful of action after tech companies paused the sale of facial recognition technology to law enforcement following protests after the death of black American George Floyd."
     publishedDateTime: 2020-06-11T09:05:00Z
@@ -110,6 +142,38 @@ related:
       - url: "https://i.insider.com/583c6db9ba6eb66d268b6326?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft says it won't sell facial recognition software to police until there's a national law 'grounded in human rights'"
+    excerpt: "Brad Smith, Microsoft's president, said on Thursday the company will not sell its facial recognition software for police use."
+    publishedDateTime: 2020-06-11T17:50:00Z
+    webUrl: "https://www.cnbc.com/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106403418-1582310757005gettyimages-1181949870.jpeg?v=1582310827"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Advocacy groups call Amazon's 1-year ban on police use of facial recognition tech a 'public relations stunt'"
+    excerpt: "Advocacy groups slammed Amazon's announcement that they are implementing a one-year moratorium on police use of its facial recognition software as a \"stunt.\""
+    publishedDateTime: 2020-06-11T16:09:00Z
+    webUrl: "https://abcnews.go.com/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 40
+    images:
+      - url: "https://s.abcnews.com/images/Business/facial-recognition-nc-jc-200611_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "KkZ2MhQ0aSJpgA8xeyn3fDORH/iAcmpWTGfDQQ2jIEd97gejY3VIimRRVIN34hgMyt/S+rX+XIbhpMhcfpCFCl3mYLvLMg5elDFMKcI1mKbZETKfbkYc5KVDM4lNEjNy33+T3txGhncoHZwoQhbPDkE1o2vc5EeU1Eo7reMwaC5RB00Dj6DhI4SjtyddLQGSQPilrsqtLhzTY10aiuH6hsh+UO/LnfqjNqGiU3jlnHP4y+HEeKBVYoliIlHgxkKfDsanduqlaAEG0CEghX4QJtqyWegsSaN47ZcnsKDCaxrk8yO1oL3pgbU4HXwt2kqR/jJPI3BYYRSwdZakMgiiKruaught5GfLLlRP0Gay1bPNtcIPnSkVXtAiUuWiU3QHwgKzThZT6fBEXmGtdv1G+IUVp+YyBjCjdZsIvnGV8FTkGErK2QSlBUPdwGNam/b/YOZUv2pR9c3xwTQSNcADCfcA61SbAHcG8CksRKRbLga89M9jVFDwpfdyKcbun1SK;JeocX1lOVhS8ADG4M2wf5Q=="

@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Food & Beverages Market Outlook to 2026 | Raytec Vision SpA, Rockwell Automation, ABB Ltd. And More"
+    excerpt: "Artificial Intelligence in Food & Beverages Market research report is generated with a nice blend of industry insight, talent solutions, practical solutions and use of technology"
+    publishedDateTime: 2020-06-11T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-outlook-to-2026-raytec-vision-spa-rockwell-automation-abb-ltd-and-more-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Analysis by Key Players, Product Type, Application, Regions and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 designed"
     publishedDateTime: 2020-06-07T07:10:00Z
