@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Rapiscan Continues Innovation Leadership with Acquisition of Advanced Artificial Intelligence (AI) Technology"
-excerpt: "Rapiscan® Systems, a leading global supplier of security inspection technology, has announced the acquisition of an artificial intelligence (AI) platform from Synapse"
+excerpt: "Rapiscan® Systems, a leading global supplier of security inspection technology, has announced the acquisition of an artificial intelligence (AI) platform from Synapse Technology Corporation. This industry-leading AI platform has the potential to enhance the detection of threats and other prohibited items using advanced deep learning techniques and computer vision."
 publishedDateTime: 2020-06-11T01:28:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/b16228918/rapiscan-continues-innovation-leadership-with-acquisition-of-advanced-artificial-intelligence-ai-t"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16228918"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16228918"
+webUrl: "https://apnews.com/fbf48aa30ec2482abfc369e16d109034"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "phifKbLm68Qx/Zv2S3DMVurok7qthtfsFyMTooPcBvigsV9PSrtgG+NfnbXMFg4PBpALQ0Qta3CLvT2PyafUWb5+PNtkye8d43RVkAODrJbDiPwVvs5qq83AT0+Pwi0nhzMeogEUaMNp85CmYWIm3S4ijW3S9BuqCycfjMhTUwvZRjRXCaxt7WtK3xKFlANsQuIo+CCdy1ERE4H5ar85B9xnUCCTiV38m73Pp2qq7pw2aYqU7ryGtvGN/5QK6lT6FlXRXf4Bw2s8JyCKAXYO6Y4cZ0uz2Rb9TXT2iWWK3b8FzKbPJYi1G05XRFGKpMDg;C7t+0cOERe64vUFM+YRLeA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "Rapiscan Continues Innovation Leadership with Acquisition of Advanced Artificial Intelligence (AI) Technology"
+
+secured: "bEmQDaTePgTE52r4iad6ZV7Ygx48+QaNcxfcNPnRDWqWmQFUCNSFgIrcrJvfay18mt26nsFD7+13OtFoKsEgn7W8yQpeoe0rYfD8kVJqLtRDw/c/Sy88wWPyMQLeFKU6WjhpOZ5scRKZH73cXZG5+YcSnQ7wnTINhvsdJzWHT6x8nnL2yxdR0G6zpBk9zxx6zLevtBfOM7OQPYtZq4R+YTppYx54SGHFdU5I4f8gaMDfCZufADy2SPu26BCRuniheh3TR9K9Tb7tMx6UE60+aJWboUR29ktjLxfo+y7S59lVrc9tApNZ1VQAXxiwumZR;nfQpJfudidRsP+ryBaQMJg=="
 ---
 

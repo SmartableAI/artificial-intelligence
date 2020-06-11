@@ -127,6 +127,33 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "George Floyd: Amazon bans police use of facial recognition tech"
+    excerpt: "\"We've advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology, and in recent days, Congress appears ready t"
+    publishedDateTime: 2020-06-11T03:35:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-52989128"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-52989128"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52989128"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10C9C/production/_110246786_facialrecognition3.gif"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Amazon bans police use of its face recognition technology for a year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T02:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
   - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
     excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
     publishedDateTime: 2020-06-10T23:05:00Z
@@ -140,18 +167,29 @@ related:
     quality: 35
   - title: "Amazon bans police use of its facial-recognition technology for a year"
     excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
-    publishedDateTime: 2020-06-10T23:07:00Z
-    webUrl: "https://www.sfgate.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
+    publishedDateTime: 2020-06-10T22:49:00Z
+    webUrl: "https://www.chron.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/12/41/12/19534494/3/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/12/41/20/19534879/3/rawImage.jpg"
         width: 1536
         height: 864
         isCached: true
+  - title: "Amazon Blocks Facial Recognition Tool From Cops For 1 Year"
+    excerpt: "Amazon.com Inc. announced Wednesday that it is placing a one-year moratorium on the use of its facial recognition technology for police, noting in a release that it hopes the move will give Congress time to place regulations on the technology's usage."
+    publishedDateTime: 2020-06-11T03:06:00Z
+    webUrl: "https://www.law360.com/articles/1281930/amazon-blocks-facial-recognition-tool-from-cops-for-1-year"
+    ampWebUrl: "https://www.law360.com/amp/articles/1281930"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1281930"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "HJ4YydXgd7GZzkQr1dV221zc/3Nh0FQk41lr9T4GbzbvSNUOPYyh/XTEiW/K19CoxFlmhtn8x9E+j3a0K2Tk+ZFwBgJ4NqXJwiG2BgZ4OS9aJx6PotoWgOlrLy8c0dAFdRA6JT6v1Zah+1ikG+2y4Ph3YEy8vZjoenYkk6eWcb4DUKAxKJri8qnHDpYfv80mKX7ic9OK90MBTceasZCNlMiLkjb4OBzxEz4PeZ4Th57FpF3qiHhxwS4Jsiz1ziFFdiMyJuTOxSb/7Yi1OiWUNNpguU1w6opVdQZI6TYGb3F9skKaRyPJ7H6+hPOcAeMfjdZ3S9xzDmpaT30VWJlSqN8bnES8QUjsartoRjAxbBwrh6IrIeY70hcRhAjppGTvUhTxBk6WyMhn0MKQ8/2XXEs0utxzqciefh+SbjVUa6mecpgm7AIOmx/t/ea98ubXAFXzdvdU5XUFkgCzUm0ICgP9Ce0y9sSzcxYoshjCnHpsqgfVt0K2/VWaqjt5E7vW;JJSGVpGTSe56uBfnvRrMYg=="
 ---

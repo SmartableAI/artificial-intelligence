@@ -31,6 +31,22 @@ images:
     title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
 
 related:
+  - title: "Amazon Bans Police Use of its Face Recognition for a Year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T03:42:00Z
+    webUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year"
+    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/06/d4d337363681d1a0d13598194286f274.jpg"
+        width: 1806
+        height: 1204
+        isCached: true
   - title: "House police reform bill includes face recognition provisions"
     excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
     publishedDateTime: 2020-06-09T03:34:00Z
@@ -45,21 +61,7 @@ related:
         width: 960
         height: 1200
         isCached: true
-  - title: "Amazon bans police use of its face recognition for a year"
-    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T01:19:00Z
-    webUrl: "https://www.startribune.com/amazon-pauses-police-use-of-its-facial-recognition-for-year/571170662/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
-    images:
-      - url: "https://stmedia.stimg.co/ows_158164340355681.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "Mdln4V+gJ3yuAkDXPSkjyk9ZbCOQoPoocnGh4GSLpa/5KO8UkHEwwJghoFltqtPfuKu+5faqEw/LCSd7USQnqOsrt0Gv79TPo+KK7FBaA/+KWq6mE4bS43TcnZY9JMEaAu+tkisq0oSYqUbeelm4Obz3Pu1BS7ROHnmuBWEFGRpi64q+lxjwpo+ypo4UnFPK6Lb/Cv++c2PpI3nUuo/TWRwbFTMZYOZFehKslhAU8Og1rYidGILQsCDzpLXgPrwxVffmc00HYBfnon+E+sgvJ4oqiLsNvG5DOMwR/SuorkbAs3orezNOHBV0DOxpVd+n;+PXc8DDt32XvMQ+hfzAX/g=="
+secured: "0BQBEX8sCfmUuZ/1YSaw648Cs0hoMUAxgc2R63v3anM/9sDkaLtgBo8DD6z660Jw4jfxgEEPuV3nNHIiAhz2vymCFE+FktUU4g4HFwDeRT2m8+EE7l67ogGZdtOBF5C77Hoihvuq1zED6rtl7xHfUz6rhkDY0bD2iIOjr/SVDYuUN0Ill5f7Lac9jvOKMzTXhKxrDdy4ZtmG9/zgRYyLsNO0kOZbis50SebUBBGJShoWk/3uD1FRpp0hjLW3bJXvz/H2HM3f7MGTAc0se+NQIxn3RBULtBnZ4rYC5eTO/5uT1N+4mHEwUzUl7x2jO/+R5BnDPlH2PG916NYnK82abQEWq7o534wjm7kzkuXsqPnclBSQ/c24itLbXyJHw73aYouDuO39fIOR944cJJE0DbJFTOZmULhDPju2LwBvttU42pOz7sLZbcTHJZOo2AAr2xrYkfgXaWmEXKZFg8grWAE2zs7SRHckqWpXuF8CkxQhHnZo/nhAeqfX4tpI3mpO;K9CnxssAg7VGO5TXkcNbTA=="
 ---
 

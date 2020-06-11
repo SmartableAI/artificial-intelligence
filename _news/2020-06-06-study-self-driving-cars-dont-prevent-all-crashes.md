@@ -38,6 +38,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
+  - title: "Self-driving cars could only prevent a third of US crashes — study"
+    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
+    publishedDateTime: 2020-06-11T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
+        width: 1000
+        height: 676
+        isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z

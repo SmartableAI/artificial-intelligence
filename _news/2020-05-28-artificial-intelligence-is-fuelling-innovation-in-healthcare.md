@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence is Fuelling Innovation in Healthcare"
 excerpt: "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI ... the dose of medication or even radiation therapy required at different stages of an ailment, thereby ..."
 publishedDateTime: 2020-05-28T00:00:00Z
-webUrl: "https://www.cxotoday.com/news-analysis/artificial-intelligence-is-fuelling-innovation-in-healthcare/"
+webUrl: "https://www.cxotoday.com/columns/artificial-intelligence-is-fuelling-innovation-in-healthcare/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Artificial Intelligence is Fuelling Innovation in Healthcare"
 
-secured: "waYWstrZFkR7+eeSayVp6MmEGHpLHKYQMIZVFVm3h5KWvQwuZaFqYqgy0kDAD6VnXk+dy6/+LVGI+iMgmbWzQf696F3Cg8HxjIzZ5l3tAdWVC84i0TOIXvWXYwVLOF5v0FaqcNqWKNXkeW12WHXXAkAPLOzAApBbUv9lLytxz6i+xLaOxPz5mtzIfaTguDvJHfa8BTEYPEAIOsQnZQYLNObe/wBZmaatPODhW3elTjykjxRspBZ6kcXeSTvKeEznTuSUYGehJV+SMwlPB2/dlFqY2UwVOTorKteosY5pTf9pVkzX5H3aUv5Qhu9A1qzj;cAkndzQmT0VOlQilUC1rUw=="
+secured: "RVIoiQMtKaidyTIgbXlO1gzC3w5KJLG6flBE39RxhHby+TLj/xaVzYN1t9oyk2lKyIj8P3obJ3WOqJJtuzWXQFQ/9NgW5RcGABYY+KXTjR8LcumWlJBKyJNTt85vjxLrSklo5vDMUlNC8iCZ6PAJD+ovLPMZYoM0zjB0lnFsnxsy9JH3FuK7Y6PHQOekpl/ZMeW2Ep068xCuCD8Ij1/M4nOqnV5wmoe9AGzKZ9BOIENFywEzDgdieAGFDE74moirlEywztgfLn0EfSN2l0P8nBK+rtyGKODk3awPZeO3FoV1CWewa7KCU5nNAaMK6+Xc;NcxdgfQhuY3CLiKJOCxlpQ=="
 ---
 

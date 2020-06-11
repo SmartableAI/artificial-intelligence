@@ -42,19 +42,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon bans police use of its face recognition for a year"
+  - title: "Amazon Bans Police Use of its Face Recognition for a Year"
     excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T01:19:00Z
-    webUrl: "https://www.startribune.com/amazon-pauses-police-use-of-its-facial-recognition-for-year/571170662/"
+    publishedDateTime: 2020-06-11T03:42:00Z
+    webUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year"
+    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
     images:
-      - url: "https://stmedia.stimg.co/ows_158164340355681.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/06/d4d337363681d1a0d13598194286f274.jpg"
+        width: 1806
+        height: 1204
         isCached: true
 
 secured: "gAMOa1Y/lqX/x2nrQlJgvcYF63MF8v1vlcdJJ462OfQhIB7OPtFzBOYVV49fgD/+x/yIi+pwdByCag/VCmzbn1B8WTnmvQ8+F6BuoQvOsJG5DRex07HHPkd8GOMDxsvPMOO/PwppkyVzrIpaaZQMG6ovL3mYYER/QSe4BfbGoMvNuAouWOrW6sGHvXSdHSqMUnJLiUiNEqSbJC8E1wF9Znx3drX713gqmM7xUkleQFttPRzjhPYT2mQ3Grz9Mo9EhXTc/nH6rr9d6Jo5TjEPzx1Krz6vLvQoU9O7Xk8gmnkT39T7mASfZ+gKCicg8kbEdruVtJIXIc6JwoLclonce76EcxyTTfAUioK91Bwa7lg97Zgv/vQBEIuu6YOwyeFpDOIz2pyUsN3q+exp2wkZo3PHUfclCL3CYj78wF+6fB+8gNfQwkOBx65aYG5SQSMe6SWoebDgo4zbhLkYo1s2hYzEgub31Ez9fOp/eL93LoY=;j9ug+1Qkl0AFV+5wDc1oiA=="

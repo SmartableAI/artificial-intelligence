@@ -7,7 +7,7 @@ webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-d
 ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
 type: article
-quality: 85
+quality: 102
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
@@ -385,6 +386,20 @@ related:
         width: 1776
         height: 1184
         isCached: true
+  - title: "Amazon bans police use of its facial recognition software for a year"
+    excerpt: "Amazon on June 10 banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T03:53:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/11/amazon-bans-police-use-of-its-facial-recognition-software-for-a-year"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/11/715285.jpg"
+        width: 1240
+        height: 930
+        isCached: true
   - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
     excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
     publishedDateTime: 2020-06-10T22:03:00Z
@@ -400,6 +415,6 @@ related:
         height: 300
         isCached: true
 
-secured: "IkwQ4KmCKXM95rYtgvQOAToc18mCfbq0jjM/HNTFjZnaTKH8XlUTP9MobtlYzPB3dKhmBl/tNhKryX6rexHh85+oDWRo54t0osAKCU9wGRuJfdVAjUFSBgUBZ/DlEpofYRb/fVKXVcQOX4wVLz7TqWyW6eHICWEdM27qhMQJQs2JovLB/lafkw/Nu5FPXUOGyOEL+F9bnLd81qRiZak/epQyySgZiy28Wiv0EKGqR8glZ7Q86Y3iwG8734t9dI4RjPK30mfGw+jEZTxR5ceGfYTXGwm6MelbEg23+KOy3NdADKxRw1LNIJ9tTthv6CAd;qOI3t/rP9psU1IH5wTUiyA=="
+secured: "378mDNU5MDI/L235ThxVhmd8RKwIhQILcKvengPJBLapv7boBWiIfBOJ25QsD3lWfeheEFNsmZ3qZ/nMg+yXVSOm1ax26vJkGpvOWa/wEwbWnnjSqpCPIhTb5MOisVAemjA4Z/i1Ez+YH/t1LQ7G1pqN5KwgPNdQOjBhVBRN7l0o8hgzb/smVlewa4DA97CdI2bqPgJdaDv5StihRYPdZ8mJBb0pUXGBvYHwJ+oq3EdJqNZMxEFjj5Bk9/0nsUob7k/7QsC4971ZXxEFaqAYjCLg6byK1BPa2bEsZdj3m9jiJU6/77pQph2isFZv9xJxMbBQbdZbBGA/s8qnOduPyPpcnMRaKYQyjzjhgxWsmo3KNbZEpXZKzY34HyX1iA7L61RX5VhcAKiHNW5PHU6EreHanXBCn/xPctVbAZukS/R4e8IqCT3o6G5BEBt3yhzYM05vGwu65Sk0KxesNIIgEepPnyNRk1RNQ81AT5YO9Zu5Otlc9w8w4vfneIwFwLax;JtthfFV3PEW3YKdwUZ+MAw=="
 ---
 

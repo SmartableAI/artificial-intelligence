@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Amazon bans police use of facial recognition technology for one year"
-excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
-publishedDateTime: 2020-06-10T21:34:00Z
-webUrl: "https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+title: "Amazon bans police use of its facial recognition software for a year"
+excerpt: "Amazon on June 10 banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+publishedDateTime: 2020-06-11T03:53:00Z
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/11/amazon-bans-police-use-of-its-facial-recognition-software-for-a-year"
 type: article
-quality: 89
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104617474-GettyImages-813883120-bezos.jpg?v=1591825130"
-    width: 2000
-    height: 1333
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/06/11/715285.jpg"
+    width: 1240
+    height: 930
     isCached: true
-    title: "Amazon bans police use of facial recognition technology for one year"
+    title: "Amazon bans police use of its facial recognition software for a year"
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"
@@ -94,6 +88,22 @@ related:
       - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Amazon bans police use of facial recognition technology for one year"
+    excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
+    publishedDateTime: 2020-06-10T21:34:00Z
+    webUrl: "https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104617474-GettyImages-813883120-bezos.jpg?v=1591825130"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Amazon pauses police use of facial recognition tech for a year"
     excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, reversing its long-time support of selling the technology to law enforcement."
@@ -386,20 +396,6 @@ related:
         width: 1776
         height: 1184
         isCached: true
-  - title: "Amazon bans police use of its facial recognition software for a year"
-    excerpt: "Amazon on June 10 banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T03:53:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/11/amazon-bans-police-use-of-its-facial-recognition-software-for-a-year"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/11/715285.jpg"
-        width: 1240
-        height: 930
-        isCached: true
   - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
     excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
     publishedDateTime: 2020-06-10T22:03:00Z
@@ -415,6 +411,6 @@ related:
         height: 300
         isCached: true
 
-secured: "U69zDt/sh/DStwIpgTuzgF36OsMuPLSf4jDd/cXQMeomZZcUj9IL0RZN0DZracJg1CtdOFPj8vjoEshpPyXqQrNUL4cqdIwqrw95YMlRFUYfWR85MEECsQEjBJbNVEDmQysruglZ9Z5MC+wBrMBjHiQphYDzoij8bNuIxH+QPAdmaNa/Gr13VB0gylzsFcrG1Ly3LCQMIj1JjBRWFwYYvZd/odkHBtDLb01evGgpIHExCmQOXa0J2AkSxYMu73qCxW0OnYaVcLAEbW58yNss6S4vX7rd75oeENwTYCAELNh6WrQYBt4FLGLNvrv9/WFcHIxaNxHb4ZrEC3tTW8CIHf+llv98mR0EWSv82KCe355EONo7Bc9He8UF98lBW5C8NIu35VtrcC/5aQ35fwxNEDWb5/7wHgJI84v7kyF8vj41Emj7CZPX0HzfyItXs5PRRWU+XWOoLTx5sOuIWTn3ynP+GcIFqbRlAdaXa++/733mxTpZvmNTShOpp6ezOJxK;Npb0tdL7h6Z2n0srpDZmTA=="
+secured: "NOsQXn+oimjXUaSqDjqpiUhhFhqSp1WX5xiXKOwlZYqYl7Zorfw2UMLNjtsSqn68LmnjtI7XVwxps0/U3fIQkhpVnDyLJM0hk71GBzXi4kYhtlcVCwkYtkT1qIVUMFkvJW4h5RSEIaoEIUlxD3ArvJ72MJil+LtBenMMZSeddNTzIZOkfVBBh/BB/++YkntwWGtseoCj8TuqL+znt40637Qyeaf+6e7PvXn1ASyTpWyL062hb2A1oFfcH5+qJfZH1gpX3wdiVTudXJ1XMjSK+g69QZdf4JRYV1jPzvyXcnQEncEPS1vRx3n1I8rqSsqm;eO3LtmE0cCJCiySlBen3eg=="
 ---
 

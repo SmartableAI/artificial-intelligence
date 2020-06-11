@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Amazon bans police use of its facial-recognition technology for a year"
-excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
-publishedDateTime: 2020-06-10T22:49:00Z
-webUrl: "https://www.chron.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
+title: "Amazon Blocks Facial Recognition Tool From Cops For 1 Year"
+excerpt: "Amazon.com Inc. announced Wednesday that it is placing a one-year moratorium on the use of its facial recognition technology for police, noting in a release that it hopes the move will give Congress time to place regulations on the technology's usage."
+publishedDateTime: 2020-06-11T03:06:00Z
+webUrl: "https://www.law360.com/articles/1281930/amazon-blocks-facial-recognition-tool-from-cops-for-1-year"
+ampWebUrl: "https://www.law360.com/amp/articles/1281930"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1281930"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Law360
+  domain: law360.com
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/12/41/20/19534879/3/rawImage.jpg"
-    width: 1536
-    height: 864
-    isCached: true
-    title: "Amazon bans police use of its facial-recognition technology for a year"
 
 related:
   - title: "Amazon won’t say if its facial recognition moratorium applies to the feds"
@@ -175,18 +170,21 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
-  - title: "Amazon Blocks Facial Recognition Tool From Cops For 1 Year"
-    excerpt: "Amazon.com Inc. announced Wednesday that it is placing a one-year moratorium on the use of its facial recognition technology for police, noting in a release that it hopes the move will give Congress time to place regulations on the technology's usage."
-    publishedDateTime: 2020-06-11T03:06:00Z
-    webUrl: "https://www.law360.com/articles/1281930/amazon-blocks-facial-recognition-tool-from-cops-for-1-year"
-    ampWebUrl: "https://www.law360.com/amp/articles/1281930"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1281930"
+  - title: "Amazon bans police use of its facial-recognition technology for a year"
+    excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
+    publishedDateTime: 2020-06-10T22:49:00Z
+    webUrl: "https://www.chron.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/41/20/19534879/3/rawImage.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
-secured: "D9RIi1u/aseTkVdD0MDfHP8Mr6FvJyjiIcT18PfxRzESp4JPvsuP2KsafY57n6306aGZ9nd1+eVYzDWarUE8epCuM7HzWIkaU0ueSMmWSmv33vrMDKm90r9lNEExrnzqmX+aqccbdsDXQKCKv5j3SqfpisgvibuPPBIOpje4lBvx3ST9EVTbGhFfMICgZ3KR7f8kbabLWcNIpeAoXP5B3I8xEtOsO7qv37pmissvZbEcellSfQ8DtNTYSXo7rCsd0p+wZI9xqxCE1pUkM2hpto+N/jCnlxSosLBZvrWmu0SKSC0jZ+WykSvES+7a0yBU;h3zTbjqguuwJTSd0VEVt/Q=="
+secured: "XKEHlK8BICfB9xy3cv8WE6PtVAkX1YM0x51tPRp1LDyWbc8pDjQh57liFKnf5X4TvNWHwqqjZCQvO40Hrlt0r1oFaADI8cxGtyi8o8/1S5aHIUXs7eFds1sE8W05SCRT1fj9hmnn7H9NWZY433VvYzpTeww9NklM/DfI2Va/ALUylBpE1fCD/+OhY/9nQHCMCJsS1V9QG/1cktJvaHaBawOdu+5V3W8gn2xyWFYTqiAQfQYv6BZPRBF6pfMZQBnrD8WL4QzJfQItNC42LitjFLl/TkAgCjh4wW2cTvV7arHncVD3mz4UQ/1lXGciPb3N+oqWz4TodkwJVmP+O8pg7GlQ7wJFGKl1J87AT7O/EffC0PE35dffqU/Sn1dkZFo6nkaE9ILY0qzyPRU177mAvSSQsY86x5Thwei/n5ImXfDCQ7Uz4jLupRn4CR7Ld6mMtVS87IjoMlxuD5ZE4rtoxsTYSpUz/UypsACuJgA/HoikGXuf80CUAxpQ8b9ztTE3;GBPcZlyf3KEtDkkKWhaZSg=="
 ---
 

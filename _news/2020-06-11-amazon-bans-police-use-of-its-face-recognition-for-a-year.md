@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Amazon bans police use of its face recognition for a year"
+title: "Amazon Bans Police Use of its Face Recognition for a Year"
 excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-publishedDateTime: 2020-06-11T01:19:00Z
-webUrl: "https://www.startribune.com/amazon-pauses-police-use-of-its-facial-recognition-for-year/571170662/"
+publishedDateTime: 2020-06-11T03:42:00Z
+webUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year"
+ampWebUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://stmedia.stimg.co/ows_158164340355681.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-    width: 1200
-    height: 630
+  - url: "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/06/d4d337363681d1a0d13598194286f274.jpg"
+    width: 1806
+    height: 1204
     isCached: true
-    title: "Amazon bans police use of its face recognition for a year"
+    title: "Amazon Bans Police Use of its Face Recognition for a Year"
 
 related:
   - title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
@@ -56,6 +58,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "ORUTZSG0mVysbtnIozTfQcbkDNrKXpxXEQC0AbVzrYlqvgTgUo/6cFhDV79F5RjxC0kF+bh7OVEGIbCU+CZERAgoJHPPBro1/lDjpgc75kC2hiG3Z3Ar5smLCHV/8eIITeZTqru8u8GitiFyFGchxMftxXjl5N+fPGQcwNNXm3njVaKeu3Y/flEnwrmR9Sl/nNvTioM0Yi6FlNNCrYYQzvHYE26Em3v/rk+UJSAu3gTJMElxz+pv2moBkmm7cgp4rmqiWbDiH4jpNP9ikZ+DFQDrNg5pJWQLCtPJEAoXj5zyQ2Z2OG/oLikzZLhPwhqY;GQLEX9+d5IzUvRoQlUf/Jg=="
+secured: "gUJESGRGLnniDgcvS92mjPrBslqga1HPf/behT04yMwq6fNg+51H83sLt+Yesct5095iu5tJv4QkzDVrkmANzUaZRKahoL+zQpNF52u+ZUOgNvVqXec1rLvDkJiBV++MDRJaONvy4OkL67aLsCPG9ATzHER2FqVTHWIPARX/F2Eux1wsMfKXzD79yhwhM/UfKPuHBhevh9lHw8KW3X4aJY42AvO1JpeGgqtZp2oN23m2s3QCvUWoxrCwSqDmkzXM/krGxHlJZAt/iWUbgnmAp71bLHXEbq80ZM7LArlro/wxmMkepjmbe8yBvBxxH1Cx;LDr+e4qtRQx1Bhej+zyJog=="
 ---
 

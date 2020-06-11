@@ -48,6 +48,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
+    publishedDateTime: 2020-06-11T01:43:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Amazon Won't Let Police Use Its Facial Recognition Tech for One Year"
     excerpt: "Amid nationwide protests over police brutality, the company is stopping law enforcement from using its most controversial product."
     publishedDateTime: 2020-06-11T01:06:00Z
@@ -159,22 +175,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
-    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
-    publishedDateTime: 2020-06-11T01:43:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-        width: 756
-        height: 567
         isCached: true
   - title: "Amazon bans police use of facial recognition software for one year amid protests"
     excerpt: "Amazon will ban police use of facial recognition software for one year, in an abrupt reversal that shows how quickly the dynamics of law enforcement technology are shifting. Police use of"
@@ -387,6 +387,20 @@ related:
         width: 1776
         height: 1184
         isCached: true
+  - title: "Amazon bans police use of its facial recognition software for a year"
+    excerpt: "Amazon on June 10 banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T03:53:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/11/amazon-bans-police-use-of-its-facial-recognition-software-for-a-year"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/11/715285.jpg"
+        width: 1240
+        height: 930
+        isCached: true
   - title: "IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance"
     excerpt: "IBM is the first major technology company to walk away from facial recognition technology amid nationwide protests for racial justice and police reform. Amazon and Microsoft have not followed."
     publishedDateTime: 2020-06-10T22:03:00Z
@@ -402,6 +416,6 @@ related:
         height: 300
         isCached: true
 
-secured: "IhnkFw0qhpe1JL68thrtfqj6SMQL+LTCTJFnWrX43q8J50l154AR6bu9foL06jGRsKn5ZnQzeXpVbQEFkRbyiDMNH0TXCkJ9H7cRe925YU8aBOo7haMv6QMiRnbJtyaDPOO+sst2dU7aGXre2jNBDL3nRdymhDszHHwhbBW0IRbzXxZDVQWTg291909k75jGoeaOzl7U/KbmGWS79XvKfg9qlYcGEnEaTA06jDMvuwPoGhVyPAQelZlyiaKF35aBMvnY9gxhdQn6XPcxeGLGH2RhXMQ9MSmmmBjwWVARnGBUGaTw4NCPrM9P2nl0q8TR;CocyHD6wJ0npBoPpvysU4Q=="
+secured: "BiUKtay+XpLX47W1axlllOPPhPCCyNm1usZDXPmg3TE1LMbeYoVbKz6mEm2z9QB/0dxqlNsUmcVeV/F09dBXz++v/n+XvpVaDA1ubLNzXpc05NVR810HgsvfSq9MGQWYydhe6cjsjAKXQMaD/gD8ZypdxWVdQFgDVZfuBCKvJuEFQ/dqFzw/rARNzeW6HX6neJlzh1hhFN0imuI9+672lP9Cd7iW3vT0kQt8zxCzd0rFrSnpWiOiGzCypcrmb5IFJUJ9CuRoW7UMC26YyXXdo5MvHTeIbDdshXqiLRlOdeeh8oO/fJk2fXPo9h97RJB6MRMeFGibwvzINCQ1VvlAfOLJJClfAhBgsG0dGOux8jZ58feDDa+zjcJZCIbA0BCpHiRI4xkwfosgAoNYbAuCKZxT12VOrp9h91q5r/FfBN0ryAhsT+7q3RC1YdikpeLTZiWJe3aciy0wYPbFoNvx/IK6z9Qs/C+BDI0yClxbW4O8J3nDA1mJs+c4j1AY8ldA;ZyxJWyXxPEkUO5dMlkTb0A=="
 ---
 

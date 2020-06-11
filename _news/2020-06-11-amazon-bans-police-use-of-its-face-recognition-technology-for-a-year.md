@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Amazon bans police use of its facial-recognition technology for a year"
-excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
-publishedDateTime: 2020-06-10T22:49:00Z
-webUrl: "https://www.chron.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
+title: "Amazon bans police use of its face recognition technology for a year"
+excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+publishedDateTime: 2020-06-11T02:01:00Z
+webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/12/41/20/19534879/3/rawImage.jpg"
-    width: 1536
-    height: 864
-    isCached: true
-    title: "Amazon bans police use of its facial-recognition technology for a year"
 
 related:
   - title: "Amazon won’t say if its facial recognition moratorium applies to the feds"
@@ -153,17 +148,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Amazon bans police use of its face recognition technology for a year"
-    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T02:01:00Z
-    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
   - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
     excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
     publishedDateTime: 2020-06-10T23:05:00Z
@@ -175,6 +159,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Amazon bans police use of its facial-recognition technology for a year"
+    excerpt: "Amazon has banned police from using its controversial facial-recognition technology for a year amid ongoing nationwide protests over police brutality and racial profiling. Amazon made the announcement in a brief statement on its corporate blog,"
+    publishedDateTime: 2020-06-10T22:49:00Z
+    webUrl: "https://www.chron.com/news/article/Amazon-bans-police-use-of-its-facial-recognition-15331295.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/41/20/19534879/3/rawImage.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Amazon Blocks Facial Recognition Tool From Cops For 1 Year"
     excerpt: "Amazon.com Inc. announced Wednesday that it is placing a one-year moratorium on the use of its facial recognition technology for police, noting in a release that it hopes the move will give Congress time to place regulations on the technology's usage."
     publishedDateTime: 2020-06-11T03:06:00Z
@@ -187,6 +185,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "D9RIi1u/aseTkVdD0MDfHP8Mr6FvJyjiIcT18PfxRzESp4JPvsuP2KsafY57n6306aGZ9nd1+eVYzDWarUE8epCuM7HzWIkaU0ueSMmWSmv33vrMDKm90r9lNEExrnzqmX+aqccbdsDXQKCKv5j3SqfpisgvibuPPBIOpje4lBvx3ST9EVTbGhFfMICgZ3KR7f8kbabLWcNIpeAoXP5B3I8xEtOsO7qv37pmissvZbEcellSfQ8DtNTYSXo7rCsd0p+wZI9xqxCE1pUkM2hpto+N/jCnlxSosLBZvrWmu0SKSC0jZ+WykSvES+7a0yBU;h3zTbjqguuwJTSd0VEVt/Q=="
+secured: "nToMhqtgXwN4v8fpRCdUytjWlJmUA6R6Y414CIznsy7LovcBsEWngC8l8XjLJj47YW3PfREQplxGU+gNK2xeXjsYRMzdBBTuC7X5ZPYR1yI8nmKwy7ZKXvlRQuFh/TSGmiRhFf/jATDesw3lQ/KsHYoQOgrBI//CAQah8wt+qNjIEnTWGgQ4G1OBBHvHUuLBOJpNz0zQ9mzGqtiEHTK0glrXmq8savPqsL/JDvpmoYtgCwgBMh6ANg5mtPKlm0pZeUvejMYxi8CwZsAwKhcY8mcrnMKHpoG331bpRDuKR6kxSR2WXgl/SplCw7KDGldc7wMBSwAR+CqGxj9i+cI6TSQPe28p2zmXvoDMr81LgM9BHFywDX5DWW7hj+Ip1sWoNZwvCo/Yf4u6XX5j/2xeu7s8kbDrIFsurAy4jfgaMrC9hQf6jyCfAbzmirSAq9NjdH5Ac4KANRiIPhvgIGbpq1VxPQAYh3Z9ibPcQlMb6TQNgLm3jtBZE/YbpJVcT4jF;a+puxKAO1nuqBXEqpZ0u3w=="
 ---
 

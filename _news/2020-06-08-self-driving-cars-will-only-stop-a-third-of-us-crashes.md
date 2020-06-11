@@ -52,6 +52,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving cars could only prevent a third of US crashes — study"
+    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
+    publishedDateTime: 2020-06-11T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
+        width: 1000
+        height: 676
+        isCached: true
   - title: "Report: Self-driving cars will only prevent a third of all crashes"
     excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
     publishedDateTime: 2020-06-07T18:43:00Z

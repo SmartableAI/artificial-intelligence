@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Report: Self-driving cars will only prevent a third of all crashes"
-excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
-publishedDateTime: 2020-06-07T18:43:00Z
-webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
+title: "Self-driving cars could only prevent a third of US crashes — study"
+excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
+publishedDateTime: 2020-06-11T03:00:00Z
+webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: motoring.com.au
-  domain: motoring.com.au
+  name: businesslive.co.za
+  domain: businesslive.co.za
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
-    width: 750
-    height: 500
+  - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
+    width: 1000
+    height: 676
     isCached: true
-    title: "Report: Self-driving cars will only prevent a third of all crashes"
+    title: "Self-driving cars could only prevent a third of US crashes — study"
 
 related:
   - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
@@ -52,22 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-driving cars could only prevent a third of US crashes — study"
-    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
-    publishedDateTime: 2020-06-11T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
-        width: 1000
-        height: 676
-        isCached: true
   - title: "Self driving cars will only stop a third of US crashes"
     excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
     publishedDateTime: 2020-06-08T10:54:00Z
@@ -81,6 +67,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
+        isCached: true
+  - title: "Report: Self-driving cars will only prevent a third of all crashes"
+    excerpt: "Companies developing driverless cars are fighting back against claims autonomous vehicles will only prevent a third of all road crashes in the US"
+    publishedDateTime: 2020-06-07T18:43:00Z
+    webUrl: "https://www.motoring.com.au/self-driving-cars-only-prevent-a-third-of-all-crashes-124616/"
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 24
+    images:
+      - url: "https://motoring.pxcrush.net/motoring/general/editorial/audi-autonomous-9-054p.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
     excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
@@ -111,6 +111,6 @@ related:
         height: 1706
         isCached: true
 
-secured: "o8VgunsZSvlBUUiGBBkLGQ4YB9cVaN4t4GosQNEm0V3v9qqro87ZKBnE1lkM3wDQJBhNuc5tfVQ5Fl8ltiP6SlgGNP9w6+RTGNZkcAOKcoETB4x9b0W6XTBCJJX0R0VtKXJG8GFlBNZ/3vcD5DgQrYxRDwUFN0mZnBOm+rSnSjTGH39I9P95ekhU9HmDU5YcFkAZWw6rixfUTMVsHmRozRteme7QXhREnMlF/81RwGdDX07D6Zj3DTFuLIOIWoa76T+e7fDpu08fpH0eJuw2NvLFC9RHAvy+NkjOHdKSqxzZxLHvDC65TktrlC0fvst77MONotYMC4LL8YTSi2IfOXzgCtMZQtpQLJvQXVsPcENwKiMOtKoavV2ast5YcriEW8c3wKgn5lG8HM8d4YsHVHpSJj37SQB5ZNILJnJ+Gi/Rqhk+K65j9UcQcEps+kcSSHZv+bA0Das+CWR06TY9S2ieKUCE+sVRoBz2c2xnfOM=;MpZ7o00lhp8RF7GnT6SUgw=="
+secured: "aJLYKUD09AMrSNEBwxR8PxfR8l7g1Y8jx3SMEfS/ZhTG6TAWPbJWnV5RcVv6BzX2WLi9I/khLeI3KiC4bH95AKzNOV6FpWMzAYCHVbbliSn55mXdxFTYCi2GgoRtMGah2ESneOUIgi8LLDq+mfOJM7+ZI9JQwbt9uYBlpCC73dnWwcC6ELt98MEX5723Zbllk/+I0YulTOSG+3gIedx6AxzSfCTMoGeIvafxyCjrRegbxPUKvwXWw5AP5yrCa95WRF9myQfu+SXmI+QMXENO/S9oMpps6OB2aW9aPUwmQLEKkpGl6th8B0GIfQ6NcU7X;BaLevGemuG25Xnlire7rYg=="
 ---
 
