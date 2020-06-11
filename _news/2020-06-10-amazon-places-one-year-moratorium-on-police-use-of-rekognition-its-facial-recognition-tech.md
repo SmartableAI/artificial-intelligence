@@ -3,11 +3,9 @@ category: news
 title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
 excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
 publishedDateTime: 2020-06-10T22:45:00Z
-webUrl: "https://www.thestreet.com/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
-ampWebUrl: "https://www.thestreet.com/.amp/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-places-one-year-moratorium-on-police-use-of-rekognition"
+webUrl: "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html"
 type: article
-quality: 49
+quality: 92
 heat: -1
 published: false
 
@@ -16,15 +14,7 @@ provider:
   domain: thestreet.com
 
 topics:
-  - Computer Vision
   - AI
-
-images:
-  - url: "https://content.jwplatform.com/thumbs/pnoedQhp-720.jpg"
-    width: 720
-    height: 406
-    isCached: true
-    title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
 
 related:
   - title: "Senator fears Clearview AI facial recognition could be used on protesters"
@@ -187,22 +177,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "PimEyes facial recognition website 'could be used by stalkers'"
-    excerpt: "A free facial recognition tool that allows people to find pictures of themselves or others from around the internet has drawn criticism from privacy campaigners. PimEyes describes itself as a privacy tool to help prevent misuse of images."
-    publishedDateTime: 2020-06-11T14:37:00Z
-    webUrl: "https://www.bbc.com/news/technology-53007510"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
     publishedDateTime: 2020-06-11T15:22:00Z
@@ -266,6 +240,22 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/IMG_3773-630x473.jpg"
         width: 630
         height: 473
+        isCached: true
+  - title: "Digital Trends Live: Amazon bans police use of facial recognition, PlayStation 5"
+    excerpt: "On this Digital Trends Liv,e we dive into the top stories in tech, including Amazon's one-year moratorium on police use of facial recognition tech and more."
+    publishedDateTime: 2020-06-11T19:57:00Z
+    webUrl: "https://www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/"
+    ampWebUrl: "https://www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 84
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/google-wing-drone-feature-2-1200x630-c-ar1.91.jpg"
+        width: 416
+        height: 217
         isCached: true
   - title: "Amazon imposes one-year moratorium on police use of its facial recognition technology"
     excerpt: "Amazon will impose a one-year moratorium on facial recognition software contracts with police, technology known for race and gender bias."
@@ -342,6 +332,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "Amazon bans use of its facial recognition technology by police for one year"
+    excerpt: "Amazon will ban usage of its facial recognition technology by police for one year. The decision comes after calls for tech companies to respond to the death of George Floyd while he was in police custody in Minneapolis."
+    publishedDateTime: 2020-06-11T19:15:00Z
+    webUrl: "https://www.cnbc.com/video/2020/06/11/amazon-bans-use-of-its-facial-recognition-technology-by-police-for-one-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106574337-gettyimages-1242649146.jpg?v=1591897455"
+        width: 4897
+        height: 3265
+        isCached: true
   - title: "Amazon pauses police use of its facial recognition software for year"
     excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
     publishedDateTime: 2020-06-10T23:46:00Z
@@ -389,6 +393,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
         width: 600
         height: 360
+        isCached: true
+  - title: "PimEyes facial recognition website 'could be used by stalkers'"
+    excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
+    publishedDateTime: 2020-06-11T14:38:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-53007510"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53007510"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53007510"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Senator presses controversial facial recognition company on use on protesters"
     excerpt: "Sen."
@@ -585,6 +605,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "fVN1pepKcDgbdiQJDekxJ9x8fr10/lyAKzVw+n9d+sEYt+svoNiFxEj1Ym5dQKRCW3vglYfYHeMMijD2UcF7GpNDeUxiEUi7/ZO5HrwyNKPzVLTj9ZncahJf70CU9k/VNdC9pVgm/rMeNlFdQ3Pvx8FJ5HLIZYmE7DhuyKEHqbC8DSgxlSQ+NxoSVDghWLEILF7yG0HlkefOkTvIIjuN7cOfmXh+NMMt3NrdCsI3WiOFzNOjH9v1v8mfywz8CK/ky4hk9QaAzbY4sjnhyMXuwU0i5FSfsOFTiLZfBdbB5FL/5gIXXGrtIsJciXTR7Q+vAFo1HOX7OP2cMg7Gt/jBIe6RF4akB3Kt/I+OfFXgxfMU0g2AQfcmq8iaPo7dU4ag5TLG0mXcoX5RBZXdpNSIv3lgn/3K89IkNlryiz8T6l5zZVKQpp9zbqeac8A9ttxofwL0kqidBfrTyMMDgr03jfwDHWrP7qKvd5NCMuztEOF8JSZL09twGG7jkT3jZznT;sKQIQjcjFyXTEJTlm+pIZw=="
+secured: "1SWCYKj6RxKlRwUNDAIwW1vTLbQIfyvszDWGREWC0pAkNhDbIVdQ3YTdIEwgJhBJ8D5+XLbFLeibFpRc+d/0wptgQtmQRIb9+IudZkNbvRxy4ytjAq32o/ZAYzNxNU2qhISkUFf2ICo5wUKbe2PM7Al+ZcoOQC0uqW9DoK1aZ6lhQKpmkY5vuBqGeYC961thUdzJyGfI1aqLR/7J2THCAuSewDTMz1D6iZXw0z83Q0NM/WUuAt3ob9g0vvZwjHNRGOK2pwGn+d0oDrKwFWUkVXf1B+gT4V82Asiu6Acwe5XccPK7idhh7e9BwSuVqTM/asHC+Qr/5KND6VdAHNulLFwtqbNYgLmHSh23iWBmJbiy6QPXkD9aAGmmbqlPmu618b3T+u4ISuYjArprERqiOB/FIveyK7wM45RB67pIaWO8xojvPn0TFOTEBEjj+C5Dklbx0Okugr7cR7BpRDuOKT7QVZc4BS94sg5WSFw5iqHBvPeNOgXF0VEIzAw+K0w7ri0VaIW4+4lDhXF8lA+Ymw==;NyUH325mdUjo1+KfGaT/vA=="
 ---
 

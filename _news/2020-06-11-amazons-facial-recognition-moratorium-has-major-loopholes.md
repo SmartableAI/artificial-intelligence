@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
 type: article
 quality: 91
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -295,6 +295,36 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
+    excerpt: "Amazon has announced that it will put a one-year moratorium on the sale of facial recognition technology to police, but is it enough?"
+    publishedDateTime: 2020-06-11T19:19:00Z
+    webUrl: "https://tech.co/news/facial-recognition-delay-amazon-2020-06"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2020/06/11132406/amazon-hq-facial-rec.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Unlike Amazon, Microsoft never sold Facial Recognition technology to Police Forces"
+    excerpt: "Amazon and IBM recently jumped on the Black Lives Matter bandwagon, with Amazon saying they were putting a 1-year moratorium on sales of Facial Recognition technology to law enforcement services in USA,"
+    publishedDateTime: 2020-06-11T19:30:00Z
+    webUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/"
+    ampWebUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 38
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/04/Microsoft-Facial-Recognition.jpg"
+        width: 1851
+        height: 1017
+        isCached: true
   - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
     excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."
     publishedDateTime: 2020-06-11T00:46:00Z
@@ -376,6 +406,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "LSiNGw6cmwwOPIKyVYOkG5FISgRfFmqasn7qkbS+8BQWTxCZh9bYZyAJuy7qWoNpQGGzpZlqZJioz/2d2hqY9y+ZHAiqowzdu4M0EfPICkx2pCmT9DEKCTrG+7aJbWufneoAb293+bnPfQhWyisAS+qSfxvvBJ2Zlsrg7sqkpahoutzZwL3GRNSMV7KpvcqidLEORxbZ04mWYi8vjQl/SmL2ZIxKumZvEe6iNqUwtXDLMrlXg9pl4r8i19tafwSVECl76f+1woda8Fz1P0CQqxHHfHZIG5dT23KmmA0tS3XaG3l0XVRygn0wsaXwdHse2oG+E220Of6aUtu52gXAGqXpTu5JcfDyB+J+7ADvzyzhQnvk7uiFnLZhyyUqrQTdcnMkqXdNDZ/KLL+oJZIglCi4a2zsAt2XWuTwZykkp0npj+rZd2rLQrtDeb8JV6fVPiHSct4X9qEPnl9reGzYIOxBFmjdXP0cOjkwXjy/6Hvu+ZYxtmemvNnJCJg7nYBZ;wLqZ65JAilvA55eluNbUmA=="
+secured: "GHY5/89NoefzR4WGeCEHNpMJEm4G8GFi/WGiKLn81QzJUXESOzSKINgr82K35OCFbGaFJeCFnOg0mo+DgNdw856tDrLWijiDaAlloQzzWwqvVD3LqNU3bfffll7+Jam9N44w+VxHyQNIAh89Y6DHn3id5ayYoR83qTkar0HYpTF95181D0OsZVqtsBHicAqvrJ/F/zolV/Hos84YtJLpoqRTPKav1nWPOipM+u0cjnVWZ+t+bwqZB/jCigwSkEOBTsXBBnqK60j+4jrbNFQu4H+SabkLhjZJ5atvoCRNa/YtSnKyH4HDvtFr06icutzS4KAgavMB7BrtpgQuwo+arTBVEqoFEhfFdaOTCXBi4PjqnsTXdqZCArKcudV6EMj/IC02zfzACHzGYUj2G1BFpDOkDdGlBigUdJf6KJP1RUAQL9lTXFva00g5lFQm8cJ7oa4qzF8TkIxAXTvDTcEJGoWp5+IfTQF3oODaSd0B3u+ZWgWXmz6N1IrJH578TswH;ndlAIaIxWOS5rpeQxcb5/Q=="
 ---
 

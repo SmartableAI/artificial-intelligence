@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning"
-excerpt: "Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States"
-publishedDateTime: 2020-06-11T14:26:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning-301074544.html"
+excerpt: "This robotic learning patent covers methods and components enabling a robot to autonomously improve its own performance by closely analyzing data associated to its previous actions and those of other robots,"
+publishedDateTime: 2020-06-11T14:54:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-robotics-granted-new-patent-from-u-s-patent-office-for-robotic-learning-1029301185"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/deep-learning-robotics-granted-new-patent-from-u-s-patent-office-for-robotic-learning-1029301185"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deep-learning-robotics-granted-new-patent-from-u-s-patent-office-for-robotic-learning-1029301185"
 type: article
-quality: 31
-heat: 31
+quality: 61
+heat: 61
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning"
-
-secured: "znSv7f1C2wqnisqYxfCQBX7iXlwH6SDs1FA1ZPdQGyfrWx1OmcG5K0Cc+aAx7xpEZO0VZrFjyeJykooXL4ZbKwcUZYtYLkw6lyD3ngqXnulHqbRUBixD9QhQpioBS671fzvVYPBpm6m2n5M899SEnKFIPuIhEZtYyIFU5SZb68hCTd0rowwxqEGUqeJQL+nvzHdyo5ZeWI0U+GcuEmqZyDQecg2ocdLiy3DB0oG+pLYAKHW3mVMYuJ7F+E/5MANg+TQq6jJ+paCrzAOWeh5r5LTp+olg53LaAHId0w138RRfjpyNFoSNxKAhpBjby/7p;gm+FL5lxXAHMbAteBd1aeQ=="
+secured: "B40Fjdx9+/RA5csRw2E7ad9/saGjA3J3RGE2WUFC4vCjKZBGTBgUhsr0iFFCoZza1KqBZwYEsi7jz9QqhVwrVKH55wOCZQPOC7VnpD3iG5heo30X9nu5gpvjfbGW7WaWfjtdDnTkUn6b4EQDNOC90qggDvVdY5zZQHan6orka5tE+vhoIJ0QMEfC9hrXfjVvSYUIs5t15+inL4ZaD9MJvuG/OailUQQ3CO40ppHV6WCpjQOMwIi2ckGy8ZfsN+yj17UsDn6KYVQVPsfOyXUqzcv/2Q+PaVGMlyHWF1QPHs1y+crZB0REeg9bmAQg5nEu;Lu8NuQwD3XlcY+CCJCiXwA=="
 ---
 

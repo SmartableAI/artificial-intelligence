@@ -34,44 +34,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon bans police use of face recognition technology for a year"
-    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T13:14:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 61
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/PrimeRisk2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Amazon bans police use of its face recognition technology for a year"
-    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T02:01:00Z
-    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 41
-  - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
-    excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
-    publishedDateTime: 2020-06-10T23:05:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243441421.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243441421.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243441421.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 35
   - title: "Amazon bans police use of its face recognition for a year"
     excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T12:58:00Z
@@ -86,20 +48,17 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
-    excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."
-    publishedDateTime: 2020-06-11T13:48:00Z
-    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/06/11/the-technology-202-amazon-s-move-to-temporarily-bar-police-from-using-its-facial-recognition-software-could-have-long-term-consequences/5ee127a2602ff12947e8986d/"
+  - title: "Microsoft and Amazon Adopt Temporary Bans on Police Use of Their Facial Recognition Tech. That's Not Nearly Enough."
+    excerpt: "Both companies need join IBM and others in entirely abandoning the development of this mass surveillance technology."
+    publishedDateTime: 2020-06-11T19:25:00Z
+    webUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/"
+    ampWebUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 0
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/fb41caf0afeb8e797db1ee5a2b729fac-TTIT2NDAMEI6TPZE3NFZ7NRKUI-680-383-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 835
-        isCached: true
+      name: Reason
+      domain: reason.com
+    quality: 2
 
 secured: "7ehxQ1sjSqXKq9TeINiTtyxhH0KXMOKKDhrRjx7DlWKGVHd+QHr61pOEM1/BCowzIWtiiQjtG41cGB645RP/crvyw95sAi9uWTsuOxGdv27kZWGdzWAadSZpHD6AmwRFDuyXekrXcd3k78C31Jo90WLooCO+XpEO7i8go0FeMIy3j7Ugg8I6rz5pPMrZkVDrlB5kQ5TMnLyG/diRSJ42Iz2YF05gH7fmoCJXfeYp75pKpjnbG9wbBNLiWNo9E53cgQkcAvWCkEJBpzKsCCy9czM86ndU6cK2VGwCRRLoHwN1yRg5oec9UpenzCsArbLJ;bT9AA+is6Tv7LT+o2RH3tw=="
 ---

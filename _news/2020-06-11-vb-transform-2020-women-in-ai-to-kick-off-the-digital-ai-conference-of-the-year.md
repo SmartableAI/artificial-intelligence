@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "VB Transform 2020: Women in AI to kick off the digital AI conference of the year"
 
-secured: "ebVK9hpWnmjTllAYlo70yQu45pZaIEhJBht+U68mz7WdqJhkvYCV5pnUzuvJNN+FjRli9RiM91HMLWRxDQUOgqeyteCCe7p/tT68s7IQ9rFFoqZNb2Nq2+CpKFsOnsVX1A7c2aXMayLwffFEJtpX5kBD5PCop8LUtEY45+FX77dBEuefK8js4KIymi/m04AwbNornmU4/tKCzTGt3LbDz95v9UM3IseG1XWfzxhbuQmvgZWGIXo5l6mpqrBw6lYhgg+6lJEaLXo8phptFIcybDz6+VPJOvMOPwHhMt4yd2hGrvHW8xkWuksrC4qXEOAz;MAntqtIUiEieC5Is8JqARg=="
+secured: "/11zjJ1juzb4QHrlxLfLY5CT6uynkvytvL2vk6cym8n+4yI7EbW01D62HXQ+zAHO/0OnVNkXpGKZd/qxfgLyGQVdfA1Ue+964MAem5pTjY4gzWmp13+QUWgEVhlK998bb1RE2OYv9IRfji3E6/8Q5dAVLdly/gc7nGC8mBRyV+FhbF3Bs2V6nX+oRCXVrRBsUhBLFyQAh+zb4Tl41fFhGLKn/lE826c3tkFJem8jHLxyXJQVvOWLeITvQhqVlofvespL4+qtLnb8DAby0BzrVZndPC4fXUYgWr5nWSMjx8ySwJeLIb8J+NT+jGSbGQCrZ1mpkWTuQIFMmpuMtejcakJkS/oUHuimEBz7wChdn+O/LDR+Lx2Y+XS22i7XnPlBpM69oASWySY98XSPJWOtAB8cdWaYisZ8Pw59fj03sVrcUnyjtzyoYjjroTUQiPRu74K5eXR91wnzORjeOewYlpIE/fpcUIi44BIWjWleswjLJA92d5G0MLri9y5MZHh4;KOiwIqWR8JLPrA0ThkZgCQ=="
 ---
 

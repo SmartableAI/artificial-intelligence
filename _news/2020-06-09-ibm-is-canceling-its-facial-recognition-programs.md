@@ -57,6 +57,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Microsoft says it won't sell facial recognition tech to police, either"
+    excerpt: "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments."
+    publishedDateTime: 2020-06-11T19:46:00Z
+    webUrl: "https://mashable.com/article/microsoft-facial-recognition-police/"
+    ampWebUrl: "https://mashable.com/article/microsoft-facial-recognition-police.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft’s Brad Smith says company will not sell facial recognition tech to police"
     excerpt: "Microsoft is joining IBM and Amazon in taking a position against the use of facial recognition technology by law enforcement — at least, until more regulation is in place. During a remote interview at a Washington Post Live event this morning,"
     publishedDateTime: 2020-06-11T17:43:00Z
@@ -89,6 +105,17 @@ related:
         width: 630
         height: 418
         isCached: true
+  - title: "Microsoft won’t sell facial recognition technology to police"
+    excerpt: "Microsoft announced it would not sell its facial recognition surveillance software to law enforcement, joining other tech companies like IBM and Amazon."
+    publishedDateTime: 2020-06-11T18:51:00Z
+    webUrl: "https://www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/"
+    ampWebUrl: "https://www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban"
     excerpt: "AI experts and civil rights activists have been campaigning for Amazon to halt the sale of Rekognition to law enforcement for years."
     publishedDateTime: 2020-06-11T09:53:00Z
@@ -118,6 +145,22 @@ related:
       - url: "https://i.insider.com/5ee0f1d9aee6a843fb52ea14?width=1200&format=jpeg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Microsoft says it won’t sell facial recognition software to police without new regulations"
+    excerpt: "Microsoft's CEO said the company won't sell facial recognition technology to police until there are regulations in place governing its use and will review other uses of facial recognition software."
+    publishedDateTime: 2020-06-11T18:43:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police"
+    ampWebUrl: "https://www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2ed60b7/2147483647/strip/true/crop/4090x2671+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F12%2F4a7b1d1667136b58ec594e6be9f9%2F4873522a665546ba9020de6e20373e7b"
+        width: 320
+        height: 209
         isCached: true
   - title: "Policing Reform Bill Would Prohibit Embedding Facial Recognition in Body Cameras"
     excerpt: "The Justice in Policing Act contains several restrictions on the use of facial biometric technologies for federal, state and local law enforcement."

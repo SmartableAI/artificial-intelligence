@@ -294,6 +294,36 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
+    excerpt: "Amazon has announced that it will put a one-year moratorium on the sale of facial recognition technology to police, but is it enough?"
+    publishedDateTime: 2020-06-11T19:19:00Z
+    webUrl: "https://tech.co/news/facial-recognition-delay-amazon-2020-06"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2020/06/11132406/amazon-hq-facial-rec.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Unlike Amazon, Microsoft never sold Facial Recognition technology to Police Forces"
+    excerpt: "Amazon and IBM recently jumped on the Black Lives Matter bandwagon, with Amazon saying they were putting a 1-year moratorium on sales of Facial Recognition technology to law enforcement services in USA,"
+    publishedDateTime: 2020-06-11T19:30:00Z
+    webUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/"
+    ampWebUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 38
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/04/Microsoft-Facial-Recognition.jpg"
+        width: 1851
+        height: 1017
+        isCached: true
   - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
     excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."
     publishedDateTime: 2020-06-11T00:46:00Z
@@ -375,6 +405,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uS6uBQQD3Y9SiBZ3fUGOt4uiq3o4r0re1HFvH56eht7IQJ2Iav/uQQR+RU+4SlpERuJ1eSDHiMvhYndwmBVWMreeItU0Lq4Y04TJUelbgbgZ5vxf2DTIw7JscLMZvuxg8AZaF3q5LLFjOzIYsFA3iHN6s9JhCDabXIDMO4qDaE2LQoxW1oM1y4Uc0vvYXiCeVTVfHzG887/kmK3b92kfMQ6Dfi65CERRPK0CucA+A80BnbdBgOmSp1fy6dHHBHPMb3BBNLUni+jhfgxiSQOWrXGy7WMYhMbZO5fspX8CJQzNbVlRaqmp2N2ulDwapyRq;e+COFzgEU5nCTwMYYgcekw=="
+secured: "zoK4oNXuRjgOzr4r+n7COGH/UTPaIp3PiZdig7KnowLGAmjSZDuvUty3MJehepsID5HWG4CPIng3aJOs6i5xssCOyJvEAyh3eGC/FUfT0u2UAjcliwMB+wIcf9oCw4dxQ4Yq8QMENzgP8rRGRXWZLTtMq9iTZ4tHsm3UGCE+y7u8BUo/zh4gFBYMnYU0wPTPaDz46Vbi7osJt71cWBTHwA+koXJ7izwVpcEpchM2RVBhgSBgANjx4p9Efmj70jn0bmxqXCauRHaz3o/9BHBIq8Z2JzfCLntjUFI9yrU1s85A9PJ0MBYCj2Vl37fcCqAVVSpccbkRweKzuENdjJLSQ10yaCqHKQiSI9bgkib8R4lEbQBHxvf/hcnVN880YWRk6ke4Ay2N3WbXz9ITUvLjm+chZzsSuOG3iQG62z5pL2AUo7Qai9iG3zROpN6ToTDS0ejZG5I0LTf46uDYI6MV9xO2wic6Gr8WtBIGb6hvcACRwisFBdN2BlBhyELQAsXu;1aNngoP87jcf7s+M7SyeSg=="
 ---
 
