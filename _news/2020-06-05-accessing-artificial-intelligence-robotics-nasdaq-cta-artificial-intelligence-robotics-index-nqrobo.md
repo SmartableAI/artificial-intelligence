@@ -19,6 +19,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - Facebook AI
 
 related:
   - title: "Top Robotics Investments and Funding in May 2020"

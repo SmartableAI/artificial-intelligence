@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-ca
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Rise of Robots and AI in the Coronavirus Era"
-    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "DIU looking for robots that can kill coronavirus"
     excerpt: "The innovation unit based in Silicon Valley is looking for hardware solutions to stop the spread of the pandemic in military installations."
     publishedDateTime: 2020-06-09T19:50:00Z

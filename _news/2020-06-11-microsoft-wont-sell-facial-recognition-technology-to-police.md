@@ -88,6 +88,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft won’t sell facial recognition to police until Congress passes new privacy law"
+    excerpt: "Amazon on Wednesday said it would stop providing it to police for one year to give Congress time to put in place “stronger regulations to govern the ethical use of facial recognition technology.” Microsoft president @BradSmi says the company does not sell facial recognition software to police depts."
+    publishedDateTime: 2020-06-11T18:07:00Z
+    webUrl: "https://www.theverge.com/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    ampWebUrl: "https://www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 81
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
     excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
     publishedDateTime: 2020-06-11T17:32:00Z

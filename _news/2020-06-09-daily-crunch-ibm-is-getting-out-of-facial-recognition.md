@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 546
+heat: 556
 published: true
 
 provider:
@@ -515,6 +515,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/e78e101/2147483647/strip/true/crop/5685x3713+0+379/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F04%2F0062bd8046c6baded94c42e07e03%2Foe-john-stanley-ford-ibm-1950s.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
+    excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
+    publishedDateTime: 2020-06-11T20:31:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 54
+    images:
+      - url: "https://content.jwplatform.com/thumbs/Mnx8rjTc-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "George Floyd death: IBM scrap facial recognition software over racial profiling concerns"
     excerpt: "The tech firm also calls for greater transparency and accountability to policing following the death of George Floyd in the US."

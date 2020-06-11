@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence is Fuelling Innovation in Healthcare"
 excerpt: "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI) has become a key growth driver in the healthcare industry. According to a study by Allied Market Research ..."
 publishedDateTime: 2020-05-28T00:00:00Z
-webUrl: "https://www.cxotoday.com/news-analysis/artificial-intelligence-is-fuelling-innovation-in-healthcare/"
+webUrl: "https://www.cxotoday.com/columns/artificial-intelligence-is-fuelling-innovation-in-healthcare/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Artificial Intelligence is Fuelling Innovation in Healthcare"
 
-secured: "nVBm2ebyP5W6sZB/U3K3OHnGtDGzV2ZwwyeawdCZcRC4bBUwucjzO5LFaX49iq1TDJf3VMHD5NoRjx/ePquqpfilbPsHtrNw3aCkteEMOWL44zeQxdfqkCk/CcKXgtOsJK/RqypK3lLxj5jFbpqcuDAHFkhztKLYBIz2WPA7V+nFby5KsgqC4eZ+glBjZ1bEK/nKNklVhNCtJGt3pP+Pkqd5W/g2QoohoIssBn3dF97L5FIpmleJAZGkR3T3v+5pthFfeaiqT27hBAkgtYE/s77OSNaDKEw7zmyo9M0avpCHAUkbX8QbIquQEED01Vjs;zCqT9hGdsdEXfeShbnd/+Q=="
+secured: "l+F6k/otv252zfdHoHvxvHeGmrkOjVjvfOK64ZPL0XuNMJ55Vmdm4wTIoacptaOZpWp7VIY9hqNXFRTld2KXraA6CKyqWLlpQM/dikVoG1AmpYm6RfvZYrEsVxiuJvzC0CvknLLUAS0qinqZLNnm30fw6hNazVwvxKAdXlTH2ECMBOX5+kvQlszd595Mn7T0b9EhyoKVMWsnRj5LEfC9gBOPyHjc0XglzdtI2JkMyv0eJPy0p3M+UV63hegDTBKhJ0vf9ZbFMEtzt5svi21eXoPQx+JZXOtC5iHsfVQEbzTez1o/F5ZYwgCv5cX8xL17;hqMCz3Hz9m/EKbDfZozCCQ=="
 ---
 

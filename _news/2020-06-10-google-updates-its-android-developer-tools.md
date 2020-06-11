@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/google-updates-its-android-develop
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4&amp"
     cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?scrolla=5eb6d68b7fedc32c19ef33b4&amp"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 43
+    images:
+      - url: "https://www.androidpolice.com/wp-content/uploads/2020/06/09/android-studio-hero.png"
+        width: 920
+        height: 498
+        isCached: true
+  - title: "Google announces major updates to Android Studio and Google Play Console"
+    excerpt: "The big news today is the official release of the first Android 11 beta, but that's not all that Google has been working on. Today, the company also"
+    publishedDateTime: 2020-06-11T07:25:00Z
+    webUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/"
+    ampWebUrl: "https://www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?amp"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/06/10/google-announces-major-updates-to-android-studio-and-google-play-console/?amp"
     type: article
     provider:
       name: Android Police

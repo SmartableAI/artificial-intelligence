@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft won’t sell facial recognition to police until Congress passes new privacy law"
+    excerpt: "Amazon on Wednesday said it would stop providing it to police for one year to give Congress time to put in place “stronger regulations to govern the ethical use of facial recognition technology.” Microsoft president @BradSmi says the company does not sell facial recognition software to police depts."
+    publishedDateTime: 2020-06-11T18:07:00Z
+    webUrl: "https://www.theverge.com/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    ampWebUrl: "https://www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 81
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
     excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
     publishedDateTime: 2020-06-11T17:32:00Z
@@ -177,6 +193,6 @@ related:
         height: 400
         isCached: true
 
-secured: "XwGU8EFwJrIOdCWULNf8Bt0cp50z+iWNlM8hCwKsj6CejZNiFVHyi7xBkvK+zEyVf3RWAhVOm66mToaNDofy5uEf4Lcqte3WWNqN8IH36TwS9CWhqotEUm1tszfM8nTt7whB45kq/SUICUEPobd4D8WaGnGtk4dx2C0801CblLZ2OsMcD14PFHhqM1VuI79u/2vn5likmqflE1yTeLebT3XREa/LVhh2teeHs+9Ozb8y5L0lPxrBOxJcAF3fjcX9BI2NUzRnCKPB5pdfTvSNjt9r4WPCSRwhYcBpsOlUtDf81+6sr1ScTDLW5Aelb8fO;42paLsh7WVSx5sbTNApPdg=="
+secured: "GmcRq9rOldiDSFei+QOJlwfFlkWJDui0+tGqDYGVZM8D+XZ6NMpTWJudcwKI8k2jXyE++MIJposcjN1NJNgVfanF54gQcfSe1w7p4gRZwluhtzWdZzR7Va/8GhxBCE+dvGCnY8Xdq1ekgRu4fw52KGBVxKvbUGiHJG4EFary5fwjD1ig0LabIglbzep7ICGSF7qfSlfof5LhAs1wlDkEu5c/bCzkl6QjPMATBb9FyERmNhd66StOblgPplWMYjgEDMDBaox6FjBgzYJZo/OcKY33+4PiW2jcAhWtV8PUJ7Nii454ix0QJYm/mNPFUd93Cz+e+D7kYf6oESVQ8xVJnk0017ntteYuKLCtbkGXMLcpwNIu8gXN+Mpdb7QLbDPGCtQVoIGlcg1QwNzNgrmZ2aqun8MEXtSZLEm0rhe3+fsowLYnwAp9JefhfALsslrQPyDixdUGL95wFpet79xzO0fUp/ZtEdeNnu0+LdeLLPo42QR7REMJaQuJi/lKWQr7;xMBgakfnYj2Ig/oU5UJaMg=="
 ---
 

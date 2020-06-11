@@ -87,24 +87,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and their business strategies,"
-    publishedDateTime: 2020-06-09T22:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
+  - title: "Artificial Intelligence (AI) in Marketing Market - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2023"
+    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
+    publishedDateTime: 2020-06-11T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market---top-companies-business-growth-investment-opportunities-share-and-forecasts-2023-2020-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2023"
-    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
-    publishedDateTime: 2020-06-11T16:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market---top-companies-business-growth-investment-opportunities-share-and-forecasts-2023-2020-06-11"
+  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and their business strategies,"
+    publishedDateTime: 2020-06-09T22:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
     type: article
     provider:
       name: MarketWatch

@@ -61,6 +61,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
+    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
+    publishedDateTime: 2020-06-11T15:54:00Z
+    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
+        isCached: true
   - title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
     excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
     publishedDateTime: 2020-06-10T22:45:00Z
@@ -101,22 +117,6 @@ related:
       - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
-    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
-    publishedDateTime: 2020-06-11T15:54:00Z
-    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
         isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
@@ -197,6 +197,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
         width: 818
         height: 545
+        isCached: true
+  - title: "Microsoft Won’t Sell Facial Recognition To American Cops After Protests"
+    excerpt: "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,"
+    publishedDateTime: 2020-06-11T20:54:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg"
+        width: 1199
+        height: 784
         isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
@@ -449,6 +465,22 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Amazon bans police use of facial recognition software for a year"
     excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
     publishedDateTime: 2020-06-11T12:40:00Z
@@ -612,6 +644,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "mDV77SwbEaFM1Z6wCnQT0LDQSuwJrPBk7/bilOyA7ybaZs9X35L0YKYUmBjJKeTHFR39kJUKQ/XWnykD396XLhTxqV9sMdd49nqvJNt19txTZSX+UCUWtcoA/s+myWb5fUcyotyMziIZQt6EqF7z7VAbhy+HUbx7G72VE47LKJB/012Q6mRWI2HDju/fJDYarbXCHXWQQPCgqPFEgNNdYKAedlEButAvk3wpd/l+xaqtH+zVjdWu5WMAviicEzlQcyhvgqjgFsmB2ZIY7BHsSzOma8/zXzQGe+W85sj98V4Pk7kZu+LX33T0d2tBFDl2;tLh0V1MRGaf4PWVKn9Trmw=="
+secured: "FGohHq3eS7m4i4u9Hr5dYFU/mLjK7rctJfPYg56GjlFNcPOf3u/xRUbDrvJcZ/u4qNA0jh1t5+bR4Nev/Fr+CjLrY6j4VtouSYtOsdiPR8OOMPtGK6iZ+fXLsgovCy7RjjsjJtwFyJ4bFpsxIr+TCC/IBMPHX4XyjLQyuVgIzUxlKSkJYTDXl4o+mLxpINDRjR/2K89wco33icfuQdLjBWEvU/ixOGirwjSsZde08y17psRFWSY704iru0gccD7k13SQgYk3bgUvsra5KCwKd2prlMjTL8g5WKUHMh7+ug4PbZy8QTySu06EwcNwwwXhZFQWR+tJ7WNQpR10YLPRtoBsfPM7FbBPNoxsCKCezJ+2WxpoDzho3WnK2Z20MZ5Wpq5OWOl2Wwzr1Lt9GhgZ345GIusJsQazc1XzEtxtdwB8BPrL2lnc++t2B0Sf/zB1cJKP7Z/79V/c2C9iUPJYyXzU4tvc0iHADnkUplWSJSBrJFQd33k1MVR/17m2fbkO;/k1Zs+PeqrgcM0ps8htZuw=="
 ---
 

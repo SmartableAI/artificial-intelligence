@@ -29,20 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Rise of Robots and AI in the Coronavirus Era"
-    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0fzuqUFvXA2hMNzFxIKtqZunHN6RXABnQEYNQCzKS7shor5Dwj/2VpdBnhiOZ+TdOR8M/68ITFqEsgf1xqaxGJOkQmAUrzkuq59AWzPqHCL1MNcrhExPoFPmAxXoQKwky3rvFmKkELAcgPCTqKvcE5lX7kEqfmDmDWFyWdTwF1eoygppPcg9J9/mQUNFUcF4XL0JcXgRcARWMvtftJcSDQ3h3/aO6rNH0WLxmzw/L4gNU2ruwwxVjodcyj9wQ0k9/1VQangHef7XtMX1hciE5Z2CCfGfnpqmMRD5NIWEH7AMUFccd1ErE65rT3Tpz8fVlG3lxWyaPFq5nrxoMOnxTJjoJ0xMvoIAkLffSeBMhGdebUQLv6SyYqpRvi06ij/ag8ksxGrB8ltHxZQkIld7u67UJVNeY10sUfsubWQ93oktixJp34hEZb0iNFVOZipOqy21Ux3pnXyqoUuedXhlWhD6CDLfz/Tf/lwEL+Kvu0AgFSwMbyIV3CUrmyxYbRkY;7/Jp6qfBRVdqvwf9gboBog=="
 ---

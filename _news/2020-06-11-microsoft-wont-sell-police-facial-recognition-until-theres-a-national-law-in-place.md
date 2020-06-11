@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Microsoft Won't Give Facial-Recognition Tech to US Police Until Congress Acts"
+    excerpt: "Microsoft President Brad Smith says the US needs to first enact a federal law on facial-recognition tech before the company will consider selling it to police departments."
+    publishedDateTime: 2020-06-11T20:18:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-wont-give-facial-recognition-tech-to-us-police-until-congress"
+    ampWebUrl: "https://www.pcmag.com/news/microsoft-wont-give-facial-recognition-tech-to-us-police-until-congress?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-wont-give-facial-recognition-tech-to-us-police-until-congress?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 71
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06HYx3akaBsU8UyTu3KnJEc-1.fit_lim.size_1200x630.v_1591897102.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Amazon bans police use of face recognition technology for a year"
     excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T13:14:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/91d3c4cf-1b3d-46d6-a005-6e9ee170d007/msfacialrecognitiontech.jpg"
         width: 737
         height: 494
+        isCached: true
+  - title: "Microsoft won't sell facial-recognition tech to police"
+    excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
+    publishedDateTime: 2020-06-11T21:17:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1521591905482/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Microsoft-wont-sell-facial-recognition-tech-to-police.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "House police reform bill includes face recognition provisions"
     excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"

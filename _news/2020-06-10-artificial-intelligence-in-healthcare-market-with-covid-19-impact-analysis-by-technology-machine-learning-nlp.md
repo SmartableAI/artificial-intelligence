@@ -19,15 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Covid-19 Impact on Warehouse Robotics Market 2020 Global Size, Share, Analytical Overview, Growth, Future Prospects and Regional Forecast 2023"
-    excerpt: "Market Scope. Market Research Future (MRFR) confirms that the warehouse robotics market 2020 can attain a strong valuation of USD 5 billion by 2023-end. The market can most likely"
-    publishedDateTime: 2020-06-09T16:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-warehouse-robotics-market-2020-global-size-share-analytical-overview-growth-future-prospects-and-regional-forecast-2023-2020-06-09"
+  - title: "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast"
+    excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ..."
+    publishedDateTime: 2020-06-11T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market Coronavirus Pandemic Impact Estimates - Competitive Scenario, SWOT Study and PESTEL Analysis Forecast 2029"
+    excerpt: "The research report titled, Artificial Intelligence in Retail Market is latest published by MarketResearch.Biz."
+    publishedDateTime: 2020-06-11T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-coronavirus-pandemic-impact-estimates---competitive-scenario-swot-study-and-pestel-analysis-forecast-2029-2020-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

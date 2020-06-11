@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/06/11/sentropy-emerges-from-stealth-with-an
 ampWebUrl: "https://techcrunch.com/2020/06/11/sentropy-emerges-from-stealth-with-an-ai-platform-to-tackle-online-abuse-backed-by-13m-from-initialized-and-more/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/sentropy-emerges-from-stealth-with-an-ai-platform-to-tackle-online-abuse-backed-by-13m-from-initialized-and-more/amp/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/Sentropy_How-It-Works_Dark.png?w=680"

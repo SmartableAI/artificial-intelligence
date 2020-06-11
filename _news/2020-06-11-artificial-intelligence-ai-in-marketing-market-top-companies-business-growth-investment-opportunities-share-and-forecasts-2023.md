@@ -5,7 +5,7 @@ excerpt: "Artificial Intelligence in Marketing Market Research Report, by Applic
 publishedDateTime: 2020-06-11T16:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market---top-companies-business-growth-investment-opportunities-share-and-forecasts-2023-2020-06-11"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

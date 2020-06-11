@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
+    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
+    publishedDateTime: 2020-06-11T15:54:00Z
+    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
         isCached: true
   - title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
     excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
@@ -88,22 +104,6 @@ related:
       - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
-    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
-    publishedDateTime: 2020-06-11T15:54:00Z
-    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
         isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
@@ -184,6 +184,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
         width: 818
         height: 545
+        isCached: true
+  - title: "Microsoft Won’t Sell Facial Recognition To American Cops After Protests"
+    excerpt: "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,"
+    publishedDateTime: 2020-06-11T20:54:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg"
+        width: 1199
+        height: 784
         isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
@@ -449,6 +465,22 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197244899_AFP_FILES-US-IT-POLICE-CRIME-POLITICS_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
         width: 2880
         height: 1800
+        isCached: true
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Amazon bans police use of facial recognition software for a year"
     excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
