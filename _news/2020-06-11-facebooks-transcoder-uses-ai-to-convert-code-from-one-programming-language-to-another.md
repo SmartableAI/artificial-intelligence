@@ -1,0 +1,66 @@
+---
+category: news
+title: "Facebook’s TransCoder Uses AI To Convert Code From One Programming Language To Another"
+excerpt: "Researchers at Facebook have developed a new AI (artificial intelligence) system that converts source code from a high-level programming language to another."
+publishedDateTime: 2020-06-11T12:23:00Z
+webUrl: "https://www.techworm.net/2020/06/facebook-transcoder-ai-c-java-python.html"
+ampWebUrl: "https://www.techworm.net/2020/06/facebook-transcoder-ai-c-java-python.html/amp"
+cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/06/facebook-transcoder-ai-c-java-python.html/amp"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: techworm.net
+  domain: techworm.net
+
+topics:
+  - Facebook AI
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://www.techworm.net/wp-content/uploads/2020/06/Facebook-TransCoder-AI.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+    title: "Facebook’s TransCoder Uses AI To Convert Code From One Programming Language To Another"
+
+related:
+  - title: "Facebook’s TransCoder AI converts code from one programming language into another"
+    excerpt: "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy."
+    publishedDateTime: 2020-06-08T18:11:00Z
+    webUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/"
+    ampWebUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook’s AI Can Now Translate Code Into Other Programming Languages Automatically"
+    excerpt: "Facebook’s AI research team has developed a system dubbed the neural transcompiler. The system uses more than 2.8 million open-source"
+    publishedDateTime: 2020-06-10T13:04:00Z
+    webUrl: "https://propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/"
+    ampWebUrl: "https://propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/10/facebooks-ai-can-now-translate-code-into-other-programming-languages-automatically/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 55
+    images:
+      - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/facebook-ai.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+
+secured: "Dq394QSbCJxTTLFLracyx13z4kCNgMZ7bPGS7rhSacmPM5CLQkNVfMkZXSmN3XcK/mJlZTXHsTd4Y5Q5GJsrY4oMJqVwV9vMzye5yPumM0CcPANZ3hU49/SqyCPI+mG4GkH1pM4KXnaWELS7GvX/UfdkRU4maZdlU8usHqS/a5d9B9b11ALsIfX9f2BCUCIEb6gkvBmRMCbJCmaxCvKjWLQbGSJFfyAaYy6SBBdZ6L2t3viD561NIQ1tPrWQ4YPrVp+jNWiAZARWKFbmBKgf79tqvnJ6nA0moXjUVpxkzDoHhNy3WsGvXQETBcHpB/2p;7yfhckJDYWU+TQDjW0SsvA=="
+---
+

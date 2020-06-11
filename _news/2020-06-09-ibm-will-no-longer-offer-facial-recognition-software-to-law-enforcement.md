@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/ibm-facial-recognition-law-enforcement-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "IBM will no longer offer facial recognition software to law enforcement"
 
 related:
+  - title: "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban"
+    excerpt: "AI experts and civil rights activists have been campaigning for Amazon to halt the sale of Rekognition to law enforcement for years."
+    publishedDateTime: 2020-06-11T09:53:00Z
+    webUrl: "https://www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5ede4ea34dca68759162ca8a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM's push for stricter facial recognition software regulation is likely an attempt to sidestep public backlash"
     excerpt: "IBM joins Microsoft and Amazon in advocating for more substantial oversight of facial recognition technology, helping the companies sidestep backlash."
     publishedDateTime: 2020-06-10T16:07:00Z

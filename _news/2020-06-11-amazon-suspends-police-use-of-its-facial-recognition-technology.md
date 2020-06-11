@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
 
 related:
-  - title: "Amazon Bans Police Use of its Face Recognition for a Year"
-    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T03:42:00Z
-    webUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year"
-    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/amazon-bans-police-use-its-face-recognition-year?amp"
+  - title: "Amazon bans police use of face recognition technology for a year"
+    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T13:14:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
+      name: PBS
+      domain: pbs.org
+    quality: 61
     images:
-      - url: "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/06/d4d337363681d1a0d13598194286f274.jpg"
-        width: 1806
-        height: 1204
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/PrimeRisk2-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "House police reform bill includes face recognition provisions"
     excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
@@ -83,6 +83,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Amazon bans police use of its face recognition for a year"
+    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T12:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/jun/10/amazon-pauses-police-use-of-its-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 24
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Amazon bans police use of its face recognition tech for 1 year"
     excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
     publishedDateTime: 2020-06-11T11:33:00Z
@@ -92,6 +106,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
+    excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."
+    publishedDateTime: 2020-06-11T13:48:00Z
+    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/06/11/the-technology-202-amazon-s-move-to-temporarily-bar-police-from-using-its-facial-recognition-software-could-have-long-term-consequences/5ee127a2602ff12947e8986d/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 0
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/fb41caf0afeb8e797db1ee5a2b729fac-TTIT2NDAMEI6TPZE3NFZ7NRKUI-680-383-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 835
+        isCached: true
 
 secured: "0BQBEX8sCfmUuZ/1YSaw648Cs0hoMUAxgc2R63v3anM/9sDkaLtgBo8DD6z660Jw4jfxgEEPuV3nNHIiAhz2vymCFE+FktUU4g4HFwDeRT2m8+EE7l67ogGZdtOBF5C77Hoihvuq1zED6rtl7xHfUz6rhkDY0bD2iIOjr/SVDYuUN0Ill5f7Lac9jvOKMzTXhKxrDdy4ZtmG9/zgRYyLsNO0kOZbis50SebUBBGJShoWk/3uD1FRpp0hjLW3bJXvz/H2HM3f7MGTAc0se+NQIxn3RBULtBnZ4rYC5eTO/5uT1N+4mHEwUzUl7x2jO/+R5BnDPlH2PG916NYnK82abQEWq7o534wjm7kzkuXsqPnclBSQ/c24itLbXyJHw73aYouDuO39fIOR944cJJE0DbJFTOZmULhDPju2LwBvttU42pOz7sLZbcTHJZOo2AAr2xrYkfgXaWmEXKZFg8grWAE2zs7SRHckqWpXuF8CkxQhHnZo/nhAeqfX4tpI3mpO;K9CnxssAg7VGO5TXkcNbTA=="
 ---

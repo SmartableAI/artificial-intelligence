@@ -171,10 +171,10 @@ related:
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
     excerpt: "\"Rekognition\" has been shown time and time again to be ineffective and biased. Rather than shelving it altogether, Amazon is putting a one-year moratorium on police use of it."
-    publishedDateTime: 2020-06-11T10:15:00Z
-    webUrl: "https://www.vice.com/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    publishedDateTime: 2020-06-11T12:00:00Z
+    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -215,6 +215,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
+    excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
+    publishedDateTime: 2020-06-11T12:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Amazon issues a 12-month ban on police use of facial recognition"
     excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
     publishedDateTime: 2020-06-11T06:49:00Z
@@ -274,6 +285,20 @@ related:
         width: 700
         height: 415
         isCached: true
+  - title: "Amazon bans police use of facial recognition technology for one year"
+    excerpt: "We’re implementing a one-year moratorium on police use of Amazon’s facial recognition technology. We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children,"
+    publishedDateTime: 2020-06-11T13:11:00Z
+    webUrl: "https://www.loopinsight.com/2020/06/11/amazon-bans-police-use-of-facial-recognition-technology-for-one-year/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 24
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
   - title: "Amazon Blocks Facial Recognition Tool From Cops For 1 Year"
     excerpt: "Amazon.com Inc. announced Wednesday that it is placing a one-year moratorium on the use of its facial recognition technology for police, noting in a release that it hopes the move will give Congress time to place regulations on the technology's usage."
     publishedDateTime: 2020-06-11T03:06:00Z
@@ -285,6 +310,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Amazon issues 12-month ban on police use of facial recognition"
+    excerpt: "After years of criticism from privacy activists, the company will stop law enforcement from using its Rekognition tool to give Congress time to develop regulations."
+    publishedDateTime: 2020-06-11T12:14:00Z
+    webUrl: "https://www.wrcbtv.com/story/42236693/amazon-issues-12month-ban-on-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 24
+    images:
+      - url: "https://WRCB.images.worldnow.com/images/19484854_G.jpeg?lastEditedDate=1591862630000"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "E7Ge6BJ/4uruES7z5ze801TmadXwt8AAS9virhybOh/grJrBkxoMD/F/41Om6O3EymupKUhinFmiLDubsFwmK5SgnRnlg7iiosokYIUVDeSKHCgtLeIiueNDwdYAKswcdMe6IKjP7RBOhP48w3i3bY3Obk9fnm6kaE0BxM4VqpPNsbhHuVS1xmNfkp9TsxSididqLnqeYzowM5bMl6l+T3ehelJZnRoE7ZBVMY8pLkeCppbJ3gUtuoi9Ewt5u7R9fjcBIakRLU0GPqocBe0pTF8Z4K+USCpr/jmrWWublMUAU4cbB561blrNoWMB/pASgh9JqToRj4Wam4lNrj8acH/8xc+vlxi5z+KZHH+5kobP95u0jCHRZ92iUmKZwbmx554Qqs+0aA7amAaYt6Sj4v4Z9uuscZM3NwMheZcf2T86azK64+LkzulrRcO3v2T6htjpC3p+2RzYLPc0gijqjvI1u6lN7hCv4yhxANv4mtVzO8XzUXBkvnW8dpm4B8Xa;YEUIkTPn/WFBh1dXMC/aaA=="
 ---

@@ -358,6 +358,31 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Amazon bans police use of facial recognition software for a year"
+    excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
+    publishedDateTime: 2020-06-11T12:40:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/amazon-bans-police-use-of-facial-recognition-software-for-a-year/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
+  - title: "Amazon bans police from using its facial recognition tech for a year"
+    excerpt: "Amazon has banned police use of its face-recognition technology for a year; it did not say why it took action now. Ongoing protests following the death of George Floyd have focused attention on racial injustice in the U."
+    publishedDateTime: 2020-06-11T13:20:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
+    images:
+      - url: "https://www.chicagotribune.com/resizer/2ksi1NfHkJvVNU32fKKU9KO0IBQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SNXGZQ5NQ4FYCWYCZIA6VHGKPE.aspx"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Amazon bans police use of its facial recognition technology for one year"
     excerpt: "NEW YORK (AP) — Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T10:12:00Z
@@ -430,6 +455,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "ACLU says Amazon’s one-year moratorium on police use of its facial recognition tech isn’t enough"
+    excerpt: "Such facial recognition tech has been proven to be racially biased. So, it was good news when Amazon announced they’ll ban police use of the tech for 12 months to “give Congress enough time to implement appropriate rules” for its use,"
+    publishedDateTime: 2020-06-11T12:21:00Z
+    webUrl: "https://www.fastcompany.com/90515631/aclu-says-amazons-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnt-enough"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 26
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-aclu-says-amazonand8217s-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnand8217t-enough.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Boston Moves to Ban Facial Recognition Technology"
     excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
     publishedDateTime: 2020-06-10T18:56:00Z
@@ -482,6 +521,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "4F59XuxERYYHZl8boKpnBZi+GlDpF4xR669hWipF62WWsQrpKcN2Ti8YGzGdb04nR1T97fUcxiqczWflfiaJFPDiDtw834nOg3JHgUxcRU/sY3RajHr3rnMvWpyoIlA32JXWe9PWmNSaVU68Ye7q9wxa2Mrq+T+TNCOix5SZe52/ouZG15/qYxRkTH07DZnUJl4VHji9o52hVzIJsP+jYWjXDiBOrjHZDqIuBk+3C7czhkiNyWvq/Jukd4BPAhCUl8Onbo6yAqetG/dGunIuwxwGzye4wTVZCnTfRZiBNSa1mF8uUlUcH/EVpHzgEFP0;vhJSTKOMNTUiiUpRtBbZyQ=="
+secured: "4pyUhVBKnWnIcSZcZi/JIxz7QvafjROwf+WaSkFOvbC9I2uYV3lbuo6gNDnr/NY6KXXDYGRZsw8BzMu2gECFRRfBgUxy8M8QMheNzsxIugCGKsY21tVYif7AB5scqF+8BMG5x6t8Cax7McPbzdIEOAktZrDTqNtE+qRCFsXTumDZ/HYQxJJlNIKOWTNFRf24cPf+4ve7npxYr5p4bjFxtUZKIgRXaBarUfG4E6289K00s5GZsKIkfGOoJTwz9k0hW0kXawsxN6VxlVJIYood+qsYy7ElZU2BbgNz6rfJe4BpLqLwV7+yllC5ZN6unroNd63UCS1pwL0xbvQbskNxFnD0LEA6bdpIEo+bfDNIJgobxYuK2blldnhEQFlS+cQCVW3gU+HsSGKhJlN1gUkEp0cHtYY47YzT9/IYSEYPNHOI1pdMV7IfgA3iL1zP7O5HCOFcIod/9S+BRB3N4GneAe6x3TjUx8IbDurSe3RvgajzsNkKmxREnxyydS1BdSvG;9V0V1zoKCXTyGFrgORrmaA=="
 ---
 
