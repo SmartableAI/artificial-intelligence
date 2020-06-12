@@ -120,20 +120,6 @@ related:
         width: 777
         height: 486
         isCached: true
-  - title: "Artificial brains may need sleep too"
-    excerpt: "Neural networks that become unstable after continuous periods of self-learning will return to stability after exposed to sleep like states, according to a study of simulated spiking neural networks, suggesting that even artificial brains need to nap occasionally."
-    publishedDateTime: 2020-06-08T04:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/danl-abm060520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/234007_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial neural networks may benefit from ‘sleep’ breaks"
     excerpt: "Scientists at Los Alamos National Laboratory have found that artificial neural networks (ANNs) which closely mimic biology may benefit from sleep-like cycles. These cycles appear to quell the instability associated with uninterrupted unsupervised learning."
     publishedDateTime: 2020-06-08T12:55:00Z

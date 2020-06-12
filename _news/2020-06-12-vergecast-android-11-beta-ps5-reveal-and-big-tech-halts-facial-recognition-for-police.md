@@ -1,21 +1,34 @@
 ---
 category: news
-title: "Amazon bans police use of its face recognition tech for 1 year"
-excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
-publishedDateTime: 2020-06-11T11:33:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
+title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
+excerpt: "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design."
+publishedDateTime: 2020-06-12T21:56:00Z
+webUrl: "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
 type: article
-quality: 4
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg"
+    width: 1400
+    height: 933
+    isCached: true
+    title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
 
 related:
   - title: "George Floyd: Microsoft bars facial recognition sales to police"
@@ -65,22 +78,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/Microsoft-e1572850220242.jpg?w=1200&#038;strip=all"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
-    excerpt: "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design."
-    publishedDateTime: 2020-06-12T21:56:00Z
-    webUrl: "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Activists want to ban police from using facial recognition — Amazon and Microsoft just opened the door"
     excerpt: "While facial recognition technology has yet to gain much traction in law enforcement, activists want to make sure it's permanently banned."
@@ -173,6 +170,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Amazon bans police use of its face recognition tech for 1 year"
+    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
+    publishedDateTime: 2020-06-11T11:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
   - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
     excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."
     publishedDateTime: 2020-06-11T13:48:00Z
@@ -188,6 +194,6 @@ related:
         height: 835
         isCached: true
 
-secured: "7ehxQ1sjSqXKq9TeINiTtyxhH0KXMOKKDhrRjx7DlWKGVHd+QHr61pOEM1/BCowzIWtiiQjtG41cGB645RP/crvyw95sAi9uWTsuOxGdv27kZWGdzWAadSZpHD6AmwRFDuyXekrXcd3k78C31Jo90WLooCO+XpEO7i8go0FeMIy3j7Ugg8I6rz5pPMrZkVDrlB5kQ5TMnLyG/diRSJ42Iz2YF05gH7fmoCJXfeYp75pKpjnbG9wbBNLiWNo9E53cgQkcAvWCkEJBpzKsCCy9czM86ndU6cK2VGwCRRLoHwN1yRg5oec9UpenzCsArbLJ;bT9AA+is6Tv7LT+o2RH3tw=="
+secured: "xz0GVbqgOqox43Z2mKiib5D3fiCVjYYUHgzG4h7kE/IsMovbotOn08WFURmeFu7I9GHMBSp62RBG2627urD4HgmL0solkx6ILefjWElPDcAQbBbHGzkYZ4mv569ZeLMFwuJWwG9lR4y/5R8YiThr58VOP/cX/NqQ4LAj2p2e2R0hFqMiJzwtP2zmaw5g5K9M3NCK6UEZb5Fnhf2L9vjV3eyxQcAiJo/b5iNgPQVLSNba7Sohy04BxmS5hSopPLGPqTOxOQNo9XAVrr+oQpLqIgNyOXmhbl1KTJnFODMhyp8q9Z2SILWkECACdwmykU9qygR8dx1rQ/jzpJRqNZ7mVg==;/gJ3fBUtPxMU3JkWtSSdvA=="
 ---
 

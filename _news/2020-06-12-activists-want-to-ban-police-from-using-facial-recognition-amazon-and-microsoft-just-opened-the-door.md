@@ -79,6 +79,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
+    excerpt: "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design."
+    publishedDateTime: 2020-06-12T21:56:00Z
+    webUrl: "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 80
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Microsoft Won't Give Facial-Recognition Tech to US Police Until Congress Acts"
     excerpt: "Microsoft President Brad Smith says the US needs to first enact a federal law on facial-recognition tech before the company will consider selling it to police departments."
     publishedDateTime: 2020-06-11T20:18:00Z

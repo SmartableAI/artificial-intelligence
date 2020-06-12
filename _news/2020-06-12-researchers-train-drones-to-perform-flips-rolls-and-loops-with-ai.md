@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Researchers train drones to perform flips, rolls, and loops with AI"
 
-secured: "13aa/gdYav1jYRnbgkbDz3Df9HkHDXv5RqHQlZIJIJYt5RIwMEZUKqQp3xR6B3k1OGhmuzFMbXtIF7fT1c8DXKerwNFDHiE8B8z4GQVqiKRPLBMjjbPq6EFDnAuuYaWIJ5p2tfhyg5JjKCqHso5E9NzWULJLmAhOPFrXYb4+6JUFOqnhb4vmdSVc6QbF/0TWEp/NbLtDrGEziaxavjH9UyRPbw8iXERJkloTcnjGbWzZvKQddDt/wDWzqHwfjM1MyeaGrA6tzj2oBHXP1zLHN07SxI+hJ2lMxqGGMw1y757x+0BBNO3F10pBZjxsKHmv/8b7g5m6HVuzohOSWk5fkg==;NBcsIiOJph3gEUWXbTavQg=="
+secured: "kS4pfaOb3X31AyF3pzER4L8q5Gne+RteWJkbJEYb2eu/sD39FsrMV+ctqo2rcZt6s/U73chl/zKJDDb+jj9MvCcJAM4pOcEbhB0WrLkBPm7BWfl90NAEq/Xqfi8oYzUje1yRDEvCuvxcJzP28iyhV+4wR1q+zlidG7Yonrt1b1aLhRHYPVOE+UKiac79LJe2dvgFmJIR+yuMLXFy18Bi8G2lAYRYeiXtld/u4zpwX0Gtbs7Z8a1FK3UAldoM88DOk+TJ9esneu6VX1RkIEqxtV1jxFiwD/Qi7US+OYKroXa6WX6IUtcHrM37WDD2qRB1wjnb/Huz3uPlkf8Fyr9qqCodmIvF7DTiiwQIcRDO+i0t+yNC+37E/OvbZtMmjWcY4NLPm55BvDhwPUC4Vdb0dw+f5tTduhB87ThjpOWrxATmkh+u50dDcX3Co+aU7rlw3v667CvkLIO2ouyU4l4ugTb+WSmxbwDLLQEfXWr6LdyQsL+5rnwwxi1yh/Qnfn0ZKLJ7h0w8tIoBL6k18sWG5Q==;cT+Yinxwrpvxb8kgSPrYZg=="
 ---
 

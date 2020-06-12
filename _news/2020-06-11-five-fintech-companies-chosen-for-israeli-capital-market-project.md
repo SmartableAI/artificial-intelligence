@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Five fintech companies chosen for Israeli capital market project"
 
+related:
+  - title: "Tech Nation programmes open for North-East CleanTech, AI and FinTech firms"
+    excerpt: "AN organisation that nurtures the UK's tech ecosystem is has launched a new programme for companies working in CleanTech."
+    publishedDateTime: 2020-06-12T04:44:00Z
+    webUrl: "https://www.thenorthernecho.co.uk/business/18512903.tech-nation-programmes-open-north-east-cleantech-ai-fintech-firms/"
+    type: article
+    provider:
+      name: The Northern Echo
+      domain: thenorthernecho.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thenorthernecho.co.uk/resources/images/10511075/"
+        width: 960
+        height: 640
+        isCached: true
+
 secured: "vKL3Cfbp4xCURg2heV2Q9oyk/h9WDzaYNz8tffcEdwcX7OjA0iM+FmBADD+0bIrnDm+hL81Ffv9DRoyuBL0jp4nIxiRh+to0cxxM67DnhKn5+P+L+vMAUPbhoTh0uuA6lJhmgC5GNxBuTeNHwFB6tOWT0OD/4RbkiFMTBek5LTJOmlmP6DGr+LnbZoQSnOfpWN++SqQqzM7YX5YetkFyTcGqTRQfI+JdXd7r2vDvrfla9JTU8s0u0RA8OiG3t/0imTmHNYOpmhnaxROIDrVMoAwp/Y8W2PHxiiSlCvRAdnuWAI5Yex+iwLEHfN+z4DUZb/logvb5dJ0SIH7RGNMaoAKsjTZpPxEhDg1Wj3HF9JkBN6CSX2r69sA8VGTWojIkQLvSpwpQ+720bQc1snBt0GyfN7BqM54LKfmqo0iIBhUiariEyU8AAtSBYWlQGoCgC3P7K8vmoERnAK7ds2FTnIXsBkYc6juF4u9vTOlQ82YzPDMDdzIuKZNM5++0/dvx;oyLu5GSi7dk01MUvaHIg7g=="
 ---
 
