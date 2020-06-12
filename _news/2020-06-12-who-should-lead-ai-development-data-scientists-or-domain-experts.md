@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Who Should Lead AI Development: Data Scientists or Domain Experts?"
 
-secured: "vVadzJDEw0Tu/aaz+MEBDqzMdfWubLqZhFvpdn45GwgHDnDfGxSd/PQRI1iA2YBLGuLKi9R+jWCpOXsbIvZte4D4l9ojMilpjoYXyIVFIuZtPETmtRVZWfdwSvrNSTXgbDupJkmD52nyos0/Rvitk3YDEh7CDhzm30lEyNhRungTucKWVPWglnz3bxNSBHwIQIB01pmA8iQAA8z1Mh4pwCewGTeeEBqeUEzBMiRZMwDw/ZrJm9gg6UHB+uFarzONMPTs1CgytfBpBTqwFmXdtIjtlRXL9AFoT4OO4bg9LGayHbJ3965VrFi0ZI1t4KS37UVCoypPwKoeFFj7+1v24w==;jhGiief/cgOKwNIoaAXPIQ=="
+secured: "Li0rbVy/mfrvtQrh5c4mJssLe6jVlPliFKO/MI6//+nxFo0lk84D2y+famhw8Zg6u/gPp9/Svfbfk4q4VCrrOhrolpVLBW4xitLhxbT/ysesunu2/2xUzXXuqZlk7e9yS1cUXhQQTWLgKEsDmVu/07xtFbstnHktjA2B9QnRo/9DSb+nz6zXuwV78DwXEfuwy/RaEwoSNe4ro/PhRUWDr0/HESO6LVbNV8ElzU2oxErmt/mP3/BGe2Ebee8/gCiLEpA7RnMHVW94jlmliLYNW0OI1B6l2AXPQu4/trqUCkOO2TaFy4yBKwFJOdM7e4JLjdrqVLBq5quzGdbGyoRlEKcJV/1HojsVZjGrof5vQOjaXrTW5LSKBFp+UsDzWtMZgiIaGVFkzw3LYW/Y7shZYipq/xlN0MH/lQY2jrfhPme9/BFn+FVVAGKXDr6BC2fN0Vh+ftVt5wrLC0XlkDAPOMF1qfH1goAuo2nOCNaRXewFI1GgZ/pKkP4WCFy4X5+MRo6xMuL/EjKzFAhw4X74sg==;PFSwV8eI+GLmIw+6Y6k2Yg=="
 ---
 

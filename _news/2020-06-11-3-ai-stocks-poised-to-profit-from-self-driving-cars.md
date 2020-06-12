@@ -7,7 +7,7 @@ webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-profit-from-self-
 ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-profit-from-self-driving-cars-2020-06-11?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-profit-from-self-driving-cars-2020-06-11?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 related:
   - title: "3 AI Stocks Poised to Gain From Self-Driving Cars"

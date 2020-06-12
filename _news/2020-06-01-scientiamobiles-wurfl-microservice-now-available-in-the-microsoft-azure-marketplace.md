@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
 
-secured: "QXwYXRCLDSzraSUbKAEqoQ8a7WFcc/442JPDZyTuIe4I5jkVlpVhO/Cqhk0V4W/AiyVkiLp1W8nyseSy55z5Ey7YQmR8sFlBpu+7nDvx7V+bmVEGjF96LqppGTLPQlAbAWM7/VU8lGgkjM8J0EslSJejLl7JZQuwOFMygi3iyZBMlIsvjTMfHEqBUT2tyTb6DkIPbR4JwK/j5tvgZIAplCZvFriKa10/a/RCIdFo3W0DbKNXXuzaTFw5kaZmSPymNXBkR8e6TvAW1Kvek0f0x2sT7R7gHGVnBx5eWqbjWue2cgR22riJOqcAl5/93XMqk3h6EggCJqdV7L+AKhRzLw==;NZY6PhsAR1j+cv/gOUG4kA=="
+secured: "WVsFdKWI0gIntk3JHqIbsyqTi1bx1PLvvf3KNttakehzJeCtLHuDwnky6vvyIyKxtjkIZuqtFt8+kQz6JOkkMwetzQS+z0lXJtHPtIyMz+6NRmjBBua0PDVhpDGLsCxqssVOljJGq5Oyf4OO+jTBjQ7lL9HvwOnpaapUIeBdE6TN0ahfZrC6yX2RyTB/BwQlypumk8s9e0mDY3HBShcCeM3g+rhfdW8zz+mwcKoYLK2G9Er/r4Ay90CSP/hKGEeCYbCB5LG1TuAXanbH1nuspcLqWjhi/T4I5TSfYbUt3z84EAo3h3hj8nv+4obYwR1qzBPLn6UN2MoIWDExIGAd2g==;zXaB56HdjVu8JanUaTc1BA=="
 ---
 

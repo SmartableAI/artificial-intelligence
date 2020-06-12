@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Cryptomining campaign targets Kubernetes via machine learning framework"
 
-secured: "rusB2ixAQ0Vcxzc9HJluk98kVLEcg9zzBM0c7+ZuIEEVUFVLOoVoB8/lAauJyJrTAyWj6wxMZC3s4rxUUSjzdrTUs4R0X/mgBwFe065mjlYTOkZNcWJz0jcfR7l1Yg0e/zI4X55jo7P3O7L1kClTbCNXUmDHDi/inM+G5TxpxZBdPmRJUVEl9kxJPW6EObfMzDSyBBvHtr0JrBFvp8E0Lj4d+02057hBp65/MIgszxYoSDjFwwpJ1GHhCPUGUQJw55xKW6R0a8/FV8fxR7A//lh1556d7VqEh60l9Yw87Xt4G7dzsT0NCBz+CZ0LPSn3qKcH/yIgzlino9uKtgDqhw==;/6f8rWfvuGRpgQs+X3VIug=="
+secured: "KBdflPauzKErLgrhZEJXblWmPnXNDkBW/3ish+It1ksIY7BgUXlJVhJc2G3nrtkcU2Edcw/bWajb59Z1UvHgaDpN9JGKcyPid+DOwkoPI/7JtXMUPbKQGB3VRJgUm/KZ5b5XPdTxCfnFUTT03pDVcSiMU71fv96Jq+lhQQYA+pmBM1jwSkeFg2+23VOOIuyBzQsIV88udHip2pCStInjSRl+dBJ5kf3/kZsQZ4hPTLi7lV+ou70ykdOzwHzgQxC3QnsLj6/LLQYIAw+9ws9VpN9pr8fBgfT6v7tmn6xpZEDPDC9+6NkZXFcK3YHDoOddqWXcbhKSD+lDlNHnLPe+6O7HtfWT5Ea0EQkwRCB4wTPcOQvEooGStXXV7KPQCotXbnMqRa/TDooRiFTuArQgpPOGvQ6i+2850mWmUnVDs9DFgEnZ3E7Wl4Lm2xQIyy+8e+jKAC83cABagdIGTNzkijnpcSuv/JnoVb2EPWUPEOniq40/nyalvAcvSmXVUfupbXNSvQ4yrOtwLPNlZUuZIw==;P6gU2lm/+tsBS7IhEeoyiw=="
 ---
 

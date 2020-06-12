@@ -2,16 +2,16 @@
 category: news
 title: "Microsoft won't sell face recognition software to police"
 excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-publishedDateTime: 2020-06-12T13:29:00Z
-webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+publishedDateTime: 2020-06-12T21:17:00Z
+webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
@@ -237,6 +237,6 @@ related:
         height: 400
         isCached: true
 
-secured: "4bJbfumbExmG/j5UgUoaC5qjqWybwNjzazMuIGM84PGp1y/XM87yXhhQH6qfQbuQpKh3VBe+MDeCoTHDnk6a4PfmIvO61dEISa4TxxHFgFeQhirUdTp1ivPZN4C8IINvqmG4a/bO3Pf/q3CFxrZkRfcQ8HaQMR2F5cjsIMau7CrLopp5HXWTHEzeHW57B7Dswg9KnT3aVJwY4KEk2ri0EbVbxUvkl7dcpx7L1ptaZE8gs5aAivM/LqCZ/bvV74oTLBeGG4XFPEU0rra7CH6H9wOZG9/srZnRgBTvgybCauM8Zf/Uxqzv8+ev2GLgTjL9wqBca+6ciPsfnmLX6zNfLw==;gywhYmEZ5tQ5KNqbcz/GjQ=="
+secured: "e4toqLViHpCtO3fQhJ4+PDSBFiT1/0mgno+eslFHK7GpE/WCJT3KjwPw6TUGRPPqroI+j1SGPEkXQU+2iMXHM7e5R75QDELHXF1ioAIPuapHc3kQfz70Eqi2sRSNpH20uc2bJJNVQJ1A+fM8BqzWSp+7Cyu3cfi3UeY3Y41KtM6I9w8PMSeu60i9ZwCYH5hivyPOZntDybNguYucvnchcoKd1s5IRfqOsTggiJhfW/d2PHYy3VCieG8x8xNvwute3nSLKfpWs5S4B/DSPcEf15hWnsHGyMkiXT/eo5j+Ru5KF8Xhz7SzsZuEzzhXesxU2/KuANVAjuXMBpCUe27t1g==;tUxyuLNA5BIpKZs0GjQn/g=="
 ---
 
