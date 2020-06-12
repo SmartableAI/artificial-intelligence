@@ -2,13 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
+      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 868,
+          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "publishedDateTime": "2020-06-12T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
+      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "publishedDateTime": "2020-06-12T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
+      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
+      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
+      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
+      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
+          "width": 1024,
+          "height": 538,
+          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoftcaregh.com",
+        "domain": "microsoftcaregh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
       "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
       "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
+      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
       "ampWebUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
       "publishedDateTime": "2020-06-11T10:09:00-07:00",
@@ -29,16 +212,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +225,20 @@
       "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
       "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
       "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
+      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
+          "width": 2126,
+          "height": 1144,
+          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
       "publishedDateTime": "2020-06-11T09:47:00-07:00",
@@ -76,16 +259,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
-          "width": 2126,
-          "height": 1144,
-          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -99,10 +272,20 @@
       "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
       "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
       "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
+      "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/06/10/975931-iiit.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
       "ampWebUrl": "https://www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
       "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
       "publishedDateTime": "2020-06-10T12:23:00-07:00",
@@ -114,16 +297,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/06/10/975931-iiit.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -137,10 +310,20 @@
       "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
       "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
       "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
       "heat": 96,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
       "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
       "publishedDateTime": "2020-06-10T06:05:00-07:00",
@@ -161,16 +344,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -182,61 +355,23 @@
       ]
     },
     {
-      "path": "_news/2020-06-10-microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure.md",
-      "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
-      "excerpt": "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure.",
-      "heat": 109,
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "heat": 199,
       "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "publishedDateTime": "2020-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg",
-          "width": 1200,
-          "height": 894,
-          "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
           "attribution": null,
           "isCached": true
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
-      "title": "Study: Artificial brains need rest too",
-      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
-      "heat": 199,
-      "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
       "publishedDateTime": "2020-06-09T10:55:00-07:00",
@@ -257,16 +392,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Artificial brains need rest too",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -280,10 +405,20 @@
       "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
       "title": "New machine learning approach classifies common type of brain tumor",
       "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
+      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New machine learning approach classifies common type of brain tumor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
       "ampWebUrl": "https://www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
       "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
       "publishedDateTime": "2020-06-09T00:25:00-07:00",
@@ -295,16 +430,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New machine learning approach classifies common type of brain tumor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -318,10 +443,20 @@
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence chips benefit from a good night's sleep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
       "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
       "publishedDateTime": "2020-06-08T20:55:00-07:00",
@@ -342,16 +477,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -365,10 +490,20 @@
       "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
       "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
       "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "heat": 196,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
+          "width": 600,
+          "height": 350,
+          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
       "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
       "publishedDateTime": "2020-06-08T11:44:00-07:00",
@@ -389,16 +524,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -413,10 +538,20 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
       "heat": 103,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
+          "width": 1200,
+          "height": 675,
+          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
       "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
       "publishedDateTime": "2020-06-05T10:50:00-07:00",
@@ -437,16 +572,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -461,10 +586,20 @@
       "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
       "title": "Here's how a new machine learning software can beef up cloud-based databases",
       "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
+      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Here's how a new machine learning software can beef up cloud-based databases",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
       "publishedDateTime": "2020-06-05T08:00:00-07:00",
@@ -485,16 +620,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Here's how a new machine learning software can beef up cloud-based databases",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -508,10 +633,20 @@
       "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
       "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
       "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
+      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
+          "width": 5596,
+          "height": 3712,
+          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "publishedDateTime": "2020-06-04T20:00:00-07:00",
@@ -532,16 +667,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
-          "width": 5596,
-          "height": 3712,
-          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -556,10 +681,20 @@
       "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
       "title": "AI, machine learning to support digital lending landscape in post-covid era",
       "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
       "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
       "publishedDateTime": "2020-06-04T10:46:00-07:00",
@@ -571,16 +706,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "AI, machine learning to support digital lending landscape in post-covid era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -595,10 +720,20 @@
       "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
       "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
       "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
+      "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-04T09:00:00-07:00",
@@ -610,16 +745,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -633,31 +758,31 @@
       "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
       "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
       "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
       "heat": null,
       "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
           "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
           "attribution": null,
           "isCached": true
         }
       ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
       "locale": "en-us",
       "categories": [
         "news"
@@ -671,10 +796,20 @@
       "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
       "title": "Robot chef uses machine learning to perfect its omelette-making skills",
       "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
       "ampWebUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
       "publishedDateTime": "2020-06-02T23:57:00-07:00",
@@ -695,16 +830,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -718,10 +843,20 @@
       "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
       "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
       "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
+      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
       "heat": 81,
       "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
       "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
       "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
       "publishedDateTime": "2020-06-02T06:39:00-07:00",
@@ -733,16 +868,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -756,10 +881,20 @@
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "All you need to know about symbolic artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
       "publishedDateTime": "2020-06-02T01:06:00-07:00",
@@ -780,16 +915,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "All you need to know about symbolic artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -803,10 +928,20 @@
       "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
       "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
       "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
       "publishedDateTime": "2020-06-01T11:46:00-07:00",
@@ -827,16 +962,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -850,10 +975,20 @@
       "path": "_news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind.md",
       "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
       "excerpt": "Using machine learning, they have been able to better predict wind production, better predict electricity supply and demand, and as a result, reduce operating costs. “What we've been doing is working in partnership with the DeepMind team to use machine learning to take the weather data that's available publicly, actually forecast what we ...",
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215156082%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/",
       "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
       "publishedDateTime": "2020-05-30T21:02:00-07:00",
@@ -874,16 +1009,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215156082%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -897,10 +1022,20 @@
       "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
       "title": "Machine learning helps map global ocean communities",
       "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": "Machine learning helps map global ocean communities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
       "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
       "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
       "publishedDateTime": "2020-05-29T11:31:00-07:00",
@@ -912,16 +1047,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": "Machine learning helps map global ocean communities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -935,10 +1060,20 @@
       "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
       "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
       "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
+      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
       "heat": 71,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
+          "width": 1000,
+          "height": 537,
+          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
       "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
       "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
       "publishedDateTime": "2020-05-29T08:42:00-07:00",
@@ -950,16 +1085,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
-          "width": 1000,
-          "height": 537,
-          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -974,10 +1099,20 @@
       "path": "_news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence.md",
       "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
       "excerpt": "The Indian Institute of Technology (IIT-Ropar) and TSW, the executive education division of Times Professional Learning have launched a post graduate (PG) certificate programme in Artificial Intelligence and Deep Learning.",
+      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-29T02:37:00-07:00",
@@ -989,16 +1124,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1012,10 +1137,20 @@
       "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
       "title": "Apple buys machine-learning startup to improve data used in Siri",
       "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
+      "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/7f34c63/2147483647/strip/true/crop/2200x1155+0+79/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fea%2F9e%2Ffeebfa154bf6b71193b087e34dde%2F362300661.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Apple buys machine-learning startup to improve data used in Siri",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-29T01:01:00-07:00",
@@ -1027,16 +1162,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/7f34c63/2147483647/strip/true/crop/2200x1155+0+79/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fea%2F9e%2Ffeebfa154bf6b71193b087e34dde%2F362300661.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple buys machine-learning startup to improve data used in Siri",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1050,10 +1175,11 @@
       "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
       "title": "Apple Grabs Machine-Learning Startup Inductiv",
       "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
+      "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T17:06:00-07:00",
@@ -1065,7 +1191,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1079,10 +1204,20 @@
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
+      "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Acquires Machine Learning Startup Inductiv",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
       "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
       "publishedDateTime": "2020-05-28T13:12:00-07:00",
@@ -1103,16 +1238,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Acquires Machine Learning Startup Inductiv",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1126,10 +1251,20 @@
       "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
       "title": "Apple acquires Inductiv, machine-learning specialists",
       "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
+      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
+          "width": 732,
+          "height": 330,
+          "title": "Apple acquires Inductiv, machine-learning specialists",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T06:37:00-07:00",
@@ -1141,16 +1276,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
-          "width": 732,
-          "height": 330,
-          "title": "Apple acquires Inductiv, machine-learning specialists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1158,122 +1283,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
-      "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-      "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media.md",
-      "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-      "excerpt": "We develop machine learning and deep learning models to (i) accurately identify histopathology stains, (ii) discriminate between tissues, and (iii) differentiate disease states. Area Under ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41379-020-0540-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41379-020-0540-1/MediaObjects/41379_2020_540_Fig1_HTML.png",
-          "width": 685,
-          "height": 527,
-          "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
-      "title": "Baidu releases homegrown quantum machine learning toolkit",
-      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
-      "publishedDateTime": "2020-05-28T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
-          "width": 1620,
-          "height": 1080,
-          "title": "Baidu releases homegrown quantum machine learning toolkit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

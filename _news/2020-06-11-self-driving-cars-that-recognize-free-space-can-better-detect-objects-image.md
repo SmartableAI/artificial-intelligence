@@ -25,6 +25,20 @@ images:
     title: "Self-Driving Cars That Recognize Free Space Can Better Detect Objects (image)"
 
 related:
+  - title: "New system helps self driving cars detect empty space"
+    excerpt: "Humans know that objects in their sight may obscure the view of things ahead of their path, but self-driving cars cannot reason about the objects around them. Self-driving cars use 3D data from lidar to represent objects as point clouds."
+    publishedDateTime: 2020-06-12T19:02:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15268/new-system-helps-self-driving-cars-detect-empty-space"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/268/15268/234565_web.jpg"
+        width: 1440
+        height: 817
+        isCached: true
   - title: "Self-driving cars that recognize free space can better detect objects"
     excerpt: "It's important that self-driving cars quickly detect other cars or pedestrians sharing the road. Researchers at Carnegie Mellon University have shown that they can significantly improve detection accuracy by helping the vehicle also recognize what it doesn't see."
     publishedDateTime: 2020-06-11T19:55:00Z

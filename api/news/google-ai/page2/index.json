@@ -2,13 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
+      "title": "How AI could predict sight-threatening eye conditions",
+      "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
+      "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "How AI could predict sight-threatening eye conditions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "publishedDateTime": "2020-05-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
+      "title": "Using AI to predict retinal disease progression",
+      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
+      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
+          "width": 512,
+          "height": 288,
+          "title": "Using AI to predict retinal disease progression",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
       "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
       "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T17:00:00-07:00",
@@ -20,16 +124,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -44,10 +138,11 @@
       "path": "_news/2020-05-15-accelerating-machine-learning-means-new-hardware.md",
       "title": "Accelerating Machine Learning Means New Hardware",
       "excerpt": "Machine-learning algorithms can run on microcontrollers, but for complex applications, one really needs hardware acceleration.",
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21131474/accelerating-machine-learning-means-new-hardware",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21131474/accelerating-machine-learning-means-new-hardware",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T08:28:00-07:00",
@@ -59,7 +154,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -75,10 +169,20 @@
       "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
       "title": "AdLingo Ads Builder turns an ad into a conversation",
       "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
+      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "AdLingo Ads Builder turns an ad into a conversation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
       "ampWebUrl": "https://blog.google/technology/area-120/adlingo-ads-builder/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/area-120/adlingo-ads-builder/amp/",
       "publishedDateTime": "2020-05-14T10:00:00-07:00",
@@ -99,16 +203,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "AdLingo Ads Builder turns an ad into a conversation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -122,10 +216,20 @@
       "path": "_news/2020-05-14-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
       "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
       "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
+          "width": 800,
+          "height": 438,
+          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-13T17:00:00-07:00",
@@ -137,16 +241,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
-          "width": 800,
-          "height": 438,
-          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -160,10 +254,20 @@
       "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
       "title": "Elon Musk has a complex relationship with the A.I. community",
       "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
       "publishedDateTime": "2020-05-13T01:40:00-07:00",
@@ -184,16 +288,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
-          "width": 3986,
-          "height": 2657,
-          "title": "Elon Musk has a complex relationship with the A.I. community",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -207,10 +301,20 @@
       "path": "_news/2020-05-12-meet-the-googlers-working-to-ensure-tech-is-for-everyone.md",
       "title": "Meet the Googlers working to ensure tech is for everyone",
       "excerpt": "During their early studies and careers, Tiffany Deng, Tulsee Doshi and Timnit Gebru found themselves asking the same questions: Why is it that some products and services work better for some than others, and why isn’t everyone represented around the table when a decision is being made? Their collective",
+      "webUrl": "https://www.blog.google/technology/ai/googlers-leading-machine-learning-fairness/",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero_ML_V1.gif",
+          "width": 2880,
+          "height": 1200,
+          "title": "Meet the Googlers working to ensure tech is for everyone",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.blog.google/technology/ai/googlers-leading-machine-learning-fairness/",
       "ampWebUrl": "https://blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
       "publishedDateTime": "2020-05-12T09:00:00-07:00",
@@ -231,16 +335,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero_ML_V1.gif",
-          "width": 2880,
-          "height": 1200,
-          "title": "Meet the Googlers working to ensure tech is for everyone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -254,10 +348,20 @@
       "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
       "title": "DeepMind compares the way children and AI explore",
       "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
+      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind compares the way children and AI explore",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
       "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
       "publishedDateTime": "2020-05-08T06:48:00-07:00",
@@ -278,16 +382,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind compares the way children and AI explore",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -301,10 +395,20 @@
       "path": "_news/2020-05-08-neural-network-performance-modeling-software.md",
       "title": "Neural Network Performance Modeling Software",
       "excerpt": "Currently TensorFlow Lite Models for INT8 are supported. Later this quarter, ONNX support also will be available, and support will be extended to INT8/BFloat16 (any mix of layers). Unlike other inference architectures, nnMAX is a fully deterministic ...",
+      "webUrl": "https://semiengineering.com/neural-network-performance-modeling-software/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-1.06.41-PM.png?resize=1838%2C1128&#038;ssl=1",
+          "width": 1838,
+          "height": 1128,
+          "title": "Neural Network Performance Modeling Software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://semiengineering.com/neural-network-performance-modeling-software/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-07T17:00:00-07:00",
@@ -316,16 +420,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-1.06.41-PM.png?resize=1838%2C1128&#038;ssl=1",
-          "width": 1838,
-          "height": 1128,
-          "title": "Neural Network Performance Modeling Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -339,10 +433,20 @@
       "path": "_news/2020-05-07-go-hands-on-with-interactive-ai-visualizations.md",
       "title": "Go hands-on with interactive AI visualizations",
       "excerpt": "Artificial Intelligence systems can recognize our voices, forecast the weather and help decide who gets a loan. Given the increasing ubiquity of AI, it’s important that everyone is able to understand more about it.Like any system or technology, AI doesn’t always get it right. And understanding why AI",
+      "webUrl": "https://www.blog.google/technology/ai/pair-ai-interactive-visualizations/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_baBdUJS.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": "Go hands-on with interactive AI visualizations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.blog.google/technology/ai/pair-ai-interactive-visualizations/",
       "ampWebUrl": "https://blog.google/technology/ai/pair-ai-interactive-visualizations/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/pair-ai-interactive-visualizations/amp/",
       "publishedDateTime": "2020-05-07T10:00:00-07:00",
@@ -363,16 +467,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_baBdUJS.max-1300x1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": "Go hands-on with interactive AI visualizations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -386,10 +480,20 @@
       "path": "_news/2020-05-07-pandemic-spike-in-ai-learning-and-what-it-means-for-schools.md",
       "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
       "excerpt": "The tech learning space is shifting fast with big implications for high schools and colleges. It will be important to rethink delivery with blended competency-based pathways.",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171094880%2F0x0.jpg",
+          "width": 1200,
+          "height": 777,
+          "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/",
       "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
       "publishedDateTime": "2020-05-07T07:33:00-07:00",
@@ -410,16 +514,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171094880%2F0x0.jpg",
-          "width": 1200,
-          "height": 777,
-          "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -434,10 +528,20 @@
       "path": "_news/2020-05-07-tensorflow-220-arrives-with-breaking-changes-and-drops-python-2-support.md",
       "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
       "excerpt": "TensorFlow 2.2.0 has been released, nearly four months after v2.1.0. The TensorFlow team has been keeping busy: In the latest version of the machine learning platform, they have added lots of new features and breaking changes, and have also fixed several bugs.",
+      "webUrl": "https://jaxenter.com/tensorflow-2-2-0-171759.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-2-2-0-171759.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-06T17:00:00-07:00",
@@ -449,16 +553,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -473,10 +567,20 @@
       "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
       "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
       "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
+      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
+          "width": 300,
+          "height": 222,
+          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
       "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
       "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
       "publishedDateTime": "2020-05-06T14:00:00-07:00",
@@ -488,16 +592,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -511,10 +605,20 @@
       "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
       "title": "How NVIDIA hopes to industrialize AI with MLOps",
       "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
+      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "How NVIDIA hopes to industrialize AI with MLOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
       "publishedDateTime": "2020-05-05T14:45:00-07:00",
@@ -535,16 +639,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -560,10 +654,20 @@
       "path": "_news/2020-05-05-an-ai-can-simulate-an-economy-millions-of-times-to-create-fairer-tax-policy.md",
       "title": "An AI can simulate an economy millions of times to create fairer tax policy",
       "excerpt": "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ...",
+      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "An AI can simulate an economy millions of times to create fairer tax policy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
       "ampWebUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
       "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
       "publishedDateTime": "2020-05-05T14:09:00-07:00",
@@ -575,16 +679,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -598,10 +692,11 @@
       "path": "_news/2020-05-04-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos.md",
       "title": "Behringer DEEPMIND 12 True Analog 12-Voice Polyphonic Synthesizer w/ 4 FX Engines, 2 OSCs & LFOs",
       "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Free Shipping offers are only applicable to shipments within the continental United States. If you reside in Alaska, Hawaii, or ...",
+      "webUrl": "https://reverb.com/item/33493715-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3ODNiNjRhNS1lYjY0LTRhMzYtYTU4NS05OWJiMmNiOGZlNDYiLCJpYXQiOjE1ODg2MDQ3NjYsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiMmI0M2ZhNzQtMmZlZi00ZjVhLWE5MWEtM2YyMTQwMDA3ZDBkIiwicHJvZHVjdF9pZCI6IjMzNDkzNzE1In0.M5zuy0P-TpZNnHPFOxUY63ZxblprmUzv3DVKq8KtTi4",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://reverb.com/item/33493715-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3ODNiNjRhNS1lYjY0LTRhMzYtYTU4NS05OWJiMmNiOGZlNDYiLCJpYXQiOjE1ODg2MDQ3NjYsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiMmI0M2ZhNzQtMmZlZi00ZjVhLWE5MWEtM2YyMTQwMDA3ZDBkIiwicHJvZHVjdF9pZCI6IjMzNDkzNzE1In0.M5zuy0P-TpZNnHPFOxUY63ZxblprmUzv3DVKq8KtTi4",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T08:06:00-07:00",
@@ -613,7 +708,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -627,10 +721,20 @@
       "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
       "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
       "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
+      "webUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5eac8efc3dac9a33a64b9ab9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes",
       "ampWebUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coursera-most-popular-online-classes?amp",
       "publishedDateTime": "2020-05-01T13:34:00-07:00",
@@ -651,16 +755,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eac8efc3dac9a33a64b9ab9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -674,10 +768,20 @@
       "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
       "title": "Google to replace TensorFlow’s runtime with TFRT",
       "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
+      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
+          "width": 646,
+          "height": 314,
+          "title": "Google to replace TensorFlow’s runtime with TFRT",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-01T12:16:00-07:00",
@@ -698,16 +802,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
-          "width": 646,
-          "height": 314,
-          "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -722,10 +816,20 @@
       "path": "_news/2020-05-01-uk-government-invited-google-deepmind-exec-to-critical-coronavirus-meeting.md",
       "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
       "excerpt": "DeepMind cofounder and CEO Demis Hassabis attended a meeting of the scientific advisory group for emergencies (Sage) on March 18.",
+      "webUrl": "https://www.cnbc.com/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
       "publishedDateTime": "2020-05-01T04:10:00-07:00",
@@ -746,16 +850,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
-          "width": 1024,
-          "height": 678,
-          "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

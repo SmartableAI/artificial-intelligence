@@ -2,13 +2,139 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
+      "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
+      "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
+      "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media.md",
+      "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
+      "excerpt": "We develop machine learning and deep learning models to (i) accurately identify histopathology stains, (ii) discriminate between tissues, and (iii) differentiate disease states. Area Under ...",
+      "webUrl": "https://www.nature.com/articles/s41379-020-0540-1",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41379-020-0540-1/MediaObjects/41379_2020_540_Fig1_HTML.png",
+          "width": 685,
+          "height": 527,
+          "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
+      "title": "Baidu releases homegrown quantum machine learning toolkit",
+      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "publishedDateTime": "2020-05-28T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
       "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
       "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
+      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
       "heat": 71,
       "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
+          "width": 1092,
+          "height": 692,
+          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
       "ampWebUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
       "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
       "publishedDateTime": "2020-05-27T15:53:00-07:00",
@@ -20,16 +146,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
-          "width": 1092,
-          "height": 692,
-          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -43,10 +159,20 @@
       "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
       "title": "Baidu releases quantum machine learning toolkit on GitHub",
       "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
+      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
       "heat": 124,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Baidu releases quantum machine learning toolkit on GitHub",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
       "publishedDateTime": "2020-05-27T09:16:00-07:00",
@@ -67,16 +193,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -90,10 +206,20 @@
       "path": "_news/2020-05-26-how-machine-learning-in-search-works-everything-you-need-to-know.md",
       "title": "How Machine Learning in Search Works: Everything You Need to Know",
       "excerpt": "Another crucial area to understand is machine learning. Now, the term “machine learning” gets thrown around a lot these days. Machine learning isn’t the same as Artificial Intelligence (AI ...",
+      "webUrl": "https://www.searchenginejournal.com/search-engines/machine-learning/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/how-machine-learning-in-search-works-everything-you-need-to-know-5eb2e76eb1970.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": "How Machine Learning in Search Works: Everything You Need to Know",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.searchenginejournal.com/search-engines/machine-learning/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T06:06:00-07:00",
@@ -105,16 +231,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/how-machine-learning-in-search-works-everything-you-need-to-know-5eb2e76eb1970.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": "How Machine Learning in Search Works: Everything You Need to Know",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -128,10 +244,20 @@
       "path": "_news/2020-05-26-machine-learning-market-is-estimated-to-reach-768-bn-by-2027.md",
       "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
       "excerpt": "The global Machine Learning Market is estimated to grow at a healthy CAGR of over 40.1% during the forecast period 2020 to 2027 and reach a valuation of over US$ 76.8 Bn. The market report provides an analysis of the global Machine Learning Market for the period 2016-2027,",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
       "heat": 79,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T03:42:00-07:00",
@@ -152,16 +278,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -175,10 +291,20 @@
       "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
       "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
       "excerpt": "This report presents a wealth of information on key market dynamics, including drivers, market trends, and challenges as well as structure of the deep learning chipset market. The study offers valuable information about the global market,",
+      "webUrl": "https://www.businesswire.com/news/home/20200525005127/en/Global-Deep-Learning-Chipset-Market-2019-2027",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200525005127/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200525005127/en/Global-Deep-Learning-Chipset-Market-2019-2027",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-25T05:40:00-07:00",
@@ -190,16 +316,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200525005127/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -213,10 +329,20 @@
       "path": "_news/2020-05-24-artificial-intelligence-can-make-personality-judgements-based-on-photos.md",
       "title": "Artificial intelligence can make personality judgements based on photos",
       "excerpt": "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientio",
+      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_16270340/thumb.webp",
+          "width": 800,
+          "height": 533,
+          "title": "Artificial intelligence can make personality judgements based on photos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos",
       "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos/58c5dcc1-e61a-42bf-bcb5-f8583ec49d70",
       "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos/58c5dcc1-e61a-42bf-bcb5-f8583ec49d70",
       "publishedDateTime": "2020-05-23T18:30:00-07:00",
@@ -228,16 +354,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_16270340/thumb.webp",
-          "width": 800,
-          "height": 533,
-          "title": "Artificial intelligence can make personality judgements based on photos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -251,10 +367,20 @@
       "path": "_news/2020-05-24-machine-learning-what-is-it-really-good-for.md",
       "title": "Machine Learning: What Is It Really Good For?",
       "excerpt": "The idea is that the model gets better as you feed it more data points.” There are two key steps with machine learning. First, you need to collect and train the data, which can be a long and tough process.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1179697528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7680%26cropY1%3D0%26cropY2%3D4320",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning: What Is It Really Good For?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/",
       "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
       "publishedDateTime": "2020-05-23T18:16:00-07:00",
@@ -275,16 +401,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1179697528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7680%26cropY1%3D0%26cropY2%3D4320",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning: What Is It Really Good For?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -298,10 +414,20 @@
       "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
       "title": "Everything you need to know about neuromorphic computing",
       "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
+      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Everything you need to know about neuromorphic computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
       "publishedDateTime": "2020-05-23T07:03:00-07:00",
@@ -322,16 +448,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -346,10 +462,28 @@
       "path": "_news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man.md",
       "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
       "excerpt": "This is an early test of a very ambitious project that aims to build entirely new games and real-world simulation engines in the long run.",
+      "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 654,
+          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
       "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
       "publishedDateTime": "2020-05-22T11:18:00-07:00",
@@ -370,24 +504,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575639%2Fgamegan-pac-man.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 654,
-          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -401,10 +517,20 @@
       "path": "_news/2020-05-22-limited-view-and-sparse-photoacoustic-tomography-for-neuroimaging-with-deep-learning.md",
       "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
       "excerpt": "In this work, we propose a novel deep learning approach termed pixel-wise deep learning (Pixel-DL) that first employs pixel-wise interpolation governed by the physics of photoacoustic wave ...",
+      "webUrl": "https://www.nature.com/articles/s41598-020-65235-2",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65235-2/MediaObjects/41598_2020_65235_Fig1_HTML.png",
+          "width": 685,
+          "height": 407,
+          "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-65235-2",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-22T10:24:00-07:00",
@@ -416,16 +542,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65235-2/MediaObjects/41598_2020_65235_Fig1_HTML.png",
-          "width": 685,
-          "height": 407,
-          "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -439,10 +555,20 @@
       "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
       "title": "Coronavirus Impact on Machine Learning as a Service Market",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
+      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
       "heat": 81,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus Impact on Machine Learning as a Service Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T21:44:00-07:00",
@@ -463,16 +589,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -487,10 +603,11 @@
       "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
       "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
       "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
+      "webUrl": "https://healthitanalytics.com/news/machine-learning-models-estimate-seasonal-impact-of-covid-19",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://healthitanalytics.com/news/machine-learning-models-estimate-seasonal-impact-of-covid-19",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T06:32:00-07:00",
@@ -502,7 +619,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -516,10 +632,20 @@
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "heat": 122,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
+          "width": 400,
+          "height": 450,
+          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "publishedDateTime": "2020-05-21T03:55:00-07:00",
@@ -540,16 +666,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -565,10 +681,20 @@
       "path": "_news/2020-05-21-deep-learning-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25.",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
       "heat": 79,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T23:55:00-07:00",
@@ -589,16 +715,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -612,10 +728,20 @@
       "path": "_news/2020-05-20-can-machine-learning-predict-coronavirus-spread.md",
       "title": "Can machine learning predict coronavirus spread?",
       "excerpt": "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission.",
+      "webUrl": "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg",
+          "width": 760,
+          "height": 368,
+          "title": "Can machine learning predict coronavirus spread?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T15:31:00-07:00",
@@ -627,16 +753,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg",
-          "width": 760,
-          "height": 368,
-          "title": "Can machine learning predict coronavirus spread?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -650,10 +766,20 @@
       "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
       "title": "AI and Machine Learning for Game Design: The Positive Influencers",
       "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
+      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
+          "width": 465,
+          "height": 465,
+          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T07:45:00-07:00",
@@ -665,16 +791,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
-          "width": 465,
-          "height": 465,
-          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -688,10 +804,20 @@
       "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
       "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
       "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
+          "width": 400,
+          "height": 240,
+          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T05:33:00-07:00",
@@ -703,16 +829,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
-          "width": 400,
-          "height": 240,
-          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -726,10 +842,20 @@
       "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
       "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
       "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
+      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
+          "width": 1037,
+          "height": 598,
+          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
       "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
       "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
       "publishedDateTime": "2020-05-20T05:05:00-07:00",
@@ -750,16 +876,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
-          "width": 1037,
-          "height": 598,
-          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -773,10 +889,20 @@
       "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
       "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
       "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
+      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
       "heat": 81,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
       "publishedDateTime": "2020-05-20T03:19:00-07:00",
@@ -797,16 +923,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -821,10 +937,20 @@
       "path": "_news/2020-05-20-google-releases-four-new-machine-learning-apis-for-developers.md",
       "title": "Google releases four new machine learning APIs for developers",
       "excerpt": "The new APIs are object detection, tracking, on-device translation and AutoML Vision Edge. “We see strong engagement from users who use these features and as we are extending ML Kit with more ...",
+      "webUrl": "https://sdtimes.com/ai/google-releases-four-new-machine-learning-apis-for-developers/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/05/image3.png",
+          "width": 1600,
+          "height": 966,
+          "title": "Google releases four new machine learning APIs for developers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-releases-four-new-machine-learning-apis-for-developers/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-19T17:00:00-07:00",
@@ -845,16 +971,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/05/image3.png",
-          "width": 1600,
-          "height": 966,
-          "title": "Google releases four new machine learning APIs for developers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -868,10 +984,11 @@
       "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
       "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
       "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
       "publishedDateTime": "2020-05-19T11:45:00-07:00",
@@ -892,7 +1009,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -906,10 +1022,20 @@
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
       "heat": 150,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft launches new tools for building fairer machine learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
       "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
       "publishedDateTime": "2020-05-19T08:14:00-07:00",
@@ -930,16 +1056,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -954,10 +1070,20 @@
       "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
       "title": "Azure Machine Learning gets Responsible ML innovations and more",
       "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
+      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
       "heat": 121,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": "Azure Machine Learning gets Responsible ML innovations and more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
       "ampWebUrl": "https://www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
       "publishedDateTime": "2020-05-19T08:00:00-07:00",
@@ -978,16 +1104,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": "Azure Machine Learning gets Responsible ML innovations and more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1002,10 +1118,11 @@
       "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
       "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
       "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
       "heat": 103,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
       "publishedDateTime": "2020-05-19T08:00:00-07:00",
@@ -1026,7 +1143,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1041,10 +1157,20 @@
       "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
       "title": "Master AI, Machine Learning With This Discounted Training Bundle",
       "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
+      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-19T07:39:00-07:00",
@@ -1065,16 +1191,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1088,10 +1204,20 @@
       "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
       "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
       "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
+      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
       "heat": 95,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
       "ampWebUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
       "publishedDateTime": "2020-05-19T06:10:00-07:00",
@@ -1112,16 +1238,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1135,10 +1251,20 @@
       "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
       "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
       "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
       "heat": 96,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
       "publishedDateTime": "2020-05-19T04:28:00-07:00",
@@ -1159,139 +1285,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-deep-learning-for-oct-image-analysis.md",
-      "title": "Deep learning for OCT image analysis",
-      "excerpt": "Deep learning is a form of artificial intelligence (AI) in which large amounts of data are processed to combine key factors and predict an output. Deep learning needs an ample database to reach conclusions. OCT generates abundant data, but needs more ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.laserfocusworld.com/detectors-imaging/article/14174629/deep-learning-for-oct-image-analysis",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "laserfocusworld.com",
-        "domain": "laserfocusworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
-      "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-      "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "publishedDateTime": "2020-05-18T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203031516%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D258%26cropY2%3D3070",
-          "width": 1200,
-          "height": 675,
-          "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

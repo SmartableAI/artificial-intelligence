@@ -2,13 +2,71 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
+      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
       "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
       "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-10T13:08:00-07:00",
@@ -29,16 +87,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -53,10 +101,20 @@
       "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
       "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
       "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
+          "width": 1200,
+          "height": 849,
+          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
       "publishedDateTime": "2020-06-10T12:53:00-07:00",
@@ -77,16 +135,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
-          "width": 1200,
-          "height": 849,
-          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -100,10 +148,20 @@
       "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
       "title": "AI, machine learning to support digital lending landscape in post-covid era",
       "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
       "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
       "publishedDateTime": "2020-06-04T10:46:00-07:00",
@@ -115,16 +173,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "AI, machine learning to support digital lending landscape in post-covid era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -139,10 +187,20 @@
       "path": "_news/2020-05-29-what-businesses-can-learn-about-algorithms-from-the-financial-industry.md",
       "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
       "excerpt": "Algorithms can be applied across a business to assist with any processes that need streamlining or any problems that need effective predictive outcomes.",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F860.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/",
       "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
       "publishedDateTime": "2020-05-29T04:43:00-07:00",
@@ -163,16 +221,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F860.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -186,10 +234,20 @@
       "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
       "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
       "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "heat": 90,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "publishedDateTime": "2020-05-28T22:46:00-07:00",
@@ -210,16 +268,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -234,10 +282,20 @@
       "path": "_news/2020-05-28-georgia-state-introduces-graduate-certificates-in-ai-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation.md",
       "title": "Georgia State Introduces Graduate Certificates in AI Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation",
       "excerpt": "Georgia State University’s Robinson College of Business will introduce three stand-alone graduate certificates in fall 2020 to address current and emerging market demand for innovation. Credits earned in the certificate programs can potentially be applied to Robinson’s part-time MBA and select master’s degree programs.",
+      "webUrl": "https://apnews.com/fb6540cdfee2d6b65ddbb9ac589006cb",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Georgia State Introduces Graduate Certificates in AI Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://apnews.com/fb6540cdfee2d6b65ddbb9ac589006cb",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T11:15:00-07:00",
@@ -249,16 +307,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Georgia State Introduces Graduate Certificates in AI Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -272,10 +320,20 @@
       "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
       "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
       "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
+          "width": 1200,
+          "height": 925,
+          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
       "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
       "publishedDateTime": "2020-05-28T07:09:00-07:00",
@@ -296,16 +354,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
-          "width": 1200,
-          "height": 925,
-          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -319,10 +367,20 @@
       "path": "_news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream.md",
       "title": "Machine learning in finance: From buzzword to mainstream",
       "excerpt": "The financial sector is a late adopter of machine learning. Top applications include fraud detection ... Training such chatbots requires hundreds of hours of customer service logs, but once the algorithm learns, it can successfully replace a lot of ...",
+      "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/shutterstock_1006988995.jpg",
+          "width": 1313,
+          "height": 933,
+          "title": "Machine learning in finance: From buzzword to mainstream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T17:00:00-07:00",
@@ -334,16 +392,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/shutterstock_1006988995.jpg",
-          "width": 1313,
-          "height": 933,
-          "title": "Machine learning in finance: From buzzword to mainstream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -357,10 +405,20 @@
       "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
       "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
       "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
       "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
       "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
       "publishedDateTime": "2020-05-26T07:06:00-07:00",
@@ -381,16 +439,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -404,10 +452,20 @@
       "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
       "title": "Coronavirus Impact on Machine Learning as a Service Market",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
+      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
       "heat": 81,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus Impact on Machine Learning as a Service Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T21:44:00-07:00",
@@ -428,16 +486,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -452,10 +500,11 @@
       "path": "_news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards.md",
       "title": "ReversingLabs Honored As Silver Stevie® Award Winner In 2020 American Business Awards®",
       "excerpt": "Hackers use innovative ways to attack the systems, and the machine learning models should be ... Business Awards include John Hancock Financial Services, Melissa Sones Consulting, and SoftPro.",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T17:00:00-07:00",
@@ -467,7 +516,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -481,10 +529,20 @@
       "path": "_news/2020-05-20-coronavirus-bahrain-sees-fintech-take-up-surge-amid-covid-19-crisis.md",
       "title": "Coronavirus: Bahrain sees fintech take-up surge amid Covid-19 crisis",
       "excerpt": "which provides a testbed for fintech startups. The central bank is offering international fintechs a gateway into the Gulf Cooperation Council (GCC) block of countries. We look at how AI and data ...",
+      "webUrl": "https://www.computerweekly.com/news/252483402/Coronavirus-Bahrain-sees-fintech-take-up-surge-amid-Covid-19-crisis",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Coronavirus: Bahrain sees fintech take-up surge amid Covid-19 crisis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.computerweekly.com/news/252483402/Coronavirus-Bahrain-sees-fintech-take-up-surge-amid-Covid-19-crisis",
       "ampWebUrl": "https://www.computerweekly.com/news/252483402/Coronavirus-Bahrain-sees-fintech-take-up-surge-amid-Covid-19-crisis?amp=1",
       "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252483402/Coronavirus-Bahrain-sees-fintech-take-up-surge-amid-Covid-19-crisis?amp=1",
       "publishedDateTime": "2020-05-20T04:30:00-07:00",
@@ -496,16 +554,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": "Coronavirus: Bahrain sees fintech take-up surge amid Covid-19 crisis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -519,10 +567,20 @@
       "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
       "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
       "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
+          "width": 1333,
+          "height": 698,
+          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-18T16:00:00-07:00",
@@ -534,16 +592,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
-          "width": 1333,
-          "height": 698,
-          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -558,10 +606,11 @@
       "path": "_news/2020-05-15-accelerating-machine-learning-means-new-hardware.md",
       "title": "Accelerating Machine Learning Means New Hardware",
       "excerpt": "Machine-learning algorithms can run on microcontrollers, but for complex applications, one really needs hardware acceleration.",
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21131474/accelerating-machine-learning-means-new-hardware",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21131474/accelerating-machine-learning-means-new-hardware",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T08:28:00-07:00",
@@ -573,7 +622,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -589,10 +637,20 @@
       "path": "_news/2020-05-14-sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region.md",
       "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
       "excerpt": "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with ...",
+      "webUrl": "https://www.prnewswire.com/news-releases/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region-301059119.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region-301059119.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-14T01:00:00-07:00",
@@ -604,16 +662,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
-          "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -627,10 +675,20 @@
       "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
       "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
       "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
+      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
       "heat": 122,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
       "ampWebUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
       "publishedDateTime": "2020-05-11T14:53:00-07:00",
@@ -651,16 +709,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -675,10 +723,20 @@
       "path": "_news/2020-05-11-amazon-launches-cognitive-search-service-kendra-in-general-availability.md",
       "title": "Amazon launches cognitive search service Kendra in general availability",
       "excerpt": "Kendra, Amazon's AI-powered cognitive enterprise search service, launched in general availability after a lengthy preview.",
+      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon launches cognitive search service Kendra in general availability",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
       "ampWebUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
       "publishedDateTime": "2020-05-11T13:11:00-07:00",
@@ -699,16 +757,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon launches cognitive search service Kendra in general availability",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -723,10 +771,20 @@
       "path": "_news/2020-05-11-google-the-next-big-fintech-vendor.md",
       "title": "Google: The Next Big Fintech Vendor",
       "excerpt": "Three recent stories regarding Google signal that it--like Amazon--is on its way to becoming a technology vendor for banks.",
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb413ca76d463000676c602%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
+          "width": 1199,
+          "height": 675,
+          "title": "Google: The Next Big Fintech Vendor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/",
       "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
       "publishedDateTime": "2020-05-11T05:04:00-07:00",
@@ -747,16 +805,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb413ca76d463000676c602%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Google: The Next Big Fintech Vendor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -770,10 +818,20 @@
       "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
       "excerpt": "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-10T03:09:00-07:00",
@@ -794,16 +852,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -817,10 +865,20 @@
       "path": "_news/2020-05-09-covid-19-impact-on-global-artificial-intelligence-ai-in-fintech-market-size-status-and-forecast-2020-2026.md",
       "title": "Covid-19 Impact on Global Artificial Intelligence (AI) in Fintech Market Size, Status and Forecast 2020-2026",
       "excerpt": "WiseGuyReports.com adds \"Global Artificial Intelligence (AI) in Fintech Market Research Report 2020 Analysis and Forecast 2026\" reports to its database. Global Artificial Intelligence (AI ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15994977/covid-19-impact-on-global-artificial-intelligence-ai-in-fintech-market-size-status-and-forecast-2",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1588957806.jpeg",
+          "width": 278,
+          "height": 333,
+          "title": "Covid-19 Impact on Global Artificial Intelligence (AI) in Fintech Market Size, Status and Forecast 2020-2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15994977/covid-19-impact-on-global-artificial-intelligence-ai-in-fintech-market-size-status-and-forecast-2",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15994977",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15994977",
       "publishedDateTime": "2020-05-08T17:20:00-07:00",
@@ -832,16 +890,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1588957806.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": "Covid-19 Impact on Global Artificial Intelligence (AI) in Fintech Market Size, Status and Forecast 2020-2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -855,10 +903,11 @@
       "path": "_news/2020-05-08-tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors.md",
       "title": "Tradier Teams With Q.ai, a Forbes Company, to Bring AI and Big Data Analytics to Customers and Retail Investors",
       "excerpt": "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai's mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
       "publishedDateTime": "2020-05-08T01:24:00-07:00",
@@ -879,7 +928,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -893,10 +941,20 @@
       "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
       "title": "Symend raises $52 million to remediate consumer debt with data science",
       "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
+          "width": 1200,
+          "height": 743,
+          "title": "Symend raises $52 million to remediate consumer debt with data science",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
       "ampWebUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
       "publishedDateTime": "2020-05-07T06:00:00-07:00",
@@ -917,16 +975,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
-          "width": 1200,
-          "height": 743,
-          "title": "Symend raises $52 million to remediate consumer debt with data science",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -941,10 +989,20 @@
       "path": "_news/2020-05-07-feds-quarles-says-paying-a-lot-of-attention-to-spread-of-machine-learning-in-finance.md",
       "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
       "excerpt": "Federal Reserve vice chair for supervision Randal Quarles said the central bank is in the early stages of studying the use of machine learning in the financial sector. Federal Reserve vice chair ...",
+      "webUrl": "https://www.cnbc.com/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105188162-GettyImages-924650070.jpg?v=1569588423",
+          "width": 1024,
+          "height": 683,
+          "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
       "publishedDateTime": "2020-05-06T17:00:00-07:00",
@@ -965,16 +1023,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105188162-GettyImages-924650070.jpg?v=1569588423",
-          "width": 1024,
-          "height": 683,
-          "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -988,10 +1036,20 @@
       "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
       "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
       "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
       "heat": 92,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
       "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
       "publishedDateTime": "2020-05-05T15:53:00-07:00",
@@ -1012,16 +1070,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1037,10 +1085,20 @@
       "path": "_news/2020-05-05-oil-downturn-looks-a-bit-like-2008-financial-meltdown.md",
       "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
       "excerpt": "Oil and gas industry-focused cloud software firm exec observes similarities and differences between two historic episodes.",
+      "webUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.rigzone.com/images/news/articles/161977_582x327.png",
+          "width": 582,
+          "height": 327,
+          "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/",
       "ampWebUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
       "cdnAmpWebUrl": "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
       "publishedDateTime": "2020-05-05T05:23:00-07:00",
@@ -1052,16 +1110,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.rigzone.com/images/news/articles/161977_582x327.png",
-          "width": 582,
-          "height": 327,
-          "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1075,10 +1123,20 @@
       "path": "_news/2020-05-05-deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025.md",
       "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
       "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025-2020-05-05",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025-2020-05-05",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T23:05:00-07:00",
@@ -1099,16 +1157,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1123,10 +1171,11 @@
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
       "excerpt": "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter ended March 31, 2020. The company will now announce after the close of the market on Monday,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-1029159626",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-1029159626",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
@@ -1147,7 +1196,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1161,10 +1209,20 @@
       "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
       "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
       "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
       "heat": 80,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-02T06:17:00-07:00",
@@ -1185,16 +1243,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1209,10 +1257,20 @@
       "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
       "title": "3 ways SMBs use machine learning to power digital transformation",
       "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
+      "webUrl": "https://www.zdnet.com/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/31/1d4ffefb-a94f-4bc2-89b4-b9f1d7257e4b/thumbnail/1200x675/3c077c568da3486c12635990b915a508/20200330-sf-april.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "3 ways SMBs use machine learning to power digital transformation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
       "publishedDateTime": "2020-05-01T06:28:00-07:00",
@@ -1233,16 +1291,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/31/1d4ffefb-a94f-4bc2-89b4-b9f1d7257e4b/thumbnail/1200x675/3c077c568da3486c12635990b915a508/20200330-sf-april.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "3 ways SMBs use machine learning to power digital transformation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1251,44 +1299,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup.md",
-      "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-      "excerpt": "\"Julie brings a wealth of banking and regulatory knowledge to our board of directors, and we are excited to welcome her to the Neocova team\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "publishedDateTime": "2020-05-01T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/a1d1230c-9cbf-4633-b16d-796ce263ce58/a1d1230c-9cbf-4633-b16d-796ce263ce58_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

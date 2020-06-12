@@ -2,13 +2,165 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
+      "title": "Researchers propose framework to measure AI’s social and environmental impact",
+      "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose framework to measure AI’s social and environmental impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "publishedDateTime": "2020-06-12T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
+      "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+      "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072",
+          "width": 1200,
+          "height": 799,
+          "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-12T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
+      "title": "War machines: DOD's ethical principles for battlefield AI",
+      "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
+      "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "War machines: DOD's ethical principles for battlefield AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "publishedDateTime": "2020-06-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year.md",
       "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
       "excerpt": "Bias in AI models and algorithms is among the biggest challenges in applied AI. Women leaders and practitioners have been leading the charge in tackling those blind spots. They’re at the forefront in thinking about how the ethics of applied AI, and how it can center empathy, fairness, and human centricity to create truly balanced models and ...",
+      "webUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Women-in-AI-Breakfast.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/",
       "ampWebUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
       "publishedDateTime": "2020-06-11T09:25:00-07:00",
@@ -29,16 +181,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Women-in-AI-Breakfast.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +194,20 @@
       "path": "_news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically.md",
       "title": "Uber researchers investigate whether AI can behave ethically",
       "excerpt": "In a preprint paper, researchers at Uber explore whether AI algorithms can be trained to make decisions ethically, according to philosophical theories.",
+      "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",
       "heat": 105,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber researchers investigate whether AI can behave ethically",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",
       "ampWebUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
       "publishedDateTime": "2020-06-10T11:28:00-07:00",
@@ -76,16 +228,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber researchers investigate whether AI can behave ethically",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -99,10 +241,20 @@
       "path": "_news/2020-06-10-ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained.md",
       "title": "Ethical AI and the importance of guidelines for algorithms — explained",
       "excerpt": "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
+          "width": 1200,
+          "height": 600,
+          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-10T02:07:00-07:00",
@@ -123,16 +275,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
-          "width": 1200,
-          "height": 600,
-          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -147,10 +289,20 @@
       "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
       "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
       "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
+      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
       "heat": 108,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
       "ampWebUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
       "publishedDateTime": "2020-06-08T22:53:00-07:00",
@@ -171,16 +323,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -194,10 +336,20 @@
       "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
       "title": "Pandemic is showing us we need safe and ethical AI more than ever",
       "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
+      "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cellphone_022414thinkstock.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Pandemic is showing us we need safe and ethical AI more than ever",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
       "ampWebUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
       "publishedDateTime": "2020-06-02T10:37:00-07:00",
@@ -209,16 +361,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/cellphone_022414thinkstock.jpg",
-          "width": 640,
-          "height": 360,
-          "title": "Pandemic is showing us we need safe and ethical AI more than ever",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -232,10 +374,20 @@
       "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
       "title": "SenseTime’s AI makes sure you park your shared bike properly",
       "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
+          "width": 1200,
+          "height": 630,
+          "title": "SenseTime’s AI makes sure you park your shared bike properly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
       "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
       "publishedDateTime": "2020-06-01T22:13:00-07:00",
@@ -256,16 +408,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
-          "width": 1200,
-          "height": 630,
-          "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -279,10 +421,20 @@
       "path": "_news/2020-06-01-heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars.md",
       "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
       "excerpt": "A Kansas soldier that happened to be driving his car on the bridge, waiting in traffic, realized that an active shooter was ahead of him, and so the soldier opted to navigate his car out of traffic and steered directly toward the shooter,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
       "heat": 72,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17cfd1234f60007ce207c%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
       "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
       "publishedDateTime": "2020-06-01T08:47:00-07:00",
@@ -303,16 +455,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17cfd1234f60007ce207c%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -327,10 +469,20 @@
       "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
       "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
       "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
+      "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
       "ampWebUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
       "publishedDateTime": "2020-05-29T04:00:00-07:00",
@@ -351,16 +503,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -374,10 +516,20 @@
       "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
       "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
       "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "heat": 90,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
       "publishedDateTime": "2020-05-28T22:46:00-07:00",
@@ -398,16 +550,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -422,10 +564,20 @@
       "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
       "title": "US joins G7 AI alliance to counter China’s influence",
       "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
       "heat": 121,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "US joins G7 AI alliance to counter China’s influence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
       "publishedDateTime": "2020-05-28T09:10:00-07:00",
@@ -446,16 +598,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "US joins G7 AI alliance to counter China’s influence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -470,10 +612,20 @@
       "path": "_news/2020-05-28-monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development.md",
       "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
       "excerpt": "The Monetary Authority of Singapore (MAS) announced today that the first phase of the VeritasVeritas, which is a part of Singapore’s National AI Strategy, aims to provide financial institutions with a verifiable way to incorporate the FEAT (Fairness,",
+      "webUrl": "https://www.finextra.com/pressarticle/82688/monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.finextra.com/pressarticle/82688/monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T04:13:00-07:00",
@@ -485,16 +637,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -508,10 +650,11 @@
       "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
       "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
       "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/16124574",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16124574",
       "publishedDateTime": "2020-05-28T00:00:00-07:00",
@@ -523,7 +666,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -537,10 +679,20 @@
       "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
       "title": "Unlocking the value of values with AI",
       "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Unlocking the value of values with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
       "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
       "publishedDateTime": "2020-05-27T01:29:00-07:00",
@@ -561,16 +713,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Unlocking the value of values with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -584,10 +726,20 @@
       "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
       "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
       "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
+          "width": 1193,
+          "height": 872,
+          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
       "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
       "publishedDateTime": "2020-05-24T09:36:00-07:00",
@@ -608,16 +760,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
-          "width": 1193,
-          "height": 872,
-          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -632,10 +774,20 @@
       "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
       "title": "Towards A More Transparent AI",
       "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec95cd64a0d9e0006b5f07e%2F0x0.jpg",
+          "width": 757,
+          "height": 468,
+          "title": "Towards A More Transparent AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/",
       "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
       "publishedDateTime": "2020-05-23T10:33:00-07:00",
@@ -656,16 +808,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec95cd64a0d9e0006b5f07e%2F0x0.jpg",
-          "width": 757,
-          "height": 468,
-          "title": "Towards A More Transparent AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -679,10 +821,20 @@
       "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
       "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
       "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "publishedDateTime": "2020-05-23T09:24:00-07:00",
@@ -703,16 +855,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -728,10 +870,20 @@
       "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
       "title": "AI Weekly: Getting back to work under the watchful eye of technology",
       "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
       "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
       "publishedDateTime": "2020-05-22T14:53:00-07:00",
@@ -752,16 +904,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -775,10 +917,20 @@
       "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
       "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
       "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
+      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
       "publishedDateTime": "2020-05-20T11:34:00-07:00",
@@ -799,16 +951,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -822,10 +964,20 @@
       "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
       "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
       "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
+      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-19T08:03:00-07:00",
@@ -846,16 +998,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -870,10 +1012,20 @@
       "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
       "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
       "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
+      "webUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/",
       "ampWebUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
       "publishedDateTime": "2020-05-19T03:00:00-07:00",
@@ -894,16 +1046,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -918,10 +1060,20 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
+      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
       "heat": 73,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-17T08:48:00-07:00",
@@ -942,16 +1094,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -967,10 +1109,20 @@
       "path": "_news/2020-05-15-child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus.md",
       "title": "Child psychologist says AI can help the poor amid the coronavirus",
       "excerpt": "RELATED: Papal academy fosters ethics, multidisciplinary alliances in AI debate Given the Catholic Church’s global nature and its networks with diverse experts in various fields, it is “in a ...",
+      "webUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "Child psychologist says AI can help the poor amid the coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/",
       "ampWebUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
       "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
       "publishedDateTime": "2020-05-14T22:57:00-07:00",
@@ -982,16 +1134,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Child psychologist says AI can help the poor amid the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1005,10 +1147,20 @@
       "path": "_news/2020-05-15-ai-set-to-transform-healthcare-in-worlds-poorer-regions.md",
       "title": "AI set to transform healthcare in world’s poorer regions",
       "excerpt": "There’s been a lot of hot air in the business with respect to AI,” says Anup Akkihal, head of Logistimo, which focuses on less sophisticated but more robust technology adapted to local limitations in order to improve healthcare supply chains in poorer nations.",
+      "webUrl": "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F17acb522-8da4-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "AI set to transform healthcare in world’s poorer regions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
       "ampWebUrl": "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
       "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
       "publishedDateTime": "2020-05-14T20:00:00-07:00",
@@ -1020,16 +1172,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F17acb522-8da4-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI set to transform healthcare in world’s poorer regions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1043,10 +1185,20 @@
       "path": "_news/2020-05-13-google-cancels-ai-ethics-board-just-a-week-after-its-announcement.md",
       "title": "Google cancels AI ethics board just a week after its announcement",
       "excerpt": "Google canceled its Advanced Technology External Advisory Council just a little over a week after its announcement, according to a recent VOX report. The AI ethics board was supposed to oversee ...",
+      "webUrl": "https://pocketnow.com/google-cancels-ai-ethics-board",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2019/04/office-photo-building-illuminated-google-zurich-inside_7bbef648-5050-11e9-b593-df9071890b8d.jpg",
+          "width": 960,
+          "height": 540,
+          "title": "Google cancels AI ethics board just a week after its announcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://pocketnow.com/google-cancels-ai-ethics-board",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-12T17:00:00-07:00",
@@ -1058,16 +1210,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2019/04/office-photo-building-illuminated-google-zurich-inside_7bbef648-5050-11e9-b593-df9071890b8d.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Google cancels AI ethics board just a week after its announcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1081,10 +1223,20 @@
       "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
       "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
       "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
+      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
+          "width": 1602,
+          "height": 906,
+          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
       "ampWebUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
       "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
       "publishedDateTime": "2020-05-11T08:44:00-07:00",
@@ -1096,16 +1248,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
-          "width": 1602,
-          "height": 906,
-          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1121,10 +1263,20 @@
       "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
       "title": "Building transparency and customer confidence in AI",
       "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
+      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Building transparency and customer confidence in AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
       "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
       "publishedDateTime": "2020-05-07T01:51:00-07:00",
@@ -1145,16 +1297,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Building transparency and customer confidence in AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1168,10 +1310,20 @@
       "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
       "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
       "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
+      "webUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/",
       "ampWebUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
       "publishedDateTime": "2020-05-06T10:53:00-07:00",
@@ -1192,16 +1344,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1209,149 +1351,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey.md",
-      "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-      "excerpt": "Confidence in AI varies by gender and country, but generally speaking AI pros have more faith in systems than the general population.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "publishedDateTime": "2020-05-06T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/06/a4f48112-8f60-462b-ada5-b2b7f3aa5c9e/ibm-ai-system-design-priorities.png",
-          "width": 1013,
-          "height": 773,
-          "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-call-of-ai-ethics-the-origin-story.md",
-      "title": "Call of AI Ethics: The origin story",
-      "excerpt": "Dr. Francesca Rossi, IBM fellow, AI ethics global leader, and distinguished research staff member, IBM Research, tells Tonya Hall about the Call of AI Ethics that was initiated by the Vatican and presented to Pope Francis.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/call-of-ai-ethics-the-origin-story/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/06/9607c290-d166-4c72-8aa5-8d924164ec86/thumbnail/770x578/4386903680cf78bb5d3ee9cc9c177802/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Call of AI Ethics: The origin story",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
-      "title": "How NVIDIA hopes to industrialize AI with MLOps",
-      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "publishedDateTime": "2020-05-05T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

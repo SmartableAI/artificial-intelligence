@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region"
+    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
+    publishedDateTime: 2020-06-12T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025--by-product-type-formulation-and-region-2020-06-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Software Platform Market 2020 Covid-19 impact, By Key Players, Sale, Trends, Segmentation And Forecast By 2023"
     excerpt: "The global AI Software Platform market was valued at USD 2.75 billion in 2017 and is expected to reach USD 11.3 billion by the end of the forecast period with a CAGR of 28.1%.The"
     publishedDateTime: 2020-06-09T16:45:00Z

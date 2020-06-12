@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T19:55:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-sct061120.php"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     title: "Self-driving cars that recognize free space can better detect objects"
 
 related:
+  - title: "New system helps self driving cars detect empty space"
+    excerpt: "Humans know that objects in their sight may obscure the view of things ahead of their path, but self-driving cars cannot reason about the objects around them. Self-driving cars use 3D data from lidar to represent objects as point clouds."
+    publishedDateTime: 2020-06-12T19:02:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15268/new-system-helps-self-driving-cars-detect-empty-space"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/268/15268/234565_web.jpg"
+        width: 1440
+        height: 817
+        isCached: true
   - title: "Self-Driving Cars That Recognize Free Space Can Better Detect Objects (image)"
     excerpt: "New CMU research shows that what a self-driving car doesn't see (in green) is as important to navigation as what it actually sees (in red)."
     publishedDateTime: 2020-06-11T19:55:00Z

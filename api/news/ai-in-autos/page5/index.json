@@ -2,13 +2,164 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
+      "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
+      "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
+      "webUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb1926f0371f8083eb2ceaf/master/pass/265652_V60_R-Design_in_Crystal_White_Pearl.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
+      "publishedDateTime": "2020-05-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion ...",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 729,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ford-shares-a-years-worth-of-self-driving-car-data.md",
+      "title": "Ford shares a year's worth of self-driving car data",
+      "excerpt": "Self-driving vehicles require massive amounts of data, which can be difficult to obtain without vehicles equipped with cameras and LiDAR and miles and miles of testing. To help advance autonomous vehicle research,",
+      "webUrl": "https://www.engadget.com/ford-self-driving-vehicle-dataset-192308540.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F21e1ce80-8f00-11ea-9401-66231619ed5e&client=amp-blogside-v2&signature=83f0352838237c7cb1538da3e17441a630a93a2c",
+          "width": 600,
+          "height": 350,
+          "title": "Ford shares a year's worth of self-driving car data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
+      "publishedDateTime": "2020-05-05T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-how-self-driving-telescopes-could-transform-astronomy.md",
       "title": "How Self-Driving Telescopes Could Transform Astronomy",
       "excerpt": "Astronomers and physicists continue to pursue the answers to the universe’s deepest questions, but on many matters, including dark matter and dark energy, they are stymied. What if an autonomously operating telescope,",
+      "webUrl": "https://gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mipdh6kpib860qz1yota.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "How Self-Driving Telescopes Could Transform Astronomy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764",
       "ampWebUrl": "https://gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764/amp",
       "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764/amp",
       "publishedDateTime": "2020-05-05T10:53:00-07:00",
@@ -29,16 +180,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mipdh6kpib860qz1yota.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "How Self-Driving Telescopes Could Transform Astronomy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +193,20 @@
       "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
       "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
       "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T10:13:00-07:00",
@@ -76,16 +227,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -100,10 +241,20 @@
       "path": "_news/2020-05-05-ford-releases-self-driving-car-data-to-encourage-further-research.md",
       "title": "Ford releases self-driving car data to encourage further research",
       "excerpt": "Ford hopes data from some of its test cars will spur further development of autonomous driving tech. Ford is releasing a data package collected over one year.",
+      "webUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/av-data-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Ford releases self-driving car data to encourage further research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/",
       "ampWebUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
       "publishedDateTime": "2020-05-05T09:37:00-07:00",
@@ -124,16 +275,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/av-data-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Ford releases self-driving car data to encourage further research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -147,10 +288,20 @@
       "path": "_news/2020-05-05-trucking-high-capacity-solutions-beyond-adding-a-second-trailer.md",
       "title": "Trucking: High-capacity solutions beyond adding a second trailer",
       "excerpt": "We’ve seen many changes reshaping the rail, ocean and air modes that are being driven by innovations in technology and the rapid growth of the interconnected “digital” supply chain.",
+      "webUrl": "https://www.logisticsmgmt.com/article/trucking_high_capacity_solutions_beyond_adding_a_second_trailer",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2004_SUP_Top50Trucking-main800.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Trucking: High-capacity solutions beyond adding a second trailer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.logisticsmgmt.com/article/trucking_high_capacity_solutions_beyond_adding_a_second_trailer",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T08:31:00-07:00",
@@ -162,16 +313,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2004_SUP_Top50Trucking-main800.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "Trucking: High-capacity solutions beyond adding a second trailer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -185,10 +326,20 @@
       "path": "_news/2020-05-05-scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models.md",
       "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
       "excerpt": "By installing a backdoor in the deep learning algorithm, the malicious actor ironically gained access to the building through the front door. This is not a page out of a sci-fi novel. Although hypothetical,",
+      "webUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
       "publishedDateTime": "2020-05-05T07:06:00-07:00",
@@ -209,16 +360,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-10-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -233,10 +374,11 @@
       "path": "_news/2020-05-05-rising-from-rock-bottom.md",
       "title": "Rising From Rock Bottom",
       "excerpt": "With an unavoidable recession in the cards, what can we expect in the coming months? How quickly can markets, societies and small businesses recover?",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
       "publishedDateTime": "2020-05-05T05:07:00-07:00",
@@ -257,7 +399,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -271,10 +412,20 @@
       "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
       "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
       "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
+      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
       "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
       "publishedDateTime": "2020-05-05T04:00:00-07:00",
@@ -295,16 +446,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -319,10 +460,20 @@
       "path": "_news/2020-05-05-xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers.md",
       "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
       "excerpt": "Chipmaker Xilinx and Avnet, a designer and distributor of electronics components, have combined to offer a range of solutions for autonomous car development. Xilinx is a big name in the industrial",
+      "webUrl": "https://roboticsandautomationnews.com/2020/05/05/xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers/32076/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2019/11/restrict-access-ad.jpg",
+          "width": 842,
+          "height": 595,
+          "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://roboticsandautomationnews.com/2020/05/05/xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers/32076/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T02:00:00-07:00",
@@ -334,16 +485,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2019/11/restrict-access-ad.jpg",
-          "width": 842,
-          "height": 595,
-          "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -357,10 +498,20 @@
       "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
       "title": "Gap in AI chips between China and US may be larger than it seems",
       "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
+      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Gap in AI chips between China and US may be larger than it seems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
       "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
       "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
       "publishedDateTime": "2020-05-04T21:46:00-07:00",
@@ -372,16 +523,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": "Gap in AI chips between China and US may be larger than it seems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -396,10 +537,20 @@
       "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
       "title": "Smart Serendipity In IBM AI For Operations",
       "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
       "heat": 111,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
+          "width": 640,
+          "height": 332,
+          "title": "Smart Serendipity In IBM AI For Operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
       "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
       "publishedDateTime": "2020-05-04T21:38:00-07:00",
@@ -420,16 +571,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
-          "width": 640,
-          "height": 332,
-          "title": "Smart Serendipity In IBM AI For Operations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -444,10 +585,11 @@
       "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
       "title": "Let’s Make a Deal With Our Robot Overlords",
       "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "heat": 71,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "publishedDateTime": "2020-05-04T14:00:00-07:00",
@@ -468,7 +610,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -483,10 +624,28 @@
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
+      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
+          "width": 1680,
+          "height": 946,
+          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
+          "width": 1680,
+          "height": 946,
+          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
       "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
       "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
       "publishedDateTime": "2020-05-04T13:16:00-07:00",
@@ -507,24 +666,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -538,10 +679,20 @@
       "path": "_news/2020-05-04-will-the-pandemic-map-a-new-course-for-autonomous-cars.md",
       "title": "Will the pandemic map a new course for autonomous cars?",
       "excerpt": "In a future where human contacts will need greater protection, the driverless car could end up giving people greater control than they had before.",
+      "webUrl": "https://www.zdnet.com/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/13b78c5a-4517-49cb-a584-009e7afe2ab0/200504-gm-motorama-01.jpg",
+          "width": 900,
+          "height": 675,
+          "title": "Will the pandemic map a new course for autonomous cars?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
       "publishedDateTime": "2020-05-04T13:08:00-07:00",
@@ -562,16 +713,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/13b78c5a-4517-49cb-a584-009e7afe2ab0/200504-gm-motorama-01.jpg",
-          "width": 900,
-          "height": 675,
-          "title": "Will the pandemic map a new course for autonomous cars?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -585,10 +726,11 @@
       "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900-mln-to-help-develop-robotaxis.md",
       "title": "Intel buys Moovit transit app for $900 mln to help develop robotaxis",
       "excerpt": "Chipmaker Intel Corp INTC.O has bought Israeli public transit app maker Moovit for about $900 million to help it develop self-d",
+      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
       "ampWebUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
       "publishedDateTime": "2020-05-04T09:36:00-07:00",
@@ -600,7 +742,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -614,10 +755,20 @@
       "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
       "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
       "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
+      "webUrl": "https://www.autonews.com/mobility-report/intel-buys-moovit-transit-app-900m-help-develop-robotaxis",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Intel-main_i.png",
+          "width": 800,
+          "height": 600,
+          "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.autonews.com/mobility-report/intel-buys-moovit-transit-app-900m-help-develop-robotaxis",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T08:59:00-07:00",
@@ -629,16 +780,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Intel-main_i.png",
-          "width": 800,
-          "height": 600,
-          "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -652,10 +793,20 @@
       "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
       "title": "How Should Your Business Get Started With AI? Begin With Why",
       "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
+          "width": 1200,
+          "height": 563,
+          "title": "How Should Your Business Get Started With AI? Begin With Why",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
       "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
       "publishedDateTime": "2020-05-04T07:53:00-07:00",
@@ -676,16 +827,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
-          "width": 1200,
-          "height": 563,
-          "title": "How Should Your Business Get Started With AI? Begin With Why",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -699,10 +840,20 @@
       "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
       "title": "Your Organization Needs a Proprietary Data Strategy",
       "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T06:10:00-07:00",
@@ -714,16 +865,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Your Organization Needs a Proprietary Data Strategy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -737,10 +878,20 @@
       "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
       "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
       "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
+      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
       "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
       "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
       "publishedDateTime": "2020-05-03T23:32:00-07:00",
@@ -752,16 +903,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -775,10 +916,11 @@
       "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
       "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
       "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
+      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
       "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
       "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
       "publishedDateTime": "2020-05-03T21:29:00-07:00",
@@ -790,7 +932,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -804,10 +945,20 @@
       "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
       "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
       "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 743,
+          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
       "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
       "publishedDateTime": "2020-05-03T21:26:00-07:00",
@@ -828,16 +979,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
-          "width": 1199,
-          "height": 743,
-          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -851,10 +992,20 @@
       "path": "_news/2020-05-02-ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars.md",
       "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
       "excerpt": "AI is not yet akin to human intelligence and the odds are that we are a long way distant from the promise of such vaunted capabilities. Those touting the use of Machine Learning (ML) and Deep Learning (DL) are hoping that the advent of ML/DL might be a path toward full AI,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189823259%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D289%26cropY2%3D3495",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/",
       "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
       "publishedDateTime": "2020-05-02T08:36:00-07:00",
@@ -875,16 +1026,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189823259%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D289%26cropY2%3D3495",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -898,10 +1039,20 @@
       "path": "_news/2020-05-02-samsung-steps-up-its-driverless-car-challenge-to-google-uber-apple.md",
       "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
       "excerpt": "Samsung will be providing the sensors and artificial intelligence technologies for Hyundai cars. Samsung has been granted permission to test its driverless cars on the road in South Korea ...",
+      "webUrl": "https://www.cnbc.com/2017/05/02/samsung-driverless-car-test-approval.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486",
+          "width": 3000,
+          "height": 1888,
+          "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/05/02/samsung-driverless-car-test-approval.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
       "publishedDateTime": "2020-05-01T17:00:00-07:00",
@@ -922,16 +1073,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486",
-          "width": 3000,
-          "height": 1888,
-          "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -945,10 +1086,20 @@
       "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
       "title": "Fueling driverless navigation with AI",
       "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route. Powerful, accurate maps can be created by deep learning models, able to process masses of images no human cartographer could ever manage.",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Fueling driverless navigation with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
       "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
       "publishedDateTime": "2020-05-01T03:21:00-07:00",
@@ -969,16 +1120,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -992,10 +1133,28 @@
       "path": "_news/2020-05-01-teslas-full-self-driving-feature-is-coming-in-subscription-form.md",
       "title": "Tesla's 'full self-driving' feature is coming in subscription form",
       "excerpt": "During its Q1 2020 earnings on Wednesday, Tesla revealed that the \"Full Self-Driving\" system will be available as a monthly subscription later this year.",
+      "webUrl": "https://www.engadget.com/tesla-earnings-q1-2020-235416562.html",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=5274ce43abf88f1aa710ed82e963801365f7f175",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=a125a2031bcf5e44d04403d2f8899332da91bee6",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.engadget.com/tesla-earnings-q1-2020-235416562.html",
       "ampWebUrl": "https://www.engadget.com/amp/tesla-earnings-q1-2020-235416562.html",
       "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-earnings-q1-2020-235416562.html",
       "publishedDateTime": "2020-05-01T00:48:00-07:00",
@@ -1016,24 +1175,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=5274ce43abf88f1aa710ed82e963801365f7f175",
-          "width": 600,
-          "height": 350,
-          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=a125a2031bcf5e44d04403d2f8899332da91bee6",
-          "width": 600,
-          "height": 350,
-          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

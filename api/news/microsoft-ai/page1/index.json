@@ -2,13 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
+      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "publishedDateTime": "2020-06-12T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
+      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
+      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
+      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
+          "width": 1024,
+          "height": 538,
+          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoftcaregh.com",
+        "domain": "microsoftcaregh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
       "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
       "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
       "heat": 96,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
       "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
       "publishedDateTime": "2020-06-10T06:05:00-07:00",
@@ -29,16 +117,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -53,10 +131,20 @@
       "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
       "title": "Azure Machine Learning—what’s new from Build 2020",
       "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
+          "width": 1024,
+          "height": 586,
+          "title": "Azure Machine Learning—what’s new from Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-10T05:00:14-07:00",
@@ -77,16 +165,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
-          "width": 1024,
-          "height": 586,
-          "title": "Azure Machine Learning—what’s new from Build 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -97,61 +175,61 @@
       ]
     },
     {
-      "path": "_news/2020-06-10-microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure.md",
-      "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
-      "excerpt": "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure.",
-      "heat": 109,
+      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
+      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
+      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
+      "heat": 75,
       "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/",
-      "publishedDateTime": "2020-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg",
-          "width": 1200,
-          "height": 894,
-          "title": "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure",
+          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
           "attribution": null,
           "isCached": true
         }
       ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
       "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
       "title": "Seeing Results From AI, Even During Covid19 Recession",
       "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Seeing Results From AI, Even During Covid19 Recession",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
       "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
       "publishedDateTime": "2020-06-09T06:44:00-07:00",
@@ -172,16 +250,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Seeing Results From AI, Even During Covid19 Recession",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -195,10 +263,20 @@
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "publishedDateTime": "2020-06-09T06:29:00-07:00",
@@ -219,16 +297,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -244,10 +312,20 @@
       "path": "_news/2020-06-09-mount-sinai-receives-award-from-microsoft-ai-for-health-to-support-covid-informatics-center.md",
       "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
       "excerpt": "The Mount Sinai Health System has received an award from Microsoft AI for Health to support the work of a new data science center dedicated to COVID-19 research.",
+      "webUrl": "https://www.news-medical.net/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
       "ampWebUrl": "https://www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
       "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx",
       "publishedDateTime": "2020-06-08T18:01:00-07:00",
@@ -259,16 +337,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -282,10 +350,20 @@
       "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
       "title": "The Impact Of Artificial Intelligence On Professional Services",
       "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792",
+          "width": 1200,
+          "height": 800,
+          "title": "The Impact Of Artificial Intelligence On Professional Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
       "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
       "publishedDateTime": "2020-06-08T02:37:00-07:00",
@@ -306,16 +384,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Professional Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -329,10 +397,20 @@
       "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
       "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
       "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
+      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
+          "width": 800,
+          "height": 600,
+          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
       "ampWebUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
       "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
       "publishedDateTime": "2020-06-03T08:48:00-07:00",
@@ -344,16 +422,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
-          "width": 800,
-          "height": 600,
-          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -367,10 +435,20 @@
       "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
       "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
       "excerpt": "TIBCO Software Inc., a pioneer in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven",
+      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
       "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
       "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
       "publishedDateTime": "2020-06-03T03:19:00-07:00",
@@ -382,16 +460,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -405,10 +473,20 @@
       "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
       "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
       "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
+          "width": 900,
+          "height": 592,
+          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
       "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
       "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
       "publishedDateTime": "2020-06-03T00:41:00-07:00",
@@ -429,16 +507,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
-          "width": 900,
-          "height": 592,
-          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -452,10 +520,20 @@
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
+      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "publishedDateTime": "2020-06-01T21:01:00-07:00",
@@ -476,16 +554,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -500,10 +568,20 @@
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
       "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "7 AI Stocks That Are Looking to the Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
       "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
       "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
       "publishedDateTime": "2020-06-01T11:24:00-07:00",
@@ -515,16 +593,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -539,10 +607,20 @@
       "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
       "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-01T05:00:00-07:00",
@@ -563,16 +641,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -586,10 +654,20 @@
       "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
       "title": "13 ways Microsoft Azure beats AWS",
       "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
+      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
       "heat": 121,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "13 ways Microsoft Azure beats AWS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
       "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
       "publishedDateTime": "2020-06-01T03:13:00-07:00",
@@ -610,16 +688,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -634,10 +702,20 @@
       "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
       "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
       "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
       "heat": 102,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
       "publishedDateTime": "2020-05-30T19:58:00-07:00",
@@ -658,16 +736,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -681,10 +749,11 @@
       "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
       "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
       "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
+      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
       "ampWebUrl": "https://www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
       "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
       "publishedDateTime": "2020-05-29T05:20:00-07:00",
@@ -696,7 +765,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -710,10 +778,20 @@
       "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
       "title": "Baidu releases homegrown quantum machine learning toolkit",
       "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "heat": 78,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "publishedDateTime": "2020-05-28T01:13:00-07:00",
@@ -725,16 +803,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
-          "width": 1620,
-          "height": 1080,
-          "title": "Baidu releases homegrown quantum machine learning toolkit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -750,10 +818,20 @@
       "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
       "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
       "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
+      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
+          "width": 1024,
+          "height": 722,
+          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
       "ampWebUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
       "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
       "publishedDateTime": "2020-05-27T12:49:00-07:00",
@@ -765,16 +843,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
-          "width": 1024,
-          "height": 722,
-          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -788,10 +856,20 @@
       "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
       "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
       "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
       "ampWebUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
       "cdnAmpWebUrl": "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
       "publishedDateTime": "2020-05-27T12:48:08-07:00",
@@ -812,16 +890,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -835,10 +903,20 @@
       "path": "_news/2020-05-27-jedi-delay-slows-dods-ai-push.md",
       "title": "JEDI delay slows DOD’s AI push",
       "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 27, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterpris",
+      "webUrl": "https://defensesystems.com/articles/2020/05/27/jedi-delay-slows-ai.aspx",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
+          "width": 760,
+          "height": 368,
+          "title": "JEDI delay slows DOD’s AI push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://defensesystems.com/articles/2020/05/27/jedi-delay-slows-ai.aspx",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T09:57:00-07:00",
@@ -850,16 +928,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
-          "width": 760,
-          "height": 368,
-          "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -873,10 +941,20 @@
       "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
       "title": "Microsoft Build 2020: Colour me Azure",
       "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft Build 2020: Colour me Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
       "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
       "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
       "publishedDateTime": "2020-05-27T09:14:00-07:00",
@@ -888,16 +966,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -911,10 +979,11 @@
       "path": "_news/2020-05-27-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World's Largest API Marketplace",
       "excerpt": "The addition of Microsoft Azure Cognitive Services enables RapidAPI&CloseCurlyQuote;s 1M+ developer community to add advanced machine learning capabilities to their applications RapidAPI,the world&CloseCurlyQuote;s largest API Marketplace that helps ...",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/27/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-world-s",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/27/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-world-s",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T06:10:00-07:00",
@@ -926,7 +995,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -940,10 +1008,20 @@
       "path": "_news/2020-05-26-jedi-delay-slows-dods-ai-push.md",
       "title": "JEDI delay slows DOD’s AI push",
       "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 26, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterprisewide c",
+      "webUrl": "https://gcn.com/articles/2020/05/26/jedi-delay-slows-ai.aspx?admgarea=TC_EmergingTech",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
+          "width": 760,
+          "height": 368,
+          "title": "JEDI delay slows DOD’s AI push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gcn.com/articles/2020/05/26/jedi-delay-slows-ai.aspx?admgarea=TC_EmergingTech",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T13:29:00-07:00",
@@ -955,16 +1033,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
-          "width": 760,
-          "height": 368,
-          "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -978,10 +1046,11 @@
       "path": "_news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum.md",
       "title": "Google's New Accessibility Features to Drive User Momentum",
       "excerpt": "Alphabet’s GOOGL division Google is making every effort to bolster accessibility features in a bid to strengthen presence among people with cognitive and physical disabilities. This is evident from the latest move of unveiling Action Blocks app for the Android users on the Global Accessibility Awareness Day.",
+      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
       "ampWebUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
       "publishedDateTime": "2020-05-26T07:32:00-07:00",
@@ -993,7 +1062,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1007,10 +1075,20 @@
       "path": "_news/2020-05-26-smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology.md",
       "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
       "excerpt": "That company, now TalentCloud, forged ahead with Microsoft Azure Machine Learning and Internet of Things (IoT) technology. Since its 2012 founding, the company has parlayed those technologies into its Agro-Brain solution. Just as TalentCloud data ...",
+      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
+          "width": 768,
+          "height": 513,
+          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-25T17:00:00-07:00",
@@ -1031,16 +1109,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
-          "width": 768,
-          "height": 513,
-          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1054,10 +1122,20 @@
       "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
       "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
       "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "publishedDateTime": "2020-05-23T09:24:00-07:00",
@@ -1078,16 +1156,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1103,10 +1171,20 @@
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
+      "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
       "heat": 106,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
       "ampWebUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/",
       "publishedDateTime": "2020-05-22T10:33:00-07:00",
@@ -1127,16 +1205,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1151,10 +1219,20 @@
       "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
       "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
       "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
+      "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e",
+          "width": 1119,
+          "height": 630,
+          "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-22T10:07:00-07:00",
@@ -1175,16 +1253,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e",
-          "width": 1119,
-          "height": 630,
-          "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1192,82 +1260,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-moves-toward-ai-that-creates-offspring.md",
-      "title": "Microsoft Moves Toward AI That Creates Offspring",
-      "excerpt": "Among the notable advances at Microsoft’s Build this year was the new Azure Cognitive Services capability to significantly reduce the aggravation and time it takes to create an app. Microsoft Build is often a fascinating conference because if you look at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

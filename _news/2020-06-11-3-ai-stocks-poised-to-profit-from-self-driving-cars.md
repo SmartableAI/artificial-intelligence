@@ -30,7 +30,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
 
 secured: "v6w+feaueW65dQh787phenQfRBUNqyCXtRRtPZfhftSFbdF1aMuCrg+tMjdTSx3uGNwRwTop/wpOhb2YBu5uE3++HKRpmd6U34HjKM4e/kbPCu/73ZYhDAYx+ThgzzHf8sp5jyndo1YtbuhtzwkAsxP9urZ4Skh7hzoI3TxrlEGl6FkzTsM5/AL+d4D0F4amRmHouJ/ewTtOijGhAv5+aRmjJYsTnegQK9PQ5qbALXgiX49DJtA4BFr2Tcy3IiRgtpY1OWsaXVbQuetxF1PpbySledtqUHy7WJCrt+Gpfn448jvkvQzAZ2SZ7FD2NwwQ6XFFKI0SyP6dXOlS+ftvc/Cq/+2OZwaoVaFKNul+nwbxo8Mo7AXDzqoUxk4gpkfmbQlkfQQs5jJjrCW2K1x7OViUuzG7dU1dpB+ynLvkENhAJ9Sh0MWDR4N9N5aIMCy5L/V676I/8ZSIbAypB34oK1xIy2CnwG3HxESsh+u617GuVYJ5JBdzBOIFrwDaEoEP;dMG5U8iVQQm8RCENQBssVw=="
 ---

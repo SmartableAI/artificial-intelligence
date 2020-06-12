@@ -2,13 +2,70 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
+      "title": "How AI and ML are helping first responders",
+      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
+      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "How AI and ML are helping first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "publishedDateTime": "2020-05-11T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
       "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
       "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
+      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
+          "width": 630,
+          "height": 379,
+          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
       "ampWebUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
       "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
       "publishedDateTime": "2020-05-10T23:40:00-07:00",
@@ -29,16 +86,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
-          "width": 630,
-          "height": 379,
-          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +99,20 @@
       "path": "_news/2020-05-10-mega-man-11-review-i-hate-bounce-man.md",
       "title": "'Mega Man 11' Review: I Hate Bounce Man",
       "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
+      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'Mega Man 11' Review: I Hate Bounce Man",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
       "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
       "publishedDateTime": "2020-05-09T17:00:00-07:00",
@@ -76,16 +133,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "'Mega Man 11' Review: I Hate Bounce Man",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -99,10 +146,20 @@
       "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
       "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-09T02:08:00-07:00",
@@ -123,16 +180,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -147,10 +194,20 @@
       "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
       "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
       "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 900,
+          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
       "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
       "publishedDateTime": "2020-05-08T08:15:00-07:00",
@@ -171,16 +228,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 900,
-          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -194,10 +241,11 @@
       "path": "_news/2020-05-08-artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement.md",
       "title": "Artificial Intelligence Technology Solutions Announces Health Screening Product Enhancement",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK: AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "heat": 71,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "publishedDateTime": "2020-05-08T06:32:00-07:00",
@@ -218,7 +266,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -233,10 +280,11 @@
       "path": "_news/2020-05-08-shield-ai-recognized-as-one-of-worlds-most-innovative-companies.md",
       "title": "Shield AI Recognized As One of World's Most Innovative Companies",
       "excerpt": "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15986951",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986951",
       "publishedDateTime": "2020-05-08T03:00:00-07:00",
@@ -248,7 +296,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -262,10 +309,20 @@
       "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
       "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
       "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
+          "width": 1200,
+          "height": 614,
+          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
       "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
       "publishedDateTime": "2020-05-07T21:24:00-07:00",
@@ -286,16 +343,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
-          "width": 1200,
-          "height": 614,
-          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -310,10 +357,20 @@
       "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
       "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
       "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
+          "width": 579,
+          "height": 480,
+          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
       "publishedDateTime": "2020-05-07T16:56:00-07:00",
@@ -325,16 +382,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -348,10 +395,20 @@
       "path": "_news/2020-05-07-pittsburghs-airport-is-the-first-in-the-us-to-use-uv-cleaning-robots.md",
       "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
       "excerpt": "Allegheny County Airport CEO Christina Cassotis said the partnership with Pittsburgh-based Carnegie Robotics highlights how the burgeoning robotics sector in Pittsburgh works alongside the community to solve big-picture problems.",
+      "webUrl": "https://www.theverge.com/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/YQ9zDrR3dk5UNMYYFkv5Z3o1sQ4=/0x0:1800x1266/1400x933/filters:focal(756x489:1044x777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764586/Carnegie_Robotics_UV_scrubber_at_PIT.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
       "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
       "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
       "publishedDateTime": "2020-05-07T09:14:00-07:00",
@@ -372,16 +429,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/YQ9zDrR3dk5UNMYYFkv5Z3o1sQ4=/0x0:1800x1266/1400x933/filters:focal(756x489:1044x777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764586/Carnegie_Robotics_UV_scrubber_at_PIT.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -395,10 +442,20 @@
       "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
       "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
       "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
+      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
       "ampWebUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
       "publishedDateTime": "2020-05-07T08:53:00-07:00",
@@ -419,16 +476,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -442,10 +489,20 @@
       "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
       "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
       "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-07T02:19:00-07:00",
@@ -466,16 +523,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -490,10 +537,20 @@
       "path": "_news/2020-05-07-how-mind-controlled-robot-suits-could-enhance-our-limbs.md",
       "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
       "excerpt": "In Episode 2 of Future You with Elise Hu, we explore mind-controlled robot suits and how they could end some disabilities as we know them or let able-bodied people gain super strength. It sounds ...",
+      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
+          "width": 1337,
+          "height": 752,
+          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-06T22:00:00-07:00",
@@ -505,16 +562,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
-          "width": 1337,
-          "height": 752,
-          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -528,10 +575,20 @@
       "path": "_news/2020-05-06-navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them.md",
       "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
       "excerpt": "\"We need to find a balance of vehicle designs that enables the cost to be cheap enough that we can afford them, but it's not so highly optimized towards the purely unmanned spectrum that it's cost prohibitive to maintain them.",
+      "webUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Sea-Hunter-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/",
       "ampWebUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
       "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
       "publishedDateTime": "2020-05-06T12:48:00-07:00",
@@ -543,16 +600,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Sea-Hunter-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -566,10 +613,20 @@
       "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
       "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
       "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
+      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
       "heat": 98,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
       "ampWebUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
       "publishedDateTime": "2020-05-06T10:07:00-07:00",
@@ -590,16 +647,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -614,10 +661,20 @@
       "path": "_news/2020-05-06-machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together.md",
       "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
       "excerpt": "By deploying smart software that coordinates smart hardware, enabling multiple robots and smart systems to work together as a combined, integrated workforce. That’s something European startup Unmanned.",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb2d996ed706b000616ce8a%2F0x0.jpg",
+          "width": 1000,
+          "height": 534,
+          "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/",
       "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/",
       "publishedDateTime": "2020-05-06T09:23:00-07:00",
@@ -638,16 +695,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb2d996ed706b000616ce8a%2F0x0.jpg",
-          "width": 1000,
-          "height": 534,
-          "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -662,10 +709,20 @@
       "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
       "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
       "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
+      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183896/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
       "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
       "publishedDateTime": "2020-05-06T06:07:00-07:00",
@@ -686,16 +743,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183896/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -709,10 +756,20 @@
       "path": "_news/2020-05-06-industrial-ai-startup-covariant-raises-a-40m-series-b.md",
       "title": "Industrial AI startup Covariant raises a $40M Series B",
       "excerpt": "Covariant this week announced that it has raised a $40 million Series B, led by Index Ventures. The funding brings the three-year-old Berkeley startup’s total funding up to $67 million. Co-founded by top UC Berkeley professor Pieter Abbeel,",
+      "webUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": "Industrial AI startup Covariant raises a $40M Series B",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/",
       "ampWebUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
       "publishedDateTime": "2020-05-06T06:05:00-07:00",
@@ -733,16 +790,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024",
-          "width": 1024,
-          "height": 691,
-          "title": "Industrial AI startup Covariant raises a $40M Series B",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -756,10 +803,20 @@
       "path": "_news/2020-05-06-covariant-raises-40-million-to-bring-robots-to-low-tech-industries.md",
       "title": "Covariant raises $40 million to bring robots to low-tech industries",
       "excerpt": "Robotics startup Covariant may be best known for robotic grasping, but it aims to enter new industries, like mail delivery and agriculture.",
+      "webUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/",
       "heat": 124,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/covariant-founders.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Covariant raises $40 million to bring robots to low-tech industries",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/",
       "ampWebUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
       "publishedDateTime": "2020-05-06T06:04:00-07:00",
@@ -780,16 +837,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/covariant-founders.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Covariant raises $40 million to bring robots to low-tech industries",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -803,10 +850,20 @@
       "path": "_news/2020-05-06-why-choose-a-stock-image-yourself-when-this-robot-can-do-it-for-you.md",
       "title": "Why choose a stock image yourself when this robot can do it for you?",
       "excerpt": "Stock photography is typically categorized into two camps: overly specific images that no one understands, or truly bizarre photos that make their way into the internet meme cycle ( distracted boyfriend meme,",
+      "webUrl": "https://mashable.com/shopping/may-6-jumpstory-stock-photography-sale/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F06%252F2f%252Fae770079dae8466fa466acecc0c43928.7e288.jpg%252F1200x630.jpg?signature=NvtStWXeLcHiNnuOP7b3Q5b52mk=",
+          "width": 1200,
+          "height": 630,
+          "title": "Why choose a stock image yourself when this robot can do it for you?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://mashable.com/shopping/may-6-jumpstory-stock-photography-sale/",
       "ampWebUrl": "https://mashable.com/shopping/may-6-jumpstory-stock-photography-sale.amp",
       "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/may-6-jumpstory-stock-photography-sale.amp",
       "publishedDateTime": "2020-05-06T02:00:00-07:00",
@@ -818,16 +875,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F06%252F2f%252Fae770079dae8466fa466acecc0c43928.7e288.jpg%252F1200x630.jpg?signature=NvtStWXeLcHiNnuOP7b3Q5b52mk=",
-          "width": 1200,
-          "height": 630,
-          "title": "Why choose a stock image yourself when this robot can do it for you?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -841,10 +888,20 @@
       "path": "_news/2020-05-06-hands-on-with-the-ecovacs-deebot-ozmo-t8-aivi-multi-purpose-cleaning-and-mopping-robot-with-video-surveillance-feature.md",
       "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
       "excerpt": "The Ecovacs Deebot Ozmo T8 AIVI is an AI-driven floor cleaning robot that has every feature you could need in a multi-purpose robot – and a video and microphone that can scan your home whilst you are away.",
+      "webUrl": "https://www.zdnet.com/product/ecovacs-deebot-ozmo-t8-aivi/",
       "heat": 80,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/41ed2ce0-5f02-4f4a-b2dc-3f942aeb32fc/ecovacs-deebot-ozmo-t8-aivi-video-eileen-brown-zdnet.png",
+          "width": 1440,
+          "height": 720,
+          "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/product/ecovacs-deebot-ozmo-t8-aivi/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
       "publishedDateTime": "2020-05-06T01:17:00-07:00",
@@ -865,16 +922,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/41ed2ce0-5f02-4f4a-b2dc-3f942aeb32fc/ecovacs-deebot-ozmo-t8-aivi-video-eileen-brown-zdnet.png",
-          "width": 1440,
-          "height": 720,
-          "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -888,10 +935,11 @@
       "path": "_news/2020-05-06-people-think-robots-are-pretty-incompetent-and-not-funny-new-study-says.md",
       "title": "People think robots are pretty incompetent and not funny, new study says",
       "excerpt": "People think robots are pretty incompetent and not funny, new study says Date: May 6, 2020 Source: Georgia Institute of Technology Summary: Detecting gender bias against robots was the original ...",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200506104414.htm",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200506104414.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T17:00:00-07:00",
@@ -912,7 +960,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -926,10 +973,20 @@
       "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
       "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
       "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
       "heat": 92,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
       "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
       "publishedDateTime": "2020-05-05T15:53:00-07:00",
@@ -950,16 +1007,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -975,10 +1022,20 @@
       "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
       "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
       "excerpt": "This was done as part of a BrainGate pilot clinical trial, in which computer cursors, robotic prosthetic limbs ... were able to do so with a mind-controlled cursor, thanks to the implant.",
+      "webUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411",
       "ampWebUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
       "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
       "publishedDateTime": "2020-05-05T14:23:00-07:00",
@@ -999,16 +1056,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg",
-          "width": 800,
-          "height": 448,
-          "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1022,10 +1069,20 @@
       "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
       "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
       "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
+      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
       "heat": 97,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
       "ampWebUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
       "publishedDateTime": "2020-05-05T07:57:00-07:00",
@@ -1046,16 +1103,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1069,10 +1116,20 @@
       "path": "_news/2020-05-05-robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test.md",
       "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
       "excerpt": "Oregon State University researchers have used a robot vacuum cleaner equipped with behavioural patterns inspired by the personalities of three characters from Disney's 'Snow White and the Seven Dwarfs' to demonstrate that people can guess a robot’s ...",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T05:46:00-07:00",
@@ -1084,16 +1141,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1107,10 +1154,20 @@
       "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
       "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
       "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
+      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
       "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
       "publishedDateTime": "2020-05-05T04:00:00-07:00",
@@ -1131,16 +1188,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1155,10 +1202,20 @@
       "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
       "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
       "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
+      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
+          "width": 990,
+          "height": 811,
+          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
       "ampWebUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
       "publishedDateTime": "2020-05-04T14:41:00-07:00",
@@ -1179,16 +1236,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
-          "width": 990,
-          "height": 811,
-          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1202,10 +1249,11 @@
       "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
       "title": "Let’s Make a Deal With Our Robot Overlords",
       "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "heat": 71,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
       "publishedDateTime": "2020-05-04T14:00:00-07:00",
@@ -1226,7 +1274,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1241,10 +1288,20 @@
       "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
       "heat": 140,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T03:06:00-07:00",
@@ -1265,16 +1322,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1283,53 +1330,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
-      "title": "The rise of the robot",
-      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "publishedDateTime": "2020-05-03T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": "The rise of the robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

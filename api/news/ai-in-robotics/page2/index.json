@@ -2,13 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "publishedDateTime": "2020-05-28T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-this-biotech-artist-wants-scientists-to-think-about-their-creations.md",
       "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
       "excerpt": "In 2015, artist Ani Liu heard two sentences that changed her entire approach to art: “Digital is dead. Bio is the new digital.” Those words, spoken at a welcome talk on her first day as a grad student at the MIT Media Lab, triggered panic at first ...",
+      "webUrl": "https://www.sciencefriday.com/articles/biotech-artist/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2020/05/ani-liu-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.sciencefriday.com/articles/biotech-artist/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T11:36:00-07:00",
@@ -20,16 +60,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2020/05/ani-liu-1.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -43,10 +73,11 @@
       "path": "_news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence.md",
       "title": "RAJANT INTRODUCES JON LEDERMAN AS VICE PRESIDENT OF ARTIFICIAL INTELLIGENCE",
       "excerpt": "Rajant Corporation, the provider of Kinetic Mesh® wireless networks, announced today Jon Lederman joined the team as Vice President of Artificial Intelligence (AI). In this newly created position, Mr.",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16120766/rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16120766/rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/16120766",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16120766",
       "publishedDateTime": "2020-05-27T11:00:00-07:00",
@@ -58,7 +89,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -72,10 +102,20 @@
       "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
       "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
       "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
       "heat": 80,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 800,
+          "height": 531,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
       "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
       "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
       "publishedDateTime": "2020-05-27T05:08:00-07:00",
@@ -87,16 +127,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
-          "width": 800,
-          "height": 531,
-          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -110,10 +140,20 @@
       "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
       "title": "The Robot Artists Aren’t Coming",
       "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
+      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robot Artists Aren’t Coming",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
       "ampWebUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
       "publishedDateTime": "2020-05-27T02:08:00-07:00",
@@ -134,16 +174,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "The Robot Artists Aren’t Coming",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -157,10 +187,20 @@
       "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
       "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
       "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099",
+          "width": 1200,
+          "height": 630,
+          "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
       "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
       "publishedDateTime": "2020-05-26T21:53:00-07:00",
@@ -181,16 +221,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099",
-          "width": 1200,
-          "height": 630,
-          "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -204,10 +234,20 @@
       "path": "_news/2020-05-27-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "webUrl": "https://mashable.com/video/paralyzed-man-feels-fingers-again/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
+          "width": 1200,
+          "height": 630,
+          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://mashable.com/video/paralyzed-man-feels-fingers-again/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T17:00:00-07:00",
@@ -219,16 +259,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
-          "width": 1200,
-          "height": 630,
-          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -242,10 +272,20 @@
       "path": "_news/2020-05-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024.md",
       "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
       "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. – The use of robots in space exploration,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024-2020-05-26",
       "heat": 70,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024-2020-05-26",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T05:34:00-07:00",
@@ -266,16 +306,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -289,10 +319,20 @@
       "path": "_news/2020-05-26-36-million-unemployed-how-ai-can-create-jobs.md",
       "title": "36 Million Unemployed: How AI Can Create Jobs",
       "excerpt": "Artificial Intelligence (AI) is the transformative technology for this decade. With 36 million unemployed in US today, can AI also create jobs? Examples of jobs created in finance, human rights, manufacturing,",
+      "webUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecadd84a866ac0006728767%2F0x0.jpg",
+          "width": 700,
+          "height": 431,
+          "title": "36 Million Unemployed: How AI Can Create Jobs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/",
       "ampWebUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
       "publishedDateTime": "2020-05-26T03:03:00-07:00",
@@ -313,16 +353,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecadd84a866ac0006728767%2F0x0.jpg",
-          "width": 700,
-          "height": 431,
-          "title": "36 Million Unemployed: How AI Can Create Jobs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -336,10 +366,20 @@
       "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
       "title": "Why robots will need humans in the future",
       "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
       "heat": 71,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
+          "width": 1200,
+          "height": 858,
+          "title": "Why robots will need humans in the future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
       "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
       "publishedDateTime": "2020-05-25T10:53:00-07:00",
@@ -351,16 +391,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
-          "width": 1200,
-          "height": 858,
-          "title": "Why robots will need humans in the future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -375,10 +405,20 @@
       "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
       "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
       "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
       "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
       "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
       "publishedDateTime": "2020-05-25T06:13:00-07:00",
@@ -390,16 +430,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -413,10 +443,11 @@
       "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
       "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
       "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
       "heat": 86,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
       "publishedDateTime": "2020-05-24T22:56:00-07:00",
@@ -437,7 +468,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -451,10 +481,20 @@
       "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
       "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
       "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
       "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
       "publishedDateTime": "2020-05-23T09:24:00-07:00",
@@ -475,16 +515,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -500,10 +530,20 @@
       "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
       "title": "Hitting the Books: Do we really want our robots to have consciousness?",
       "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
+      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
+          "width": 600,
+          "height": 350,
+          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
       "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
       "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
       "publishedDateTime": "2020-05-23T08:08:00-07:00",
@@ -524,16 +564,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
-          "width": 600,
-          "height": 350,
-          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -547,10 +577,20 @@
       "path": "_news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025.md",
       "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
       "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. - The use of robots in space exploration,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
       "heat": 75,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-23T01:01:00-07:00",
@@ -571,16 +611,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -594,10 +624,20 @@
       "path": "_news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech.md",
       "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
       "excerpt": "The U.S. Commerce Department has put another 33 Chinese businesses—many of which develop artificial intelligence and face recognition tech—on its economic blacklist as a punitive measure for purportedly conspiring with Beijing and the government’s brutal crackdown on Muslim minorities.",
+      "webUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762",
       "heat": 101,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/evgliw8dn4kegcxqbxok.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762",
       "ampWebUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
       "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
       "publishedDateTime": "2020-05-22T21:44:00-07:00",
@@ -618,16 +658,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/evgliw8dn4kegcxqbxok.jpg",
-          "width": 800,
-          "height": 448,
-          "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -642,10 +672,20 @@
       "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
       "title": "First-rate cleaning is just the start for this super-smart Home Robot",
       "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
+      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
+          "width": 560,
+          "height": 315,
+          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
       "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
       "publishedDateTime": "2020-05-21T17:40:00-07:00",
@@ -666,16 +706,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
-          "width": 560,
-          "height": 315,
-          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -690,10 +720,20 @@
       "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
       "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
       "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
+      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
       "heat": 72,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
       "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
       "publishedDateTime": "2020-05-21T14:42:00-07:00",
@@ -714,16 +754,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -737,10 +767,20 @@
       "path": "_news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption.md",
       "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
       "excerpt": "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors.",
+      "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262",
+          "width": 1326,
+          "height": 745,
+          "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
       "publishedDateTime": "2020-05-21T11:56:00-07:00",
@@ -761,16 +801,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262",
-          "width": 1326,
-          "height": 745,
-          "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -784,10 +814,20 @@
       "path": "_news/2020-05-21-sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military.md",
       "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
       "excerpt": "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products.",
+      "webUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military",
       "heat": 82,
       "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military",
       "ampWebUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
       "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
       "publishedDateTime": "2020-05-21T07:40:00-07:00",
@@ -808,16 +848,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -831,10 +861,20 @@
       "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
       "title": "BB-8 toy robot maker spins off robotics startup for first responders",
       "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
+      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
       "ampWebUrl": "https://newatlas.com/robotics/sphero-company-six/?amp=true",
       "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sphero-company-six/?amp=true",
       "publishedDateTime": "2020-05-21T05:27:00-07:00",
@@ -855,16 +895,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -878,10 +908,20 @@
       "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
       "title": "Robots help out in Bahrain’s COVID-19 quarantines",
       "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
+      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
       "ampWebUrl": "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
       "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
       "publishedDateTime": "2020-05-21T03:50:00-07:00",
@@ -893,16 +933,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -916,10 +946,20 @@
       "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
       "title": "Gap rushes in more robots to warehouses to solve virus disruption",
       "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
       "heat": 119,
       "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD",
+          "width": 817,
+          "height": 545,
+          "title": "Gap rushes in more robots to warehouses to solve virus disruption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X14Y",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y",
       "publishedDateTime": "2020-05-21T03:31:00-07:00",
@@ -940,16 +980,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD",
-          "width": 817,
-          "height": 545,
-          "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -963,10 +993,20 @@
       "path": "_news/2020-05-21-brain-hacking-with-entrainment.md",
       "title": "Brain Hacking With Entrainment",
       "excerpt": "At its most basic we’ve seen toys and simple hobby projects that purport to be “mind controlled” but only at an incredibly rudimentary level. Brainwave entrainment is a hypothesis that ...",
+      "webUrl": "https://hackaday.com/2019/04/08/brain-hacking-with-entrainment/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/04/deep.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": "Brain Hacking With Entrainment",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2019/04/08/brain-hacking-with-entrainment/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T17:00:00-07:00",
@@ -978,16 +1018,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/deep.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": "Brain Hacking With Entrainment",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1001,10 +1031,20 @@
       "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
       "title": "Sphero startup will make robots for government and first responders",
       "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
       "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
       "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
       "publishedDateTime": "2020-05-20T16:33:00-07:00",
@@ -1025,16 +1065,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Sphero startup will make robots for government and first responders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1048,10 +1078,11 @@
       "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
       "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
       "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
       "heat": 99,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
       "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
       "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
       "publishedDateTime": "2020-05-20T15:00:00-07:00",
@@ -1072,7 +1103,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1086,10 +1116,20 @@
       "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
       "title": "Sphero spins out Company Six to bring robotics tech to first responders",
       "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
+      "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/RVRKickHR-0079-e1589985394869.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Sphero spins out Company Six to bring robotics tech to first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T07:41:00-07:00",
@@ -1110,16 +1150,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/RVRKickHR-0079-e1589985394869.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Sphero spins out Company Six to bring robotics tech to first responders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1133,10 +1163,20 @@
       "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
       "title": "This Lab ‘Cooks’ With AI to Make New Materials",
       "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
       "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
       "publishedDateTime": "2020-05-20T06:00:00-07:00",
@@ -1157,16 +1197,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1180,10 +1210,20 @@
       "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
       "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
       "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
+          "width": 596,
+          "height": 344,
+          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
       "publishedDateTime": "2020-05-20T05:00:00-07:00",
@@ -1204,16 +1244,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
-          "width": 596,
-          "height": 344,
-          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1227,10 +1257,11 @@
       "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
       "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
       "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
+      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
       "heat": 84,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
       "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
       "publishedDateTime": "2020-05-20T04:54:00-07:00",
@@ -1251,45 +1282,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
-      "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-      "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "publishedDateTime": "2020-05-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

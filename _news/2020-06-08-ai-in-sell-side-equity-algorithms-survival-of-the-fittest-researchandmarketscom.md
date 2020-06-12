@@ -36,6 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "The Road Ahead for AI in Sell-Side Equity Algorithms"
+    excerpt: "Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels. After interviewing 50 AI algorithm experts from the buy-side, sell-side, and fintech vendors - as well as producing AI algo ecosystem case studies on U.S., European, and Asian banks - researchers gained depth and breadth of insight leading to ..."
+    publishedDateTime: 2020-06-12T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-road-ahead-for-ai-in-sell-side-equity-algorithms-301075164.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
 
 secured: "FFpb38F5E6bE+ko7hve9VN2hxvddYDmbOyNNz3CDkB+PUyM0Ag4IfXH6PlESX43+59Z9ExPPpANRUP+jTNQ/cFCBmJtm1qv1D75hNTvz9y4wf4CJ6GVupofXPMOP5YCt6/KCYNxU6D2egk8HVCHFmDZN17bB/k3tO7eEvZW3CFjtH/Hit4oviOR88yo6zNfm1bnwsiNWuVLk+aF6oCs4UW5vhlNfIVvaQ3LOGf4NumsI4GsDm42JE2BXEFNzjnOjkT7y5QMCchbcRmmraG+cbK89gPmjkuPAQK34v74KOwNC7AkNFL4MS2wjzkynT2FA;rmYYSD02LJD398cQBtMsvw=="
 ---

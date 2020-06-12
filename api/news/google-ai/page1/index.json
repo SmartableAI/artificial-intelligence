@@ -2,13 +2,70 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
+      "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+      "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/microsoft-teams-google-meet.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "publishedDateTime": "2020-06-12T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
       "publishedDateTime": "2020-06-11T12:43:00-07:00",
@@ -29,16 +86,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +99,20 @@
       "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
       "title": "Google updates its Android developer tools",
       "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
+      "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/IMG_20190225_075928.jpg?w=1024",
+          "width": 1024,
+          "height": 670,
+          "title": "Google updates its Android developer tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
       "ampWebUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
       "publishedDateTime": "2020-06-10T10:03:00-07:00",
@@ -76,16 +133,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/IMG_20190225_075928.jpg?w=1024",
-          "width": 1024,
-          "height": 670,
-          "title": "Google updates its Android developer tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -99,10 +146,20 @@
       "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
       "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
       "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
       "ampWebUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
       "publishedDateTime": "2020-06-10T09:05:00-07:00",
@@ -123,16 +180,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -146,10 +193,20 @@
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "publishedDateTime": "2020-06-09T06:29:00-07:00",
@@ -170,16 +227,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -195,10 +242,20 @@
       "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
       "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
       "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
+      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
       "heat": 85,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
       "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
       "publishedDateTime": "2020-06-08T10:20:00-07:00",
@@ -219,16 +276,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -242,10 +289,20 @@
       "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
       "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
       "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
+      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
       "ampWebUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
       "publishedDateTime": "2020-06-08T10:09:00-07:00",
@@ -266,16 +323,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -289,10 +336,20 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
       "heat": 103,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
+          "width": 1200,
+          "height": 675,
+          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
       "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
       "publishedDateTime": "2020-06-05T10:50:00-07:00",
@@ -313,16 +370,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -337,10 +384,20 @@
       "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
       "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
       "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
+      "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
       "heat": 78,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/05/a9c5d24a-8255-404c-9243-ecd2ce42d484/ezlmoxkxgaewous.png",
+          "width": 791,
+          "height": 581,
+          "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
       "publishedDateTime": "2020-06-05T04:22:00-07:00",
@@ -361,16 +418,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/05/a9c5d24a-8255-404c-9243-ecd2ce42d484/ezlmoxkxgaewous.png",
-          "width": 791,
-          "height": 581,
-          "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -384,10 +431,20 @@
       "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
       "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
       "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
+      "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
       "publishedDateTime": "2020-06-04T22:53:00-07:00",
@@ -408,16 +465,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
-          "width": 1024,
-          "height": 678,
-          "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -431,10 +478,20 @@
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
+      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
       "ampWebUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
       "publishedDateTime": "2020-06-03T08:35:00-07:00",
@@ -455,16 +512,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -478,10 +525,20 @@
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
+      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
       "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
       "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
       "publishedDateTime": "2020-05-31T13:30:00-07:00",
@@ -493,16 +550,44 @@
         "publishers": null,
         "authors": null
       },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-week-in-review-design-low-power.md",
+      "title": "Week In Review: Design, Low Power",
+      "excerpt": "Synopsys QuickStart Implementation Kits (QIKs) are available now. Synopsys ported TensorFlow for Microcontrollers software from Google to the Synopsys DSP-enhanced DesignWare ARC Processor IP. Designed to run on memory-constrained designs, the port uses ...",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-96/",
+      "heat": null,
+      "tags": null,
       "images": [
         {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
+          "url": "https://semiengineering.com/wp-content/uploads/2019/10/OneSpin-logo.jpg",
+          "width": 600,
+          "height": 300,
+          "title": "Week In Review: Design, Low Power",
           "attribution": null,
           "isCached": true
         }
       ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
       "locale": "en-us",
       "categories": [
         "news"
@@ -516,10 +601,20 @@
       "path": "_news/2020-05-29-week-in-review-auto-security-pervasive-computing.md",
       "title": "Week In Review: Auto, Security, Pervasive Computing",
       "excerpt": "Synopsys launched quick start kits, called QuickStart Implementation Kits (QIKs), for Arm’s latest processor IP Cortex-A78 CPU, Mali-G78 GPU, and Cortex-X1 CPU. The QIKs, available today, help designers hit PPA (power, performance, and area) targets ...",
+      "webUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-17/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/09/Blue-car.jpg?fit=754%2C636&#038;ssl=1",
+          "width": 754,
+          "height": 636,
+          "title": "Week In Review: Auto, Security, Pervasive Computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-17/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T17:00:00-07:00",
@@ -531,16 +626,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/09/Blue-car.jpg?fit=754%2C636&#038;ssl=1",
-          "width": 754,
-          "height": 636,
-          "title": "Week In Review: Auto, Security, Pervasive Computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -554,10 +639,20 @@
       "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
       "title": "Responding to the European Commission’s AI white paper",
       "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
+      "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "Responding to the European Commission’s AI white paper",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
       "ampWebUrl": "https://blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
       "publishedDateTime": "2020-05-28T09:00:00-07:00",
@@ -578,16 +673,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "Responding to the European Commission’s AI white paper",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -601,10 +686,20 @@
       "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
       "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
       "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
+      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
+          "width": 300,
+          "height": 261,
+          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
       "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
       "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
       "publishedDateTime": "2020-05-28T07:09:00-07:00",
@@ -625,16 +720,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -648,10 +733,20 @@
       "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
       "title": "Baidu releases homegrown quantum machine learning toolkit",
       "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "heat": 78,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
       "publishedDateTime": "2020-05-28T01:13:00-07:00",
@@ -663,16 +758,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
-          "width": 1620,
-          "height": 1080,
-          "title": "Baidu releases homegrown quantum machine learning toolkit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -688,10 +773,11 @@
       "path": "_news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
       "excerpt": "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ...",
+      "webUrl": "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T06:26:00-07:00",
@@ -703,13 +789,11 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -718,10 +802,20 @@
       "path": "_news/2020-05-27-tensorflow-tutorial-uses-python.md",
       "title": "Tensorflow Tutorial Uses Python",
       "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/06/Benz-thumb.jpg?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": "Tensorflow Tutorial Uses Python",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T17:00:00-07:00",
@@ -733,16 +827,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/06/Benz-thumb.jpg?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": "Tensorflow Tutorial Uses Python",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -757,10 +841,20 @@
       "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
       "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
       "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
+          "width": 1193,
+          "height": 872,
+          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
       "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
       "publishedDateTime": "2020-05-24T09:36:00-07:00",
@@ -781,16 +875,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
-          "width": 1193,
-          "height": 872,
-          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -805,10 +889,20 @@
       "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
       "title": "Google's AI technology is taking on a team of the world's top Go players in China",
       "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
       "publishedDateTime": "2020-05-22T17:00:00-07:00",
@@ -829,16 +923,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
-          "width": 3840,
-          "height": 2561,
-          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -852,10 +936,20 @@
       "path": "_news/2020-05-22-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "The VectorBlox Accelerator SDK allows developers to code in C/C++ and program neural networks without prior FPGA design experience, can execute models in TensorFlow and the open neural network exchange (ONNX) format, supports Linux and Windows, and ...",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-95/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1",
+          "width": 1394,
+          "height": 753,
+          "title": "Week In Review: Design, Low Power",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-95/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-22T00:10:00-07:00",
@@ -867,16 +961,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1",
-          "width": 1394,
-          "height": 753,
-          "title": "Week In Review: Design, Low Power",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -890,10 +974,20 @@
       "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
       "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
       "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
+      "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://micdn-13a1c.kxcdn.com/images/sg/content-images/grab_delivery_doodles_google.jpg",
+          "width": 800,
+          "height": 455,
+          "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T21:27:00-07:00",
@@ -905,16 +999,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://micdn-13a1c.kxcdn.com/images/sg/content-images/grab_delivery_doodles_google.jpg",
-          "width": 800,
-          "height": 455,
-          "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -928,10 +1012,20 @@
       "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
       "title": "Object Detection, With TensorFlow",
       "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": "Object Detection, With TensorFlow",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T17:00:00-07:00",
@@ -943,16 +1037,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": "Object Detection, With TensorFlow",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -968,10 +1052,20 @@
       "path": "_news/2020-05-22-using-tensorflow-to-recognize-your-own-objects.md",
       "title": "Using TensorFlow To Recognize Your Own Objects",
       "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
+      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Using TensorFlow To Recognize Your Own Objects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T17:00:00-07:00",
@@ -983,16 +1077,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Using TensorFlow To Recognize Your Own Objects",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1006,10 +1090,20 @@
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "heat": 122,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
+          "width": 400,
+          "height": 450,
+          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
       "publishedDateTime": "2020-05-21T03:55:00-07:00",
@@ -1030,16 +1124,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1055,10 +1139,20 @@
       "path": "_news/2020-05-21-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
       "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
       "excerpt": "When Leigh started exploring, she didn’t find enough satisfactory end-to-end examples for TensorFlow machine vision on Raspberry Pi, so she created her own to share and help future people who ...",
+      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T17:00:00-07:00",
@@ -1070,16 +1164,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1093,10 +1177,20 @@
       "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
       "title": "New AI from DeepMind and Google can detect a common cause of blindness",
       "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
       "publishedDateTime": "2020-05-19T10:53:00-07:00",
@@ -1117,16 +1211,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1140,10 +1224,20 @@
       "path": "_news/2020-05-19-google-ai-could-predict-eye-condition-behind-vision-loss.md",
       "title": "Google AI could predict eye condition behind vision loss",
       "excerpt": "The results, published in the journal Nature Medicine, suggest that the AI model, built in partnership with Alphabet subsidiary DeepMind and Moorfields Eye Hospital in Britain, could help doctors ...",
+      "webUrl": "https://www.sify.com/finance/google-ai-could-predict-eye-condition-behind-vision-loss-news-topnews-uftpa8jjdacfc.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Google AI could predict eye condition behind vision loss",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.sify.com/finance/google-ai-could-predict-eye-condition-behind-vision-loss-news-topnews-uftpa8jjdacfc.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-19T07:18:00-07:00",
@@ -1155,16 +1249,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Google AI could predict eye condition behind vision loss",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1178,10 +1262,20 @@
       "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
       "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
       "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
+      "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
       "heat": 79,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-18T08:15:00-07:00",
@@ -1202,16 +1296,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1219,100 +1303,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
-      "title": "How AI could predict sight-threatening eye conditions",
-      "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
-      "ampWebUrl": "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
-      "publishedDateTime": "2020-05-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "How AI could predict sight-threatening eye conditions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
-      "title": "Using AI to predict retinal disease progression",
-      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
-          "width": 512,
-          "height": 288,
-          "title": "Using AI to predict retinal disease progression",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

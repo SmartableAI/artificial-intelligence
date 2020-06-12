@@ -8,8 +8,8 @@ ampWebUrl: "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: India.com
@@ -27,80 +27,15 @@ images:
     title: "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact"
 
 related:
-  - title: "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19"
-    excerpt: "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning."
-    publishedDateTime: 2020-06-07T15:26:00Z
-    webUrl: "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229"
-    ampWebUrl: "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off"
+  - title: "How is COVID-19 Impacting and Transforming the Humanoid Robot Industry?"
+    excerpt: "Humanoid robots are gaining popularity as the human touch has to be reduced to prevent the virus from spreading. Hospitals in many parts of the world are using these robots for providing various services to COVID-19 patients."
+    publishedDateTime: 2020-06-08T12:41:00Z
+    webUrl: "https://www.roboticstomorrow.com/story/2020/06/how-is-covid-19-impacting-and-transforming-the-humanoid-robot-industry/15332/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Jaipur firm deploys 7 robots to cut down physical interaction among employees"
-    excerpt: "A robot guards the entry gate to welcome visitors, performs thermal scanning to check their body temperature.The robotic guard’s artificial intelligence is synced with the working of the entry gate, w"
-    publishedDateTime: 2020-06-07T11:28:00Z
-    webUrl: "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees-11591526460461.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jaipur-firm-deploys-7-robots-to-cut-down-physical-interaction-among-employees/amp-11591526460461.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
-    images:
-      - url: "https://images.livemint.com/img/2020/06/07/600x338/ai2-kr9--621x414@LiveMint_1591527445501.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Jaipur firm deploys 7 humanoid robots to help maintain social distancing"
-    excerpt: "Can take the lift and reach an employee on another floor With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other Artificial Intelligence techniques to reduce human to human interaction almost next to nil in its functioning."
-    publishedDateTime: 2020-06-07T11:28:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-95854"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 53
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_2055897041.jpg"
-        width: 900
-        height: 675
-        isCached: true
-  - title: "Jaipur -based private firm deploys robots to reduce risk of COVID-19 infection"
-    excerpt: "In order to prevent COVID-19 infection, a Jaipur based private firm has deployed humanoid robots and other Artificial Intelligence (AI) techniques in its premises to reduce human to human interaction in its day-to-day functioning."
-    publishedDateTime: 2020-06-07T21:34:00Z
-    webUrl: "https://www.sify.com/news/jaipur--based-private-firm-deploys-robots-to-reduce-risk-of-covid-19-infection-news-national-ughvagchggibi.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 50
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/Jaipurfunction_june08.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Jaipur firm deploys 7 humanoid robots to cut down physical interaction among employees"
-    excerpt: "Can take the lift and reach an employee on another floor With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other Artificial Intelligence techniques to reduce human to human interaction almost next to nil in its functioning."
-    publishedDateTime: 2020-06-07T11:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/jaipur-firm-deploys-7-humanoid-robots-to-cut-down-physical-interaction-among-employees-95854"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 46
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_2055897041.jpg"
-        width: 900
-        height: 675
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
 
 secured: "kyodoqZvfxtS+I1fZKl1XFpyIHnG4p8VKoQEMI01JP5Nj+/os9A6a8qvpqwbhlxfbscnBV63CHakuxeeDa4tv9xmSUifyuISlI2zN35NrOtNE1G5MAK4sPGyyxeM6KvU5B6S6D/7LnH7xROEsAGpiQ4ui+MH5Gp6wLj4zkch2UCrKeirtOklgNDT5SJ7FGVKqfBq8PLqlq7EEHqYD4rvTdFhW20l6tjwOO6K6UxrXtrR4y0rX0wGi2Y7dKz4+617l+aBssGWTP8PRLiZ8w2Yx/ZSj6v53+GGRkP9nAH+qxzHQJ1LvHgeR2g3D6HceClGpcRwuNYLoZYfGyRSMV0F7oD0dRtFX9jfg5Nv7F8/OS1V38k44lNA0H9cC3laUKJDwukf0nNeK2yDKQqza9JxyrGXiJ1678PXeKIAE7p8j55q60eTnFWAVzCdkoMa+OeM/HRP3wLdwnuev/ltxb63oMGJQoeOh2ASlKQwAu/kx5A=;VJs8DIKHkyH4Jc6oD0nXAw=="
 ---

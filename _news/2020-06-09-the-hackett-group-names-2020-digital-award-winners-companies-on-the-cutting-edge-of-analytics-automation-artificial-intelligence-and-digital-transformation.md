@@ -48,6 +48,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Open robotic platform launches for education, healthcare and COVID-19 prevention"
+    excerpt: "Mistry Robotics to create an open-platform robot based on the Misty II robot with built-in applications for education, eldercare and COVID-19 transmission prevention. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
+    publishedDateTime: 2020-06-12T00:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15257/open-robotic-platform-launches-for-education-healthcare-and-covid-19-prevention"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/257/15257/misty-robotics-photo.jpg"
+        width: 752
+        height: 561
+        isCached: true
 
 secured: "J4hf+ev9ftLkF/OR8wCohnCnARwBBRAJ6h5oqDm+jZAtRPGJFghs94hCCLk82v/YIRMt3O1tF7+bf4eyCKvFWoXDBkvGGqsNrZhW9PYapLm8wl3T9wi06Ga173SsyWYCktd/NMZM2YrlzsDmHGfbuH5KkkiwrIf6SRjFfBh7E5ixgCTuLzsNv8Msjq5vIz8bdejqCtxzd2oQmZ/4h3bu+OjjmW5/T1cIAr7d6Ab0pn4sx3irzHAY4UdEAlIJpnpo3+W9gFGJEflpDL0hVyqnDR4kS7OAfQnXesmnGMB8tx2+pU39RlwvI8F+mNeID+r2;SEkP+fHh4L3pEf1pNk/Bnw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 525
+heat: 515
 published: true
 
 provider:
@@ -538,20 +538,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/d/7a/d7a60a10-ae69-5f50-9250-3c9e62e3e97c/5e871e78e6b06.image.jpg?resize=1024%2C576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "US protests fuel calls for ban on racially biased facial recognition tools"
-    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
-    publishedDateTime: 2020-06-08T02:13:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/08/us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/07/710900.jpg"
-        width: 1240
-        height: 940
         isCached: true
   - title: "Amazon Halts Police Use Of Its Facial Recognition Technology"
     excerpt: "Amazon is the latest tech company to respond to demands that law enforcement not have access to controversial facial recognition technology."

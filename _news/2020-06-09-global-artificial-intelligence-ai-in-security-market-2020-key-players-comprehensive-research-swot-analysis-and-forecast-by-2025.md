@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2023"
-    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
-    publishedDateTime: 2020-06-11T16:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market---top-companies-business-growth-investment-opportunities-share-and-forecasts-2023-2020-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Based Medical Device Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
     excerpt: "MarketandResearch.biz has released a new report entitled Global Artificial Intelligence Based Medical Device Market Growth (Status and Outlook) 2020-2025 includes the trending current scenario and the growth visions of the industry for the forecasted period of 2020 to 2025."
     publishedDateTime: 2020-06-09T22:30:00Z

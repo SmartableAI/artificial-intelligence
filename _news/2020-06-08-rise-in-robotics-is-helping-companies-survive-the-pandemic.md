@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T17:17:00Z
 webUrl: "https://www.thedenverchannel.com/rise-in-robotics-is-helping-companies-survive-the-pandemic"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
     title: "Rise in robotics is helping companies survive the pandemic"
-
-related:
-  - title: "Autonomous Delivery Robots - Demand Is Skyrocketing During The COVID-19 Pandemic"
-    excerpt: "One thing that the novel coronavirus COVID-19 did for all of us was to push us outside comfort zones and to adapt to new ways of working and living no matter how resistant we might be. From enabling telecommuting for workers who hadn't done so prior to tackling video conferencing,"
-    publishedDateTime: 2020-06-07T13:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/autonomous-delivery-robots-demand-skyrocketing-during-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHPM3AQzLBqtw/article-cover_image-shrink_720_1280/0?e=1597276800&v=beta&t=J93CKJzVxzAh_VhnrQl4X0_1lcg7ZAahKzxJiqWMLNg"
-        width: 1280
-        height: 614
-        isCached: true
 
 secured: "9HEAOVWSKLr7PPM4vmi0fDjQAC4EXyND6n845Ql0cZQyI3SuFMtK1dTVrxSUJeDpXRJUGSSXOQSugtOtSyX6Fhb4LjagydBfDiDTu6xTGgq17uDB0m/3V9hkbhGrsGBfit6Uz/qfrs1coTS5r3Ug4/cIOHidptPiV0GhFN3KJsKwwOhhxLQ+xg4n4Si3xETcSaVZ7JqrEOHUzYnPWUF9b9bWCOTInQd2LhC5OU+YAplQFs9HP9zTFw+pTH04W9rdL5V745n3u7v70fo3dFvDUscqpzUe3MaF1fthgKkdb5jpBfrXCOipEl+Vt+3oVDbg3hlYxSaQKs1EN3G9MS4dBabKR6wSoqwEBCNMig/5Mw8QhIKuXO8y7CQMFweOHj9XPK476xjqnkHS0J5K8dDy4AQ8whn0AFfjzgMErZ9ONVNdEW7xaFpRc9VFCMO/Do1qn/iQLltOcTWdBUtkKFciFePIao1cffPVA0gfPgRqnRY=;hZt3Tm4IACrONSz9EGkmYQ=="
 ---

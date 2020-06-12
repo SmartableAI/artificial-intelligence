@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region"
+    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
+    publishedDateTime: 2020-06-12T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025--by-product-type-formulation-and-region-2020-06-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Military Market Advancement in Technology, Innovations and Global Trends 2020"
     excerpt: "Artificial Intelligence In Military Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading, and key players of the industry with a forecast period of 2026."
     publishedDateTime: 2020-06-10T11:14:00Z

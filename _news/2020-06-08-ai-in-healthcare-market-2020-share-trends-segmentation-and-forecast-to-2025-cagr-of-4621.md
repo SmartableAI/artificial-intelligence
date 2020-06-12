@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
     excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
     publishedDateTime: 2020-06-08T12:28:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-ai-industry-report-2020-2025-covid-19-impact-analysis-anticipating-a-cagr-of-3521-bmrc-2020-06-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region"
+    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
+    publishedDateTime: 2020-06-12T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025--by-product-type-formulation-and-region-2020-06-12"
     type: article
     provider:
       name: MarketWatch

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T20:25:00Z
 webUrl: "https://www.atmmarketplace.com/news/caixabank-deploys-atms-with-facial-recognition-technology/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     title: "CaixaBank deploys ATMs with facial-recognition technology"
 
 related:
-  - title: "Facial recognition deployed for ATMs in Spain, POS systems in Brazil and relief payments in Australia"
-    excerpt: "CaixaBank has installed biometric facial recognition-enabled ATMs across Spain, enhanced with cameras and software that can process 16,000 facial points, Atalayar reports. The bank is the first"
-    publishedDateTime: 2020-06-08T18:33:00Z
-    webUrl: "https://www.biometricupdate.com/202006/facial-recognition-deployed-for-atms-in-spain-pos-systems-in-brazil-and-relief-payments-in-australia"
+  - title: "Why face-recognition technology has a bias problem"
+    excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
+    publishedDateTime: 2020-06-12T12:57:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-systems-racism-protests-police-bias/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K5+LcPr10XWbPEmIyi8WBUdHfIfk84uNkhpEBcBCI7KIE1XdVX8McRbwhcyLq9JUN4dCi4aFJgig8UGpdrOcgKInWbGS9EBi/zvGanj+XtliVrKQtwDpsvppW29pkO/SAK8XOYC8e5Ge7QkdlpcdDTIOQquooOYwFmLgnKCE8AbMa1O76IAv9Oz5KM3Xgemm2RMlKSGiHlJkrHXOqZO3wmNjRxqgf9GqAs4bYbT8Y5RRSa9xBNPvjBDvVgn26c96TPOgH/xBQJUf/dMG2gQLEYXX30ziTFHVTSnmBAku2omB8/sC2YK7zrJW+UCP/q0o;pnbQZi8946Y9EHt5E/V/TQ=="

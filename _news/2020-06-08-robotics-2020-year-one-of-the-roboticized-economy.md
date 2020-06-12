@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Four Robotics Trends Expanding the Need for Miniature Motors"
+    excerpt: "Disruptive technologies create opportunities for mini motors to solve the unique challenges of the surgical, warehouse, cobot and service robotics industries."
+    publishedDateTime: 2020-06-12T20:17:00Z
+    webUrl: "https://www.machinedesign.com/markets/robotics/article/21133894/four-robotics-trends-expanding-the-need-for-miniature-motors"
+    type: article
+    provider:
+      name: Machine Design
+      domain: machinedesign.com
+    quality: 34
 
 secured: "x7g8ATWi22YpJwRv6J1hzemfOyGcrFZYJnkEEq07EwaalR5XhZKx0sRADUhKkVXgKtDjIwutDoRcGH2z5CZOatk0fg/LmuTPGQTTCp2kTDf5nrntvx374utCcgzY0oz4GFwlV9xBlBebVv8VAeZkZDUgOuedYv4kLBTiM74tSjsum09QZFaZ77v4ulGzGcUJ2T38cZqOV71knG72XkWafl72fvJXepR2Os9EdXp0h7DncEQV23lc3Wh/MjDJzJ3Ynn3KfWi1nWvJMV0opxpDc2+BGNpz98HyJJE/l+oU8ZxBiaAueO7udo50fvFU709MzdTuCGhz+Rhz61B3BZRnuKSn9pPSKcu0D5AP8gIw17HCCa+3hjIk8xe2Cp121xL97lus2E9BCa9+rtj9eFZVSwQZJ3hrg2cDDWBHs2B5H7Ai5RPU/Klg1CLCxmXOlsvAqlxdsqoPyGuTut9kv0ydptti74cfX57hWbq4S3acx5Q=;s5WEL1IpELrFf0/NIw39KA=="
 ---

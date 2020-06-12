@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2070791/global-artificial-intelligence-as
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2070791/global-artificial-intelligence-as-a-service-industry-market"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Self-driving Vehicles Share, Size, Global Industry Analysis, Growth, Trends and Forecast 2025"
-    excerpt: "Manhattan, New York, Analytical Research Cognizance: The Global Self-driving Vehicles Market report by wide-ranging study of the Self-driving Vehicles industry which covers comprehensively all aspects of the different industry verticals."
-    publishedDateTime: 2020-06-09T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-share-size-global-industry-analysis-growth-trends-and-forecast-2025-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "91PtfK795UxzE3be5DxTrPTgvNJa/AYR3nPfmQIQA2UFM9/ipgwZEfi2XoYwztaLpZcI3dPDA9eHZicX29D+YvX28y1aoyI+1KYYSkcfK52q2utPLIKDeEBEnUXnHRG3d/R3pBfcFazs6DM0SM3AjXDd8skiaZeEJuAkG9aB6ZvH26hcUdblv+djwYC6C8qbS34MIwedSui6tbw/xCRxkBavQW6lyV5lmva/fr0maDTzlV856aktzFhNY/sM1or6cywqrtcYvEJzp5V54fzohwj1GmGUvYgxMPAjwO5lBzMdIv7iC1xxcUo8b4QxNHCh;O508j46058cIlzbBBmlKuw=="
 ---

@@ -226,6 +226,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Finally Sees the Problem With Facial Recognition"
+    excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
+    publishedDateTime: 2020-06-12T18:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 59
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f41/6dc/fda6a694c959522de55ff49938451aaf2a-facial-recognition.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
     excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
     publishedDateTime: 2020-06-11T12:02:00Z

@@ -74,6 +74,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses"
+    excerpt: "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses."
+    publishedDateTime: 2020-06-11T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/"
+    ampWebUrl: "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2020/06/MIT-neuromorphic-brain-chip-alloy.jpg"
+        width: 639
+        height: 359
+        isCached: true
   - title: "MIT boffins develop new brain chip"
     excerpt: "Small enough for a mobile phone   MIT boffins have published a new paper that describes a new type of artificial brain synapse that offers performance improvements versus other existing versions, and which can be combined in volumes of tens of thousands on a chip that's smaller physically"
     publishedDateTime: 2020-06-09T10:05:00Z

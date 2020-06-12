@@ -539,20 +539,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "US protests fuel calls for ban on racially biased facial recognition tools"
-    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
-    publishedDateTime: 2020-06-08T02:13:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/06/08/us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/07/710900.jpg"
-        width: 1240
-        height: 940
-        isCached: true
   - title: "Amazon Halts Police Use Of Its Facial Recognition Technology"
     excerpt: "Amazon is the latest tech company to respond to demands that law enforcement not have access to controversial facial recognition technology."
     publishedDateTime: 2020-06-10T22:59:00Z

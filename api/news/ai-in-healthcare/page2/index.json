@@ -2,13 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
+      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
+      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
+      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
+          "width": 3078,
+          "height": 2000,
+          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "publishedDateTime": "2020-05-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
       "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
       "excerpt": "PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "webUrl": "https://www.medindia.net/health-press-release/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-468615-1.htm",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.medindia.net/health-press-release/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-468615-1.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-19T22:20:00-07:00",
@@ -20,7 +69,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -34,10 +82,11 @@
       "path": "_news/2020-05-19-artificial-intelligence-ai-in-healthcare-market.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market",
       "excerpt": "The latest 154+ page survey report on Global Artificial Intelligence (AI) in Healthcare Market is released by HTF MI covering various players of the industry selected from global geographies like ...",
+      "webUrl": "https://www.openpr.com/news/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.openpr.com/news/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
       "ampWebUrl": "https://www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
       "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
       "publishedDateTime": "2020-05-19T07:32:00-07:00",
@@ -49,7 +98,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -63,10 +111,20 @@
       "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
       "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
       "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
+      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
       "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
       "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
       "publishedDateTime": "2020-05-19T04:35:00-07:00",
@@ -78,16 +136,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -101,10 +149,20 @@
       "path": "_news/2020-05-19-why-didnt-artificial-intelligence-save-us-from-covid-19.md",
       "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
       "excerpt": "In late January, more than a week before Covid-19 had been given that name, hospitals in Wuhan, China, began testing a new method to screen for the disease, using artificial intelligence. The plan involved chest CTs—three-dimensional scans of lungs displayed in finely detailed slices.",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/",
       "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
       "publishedDateTime": "2020-05-19T03:00:00-07:00",
@@ -125,16 +183,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -148,10 +196,11 @@
       "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
       "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
       "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
       "publishedDateTime": "2020-05-19T01:24:00-07:00",
@@ -172,7 +221,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -186,10 +234,28 @@
       "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
       "title": "NVIDIA Releases New Artificial Intelligence Hardware",
       "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 960,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
       "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
       "publishedDateTime": "2020-05-18T06:12:00-07:00",
@@ -210,24 +276,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 960,
-          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -241,10 +289,20 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
+      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
       "heat": 73,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-17T08:48:00-07:00",
@@ -265,16 +323,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -290,10 +338,20 @@
       "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
       "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
       "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-16T03:53:00-07:00",
@@ -314,16 +372,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -337,10 +385,11 @@
       "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
       "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
       "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
+      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
       "heat": 81,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T13:43:00-07:00",
@@ -352,7 +401,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -367,10 +415,20 @@
       "path": "_news/2020-05-15-artificial-intelligence-ai-partnering-deals-collection-2014-2020-access-to-over-350-ai-deal-records-researchandmarketscom.md",
       "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
       "excerpt": "Global Artificial Intelligence Partnering Terms and Agreements includes: Trends in artificial intelligence dealmaking in the biopharma industry since 2014; Analysis of artificial",
+      "webUrl": "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T07:28:00-07:00",
@@ -382,16 +440,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -405,10 +453,20 @@
       "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
       "title": "AI and Machine Learning are at the heart of future healthcare.",
       "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
+      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
       "heat": 71,
       "tags": null,
+      "images": [
+        {
+          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1710,
+          "title": "AI and Machine Learning are at the heart of future healthcare.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-14T08:33:00-07:00",
@@ -420,16 +478,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": "AI and Machine Learning are at the heart of future healthcare.",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -444,10 +492,11 @@
       "path": "_news/2020-05-13-7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow.md",
       "title": "7 Artificial Intelligence ETFs to Buy for Today and Tomorrow",
       "excerpt": "Artificial intelligence (AI) is taking a variety of industries by storm and with that shift comes a plethora of investment implications. Fortunately, in what feels like a universe of thematic funds teeming with obscure products,",
+      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13",
       "heat": 71,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13",
       "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
       "publishedDateTime": "2020-05-13T09:59:00-07:00",
@@ -459,7 +508,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -474,10 +522,20 @@
       "path": "_news/2020-05-12-how-the-coronavirus-will-permanently-change-healthcare-according-to-26-top-industry-leaders.md",
       "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
       "excerpt": "Coronavirus is changing the future of the healthcare industry",
+      "webUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5",
       "heat": 78,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5eb5c9d75f726e0d2b19599c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5",
       "ampWebUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
       "publishedDateTime": "2020-05-12T07:44:00-07:00",
@@ -498,16 +556,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb5c9d75f726e0d2b19599c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -521,10 +569,11 @@
       "path": "_news/2020-05-12-talkspace-wants-to-build-a-better-therapist-with-ai-listening-in.md",
       "title": "Talkspace Wants to Build a Better Therapist With AI Listening In",
       "excerpt": "It’s using tools such as machine learning and artificial intelligence to analyze transcripts of therapy sessions, which have been scrubbed of any identifying data. The company hopes its ...",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-12/talkspace-using-ai-for-therapy-during-mental-health-crisis",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-12/talkspace-using-ai-for-therapy-during-mental-health-crisis",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-12T03:00:00-07:00",
@@ -545,7 +594,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -559,10 +607,20 @@
       "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
       "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
       "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
+      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
+          "width": 1602,
+          "height": 906,
+          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
       "ampWebUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
       "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
       "publishedDateTime": "2020-05-11T08:44:00-07:00",
@@ -574,16 +632,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
-          "width": 1602,
-          "height": 906,
-          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -599,10 +647,20 @@
       "path": "_news/2020-05-11-artificial-intelligence-in-the-global-supply-chain-market-2019-2027.md",
       "title": "Artificial Intelligence in the Global Supply Chain Market, 2019-2027",
       "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision,",
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "Artificial Intelligence in the Global Supply Chain Market, 2019-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-11T04:15:00-07:00",
@@ -614,16 +672,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": "Artificial Intelligence in the Global Supply Chain Market, 2019-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -637,10 +685,11 @@
       "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
       "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
       "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
       "publishedDateTime": "2020-05-11T04:06:00-07:00",
@@ -652,7 +701,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -666,10 +714,20 @@
       "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
       "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
       "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
+      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html",
       "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
       "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
       "publishedDateTime": "2020-05-11T04:05:00-07:00",
@@ -681,16 +739,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -704,10 +752,20 @@
       "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
       "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023-2020-05-09",
       "heat": 73,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023-2020-05-09",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-09T02:08:00-07:00",
@@ -728,16 +786,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -751,10 +799,11 @@
       "path": "_news/2020-05-08-artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement.md",
       "title": "Artificial Intelligence Technology Solutions Announces Health Screening Product Enhancement",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK: AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "heat": 71,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
       "publishedDateTime": "2020-05-08T06:32:00-07:00",
@@ -775,7 +824,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -790,10 +838,20 @@
       "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
       "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
       "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
+          "width": 1200,
+          "height": 614,
+          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
       "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
       "publishedDateTime": "2020-05-07T21:24:00-07:00",
@@ -814,16 +872,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
-          "width": 1200,
-          "height": 614,
-          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -838,10 +886,11 @@
       "path": "_news/2020-05-07-center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer.md",
       "title": "Center in Singapore Expanding Access to Radiation Therapy Technology in the Fight Against Cancer",
       "excerpt": "Two Varian VitalBeam ™ medical linear accelerators, together with an Edge ™ radiosurgery system with HyperArc ™ technology, will be installed at NCIS, thereby expanding radiation therapy treatment options for cancer patients in Singapore.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
       "publishedDateTime": "2020-05-07T05:45:00-07:00",
@@ -862,7 +911,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -876,10 +924,20 @@
       "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
       "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
       "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
+      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-07T03:56:00-07:00",
@@ -900,16 +958,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -923,10 +971,20 @@
       "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
       "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
       "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
       "heat": 98,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-06T12:50:00-07:00",
@@ -947,16 +1005,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -970,10 +1018,20 @@
       "path": "_news/2020-05-05-how-ai-can-help-diagnose-neurological-disease.md",
       "title": "How AI can help diagnose neurological disease",
       "excerpt": "A retinal scan and AI can detect tiny eye movements that can help diagnose and treat difficult neural disorders much earlier than before.",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-diagnose-neurological-disease/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/e2665ec6-d485-4edc-96bb-675dd46a2e4b/resize/1200x/120ab7f293d757f79e299d3b18809f4e/istock-1140748326.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can help diagnose neurological disease",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-diagnose-neurological-disease/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
       "publishedDateTime": "2020-05-05T09:00:00-07:00",
@@ -994,16 +1052,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/e2665ec6-d485-4edc-96bb-675dd46a2e4b/resize/1200x/120ab7f293d757f79e299d3b18809f4e/istock-1140748326.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can help diagnose neurological disease",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1017,10 +1065,20 @@
       "path": "_news/2020-05-05-privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients.md",
       "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
       "excerpt": "With the highly charged atmosphere created by the COVID-19 pandemic, the risks of exposing patient health data have grown.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-28.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/",
       "publishedDateTime": "2020-05-05T04:51:00-07:00",
@@ -1041,16 +1099,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-28.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1064,10 +1112,11 @@
       "path": "_news/2020-05-05-mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic.md",
       "title": "MDLIVE Reports Significant Growth of Behavioral Health Business as Virtual Therapy Provides Safe, Timely Access to Care During Pandemic",
       "excerpt": "Behavioral health visit volume increased by nearly 50% in March over the monthly average for January and February. Additionally, MDLIVE saw a 72% increase in visit volume in April as compared to March.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic-1029164850",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic-1029164850",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T04:00:00-07:00",
@@ -1088,7 +1137,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1102,10 +1150,20 @@
       "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
       "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
       "heat": 70,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T22:01:00-07:00",
@@ -1126,16 +1184,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1149,10 +1197,20 @@
       "path": "_news/2020-05-04-the-impending-artificial-intelligence-revolution-in-healthcare.md",
       "title": "The Impending Artificial Intelligence Revolution in Healthcare",
       "excerpt": "Why has AI been slow in delivering change in the care processes of healthcare? With a wealth of new AI algorithms and computing power",
+      "webUrl": "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg",
+          "width": 320,
+          "height": 212,
+          "title": "The Impending Artificial Intelligence Revolution in Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T09:31:00-07:00",
@@ -1164,16 +1222,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg",
-          "width": 320,
-          "height": 212,
-          "title": "The Impending Artificial Intelligence Revolution in Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1181,54 +1229,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

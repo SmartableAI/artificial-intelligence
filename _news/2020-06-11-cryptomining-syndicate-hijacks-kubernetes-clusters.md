@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-ku
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
 type: article
 quality: 74
-heat: 74
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 546
     isCached: true
     title: "Cryptomining syndicate hijacks Kubernetes clusters"
+
+related:
+  - title: "Cryptominers Found in Azure Kubernetes Containers"
+    excerpt: "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure."
+    publishedDateTime: 2020-06-12T20:36:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "FGFdzTaiSXW2nrFEvQYRkhSueMV8NzSM98da7z+gp91kZZd4V/CfhJhwxq85YwjmLwoQJdf1NLi+Kpd+k6krnopdz33TzmvPe+bBdOUxGCsQ70g6AV7iGCENRG66dsmDikK9B677YsK2OJrRt4ZTxGwolrP4Bql2TvwQoH21GdkgeZFdrdWWwV8mjfWhA1DHNyhmY5cJBBdSZCQmY+R0QZofNw3zrTZzXtyBt4Zrf/1tBwJVxCDBatPnz8WqCZWvHOHueZySq6zKxvwlxj38sNvAboVbTHNdM/IaGUm4z/JDjMvWCLIfpqfQbKRLE9UBcyNpul7F5cVJucprt3KBYxrFPYb3RUNY0n1OdyE72cYDiccf82sh2qcND8DTFVd2pZ8nIVwpAso1Poh/bveWj8OW+FCjNmCkPVuYcPhY+vMpkVUKz//YkELgaknRb5aQC+Aw5azjta6+Cso6WVrTGf3oi5ULE0bu6G4zqzgr6nHSNOwF/HBo4F7+FUvDcrV0;Qc6Br1btEy8g/oKX0rvF7A=="
 ---

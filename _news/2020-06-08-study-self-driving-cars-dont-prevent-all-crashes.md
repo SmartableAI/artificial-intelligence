@@ -52,6 +52,20 @@ related:
         width: 1000
         height: 676
         isCached: true
+  - title: "Self driving cars will only stop a third of US crashes"
+    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-08T10:54:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
+        width: 620
+        height: 463
+        isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
     publishedDateTime: 2020-06-10T13:28:00Z
@@ -66,15 +80,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
-    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
-    publishedDateTime: 2020-06-08T09:41:00Z
-    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 2
 
 secured: "AwJOjsdQYMYa8g+rJpVCMGeZMpwR3eUnvboPFL7LVmECYYY1762Px6WSKWcCudIFsWw/17BgnbnxJ3beVWiJEZHMk1Cvum11pjlUfkLhjr9F7cKbZOg8k1OlfycumcyxP2b6a2Oh0x/66LlTor4YhBGhqy0P0KwnyW2qEfRxf5YbZhzhSDFN77lf5SU7Q946hm05BeB11CMwX7M51Gwky5FInHF1GSx+3ROkHilrHBssruJQkz3Ynr/UZiUCa4bFCX973wnOHl0FUjeydgoUkp/w5lXzee2pnIRr5YO6szczdYZg06oBTCupzeywyWSxhIqiCavX2j1Lpb9Vd6LX8GHOgTTui5ZhnFojKQR9a+FvkOJEcYzayjpoytTyT6Da/cC9vOuPMPc/Tn1Wq5U0I6Oc3Y/wUU0Y5lh6Ral4LbmvA3PsWkp4YNr9Cf8AME1q2pE8UGNDC/yxil4FpYlyJcDxic84FJ0OWGbDfI/2b5A=;JT8ETyNZgVfDa00gETmkLg=="
 ---

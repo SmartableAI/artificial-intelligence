@@ -5,10 +5,20 @@
       "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
       "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
       "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-10T13:08:00-07:00",
@@ -29,16 +39,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -53,10 +53,20 @@
       "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
       "title": "HSBC introduces index fund built by AI",
       "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
+      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": "HSBC introduces index fund built by AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
       "ampWebUrl": "https://www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
       "publishedDateTime": "2020-06-08T00:24:00-07:00",
@@ -77,16 +87,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": "HSBC introduces index fund built by AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -100,10 +100,20 @@
       "path": "_news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities.md",
       "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
       "excerpt": "The new version expands capabilities of its discrimination and bias protection, bringing the tool to R users and scikit-learn.",
+      "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "publishedDateTime": "2020-06-04T11:26:00-07:00",
@@ -124,16 +134,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -148,10 +148,20 @@
       "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
       "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
       "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
+      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
       "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
       "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
       "publishedDateTime": "2020-06-04T06:07:00-07:00",
@@ -163,16 +173,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -186,10 +186,20 @@
       "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
       "title": "New AI technique speeds up language models on edge devices",
       "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
+      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "New AI technique speeds up language models on edge devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
       "ampWebUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
       "publishedDateTime": "2020-05-29T14:50:00-07:00",
@@ -210,16 +220,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -234,10 +234,20 @@
       "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
       "title": "IBM publishes wide-ranging free data sets to assist AI developers",
       "excerpt": "Among the recent additions are three Watson Studio projects. IBM Watson Studio is an enterprise-focused AI developer tool which helps data scientists and researchers to build models and prepare ...",
+      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
       "ampWebUrl": "https://www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
       "publishedDateTime": "2020-05-27T06:29:00-07:00",
@@ -258,16 +268,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -281,10 +281,20 @@
       "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
       "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
       "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
       "heat": 102,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T17:00:33-07:00",
@@ -305,16 +315,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
-          "width": 990,
-          "height": 498,
-          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -327,10 +327,20 @@
       "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
       "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
       "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
+      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T04:00:00-07:00",
@@ -342,16 +352,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -365,10 +365,20 @@
       "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
       "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
       "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
+      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
+          "width": 994,
+          "height": 600,
+          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
       "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
       "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
       "publishedDateTime": "2020-05-21T19:15:00-07:00",
@@ -380,16 +390,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
-          "width": 994,
-          "height": 600,
-          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -403,10 +403,20 @@
       "path": "_news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public.md",
       "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
       "excerpt": "The Clerk of the Superior Court in Maricopa County, based out of Phoenix, Arizona, receives thousands of service requests each day from its 4 million residents. Citizens often reach out with time-sensitive requests, like applying for marriage licenses, renewing passports and accessing court records.",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
       "heat": 90,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_12_Watson-Assisant_Blog-Leadspace.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-21T08:45:52-07:00",
@@ -427,16 +437,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_12_Watson-Assisant_Blog-Leadspace.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -449,10 +449,20 @@
       "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
       "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
       "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
+      "webUrl": "https://www.entrepreneur.com/article/350752",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350752",
       "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
       "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
       "publishedDateTime": "2020-05-18T05:01:00-07:00",
@@ -473,16 +483,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -496,10 +496,20 @@
       "path": "_news/2020-05-18-techsplainedfe-ready-to-chat.md",
       "title": "Techsplained@FE: Ready to chat",
       "excerpt": "On the other, ICMR announced that it would be leveraging IBM’s Watson to enhance performance ... step in government relying on artificial intelligence to improve its response time.",
+      "webUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/05/cats-59.jpg",
+          "width": 660,
+          "height": 440,
+          "title": "Techsplained@FE: Ready to chat",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/",
       "ampWebUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
       "publishedDateTime": "2020-05-18T01:32:00-07:00",
@@ -511,16 +521,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/05/cats-59.jpg",
-          "width": 660,
-          "height": 440,
-          "title": "Techsplained@FE: Ready to chat",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -534,10 +534,20 @@
       "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
       "title": "AI models are struggling to cope with our rapidly changing world",
       "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
+      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI models are struggling to cope with our rapidly changing world",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
       "publishedDateTime": "2020-05-14T04:29:00-07:00",
@@ -558,16 +568,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI models are struggling to cope with our rapidly changing world",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -581,10 +581,20 @@
       "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
       "title": "Artificial intelligence can't yet learn common sense",
       "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence can't yet learn common sense",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
       "publishedDateTime": "2020-05-13T13:08:00-07:00",
@@ -605,16 +615,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -630,10 +630,20 @@
       "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
       "title": "Facebook is using more AI to detect hate speech",
       "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
+      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
       "heat": 81,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook is using more AI to detect hate speech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-12T09:07:00-07:00",
@@ -654,16 +664,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook is using more AI to detect hate speech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -678,10 +678,20 @@
       "path": "_news/2020-05-12-ibms-watson-aiops-a-killer-app-for-cios.md",
       "title": "IBM’s Watson AIOps - A Killer App For CIOs",
       "excerpt": "Watson AIOps could be one of the most powerful tools any CIO can deploy to help them adopt and adapt to hybrid cloud infrastructures and make their digital transformations more successful.",
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eba0b07ab221b00075732a8%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": "IBM’s Watson AIOps - A Killer App For CIOs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/",
       "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
       "publishedDateTime": "2020-05-12T07:12:00-07:00",
@@ -702,16 +712,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eba0b07ab221b00075732a8%2F0x0.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": "IBM’s Watson AIOps - A Killer App For CIOs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -725,10 +725,20 @@
       "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
       "title": "Brazilian founder features in global ranking of female AI leaders",
       "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
+      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Brazilian founder features in global ranking of female AI leaders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
       "publishedDateTime": "2020-05-11T15:33:00-07:00",
@@ -749,16 +759,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -773,10 +773,20 @@
       "path": "_news/2020-05-11-women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance.md",
       "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
       "excerpt": "Seema Gaur is the head of IT at one of the largest general insurance companies in India. She was honored in 2019 by IBM as a pioneer in putting AI to work in her business. Seema and her team are working to bring in the best technology to make the user journey more efficient, improve the agent experience,",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/Seema-Gaur-gradient.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-11T09:56:45-07:00",
@@ -797,16 +807,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/Seema-Gaur-gradient.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -819,10 +819,20 @@
       "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
       "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
       "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
+      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
       "ampWebUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
       "publishedDateTime": "2020-05-09T04:00:00-07:00",
@@ -843,16 +853,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -866,10 +866,20 @@
       "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
       "title": "IBM retrains Watson AI for IT operations",
       "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
+      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM retrains Watson AI for IT operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
       "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
       "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
       "publishedDateTime": "2020-05-07T03:16:00-07:00",
@@ -881,16 +891,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM retrains Watson AI for IT operations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -904,10 +904,20 @@
       "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
       "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
       "excerpt": "I am predicting today that every company will become an AI company, not because they can, but because they must,” he said. With that idea in mind the company rolled out IBM Watson AIOps ...",
+      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
       "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
       "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
       "publishedDateTime": "2020-05-06T16:43:00-07:00",
@@ -919,16 +929,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -942,10 +942,11 @@
       "path": "_news/2020-05-06-ibm-think-digital-2020-build-and-scale-ai-with-trust-and-transparency.md",
       "title": "IBM Think Digital 2020: Build and scale AI with trust and transparency",
       "excerpt": "There was a session titled ‘Build and Scale AI with Trust and Transparency with an Automated AI Lifecycle’ at the IBM Think Digital 2020. Shadi Copty, VP, Offering Management, for Cloud Pak for Data, DataOps & Watson Tools/Runtime, IBM, said that an ...",
+      "webUrl": "https://www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/",
       "ampWebUrl": "https://www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/amp/",
       "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/amp/",
       "publishedDateTime": "2020-05-06T15:29:00-07:00",
@@ -957,7 +958,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -971,10 +971,20 @@
       "path": "_news/2020-05-06-early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization.md",
       "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
       "excerpt": "There is so much hype about AI and its ubiquity, fueled by stories about auto-piloted vehicles, creepy facial recognition, and human-free company operations that it's important to sometimes be reminded of AI's core capabilities.",
+      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
       "heat": 79,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
       "publishedDateTime": "2020-05-06T13:00:00-07:00",
@@ -995,16 +1005,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1019,10 +1019,20 @@
       "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
       "title": "How IBM is automating IT to help companies maintain business continuity during crises",
       "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
+      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
       "heat": 72,
       "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-06T12:44:00-07:00",
@@ -1043,16 +1053,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1066,10 +1066,20 @@
       "path": "_news/2020-05-06-women-leaders-in-ai.md",
       "title": "Women Leaders in AI",
       "excerpt": "“Success must include two things: the development of an individual to his utmost potentiality and a contribution of some kind to one’s world.” — Eleanor Roosevelt\nThroughout history, across countries, industries, and professions, women trailblazers have opened the door for millions of other women to",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai/",
       "heat": 102,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/WLAI_BlogLeadspace_v2_FINAL_x2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Women Leaders in AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T17:01:00-07:00",
@@ -1090,16 +1100,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/WLAI_BlogLeadspace_v2_FINAL_x2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Women Leaders in AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1112,10 +1112,20 @@
       "path": "_news/2020-05-05-ibms-new-ceo-lays-out-his-roadmap.md",
       "title": "IBM’s new CEO lays out his roadmap",
       "excerpt": "Unsurpisingly, many of the subsequent announcements at the conference hinged on hybrid cloud, enabled in large part by IBM’s $34 billion acquisition of Red Hat in 2018. Take the technical preview of IBM Cloud Satellite.",
+      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": "IBM’s new CEO lays out his roadmap",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
       "ampWebUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
       "publishedDateTime": "2020-05-05T16:23:00-07:00",
@@ -1136,16 +1146,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "IBM’s new CEO lays out his roadmap",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1159,10 +1159,20 @@
       "path": "_news/2020-05-05-dow-jones-news-ibm-to-launch-new-cloud-ai-products-microsofts-next-xbox-could-face-problems.md",
       "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
       "excerpt": "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year.",
+      "webUrl": "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
       "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
       "publishedDateTime": "2020-05-05T11:01:00-07:00",
@@ -1183,16 +1193,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1206,10 +1206,20 @@
       "path": "_news/2020-05-05-ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote.md",
       "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
       "excerpt": "Standing in front of a blue digital background, IBM CEO Arvind Krishna welcomed viewers to the virtual IBM Think conference on Tuesday. Originally set to be held in San Francisco",
+      "webUrl": "https://www.techrepublic.com/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/05/7fa4be0c-14ec-4575-8eae-fdc23bcd9ef5/resize/1200x/07b4d1f50363941d15c7e5c52e243c78/ibm-krishna.jpg",
+          "width": 1200,
+          "height": 905,
+          "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/",
       "publishedDateTime": "2020-05-05T10:18:00-07:00",
@@ -1230,16 +1240,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/05/7fa4be0c-14ec-4575-8eae-fdc23bcd9ef5/resize/1200x/07b4d1f50363941d15c7e5c52e243c78/ibm-krishna.jpg",
-          "width": 1200,
-          "height": 905,
-          "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1253,10 +1253,20 @@
       "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
       "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
       "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T10:13:00-07:00",
@@ -1277,16 +1287,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1301,10 +1301,20 @@
       "path": "_news/2020-05-05-ibm-ceo-krishna-every-company-will-be-an-ai-company.md",
       "title": "IBM CEO Krishna: Every company will be an AI company",
       "excerpt": "IBM CEO Arvind Krishna laid out how he wants a more entrepreneurial culture to help customers meet their cloud, digital transformation and AI objectives.",
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png",
+          "width": 708,
+          "height": 534,
+          "title": "IBM CEO Krishna: Every company will be an AI company",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
       "publishedDateTime": "2020-05-05T09:17:00-07:00",
@@ -1325,16 +1335,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png",
-          "width": 708,
-          "height": 534,
-          "title": "IBM CEO Krishna: Every company will be an AI company",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

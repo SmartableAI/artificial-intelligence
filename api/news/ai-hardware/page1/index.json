@@ -2,13 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship.md",
+      "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
+      "excerpt": "MediaTek is one of the leading suppliers of chips for smart TVs. The company officially announced the S900 chip around July last year. Later in November 2019, it disclosed that the chip has entered mass production at TSMC’s foundry.",
+      "webUrl": "https://www.gizmochina.com/2020/06/12/mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/02/Mediatek-COO-Reveals-Details-of-the-Helio-X30-SoC.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
+      "title": "AI War Games And The Challenge Of China",
+      "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee38ea557886e0006e40d37%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D371%26cropY1%3D41%26cropY2%3D288",
+          "width": 371,
+          "height": 248,
+          "title": "AI War Games And The Challenge Of China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
+      "publishedDateTime": "2020-06-12T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
       "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
       "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
       "publishedDateTime": "2020-06-11T16:56:00-07:00",
@@ -20,24 +115,34 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
       "path": "_news/2020-06-09-dow-jones-slumps-as-ibm-exits-facial-recognition-apple-set-to-unveil-custom-mac-chip.md",
       "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
       "excerpt": "After a long rally driven partly by optimism surrounding the reopening of the U.S. economy, the Dow Jones Industrial Average (DJINDICES:\\^DJI) gave back some ground on Tuesday. The",
+      "webUrl": "https://www.fool.com/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
       "heat": 82,
       "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577974%2Fcamear.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
       "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
       "publishedDateTime": "2020-06-09T08:29:00-07:00",
@@ -58,16 +163,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577974%2Fcamear.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -81,10 +176,20 @@
       "path": "_news/2020-06-09-artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report.md",
       "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
       "excerpt": "Latest added Global Artificial Intelligence Chips Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the mercerization.",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09",
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-09T07:03:00-07:00",
@@ -105,16 +210,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -129,10 +224,20 @@
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
       "publishedDateTime": "2020-06-09T06:29:00-07:00",
@@ -153,16 +258,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -178,10 +273,20 @@
       "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
       "title": "MIT “brain-on-a-chip” could make AI more portable",
       "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
+      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "MIT “brain-on-a-chip” could make AI more portable",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
       "ampWebUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
       "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
       "publishedDateTime": "2020-06-09T04:34:00-07:00",
@@ -202,16 +307,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "MIT “brain-on-a-chip” could make AI more portable",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -225,10 +320,20 @@
       "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
       "title": "Eswin raises $283M to boost chip production in China",
       "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
+      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
       "heat": 114,
       "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Eswin raises $283M to boost chip production in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
       "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
       "publishedDateTime": "2020-06-09T04:18:00-07:00",
@@ -249,16 +354,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Eswin raises $283M to boost chip production in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -272,10 +367,20 @@
       "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
       "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
       "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
+          "width": 1200,
+          "height": 630,
+          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
       "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
       "publishedDateTime": "2020-06-09T01:50:00-07:00",
@@ -296,16 +401,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
-          "width": 1200,
-          "height": 630,
-          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -319,10 +414,20 @@
       "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
       "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
       "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "heat": 196,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
+          "width": 600,
+          "height": 350,
+          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
       "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
       "publishedDateTime": "2020-06-08T11:44:00-07:00",
@@ -343,16 +448,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -367,10 +462,20 @@
       "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
       "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
       "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
+      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
       "ampWebUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
       "publishedDateTime": "2020-06-08T08:13:00-07:00",
@@ -391,16 +496,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -415,10 +510,20 @@
       "path": "_news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi.md",
       "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
       "excerpt": "A Novel of the Real Robotic Revolution is a technothriller that follows the hunt for a terrorist through the streets of a future Washington, DC. More than 300 factual explanations and predictions (with endnotes) are baked into the story,",
+      "webUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg",
+          "width": 2400,
+          "height": 1621,
+          "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/",
       "ampWebUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/amp",
       "publishedDateTime": "2020-06-05T04:00:00-07:00",
@@ -439,16 +544,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg",
-          "width": 2400,
-          "height": 1621,
-          "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -463,10 +558,20 @@
       "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
       "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
       "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/7753bab4-a629-11ea-8ea0-d7434be00753_image_hires_140753.jpg?itok=UGp-QqSc&v=1591250881",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
       "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
       "publishedDateTime": "2020-06-03T23:08:00-07:00",
@@ -487,16 +592,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/7753bab4-a629-11ea-8ea0-d7434be00753_image_hires_140753.jpg?itok=UGp-QqSc&v=1591250881",
-          "width": 1200,
-          "height": 630,
-          "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -510,10 +605,20 @@
       "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
       "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
       "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
+      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
       "ampWebUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
       "publishedDateTime": "2020-06-03T10:32:00-07:00",
@@ -534,16 +639,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -557,10 +652,20 @@
       "path": "_news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers.md",
       "title": "Taiwan dangles US$335 million to woo foreign chip makers",
       "excerpt": "The seven-year plan aims to subsidise as much as half of all the research and development costs incurred by global chip companies that build centres on the island.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
       "heat": 114,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan dangles US$335 million to woo foreign chip makers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
       "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
       "publishedDateTime": "2020-06-03T05:28:00-07:00",
@@ -581,16 +686,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324",
-          "width": 1200,
-          "height": 630,
-          "title": "Taiwan dangles US$335 million to woo foreign chip makers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -604,10 +699,20 @@
       "path": "_news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads.md",
       "title": "Dell Technologies launches new HPC systems to boost AI workloads",
       "excerpt": "Dell EMC Ready Solutions for vHPC are capable of delivering up to 18 times faster AI model development, says Forrester",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815380/itpro/2015/11/dell_rr1.jpg",
+          "width": 1000,
+          "height": 565,
+          "title": "Dell Technologies launches new HPC systems to boost AI workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost",
       "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
       "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
       "publishedDateTime": "2020-06-02T08:25:00-07:00",
@@ -628,16 +733,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815380/itpro/2015/11/dell_rr1.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": "Dell Technologies launches new HPC systems to boost AI workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -651,10 +746,20 @@
       "path": "_news/2020-06-02-new-computer-chips-could-power-ai-to-next-level.md",
       "title": "New Computer Chips Could Power AI to Next Level",
       "excerpt": "A generation of computing chips designed specifically for artificial intelligence could enable a host of new applications for the technology.",
+      "webUrl": "https://www.wsj.com/articles/new-computer-chips-could-power-ai-to-next-level-11591090202",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-192303/social",
+          "width": 1280,
+          "height": 640,
+          "title": "New Computer Chips Could Power AI to Next Level",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/new-computer-chips-could-power-ai-to-next-level-11591090202",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-02T07:30:00-07:00",
@@ -675,16 +780,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-192303/social",
-          "width": 1280,
-          "height": 640,
-          "title": "New Computer Chips Could Power AI to Next Level",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -698,10 +793,20 @@
       "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
       "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
       "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-02T01:39:00-07:00",
@@ -713,16 +818,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
-          "width": 375,
-          "height": 375,
-          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -736,10 +831,20 @@
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
+      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
       "publishedDateTime": "2020-06-01T21:01:00-07:00",
@@ -760,16 +865,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -784,10 +879,20 @@
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
       "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "7 AI Stocks That Are Looking to the Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
       "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
       "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
       "publishedDateTime": "2020-06-01T11:24:00-07:00",
@@ -799,16 +904,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -823,10 +918,20 @@
       "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
       "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
       "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
+      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "publishedDateTime": "2020-05-31T08:40:00-07:00",
@@ -847,16 +952,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -871,10 +966,11 @@
       "path": "_news/2020-05-30-ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster.md",
       "title": "AI Startup Combines Mouse Neurons With Silicon Chips To Make Computers Smarter, Faster",
       "excerpt": "There aren’t many computer chips that you have to build a life support system for. But when you’re combining actual living brain cells with inorganic silicon chips, you can’t feed them just electricity.",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/",
       "heat": 76,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/",
       "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
       "publishedDateTime": "2020-05-30T14:48:00-07:00",
@@ -895,7 +991,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -909,10 +1004,20 @@
       "path": "_news/2020-05-29-the-need-for-speed-faster-ai-adoption-requires-a-new-plan.md",
       "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
       "excerpt": "As companies look to leverage more AI, better planning will be a critical requirement. A look at what businesses should do to move forward with their AI strategies.",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed161661234f60007ce1e59%2F0x0.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/",
       "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
       "publishedDateTime": "2020-05-29T12:33:00-07:00",
@@ -933,16 +1038,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed161661234f60007ce1e59%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -956,10 +1051,20 @@
       "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
       "title": "US joins G7 AI alliance to counter China’s influence",
       "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
       "heat": 121,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "US joins G7 AI alliance to counter China’s influence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
       "publishedDateTime": "2020-05-28T09:10:00-07:00",
@@ -980,16 +1085,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "US joins G7 AI alliance to counter China’s influence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1004,10 +1099,20 @@
       "path": "_news/2020-05-27-iwave-releases-the-corazon-ai-solution.md",
       "title": "iWave Releases the Corazon-AI Solution",
       "excerpt": "Featured on the new solution are interfaces to connect 8 IP cameras, USB cameras, and an SDI camera. Additionally, it hosts multiple connectivity options which include Dual Gigabit Ethernet, 802.11 ac Wi-Fi,",
+      "webUrl": "https://www.embedded-computing.com/news/iwave-releases-the-corazon-ai-solution",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F617442100%2F76219803_vl53l3cx_tof_sensor_n4252d_big.jpg&size=1&version=1590616252&sig=6f92827caaac11ef6425a1a2793ec720&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": "iWave Releases the Corazon-AI Solution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.embedded-computing.com/news/iwave-releases-the-corazon-ai-solution",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T16:54:00-07:00",
@@ -1019,16 +1124,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F617442100%2F76219803_vl53l3cx_tof_sensor_n4252d_big.jpg&size=1&version=1590616252&sig=6f92827caaac11ef6425a1a2793ec720&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": "iWave Releases the Corazon-AI Solution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1042,10 +1137,20 @@
       "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
       "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
       "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
+      "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
       "heat": 92,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T09:57:00-07:00",
@@ -1066,16 +1171,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1090,10 +1185,20 @@
       "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
       "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
       "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
+      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
       "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
       "publishedDateTime": "2020-05-27T04:00:00-07:00",
@@ -1114,16 +1219,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1137,10 +1232,20 @@
       "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
       "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
       "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
+      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
       "heat": 76,
       "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
       "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
       "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
       "publishedDateTime": "2020-05-26T10:53:00-07:00",
@@ -1152,16 +1257,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1176,10 +1271,11 @@
       "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
       "title": "Arm Doubles Down On AI For Mobile Devices",
       "excerpt": "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones.",
+      "webUrl": "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T09:32:00-07:00",
@@ -1191,7 +1287,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1205,10 +1300,20 @@
       "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
       "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
       "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
+      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
       "heat": 86,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2013/10/07/d3fc7ce8-37aa-11e3-90a0-0291187ef9b6/thumbnail/1200x675/37dec431a2f29493e557633d748b29e2/sp-alexis-ohanian-headshot-tanya-kechichian-620x348.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
       "publishedDateTime": "2020-05-26T06:00:00-07:00",
@@ -1229,16 +1334,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2013/10/07/d3fc7ce8-37aa-11e3-90a0-0291187ef9b6/thumbnail/1200x675/37dec431a2f29493e557633d748b29e2/sp-alexis-ohanian-headshot-tanya-kechichian-620x348.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1246,82 +1341,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr-by-2026-446-cagr-coronavirus-covid19-impact-analysis.md",
-      "title": "AI Chips Market 2020 Will Emerge Globally And Grow With High CAGR by 2026 | 44.6% CAGR | Coronavirus-COVID19 Impact Analysis",
-      "excerpt": "The Global AI Chips Market was valued at USD XX Bn in 2018 and is expected to reach USD XX Bn by 2026 growing at a CAGR of 44 6 by 2027 The ripple effect of Coronavirus COVID19 on the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "ampWebUrl": "https://www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "publishedDateTime": "2020-05-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
-      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
-      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "publishedDateTime": "2020-05-26T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

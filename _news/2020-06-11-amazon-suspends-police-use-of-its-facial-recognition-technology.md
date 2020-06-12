@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,47 @@ images:
     title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
 
 related:
+  - title: "Amazon bans police use of face recognition technology for a year"
+    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T13:14:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 61
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/PrimeRisk2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "House police reform bill includes face recognition provisions"
+    excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
+    publishedDateTime: 2020-06-09T03:34:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 41
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
+        width: 960
+        height: 1200
+        isCached: true
+  - title: "Amazon bans police use of its face recognition technology for a year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T02:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
   - title: "Amazon bans police use of its face recognition for a year"
     excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T12:58:00Z
@@ -45,15 +86,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Amazon bans police use of its face recognition tech for 1 year"
-    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
-    publishedDateTime: 2020-06-11T11:33:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
   - title: "Microsoft and Amazon Adopt Temporary Bans on Police Use of Their Facial Recognition Tech. That's Not Nearly Enough."
     excerpt: "Both companies need join IBM and others in entirely abandoning the development of this mass surveillance technology."
     publishedDateTime: 2020-06-11T19:25:00Z

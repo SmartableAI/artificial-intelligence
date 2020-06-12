@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106403418-1582310757005gettyimages-1181949870.jpeg?v=1582310827"
         width: 594
         height: 396
+        isCached: true
+  - title: "The two-year fight to stop Amazon from selling face recognition to the police"
+    excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"
+    publishedDateTime: 2020-06-12T16:05:00Z
+    webUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/"
+    ampWebUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/comp-rekog4_web.jpg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "Controversial startup to continue supplying police with facial-recognition tech"
     excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."

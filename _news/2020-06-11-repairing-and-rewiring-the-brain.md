@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Repairing and Rewiring the Brain"
-excerpt: "Perhaps the most rewarding part of my work is helping post-traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,"
+excerpt: "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,"
 publishedDateTime: 2020-06-11T20:01:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
 type: article
 quality: 39
 heat: 39
@@ -19,6 +19,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "9HM0m7ekUQRQC89vgl91pigOXRrUS94zRPY5+4pbjneQ5HKe1xGr3QxjqMbFf+K2+9yqWWqX2qpM0HZ2GbwjRzHhhW4WX/NpVhwFdQ7NrqyVqy0FgzadOLwKSQ7jd8g3K2tH2IYYgSaN4zLwbwbf4KRPRhFj2zfwYkQAVPcOlZmQ03ANya0N6nSzoMZ8qwBT16+ne5hmdtG8aIX1L3qOVT+6GX/X0EtS7AYZ3eD/sUN107vGf6p1oDM7o9UH8jUDGqrXvc+4Uc6SgSWCnx47jtSdsCI2Lv4W70tLSvhyHbTG18Vnhc11Tx+mkl+9rquw;use2BDvsUfDm/lH7knvLAw=="
+secured: "Hskp2CA/Jg1QyVQ6iYSoYpGGBXidBFuKDYcADKfiaKqp0+U5KRQY9bQNHSSalWftCJQEqYa5jxIzsttGCE7LDUyTOuuhEzNirdyz4Vd31wu3Ui/iOQJX4B1rUyfq/LY6pH+kR42rW0dQhpKyBjB6DMsGZDn09e1gUY6//koCksV5bN1RJKcSusbgkiUucsXyv8D0AxK7FltDb9aX+5TbbCtM6e2LrcBufTWjpppsyBtD1ofrqAfzmQTe7n8wukJ9Ei+hlWoD9ix8Z2LeWE+uiTpH04ShGn8xWMTSvuWFgYHs4pBzF45l37w71GT5Ow1wU5mH4qZELmY2Lqv8WZDwFQ==;IH/+cg7CnI+4ZNkDNnLeQQ=="
 ---
 

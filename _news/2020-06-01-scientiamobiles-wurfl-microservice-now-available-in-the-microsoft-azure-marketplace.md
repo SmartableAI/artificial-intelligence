@@ -5,9 +5,6 @@ excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today a
 publishedDateTime: 2020-06-01T12:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
 type: article
-quality: 92
-heat: 102
-published: true
 
 provider:
   name: MarketWatch
@@ -28,21 +25,6 @@ images:
     isCached: true
     title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
 
-related:
-  - title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
-    excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively."
-    publishedDateTime: 2020-06-01T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "Ul5G+dJS8mxiDr/8QkEUeMDxLz4Vj1lTmGmqEContM+DOvJ46tjvZOaggvf1WAXFGSfwCJ1Sl1amkd6dx2k3qIBKzNl4VOXv5fPulgFe6C47UND5wwC5CyO67dtR9CsfWxV1N61lpboQl44FydQbivThc74oDH0vlYOVmZA/g0aZoQ3roku56AKF6PFOuNANVhxkutxdVwKbpOk3H+wKut4g1azjyLd+X/CiOq5NtgCFzHFrNrq0n4n6Z+pvNSF4KTIqR+amOv/ZF7jt72CjvXAkNEVk7OjcNOON6yxoAo4lPUfG1blre1DTAbjIZ1/U;Kvyf691JgPUuL0/pqiW8PQ=="
+secured: "QXwYXRCLDSzraSUbKAEqoQ8a7WFcc/442JPDZyTuIe4I5jkVlpVhO/Cqhk0V4W/AiyVkiLp1W8nyseSy55z5Ey7YQmR8sFlBpu+7nDvx7V+bmVEGjF96LqppGTLPQlAbAWM7/VU8lGgkjM8J0EslSJejLl7JZQuwOFMygi3iyZBMlIsvjTMfHEqBUT2tyTb6DkIPbR4JwK/j5tvgZIAplCZvFriKa10/a/RCIdFo3W0DbKNXXuzaTFw5kaZmSPymNXBkR8e6TvAW1Kvek0f0x2sT7R7gHGVnBx5eWqbjWue2cgR22riJOqcAl5/93XMqk3h6EggCJqdV7L+AKhRzLw==;NZY6PhsAR1j+cv/gOUG4kA=="
 ---
 

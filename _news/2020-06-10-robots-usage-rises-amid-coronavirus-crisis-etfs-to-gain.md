@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -18,22 +18,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Rise of Robots and AI in the Coronavirus Era"
-    excerpt: "The outbreak of the new coronavirus, COVID-19, that began in Wuhan, China, has turned into a global pandemic. Pandemics are not just passing tragedies of sickness and death. The omnipresence of such mass-scale threats,"
-    publishedDateTime: 2020-06-08T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/rise-of-robots-and-ai-in-the-coronavirus-era/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/automated-cocktail-maker-Toni.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "AxhLrERS1C+vFjOeiyArqCuPYZL9fnC21v3gCdcSQRGXgmU2huBmfTPsmZOZkizSRxgtEZfgcqpiyFkY/q10R1wPKyyqwsLn0UuXFWMlsoqoopGS5dnz2Rge7x5pYFgDgySPPlU7EjT6pxXOigQ4XTtd5VHa67YDSdE//EpYoXeMcBYsytV97zfXiOeQPwvrYm6E87dElwsAfNmmT5EvjQQM33I3E4nuag6No8X36wbS4Vk9ZJozUYUk/6MxfqumPhTTMQ6LkFaszQc1OWvT4wqw+s5CNcHrXPDFbaF5aVHXDoHhOjyxNQD4fNBZt6F5vVFIjyXTqU9HihN01gRs4oq7DHQBqkxOSWtR3LORA0sMUTyHSbgynMc74o8ZlEAebLRxOFTxk1yx7NEl2x3FxtmBQXMsbrbWLhOlnu5XAH3yuJ83zh2w3GAfftk2EtBbtY1uX7diLCmLq6MqRVtPYW04p1463GGiD41svSlcnza4phtvT02xWDeRoZzUB9Ke;2uehF4mBgCmtlpusumwRlA=="
 ---

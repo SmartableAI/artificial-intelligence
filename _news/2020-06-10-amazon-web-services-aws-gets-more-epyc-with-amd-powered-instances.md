@@ -8,7 +8,7 @@ ampWebUrl: "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc
 cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     title: "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances"
 
 related:
+  - title: "AWS Announces General Availability of the 6th Generation of Amazon EC2 Instances"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced the general availability of its sixth generation of Amazon"
+    publishedDateTime: 2020-06-12T15:03:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-the-6th-generation-of-amazon-ec2-instances/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 49
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Intel_shutterstock-1500048230_700x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors"
     excerpt: "New Amazon EC2 instances powered by AWS-designed Graviton2 processors deliver up to 40% better price/performance over comparable x86 based instances."
     publishedDateTime: 2020-06-11T22:42:00Z

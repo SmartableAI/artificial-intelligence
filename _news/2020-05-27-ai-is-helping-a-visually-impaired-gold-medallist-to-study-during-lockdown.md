@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 secured: "OuorfE59Yhu0Mu8/EgdCKAxzHVR5ua+lMa6yACgaYwSB8688gWIubupjTAihBOiXlFYdJ1WLalCoJgx0PeLKdhJEmTAam7+1eNBJ9Bl4umh+U3Spe89ULQ+E9YxgmvtxF4UAvpnQ+PhskDTlPuCluln/hreew6gHD/KYUzPdKZCfMcg/dopSswK2sVyPPiFOzBdbX+dhYhGCOI6uWG5wl1JT22GgzmFJ+4H2tghBZqq2QWbKJZJNzJxIVUQlatjwME8EdL1CgthAGqnEiYehh9ogRNuaUC8FQoM3sTyxKhG+6rpNWzHBh3NKnCe/QKI1WQLiTaiGl09kQgWEPd7SqTiLynckG8yqMccIvKoZfhPAJKenvA9L3JQxWuDAW2pDAlCogeLCEN7EkHG10SMLCzS5lKC4dOvNqe4fiVwbJlQh/8o4N6ZlIfOpygzAoT1k5uxDHwiU4PohB0ucTbLJLyBm9JnQumpczmVSoT73OTc=;IP6CvXTV2sskGBrPFPYAlQ=="
 ---

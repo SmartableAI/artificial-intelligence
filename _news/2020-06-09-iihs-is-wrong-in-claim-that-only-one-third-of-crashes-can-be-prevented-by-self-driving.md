@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 676
         isCached: true
+  - title: "Self driving cars will only stop a third of US crashes"
+    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-08T10:54:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
+        width: 620
+        height: 463
+        isCached: true
   - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
     excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
     publishedDateTime: 2020-06-08T05:15:00Z
@@ -68,15 +82,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
-    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
-    publishedDateTime: 2020-06-08T09:41:00Z
-    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 2
 
 secured: "OMlwlSVZzqdZKhIBHNAx36ILwniX22NxY4mDuLuEf07RAzBscHp/bkAmFLsZACMgqoTOmWV3SN5ONJFGNukdl7chgoVCWRNDwyhlBvcC3ubKH0tV8faoNaCxLoPyCSHK29LqmKfKhlHGW8WIhlfnPd8j23wEWd+7pTgHcdgrLZbaWq6JbMfTMByL+y/X8sDLVdFWnC9LH8XIfbVNjQVPCs4xQPx7T+jTjGiED0o5a5O/LcZKY5Rg46QUPz2PHs1Y/0e20JJpKNRP73IQpGhYWAqMw4/x7cAcdGkfSakhrmT+AibpiX6eYrHmvgheVx9PRZ0wu8GXM1kUifI8ekq3nX5zXG1BsFVfcQTAwP4yXmGR0G+YpwXg/daJ/o3CItLJjGBRhgvdfdy8FKQNZvtYujsGrvQks49cYZVHp4lKGUBuyIB3KqSZJCkbOqNRlk6f4zrdUrRWOhNw8At+3hNR0RfTYi8SmUE79cvsP0yZbKDEG0Rz1SdSIHKFjW7MRvBy;bXaZZ2lufpXWVpvlAs0c+g=="
 ---

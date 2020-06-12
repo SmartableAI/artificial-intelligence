@@ -2,13 +2,896 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
+      "title": "How AI can help find a coronavirus vaccine",
+      "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/12/70e49bbc-cbc1-4955-ab58-dea875785790/resize/1200x/6730efc6ea35da13bc5bdc2fe4478178/20200610-sonmez-dan.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can help find a coronavirus vaccine",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "publishedDateTime": "2020-06-12T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
+      "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
+      "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
+      "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/spoc-examples.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
+      "publishedDateTime": "2020-06-12T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship.md",
+      "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
+      "excerpt": "MediaTek is one of the leading suppliers of chips for smart TVs. The company officially announced the S900 chip around July last year. Later in November 2019, it disclosed that the chip has entered mass production at TSMC’s foundry.",
+      "webUrl": "https://www.gizmochina.com/2020/06/12/mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/02/Mediatek-COO-Reveals-Details-of-the-Helio-X30-SoC.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
+      "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+      "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/microsoft-teams-google-meet.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "publishedDateTime": "2020-06-12T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+      "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
+      "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520735652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG510AV",
+          "width": 819,
+          "height": 545,
+          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "publishedDateTime": "2020-06-12T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
+      "title": "Top Companies To Short As Stock Market Optimism Dips",
+      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Top Companies To Short As Stock Market Optimism Dips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "publishedDateTime": "2020-06-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
+      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 868,
+          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "publishedDateTime": "2020-06-12T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
+      "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+      "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
+      "webUrl": "https://www.entrepreneur.com/article/351699",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591802874-Unknown.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351699",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351699",
+      "publishedDateTime": "2020-06-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
+      "title": "Researchers propose framework to measure AI’s social and environmental impact",
+      "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose framework to measure AI’s social and environmental impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "publishedDateTime": "2020-06-12T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
+      "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+      "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072",
+          "width": 1200,
+          "height": 799,
+          "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-12T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence.md",
+      "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+      "excerpt": "Veteran tech execs are heading up a stealthy new startup formed inside the Allen Institute for Artificial Intelligence (AI2) in Seattle. Panda AI isn’t yet sharing many details about its technology",
+      "webUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-7.50.38-AM-630x317.png",
+          "width": 630,
+          "height": 317,
+          "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-12T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
+      "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
+      "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
+      "webUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/deepfake-detection-facebook.jpg?w=1024",
+          "width": 1024,
+          "height": 583,
+          "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
+      "publishedDateTime": "2020-06-12T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
+      "title": "AI War Games And The Challenge Of China",
+      "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee38ea557886e0006e40d37%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D371%26cropY1%3D41%26cropY2%3D288",
+          "width": 371,
+          "height": 248,
+          "title": "AI War Games And The Challenge Of China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
+      "publishedDateTime": "2020-06-12T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
+      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "publishedDateTime": "2020-06-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-facial-recognition-has-always-troubled-people-of-color-everyone-should-listen.md",
+      "title": "Facial recognition has always troubled people of color. Everyone should listen",
+      "excerpt": "Black and brown communities are often the first to warn about surveillance tech and the last to get recognized for it.",
+      "webUrl": "https://www.cnet.com/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/VfcwrOdtHoNOaKxqA6-vDsCaEmM=/373x0:2338x1398/756x567/2020/01/30/9d2efb7e-b599-47c3-84f9-d1e8e248f7b0/codedbias.png",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition has always troubled people of color. Everyone should listen",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
+      "publishedDateTime": "2020-06-12T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
+      "title": "War machines: DOD's ethical principles for battlefield AI",
+      "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
+      "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "War machines: DOD's ethical principles for battlefield AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "publishedDateTime": "2020-06-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
+      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "publishedDateTime": "2020-06-12T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
+      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-george-floyd-microsoft-bars-facial-recognition-sales-to-police.md",
+      "title": "George Floyd: Microsoft bars facial recognition sales to police",
+      "excerpt": "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,",
+      "webUrl": "https://www.bbc.com/news/business-53015468",
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "George Floyd: Microsoft bars facial recognition sales to police",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-53015468",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468",
+      "publishedDateTime": "2020-06-11T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
       "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
       "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
       "publishedDateTime": "2020-06-11T16:56:00-07:00",
@@ -20,24 +903,34 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
       "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
+          "width": 800,
+          "height": 536,
+          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-11T16:11:16-07:00",
@@ -58,16 +951,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
-          "width": 800,
-          "height": 536,
-          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -81,10 +964,20 @@
       "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
       "title": "New benchmark measures gender bias in speech translation systems",
       "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
+      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "New benchmark measures gender bias in speech translation systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
       "ampWebUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
       "publishedDateTime": "2020-06-11T15:07:00-07:00",
@@ -105,16 +998,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "New benchmark measures gender bias in speech translation systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -128,10 +1011,20 @@
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
       "publishedDateTime": "2020-06-11T12:43:00-07:00",
@@ -152,16 +1045,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -172,60 +1055,62 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-microsoft-bans-police-face-recognition-sales-as-big-tech-reacts-to-protests.md",
-      "title": "Microsoft bans police face recognition sales as Big Tech reacts to protests",
-      "excerpt": "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology.",
-      "heat": 187,
+      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
+      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
+      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
+      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
+      "heat": 76,
       "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-facial-recognition-idUSKBN23I2T6",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23I2T6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6",
-      "publishedDateTime": "2020-06-11T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521949194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP",
-          "width": 817,
-          "height": 545,
-          "title": "Microsoft bans police face recognition sales as Big Tech reacts to protests",
+          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
+          "width": 1024,
+          "height": 538,
+          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
           "attribution": null,
           "isCached": true
         }
       ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoftcaregh.com",
+        "domain": "microsoftcaregh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
       "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
       "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
       "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
+      "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
       "heat": 90,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/31/2ebbe39e-29ee-4859-987b-31cd1903a44c/resize/1200x/4358b8908cefdfb51dcd8d07d99a1bb0/istock-1040873246-security.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
       "publishedDateTime": "2020-06-11T11:41:00-07:00",
@@ -246,855 +1131,11 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/31/2ebbe39e-29ee-4859-987b-31cd1903a44c/resize/1200x/4358b8908cefdfb51dcd8d07d99a1bb0/istock-1040873246-security.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models.md",
-      "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
-      "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
-      "publishedDateTime": "2020-06-11T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america.md",
-      "title": "Artificial intelligence gathers pace in Latin America",
-      "excerpt": "A fast-developing ecosystem is emerging in the region despite the challenges, with projects at almost the same level of other parts of the world, according to new research.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-gathers-pace-in-latin-america/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-gathers-pace-in-latin-america/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-gathers-pace-in-latin-america/",
-      "publishedDateTime": "2020-06-11T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2017/08/22/ad3d2694-6c93-414f-87b4-a1b35c157f95/thumbnail/1200x675/e78d2ee1d2766823d8a809cbf4c7200b/governance.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence gathers pace in Latin America",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
-      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
-      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "publishedDateTime": "2020-06-11T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techcresendo.com",
-        "domain": "techcresendo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
-          "width": 800,
-          "height": 600,
-          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
-      "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
-      "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
-      "publishedDateTime": "2020-06-11T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
-      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "publishedDateTime": "2020-06-11T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
-          "width": 2126,
-          "height": 1144,
-          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast.md",
-      "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-miso-robotics-flippy-and-the-robotic-future-for-restaurants.md",
-      "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
-      "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
-      "ampWebUrl": "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "publishedDateTime": "2020-06-11T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/06/miso-robotics-flippy.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year.md",
-      "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
-      "excerpt": "Bias in AI models and algorithms is among the biggest challenges in applied AI. Women leaders and practitioners have been leading the charge in tackling those blind spots. They’re at the forefront in thinking about how the ethics of applied AI, and how it can center empathy, fairness, and human centricity to create truly balanced models and ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
-      "publishedDateTime": "2020-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Women-in-AI-Breakfast.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
-      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
-      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
-      "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
-      "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/",
-      "ampWebUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
-      "publishedDateTime": "2020-06-11T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-openai-launches-an-api-to-commercialize-its-research.md",
-      "title": "OpenAI launches an API to commercialize its research",
-      "excerpt": "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
-      "publishedDateTime": "2020-06-11T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI launches an API to commercialize its research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-superannotate-uses-ai-techniques-to-speed-up-data-labeling.md",
-      "title": "SuperAnnotate uses AI techniques to speed up data labeling",
-      "excerpt": "SuperAnnotate, a startup developing AI-powered data labeling and annotation tools, raised $3 million in a seed funding round.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
-      "publishedDateTime": "2020-06-11T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ea7130cc-4a60-44b6-b483-faa3bfc97716-e1591656959570.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "SuperAnnotate uses AI techniques to speed up data labeling",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse.md",
-      "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
-      "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/",
-      "publishedDateTime": "2020-06-11T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/istock-6496767961-e1591645629229.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
-      "title": "Let this AI-powered tool build you a better résumé for just $29",
-      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "publishedDateTime": "2020-06-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
-          "width": 4976,
-          "height": 3223,
-          "title": "Let this AI-powered tool build you a better résumé for just $29",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-anonymous-camera-is-a-new-app-that-uses-ai-to-quickly-anonymize-photos-and-videos.md",
-      "title": "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos",
-      "excerpt": "But with the help of advances in machine learning, it’s also easier than ever to anonymize photos and videos, removing information that would otherwise identify people. The latest example of this is a new camera app called Anonymous Camera,",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
-      "publishedDateTime": "2020-06-11T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/9l8n-94JbeT-xN2OozFrchYbzlY=/0x0:3800x2400/1400x933/filters:focal(1596x896:2204x1504):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66920874/anonymous_camera_3_tile_bigger.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-ai-analytics-platform-statustoday-acquired-by-glickon.md",
-      "title": "AI Analytics Platform StatusToday Acquired by Glickon",
-      "excerpt": "Glickon is a leading HR tech company headquartered in Italy that provides a candidate and employee experience platform that can help engage employees while generating data and insights. With the increasing focus on remote work and collaboration,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "publishedDateTime": "2020-06-11T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
-      "title": "Amazon’s facial recognition moratorium has major loopholes",
-      "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
-      "heat": 356,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "publishedDateTime": "2020-06-10T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": "Amazon’s facial recognition moratorium has major loopholes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
-      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
-      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
-      "publishedDateTime": "2020-06-10T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
-          "width": 1199,
-          "height": 675,
-          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-suspends-police-use-of-its-facial-recognition-technology.md",
-      "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
-      "excerpt": "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
-      "publishedDateTime": "2020-06-10T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-197060/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

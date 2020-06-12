@@ -201,6 +201,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "A Bill in Congress Would Limit Uses of Facial Recognition"
+    excerpt: "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough."
+    publishedDateTime: 2020-06-12T20:52:00Z
+    webUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
     excerpt: "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability."
     publishedDateTime: 2020-06-09T01:15:00Z
@@ -248,6 +264,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/10/1/campaign_images/ba8118d67a7c/lawmakers-call-for-halt-to-covert-surveillance-of-2-1067-1591752377-17_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Microsoft won't sell facial recognition to police without federal regulation"
+    excerpt: "Any future law must be “grounded in the protection of human rights,\" said Microsoft president Brad Smith. Microsoft will not sell its facial recognition technology to police departments until there is a federal law regulating its use,"
+    publishedDateTime: 2020-06-12T14:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/internet/microsoft-won-t-sell-facial-recognition-police-without-federal-regulation-n1230286"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1230286"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1230286"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3070026/191025-brad-smith-al-1430_30d02ca4c5439f5585b0b8ea0eb59e79.jpg"
+        width: 2500
+        height: 1409
         isCached: true
   - title: "The influential project that sparked the end of IBM’s facial recognition program"
     excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."
@@ -493,6 +525,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Tech Tent: Facial recognition faces a reckoning"
+    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
+    publishedDateTime: 2020-06-12T19:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-53024985"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
     publishedDateTime: 2020-06-09T01:09:00Z
@@ -650,6 +698,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01725-7/d41586-020-01725-7_18065162.png"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Now Microsoft is banning police from using its facial recognition tech, too"
+    excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
+    publishedDateTime: 2020-06-12T11:06:00Z
+    webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
     excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."

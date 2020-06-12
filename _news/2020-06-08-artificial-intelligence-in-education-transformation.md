@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Open robotic platform launches for education, healthcare and COVID-19 prevention"
+    excerpt: "Mistry Robotics to create an open-platform robot based on the Misty II robot with built-in applications for education, eldercare and COVID-19 transmission prevention. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
+    publishedDateTime: 2020-06-12T00:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15257/open-robotic-platform-launches-for-education-healthcare-and-covid-19-prevention"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/257/15257/misty-robotics-photo.jpg"
+        width: 752
+        height: 561
         isCached: true
   - title: "The Hackett Group Names 2020 Digital Award Winners; Companies on the Cutting Edge of Analytics, Automation, Artificial Intelligence and Digital Transformation"
     excerpt: "The Hackett Group Names 2020 Digital Award Winners; Cos on Cutting Edge of Analytics, Automation, Artificial Intelligence & Digital Transformation"

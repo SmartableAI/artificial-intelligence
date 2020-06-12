@@ -2,13 +2,70 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
+      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "publishedDateTime": "2020-06-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
       "title": "New benchmark measures gender bias in speech translation systems",
       "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
+      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "New benchmark measures gender bias in speech translation systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
       "ampWebUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
       "publishedDateTime": "2020-06-11T15:07:00-07:00",
@@ -29,16 +86,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "New benchmark measures gender bias in speech translation systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +99,20 @@
       "path": "_news/2020-06-11-openai-launches-an-api-to-commercialize-its-research.md",
       "title": "OpenAI launches an API to commercialize its research",
       "excerpt": "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing.",
+      "webUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI launches an API to commercialize its research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/",
       "ampWebUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
       "publishedDateTime": "2020-06-11T08:26:00-07:00",
@@ -76,16 +133,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI launches an API to commercialize its research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -99,10 +146,20 @@
       "path": "_news/2020-06-11-amazon-suspends-police-use-of-its-facial-recognition-technology.md",
       "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
       "excerpt": "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.wsj.com/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-197060/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
       "publishedDateTime": "2020-06-10T17:03:00-07:00",
@@ -123,16 +180,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-197060/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -146,10 +193,20 @@
       "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
       "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
       "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
+      "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
       "heat": 77,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
       "ampWebUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
       "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
       "publishedDateTime": "2020-06-10T16:57:00-07:00",
@@ -161,16 +218,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -184,10 +231,20 @@
       "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
       "title": "Daily Crunch: IBM is getting out of facial recognition",
       "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
-      "heat": 556,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
+      "heat": 596,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Daily Crunch: IBM is getting out of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
       "publishedDateTime": "2020-06-09T10:19:00-07:00",
@@ -208,16 +265,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Daily Crunch: IBM is getting out of facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -232,10 +279,20 @@
       "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
       "title": "Flipkart introduces AI-driven voice assist for shopping",
       "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
+      "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
       "heat": 139,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART",
+          "width": 615,
+          "height": 384,
+          "title": "Flipkart introduces AI-driven voice assist for shopping",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
       "ampWebUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
       "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
       "publishedDateTime": "2020-06-09T02:29:00-07:00",
@@ -247,16 +304,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART",
-          "width": 615,
-          "height": 384,
-          "title": "Flipkart introduces AI-driven voice assist for shopping",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -270,10 +317,20 @@
       "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
       "title": "TCL’s latest TVs in India can be controlled just by voice",
       "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
+      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
+          "width": 1070,
+          "height": 602,
+          "title": "TCL’s latest TVs in India can be controlled just by voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
       "ampWebUrl": "https://www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
       "publishedDateTime": "2020-06-09T02:00:00-07:00",
@@ -294,16 +351,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
-          "width": 1070,
-          "height": 602,
-          "title": "TCL’s latest TVs in India can be controlled just by voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -317,10 +364,20 @@
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "heat": 525,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
       "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
       "publishedDateTime": "2020-06-08T14:16:00-07:00",
@@ -341,16 +398,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -365,10 +412,20 @@
       "path": "_news/2020-06-08-facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another.md",
       "title": "Facebook’s TransCoder AI converts code from one programming language into another",
       "excerpt": "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy.",
+      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
       "heat": 104,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
       "ampWebUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
       "publishedDateTime": "2020-06-08T11:11:00-07:00",
@@ -389,16 +446,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -412,10 +459,20 @@
       "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
       "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
       "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
+      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
       "ampWebUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
       "publishedDateTime": "2020-06-08T08:13:00-07:00",
@@ -436,16 +493,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -460,10 +507,20 @@
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
+      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
+          "width": 5255,
+          "height": 3402,
+          "title": "The best-performing analysts are betting on these 5 stocks right now",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
       "publishedDateTime": "2020-06-07T09:38:00-07:00",
@@ -484,16 +541,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -507,10 +554,20 @@
       "path": "_news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it.md",
       "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
       "excerpt": "Unlike humans, computers don’t care about your race, gender, or religion: they don’t have a fragile self-esteem they need to boost by bringing other people down, and they don’t need to bond with other computers by stigmatizing certain groups of humans (or computers).",
+      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
       "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/amp/",
       "publishedDateTime": "2020-06-06T17:41:00-07:00",
@@ -531,16 +588,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201299217%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -554,10 +601,20 @@
       "path": "_news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities.md",
       "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
       "excerpt": "The new version expands capabilities of its discrimination and bias protection, bringing the tool to R users and scikit-learn.",
+      "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
       "publishedDateTime": "2020-06-04T11:26:00-07:00",
@@ -578,16 +635,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -602,10 +649,20 @@
       "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
       "title": "AI should serve us, not destroy our humanity",
       "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI should serve us, not destroy our humanity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
       "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_176079931/",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_176079931/",
       "publishedDateTime": "2020-06-04T00:07:00-07:00",
@@ -617,16 +674,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AI should serve us, not destroy our humanity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -640,10 +687,20 @@
       "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
       "title": "How Google is using emerging AI techniques to improve language translation quality",
       "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
+      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
       "heat": 83,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How Google is using emerging AI techniques to improve language translation quality",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
       "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
       "publishedDateTime": "2020-06-03T11:33:00-07:00",
@@ -664,16 +721,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Google is using emerging AI techniques to improve language translation quality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -687,10 +734,20 @@
       "path": "_news/2020-06-03-cerence-provides-ford-ai-and-voice-recognition.md",
       "title": "Cerence provides Ford AI and voice recognition",
       "excerpt": "Cerence says Ford has selected the company's Drive products to bring advanced, conversational AI and voice recognition to the automaker's Sync 4 communications and entertainment system.",
+      "webUrl": "https://www.just-auto.com/news/cerence-provides-ford-ai-and-voice-recognition_id195864.aspx",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "Cerence provides Ford AI and voice recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.just-auto.com/news/cerence-provides-ford-ai-and-voice-recognition_id195864.aspx",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-03T05:59:00-07:00",
@@ -702,16 +759,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Cerence provides Ford AI and voice recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -725,10 +772,20 @@
       "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
       "title": "BBC Beeb voice assistant is built to understand different UK accents",
       "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
+      "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/bbc-beeb-beta.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "BBC Beeb voice assistant is built to understand different UK accents",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
       "ampWebUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
       "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
       "publishedDateTime": "2020-06-02T20:30:00-07:00",
@@ -749,16 +806,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/bbc-beeb-beta.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "BBC Beeb voice assistant is built to understand different UK accents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -772,10 +819,20 @@
       "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
       "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
       "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
       "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
       "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
       "publishedDateTime": "2020-06-02T19:24:00-07:00",
@@ -796,16 +853,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -819,10 +866,20 @@
       "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
       "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
       "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
+      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
       "ampWebUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
       "publishedDateTime": "2020-06-02T16:04:00-07:00",
@@ -843,16 +900,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -866,10 +913,20 @@
       "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
       "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
       "excerpt": "It’s said to support 10 languages, including English, Japanese, Korean and Spanish. The company also says it supports 12 Chinese dialects, including Cantonese. It also looks nothing like a pen, though older people tell me it actually resembles something called a cassette tape.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
       "heat": 82,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
+          "width": 1200,
+          "height": 630,
+          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
       "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
       "publishedDateTime": "2020-06-02T03:59:00-07:00",
@@ -890,16 +947,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
-          "width": 1200,
-          "height": 630,
-          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -913,10 +960,20 @@
       "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
       "title": "Remember S Voice? Samsung is finally shutting it down",
       "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
+      "webUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/samsung-galaxy-s20-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Remember S Voice? Samsung is finally shutting it down",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/",
       "ampWebUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/amp/",
       "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-s-voice-dead-1124561/amp/",
       "publishedDateTime": "2020-06-01T02:12:00-07:00",
@@ -937,16 +994,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/samsung-galaxy-s20-logo-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Remember S Voice? Samsung is finally shutting it down",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -960,10 +1007,20 @@
       "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
       "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
       "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
+      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "heat": 74,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
       "publishedDateTime": "2020-05-31T08:40:00-07:00",
@@ -984,16 +1041,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1008,10 +1055,11 @@
       "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
       "title": "Chicago Police Drop Clearview Facial Recognition Technology",
       "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
+      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-29T16:18:00-07:00",
@@ -1032,7 +1080,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1046,10 +1093,20 @@
       "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
       "title": "New AI technique speeds up language models on edge devices",
       "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
+      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
       "heat": 91,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "New AI technique speeds up language models on edge devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
       "ampWebUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
       "publishedDateTime": "2020-05-29T14:50:00-07:00",
@@ -1070,16 +1127,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1094,10 +1141,20 @@
       "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
       "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
       "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
       "publishedDateTime": "2020-05-29T12:27:00-07:00",
@@ -1118,16 +1175,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1141,10 +1188,20 @@
       "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
       "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
       "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
+      "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
       "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
       "publishedDateTime": "2020-05-29T08:37:00-07:00",
@@ -1165,16 +1222,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1188,10 +1235,20 @@
       "path": "_news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar.md",
       "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
       "excerpt": "OpenAI has quietly unveiled GPT-3, the latest incarnation of its headline-grabbing text generator, which comes with an enormous 175 billion parameters",
+      "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-58-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
       "publishedDateTime": "2020-05-29T06:54:00-07:00",
@@ -1212,16 +1269,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-58-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1235,10 +1282,20 @@
       "path": "_news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission.md",
       "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
       "excerpt": "The internal workings of ML algorithms are something of a black box, which makes vigilant monitoring of their predictions extremely important.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
       "heat": 84,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-67-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
       "publishedDateTime": "2020-05-29T04:21:00-07:00",
@@ -1259,16 +1316,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-67-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1282,10 +1329,20 @@
       "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
       "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
       "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
       "heat": 82,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
       "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
       "publishedDateTime": "2020-05-29T01:30:00-07:00",
@@ -1306,16 +1363,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1323,54 +1370,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
-      "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
-      "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
-      "publishedDateTime": "2020-05-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/law.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

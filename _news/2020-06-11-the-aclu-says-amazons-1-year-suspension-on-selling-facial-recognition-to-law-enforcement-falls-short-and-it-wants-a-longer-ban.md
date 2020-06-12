@@ -127,6 +127,22 @@ related:
         width: 630
         height: 418
         isCached: true
+  - title: "Amazon, IBM, And Microsoft Won’t Say Which Police Departments Used Their Facial Recognition Technology"
+    excerpt: "IBM, Amazon, and Microsoft pledged to restrict or eliminate law enforcement’s access to facial recognition technology. Those announcements received lots of accolades, but they left many key questions unanswered."
+    publishedDateTime: 2020-06-12T19:03:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/amazon-ibm-and-microsoft-wont-say-which-police-departments"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-ibm-and-microsoft-wont-say-which-police-departments"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-ibm-and-microsoft-wont-say-which-police-departments"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 73
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/15/campaign_images/85a107c41f94/more-than-a-dozen-organizations-from-the-met-poli-2-299-1582905165-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Microsoft won’t sell facial recognition technology to police"
     excerpt: "Microsoft announced it would not sell its facial recognition surveillance software to law enforcement, joining other tech companies like IBM and Amazon."
     publishedDateTime: 2020-06-11T18:51:00Z
@@ -167,6 +183,34 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/2ed60b7/2147483647/strip/true/crop/4090x2671+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F12%2F4a7b1d1667136b58ec594e6be9f9%2F4873522a665546ba9020de6e20373e7b"
         width: 320
         height: 209
+        isCached: true
+  - title: "Microsoft says it won't sell its facial recognition tech to police"
+    excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
+    publishedDateTime: 2020-06-12T01:43:00Z
+    webUrl: "https://www.chron.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/07/55/19430260/21/rawImage.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "Microsoft won't sell face recognition software to police"
+    excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
+    publishedDateTime: 2020-06-12T13:29:00Z
+    webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/42/75/19541878/3/rawImage.jpg"
+        width: 2000
+        height: 1340
         isCached: true
   - title: "IBM is canceling its facial recognition programs"
     excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."

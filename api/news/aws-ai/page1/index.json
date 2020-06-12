@@ -5,10 +5,20 @@
       "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
+          "width": 800,
+          "height": 536,
+          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-11T16:11:16-07:00",
@@ -29,16 +39,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
-          "width": 800,
-          "height": 536,
-          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +52,20 @@
       "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
-      "heat": 356,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
+      "heat": 366,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": "Amazon’s facial recognition moratorium has major loopholes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
       "publishedDateTime": "2020-06-10T20:45:00-07:00",
@@ -76,16 +86,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": "Amazon’s facial recognition moratorium has major loopholes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -100,10 +100,20 @@
       "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
       "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
       "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
+      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
       "heat": 78,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
       "ampWebUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
       "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
       "publishedDateTime": "2020-06-10T07:22:00-07:00",
@@ -124,16 +134,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -147,10 +147,20 @@
       "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
       "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
       "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
+      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
       "heat": 110,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
       "publishedDateTime": "2020-06-10T05:00:00-07:00",
@@ -171,16 +181,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -194,10 +194,20 @@
       "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
       "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
       "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
       "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
       "ampWebUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
       "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
       "publishedDateTime": "2020-06-09T22:48:00-07:00",
@@ -209,16 +219,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -232,10 +232,20 @@
       "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
       "title": "Introducing Recommendation Filters in Amazon Personalize",
       "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
+          "width": 800,
+          "height": 433,
+          "title": "Introducing Recommendation Filters in Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-08T10:00:17-07:00",
@@ -256,16 +266,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
-          "width": 800,
-          "height": 433,
-          "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -279,10 +279,20 @@
       "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
       "title": "Coding with R on Amazon SageMaker notebook instances",
       "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
+          "width": 500,
+          "height": 398,
+          "title": "Coding with R on Amazon SageMaker notebook instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-05T09:48:36-07:00",
@@ -303,16 +313,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
-          "width": 500,
-          "height": 398,
-          "title": "Coding with R on Amazon SageMaker notebook instances",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -326,10 +326,20 @@
       "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
       "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
       "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
+      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
+          "width": 5596,
+          "height": 3712,
+          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
       "publishedDateTime": "2020-06-04T20:00:00-07:00",
@@ -350,16 +360,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
-          "width": 5596,
-          "height": 3712,
-          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -374,10 +374,20 @@
       "path": "_news/2020-06-04-using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions.md",
       "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
       "excerpt": "Tabular data is a primary method to store data across multiple industries, including financial, healthcare, manufacturing, and many more. A large number of machine learning (ML) use cases deal with traditional structured or tabular data. For example, a fraud detection use case might be tabular inputs",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions/",
       "heat": 90,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/tabular-a2i-2.gif",
+          "width": 1000,
+          "height": 532,
+          "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-amazon-augmented-ai-for-human-review-of-tabular-data-and-ml-predictions/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-04T15:11:16-07:00",
@@ -398,16 +408,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/tabular-a2i-2.gif",
-          "width": 1000,
-          "height": 532,
-          "title": "Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -421,10 +421,20 @@
       "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
       "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
       "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
       "heat": 87,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
+          "width": 907,
+          "height": 465,
+          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-03T11:40:55-07:00",
@@ -445,16 +455,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
-          "width": 907,
-          "height": 465,
-          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -468,10 +468,20 @@
       "path": "_news/2020-06-03-arrow-mclaren-sps-off-season-overhaul-runs-deep.md",
       "title": "Arrow McLaren SP's off-season overhaul runs deep",
       "excerpt": "The most detailed changes to the team formerly known as Arrow SPM won’t be found on the race track. In the blended houses of the outfit founded by Sam Schmidt, co-owned by Ric Peterson, and",
+      "webUrl": "https://racer.com/2020/06/03/arrow-mclaren-sps-off-season-overhaul-runs-deep/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://racerdigital.files.wordpress.com/2020/06/1018012927-lat-20200212-cantrell-20-cota-1024.jpg?w=1000&h=576&crop=1",
+          "width": 1000,
+          "height": 576,
+          "title": "Arrow McLaren SP's off-season overhaul runs deep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://racer.com/2020/06/03/arrow-mclaren-sps-off-season-overhaul-runs-deep/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-03T10:00:00-07:00",
@@ -483,16 +493,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://racerdigital.files.wordpress.com/2020/06/1018012927-lat-20200212-cantrell-20-cota-1024.jpg?w=1000&h=576&crop=1",
-          "width": 1000,
-          "height": 576,
-          "title": "Arrow McLaren SP's off-season overhaul runs deep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -506,10 +506,20 @@
       "path": "_news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government.md",
       "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
       "excerpt": "UK public sector bodies including the NHS will be offered discounted rates for Google Cloud services under a new government agreement.",
+      "webUrl": "https://www.zdnet.com/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
       "heat": 72,
       "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/15/85d6fa95-3fc9-4009-8c70-c842435cd4fb/thumbnail/1200x675/e0aa90238cb2c7fd3050cbd975975541/google-announces-new-integrated-firstpar-5ebdf6d5a07d36782c1deff5-1-may-15-2020-2-25-42-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
       "publishedDateTime": "2020-06-03T04:00:00-07:00",
@@ -530,16 +540,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/15/85d6fa95-3fc9-4009-8c70-c842435cd4fb/thumbnail/1200x675/e0aa90238cb2c7fd3050cbd975975541/google-announces-new-integrated-firstpar-5ebdf6d5a07d36782c1deff5-1-may-15-2020-2-25-42-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -553,10 +553,20 @@
       "path": "_news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
       "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
       "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
       "publishedDateTime": "2020-06-02T17:00:00-07:00",
@@ -568,16 +578,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Amazon-made Rekognition software now able to detect fear",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -591,10 +591,20 @@
       "path": "_news/2020-06-02-introducing-amazon-sagemaker-components-for-kubeflow-pipelines.md",
       "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
       "excerpt": "Today we’re announcing Amazon SageMaker Components for Kubeflow Pipelines. This post shows how to build your first Kubeflow pipeline with Amazon SageMaker components using the Kubeflow Pipelines SDK. \nKubeflow is a popular open-source machine learning (ML) toolkit for Kubernetes users who want to build",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/01/sagemaker-kubeflow-pipelines-006.jpg",
+          "width": 1000,
+          "height": 578,
+          "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-02T08:00:58-07:00",
@@ -615,16 +625,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/01/sagemaker-kubeflow-pipelines-006.jpg",
-          "width": 1000,
-          "height": 578,
-          "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -638,10 +638,20 @@
       "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
       "title": "Alexa uses Amazon Translate to reach more international customers",
       "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
+          "width": 1024,
+          "height": 512,
+          "title": "Alexa uses Amazon Translate to reach more international customers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-01T09:50:48-07:00",
@@ -662,16 +672,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": "Alexa uses Amazon Translate to reach more international customers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -685,10 +685,20 @@
       "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
       "title": "Amazon Textract is now SOC and ISO compliant",
       "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
+          "width": 800,
+          "height": 400,
+          "title": "Amazon Textract is now SOC and ISO compliant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-01T09:00:36-07:00",
@@ -709,16 +719,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
-          "width": 800,
-          "height": 400,
-          "title": "Amazon Textract is now SOC and ISO compliant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -732,10 +732,20 @@
       "path": "_news/2020-06-01-creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer.md",
       "title": "Creating a music genre model with your own data in AWS DeepComposer",
       "excerpt": "AWS DeepComposer is an educational AWS service that teaches generative AI and uses Generative Adversarial Networks (GANs) to transform a melody that you provide into a completely original song. With AWS DeepComposer, you can use one of the pre-trained music genre models (such as Jazz, Rock, Pop, Symphony,",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-2.gif",
+          "width": 500,
+          "height": 415,
+          "title": "Creating a music genre model with your own data in AWS DeepComposer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-01T07:48:46-07:00",
@@ -756,16 +766,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-2.gif",
-          "width": 500,
-          "height": 415,
-          "title": "Creating a music genre model with your own data in AWS DeepComposer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -779,10 +779,20 @@
       "path": "_news/2020-06-01-aws-facial-recognition-tool-incorrectly-matches-over-100-politicians-with-criminals.md",
       "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
       "excerpt": "Amazon facial recognition tool Rekognition incorrectly matched over 100 UK and US politicians with police mugshots, tests found. re",
+      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
       "heat": 70,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
       "ampWebUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool/amp/",
       "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-facial-recognition-tool/amp/",
       "publishedDateTime": "2020-06-01T05:24:00-07:00",
@@ -794,16 +804,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -818,10 +818,20 @@
       "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
       "title": "13 ways Microsoft Azure beats AWS",
       "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
+      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
       "heat": 121,
       "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "13 ways Microsoft Azure beats AWS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
       "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
       "publishedDateTime": "2020-06-01T03:13:00-07:00",
@@ -842,16 +852,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -866,10 +866,20 @@
       "path": "_news/2020-06-01-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
       "type": "article",
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-31T17:00:00-07:00",
@@ -881,16 +891,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -904,10 +904,20 @@
       "path": "_news/2020-05-29-designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai.md",
       "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
       "excerpt": "The world is becoming smaller as many businesses and organizations expand globally. As businesses expand their reach to wider audiences across different linguistic groups, their need for interoperability with multiple languages increases exponentially. Most of the industry work is manual, slow, and expensive",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai/",
       "heat": 100,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/27/image001-1.jpg",
+          "width": 800,
+          "height": 428,
+          "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-29T10:02:07-07:00",
@@ -928,16 +938,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/27/image001-1.jpg",
-          "width": 800,
-          "height": 428,
-          "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -951,10 +951,20 @@
       "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
       "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
       "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
+      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
       "heat": 93,
       "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
       "publishedDateTime": "2020-05-29T07:20:00-07:00",
@@ -975,16 +985,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -999,10 +999,20 @@
       "path": "_news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition.md",
       "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
       "excerpt": "The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level ...",
+      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T17:00:00-07:00",
@@ -1014,16 +1024,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
-          "width": 660,
-          "height": 330,
-          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1037,10 +1037,20 @@
       "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
       "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
       "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
       "heat": 88,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
+          "width": 674,
+          "height": 630,
+          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-28T16:39:01-07:00",
@@ -1061,16 +1071,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
-          "width": 674,
-          "height": 630,
-          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1084,10 +1084,11 @@
       "path": "_news/2020-05-28-tag-aws-reinvent-2018.md",
       "title": "Tag: AWS re:Invent 2018",
       "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
       "heat": null,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T17:00:00-07:00",
@@ -1099,7 +1100,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1113,10 +1113,20 @@
       "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
       "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
       "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
       "heat": 99,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T09:00:22-07:00",
@@ -1137,16 +1147,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
-          "width": 1000,
-          "height": 580,
-          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1160,10 +1160,20 @@
       "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
       "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
       "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
       "publishedDateTime": "2020-05-27T04:21:00-07:00",
@@ -1184,16 +1194,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1207,10 +1207,20 @@
       "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
       "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
       "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
+      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
+          "width": 695,
+          "height": 391,
+          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "ampWebUrl": "https://www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
       "publishedDateTime": "2020-05-26T23:32:00-07:00",
@@ -1231,16 +1241,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
-          "width": 695,
-          "height": 391,
-          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1254,10 +1254,20 @@
       "path": "_news/2020-05-26-creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker.md",
       "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
       "excerpt": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments,",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
       "heat": 89,
       "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T08:47:59-07:00",
@@ -1278,16 +1288,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1301,10 +1301,20 @@
       "path": "_news/2020-05-26-amazon-web-services-and-bundesliga-to-deliver-real-time-game-analysis-with-bundesliga-match-facts-powered-by-aws.md",
       "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powered by AWS during tonight’s highlight match at 18:30 CET featuring Borussia Dortmund vs.",
+      "webUrl": "https://www.itweb.co.za/content/Gb3Bw7W8XEaM2k6V",
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/05/BW-SageMaker-200526.jpg",
+          "width": 816,
+          "height": 459,
+          "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/Gb3Bw7W8XEaM2k6V",
       "ampWebUrl": "https://amp.itweb.co.za/content/Gb3Bw7W8XEaM2k6V",
       "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Gb3Bw7W8XEaM2k6V",
       "publishedDateTime": "2020-05-26T01:43:00-07:00",
@@ -1316,16 +1326,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/05/BW-SageMaker-200526.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

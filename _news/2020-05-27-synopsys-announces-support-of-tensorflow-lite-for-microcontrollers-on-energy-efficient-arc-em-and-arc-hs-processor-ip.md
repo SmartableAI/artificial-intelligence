@@ -11,10 +11,9 @@ provider:
   domain: design-reuse.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-secured: "EIVrH/CxgMmVMiQYFRoibTNg5ZF+I06IDF3hF9Bm7A7lvoqtCyEdI9biIyOjBrEiW0xceOn57jVWbBVz/Vi0mFfGvAtTVBKBheWW+7ajp1hMvzAJUTQsvYkrnBrTEJKmdwaVk/MXCXtKUStkfipeGD6cw8A6CUxxT5wczFCN/jS13bZaGMLOTyXwZyInlFm26DELvl5FmMjQLEN+anPcozp+Rw1fCuRwCUuRmgN24OXV6WDINMOGHq9FLCzQA/ytSglv86cbgO4xT1tyYNtBbM8RBnHfdwcLGpAewvFOykDajvwtG4dbCo5EXJd6W9qM;tATHe0lZhqtEb/YkOnpwBg=="
+secured: "qkvCFCgFrYogqLLo3xOJ0MQB96FchkiIc5GSqKhz85p7SGVf0W0Ki2huC5JaO1gymVle0g+JECj2atzVBzcmblBRvELF41jG7JAkjVoFii3VTR7zn6rJYt1ZRvwNBa5un1mFqsvEttNRJOD/9aPin1FLra0ElTjURVgllGn4GKgvpDhaoB3Jvz1YDWOrE+LikxrKacZzqFejRNgKX5Q3WIRJrRT8on3+28rIJEjc9EaIttPtQug53euiEzRt71E4NDStl1nQSXHOleT7jyxIJNtaz4PWVaNgd7bN5NfD6Q4PWVxKAQmvOHJfWgL0rCIKulzdO42sCDdRYzAsPLhP4A==;7b3oOicUZp4hW1TCgBEghw=="
 ---
 

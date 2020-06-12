@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Finally Sees the Problem With Facial Recognition"
+    excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
+    publishedDateTime: 2020-06-12T18:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 59
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f41/6dc/fda6a694c959522de55ff49938451aaf2a-facial-recognition.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
     excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
     publishedDateTime: 2020-06-11T12:02:00Z
@@ -421,6 +437,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "tjE1LSIHIt+i36vOuk/SP36wGtxPiQRftl0uqUH27132d7u4QkQByAdtp9EauQAmJWh0D0nWsg4Lszj6QLar2FX+HXCbujVMZgsN2MRW4sMlkHs4hLWjSDwAmqPn3VpS4GaWgu2vZWgaDqt+1oMlnSV2tyvXIA7RuCjI0rMF1J1jrzC4EnqRv+at7cMlYJ6wvN9aA2Ydg6HPyqQfauNIurruD3ETyySGt4Sm2aatMnGcRfZjd8TAb8NWMiFQoJnoaqxageMheMdic0xwGlQLMfb53FebDn4EXYakpvvqU4Ac6E/pWL2qsrP+RPE9YVg2;h+8eRkcK+4Lx7N1m3my+0w=="
+secured: "ipQoHTDDvzfqr0JShcDDqntmq5By4CcJmj9oHBq/uO/bLhAJA0yw/uMItg+ySYNW+BWxdfBMX+0ANpcwajhFpWIN8BwT3qoYUlnNyQSa0ZfsgXG/BfmMd1zJ/LNy9v9xlTsI0raiCa9gFwByB8YVP4RBUKEjxGeNWTaITkSX+CP6OYw9+D6RxY4nXufq+DVzl9AeTewfBs2T/pnfJNUjPe4AUS1ZaNRgMIlPgj2lUfRjgGCuFinnYLJ9sf5ikg/21qX/tZwdcGDCkN/B+srRmQcXc7VELLLCgoFPB9GHC3vkJTj19LfEfSw+rCV+ho0bGzdtB2/BlunyusTZDNoyVkyKTeNpHq2RduxecISPGevToW2OS6sbIZWku4VBZKScoNnjqn+mbW3XZtt75rPhx9gfC5dIuGj5qmynS6j8LKovp8VCMMNDNDhHVWg+D+ZSYY5Cb0gwRxxwq06Fn1jUmdvvpLzf6Ai19INq8uuTg92kfMHyz61gAWUSyPj9Cxw7165ZrkaF7Lxvnb+I/coJ6g==;3MfRrFeuynnADQtAFv0ngQ=="
 ---
 
