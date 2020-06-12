@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech"
-excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology amid concerns it can abused for surveillance."
-publishedDateTime: 2020-06-11T17:53:00Z
-webUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition"
-ampWebUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
+title: "Controversial startup to continue supplying police with facial-recognition tech"
+excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
+publishedDateTime: 2020-06-11T23:41:00Z
+webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: PC Magazine
-  domain: pcmag.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/04GJl7hOyfwYd5NZ7bRluuL-1.fit_lim.size_1200x630.v_1591896950.jpg"
-    width: 1120
+  - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
+    width: 1200
     height: 630
     isCached: true
-    title: "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech"
+    title: "Controversial startup to continue supplying police with facial-recognition tech"
 
 related:
   - title: "IBM stops work on facial recognition over human rights concerns"
@@ -176,6 +170,6 @@ related:
         height: 558
         isCached: true
 
-secured: "O+wbaI3E1YEpOqqA8skFMfMEdG/nVIr4E0sxs93kw8e92ARECeStTajCqMaaz2fpXW6Zo7GBBufnoQPPUSo0VFrnIAa37OCeJkldt6EajnvmSqnnbo6YvrVBdZ9DWBbUSRF+JpFE+ADIuNl9/zXRrTpGbkZLWFai4LlOC6I5aNVl1TKATkmIegEc09R4ni6tqcaplrKSGZu3YkzCQ1owxNiK7cvldr1or8BCe8l7Oc3SB+q6FEX6KywrMa00gOG4arddZhzQ0IRhLgIKimveMjRpYNq5DWqFtshfDX/zAzPmLs6IPvVQmMDHSTo/OiMRMi5Zt89dv8xfWgmyLWN5nyVSQCHtC3o022+LKkuYP8tMciOmIwWKGPXSilROVjhR246UUV273v8K5nYLVbBUJN1dgQgBN6uIREUN7/ZPJWxHUJ72696yz5hhsBv0Y7WiTKNnlisMpcU++KNTmkFRDzz/uvpbp3ou6D1cM/PSMqQMUsZatjOxQfeHEKh3gYdN;LAkvnCYbkc08SexnFwpwfQ=="
+secured: "/eGxjW/VkLzC9YXbBN/3apWO7k3TKIQqHpJZyYlmCEIoOiGqCg+FoHcEu6QzM3PD+6bjhqI3Rabyvo92pxziwuHW1lCfYm0aTThjm5gPBX+O+58rk0Mx9cEtvYrdO6Abl0Cmvp45BYprtbpTGtwno/4N542HAhzC7ewHUbw34LmSD8GWCyo3BLEfqlrjA+JD54/4GyZCGyuTux5TgOb92Te3cAIgE54wHngUIu/iBJ0bNKM5/dJxTLAumtIhYfSbcRQbHpSov4TqM+hGRHZUWYlJYogBxS8DcciXMjmZkh+ZbJXbOcSBly2mBl5HqWBi;vcAIoa6Ugpel9T25bmD0fg=="
 ---
 

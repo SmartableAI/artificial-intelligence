@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commerc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6XhwV+bBKTK+KthEZ4Js9BDL/0CYdetp+LouaWzPCs2dQxDlanuzwoc5gSF6USsX7tqJUWAzLLjj2dOhB8VaLGZjkv2xlj6ZvxLtNvoo1hzvtm2iDxyNE7s9CY/7ezJ3UbbXwZuCG6e6KpglAmqbIumqhC3tm3TyPLlddqo9g4g3102ZIlimXIJECHE32cFc2kf2tpH1u8WlLTGFaFz9ytKOEg5JJmFQCgQH1rQdYnvlFaUwKALQDK3IZIfR19AAebeaWkKL89xuEL5my7FKgWTR2D8YTkesvMIEMF1hjVLxOGJIeaX3C1bns45ONssLSZzvrSVI8VCWtuTi2v53rujM+LcYpTAK0x+bZR/Fr+Ip3t3PmCDwoVA0Y9Dmivcr7ku6g8R7OTy8wKhgA13AC9Z4vFVuDlWqObmPVU1wXenl27sUrltrSeG5/4hgw02bI4/V+8ia+mDirQ2OP7DntNmM0SP7kcrVK+8JtJ3rOb71LcU8QrmlWaUV/TWL4OZw;UH0kEsUbsyjAEsXjmun36Q=="
+secured: "4vvnwNrCteR9lMEHQzPzWvzYhlTat/pIyWoseeh8D7+GMEwxvF0e3pENEWDMs4P9iK7X7s0V0sQCRlrIrc8fbClRFwNjftujBxyVvaYcIQQcDRTH9rYGZDldwQ865t09vMRnEWlw8T3qmucojpsREUmk/o68c68TAwsL8hIB9DDsd5q8XUulxCn0kNXXnVQZeZrSWIndJB61m6fwntEBhbIvv1AZp2eigQ9+dftJaetmmRTP9uUgd6lbIBuDDgIrvdoDpKb5Ah+KcEnFi4mgESZYimPy+0Uh4nMYEk4as4uZ1Rdwm9zcUmYKB6Ats+k+jg+7CJKjgTVJlt2E4Ih5mKUoHPoGuprVY/GO/W/qFvjqPdpJl9q7CxM9IdYRT5UJHdUtiCYmM91BvNnSKZVNUOmheY5HLjit8/xs59wu74KnBgCNxFq/kvxfqLWvB0NYXD10/8kxkEOaszuwPCluV8HEx40FeMvbHQYin/d19XPtfpk6vOU9GNk1yzKiO4PX;8qcn6X/qVey/YG2J5MbKtQ=="
 ---
 

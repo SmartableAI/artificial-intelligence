@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-news-ai-publishes-stories-abo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

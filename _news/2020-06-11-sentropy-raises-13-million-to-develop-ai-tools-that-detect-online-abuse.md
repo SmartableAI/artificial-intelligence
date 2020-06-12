@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 533
         isCached: true
 
-secured: "228RAaQr3DD6LxO77Ioq837lJsZ9p0/zYdx2w+H4creXT5P0SdtXuoBEQQ6Mdc8dOqD6BmTOZnh3873ayYDAyXjm6cTa2m4soXsh6IeEIfyLKpFMJq+lthAf3PLuIIbvaDloINmdv/AEiiNBJROg0SfviDx/qIv3bS60rFlL7w1K6i0XHWVJsNxRRbKXAG0LLDXv+SxwPS//avM+obrueoUcSCgM3X3Ae8KCP7TzAqRKz1tF+22rHyOnEx3elfA+uWvp9Qd31PCZmOXAZK9CJ/q+eztUoh+oa46WMavccBIR/Ll2VCJeU8bx7XtpAa0KEw3tk/KdpS/TDQnMBcGHHrlUE0GVlYNF0djEH19AK2zOTyn9Y82aLWVAX+rk18Db+zuUx62O8KD1IS6e6LAXv7vmgO+HfV24mcEAv3EWG+N4gcIwNXeljwOhoBzUTbHe5/DW1t0j9R70DwjyQC0xgBHdNYJk9TqQ5sF9xb3NSPS8JRVHqtUB6peLRMtGVuu0;Jf9I9ygqby7GmZ9WKw6X5g=="
+secured: "M82X8BjF3oxsPgsCvnlavHNT+wojMTpJMKE+kgY7HcwpRkccel6O64m19ubbFAJ1GTkmVr1MvPisyJ2LM3+nAPm9Xhd0c17XzsVcYqCbXt1GXMWPtS19bvNkXmILRHDyABha6dmFDIWQgCPvZxFzSxG/lboKB5ukkTNaPlD6ulSZOl7Tph3v3+NLZKawUQGp24+Y905vTm5gc4ixtfHejyW7aLPXGbvAWaqxXecDD8fhg+6UtfVUC/hD1r3z+IXDqCyqqELD5BmwX9oAtLt0TiPuhnml/K+rpem7z/e2+2mbtcEpq05CLG8Xa1eL0CsEYoi2OboxsC2ggjl1aZ/TtyPyxOUzyWPJEJ5VrkfBWrkdW+vLuU53BVIImSMC/BTWCvxmMlwkZi8db6jgyMBMw+sy3WGeoVKAQ5YicxMgLsyUozjeegO3TX9lYbaVydnjh3KYN2uFj4FUsgLF4kicibEqxVgl9hUBNNNPkW6EcM6h84MmwIw7H1mcS0NSrVxv;v/eXPhhW5ENYSH7HwsuLJw=="
 ---
 

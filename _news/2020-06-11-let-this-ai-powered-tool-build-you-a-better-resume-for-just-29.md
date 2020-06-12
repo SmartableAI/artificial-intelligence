@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-bu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Let this AI-powered tool build you a better résumé for just $29"
 
-secured: "7iKgzEzp5ZH7Ke4drQC+tukQ0YHPpuYlu4x3I0VEcLDiA1oeNYPJhujm04DDrqPPBX+xcMuF7A5vrD0q8uAtsh7RKOhiTVW6QThdW710cL3xhJ/13uc2QDTe+y7DafgcskgvrvAWHGMQGsjHcykb2oAbxPZXlB3Hbf/9qjQ84hfptP7LnLNRKUIVFTXq4wRhyX1Iz7BhsKg1X1rkD0raWhM/2VONOqjUXrf/xKdyIXG9KCiCKPqJfVcl6nWnTfDINNsFjRx/iQhcz7G+Ot5DmOYAw7gxbDq384tdJEXGwrQ7IqHLXJ4QO8m8stClgB4smjCwXCciPIycyOLZQomtPrKIBG/bq9chxW1xRGiOLKRvsshpB9aK9ppLUg86gpY9F5QcyAN9uOx3JIIuiguTCUaRKksur18uzH5lFEIAjGTyiwI9nZV8UC2jbahAkzH9hyyLv0VSPX8+9JGNdbpxzjunc3Ue6A/Kgl/vVglyZ7GbjzQ2HmOeTaAU1a9wFJbx;rhGNL7FK46BWkKA+nHtmcw=="
+secured: "NOKTWW5GndvJEV9Jw+OZb1WBYkgjuugVr1yvvEKp2BJ+DMWxi4Bwt2oza70/RYykAdO5Mpp+jvBJOu/2yZSc5NARwx5cUzAqJ2O5tnfb9P3wZ/Oa0PuzrrLB6f0e3/tC7+gtyKpVUqEKHvDzVw4AwiU/HNUWgz1C7FkmlXjbMl9bcqbMLQgQ32WOpze4PWQRHxDfmNvFG7G9Eed0PrjPFjELOZVToswJGnq+/6Xp01G26iKSyuJOkXwfFlqvue4KAQL5wasg/vqtRDB9fosxgcOlPonEAq+XIr309LOaFu3heZSp6fXLaVpsPROl0SwgE6cuaGmo+mt3ltongFiJxVAphYuhZulfObr0pTm9R0l3gVSkhO9CWWZJTR8KSb25GvZZlehAWa8IRsuhbjJTrJekoJUMbqXydId4tPMT99MAgzKlt0YsN3SRwdcVkJ7LI0S13lX34tMl0pZDQAN40Thjt2YHQ8u9YFqEGC0zxLf8b3MVyx8pNECAp+t9GM14;rxqPG59IiiHQuouyK1Tfuw=="
 ---
 

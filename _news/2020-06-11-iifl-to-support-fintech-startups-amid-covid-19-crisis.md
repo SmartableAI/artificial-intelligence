@@ -1,31 +1,31 @@
 ---
 category: news
 title: "IIFL to support fintech startups amid COVID-19 crisis"
-excerpt: "Mumbai, Jun 11 () Financial services group IIFL on Wednesday said it has launched an initiative to support fintech startups that are facing funding and growth challenges due to the COVID-19 pandemic."
-publishedDateTime: 2020-06-11T12:22:00Z
-webUrl: "https://www.businessinsider.in/business/news/iifl-to-support-fintech-startups-amid-covid-19-crisis/articleshow/76322179.cms"
-ampWebUrl: "https://www.businessinsider.in/business/news/iifl-to-support-fintech-startups-amid-covid-19-crisis/amp_articleshow/76322179.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/iifl-to-support-fintech-startups-amid-covid-19-crisis/amp_articleshow/76322179.cms"
+excerpt: "Under the initiative, accelerators and incubators across the country are also invited to collaborate for providing assistance to fintech startups."
+publishedDateTime: 2020-06-11T15:18:00Z
+webUrl: "https://www.moneycontrol.com/news/business/startup/iifl-to-support-fintech-startups-amid-covid-19-crisis-5393511.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/startup/iifl-to-support-fintech-startups-amid-covid-19-crisis-5393511.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/iifl-to-support-fintech-startups-amid-covid-19-crisis-5393511.html/amp"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/76322179.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
     title: "IIFL to support fintech startups amid COVID-19 crisis"
 
-secured: "nC+jb9rcJLq3eAiQeHuazErp5VQLbgd9x1mmpxr3isLT9jy6dPCHNbKvqoZbvIW6YbwhYL3mgzgi8FVygFf4ZNSbg+mn1ezZepN8sq+l056DsYePR06yYgzSuqO7ADNA9LtOpDeAuCNbUuzTo8rrwBR5WOey/VRlazNddYUYj9ZNIF1rBsFlE54l0pru4aiMbryBJ+NsmmuJEdBzNcYAVjZB0z3BbA4agGVoPIuyGsDo5FCZsYeA/Vzzq14W5P5SvaKOveP+hXB1szBhVCH0WFpDon5sz2sfMUzm8JVh5xu73PgtracWe7RkM8p4nQTg;RzOf7XLv+9ENpWRUUMlXjw=="
+secured: "rvEeuSdNbSy0bk3FyUNwD80aXzZglzmbhqWTeY1f8FGHyV6R24g4Y7Ios2kaRj6+jkzANnXNo+aCdXtywQKs5hA+YNxzRCV3aOQ3ow9nT2c0yUMFSqsyH5r+cGt3RrPz0Hz9KE+w8MK9fKhGZd3LCD95sHWTP7OvTlPdUC+hC7WGd8tn5uRLwplzvDtssZWbUdariy811B+6HObGW093mNi6QPzNhJhJSF7BW4dhDosQ/IBYr+JT+m9XIaupgJTgmyfqFeYTK2xThzE3n+1r/13Z1fSV7xn7vzugpqw01/DXphQp8Ix6w++HoH89yJKK;NfpwkHOPZeko0syFTspTYA=="
 ---
 

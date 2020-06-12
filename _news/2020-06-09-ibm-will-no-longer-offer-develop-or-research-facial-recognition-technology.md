@@ -79,22 +79,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech"
-    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology amid concerns it can abused for surveillance."
-    publishedDateTime: 2020-06-11T17:53:00Z
-    webUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition"
-    ampWebUrl: "https://www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/controversial-startup-to-continue-supplying-police-with-facial-recognition?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 70
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04GJl7hOyfwYd5NZ7bRluuL-1.fit_lim.size_1200x630.v_1591896950.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft Urged To Follow Amazon And IBM: Stop Selling Facial Recognition To Cops After George Floyd’s Death"
     excerpt: "Microsoft and Amazon Ring should stop working with police, say the ACLU and EFF. They’re hopeful of action after tech companies paused the sale of facial recognition technology to law enforcement following protests after the death of black American George Floyd."
     publishedDateTime: 2020-06-11T09:05:00Z
@@ -142,6 +126,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106403418-1582310757005gettyimages-1181949870.jpeg?v=1582310827"
         width: 594
         height: 396
+        isCached: true
+  - title: "Controversial startup to continue supplying police with facial-recognition tech"
+    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
+    publishedDateTime: 2020-06-11T23:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 50
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM quits facial-recognition market over police racial-profiling concerns"
     excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"

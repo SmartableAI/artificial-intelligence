@@ -196,6 +196,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Microsoft bars facial recognition sales to police"
+    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
+    publishedDateTime: 2020-06-11T22:56:00Z
+    webUrl: "https://www.bbc.com/news/business-53015468"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft Won’t Sell Facial Recognition To American Cops After Protests"
     excerpt: "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,"
     publishedDateTime: 2020-06-11T20:54:00Z
@@ -640,6 +656,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "rLBtu1TWwf5OWkFjbxLlJxXQrv+TuGatbzUVbugXGjZk9HfNLWeWr3gl+mM7GoRVEgwlcQIyd+kRo3IU2wdlQy0JeIuX5YcbbIYdCawPeDlQ+yPu6vzsu51gEIjybsIKLqYOxeWXOvRnsq1DcSCe3E1MKVXR4dB/qPJVcI7frBMDwtG6ScWTMmknLaZX/loNJ9FyJWzEh5WXZCzpQpKwtiOXJkqLMNiZmooq1ZaSere2sdd7/2+j7khA7dWN3fZyXvZ3DwXBUgj8i0+97d6hKbfIvn4S/tSGwmpITvKIiqF+NbpZ6ACyj9nM/EvtMajm;6ZV4cUhwZkE3XHxL14E7Bg=="
+secured: "rPnublQRwAJwq2WZDNUSqdZmyhiHAm1JSbnF/rksxNwORrLhiokxBLuXsxrwynl867KQw/Kc/kS1b+Rb9k6RA6GRdH6e0QE3zycQ/BTX8wRnvlULw3u5KMIUbH8zd2TCTsO3+BAR6abZq1jcgEch1Lzweagi/jvtq2181wXARskAUmeS5gWN/XBdN7kyiAY955gOVcjNHpcukhTRmopg0s4N/Nz872fXv+ktOyUKL02U6hU1xzpiwrYeFUlmy3iNjhzgtfLimQ2RPrNXSj1z+UNaPvS3XwuXw/+L7xpMIjbUll1HhDN3dWQVKM3cGeW9A1IWBgK22D9FNPq41H/ZsH0Qhn8uD/s6lTpftIpLSOSAp3kWScczamGAGMqBe6/KQmxrvM6TC+cyA7FvhxReKHnfEhMpbEfyyiW3IzE/MjONA+ruveRSjOd7tv/gZ04g+r+VJC9zq5Gyq3oDWB+IA3ziw8poWWPCfTKmGQ52bfmjdwoZbwAIt80rKA/bwMh5;ZlHHx2DpE/PNIJ2pJI6s0A=="
 ---
 

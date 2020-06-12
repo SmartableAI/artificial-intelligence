@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-b
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos"
 
-secured: "R8ft5w6AgimTouN2RVB4G+/ms8Kb8UOVzBhS2ITnDX2Ha5YMxKQYvnSssDxBAFuBGcoAdOxrP0lj7/RdJDP0YBcVJwv82BBpyUiifi5gHzjxVO3cVuMt8nh/BHbQMBLudDiXWYEffMMqM9dO7xs50pe64PSw4SS0TPr4qyRumRQFx6OB0SgHRr0jNNLkJzFXSag3hei8ktQ54TDTSrhLsa0CWdSWoGJjnW82mnx2MTPI8Fw/GdqHRbk9jd0V7Lchye+5kT9W0EmJrNq+IZtTTFn90HNp6aHFAFvALrJVw/LQJKbNIA/hEYUuSuZJPUHdyM7ZIJ/UgyOaKR9Ih9qwH5QinHSRT88ftQp5pXqZD2TQMiHUZob3H9IiPRni3vpYByypRnL9IWeAVOMQ/2lfVffm4zKLacGeCRTKAQE9oSL50+FGEDqdFgS2juUPwWwYtwuK2QBeHvFz63QLK8tUXl1DcXa9S7kvJ+Cv2laJ0H6nb3Ox+QyV1sKNd2Zy7Jeo;FwxwrcUfRLl9zNpCF/XxSQ=="
+secured: "ygpJFXvPGMg/nvxFTGm1IjiJnHdqSjbXwoIkFNMQAHlNCsB2nLHNI6EvY8+Nv3TEXhN/u8yvkZMXlCs9wDnofGuKg9pHh5DaokT05PIgIKNo/6ugi2fhHg1fOec6dxRNXSER7XVQKMfsZwE9QljFYtmpwjr9gbawmmbaEgLXytNkiv212f7OCeP4oJmencHnBsmAxmikNnRCKCfooY5V47boZGf/9W5lVzsJAgTA3LhPClgD7LtDq/6y4ZSxG+C8H05fs/80geaTaSgbq03pjwvGcfCGpJrsF5+8k/HlXe355JZbKp09Gvo37w79db0GU8oQ5l8MmNlzwUIj/+6la7KQ6Ff1fzf3vwrT3d6Nl+PMeqBdA+d7YARE4pFkeh3R7PV0WlfNOqgP+UOBnJx0LFf+dJnOQuwC24MyZ7J7gZPW4XCaJAxw7LlNfTUTFxu7e0cz4K4F7IoBsF9DIJZVxeP4ACYqbnA2RY9CgaskQR/FolV/vpB5XxtgC8B6vVif;fCzPspV0IhXQDzIzvkgS4w=="
 ---
 

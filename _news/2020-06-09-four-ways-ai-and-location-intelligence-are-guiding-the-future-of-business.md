@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-locati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 96
 published: true
 
 provider:

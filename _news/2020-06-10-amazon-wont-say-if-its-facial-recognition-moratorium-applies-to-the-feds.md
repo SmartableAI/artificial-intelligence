@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon and Microsoft pause police facial recognition and demand regulation"
+    excerpt: "In the immediate term, Amazon’s moratorium will have a greater impact than IBM or Microsoft on the use of facial recognition by law enforcement. Amazon sells its product, Rekognition, directly to several law enforcement agencies;"
+    publishedDateTime: 2020-06-11T21:57:00Z
+    webUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/"
+    ampWebUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-01T193812Z_1_LYNXMPEG502Z0_RTROPTP_3_UN-ASSEMBLY-e1591912509279.jpg?quality=75&strip=all&w=1400"
+        width: 727
+        height: 409
+        isCached: true
   - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
     excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
     publishedDateTime: 2020-06-10T14:32:00Z
@@ -406,6 +422,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "B9xthERpfktdxI9aZOnLJR24uZSkRnm1S9o7HX139KwrFVeWojUv4M+1FqgToX+y54RFs5SeIuUcjfhW0kHAfWdqCPcznfNfDhP5fodxxVEkfs8SoehGv0HoqpItKPu9aGW8t2LY3st8HZbHFhDlRovZ2xM/CvgHcJ+mUbRsDQ/cwbclmasRZqUGE86jv6szr8CnDzRmfxFOr13aKLuGASsBvtHlJlrLowUWxJPGUBJe0kCBCWV3ymP2pskJZ8pYWBXUJgxRQPdecMfD1YwqH1GpdS/1cELs0nHxk5rDqUJpt97F85F3zs3TYSdq/mFepVfJp487sl2V86ECaCAuUStIg9MNuiQvmKKIOkI+MOVExp5YIk0+z+cEcSPVw7Xfl/wcmhpsUl3AloVdVesg3YAtkpuL9dm+Lkv/MyKkqbZHNJdz2A32xtKhRZRzX5CnJfoPtz2kcmcgj6MX7uOsRq39wG95BUf0flrvTVQUWkhyF4V4jk/c0HqHT4dq07u7;if4fD0/BiPOg+SPdeGKN4A=="
+secured: "rM5l5xSzFMA3Q1bem0d7hjxdwzfqG0Ur3YdB6fGIWNnoAECU5fjFNnTKqsdp5nr5FN+De5oAq2wqW6fpeTM/D3Jb+H14RbqrKOA0V6LcGQ8v68zwMGc1GJ1oKJ1s5V7crL9Gk34JjqYFGX0D49X0YbjWyoDlzSdzxNFA8TKxf6KK1i/q4/PyvG03erBpRWJBnZH3hXn4Xy4iMDD/WCfpU4qxUgeJiKghDT1Dv+H6CHWV8RUNoa8ETMwsw3km/TMo0b3yULCKfblV9DNxtUL0H8RLCBQ3HpDL4sChWI/nFbzdWVaqpCp2J4CNGlpQG43Fof0nxXh6H830WDqLe2/jCwa68GVIOTHOs9nVnwVJzCKsq1x2JzdU7PhCoRWLG8/SWivBOtSX10WT+mftAbzGRYMb62GdqazaHbWOR95ZPgEa1afbi9195q6ojaZBPuSmJIERaeXKDHWzqWuwmI/GR9PJwqKTkF4XyR8GeKStg3wbPi6VIadk00tY9o2W5+JQ;5SizQ+6cXM/Fq/C4G0lPKg=="
 ---
 

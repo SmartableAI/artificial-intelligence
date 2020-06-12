@@ -200,6 +200,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Microsoft bars facial recognition sales to police"
+    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
+    publishedDateTime: 2020-06-11T22:56:00Z
+    webUrl: "https://www.bbc.com/news/business-53015468"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
     publishedDateTime: 2020-06-11T15:22:00Z
@@ -644,6 +660,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "QUPLJQstZNMCSTD2H8DLgG+1KxjaVT9hBxK22byNv8dpv6iOc8CtuRNVLBF5OsYA05cqc+aDASaLo/M4D6kP4KYDcF5Bwau0y8t0DWvEK35eIm4By7dvSTaXh//OekYshpm9QLBy8YrnDRp2ji9Mp/hHqmxR7y/p7H+PX1sVCvuCUOGofmsN3PMjwCGejsCbjzbTC9bNLTIVJw/WddQNq2cIMA4EP9KISQ4tRZxc7Q/uvtLUSS8JQDQ7zdevDrQjSYB3HfHJQxVIuqzUv+yhmEqYb9KNirWWjIS8i3vVjmvAsPSVF+0Ob0cm32tW9di5;rLyGER0ZlqVx5vADiOaBrg=="
+secured: "WJ9MtXKxne2Ym+urDkZPZ6qVURcMC012pMh84QtXiVuE3g1kFs6coKunOFEdUKeWLOlnbk0M1fR5m++0PLFjLIB7Ht+0DigiR1gT+BnbDES+x2g9Xa2A7eW92BMUP8gDqieZITHKmDMOua88QBwZ3DwBzm2fCqlU+S0LsqiDVDYTfw+Ox+hKxXYEn9cb3brnM8k9+ykb7xh7SsvhYOEY/zgBbsGPZspMAH/Rhrdr9RQcafMDUXqK2n4yCIq2JLdEJC3cVLf+PpcMBYVcZs3aJMRDPcszd8t3znrg0g+O5ZaIVUj4/6RaynWQqI6gP9rOeaAEhCqpAdHRG/OPb2uiFmhPfX9X+ZVui9e8rEqnSzY/t0/72qwkWqft7bS5liB0mtOfMp9qbv4wWztWteyqSj2kJyozQTj/WVKIMLm+WxfpGrwBp6IrRtwK/aTTG8WRiZezgHGD30P5QaczvqqEkfxqgdgLKbQaZ3zE/h/FiqBg0Od5tYtNQR1sNXUGoZcW;IyTYeRhw+1k0Wwyct9KkPw=="
 ---
 

@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon and Microsoft pause police facial recognition and demand regulation"
+    excerpt: "In the immediate term, Amazon’s moratorium will have a greater impact than IBM or Microsoft on the use of facial recognition by law enforcement. Amazon sells its product, Rekognition, directly to several law enforcement agencies;"
+    publishedDateTime: 2020-06-11T21:57:00Z
+    webUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/"
+    ampWebUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-01T193812Z_1_LYNXMPEG502Z0_RTROPTP_3_UN-ASSEMBLY-e1591912509279.jpg?quality=75&strip=all&w=1400"
+        width: 727
+        height: 409
+        isCached: true
   - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
     excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
     publishedDateTime: 2020-06-10T14:32:00Z

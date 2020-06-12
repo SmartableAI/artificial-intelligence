@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -66,6 +66,6 @@ related:
       domain: reason.com
     quality: 2
 
-secured: "0BQBEX8sCfmUuZ/1YSaw648Cs0hoMUAxgc2R63v3anM/9sDkaLtgBo8DD6z660Jw4jfxgEEPuV3nNHIiAhz2vymCFE+FktUU4g4HFwDeRT2m8+EE7l67ogGZdtOBF5C77Hoihvuq1zED6rtl7xHfUz6rhkDY0bD2iIOjr/SVDYuUN0Ill5f7Lac9jvOKMzTXhKxrDdy4ZtmG9/zgRYyLsNO0kOZbis50SebUBBGJShoWk/3uD1FRpp0hjLW3bJXvz/H2HM3f7MGTAc0se+NQIxn3RBULtBnZ4rYC5eTO/5uT1N+4mHEwUzUl7x2jO/+R5BnDPlH2PG916NYnK82abQEWq7o534wjm7kzkuXsqPnclBSQ/c24itLbXyJHw73aYouDuO39fIOR944cJJE0DbJFTOZmULhDPju2LwBvttU42pOz7sLZbcTHJZOo2AAr2xrYkfgXaWmEXKZFg8grWAE2zs7SRHckqWpXuF8CkxQhHnZo/nhAeqfX4tpI3mpO;K9CnxssAg7VGO5TXkcNbTA=="
+secured: "6dKHy1ZcqHttoAkBHIZjpiHPCIRFhEcANg4G7dwes2uOM8Lwunwb4ZzENbe//+mrgfHVKozUvwnG64OfQn/TSvpmwvnSQq0XOTmGLe3wqT/EcQqlfWFV65dyAT0VnY2LirCjvxZuLaRICz/GB353L7a2Ddhdc47qyUn0SB8wW4VmpNrfT5WKuS7Y+BpMANA2xax7dxcNnfB0xHoeSlBoYSFwNZXsj6uIHr9vuFwrbGQEJM82CuU8sGrLmAN7TISGLzmOPaJIGi6wZ4hh54bSmSC4al27I1pug/GVhaEbH6W9+YDPYW8jkbo7L7cW8X7uGGXQlIh3MQAgrqhkCJJiiWRbNbEZh+AwsA2upnE7yY8TzHCO+gqrmXmA2zWD5jfyC9GCdhwip3pnD3tYLEkYQI7Z4hD90auPW2cDY8oSdO7NwDUyh3uoo1IFeIyLqU8Y2cz1YDeFpDK7EXFQnpRE2DKqDB/yEC/yufHVQzzY19ORyqFr+lDcYj22dPlgnomh;WDdizSqiTzJCuAo0/3uyBA=="
 ---
 
