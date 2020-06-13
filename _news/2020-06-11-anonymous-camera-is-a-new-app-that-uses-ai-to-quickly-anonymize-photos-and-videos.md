@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-b
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

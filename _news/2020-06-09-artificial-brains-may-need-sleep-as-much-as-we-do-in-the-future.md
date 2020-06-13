@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Sleep is also essential for artificial brains, shows study"
-    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, according to new research from Los Alamos National Laboratory."
-    publishedDateTime: 2020-06-08T06:11:00Z
-    webUrl: "https://www.news-medical.net/news/20200608/Sleep-is-also-essential-for-artificial-brains-shows-study.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200608/Sleep-is-also-essential-for-artificial-brains-shows-study.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Sleep-is-also-essential-for-artificial-brains-shows-study.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f3%2fGood_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-11T14:48:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commerc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

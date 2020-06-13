@@ -3,7 +3,7 @@ category: news
 title: "Now Microsoft is banning police from using its facial recognition tech, too"
 excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
 publishedDateTime: 2020-06-12T11:06:00Z
-webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?partner=rss"
+webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?amp&amp&amp&amp"
 type: article
 quality: 37
 heat: -1
@@ -762,6 +762,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "tWFQeJxfpOofXBX0IrnvwL9oFkX72xULJb/lzBDTZufIPhTkRBRfULDpqM6PkXej4JGiLZVxs/APMqnZB5gT+ZV5WwqdD64InflN6FsK0DE5dVzuNSrsJaPi2TweOgnPIjry+xkCVYFurKSQJjTPLm40F3EOLHhqmS1i49gSl7ExvGep09ZBGbk0ymcleWYvDyjDhYg/Uor6Y+hWBsYCuHqXfRuKZrcwRXSc1qHl8mn1nLgDb8iuto1UiO/LJWIlaO2xXQcRM++1nqim+ibN2yTsxWCmgL1PbjH7pT2st5WSO8/Abw329ZSKWjboAvwg2WdnWNaCUE7UVByeEZCqgoXTgh6azhqZHj6dmS5KcY3TpZj/w/3BDJkfzVIC5F8DHN5SWfP8REy//+96et1Z9izuUtvdWemPDrhLRIyH6sD29AG9iAl1SRcyPNZeNyXPiqnQiORhUTcm18ooyq5Qk9BusUy43U+ZJ3Ionqh/rMjrtUAw725woIqYyA5N2r6NXTZgSansq86M0RHyl1/6vg==;q3mr4l0xuBiyP1jONdiofQ=="
+secured: "II806KHr4ayonePFLFJlfViOtSclrUyq0Is6FeDtnEPUiuEjR42ORevV7O9vkG10K0SfG/JyE/SoCsagHJ6JKBq/pkFNSrFvLxSsH4mMvOO99SXo1bvVEF1MsqcfUJ+0Xu7VvmrXDDzf820sRwoF4HBSiKtNMMpfc99bpaZtDDmFeamvsHwWvXSO747d9W7i/96RZbY4BNujeNPuVMq7i4dKPnWkb/HToEBvDdu/8UkwEBzegMSDtnsr6tMVMYe65SOJOmaQ9tHR/A3YHNt9yceReczwpHI6h5fJlPAooI3ulT75W0k7o7+1y5bi/SS15nqI0WIzEFAC9l4iNvYMDA==;+7qhfHiUVzMuJTLpfcpNiw=="
 ---
 

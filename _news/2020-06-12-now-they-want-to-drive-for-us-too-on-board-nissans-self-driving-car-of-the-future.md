@@ -34,6 +34,22 @@ related:
         width: 300
         height: 450
         isCached: true
+  - title: "Why the future of self-driving vehicles could create new forms of social inequality"
+    excerpt: "Driverless cars are coming, and they're likely to make life on the road easier and more convenient — for some of us. But will they create new ethical problems?"
+    publishedDateTime: 2020-06-12T22:08:00Z
+    webUrl: "https://www.abc.net.au/news/2020-06-13/driverless-cars-traffic-ethical-issues-social-inequality/12347890"
+    ampWebUrl: "https://amp.abc.net.au/article/12347890"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 38
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12341522-16x9-xlarge.jpg?v=5"
+        width: 783
+        height: 441
+        isCached: true
   - title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
     excerpt: "We’re seeing them pop up all around us and maybe you’ve even been lucky enough to have a first-hand encounter with one. Sure, these vehicles look new and different, that makes sense. But why exactly do a majority of them look"
     publishedDateTime: 2020-06-12T19:00:00Z

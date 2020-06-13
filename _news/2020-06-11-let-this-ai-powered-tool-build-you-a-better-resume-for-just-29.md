@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-bu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

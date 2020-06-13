@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
 type: article
 quality: 74
-heat: 125
+heat: 124
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
         width: 620
         height: 463
-        isCached: true
-  - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
-    excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
-    publishedDateTime: 2020-06-08T05:15:00Z
-    webUrl: "https://www.wltz.com/2020/06/08/study-self-driving-cars-dont-prevent-all-crashes/"
-    type: article
-    provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
-        width: 446
-        height: 213
         isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"

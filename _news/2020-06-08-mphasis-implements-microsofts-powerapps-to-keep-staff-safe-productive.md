@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/mphasis-implements-micros
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/mphasis-implements-microsofts-powerapps-to-keep-staff-safe-productive/article31778109.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 384
     isCached: true
     title: "Mphasis implements Microsoft’s PowerApps to keep staff safe, productive"
-
-related:
-  - title: "Mphasis implements Microsoft’s Power Apps to keep its employees safe and productive during the pandemic"
-    excerpt: "Bangalore: Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announced the implementation of Microsoft’s Power Apps to ensure the"
-    publishedDateTime: 2020-06-08T06:54:00Z
-    webUrl: "https://indiaeducationdiary.in/mphasis-implements-microsofts-power-apps-to-keep-its-employees-safe-and-productive-during-the-pandemic/"
-    ampWebUrl: "https://indiaeducationdiary.in/mphasis-implements-microsofts-power-apps-to-keep-its-employees-safe-and-productive-during-the-pandemic/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mphasis-implements-microsofts-power-apps-to-keep-its-employees-safe-and-productive-during-the-pandemic/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 23
 
 secured: "ayGr22HNlzeXeU5weyoh37ah2LAbnuvPkuKvn+BnoU4DAmpQYBq7Tpp9JLAsa3aQ478ZW1dbmGbCEQCU6CkoxGULlZ0h5uxZnjBB0opMW7bYzqS+oD+vLs2gbhpYynjsHk7rIs5RwdYPsemDPleEcgeptAdEQjmrxz70PGnnA1pPF69JSb1gpKdjFm35iI+PAMdM/8POtWR0wtaKO6tEMcvA/e5oz/E3Xc/d/xqFcCnPY+64Er+/wkqM8CyCpvO3ncMErJhqVVE6wPZNpWeulskQuV5MGIpa9IiBl0fwnUQz1VEZk0Qq5KPlk/x42W+6IjUGqs/mypTfvIrkoYtrcRV+1NNT0Str/jmbgkAJFasXOlSXi72U8hPnommIktlx3fI98+0Pcc6iUiNRnxfAhHGj5HwAUFqSnIySDEcv/eycpLtsIuagbaPICVC+s9MZ2C3X9/0NiCSlDh6s7cAJ6Hj+wktT6v3HZcnG4jevN0Q=;kyXe/ImcAnEnOgnYckoZpQ=="
 ---

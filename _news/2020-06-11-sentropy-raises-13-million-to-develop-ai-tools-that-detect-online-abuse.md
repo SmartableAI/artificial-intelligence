@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/"
 type: article
 quality: 88
-heat: 99
+heat: 98
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, S
 publishedDateTime: 2020-06-12T03:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

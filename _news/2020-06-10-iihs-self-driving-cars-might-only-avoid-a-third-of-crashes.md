@@ -66,20 +66,6 @@ related:
         width: 620
         height: 463
         isCached: true
-  - title: "Study: Self-Driving Cars Don’t Prevent All Crashes"
-    excerpt: "(CNN) – A new study found that self-driving cars likely can’t prevent all wrecks. The Insurance Institute for Highway Safety looked at five thousand police-reported crashes from the National Motor Vehicle Crash Causation survey."
-    publishedDateTime: 2020-06-08T05:15:00Z
-    webUrl: "https://www.wltz.com/2020/06/08/study-self-driving-cars-dont-prevent-all-crashes/"
-    type: article
-    provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/06/Screen-Shot-2020-06-06-at-8.02.22-PM.png"
-        width: 446
-        height: 213
-        isCached: true
 
 secured: "wA4zru2xxAuifnMC3vzqoo2RZUwjet81G3lsyAcQlshMugcbintYjgwJ4D2P8etAy5j27w5bYJFQ4PzFu7+jendaKz9voRqTzq0mCp0IhOOJw3Zzc3X11/Zts0BTjddz59xeKe9Clvj713XoHIevUlzKY0tTItnVuLzDCCA+NDfCkbp+YfPPs832bqzsmKzrU4gfqp/oYPnpbr7E9NMugn3k9qv+B3FNskU5vXe60K532lx7WrhRtrvozyb60dG9Pw/u9I64yNvDpyT07cWbtWbIwoSfCM74boeUKzHaJF1c2Jtjg0hwoypOsdQ9JEdHp7+JJhQ3vCcRSkeTO2nGlIq1fL27eOv6buKeamb9YuY8T6PgM+t+/1EnNcPJBAwHW/iYf1WUk2VdhQnBWyYYmN0B3luq3eLHfEjhd3gWkb3l2R5itm+ccIB7jiIXlzYwdKN5bR+77VN+jQvTLdr/FICQO2J7HiiXXM55P7AizKveMG5HiyhmNlNKqki0UPYb;qt72NqYF1noEkrG+SmaGaQ=="
 ---

@@ -2,6 +2,44 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer.md",
+      "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+      "excerpt": "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure.",
+      "webUrl": "https://hothardware.com/news/openai-supercomputer-by-microsoft",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg",
+          "width": 708,
+          "height": 462,
+          "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "publishedDateTime": "2020-05-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
       "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
@@ -1028,52 +1066,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-chinas-didi-will-begin-using-ai-to-run-virus-monitoring-in-latin-america.md",
-      "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
-      "excerpt": "China ride-hailing giant Didi Chuxing said on Wednesday that it will start using artificial intelligence (AI) technologies to verify if drivers in its Latin American markets wear masks and disinfect cars to keep rides safe amid the coronavirus pandemic.",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-didi-idUSKBN22W0U3",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200520&t=2&i=1519261256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4J0H7",
-          "width": 805,
-          "height": 545,
-          "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22W0U3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22W0U3",
-      "publishedDateTime": "2020-05-19T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

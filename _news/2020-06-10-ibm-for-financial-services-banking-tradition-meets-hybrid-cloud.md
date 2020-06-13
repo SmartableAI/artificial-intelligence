@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T20:08:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud"
 type: article
 quality: 71
-heat: 83
+heat: 81
 published: true
 
 provider:
