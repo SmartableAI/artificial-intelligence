@@ -38,20 +38,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
-  - title: "Self driving cars will only stop a third of US crashes"
-    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-08T10:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
-        width: 620
-        height: 463
-        isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
     publishedDateTime: 2020-06-10T13:28:00Z

@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Fintech Firms Must Properly Manage Cash Flow, as COVID-19 Is Making it Challenging to Assess Credit Risk, Monedo CEO Says"
 
-secured: "Ve6/s0uQh9ZM4YuZ3RpTYbM25gFvVdBvAB1gWE9EQAmwz7OEwcvDdR2e+sUI5Q87R62qEoNwEpukt2RCrpKy0nuMZ7LAGLLnmdMt1+ACCSzFLcPBeyo5sUXsfCzKTQIOIi9nFrxaWSE4sRUX0IHhuJ7CVKnTiFshcJdYKXK1L5ZBzkV4RKZeBqA2BMd9RwC+/3jdJTmrayGxmT4Sdy2Ix+fw8UqstuCQZY7riqFmcVNMFmhKoY+XT5O+e5VEQE3n8/g3rIuGdbCQZ5HHuwzV/BGblQ3w44ze3Q4U6+TjimB35Wo68OT6Z0QcGx2X40B0QduDM0LmUwAvcE+H/0pz1g==;NjSZlnsWC8ybuthp/K5Clw=="
+secured: "LD0vEKK+02Z874S9dPfKG7mynGOGYCMp95nX2kDlPHP4Vyxh+inXVIO99k2KMU7XJzmkREMrOb+AMyiKAcyz8bSdCQ35eWX9OpO1vwQwiJg81tODKTwWyw3fGivS+7zy72Ylgz8NFczl96vs9Pwxbg3Yuv4D8qEh2Fikn7xEXLTz1wGMC3eaUaVZaFmbaknjKqjFmOLSjuwqjfNLaaceHz/I/5u5lDVZJjoAb+rG20/7brOw4UcDDOz3ezwHXmd+lXAvhK5eXbDUMcjG0mlEthze3CciPT53t0uU0+O8cV6nRiYOEdkRtIcx1DqTEP0+zhsYpzObhwaA5A3Fu6hIVUB5h++ES7xSXNtQyjLoWIB+ZY4D5fjooI42RB88yS4Z6qmqzvxdmGcZvoGcIOUSsrh8gvi9vKLqo5WwHGksSpmaAgT3OJWTfEzl/DBrgIjLWGy34BTve1IptSZyYk1UlDCAeiGF4B79KvicY9pSUwKl2dK+18BAvJf6mXZDxwHU4Iqg9LbiK3sqte7wRayVqA==;XbZ7ag4b2OcIHS47YR3szA=="
 ---
 

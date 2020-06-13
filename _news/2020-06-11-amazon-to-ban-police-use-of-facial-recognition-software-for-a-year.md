@@ -7,7 +7,7 @@ webUrl: "https://www.theguardian.com/technology/2020/jun/10/amazon-rekognition-s
 ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"

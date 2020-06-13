@@ -98,7 +98,7 @@
       "title": "How AI can help find a coronavirus vaccine",
       "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
       "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -563,7 +563,7 @@
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -841,6 +841,52 @@
       ]
     },
     {
+      "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
+      "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
+      "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F172155755%2F0x0.jpg",
+          "width": 1200,
+          "height": 904,
+          "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
+      "publishedDateTime": "2020-06-12T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
       "title": "War machines: DOD's ethical principles for battlefield AI",
       "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
@@ -973,53 +1019,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-george-floyd-microsoft-bars-facial-recognition-sales-to-police.md",
-      "title": "George Floyd: Microsoft bars facial recognition sales to police",
-      "excerpt": "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,",
-      "webUrl": "https://www.bbc.com/news/business-53015468",
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "George Floyd: Microsoft bars facial recognition sales to police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-53015468",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468",
-      "publishedDateTime": "2020-06-11T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

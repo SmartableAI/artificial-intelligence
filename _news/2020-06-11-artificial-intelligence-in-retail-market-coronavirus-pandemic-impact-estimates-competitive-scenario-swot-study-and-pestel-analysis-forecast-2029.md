@@ -53,6 +53,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "COVID-19 Impact and Recovery Analysis- Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 | Growing Adoption of Cloud Based Solutions to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15."
+    publishedDateTime: 2020-06-12T23:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200612005531/en/COVID-19-Impact-Recovery-Analysis--Artificial-Intelligence-as-a-Service-AIaaS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200612005531/en/798005/23/IRTNTR41175.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "A01wFFqb8hgHjOC2Iy+rTQV2fO7fQxZ4ZKjQ9Vhg93eeK5rPXw3oBgJUwpC/MatZ9ewaIAWYBGw+aoigYu9foKggWAuOeF+nyfpDh3exNDLmHzV3FL6pDoGUD1WimgeXPJD0rU0RbOrffZKgnyT/qStLpIgx7OW7hm5qtWkN79QicERU721U2Bn9g7J67tbdCmtqRuMQZ1HSRgYvBnFP7LhmjJv+hfRPWrYFTbq+vsDVXZmA2vOQk+LcbJegnZVvnFrX+oEIHj3yv0PnD63jWBNusdhI2cynXUAbkjzG7sdq/GAEb0SAQWRJfHCr5ZS6;WDbSEcjqKzKQmB3/hXHOEA=="
 ---

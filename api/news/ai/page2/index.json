@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america.md",
+      "title": "Artificial intelligence gathers pace in Latin America",
+      "excerpt": "A fast-developing ecosystem is emerging in the region despite the challenges, with projects at almost the same level of other parts of the world, according to new research.",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-gathers-pace-in-latin-america/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2017/08/22/ad3d2694-6c93-414f-87b4-a1b35c157f95/thumbnail/1200x675/e78d2ee1d2766823d8a809cbf4c7200b/governance.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence gathers pace in Latin America",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-gathers-pace-in-latin-america/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-gathers-pace-in-latin-america/",
+      "publishedDateTime": "2020-06-11T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
       "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
       "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
@@ -138,7 +184,7 @@
       "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
       "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ...",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11",
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -607,7 +653,7 @@
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
-      "heat": 361,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -701,7 +747,7 @@
       "title": "Amazon Suspends Police Use of Its Facial-Recognition Technology",
       "excerpt": "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias.",
       "webUrl": "https://www.wsj.com/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559",
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1243,52 +1289,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
-      "title": "Fleksy rolls out an SDK for its AI keyboard",
-      "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
-      "webUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/SDK-1200-630.png?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": "Fleksy rolls out an SDK for its AI keyboard",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
-      "publishedDateTime": "2020-06-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

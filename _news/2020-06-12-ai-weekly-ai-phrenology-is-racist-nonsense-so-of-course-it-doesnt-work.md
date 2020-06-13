@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work"
 
-secured: "LZUJVmZWg/bSzDT+BOu7tRZM/Gf8n1tR+MxemxWmqNcatHzV38im2HEeFRSEsxGgh1/S31p3W1re5cRpqivCjXl+Hzs2MirlxR36t86lhkj5ggaSA6MCMNLIQOxejG8ZVUSNrsyCrsGULeaRN6/4qmN8DTlJAD8GyM3UnXwzZ52vEqg8S3z5cZb+cQfJxyxQB8PfyenqM4dsaru0Pkwh7JtN2eCVnz4e0pznmyVl8Ny33bRRmlN8kUdsb3UU5qccydqJoHfUHPHZkrhvyWg8UyTj879+7mkgImMRR4Gsa+6x+vEo8ZsSBdXDtL5B11Cu90yydCCo/Y4EjbYezIFRvA==;XWBMQM+cUEMNY7UBz0TKmg=="
+secured: "GhgaD6xbCNaT0/SH8ETECU85wzGaQsDvpLu1BqyZJiZoL10AEF30571uSZwbrOzY7JrYtmZAhhZ0Bu3GPpnIREf2SVj027aGPCcHpgecpmtPsPMrLepgUOj4VueJzqxDBmyoQzNbnMfyLKQ9WoL5rVoVqbuIG885W+gyW6b4k/j371WZHgFvrIra+vD/i1wdpbYqneaDc/wfSNYQ30hNkfHTb9bvizVi7s8b3QJqYAMPYCgPx7DQXni7X86BtrByrg0RpV2fTqWNUHUC+W5ackzH1xXhRb16HqQIZZXIwPgVUBY//Yt8pnWRxf4hbx5b7MVjkzGP+YBrrlb6xNc81JjEIz9h++1Z1SacxPHZsESSc3j+XvxKPD6J8aqps8hUYx/GpdM3GWApX8fgfCx+TXixTh7eG52axfl12peWJZBdnhNXvDdPxaCWXGNeO2k3LjomMLtYM1I024seeaeWzwXCPnp4SYm8By5v5pXYq+D7Ir1koTYex+8U91+aCBSTe2WJli2Y4B4+A/emqWWNtw==;YJHTP8LUafpYupRWohsJmg=="
 ---
 

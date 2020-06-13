@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-Enabled Drones vs. Fighter Pilots: The US Air Force Wants A Showdown"
-    excerpt: "The showdown between trained fighter pilots manning jets and AI-enabled drones is expected to take place in July next year."
-    publishedDateTime: 2020-06-08T10:03:00Z
-    webUrl: "https://www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753"
-    ampWebUrl: "https://www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/14/us-army-drones-on-the-tarmac-at-the.jpg"
-        width: 1024
-        height: 693
-        isCached: true
 
 secured: "m3e/Ubpgq5vxuF1r3rbHX9ZcwuOaVZqDHJtOWj7PfArWIJX9lbYEnixLEpadHbRTW0xmDy4OwIdifi/m+GkMn46Xj50l6AvGLViHtCoYUJn4EYgE4HeI3b7IAYY8dGzqjtHHvblnQysvolIKU8MnbXhMfNpLBhHG6Z5k7EA3q2tK7u5RTHf8LT2SfluJ6rOKaNBzESqrEiZK4leB9z10u/1XLq3RXPIWo8x2R4kAF2OwTK2PHmCSPu6nW83RlA26V4CrQzv8nrsqcHcIEmEplERUznMrn1Z0C/ZTnDLEex7FxIHfqJXpBIVHeE2uknLPZqzYchGo+/vNfGpM+hLjAFjTj8BVukx483NvGKw47TB1bZ8jvoN1ga7o9Wb0KjFo+W0Q3gsoa7MLosKuzyXUTvPD9wEJ8ks/5b158XWGBWeInHcoI3+iw0fU9dA3TzlBu2wHCjGe6EDdXyk2P1y4aAgVzbusVgLzbKkkBMB2pl8=;bsuy7sI/08GJG/0q2UWX5A=="
 ---

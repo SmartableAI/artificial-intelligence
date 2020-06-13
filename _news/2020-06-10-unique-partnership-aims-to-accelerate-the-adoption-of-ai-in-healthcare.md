@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200610/Unique-partnership-ai
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/06/11/49257449/d1463233aec99cfc6a2a96df94e4.jpg&operation=CROP&offset=313x-369&resize=1553x874"
         width: 853
         height: 366
-        isCached: true
-  - title: "Meet STACI: your interactive guide to the rapid advances of AI in health care"
-    excerpt: "\"STACI\" will walk you through the key concepts and history of AI, explain the terminology, and break down its various uses in health care."
-    publishedDateTime: 2020-06-08T08:49:00Z
-    webUrl: "https://www.statnews.com/feature/artificial-intelligence/staci-interactive-guide-to-health-care-ai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 36
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/06/staci-logo-1024x465.png"
-        width: 1024
-        height: 465
         isCached: true
   - title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
     excerpt: "Siemens Healthineers and Geisinger have established a 10-year Value Partnership to advance and support elements of Geisinger’s strategic priorities re"

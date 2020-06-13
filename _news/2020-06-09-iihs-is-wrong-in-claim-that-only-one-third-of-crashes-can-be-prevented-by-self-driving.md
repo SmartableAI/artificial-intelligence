@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
         width: 1000
         height: 676
-        isCached: true
-  - title: "Self driving cars will only stop a third of US crashes"
-    excerpt: "Still some things robots can't predict Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
-    publishedDateTime: 2020-06-08T10:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50961-self-driving-cars-will-only-stop-a-third-of-us-crashes"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d880bbc40b61d16ca6388d823332a001_L.jpg"
-        width: 620
-        height: 463
         isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"

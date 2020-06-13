@@ -2,6 +2,99 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
+      "title": "Facial recognition used to reunite missing child with family after 32 years",
+      "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
+      "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-18T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-vanora-robots-launches-ai-powered-product-for-hospital-disinfection.md",
+      "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+      "excerpt": "Using UV light, the robot can disinfect a 140-sq.ft room in less than five minutes, says CEO Krishnan Nambiar Vanora Robots Pvt Ltd, a Mangaluru-based robotics and artificial intelligence (AI) start-up,",
+      "webUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/n4gasb/article31621127.ece/ALTERNATES/LANDSCAPE_615/Vanora1a",
+          "width": 615,
+          "height": 384,
+          "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "publishedDateTime": "2020-05-18T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-artificial-intelligence-in-retail-market-may-see-a-big-move-ibm-microsoft-nvidia-amazon-web-services.md",
       "title": "Artificial Intelligence in Retail Market May See a Big Move |IBM, Microsoft, Nvidia, Amazon Web Services",
       "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence in",
@@ -963,91 +1056,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
-      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
-      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
-      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
-      "publishedDateTime": "2020-05-18T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
-      "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "publishedDateTime": "2020-05-18T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

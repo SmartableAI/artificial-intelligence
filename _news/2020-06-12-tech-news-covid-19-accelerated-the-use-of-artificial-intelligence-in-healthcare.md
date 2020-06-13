@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Meet STACI: your interactive guide to the rapid advances of AI in health care"
-    excerpt: "\"STACI\" will walk you through the key concepts and history of AI, explain the terminology, and break down its various uses in health care."
-    publishedDateTime: 2020-06-08T08:49:00Z
-    webUrl: "https://www.statnews.com/feature/artificial-intelligence/staci-interactive-guide-to-health-care-ai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 36
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/06/staci-logo-1024x465.png"
-        width: 1024
-        height: 465
-        isCached: true
   - title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
     excerpt: "Siemens Healthineers and Geisinger have established a 10-year Value Partnership to advance and support elements of Geisinger’s strategic priorities re"
     publishedDateTime: 2020-06-08T12:23:00Z

@@ -75,15 +75,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
-    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
-    publishedDateTime: 2020-06-08T09:41:00Z
-    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 2
 
 secured: "N3fy32sM6lF9mIPbeETZGCS/vrghg9gR0qNiHQtHomO9JJqYMqmKC9QGQj+6l45k7HKTSiFtyZB/0sHwwKWInfs5GSA45L2Jt6FUqUnIpIiMBvC0GwQb/VO4FpiAnvg5hS6Jyzl+duw3ChP7Mt+3TR2gRBGmYK2CXVk37pbYBxbigerR+MYF/yYoHBrvak5Bv4iXwH4Fz/k+Vo119ARLi1DKktCKvjD/beXx6uy57Ls40tGNYFrOun+H6oCIDvKLGC/McOQef3+5chzVJQd/NpIq5VwxXaahN6l01wdns4NnuR7c5u53MiXGZRRXOuyytfS2r3WFRY8MSI/hbi7HV3giIQbFTvnqu1GhIY0tao3QMc+yU4QIC9XuYMsQEGl0hrmvThm9T4h/nWGCkY30t+r1zK5BYXwLGxkOIY10P6W2ZmZXMgpWWeKbdrESXjWYplyhOzV+W+3s0Z/Ujf+5DddYwyzlkRI8mzU3amHW4nA=;K/cmiID0exVqkkTaG6v3lw=="
 ---

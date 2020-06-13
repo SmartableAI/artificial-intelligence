@@ -2,6 +2,53 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
+      "title": "Facebook creates shopping data sets to make more humanlike chatbots",
+      "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
+      "webUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook creates shopping data sets to make more humanlike chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
+      "publishedDateTime": "2020-06-03T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
       "title": "California’s statehouse is considering a controversial facial recognition bill",
       "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
@@ -1302,44 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
-      "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
-      "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
-      "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
-      "publishedDateTime": "2020-06-02T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

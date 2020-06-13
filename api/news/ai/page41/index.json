@@ -2,6 +2,100 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
+      "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges---forecast-2023-2020-05-02",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-samsung-steps-up-its-driverless-car-challenge-to-google-uber-apple.md",
+      "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
+      "excerpt": "Samsung will be providing the sensors and artificial intelligence technologies for Hyundai cars. Samsung has been granted permission to test its driverless cars on the road in South Korea ...",
+      "webUrl": "https://www.cnbc.com/2017/05/02/samsung-driverless-car-test-approval.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486",
+          "width": 3000,
+          "height": 1888,
+          "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
+      "publishedDateTime": "2020-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-uw-team-imagines-a-better-parkinsons-test-lands-in-global-finals-for-microsoft-student-competition.md",
       "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
       "excerpt": "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes",
@@ -1259,100 +1353,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
-      "title": "How Well Can Algorithms Recognize Your Masked Face?",
-      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
-      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "How Well Can Algorithms Recognize Your Masked Face?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
-      "publishedDateTime": "2020-05-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
-      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
-      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
-      "publishedDateTime": "2020-05-01T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

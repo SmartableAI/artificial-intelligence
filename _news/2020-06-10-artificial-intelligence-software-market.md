@@ -18,6 +18,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "5 myths about voice marketing among marketers in Malaysia"
+    excerpt: "The study highlights five common myths about voice marketing and breaks it down for brands owners to better understand the ways it can be used for effective marketing. 1. “Voice marketing? Isn’t that marketing only to people who have Alexa/Google Home?"
+    publishedDateTime: 2020-06-10T02:48:00Z
+    webUrl: "https://www.marketing-interactive.com/5-myths-about-voice-marketing-among-marketers-in-malaysia"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 24
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/amazon-echo1.jpg"
+        width: 630
+        height: 358
+        isCached: true
+
 secured: "f6Y1SfkyKgi89VvI7ZalPJPWzbPxngkoB5jbR5NP/cXE7tKnEIwYH9BIAQ6/xNg+lezx5wFCgQaXK9741/e25KXna7ENGkra6Yu5jBC4lPcL+O+qjx9bfD+R7AgKg8IAS8O289+tNvjRt9nyoiaEYbvwGTsK3mCcLwLr9msqtq/acbODooPaOGn+9rLttS7ZPvnsbRe4mNFvbXkHtFbk/Vc/hJE8lKBvzWr5U6vOHSm0Ix+Rh6SYw8McnCzHk1/TW25giM1dNLNN6MHZ5trZNZuADwAuMRNzXdUIoXnc/boL/haFmfHDtzDCy3PLnTlKKU+BL1kCUYMK56yfkXT7x+SVKpst01O9Cfrrt+E/UheEPyEwOAgrB7nF74pLkmsFCCxhicapdsGlsw3oBBKTTFHfFp0ubmWMyQVTvVjGglvCjMsKOpBFyOYkvBMj8MiL3dmaLW8kUbyQ94uqTpJyeUL44fstmAlVi4M9jM7JTAT64NglJ3yzk7gWgTFsx0n8;cU6csue+XPjQ/dLfK4Js4A=="
 ---
 

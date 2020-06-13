@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "This S.F. startup delivers AI-driven nutritional meals to help treat IBS, diabetes and menopause"
 
-secured: "LVCi0LSr45yDSCEA54gRLJdD7VqN57HpVgrEBThXFk9qoaD+XK9VyeHhR97Gv+JUMFjSxXM7eyftTRoSCBxuANX1GESObl/VbiRPpHxYtG7G6PFZ1/6xM+VKtCUrvYkqtvJvp2n+g5zfxNPqTrc7enMjfvxwwbJ+p4uY+UPGZvOKYnF6ezFkt8zB4vx5VIEOMfJ7dlEM7xHKxfD//iF69BwTKQ1gVX5hJjB8MMo+Nj6Bsxl+4iqKpHyQockCnmL23nm+0Kn2jyKXWE+e9IaszbDr+58dUjpH7K3t0urKgE7ptaz5YPcbx3st5tdN01+lOzR+mIhMC7bPc5b/XbELIA==;ecVL2StCQa0CDOCkKsPMYQ=="
+secured: "GFQuK13D3QyIPDmHVcK7QIRr/st+yvBsVeK3QEAxPqiELT/sDzs7Tv4WSI0+MH0T1KQFmSf0CHEvIPK+hw2uHXYpV5HC0cVOvyUH7k60T9BGOslwzwqLIFJoR0UsJrs8xyB9+6YoSIuCTCw7zQI/9KLitBIr0JvpMA2VF8mAubhmesI/eCO41wcklUbm7HmLmPh/wrAt2eowJAQEGawWTZA4soDRZ7HukrCUOi8OgNuhnF7CYeoT3PMmPJgUBXDTHOvi731WqlsTLFJycR0Dpnn4tRAMareKD6tfpbSWSZ9Lsvvgoe8qdgP+egOReeDIZVT1h21KwlmBSYMbB7XMFhULe8B/Hl51RNJMm2kuSDCZjzFfUyTQ0dZjGrC9yvcnYfsI5M6Oe0fIQHTJfFNo5SEmc9Ywfa9SrD4QkWwIWJ5afrkBrwwDUaABo2CQOkncq4gnstI0wvC0zlhSEfo0pt7H6zO2iiUpdZqFH9BJxsM3atedABKmQnyvhTgUqm0yxHq/OgsHX1hYtInzC+1WVg==;1ac4DfZPc+G3kS935+VBdg=="
 ---
 

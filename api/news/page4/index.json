@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-will-no-longer-offer-facial-recognition-software-to-law-enforcement.md",
+      "title": "IBM will no longer offer facial recognition software to law enforcement",
+      "excerpt": "Artificial intelligence powerhouse IBM has had it with law enforcement's misuse of facial recognition technology. In a letter to Congress this week, IBM CEO Arvind Krishna outlined the different ways the tech company intends to address racial injustice and police abuse.",
+      "webUrl": "https://mashable.com/article/ibm-facial-recognition-law-enforcement-congress/",
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F09%252Fe9%252F178d2594fcc543c79108043508a3e1ef.8b543.jpg%252F1200x630.jpg?signature=QB0plclb5RFeA6NrNcEjHbW9nLg=",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM will no longer offer facial recognition software to law enforcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ibm-facial-recognition-law-enforcement-congress.amp",
+      "publishedDateTime": "2020-06-09T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24.md",
       "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
       "excerpt": "Amazon taps AI and machine learning to match packaging types with products, resulting in substantial cost savings and decreased product damages.",
@@ -52,7 +90,7 @@
       "title": "Study: Artificial brains need rest too",
       "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
       "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -99,7 +137,7 @@
       "title": "Daily Crunch: IBM is getting out of facial recognition",
       "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
       "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
-      "heat": 596,
+      "heat": 606,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1085,7 @@
       "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
       "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
       "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1087,53 +1125,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
-      "title": "Artificial intelligence chips benefit from a good night's sleep",
-      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "publishedDateTime": "2020-06-08T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

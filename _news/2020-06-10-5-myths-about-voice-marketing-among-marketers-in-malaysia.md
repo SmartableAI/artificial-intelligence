@@ -25,16 +25,16 @@ images:
     title: "5 myths about voice marketing among marketers in Malaysia"
 
 related:
-  - title: "Can we rely on AI to make marketing more human?"
-    excerpt: "Marketers must prioritize tech solutions that allow them to tap into the power of AI to provide specifically tailored content to prospective buyers."
-    publishedDateTime: 2020-06-08T09:03:00Z
-    webUrl: "https://www.clickz.com/can-we-rely-on-ai-to-make-marketing-more-human/261791/"
-    ampWebUrl: "https://www.clickz.com/can-we-rely-on-ai-to-make-marketing-more-human/261791/amp/"
-    cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/can-we-rely-on-ai-to-make-marketing-more-human/261791/amp/"
+  - title: "Artificial Intelligence Software Market"
+    excerpt: "A latest published study on Global \"Artificial Intelligence Software Market\" details on key factors such as drivers, opportunities, and trends expected to have a major impact on the industry during the forecast period 2020-2025. Global Artificial ..."
+    publishedDateTime: 2020-06-10T11:41:00Z
+    webUrl: "https://www.openpr.com/news/2071541/artificial-intelligence-software-market-worth-value-size"
+    ampWebUrl: "https://www.openpr.com/amp/2071541/artificial-intelligence-software-market-worth-value-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071541/artificial-intelligence-software-market-worth-value-size"
     type: article
     provider:
-      name: ClickZ
-      domain: clickz.com
+      name: openpr.com
+      domain: openpr.com
     quality: 37
 
 secured: "7RNXkI9/DYnRNgg3gxfdmZvxTqNzc8ESXv8bGy3YqTgOB6oFzZq7rJYMLZn7KrYnKCjMH6GTjfB36q231Jqbk4HfeAAz5WClumXIilkYrowqdHARgbd5f7Uz2svdaBjugVtytMqNqPHWPNgMEqfTusSrxU3ghqb37Gqdv8dVkmA1eAp7Quh7LYcGdyl40iPBswjgfltsGlnWMhXt3Epqw2+uvjvwjR/R6YM0QUJp44fRUppMe87oysBQgjjPBxGw/2c5UCpOwNFtF8Gu78lCVObMXvHT6lJLjfuCOkQQ8weOpntC9E3rDa4p8FW4AQAt;EkHnX2PVNUT30osYfGWocA=="

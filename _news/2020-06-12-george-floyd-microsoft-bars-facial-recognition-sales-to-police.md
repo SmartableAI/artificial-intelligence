@@ -2,22 +2,18 @@
 category: news
 title: "George Floyd: Microsoft bars facial recognition sales to police"
 excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-publishedDateTime: 2020-06-12T00:34:00Z
-webUrl: "https://www.bbc.com/news/business-53015468"
-ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+publishedDateTime: 2020-06-12T02:10:00Z
+webUrl: "https://www.bbc.co.uk/news/business-53015468"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
 type: article
-quality: 89
-heat: 199
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -111,6 +107,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Amazon bans police use of face recognition technology for a year"
+    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T13:14:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 61
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/PrimeRisk2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft reiterates it won't sell facial-recognition tech to police until federal regulation passed"
     excerpt: "Microsoft President Brad Smith is continuing to champion regulation of facial-recognition tech, saying Microsoft has not sold such technology, to date, to U.S. law enforcement."
     publishedDateTime: 2020-06-11T17:58:00Z
@@ -143,6 +155,47 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Why face-recognition technology has a bias problem"
+    excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
+    publishedDateTime: 2020-06-12T12:57:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-systems-racism-protests-police-bias/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House police reform bill includes face recognition provisions"
+    excerpt: "Tucked into the police reform bill introduced by the House today are provisions for using body cameras along with a cursory rebuff of facial recognition,"
+    publishedDateTime: 2020-06-09T03:34:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/house-police-reform-bill-includes-face-recognition-provisions/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 41
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/taserbodycam_827504.jpg"
+        width: 960
+        height: 1200
+        isCached: true
+  - title: "Amazon bans police use of its face recognition technology for a year"
+    excerpt: "Amazon on Wednesday banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
+    publishedDateTime: 2020-06-11T02:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/06/10/business/amazon-bans-police-use-its-face-recognition-technology-year/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 41
   - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
     excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
     publishedDateTime: 2020-06-10T23:05:00Z
@@ -170,15 +223,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Amazon bans police use of its face recognition tech for 1 year"
-    excerpt: "Amazon has announced to apply the brakes on its facial recognition technology for police for one year, in the wake of potential misuse of the technology by the cops as racial protests gain steam in the US after the death of Afrrican-American George Floyd."
-    publishedDateTime: 2020-06-11T11:33:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200611/3574247.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
   - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
     excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."
     publishedDateTime: 2020-06-11T13:48:00Z
@@ -194,6 +238,6 @@ related:
         height: 835
         isCached: true
 
-secured: "kjKD4F/2dP6I8KPYgPGwXXKr3SCeVS6cmu2Wv2q5g0e/X2vAGHuCAAiGI1OTahqOyBFFvg1pt8Muk3vyHiLXzyq4sKJAIQYXVvZQWcdOqV0qrVUAoj+vlSoqp2otG0a2AQNhGuHXTUNLC5EGnSucvUGdsCYTRXB+9QQy4vmBcM/jHoE4ofAb/CICXJ0ub7ZOvj0gHJFwoUeindzDLo5LzI4AQyPUlLFDbxPLR5QvOsChAb5BhK8v93FzQadKzdT+gy0yl2n2IZ3EToD5VJMJOAiDmyLRb/DCbe41kpjPSIHYrENIV334DndWnriAvN6+yPUl8+XBKJkrPMxBcGxjCLzMNX0S8wv1XHBfgAEuud8I8nlOlK2otDvItZuYIUYuEt89iI8eBkaM0mCj3UgxnG1L8zz374RJKQYkgmQ6LzsoBzx9RRvPcjyEanUwpolgMxV9W2wL3+4rpA6JEVmmTkLW+yC+MH3UADEOjMNa9aMjdWTN6GcwWN0mkUmj0lHCINp9KK1RGLQUhWUQUfkoig==;QC5uN5JBdHymTmxpWz3kcQ=="
+secured: "x78G0+QNRLStMoAaeZtmq7w1f5c3Ds1FWzbdd1AFhPxMLMk1p3LjYiAHrrdkU4iaLMqfBrHpqZKWzb3vNVG5B2VuUy0KHgfI5l6kQsGhFz9e4IB5VFuknaoMqTC0xfSNsuF4jsGH4jeqg826zOD8ckalYF0S8AOtYFV0u3EENaVZXZChHvkiVZW2JohKDFWqT6sdjDdF5C0aUwu3VL1HZqbQ9wa7yL+w0q24Fe4NRcYER/uj2oP30PLFWwMV8NKllFM/82AquKR8EbsLYGQby03ib8ENbEW+qpGu3PmzQN/b+IjiCRmPmUToTE3cRjRPtZRxH7mhWtHFkUaTHF+h7w==;Jqt8K5J5ndI7+Bt+oR+fmg=="
 ---
 

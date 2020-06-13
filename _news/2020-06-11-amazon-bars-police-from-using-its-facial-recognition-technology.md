@@ -397,6 +397,22 @@ related:
         width: 4897
         height: 3265
         isCached: true
+  - title: "Amazon to ban police use of facial recognition software for a year"
+    excerpt: "Company has stated its support for Black Lives Matter movement, but faced growing backlash over ties to policing"
+    publishedDateTime: 2020-06-11T00:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 61
+    images:
+      - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Amazon pauses police use of its facial recognition software for year"
     excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
     publishedDateTime: 2020-06-10T23:46:00Z
@@ -412,22 +428,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon to ban police use of facial recognition software for a year"
-    excerpt: "Company has stated its support for Black Lives Matter movement, but faced growing backlash over ties to policing"
-    publishedDateTime: 2020-06-11T00:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
-        width: 600
-        height: 360
         isCached: true
   - title: "PimEyes facial recognition website 'could be used by stalkers'"
     excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."

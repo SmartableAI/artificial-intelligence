@@ -4,6 +4,8 @@ title: "'Artificial chemist' combines AI, robotics to conduct autonomous R&D"
 excerpt: "Researchers from North Carolina State University and the University at Buffalo have developed a technology called \"Artificial Chemist,\" which incorporates artificial intelligence (AI) and an automated system for performing chemical reactions to accelerate R&D and manufacturing of commercially desirable materials."
 publishedDateTime: 2020-06-04T16:53:00Z
 webUrl: "https://phys.org/news/2020-06-artificial-chemist-combines-ai-robotics.html"
+ampWebUrl: "https://phys.org/news/2020-06-artificial-chemist-combines-ai-robotics.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-artificial-chemist-combines-ai-robotics.amp"
 type: article
 quality: 49
 heat: -1
@@ -16,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "AI, Robotics Combine to Conduct Autonomous R&D"

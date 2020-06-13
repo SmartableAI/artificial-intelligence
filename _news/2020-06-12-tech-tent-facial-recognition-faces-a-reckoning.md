@@ -2,18 +2,22 @@
 category: news
 title: "Tech Tent: Facial recognition faces a reckoning"
 excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-publishedDateTime: 2020-06-12T19:19:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-53024985"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
+publishedDateTime: 2020-06-12T15:36:00Z
+webUrl: "https://www.bbc.com/news/technology-53024985"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-53024985"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53024985"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -298,6 +302,22 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 932
+        isCached: true
+  - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
+    excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
+    publishedDateTime: 2020-06-13T01:29:00Z
+    webUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199768748%2F0x0.jpg"
+        width: 1200
+        height: 820
         isCached: true
   - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
     excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
@@ -762,6 +782,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "v+00/4YNvkU8XxbwPZp21EQAUuLgGgFfdTseWOmFZ1JGvqtgI/BOYzvaGi39xOp6k9Im35gcLtOM0aFQo74/uR2KleaeVMotyk/xAKhit6HZZf6Pp56agIuRCf47QqvXhu6rPh7ORBX1adiOFRxADX0g5Osco6Q21PYmCNpEra9wP13lGgVLpTqBwNCdGjfZj4Q426Faq7vUWiB9sJtI/BU/yFZPj7APpVIjgtAvx+h3S7LCW7XNJA/ZhVl8DrlAn8s6hs5Diuk45di8INbR8eAtmyvT1yKfVYb6pY2hoNQN9VG4QlFJAfh7wgIMqOdC0LGsfQqWGRbPSht/9ocH865/Za5e9xSsgDjcoi6rUPAj31uLkdZmQtdGSzLeS6zZgGPJ2XadimApFgGp/YTuFJn1CPqVVEZ09I3JhQof+7v+WfbYKF0q/Njagvc1c3OXf0qO5KE1pb7dkK/14DggawVzpI+5hqMXeMREhrY0Vpkt4iV5RT4WgXVXxLq/pmIvKaC8ntW8FhgkF11LoWRVag==;WahTFor4IT+EY/ZB63+AVA=="
+secured: "3suf9uAKppdTAd/B0MkY6Xg2V4muv/nzXMEVU3oOfrfP7X3vU20AlzyhsGAQaSb19FzgqadrzuJ6XYu5f2X3wZL3H7i8XDnht3jXS2YTHHkNbS1fvryLCNaAHFiAOBqK2AlKtTaFctvQM3GhEN3EMSYhcoNc/LAmWbUVkV590fJACR7j+WgebITw4+/PXxbe3pjTfp82tpttwqG5XbBVEDxIIdaPtSR8pDPAuCTWIFuJoyobkmncfSmo5NKGSHi/lK/M7sEofDZkp2ak84zmwGXid3A2fkbkVtxrGlt/S5jQw1Stc1mF6K7qflLax8AffTGdkXpDn82KhUBmRXf/gQ==;x10sco3LXEzzJOfEAGgt9g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provabl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Video: The race to get more self-driving cars on the road is moving slowly"
-    excerpt: "Getting self-driving cars on the road is taking longer than promised. But analysts expect them to mature quickly over the next decade."
-    publishedDateTime: 2020-06-08T09:41:00Z
-    webUrl: "https://www.arabianbusiness.com/video/447883-video-the-race-to-get-more-self-driving-cars-on-the-road-is-moving-slowly"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 2
 
 secured: "U9JsoEUXrDe++6+qM8eUCpJLoabnMDrE3/rNlzEUvrsVAiVuw4cGOHgyF46W+A0+11HGS5RerVqQTXgcOUk0buklSFDJBGORkmcPFUgQ1GihximnmshqVeJlF7Uv/RTPgapHdmrWj60yyF7kOw6Ds7N53fI/IRJjHs7+a9ocmjhgxILu9+koP7jz/rlpzPbInVFoF5rLPBYKReVgOMZwU1U0pIyaI4Ju399Y+fQxJe83woBnbaDN1Fecpk0ipGqtTcrt/qU6hbldSHUdubO7OLyUnwWGTxZiw7PQEQTaj9u6dJ3JkRZ+JOq4KoGAs00DxCRcAibAkwBNOHuPMsHQ/w2z45Mi81u4ZggCdhTuQnrtwlSaja8Ix/A6ieIZ8/h1nKpzWOCV4E6AWx2ZLzKBuPKsrBV1So7xe1DNW4+mNZ7q2fsyd2BOq/lj5KBwm+Kuotn+dQynvtE6wJgcqtq3WyxsO41lzgzMJfFB2gwWsPqTslg3n5IUFJAP5UOSQ9ID;OUcpFjOD1vYHNMbnV+pZjQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T16:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "COVID-19 Impact and Recovery Analysis- Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 | Growing Adoption of Cloud Based Solutions to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15."
+    publishedDateTime: 2020-06-12T23:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200612005531/en/COVID-19-Impact-Recovery-Analysis--Artificial-Intelligence-as-a-Service-AIaaS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200612005531/en/798005/23/IRTNTR41175.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "xEn8Y/uPde8kF9oHBn4vqby2blmQFuiFEn6RK1bEgPW9uHxafVyWk/NJTWZ4oGFoi1P13epT1Y5RqYQrMt6YWS5iYJrzPssqNQXDj1y26BRwOFnbFaD9WQuUguE05U8TCP5GNWyQTxJz0LFtU3owVeG6UNRaQxiImkzaKNNvQlj5k8EIj/w9rN4s94NVOGoqrrJnlzOY7hJRjt8HOvk0YIMFmgi0CdEwA0pQ+wrO4L7fmpNxeKe+SP7qdGUV6jDXfCpEYR8NE+Q4WwC3FjN2I59ewB3tdGGzbQPtl7KjZlXD+zoq2JGp+kJ/Gsujv+Y7;+l4FKb9QD+8tffdNHb6z/g=="
 ---

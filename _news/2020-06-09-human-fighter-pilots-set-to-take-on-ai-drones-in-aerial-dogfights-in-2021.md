@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
         width: 708
         height: 382
-        isCached: true
-  - title: "AI-Enabled Drones vs. Fighter Pilots: The US Air Force Wants A Showdown"
-    excerpt: "The showdown between trained fighter pilots manning jets and AI-enabled drones is expected to take place in July next year."
-    publishedDateTime: 2020-06-08T10:03:00Z
-    webUrl: "https://www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753"
-    ampWebUrl: "https://www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-enabled-drones-vs-fighter-pilots-us-air-force-wants-showdown-2989753?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/14/us-army-drones-on-the-tarmac-at-the.jpg"
-        width: 1024
-        height: 693
         isCached: true
 
 secured: "6TkRu3irfh42zR4mqMPbEKjBKfRd+e+/U9B/Q2KVyypldFjznoYZU7H6oGZGY9nSQhXwgHPo4ofKZiPBjohtxSn6sQK7hwdecapJShXgxf8NmyOKejIJU0R+EDd9BCQXwQ1O2P5JyyvrPP2V5KRfMk3O4p021+WVRB7tbSR5C/fgHkpOgdRrs6ZOk2BVWKac+1qjJ8pxDc08IQhxzAxDIRMvJ4EaGyd2t6IsfJCMhMDODzMrce7nKw7nikow9IiZ36s5k5Rm/qaQPwUSwlE/ILYgIwXhR25X2rG6KaC2MGeRaXCfZ+Bjtcd1Sh0OutVHt7tE4ubqKvy9BXjZHLOaOrfEPimcXSuUndG0+3E2MXlJYXpWpPE1bV/pj2HcH1gDDL/my1ygeAqqY5C60V9T7erN25MhLkTAqYWqc8dh4nk8ZUhuSvpc8bOU3UVrzZXNPktGkxKPYvwM7AYBluOpcigHQz/4TJd6KKhhLvQHojNe/Qu0N4RjI0Ufa33LnqYa;NzQ7YTMzOss22TcXj/wVxg=="

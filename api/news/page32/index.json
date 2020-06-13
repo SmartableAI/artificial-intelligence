@@ -2,6 +2,100 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-14-sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera.md",
+      "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+      "excerpt": "Sony has announced an image sensor with artificial intelligence processing, calling it an intelligent image system for smarter cameras. The processor will make for faster data transmission, better security and less power consumption,",
+      "webUrl": "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "publishedDateTime": "2020-05-14T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition.md",
+      "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
+      "excerpt": "NEW YORK, May 14, 2020 /PRNewswire/ -- Kensho, an S&P Global (NYSE: SPGI) company, introduced Scribe, an end-to-end speech recognition solution specifically optimized for the finance and business community.",
+      "webUrl": "https://www.marketwatch.com/press-release/kensho-collaborates-with-nvidia-to-advance-automatic-speech-recognition-2020-05-14",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Kensho Collaborates with NVIDIA to Advance Automatic Speech Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
       "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
       "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
@@ -1053,91 +1147,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ecs-achieves-aws-migration-competency.md",
-      "title": "ECS Achieves AWS Migration Competency",
-      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecs-achieves-aws-migration-competency-1029203000",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "publishedDateTime": "2020-05-14T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
-      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
-      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "publishedDateTime": "2020-05-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

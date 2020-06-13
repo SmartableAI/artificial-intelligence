@@ -2,6 +2,53 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
+      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "publishedDateTime": "2020-06-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
       "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
@@ -1069,44 +1116,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
-      "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-      "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
-      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "publishedDateTime": "2020-05-31T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

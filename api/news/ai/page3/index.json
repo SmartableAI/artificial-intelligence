@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
+      "title": "Fleksy rolls out an SDK for its AI keyboard",
+      "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
+      "webUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/SDK-1200-630.png?w=1024",
+          "width": 1024,
+          "height": 538,
+          "title": "Fleksy rolls out an SDK for its AI keyboard",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
+      "publishedDateTime": "2020-06-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
       "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
       "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
@@ -279,7 +325,7 @@
       "title": "Unique partnership aims to accelerate the adoption of AI in healthcare",
       "excerpt": "The Michener Institute of Education at UHN and Vector Institute are setting out to transform the skills and capabilities of front-line healthcare professionals in the application of artificial intelligence to health services.",
       "webUrl": "https://www.news-medical.net/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -450,7 +496,7 @@
       "title": "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving",
       "excerpt": "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/",
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "type": "article",
@@ -693,7 +739,7 @@
       "title": "Study: Artificial brains need rest too",
       "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
       "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -740,7 +786,7 @@
       "title": "Daily Crunch: IBM is getting out of facial recognition",
       "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
       "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
-      "heat": 596,
+      "heat": 606,
       "tags": null,
       "images": [
         {
@@ -1278,53 +1324,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-why-ibm-abandoned-facial-recognition-and-more-tech-news-you-need-to-know-today.md",
-      "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
-      "excerpt": "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!",
-      "webUrl": "https://www.androidauthority.com/tech-news-56-1127243/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2017/02/ibm-logo-840x470.jpg",
-          "width": 840,
-          "height": 470,
-          "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tech-news-56-1127243/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-56-1127243/amp/",
-      "publishedDateTime": "2020-06-09T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

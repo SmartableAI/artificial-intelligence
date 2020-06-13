@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
+      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
+      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
+          "width": 1116,
+          "height": 669,
+          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "publishedDateTime": "2020-05-21T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
+      "title": "Top safety official at Waymo self-driving unit stepping down",
+      "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
+      "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U",
+          "width": 817,
+          "height": 545,
+          "title": "Top safety official at Waymo self-driving unit stepping down",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "publishedDateTime": "2020-05-21T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-veterans-affairs-launches-first-chatbot-to-field-covid-19-questions.md",
       "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
       "excerpt": "VA contact centers have seen a significant increase in calls from veterans since the start of the COVID-19 pandemic. This surge in calls drove the rapid development of VA’s first chatbot,” officials wrote in a blog post.",
@@ -993,91 +1088,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-samsung-takes-another-step-in-us116-billion-plan-to-take-on-chip-maker-tsmc.md",
-      "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-      "excerpt": "South Korea’s largest company has started construction on a new fabrication plant that is dedicated to its made-to-order chip foundry business, an arena that Taiwan Semiconductor Manufacturing Co dominates.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/21/686ef5e6-9b42-11ea-96ff-7aff439fc3be_image_hires_172643.jpeg?itok=_vSkaSW2&v=1590053214",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "publishedDateTime": "2020-05-21T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-meeting-the-challenges-of-today-and-tomorrow-with-azure-ai.md",
-      "title": "Meeting the challenges of today and tomorrow with Azure AI",
-      "excerpt": "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere",
-      "webUrl": "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T02:00:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

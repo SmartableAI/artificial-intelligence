@@ -219,6 +219,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Tech Tent: Facial recognition faces a reckoning"
+    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
+    publishedDateTime: 2020-06-12T15:36:00Z
+    webUrl: "https://www.bbc.com/news/technology-53024985"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53024985"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53024985"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
     excerpt: "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability."
     publishedDateTime: 2020-06-09T01:15:00Z
@@ -298,6 +314,22 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 932
+        isCached: true
+  - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
+    excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
+    publishedDateTime: 2020-06-13T01:29:00Z
+    webUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199768748%2F0x0.jpg"
+        width: 1200
+        height: 820
         isCached: true
   - title: "IBM backs out from facial recognition business over concerns of racial and ethnic bias"
     excerpt: "IBM has announced that the company will no longer be selling facial recognition services and has called for a national dialogue on whether the systems should be employed by authorities at all."
@@ -510,22 +542,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Tech Tent: Facial recognition faces a reckoning"
-    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-    publishedDateTime: 2020-06-12T19:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-53024985"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."
