@@ -24,17 +24,6 @@ images:
     isCached: true
     title: "Microsoft boosts Azure with new edge video analytics and authentication features"
 
-related:
-  - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
-    excerpt: "InfiniteIO's new data management integration with Microsoft Azure dramatically reduces the cost of primary file storage and minimizes cloud latency."
-    publishedDateTime: 2020-06-08T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200608005388/en/InfiniteIO-Announces-Integration-Microsoft-Azure-Reduce-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-
 secured: "sg70yVDES4s/k1KVt/128AtzYK/VCkhpY1lkFt7FNNiEsM9/63pNUv4jvlncxrllIJDi4LCq4N47EoNYemossEbUS4aRcATCCxbjsYjNCT6JLTZ5hbb1jzRgA97AxQSz9lYUr8OD0mb3LI3KudQZKz+Nmi4vL3A7KxGpXtWdKUZXtz0GBQ/q+zqaCVBvvMYieB6sy8Qg0zT69KVOPXjhdvKg4bRAOaaKoDv4M+j2yxnprqRjvdjWipjxgNaqpWJVYZyyUI5NjNpNSZkyLUg8ldcBcIMR+FY6j9gVFX/o/78QS9meCVzk9wYnwuCTrhultdAm2CU6Mo08tXzBD1Tqbn+0AvVgnRl2u6rD4qPL6g4OonCjeDkSjsGYD4OfL8QIlZc2xOPsPKEQlKjPgYOBJVTj6WWW8XQg08VqvjZDLlyzdnTo9U8OHqKeGGJkrE8JaySZmeNaVskBBuPJwAzBDb7AbAke3pie9tagzL/19a2t2oxCfqPeJoL3eZJIVJKK;4phclZPO+mMPpLpTBOFg/A=="
 ---
 

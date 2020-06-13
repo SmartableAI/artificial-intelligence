@@ -2,27 +2,25 @@
 category: news
 title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
 excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
-publishedDateTime: 2020-06-12T07:26:00Z
-webUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/articleshow/76336325.cms"
-ampWebUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
+publishedDateTime: 2020-06-12T08:14:00Z
+webUrl: "https://www.sify.com/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud-news-education-ugmilGceefiag.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/76336325.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://www.sify.com/uploads/1_ugkmNIejfgfch.jpg"
+    width: 512
+    height: 341
     isCached: true
     title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
 
@@ -85,6 +83,6 @@ related:
       domain: arstechnica.com
     quality: 51
 
-secured: "hjznBl1jywRCrQz6QWUJaQeckwjE2xM8q/nR/Ec5EIvBy0WSoc/kQDU0YnWfNEqjpKETF8iRlsZVfcj372XcVeOVPIESDX7i9wF1HMMusahbnk/CocMX/dG9uP+Eox9p4aUobsEuc9HslXKL4eI5FqzApTj7+5DksaHJSxERmEplQcLb0xCtNMqchuDV/XCqoMkai9U82+EApZUFFXNFalq7+Xb0dnfdhoDJY4hepmM0BZ67D0k+Tm+Wa1y2Ig5MQaxEiMiazvzuIoLgeb57SkYVIT/azTUvGGZGtWB3MEQvhgeeID8sMn9Cp4IH/swYV7PQC2Q//lpowLL1PlCfDQ==;X64Cyq5lbBLnmt2vm+U50w=="
+secured: "Plbi+mirMgcPCXT0Sc6ZXFMtYb5+F+hJ8VCAEbc7UDTivvpg0m4TxBn/ZMAm9Z5cfDubOFaXRdMjpA9AUUhZsxHjsrVzo+1ZWzpRC+i+apadaRveIfprqfE5v4zW0QiCBjPKvxgzmCYfHI5W2lRRFfxH5D3baFehJR+Qk4qNaYknCmvUpZ/elSwgZzsm6o00Qw/b60EQphtE186UyLqNkbR9yQgnoIby+VOFuZ9Wal1EcU7qSiVZbPu7n10maEVeXifRN1G7qPR568SjosLOx02eeM+SydMTl0QOZo823wm028NutmdfVLdu613mYoB2qd2hkBqZkLp8LpbcFdBIlQ==;n+CPc9ia5y6QcMl2PxN4dQ=="
 ---
 

@@ -74,20 +74,6 @@ related:
         width: 744
         height: 389
         isCached: true
-  - title: "Artificial intelligence that mimics the brain needs sleep just like humans, study reveals"
-    excerpt: "Artificial intelligence designed to function like a human could require periods of rest similar to those needed by biological brains. Researchers at Los Alamos National Laboratory in the US discovered that neural networks experienced benefits that were \"the equivalent of a good night's rest\" when exposed to an artificial analogue of sleep."
-    publishedDateTime: 2020-06-08T13:24:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-human-sleep-ai-los-alamos-neural-network-a9554271.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 45
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/12/artificial-intelligence-sleep-ai.jpg"
-        width: 1884
-        height: 1412
-        isCached: true
   - title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
     excerpt: "States that resemble sleep-like cycles in simulated neural networks quell the instability that comes with uninterrupted self-learning in artificial analogs of brains. No one can say whether androids will dream of electric sheep,"
     publishedDateTime: 2020-06-10T05:06:00Z
@@ -103,20 +89,6 @@ related:
       - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
         width: 777
         height: 486
-        isCached: true
-  - title: "Artificial neural networks may benefit from ‘sleep’ breaks"
-    excerpt: "Scientists at Los Alamos National Laboratory have found that artificial neural networks (ANNs) which closely mimic biology may benefit from sleep-like cycles. These cycles appear to quell the instability associated with uninterrupted unsupervised learning."
-    publishedDateTime: 2020-06-08T12:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/06/some-artificial-neural-networks-may-benefit-from-sleep-breaks/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/8217/neurons-concept-art.jpg?crop=0,0.380364344319288,0,0.12589347795855932&cropmode=percentage&width=1200&height=450&rnd=131987777760000000"
-        width: 1200
-        height: 450
         isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."

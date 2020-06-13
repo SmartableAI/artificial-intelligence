@@ -2,11 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-13-microsoft-udacity-partner-to-launch-machine-learning-scholarship-program.md",
+      "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+      "excerpt": "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT",
+          "width": 615,
+          "height": 384,
+          "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "publishedDateTime": "2020-06-12T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -45,7 +84,7 @@
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -87,45 +126,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
-      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
-      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
-          "width": 1024,
-          "height": 538,
-          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

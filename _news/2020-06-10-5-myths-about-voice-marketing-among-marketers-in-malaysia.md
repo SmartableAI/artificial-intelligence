@@ -36,6 +36,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysis by Offering (Hardware"
+    publishedDateTime: 2020-06-09T13:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49874732-artificial-intelligence-in-healthcare-market-worth-dollar-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 13
 
 secured: "7RNXkI9/DYnRNgg3gxfdmZvxTqNzc8ESXv8bGy3YqTgOB6oFzZq7rJYMLZn7KrYnKCjMH6GTjfB36q231Jqbk4HfeAAz5WClumXIilkYrowqdHARgbd5f7Uz2svdaBjugVtytMqNqPHWPNgMEqfTusSrxU3ghqb37Gqdv8dVkmA1eAp7Quh7LYcGdyl40iPBswjgfltsGlnWMhXt3Epqw2+uvjvwjR/R6YM0QUJp44fRUppMe87oysBQgjjPBxGw/2c5UCpOwNFtF8Gu78lCVObMXvHT6lJLjfuCOkQQ8weOpntC9E3rDa4p8FW4AQAt;EkHnX2PVNUT30osYfGWocA=="
 ---

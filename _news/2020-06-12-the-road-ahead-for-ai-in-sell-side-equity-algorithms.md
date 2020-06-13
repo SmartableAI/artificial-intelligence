@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Sell-Side Equity Algorithms: Survival of the Fittest - ResearchAndMarkets.com"
-    excerpt: "Side Equity Algorithms: Survival of the Fittest\" report has been added to ResearchAndMarkets.com's offering. Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels."
-    publishedDateTime: 2020-06-08T13:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200608005375/en/AI-Sell-Side-Equity-Algorithms-Survival-Fittest--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
-    images:
-      - url: "https://mms.businesswire.com/media/20200608005375/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Applying AI in Sell-Side Equity Algorithms: Challenges, Government Concerns and Case Studies"
     excerpt: "Side Equity Algorithms: Survival of the Fittest\" report has been added to ResearchAndMarkets.com's offering. Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels."
     publishedDateTime: 2020-06-10T09:58:00Z

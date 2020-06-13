@@ -47,6 +47,15 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "The Hackett Group Names 2020 Digital Award Winners; Companies on the Cutting Edge of Analytics, Automation, Artificial Intelligence and Digital Transformation"
+    excerpt: "The Hackett Group Names 2020 Digital Award Winners; Cos on Cutting Edge of Analytics, Automation, Artificial Intelligence & Digital Transformation"
+    publishedDateTime: 2020-06-09T14:08:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005093/en/Hackett-Group-Names-2020-Digital-Award-Winners"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "6YPcV/2zRH5vprAEJSI++kPjerGCG1ueovyyKYeIv+0BRamlyC83nY5GCZ4NlD1nCIsa4/7Pr+tzqy3BwCsqoOh1pMRp7RYwwWPK/43tZqdtuY2brSePWijtgwnFnZ7CTB1InOV2ZOOueVCDernY0QF8fLdgtm0hzG2vFuV2WfHeWGH8LE4I1mwDB8ZGUaOpvDVetDNpm8lEcaA9PEdJL5SOq4sGxdQU+5dZhWFdsvotofDX6zKw5TLo+ILn1WM6Az6tVB2xWoUFotY+46DZqq7PW6pJ7hE+8qpVp39HDqUhFZCZrVU6VYTTPMFR3z7uD80oQysvwCRjxe+BCyJFm2IFTtkQn7e1ikFzVZwi4HUUyThO2S+dFP2Qi4azEgTtzbFTOVFn9jTE0gK5Z1UDv9I1s6m8trg/a3G71opUD92RZR7eoj+KZwgHYDy2mBy/lbpF2av9DfwDKrwtNw64Jbm3L07OOaoT8adV3hJY5VTY+cfLHwiZEfZlCgai+IHx;dI7YPA9EeqA4XdQqOyMgkQ=="
 ---

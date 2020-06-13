@@ -2,6 +2,52 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-05-14-facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone.md",
+      "title": "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone",
+      "excerpt": "Elon Musk is a prominent figure in the AI community, but a lot of experts don’t see eye to eye with him. Today, Facebook‘s AI head, Jerome Persati, said that Elon Musk has “has no idea what he is talking about when he talks about AI.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/",
+      "publishedDateTime": "2020-05-14T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-data-security-startup-dathena-snags-12m-in-series-a.md",
       "title": "Data security startup Dathena snags $12M in Series A",
       "excerpt": "Singapore-based data security startup Dathena rakes in $12 million in its Series A round, which will be tapped to boost its R&D work and expansion plans in the US market, where it has a sales partnership with Microsoft.",
@@ -1030,52 +1076,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
-      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "publishedDateTime": "2020-05-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

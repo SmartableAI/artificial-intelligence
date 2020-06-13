@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T13:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size | AI Industry Report, 2020-2025 | Covid-19 Impact Analysis | Anticipating a CAGR of 35.21% | BMRC"
-    excerpt: "The latest research report on Artificial Intelligence Market delivers a comprehensive study on current market trends. The outcome also includes revenue forecasts, statistics, market valuations which illustrate its growth trends and competitive landscape as well as the key players in the business."
-    publishedDateTime: 2020-06-08T12:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-ai-industry-report-2020-2025-covid-19-impact-analysis-anticipating-a-cagr-of-3521-bmrc-2020-06-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -141,17 +127,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Global Healthcare Information Technology Market to 2021 - The Rising Prevalence of COVID-19 is Helping to Drive the Market"
-    excerpt: "Dublin, June 08, 2020 (GLOBE NEWSWIRE) -- The \"COVID-19 Impact on the Healthcare Information Technology Market by Product (Telehealth, Cloud Computing, Artificial Intelligence, Analytics, RCM, PACS, VNA, EHR, IoT, ePrescription and PM), End-User and Region - Global Forecast to 2021\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-06-08T11:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16199822/global-healthcare-information-technology-market-to-2021-the-rising-prevalence-of-covid-19-is-helpi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16199822"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16199822"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
   - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
     excerpt: "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysis by Offering (Hardware"
     publishedDateTime: 2020-06-09T13:33:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://cointelegraph.com/news/microsoft-azure-machine-learning-clus
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp"
 type: article
 quality: 91
-heat: 131
+heat: 132
 published: true
 
 provider:
@@ -62,19 +62,17 @@ related:
         isCached: true
   - title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
     excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
-    publishedDateTime: 2020-06-12T07:26:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/articleshow/76336325.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
+    publishedDateTime: 2020-06-12T08:14:00Z
+    webUrl: "https://www.sify.com/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud-news-education-ugmilGceefiag.html"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 74
+      name: Sify.com
+      domain: sify.com
+    quality: 54
     images:
-      - url: "https://www.businessinsider.in/thumb/76336325.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://www.sify.com/uploads/1_ugkmNIejfgfch.jpg"
+        width: 512
+        height: 341
         isCached: true
   - title: "Machine-learning clusters in Azure hijacked to mine cryptocurrency"
     excerpt: "Attackers recently hijacked powerful machine-learning clusters inside Microsoft’s Azure cloud-computing service so that they could mine cryptocurrency at the expense of the customers who rented them,"

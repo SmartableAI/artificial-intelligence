@@ -2,6 +2,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-13-microsoft-udacity-partner-to-launch-machine-learning-scholarship-program.md",
+      "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+      "excerpt": "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT",
+          "width": 615,
+          "height": 384,
+          "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "publishedDateTime": "2020-06-12T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
       "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
       "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
@@ -653,6 +692,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-12-artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025-by-product-type-formulation-and-region.md",
+      "title": "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region",
+      "excerpt": "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025--by-product-type-formulation-and-region-2020-06-12",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
@@ -938,7 +1024,7 @@
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -977,7 +1063,7 @@
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1193,45 +1279,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
-      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
-      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
-          "width": 1024,
-          "height": 538,
-          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-microsoft-bans-police-face-recognition-sales-as-big-tech-reacts-to-protests.md",
       "title": "Microsoft bans police face recognition sales as Big Tech reacts to protests",
       "excerpt": "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology.",
@@ -1306,52 +1353,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models.md",
-      "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
-      "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
-      "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
-      "publishedDateTime": "2020-06-11T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

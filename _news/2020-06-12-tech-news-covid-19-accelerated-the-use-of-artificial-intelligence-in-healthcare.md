@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Siemens Healthineers and Geisinger Announce Value Partnership to Drive Digital Healthcare"
-    excerpt: "Siemens Healthineers and Geisinger have established a 10-year Value Partnership to advance and support elements of Geisinger’s strategic priorities re"
-    publishedDateTime: 2020-06-08T12:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200608005147/en/Siemens-Healthineers-Geisinger-Announce-Partnership-Drive-Digital"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-    images:
-      - url: "https://mms.businesswire.com/media/20200608005147/en/692000/23/sh_logo_rgb.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "ZlFdwSWv//BZcwdMoHuo2FBTPmMlk3Ki3KGMf793QkFu65CT0qlPD90xjChmtyuXTI5T3kiHqx5DyC7dHV/+RyIfWaJd3RYLFMlvnOLy3wSaAbPN7FIb9bD/HJpuTk07pQ3VnzEiG+rVQ4dLOUwiSj1ReM2u6ht3JqBipyiIgCE6zNqpXmTpY91C4Sd1eY57Ert7CpP/vyRXT2w6dWX5qsHddHsThcL7ptxXs+UJmGDp2Nh73eLdu6AS13ZMYclqCrtwfF6jdMtNHnkqUifE4GjEjGTstMRhY63FTgq04tj5lB5CgGplaCXu2puY8/x+K4T2RlPXQisPQyKFRRLTHAYl2zlA/WlHiStOfSfFJviGC/I2GOCCD29Aj9RTVK++sRbxEqayu7vZu5nxf9T1h37Wu6DMSQywCcth6fs8bx83GdZStzgrtqe0GAc3ZR/OB3PvhLpg1OxzPppKg3mA27+ESRrwBJViT3gj21lQI9WBBBh4RfDY7y4HthoxqTB02Ovc8DSpWz5zC0Zi1xh+Kg==;2tz4edIedMqZRTxVYnOljA=="
 ---

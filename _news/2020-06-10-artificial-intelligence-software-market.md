@@ -33,6 +33,15 @@ related:
         width: 630
         height: 358
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysis by Offering (Hardware"
+    publishedDateTime: 2020-06-09T13:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49874732-artificial-intelligence-in-healthcare-market-worth-dollar-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 13
 
 secured: "f6Y1SfkyKgi89VvI7ZalPJPWzbPxngkoB5jbR5NP/cXE7tKnEIwYH9BIAQ6/xNg+lezx5wFCgQaXK9741/e25KXna7ENGkra6Yu5jBC4lPcL+O+qjx9bfD+R7AgKg8IAS8O289+tNvjRt9nyoiaEYbvwGTsK3mCcLwLr9msqtq/acbODooPaOGn+9rLttS7ZPvnsbRe4mNFvbXkHtFbk/Vc/hJE8lKBvzWr5U6vOHSm0Ix+Rh6SYw8McnCzHk1/TW25giM1dNLNN6MHZ5trZNZuADwAuMRNzXdUIoXnc/boL/haFmfHDtzDCy3PLnTlKKU+BL1kCUYMK56yfkXT7x+SVKpst01O9Cfrrt+E/UheEPyEwOAgrB7nF74pLkmsFCCxhicapdsGlsw3oBBKTTFHfFp0ubmWMyQVTvVjGglvCjMsKOpBFyOYkvBMj8MiL3dmaLW8kUbyQ94uqTpJyeUL44fstmAlVi4M9jM7JTAT64NglJ3yzk7gWgTFsx0n8;cU6csue+XPjQ/dLfK4Js4A=="
 ---

@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
+      "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
+      "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
+      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee0e993e5438300070044fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
+      "publishedDateTime": "2020-06-10T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
       "title": "Fleksy rolls out an SDK for its AI keyboard",
       "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
@@ -325,7 +371,7 @@
       "title": "Unique partnership aims to accelerate the adoption of AI in healthcare",
       "excerpt": "The Michener Institute of Education at UHN and Vector Institute are setting out to transform the skills and capabilities of front-line healthcare professionals in the application of artificial intelligence to health services.",
       "webUrl": "https://www.news-medical.net/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -739,7 +785,7 @@
       "title": "Study: Artificial brains need rest too",
       "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
       "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1275,55 +1321,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

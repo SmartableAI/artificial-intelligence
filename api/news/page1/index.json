@@ -2,6 +2,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-13-microsoft-udacity-partner-to-launch-machine-learning-scholarship-program.md",
+      "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+      "excerpt": "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT",
+          "width": 615,
+          "height": 384,
+          "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "publishedDateTime": "2020-06-12T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
       "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
       "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
@@ -653,6 +692,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-12-artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025-by-product-type-formulation-and-region.md",
+      "title": "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region",
+      "excerpt": "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-industry-analysis-and-forecast-2020-2025--by-product-type-formulation-and-region-2020-06-12",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Supply Chain Market : Industry Analysis and Forecast 2020-2025) -By Product Type, Formulation, and Region",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
@@ -938,7 +1024,7 @@
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -977,7 +1063,7 @@
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1049,100 +1135,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
-          "width": 800,
-          "height": 536,
-          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T16:11:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
-      "title": "New benchmark measures gender bias in speech translation systems",
-      "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
-      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "New benchmark measures gender bias in speech translation systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
-      "publishedDateTime": "2020-06-11T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

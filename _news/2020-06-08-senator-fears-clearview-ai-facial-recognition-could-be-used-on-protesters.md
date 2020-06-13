@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/"
 type: article
 quality: 105
-heat: 515
+heat: 505
 published: true
 
 provider:
@@ -344,22 +344,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/09/742e847c-ad53-4e81-a404-0e46b9c52af6/thumbnail/1200x675/b4649c139d2b6879892f35f3f102f43f/domino-layers.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Markey Presses Clearview AI on Facial Recognition"
-    excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
-    publishedDateTime: 2020-06-08T14:17:00Z
-    webUrl: "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 76
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Amazon Won’t Let Police Use Its Facial Recognition Technology For One Year"
     excerpt: "The moratorium comes as civil rights activists have criticized Amazon in the wake of the George Floyd protests."

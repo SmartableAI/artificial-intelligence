@@ -103,20 +103,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial neural networks may benefit from ‘sleep’ breaks"
-    excerpt: "Scientists at Los Alamos National Laboratory have found that artificial neural networks (ANNs) which closely mimic biology may benefit from sleep-like cycles. These cycles appear to quell the instability associated with uninterrupted unsupervised learning."
-    publishedDateTime: 2020-06-08T12:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/06/some-artificial-neural-networks-may-benefit-from-sleep-breaks/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/8217/neurons-concept-art.jpg?crop=0,0.380364344319288,0,0.12589347795855932&cropmode=percentage&width=1200&height=450&rnd=131987777760000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "LANL: Artificial Brains May Need Sleep, Too"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” LANL computer scientist Yijing Watkins said. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-09T00:27:00Z

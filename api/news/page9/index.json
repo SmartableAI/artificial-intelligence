@@ -2,6 +2,54 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-03-regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks.md",
+      "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
+      "excerpt": "Businesses must figure out how to deploy AI in a way that does not harm consumers, violate consumers' privacy or otherwise run afoul of laws.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F06%2Fa-41.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/amp/",
+      "publishedDateTime": "2020-06-03T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government.md",
       "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
       "excerpt": "UK public sector bodies including the NHS will be offered discounted rates for Google Cloud services under a new government agreement.",
@@ -1085,53 +1133,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global.md",
-      "title": "Locus Robotics raises $40 million to take its warehouse robots global",
-      "excerpt": "Locus Robotics, a developer and provider of autonomous mobile warehouse robots, has raised $40 million in venture capital.",
-      "webUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/",
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Locus Robotics raises $40 million to take its warehouse robots global",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
-      "publishedDateTime": "2020-06-02T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

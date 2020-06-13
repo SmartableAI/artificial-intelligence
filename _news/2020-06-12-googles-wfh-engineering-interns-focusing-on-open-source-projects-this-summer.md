@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Google’s WFH engineering interns focusing on open source projects this summer"
 
+related:
+  - title: "Google to help summer interns with open source tech at home"
+    excerpt: "Thanks to the open source technology, thousands of young people will join Google from their homes in 43 countries for the summer internship as in-person classes and graduation ceremonies have been cancelled."
+    publishedDateTime: 2020-06-13T05:13:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/google-to-help-summer-interns-with-open-source-tech-at-home.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 24
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-to-help-summer-interns-with-open-source-tech-at-home-2020-06-13.jpg"
+        width: 1000
+        height: 800
+        isCached: true
+
 secured: "wd3dGuaYD8gMFF5sOj1wTxiYMKmLr9RSS4I1sgNreiTPhT8HZyid3YAxXBiTIFsXrkvv/TXiqB2cb5WXmCCYjsiwGy5l/8axRTSGzNrYhDafkBKpXk0nBRwqan20a5rpV8odX8VxFTgZ+/+WlERSno5h8nPug0fDZalGTrFjH4ofc12vHSYEsn1RIRBy8kZrL8Jex2aEHtohthT1D0XgrPlWrGpJTV0IXCNrGYEeKw2CeTNt8f2uj0kqEJBlYAZ/Q2R0ki92CQjP3o/6oSAVNTZmmpZmrEJ2DLRWCXqf57FTZrfWV+ND5TFa51c4y1vA3kYwm6yVOyu0nPibcyWyVtOMA2iEsSyloKHiTQeHeDzyb8andDqaEYxbM3n1UMukAI7mrYKDQA8eIagM01VOpmcux3+fbctd134koLl/0VOSMXlDSclVdS7YK3add7jrqflqiNHr76o8IeUb+VrS++YQM1zAyR36pfAEVNrwVU/2PLz95oOab2VfaHJWvZQEwdPn2LBYvw5/+Lsr5tAzVA==;dWCWb04za3etbgSAlYV5hg=="
 ---
 

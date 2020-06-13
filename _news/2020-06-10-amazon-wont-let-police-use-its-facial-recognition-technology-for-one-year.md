@@ -353,22 +353,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Markey Presses Clearview AI on Facial Recognition"
-    excerpt: "Markey has been an outspoken voice for transparency and consumer protections when it comes to the use of facial recognition. \"As demonstrators across the country exercise their First Amendment rights by protesting racial injustice,"
-    publishedDateTime: 2020-06-08T14:17:00Z
-    webUrl: "https://www.multichannel.com/news/markey-presses-clearview-ai-on-facial-recognition"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-presses-clearview-ai-on-facial-recognition"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 76
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Amazon bans use of its facial recognition technology by police for one year"
     excerpt: "Amazon will ban usage of its facial recognition technology by police for one year. The decision comes after calls for tech companies to respond to the death of George Floyd while he was in police custody in Minneapolis."
     publishedDateTime: 2020-06-11T19:15:00Z

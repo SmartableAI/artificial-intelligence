@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
+      "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
+      "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
+          "width": 800,
+          "height": 536,
+          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T16:11:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
+      "title": "New benchmark measures gender bias in speech translation systems",
+      "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
+      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "New benchmark measures gender bias in speech translation systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
+      "publishedDateTime": "2020-06-11T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -46,45 +140,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
-      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
-      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
-          "width": 1024,
-          "height": 538,
-          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -926,7 +981,7 @@
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
       "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1049,35 +1104,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
-      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
-      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
-      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "publishedDateTime": "2020-06-10T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

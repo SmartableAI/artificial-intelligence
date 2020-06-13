@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16219273"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16219273"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Sell-Side Equity Algorithms: Survival of the Fittest - ResearchAndMarkets.com"
-    excerpt: "Side Equity Algorithms: Survival of the Fittest\" report has been added to ResearchAndMarkets.com's offering. Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels."
-    publishedDateTime: 2020-06-08T13:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200608005375/en/AI-Sell-Side-Equity-Algorithms-Survival-Fittest--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
-    images:
-      - url: "https://mms.businesswire.com/media/20200608005375/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "The Road Ahead for AI in Sell-Side Equity Algorithms"
     excerpt: "Sell-side institutions are in a survival of the fittest race for the top spot in clients' algo wheels. After interviewing 50 AI algorithm experts from the buy-side, sell-side, and fintech vendors - as well as producing AI algo ecosystem case studies on U.S., European, and Asian banks - researchers gained depth and breadth of insight leading to ..."
     publishedDateTime: 2020-06-12T21:00:00Z

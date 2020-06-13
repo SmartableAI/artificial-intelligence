@@ -2,16 +2,16 @@
 category: news
 title: "Microsoft won't sell face recognition software to police"
 excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-publishedDateTime: 2020-06-12T21:17:00Z
-webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+publishedDateTime: 2020-06-12T13:29:00Z
+webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
@@ -237,6 +237,6 @@ related:
         height: 400
         isCached: true
 
-secured: "BdNwgSvfwYdoig1vtO+pRvWxFbOa3P6s4RyInFq34BHhPZqwsu2CCyk1XIZP/aoaNdewkbL1m3tb/MYgCsFploQErPH6lqbPIv0hlpjdMeUwhKuYDrLoJ1RK8fAu1drrbbvUWSxj+BBIWVHW7zqZXieP4EPAAgO44ZiW7//T8+Qg24swgRoNf5P0Iz7y1enD/sInN/+VP++FUMk9lGM9zHprSnjI77YIUOaZ1MXij3qDI2g7pIFPFTFRYiZ1LgMPi0Y9hYx9g/VlfAemiSJEcgFXl8K7mT8HJMDkwQCpHqrwcw9LT6bWrxYeto1JC9taoqfXieIE2YKfnlob1mqeQ3xmKHdZjPf4Ju5+9BM9V1YqGGXg6peYHPmzRTwxE/ewqq4SbpWZ8Pd6SCShxC2Cosndov6m9kyfIYXa+jW0nRHtuXdCVJ/5dCsgUQTgnkBb30AtydyfiT04DzCQuM18nDZ/MKXkH3QCQByp7aBdFhBHchIri5whZLkE+F1KSuMYGSkkcvqZs838ll6iUSYwrQ==;RmZF6Q6CGp1ch4eayS4bxQ=="
+secured: "qfSjE2V5G7X+cbgzI0rcX4dHkyEY7qc3H5ouXVYuBKKtQcU0ncSBBVGOcWzshdyUhKz9QpsP1fLR8AAWyNNXJyqBXsNFrKnfKZNRC0KSiNASOolxHbrkJt3Cy94ti+MxDFjKrnk8iiyj7vBSJfeep5qsKd0dtyEJNu4h3hPhBxtGW5rueh1+5xX4mrY24HkvEpxGYBxKrJ9MTl6sdArOp+pRfzdY9RZU4iIQQhyCX8sINtZk7jz2zO799/v7RSUn94g4tOu1pkN8ao83IH5+MH/7VTGOiEAD4NyifbHscqSZVOBgLkB+LfpgxFwcTrMFbR32TAHUc7uK5FQtNUWLPHB4ZJCwHfncd7briQD+VFwVHBaHD78jTeAq/Z07UO73+e8xAjWJsrvka0nk/uyXiwmDw5SiF9yXy81K7Swug//G4tM4KHKlfuEnshkf8KGf/cR0A0n7EplytzHmSkc7dSTOK+cDItF6uQxJSPJ0W/oIOMa7R6HDUJTp4GW3zsyWGWld33LWY5AobGSz20LPYQ==;c2gKenimWBor1VVpznMtXw=="
 ---
 

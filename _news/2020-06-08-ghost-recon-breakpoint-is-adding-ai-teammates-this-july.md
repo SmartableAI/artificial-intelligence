@@ -8,7 +8,7 @@ ampWebUrl: "https://www.shacknews.com/article/118489/ghost-recon-breakpoint-is-a
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/118489/ghost-recon-breakpoint-is-adding-ai-teammates-this-july?amphtml=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     height: 422
     isCached: true
     title: "Ghost Recon Breakpoint is adding AI teammates this July"
-
-related:
-  - title: "Ghost Recon Breakpoint’s AI teammates update put back to “mid-July”"
-    excerpt: "Ghost Recon Breakpoint, Ubisoft Paris’ 2019 tactical shooter, was due to get an update at some point this month – June 2020 – that would introduce AI teammates into the game. However, the dev’s now announced the highly anticipated feature won’t be on the way until next month,"
-    publishedDateTime: 2020-06-08T11:24:00Z
-    webUrl: "https://www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-update"
-    ampWebUrl: "https://www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-update?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-update?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
 
 secured: "tYMIOZRPcmqfy3bd3/EVfRe/+vNwT0E2RqPWByn7vSgTdSZ/kNeY9yRiKCGkrHaI8EXo/lcBeIIh4kU3k0mmZEyrXyKMC0/8NjTswn9IN8ty4PxnskOzmRcKesqwM7H3ky2aIugmJSO2c49+Bd1n/4NscLi6+3MjcfhmXrfL4tjcyBZ+M/uMBy00RAx+eI+g8jbdr3PLq7Ms68fHzN4NnExtkOCuaASruUKWDwcAncsMtZa9O1Wo1S4P3MjljpwXK+qnjph2KPpMbqa1tDqA/haGji8nBwNXtsAa1+myuXY4oSNWL88ihjDdhmap8O8k8HbD7vGIzkDT53/yM7n9uhjteSo9XKBV8AmKOPdxd1EdAPromylEKXk2UKiDiaPAopV9QN7WFZbYp4+0jbmCzH+QASRy2JCwUhbhmDgrGwYzisNv/xLAsFxX9dUHlw/Y3NC52fVzmTqnnhR68VAMaSEAYNK2tzIr50GLGaAWsPc=;ijva+mZzSXbItbqKrhT0FA=="
 ---

@@ -25,19 +25,19 @@ images:
     title: "COVID-19 Pandemic Spurs Strong Demand for Cloud AI in Warehousing, Healthcare and Conversational AI"
 
 related:
-  - title: "Assessing the COVID-19 Impact: Data Annotation Tools Surge with Development of Healthcare Prediction Programs During the Pandemic"
-    excerpt: "Businesses participating in the global data annotation tool market are increasingly focusing on setting up cloud-based pages for specialized resources associated with the coronavirus outbreak, to track,"
-    publishedDateTime: 2020-06-08T14:00:00Z
-    webUrl: "https://apnews.com/df31c7e279823521d1b748ede8b2491f"
+  - title: "Open robotic platform launches for education, healthcare and COVID-19 prevention"
+    excerpt: "Mistry Robotics to create an open-platform robot based on the Misty II robot with built-in applications for education, eldercare and COVID-19 transmission prevention. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
+    publishedDateTime: 2020-06-12T00:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15257/open-robotic-platform-launches-for-education-healthcare-and-covid-19-prevention"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://electronics360.globalspec.com/images/assets/257/15257/misty-robotics-photo.jpg"
+        width: 752
+        height: 561
         isCached: true
 
 secured: "cIkZzYeTrtvnwd7z7atAEnX77Vy+1O4281St0Q6cEbZyFi2N+0jT5TkFntF20pRiq2yhx5QqhWzQbapVp8Oe4UQd217fa3wqavksi7Z95L17GNVyN3gUeNDS7vherbODrdKhbLZb3g8egMCqAedBat0bIn1M1OFZbZmc+8fXfr3J1G9kxLbjdBNPevnsf4foVbER96/sZ4Hbzjs5NRrZpPnYqrXa8oMQ/EVdmo0WHLiptDMGbTyYSqmJTJ7k6r2T9LtfBvJ/mjAXidI9gakg4wh/5ysgY2osYRDxD6SfXBlbO3fH6txmmo4nB87W8+s1tf1M2ryYRHWbTX8U/AwGxM+sYRErIhN0QShz2WV9Q5VDeBWCpjQbME4TyL0uYkcxYyot4gbK1wEsnglM17c1/ym//cOIejIuXCTlavC1tb8tRPYmesZdPk0ZFm5sJukHjErxtonCjTHJCvE1R/W7oPumgSbqgybkO6mMWt+SfGoQCNeTPMGtKyj3Z9+0Baro;Ndb7WaPnVnjQBsF0Y3YsXg=="

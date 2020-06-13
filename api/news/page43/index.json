@@ -2,6 +2,35 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-06-10-tech-stocks-to-buy-for-the-next-10-years.md",
+      "title": "10 Tech Stocks to Buy for the Next 10 Years",
+      "excerpt": "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,",
+      "webUrl": "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
       "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
       "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
@@ -1089,52 +1118,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-this-smart-ai-powered-stock-photo-library-helps-you-find-the-perfect-image.md",
-      "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
-      "excerpt": "Sure, JumpStory™ gives entrepreneurs and marketers access to high-quality imagery, but it also makes it easy to find the right images for whatever project you're tackling Their",
-      "webUrl": "https://www.entrepreneur.com/article/350185",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505043454-Ent-Jumpstory.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350185",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350185",
-      "publishedDateTime": "2020-05-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

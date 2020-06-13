@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models.md",
+      "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
+      "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
+      "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
+      "publishedDateTime": "2020-06-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america.md",
       "title": "Artificial intelligence gathers pace in Latin America",
       "excerpt": "A fast-developing ecosystem is emerging in the region despite the challenges, with projects at almost the same level of other parts of the world, according to new research.",
@@ -701,7 +747,7 @@
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
       "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -861,7 +907,7 @@
       "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
       "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
       "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1087,7 @@
       "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
       "excerpt": "In fact, AI can improve decision-making for healthcare CIOs in three areas, according to Erick Brethenoux, research vice president at Gartner Inc. They are: Anticipation: “Predictive techniques and knowledge graphs can help with predictions and analysis.",
       "webUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/",
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1219,7 +1265,7 @@
       "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
       "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
       "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1258,52 +1304,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
-      "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
-      "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee0e993e5438300070044fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
-      "publishedDateTime": "2020-06-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

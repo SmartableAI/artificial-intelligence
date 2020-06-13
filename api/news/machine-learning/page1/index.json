@@ -2,6 +2,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-13-microsoft-udacity-partner-to-launch-machine-learning-scholarship-program.md",
+      "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+      "excerpt": "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT",
+          "width": 615,
+          "height": 384,
+          "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/",
+      "publishedDateTime": "2020-06-12T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
       "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
       "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
@@ -53,7 +92,7 @@
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -92,7 +131,7 @@
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -134,45 +173,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-udacity-microsoft-announce-machine-learning-scholarship-program.md",
-      "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-      "excerpt": "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure.",
-      "webUrl": "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png",
-          "width": 1024,
-          "height": 538,
-          "title": "Udacity, Microsoft announce Machine Learning Scholarship Program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -360,7 +360,7 @@
       "title": "Study: Artificial brains need rest too",
       "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
       "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -759,14 +759,14 @@
       "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
       "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
       "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
-          "width": 400,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
           "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
           "attribution": null,
           "isCached": true
@@ -775,11 +775,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "publishedDateTime": "2020-06-04T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -922,7 +922,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

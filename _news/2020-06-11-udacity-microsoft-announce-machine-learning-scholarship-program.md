@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-11T18:52:00Z
 webUrl: "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: microsoftcaregh.com
@@ -26,6 +26,22 @@ images:
     title: "Udacity, Microsoft announce Machine Learning Scholarship Program"
 
 related:
+  - title: "Microsoft & Udacity partner to launch Machine Learning Scholarship program"
+    excerpt: "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch"
+    publishedDateTime: 2020-06-13T06:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 74
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Udacity & Microsoft partner to Launch Machine Learning Scholarship Program"
     excerpt: "One of the world’s leading lifelong learning platforms Udacity has collaborated with Microsoft to confer scholarships for its all new Machine Learning Nanodegree program in Microsoft"
     publishedDateTime: 2020-06-12T18:47:00Z
