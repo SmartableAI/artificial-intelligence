@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Google Meet noise cancellation is rolling out now — here’s how it works"
-    excerpt: "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works."
-    publishedDateTime: 2020-06-08T17:09:00Z
-    webUrl: "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/"
-    ampWebUrl: "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/"
+  - title: "Google Meet gets AI, machine learning-based noise cancellation feature for video calls"
+    excerpt: "Google Meet's new feature is still work-in-progress but users will get it by the end of June. Read on to know how to enable the feature"
+    publishedDateTime: 2020-06-10T05:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/05/google_meet-696x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
 
 secured: "rBqohMTw3xnGaYZ/nZ13xxO5fPsGPjr6cVvwdTBG8XUQV5PE4yN2z5XSQ9+eIorLErO0z7PhyrAfulqO2SCok2DhLjpfI4O6yWBW+wJmjJDZ82BhbHuBqxlXXV8NHVJJqW1jV5Prsxn0kyjFKvaCdBfD7tE492NHeS63ZkJeDE7CRoH4DMEyPw90pDVHoUocoTulw613dMHUBLgHb751Wvv5CFg8gUWqQpZPQ/TzDLVZMQ4d18zM22CEKeBTC9LqKqldHfBQCPMoQC3qrzJCPG4+RdZ0BpR73eBAfGSglpQ9XcZGwVEDz2RrYLwZvhCLaj9GQnO9OZvcwzvQuuwpplQToLNSXZoQG0HGmgg8ebbeGzMD+TC4izvD44/wZdK+zO5MPswyM1tGLEuVCNI98qyoGfaGJjeLMjUkIsXj49ifF/X8CGP15GjZ/VtQ2vZ1lPS3okElWHP0XkBTg8GJhonqgPkbcDuIaX6UD4vmoRizOo+hyFT2E9M9aNNv2AQz;m1hV9W+GBV1I+cCgIrtEEA=="

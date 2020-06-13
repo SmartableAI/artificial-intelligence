@@ -28,22 +28,6 @@ images:
     title: "Facebook’s TransCoder Uses AI To Convert Code From One Programming Language To Another"
 
 related:
-  - title: "Facebook’s TransCoder AI converts code from one programming language into another"
-    excerpt: "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy."
-    publishedDateTime: 2020-06-08T18:11:00Z
-    webUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/"
-    ampWebUrl: "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook’s AI Can Now Translate Code Into Other Programming Languages Automatically"
     excerpt: "Facebook’s AI research team has developed a system dubbed the neural transcompiler. The system uses more than 2.8 million open-source"
     publishedDateTime: 2020-06-10T13:04:00Z

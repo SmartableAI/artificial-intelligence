@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Google to help summer interns with open source tech at home"
-excerpt: "Thanks to the open source technology, thousands of young people will join Google from their homes in 43 countries for the summer internship as in-person classes and graduation ceremonies have been cancelled."
-publishedDateTime: 2020-06-13T05:13:00Z
-webUrl: "https://www.dailypioneer.com/2020/technology/google-to-help-summer-interns-with-open-source-tech-at-home.html"
+excerpt: "Over the last two decades, Google has released thousands of open source projects and nearly 2,600 are still active. In addition to contributing to Google-created projects like TensorFlow, Kubernetes, Istio, Chromium, Apache Beam, and OSS-Fuzz, the interns will tackle projects to support Covid-19 response efforts, including integrating Covid-19 ..."
+publishedDateTime: 2020-06-13T10:04:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200613/3575387.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-to-help-summer-interns-with-open-source-tech-at-home-2020-06-13.jpg"
-    width: 1000
-    height: 800
-    isCached: true
-    title: "Google to help summer interns with open source tech at home"
 
 related:
   - title: "Google’s WFH engineering interns focusing on open source projects this summer"
@@ -42,6 +35,6 @@ related:
         height: 500
         isCached: true
 
-secured: "due8THtf2RYVmwP+PvqKAg7NAqfafuK5Sg0PdBtmfSFCESa7EISFAE22tOChUvGA3a5pXEEzinRXp0xpZdu7AH7BJoxYIFxzJWk+jpoGJmPPucdbfBUxslhvIplss5u0BSoppFm9gV5+5LKDmmJXaZHr0/Kpbfgium8JFzV/82hzjMKNtHpQmf0qLdKAhO+uypFgbBWyKOGcpSxas85LQ9VR6Gj0kkky7SonQMltXoQ6WTt2lfJgHqeGxmAE9HERuc3zO8qxMUaKI7D8aDf1Nd8NEhKVQykkZjMoivmD2Nt6F3IQ7SwsZhn2HYAkvkmgnNYWC5zugrSjHakhJFclijHQEabRnDx+oxoYwqN9QXPZsdimnDDsquo+DsGEcPbtqTES1slfnQEydXleS3vTrEGxZZar5fvWCbaykmpbzjo6QtcBZC1wo72CnR5WVju71PEQhc/cxsEmdM4S0vaz16DMBEisENnaA17HBHZlVakGdtiwQwQc/ehvCxTcKSPwJAITJoQBatTiR1Hiwu+S8Q==;IG03JzAV8mhOUSyuiKS0gg=="
+secured: "Ctpfw6Ir2pnbblV65udUqejAOUprxwLNcK+oWHhlYL+hVz3u1ThrWzoUDCxOm9rc4v9XznWTWeeovihbk7BBC3C/Mw7HN24GebJKQMuv0sBxE6/qs0bQASvctZlB8mOjJHPg++cg2N76XJa1UeijXLgymvbzfCSHoK186l9jxNkkc0hkAcCuM7FUe2vCnvGPpSfawkVVFpg3i0nLB6eDJjgCANVx1A2+J3lNMTvhvSDST2m2eODeZYGMEwUEBeAE0SeIDwjQnXnTzXCrPJBm00icRalzV7v0JANWcNhoZ1ELFj+x/vfWBljCil4V3QkLm0CGw8h4CSl3KL2i4gUpew==;g8UriGaQetCZKXdnPn+pUA=="
 ---
 
