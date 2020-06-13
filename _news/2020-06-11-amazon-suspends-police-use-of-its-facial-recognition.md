@@ -219,22 +219,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Tech Tent: Facial recognition faces a reckoning"
-    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-    publishedDateTime: 2020-06-12T15:36:00Z
-    webUrl: "https://www.bbc.com/news/technology-53024985"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53024985"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53024985"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IBM ends all facial recognition work as CEO calls out bias and inequality"
     excerpt: "IBM CEO Arvind Krishna announced today that the company would no longer sell facial recognition services, calling for a “national dialogue” on whether it should be used at all. He also voiced support for a new bill aiming to reduce police violence and increase accountability."
     publishedDateTime: 2020-06-09T01:15:00Z
@@ -558,6 +542,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_a5ca1949759a4f3abfa16a5d94f716cc_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Tech Tent: Facial recognition faces a reckoning"
+    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
+    publishedDateTime: 2020-06-12T19:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-53024985"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "IBM gets out of facial recognition business, oppose use for mass surveillance"
     excerpt: "New Chief Executive Officer Arvind Krishna said in a letter to the members of the United States Congress on Monday."

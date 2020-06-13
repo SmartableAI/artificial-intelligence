@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "An autonomous-vehicle expert reveals the 5 companies best positioned to survive the wave of consolidation headed for the self-driving car industry"
 
-secured: "z0QWQjOYdMAjtrGXaaEmEcGttON+o0mfHrum+1B9grUpv/ufteGeDs28xIdXlBJ60y3scxXc5cFTHYDxfEVHCIQu/qC0suA3ZTh2Qnm9jlti1vmoWuu6g1vihD0A+11bI/gjAIeKoMVGtDK10Sht1pQ2HSxzUvf26QAMKPAWqSQxOy8d9uJ2L/HXmh8bVLecn3wTs2auR9S2mmiykTu8d3WT/ViS9OjgmO/SAzfTIP98UTGVhvFaTPnirXbcliJ0fC4LYP9wklCDEhFsr2doZDUXzKWfjw6YWP+YwuWiaLKCBsvuoqUv30p95VswVJSWEURqU2VA4MX4gU8fxEtoEA==;w/znw2tKzHm2YHzmtJGDwQ=="
+secured: "bY9c+IJfpv8KcsCRkzSl5Xr4haMzMPO6/itIM7x+ytgjlzuthDyYM0vpFriHgx2FAgZMNZoNZkOebNDUDV8B+zp/romAdVjDBUCnqjW5cZcqwvy6YQUG8AZUhlQGgvUBJKnSBf/79hhgDpi3EWHKbLSmFSXjgJ5pQCfi4KBp34V0Ix/w5mKEqyXdjUb0aKaZT5zz+/agqaxzguQbHALYNPU7QzHs2A9vPVlsh9azUc2+qKrF1k9M5LBjwu+6DmVJ5us5NOZb3OfX+5KXwfyAOBfgb/dghZVclGizFQoMi/sqo4aT/BfKA65mn+WXRJvjhlI+kJBum/EVgxg0KEffhpy8mAd+hhprcCo2H2tE+HqwfTc/1iDQuOFgrGQU/e7MLDiavjfXvXqkRuFOES0fCfl2mnR1W0V+ZH8Y99mLdJ5u9tKd6Fp8PQYm5/5pG+pKRQS9pFe9HJ6n9dmSdnN83vlYch25aHjrVzYuraceoii6kX89OUORyRStiLfYCHsROpsmCyI3NZBtvN5ed0x1nQ==;rOD1Q+y18J3TmHvSmHflEQ=="
 ---
 

@@ -1,35 +1,34 @@
 ---
 category: news
-title: "Amazon bans police from using its facial recognition technology for the next year"
-excerpt: "Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday. The news comes just two days after IBM said it would no longer offer,"
-publishedDateTime: 2020-06-10T21:42:00Z
-webUrl: "https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
+excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
+publishedDateTime: 2020-06-13T14:41:00Z
+webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
 type: article
-quality: 86
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
-    width: 1400
-    height: 933
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
-    title: "Amazon bans police from using its facial recognition technology for the next year"
+    title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
 
 related:
   - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
@@ -185,21 +184,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
-    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
-    publishedDateTime: 2020-06-13T14:41:00Z
-    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+  - title: "Amazon bans police from using its facial recognition technology for the next year"
+    excerpt: "Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday. The news comes just two days after IBM said it would no longer offer,"
+    publishedDateTime: 2020-06-10T21:42:00Z
+    webUrl: "https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
+      name: The Verge
+      domain: theverge.com
+    quality: 86
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
     excerpt: "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias."
@@ -326,6 +325,6 @@ related:
         height: 787
         isCached: true
 
-secured: "i6KKNJn9TsM6oFik4iht8GqPCf8DE84iXykVoAD7cEmZiIDfE/7e/XkvD94kkfc3T9Mz3qYQ7pfeZCx/SmdTnLCJ8JxsbPOsuGooVBcewP4cGBdUYc8A8SE1Lk4n6jJ8KZshIt8vvllc87xoNukmxtENXK+b0olDVp1/mlhIR6Vw5m8EsQrM3i4TC+tOM0sYfaAjqRC22+8ndh2HSFIZAbi474mmhSw+rAybDbaI53/uG3ifbqcbhN3M6RAmmMrTfF1GOiBtnmmKFDxbA3VhJlYKJctQQAqVAKxALqt8WrNakAv0qqeW8XTLIS9GhA3dapA2+q6Q+wUuKZrQQSwTcx6pRKS43DD0ahCxdDJHGFXlE0/JCMhx7e8rumW0BBgwOPxfCCy8gFAm0zPUAMheIbYnEfWk8ouW2mjVrFVu1k6xQeH8Da5ubfVFEGHG4Yb5p7c7jJVXcISa5l4qztDtLW5zzmGg+vrh+spma91s6tlP1MPmRlAdeJ5R0rN/fIC3;F7fe5VUCLRUt6z/z3ZCQdw=="
+secured: "Of5XB9IAIMhIv/ViaY4EpG8AO8P5CvULHlDFsncvmpXh3LGkFh8tv4zyzgfgL0o3OG5BU3dw1vhdoOT7LApubJHl6mv7KHZ4Pc+eJgV6fTnxoMhM7MgjOImuxz4gwHXzZF+75Zl4Saod1blnu35V79cma7i3+DfDbAUMP+0lf3y3nOWVYMEj4oXLTfdT8cZ8BFwIlJaNe0nBD1rQbXjVOyz2UQfposaRq5JNBmILOB+rXYShBlp7XBaiCExvAfev+eq9/ZYQzyoH/rnDcJWGU9dF3xS2oAaQ/0g9LGMwwqsmEPltQYmP4Hd6NnLa8hBjXsUobP34XF+HIjavwnZl5w==;jYBuJWNJw3tKkQC1gns94Q=="
 ---
 

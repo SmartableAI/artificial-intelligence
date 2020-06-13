@@ -2,22 +2,18 @@
 category: news
 title: "Tech Tent: Facial recognition faces a reckoning"
 excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-publishedDateTime: 2020-06-12T15:36:00Z
-webUrl: "https://www.bbc.com/news/technology-53024985"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-53024985"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53024985"
+publishedDateTime: 2020-06-12T19:19:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-53024985"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -782,6 +778,6 @@ related:
         height: 1672
         isCached: true
 
-secured: "n/JdsPAWVYWAMM3JUizHEMG4p0zQgLH7HjzvEF6aoAidmQOgHWoWArrF3vFi7M3AOsqVuvcJpf6alck2yj3x9/ZPtTCcDTF8f3Jd+WdYgvOOx2l7UobJD4eZIUWjBn+Q1lIGWlHp/uNVlawvB1zj4mY8+onxUu2E2L7nG2bfoZRlPz8lP25NZA21By0FwSWnP39jOYPWuFTnQX9LBD1DgMVG0+/m7tDvGiFPCSj8ooxGbN3c0n3czjvVDO8RyYvUf9Tw5ceWB5seQ+syLSqnWTGVF8RjyHrDwlTqoUIwo73LOaZnhFzNugRfkIVBcUcYZPz/wFosGTf8G3IZnZ2Cu/IawfLhpjJk5JmCZoukNPpRkVX6fK+xuQYgW83MVRD/XgaLqO2EB2XNfe1MDKrJ1cIcK12C+9TckQWNUDsNQ9h+7R94owPfD2+N9eSEyJS0LxURI7we+mmOpOnIqLLocny8s+HtAJ063XnJfu5qjP4k1ADFo8dpnFVNvipeNYRnLM1F4zNB9RY8F7xXImpY/A==;Gcro4jEFsRjy1//yMTA8QQ=="
+secured: "ZSONf8Fpps2bueb22IK9cDo/62VQzBo7Yyu/LjrAeLWZF0cF/0kUsfK81DJWnbjeTHbB/awkNo08W3vGESfN7dz4/Z2lHj2wziwmvuUd2Bad+uizBRbNgwWtXSdUK+LCb/WnqUYXnX51alcCozVxByTFBHQQWi0En5eAqLsZxH1KMKcMoj+eiwhjryvpM1L0rQnTfWAqbN3S37b5+8tbXXIo1P6NWUeKXLFnKYlU7bWjg42wzU52o6TP1YZqHSmj5OSTL/+AfpAHWKW97r7g8yrVDNRo29W6/LKqj6BI4qEIYveCOuYp2z/dgt531sbpFOJ/qyccc+O3v3PfnY00Ow==;alIib2WoYc5IeJLfO4h01Q=="
 ---
 

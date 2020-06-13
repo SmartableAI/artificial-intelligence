@@ -8,8 +8,8 @@ ampWebUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recogni
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: PC Magazine
@@ -31,163 +31,65 @@ images:
     title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
 
 related:
-  - title: "IBM stops work on facial recognition over human rights concerns"
-    excerpt: "IBM is exiting its facial recognition business over concerns of possible human rights violations and racial biases."
-    publishedDateTime: 2020-06-09T01:08:00Z
-    webUrl: "https://www.engadget.com/ibm-exits-facial-recognition-business-012915316.html"
-    ampWebUrl: "https://www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-exits-facial-recognition-business-012915316.html"
+  - title: "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance"
+    excerpt: "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform."
+    publishedDateTime: 2020-06-09T02:22:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 57
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Microsoft declines to sell facial recognition tech to police"
-    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
-    publishedDateTime: 2020-06-11T17:56:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition/microsoft-declines-to-sell-facial-recognition-tech-to-police-idUSKBN23I2T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521939835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "IBM will no longer offer, develop, or research facial recognition technology"
-    excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
-    publishedDateTime: 2020-06-09T00:55:00Z
-    webUrl: "https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Microsoft Urged To Follow Amazon And IBM: Stop Selling Facial Recognition To Cops After George Floyd’s Death"
-    excerpt: "Microsoft and Amazon Ring should stop working with police, say the ACLU and EFF. They’re hopeful of action after tech companies paused the sale of facial recognition technology to law enforcement following protests after the death of black American George Floyd."
-    publishedDateTime: 2020-06-11T09:05:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1082103ad73448b5b77cca6f5ea25caf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Amazon just announced that it's going to suspend police use of its controversial facial recognition technology for one year"
-    excerpt: "Police departments across the country use Amazon Web Services' Rekognition, and studies have shown that it's biased against Black people."
-    publishedDateTime: 2020-06-10T22:17:00Z
-    webUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/583c6db9ba6eb66d268b6326?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft says it won't sell facial recognition software to police until there's a national law 'grounded in human rights'"
-    excerpt: "Brad Smith, Microsoft's president, said on Thursday the company will not sell its facial recognition software for police use."
-    publishedDateTime: 2020-06-11T17:50:00Z
-    webUrl: "https://www.cnbc.com/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106403418-1582310757005gettyimages-1181949870.jpeg?v=1582310827"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "The two-year fight to stop Amazon from selling face recognition to the police"
-    excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"
-    publishedDateTime: 2020-06-12T16:05:00Z
-    webUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/"
-    ampWebUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/comp-rekog4_web.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Controversial startup to continue supplying police with facial-recognition tech"
-    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
-    publishedDateTime: 2020-06-11T23:41:00Z
-    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 50
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339"
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM quits facial-recognition market over police racial-profiling concerns"
-    excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"
-    publishedDateTime: 2020-06-09T12:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
+  - title: "IBM ditches facial recognition tech citing racial justice reform"
+    excerpt: "The IBM Model 5150 is legend to a lot of us old folks, tottering around smash talking iPads-as-computers and telling grand stories about floppy disks. The point is that when it comes to computing, IBM is a household name."
+    publishedDateTime: 2020-06-09T12:12:00Z
+    webUrl: "https://knowtechie.com/?p=121777"
+    ampWebUrl: "https://knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 44
     images:
-      - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
-        width: 600
-        height: 360
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2018/11/security-cameras.jpg"
+        width: 1528
+        height: 900
         isCached: true
-  - title: "Advocacy groups call Amazon's 1-year ban on police use of facial recognition tech a 'public relations stunt'"
-    excerpt: "Advocacy groups slammed Amazon's announcement that they are implementing a one-year moratorium on police use of its facial recognition software as a \"stunt.\""
-    publishedDateTime: 2020-06-11T16:09:00Z
-    webUrl: "https://abcnews.go.com/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/advocacy-groups-call-amazons-year-ban-police-facial/story?id=71193937"
+  - title: "IBM is canceling its facial recognition programs"
+    excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
+    publishedDateTime: 2020-06-09T21:17:00Z
+    webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
     type: article
     provider:
-      name: ABC
-      domain: go.com
-    quality: 40
+      name: KITV
+      domain: kitv.com
+    quality: 24
     images:
-      - url: "https://s.abcnews.com/images/Business/facial-recognition-nc-jc-200611_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
+        width: 500
+        height: 326
+        isCached: true
+  - title: "IBM quits facial recognition and urges debate on its use by law enforcement"
+    excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
+    publishedDateTime: 2020-06-09T13:06:00Z
+    webUrl: "https://cnnphilippines.com/business/2020/6/9/IBM-facial-recognition-.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 22
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/6/9/Arvind-Krishna_CNNPH.jpg/jcr:content/Arvind-Krishna_CNNPH.jpg"
+        width: 750
+        height: 450
         isCached: true
 
 secured: "h95OQ/wD2pjwhDsaSB5iYCon7wYO03mwnZLlPGsKBxXZCsO6pBDZ2soxB0epcXxmqlf/Dk3QMmXAxFp+5PUh8hYrWzFPoISTPIgXJYPfvFfCURYDPcOiiSoBtCwlgW3kCGOXjT8c2SRXMfraB4ehtigzh13gTGbw+4a50z2qHw3wHvmqWlHBJfG16zZs/qfo66jxaY/Xq8OBIyaLkgc9nSyBFTMzOr6O1bDO8RsjJSuuOXYxALDVGh9zjEX85wnYtEArwOfStVq7Hf76iMLqqpK2/TqQr9b60yW99s1W60IlPcZKSecKHb0+lft1nHr7kw91H0ln+R7icMet9kDOmC86hkwygiLWNzzbx4s3c34QyxA1hWG6fzKP+wxu4aulyYjdDntWnlH8d7XKPJ7l3cqS4PcZucAx6w7LJbQz/04I1/ReZG3q+1rL0Ms4LegKS2Z3lJ9odlR2YFJ4s2u05irawyBmVZSmN3JhWUVOQPh03jogn0PJSAKzz5qEHwBd;qZA/f/1CpmNON+PKSKotHQ=="
