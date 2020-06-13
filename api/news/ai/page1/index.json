@@ -2,6 +2,183 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
+      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
+      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
+      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
+          "width": 715,
+          "height": 402,
+          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
+      "publishedDateTime": "2020-06-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
+      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-13T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
+      "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
+      "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
+      "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 1512,
+          "height": 1676,
+          "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "publishedDateTime": "2020-06-13T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
+      "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+      "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
+      "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
+          "width": 1024,
+          "height": 693,
+          "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "publishedDateTime": "2020-06-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-microsoft-udacity-partner-to-launch-machine-learning-scholarship-program.md",
       "title": "Microsoft & Udacity partner to launch Machine Learning Scholarship program",
       "excerpt": "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch",
@@ -268,6 +445,53 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
+      "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
+      "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
+      "webUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20200612005070/en/797739/4/Jim_Malone.jpg?strip=all&ssl=1",
+          "width": 381,
+          "height": 480,
+          "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
+      "publishedDateTime": "2020-06-12T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1135,240 +1359,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
-          "width": 800,
-          "height": 536,
-          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T16:11:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
-      "title": "New benchmark measures gender bias in speech translation systems",
-      "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
-      "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "New benchmark measures gender bias in speech translation systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/amp/",
-      "publishedDateTime": "2020-06-11T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-microsoft-wont-sell-facial-recognition-to-american-cops-after-protests.md",
-      "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-      "excerpt": "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg",
-          "width": 1199,
-          "height": 784,
-          "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "publishedDateTime": "2020-06-11T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
-      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "publishedDateTime": "2020-06-11T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
-      "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
-      "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
-      "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/31/2ebbe39e-29ee-4859-987b-31cd1903a44c/resize/1200x/4358b8908cefdfb51dcd8d07d99a1bb0/istock-1040873246-security.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "publishedDateTime": "2020-06-11T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

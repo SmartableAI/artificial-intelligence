@@ -2,6 +2,242 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models.md",
+      "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+      "excerpt": "Facebook AI researchers claim they created the first object detection model with the Transformer neural network architecture typically used for NLP.",
+      "webUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/DETR.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "publishedDateTime": "2020-05-28T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
+      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
+      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "publishedDateTime": "2020-05-28T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
+      "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+      "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecfd6dd75134600060969b1%2F0x0.jpg",
+          "width": 940,
+          "height": 788,
+          "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "publishedDateTime": "2020-05-28T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
+      "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+      "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "publishedDateTime": "2020-05-28T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
+      "title": "US joins G7 AI alliance to counter China’s influence",
+      "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "US joins G7 AI alliance to counter China’s influence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "publishedDateTime": "2020-05-28T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
       "title": "Responding to the European Commission’s AI white paper",
       "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
@@ -861,186 +1097,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
-      "title": "Apple buys an AI startup to improve Siri's data",
-      "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
-      "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F7ac2f8f0-a074-11ea-bb7f-56e2f6f772d9&client=amp-blogside-v2&signature=69523b6c4d75dbaae8e727bede25174d1162dcf2",
-          "width": 600,
-          "height": 350,
-          "title": "Apple buys an AI startup to improve Siri's data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "publishedDateTime": "2020-05-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
-      "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
-      "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
-      "webUrl": "https://www.golocalprov.com/business/raimondos-husband-moffit-lands-new-job-at-artificial-intelligence",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/Politics/Moffit_Raimondo.png",
-          "width": 473,
-          "height": 480,
-          "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoLocalProv",
-        "domain": "golocalprov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-is-fuelling-innovation-in-healthcare.md",
-      "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
-      "excerpt": "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI) has become a key growth driver in the healthcare industry. According to a study by Allied Market Research ...",
-      "webUrl": "https://www.cxotoday.com/columns/artificial-intelligence-is-fuelling-innovation-in-healthcare/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Piyush-Gupta.jpg",
-          "width": 600,
-          "height": 450,
-          "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
-      "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
-      "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
-      "webUrl": "https://www.itp.net/business/92638-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech#!",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-tag-aws-reinvent-2018.md",
-      "title": "Tag: AWS re:Invent 2018",
-      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
-      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

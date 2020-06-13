@@ -2,6 +2,184 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
+      "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
+      "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
+      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "publishedDateTime": "2020-06-04T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
+      "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
+      "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
+      "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-BA60516.jpg?w=1024",
+          "width": 1024,
+          "height": 770,
+          "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
+      "publishedDateTime": "2020-06-04T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025-2020-06-04",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-3-top-artificial-intelligence-stocks-to-buy-in-june.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in June",
+      "excerpt": "Leading the charge in this new era are technology stocks -- specifically those helping organizations and individuals cope with shelter-in-place and work-from-home orders. Artificial intelligence (AI) was already a promising growth industry,",
+      "webUrl": "https://www.fool.com/investing/2020/06/04/3-top-artificial-intelligence-stocks-buy-in-june.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576798%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in June",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/04/3-top-artificial-intelligence-stocks-buy-in-june.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/04/3-top-artificial-intelligence-stocks-buy-in-june.aspx",
+      "publishedDateTime": "2020-06-04T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-south-korean-bar-hires-robot-bartender-to-maintain-social-distancing.md",
       "title": "South Korean Bar Hires Robot Bartender to Maintain Social Distancing",
       "excerpt": "With South Korea embracing techno-utopianism at an alarming speed, conveniences like robot bartender and robo baristas are becoming an everyday scene.",
@@ -307,6 +485,44 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -890,230 +1106,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cerence-provides-ford-ai-and-voice-recognition.md",
-      "title": "Cerence provides Ford AI and voice recognition",
-      "excerpt": "Cerence says Ford has selected the company's Drive products to bring advanced, conversational AI and voice recognition to the automaker's Sync 4 communications and entertainment system.",
-      "webUrl": "https://www.just-auto.com/news/cerence-provides-ford-ai-and-voice-recognition_id195864.aspx",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Cerence provides Ford AI and voice recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data.md",
-      "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
-      "excerpt": "Network analytics-based data discovery startup 1touch.io today emerged from stealth with $14 million in funding. The company, whose products are designed to help enterprises automatically and continuously identify repositories that process,",
-      "webUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/1touch-io-e1590687948124.jpg?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
-      "publishedDateTime": "2020-06-03T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers.md",
-      "title": "Taiwan dangles US$335 million to woo foreign chip makers",
-      "excerpt": "The seven-year plan aims to subsidise as much as half of all the research and development costs incurred by global chip companies that build centres on the island.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324",
-          "width": 1200,
-          "height": 630,
-          "title": "Taiwan dangles US$335 million to woo foreign chip makers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
-      "publishedDateTime": "2020-06-03T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-real-networks-2020-and-star-search-use-ai-to-identify-celebrities-in-videos.md",
-      "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
-      "excerpt": "RealNetworks unveiled two video innovations for consumers that use artificial intelligence to identify faces of celebrities in videos.",
-      "webUrl": "https://venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/real-StarSearch-the-office-cast.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/amp/",
-      "publishedDateTime": "2020-06-03T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful.md",
-      "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
-      "excerpt": "RealNetworks is releasing a browser extension that automatically identifies celebrities and other public figures in YouTube and Netflix videos, using the same facial recognition technology that",
-      "webUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/StarSearch_SGN-Prom_indexed-video-630x355.png",
-          "width": 630,
-          "height": 355,
-          "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
-      "publishedDateTime": "2020-06-03T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

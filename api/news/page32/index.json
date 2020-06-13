@@ -2,6 +2,214 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-15-gms-self-driving-unit-cruise-to-cut-8-of-staff.md",
+      "title": "GM's self-driving unit Cruise to cut 8% of staff",
+      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
+      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
+          "width": 1920,
+          "height": 1471,
+          "title": "GM's self-driving unit Cruise to cut 8% of staff",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "publishedDateTime": "2020-05-14T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-ai-set-to-transform-healthcare-in-worlds-poorer-regions.md",
+      "title": "AI set to transform healthcare in world’s poorer regions",
+      "excerpt": "There’s been a lot of hot air in the business with respect to AI,” says Anup Akkihal, head of Logistimo, which focuses on less sophisticated but more robust technology adapted to local limitations in order to improve healthcare supply chains in poorer nations.",
+      "webUrl": "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F17acb522-8da4-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "AI set to transform healthcare in world’s poorer regions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
+      "publishedDateTime": "2020-05-14T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-gm-self-driving-unit-cruise-cuts-jobs-as-pandemic-hits-sector.md",
+      "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
+      "excerpt": "General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic.",
+      "webUrl": "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U",
+          "width": 830,
+          "height": 545,
+          "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22Q34W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W",
+      "publishedDateTime": "2020-05-14T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-robot-dog-enforces-social-distancing-in-singapore.md",
+      "title": "Robot dog enforces social distancing in Singapore",
+      "excerpt": "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces",
+      "webUrl": "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Robot dog enforces social distancing in Singapore",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111715036",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036",
+      "publishedDateTime": "2020-05-14T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-mind-controlled-prosthetic-arms-that-feel.md",
+      "title": "Mind Controlled Prosthetic Arms That Feel",
+      "excerpt": "Those with arm amputations can now for the first time experience the sensations of touch in a mind controlled arm prosthesis that can be used for everyday life. A recent study published in the New England Journal of Medicine reports on 3 patients who have ...",
+      "webUrl": "https://www.worldhealth.net/news/mind-controlled-prosthetic-arms-feel/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.worldhealth.net/media/original_images/AdobeStock_13251100.jpeg",
+          "width": 4244,
+          "height": 1936,
+          "title": "Mind Controlled Prosthetic Arms That Feel",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Worldhealth",
+        "domain": "worldhealth.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
       "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
       "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
@@ -930,234 +1138,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-australia-wins-first-ai-eurovision-song-contest-by-sampling-koalas-and-kookaburras.md",
-      "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
-      "excerpt": "A team of programmers and songwriters from Australia have won the inaugural (and unofficial) AI Eurovision Song Contest, using a neural network trained on noises made by koalas, kookaburras, and Tasmanian devils to help score their winning entry.",
-      "webUrl": "https://www.theverge.com/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/H0mdFNHHmaxT6HlchTr5oE3LMCY=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66797979/maxresdefault.0.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "publishedDateTime": "2020-05-14T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote.md",
-      "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-      "excerpt": "NVIDIA Corporation's (NASDAQ: NVDA) annual GPU Technology Conference is virtual this year and takes place May 19. Ahead of the conference, CEO Jensen Huang's",
-      "webUrl": "https://www.benzinga.com/news/20/05/16033361/nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg",
-          "width": 1280,
-          "height": 515,
-          "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16033361",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16033361",
-      "publishedDateTime": "2020-05-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic.md",
-      "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-      "excerpt": "Companies are embracing CRM and analytics technologies to help them shift business models during the COVID-19 pandemic. The Microsoft Business Applications summit showcased how Chipolte, IKEA, and others are using Microsoft technology to create new customer engagement models.",
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg",
-          "width": 1200,
-          "height": 616,
-          "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ibm-claims-its-neural-computer-achieves-record-ai-model-training-time.md",
-      "title": "IBM claims its Neural Computer achieves record AI model training time",
-      "excerpt": "IBM claims its Neural Computer can train an AI algorithm to beat Atari 2600 games in record time -- and perform on par with state-of-the-art approaches.",
-      "webUrl": "https://venturebeat.com/2020/05/14/ibm-claims-its-neural-computer-achieves-record-ai-model-training-time/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM claims its Neural Computer achieves record AI model training time",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
-      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
-          "width": 1200,
-          "height": 676,
-          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

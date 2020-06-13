@@ -2,6 +2,239 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-09-seattle-startup-persona-pivots-and-seizes-on-video-chat-popularity-by-using-ai-to-curate-highlight-reels.md",
+      "title": "Seattle startup Persona pivots and seizes on video chat popularity by using AI to curate highlight reels",
+      "excerpt": "Persona, the platform initially built as way to make social media a more intimate way to share family memories, has pivoted during the pandemic to focus on video chat and capturing",
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/personavideo-630x400.png",
+          "width": 630,
+          "height": 400,
+          "title": "Seattle startup Persona pivots and seizes on video chat popularity by using AI to curate highlight reels",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/amp/",
+      "publishedDateTime": "2020-06-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-learn-now-pay-later-this-startup-teaches-coding-without-upfront-fee.md",
+      "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+      "excerpt": "And so decide not to opt for upfront loans. Here is where Coding Ninjas, an ed-tech startup that solely focuses on teaching programming, has come in to ensure that its students first secure a job and then pay for the course.",
+      "webUrl": "https://www.entrepreneur.com/article/351648",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591712458-AnkushSinglaCo-founderCodingNinjas.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351648",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351648",
+      "publishedDateTime": "2020-06-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report.md",
+      "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+      "excerpt": "Latest added Global Artificial Intelligence Chips Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the mercerization.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
+      "title": "Seeing Results From AI, Even During Covid19 Recession",
+      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Seeing Results From AI, Even During Covid19 Recession",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "publishedDateTime": "2020-06-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-what-to-consider-before-introducing-ai-to-your-recruiting-process.md",
+      "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+      "excerpt": "Before deciding to implement an AI recruiting platform, consider what business problem you’re trying to solve and how this technology would fit into your long-term business strategy.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede5c3f718e880006f257cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "publishedDateTime": "2020-06-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
@@ -1142,231 +1375,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
-      "title": "Introducing Recommendation Filters in Amazon Personalize",
-      "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
-          "width": 800,
-          "height": 433,
-          "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T10:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
-      "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-      "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
-      "webUrl": "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-bank-of-americas-ai-robot-learns-60000-ways-to-talk-about-the-coronavirus.md",
-      "title": "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus",
-      "excerpt": "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "publishedDateTime": "2020-06-08T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
-      "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
-      "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
-      "webUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs/amp/",
-      "publishedDateTime": "2020-06-08T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter.md",
-      "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
-      "excerpt": "The technology companies have updated their mobile operating systems to conspicuously support the protest movement and downplay counter-protesters.",
-      "webUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_25B0C5408EFB-1-e1591623650320.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
-      "publishedDateTime": "2020-06-08T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

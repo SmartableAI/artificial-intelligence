@@ -523,6 +523,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
+    excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
+    publishedDateTime: 2020-06-13T16:48:00Z
+    webUrl: "https://venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/"
+    ampWebUrl: "https://venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/rep-jimmy-gomez.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon bans police use of its infamous facial recognition software for a year"
     excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
     publishedDateTime: 2020-06-11T05:58:00Z
@@ -602,20 +618,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1082103ad73448b5b77cca6f5ea25caf%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "IBM Exits Facial Recognition Business, Calls for Police Reform"
-    excerpt: "International Business Machines Corp disclosed Monday it will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity,"
-    publishedDateTime: 2020-06-09T00:53:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/08/technology/08reuters-ibm-facial-recognition.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft won’t sell facial recognition technology to police"
     excerpt: "Microsoft announced it would not sell its facial recognition surveillance software to law enforcement, joining other tech companies like IBM and Amazon."

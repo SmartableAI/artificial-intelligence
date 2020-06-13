@@ -169,22 +169,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "IBM will no longer offer, develop, or research facial recognition technology"
-    excerpt: "IBM firmly opposes and will not condone uses of any [facial recognition] technology, including facial recognition technology offered by other vendors, for mass surveillance, racial profiling, violations of basic human rights and freedoms,"
-    publishedDateTime: 2020-06-09T00:55:00Z
-    webUrl: "https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/NGef_YogvtoV899jj-XKnJ_tMws=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
     excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
     publishedDateTime: 2020-06-13T14:41:00Z

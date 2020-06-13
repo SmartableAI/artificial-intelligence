@@ -2,6 +2,203 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-11-ai-analytics-platform-statustoday-acquired-by-glickon.md",
+      "title": "AI Analytics Platform StatusToday Acquired by Glickon",
+      "excerpt": "Glickon is a leading HR tech company headquartered in Italy that provides a candidate and employee experience platform that can help engage employees while generating data and insights. With the increasing focus on remote work and collaboration,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
+      "publishedDateTime": "2020-06-11T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
+      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "publishedDateTime": "2020-06-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
+      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
+          "width": 1199,
+          "height": 675,
+          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "publishedDateTime": "2020-06-10T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
+      "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
+      "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
+      "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
+      "publishedDateTime": "2020-06-10T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
+      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
+      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
+      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
+      "publishedDateTime": "2020-06-10T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
@@ -903,204 +1100,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
-      "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
-      "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
-      "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
-      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
-      "publishedDateTime": "2020-06-09T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techent.tv",
-        "domain": "techent.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls.md",
-      "title": "Google Meet gets AI, machine learning-based noise cancellation feature for video calls",
-      "excerpt": "Google Meet's new feature is still work-in-progress but users will get it by the end of June. Read on to know how to enable the feature",
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/05/google_meet-696x435.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": "Google Meet gets AI, machine learning-based noise cancellation feature for video calls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-meet-gets-ai-machine-learning-based-noise-cancellation-feature-for-video-calls-5384611.html/amp",
-      "publishedDateTime": "2020-06-09T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
-      "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-      "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058713%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "publishedDateTime": "2020-06-09T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving.md",
-      "title": "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving",
-      "excerpt": "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/",
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
-      "publishedDateTime": "2020-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-microsofts-news-ai-publishes-stories-about-its-own-racist-failures.md",
-      "title": "Microsoft's news AI publishes stories about its own racist failures",
-      "excerpt": "The inciting incident for this entire debacle appears to be Microsoft's late May decision to fire some human editors and journalists responsible for MSN.com and have its AI curate and aggregate stories for the site instead.",
-      "webUrl": "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F09%252F76%252Fdec069b9f3b44584ba24247a3a38d8a0.d7721.jpg%252F1200x630.jpg?signature=2jw9zmc73TP_TwyQ0MGmPUALBJg=",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft's news AI publishes stories about its own racist failures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp",
-      "publishedDateTime": "2020-06-09T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
