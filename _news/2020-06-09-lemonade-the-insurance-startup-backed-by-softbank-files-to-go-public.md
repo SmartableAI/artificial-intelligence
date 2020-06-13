@@ -26,20 +26,6 @@ images:
     title: "Lemonade, the Insurance Startup Backed by Softbank, Files to Go Public"
 
 related:
-  - title: "AI-powered insurance unicorn Lemonade files to go public"
-    excerpt: "Lemonade Inc., the startup behind a popular artificial intelligence-powered homeowners’ and renters’ insurance service, today filed to go public on the New York Stock Exchange. New York-based Lemonade was valued at more than $2 billion after its most recent funding round in early 2019."
-    publishedDateTime: 2020-06-08T20:26:00Z
-    webUrl: "https://siliconangle.com/2020/06/08/ai-powered-insurance-unicorn-lemonade-files-go-public/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/5ede735e3f73700ac01f4c09.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Fintech insurance startup Lemonade just filed for an IPO"
     excerpt: "With a $2.1 billion estimated valuation, fintech insurer Lemonade may be the next unicorn as it files its IPO."
     publishedDateTime: 2020-06-08T23:04:00Z

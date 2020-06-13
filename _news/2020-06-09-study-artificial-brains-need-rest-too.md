@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-nee
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 300
         height: 201
         isCached: true
+  - title: "Artificial brains may need sleep for proper functioning, says study"
+    excerpt: "According to new research from Los Alamos National Laboratory, artificial brains too might require sleep for proper functioning. \"We study spiking neural networks, which are systems that learn much as living brains do,"
+    publishedDateTime: 2020-06-13T12:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200613/3575468.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "ttJCUyKVTXh2InmHtYhiE0/Y8CRYgZpR1A5zB+VffqHpMYDJcs3+5gh25ez1dHcJrQtEBZJirF9//arIx7wEBVTxMavQOlZuuDD/EXx9K0ktEfB/IrEJqi9YGk3yWhUS6Otyjw5hXRkmi30/i+zaeTIWhZapWQqPOGo4Rh3LbCSQ3EMQM2rBrrw8+f/jximNx3q7oLxEF6PeiBkd/ErKNP/XXebIusaM8TATsFzOQ6oS1o3/Uq64BRUVXvE6J31mNJxXnGUL8ERwOon0+nttqRk5VHh0D13nKGrMOGPPfWf52b5LohzCW+CfycKxHKu0s4CIxlvNZpi+yQCQ8AUHRPYGnRgSuFpzQk1og4iouFtNUyNj5agZaPZHe1OYh9WCAdVPr+PLjPTwA/HKQBeuqlEPrlvBaCmSwXKox+MchWn4bhVb6QLqmjLBBZqCmX1RifbmZS82dQBTleHxzCqTZjqoV8CJpcWwJNj1U/msp7SBvUiDtKe34+q5sBEDAEXp;63NIbwTCueDwzFRM6eeQ4Q=="
 ---

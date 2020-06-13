@@ -38,6 +38,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
+  - title: "Motor Mouth: Self-driving cars won't prevent most collisions"
+    excerpt: "Conventional thinking has it that self-driving vehicles could one day make crashes a thing of the past. The reality is not that simple.”"
+    publishedDateTime: 2020-06-13T12:44:00Z
+    webUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions"
+    ampWebUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?quality=80"
+        width: 2480
+        height: 1600
+        isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
     publishedDateTime: 2020-06-10T13:28:00Z

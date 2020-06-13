@@ -118,6 +118,15 @@ related:
         width: 300
         height: 201
         isCached: true
+  - title: "Artificial brains may need sleep for proper functioning, says study"
+    excerpt: "According to new research from Los Alamos National Laboratory, artificial brains too might require sleep for proper functioning. \"We study spiking neural networks, which are systems that learn much as living brains do,"
+    publishedDateTime: 2020-06-13T12:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200613/3575468.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "8UoMunKd+LUtC4o3zxYEL2VgDd5LDTzKZNPjBuPWrhqDBP/PX9BJpI7FWce+RW8LcARzBojYfhEG5XMkU6Jx8zcItfeB8MbOgxW0tBYv5XElvMt3P4sA5a9ehJm571WQIgUlbqH8wHlO6xTdrcCdchDqcTSPcVy6Cn/5xLiBdV0eDRUXLrG/89ZwWqxA9symM82mK3ZNiV9g9OEjdlpkgdhaY9a8vilcJyEwk+LV1Uqgzk0DzjaCOgdaKya+m3Z+13bzUoxtjEaV5/yCeS3ffiVobwUZSC+K7qnNj3jTER33Y0QIUnwZ/rFYyipewLDfe1xd63/S0kobDrfU9vJnUPbIOgHZuvTdNw6LKh9g8cyVkA7dXOuGpZPomn1f5okJYPrn2FqgT32aKze65usUhzXb9a2ql84YqIwd5UKPOtMCoHI9bRO+fGl2vgZh4/pTPZ/NpElKswoXzFpDllR8IPnMkvwqaBF/UQTLh9Soc2PQN/30h2XSoxTqWTaQ7K1d;7/iT4OT7bC6UwDOOZjbGLw=="
 ---

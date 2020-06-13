@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "Google to help summer interns with open source tech at home"
-    excerpt: "Over the last two decades, Google has released thousands of open source projects and nearly 2,600 are still active. In addition to contributing to Google-created projects like TensorFlow, Kubernetes, Istio, Chromium, Apache Beam, and OSS-Fuzz, the interns will tackle projects to support Covid-19 response efforts, including integrating Covid-19 ..."
-    publishedDateTime: 2020-06-13T10:04:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200613/3575387.html"
+    excerpt: "Thanks to the open source technology, thousands of young people will join Google from their homes in 43 countries for the summer internship as in-person classes and graduation ceremonies have been cancelled."
+    publishedDateTime: 2020-06-13T13:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs-careers/google-to-help-summer-interns-with-open-source-tech-at-home-98691"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 24
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_1753761254.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "wd3dGuaYD8gMFF5sOj1wTxiYMKmLr9RSS4I1sgNreiTPhT8HZyid3YAxXBiTIFsXrkvv/TXiqB2cb5WXmCCYjsiwGy5l/8axRTSGzNrYhDafkBKpXk0nBRwqan20a5rpV8odX8VxFTgZ+/+WlERSno5h8nPug0fDZalGTrFjH4ofc12vHSYEsn1RIRBy8kZrL8Jex2aEHtohthT1D0XgrPlWrGpJTV0IXCNrGYEeKw2CeTNt8f2uj0kqEJBlYAZ/Q2R0ki92CQjP3o/6oSAVNTZmmpZmrEJ2DLRWCXqf57FTZrfWV+ND5TFa51c4y1vA3kYwm6yVOyu0nPibcyWyVtOMA2iEsSyloKHiTQeHeDzyb8andDqaEYxbM3n1UMukAI7mrYKDQA8eIagM01VOpmcux3+fbctd134koLl/0VOSMXlDSclVdS7YK3add7jrqflqiNHr76o8IeUb+VrS++YQM1zAyR36pfAEVNrwVU/2PLz95oOab2VfaHJWvZQEwdPn2LBYvw5/+Lsr5tAzVA==;dWCWb04za3etbgSAlYV5hg=="
 ---

@@ -2,53 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-06-01-robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures.md",
-      "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-      "excerpt": "A robot equipped with cameras and LED screen greets visitors at the lobby, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
-      "webUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Untitled.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
-      "publishedDateTime": "2020-06-01T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
       "title": "Remember S Voice? Samsung is finally shutting it down",
       "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
@@ -1335,6 +1288,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
+      "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+      "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "publishedDateTime": "2020-05-29T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

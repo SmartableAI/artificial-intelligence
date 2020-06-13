@@ -17,17 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Coronavirus pandemic causing grocers to invest in robotics, says report"
-    excerpt: "The coronavirus pandemic is causing grocers to invest more in robotics, according to a study published by the Retail Analytics Council ahead of the Retail Robotics and AI Conference. The RAC"
-    publishedDateTime: 2020-06-12T21:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/06/12/coronavirus-pandemic-causing-grocers-to-invest-in-robotics-says-report/33013/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 34
-
 secured: "lPM8rYTMKhSKna11Obp7t764hJ4UUKCe8m8HRIaJ7ZIirqYygsW16g52XnICod/Ia9xfH7N62M9Xm9K9HTAW3KM8O3Q+tGLKPmuatbunIiC35ZyRhETTEZI9gOaz8n6KWCGVU6n22I/f2A1TXVG5BxLd63QhEMnQhG/9t+15x2/Q0iYFtR4JMC4qIQ1bIZAZ0sdI95ck2qBNYfRTdy+z5DP1WqfbGh9st+L/lMS2PIkRBhVGDIe4Xbv4vqgwYDFBY3GtzNDJHCBtma1fGXtA0K7wAa/ayw/AP6hUuY3krREd4jKbzrxdUdbNoPp7Rfm8NkFCCzBuPl1YCno1eYTn5OVnfJTiTVOhrT6G5d0SiC9V15d/hhG+oHQZIME3xGbpekBZOdLeEsKkwc4QpiCFh3MFv/QTViLmRUzp+4cC9Ee/c7rJ1hsPg8BzSbYoiQysYwl7VuZPNptwiwnPYxPBsLud3FPGkmuxzcz8l2hWOeg=;aI2Z4cp7CckKY8gXVgTLWg=="
 ---
 

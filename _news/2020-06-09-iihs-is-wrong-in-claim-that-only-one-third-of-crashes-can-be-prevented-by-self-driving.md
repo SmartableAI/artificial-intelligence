@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
         width: 1000
         height: 676
+        isCached: true
+  - title: "Motor Mouth: Self-driving cars won't prevent most collisions"
+    excerpt: "Conventional thinking has it that self-driving vehicles could one day make crashes a thing of the past. The reality is not that simple.”"
+    publishedDateTime: 2020-06-13T12:44:00Z
+    webUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions"
+    ampWebUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?quality=80"
+        width: 2480
+        height: 1600
         isCached: true
   - title: "IIHS: Self-driving cars might only avoid a third of crashes"
     excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"

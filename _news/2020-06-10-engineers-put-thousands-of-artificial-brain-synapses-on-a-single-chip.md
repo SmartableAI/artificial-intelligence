@@ -72,17 +72,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
-    excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
-    publishedDateTime: 2020-06-08T20:23:00Z
-    webUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.html"
-    ampWebUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
 
 secured: "sxXVxVeOWeRFo1lmh57wRejjrRYpN6aOWh65HbmceCmk+eMotJe8c1NHiYkYLlL/CRPdy81tw1j6vsmAjCgx5e8qlSE7qxWGWpr+zNqYapo2B85AaOq6zzEOHpg3wzkzWFbkCNhFYoruTSEesLjI8x+6+H/975wG3XSZhKbnaWfU3wBhAAlVGoCWBKo1DqLy5MhNMLH2W0qQoMNFzcbVeNs14I2y5KQZd42vRXb/UwWil9KLgQgxdbklWr8H/Cu32us6QrW7u5c8di31jSR6y/5VN2mK6xbrHZiDaxfrR4S9Hu1XjsLOGJDluNl1i/sKPZ1qN6QSkRt+cRbVjh4z6TpLljBjShGFZ26H41Kob72Y1D1ZpEI2VMbiBBrD4H436/fV5CxyznlS8F1dJohJwZCoJmQSMcEm6D+8LIau35p8iYqdIVZ2WC1h7OIwhR6OAMVWLz2jvEznpJsO4Kj1I8fy5k/Ck2eNkQEg+TyM9TCNM0FoSbNxJp3F1Dyrz3BD;bLLGgRGQFXRo9fEJmoXa5Q=="
 ---

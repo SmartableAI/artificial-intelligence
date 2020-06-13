@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/"
 type: article
 quality: 91
-heat: 381
+heat: 391
 published: true
 
 provider:
@@ -386,6 +386,20 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2020/06/11132406/amazon-hq-facial-rec.jpg"
         width: 1920
         height: 960
+        isCached: true
+  - title: "IBM, Microsoft, and Amazon’s face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-13T12:43:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Unlike Amazon, Microsoft never sold Facial Recognition technology to Police Forces"
     excerpt: "Amazon and IBM recently jumped on the Black Lives Matter bandwagon, with Amazon saying they were putting a 1-year moratorium on sales of Facial Recognition technology to law enforcement services in USA,"

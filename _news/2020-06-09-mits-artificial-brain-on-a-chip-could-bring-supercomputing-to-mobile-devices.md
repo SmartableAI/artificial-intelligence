@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bri
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,17 +74,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
-    excerpt: "MIT engineers have designed a \"brain-on-a-chip,\" smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors—silicon-based components that mimic the information-transmitting synapses in the human brain."
-    publishedDateTime: 2020-06-08T20:23:00Z
-    webUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.html"
-    ampWebUrl: "https://phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-tens-thousands-artificial-brain-synapses.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
 
 secured: "8YzSPmIw8sneTiq8wyQ1Lh1tLhSTgdrgmpbBpy9jhyDByHYjkZ5KKMR9mX5xHxTMDo5DMJqquHloTS7JPfDu5scXm7lNZOiMlPrY5y/Y5yDQ1ID9c6EipPNCgk3rRWRjgly4EOCxhVo6h48T9PtzePCBCMzkuXtYUeYFo1ihCHv3jGTsAhzvcht0MIaYGXgWo/aJY6NwE7ztPsiow0oyXydZA3WR5loNBUxALJ+whCSDu5BSoNsVszhU2bBezMHi/Itrans05fB0rBjWUisoF5SzllHgRN7S9ZSpsZVyItKsuYMgByIyeJei4KVqqHNk;9yVt0dKN/xieXLwLIMRQmQ=="
 ---

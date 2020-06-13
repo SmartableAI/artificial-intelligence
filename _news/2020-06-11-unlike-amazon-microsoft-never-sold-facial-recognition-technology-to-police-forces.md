@@ -398,6 +398,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "IBM, Microsoft, and Amazon’s face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-13T12:43:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon Rekognition announce moratorium on facial recognition use by police"
     excerpt: "Amazon has announced it will prevent police departments using its facial recognition program for a whole entire year."
     publishedDateTime: 2020-06-11T00:46:00Z

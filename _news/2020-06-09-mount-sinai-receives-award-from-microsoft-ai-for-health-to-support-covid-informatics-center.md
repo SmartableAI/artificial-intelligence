@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200608/Mount-Sinai-receives-award-from-Microsoft-AI-for-Health-to-support-COVID-Informatics-Center.aspx"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: News Medical
@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
     title: "Mount Sinai receives award from Microsoft AI for Health to support COVID Informatics Center"
-
-related:
-  - title: "Mount Sinai receives Microsoft AI for health grant to support COVID informatics center"
-    excerpt: "The Mount Sinai Health System has received an award from Microsoft AI for Health to support the work of a new data science center dedicated to COVID-19 research. The Mount Sinai COVID Informatics Center (MSCIC) brings together leaders from entities across Mount Sinai,"
-    publishedDateTime: 2020-06-08T20:09:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/tmsh-msr060820.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 46
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/234134_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "0yxo/vGEQ1m6TGLi4VbQnRoRvDarOR3s687yBEA1KumlbDQ1DpNXnTu4D3Mqrgmrr5UpU89iaL7qFMYT4ekQAvJ7v3b4ASXF3pcS9lrGb2zcyKug+Aa6dU0N0Dk3l5pW6bYjsvXNyTt0AMkxDbDCpbPb3zRxCg4udYQbPKNEg4UP6IFDiZmI2giVUCY5U/A/Fpsf5jsso0PaEj/3joLyjbcMLDxLhBN9g4dkn5mjEFVm5dEpSqY226epL0SEaqbo+Xd5zPXztnrokebee8LtLweqomg6D+74IRjx8Jmq1aGx4ny4vlmZPjSnBihZVfrO;yyrOeTJjzfubHGz3eTVAOQ=="
 ---

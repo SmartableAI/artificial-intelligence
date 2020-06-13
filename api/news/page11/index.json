@@ -2,52 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
-      "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
-      "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg",
-          "width": 796,
-          "height": 402,
-          "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
-      "publishedDateTime": "2020-06-01T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
       "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
       "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
@@ -1098,6 +1052,52 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
+      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
+      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
+          "width": 2020,
+          "height": 1148,
+          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "publishedDateTime": "2020-05-31T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

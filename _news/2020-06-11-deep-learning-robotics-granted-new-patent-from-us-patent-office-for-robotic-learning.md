@@ -2,8 +2,8 @@
 category: news
 title: "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning"
 excerpt: "Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States"
-publishedDateTime: 2020-06-11T14:21:00Z
-webUrl: "https://www.prnewswire.com/news-releases/deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning-301074544.html"
+publishedDateTime: 2020-06-11T21:21:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning-301074544.html"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning"
 
-secured: "0msZyAHOF4ZqPO5hnKq88VlMXMhgxXEPhBCUbNRdQs+jiYPBtSBHskojaYbBUpONNQUiqbBxNASf10AtS/ga+cXqNmv2dVfl13ABEP0MK2m7MkKVd2lHly69iBrgESZhUzsX5Zlv9ne31qOpQa7KkK6R7Q3vnvP4KmNCRMLdOqf/fQPmhgYBPP7vHnxB8CvV78CUAVNt+57vnGHD1OqiXhe32NQC+RwDKA9/CgaRrXYlfObOZqSjEpOUDE9FTh2BHwd8dLLaWm6M23fL0mh7VIsvPd1nwLemItxdWeJkBQGL7/nBYn9hNc8r/OIzHJsFSDnzF4kHxCW5SwBUskwAOw==;gVlwRub7pN3lVd9dxuFwng=="
+secured: "0GMra/TyMKFDleB+NmmNql85t5lRmQuIumdiVL0kbTjNcxl6OmbtOipaP8czZhW0cpnX8ia+20YT1SffQ3a1brVFE24CgZqu1wvtdcLpceslTsNzgiIAEmrV+Bx5drqqyjigTWR7xVcVqh2XoSw5aBIQxYdSsY6VWHijNxLHB6sUTXGNoedCKE/brVRIjz6p7605jnlYnuVZo+KYzIs01hZ0a98Snoti1QKdBwJUiZEEhHqg3yLeIuAcy2+jw4jM38qtu06toZk6rU9RMxbsBnKqLfBtPlx3qdMZEymaRchyQICFmJZH56Kf1/qPhf1vSM48uQqYjh7GXBYL+BVJDA==;yZfscxjgTkudvhnopRf1Ng=="
 ---
 
