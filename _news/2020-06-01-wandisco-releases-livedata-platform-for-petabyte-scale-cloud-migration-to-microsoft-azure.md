@@ -1,48 +1,19 @@
 ---
 category: news
 title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
-excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively."
-publishedDateTime: 2020-06-01T11:01:00Z
-webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
+excerpt: "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,"
+publishedDateTime: 2020-06-01T18:10:00Z
+webUrl: "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/"
 type: article
-quality: 75
-heat: -1
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
-
-related:
-  - title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-01T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 92
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "HAdVcBdYYIxa3fFLKWSDCsVachA75/ZJ081EMc4xTujMh2f0oADR+PyEpQGpZ/tl4fhc0mmm1s+9C3mtWAQxkpnP0BWQOdqjEd3tSWE5KFtDtYnS44SLBPExfi2CYog9imvNBg/hOo67mcBK39M2yx9FGLwzujWvWtLID0dHA0x3BMTX9xatSTQ3Xgj8hxvOe6kvCoOGDu7yRoPKT2lPhqnA0da8oUxn4t+kGQJFCrr1a1k7MijHtyAYHiVdBezDihl4N3ONhefdb/N0khxcD8IybkZNyt/FmHZ9TPgCKMK/kzKSJKIkr3mOuEFgXHtb;fv0CQezkKvnEgzhP2kcUMw=="
+secured: "/FymQ70j/qHoUJtieT7H5lMKxDNnqvmvGR59m3EZFeqdYw/4TpO+yA91WUoQTtYJRnlfVcZgIjDg9GPnfQP5mkjgHYi+w3fzbWCc6ozH0kaUKMTD95z54yUqVh8ceBoklViLIaeYyZY/7tkO1kVFhYuKaurX/kFtuc8JwP1QIxdJnF3l5z/8fGSY7lh4B1hkjfPRyJNGoLpkg/tmaM7Z5j0J2l+eGAoE9hue5KeYXZEjTN1zI0gp0N+Xv/XrkXmOE4s9q8VyJ4QwYJDrm1KXxgBBx4nSRLTUZuOr+zlFbf7zqHttlyXQp2scK+pqnuHh1hGwqqHtHWzo3I6M20nnZda8+4klpXjo34Huz8FSYKxnRyJTNmfQA4hDALDN3KlnIieS1B4OOUJlDbGP73V7iOF97nUO6qmEUmKXpkWi7VQH98VAPB2R55KDogqfz6UJbwTmE1CXJb0yHka0sfMm47fQSAq0lUcQyIcM6IGJJ9brvL4COXj+ujOLmf5n5S4ymQzMzFYKMIVZenFVbbKwHA==;ATrY8C0SOkLY6bg1z3iDlw=="
 ---
 

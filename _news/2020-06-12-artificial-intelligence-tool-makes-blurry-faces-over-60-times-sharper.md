@@ -38,6 +38,20 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
+    excerpt: "Researchers, including one of Indian-origin, have developed an artificial intelligence (AI) tool that can turn blurry, unrecognisable images of people's faces into perfect computer-generated portraits."
+    publishedDateTime: 2020-06-13T09:51:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper-98657"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 35
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_413181230.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "t+y8WhjSFTZcvl31yfaAZSelnfcEi97xeBoU5KBYLUB7wb85JJgSCHpdlLKlmxCVAJmKauFIZmE9DjkHKG224AcaHQUHke3vl3MMDvxDn+DAIjf6lKu6umQ4PVgsbfgR5RKCEt5KCJk4X9EqrgRfLexsvgHekkQIRNjxa0NleoJbalachtDFc/rmKAa6St4C0925AZ7m8r1a57KCfBRH5EjpkBdxXq6Q6uCyw5WZiyLq5s3mBtnWybgpncnczDz4mC5+Wn1yrGVQtyQAUv23Zhz/x8nsllKI3VLQx+sUqIW5ECk2qS6CDmBtDXn1i3R1pGYPJpOI+S56T0iMc3zp8lB6BysOUTY3huRHb2p1iC6yfPRRHtFZb1xFfRqEF9wsUj+RX51uwbkyiUafB40S9/qf9oEH3+8UKme6SNTk7VZHUg5pXkg4asACtuydQ3k/i+ej2xVf1Kqp7GsA2jixSbGfSosKFhpLb2akToRaj9qvmsVqeK8zyQPE3JQ1TfD1NPkGQED4Mc0RleUoPza1hA==;/ln61x45iv9n+7Esw/4Khg=="
 ---

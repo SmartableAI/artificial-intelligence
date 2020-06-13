@@ -2,25 +2,27 @@
 category: news
 title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
 excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
-publishedDateTime: 2020-06-12T08:14:00Z
-webUrl: "https://www.sify.com/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud-news-education-ugmilGceefiag.html"
+publishedDateTime: 2020-06-12T07:26:00Z
+webUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/articleshow/76336325.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/1_ugkmNIejfgfch.jpg"
-    width: 512
-    height: 341
+  - url: "https://www.businessinsider.in/thumb/76336325.cms?height=275&width=412"
+    width: 412
+    height: 275
     isCached: true
     title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
 
@@ -83,6 +85,6 @@ related:
       domain: arstechnica.com
     quality: 51
 
-secured: "Plbi+mirMgcPCXT0Sc6ZXFMtYb5+F+hJ8VCAEbc7UDTivvpg0m4TxBn/ZMAm9Z5cfDubOFaXRdMjpA9AUUhZsxHjsrVzo+1ZWzpRC+i+apadaRveIfprqfE5v4zW0QiCBjPKvxgzmCYfHI5W2lRRFfxH5D3baFehJR+Qk4qNaYknCmvUpZ/elSwgZzsm6o00Qw/b60EQphtE186UyLqNkbR9yQgnoIby+VOFuZ9Wal1EcU7qSiVZbPu7n10maEVeXifRN1G7qPR568SjosLOx02eeM+SydMTl0QOZo823wm028NutmdfVLdu613mYoB2qd2hkBqZkLp8LpbcFdBIlQ==;n+CPc9ia5y6QcMl2PxN4dQ=="
+secured: "OZ7f4L/ckQgWPUSXWNSUK+3ZRBQYzS1rfTAw+MwNjCZRFFESvNV+N6B3cABN8L1SRC2NKaXijIjkDcsMZQQd8Qe8xWMeHB5iOx1hpBBHxxkjhFeLbRzszoA3fWYoIcpEatFI8qOn4eCU/Y7/vbTQI4c45n5CmvkOY9sFsjEUEY+qWZw1/VrZc/wF7xTjR35+q/ilSqjCpVCTXihg/qYqPBjMy+HTLniN6+ewjF4tKNlj8EV9teUb17bluufEnB0GQHsTodA9b7fIob/LfTHQznbw96inFCsIlb+McRsQaNx2APwFm3BUokyMpRDp25Xs3y/jXZrsuZ1IdN6V4l8B9g==;Tzpc9fVEEt6UrLDZ1WKjSw=="
 ---
 

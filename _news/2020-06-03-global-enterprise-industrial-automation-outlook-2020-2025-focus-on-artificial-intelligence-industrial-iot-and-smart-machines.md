@@ -13,6 +13,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
@@ -21,6 +22,6 @@ images:
     isCached: true
     title: "Global Enterprise & Industrial Automation Outlook, 2020-2025: Focus on Artificial Intelligence, Industrial IoT and Smart Machines"
 
-secured: "+y4Vd0UQAEFRKM98lejhSq9/WQBQPGkNvopk1eY6muyfB/0h6dS8CgRYbqxMiZO1KWQR02HuEKxNSQ58Aztx+ycLElUIIK8xRKI8ksrNm8u6rAuOmTgLceuv3i5Zz1farPT/2lZTRFP+R0FclLUc/XlZCeDZ/a867wkC8g8qAXBJrTIPx7ztB0xAx8GJn1aRQNzCdaBhEFNiAUHthmtyYyoapahxVp6X25I+AWOUa5nWiUGjjp4igCKM05ORY/aiOCBE6r8begFDfE/IwD1DogHLM/AWzGWKGtcRCD7PxBzoCOFRsaNtb/IWa2OOgyhqzLxPeLKapD2CLXpmqnGO4A==;GMlxLt9J90qr7piB5yaFnQ=="
+secured: "vkdpF0zRtdyxpqpXW3a0XjBF2dEcb4EEKZQqBVX5iBLGjdV9JH5Nfj0cPLXLjapnnvf1d/HcXiJeE1fA6NUXF6R6OypSMMQ7/0Jk1vhuHS0LXFaIYkfDFJcNaA7GE1CBfmQ0TzX6Y3q1GPAnP6vTR3k0y/cdXKB99puBxMeVVOW+oN9P5vJo+/wfeZwFTpqfbwcQMGliiLciUp1pCSpd2If9+5b3NCG8oxXV/9xT5/RPE8eF7wO8xKA7khPkFTDWvG8OFxrPFkQYj8RsKo1qIKUQd323bBY3ojMlxcy0ym0a1uJkSJL7e8u5M9ihw5V+o+8u28cTs+JeCWLnB4feX+GhaBrZE2VtA4URMcBm0eaBNk6F5Y4w/McuNPML67gLuOHe3OARf9tWCYh2EWcemyhsjLDlqsGPXHsKstyf9hzG2ez/oJrUQlkwqxYOLaUsqtySnzXZ93QZwb4JbLB4r/g4sTW+RBnK1uUH0dQVGsHYa0J46deeilZdJahfHqdTairyEUVZUlt2Wl7tAD/caA==;C35IJrfUv/Q/8DE76s7CXA=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Big Data Market Analysis From 2020 by Size, Share, Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast To 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-06-08T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-market-analysis-from-2020-by-size-share-emerging-trends-future-growth-revenue-analysis-demand-forecast-to-2023-2020-06-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
     excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
     publishedDateTime: 2020-06-10T12:43:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     height: 800
     isCached: true
     title: "Human fighter pilots set to take on AI drones in aerial dogfights in 2021"
-
-related:
-  - title: "It’s Man Vs Machine In Experimental US Air Force AI Drone Dogfight"
-    excerpt: "The United States Air Force is aiming to have a competition between an autonomous fighter drone and manned fighter jet in July 2021."
-    publishedDateTime: 2020-06-08T15:30:00Z
-    webUrl: "https://hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    ampWebUrl: "https://amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/us-air-force-man-vs-machine-ai-fighter-drone-human-pilots"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51871/content/Air_Force_Pilots.jpg"
-        width: 708
-        height: 382
-        isCached: true
 
 secured: "6TkRu3irfh42zR4mqMPbEKjBKfRd+e+/U9B/Q2KVyypldFjznoYZU7H6oGZGY9nSQhXwgHPo4ofKZiPBjohtxSn6sQK7hwdecapJShXgxf8NmyOKejIJU0R+EDd9BCQXwQ1O2P5JyyvrPP2V5KRfMk3O4p021+WVRB7tbSR5C/fgHkpOgdRrs6ZOk2BVWKac+1qjJ8pxDc08IQhxzAxDIRMvJ4EaGyd2t6IsfJCMhMDODzMrce7nKw7nikow9IiZ36s5k5Rm/qaQPwUSwlE/ILYgIwXhR25X2rG6KaC2MGeRaXCfZ+Bjtcd1Sh0OutVHt7tE4ubqKvy9BXjZHLOaOrfEPimcXSuUndG0+3E2MXlJYXpWpPE1bV/pj2HcH1gDDL/my1ygeAqqY5C60V9T7erN25MhLkTAqYWqc8dh4nk8ZUhuSvpc8bOU3UVrzZXNPktGkxKPYvwM7AYBluOpcigHQz/4TJd6KKhhLvQHojNe/Qu0N4RjI0Ufa33LnqYa;NzQ7YTMzOss22TcXj/wVxg=="
 ---

@@ -34,20 +34,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Robotics : 2020, Year One Of The Roboticized Economy"
-    excerpt: "Despite the number of unemployed flirting with Great Depression levels, the valuations of companies related to the roboticized economy continue on their stratos"
-    publishedDateTime: 2020-06-08T15:34:00Z
-    webUrl: "https://seekingalpha.com/article/4352540-robotics-2020-year-one-of-roboticized-economy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
-        width: 529
-        height: 639
-        isCached: true
 
 secured: "C7bkh1gWIq5nEGcpBiQDbebpT3WZKRTNf+t+iGwCJbjuF9NWNymxyAbL+iyJ1Gq/8H4DtMzeRBETm56Tafa05BY68Fzri1PZeQUqJ8ZVBNMhBQBkopefQ/oJsB20UEZtFP7HXX7yI+ngC1XWWOk13Y+LYP9PvJBDIMArNfA4wN2FYsThex+6oTABvfG9birNQt0cIK/fATgq5rGBqmr6Mrs3LNSRvDlsrpf4+tUbmsQzHAuctjgUqgdCbd6wBLz5y0kU0mBQEDunpX0NoHIM+gyfpp4QrEvH5u+I8i79rw8u2BJTD0tqNAmJ/XMs1oh1VEgFdvT9QxVQfUTkVkvtDvYSVWbq4Cl88MkJRuyynujhcLEY3jl0DwB4dEfoJibRuMjjm6SD/GGsAoOg5Tr1AxhOSci10NUwfRH88gNO8UcdwADPNo2M4V2cwW+JxrHz03Sa3bUJfj3aLmjxDlviceaBKkXhtfUol3NMKZNojzr37RVkXjYWGxmxwOkzkDOB1YLv7Hf/AUbwMqSK6rpP+g==;eRE+KezMzllSTzHJ+H9vnQ=="
 ---

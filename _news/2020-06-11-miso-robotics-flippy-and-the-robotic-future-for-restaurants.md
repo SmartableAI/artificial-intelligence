@@ -8,7 +8,7 @@ ampWebUrl: "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     title: "Miso Robotics: Flippy and the Robotic Future for Restaurants"
 
 related:
-  - title: "Robotics : 2020, Year One Of The Roboticized Economy"
-    excerpt: "Despite the number of unemployed flirting with Great Depression levels, the valuations of companies related to the roboticized economy continue on their stratos"
-    publishedDateTime: 2020-06-08T15:34:00Z
-    webUrl: "https://seekingalpha.com/article/4352540-robotics-2020-year-one-of-roboticized-economy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/6/3/43033076-15911808608312707.png"
-        width: 529
-        height: 639
-        isCached: true
   - title: "Four Robotics Trends Expanding the Need for Miniature Motors"
     excerpt: "Disruptive technologies create opportunities for mini motors to solve the unique challenges of the surgical, warehouse, cobot and service robotics industries."
     publishedDateTime: 2020-06-12T20:17:00Z
