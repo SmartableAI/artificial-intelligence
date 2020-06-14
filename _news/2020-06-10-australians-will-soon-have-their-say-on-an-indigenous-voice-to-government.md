@@ -26,22 +26,6 @@ images:
     isCached: true
     title: "Australians will soon have their say on an Indigenous Voice to government"
 
-related:
-  - title: "Indigenous Voice to Parliament back in the spotlight"
-    excerpt: "Indigenous recognition and the possibility of a voice to the nation's parliament have been brought into sharp focus against the backdrop of the Black Lives Matter protests."
-    publishedDateTime: 2020-06-09T11:59:00Z
-    webUrl: "https://www.abc.net.au/7.30/indigenous-voice-to-parliament-back-in-the/12337506"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12337508-16x9-large.jpg"
-        width: 700
-        height: 394
-        isCached: true
-
 secured: "/AKOI8wLAWcGg9H3H2FLvo6fV8rFKsiGLFWAmAk+8DFIkqP27t3VVVxNjQn6k19QtmLEB9VgN453hXXjRwiPj1KrwkYJ1gP16Ow5WE+eLwV+Ng6G3jSLMtxWp+TWWGtQryFLrruAZLznTxnr9Tv9LvAoCt2ysIQkd/2n7qCWvG9EDDff0xhfPeqscBT7oCflSkcUcH8NScCrAmWPhF5uBj7WsUk6lB40s7+lLoVpUrlIlw+MNtayko/nnlW6AG65lzhLYuQsvMJJokTa1W6Bj0Csr0Voqww52kEEUG1zftuu4iYYl98FXKCEOAtMKKPE;TaRfaVZVIf7vt+iytwrx5Q=="
 ---
 

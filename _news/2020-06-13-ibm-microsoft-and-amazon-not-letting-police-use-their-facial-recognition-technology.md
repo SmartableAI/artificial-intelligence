@@ -275,15 +275,6 @@ related:
         width: 459
         height: 405
         isCached: true
-  - title: "IBM Is Dropping All Facial Recognition Research and Development"
-    excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."
-    publishedDateTime: 2020-06-09T11:36:00Z
-    webUrl: "https://www.ign.com/articles/ibm-dropping-facial-recognition-research-development"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 19
   - title: "IBM stops facial recognition work, employees seek fewer open workplaces, cosmetics brands drop talc, and more"
     excerpt: "Google Maps offers alerts for mass transit users, Google Meet’s new noise-canceling features, how consumers feel about brand messages on racial justice, and other topics. Good morning, communicators: Google is offering notices on its Maps app to help users avoid crowding and maintain social distance."
     publishedDateTime: 2020-06-09T15:38:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "AI-based vision inspection startup Lincode raises seed funding"
-    excerpt: "US- and India-based Lincode Labs Inc, an artificial intelligence (AI) vision inspection startup focused on the manufacturing industry,"
-    publishedDateTime: 2020-06-09T11:07:00Z
-    webUrl: "https://www.vccircle.com/ai-based-vision-inspection-startup-lincode-raises-seed-funding/"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/10/SeedinvestmentThinkstockPhotosmediumlargex.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Enterprise automation platform startup Jiffy.ai raises $18M"
     excerpt: "Founded in 2012, Jiffy.ai offers an artificial intelligence-powered enterprise automation platform designed to make complex process automation and application design available to enterprises in just a few clicks."
     publishedDateTime: 2020-06-12T01:00:00Z

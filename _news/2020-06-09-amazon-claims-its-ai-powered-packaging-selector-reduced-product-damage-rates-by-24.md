@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-pack
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,86 @@ images:
     height: 600
     isCached: true
     title: "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%"
+
+related:
+  - title: "JSonar raises $50 million for AI-powered database monitoring products"
+    excerpt: "JSonar, a database monitoring startup that leans heavily on AI and machine learning, has raised $50 million in venture capital."
+    publishedDateTime: 2020-06-09T13:11:00Z
+    webUrl: "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/"
+    ampWebUrl: "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/3f9b168a-00dd-4b77-b5e5-e44edee178fe-e1591210411635.png?w=1200&#038;strip=all"
+        width: 1028
+        height: 512
+        isCached: true
+  - title: "Enterprise automation platform JIFFY.ai raises $18 million Series A"
+    excerpt: "Enterprise automation startup JIFFY.ai announced today it has raised $18 million in Series A funding for product development and expansion into new markets around the world. The round was led by Nexus Venture Partners,"
+    publishedDateTime: 2020-06-11T14:05:00Z
+    webUrl: "https://techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/"
+    ampWebUrl: "https://techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/enterprise-automation-platform-jiffy-ai-raises-18-million-series-a/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/SS-automate-02SS-automate-02-1.jpg?w=680"
+        width: 680
+        height: 533
+        isCached: true
+  - title: "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data"
+    excerpt: "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing."
+    publishedDateTime: 2020-06-10T13:05:00Z
+    webUrl: "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/"
+    ampWebUrl: "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Domino Data Lab raises $43 million to help companies keep their AI models up to date"
+    excerpt: "Domino Data Lab, a company developing a platform for AI and machine learning model management, has raised $43 million in financing."
+    publishedDateTime: 2020-06-10T13:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/"
+    ampWebUrl: "https://venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/domino-data-lab-raises-43-million-to-help-companies-keep-their-ai-models-up-to-date/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Domino Data raises $43M and debuts new AI model monitoring tool"
+    excerpt: "Data science company Domino Data Lab Inc. announced today it has raised $43 million in funding and launched a new machine learning monitoring platform. Highland Capital Partners l"
+    publishedDateTime: 2020-06-11T00:51:00Z
+    webUrl: "https://siliconangle.com/2020/06/10/domino-data-raises-43m-intros-new-ai-model-monitoring-tool/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/themes/siliconangle/img/background.jpg"
+        width: 365
+        height: 243
+        isCached: true
 
 secured: "eQcMxtW6FfIbOOz6IRc2wp34RXjj685Cgq6ANV0GMO7fpH81Banc9vvXnP/WqrKANh+SdmiTsEB0nJqrI9qGOZTsI5Raad3YaILcRPFN6uu7lGigPsFcxkkPxNutAnYVOoaSQ6A9st2R3cuFqEBVrgI2jXmDrR0hUsfZUIPLw5FCl3gZK3Mcw84Ghy675a2mqSmvYYRyy1mEYtcgm0n8XV0MfjHJxrk3pzOdVfggU14tY83aEWxb9+qGNwpaiHyf7LpIJt3vJ6NhqbQV2ZJlndVwS/JTF0OR1iAkU/eMTm5fI/6kyyi8A3oQo3kH0FSE73M7aIWVu9ll2r8NIAsZRs59/bCm8yxF4yxiAjHW8FDWMdmX56Hr/Js/t9eKICqkURP9/uG0obwTv2oV4mJS69eN6rI1kZsSDBRGDWlsK84Yc8uNnfLkFOxsT3g4Wsq9/7wZICjSthoGvfiMxzzxCNQqfRlx4YYXqJLjthB9pU5Nb7RnCTbkmPX/q2QPQc36;BTRNrkzGfyhc+cIuRApT0w=="
 ---

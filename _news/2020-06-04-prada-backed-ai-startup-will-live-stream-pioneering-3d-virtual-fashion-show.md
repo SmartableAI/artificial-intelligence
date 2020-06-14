@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show"
-excerpt: "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream the first 3D Virtual Fashion Show since the coronavirus pandemic forced the fashion industry online."
+excerpt: "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online."
 publishedDateTime: 2020-06-04T18:46:00Z
-webUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/"
-ampWebUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-to-create-first-live-streamed-3d-virtual-fashion-show/"
+webUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/"
+ampWebUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/"
 type: article
 
 provider:
@@ -19,13 +19,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140770534%2F0x0.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-    title: "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show"
-
-secured: "h9xoU5r5HX0dfa/qpVdNzQFj481M5bN3AMLpuRDd3ubRQ84hPOCM+X3K7wc9kfVGYzJl2LyNh9Ry+obkVNM9S1wT7+vWee1wliyyK1ChOvTh63HRQkaTnsjuSGMoCyWwovipRRGuAxJJevYYKsyQXmCL/buqnviZCph3IJ3ra3NRgdMwpYqZ0fw2PXubqFfoaYOEjfGRooIQt73g0qB/dD4rpHmuYqpTEfQi6CGsIy9l26TGjTs78iNey/GN9uWA4KbNayFPx2ifY76VEwM0FHzQJztUe80oZumtGVFCbL6uB0XuhEqDph655jTg0VQgx5QdcW6DJQU67WVLzEvNcU6RYO5N7graE3+vkueQqj5OAD8WF8GsMtyVp55XEIS8VJRxMQdYSaY5kUj2RDlT8ysM2I05jBtgMJPkriIiOJ4JVFjwj7XwGUkj18di7zpXorzHatQlYhVj+biLL9wXqdNhFJj3xtJDrap9CkWSP+NbksecH7g9nnTUaQARemiQ4ZG7yIUI9Hjze3S0rMkKKA==;PH+ren4gQ5pePt8TnAwM5Q=="
+secured: "lo8eLjIEObtKg5tZDAAvJl/ERbxPPH7sRWzoDa1p6qK89sLOfDAF5d8tRsytL758rdKxQ08EP2bfB3GGbNVs4l83ueaV3YIElRhqfD3ZVoAJO07MWMeIB4DHJSQq0IClveKIagOTIrOPkXSnZd16YSt7sSa8yc9QFQ96BEh234et131j60TC74GWYEUXH+KD1K1gXV5JykaSw+kxYFHddfX8Z0E+Ipt+zXUa62LjX2FoU9oM2TymnlXPbT1778g+OioCYCE55b/2a8raE9Tbir9xo2ZPTSVtLRRh4M+vmHesQO4SzpGvkZ6UCRo4FWeZ/Wblq5SrZeBu88FspVTxGaBGEdzukQ8/KKpqra6HYltBec81SddQn84RT8Ynjjly9JcBpT2i0MTPw8tn3XkV86rFUAvXnkA3Sw2/aCpDXFH/6/MpHqn0/u88JTc/pw7QztxpkJz0MiiAJUTl6lRomDHU4VfB47cNFZGr2+hiKhRVtnl4lPDRs9dNnf0VmzVJR1XlaX/O6j1CubrX5HuTuA==;kC2hn7nPCkxSm1sszMpg/w=="
 ---
 

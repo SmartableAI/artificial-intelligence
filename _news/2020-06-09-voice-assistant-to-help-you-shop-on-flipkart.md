@@ -34,22 +34,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Flipkart's voice assistant to help people shop for grocery"
-    excerpt: "Introduced in Flipkart's grocery store, 'Supermart', the Voice Assistant will enable consumers to discover and buy products using voice commands in multiple languages, starting with Hindi and English."
-    publishedDateTime: 2020-06-09T12:19:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/flipkarts-voice-assistant-to-help-people-shop-for-grocery-5381471.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/04/flipkart-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "Flipkart introduces voice-assistant to ease the shopping experience"
     excerpt: "Introduced in Flipkart’s grocery store, Supermart, the voice-assistant lets you discover and shop in multiple languages, starting with English and Hindi."
     publishedDateTime: 2020-06-10T19:56:00Z
@@ -77,20 +61,6 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2018/10/Flipkart-India-e-commerce.jpg"
         width: 631
         height: 420
-        isCached: true
-  - title: "Flipkart introduces voice-assisted shopping in Hindi and English on Supermart, its grocery store"
-    excerpt: "Flipkart, has introduced a voice assistant on its grocery store, Supermart, enabling consumers to discover and buy products more easily, using voice commands. The voice assistant for grocery is curren"
-    publishedDateTime: 2020-06-09T11:15:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/flipkart-introduces-voice-assisted-shopping-in-hindi-and-english-on-supermart-its-grocery-store/article31786876.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 11
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/xvnx4i/article31786875.ece/ALTERNATES/LANDSCAPE_615/BL10FLIPKART"
-        width: 615
-        height: 384
         isCached: true
 
 secured: "rOU5XLjWAvneIN2wXe1TFP+vRilVYbBq/I4w4gX4DqDk1iZWKOWMow4tzHhu6ubX3d1/cyeTGDWKCzSaP0HlbeMl3B7gCqrmwpBgvYcBevsH4OnYIGwvb5YaRxb8OwccYDFZmxziW0wn+1ng5QRKGOBhAiTY2ttGmMA7wlN4tdfsIjdNaENCLomtQ7n8TP5PE2AmmxcCiwVOfMATE503MINsM8Fgo8lP8ICimDk0OSFTH+Yu6pfwOjRgRMnfySixNHQ3LLIFPIaYAcO0DJSqntxSXrbga9XKMk7j1MPQJJZOHvYuaFR2WV5iNK2pWN2B;K76uUlh7/ZegftMVu7xY6w=="

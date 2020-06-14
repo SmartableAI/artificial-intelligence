@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Vehicles Share, Size, Global Industry Analysis, Growth, Trends and Forecast 2025"
-    excerpt: "Manhattan, New York, Analytical Research Cognizance: The Global Self-driving Vehicles Market report by wide-ranging study of the Self-driving Vehicles industry which covers comprehensively all aspects of the different industry verticals."
-    publishedDateTime: 2020-06-09T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-share-size-global-industry-analysis-growth-trends-and-forecast-2025-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
     excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
     publishedDateTime: 2020-06-10T12:43:00Z

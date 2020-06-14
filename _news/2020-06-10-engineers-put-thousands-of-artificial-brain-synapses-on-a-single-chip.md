@@ -26,22 +26,6 @@ images:
     title: "Engineers put thousands of artificial brain synapses on a single chip"
 
 related:
-  - title: "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices"
-    excerpt: "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices."
-    publishedDateTime: 2020-06-09T12:36:00Z
-    webUrl: "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices"
-    ampWebUrl: "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses"
     excerpt: "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses."
     publishedDateTime: 2020-06-11T14:00:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2020/06/MIT-neuromorphic-brain-chip-alloy.jpg"
         width: 639
         height: 359
+        isCached: true
+  - title: "Tiny ‘brain on a chip’ offers AI without the internet"
+    excerpt: "A ‘brain on a chip’ that is smaller than a piece of confetti could lead to portable artificial intelligence (AI) systems for complex computational tasks – without reliance on the internet. Autonomous vehicles are a potential application for the technology,"
+    publishedDateTime: 2020-06-09T13:24:00Z
+    webUrl: "https://www.imeche.org/news/news-article/tiny-brain-on-a-chip-offers-ai-without-the-internet"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 54
+    images:
+      - url: "https://www.imeche.org/images/default-source/default-album/shutterstock_1069662992.jpg?sfvrsn=0&size=705"
+        width: 705
+        height: 396
         isCached: true
   - title: "Tens of thousands of artificial brain synapses on a single chip"
     excerpt: "Engineers have designed a 'brain-on-a-chip', smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors - silicon-based components that mimic the information-transmitting synapses in the human brain."

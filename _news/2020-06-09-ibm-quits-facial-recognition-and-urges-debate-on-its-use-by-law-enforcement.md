@@ -25,22 +25,6 @@ images:
     title: "IBM quits facial recognition and urges debate on its use by law enforcement"
 
 related:
-  - title: "IBM ditches facial recognition tech citing racial justice reform"
-    excerpt: "The IBM Model 5150 is legend to a lot of us old folks, tottering around smash talking iPads-as-computers and telling grand stories about floppy disks. The point is that when it comes to computing, IBM is a household name."
-    publishedDateTime: 2020-06-09T12:12:00Z
-    webUrl: "https://knowtechie.com/?p=121777"
-    ampWebUrl: "https://knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
-    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 44
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2018/11/security-cameras.jpg"
-        width: 1528
-        height: 900
-        isCached: true
   - title: "IBM is canceling its facial recognition programs"
     excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T21:17:00Z

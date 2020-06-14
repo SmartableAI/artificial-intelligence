@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "AI-based vision inspection startup Lincode raises seed funding"
-    excerpt: "US- and India-based Lincode Labs Inc, an artificial intelligence (AI) vision inspection startup focused on the manufacturing industry,"
-    publishedDateTime: 2020-06-09T11:07:00Z
-    webUrl: "https://www.vccircle.com/ai-based-vision-inspection-startup-lincode-raises-seed-funding/"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/10/SeedinvestmentThinkstockPhotosmediumlargex.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Nexus leads Series A funding in enterprise automation startup JIFFY.ai"
     excerpt: "India based enterprise automation startup, has raised $18 million (Rs 135.6 crore) in its Series A funding round led by Nexus Venture Partners. Rebright Partners and W250 Venture Fund also participated in this funding round,"
     publishedDateTime: 2020-06-11T15:06:00Z

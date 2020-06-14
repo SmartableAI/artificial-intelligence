@@ -57,20 +57,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Microsoft’s robot editors called out for racism after confusing Little Mix singers"
-    excerpt: "Microsoft recently announced it was planning to replace journalists on its MSN news website with artificial intelligence algorithms. However, this decision has already backfired as the software recently chose to illustrate a news story about racism with a photo of the wrong member of the band Little Mix."
-    publishedDateTime: 2020-06-09T11:19:00Z
-    webUrl: "https://www.standard.co.uk/tech/microsoft-robot-ai-editors-jade-thirwall-little-mix-a4463706.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 33
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/06/09/11/little-mix-comp2-0906.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "Y5RHsw08MtLWQhPLthmwWi5YDAOhJEXpfUaWOc9Hko9U2CQU4Noqp0usBhYHHOtolMfbh3azz1kVQyVtloL5fy7L9+tuBtawfH+Yt9LCJVWM4WZWyGaFq0rQUmHt81giaZ7t6f5UOwJ+fKfhIQeOFVxyGCjJb16FQmchlLtviSuAgfzRrWNsaVvMwAj3cC354VPTYF6SEHWh7DBCsL7y+Bslqi/XV/sAypuNVQF4ckb5prOyYRGPKbNN6dxbZr9gsXWyt4cmBlXEOWmJZCT2CY0ZnxDVKp3fOpfm4s4JnJDD8zbNVJdlISHirn1As4tV;vABg2kFdK74+/CMQS/oamw=="
 ---

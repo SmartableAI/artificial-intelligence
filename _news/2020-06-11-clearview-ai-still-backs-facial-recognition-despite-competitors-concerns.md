@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
 type: article
 quality: 102
-heat: 242
+heat: 232
 published: true
 
 provider:
@@ -197,22 +197,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
         width: 1200
         height: 630
-        isCached: true
-  - title: "IBM quits facial-recognition market over police racial-profiling concerns"
-    excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"
-    publishedDateTime: 2020-06-09T12:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
-        width: 600
-        height: 360
         isCached: true
   - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
     excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate rules.”"

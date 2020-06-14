@@ -208,22 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM quits facial-recognition market over police racial-profiling concerns"
-    excerpt: "CEO writes to US Congress calling for ‘national dialogue’ about use in law enforcement"
-    publishedDateTime: 2020-06-09T12:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/07f6ce392c3fa5024b2b80d6a2ce115c8c88b51b/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91378de57839d380c98aecdbecc05144"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
     excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate rules.”"
     publishedDateTime: 2020-06-10T22:41:00Z

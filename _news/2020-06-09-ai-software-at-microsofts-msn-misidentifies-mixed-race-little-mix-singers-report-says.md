@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-m
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.irishtimes.com/image-creator/?id=1.4275501&origw=1209"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft’s robot editors called out for racism after confusing Little Mix singers"
-    excerpt: "Microsoft recently announced it was planning to replace journalists on its MSN news website with artificial intelligence algorithms. However, this decision has already backfired as the software recently chose to illustrate a news story about racism with a photo of the wrong member of the band Little Mix."
-    publishedDateTime: 2020-06-09T11:19:00Z
-    webUrl: "https://www.standard.co.uk/tech/microsoft-robot-ai-editors-jade-thirwall-little-mix-a4463706.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 33
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/06/09/11/little-mix-comp2-0906.jpg"
-        width: 1500
-        height: 1000
         isCached: true
 
 secured: "lcS7pTXlKGROU7BhtaTEDhfQza1+sai563iTI+nz6WpDxAS5A1IgU3zwI3gW8UAwSzlH3vlpkeAgkdywFfhW65syUJh81+dS0YcmcZUn1lLsxprcD0prvF/ZQy6G/G0O4qux/d90zLmLT0AllR958sehFF2TBPGparDoPxiZY+mtWJYvNbXRCPOIuwXIC9vWWFAHlMGTL5GD0sAR7h0/DF57E85oXE2/c3GwMo1qCBdPb9q8ZxtZjXY+g+aqmZ3MXOfjox1HDRgcEw7kfNNgKCybc/dpxCkwWIbbCmFqJFCRkMmUR/On9hs+TX9n9EioU6I4P6Oejo8YmVfyWHXKjubLKGQUMovKcZ0DqhdQfFuPFZK5upKaKjsz44LEMlUdWT8tKlyTS4JaiE+WoPln3nUwHVEcSZ5dq+fQcxI9f5XJ0uKdityWkbTexZgZVEz/afIkuJ/YMrG5UUwaJNK/t+nbxwvFx4BTMOaUkaGS4PNU0RZeSOwyFGbE8+iLplff;Opk1JH6G8SnZQDJPef5SJQ=="

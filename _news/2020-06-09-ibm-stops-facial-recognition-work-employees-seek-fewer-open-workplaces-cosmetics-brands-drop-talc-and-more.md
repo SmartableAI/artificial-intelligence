@@ -284,15 +284,6 @@ related:
         width: 459
         height: 405
         isCached: true
-  - title: "IBM Is Dropping All Facial Recognition Research and Development"
-    excerpt: "IBM has announced that its company is no longer offering general-purpose facial recognition or analysis software, with the CEO calling for a \"national dialogue\" on whether and how the technology should be employed by law enforcement."
-    publishedDateTime: 2020-06-09T11:36:00Z
-    webUrl: "https://www.ign.com/articles/ibm-dropping-facial-recognition-research-development"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 19
 
 secured: "YAGepWFKlSP5w4wncb/IbLkMbWbbr4uwlPbpDRYIfTV0JwbapsfVT2xIRHcJ1/cchH9bCB6pYfEnvdLAEz+JmOEfL7gBaOu4XNHhznT0rzByjibyGlNSmAnfQwO8Mhw5ermkhskwRzJGqJURg15xqvTmRD7082t3giYhugFwaXwOHEZMedhlJKlgJK3xb4JOgDeZxUsRJOqO6j2NU2+XX4kdWoG6AZ73CiceKFYoDX3MYG/tYFDUEaYosWKDOVc9dmNuRCIDNeBg5N5BJs3869U9bcu61eP0nX3ZNceodP171WMQ9AIww3Txtb8ayYnWdHBFF6bUTePxdzoUGJDo/OAV3mzaWe+BmqrmyhUJ8ETu2EcsURNtZRToKkZKRq0qrsctpM/jew+OCoaxnh17Pf5YE64IECymaALqpFhNQ05cVOLnupmykqx1sjCEsBvQJmW05aFIUUDw8h7hn+xfhky9Y5SmXwCe/JdncrTcGGt/UiSJtOp0axKXnWNZvmDf;h3cVk0LA2/Yb//M4qyoDuQ=="
 ---

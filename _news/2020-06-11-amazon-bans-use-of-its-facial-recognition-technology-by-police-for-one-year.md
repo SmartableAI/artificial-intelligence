@@ -93,22 +93,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "IBM steps back from facial recognition technology, calls for reforms"
-    excerpt: "IBM CEO Arvind Krishna called on Congress to enact reforms to advance racial justice and combat systemic racism."
-    publishedDateTime: 2020-06-09T12:24:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/ibm-steps-back-facial-recognition-technology-calls-reforms-n1228186"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1228186"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1228186"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3384411/200609-arvind-krishna-al-0813_1d57cddd0067f0a01d875d5356afc59a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
     publishedDateTime: 2020-06-10T21:34:00Z
