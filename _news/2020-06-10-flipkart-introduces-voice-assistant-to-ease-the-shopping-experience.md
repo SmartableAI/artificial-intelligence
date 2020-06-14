@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T19:56:00Z
 webUrl: "https://www.afaqs.com/news/mktg/flipkart-introduces-voice-assistant-to-ease-the-shopping-experience"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     title: "Flipkart introduces voice-assistant to ease the shopping experience"
 
 related:
-  - title: "Flipkart Rolls Out Multilingual AI Voice Tool"
-    excerpt: "Flipkart, Walmart's supermart online grocery store in India, has introduced a voice assistant that allows users to buy products in multiple languages."
-    publishedDateTime: 2020-06-09T17:50:00Z
-    webUrl: "https://www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/"
-    ampWebUrl: "https://www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2020/flipkart-rolls-out-multilingual-ai-voice-tool/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "Flipkart intros voice assistant on e-commerce platform"
     excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
     publishedDateTime: 2020-06-10T01:35:00Z

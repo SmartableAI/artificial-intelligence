@@ -305,53 +305,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-microsoft-wont-sell-facial-recognition-to-american-cops-after-protests.md",
-      "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-      "excerpt": "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg",
-          "width": 1199,
-          "height": 784,
-          "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "publishedDateTime": "2020-06-11T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -911,6 +864,44 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
+      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
+          "width": 744,
+          "height": 389,
+          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "publishedDateTime": "2020-06-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarMag",
+        "domain": "starctmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },

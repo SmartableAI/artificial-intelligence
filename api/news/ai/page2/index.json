@@ -96,53 +96,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-microsoft-wont-sell-facial-recognition-to-american-cops-after-protests.md",
-      "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-      "excerpt": "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg",
-          "width": 1199,
-          "height": 784,
-          "title": "Microsoft Won’t Sell Facial Recognition To American Cops After Protests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/",
-      "publishedDateTime": "2020-06-11T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -706,6 +659,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
+      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
+          "width": 744,
+          "height": 389,
+          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "publishedDateTime": "2020-06-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarMag",
+        "domain": "starctmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses.md",
       "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
       "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
@@ -883,48 +874,11 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-ai-analytics-platform-statustoday-acquired-by-glickon.md",
-      "title": "AI Analytics Platform StatusToday Acquired by Glickon",
-      "excerpt": "Glickon is a leading HR tech company headquartered in Italy that provides a candidate and employee experience platform that can help engage employees while generating data and insights. With the increasing focus on remote work and collaboration,",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-analytics-platform-statustoday-acquired-by-glickon-1029299544",
-      "publishedDateTime": "2020-06-11T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
       "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
       "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
       "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "heat": 232,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -1084,7 +1038,7 @@
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
       "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 781,
+      "heat": 881,
       "tags": null,
       "images": [
         {
@@ -1304,6 +1258,44 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19.md",
+      "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
+      "excerpt": "In fact, AI can improve decision-making for healthcare CIOs in three areas, according to Erick Brethenoux, research vice president at Gartner Inc. They are: Anticipation: “Predictive techniques and knowledge graphs can help with predictions and analysis.",
+      "webUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/2928bf8fcbe34c17880bdd8af4530429.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-06-10T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

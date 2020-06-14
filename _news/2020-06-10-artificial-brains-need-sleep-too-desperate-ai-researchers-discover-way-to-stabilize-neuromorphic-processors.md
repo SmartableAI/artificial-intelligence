@@ -28,22 +28,6 @@ images:
     title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
 
 related:
-  - title: "Study: Artificial brains need rest too"
-    excerpt: "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep"
-    publishedDateTime: 2020-06-09T17:55:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-11T14:48:00Z
@@ -60,6 +44,17 @@ related:
         width: 744
         height: 389
         isCached: true
+  - title: "Here’s why artificial brains may need sleep for proper functioning"
+    excerpt: "The discovery came about as the research team worked to develop neural networks that closely approximate how humans and other biological systems learn to see."
+    publishedDateTime: 2020-06-14T09:57:00Z
+    webUrl: "https://www.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I.html"
+    ampWebUrl: "https://m.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
   - title: "Artificial brains may need sleep for proper functioning, says study"
     excerpt: "According to new research from Los Alamos National Laboratory, artificial brains too might require sleep for proper functioning. \"We study spiking neural networks, which are systems that learn much as living brains do,"
     publishedDateTime: 2020-06-13T12:59:00Z

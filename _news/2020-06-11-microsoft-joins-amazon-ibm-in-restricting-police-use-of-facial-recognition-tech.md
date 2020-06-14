@@ -27,53 +27,78 @@ images:
     title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
 
 related:
-  - title: "Daily Crunch: IBM is getting out of facial recognition"
-    excerpt: "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality"
-    publishedDateTime: 2020-06-09T17:19:00Z
-    webUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/"
-    ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "IBM to withdraw from facial recognition market out of profiling fears"
-    excerpt: "IBM announced Monday that it's withdrawing from the general-purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
-    publishedDateTime: 2020-06-10T01:14:00Z
-    webUrl: "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
+    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
+    publishedDateTime: 2020-06-11T01:43:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 102
     images:
-      - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
         width: 756
         height: 567
         isCached: true
-  - title: "A Bill in Congress Would Limit Uses of Facial Recognition"
-    excerpt: "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough."
-    publishedDateTime: 2020-06-12T20:52:00Z
-    webUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
+  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
+    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
+    publishedDateTime: 2020-06-11T15:54:00Z
+    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
+        isCached: true
+  - title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
+    excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
+    publishedDateTime: 2020-06-10T22:45:00Z
+    webUrl: "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 92
+  - title: "Amazon Won't Let Police Use Its Facial Recognition Tech for One Year"
+    excerpt: "Amid nationwide protests over police brutality, the company is stopping law enforcement from using its most controversial product."
+    publishedDateTime: 2020-06-11T01:06:00Z
+    webUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/"
+    ampWebUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
     type: article
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 91
     images:
-      - url: "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg"
+      - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Microsoft declines to sell facial recognition tech to police"
+    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
+    publishedDateTime: 2020-06-11T17:56:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition/microsoft-declines-to-sell-facial-recognition-tech-to-police-idUSKBN23I2T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521939835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
+        width: 817
+        height: 545
         isCached: true
   - title: "Amazon Is Suspending Police Use Of Its Facial Recognition Tech For One Year"
     excerpt: "Amazon said in a blog post Wednesday that it would be implementing a one-year suspension on law enforcement use of Rekognition, the company’s facial recognition technology. The move comes during a national moment of protests against police brutality,"
@@ -91,173 +116,129 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Microsoft won't sell facial recognition to police without federal regulation"
-    excerpt: "Any future law must be “grounded in the protection of human rights,\" said Microsoft president Brad Smith. Microsoft will not sell its facial recognition technology to police departments until there is a federal law regulating its use,"
-    publishedDateTime: 2020-06-12T14:54:00Z
-    webUrl: "https://www.nbcnews.com/tech/internet/microsoft-won-t-sell-facial-recognition-police-without-federal-regulation-n1230286"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1230286"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1230286"
+  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
+    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
+    publishedDateTime: 2020-06-13T14:41:00Z
+    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 86
+      name: CNN
+      domain: cnn.com
+    quality: 83
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3070026/191025-brad-smith-al-1430_30d02ca4c5439f5585b0b8ea0eb59e79.jpg"
-        width: 2500
-        height: 1409
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "The influential project that sparked the end of IBM’s facial recognition program"
-    excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."
-    publishedDateTime: 2020-06-10T08:00:00Z
-    webUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/"
-    ampWebUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
+  - title: "Amazon Suspends Police Use of Its Facial-Recognition Technology"
+    excerpt: "The company said it is halting law-enforcement use of its facial-recognition technology for a year, as Congress takes steps to regulate such tools amid widespread criticism about racial and gender bias."
+    publishedDateTime: 2020-06-11T00:03:00Z
+    webUrl: "https://www.wsj.com/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-suspends-police-use-of-its-facial-recognition-technology-11591826559"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 932
+      - url: "https://images.wsj.net/im-197060/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
-    excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
-    publishedDateTime: 2020-06-13T01:29:00Z
-    webUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
+  - title: "Amazon just announced that it's going to suspend police use of its controversial facial recognition technology for one year"
+    excerpt: "Police departments across the country use Amazon Web Services' Rekognition, and studies have shown that it's biased against Black people."
+    publishedDateTime: 2020-06-10T22:17:00Z
+    webUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199768748%2F0x0.jpg"
+      - url: "https://i.insider.com/583c6db9ba6eb66d268b6326?width=1200&format=jpeg"
         width: 1200
-        height: 820
+        height: 600
         isCached: true
-  - title: "Amazon pauses police use of facial recognition"
-    excerpt: "Top News Amazon pauses police use of facial recognition. Posted . Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognitio"
-    publishedDateTime: 2020-06-11T00:22:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCHSMNKV"
+  - title: "Amazon bars police from using its facial recognition technology"
+    excerpt: "Amazon says it will stop police forces from using its controversial facial recognition software for a period of one year, in order to give Congress the time to enact legislation governing its use. Concerns have been raised regarding the accuracy and consistency of Rekognition — part of Amazon’s cloud business offering — particularly when ..."
+    publishedDateTime: 2020-06-11T00:07:00Z
+    webUrl: "https://www.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
+    ampWebUrl: "https://amp.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9864f695-59a9-4f59-a722-183962bb42e9"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200611&i=OVCHSMNKV&r=OVCHSMNKV&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "CaixaBank introduces facial recognition ATMs"
-    excerpt: "Spain’s CaixaBank is rolling out cash machines fitted with facial recognition technology so customers can withdraw cash without entering a PIN. The bank began using the ATMs in February 2019, with an initial 20 machines installed at major branches in Barcelona and Valencia."
-    publishedDateTime: 2020-06-10T09:44:00Z
-    webUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs"
-    ampWebUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: The Financial Times
+      domain: ft.com
     quality: 59
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F6a2c4282-a739-11ea-a27c-b8aa85e36b7e?source=amp&fit=scale-down&width=2048"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "In wake of George Floyd’s death, IBM gets out of the facial recognition business"
-    excerpt: "IBM says it is abandoning the facial recognition business out of concern over how it can be used for mass surveillance and racial profiling."
-    publishedDateTime: 2020-06-10T10:04:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
+  - title: "George Floyd: Microsoft bars facial recognition sales to police"
+    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
+    publishedDateTime: 2020-06-12T02:10:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-53015468"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 54
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e78e101/2147483647/strip/true/crop/5685x3713+0+379/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F04%2F0062bd8046c6baded94c42e07e03%2Foe-john-stanley-ford-ibm-1950s.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Amazon Suspends Police Use of its Facial Recognition"
-    excerpt: "Amazon banned police use of its facial-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly ide"
-    publishedDateTime: 2020-06-11T12:35:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2019/05/Bezos-protest.jpg?fit=1024%2C625&#038;ssl=1"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
         width: 1024
-        height: 625
+        height: 576
         isCached: true
-  - title: "Tech companies reconsider facial recognition software"
-    excerpt: "IBM says it will no longer sell or research facial recognition software, and Amazon announced a moratorium on police use of its software."
-    publishedDateTime: 2020-06-11T14:51:00Z
-    webUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/"
-    ampWebUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+  - title: "Controversial startup to continue supplying police with facial-recognition tech"
+    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
+    publishedDateTime: 2020-06-11T23:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
+      name: Mashable
+      domain: mashable.com
+    quality: 50
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1161938837.jpg?fit=740%2C416"
-        width: 740
-        height: 416
+      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Daily briefing: IBM has backed out of the facial-recognition business"
-    excerpt: "IBM will no longer sell “general purpose” facial-recognition technology, Black scientists call out racism in the wake of police killings and the latest must-read papers and preprints on COVID-19."
-    publishedDateTime: 2020-06-10T08:30:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-01725-7"
+  - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
+    excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate rules.”"
+    publishedDateTime: 2020-06-10T22:41:00Z
+    webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
+    ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: Deadline.com
+      domain: deadline.com
+    quality: 42
+    images:
+      - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Amazon Halts Police Use Of Its Facial Recognition Technology"
+    excerpt: "Amazon is the latest tech company to respond to demands that law enforcement not have access to controversial facial recognition technology."
+    publishedDateTime: 2020-06-10T22:59:00Z
+    webUrl: "https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
     quality: 39
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01725-7/d41586-020-01725-7_18065162.png"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Now Microsoft is banning police from using its facial recognition tech, too"
-    excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
-    publishedDateTime: 2020-06-12T11:06:00Z
-    webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?partner=rss"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amazon pauses police use of facial recognition software"
-    excerpt: "Use of the company's Rekognition software platform will be suspended for one year in the hopes Congress will have \"enough time to implement appropriate rules\""
-    publishedDateTime: 2020-06-11T13:31:00Z
-    webUrl: "https://www.policeone.com/investigations/articles/amazon-pauses-police-use-of-facial-recognition-software-XJMlJZP7HBxtZp3d/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/amazonfacerec_61120_news.png?w=1600"
-        width: 459
-        height: 405
+      - url: "https://media.npr.org/assets/img/2020/06/10/ap_17047619531765_wide-52d59385b7a6e24c7b53253cf3d3bff466942afb.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "DgRMufEV8614f2UE3xqBrNFC0HKzgddWNwGusXbsWhC8L7On09nMlDptING14UQ3SXe6irue6kuSuK/B4ZLNUvEIP9iXIwWDG3UIWDZW8aQuzt+F7IyHlafo4EZ3NP11cB+bPAohZBW0r+9eJ32t+IQKsfpLeOBn5Y/tRLTe8f2rMcMXwW62F7zpyC9J4t3GsOV935g3XBZTfZM+zKFDitD/Ezqzkt3kjmLpuD+XfYvIPEAw6Iq4S3SBjKvEJ0N97VnpRCRDUPoilcN8V7NlUTycdJFco2xJsWDH1fgQkWoGovfKosHuolkIlYXFACiqWNkxEYCNm8P+4odgHLcPlCfO7pQf/4B5w4QnvQK2Yw9MicCzj2THr799qK+u47lHlCx4PB7J1o2/di1yMU5kQvVUQ0amioSyrhhFKRUtp2rG7pSXGMr22O32zkTYwrwZ4dJfdb6TNNKCRCUsn2+Y7RzHJj8KdUevCOnoAjSL7Dal5hmqV0enFfrC/AMdpCr8;QXK2OTV8OCFajW/IIw98YA=="

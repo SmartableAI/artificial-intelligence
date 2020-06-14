@@ -2,53 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
-      "title": "Computer Vision = Better Service + Lower Costs",
-      "excerpt": "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI.",
-      "webUrl": "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Computer Vision = Better Service + Lower Costs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
       "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
@@ -1048,6 +1001,45 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-tensorflow-220-arrives-with-breaking-changes-and-drops-python-2-support.md",
+      "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
+      "excerpt": "TensorFlow 2.2.0 has been released, nearly four months after v2.1.0. The TensorFlow team has been keeping busy: In the latest version of the machine learning platform, they have added lots of new features and breaking changes, and have also fixed several bugs.",
+      "webUrl": "https://jaxenter.com/tensorflow-2-2-0-171759.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
       ]
     }
   ],

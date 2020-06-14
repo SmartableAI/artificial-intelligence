@@ -27,6 +27,22 @@ images:
     title: "Amid Protests Against George Floyd’s Murder, Amazon Bans Police Use of Its Facial Recognition Technology For 1 Year"
 
 related:
+  - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
+    excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
+    publishedDateTime: 2020-06-11T14:12:00Z
+    webUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 42
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS bans police from using its facial recognition technology for a year"
     excerpt: "Amazon Rekognition. The announcement comes just two days after Amazon’s cloud rival IBM Corp. said it would no longer develop or offer its own facial recognition technology to anyone."
     publishedDateTime: 2020-06-11T00:01:00Z

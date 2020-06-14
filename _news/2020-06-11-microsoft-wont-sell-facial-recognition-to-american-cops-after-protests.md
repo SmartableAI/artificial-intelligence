@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-won
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,21 +31,67 @@ images:
     title: "Microsoft Won’t Sell Facial Recognition To American Cops After Protests"
 
 related:
-  - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
-    excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
-    publishedDateTime: 2020-06-11T14:12:00Z
-    webUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+  - title: "IBM to withdraw from facial recognition market out of profiling fears"
+    excerpt: "IBM announced Monday that it's withdrawing from the general-purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
+    publishedDateTime: 2020-06-10T01:14:00Z
+    webUrl: "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/"
     type: article
     provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 42
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
+    excerpt: "IBM and Amazon have withdrawn their products, citing the software’s use in racial profiling"
+    publishedDateTime: 2020-06-13T15:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ebcf6ef9fcd40d37e487aa228b8eb9e2419afa7/0_232_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edc87d8e28beaa42bee0f8521c05b1b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "In wake of George Floyd’s death, IBM gets out of the facial recognition business"
+    excerpt: "IBM says it is abandoning the facial recognition business out of concern over how it can be used for mass surveillance and racial profiling."
+    publishedDateTime: 2020-06-10T10:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-06-10/after-george-floyd-death-ibm-quits-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e78e101/2147483647/strip/true/crop/5685x3713+0+379/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F04%2F0062bd8046c6baded94c42e07e03%2Foe-john-stanley-ford-ibm-1950s.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Daily briefing: IBM has backed out of the facial-recognition business"
+    excerpt: "IBM will no longer sell “general purpose” facial-recognition technology, Black scientists call out racism in the wake of police killings and the latest must-read papers and preprints on COVID-19."
+    publishedDateTime: 2020-06-10T08:30:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-01725-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-01725-7/d41586-020-01725-7_18065162.png"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "WJ9MtXKxne2Ym+urDkZPZ6qVURcMC012pMh84QtXiVuE3g1kFs6coKunOFEdUKeWLOlnbk0M1fR5m++0PLFjLIB7Ht+0DigiR1gT+BnbDES+x2g9Xa2A7eW92BMUP8gDqieZITHKmDMOua88QBwZ3DwBzm2fCqlU+S0LsqiDVDYTfw+Ox+hKxXYEn9cb3brnM8k9+ykb7xh7SsvhYOEY/zgBbsGPZspMAH/Rhrdr9RQcafMDUXqK2n4yCIq2JLdEJC3cVLf+PpcMBYVcZs3aJMRDPcszd8t3znrg0g+O5ZaIVUj4/6RaynWQqI6gP9rOeaAEhCqpAdHRG/OPb2uiFmhPfX9X+ZVui9e8rEqnSzY/t0/72qwkWqft7bS5liB0mtOfMp9qbv4wWztWteyqSj2kJyozQTj/WVKIMLm+WxfpGrwBp6IrRtwK/aTTG8WRiZezgHGD30P5QaczvqqEkfxqgdgLKbQaZ3zE/h/FiqBg0Od5tYtNQR1sNXUGoZcW;IyTYeRhw+1k0Wwyct9KkPw=="

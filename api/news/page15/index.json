@@ -2,44 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
-      "title": "US joins G7 artificial intelligence group to counter China",
-      "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s",
-      "webUrl": "https://wgnradio.com/news/technology-news/us-joins-g7-artificial-intelligence-group-to-counter-china/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2020/01/favicon.png",
-          "width": 512,
-          "height": 512,
-          "title": "US joins G7 artificial intelligence group to counter China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wgnradio.com/news/technology-news/us-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/us-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
-      "publishedDateTime": "2020-05-28T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN Radio",
-        "domain": "wgnradio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
@@ -1100,6 +1062,52 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic.md",
+      "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+      "excerpt": "At some point, every one of us has had the feeling that online applications like YouTube, Amazon, and Spotify seem to know us better than ourselves, recommending content that we like even before we say it.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-32-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "publishedDateTime": "2020-05-28T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
