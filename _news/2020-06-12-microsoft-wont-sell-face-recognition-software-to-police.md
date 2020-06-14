@@ -2,16 +2,16 @@
 category: news
 title: "Microsoft won't sell face recognition software to police"
 excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-publishedDateTime: 2020-06-12T21:17:00Z
-webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+publishedDateTime: 2020-06-12T13:29:00Z
+webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
@@ -857,7 +857,7 @@ related:
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
     publishedDateTime: 2020-06-11T21:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/?rc_fifo=3"
+    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     type: article
@@ -1200,6 +1200,6 @@ related:
         height: 835
         isCached: true
 
-secured: "OVBVqTPpAXVz/1ug9djb7Gy5vsgE9U7pIB5lBJgDd5ZGwnIVaj+995tkgBnDBS7LOJlvhS0KpKbKK/7jB32lAHQS3oRaKp+/AwVgBopTEgRtlU1YeJnF4nalXbzZsfxcYSQPPOrEgbFYm6D72dsAt/c0ORaZMScVdEyYlyZWeeNaLn0MgEqfoO4LsV8EDW7+PHJG2+ThV7fepsJtiBT3mkV+LaBV6cFG5WFUoX24ZBn4fudWwl4xhO1YWb0GIGxxfetOWI4k64+KzfnQ2DdIeMpBxDvvl9BPPYVjFXeQfCmgZtIL+2dgKFHTlNIrKwsLaiVpx4fA0mG9WCUICZNcQP4OJ60nwUWpRFKb26vycY4DD2sOp3JIjXmVURq/dFPw3Eiw42arGNFORmta9Lk/c7bgJfBBWQpygF1mFRATYsGiimWOvDzRyJYGjKMd/KzlBVcuABjJ4j6BarPoY8q0SduWKtI1ZjZpSqPWTJgCCkq5gXbqE3//U1Kt4qxrB2AlzbWUE7C500SEMM4J60jzXw==;79d4tlOLW+5KPLYZB9zobQ=="
+secured: "BSi50sNmeX6tqf3j+FSU8njt4iufcwTK1UMJ4W7nOQ3IEj/lCpvHSkYnenK4O/YjCytr3xzQAd5jXlWsspWEOT1XZ+IkhRjQ/YBUeh7T8SgL4GusS2WmLRtW1rV8KkjGxyjdwzVEIz9qoEgA3xhIV0RDfY+GCoW9tb8eYsnbF+OARngYUwd6ewZj2A5RIfeypEPnCtx0KIicxweTrQRH3aec4xxhk1As5NrSWULEPK6u16AWHcA1dYeJhi1Bi/l20Soocx6RYubudBtaApGEAnl8axqOx8Of6YLlowyUSwYHoc17nj+kmYjuqref2xAV21iwCRWGMgLxhRAYq5HJ3g==;7X9k5sdnJ7qhp51cv1wBdg=="
 ---
 

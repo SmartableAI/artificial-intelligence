@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/06/14/where-are-all-the-robots/"
 ampWebUrl: "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "Where are all the robots?"
 
-secured: "3Ial6xFOo1HI9zzvM1YZs02apsUCmvgVgWX8SRj9CB4+UieLKe9qIXezeh/iGf5IDMz2uIqh/UcPIace6qFmF3rfaKgJ3rXFDMmZuXKCTWkEs9XyFlx3GT+3t2K+kp32zzmqICnflyJggAJfoAglph4rmMvqk99iWel4wDY9DHz8ud/e1OwUZ/jj/6ElS55zA0UFMISyK9vTkN3VFfnCZ5a+O+3a+0hj6RKtEa90yDiokF1Wy+r85+mS72oAhdmjSonCfqyanqVLjsBnNFjW7UZC9XrAndzPiQFl28lL+WFGTqMsnZZMrOUcqRbthcePaVrgTeO+h5jfFeNBIlZOdQ==;SqCLcPIsYYQGNPFhFvp8MQ=="
+secured: "X0c19T9+oH0hqu/E3eu22VQOA847K0j3OJcNMMpFpyFKbrapOmGgYAHs5GyyzAlPc0FxEEDlqOrBUMWufMzicieLTmVvMo3e6WGghRcBxbuMkM265vbjrAGt3+pKP2kF5j/h8kAhuqdc8KXKJXHOw2uh2laeiV24jQDcOclhfXRfoNBR0ylnRZUfZU91maAWPKqZOD1SVg0zQ2UspZgOcepX00boTG6fQ3L6Bn0blrpE/CGZzM6WFAPnR99xuksnNl2jwxTZ1UvRF8zn+6nNpHoHboF0iL0OCOQpoLtbfAN3s9f8YyHx+88zhV28HqFsI0Z6HvjC8I4Dxa3jnf04jeUDG/VUEw2gcPSwgT4r8KJG96uAE9qN5QftAzIeFAz/1/sGtLE0eknrt+z0PTikMCfVTuHNc606o6L3+9IBegozumkpx/Js3N0cxFcBBgcD/Xb/SVKMXJfUkBvhb5TcPgAziRf896pXucFMeTO/8sZ3Oa8g7iXducRm9AqLbspU+zoKkACUrC40dEsX5u0eUA==;/8MuKn44AIVdhfXGpL5toA=="
 ---
 

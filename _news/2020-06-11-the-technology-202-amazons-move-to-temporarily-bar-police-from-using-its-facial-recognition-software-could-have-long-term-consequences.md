@@ -858,7 +858,7 @@ related:
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
     publishedDateTime: 2020-06-11T21:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/?rc_fifo=3"
+    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     type: article
@@ -976,12 +976,12 @@ related:
         isCached: true
   - title: "Microsoft won't sell face recognition software to police"
     excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-    publishedDateTime: 2020-06-12T21:17:00Z
-    webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+    publishedDateTime: 2020-06-12T13:29:00Z
+    webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/12/42/75/19541878/3/rawImage.jpg"

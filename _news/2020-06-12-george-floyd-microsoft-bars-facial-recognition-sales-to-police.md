@@ -2,18 +2,22 @@
 category: news
 title: "George Floyd: Microsoft bars facial recognition sales to police"
 excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-publishedDateTime: 2020-06-12T02:10:00Z
-webUrl: "https://www.bbc.co.uk/news/business-53015468"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
+publishedDateTime: 2020-06-12T00:34:00Z
+webUrl: "https://www.bbc.com/news/business-53015468"
+ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -241,6 +245,6 @@ related:
         height: 787
         isCached: true
 
-secured: "x78G0+QNRLStMoAaeZtmq7w1f5c3Ds1FWzbdd1AFhPxMLMk1p3LjYiAHrrdkU4iaLMqfBrHpqZKWzb3vNVG5B2VuUy0KHgfI5l6kQsGhFz9e4IB5VFuknaoMqTC0xfSNsuF4jsGH4jeqg826zOD8ckalYF0S8AOtYFV0u3EENaVZXZChHvkiVZW2JohKDFWqT6sdjDdF5C0aUwu3VL1HZqbQ9wa7yL+w0q24Fe4NRcYER/uj2oP30PLFWwMV8NKllFM/82AquKR8EbsLYGQby03ib8ENbEW+qpGu3PmzQN/b+IjiCRmPmUToTE3cRjRPtZRxH7mhWtHFkUaTHF+h7w==;Jqt8K5J5ndI7+Bt+oR+fmg=="
+secured: "Tz5JdDxfGzk/+8+TebMJ4GAIhm/FmV4sdRXPVDy0XGAOSImjZ1BfPWOHYU8RMVt/7h+9MTPhRpb81iE/o2IfhtQDKk586vF8K2KajlmTpCHQg0yrhNlbB2z4IPDpD845BQQ1EqSyB3cghnzDJbCy/weCTC3Gl5t0rXvXGWRfT0gKWPTSF7GDDLaVhQP21sXjViItb+AtNic/XGgiOzfGhudjPbRtxrLaoM5HWmoP2VtP3uvb3Hmku+o8YF+8OlyfF0AxRRTG35+9aDrb5qGJQkFwZZ6YhUCF2KYmn37GYboSdRSzbJIkmhgVtv4FtVe0wDXl+zF7bcW3f3Jh55YBSQ==;jysxGU8xO9sM6fAqPL2KOQ=="
 ---
 

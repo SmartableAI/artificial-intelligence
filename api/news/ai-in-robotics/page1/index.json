@@ -6,7 +6,7 @@
       "title": "Where are all the robots?",
       "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
       "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {

@@ -25,20 +25,6 @@ images:
     title: "IBM Cloud hit by multi-hour worldwide outage"
 
 related:
-  - title: "IBM cloud impacted by worldwide outage"
-    excerpt: "IBM is suffering a worldwide outage of its cloud platform, taking out a range of services and customers' operations. In status notifications, IBM confirmed widespread problems with IBM Cloud. The problems are also impacting services such as Cloud Object Storage,"
-    publishedDateTime: 2020-06-10T00:07:00Z
-    webUrl: "https://www.itnews.com.au/news/ibm-cloud-impacted-by-worldwide-outage-549092"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/ibm-stock-2.jpg"
-        width: 460
-        height: 285
-        isCached: true
   - title: "Widespread Outage Hits IBM Cloud"
     excerpt: "IBM hasn’t yet announced the extent, interval or suspected cause of the service disruption, which temporarily brought down the webpage used to check on the availability of IBM cloud services. IBM Cloud appears to have suffered a widespread outage Tuesday that temporarily brought down some popular websites,"
     publishedDateTime: 2020-06-10T01:04:00Z
