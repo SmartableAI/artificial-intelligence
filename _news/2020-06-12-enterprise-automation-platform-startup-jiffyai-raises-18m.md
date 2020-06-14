@@ -24,6 +24,22 @@ images:
     title: "Enterprise automation platform startup Jiffy.ai raises $18M"
 
 related:
+  - title: "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million"
+    excerpt: "Jiffy.ai was created to upskill and provide job training and placement programmes for people whose positions are displaced due to RPA and other automation technologies."
+    publishedDateTime: 2020-06-14T20:09:00Z
+    webUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/5/w600X390/USD_Reuters_Picture.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding"
     excerpt: "JIFFY.ai, an enterprise automation innovation company based in Silicon valley launched in 2018, to help enterprises optimize business functions,.Jiffy.ai. Babu Sivadasan. enterprise automation. AI technology."
     publishedDateTime: 2020-06-14T00:35:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://img.manoramaonline.com/content/dam/mm/en/business/news/images/2020/6/13/babu-sivadasan-jiffy.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "Nexus leads Series A funding in enterprise automation startup JIFFY.ai"
-    excerpt: "India based enterprise automation startup, has raised $18 million (Rs 135.6 crore) in its Series A funding round led by Nexus Venture Partners. Rebright Partners and W250 Venture Fund also participated in this funding round,"
-    publishedDateTime: 2020-06-11T15:06:00Z
-    webUrl: "https://www.vccircle.com/nexus-leads-series-a-funding-in-enterprise-automation-startup-jiffy-ai"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2020/06/JiffyaifounderBabuSivadasan.png"
-        width: 810
-        height: 506
         isCached: true
 
 secured: "CqPftzzx8bVcDpjDrpzrF1oaD8cGL5U4dRGYhv6solxUCiezvaNbiMDIixW4VFbq0X6Vq0JB7oiLi3rJvp3oa+qUjkumuJT1accVVwQHgEeF5OccPXaO3FZjctu9hA/yDSazKiBNdgiIv0qt5z0NygVxy4HGRO+KkanYvxL1rmumY7oKnUo9kbWcHTl4o1qVGSENMBN5K8vhPJqUlROMTaFtLX3wKhy4v6JIQmwM8536AhS7L2zewry9FKIyfQMYpX3JEZcJVjFOvM6pssVku1pQGH3aMZvXVQbL40FXtIy8/ME6JYLR7Bj8ft5+1DkzA91HWp6KnWRQA77h4bPRQAEUq4Fy5he9jYjA+YvOTxgn8CgGe6FrSxwNqKeep6Yc/KYD1EokSYUAgGXK98W2ldZ9acGZ2mu+H8s5No2ZUXD1w4PSuQvG3RzKrM+9F5HoeH1epRiSAFuBJPpoRbjsMytdrCkYvx2QUjTPUNIqqeu2AtVixL27rebGhJD4Be4rQYqnoZfQnrlilrKKOfZXiw==;ruUbYhHu+m6Hqm8+z8kdCQ=="

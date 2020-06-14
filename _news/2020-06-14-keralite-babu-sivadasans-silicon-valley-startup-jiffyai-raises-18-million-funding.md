@@ -8,8 +8,8 @@ ampWebUrl: "https://english.manoramaonline.com/business/news/2020/06/13/babu-siv
 cdnAmpWebUrl: "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.amp.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Manorama Online
@@ -26,19 +26,21 @@ images:
     title: "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding"
 
 related:
-  - title: "Nexus leads Series A funding in enterprise automation startup JIFFY.ai"
-    excerpt: "India based enterprise automation startup, has raised $18 million (Rs 135.6 crore) in its Series A funding round led by Nexus Venture Partners. Rebright Partners and W250 Venture Fund also participated in this funding round,"
-    publishedDateTime: 2020-06-11T15:06:00Z
-    webUrl: "https://www.vccircle.com/nexus-leads-series-a-funding-in-enterprise-automation-startup-jiffy-ai"
+  - title: "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million"
+    excerpt: "Jiffy.ai was created to upskill and provide job training and placement programmes for people whose positions are displaced due to RPA and other automation technologies."
+    publishedDateTime: 2020-06-14T20:09:00Z
+    webUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
     images:
-      - url: "https://assets.vccircle.com/uploads/2020/06/JiffyaifounderBabuSivadasan.png"
-        width: 810
-        height: 506
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/5/w600X390/USD_Reuters_Picture.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Enterprise automation platform startup Jiffy.ai raises $18M"
     excerpt: "Founded in 2012, Jiffy.ai offers an artificial intelligence-powered enterprise automation platform designed to make complex process automation and application design available to enterprises in just a few clicks."

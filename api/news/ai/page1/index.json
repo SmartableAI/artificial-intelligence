@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-14-keralites-startup-jiffyai-raises-usd-18-million.md",
+      "title": "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million",
+      "excerpt": "Jiffy.ai was created to upskill and provide job training and placement programmes for people whose positions are displaced due to RPA and other automation technologies.",
+      "webUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.html",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/5/w600X390/USD_Reuters_Picture.jpg",
+          "width": 600,
+          "height": 390,
+          "title": "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp",
+      "publishedDateTime": "2020-06-14T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
       "title": "Assembling A Top-Notch AI Team",
       "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
@@ -178,43 +215,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-keralite-babu-sivadasans-silicon-valley-startup-jiffyai-raises-18-million-funding.md",
-      "title": "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding",
-      "excerpt": "JIFFY.ai, an enterprise automation innovation company based in Silicon valley launched in 2018, to help enterprises optimize business functions,.Jiffy.ai. Babu Sivadasan. enterprise automation. AI technology.",
-      "webUrl": "https://english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.html",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/news/images/2020/6/13/babu-sivadasan-jiffy.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.amp.html",
-      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.amp.html",
-      "publishedDateTime": "2020-06-13T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manorama Online",
-        "domain": "manoramaonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
