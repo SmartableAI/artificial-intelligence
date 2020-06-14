@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
+      "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+      "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
+      "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703",
+          "width": 600,
+          "height": 350,
+          "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "publishedDateTime": "2020-06-04T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
       "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
       "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
@@ -296,44 +343,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -741,6 +750,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
       "title": "Facebook creates shopping data sets to make more humanlike chatbots",
       "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
@@ -1057,52 +1104,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
-      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
-      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "publishedDateTime": "2020-06-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

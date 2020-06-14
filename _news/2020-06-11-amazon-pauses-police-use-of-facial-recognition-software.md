@@ -259,17 +259,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."
-    publishedDateTime: 2020-06-09T13:40:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243392126.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
   - title: "IBM stops facial recognition work, employees seek fewer open workplaces, cosmetics brands drop talc, and more"
     excerpt: "Google Maps offers alerts for mass transit users, Google Meet’s new noise-canceling features, how consumers feel about brand messages on racial justice, and other topics. Good morning, communicators: Google is offering notices on its Maps app to help users avoid crowding and maintain social distance."
     publishedDateTime: 2020-06-09T15:38:00Z

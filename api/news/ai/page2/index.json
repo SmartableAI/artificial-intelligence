@@ -2,85 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
-      "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
-      "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
@@ -539,53 +460,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast.md",
-      "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-miso-robotics-flippy-and-the-robotic-future-for-restaurants.md",
       "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
       "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
@@ -836,7 +710,7 @@
       "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
       "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
       "webUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/",
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -874,7 +748,7 @@
       "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
       "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
       "webUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1097,7 +971,7 @@
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
       "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1299,6 +1173,138 @@
         "AI in Finance",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
+      "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
+      "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
+          "width": 1200,
+          "height": 849,
+          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "publishedDateTime": "2020-06-10T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
+      "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
+      "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
+      "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/06/10/975931-iiit.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
+      "publishedDateTime": "2020-06-10T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically.md",
+      "title": "Uber researchers investigate whether AI can behave ethically",
+      "excerpt": "In a preprint paper, researchers at Uber explore whether AI algorithms can be trained to make decisions ethically, according to philosophical theories.",
+      "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber researchers investigate whether AI can behave ethically",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
+      "publishedDateTime": "2020-06-10T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

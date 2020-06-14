@@ -76,22 +76,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "IBM abandons 'biased' facial recognition tech"
-    excerpt: "Tech giant IBM is to stop offering facial recognition software for \"mass surveillance or racial profiling\". The announcement comes as the US faces calls for police reform following the killing of a black man,"
-    publishedDateTime: 2020-06-09T13:56:00Z
-    webUrl: "https://www.bbc.com/news/technology-52978191"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-52978191"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52978191"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
     publishedDateTime: 2020-06-10T21:34:00Z
@@ -356,22 +340,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
         width: 600
         height: 360
-        isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning over racial injustice and a closer look at the use of police technology to track demonstrators and monitor American neighborhoods."
-    publishedDateTime: 2020-06-09T13:46:00Z
-    webUrl: "https://www.chron.com/news/article/IBM-quits-facial-recognition-joins-call-for-15326884.php"
-    ampWebUrl: "https://www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/IBM-quits-facial-recognition-joins-call-for-15326884.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"

@@ -2,53 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
-      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
-      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "publishedDateTime": "2020-06-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-12-facial-recognition-has-always-troubled-people-of-color-everyone-should-listen.md",
       "title": "Facial recognition has always troubled people of color. Everyone should listen",
       "excerpt": "Black and brown communities are often the first to warn about surveillance tech and the last to get recognized for it.",
@@ -225,55 +178,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
       ]
     },
     {
@@ -765,53 +669,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast.md",
-      "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-miso-robotics-flippy-and-the-robotic-future-for-restaurants.md",
       "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
       "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
@@ -1062,7 +919,7 @@
       "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
       "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
       "webUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/",
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1092,6 +949,145 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse.md",
+      "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
+      "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
+      "webUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/istock-6496767961-e1591645629229.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/amp/",
+      "publishedDateTime": "2020-06-11T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
+      "title": "Let this AI-powered tool build you a better résumé for just $29",
+      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
+      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
+          "width": 4976,
+          "height": 3223,
+          "title": "Let this AI-powered tool build you a better résumé for just $29",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "publishedDateTime": "2020-06-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-anonymous-camera-is-a-new-app-that-uses-ai-to-quickly-anonymize-photos-and-videos.md",
+      "title": "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos",
+      "excerpt": "But with the help of advances in machine learning, it’s also easier than ever to anonymize photos and videos, removing information that would otherwise identify people. The latest example of this is a new camera app called Anonymous Camera,",
+      "webUrl": "https://www.theverge.com/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/9l8n-94JbeT-xN2OozFrchYbzlY=/0x0:3800x2400/1400x933/filters:focal(1596x896:2204x1504):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66920874/anonymous_camera_3_tile_bigger.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios",
+      "publishedDateTime": "2020-06-11T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

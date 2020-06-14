@@ -245,17 +245,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms | Charlotte Observer"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling."
-    publishedDateTime: 2020-06-09T13:40:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243392126.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243392126.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
   - title: "Amazon pauses police use of facial recognition software"
     excerpt: "Use of the company's Rekognition software platform will be suspended for one year in the hopes Congress will have \"enough time to implement appropriate rules\""
     publishedDateTime: 2020-06-11T13:31:00Z

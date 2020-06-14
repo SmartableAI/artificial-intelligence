@@ -2,6 +2,53 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
+      "title": "Should you be worried about cameras in robot vacuums?",
+      "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
+      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Should you be worried about cameras in robot vacuums?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
+      "publishedDateTime": "2020-06-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
       "title": "Yandex reveals its fourth-generation self-driving Hyundai",
       "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
@@ -1260,52 +1307,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-aruba-releases-ai-powered-tools-for-the-new-way-of-work.md",
-      "title": "Aruba releases AI-powered tools for the new way of work",
-      "excerpt": "The solutions include contact and location tracing, secure remote access points, contactless visitor management, and more.",
-      "webUrl": "https://www.techrepublic.com/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/07/87c59611-55ac-42c2-b657-f6338ca74c1f/resize/1200x/3d1d914514d6bb6c7be55bcacd52ee8a/coronavirus-office.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Aruba releases AI-powered tools for the new way of work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
-      "publishedDateTime": "2020-06-01T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

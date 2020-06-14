@@ -2,22 +2,22 @@
 category: news
 title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
 excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-publishedDateTime: 2020-06-12T17:50:00Z
-webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
+publishedDateTime: 2020-06-12T17:39:00Z
+webUrl: "https://www.wltx.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WKYC3
-  domain: wkyc.com
+  name: WLTX19
+  domain: wltx.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.wkyc.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
+  - url: "https://media.wltx.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -53,6 +53,6 @@ related:
         height: 483
         isCached: true
 
-secured: "t+y8WhjSFTZcvl31yfaAZSelnfcEi97xeBoU5KBYLUB7wb85JJgSCHpdlLKlmxCVAJmKauFIZmE9DjkHKG224AcaHQUHke3vl3MMDvxDn+DAIjf6lKu6umQ4PVgsbfgR5RKCEt5KCJk4X9EqrgRfLexsvgHekkQIRNjxa0NleoJbalachtDFc/rmKAa6St4C0925AZ7m8r1a57KCfBRH5EjpkBdxXq6Q6uCyw5WZiyLq5s3mBtnWybgpncnczDz4mC5+Wn1yrGVQtyQAUv23Zhz/x8nsllKI3VLQx+sUqIW5ECk2qS6CDmBtDXn1i3R1pGYPJpOI+S56T0iMc3zp8lB6BysOUTY3huRHb2p1iC6yfPRRHtFZb1xFfRqEF9wsUj+RX51uwbkyiUafB40S9/qf9oEH3+8UKme6SNTk7VZHUg5pXkg4asACtuydQ3k/i+ej2xVf1Kqp7GsA2jixSbGfSosKFhpLb2akToRaj9qvmsVqeK8zyQPE3JQ1TfD1NPkGQED4Mc0RleUoPza1hA==;/ln61x45iv9n+7Esw/4Khg=="
+secured: "S9oxH4N8kRJtxhOINmPudYdxltrLGzuJi1w3ZiXLEQq39sbtmVi5GPwVx0zndGNAJ8z9KoI/4m9CcVobxKml1HSAQZ91XVCqVdn/ApZurPeLNCVb3Qm3WXCfAjus/1o2V2WNZviUf3FqJa1y3zyiAatNqLzuvBxGq1DSDvL4SLpgvtsBPUzd/oEBD+THSdjOfzNjxEZv4tUH5K56PSD5jZMxZ1ga7gKz/TZuw6pv0hA9HwG7MY1FKZDYNzsxugEA1j6GOco3A8jQvVJIjXzOyhFaNA5lf/dEFBA25Iu2jL6PZiJo0koTK1XobknEzQrjiyPG+YHhQyeMdpmdKU6zQQ==;0H/CYKOXzZtqfiVFJtY2TQ=="
 ---
 

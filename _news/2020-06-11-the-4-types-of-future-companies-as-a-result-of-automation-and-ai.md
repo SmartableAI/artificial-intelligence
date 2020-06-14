@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-typ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     height: 675
     isCached: true
     title: "The 4 Types Of Future Companies As A Result Of Automation And AI"
-
-related:
-  - title: "The Hackett Group Names 2020 Digital Award Winners; Companies on the Cutting Edge of Analytics, Automation, Artificial Intelligence and Digital Transformation"
-    excerpt: "The Hackett Group Names 2020 Digital Award Winners; Cos on Cutting Edge of Analytics, Automation, Artificial Intelligence & Digital Transformation"
-    publishedDateTime: 2020-06-09T14:08:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200609005093/en/Hackett-Group-Names-2020-Digital-Award-Winners"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "r7nGBIMC49vmSQpVyuauLWhlzlIpY6q0A94l9DXd850kGU07QxC2cj/PGqR45Zi5QaXvPKnAf7LlChY4ouELGXokI82dP6b3GLGQSkfEbtjd7FnXjknFL7kGVoIBWbHCcHyfqyNRBUG54PdRC4oxRkkjyMdQHDlZnsQEyAsADRaEj1X4BmrwtJCSzMIHYiaNYJGaArd2e/Ch/U8p5Y5HsLk1plrFPA3GrogHZUuP9FY5Fp6vUST19ZHDkWeWhZcXyqjcpZXe4Ei2HqwU0G6Jd3jLecPvmyDqvDgF7JyKWltCacVV7itzsxbM20OOMCVo6P8zZ30e/HO93l4p+NZ3SRx7fhwlMOvgECo/xoSbOuvv184Jq6q0PnRGPLaC0itU0erzNGhDMbF19bB/iwjoxdwtGbWnlc0LhtFBgn3CGLTQR/IqWxGboFTxEWVLr7SeaKDpPPqRiHuTENXPtolwJDd56oqcuW6nnyy44Jt6l5AWM/7iJINvsbl5/mljql0x;pk4RJaImkGL9evo7kc5JvA=="
 ---

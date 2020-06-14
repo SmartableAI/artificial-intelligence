@@ -41,22 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft Replaced Its Editors With Robots. A Week Later, They've Been Accused Of Racism"
-    excerpt: "Microsoft took the decision to sack dozens of journalists in favor of replacing them with artificial intelligence (AI).  The journa"
-    publishedDateTime: 2020-06-09T13:39:00Z
-    webUrl: "https://www.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    ampWebUrl: "https://amp.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 50
-    images:
-      - url: "https://cdn.iflscience.com/images/fb4bad65-1aa1-5a47-8d3b-d95368f50461/default-1591701424-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "HbnpaeP2J8YkDhhPP4jldn45Rgs+0QpvT7RX72Vm0TTDJGJbL5pP/hw/rkGkUuxbnoMr+BBistk5ElzUgozHyF2/F+4/fDOwIgN6gxIIuUaqWQUdexGdC6gsij9EtRwQDj8PGtRwlitW21uOXbjhc8UuqSoyZK6GB1w6a37QkNxPT7ALSBe92y4f2q8qiXOzQxvHGZT6mHII0+3KyFTSSsTH77u5cM51zhbQaLxL3zspkY7sQ7/DZMDWXIvvyEtQ0XyX40GwppV1zZwvPhAlAxK80zyym6q6aeSoSJnsXoU3EsNZZTrSR0uiWEiNjX1k7GPue9oTaDcD43VzjSbDPLGRdu1stCnzZBEFh+dtZP+DgGdsdCHY/qEIx8FQShaFu/hBavAIVgFnPzwZ0MS0r7xZlXqz0Us7avaiSjW/8zgIfyuNp+Ru3Vjbqa5Uu42RTsQzhvQhcNMyh/xBp2+F6kEzBcC0bCRhZngSqYf0e7zGwIuLS5YJR5bcBXlX6I3B;0EcYJ1qVdZdMhBWPU0Vk9Q=="
 ---

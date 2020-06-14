@@ -49,58 +49,11 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast.md",
-      "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse.md",
       "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
       "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
       "webUrl": "https://venturebeat.com/2020/06/11/sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse/",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1358,6 +1311,53 @@
         "Facebook AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
+      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "publishedDateTime": "2020-05-13T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

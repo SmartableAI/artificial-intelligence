@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-nee
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Study: Artificial brains need rest too"
 
 related:
-  - title: "Turns out artificial brains need \"sleep\" too, but do they dream?"
-    excerpt: "Humans require ample sleep to function optimally. New research suggests neural networks may also benefit from extended rest."
-    publishedDateTime: 2020-06-09T14:56:00Z
-    webUrl: "https://www.techrepublic.com/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turns-out-artificial-brains-need-sleep-too-but-do-they-dream/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
     excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
     publishedDateTime: 2020-06-11T14:48:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
         width: 777
         height: 486
-        isCached: true
-  - title: "Research: Artificial Brains May Need Sleep Too"
-    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that"
-    publishedDateTime: 2020-06-09T14:47:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/research-artificial-brains-may-need-sleep-too/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Sleep-LosAlamos-300x201.jpg"
-        width: 300
-        height: 201
         isCached: true
   - title: "Artificial brains may need sleep for proper functioning, says study"
     excerpt: "According to new research from Los Alamos National Laboratory, artificial brains too might require sleep for proper functioning. \"We study spiking neural networks, which are systems that learn much as living brains do,"

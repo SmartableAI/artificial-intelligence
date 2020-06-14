@@ -41,6 +41,15 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Video: The future of healthcare technology: Are there going to be no hospitals in the future?"
+    excerpt: "But over the last few decades, the healthcare sector has focused primarily on treating patients when they get sick, rather than monitoring people’s health and lifestyle in order to prevent them from getting ill in the first place."
+    publishedDateTime: 2020-06-14T07:17:00Z
+    webUrl: "https://www.arabianbusiness.com/video/448130-video-the-future-of-healthcare-technology-are-there-going-to-be-no-hospitals-in-the-future"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 8
 
 secured: "whRZH1X6/dFbO6OcfHyelODdsDYMWsV/21ZQL5EfaqJjGt/6zA+GBJ1YnTjcwcf8x9veHoh1saQXSRQj60uMNiSuc5XmF+QWgBilabSQC0iNaWviOKNID7KR3px1HCXhrcAcsZss1I44y5UbNVEtwfEoIkpPEG9SkF64lUtlBJF75gJUckZHtfNRVN03tXzLiWNfZNmvvZsd7OOvfWum3MU/IK8/UI6ZZJxOaMV7WOVJ4qY6zIZdoTWxNyuGKBk/GVECm+SRt63Z3S14UjFimb22lPBLIcJM+mD0qicngWlssA5bXEiqzDhvrmjUsJJv7PLp/18i0f1/nwLZfE/HC/wrgKlFf2n9FqOMbiblrxixJnFjS5glD60bf5okRWKG2ijnNS8fhHDKLHasxjHzogL0FqU2vcS47QWkLPK8w1maerCsUDpjeFdBoR2NXNSdDkdxxfPT9OgJd29AHGyRQTPIO3zqcFSeWWYq5C6sIEmEhcyW2lggM2uLie33q/CR;KNRDzh86n1sTHv/sqsk0NA=="
 ---

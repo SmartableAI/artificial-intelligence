@@ -2,30 +2,30 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-06-09-robot-journalist-accused-of-racism.md",
-      "title": "Robot Journalist Accused of Racism",
-      "excerpt": "\"It offends me that you couldn’t differentiate the two women of colour out of four members of a group … DO BETTER!\"",
-      "webUrl": "https://futurism.com/the-byte/robot-journalist-accused-racism",
-      "heat": 79,
+      "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
+      "title": "Flipkart launches AI driven voice assistant for shopping",
+      "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
+      "webUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece",
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://wp-assets.futurism.com/2020/06/robot-journalist-accused-racism-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Robot Journalist Accused of Racism",
+          "url": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Flipkart launches AI driven voice assistant for shopping",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://futurism.com/robot-journalist-accused-racism/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-journalist-accused-racism/amp",
-      "publishedDateTime": "2020-06-09T08:32:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
+      "publishedDateTime": "2020-06-09T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -35,7 +35,53 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge.md",
+      "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+      "excerpt": "The Aruba ESP (Edge Services Platform) uses AIOps, Zero Trust network security and a unified infrastructure approach to improve services at the network edge.",
+      "webUrl": "https://www.zdnet.com/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/08/f9a79f50-c3f5-4edc-b9dc-260699e37d1e/thumbnail/1200x675/b872db662e3e175ae4e51774fbf33515/istock-9183650881.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "publishedDateTime": "2020-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1310,44 +1356,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

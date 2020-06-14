@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
+      "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
+      "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
+      "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/",
+      "publishedDateTime": "2020-05-22T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
       "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
       "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
@@ -1275,53 +1323,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
-      "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-      "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

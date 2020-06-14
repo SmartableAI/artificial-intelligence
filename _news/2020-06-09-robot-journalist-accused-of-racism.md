@@ -8,8 +8,8 @@ ampWebUrl: "https://futurism.com/robot-journalist-accused-racism/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-journalist-accused-racism/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Futurism
@@ -27,22 +27,6 @@ images:
     title: "Robot Journalist Accused of Racism"
 
 related:
-  - title: "Microsoft Replaced Its Editors With Robots. A Week Later, They've Been Accused Of Racism"
-    excerpt: "Microsoft took the decision to sack dozens of journalists in favor of replacing them with artificial intelligence (AI).  The journa"
-    publishedDateTime: 2020-06-09T13:39:00Z
-    webUrl: "https://www.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    ampWebUrl: "https://amp.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/microsoft-replaced-its-editors-with-robots-a-week-later-theyve-been-accused-of-racism/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 50
-    images:
-      - url: "https://cdn.iflscience.com/images/fb4bad65-1aa1-5a47-8d3b-d95368f50461/default-1591701424-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "New Statesman's new digital chief David Tomchak: 'We shouldn't be scared of robot journalists'"
     excerpt: "Standard digital editor in chief David Tomchak believes journalists have nothing to fear from AI-powered robots."
     publishedDateTime: 2020-06-10T16:02:00Z

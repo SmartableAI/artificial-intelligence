@@ -2,6 +2,53 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-14-gms-self-driving-unit-crusie-to-cut-8-of-staff.md",
+      "title": "GM's self-driving unit Crusie to cut 8% of staff",
+      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
+      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
+          "width": 1920,
+          "height": 1471,
+          "title": "GM's self-driving unit Crusie to cut 8% of staff",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "publishedDateTime": "2020-05-14T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
       "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
       "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
@@ -1079,45 +1126,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
-      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
-      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
-      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

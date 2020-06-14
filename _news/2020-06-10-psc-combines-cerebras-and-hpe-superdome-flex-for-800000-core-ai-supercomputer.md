@@ -39,20 +39,6 @@ related:
         width: 330
         height: 330
         isCached: true
-  - title: "Neocortex Will Be First-of-Its-Kind 800,000-Core AI Supercomputer"
-    excerpt: "Pittsburgh Supercomputing Center (PSC - a joint research organization of Carnegie Mellon University and the University of Pittsburgh) will receive $5"
-    publishedDateTime: 2020-06-09T13:20:00Z
-    webUrl: "https://www.hpcwire.com/2020/06/09/neocortex-will-be-first-of-its-kind-800000-core-ai-supercomputer/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Cerebras_WSE_Angle_800x.jpg"
-        width: 800
-        height: 516
-        isCached: true
   - title: "AI Supercomputer at PSC to Combine Cerebras Wafer Scale Chips and HPE Superdome Flex"
     excerpt: "The Pittsburgh Supercomputing Center has won a $5 million award from the National Science Foundation to build Neocortex, an AI supercomputer that the center said will “introduce fundamentally new hardware to greatly speed AI research.” PSC, a joint research organization of Carnegie Mellon University and the University of Pittsburgh, will build the new supercomputer in […]"
     publishedDateTime: 2020-06-09T22:50:00Z

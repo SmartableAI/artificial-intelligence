@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2071021/artificial-intelligence-in-health
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071021/artificial-intelligence-in-healthcare-market-with-covid-19"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast"
-    excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ..."
-    publishedDateTime: 2020-06-11T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Retail Market Coronavirus Pandemic Impact Estimates - Competitive Scenario, SWOT Study and PESTEL Analysis Forecast 2029"
-    excerpt: "The research report titled, Artificial Intelligence in Retail Market is latest published by MarketResearch.Biz."
-    publishedDateTime: 2020-06-11T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-coronavirus-pandemic-impact-estimates---competitive-scenario-swot-study-and-pestel-analysis-forecast-2029-2020-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact and Recovery Analysis- Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 | Growing Adoption of Cloud Based Solutions to Boost Growth | Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15."
     publishedDateTime: 2020-06-12T23:40:00Z

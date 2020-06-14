@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200609/Machine-learning-help
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/Machine-learning-helps-predict-clinical-forms-of-drug-induced-cardiotoxicity.aspx"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
     title: "Machine learning helps predict clinical forms of drug-induced cardiotoxicity"
-
-related:
-  - title: "Scientists use machine learning to predict major clinical forms of drug cardiotoxicity"
-    excerpt: "In this study, we are very excited to show how our machine learning algorithm can identify drugs that can cause 6 potential forms of cardiac adverse outcomes from gene expression data', said Professor Blanca Rodriguez."
-    publishedDateTime: 2020-06-09T14:18:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/im-sum060920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/234204_web.jpg"
-        width: 1440
-        height: 1439
-        isCached: true
 
 secured: "9FpnBuuUxYfbXruftO6TWfY1n5A+upJlBKTpgqjxCXY7hjgAitXutNSKmLYh3g+dhhFxKLyK2tIU2Jzah5kaOenm+HZwfMP5xT/3YqunlZWbgLGhETeR76OKGlkJzvFJlt56Kgc08eswxGU6BvCC1+2B/Xlx6I3apbljUsVY9APVeEsLDGy2d9vUYMWCu4X1ZlEqKylIFRoxcZnRBFuf3+mwVWZJs4W2RQOA3X4pvU1T9q6c4jmlTDXWPsKhLhw+g5wy9KGMGzax3aqnGvqCTb/uQgekIGd4DjxjC/6EQf+cAygmuqrxsBpk+r3ADm7n;1ApM3khYh+5B9VO1bdWaxg=="
 ---

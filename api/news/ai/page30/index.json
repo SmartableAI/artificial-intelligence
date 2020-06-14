@@ -2,6 +2,53 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
+      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
+      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "publishedDateTime": "2020-05-12T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
       "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
       "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
@@ -1254,53 +1301,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing.md",
-      "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
-      "excerpt": "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ...",
-      "webUrl": "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
