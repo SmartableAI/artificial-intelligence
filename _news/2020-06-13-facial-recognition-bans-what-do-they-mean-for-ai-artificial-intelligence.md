@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 118
-heat: 348
+heat: 338
 published: true
 
 provider:
@@ -328,22 +328,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/surveillance-camera-royalty-free-image-1591882799.jpg?crop=1xw:0.79594xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-        isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
-    publishedDateTime: 2020-06-10T02:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_a5ca1949759a4f3abfa16a5d94f716cc_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Amazon Finally Sees the Problem With Facial Recognition"
     excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."

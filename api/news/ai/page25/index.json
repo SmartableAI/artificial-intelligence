@@ -2,6 +2,53 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
+      "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+      "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
+      "webUrl": "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
       "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
       "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
@@ -1317,52 +1364,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-in-the-ai-era-universities-need-to-strengthen-students-creativity.md",
-      "title": "In the AI era, universities need to strengthen students’ creativity",
-      "excerpt": "But the past few years have only highlighted the limits of current AI technologies. At the turn of the decade, as the world locked down to prevent the spread of the novel coronavirus, we got to see whether the promises of artificial intelligence and robots replacing humans would materialize.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/crativitiy_header-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "In the AI era, universities need to strengthen students’ creativity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "publishedDateTime": "2020-05-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

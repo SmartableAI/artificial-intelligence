@@ -2,6 +2,53 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
+      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "publishedDateTime": "2020-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
       "title": "AI Weekly: Getting back to work under the watchful eye of technology",
       "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
@@ -1070,35 +1117,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
-      "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",
-      "webUrl": "https://www.openpr.com/news/2054896/natural-language-processing-nlp-in-healthcare-and-life",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2020-05-22T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

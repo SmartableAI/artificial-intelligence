@@ -857,7 +857,7 @@ related:
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
     publishedDateTime: 2020-06-11T21:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/?spt=slh&or=2"
     ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     type: article
@@ -1200,6 +1200,6 @@ related:
         height: 835
         isCached: true
 
-secured: "BSi50sNmeX6tqf3j+FSU8njt4iufcwTK1UMJ4W7nOQ3IEj/lCpvHSkYnenK4O/YjCytr3xzQAd5jXlWsspWEOT1XZ+IkhRjQ/YBUeh7T8SgL4GusS2WmLRtW1rV8KkjGxyjdwzVEIz9qoEgA3xhIV0RDfY+GCoW9tb8eYsnbF+OARngYUwd6ewZj2A5RIfeypEPnCtx0KIicxweTrQRH3aec4xxhk1As5NrSWULEPK6u16AWHcA1dYeJhi1Bi/l20Soocx6RYubudBtaApGEAnl8axqOx8Of6YLlowyUSwYHoc17nj+kmYjuqref2xAV21iwCRWGMgLxhRAYq5HJ3g==;7X9k5sdnJ7qhp51cv1wBdg=="
+secured: "o2LH6HNtGx6t8OPx7ywvPnhGk9ja3LVBNCyNETHr6nxlAURYvJkqLJ+28pZX6B8jio0IV9rq4V3mDdv7pfEQ1cUTrKMvRXiNU5yqmRW+wl7n0XgBZjKdvbSS9g4yt9dYx6A/MIxmyrcDWUkDLuwALV8Cu3ivzIN9PZGzMYKwptNvjcUVDe4dbO5N5CzQshcTyyjHp3O2eichwKJR0Hkuov9THBb8co2gUUzBCK2TORO1U7Vpz/jF9iRAw0z1ktUK/5g9ADt4mvoP3cdz+UMVB7ratJNXRWEKlcqagpnCYwozfxSn93TaZ1Vr0RvjP+aTHVbCojx6de0N/kF8vNEhw2E0W6LH3gwR99dt+UqretgfKBrdyr0CKhGnmnQx5h0OYt9P7ev+/op9Tm0/RYuKDlU4Fafnx7QA4hBsA83hUIZ1J58EsDM4GTBwGIc8tgr0IoxC6sR/dzhEmcFh7SJLKQXshXeLKFSvw5Y8tdwPm8LrAf596/vj3c6yvaT0UsJkHbWGqGcNW1B7WXPyP7ejCA==;eGQMmLYRHcpcnMOU833rGw=="
 ---
 

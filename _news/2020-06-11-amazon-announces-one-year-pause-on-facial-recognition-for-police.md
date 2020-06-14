@@ -338,22 +338,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
-    publishedDateTime: 2020-06-10T02:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ibm-quits-facial-recognition-joins-call-police-reforms-71151197"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_a5ca1949759a4f3abfa16a5d94f716cc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Amazon Finally Sees the Problem With Facial Recognition"
     excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
     publishedDateTime: 2020-06-12T18:11:00Z

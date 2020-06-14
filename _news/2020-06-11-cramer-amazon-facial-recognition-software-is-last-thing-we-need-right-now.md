@@ -859,7 +859,7 @@ related:
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
     publishedDateTime: 2020-06-11T21:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/?spt=slh&or=2"
     ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
     type: article

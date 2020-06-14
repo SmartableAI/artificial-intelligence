@@ -2,6 +2,52 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
+      "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+      "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
+      "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211084313%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "publishedDateTime": "2020-05-24T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-will-the-real-vcs-please-stand-up.md",
       "title": "Will the real VCs please stand up",
       "excerpt": "It’s time for the VC industry to remember its task is to build the future, not to focus on safe “PE like”  investments and top-up rounds.",
@@ -1345,53 +1391,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

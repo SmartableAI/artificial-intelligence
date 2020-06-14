@@ -2,6 +2,53 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
+      "title": "Alexa uses Amazon Translate to reach more international customers",
+      "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
+          "width": 1024,
+          "height": 512,
+          "title": "Alexa uses Amazon Translate to reach more international customers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:50:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers.md",
       "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
       "excerpt": "A wide variety of food options may be available at a self-serve salad bar (Image source: Benjamin Ashton on Unsplash) In fact, this activity at a regular checkout can easily take 16 seconds or more (see Proppos: Computer Vision Self-Checkout).",
@@ -1270,52 +1317,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-cuts-dozens-of-staff-as-it-shifts-to-ai-for-msn-news-stories.md",
-      "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-      "excerpt": "Workforce automation is about to cost dozens of news contractors their jobs. The Seattle Times and The Guardian report that Microsoft is letting go of dozens of news contractors (about 50 in the US, 27 in the UK) after June 30th due to a shift to AI news production on MSN.",
-      "webUrl": "https://www.engadget.com/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F77552a90-a2b2-11ea-8fb3-a06b72cb410c&client=amp-blogside-v2&signature=216f5ed49c68fd2fdbd1101a5797fe95635f0dd0",
-          "width": 600,
-          "height": 350,
-          "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "publishedDateTime": "2020-05-30T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "IBM Cloud hit by multi-hour worldwide outage"
 
-related:
-  - title: "Widespread Outage Hits IBM Cloud"
-    excerpt: "IBM hasn’t yet announced the extent, interval or suspected cause of the service disruption, which temporarily brought down the webpage used to check on the availability of IBM cloud services. IBM Cloud appears to have suffered a widespread outage Tuesday that temporarily brought down some popular websites,"
-    publishedDateTime: 2020-06-10T01:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/widespread-outage-hits-ibm-cloud"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/025e-0f9d3f9ab158-4c28303afeb4-1000/cloud-mobility-touch400.jpg"
-        width: 397
-        height: 397
-        isCached: true
-
 secured: "pKGOt7YMEILi7fjEuGVsBcQBNkOo0BjZfwoS66pHX8nNkrs2R2p2nEtgcXlYUksp4EIWVcf5X+B9CfTD+C2HKDmz9DSOmf0EYtJDWDrcgFHEKjiW0kYAvKBd+o8HSlOHW2k9Fz3UWpy+d0QVCWcyPy+QSKJDnCyOT+B/FAsYLPKTfF2Fo7oXb4Md8/qIOOkEV5dwswyFZy3815B0CkR+F8JLnzZ4BxHpKtTIVrqugIJRQ2n98UIs4Nu6AAYNd9OvkpvkJVIaMcChd9nUvzpv+9ovOISei9Y5579MEjLZ1YshygBCTqKnuo10z6FhEK00C3NGaLnEoed3znfGu9fzghntN52FprmJIG/H/bp92Bg9CP9hSrM+g5bGUNXEIR5a0lF4y78+BGffcqjzSakO+Ex8F2J0AKyGzAx2nvOtK77e/nc47pMZXUDtHWRsKKtFwRxpteNUQ6R3MYMYvTVNYjcDmZlP/OR/TUDe1T+gQPA+au1LsUDRR/wJUPJdy6Di;hfHoaRWF/Sf0ypicHbkYrw=="
 ---
 

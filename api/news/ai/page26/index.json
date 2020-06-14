@@ -2,6 +2,52 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-17-in-the-ai-era-universities-need-to-strengthen-students-creativity.md",
+      "title": "In the AI era, universities need to strengthen students’ creativity",
+      "excerpt": "But the past few years have only highlighted the limits of current AI technologies. At the turn of the decade, as the world locked down to prevent the spread of the novel coronavirus, we got to see whether the promises of artificial intelligence and robots replacing humans would materialize.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/crativitiy_header-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "In the AI era, universities need to strengthen students’ creativity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
+      "publishedDateTime": "2020-05-17T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
       "title": "China injects US$2.2 billion into local chip maker SMIC",
       "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
@@ -1273,53 +1319,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-sony-announces-camera-sensor-chips-with-built-in-ai-processing.md",
-      "title": "Sony announces camera sensor chips with built-in AI processing",
-      "excerpt": "Sony has shown off what it's calling \"the world's first image sensors to be equipped with AI processing functionality.\" These new sensors handle AI image analysis on board, so only the necessary data can be sent for further cloud processing.",
-      "webUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/7d5d11d/2147483647/strip/true/crop/5250x3500+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fd6%2Fbe43993548dd8926342b0bd6864e%2Fdepositphotos-25748679-xl-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Sony announces camera sensor chips with built-in AI processing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
-      "publishedDateTime": "2020-05-15T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

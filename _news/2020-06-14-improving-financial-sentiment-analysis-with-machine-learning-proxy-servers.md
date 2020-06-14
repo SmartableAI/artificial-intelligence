@@ -7,8 +7,8 @@ webUrl: "https://www.financemagnates.com/fintech/trading/improving-financial-sen
 ampWebUrl: "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/"
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - Natural Language Processing
 
 images:
   - url: "https://www.financemagnates.com/wp-content/uploads/2019/05/AI_risk-management.jpg"
@@ -26,6 +28,6 @@ images:
     isCached: true
     title: "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers"
 
-secured: "2rc6ss4WqH7FcLBf0B5C64lsM0y/4nkQ/6020DzznIHjnhQafSTCMIysQ6iq0sZE1L+Britn5RR+VYzGgbRyl4RH7oO477oBtK2pWga/6BWbiotszLHOjJ+LLoS+pCcKMl23qwCWrW+RopWOR7i2D8SQikkaMvQ0BOd1Qqq/ohOfAk5dPCkmEhjhDA6oxLt6LyRZqFcL68AeORgN9kuDo/REuabCnYXy1pHp+hIwVYPFvv7p2hvhIfgnGinmBat1xqUQH+1WL8BJ4wcn+bVDEW+Nw5+/gn+qSmdn4QJu9rSqKGYvTx4/anCId6c2YexcboFolGJ0DEfo4+N1p7hFyw==;OJpcnrJvb2AePN0p/9tMBg=="
+secured: "X8iKBMI1X6HH+8MB8cu9xq0ayx31PHavh7FpoWAcr5fH3IYFS0IwupIcdyhiGwHTrh32xrIC2FGbSi4aioNp9XNhHuxemfs5op0dC7byLecTjrQFei5Ao/LVWhTpYYmSHuWoMVTDhCOtAFPlynmHo3P6EoDFG39chx7bMaq4soKzJYwhGtO6uUjTLcXnu9+k1z4ts1qB4W5HvxsEoR7l//G58yE+2+Dfd7PHwclYeaotPNoszpSxoR3KbHU7jMIkJjA8knT5xTZSfcwaoViPi/h9YRZWG/RZMlQj2oSuklQ1j0Sj2B8bl6y4lR/g6WUGqNtNyrnP6ASK6ckmv3X2n6LAandH0CWDvU+0d3cnlcvEebFT4NXxflSqnPsK1PgE7rAFNZoDUoJKSGnZjWTpofLU9b5QPVB8YCWpaRkoL9nCOKkYYc4Vl3FLbApHX6t8lwhJcH8JR6BxEWF1widtkf3pL5KFNta9nBPbMb7O/+rauD3PS21UAfx/Oa+/OhIa8yA4nwz6qEbL83zzpW8//Q==;eKpk8ha4nlz+5dpe/fD8sQ=="
 ---
 

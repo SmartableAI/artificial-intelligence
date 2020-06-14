@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Flipkart introduces voice-assistant to ease the shopping experience"
 
-related:
-  - title: "Flipkart intros voice assistant on e-commerce platform"
-    excerpt: "E-commerce Flipkart has introduced voice assistant capability on its platform to make consumer’s online purchase simpler. The AI-powered voice assistant, introduced in Flipkart’s grocery store Supermart,"
-    publishedDateTime: 2020-06-10T01:35:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/flipkart-intros-voice-assistant-on-e-commerce-platform-61671"
-    type: article
-    provider:
-      name: infotechlead.com
-      domain: infotechlead.com
-    quality: 24
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2018/10/Flipkart-India-e-commerce.jpg"
-        width: 631
-        height: 420
-        isCached: true
-
 secured: "xP/UgO1ZYKBQjNyBixJwD2dwj/zF8JLMV1SzxkQ9/bmrApRK3k8BC+cB/w8hsYHyRVoHguiuLoPNzseHul0I7jEkJM3qfHx/TJYZUKJmw1nsftRFwEt5FjxdGGzm4J6uXg0trBFMdz5YwqITvk0DP/DGloYSj61m9HottZmjgLVFkd9A1+CwEt+doahmBJW0fQRE4CBVqEBZK4WHVLx1ob22yV1MqJfELWM1qroQw+UVLZ9zI7dhIz2GXtdhePskBRHwkGIu/2XNgE6PQ1yd7I7fSSCLQku0xkzyIlx2qOb6cSfRcYOJ4tqNVlJoKYfA;aPg25E8uje2yofWEV1eGzQ=="
 ---
 

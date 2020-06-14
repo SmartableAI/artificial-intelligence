@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
+      "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
+      "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
+          "width": 1200,
+          "height": 849,
+          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "publishedDateTime": "2020-06-10T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
       "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
       "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
@@ -1286,53 +1333,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
-      "title": "Study: Artificial brains need rest too",
-      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
-      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Artificial brains need rest too",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "publishedDateTime": "2020-06-09T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
