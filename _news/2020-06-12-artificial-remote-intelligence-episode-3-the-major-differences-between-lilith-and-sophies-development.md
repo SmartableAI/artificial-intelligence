@@ -26,21 +26,19 @@ images:
     title: "'Artificial: Remote Intelligence' Episode 3: The major differences between Lilith and Sophie's development"
 
 related:
-  - title: "EXCLUSIVE | 'Artificial Remote Intelligence': Christy St John on Elle and why live streaming is nerve-racking"
-    excerpt: "In a chat with MEA WorldWide, John talks about her character Elle, who is a scientist hired fresh out of college to be a part of the new AI's development"
-    publishedDateTime: 2020-06-12T01:12:00Z
-    webUrl: "https://meaww.com/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
-    ampWebUrl: "https://meaww.com/amp/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
+  - title: "Artificial Intelligence and Intelligent Automation: What’s the difference?"
+    excerpt: "Artificial Intelligence, or ‘AI’ as it is often known, has become a buzzword used across industries, for some time now. But what does it really mean?"
+    publishedDateTime: 2020-06-11T15:30:00Z
+    webUrl: "https://www.ifsecglobal.com/smart-security/artificial-intelligence-and-intelligent-automation-whats-the-difference/"
     type: article
     provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 25
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 37
     images:
-      - url: "https://cheesecake.articleassets.meaww.com/446913/uploads/21b40ec0-abff-11ea-98d2-713f66b857e2_800_420.jpeg"
-        width: 800
-        height: 420
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/06/artificialintelligence-20.jpg"
+        width: 770
+        height: 500
         isCached: true
 
 secured: "it02mbSEkc48nE+aohyDgbg59x/0Fj1ucztd+kXSDF+oHzPi3MA9h+cmZvh0bCbDVkLLZsf2JC6qtDp7WALSl292bNEolG5amtq2LGqfEB8gFDNRBcM8yv1gw42q3zV88mVcr9itrljfnz1WY5J/PHPkYX/SQt7GXGOrzAYgFrNUQCz7zM/IEAnCUF+GW8jb9be8xvlQAOn1+neUOvo51D7IgiqkcG3JokBLq8U7WdKx7xxuV42b9Hb8pHT+lEleDNta8IYyAz/XRdAOURdO8s+WolSsf/VLX+dH+9Hfje3IJqzKKn55Je4VCNAhRtqL1cSuSVmfXjzjzIHGFf9KRQ==;WGSQeRZO6o6bwX8xkpd9eg=="

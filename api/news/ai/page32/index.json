@@ -2,6 +2,91 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-11-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
+      "title": "Computer Vision Helps Scientists Study Lithium Ion Batteries",
+      "excerpt": "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,",
+      "webUrl": "https://www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/22660/aImg/42036/may11-2020-slac-lithium-ion-batteries.jpg",
+          "width": 720,
+          "height": 403,
+          "title": "Computer Vision Helps Scientists Study Lithium Ion Batteries",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660/amp",
+      "publishedDateTime": "2020-05-11T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
+      "title": "How AI and ML are helping first responders",
+      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
+      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "How AI and ML are helping first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "publishedDateTime": "2020-05-11T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems.md",
       "title": "Startup uses network automation to help hospitals solve wi-fi problems",
       "excerpt": "For IT professionals working in hospitals and healthcare clinics, fixing a problem with a wireless network is now more than a temporary headache. Diagnosing connectivity issues in a coronavirus ward in a hospital could put a person's health at risk.",
@@ -1235,101 +1320,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
-      "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-      "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
-      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
-      "publishedDateTime": "2020-05-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-09T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

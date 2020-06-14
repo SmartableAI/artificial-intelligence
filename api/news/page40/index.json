@@ -2,6 +2,81 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
+      "title": "Can AI Make Work Safe Again?",
+      "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "publishedDateTime": "2020-05-08T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go.md",
+      "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+      "excerpt": "Legislation around data privacy is crucial to setting up guardrails around how the U.S. tracks the spread of the coronavirus, but we need bipartisanship.",
+      "webUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/contact-tracing.jpg?fit=1985%2C1237&strip=all",
+          "width": 1985,
+          "height": 1237,
+          "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "publishedDateTime": "2020-05-08T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-written-and-directed-by-artificial-intelligence.md",
       "title": "Written And Directed By: Artificial Intelligence",
       "excerpt": "As impossible as it seems, it won’t be long before artificial intelligence is writing and creating films.",
@@ -1012,82 +1087,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
-      "title": "Can robotaxis ease public transport fears in China?",
-      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
-      "webUrl": "https://www.bbc.co.uk/news/business-52392366",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Can robotaxis ease public transport fears in China?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366",
-      "publishedDateTime": "2020-05-07T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders.md",
-      "title": "Alpha Roc Launches Open Beta: Machine Learning API and Self-Serve Platform for avid traders",
-      "excerpt": "Alpha Roc announces that its proprietary trading algorithm -ALPHA, is officially going into open beta. Institutional and retail traders will now be able to utilize Alpha Roc's institutional-grade application program interface (API) to directly access and execute Alpha Roc's strategies in real time.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "publishedDateTime": "2020-05-07T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

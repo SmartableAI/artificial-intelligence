@@ -1039,20 +1039,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
-  - title: "Senator Questions How Clearview AI’s Facial Recognition Tech is Put to Use on Protesters"
-    excerpt: "In it, Markey repeats some asks made in previous correspondences and ultimately aims to confront concerns sparked by reports that Clearview AI’s software is currently being put to use by law enforcement officials in U."
-    publishedDateTime: 2020-06-09T19:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/senator-questions-how-clearview-ais-facial-recognition-tech-put-use-protesters/166026/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 30
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/09/shutterstock_1658380954/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "ACLU says Amazon’s one-year moratorium on police use of its facial recognition tech isn’t enough"
     excerpt: "Such facial recognition tech has been proven to be racially biased. So, it was good news when Amazon announced they’ll ban police use of the tech for 12 months to “give Congress enough time to implement appropriate rules” for its use,"
     publishedDateTime: 2020-06-11T12:21:00Z

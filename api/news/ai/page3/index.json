@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-10-how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19.md",
+      "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
+      "excerpt": "In fact, AI can improve decision-making for healthcare CIOs in three areas, according to Erick Brethenoux, research vice president at Gartner Inc. They are: Anticipation: “Predictive techniques and knowledge graphs can help with predictions and analysis.",
+      "webUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/2928bf8fcbe34c17880bdd8af4530429.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-06-10T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
       "title": "Google updates its Android developer tools",
       "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
@@ -1304,44 +1342,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
-      "title": "Flipkart launches AI driven voice assistant for shopping",
-      "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
-      "webUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Flipkart launches AI driven voice assistant for shopping",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
-      "publishedDateTime": "2020-06-09T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

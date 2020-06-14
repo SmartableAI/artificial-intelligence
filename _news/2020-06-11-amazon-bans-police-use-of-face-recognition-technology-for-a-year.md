@@ -60,22 +60,6 @@ related:
         width: 2500
         height: 1690
         isCached: true
-  - title: "A Case for Banning Facial Recognition"
-    excerpt: "Facial recognition software might be the world’s most divisive technology. Law enforcement agencies and some companies use it to identify suspects and victims by matching photos and video with databases like driver’s license records."
-    publishedDateTime: 2020-06-09T19:11:00Z
-    webUrl: "https://www.nytimes.com/2020/06/09/technology/facial-recognition-software.html"
-    ampWebUrl: "https://www.nytimes.com/2020/06/09/technology/facial-recognition-software.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/09/technology/facial-recognition-software.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/06/09/business/09ontech-still/09ontech-still-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
     publishedDateTime: 2020-06-10T21:34:00Z

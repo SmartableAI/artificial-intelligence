@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy.md",
+      "title": "Coronavirus And The Rise Of The AI Economy",
+      "excerpt": "The World Bank has predicted the coronavirus is pushing 40 to 60 million people into extreme poverty. Calls for international solidarity have so far delivered little tangible support and the risk of country debt defaults and corporate bankruptcies and the human costs associated with it is rising.",
+      "webUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed0e4ed1234f60007ce136e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coronavirus And The Rise Of The AI Economy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
+      "publishedDateTime": "2020-05-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
       "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
       "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
@@ -997,6 +1043,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-natural-language-processing-market-growing-at-a-cagr-210-key-player-ibm-microsoft-google-aws-facebook.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player IBM, Microsoft, Google, AWS, Facebook",
+      "excerpt": "and BFSI), and Region – Global Forecast to 2024 MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab16133769/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-ibm-microsoft-google-aws-fac",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16133769",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16133769",
+      "publishedDateTime": "2020-05-28T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-georgia-state-introduces-graduate-certificates-in-ai-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation.md",
       "title": "Georgia State Introduces Graduate Certificates in AI Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation",
       "excerpt": "Georgia State University’s Robinson College of Business will introduce three stand-alone graduate certificates in fall 2020 to address current and emerging market demand for innovation. Credits earned in the certificate programs can potentially be applied to Robinson’s part-time MBA and select master’s degree programs.",
@@ -1173,101 +1248,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
-      "title": "Clearview AI faces lawsuit over gathering people's images without consent",
-      "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI faces lawsuit over gathering people's images without consent",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "publishedDateTime": "2020-05-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
-      "title": "US joins G7 AI alliance to counter China’s influence",
-      "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "US joins G7 AI alliance to counter China’s influence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
-      "publishedDateTime": "2020-05-28T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

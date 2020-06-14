@@ -2,6 +2,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
+      "title": "Only artificial intelligence can protect Britain, top general warns",
+      "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
+      "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/1295693_1.jpg?r=1592139773569",
+          "width": 590,
+          "height": 350,
+          "title": "Only artificial intelligence can protect Britain, top general warns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
+      "publishedDateTime": "2020-06-14T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
       "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
       "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
@@ -82,7 +121,7 @@
       "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
       "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
       "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1197,53 +1236,6 @@
         "name": "WAVY",
         "domain": "wavy.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic.md",
-      "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
-      "excerpt": "Although there is much unknown about the way the world will be post-coronavirus, we're certain that it will include autonomous delivery robots in our workplaces, public spaces, and streets. This technology was given a boost during coronavirus as a viable way for people to receive food and medicine.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed08dc48be1be0006b4b89d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
-      "publishedDateTime": "2020-05-28T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

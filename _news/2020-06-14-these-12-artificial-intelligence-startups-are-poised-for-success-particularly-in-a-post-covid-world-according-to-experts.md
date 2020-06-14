@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "These 12 artificial intelligence startups are poised for success, particularly in a post-COVID world, according to experts"
 
-secured: "dSjPojzvW3Wg1/ogpn910HTQLXC+/ojSTno4V/okLhis2GVtEHAVIuEeD8Sg3BzCZ2nzPMYIcjhysyBwBR5Acqbek6B0oLyY2CNOwaq79sPxB7juh/ZgyC3y+ZdvC380lguTb9ZAHrkLjUkgeO+5pn+8rzD379BNEyD+7vk8u8Xel22S8ps8514l/dCmDxNn8uLDcvJOKSXHa67N0rmm+7x8bBt9jxY3SYl2NXPLUqrRUaDivRLNRgJxmJ5FqYPDUXr74Jx1Dr06d1uUyG7nZtkA4bhoCufzssEPDdtjpUIdlv/wdzjYDU0bV+cT5G4hLmJXC6B6w7Yi16ctB3shDw==;9sk6gkaXfRsn6zFJmzyN4Q=="
+secured: "CjhtYj3NzshmemEOrxGzBnSqJZI06/YYSw/qY6+EACdW9u237XfqK2feq1rPbeg4f/xmPg5KKeC3xmkRbFB/femYKQ1lkAKA3pgVzc5CCQEQg+c3K862jNJSSdlkV1JriFtXDIM5mAwQAXLR64OIUF5FeuMrEGVyOXVmK80AhJpHwlC5DtkkUHZfbguYh7/bfpH6xegPsqzgQ/6FGwOQF4LX/AB0DdprcDLWs30tCXWbDb8jz6D1H8VFbWsS+AIaSwJwyu/UXRls0s+VBVr9fUYg+AZ/6/jpLMO+LkgHIiFk1cKXm3HCHt9zFtcvYDDpNz2kyqTySoLwOtWk2ZQko/COIxGmujCRLq2h2v/tTYDFPLbm9/g3oi3ZWPzlFOo2m3Kck+HvW6X2/UnPEwM7D2/ZpufgZ7IiXrRb5Txo7ZQbrpJ39+Q8oEV/k+AIWXCzFvQVSMPbOSugqwT8ZTqZudKsLQqR1aCLFf6DA9O7ZZnZxrxjTEAyncHldRYOqF8buzUCcFpIwH7cyLz6k7Wnjg==;ZffNAby6yD34dyU7a4Rvpg=="
 ---
 

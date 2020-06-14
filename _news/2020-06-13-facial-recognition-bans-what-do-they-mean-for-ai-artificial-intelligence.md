@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 118
-heat: 368
+heat: 358
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg"
         width: 2500
         height: 1690
-        isCached: true
-  - title: "A Case for Banning Facial Recognition"
-    excerpt: "Facial recognition software might be the world’s most divisive technology. Law enforcement agencies and some companies use it to identify suspects and victims by matching photos and video with databases like driver’s license records."
-    publishedDateTime: 2020-06-09T19:11:00Z
-    webUrl: "https://www.nytimes.com/2020/06/09/technology/facial-recognition-software.html"
-    ampWebUrl: "https://www.nytimes.com/2020/06/09/technology/facial-recognition-software.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/09/technology/facial-recognition-software.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/06/09/business/09ontech-still/09ontech-still-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
