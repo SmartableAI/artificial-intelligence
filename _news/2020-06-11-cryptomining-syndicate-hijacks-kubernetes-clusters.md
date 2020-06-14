@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-ku
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

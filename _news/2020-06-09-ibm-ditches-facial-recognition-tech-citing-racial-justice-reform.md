@@ -43,22 +43,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "IBM turns away from facial recognition business amid public furore over racial profiling and surveillance"
-    excerpt: "IBM has offered to work with US Congress to pursue ‘justice and racial equity’ focused initially on police reform."
-    publishedDateTime: 2020-06-09T02:22:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088133/ibm-turns-away-facial-recognition-business-amid-public-furore-over"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 57
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/7649b87c-a9f7-11ea-bf1b-7541df8028ff_image_hires_102211.jpg?itok=LmbLBK2g&v=1591669339"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM is canceling its facial recognition programs"
     excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T21:17:00Z
