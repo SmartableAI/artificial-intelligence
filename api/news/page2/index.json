@@ -215,7 +215,7 @@
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -449,7 +449,7 @@
       "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
       "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
       "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -673,7 +673,7 @@
       "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
       "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
       "webUrl": "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
-    excerpt: "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by"
-    publishedDateTime: 2020-06-09T16:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2020-2025"
     excerpt: "Artificial Intelligence Industry Description Artificial Intelligence is one of the fastest growing areas of computer"
     publishedDateTime: 2020-06-12T12:15:00Z
@@ -137,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Software Platform Market 2020 Covid-19 impact, By Key Players, Sale, Trends, Segmentation And Forecast By 2023"
-    excerpt: "The global AI Software Platform market was valued at USD 2.75 billion in 2017 and is expected to reach USD 11.3 billion by the end of the forecast period with a CAGR of 28.1%.The"
-    publishedDateTime: 2020-06-09T16:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-platform-market-2020-covid-19-impact-by-key-players-sale-trends-segmentation-and-forecast-by-2023-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Military Market Advancement in Technology, Innovations and Global Trends 2020"
     excerpt: "Artificial Intelligence In Military Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading, and key players of the industry with a forecast period of 2026."
     publishedDateTime: 2020-06-10T11:14:00Z
@@ -174,20 +146,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Covid-19 Impact on Warehouse Robotics Market 2020 Global Size, Share, Analytical Overview, Growth, Future Prospects and Regional Forecast 2023"
-    excerpt: "Market Scope. Market Research Future (MRFR) confirms that the warehouse robotics market 2020 can attain a strong valuation of USD 5 billion by 2023-end. The market can most likely"
-    publishedDateTime: 2020-06-09T16:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-warehouse-robotics-market-2020-global-size-share-analytical-overview-growth-future-prospects-and-regional-forecast-2023-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

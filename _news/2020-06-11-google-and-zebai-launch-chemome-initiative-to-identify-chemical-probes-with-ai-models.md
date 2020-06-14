@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     height: 600
     isCached: true
     title: "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models"
-
-related:
-  - title: "Trustworthy AI Initiative Launched"
-    excerpt: "A digital intelligence company has launched a global initiative to promote the development of trustworthy artificial intelligence (AI) technology. ABBYY was moved to take action by the growing prevalence of AI systems in our day-to-day lives and the anticipated growth in expectation for those systems to be fair,"
-    publishedDateTime: 2020-06-09T17:00:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/trustworthy-ai-initiative-launched/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "uZUvXHhZG48iPrxpHxpJUv6E88fGs2WSIOZrK/eKYlqvpPQnGptTxREylMbiFIwTccIh2IRejyEQVO2I8lhxrMYLY2U1mwXQVIwV1maYtrvbWdjQ209vlZVtFo7GGHpUiJqm1mLa1KF/EoSWvKIMgU6rfKNz8RHvsc9tpKfMoTbfXQXCpRl26dQ3rBrybZylqjRw+7wiBjv46m090RxFAKUw1qUEh3KdHkaaOD8XtY1FVoLFVjEsIGX7SuhtbM7v6BDahTJq2B3XWXKJ191peCr68JmKbHdqxBMkkt3tGgDmviJjlH/Cuznvfx1iS66KR+UjVCOz4VljMcmvEMPOly6NTe1C+vOQJqpeUnu+SahSrQDEBBEMJpF6nitKdXPshQezzp/hK4GCzEYtNOGA9hhDvNsdSRwyzDXrYS1S3UUylWdAwzE9GK4YsHi10Yn3WCXkuzzsQ40G27vRyfk65YWQtFS2zA9iDIVir7jd6V+91XVm7ASX7BhEaqSD8bk5;WWi+vIxj6Juw0v689Ud3fg=="
 ---

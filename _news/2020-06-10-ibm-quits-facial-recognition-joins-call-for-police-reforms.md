@@ -372,15 +372,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM quits facial recognition, calls for federal regulation of police use"
-    excerpt: "\"IBM no longer offers general purpose IBM facial recognition or analysis software,\" Krishna wrote bluntly in the letter. \"IBM firmly opposes and will not condone uses of any technology, including facial recognition technology offered by other vendors,"
-    publishedDateTime: 2020-06-09T15:29:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 50
   - title: "Amazon bans police use of facial recognition software for a year"
     excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
     publishedDateTime: 2020-06-11T12:40:00Z

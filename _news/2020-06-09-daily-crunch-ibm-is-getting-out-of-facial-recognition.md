@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -263,20 +263,6 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/amazonfacerec_61120_news.png?w=1600"
         width: 459
         height: 405
-        isCached: true
-  - title: "IBM stops facial recognition work, employees seek fewer open workplaces, cosmetics brands drop talc, and more"
-    excerpt: "Google Maps offers alerts for mass transit users, Google Meet’s new noise-canceling features, how consumers feel about brand messages on racial justice, and other topics. Good morning, communicators: Google is offering notices on its Maps app to help users avoid crowding and maintain social distance."
-    publishedDateTime: 2020-06-09T15:38:00Z
-    webUrl: "https://www.prdaily.com/ibm-stops-facial-recognition-work-employees-seek-fewer-open-workplaces-cosmetics-brands-drop-talc-and-more/"
-    type: article
-    provider:
-      name: prdaily.com
-      domain: prdaily.com
-    quality: 5
-    images:
-      - url: "https://cdn.prdaily.com/wp-content/uploads/2020/06/IBM-Facial_Recognition-Statement-Letter.jpg"
-        width: 2508
-        height: 1672
         isCached: true
 
 secured: "a0oUnfNki49Jr/HMT/9PxcJITqPn1Xqec2Be8LGozQah54G1KD8aWzJlmJB/nGwqwAB6T1I2AerD5hDqT/DFToLxpj5hI2LyVaoLmOOHTc9AZurVpdCFhBxB4H45YMmxbIbwcsnTBOkOwvsFRFtlrRK0NeVkKawlSmFQpkB0/6taNNuUZsoGQGTUxNoqoygBH4snUUc2/PWKBJyR9CNamLL+JiBNXHC2TdBJrcNs3UAZKNXsQOnbSnlbOvl+8i+84CyrUtxtrZaZWlRApRhebwcxzA5kjrdib+Ex4/Wg4AbgOfEdohGJSbvq3e1ux0egiCnsQWura88Xj2Oyz+MJsVuKHXEis1Xvcd/8ANTsN9GAp6OCkbJpNk/0c9GF0sT9FG/KDQpPmOSl8nS5YWY7AFJQFeBlzbV/SA5BKRWdE42k5u28ezna5s+rCX+ZNHmq8sO8AZr7iAD8TkWjpOQSWXQM9xYVUJgUXhxQYMzJJMuk17cNbQAo9HqgNhzqyp3R;NsmOZp2gn3Wh2DaAD7VNRA=="

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T23:11:16Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/12/targeted-routing-003-2.gif"
         width: 500
         height: 373
-        isCached: true
-  - title: "How REA Group implemented automated image compliance with Amazon Rekognition"
-    excerpt: "Amazon Rekognition is a machine learning (ML) based image and vision analysis service that can identify objects, people, text, scenes, and activities in images and videos, and detect any inappropriate content. Amazon Rekognition text detection enables you to recognize and extract textual content from"
-    publishedDateTime: 2020-06-09T16:36:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-rea-group-implemented-automated-image-compliance-with-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/08/rea-group-3-831x630.gif"
-        width: 831
-        height: 630
         isCached: true
   - title: "Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth"
     excerpt: "Amazon SageMaker Ground Truth now supports labeling 3D point cloud data. For more information about the launched feature set, see this AWS News Blog post. In this blog post, we specifically cover how to perform the required data transformations of your 3D point cloud data to create a labeling job in"

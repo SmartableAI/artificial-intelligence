@@ -22,17 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "ADLINK Teams with Intel to Launch ROScube-I ROS 2 Controller to Realize AI Robotics at the Edge"
-    excerpt: "ADLINK Technology, a global leader in edge computing, has launched the ROScube-I with Intel, providing a real-time ROS 2 robot"
-    publishedDateTime: 2020-06-09T15:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621"
+  - title: "Miso Robotics: Flippy and the Robotic Future for Restaurants"
+    excerpt: "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital."
+    publishedDateTime: 2020-06-11T16:30:00Z
+    webUrl: "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/"
+    ampWebUrl: "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/06/miso-robotics-flippy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Four Robotics Trends Expanding the Need for Miniature Motors"
+    excerpt: "Disruptive technologies create opportunities for mini motors to solve the unique challenges of the surgical, warehouse, cobot and service robotics industries."
+    publishedDateTime: 2020-06-12T20:17:00Z
+    webUrl: "https://www.machinedesign.com/markets/robotics/article/21133894/four-robotics-trends-expanding-the-need-for-miniature-motors"
+    type: article
+    provider:
+      name: Machine Design
+      domain: machinedesign.com
+    quality: 34
 
 secured: "CHSZ1xlYh+bXHri9KEXYMKJo0uoESJ/zTO+fThzFYOf2o+mkmslBl72DFIj0IRK4iz+IKuBH/Wn3jNMvRsfU6WgFllVHC+x/8xDrDam9XWQIhDeUpgoXh69awmq9/yxlOXwlofrQY6ZLg7MjstY+R4k9ed/9FztbzO4QAbGn8Ukd6qffnjALCXcUc89uESus4F5hzU/Z9iIZwdJPBBkX1YnbtewkrsvjlJ+SUAmaj1/qYm+BW2BFFxXXePHJ/4D76u7qh30UQQD1kO4MAUE5MLfptg8OJ7MRmr8T3MbbSKydReUxLoBHKv0SG4xNgb5K;mLH1bCMjaUAYnL+u7dkfFg=="
 ---

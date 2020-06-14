@@ -264,20 +264,6 @@ related:
         width: 459
         height: 405
         isCached: true
-  - title: "IBM stops facial recognition work, employees seek fewer open workplaces, cosmetics brands drop talc, and more"
-    excerpt: "Google Maps offers alerts for mass transit users, Google Meet’s new noise-canceling features, how consumers feel about brand messages on racial justice, and other topics. Good morning, communicators: Google is offering notices on its Maps app to help users avoid crowding and maintain social distance."
-    publishedDateTime: 2020-06-09T15:38:00Z
-    webUrl: "https://www.prdaily.com/ibm-stops-facial-recognition-work-employees-seek-fewer-open-workplaces-cosmetics-brands-drop-talc-and-more/"
-    type: article
-    provider:
-      name: prdaily.com
-      domain: prdaily.com
-    quality: 5
-    images:
-      - url: "https://cdn.prdaily.com/wp-content/uploads/2020/06/IBM-Facial_Recognition-Statement-Letter.jpg"
-        width: 2508
-        height: 1672
-        isCached: true
 
 secured: "Q53LZIrvVmt+4zFL8xKHuLB4NzIi6zTv7AJ92uWTv2+wcpYI/ngHvOEzt4rdGynjTRXbxR9L/qMFMpeOD3vJ+btqE3TmSVp79sHqQdEAf2SphUeVMljmXq37nTQOUpqJR5gqaeSU6F/6sZYWU6uFvzTrsYtcQew4fQZPYGqitLWkjsnHcI7vFx0JxFuVLgTv0H/JT/KvBUvQHPx5etL7eWrJVZoEx4Iee/Ao74HrYih2fytbqp1lBwXT+qQpJcdczUGZH+7imtT3SUQ8/nedpYWipG1Xai5MwECa9rfK/9u/n4X3va7ckjuJQUYkGC5IYIjFdm2qrZ3/V9giMMHxLjgib/1zjWND2uxfIVmOdjLtenXaoB2D+t3liv0ujqC+ySGMDKecO3Y1uGFNJnSzGes4x/VIrbT9XOUo/I1VPB62yGP0E3LwRXx2goraDxgDDbt94Ohtly8HwIwvfDfS8p0ym9ZMlWn9Fl9hSqz5T2jE4pT6NKAx/jxsNKPAapTtyWERB4VggRT+HzIBsuMSdg==;+8ArOKwKVyMs94REexGHfw=="
 ---

@@ -34,6 +34,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Lantronix Teams With Misty Robotics to Create Open-Platform Robot"
+    excerpt: "For robots to become a part of our everyday lives, developers need an accessible robot platform upon which to build,” said Morgan Bell, Head of Engineering for Misty Robotics. “Working with Lantronix and its Intelligent Edge Solutions (IES) platform,"
+    publishedDateTime: 2020-06-10T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lantronix-teams-with-misty-robotics-to-create-open-platform-robot-1029296100"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "C7bkh1gWIq5nEGcpBiQDbebpT3WZKRTNf+t+iGwCJbjuF9NWNymxyAbL+iyJ1Gq/8H4DtMzeRBETm56Tafa05BY68Fzri1PZeQUqJ8ZVBNMhBQBkopefQ/oJsB20UEZtFP7HXX7yI+ngC1XWWOk13Y+LYP9PvJBDIMArNfA4wN2FYsThex+6oTABvfG9birNQt0cIK/fATgq5rGBqmr6Mrs3LNSRvDlsrpf4+tUbmsQzHAuctjgUqgdCbd6wBLz5y0kU0mBQEDunpX0NoHIM+gyfpp4QrEvH5u+I8i79rw8u2BJTD0tqNAmJ/XMs1oh1VEgFdvT9QxVQfUTkVkvtDvYSVWbq4Cl88MkJRuyynujhcLEY3jl0DwB4dEfoJibRuMjjm6SD/GGsAoOg5Tr1AxhOSci10NUwfRH88gNO8UcdwADPNo2M4V2cwW+JxrHz03Sa3bUJfj3aLmjxDlviceaBKkXhtfUol3NMKZNojzr37RVkXjYWGxmxwOkzkDOB1YLv7Hf/AUbwMqSK6rpP+g==;eRE+KezMzllSTzHJ+H9vnQ=="
 ---

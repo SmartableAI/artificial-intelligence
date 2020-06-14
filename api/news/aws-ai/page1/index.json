@@ -6,7 +6,7 @@
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
