@@ -449,10 +449,10 @@ related:
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
     excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-    publishedDateTime: 2020-06-11T11:59:00Z
-    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    publishedDateTime: 2020-06-11T16:39:00Z
+    webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -543,7 +543,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
         width: 1200

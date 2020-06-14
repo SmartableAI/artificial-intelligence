@@ -449,10 +449,10 @@ related:
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
     excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-    publishedDateTime: 2020-06-11T11:59:00Z
-    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    publishedDateTime: 2020-06-11T16:39:00Z
+    webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -517,6 +517,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Amazon pauses police use of its facial recognition software for year"
+    excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
+    publishedDateTime: 2020-06-10T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban"
     excerpt: "AI experts and civil rights activists have been campaigning for Amazon to halt the sale of Rekognition to law enforcement for years."
     publishedDateTime: 2020-06-11T09:53:00Z
@@ -532,22 +548,6 @@ related:
       - url: "https://i.insider.com/5ede4ea34dca68759162ca8a?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Amazon pauses police use of its facial recognition software for year"
-    excerpt: "Amazon said Wednesday that it will pause police use of its facial recognition technology for a year. The company did not offer specifics in its announcement, nor give a reason. However, civil rights and immigration advocacy groups,"
-    publishedDateTime: 2020-06-10T23:46:00Z
-    webUrl: "https://www.cbsnews.com/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-rekognition-facial-recognition-software-technology-police-pause/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/01/25/a263044d-7397-4e7d-8963-69e621879ea0/thumbnail/1200x630/9bf0f507d344c843c715ed3af857ec39/ap-18304728846735.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft reiterates it won't sell facial-recognition tech to police until federal regulation passed"
     excerpt: "Microsoft President Brad Smith is continuing to champion regulation of facial-recognition tech, saying Microsoft has not sold such technology, to date, to U.S. law enforcement."

@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
+      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
+      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
+      "publishedDateTime": "2020-06-13T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-keralite-babu-sivadasans-silicon-valley-startup-jiffyai-raises-18-million-funding.md",
+      "title": "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding",
+      "excerpt": "JIFFY.ai, an enterprise automation innovation company based in Silicon valley launched in 2018, to help enterprises optimize business functions,.Jiffy.ai. Babu Sivadasan. enterprise automation. AI technology.",
+      "webUrl": "https://english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.html",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/news/images/2020/6/13/babu-sivadasan-jiffy.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": "Keralite Babu Sivadasan's Silicon Valley startup JIFFY.ai raises $18 million funding",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.amp.html",
+      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/news/2020/06/13/babu-sivadasan-jiffy-funding-18-million.amp.html",
+      "publishedDateTime": "2020-06-13T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manorama Online",
+        "domain": "manoramaonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
       "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
       "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
@@ -1055,100 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
-      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
-      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "publishedDateTime": "2020-06-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-facial-recognition-has-always-troubled-people-of-color-everyone-should-listen.md",
-      "title": "Facial recognition has always troubled people of color. Everyone should listen",
-      "excerpt": "Black and brown communities are often the first to warn about surveillance tech and the last to get recognized for it.",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/VfcwrOdtHoNOaKxqA6-vDsCaEmM=/373x0:2338x1398/756x567/2020/01/30/9d2efb7e-b599-47c3-84f9-d1e8e248f7b0/codedbias.png",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition has always troubled people of color. Everyone should listen",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/",
-      "publishedDateTime": "2020-06-12T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

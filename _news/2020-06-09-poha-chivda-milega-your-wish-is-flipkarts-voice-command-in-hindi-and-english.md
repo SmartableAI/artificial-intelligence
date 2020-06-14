@@ -43,6 +43,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Flipkart unveils voice-based search feature for groceries in Hindi and English languages"
+    excerpt: "Flipkart developed the conversational AI technology, inhouse, and built the software based on an ethnographic study across towns and cities to understand the various nuances of languages."
+    publishedDateTime: 2020-06-09T12:02:00Z
+    webUrl: "https://yourstory.com/2020/06/flipkart-unveils-voice-based-search-feature-hindi-english"
+    ampWebUrl: "https://yourstory.com/2020/06/flipkart-unveils-voice-based-search-feature-hindi-english/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/flipkart-unveils-voice-based-search-feature-hindi-english/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 35
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Flipkart-1582211499554.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "hQtGACvrBhIYelqdduUwvDqAjM7/Xrh6eE5wVFzwcBCf5h5KNf/PJtBfzjJD5LHNKCUsu54pwMH/JYvnYWmeRBxfD40ZWHCw4Ui/PSKp2oA0kyfqGxPM4l4mY9NEHGaVOPxz9eijAmdZP8RmxcxZ/sO6Y9G7k75iySRBgCH/I8bgUpf4Adj7pQeG0HuBLQpxhvJDWBj6Lw3hzOMQVgHXTdHUgWp0rIQb5OGKBsvmwoZGrKgdMOOfMDZfLMirJmvMkaBBAVuMb9mLyoWWGLHYGOqKov4VoWYpHQMtx+yLhaCi+RSMJuRYPkfVQp4kyZGEKX/3J3RQpPE0jsiXYhOtbpe3/pXsz6DeziZQ66CjjhlPFHpdVt1PekTm3Rzwi4UwaiSlqWDwPwFUwd9/m6SQXDF407knrfW91bZNbOiibKPgDPFciiK9DJbOb2tnj6htZt7RgADfluQ+mq/bqZ5ovVpNja2uyJuz1VsvIDRL0FIjtwaR+9vKkOTVIIKrySyo;g6VgDNE8NpLjvO3R4w4Qpw=="
 ---

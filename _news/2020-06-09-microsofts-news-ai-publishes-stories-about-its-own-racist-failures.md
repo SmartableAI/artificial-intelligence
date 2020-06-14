@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-news-ai-publishes-stories-abo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 630
     isCached: true
     title: "Microsoft's news AI publishes stories about its own racist failures"
-
-related:
-  - title: "Microsoft is struggling with their new Microsoft News AI picking stories which embarrass them"
-    excerpt: "We reported in May that Microsoft was replacing their human editors with an AI which picked their news stories, syndicated from other publications, and then distributed to 500 million readers in 140 countries."
-    publishedDateTime: 2020-06-09T09:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-is-struggling-with-their-new-microsoft-news-ai-picking-stories-which-embarrass-them/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-is-struggling-with-their-new-microsoft-news-ai-picking-stories-which-embarrass-them/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-is-struggling-with-their-new-microsoft-news-ai-picking-stories-which-embarrass-them/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 46
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/06/microsoft-little-mix.jpg"
-        width: 1197
-        height: 865
-        isCached: true
 
 secured: "+PtMDryQhBaN29lNBljFrM8eT3FrrN+3Ryx1fH3DkVVcjFNqrgOUTNq0Bdv9QubOjq8Jx8Ez1WOz1sOI9IJGAQAczkZtutAhhG9zbk3e0meT/CfFZYcVUl89OKZk3GpEB+QEpIrrLL2u+7hpInV/VT1pQ8n7ZslaRx+jJctoYqylyJqqxlJWXQTIvQsQi+9lPFHGHMY8dQSLLXTM77anBru+vce/+EkkWuPPvEp9xdIbTOgyGYQP93wQA+9Cw2WVR41PHr9RJ4iwlFQEkmTitbgC2yBR2nPQXdL9CdS6qxjCD0uAFKG00In0ZsL6MmmkdjrbbVBuYBdgGyaBrCzCfVLwq+EkPYYJad46JjVklS0Wf9Xd2zNrPm6BT39FzgJA53A8PVBOnZMNmcnm3RMGJKXcfkZk6qyoxH459hNWmtjIV/9Pz8/9aA0008BjV1Z8TSRaux0DpDI0OYgVzg75SiP8uyOnm6mmgMFFW/XZV2WnwxrLVLZyIByP004gjywK;imIaS0EJbiOw9oR5WzC1ow=="
 ---

@@ -50,22 +50,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Flipkart launches Voice Assistant to help customers buy groceries"
-    excerpt: "Flipkart's voice assistant responds to mixed language commands as well.The voice-first conversational AI platform has been built by Flipkart’s in-house technology team"
-    publishedDateTime: 2020-06-09T08:36:00Z
-    webUrl: "https://www.livemint.com/companies/news/flipkart-launches-voice-assistant-to-help-customers-buy-groceries-11591688469052.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/flipkart-launches-voice-assistant-to-help-customers-buy-groceries/amp-11591688469052.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/flipkart-launches-voice-assistant-to-help-customers-buy-groceries/amp-11591688469052.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/06/09/600x338/b2c7d818-8ace-11e9-95b6-0e39eb338878_1565003477255_1591690072508.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Flipkart's voice assistant to help people shop for grocery"
     excerpt: "Introduced in Flipkart's grocery store, 'Supermart', the Voice Assistant will enable consumers to discover and buy products using voice commands in multiple languages, starting with Hindi and English."
     publishedDateTime: 2020-06-09T12:19:00Z

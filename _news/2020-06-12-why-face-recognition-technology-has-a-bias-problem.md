@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Why face-recognition technology has a bias problem"
 
+related:
+  - title: "Why Big Tech's new face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-14T00:53:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "zLGQ4P2TE3HDdHIAdZfZxesUAF1SlQvI0ZzmbgKOq/3NrmC2L/NdBMiXvEEXsy0Dz+NOz23TAsOJkgh6dY0U6rZcaVfXGrikluvHMgGyq8a35U88sqDfPO5OpEp1L4QKjRLvNbekKWdSNcjnUB0xGJSz/9MvEe4mb/kJYtkHJhKaK7NCHfM8Km0tQrP6h66VFu4k1xTr8PE7jX098XjrR4T/bVtvXOYq5cB8KuWR5SxSsdVKOrJeXM6HZ6VLVDEBrfo3nDbvY47lWJcsDWBg2ynf+Vo+BiCe7mFOKgOsxJGf+CDtTpmC/T68TGMkMC2cr9cMmVMCoQDID6onOCaMXgi/uFPcAp569ra1xUdHQDXGMIiOe+8ZdpLtwSLQqvhToodcjEpjPDzl97lkppb1yF5dDLruoHcCSIPserAZUVLqH00h3EJ6yczu4bnc+NDjFSIthGqweIWOTI9IEEeTDtfusQdSuwS09KewOjQuETYmuQU//4/ICpEKeq98dLOIsaNjvloQOWG1JGnkwaZjtA==;DgSJyYbyp2Fm0p2IMZ+uQQ=="
 ---
 
