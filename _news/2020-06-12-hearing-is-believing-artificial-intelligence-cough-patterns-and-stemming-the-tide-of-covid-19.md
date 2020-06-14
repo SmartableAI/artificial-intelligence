@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
+    excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
+    publishedDateTime: 2020-06-14T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Self-Driving Cars and the Future of Personal Injury Law"
     excerpt: "Self-driving cars are under high scrutiny, but we shouldn’t ignore the impact they will have on the world once the world accepts their innovative technology."
     publishedDateTime: 2020-06-12T00:33:00Z

@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
+      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "publishedDateTime": "2020-05-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
       "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
       "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
@@ -1219,53 +1266,6 @@
         "name": "esmmagazine.com",
         "domain": "esmmagazine.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
-      "title": "The robot assistant that can guess what you want",
-      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
-      "webUrl": "https://www.bbc.com/news/business-52547331",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
-          "width": 1024,
-          "height": 576,
-          "title": "The robot assistant that can guess what you want",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
-      "publishedDateTime": "2020-05-11T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

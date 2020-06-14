@@ -379,17 +379,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "IBM Exits Facial Recognition Business"
-    excerpt: "IBM announces its departure from developing facial recognition technology in the wake up of recent unrest due to police brutality. The controversial technology has drawn criticism for its racial and gender bias."
-    publishedDateTime: 2020-06-09T22:09:00Z
-    webUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business"
-    ampWebUrl: "https://cheddar.com/media/ibm-exits-facial-recognition-business.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ibm-exits-facial-recognition-business.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
 
 secured: "QKnoX0hxi1NBdDVssP0zhpISPczO9zxtJk2rkYmC+uWSUH0WSvLI4H6ET9tWRZsJwxlm2OJDouImUkUy26Ty1xBoB8wowOtt7uicaRYMQGKLyzHyHZq0QYiO/iBR2tJ1LnKkcjSEeYsBC8Z0MKjleXjYDcNulWn5X5BRiG0zcC/l82Rw2V8qj08ZSUqMQx8RdU/DI4ljfeiS/kWA2VVoHaJmfWGtFcZ+jkK2jH+zKjItozWMxhesw5WIT9fZJFLQ/ZJTjsBKOiNbUATRzxkOi/qI4p4S7kAT0ZQoFcPjuHZVHO4qZK7tlfLYSEvqC8Kr1iMXgwge9jsnmUXAhSWsgqhULFhWjlROts/DYb/Vl0tjvFt7iXplfTm6X5Z3Uo7cX4eFIpassdMTQtM7YWal7dcayLzlTYH/GENTy7Cod/qtobzybRcOoSqV5pSolJXBYgywlukssWCxrVMqJKz8S+ovPNxtqLNadyf1EC/pVZ9N1R8WN9jopOnW4oaFpgW+;u6P2HkmsPKo8pnYhBTk18w=="
 ---

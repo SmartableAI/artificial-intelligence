@@ -2,6 +2,44 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-30-waymos-self-driving-minivans-will-return-to-california-streets-in-june.md",
+      "title": "Waymo's self-driving minivans will return to California streets in June",
+      "excerpt": "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8.",
+      "webUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F30%252Feb%252F5e5b46aaedeb47c0b739f26f3fd553e9.74557.jpg%252F1200x630.jpg?signature=xUO9hqK5LNlxZPLg539Vi6Hjo-s=",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo's self-driving minivans will return to California streets in June",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
+      "publishedDateTime": "2020-05-30T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
       "title": "Microsoft lays off journalists to replace them with AI",
       "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
@@ -1075,35 +1113,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
-      "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
-      "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
-      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "publishedDateTime": "2020-05-29T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

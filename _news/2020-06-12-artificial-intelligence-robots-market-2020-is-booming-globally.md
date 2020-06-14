@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Security Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "A new offering by MarketandResearch.biz entitled Global Artificial Intelligence (AI) in Security Market Growth (Status and Outlook) 2020-2025 carefully examines the market, with a focus on most of the major players and their business strategies,"
-    publishedDateTime: 2020-06-09T22:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-security-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Military Market Advancement in Technology, Innovations and Global Trends 2020"
     excerpt: "Artificial Intelligence In Military Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading, and key players of the industry with a forecast period of 2026."
     publishedDateTime: 2020-06-10T11:14:00Z
@@ -170,20 +156,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Based Medical Device Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "MarketandResearch.biz has released a new report entitled Global Artificial Intelligence Based Medical Device Market Growth (Status and Outlook) 2020-2025 includes the trending current scenario and the growth visions of the industry for the forecasted period of 2020 to 2025."
-    publishedDateTime: 2020-06-09T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-medical-device-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

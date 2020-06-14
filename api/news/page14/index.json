@@ -2,6 +2,35 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
+      "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
+      "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
+      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "publishedDateTime": "2020-05-29T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech.md",
       "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
       "excerpt": "Chinese ride-hailing giant Didi Chuxing Technology raised more than $500 million in a funding round led by SoftBank Group for its autonomous driving subsidiary, as it competes with well-backed U.S. startups over self-driving technology.",
@@ -1027,36 +1056,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
-      "publishedDateTime": "2020-05-28T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

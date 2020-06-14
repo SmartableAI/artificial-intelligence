@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
+      "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+      "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
+      "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/cd8882238fca4e639fc2780457003fa9-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "publishedDateTime": "2020-05-28T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic.md",
       "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
       "excerpt": "Although there is much unknown about the way the world will be post-coronavirus, we're certain that it will include autonomous delivery robots in our workplaces, public spaces, and streets. This technology was given a boost during coronavirus as a viable way for people to receive food and medicine.",
@@ -1225,53 +1263,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
-      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
-      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
-      "publishedDateTime": "2020-05-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -25,17 +25,6 @@ images:
     title: "IIHS: Self-driving cars might only avoid a third of crashes"
 
 related:
-  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
-    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
-    publishedDateTime: 2020-06-09T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Self-driving cars could only prevent a third of US crashes — study"
     excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
     publishedDateTime: 2020-06-11T03:00:00Z

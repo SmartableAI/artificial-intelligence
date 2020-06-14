@@ -2,6 +2,53 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
+      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
+      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "publishedDateTime": "2020-06-08T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
       "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
       "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
@@ -1074,44 +1121,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-top-robotics-investments-and-funding-in-may-2020.md",
-      "title": "Top Robotics Investments and Funding in May 2020",
-      "excerpt": "Despite the crisis induced by COVID-19, robotics industry is growing at an unprecedented rate. From Supply chain and logistics to agriculture and healthcare industry, robots are transforming every aspect.",
-      "webUrl": "https://www.analyticsinsight.net/top-robotics-investments-funding-may-2020/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Top-Robotics-Investments-and-Funding-in-May-2020.png",
-          "width": 1698,
-          "height": 956,
-          "title": "Top Robotics Investments and Funding in May 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-06T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

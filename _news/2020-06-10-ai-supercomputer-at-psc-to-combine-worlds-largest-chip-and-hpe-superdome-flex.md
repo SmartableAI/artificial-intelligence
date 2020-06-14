@@ -39,15 +39,6 @@ related:
         width: 976
         height: 513
         isCached: true
-  - title: "AI Supercomputer at PSC to Combine Cerebras Wafer Scale Chips and HPE Superdome Flex"
-    excerpt: "The Pittsburgh Supercomputing Center has won a $5 million award from the National Science Foundation to build Neocortex, an AI supercomputer that the center said will “introduce fundamentally new hardware to greatly speed AI research.” PSC, a joint research organization of Carnegie Mellon University and the University of Pittsburgh, will build the new supercomputer in […]"
-    publishedDateTime: 2020-06-09T22:50:00Z
-    webUrl: "https://insidehpc.com/tag/hpe-superdome-flex/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 27
 
 secured: "VP5dMezZzuiRiFIfEdTmXkrmgqsbnRbTRmLnWjmuqdwx/hkFJWVUh6FSE5/aekznk6yzfpGtktJ+MaicjwnH4aMVLPc3WADLJ44R+0c0iOIWpaL2rply6gdWM6IDd21mr9vRRmf9a5OvlsAlhaEmumxtlRahq+veqkpYdmu8pccjL+PwvIwBaVi49PnR4u/NcPHq//GQAazXhYFaPRsYOypEAQKZ56DuVjt3UUDyS3OAu5hBPNQoOklVGw7u2Ft7PwwgA/fzk9pMiV6kk40juSotmmOI7siZBNS0khUVwGNCqOYn1+oaiqzyr9/tY4EW7jEFeCFl1RPbnk2kS/SQvOa4znIWICywB0iLBoxFus8yebM4GRSjV6EVPAmA+5OKCmd5ILvgyrCL3UBbLmGzGoIlt8yzNY/I6/uEaia3GhgRhN0HClHvYijMJWoa7UbARiCi4oHVAcjWskz15TXkpTsdkxw57LQLlQt+HoGpwM1f9tZBkOkCfamBulIZ7s70;rbF/xP0IBTeyXvqMLqXdLQ=="
 ---

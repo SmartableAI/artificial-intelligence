@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-10-seeing-results-from-ai-even-during-covid-19-recession.md",
+      "title": "Seeing Results From AI, Even During Covid-19 Recession",
+      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Seeing Results From AI, Even During Covid-19 Recession",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "publishedDateTime": "2020-06-10T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-unique-partnership-aims-to-accelerate-the-adoption-of-ai-in-healthcare.md",
       "title": "Unique partnership aims to accelerate the adoption of AI in healthcare",
       "excerpt": "The Michener Institute of Education at UHN and Vector Institute are setting out to transform the skills and capabilities of front-line healthcare professionals in the application of artificial intelligence to health services.",
@@ -1059,55 +1106,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

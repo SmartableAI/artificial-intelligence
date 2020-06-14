@@ -2,6 +2,54 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
+      "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+      "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
+      "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-jedi-delay-slows-dods-ai-push.md",
       "title": "JEDI delay slows DOD’s AI push",
       "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 27, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterpris",
@@ -739,6 +787,7 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -1070,52 +1119,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
-      "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-      "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
-          "width": 990,
-          "height": 498,
-          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T17:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

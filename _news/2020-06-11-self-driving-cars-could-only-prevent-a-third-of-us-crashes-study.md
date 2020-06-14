@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     title: "Self-driving cars could only prevent a third of US crashes — study"
 
 related:
-  - title: "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving"
-    excerpt: "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?"
-    publishedDateTime: 2020-06-09T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Motor Mouth: Self-driving cars won't prevent most collisions"
     excerpt: "Conventional thinking has it that self-driving vehicles could one day make crashes a thing of the past. The reality is not that simple.”"
     publishedDateTime: 2020-06-13T12:44:00Z

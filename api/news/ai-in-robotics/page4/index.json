@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
+      "title": "The robot assistant that can guess what you want",
+      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
+      "webUrl": "https://www.bbc.com/news/business-52547331",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
+          "width": 1024,
+          "height": 576,
+          "title": "The robot assistant that can guess what you want",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
+      "publishedDateTime": "2020-05-11T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
       "title": "Brazilian founder features in global ranking of female AI leaders",
       "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
@@ -1282,53 +1329,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
-      "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
-      "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
-      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
-          "width": 990,
-          "height": 811,
-          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
-      "publishedDateTime": "2020-05-04T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

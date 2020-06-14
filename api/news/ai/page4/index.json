@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
+      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
+      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "publishedDateTime": "2020-06-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
       "title": "Flipkart launches AI driven voice assistant for shopping",
       "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
@@ -1311,52 +1357,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
-      "title": "Your company needs AI training: Here's how to get it for free",
-      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
-      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "Your company needs AI training: Here's how to get it for free",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "publishedDateTime": "2020-06-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
