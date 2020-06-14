@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-09T18:42:00Z
 webUrl: "https://www.biometricupdate.com/202006/group-says-governments-can-push-private-sector-ai-ethics-through-procurements"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 300
     isCached: true
     title: "Group says governments can push private sector AI ethics through procurements"
-
-related:
-  - title: "Government publishes artificial intelligence procurement guidance"
-    excerpt: "The UK government has published a document outlining the main challenges around artificial intelligence (AI) procurement for public sector buyers as well as best practices. Developed by the Office for Artificial Intelligence (OAI) in collaboration with the World Economic Forum (WEF) Centre for the Fourth Industrial Revolution,"
-    publishedDateTime: 2020-06-09T09:53:00Z
-    webUrl: "https://www.computerweekly.com/news/252484334/Government-publishes-artificial-intelligence-procurement-guidance"
-    ampWebUrl: "https://www.computerweekly.com/news/252484334/Government-publishes-artificial-intelligence-procurement-guidance?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252484334/Government-publishes-artificial-intelligence-procurement-guidance?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
 
 secured: "uMUa3CbAGHxUZcJH4AXyWtLZNRHRdlFXQOSvomzsxyhIPD7d9EZD8POQriStr+a6cQ7WXmrsfz+6xPffdqiQ2sJ8klvb+kCyyLd+34MbG54or9ZPpwJ6R2WmR6VFY50BSqj0RuP3yzwJJHAGyc+ohtSm4y9QHeqTv6SIrHsDcUhWYjhkMUWt9Z2fOtq5dx5Nt73fD7f2CyHGdKeWZrPbxB/JNFnfi/HG3oPxPDeCeMXgyiw5iFsyaBk750NDFbGTm9i87l+NlTf10rVBoM+TwR/cfP+TZS8BSGw7Wijx8d2ua/4plTvx7OcORIKKrvMlixscdXKHrZ+mSDPryJ0y3d1q4i3ac8IdrE/reb4bK8rs5XwPY+uwbR8NPmaogRJl49AnmGxJ/Kzpg17Lvuef1eNAlotdGNZWxPJC+VIUvbq4iqepro1/tC/Op60W1EYo9UhXZ6ZuLwc1891C7P06HaRhU5zyiFAS51PmgFESf1ci/vmsM02lhHWYgdnZn77M;1sHl1f6HJNyxN8O0wYrT6A=="
 ---

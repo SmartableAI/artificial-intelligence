@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 904
     isCached: true
     title: "How AI Can Support The Supply Chain And Overcome Hurdles"
-
-related:
-  - title: "How AI Can Support Restaurants As They Prepare To Reopen This Week"
-    excerpt: "Even as restaurants emerge out of lockdowns and prepare to reopen this week, business would never be as usual in the foreseeable future."
-    publishedDateTime: 2020-06-09T09:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-can-support-restaurants-as-they-prepare-to-reopen-this-week/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Friends_Restaurant_Masks_1296x728-header.jpg"
-        width: 1155
-        height: 648
-        isCached: true
 
 secured: "jNYMClEsCwp8cQLxEdUJ0ZSVhZa79Gi8kzDZPoAnLUho8iGu3JNIuUIFN8K+YVYd6BFAEKd3OfMyKe+p2jAkSUdXDkJB/w5chHSJlQIiU2IBXwLyDDFL1Hv7IZ6HnUGwArMiA7fJ8c1tBLZavgjgukg0sWfKrQioFWL4IgV0ETcWgg5G9mfecRQkY2jtaptNYZGp9PJbwIeuZQrUqCbNVunbqUQ5cefrUdyXn6N7gqrqMzxuKO/+TqYjmvVCCMaWoaY6wdKsXMUNTxOVuUSLgbWtQ1cXYpDtYMrCxx1Uo5J27dLJSSlpYl+uiBmNtBIH9WureukSlz0/LA3EXrguphuXuAOwAwKygxIaFwDX92+6FzVQB0yCV7hI7N77tuEwIFz8JELVyLU4ZPe1s2LH/7F6jpMaDJWMyUrqql1uMxUjS45Ky4TfcX/oWK+pXUHtgX9uaJ4dZijydwdrHT2ArGLI6SHP1rIkROavd/oS8SI8x4CdTKoa+emVhbpy/PqG1Z1oeqVJtG9JimX7Vy97qA==;FeiLLGj1XOetOY2LGGks7A=="
 ---

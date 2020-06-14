@@ -595,22 +595,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "IBM scraps facial recognition tool in wake of Black Lives Matter protests"
-    excerpt: "The tech firm's move comes amid broader calls to scrutinise the use of technology for racial profiling by police"
-    publishedDateTime: 2020-06-09T09:47:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/09/ibm-scrap-facial-recognition-tool-wake-black-lives-matter-protests/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 58
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197244899_AFP_FILES-US-IT-POLICE-CRIME-POLITICS_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
-        width: 2880
-        height: 1800
-        isCached: true
   - title: "The two-year fight to stop Amazon from selling face recognition to the police"
     excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"
     publishedDateTime: 2020-06-12T16:05:00Z

@@ -128,22 +128,6 @@ related:
         width: 1400
         height: 932
         isCached: true
-  - title: "IBM Will No Longer Offer Or Develop Facial Recognition Software In Pursuit Of Racial Justice Reform"
-    excerpt: "CEO Arvind Krishna wrote a letter to Congress calling for police reform, as the company stressed its opposition to the use of facial recognition for mass surveillance and racial profiling."
-    publishedDateTime: 2020-06-09T09:33:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/06/09/ibm-will-no-longer-offer-or-develop-facial-recognition-software-in-pursuit-of-racial-justice-reform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190695006%2F0x0.jpg"
-        width: 1200
-        height: 1074
-        isCached: true
   - title: "Amazon pauses police use of facial recognition"
     excerpt: "Top News Amazon pauses police use of facial recognition. Posted . Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognitio"
     publishedDateTime: 2020-06-11T00:22:00Z
@@ -157,22 +141,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20200611&i=OVCHSMNKV&r=OVCHSMNKV&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "IBM pulling out of facial recognition market out of profiling fears"
-    excerpt: "IBM announced Monday it's withdrawing from the general purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,"
-    publishedDateTime: 2020-06-09T09:55:00Z
-    webUrl: "https://www.cbsnews.com/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ibm-pulling-out-of-facial-recognition-market-profiling-fears/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CaixaBank introduces facial recognition ATMs"
     excerpt: "Spain’s CaixaBank is rolling out cash machines fitted with facial recognition technology so customers can withdraw cash without entering a PIN. The bank began using the ATMs in February 2019, with an initial 20 machines installed at major branches in Barcelona and Valencia."

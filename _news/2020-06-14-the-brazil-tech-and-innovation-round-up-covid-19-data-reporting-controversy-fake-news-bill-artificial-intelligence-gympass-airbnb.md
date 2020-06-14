@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb"
 
-secured: "OnRud7d5CuFzM/4xEz4CGl/0G7BykZHbBU4D1jyffulJciq6XnJPGUXXO77uR6NPUHic3rW7Kne1ZMgJd2CabaIb/Eexd93eds0F2/h+Al4g8sjQ38+xb6bKveX4LlIQEcZZn84XxXUYLgEe/dFCOe3LymljLrIddiE8/TnyLoB30ijE/waZNY11NDsCfhAmRI2R5L73/LqeBGb+21sOhwIBZyfEsq9rYtLwWjKxa64DHwRa+xLPnfsuWebgypqaDWkHJG6OtYGfsN/KPbLpLNzP1vSzAqw3JsoQyZRKAYN8Q4W7SKziyPN1l7jBnlWmr5EINHcTMMKfUz9N+5VGnA==;b0svMNLQ9KDA0MImY/YnQw=="
+secured: "poO01/IO4YIccfgjw3fm92mqhZtbEs942RMUwVNqVw7sxubiDFOwT3uSvVp4HlmZR6MlrF1W4I0RuVgrDCuUb5DXhiVGKbd2uu9C0absaqTTr0n42dLwkKi1OEcYAGhCMBB2SK7Xl+24Xuas0FsjeQFgPLph6YcW3r/CEKc1HMLz58ryxtlq+lSOBxHaJn7i6ItH/c8rowJqKq7nWWUHiFEkcDENz+/ezMeRF6sOrG53F7qvu6mQeoVI3vX5lzNogkjXYPo/Cwm/cDjRYoa1ESMjYAWw67F6eTXTkK6y6HRh/Zlm83HA4+e1Sdx0QdA7M7ec/8J0nDRSzfvu57F3QWQzlZjrZRO4p4ptp2IborYxsbNtbzQSgzhu9znuysfAea8oYsgL9CWxov+lbUnf90K2Uc9hJ0al3CVGSx4rYtw78hwhg/v2Imo3rBQUCitQBEp1XnVWluZ6Ctm0Q3ZVTngwLOiH4VeIG/SE+47sVeYsEooxEgXPEQRT28sBWYajMRwf4ljhA1qyNYh0J26/BA==;3JKiZ/qgeLDAyOaUYMQnZA=="
 ---
 
