@@ -388,22 +388,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Pulls Plug on Facial Recognition Technology"
-    excerpt: "IBM will no longer offer its facial recognition technology for general-purpose use, and has called for a national dialogue on whether it should be used at all."
-    publishedDateTime: 2020-06-09T11:01:00Z
-    webUrl: "https://www.thestreet.com/investing/ibm-facial-recognition-technology"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ibm-facial-recognition-technology"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/SB6I3e5B-720.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM says it is getting out of the facial recognition business over concern about how it can be used for mass surveillance and racial profiling"
     publishedDateTime: 2020-06-10T02:46:00Z

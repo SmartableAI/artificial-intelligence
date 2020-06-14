@@ -2,18 +2,22 @@
 category: news
 title: "PimEyes facial recognition website 'could be used by stalkers'"
 excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
-publishedDateTime: 2020-06-11T14:38:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-53007510"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53007510"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53007510"
+publishedDateTime: 2020-06-11T14:37:00Z
+webUrl: "https://www.bbc.com/news/technology-53007510"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -282,22 +286,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
-    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
-    publishedDateTime: 2020-06-09T10:22:00Z
-    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
-    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?"
     excerpt: "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope."
@@ -1076,6 +1064,6 @@ related:
         height: 835
         isCached: true
 
-secured: "JJTW1z8fD8Whd2wVMejzRJTUb8V5sKLO8dvquRjeGUKqk/25PBvtt81OkvS7i19Koyt4qhU5JVCmjg4Tcg0mNe7STMtzRwzC3X25dHqm9WQTGc5KpkrMTiMXokVs2z4hMRVx3M+yvKWraDQuzOjwXjDzvipdoTqRLXCEDuXcg6RTuI2dNbOhW4J3kqELGiMoPQhm2xbl6xffKcU6ymOFDBs+doxkZgHtb0rhl5Hec2nhdjyKz3F+hyn4vjU/ZsGVdhNcZA86zKgRLxIhbjmY/RFC8k5AkebtFljp7a0aLL1yjqmYFhh/O7K1c4poGguZa7nKDV6LqHHlnUmB52hSfVQdLYLS42eWVhNbePDRuPq5yOWNyc8xvYM7+uM/f+sYYloA3RSW0gqk8adxTX6HVMJrUXto3JgyG/KTURnwh51WXZyQ+PNeWnIMnmxGCANRs9h5cGlU76oYJ8LuPJDd4/bCI6FxAj4Rk+oPfGwJGQNtacpeJ83VhhiBxH8rQaWX;LMYzFUbmZsPmCyXstMvsyA=="
+secured: "85szEBwsubO7jH5nwhByD0VcZvocCR8eO9KAd4IMFDPFlTjRuPkTd7UPBp9TEc/9eQL0+EGFT+6ODK8JHMxK9IHQKS28fjX7AKaZE4eXHl+NhP8Cq7vARMrXqrfiGYZanijeHUJYivRfh9kR5eQXj9SpMl2YVh8i1m7/ZBXnT+5Rg6r44DEvX8KLlkvudD0hexA+5ev+vHSeVSzY4UdPG7SyuChDaxEmWiDY8ZO9JOT5n+Vmck7HZA2pj3ulKaKFJgWhMSVmHUgmv3V1Rd7D/0tovc956ebfqazlGnqjcFvymzlWlyoVwMpJ13OcGmP6RWwE35HX0dQL70zKGUFu9Q==;7sAbdhGw5iOe5J3ibPG8FA=="
 ---
 

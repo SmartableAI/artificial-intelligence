@@ -25,22 +25,6 @@ images:
     title: "IBM quits facial recognition and urges debate on its use by law enforcement"
 
 related:
-  - title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
-    excerpt: "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide."
-    publishedDateTime: 2020-06-09T11:00:00Z
-    webUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns"
-    ampWebUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_1s6u.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "IBM ditches facial recognition tech citing racial justice reform"
     excerpt: "The IBM Model 5150 is legend to a lot of us old folks, tottering around smash talking iPads-as-computers and telling grand stories about floppy disks. The point is that when it comes to computing, IBM is a household name."
     publishedDateTime: 2020-06-09T12:12:00Z

@@ -76,20 +76,6 @@ related:
         width: 744
         height: 389
         isCached: true
-  - title: "Artificial brains may need sleep as much as we do in the future"
-    excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that offer benefits similar to those that sleep provides to living brains, says new study."
-    publishedDateTime: 2020-06-09T10:46:00Z
-    webUrl: "https://knowridge.com/2020/06/artificial-brains-may-need-sleep-as-much-as-we-do-in-the-future/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 41
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Artificial-brains-may-need-sleep-as-much-as-we-do.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Research: Artificial Brains May Need Sleep Too"
     excerpt: "No one can say whether androids will dream of electric sheep, but they will almost certainly need periods of rest that"
     publishedDateTime: 2020-06-09T14:47:00Z

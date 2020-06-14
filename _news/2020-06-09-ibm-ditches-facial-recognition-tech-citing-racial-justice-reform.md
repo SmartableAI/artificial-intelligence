@@ -8,7 +8,7 @@ ampWebUrl: "https://knowtechie.com/ibm-ditches-facial-recognition-tech-citing-ra
 cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/ibm-ditches-facial-recognition-tech-citing-racial-justice-reform/amp/?p=121777"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "IBM ditches facial recognition tech citing racial justice reform"
 
 related:
-  - title: "IBM Ditches Facial Recognition Tech Over Human Rights Concerns"
-    excerpt: "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide."
-    publishedDateTime: 2020-06-09T11:00:00Z
-    webUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns"
-    ampWebUrl: "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_1s6u.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "IBM is canceling its facial recognition programs"
     excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
     publishedDateTime: 2020-06-09T21:17:00Z

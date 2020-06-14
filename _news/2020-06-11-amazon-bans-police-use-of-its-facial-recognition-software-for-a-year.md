@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "PimEyes facial recognition website 'could be used by stalkers'"
+    excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
+    publishedDateTime: 2020-06-11T14:37:00Z
+    webUrl: "https://www.bbc.com/news/technology-53007510"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
     publishedDateTime: 2020-06-11T15:22:00Z
@@ -280,22 +296,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "IBM exits facial recognition market, urges ‘national dialogue’ on use by law enforcement"
-    excerpt: "IBM will no longer offer facial recognition or analysis software in a letter to Congress calling for new efforts to pursue justice and racial equity."
-    publishedDateTime: 2020-06-09T10:22:00Z
-    webUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/"
-    ampWebUrl: "https://venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/https-venturebeat-com-2020-06-09-ibm-exits-facial-recognition-urges-national-dialogue-on-use-by-law-enforcement/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?"
     excerpt: "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope."
@@ -574,22 +574,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/91d3c4cf-1b3d-46d6-a005-6e9ee170d007/msfacialrecognitiontech.jpg"
         width: 737
         height: 494
-        isCached: true
-  - title: "PimEyes facial recognition website 'could be used by stalkers'"
-    excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
-    publishedDateTime: 2020-06-11T14:38:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-53007510"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53007510"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53007510"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "The two-year fight to stop Amazon from selling face recognition to the police"
     excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"

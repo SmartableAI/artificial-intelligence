@@ -34,22 +34,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "The Future Of Infertility Treatments: Artificial Intelligence and Automation"
-    excerpt: "The big challenge that lies in front of us is to change the industry from manual and variable to automated and consistent"
-    publishedDateTime: 2020-06-09T11:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/351635"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/351635"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351635"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1591690836-ivf2.png?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "J4hf+ev9ftLkF/OR8wCohnCnARwBBRAJ6h5oqDm+jZAtRPGJFghs94hCCLk82v/YIRMt3O1tF7+bf4eyCKvFWoXDBkvGGqsNrZhW9PYapLm8wl3T9wi06Ga173SsyWYCktd/NMZM2YrlzsDmHGfbuH5KkkiwrIf6SRjFfBh7E5ixgCTuLzsNv8Msjq5vIz8bdejqCtxzd2oQmZ/4h3bu+OjjmW5/T1cIAr7d6Ab0pn4sx3irzHAY4UdEAlIJpnpo3+W9gFGJEflpDL0hVyqnDR4kS7OAfQnXesmnGMB8tx2+pU39RlwvI8F+mNeID+r2;SEkP+fHh4L3pEf1pNk/Bnw=="
 ---
