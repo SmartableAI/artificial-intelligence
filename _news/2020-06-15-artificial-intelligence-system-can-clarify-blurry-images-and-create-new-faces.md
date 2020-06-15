@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T09:49:00Z
 webUrl: "https://electronics360.globalspec.com/article/15269/artificial-intelligence-system-can-clarify-blurry-images-and-create-new-faces"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     title: "Artificial intelligence system can clarify blurry images and create new faces"
 
 related:
-  - title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
-    excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-    publishedDateTime: 2020-06-12T17:39:00Z
-    webUrl: "https://www.wltx.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 37
-    images:
-      - url: "https://media.wltx.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
-    excerpt: "Duke University researchers have announced that they have developed an artificial intelligence-based tool that can turn blurry and"
-    publishedDateTime: 2020-06-15T09:58:00Z
-    webUrl: "https://www.news24xx.com/read/news/26461/AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces"
-    type: article
-    provider:
-      name: News24XX.com
-      domain: news24xx.com
-    quality: 37
-    images:
-      - url: "https://www.news24xx.com/thumb/news/1592214928.jpg"
-        width: 604
-        height: 293
-        isCached: true
   - title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
     excerpt: "Researchers have developed an AI tool that can turn blurry faces into eerily convincing computer-generated portraits, in finer detail than ever before. Previous methods can scale an image to eight times its original resolution."
     publishedDateTime: 2020-06-12T13:26:00Z
@@ -82,6 +54,6 @@ related:
         height: 483
         isCached: true
 
-secured: "iSvOnri/SGBh+RVh7LZIys0oWkFWkJCpU21nqOfTvKw9vHOF6qpl5D4MwGWZc8DrB7eqGS6LzxZxB9/jqwTAsQPCNF0TaxgO3udxkjJvCDASr9g6iAGaXqR6Gpfz0wQ++F6f/vvZrCa9r4YhoYdQxcJl2hIrZ+BpxmiQgEUBaPqRj+5+k96r2zk17DTTeRQYWkOQq9BRAEVaao7XfqVN+QQjiT461Q4B9d/ug2mfkpAzm3Se447/9eWkyfg0iUl/mo3vUtOZS9lpIsFA+mcbmLmFo2FSGQVP/luoZf6DSSriA4Asu+pk269CRHVdpYylQBpQhPvG7wfv3ZnrbZtC9w==;6sfbpWFITL1ph5+svCfyuQ=="
+secured: "QI+QUwg0g3XBGCxn3YqWLcXUJVjCzWFm9aTPfOGkj8afDSz6hFkcwApry1b2TqhizABU+OUUX9u9zXqcVfj57dxyB1dS7uWcMfvFS3JDjAIrJhrKj7awyePdlyAY/86txpw6/OW3YYf3X9eGu8Oq0muV7Y66tfLDwzO/prt27oJgyXo6vIqUnxiWH8n3UjnCYxEmp7/xkMh2Mbb5x4e/aX+lyW3aIf79BqvEmxO4HPJA26+853xvTDxu4aU/F7ndgXtyTbSy73Ke7UZZgf+HHWhz2vnSnuJC21BnKj7n7p8N7/jG49yn7IFCAvHTzgDsZRm04S1Jm3LZKjP50vi1BIxSsuEjtFOAHIK+qJYdkXmi9ytq/dCFBXnA6x17tW0qp+IFIN3RmAahgGoc/EjlLt5ff2t72VOWn5pwFwb8Bdkofjo/T5qOGRIaEGSdoPf93C6MS4AEm9fd1em74ckMl2Z184w/9m3X/94yG4MHV2NE+14Mu4kkTZPt/oHgXuzGOy1R1lPgT30JkLvHpF6Swg==;B7yNlB9t2wRFgbtb3nXtZQ=="
 ---
 

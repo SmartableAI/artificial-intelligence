@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-won
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
+    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
+    publishedDateTime: 2020-06-15T13:51:00Z
+    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 16
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
+        width: 618
+        height: 412
         isCached: true
 
 secured: "WJ9MtXKxne2Ym+urDkZPZ6qVURcMC012pMh84QtXiVuE3g1kFs6coKunOFEdUKeWLOlnbk0M1fR5m++0PLFjLIB7Ht+0DigiR1gT+BnbDES+x2g9Xa2A7eW92BMUP8gDqieZITHKmDMOua88QBwZ3DwBzm2fCqlU+S0LsqiDVDYTfw+Ox+hKxXYEn9cb3brnM8k9+ykb7xh7SsvhYOEY/zgBbsGPZspMAH/Rhrdr9RQcafMDUXqK2n4yCIq2JLdEJC3cVLf+PpcMBYVcZs3aJMRDPcszd8t3znrg0g+O5ZaIVUj4/6RaynWQqI6gP9rOeaAEhCqpAdHRG/OPb2uiFmhPfX9X+ZVui9e8rEqnSzY/t0/72qwkWqft7bS5liB0mtOfMp9qbv4wWztWteyqSj2kJyozQTj/WVKIMLm+WxfpGrwBp6IrRtwK/aTTG8WRiZezgHGD30P5QaczvqqEkfxqgdgLKbQaZ3zE/h/FiqBg0Od5tYtNQR1sNXUGoZcW;IyTYeRhw+1k0Wwyct9KkPw=="

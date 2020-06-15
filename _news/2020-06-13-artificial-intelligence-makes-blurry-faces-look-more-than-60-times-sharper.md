@@ -24,34 +24,6 @@ images:
     title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
 
 related:
-  - title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
-    excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-    publishedDateTime: 2020-06-12T17:39:00Z
-    webUrl: "https://www.wltx.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 37
-    images:
-      - url: "https://media.wltx.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
-    excerpt: "Duke University researchers have announced that they have developed an artificial intelligence-based tool that can turn blurry and"
-    publishedDateTime: 2020-06-15T09:58:00Z
-    webUrl: "https://www.news24xx.com/read/news/26461/AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces"
-    type: article
-    provider:
-      name: News24XX.com
-      domain: news24xx.com
-    quality: 37
-    images:
-      - url: "https://www.news24xx.com/thumb/news/1592214928.jpg"
-        width: 604
-        height: 293
-        isCached: true
   - title: "Artificial intelligence system can clarify blurry images and create new faces"
     excerpt: "Researchers from Duke University created an artificial intelligence (AI) tool that can turn blurry pictures of faces into computer-generated portraits with fine details. Previous methods to clarify blurry images can only scale up an image of a face up to eight times its resolution,"
     publishedDateTime: 2020-06-15T09:49:00Z

@@ -639,6 +639,17 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
+    excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
+    publishedDateTime: 2020-06-15T13:41:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
   - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
     excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
     publishedDateTime: 2020-06-11T12:02:00Z
@@ -915,12 +926,12 @@ related:
         isCached: true
   - title: "Microsoft won't sell face recognition software to police"
     excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-    publishedDateTime: 2020-06-12T13:29:00Z
-    webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+    publishedDateTime: 2020-06-12T21:17:00Z
+    webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: SFGate
+      domain: sfgate.com
     quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/12/42/75/19541878/3/rawImage.jpg"
@@ -1140,6 +1151,6 @@ related:
         height: 835
         isCached: true
 
-secured: "B1k9tM0LdC3R3xxTPbBT0Xsa99nJTtskJDbR4XJLPDcVKOcbmuw4W0eyoV+X2YGGmpT6hFQRGzjmHkKjYdYNi/sPy+1GkxkeQhaFrz5Bf1ybeHDzvhNJEEF2KiKzRI6e2OVf6RJKpIQWCb+548ljVCLcrfL3gFaK8Ypbuc9IWQ9VmcuCpyKohnoIYhfZbv3VAB3VCy7gPTvgTGhInDfbwsMj5A1IgDZDQ4V82F1RcbQrMVgvwN5t5xpBAsTXbQzQ2QgZmXYMECm33yzP/mGT+1bosxInTKbyfG1pgktHdmBtCs0sqdJiLDdWV84/Z2t4QdXPfnAC9t81dhTrJ/IENQ==;hPGugjwGZhLLohw4yywD4g=="
+secured: "m06VUZgcDhmUZffWyYNj8EeBmVO9o5O8RStdWZ5cZBV3fXw3Li63n3H9c7bKjXF9P/PS0VFYJVMNNcyWbWF4R+h4pDbsHF3Vk9Fd4MFaZDmlZiTgW23K2QCUUOadtYpWPjTVz71iCsYpmLNDbAMkOpwbrSh6U3U3/h2HxuBiTRLZw9EfZcs+ZBzjOkP6tkspGHoKU96xSV/LvT/5IhCKR+5EC4A6WRppolANFYSJsQpQo7/dPqInw19vi6UQiMSmtAyUGL/3b6vitTPcsVunAIe3NAr6cdRJWXDvuEpn5vz0mV5aofcT8LHOIQY92yDITCb3zImXC5iRGkh5KfMHBD+lilfFymBS4q8Upk9xa7pAro5xdIWlvq635nyld9DY4wFo8EGT8ywRWaiLK1JoY7prsezyjFuRbpMNcH2sJ9qyKy7B3vnO9XAk9qURAeYrOCWWug3umxHPjuCwwajqDTugFz9fhQm0f8KwckSmiRNjCdXie67z691RWEImCkS0lwPcqlLR1V9eKeVcbKXVuQ==;9kemO1IMgV/T6Zutw8nWOA=="
 ---
 

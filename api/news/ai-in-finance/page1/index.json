@@ -97,6 +97,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
+      "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
+      "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16188602",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602",
+      "publishedDateTime": "2020-06-05T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
       "title": "AI, machine learning to support digital lending landscape in post-covid era",
       "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
@@ -1251,44 +1280,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup.md",
-      "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-      "excerpt": "\"Julie brings a wealth of banking and regulatory knowledge to our board of directors, and we are excited to welcome her to the Neocova team\"",
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/a1d1230c-9cbf-4633-b16d-796ce263ce58/a1d1230c-9cbf-4633-b16d-796ce263ce58_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "publishedDateTime": "2020-05-01T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

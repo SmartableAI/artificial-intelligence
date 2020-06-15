@@ -2,18 +2,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-12-mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship.md",
-      "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
-      "excerpt": "MediaTek is one of the leading suppliers of chips for smart TVs. The company officially announced the S900 chip around July last year. Later in November 2019, it disclosed that the chip has entered mass production at TSMC’s foundry.",
-      "webUrl": "https://www.gizmochina.com/2020/06/12/mediatek-reportedly-hints-the-s900-8k-tv-chip-is-ready-to-ship/",
-      "heat": 79,
+      "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
+      "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
+      "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
+      "webUrl": "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/",
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2019/02/Mediatek-COO-Reveals-Details-of-the-Helio-X30-SoC.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "MediaTek reportedly hints the S900 8K TV chip is ready to ship",
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg",
+          "width": 286,
+          "height": 215,
+          "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
           "attribution": null,
           "isCached": true
         }
@@ -21,7 +21,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T11:59:00-07:00",
+      "publishedDateTime": "2020-06-15T02:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",

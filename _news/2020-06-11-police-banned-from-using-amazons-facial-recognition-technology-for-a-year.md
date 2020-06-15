@@ -43,6 +43,20 @@ related:
         width: 1199
         height: 784
         isCached: true
+  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
+    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
+    publishedDateTime: 2020-06-15T13:51:00Z
+    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 16
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
+        width: 618
+        height: 412
+        isCached: true
 
 secured: "XGPpJkRrcB5A6ozGFA9qutUBKsHBDjPYD7HBE1EpV+Fxw0vgApDS24mmDrrEgPSK0ucAEUsfiY1th/UYk8Pr98ObYd56H8zAIP/vIu1eXVBuSFgCa2BCBuNXRvMGFUkwXrJ/8f+NzfUgMmDJq+JiPXBfp8glFe5HyYMwxfFu6NimN6FqoncLnet4fUx3nc87M3HuwxX5F9tUQG8WQioUzpvrWvMUZ9vsRBMAquXzc9Vwm0Mk87MVcuvHDWCmT1aeaE5MHTIYq+X0ArhVIkmfGG4kFsnJaNmPFmzVG+nUbSFYHmJJS3/qBKbPD/bRnxaxagHwsfcDPgHVLtVZDNpiacrsDN15HU+1BLez6nEB5VzVHg0p+T9mCdzh862vqz/hWGJ7XqlAAp4onUKetiqMB7hjq4R5Ln1MFjscrdZcri5wYIzH3KPAn05r37RGkmDyJczxtlPsVBuIj2uAvVaC5NIoBb02+9ss1jJOfnsvt6EqnYpuJwS7fBIioGfI0EV3;uxfmO3dof1lBAYcYMU1mzg=="
 ---

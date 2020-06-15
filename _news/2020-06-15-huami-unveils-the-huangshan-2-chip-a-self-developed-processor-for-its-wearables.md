@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-15T09:40:00Z
 webUrl: "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,24 @@ images:
     height: 215
     isCached: true
     title: "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables"
+
+related:
+  - title: "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2"
+    excerpt: "Huami Technology held the first Huami Technology AI Innovation Conference in Hefei, China. At the event, it released the second generation of self-developed RISC-V"
+    publishedDateTime: 2020-06-15T13:18:00Z
+    webUrl: "https://www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/"
+    ampWebUrl: "https://www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/06/20200615_145633_155.jpg"
+        width: 1024
+        height: 436
+        isCached: true
 
 secured: "gCCYQIi37FqkTF4/mhIOD+ur13QNhik2wD3z/dfZTA//uGZ6VWibW1lPD2CQ5Z5dBmwmSSkOd9Ztb535lwG4wOXV8U/JWVzoRWVxjtvPP8rRC/4b60fODJPU5WfyXStUabwVTw4y9bo48G0sk1FYCqzPZziyzRmz85L2aaUodPjyrvxvuS9wbtLGJITdu1Fnl8Sew6sn9wH+qyU/A+e4wvGdk0foUCSdzH8ZD+KLYgUZGuQ+0KPZ8ffAAP5RodIhVaJtYjZXkAvadBUqoRh5ia2wI/PSETzHFcMAsLxizK0QsSN/tfH09y1Of+FiMQuKcBAMHlNhEnkUOwxU4FSwHYA2bCYlaZeVO5MJ7M8C/uryVG6GT50HvK/MPerWPficiqF+2qoV2HNOCBy8KGO8eAWPNR89VLKgRbF4UPPWGxtLiUmihJmilrv7bfxD+A9WlT8YulOnAg6zamXhvC5iQOIQ3BJn5dvSNHTrPA9+jRieMs/M/o+EPghT2sp139FdFaddlvKd8SumncFzIKlssg==;FuS4d8WZODFWM7g5N7CWcg=="
 ---

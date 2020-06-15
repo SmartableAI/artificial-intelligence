@@ -2,16 +2,16 @@
 category: news
 title: "Microsoft won't sell face recognition software to police"
 excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-publishedDateTime: 2020-06-12T13:29:00Z
-webUrl: "https://www.chron.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+publishedDateTime: 2020-06-12T21:17:00Z
+webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
@@ -653,6 +653,17 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
+    excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
+    publishedDateTime: 2020-06-15T13:41:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
   - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
     excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
     publishedDateTime: 2020-06-11T12:02:00Z
@@ -1140,6 +1151,6 @@ related:
         height: 835
         isCached: true
 
-secured: "o2LH6HNtGx6t8OPx7ywvPnhGk9ja3LVBNCyNETHr6nxlAURYvJkqLJ+28pZX6B8jio0IV9rq4V3mDdv7pfEQ1cUTrKMvRXiNU5yqmRW+wl7n0XgBZjKdvbSS9g4yt9dYx6A/MIxmyrcDWUkDLuwALV8Cu3ivzIN9PZGzMYKwptNvjcUVDe4dbO5N5CzQshcTyyjHp3O2eichwKJR0Hkuov9THBb8co2gUUzBCK2TORO1U7Vpz/jF9iRAw0z1ktUK/5g9ADt4mvoP3cdz+UMVB7ratJNXRWEKlcqagpnCYwozfxSn93TaZ1Vr0RvjP+aTHVbCojx6de0N/kF8vNEhw2E0W6LH3gwR99dt+UqretgfKBrdyr0CKhGnmnQx5h0OYt9P7ev+/op9Tm0/RYuKDlU4Fafnx7QA4hBsA83hUIZ1J58EsDM4GTBwGIc8tgr0IoxC6sR/dzhEmcFh7SJLKQXshXeLKFSvw5Y8tdwPm8LrAf596/vj3c6yvaT0UsJkHbWGqGcNW1B7WXPyP7ejCA==;eGQMmLYRHcpcnMOU833rGw=="
+secured: "KN7BPj6GSBtueiOkq2GMYtebTGN6s9iGWXG7iA/grMHUDrkYl8tbdkEXMhY0iofty110jA/6PWeTl46gLMdOeCcIMWR8tlXwrTbF9ZPTy1lIybkTDqrBn3LkvOMEuDlijiL8Wb/KU4YFhPCaVSXhBClkUCsqmuDVkQsoourbAx5OSmTOsvvAAvO7/X06BpBPN4lB8/WpXsN9kA6H6fLDdH7YI1B6+97yxSstNqpzjZ+gjpW6/H5e3Nhfo75/7518nhxcPCwgr9TopeDv3wt3QHmdbjPfbvnDVprz79iWvKAIfRcAPJ425mdqVQHldoNK98lZjY9wjWcXG9rgHbR6vA==;N7jUDIQImSrIXlk85Qr3Eg=="
 ---
 

@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "AI will shift our industry even more than the internet did 20 years ago. Here’s why."
 
-secured: "sKEoB7b60qDWLN7pEcs1htkAHEZ0uk/MHOOwaBUE08bJKEFHoA3jZjeeoGIy22eo373klAn5LDc+T//zd2YWHrqWTkRreGqTZaJvYpxVSv3BkmF64VSdleQFey+9mvEc9XGE9cscLGcLKUYmX0qTFaquZPpYzLzZMS5OSs2QgC+9qFETYKtrX/nzsSUmtGOXx8ZIdp0xXcVaYKKnQgCpiRNpbGAN95oV+gHLwMXbZk0CNwWSgGt9im1mpMXan9TUIFJN6m/P/bBDLNAetjOAxIvOVrPDgxmQqenUG+5+Ii3ubZe/yAlfil0cnoBmUhe7f3wQNM909MQcISCpgAyyBQ==;qp+D8xin6RerR/R2NwyQjg=="
+secured: "nKa7k2/ENkt5/3NwkRaEDDdvz5VsEh4jVudI+5miyMlFg4PGMge6rB3Z0rGP7+2+8bWM9PwDlsLbH8cl7C0HDUNPm4G6J3pnWTCLs/kZ8mMmGrpseu0uLh58JHG+XxfCTztYrvuyH9Gx8XemgqJvaK0RuIKyDQpYO0EJDJrLpIY4+Vjf40EvN4b9XhPr5KU2m4+tbSS4lj+d9jB3OVtLBZtNw8NN9Qr9qUpeQA9px13H4jG5xdklo8ktqyTeSbpQMqAKfJCPpp19XTbYTYuPErFr/qntso786h2Tewiz6qa2yYkLPV7nILD+FfHciE/toRBI/oWudu1NfPrlXbz3KtKAHisfHnwmftNXcP4EoWafNg++oW7IIghu/MhM9SWVWuoQHhnSQfUycaLGo/RlmiNQmE3+l2pSEsspGXkn6UTNSQ5UGyCPpb9P8BQisPM+cGbjPkfvjGIUdqLjSCI9pbUH9S8afHAd1QBA5ruimdAhToU7kx4N7b0I7JSkqejdbbwOMF2wksp61GwSvndUhg==;nMc7uI8HQWZUPYt534B6zQ=="
 ---
 
