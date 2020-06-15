@@ -244,22 +244,6 @@ related:
         width: 2500
         height: 1409
         isCached: true
-  - title: "The influential project that sparked the end of IBM’s facial recognition program"
-    excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."
-    publishedDateTime: 2020-06-10T08:00:00Z
-    webUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/"
-    ampWebUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 84
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 932
-        isCached: true
   - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
     excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
     publishedDateTime: 2020-06-13T01:29:00Z
@@ -956,12 +940,12 @@ related:
         isCached: true
   - title: "Microsoft says it won't sell its facial recognition tech to police"
     excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
-    publishedDateTime: 2020-06-12T01:43:00Z
-    webUrl: "https://www.chron.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
+    publishedDateTime: 2020-06-12T06:22:00Z
+    webUrl: "https://www.sfgate.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: SFGate
+      domain: sfgate.com
     quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/12/07/55/19430260/21/rawImage.jpg"

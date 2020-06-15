@@ -2,16 +2,16 @@
 category: news
 title: "Microsoft says it won't sell its facial recognition tech to police"
 excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
-publishedDateTime: 2020-06-12T01:43:00Z
-webUrl: "https://www.chron.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
+publishedDateTime: 2020-06-12T06:22:00Z
+webUrl: "https://www.sfgate.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
@@ -248,22 +248,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3070026/191025-brad-smith-al-1430_30d02ca4c5439f5585b0b8ea0eb59e79.jpg"
         width: 2500
         height: 1409
-        isCached: true
-  - title: "The influential project that sparked the end of IBM’s facial recognition program"
-    excerpt: "The company's decision can, in part, be traced back to traced back to one influential piece of research from Joy Buolamwini and Timnit Gebru."
-    publishedDateTime: 2020-06-10T08:00:00Z
-    webUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/"
-    ampWebUrl: "https://qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1866848/why-ibm-abandoned-its-facial-recognition-program/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 84
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-03T000000Z_27992032_RC2R1H9VEPI9_RTRMADP_3_HEALTH-CORONAVIRUS-GLOBAL-OFFICE.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 932
         isCached: true
   - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
     excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
@@ -1200,6 +1184,6 @@ related:
         height: 835
         isCached: true
 
-secured: "6d7pGTNO3KVtJsylxyVjOzuQ6kzTRz/fE4ISOzOaYDR6UghrvjEac5IRqobwWI6R5y/CAD1ZH0enO0axMMRPInZ11rn1LNSXtDWKXRWCeZPvQ12zOaVYFOv/8QvfUKqm36cCcsL7c0qpX+nSzYkKstLsK69klUMPYRrI8tKUnpNCMOtjECuLsfcNl+d1ONAJGhlTXMeGtjPFd1311kgirD54UbzNPIJD03o9eDjJSJCLNjSafJOplPI03fQxbHlfhACXd6dw7rLKLReZwxH09u+ty3zbDWPe5+Xg8IIBxAMQ7uukHyypyWwMLXbqaBrcTxFvSNiOUWHGdPLBhRTbfLZBV+KnR++Jh+qNJxdKudyrD6PGa2LMJzdEH8nnH4tP0w794GW8vvP8MbKdWShHodY7G1LE+CHtj75NVeuOBuLkDKw3LMVfRoquIFuY6icy2jWY1L2y741Y31RnTwuISxhfn102q1NlOsxuIYEkf9Pi8onC7hu6QxNO3ZCjaHjhaPncE2sXl41Yhyrua9OGWQ==;m4/XONMDmcN15B/q+h34FQ=="
+secured: "kuvUZEM0IOJHKYgMfukWZZ/u4aI3NUUEUeo9UCx5PBE4O2LDJuei9INLeVmkIPdVfinwaxC5MDCJj4cQzjDpJj4CwcwQBeHDwrEuCTrqTFVanOG7NJEVfXOv/W39D+xGS+mtt1Zwe73rF1JN6mTnGWPuTQHMOubnHVcq+YDrvn0+OWNK4ukfjqOpPKy0DKj1U9r+gYC54FCjevF7cDrK6B+2VxVGWtsP2JHVdfFZ0iGlpHYtWA2bVMk8ayA/FSJwAWp8yDlWklorp0xvGOf02RhSReZTdHuXZZjqZFcgCrnlfT0ncCiK6JQTVNhRpHizBFxa8swnQk8IRexXFKY18g==;z2q6KPJd6+Og2/9MvHkhkA=="
 ---
 

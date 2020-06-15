@@ -88,22 +88,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "George Floyd: Microsoft bars facial recognition sales to police"
-    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-    publishedDateTime: 2020-06-12T00:34:00Z
-    webUrl: "https://www.bbc.com/news/business-53015468"
-    ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Amazon Is Suspending Police Use Of Its Facial Recognition Tech For One Year"
     excerpt: "Amazon said in a blog post Wednesday that it would be implementing a one-year suspension on law enforcement use of Rekognition, the company’s facial recognition technology. The move comes during a national moment of protests against police brutality,"
     publishedDateTime: 2020-06-10T22:51:00Z
@@ -183,6 +167,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F6a2c4282-a739-11ea-a27c-b8aa85e36b7e?source=amp&fit=scale-down&width=2048"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "George Floyd: Microsoft bars facial recognition sales to police"
+    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
+    publishedDateTime: 2020-06-12T02:10:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-53015468"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
     excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."

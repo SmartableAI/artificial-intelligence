@@ -8,7 +8,7 @@ ampWebUrl: "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much
 cdnAmpWebUrl: "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
 
 related:
-  - title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
-    excerpt: "States that resemble sleep-like cycles in simulated neural networks quell the instability that comes with uninterrupted self-learning in artificial analogs of brains. No one can say whether androids will dream of electric sheep,"
-    publishedDateTime: 2020-06-10T05:06:00Z
-    webUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/"
-    ampWebUrl: "https://scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 42
-    images:
-      - url: "https://scitechdaily.com/images/Dreaming-Droid-777x486.jpg"
-        width: 777
-        height: 486
-        isCached: true
   - title: "Here’s why artificial brains may need sleep for proper functioning"
     excerpt: "The discovery came about as the research team worked to develop neural networks that closely approximate how humans and other biological systems learn to see."
     publishedDateTime: 2020-06-14T09:57:00Z

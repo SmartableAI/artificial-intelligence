@@ -2,22 +2,18 @@
 category: news
 title: "George Floyd: Microsoft bars facial recognition sales to police"
 excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-publishedDateTime: 2020-06-12T00:34:00Z
-webUrl: "https://www.bbc.com/news/business-53015468"
-ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+publishedDateTime: 2020-06-12T02:10:00Z
+webUrl: "https://www.bbc.co.uk/news/business-53015468"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -245,6 +241,6 @@ related:
         height: 787
         isCached: true
 
-secured: "LWKnPfwxWIOuYabIXwAEwwoUMhE0r0q8N9ISuSDEELzcdxgXXbdvY9Ujjzd9BWHvPD/5MeZMwSUO6CTnKHNTsMYIjtc8E+PPWgNZIXJbSIeFp7ezUtllbeWR8FMSbe6blHA8MZX4nHLOgJCGMIilu55NfaulUy0YwQb0wtomNT9/PNM6PZH5RbC8ToRAc44gTkgVHXgTSfW2GCY2F9ctHIYbwOvZuGOqEt6RSnTZqTxDXlQt78SA0EtfkyLAtRi1dL1dkjQ6RQXv6YOjwpz2X9yDZu3O703KIYxg0rJbHtsS/i4ECbP5YK3+PsqO2uZTSDgFHVUz2B7eq6tt+wDUhJdtTBYJ9ONCcP2vMpLemZ1cdpnbT1wBndkoy+Bne0R+Of0SVjurT/d3PLgjKtKulCu88fDlLgidXDe3LXeUwXagly4FjLmlFnURSBz9WzLKImA6Ym05LYqoVyitpCZ9cp0Iz87D8Kk5mCpS0/S5HBL7DhcY6JwB8CmIsNje0SFRHyi17nJCoHgsCqz+fTvXlg==;/DzGtlD0KD484AZFnfwWnw=="
+secured: "eYFiyZ6buLi5hqP3Ta2/uIfcC19T4M4E6I3kAzwwnF3noXINp2uFRzKqfchuP5EDEw1HlBVEUf///VDLzLeHej6EJn67o9csN73YcLVV8/np5NgFhSCFDlxm0jPaxSqCNj3zqH2vHikpWnFiosOSQxUbuW7t9DaLh2NPNaVYDLXa8FpOFOtUi9XRdnyx30J5eYGQdRFBFgkt8bNBGJPMcMKALllX8tuPMUtSneyGEQ+8SATHhu5WHsfM9sHH9Uslkouw5qf3f9ZdzVoDS3fRrZMkM7yaHbTG1wqv1+tuGRsAcvxEYOt7spTdGr7uN7Z87uSQXv36Way9qkzCVwyoPg==;Ux266A6F9UwuoZKnTaiYCQ=="
 ---
 

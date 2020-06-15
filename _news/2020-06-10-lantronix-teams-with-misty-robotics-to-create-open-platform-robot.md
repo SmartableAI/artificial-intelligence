@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Social robots show promise for future pandemics"
+    excerpt: "The early adoption of social robots, in the healthcare and service industries, illustrates their potential to assist in future crises."
+    publishedDateTime: 2020-06-15T00:56:00Z
+    webUrl: "https://www.miragenews.com/social-robots-show-promise-for-future-pandemics/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/eduardo_3.jpg?itok=XIL8pb-B"
+        width: 538
+        height: 379
+        isCached: true
   - title: "Four Robotics Trends Expanding the Need for Miniature Motors"
     excerpt: "Disruptive technologies create opportunities for mini motors to solve the unique challenges of the surgical, warehouse, cobot and service robotics industries."
     publishedDateTime: 2020-06-12T20:17:00Z

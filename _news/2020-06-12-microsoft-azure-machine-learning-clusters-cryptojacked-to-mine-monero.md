@@ -8,7 +8,7 @@ ampWebUrl: "https://cointelegraph.com/news/microsoft-azure-machine-learning-clus
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp"
 type: article
 quality: 91
-heat: 132
+heat: 131
 published: true
 
 provider:
