@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T18:01:00Z
 webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,38 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Why the future of self-driving vehicles could create new forms of social inequality"
+    excerpt: "Driverless cars are coming, and they're likely to make life on the road easier and more convenient — for some of us. But will they create new ethical problems?"
+    publishedDateTime: 2020-06-12T22:08:00Z
+    webUrl: "https://www.abc.net.au/news/2020-06-13/driverless-cars-traffic-ethical-issues-social-inequality/12347890"
+    ampWebUrl: "https://amp.abc.net.au/article/12347890"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 38
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12341522-16x9-xlarge.jpg?v=5"
+        width: 783
+        height: 441
+        isCached: true
+  - title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
+    excerpt: "We’re seeing them pop up all around us and maybe you’ve even been lucky enough to have a first-hand encounter with one. Sure, these vehicles look new and different, that makes sense. But why exactly do a majority of them look"
+    publishedDateTime: 2020-06-12T19:00:00Z
+    webUrl: "https://www.yankodesign.com/2020/06/12/why-do-so-many-self-driving-vehicles-look-cute/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 24
+    images:
+      - url: "https://cdn.yankodesign.com/images/design_news/2020/02/what-designers-can-do-to-design-irresistible-products/kelly_custer_yd_guest.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "U1ibbZn3vhU5WFXjGkeSeEf3fHXAkEps5H8OYa2hvBzWJGdD8LnEAzhg1yy4XYSMD/2xWWuSimyizEkXPEMLMM71aEXv+gSKpxfClZ8QNjdpFCQQGNQc510Y64jkQfMpfn7CBUw+CUABJG4nhQxB9fiEwPloykC9Zd1Su/b1p/7B9Ce43W00P4+9j+rJDD3ci+Ph+yqA/6Tw5vyCC9HX8uPuwCErdgmyd8rU3ORUI3KRrfH04FIqFyeKrg4WhRoo4aZewDWJaEGcgFTLhKHKlnKKbPJCWocnjw/ZRbFuhzmFShroKcehTUlQnZzH5sPSe+0Fb8PTbiimPxZGdOVhmQ==;IvT6Px2BAv4WzCfoiZb67Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/"
 type: article
 quality: 106
-heat: 108
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire"
 
-secured: "Rh5WsjNRtysta2ezB6fk0jgxuqTqO85toezP4VTWcO4V+6D51EKCfZvecIASASLiW4/G/E5ArIC0Bgg9Dhb6Ehmpmi6OYcxBfOeRj21rBRFlFrhT1x6Bvd6a12jjwSZjdbjmjGrw3pzwl/Hwk4wGETeiGwfWoKp+7UHfqUPeFhfI76riaDQaPW6z7Nok3dy3a/v5jF4U9oGiHoazO1WYjXtHvexPLZQNDC/MV8ITS07b8UOiw5c8PCUdnCIYqGdp3d2XyrnuOCIqpgNumKLj2yoW3iZHUCUlI/EhkPQPVSn5z3FXfphFHmCMMk1wVj90uzAkrQZW8MTBxoWTybAo2A==;HQY54bEvXY9F2/76mlQSdw=="
+secured: "s7pErp9Td280H9m8hsss0UAm65rxzRsYhdqGCAP+GQbslhLTNfZCYoo3h9lQrLOJoI7wm3fEXUg0A2uxs6HdUVQ2iyA+2TJaR9rcxN62uwYx09NEudmUovFeogmIo/dvDbbCNsrbIVDrF+p87DVG2vrHNM9OK/0G+pWwMayYD3x4df2dPo2gwj+Qa7M7jTHhVVRSsM9EeuonL+poTeossEb4dcSRWh97dg/zSruyY/ZLRInc432K2W49FSWpEYsxRuudU2xQSJm4+AvoXZRk32KND6ZqqNlksT+f+YUJQGSi9Xl5exu3d0BD72CfMUeh4S+weShv4Qg05bz5yufP06l8md/ZE3CZqHCF6y8bgBXQMi9UUJFuGDhv7PF4aU6dYnKVc5ODizM+lXOONUnXNVflWZlyrkD/KuNITbt6gIuEw0YWVQF+iMsRYTiz8np71ilSNOcWIdVbRDfiIb7YbCcfe199FlpgJbbUdDm3tggiHIJL/xR0J2meBoKe9eT9kDJzwdh0AzoIkK0yyorcaQ==;/lB+VffMxi+Os44b9D5iNQ=="
 ---
 

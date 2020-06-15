@@ -27,21 +27,37 @@ images:
     title: "Amazon Suspends Police Use of its Facial Recognition"
 
 related:
-  - title: "Amazon stops police using its face-recognition technology"
-    excerpt: "The Washington County, Ore., Sheriff's Office was the first law-enforcement agency in the country to use Amazon's artificial-intelligence tool Rekognition. Image Credit: Washington Post photo by ..."
-    publishedDateTime: 2020-06-11T03:28:00Z
-    webUrl: "https://gulfnews.com/technology/amazon-stops-police-using-its-face-recognition-technology-1.1591831996029"
-    ampWebUrl: "https://gulfnews.com/amp/technology/amazon-stops-police-using-its-face-recognition-technology-1.1591831996029"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/amazon-stops-police-using-its-face-recognition-technology-1.1591831996029"
+  - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
+    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
+    publishedDateTime: 2020-06-15T17:23:00Z
+    webUrl: "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tech companies reconsider facial recognition software"
+    excerpt: "IBM says it will no longer sell or research facial recognition software, and Amazon announced a moratorium on police use of its software."
+    publishedDateTime: 2020-06-11T14:51:00Z
+    webUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/"
+    ampWebUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
     quality: 44
     images:
-      - url: "https://imagevars.gulfnews.com/2020/06/11/200611-Amazon-facrec_172a0921c74_large.jpg"
-        width: 750
-        height: 563
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1161938837.jpg?fit=740%2C416"
+        width: 740
+        height: 416
         isCached: true
   - title: "Amazon bans police use of its facial recognition technology for one year"
     excerpt: "NEW YORK (AP) — Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
@@ -72,20 +88,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Amazon bans police use of its face recognition tech for 1 year"
-    excerpt: "We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children, and Marinus Analytics to use Amazon Rekognition to help rescue human trafficking ..."
-    publishedDateTime: 2020-06-11T05:52:00Z
-    webUrl: "https://www.sify.com/news/amazon-bans-police-use-of-its-face-recognition-tech-for-1-year-news-international-uglfOmhhgjage.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 24
-    images:
-      - url: "https://www.sify.com/uploads/1_ugkmNIejfgfch.jpg"
-        width: 512
-        height: 341
         isCached: true
   - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
     excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."

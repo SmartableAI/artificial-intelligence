@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12347890"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,38 +27,29 @@ images:
     title: "Why the future of self-driving vehicles could create new forms of social inequality"
 
 related:
-  - title: "Self-driving cars could only prevent a third of US crashes — study"
-    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
-    publishedDateTime: 2020-06-11T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+  - title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
+    excerpt: "We’re seeing them pop up all around us and maybe you’ve even been lucky enough to have a first-hand encounter with one. Sure, these vehicles look new and different, that makes sense. But why exactly do a majority of them look"
+    publishedDateTime: 2020-06-12T19:00:00Z
+    webUrl: "https://www.yankodesign.com/2020/06/12/why-do-so-many-self-driving-vehicles-look-cute/"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 24
     images:
-      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
-        width: 1000
-        height: 676
+      - url: "https://cdn.yankodesign.com/images/design_news/2020/02/what-designers-can-do-to-design-irresistible-products/kelly_custer_yd_guest.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Motor Mouth: Self-driving cars won't prevent most collisions"
-    excerpt: "Conventional thinking has it that self-driving vehicles could one day make crashes a thing of the past. The reality is not that simple.”"
-    publishedDateTime: 2020-06-13T12:44:00Z
-    webUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions"
-    ampWebUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+  - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
+    excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
+    publishedDateTime: 2020-06-12T18:01:00Z
+    webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
-    images:
-      - url: "https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?quality=80"
-        width: 2480
-        height: 1600
-        isCached: true
+      name: Townhall
+      domain: townhall.com
+    quality: 0
 
 secured: "EzZP9rN9X5xf7jc8zkvqLcX4CRU/7T6UYT+Aov89r8cYiRP20y390YP3TzR8FJqhzmInk6piBgkCSJMKBK7hTqpqZMvyyRzpa5YeXU/XZlR4QijIfgKKeBi1oTO/aiyDJPhURUrOqXvbSeFgEfbchK6kZ6PLg0ygVHsGKo8FXSvQTWHbaJmyKsTQSp6xUqzM48wONgMFi2gO+++qkmru9EeO0Li00H3Q1aR4p+vqJ9EDEEslYKscZOx6LGdJwf0SB+VZEEKg/xtqXHKvJaJx/OmbfMW9QLv38ouGOdXIsa1WCMvIXhAmw/eQlYAYZR+QhDyVDUNPla4cmz2tPz9FpF5SsYwHHS4tncxXRjq5PpxNgorKCr/9pDjjc1c7UsJzmSP2bbqgCrUKh0smL259svoVTR3IjIoAr0JJeHCQDqR5tqF7CtXieOb363VZNeB1FiO+PChn2tv2WHAeUGZtzqzNkcN2IUszVUTR7Xc8KTdycmN0Vp0TyZFG7bzh9sGfJf2i7mreaHE9UWgSwSKRtQ==;/wob1J7NKpMsUFX1Gu4eVw=="
 ---

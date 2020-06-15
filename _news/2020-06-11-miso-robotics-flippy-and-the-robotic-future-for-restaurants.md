@@ -8,7 +8,7 @@ ampWebUrl: "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     title: "Miso Robotics: Flippy and the Robotic Future for Restaurants"
 
 related:
+  - title: "AI and robotics: the challenges and the opportunities"
+    excerpt: "Artificial intelligence (AI) has been the subject of considerable hype for several years, but is industry now ready to move to the next stage and focus on how it can be sustainably implemented on the factory floor in robotics and industrial automation applications?"
+    publishedDateTime: 2020-06-15T17:34:00Z
+    webUrl: "https://www.controlengeurope.com/article/179098/AI-and-robotics--the-challenges-and-the-opportunities.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 49
   - title: "Social robots show promise for future pandemics"
     excerpt: "The early adoption of social robots, in the healthcare and service industries, illustrates their potential to assist in future crises."
     publishedDateTime: 2020-06-15T00:56:00Z

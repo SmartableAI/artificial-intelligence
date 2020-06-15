@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon issues 12-month ban on police use of facial recognition"
-    excerpt: "After years of criticism from privacy activists, the company will stop law enforcement from using its Rekognition tool to give Congress time to develop regulations."
-    publishedDateTime: 2020-06-10T23:46:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1229601"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1229601"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 91
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg"
-        width: 2500
-        height: 1690
-        isCached: true
   - title: "Amazon pauses police use of its facial recognition tech for a year"
     excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
     publishedDateTime: 2020-06-11T04:22:00Z
@@ -180,22 +164,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Amazon to ban police use of facial recognition software for a year"
-    excerpt: "Company has stated its support for Black Lives Matter movement, but faced growing backlash over ties to policing"
-    publishedDateTime: 2020-06-11T00:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/10/amazon-rekognition-software-police-black-lives-matter"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/daffd00e63c090a92e467b9395f802db93551be5/0_173_5189_3115/master/5189.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc274ed85ba1dfdb60d380923e66107"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Now Amazon Is Banning Its Controversial Facial Recognition Software"
     excerpt: "Days after IBM took the unprecedented step to halt all development, research, and sales of its facial recognition technology over concerns that it unfairly targets people of color, Amazon said it would also put a one-year moratorium on Rekognition, its own widely implemented facial recognition software. Amazon will stop selling the software to ..."
     publishedDateTime: 2020-06-11T16:35:00Z
@@ -268,6 +236,6 @@ related:
         height: 512
         isCached: true
 
-secured: "IPc8mO2rCuJzOtVKVhNmhplqRu+PQAr2TicPnaWX1fkLMqFKBN+uF80PgyMH2nsP12wDKFYH7NNMbGXtcCdLja22PMe4GxmKO5FVXukhqUDDH7HiduF70gP5Kuwax8ccqGj3hJ0g2hsOXfkd2GF+iMBzNKa2lWQirEtPjM+FMgBZqZDjSoYodnX5Xn7aNLti4OcdXxd1LMqAwmJAk4qHXfb80Vr1yReFGBM7vXrtwNmp1ofctqUOSRVj4gPv1z/eCt5sSCoExK16UQN2gqaYToifgixe+s/NTIrufis5+mYFAMTctsXqzr9U4lvq3gOvZtkzhKVOYXfNt+H5imKdtg==;2BftaHJCAf2wJ5ZmzFi0kg=="
+secured: "cfmnd69XhD2QFsfbpCTQSBygy/nM08N8lClHH2/pNGeUdVH0zihh79eB43iqlo1N2Gcwx+FKkdD23KRWsCJqAVVKh/HJEkXt14Oebaqza/ghJZI5JTcES94tO+oEnGlYP0M4dDhnt1dBHmacxlqQKUHax2jkIRUKTKF2IKOFlteCf30q7CvY6qkRvNWeum+/FA1f9uSANWp3aJxdyHxYHS/AsmsuUNHJdp8OLgQOS3/GXVVjX+Oez3/v2xjQJmGXaSU2JW81QZ1PA4DBSA8zcIVgZI9o1TPFwcSFQ8tYZ8ZvmF+iDIgANYJsqSMjL8FYmN2E7ZyrB+knvkKNENS/8p062dJTNzY662DfA2dPcbwV/zTZRtduXGCgEkFZiK8dV19r5Of9fBNfk6ryCj+wW7bBlSA+DgdBya1t/dYjjOyVAo2SzKVIcXfxg0NHvwkSSwEIMHYNjHgHMkkIBuTIE4Q26ZUqv07jtSG0QRMBnHFSg1bU6A8gH0Y+66NuFnXucaX4cAuzLrXexDW6u7br1g==;Gwe1ddEJRUyHe+O0tocZhw=="
 ---
 

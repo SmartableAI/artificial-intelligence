@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI and robotics: the challenges and the opportunities"
+    excerpt: "Artificial intelligence (AI) has been the subject of considerable hype for several years, but is industry now ready to move to the next stage and focus on how it can be sustainably implemented on the factory floor in robotics and industrial automation applications?"
+    publishedDateTime: 2020-06-15T17:34:00Z
+    webUrl: "https://www.controlengeurope.com/article/179098/AI-and-robotics--the-challenges-and-the-opportunities.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 49
   - title: "Four Robotics Trends Expanding the Need for Miniature Motors"
     excerpt: "Disruptive technologies create opportunities for mini motors to solve the unique challenges of the surgical, warehouse, cobot and service robotics industries."
     publishedDateTime: 2020-06-12T20:17:00Z

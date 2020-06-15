@@ -3,9 +3,7 @@ category: news
 title: "AI should serve us, not destroy our humanity"
 excerpt: "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world"
 publishedDateTime: 2020-06-04T07:07:00Z
-webUrl: "https://www.zawya.com/mena/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_176079931/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_176079931/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     isCached: true
     title: "AI should serve us, not destroy our humanity"
 
-secured: "cpVodcctSIB+1eKCAUQblSFNoj0/7F4bN7xizBXF3tX6wfKwfHufsgILxTP1bsl1ckxpjpWgl14QIQ14WPslj26oHfWsR5zIIfso+fpfZ2U0FT4Xt7NryHcKTfwRSEUFBhpLd6u0sF5U8xBSpy1MPHs9s7l0ZqXUZK/C4JDrSvx7Yd2xxY7d3cQZL3MZ4IxjuJbaUfCpZnyU3FHTvFBxksiE8lgEA2a/o31HlNPwLWGuL12jsvUv6RXRuSz1EPoNIwqJngO1IM9Wsns4SCb62FgBqQaPiJCFYFH7qKk0xlyK9smcrN1ZGDKVZqo88WOu;barNYq4mlCDyBixLwmkpcA=="
+secured: "zsLJiqp8YK5XgX9OijO5mCy/ZBHGLRmyHFiIG+S7JYtxWKXAqqZAgCAtZVpFxFAzQ9Frr4iMxaDt+mxWAwt5jF7ltoHe5DV7YbNvu7dhiw+WNGc71wUhBnmBzwozZ+s7toTTcDnadr3ExFJK175tl3v8LPuOMS09rD1nVaSXe5WH5IGUHGcYcsA1sYZEax75pS2Ty8ujC7viGdxpkf9Ad+97Hk8Od5LuIbZsU+22X7HxkK0zVZJ122a+82DZcdeJa3sbR3gS9R8ER6QAWUNDnXhN9+kvXIxSQ0daZf32Uo2h6KyMCI/VJIFM9ujn3tLVsDZsartr7Ijld85aTrVFzg==;ttQBJEeDKRAcMGguBiRdPw=="
 ---
 

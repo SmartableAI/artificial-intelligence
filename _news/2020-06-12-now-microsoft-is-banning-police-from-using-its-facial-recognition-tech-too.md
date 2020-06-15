@@ -427,17 +427,6 @@ related:
         width: 2000
         height: 1340
         isCached: true
-  - title: "Amazon bans police use of its face recognition for a year | Charlotte Observer"
-    excerpt: "Amazon says it will pause police use of its facial recognition technology for a year in order to give Congress time to come up with ways to regulate the technology."
-    publishedDateTime: 2020-06-10T23:05:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243441421.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243441421.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243441421.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 35
   - title: "Microsoft won’t sell police its facial-recognition technology, following similar moves by Amazon and IBM"
     excerpt: "Microsoft will ban police use of its controversial facial-recognition systems, as the company awaits regulatory rules for how law-enforcement agencies deploy the technology."
     publishedDateTime: 2020-06-11T16:42:00Z

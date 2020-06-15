@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekog
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6?amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Tech companies reconsider facial recognition software"
-    excerpt: "IBM says it will no longer sell or research facial recognition software, and Amazon announced a moratorium on police use of its software."
-    publishedDateTime: 2020-06-11T14:51:00Z
-    webUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/"
-    ampWebUrl: "https://www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2020/06/11/facial-recognition-technology-police-departments/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1161938837.jpg?fit=740%2C416"
-        width: 740
-        height: 416
         isCached: true
 
 secured: "9FVIDUbsXsHNHLdAj++3d80V0JYdslfJ2pvOG5cGxJMSaqVkw1ZxWwi+UGUFDaR+YFAQ1hwtRzIpmqfycJ0GAtyzjpAvoJe9dE0tXYOiURWebyeuGbe4MlQY5sZvvz7c8YpxBK+go5szunEswEm13MjL1aWlnNnSOX9mrYcjIMcgLlmX1LuT68JWPOguQaENAFehvvL02qEUtGaZMH5OmyD9FLlta0aImp5PrMM0nqpMbP8c+rgJHaZDUka9GFvrgSSRQNn0gTJhEtADfUW/HAv7cLW5U5tu39bLpiDQwjuFdTtNM0vaXvr1cf1fKW5/4e+pn7M0xI5krEl/E3kxtJHChAOqqZW0JOaoFdv39Nh0bPpKg3MFpEqXIGfhjS4n96hdzurTuNEcXTocyZZSgr/SR/pUWT3zNPyMNXAOqAoU6BLudRzy4k+YwF233rHUJ2cljNSLclS1YaFP3UWz8pMq7YlN+KOu8pKKbZbtXLceW09jfZwswB2ZJPvM3IEt;GkJwik2LuiOp752+hNEzyg=="

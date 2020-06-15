@@ -1,45 +1,26 @@
 ---
 category: news
 title: "IBM quits facial recognition and urges debate on its use by law enforcement"
-excerpt: "IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-publishedDateTime: 2020-06-09T13:06:00Z
-webUrl: "https://cnnphilippines.com/business/2020/6/9/IBM-facial-recognition-.html"
+excerpt: "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ..."
+publishedDateTime: 2020-06-09T12:22:00Z
+webUrl: "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
 type: article
-quality: 22
-heat: -1
-published: false
 
 provider:
-  name: CNN Philippines
-  domain: cnnphilippines.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/6/9/Arvind-Krishna_CNNPH.jpg/jcr:content/Arvind-Krishna_CNNPH.jpg"
-    width: 750
-    height: 450
+  - url: "https://s3.us-east-1.wasabisys.com/kesq.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
+    width: 500
+    height: 326
     isCached: true
     title: "IBM quits facial recognition and urges debate on its use by law enforcement"
 
-related:
-  - title: "IBM is canceling its facial recognition programs"
-    excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-    publishedDateTime: 2020-06-09T21:17:00Z
-    webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
-        width: 500
-        height: 326
-        isCached: true
-
-secured: "sJO3B721JjqMa82tPvxvB3eD7jm2hoVvXpB1Bef9rW+J7tak514hDo0NqAdlekVknHQzP6uhYma/EeN+IegWCxsI2Rq4xLjYfPHl8KFkQbPHlMkedp+WRSauzuyuIUz8nii9SpU0JfYlqLOqknyj4fB4mlZgRhbMQu8w3HVs8otS602zDoqCmzUz+WECWvZePpaKEeJh/tSWJh7TLjFGMQh8olNghsKyuUhcr6bVtXJP1qEyMqaT5ACIPz06saVXwk3y1U9hfKIvlLniiNl2ItRCeYBHMwkgc+SgN9cUAtJ4E3QV8RxGdOr+/0DiSpfgPaYBJ5ST6mPcsV7+0HyfVFWFxh9xU+PjNHRK9x/GCszSd/Dxm8ci9MQD0CnByjF1piOjiVY/jGVVIWv1mcGT4OR53xcc7fxf2th9+UpIwkUIhu06CO7a3Fub2PSk6WSNfrHNPtrounn6vnWNkutFZ19z0dFsaGKqJiMlKLB7KjkJ+ycSOQQBuw06+bBZPQrI;TVDcvpRZ1L2fLSW0UzvsLA=="
+secured: "gcSprqU7M9K7D286RunvYehe6uPgKXeV6Pez7sUBH7i0KU//t56zMgsFg3cK5z3KcY/1CiylijArmfAcq+xgMohrV+wfmnNJKN8Fu+K91XBdF3WAVSXsBbFoeMfPFyOkSrBr6m+DGXnKKVaWTv/DTh6q2HBAhfQVwzkXZMI81SyS7tSEPuDrZ4Zr+e9o2bOJuWTE7MXo+PSOeCku9Y6pw3mdcaaUsh6BbSKGhlg7Xd1bkFpiMB2B66towGBbnwmN6fUhGJRnphIiCv/bERPOgDKeOGi0sV+xuOx+kNHDzAhUedD8Sx24UW+/EGgYLH/XAnAk8g+84tgfsmdKmNdN+g==;2puukx3+s4zptBUA58EGZg=="
 ---
 

@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Niti Aayog CEO Amitabh Kant says huge opportunity lies ahead for Indian fintech firms"
 
+related:
+  - title: "Tech Nation programmes open for North-East CleanTech, AI and FinTech firms"
+    excerpt: "AN organisation that nurtures the UK's tech ecosystem is has launched a new programme for companies working in CleanTech."
+    publishedDateTime: 2020-06-12T04:44:00Z
+    webUrl: "https://www.thenorthernecho.co.uk/business/18512903.tech-nation-programmes-open-north-east-cleantech-ai-fintech-firms/"
+    type: article
+    provider:
+      name: The Northern Echo
+      domain: thenorthernecho.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thenorthernecho.co.uk/resources/images/10511075/"
+        width: 960
+        height: 640
+        isCached: true
+
 secured: "itB6X2FdZZ34yFhPpEDv4THxH4by9stA870Qdwi0poXYGpWNirgO6fIT3aGrM7XI08w1k0RnhF+ATapSUSWNq/Wl9hXxkU65D5tGXrZmJV/tdXW58Og2xChGQM7nJVIEY/XCjo6G0wpOeqvzL7/2XaKIXtyDlXT+DUQlmnJ1a8LfGIlcKIrWqJ4XuAd1KRGsWcdO/K23HdMNndeVwlzos+pkfuEchjYqZmTvQ8N/uwZPw/yraV9bf9qu8JdSuauWBuvbDYQOEe8wAGwxajIn1/n3JZq7cUHGtFiZe41GCBzjMe2I/QPxY/Haw4xC4EBMbUgYj/KB5mj+CGogRCZPP4glQwdisonxCJt2zk865wCn6p3uPt5BdGVdlAvmesH/sFuUj7dncQpzvhiAbTkm/egvuDER+vYOi3JSyxIi9i0p4tVlUBOWTKycR1fAFy5HMxV/Ajf+5b+GW00SpGFWceEDyzKj1NhMAqMNy/Q9Gzs+c/JlJZa+2FgWlNm9u0U09rqmZdWafX50AsgqYk35pQ==;fhqDFAbcTFpLvCP5sZPIyw=="
 ---
 

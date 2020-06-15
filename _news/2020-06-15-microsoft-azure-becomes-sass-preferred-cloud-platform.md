@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Microsoft Azure becomes SAS’s preferred cloud platform"
 
-secured: "LZr+2pO3TcJcthYHTU8IkfkX077Q7OfG/tZx8NBSjFazQ5KX+SVobosTd3vcB+EOKdYh0k4h9iQhMAaIWil/6ORV+A34IZLu41K6nixb5k6eNaPMfIBTVQGr6WAiG4ODO4fbrAjareWISrRQZoXhCuIOxXOB710TL2SIpGS1mSyaXlYz6o/34Fd0jUvKGpmXcaTqPHkegvkru4yoOu/G3RsyLnZQI2TlqzJ6RpVVuJaddRAbcCjgsWYYV9RJPS0Tm5JszqcFgiaWQ8583yp5MGRIJyE/wcskp8Ey+Dft1BcCM/CPIbadleiia1++1luloe2Ookdo11Jm0N9uYxj6kg==;O7+lze1/z587SE9wLV/LUw=="
+secured: "VTbIaxl2wxev6CaUlR7mY/fcMxLl7iImMW9YV7sXi5Yal7ZMkfrMjxacMre7UFnhdqSwjj/RDXEf+CLQQxfEI5XF0y9lPGh3Qm/FFjoY4PdbkoSZ1qeDq9OOiTVHw5+Y/9vO3ynlppiPKxguyWE4mgwo+8GTXb/2k77gHzKCxOINAPvc8FVpuIAR9RgZiDKh/fDqpXAzVRHU/F/JAl4971t2MRUVcaWesXtRPdsyF2mSiXOFLDXXmya2ZUnSd/UllZfWWiIxugx+LsBqeHX67QxKoa/WU1gKKkBnIacQWdGfMfXRJHrX4TVleQICaSEjRT9B6CVCv4PjX+bq2864jGdChggThT5UzSRmDEPOp4dRU974LCTyIvj+TondXB/FTuInXOzo4hj3jn2RnsSbv3eR+/uo01zzdt2vEbRYLmicDNhZqd0sWDLh5sRYx2zErZ9f+Y70cFPZ5VeoDtEjsba3SD1XUQW1mtVehvGyCyIFZTEl+jTtWFYHPeK6LQvkozArnkRPDi/UI3YWgpkcYA==;YE6Qlc5+JdeQs/WuRVAvfA=="
 ---
 
