@@ -59,15 +59,6 @@ related:
         width: 3999
         height: 2666
         isCached: true
-  - title: "Amazon Places One-Year Moratorium on Police Use of Rekognition, Its Facial Recognition Tech"
-    excerpt: "Amazon called on Congress to establish updated rules on the use of facial recognition tech by law enforcement."
-    publishedDateTime: 2020-06-10T22:45:00Z
-    webUrl: "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 92
   - title: "Amazon Won't Let Police Use Its Facial Recognition Tech for One Year"
     excerpt: "Amid nationwide protests over police brutality, the company is stopping law enforcement from using its most controversial product."
     publishedDateTime: 2020-06-11T01:06:00Z
@@ -100,22 +91,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Amazon Is Suspending Police Use Of Its Facial Recognition Tech For One Year"
-    excerpt: "Amazon said in a blog post Wednesday that it would be implementing a one-year suspension on law enforcement use of Rekognition, the company’s facial recognition technology. The move comes during a national moment of protests against police brutality,"
-    publishedDateTime: 2020-06-10T22:51:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/amazon-suspending-facial-recognition-police"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-suspending-facial-recognition-police"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/amazon-suspending-facial-recognition-police"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 87
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/10/1/campaign_images/ba8118d67a7c/lawmakers-call-for-halt-to-covert-surveillance-of-2-1067-1591752377-17_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
   - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
     excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
     publishedDateTime: 2020-06-13T14:41:00Z
@@ -147,22 +122,6 @@ related:
       - url: "https://images.wsj.net/im-197060/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Amazon just announced that it's going to suspend police use of its controversial facial recognition technology for one year"
-    excerpt: "Police departments across the country use Amazon Web Services' Rekognition, and studies have shown that it's biased against Black people."
-    publishedDateTime: 2020-06-10T22:17:00Z
-    webUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-suspend-police-use-of-controversial-facial-recognition-tech-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/583c6db9ba6eb66d268b6326?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Amazon bars police from using its facial recognition technology"
     excerpt: "Amazon says it will stop police forces from using its controversial facial recognition software for a period of one year, in order to give Congress the time to enact legislation governing its use. Concerns have been raised regarding the accuracy and consistency of Rekognition — part of Amazon’s cloud business offering — particularly when ..."
@@ -209,36 +168,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon Bans Police From Using Its Facial Recognition Technology For A Year"
-    excerpt: "Amazon Wednesday put a one year moratorium on police use of Rekognition — its controversial facial recognition technology — to allow Congress time to implement “appropriate rules.”"
-    publishedDateTime: 2020-06-10T22:41:00Z
-    webUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/"
-    ampWebUrl: "https://deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/06/amazon-bans-police-from-using-its-facial-recognition-technology-for-year-1202956040/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 42
-    images:
-      - url: "https://pmcdeadline2.files.wordpress.com/2020/05/losangelesprotests.jpg?w=512"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Amazon Halts Police Use Of Its Facial Recognition Technology"
-    excerpt: "Amazon is the latest tech company to respond to demands that law enforcement not have access to controversial facial recognition technology."
-    publishedDateTime: 2020-06-10T22:59:00Z
-    webUrl: "https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2020/06/10/ap_17047619531765_wide-52d59385b7a6e24c7b53253cf3d3bff466942afb.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
 
 secured: "DgRMufEV8614f2UE3xqBrNFC0HKzgddWNwGusXbsWhC8L7On09nMlDptING14UQ3SXe6irue6kuSuK/B4ZLNUvEIP9iXIwWDG3UIWDZW8aQuzt+F7IyHlafo4EZ3NP11cB+bPAohZBW0r+9eJ32t+IQKsfpLeOBn5Y/tRLTe8f2rMcMXwW62F7zpyC9J4t3GsOV935g3XBZTfZM+zKFDitD/Ezqzkt3kjmLpuD+XfYvIPEAw6Iq4S3SBjKvEJ0N97VnpRCRDUPoilcN8V7NlUTycdJFco2xJsWDH1fgQkWoGovfKosHuolkIlYXFACiqWNkxEYCNm8P+4odgHLcPlCfO7pQf/4B5w4QnvQK2Yw9MicCzj2THr799qK+u47lHlCx4PB7J1o2/di1yMU5kQvVUQ0amioSyrhhFKRUtp2rG7pSXGMr22O32zkTYwrwZ4dJfdb6TNNKCRCUsn2+Y7RzHJj8KdUevCOnoAjSL7Dal5hmqV0enFfrC/AMdpCr8;QXK2OTV8OCFajW/IIw98YA=="

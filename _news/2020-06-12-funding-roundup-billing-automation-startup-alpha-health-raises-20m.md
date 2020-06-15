@@ -52,6 +52,20 @@ related:
         width: 620
         height: 487
         isCached: true
+  - title: "Startup using AI to solve EHR usability problems lands series A funding round"
+    excerpt: "Could artificial intelligence and machine learning help solve some of the most intractable usability problems with medical record systems? Here's why Craig Limoli, CEO and founder of startup Wellsheet,"
+    publishedDateTime: 2020-06-15T15:42:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/startup-wellsheet-raises-series-a-funding-to-make-ehrs-more-user-friendly-for-doctors"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1592227598/Doctor%20computer%20medical%20records.jpg/Doctor%20computer%20medical%20records.jpg?1qtB8rOhHyELakqiwM2limhuwaJLl0Yc"
+        width: 880
+        height: 587
+        isCached: true
 
 secured: "to3EWB4P2YHCkuMWhD+okye2wSmuFOJdxZvpyDuIkUHwYy2XVwP7Vqmb/Tb1f3U97I1FPs2tbTysjThSbhBX77Px6BZUlHS+DJIJsg+DUG5oVPMgVsYEptIWPsfSEeaB9ZIiKrj3l5CKHpUg+p1pbhET+UjfhhjeUi8ek3+45nm2hWzHlVwNojfB6/qVOq1vJO4G3B/u2ce1FWWnlekBOdybC4fnGXSHLTPi6iKe7nI2HCJhZnXdjPJXvtGMEMiWMZpIBPD2xe5qkZAhW7RpfgSHS/g5EFWnLz+ecaq8E3wjTWYjIdOW+M/mSH6KZ5Sg7d/h1X3uUzppZK8uQC3ysMb9XFq/arjtbaWP3HTKI2y/KGpdxZ+67YhOIyewf4u0+USCii95MbuCNAcDfzPCgLzpXS1NWe0nXCnpVEcLJeqZq48pyCCyARpJM+WVDhdG7aLK/INcBMSFjMVyOdrKLMfg/Tl4rRQOahsFlTNfiPYKs7vBJeOXOzpP6PTgFm/d1vCmO4R0CDxAMjnoYtAXhQ==;GFgkaAQJV+hbuIa4C/jRLA=="
 ---

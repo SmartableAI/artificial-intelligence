@@ -2,22 +2,22 @@
 category: news
 title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
 excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-publishedDateTime: 2020-06-12T17:39:00Z
-webUrl: "https://www.wltx.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
+publishedDateTime: 2020-06-12T21:21:00Z
+webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WLTX19
-  domain: wltx.com
+  name: WKYC3
+  domain: wkyc.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.wltx.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
+  - url: "https://media.wkyc.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -50,6 +50,6 @@ related:
         height: 293
         isCached: true
 
-secured: "S9oxH4N8kRJtxhOINmPudYdxltrLGzuJi1w3ZiXLEQq39sbtmVi5GPwVx0zndGNAJ8z9KoI/4m9CcVobxKml1HSAQZ91XVCqVdn/ApZurPeLNCVb3Qm3WXCfAjus/1o2V2WNZviUf3FqJa1y3zyiAatNqLzuvBxGq1DSDvL4SLpgvtsBPUzd/oEBD+THSdjOfzNjxEZv4tUH5K56PSD5jZMxZ1ga7gKz/TZuw6pv0hA9HwG7MY1FKZDYNzsxugEA1j6GOco3A8jQvVJIjXzOyhFaNA5lf/dEFBA25Iu2jL6PZiJo0koTK1XobknEzQrjiyPG+YHhQyeMdpmdKU6zQQ==;0H/CYKOXzZtqfiVFJtY2TQ=="
+secured: "tXgNA03cp3n0soLc7QOp6F6l5ZMbCuT78V49g1dqB76hkDdY2OQKubAQaLkOIk0JUfvXfir1NFL3VsHmqBjfnsUzwLYxw/hPx/YOE4UuTwUE0rFT7PWzYnCTSAl5jnLKj0iUPeLijPWj6qHoV7H0Ad0jYKl7THnYlY/L7yLNjW4xXDjW0/c0DsXWQZqWMJlJViiM9JSTLsHDXA7hh5bzyWk9HFFY/K57JcOyAoqfydcqQ6PzMQps9fawX+bpREM2ir9YKBM8/Xu1FC6BtIvdGu3DgQP+bDJhwncEh1jDqgHuVDcyGyEcIQuETUEjGFGwY1rCBebt9hQU8AhU+9fsiw==;X4o1yT/2p0gxElDB84PVdw=="
 ---
 

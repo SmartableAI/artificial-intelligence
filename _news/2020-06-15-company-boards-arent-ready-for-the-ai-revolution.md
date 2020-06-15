@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/company-boards-arent-ready-for-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

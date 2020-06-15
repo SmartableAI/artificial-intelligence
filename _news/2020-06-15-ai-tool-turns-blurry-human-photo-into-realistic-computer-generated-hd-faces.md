@@ -38,15 +38,15 @@ related:
     quality: 61
   - title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
     excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-    publishedDateTime: 2020-06-12T17:39:00Z
-    webUrl: "https://www.wltx.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
+    publishedDateTime: 2020-06-12T21:21:00Z
+    webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
     type: article
     provider:
-      name: WLTX19
-      domain: wltx.com
+      name: WKYC3
+      domain: wkyc.com
     quality: 37
     images:
-      - url: "https://media.wltx.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
+      - url: "https://media.wkyc.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

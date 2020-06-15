@@ -56,38 +56,6 @@ related:
         width: 2500
         height: 1690
         isCached: true
-  - title: "Amazon bans police use of facial recognition technology for one year"
-    excerpt: "Amazon said on Thursday that it's banning use of its facial recognition software by police for one year, as pressure on tech companies increases to respond to the killing of Georg"
-    publishedDateTime: 2020-06-10T21:34:00Z
-    webUrl: "https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104617474-GettyImages-813883120-bezos.jpg?v=1591825130"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Amazon pauses police use of facial recognition tech for a year"
-    excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, reversing its long-time support of selling the technology to law enforcement."
-    publishedDateTime: 2020-06-10T22:56:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521826553&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Amazon pauses police use of its facial recognition tech for a year"
     excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
     publishedDateTime: 2020-06-11T04:22:00Z
@@ -136,22 +104,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tech Tent: Facial recognition faces a reckoning"
-    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-    publishedDateTime: 2020-06-12T15:36:00Z
-    webUrl: "https://www.bbc.com/news/technology-53024985"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53024985"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53024985"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
     excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
     publishedDateTime: 2020-06-13T16:48:00Z
@@ -168,38 +120,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon bans police from using its facial recognition technology for the next year"
-    excerpt: "Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday. The news comes just two days after IBM said it would no longer offer,"
-    publishedDateTime: 2020-06-10T21:42:00Z
-    webUrl: "https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ANeG-DFZD2QLFo7v-6J5dPd9yeU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Amazon bans police use of facial recognition software for one year amid protests"
-    excerpt: "Amazon will ban police use of facial recognition software for one year, in an abrupt reversal that shows how quickly the dynamics of law enforcement technology are shifting. Police use of"
-    publishedDateTime: 2020-06-10T22:01:00Z
-    webUrl: "https://www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/"
-    ampWebUrl: "https://www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bans-police-use-facial-recognition-software-one-year-amid-protests/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 84
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/IMG_3773-630x473.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Digital Trends Live: Amazon bans police use of facial recognition, PlayStation 5"
     excerpt: "On this Digital Trends Liv,e we dive into the top stories in tech, including Amazon's one-year moratorium on police use of facial recognition tech and more."
     publishedDateTime: 2020-06-11T19:57:00Z
@@ -215,22 +135,6 @@ related:
       - url: "https://icdn4.digitaltrends.com/image/digitaltrends/google-wing-drone-feature-2-1200x630-c-ar1.91.jpg"
         width: 416
         height: 217
-        isCached: true
-  - title: "Amazon puts one-year moratorium on Rekognition facial recognition technology for police use"
-    excerpt: "Amazon's bet is that the one-year moratorium will give Congress enough time to put a regulatory structure in place for the technology."
-    publishedDateTime: 2020-06-10T22:06:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/09/742e847c-ad53-4e81-a404-0e46b9c52af6/thumbnail/1200x675/b4649c139d2b6879892f35f3f102f43f/domino-layers.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Amazon bans use of its facial recognition technology by police for one year"
     excerpt: "Amazon will ban usage of its facial recognition technology by police for one year. The decision comes after calls for tech companies to respond to the death of George Floyd while he was in police custody in Minneapolis."
@@ -309,6 +213,38 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/f41/6dc/fda6a694c959522de55ff49938451aaf2a-facial-recognition.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tech Tent: Facial recognition faces a reckoning"
+    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
+    publishedDateTime: 2020-06-12T19:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-53024985"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "John Oliver Calls for National Facial Recognition Policy Amid Protests"
+    excerpt: "We should really be asking ourselves how much we’re comfortable with it being used — by police, by government, by companies or indeed, by anyone,” host said"
+    publishedDateTime: 2020-06-15T11:04:00Z
+    webUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/"
+    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/06/Oliver.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Amazon bans police use of facial recognition software for a year"
     excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."

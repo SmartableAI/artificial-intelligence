@@ -25,37 +25,37 @@ images:
     title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
 
 related:
-  - title: "Microsoft Won’t Sell Facial Recognition To American Cops After Protests"
-    excerpt: "Following pressure from civil rights groups, Microsoft has confirmed it will not be selling facial recognition technology to police until laws guarantee civil rights protections. Amazon and IBM had both announced they would be holding off selling facial recognition to law enforcement,"
-    publishedDateTime: 2020-06-11T20:54:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-wont-sell-facial-recognition-to-american-cops-after-protests/amp/"
+  - title: "John Oliver dives into the shady uses of facial recognition"
+    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
+    publishedDateTime: 2020-06-15T11:16:00Z
+    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
+    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Mashable
+      domain: mashable.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203550%2F0x0.jpg"
-        width: 1199
-        height: 784
+      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
-    excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
-    publishedDateTime: 2020-06-11T14:12:00Z
-    webUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
+  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way"
+    excerpt: "Never mind that none of these companies were major players in the police facial recognition market. (Microsoft admitted it has never sold the tech to U.S. police.) But civil right"
+    publishedDateTime: 2020-06-12T15:21:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
     type: article
     provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 42
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 48
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WEX5RYVM2QI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "GEqX8dIZiulFlejxGSwY71X+U9v+alFjeRynj5Fay4U4RDI3Lyw0oNI5etm1iNBlm6KnRqUkfGMbo0qGxrCPlgB6TC2P4XCwHd3RUxQgJjIsnRxg2vVFuxI/gObYcKAr9o/CiftoRReFHva1jgxU8dTSqbSypIn86iUdGm46ncgMpfLUztSzHKiTXDFs32jzCnZ7fxe03G3JZ+RF/MlTTa0nwqVVjhAvrQPq5jrs+XwICpAShvqOB08nefg6onnI4ZorSn3nUaGvcEymUPZylKdC0u1Z2IrQWmAYjpyd8SYTL7moBzuAtTVs6xMv2Rg/N69HZOgSL4QEJX9aR8PDBQ==;tqoI6yPZl/NuvvBvkeRyZA=="
