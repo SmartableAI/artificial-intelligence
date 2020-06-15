@@ -627,22 +627,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CaixaBank introduces facial recognition ATMs"
-    excerpt: "Spain’s CaixaBank is rolling out cash machines fitted with facial recognition technology so customers can withdraw cash without entering a PIN. The bank began using the ATMs in February 2019, with an initial 20 machines installed at major branches in Barcelona and Valencia."
-    publishedDateTime: 2020-06-10T09:44:00Z
-    webUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs"
-    ampWebUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "The two-year fight to stop Amazon from selling face recognition to the police"
     excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"
     publishedDateTime: 2020-06-12T16:05:00Z

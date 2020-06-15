@@ -23,6 +23,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5ed94fd17f41315c30f0d5dc/master/pass/Backchannel_Burn-In-643477508.jpg"

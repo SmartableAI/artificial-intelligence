@@ -621,22 +621,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CaixaBank introduces facial recognition ATMs"
-    excerpt: "Spain’s CaixaBank is rolling out cash machines fitted with facial recognition technology so customers can withdraw cash without entering a PIN. The bank began using the ATMs in February 2019, with an initial 20 machines installed at major branches in Barcelona and Valencia."
-    publishedDateTime: 2020-06-10T09:44:00Z
-    webUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs"
-    ampWebUrl: "https://www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252484427/Caixabank-introduces-facial-recognition-ATMs?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Microsoft reiterates it won't sell facial-recognition tech to police until federal regulation passed"
     excerpt: "Microsoft President Brad Smith is continuing to champion regulation of facial-recognition tech, saying Microsoft has not sold such technology, to date, to U.S. law enforcement."
     publishedDateTime: 2020-06-11T17:58:00Z
@@ -1184,6 +1168,6 @@ related:
         height: 835
         isCached: true
 
-secured: "kuvUZEM0IOJHKYgMfukWZZ/u4aI3NUUEUeo9UCx5PBE4O2LDJuei9INLeVmkIPdVfinwaxC5MDCJj4cQzjDpJj4CwcwQBeHDwrEuCTrqTFVanOG7NJEVfXOv/W39D+xGS+mtt1Zwe73rF1JN6mTnGWPuTQHMOubnHVcq+YDrvn0+OWNK4ukfjqOpPKy0DKj1U9r+gYC54FCjevF7cDrK6B+2VxVGWtsP2JHVdfFZ0iGlpHYtWA2bVMk8ayA/FSJwAWp8yDlWklorp0xvGOf02RhSReZTdHuXZZjqZFcgCrnlfT0ncCiK6JQTVNhRpHizBFxa8swnQk8IRexXFKY18g==;z2q6KPJd6+Og2/9MvHkhkA=="
+secured: "cH1kYCpDses88vWASUUqOsF88lkjUFAStki6uI7WS3Xs3UOtcnP2qKP3QAW0O0IeHmhxtp3gCCYOwxVPGlFNy0SgG4KpcZxILnrUBZXxFo5oYYaGUBzRm3Noc4hhWKYpNrgrCRYyV7XPB8m2uqOcktNzPFvjI/HgXR1zo2Z8FTw4olmfHEgFcVRyuWHo/Yxh7w8Nni5eRrQlZt0njAal5wySY8MJ1MT0bU0OMR/Ta1p7wuBaFs8Qprh25Oghpfc3mfY+YkpWJl6OoLGNsqIb1gyT5Nm/ZO+H53eB5s7i7MDRbj+Bw+7Udo+7HxtSNgvvt/yVYE0qie3iqwuBnSMLzoWdUvfdHrBu2BnKIWC/hGx72gYOajp8O4oPkD1rZZ621EpuHDn3BzBVlYYu1JVGJk4DX8Cf17oVnaY7sm2Enfcv9QgpwCKR18WWUxCkDwFRFT6HHEN44dSPpasLIF3JqVAwA7YGGcOYagL+kE3pBzr0GlZp8y1Kglkh5JD6cdBugaJ9qFSttyPIzrUcFCYiZQ==;kprugFuyR5RqFEFyAqceEw=="
 ---
 

@@ -25,19 +25,19 @@ images:
     title: "PSC combines Cerebras and HPE Superdome Flex for 800,000-core AI supercomputer"
 
 related:
-  - title: "AI Supercomputer at PSC to Combine ‘World’s Largest Chip’ and HPE Superdome Flex"
-    excerpt: "The Pittsburgh Supercomputing Center has won a $5 million award from the National Science Foundation to build Neocortex, an AI supercomputer that incorporates the Cerebras Systems Wafer Scale Engine technology introduced last year along with Hewlett Packard Enterprise’s shared memory Superdome Flex hardware."
-    publishedDateTime: 2020-06-10T09:57:00Z
-    webUrl: "https://insidehpc.com/2020/06/ai-supercomputer-at-psc-to-combine-cerebras-wafer-scale-chips-and-hpe-superdome-flex/"
+  - title: "Irish AI research centre gets €247,000 for new supercomputer"
+    excerpt: "Ireland’s applied AI research centre, CeADAR, has secured €247,000 in funding for a new supercomputer to be named Leon."
+    publishedDateTime: 2020-06-11T09:45:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ceadar-supercomputer-leon-ai-big-data"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 49
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2016/06/psc2.png"
-        width: 330
-        height: 330
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/AdobeStock_312747469.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "mKXc7WTHlrvRCmlRP4o4O8behwPlWPS5klnk/XJx/9gTcVzJB48AFeo0ITQ3fo2nIrCE+5ze1L/VbiLt39oTL+WULosEsiTEbH5iBs+lpjU8uflwEr/IeSQVbw50+cL4Y4jvS1S2Nzrl5pjye81AYP2vIU6vgpOCmvygrPK03NkQe2AgG6VDskxCC1gahBCWC/byiVmIuvEf8D6qgpdMJoCBaaeV8WMjrxe1VvqXID7G/MC/ivLA081Jv6+eoqkWj0KjpsOjLBKalsdCM7WVK13w2hlgkVmU7KLiQj7tZeaLALBwloBHTQG4ZNcqJJb53N2ga5hVTmdQPP3cvB4Zsf47TjuPHpLKQXXyTJFf7VAoiiVeTlnBEuA+K6I9D8lQubV+i0ECmUGY6ZTD0Ji75IByRBqrT5GSiOo38UzdqIZv6PS++sCjujMYM8ksX8SUb+x1OT3RfHR5CW6syvkUeeMRK+cC4KUK/qstPzuaqNXZXy+sxbA2UEdM/p480J0g;ODv/SIuj6qraGScUQfqsGw=="

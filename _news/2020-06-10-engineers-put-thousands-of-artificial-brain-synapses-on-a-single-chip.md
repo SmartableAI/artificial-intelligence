@@ -42,20 +42,6 @@ related:
         width: 639
         height: 359
         isCached: true
-  - title: "Tens of thousands of artificial brain synapses on a single chip"
-    excerpt: "Engineers have designed a 'brain-on-a-chip', smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors - silicon-based components that mimic the information-transmitting synapses in the human brain."
-    publishedDateTime: 2020-06-10T09:38:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=55359.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id55359_1.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "sxXVxVeOWeRFo1lmh57wRejjrRYpN6aOWh65HbmceCmk+eMotJe8c1NHiYkYLlL/CRPdy81tw1j6vsmAjCgx5e8qlSE7qxWGWpr+zNqYapo2B85AaOq6zzEOHpg3wzkzWFbkCNhFYoruTSEesLjI8x+6+H/975wG3XSZhKbnaWfU3wBhAAlVGoCWBKo1DqLy5MhNMLH2W0qQoMNFzcbVeNs14I2y5KQZd42vRXb/UwWil9KLgQgxdbklWr8H/Cu32us6QrW7u5c8di31jSR6y/5VN2mK6xbrHZiDaxfrR4S9Hu1XjsLOGJDluNl1i/sKPZ1qN6QSkRt+cRbVjh4z6TpLljBjShGFZ26H41Kob72Y1D1ZpEI2VMbiBBrD4H436/fV5CxyznlS8F1dJohJwZCoJmQSMcEm6D+8LIau35p8iYqdIVZ2WC1h7OIwhR6OAMVWLz2jvEznpJsO4Kj1I8fy5k/Ck2eNkQEg+TyM9TCNM0FoSbNxJp3F1Dyrz3BD;bLLGgRGQFXRo9fEJmoXa5Q=="
 ---

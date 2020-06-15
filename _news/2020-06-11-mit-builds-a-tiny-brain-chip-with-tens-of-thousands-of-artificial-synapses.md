@@ -8,7 +8,7 @@ ampWebUrl: "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-w
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTL2006_WEB_IMG_MIT_Graphene_Sheets-Slider-1.jpeg"
         width: 645
         height: 350
-        isCached: true
-  - title: "Tens of thousands of artificial brain synapses on a single chip"
-    excerpt: "Engineers have designed a 'brain-on-a-chip', smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors - silicon-based components that mimic the information-transmitting synapses in the human brain."
-    publishedDateTime: 2020-06-10T09:38:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=55359.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id55359_1.jpg"
-        width: 400
-        height: 267
         isCached: true
 
 secured: "KoYIhB9PlGA3JlvRoOC+J7pUsqPXS2ISKtksn68q1Tg7wB1ffRH+7J5YYg5TKD6nI6iU5I7ev4tHkZq+hgoqSqf4Yt0GSbZdgifY3Qv0SteovveEIgCGauBUAaoPmdYodmwRYkbuZ/mW5sicd5g2VaouawRvT09l7rSisw6HvHgb2nny06wg8jo6ANNUrezgFHXWnMf9NEUlOFsbJ+ZNpOTSe8OuPfKlNsMUKb5T5a+x0/xwCzceOfd9v4WKRi2tGsDYdTv0x9jE/V8zpHO/H2xc992DVJ8mYaaJIhdioW8dvgS5gqo3+HYSJY+FTfPQGp/+npyitUxyeVj3EzwbRjMXLKRLEwoBhKJ36Sg7XQH5u9XTVdQ4bzxTMLplNs8cd/IUU1NIWsUbBw27sxBzNWtw/75UIaZZ4kANsvKloGvZ0+WL2nL7X4bTFvTuTXxBH7+xvhu9/e7zdWbh4Pk+SN/iGoCycEmeFm42fcpEyOyQ3xB98+BPXgtgYXW1/4nigwXnGduwH2vWqonirBRDyQ==;V+TAXgXJ0HQX8xCpSPX+aQ=="
