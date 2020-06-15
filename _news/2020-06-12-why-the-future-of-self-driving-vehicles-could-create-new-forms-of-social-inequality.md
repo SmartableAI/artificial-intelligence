@@ -59,6 +59,20 @@ related:
         width: 2480
         height: 1600
         isCached: true
+  - title: "Self-driving cars may not reduce as many crashes as you think: report"
+    excerpt: "Insurers expecting the rise of autonomous vehicles to lower collisions may not get the results they were hoping for, according to a new report. It turns out that self-driving vehicles might prevent only about one-third of all collisions,"
+    publishedDateTime: 2020-06-10T20:37:00Z
+    webUrl: "https://www.canadianunderwriter.ca/claims/self-driving-cars-may-not-reduce-as-many-crashes-as-you-think-report-1004179390/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 24
+    images:
+      - url: "https://media.canadianunderwriter.ca/uploads/2020/06/autonomous-man-read-paper-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "EzZP9rN9X5xf7jc8zkvqLcX4CRU/7T6UYT+Aov89r8cYiRP20y390YP3TzR8FJqhzmInk6piBgkCSJMKBK7hTqpqZMvyyRzpa5YeXU/XZlR4QijIfgKKeBi1oTO/aiyDJPhURUrOqXvbSeFgEfbchK6kZ6PLg0ygVHsGKo8FXSvQTWHbaJmyKsTQSp6xUqzM48wONgMFi2gO+++qkmru9EeO0Li00H3Q1aR4p+vqJ9EDEEslYKscZOx6LGdJwf0SB+VZEEKg/xtqXHKvJaJx/OmbfMW9QLv38ouGOdXIsa1WCMvIXhAmw/eQlYAYZR+QhDyVDUNPla4cmz2tPz9FpF5SsYwHHS4tncxXRjq5PpxNgorKCr/9pDjjc1c7UsJzmSP2bbqgCrUKh0smL259svoVTR3IjIoAr0JJeHCQDqR5tqF7CtXieOb363VZNeB1FiO+PChn2tv2WHAeUGZtzqzNkcN2IUszVUTR7Xc8KTdycmN0Vp0TyZFG7bzh9sGfJf2i7mreaHE9UWgSwSKRtQ==;/wob1J7NKpMsUFX1Gu4eVw=="
 ---

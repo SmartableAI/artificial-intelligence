@@ -2,33 +2,26 @@
 category: news
 title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
 excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-publishedDateTime: 2020-06-15T08:08:00Z
-webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
+publishedDateTime: 2020-06-15T10:22:00Z
+webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
+ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
 
 related:
   - title: "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars"
@@ -87,6 +80,6 @@ related:
         height: 372
         isCached: true
 
-secured: "d4YGcS7W026WznQTOcXJHi/cCyGONjg9oVQt3W2xHIJlf6Fif9Lkup6rNmJjwYmqiF8Zc21odWzSkCd+EfCLBiA6e1SOqMabsDOTWhIl4c4rL2xnJUOmTiNqoSZo3p3qU+om1QTByL7zyqryLvLblJ659Q9m2JtyI5x9zBV+epX0R93BwKcGOmDhNOGFrlIJzDlskftKYYxvgxrOZRBZO/5cjDQ3oqdx7MFeaXerOph5VejPbRHSIViYOHFZdzTSdnP90jNR/p1latomjHiWaQMvQZ2ocexo85voRKr1MO/E8PXStrBK7YDxbK/NWy6QnBOyhQ/JQaRwMjidp8a0cA==;/W6nT8DBOIWjiU16aDJSFA=="
+secured: "FHNQz8Wh8XkVfWcSvP3aS2zC5jbjxIv3DWaq0LVJduJxz82QA0XaNBrOuC64QaADQctdd+tHNB4QBb8MHLqdSil8yISGbaCwUK9uAXo3u40UO/P2tvtyiNO0iwO8nzZ58CyyvDUU888429NM1yYXaJsriyzQfPqbd3u5NUf1xWFeXMWIZeMQwzhh+CSQa0sjQgG8/0UCntYOn6NDQ9f7htc3qgLwlph0iHGQPorBoDY53GT1gCexhmBDfad0pC6HZRvR0YnpEmNpVlLrHJ0ar9bjDrNjktkPwRU6issbHAsf8NIo6Tc/W/HkcC5bZ9Fx4qpnze0WUMP9Zq/xoTAg5g==;xYnSRxSaDZHvc8QNOoINcw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/11/researchers-detail-technique-that
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 600
     isCached: true
     title: "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms"
-
-related:
-  - title: "Skoltech researchers use machine learning to aid oil production"
-    excerpt: "Skoltech scientists and their industry colleagues have found a way to use machine learning to accurately predict rock thermal conductivity, a crucial parameter for enhanced oil recovery."
-    publishedDateTime: 2020-06-10T18:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/sios-sru061020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/234394_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "rsCk3THEZ+vh9LSOB4ez0z/buGZsfLEZtgjpHtgLbFINRirjKHYXWDMmpchNl7NcOq4oGgT5TCwpaDxjpFbCbQbKeWoFVQKRec58wL0R7TK+4tqPLc06DHFg5idA85NuN3/MPDxa5CJcDr18i1opa2NPO1BITANkD7GhjpZyds7BCkBaLQUMq1/SIJ3hLAWYF0/2laFlX8g1wCtIuaGDnS9zx+XNLsIAw01UatkhloAD+uK8wyc27K6fmPxR4bKKGh7vkwv8JutstVAGZVDmS/rp4b1k7OnGHUl3CYlKT9kazfvr+It0Uog1u8J8Ezm94D8ZNSYwpxY+2RP/K64w0YNibO+3H5SjNqOvow8MB3sMSYti1lk3y3GTPcx1OkWYitJFhVvkcr0erH923OUohEKrrGHeyTpQaZrP4a16x58IeDVQDQWMscwsDb/Om+bZZaj7Nlq/yQq4OWjG91fTMBwVgx19NXbeFUuR30t6R/ynXGIGcfcsRFsxFDcDpCfs;PN7sioV+vujqgdf3atBgCw=="
 ---

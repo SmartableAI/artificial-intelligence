@@ -59,7 +59,37 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Facebook AI is 65% accurate when comes to detecting deepfakes"
+    excerpt: "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,"
+    publishedDateTime: 2020-06-15T10:04:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/facebook-deepfake-detection-challenge-1592215334.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Results from Facebook's Deepfake Detection Challenge show how difficult it is to detect deepfake videos"
+    excerpt: "Facebook said it will open-source the dataset that was created using the paid actors at the conference on Computer Vision and Pattern Recognition (CVPR), which it claims will help AI researchers develop new generation and detection methods and for use for other research work in AI domains as well as work on deepfakes. Earlier this year ..."
+    publishedDateTime: 2020-06-15T10:54:00Z
+    webUrl: "https://www.medianama.com/2020/06/223-facebook-deepfake-detection-challenge/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 8
+    images:
+      - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/flat-3252983_1280.png?fit=1280%2C1066&#038;ssl=1"
+        width: 1280
+        height: 1066
+        isCached: true
 
-secured: "lrMrACIC6jBqjT/eyrEMofaTSDBZgdCfmmcqt+lY87JfMwC+CCYTx5Yop3Siu8HZHqCrxZcAAdtKUzGvv68OkYKR5OKNhkfaPQ4+qa8L1G0qWiK4Eo6QGKpqLFwD88I5Bqylh/6VMZKhPpvKp13/tpNCmZyp5NrU3op01vRFRLbNEVI1z0ciAhjw+afjylfoC7oox0IYyhQf7RinoW1+TGEiRofZ0lzzys42Q22yfJNi1DNrrACjyTSP3N8TvpRLJ4TIgwnQQfH9vyiFNWLJ6kylY2yvZUPv4mRXL+89iP6G1Na3D+815V9LzZucGyIWkSkkgfXjKSOYyBD5uWK5Uw==;xZLa024Z3wy8njGGzD1p5Q=="
+secured: "cgG6mXMxr67TYKT+h+yri8UTJWC4hA722mi3N1cE8KRmFxZyJ/BU3PYp4rjJFeMDKUA0zyKMc07a0cVrqasYg8qiJjuCUgX0cpyUEEy45a9gYXLnDLJxvE4GeZ64sGdZj+gQc2CDi+Nh5umNa/w4cHzl2gM9FaI8qpb+AmAjq8vPlHdZlz/8QCszjVlOlEsUbcumKgfOqu2fGyjih9wFNxhGWQK9Y72QHjvkhX7tNdSHYMbjA48EQ2guL5FB8WAxyXHy+j97igsJWCashHGQdQNC4awuDiIE5+zfCROuNnT/ed+FVHczEHWZ0APyxp7V99QA2HzoqDxbODln4zsCSnjk2cYO9imYE58KrzyZAaXoxoqdm2L2r9KXRUIojyz7PIwilzIAGy9DVMw+KjEOfbMyD/6hHM9P3WrtdNvzIsQED4j9U9Cdhj2ETtLrmOuR5Rp72qIaOw2ec8fId6Vjsx98eqbJYq7gW4/CoeHjKo0rbpLgfwJ7EkTv6z4GGu5Z2OTSrVVQvsyaBy/t/Aoarg==;7Sw23XOWu6zb3RbOapunuA=="
 ---
 

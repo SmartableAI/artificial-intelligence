@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
-    excerpt: "Duke University researchers have developed an artificial intelligence-based tool that can turn blurry images of people’s faces into perfect computer-generated portraits."
-    publishedDateTime: 2020-06-15T07:51:00Z
-    webUrl: "https://analyticsindiamag.com/ai-tool-turns-blurry-human-photo-into-realistic-computer-generated-hd-faces/"
+    excerpt: "Duke University researchers have announced that they have developed an artificial intelligence-based tool that can turn blurry and"
+    publishedDateTime: 2020-06-15T09:58:00Z
+    webUrl: "https://www.news24xx.com/read/news/26461/AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: News24XX.com
+      domain: news24xx.com
     quality: 37
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Duke-University’s-AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces-1024x683.gif"
-        width: 1024
-        height: 683
+      - url: "https://www.news24xx.com/thumb/news/1592214928.jpg"
+        width: 604
+        height: 293
         isCached: true
   - title: "Artificial intelligence system can clarify blurry images and create new faces"
     excerpt: "Researchers from Duke University created an artificial intelligence (AI) tool that can turn blurry pictures of faces into computer-generated portraits with fine details. Previous methods to clarify blurry images can only scale up an image of a face up to eight times its resolution,"

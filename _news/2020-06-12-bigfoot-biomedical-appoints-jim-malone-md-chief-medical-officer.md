@@ -1,35 +1,29 @@
 ---
 category: news
 title: "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer"
-excerpt: "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,"
-publishedDateTime: 2020-06-12T17:44:00Z
-webUrl: "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/"
-ampWebUrl: "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/"
+excerpt: "Bigfoot Biomedical® Appoints recognized endocrinologist and clinical researcher Jim Malone MD as Chief Medical Officer"
+publishedDateTime: 2020-06-12T13:31:00Z
+webUrl: "https://www.businesswire.com/news/home/20200612005070/en/Bigfoot-Biomedical®-Appoints-Jim-Malone-MD-Chief"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i2.wp.com/mms.businesswire.com/media/20200612005070/en/797739/4/Jim_Malone.jpg?strip=all&ssl=1"
-    width: 381
-    height: 480
+  - url: "https://mms.businesswire.com/media/20200612005070/en/797739/23/Jim_Malone.jpg"
+    width: 1200
+    height: 627
     isCached: true
     title: "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer"
 
-secured: "KOmhX42ZIAHH+AjNLXDbbsmLzNFytRXISMAmjaECJKwIJOCEOnXkGiLEimu/3bnTyaU3hcNXklyFFfgPOmwBo9VpFGNlnAHegqFzbkmaWy7OG/za2rhkpWrCrJ4LzGedQR9xVygh2N6LiQk8L/7PxBj3DRiuHgQKjsqaKCfc4bkJRVIVlaNKOmTeW/YDstaFL8aUqTEilVdSXURrUKj9Hae/UZBVrXJVi6VuNtvr4VSwrN/J4AE3uAGamEIztbeMoMdMzJ5Itlnd+o/Pk0O8DSDVPW5tXfjP+oyx98dVbxZWamQzHoZfpNz3LSaJmcUcggsvNuh18RduV7fAz4XElA==;BSRtQVuysTIQAGWHtUxqWQ=="
+secured: "209c3VrAvg7RyErWI/icXXWOBsDEFhcRn5xDJlJDCo2LGxTFrGYyHU51SOitOCpYDJEv2OQVUL23fhYWPwwHqLiwDNDRJlUYKQiHzIFyV3uxs76pHuwDoXFtprK5GUseNjJuev5Yjnn29jcYI1klF3dgLxDtZialFj/Vy3bMnwz8FNmfMtNmYY+wchOpayqTkJVGC7SAmGj/dAuriKGv8dYSCNC6SmZjTpHod8Hb1nTLS5Lo7c/mnDqIJFTd54nBxKZxBx/W1SrjV5lc2gnw0xFz7mNJTuzYDjJidraM/18/gZfdYycZ8AFl9fFdR3hgWRplZK5gz4G78uUw8kzifg==;R75Q2cmISa2tnGo3hlccNg=="
 ---
 

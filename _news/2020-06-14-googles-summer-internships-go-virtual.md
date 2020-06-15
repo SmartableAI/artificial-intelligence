@@ -8,7 +8,7 @@ ampWebUrl: "https://tribune.com.pk/story/2242460/8-googles-summer-internships-go
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2242460/8-googles-summer-internships-go-virtual/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "Google’s summer internships go virtual"
 
 related:
+  - title: "Google: We've got 1,000 interns working on open-source projects - from home"
+    excerpt: "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects."
+    publishedDateTime: 2020-06-15T11:17:00Z
+    webUrl: "https://www.techrepublic.com/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 72
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/32f19f7a-aac1-431d-ba47-f9e67bb3641d/thumbnail/1200x675/b516fd0da4e25f251e6c411643be0927/20200507-moyer2-dan.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s WFH engineering interns focusing on open source projects this summer"
     excerpt: "Due to COVID-19, office work today is limited to essential personnel that might require equipment only available in-house. Google WFH"
     publishedDateTime: 2020-06-12T16:51:00Z

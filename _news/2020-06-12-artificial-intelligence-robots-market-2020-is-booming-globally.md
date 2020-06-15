@@ -24,7 +24,7 @@ related:
   - title: "Geospatial Analytics Artificial Intelligence Market (2020 to 2025) - Drivers, Constraints and Challenges - ResearchAndMarkets.com"
     excerpt: "The \"Geospatial Analytics Artificial Intelligence Market - Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global geospatial analytics AI market is estimated to grow at a CAGR of 24."
     publishedDateTime: 2020-06-15T09:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200615005278/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200615005278/en/Geospatial-Analytics-Artificial-Intelligence-Market-2020-2025"
     type: article
     provider:
       name: Business Wire

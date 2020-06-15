@@ -176,22 +176,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM walked away from facial recognition. What about Amazon and Microsoft?"
-    excerpt: "Algorithmic Justice League founder Joy Buolamwini led facial recognition race and gender bias studies, and wants Amazon and Microsoft to end sales to police"
-    publishedDateTime: 2020-06-10T18:12:00Z
-    webUrl: "https://venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/"
-    ampWebUrl: "https://venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/joy-buolamwini.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon bans police use of facial recognition software for one year amid protests"
     excerpt: "Amazon will ban police use of facial recognition software for one year, in an abrupt reversal that shows how quickly the dynamics of law enforcement technology are shifting. Police use of"
     publishedDateTime: 2020-06-10T22:01:00Z

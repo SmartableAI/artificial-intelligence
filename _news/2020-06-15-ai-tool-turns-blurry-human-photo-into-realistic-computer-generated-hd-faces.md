@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
-excerpt: "Duke University researchers have developed an artificial intelligence-based tool that can turn blurry images of people’s faces into perfect computer-generated portraits."
-publishedDateTime: 2020-06-15T07:51:00Z
-webUrl: "https://analyticsindiamag.com/ai-tool-turns-blurry-human-photo-into-realistic-computer-generated-hd-faces/"
+excerpt: "Duke University researchers have announced that they have developed an artificial intelligence-based tool that can turn blurry and"
+publishedDateTime: 2020-06-15T09:58:00Z
+webUrl: "https://www.news24xx.com/read/news/26461/AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: News24XX.com
+  domain: news24xx.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Duke-University’s-AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces-1024x683.gif"
-    width: 1024
-    height: 683
+  - url: "https://www.news24xx.com/thumb/news/1592214928.jpg"
+    width: 604
+    height: 293
     isCached: true
     title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
 
@@ -82,6 +82,6 @@ related:
         height: 483
         isCached: true
 
-secured: "VeFFMhm7TKqN2mlc7P7AzTMMBVa4NrctVzUqXkJh/V8E4RjINGjc3FxZsYEuvNTWMoFYVthSH2XPWsl383ebh1sLvC63SLeY8Q0GemviJxCFw0thXfKosTBnkSHBhpnRDQIyXzQeAGjyKt+j6nn7FsGvTquTTSZ0z83GVVpyBIc1XitpkZ9VVGgpUezrmjfpqqL9964SFRoB8gx8U8UY8DPqvkYoxc6htY6jp68Ol5pSzHz1s3KjwhpS6Mz+QPNJh75LpRd9KXvlWkk2J+QHUSGhDhpCJ6zrtbpIbycJeeL6WE3xQs0vTwiC7XD7RfsjgW5tifMvBWE5ujQ9MD9N+w==;StxWcMk8vePYNS+nTdTSyw=="
+secured: "9eCs4az32v7FJcpTdOljVhDNDBJBDXKuZcpNgSbRX1AvePicrqrybPpHEsdFNipeZcE8UjA1axQbNVIZEScyA13HLHn2t1Ym6ZQdzO1eQsjcdvF4je3qpbR4eCAHLYCfVCva2jFt11YY3pblqF9xDy5ZWeHabAOKzN3rktMky0xfDPG+DsB0sNUwvqExUmJrqjevGqetD6sYC9R8jTszpV93YvlAgK8SpRm8kxlzuld+kYfM7TwdkjXa22MSsNb2UVChkTITkQ0hFiwHZt7OeM9hkCKAOvPoRpNk5NqgZk7AQGv+TIDCIAAz2dIdKcYtAShe7msYaycZJlR79C2yAw==;8M+G4twEyWpYOssJmDxYGg=="
 ---
 

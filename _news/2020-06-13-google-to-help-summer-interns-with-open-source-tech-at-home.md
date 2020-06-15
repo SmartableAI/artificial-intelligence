@@ -25,6 +25,22 @@ images:
     title: "Google to help summer interns with open source tech at home"
 
 related:
+  - title: "Google: We've got 1,000 interns working on open-source projects - from home"
+    excerpt: "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects."
+    publishedDateTime: 2020-06-15T11:17:00Z
+    webUrl: "https://www.techrepublic.com/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 72
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/32f19f7a-aac1-431d-ba47-f9e67bb3641d/thumbnail/1200x675/b516fd0da4e25f251e6c411643be0927/20200507-moyer2-dan.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s summer internships go virtual"
     excerpt: "The program this summer is focused on WFH open source projects. Google’s summer internship program dates back to 1999 and is already underway. “This is the first year our summer internship program is virtual,"
     publishedDateTime: 2020-06-14T08:53:00Z

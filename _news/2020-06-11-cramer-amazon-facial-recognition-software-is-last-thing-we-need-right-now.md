@@ -171,6 +171,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "John Oliver dives into the shady uses of facial recognition"
+    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
+    publishedDateTime: 2020-06-15T11:16:00Z
+    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
+    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
     publishedDateTime: 2020-06-11T15:22:00Z
@@ -992,20 +1008,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-aclu-says-amazonand8217s-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnand8217t-enough.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Boston Moves to Ban Facial Recognition Technology"
-    excerpt: "Boston City Council hosted a hearing this week to discuss a proposed ordinance that would ban the use of facial recognition technology. Councilors Michelle Wu (At-Large) and Ricardo Arroyo (District 5) introduced their proposal for banning facial recognition technology over concerns about its inherent racial biases and the dangers of allowing unregulated use of such Read"
-    publishedDateTime: 2020-06-10T18:56:00Z
-    webUrl: "https://northendwaterfront.com/2020/06/boston-moves-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: NorthEndWaterfront.com
-      domain: northendwaterfront.com
-    quality: 24
-    images:
-      - url: "https://northendwaterfront.com/wp-content/uploads/2020/06/PSX_20200606_205504.jpg"
-        width: 1776
-        height: 1184
         isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "We’re implementing a one-year moratorium on police use of Amazon’s facial recognition technology. We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children,"

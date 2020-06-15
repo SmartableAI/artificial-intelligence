@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 118
-heat: 328
+heat: 318
 published: true
 
 provider:
@@ -157,22 +157,6 @@ related:
     quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/rep-jimmy-gomez.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM walked away from facial recognition. What about Amazon and Microsoft?"
-    excerpt: "Algorithmic Justice League founder Joy Buolamwini led facial recognition race and gender bias studies, and wants Amazon and Microsoft to end sales to police"
-    publishedDateTime: 2020-06-10T18:12:00Z
-    webUrl: "https://venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/"
-    ampWebUrl: "https://venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/ibm-walked-away-from-facial-recognition-what-about-amazon-and-microsoft/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/joy-buolamwini.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
