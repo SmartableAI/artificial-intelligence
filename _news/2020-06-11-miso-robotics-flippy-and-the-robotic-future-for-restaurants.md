@@ -8,7 +8,7 @@ ampWebUrl: "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "Miso Robotics: Flippy and the Robotic Future for Restaurants"
 
 related:
-  - title: "Lantronix Teams With Misty Robotics to Create Open-Platform Robot"
-    excerpt: "For robots to become a part of our everyday lives, developers need an accessible robot platform upon which to build,” said Morgan Bell, Head of Engineering for Misty Robotics. “Working with Lantronix and its Intelligent Edge Solutions (IES) platform,"
-    publishedDateTime: 2020-06-10T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lantronix-teams-with-misty-robotics-to-create-open-platform-robot-1029296100"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Social robots show promise for future pandemics"
     excerpt: "The early adoption of social robots, in the healthcare and service industries, illustrates their potential to assist in future crises."
     publishedDateTime: 2020-06-15T00:56:00Z

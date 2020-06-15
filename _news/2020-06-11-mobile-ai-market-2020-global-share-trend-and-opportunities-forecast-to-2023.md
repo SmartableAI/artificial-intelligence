@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Military Market Advancement in Technology, Innovations and Global Trends 2020"
-    excerpt: "Artificial Intelligence In Military Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading, and key players of the industry with a forecast period of 2026."
-    publishedDateTime: 2020-06-10T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-advancement-in-technology-innovations-and-global-trends-2020-2020-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast"
     excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ..."
     publishedDateTime: 2020-06-11T16:46:00Z
@@ -166,17 +152,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact on Artificial Intelligence in the Telecommunication Market 2020- Manufacturers Future Development, Trends, Share, Size and Forecast"
-    excerpt: "Artificial Intelligence in the Telecommunication Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in the Telecommunication Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-06-10T12:43:00Z
-    webUrl: "https://www.openpr.com/news/2071607/covid-19-impact-on-artificial-intelligence-in"
-    ampWebUrl: "https://www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2071607/covid-19-impact-on-artificial-intelligence-in"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "sp1Gc9D5CuwQdIu40i4zrSrfWUjytOYBcZCp9L3FwynHjwoWugjK3Ih04k/xnsToxWukwmk2wreBYFu1ZTSskQzE1SCYAwSLwH2wddoaWiim3wZzrrEiuLJ3NLaJsgy1ysWTwqko0v+ePUhDxeIsR1neDH5/mIvQlCvLSzBQ0EMnrMgWk0/baB4MnVdbveGnqgxBnekF4E11/Jf0/QTC2Bd+wXerco++MXf6v+49E8p19nOmQGjdqgANsIF1Yq10YWvBKsmpCrtNmH8HxNbXPAtVucEwW/mdNGGbV9oYax/l8iw+NXVn6m1ELDc6xirw;QLWdR7aN5em5SkzqdO9gSA=="
 ---

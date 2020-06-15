@@ -39,22 +39,6 @@ related:
         width: 370
         height: 246
         isCached: true
-  - title: "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure"
-    excerpt: "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure."
-    publishedDateTime: 2020-06-10T12:00:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/10/346f7188-e997-473f-b9ce-bbf2920cc309/resize/1200x/baed969df4f5c27111cacb0743444826/microsoft.jpg"
-        width: 1200
-        height: 894
-        isCached: true
   - title: "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto"
     excerpt: "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies."
     publishedDateTime: 2020-06-12T19:36:00Z

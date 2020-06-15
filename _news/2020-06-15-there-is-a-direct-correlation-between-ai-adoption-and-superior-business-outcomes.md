@@ -23,22 +23,6 @@ images:
     isCached: true
     title: "There is a direct correlation between AI adoption and superior business outcomes"
 
-related:
-  - title: "IDC Survey Finds Artificial Intelligence Adoption Being Driven by Improved Customer Experience, Greater Employee Efficiency, and Accelerated Innovation"
-    excerpt: "An IDC survey of more than 2,000 IT and line of business decision makers confirms that adoption of artificial intelligence (AI) is growing worldwide."
-    publishedDateTime: 2020-06-10T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200610005127/en/IDC-Survey-Finds-Artificial-Intelligence-Adoption-Driven"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200610005127/en/784701/23/IDC_2017_logo_horiz.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "BbIuLT8lv8cvQb1KQUSxfFNetYyWzbcwCMEYcoN5qU/XG3ig/kf6w6xoUxJX6+JoovJYaEnD4VYX9C3LQh7XvqeyNg9QFbF9Psyh+ufslSkvo6DQ6Xa53dL5PRQ8qXO11XsHkKV7ADX4xaQaQ6CJ4t9xXK6C849CGRHZeNCO9VronTzYFJS1PwHp14M1DnfuGXpextqi2gs9R3CZEn7uT0q2Ie6DhNNVDO8m7NfTqBDXJ3u0LgwD7VhTk8IwWFnldSWCJHaKnuf5AFZVCwW0nim5wnFvSFkP+cmOtbn6t64xldrRnD1qYe8J6fSEHHPPmQOpmyzeUdn4aVeq2JpJeSAeE802Ec7WNIeACuhoPGr1Bx4Vvi/VQEjdhVkriJqRsTbkZxHnhtnMfRjJyYolEWZHp8T0S12UcQaZOAw2HblDZsJyFNek9rgQ40WT4Bv4MclLN11zbIc9h3Nmzpq1KTwX2SwfnGVeURD6nFR+o/nveT9QNCR7nH6f4cnf7oy/45D1i/3/UCybVEHllIKaAg==;CVNjc/5NFJ9BUoHEPdezIA=="
 ---
 
