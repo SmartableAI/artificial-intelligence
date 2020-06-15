@@ -122,7 +122,7 @@
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -864,7 +864,7 @@
       "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
       "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
       "webUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/",
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1201,7 +1201,7 @@
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
       "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 851,
+      "heat": 841,
       "tags": null,
       "images": [
         {

@@ -2,53 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
-      "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
-      "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
-      "webUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/deepfake-detection-facebook.jpg?w=1024",
-          "width": 1024,
-          "height": 583,
-          "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
-      "publishedDateTime": "2020-06-12T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
       "title": "AI War Games And The Challenge Of China",
       "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
@@ -139,6 +92,53 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
+      "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
+      "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm-2020-06-12",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -356,7 +356,7 @@
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {

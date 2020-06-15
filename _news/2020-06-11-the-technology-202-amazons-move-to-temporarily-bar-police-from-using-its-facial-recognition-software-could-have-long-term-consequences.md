@@ -314,22 +314,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
-    excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
-    publishedDateTime: 2020-06-10T14:32:00Z
-    webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft won’t sell facial recognition to police until Congress passes new privacy law"
     excerpt: "Amazon on Wednesday said it would stop providing it to police for one year to give Congress time to put in place “stronger regulations to govern the ethical use of facial recognition technology.” Microsoft president @BradSmi says the company does not sell facial recognition software to police depts."
     publishedDateTime: 2020-06-11T18:07:00Z
@@ -984,7 +968,7 @@ related:
   - title: "Now Microsoft is banning police from using its facial recognition tech, too"
     excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
     publishedDateTime: 2020-06-12T11:06:00Z
-    webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?partner=rss"
+    webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?amp&amp&amp&amp"
     type: article
     provider:
       name: Fast Company

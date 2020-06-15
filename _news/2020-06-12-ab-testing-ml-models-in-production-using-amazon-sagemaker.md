@@ -43,20 +43,6 @@ related:
         width: 800
         height: 536
         isCached: true
-  - title: "Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth"
-    excerpt: "Amazon SageMaker Ground Truth now supports labeling 3D point cloud data. For more information about the launched feature set, see this AWS News Blog post. In this blog post, we specifically cover how to perform the required data transformations of your 3D point cloud data to create a labeling job in"
-    publishedDateTime: 2020-06-10T14:25:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/08/3d-point-cloud-1.jpg"
-        width: 1000
-        height: 485
-        isCached: true
 
 secured: "SXgObkvXzrgISP6zvhyZZ1K3hXeJpmH93lO8t5GlHnM/EGcYLKu2fajXqGPHT4Ove9pieNrAGhT2zJusXxNwW0EPRHgGkSkX4y7+dqXG3zEe60Z/80+OO0MCYJ2BXeKBOE9xozuUzZkhhLLfyvc1xqSK8nwbUJct5qcpajABHghjfBnbNHwEOvRS+2ExXKORKv8V0rU4lx/TGtmjJ2ZWG3xnNTUyjJrtpeUmSVey86IyHmy3iZuEL77cwmLP/gzrxjgyfV5XVQi01nYFEHxiQUk8oZINaIee6tuY0ov5Y2iUYo7uie66yGv+UrXCSm8PV8W//AgY5v046ZEJWUwxVg==;SfAStLhJii/rsDfhhGksEw=="
 ---

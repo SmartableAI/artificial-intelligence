@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023"
-    excerpt: "Global Artificial Intelligence (AI) Chipset Market 2020 Research Report offers up-to-date information and historical"
-    publishedDateTime: 2020-06-10T14:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2020-2025"
     excerpt: "Artificial Intelligence Industry Description Artificial Intelligence is one of the fastest growing areas of computer"
     publishedDateTime: 2020-06-12T12:15:00Z

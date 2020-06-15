@@ -3,7 +3,7 @@ category: news
 title: "Now Microsoft is banning police from using its facial recognition tech, too"
 excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
 publishedDateTime: 2020-06-12T11:06:00Z
-webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?partner=rss"
+webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?amp&amp&amp&amp"
 type: article
 quality: 37
 heat: -1
@@ -310,22 +310,6 @@ related:
     quality: 82
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-2.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM wins praise for halting sales of its facial recognition tech, but experts say it may have left itself a loophole"
-    excerpt: "IBM has promised to stop selling \"general purpose\" software, but this leaves it wiggle-room to keep making custom-built tech."
-    publishedDateTime: 2020-06-10T14:32:00Z
-    webUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ibm-kills-general-purpose-facial-recognition-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/5ee0c76f2618b948095950e4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -1168,6 +1152,6 @@ related:
         height: 835
         isCached: true
 
-secured: "kOij/nkx+Ds0R4sirRe1Ebhw1+8OJQ+TFIs1nRGbkpYmHKhZ+UIH3qwyv/8axWKrWg6dLCpYE/cKXcb0Qt/ZmqTrWjXF1bynmeyC7kKgVnjFuDq+SPnqoKokKgx4HzxvANXvwjywSf3lYooEm/q637+6+tpmbyIvGh37uHbmYL/H+TYHApzuSB56fluarJYJx9k7uKm//AB4/Og3+wlNZ7UXcfGj0ladn0TUem1hf7Tiv/JPhO2El6fnehGYnXDRgAterpLh5ndcdI9+1COADAuQGqjl69/i3X20yOpWAZfgElUcno9tJ4VSEDWrCFsZOWPB4c3e1O4SXJnYWOZYOQ==;9qdr9fhcpefTv6coEA1Ofg=="
+secured: "qBcMle/IaZ451X9AlTjfOJS2RLvTLhJbeEbIDYCQkeEe6ipWr0dvSRbN2O51JsJbcxHCh0NDvvopxcd9S/lXkkuoUdLTxkXciGqUr0ArzCOBY5pSOc0mqIZeJHjYzf+5KuJ6ZhmK4w5RPvkjo3ayUDc2ynQ3Q6GQHwcRh0MgszWioLQ46NKD6GzTOJp1ZPGqZGc5jEFmLgrj/1RLaXah3Rm3Z14HPNU9Ss/Yo/9fsoWigb2PPhou9VYzvHfhO9Pir9JbT4adlGnFFT8+otjqb83VOd6VJ0Y3wUdBoaN3JQK7Rh/K7Aw/k9mJmDGUfrmw0IyGGEheYkcFcjU4o/F4AA==;xFHTF5vUh8mRjR+GgjeIAA=="
 ---
 

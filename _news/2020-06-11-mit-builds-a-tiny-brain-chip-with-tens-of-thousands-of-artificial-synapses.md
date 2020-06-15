@@ -8,7 +8,7 @@ ampWebUrl: "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-w
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 359
     isCached: true
     title: "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses"
-
-related:
-  - title: "Engineers put thousands of artificial brain synapses on a single chip"
-    excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as"
-    publishedDateTime: 2020-06-10T14:42:00Z
-    webUrl: "https://www.controleng.com/articles/engineers-put-thousands-of-artificial-brain-synapses-on-a-single-chip/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 56
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTL2006_WEB_IMG_MIT_Graphene_Sheets-Slider-1.jpeg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "KoYIhB9PlGA3JlvRoOC+J7pUsqPXS2ISKtksn68q1Tg7wB1ffRH+7J5YYg5TKD6nI6iU5I7ev4tHkZq+hgoqSqf4Yt0GSbZdgifY3Qv0SteovveEIgCGauBUAaoPmdYodmwRYkbuZ/mW5sicd5g2VaouawRvT09l7rSisw6HvHgb2nny06wg8jo6ANNUrezgFHXWnMf9NEUlOFsbJ+ZNpOTSe8OuPfKlNsMUKb5T5a+x0/xwCzceOfd9v4WKRi2tGsDYdTv0x9jE/V8zpHO/H2xc992DVJ8mYaaJIhdioW8dvgS5gqo3+HYSJY+FTfPQGp/+npyitUxyeVj3EzwbRjMXLKRLEwoBhKJ36Sg7XQH5u9XTVdQ4bzxTMLplNs8cd/IUU1NIWsUbBw27sxBzNWtw/75UIaZZ4kANsvKloGvZ0+WL2nL7X4bTFvTuTXxBH7+xvhu9/e7zdWbh4Pk+SN/iGoCycEmeFm42fcpEyOyQ3xB98+BPXgtgYXW1/4nigwXnGduwH2vWqonirBRDyQ==;V+TAXgXJ0HQX8xCpSPX+aQ=="
 ---

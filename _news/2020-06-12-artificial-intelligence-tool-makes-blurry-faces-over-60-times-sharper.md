@@ -24,6 +24,20 @@ images:
     title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
 
 related:
+  - title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
+    excerpt: "Duke University researchers have developed an artificial intelligence-based tool that can turn blurry images of people’s faces into perfect computer-generated portraits."
+    publishedDateTime: 2020-06-15T07:51:00Z
+    webUrl: "https://analyticsindiamag.com/ai-tool-turns-blurry-human-photo-into-realistic-computer-generated-hd-faces/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Duke-University’s-AI-Tool-Turns-Blurry-Human-Photo-Into-Realistic-Computer-Generated-HD-Faces-1024x683.gif"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
     excerpt: "Researchers have developed an AI tool that can turn blurry faces into eerily convincing computer-generated portraits, in finer detail than ever before. Previous methods can scale an image to eight times its original resolution."
     publishedDateTime: 2020-06-12T13:26:00Z
