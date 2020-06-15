@@ -27,45 +27,52 @@ images:
     title: "Why the future of self-driving vehicles could create new forms of social inequality"
 
 related:
-  - title: "‘Why We Drive’ Takes Aim at Self-Driving Vehicles and Other Threats to Car Culture"
-    excerpt: "Toward a Philosophy of the Open Road,’ author Matthew Crawford forms an argument for the feeling of power and possibility that can only be attained by taking the"
-    publishedDateTime: 2020-06-10T11:00:00Z
-    webUrl: "https://observer.com/2020/06/why-we-drive-matthew-crawford-review/"
-    ampWebUrl: "https://observer.com/2020/06/why-we-drive-matthew-crawford-review/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/why-we-drive-matthew-crawford-review/amp/"
+  - title: "Self-driving cars could only prevent a third of US crashes — study"
+    excerpt: "It’s long been touted that self-driving cars could eliminate the majority of road deaths, but a new US study says they could likely only prevent a third of all road crashes. The Insurance Institute for Highway Safety (IIHS),"
+    publishedDateTime: 2020-06-11T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2020-06-11-self-driving-cars-could-only-prevent-a-third-of-us-crashes--study/"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 53
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/WhyWeDrive.jpg?quality=80&strip"
-        width: 300
-        height: 450
+      - url: "https://lh3.googleusercontent.com/vwTrl0h7GE7DqvFmsnkcWz5chQCTwkQToq-7Og6v7ynYHBEkPqJBEYGucWga--DqOqdWJJvqSA2pDpSDwnA9ZBbz9XZ8h1jL=s1000"
+        width: 1000
+        height: 676
         isCached: true
-  - title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
-    excerpt: "We’re seeing them pop up all around us and maybe you’ve even been lucky enough to have a first-hand encounter with one. Sure, these vehicles look new and different, that makes sense. But why exactly do a majority of them look"
-    publishedDateTime: 2020-06-12T19:00:00Z
-    webUrl: "https://www.yankodesign.com/2020/06/12/why-do-so-many-self-driving-vehicles-look-cute/"
+  - title: "Motor Mouth: Self-driving cars won't prevent most collisions"
+    excerpt: "Conventional thinking has it that self-driving vehicles could one day make crashes a thing of the past. The reality is not that simple.”"
+    publishedDateTime: 2020-06-13T12:44:00Z
+    webUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions"
+    ampWebUrl: "https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions/amp"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?quality=80"
+        width: 2480
+        height: 1600
+        isCached: true
+  - title: "IIHS: Self-driving cars might only avoid a third of crashes"
+    excerpt: "An Insurance Institute for Highway Safety study of more than 5,000 crashes found that only about 34 percent of collisions could be assumed to"
+    publishedDateTime: 2020-06-10T13:28:00Z
+    webUrl: "https://www.repairerdrivennews.com/2020/06/10/iihs-self-driving-cars-might-only-avoid-a-third-of-crashes/"
+    type: article
+    provider:
+      name: Repairer Driven News
+      domain: repairerdrivennews.com
     quality: 24
     images:
-      - url: "https://cdn.yankodesign.com/images/design_news/2020/02/what-designers-can-do-to-design-irresistible-products/kelly_custer_yd_guest.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2020/06/nuro-iStock-1175392532-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
-    excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
-    publishedDateTime: 2020-06-12T18:01:00Z
-    webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 0
 
 secured: "EzZP9rN9X5xf7jc8zkvqLcX4CRU/7T6UYT+Aov89r8cYiRP20y390YP3TzR8FJqhzmInk6piBgkCSJMKBK7hTqpqZMvyyRzpa5YeXU/XZlR4QijIfgKKeBi1oTO/aiyDJPhURUrOqXvbSeFgEfbchK6kZ6PLg0ygVHsGKo8FXSvQTWHbaJmyKsTQSp6xUqzM48wONgMFi2gO+++qkmru9EeO0Li00H3Q1aR4p+vqJ9EDEEslYKscZOx6LGdJwf0SB+VZEEKg/xtqXHKvJaJx/OmbfMW9QLv38ouGOdXIsa1WCMvIXhAmw/eQlYAYZR+QhDyVDUNPla4cmz2tPz9FpF5SsYwHHS4tncxXRjq5PpxNgorKCr/9pDjjc1c7UsJzmSP2bbqgCrUKh0smL259svoVTR3IjIoAr0JJeHCQDqR5tqF7CtXieOb363VZNeB1FiO+PChn2tv2WHAeUGZtzqzNkcN2IUszVUTR7Xc8KTdycmN0Vp0TyZFG7bzh9sGfJf2i7mreaHE9UWgSwSKRtQ==;/wob1J7NKpMsUFX1Gu4eVw=="
 ---

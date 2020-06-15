@@ -25,21 +25,35 @@ images:
     title: "Tech News: Covid-19 accelerated the use of artificial intelligence in healthcare"
 
 related:
-  - title: "Unique partnership aims to accelerate the adoption of AI in healthcare"
-    excerpt: "The Michener Institute of Education at UHN and Vector Institute are setting out to transform the skills and capabilities of front-line healthcare professionals in the application of artificial intelligence to health services."
-    publishedDateTime: 2020-06-10T10:38:00Z
-    webUrl: "https://www.news-medical.net/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200610/Unique-partnership-aims-to-accelerate-the-adoption-of-AI-in-healthcare.aspx"
+  - title: "Covid-19 acts as a Catalyst to AI Healthcare Revolution"
+    excerpt: "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical"
+    publishedDateTime: 2020-06-11T17:24:00Z
+    webUrl: "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/"
+    ampWebUrl: "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp"
+    cdnAmpWebUrl: "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: techcresendo.com
+      domain: techcresendo.com
     quality: 74
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "5 pitfalls AI healthcare start-ups need to avoid"
+    excerpt: "I’ve had conversations with several growing AI drug discovery companies and have analysed some critical strategic shortcomings that can frustrate the upwards journey of these start-ups"
+    publishedDateTime: 2020-06-11T11:17:00Z
+    webUrl: "https://pharmaphorum.com/views-analysis-digital/5-pitfalls-ai-healthcare-start-ups-need-to-avoid-early-in-their-journey/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 37
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2020/06/5-pitfalls-AI-healthcare-start-ups-need-to-avoid-early-in-their-journey.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ZlFdwSWv//BZcwdMoHuo2FBTPmMlk3Ki3KGMf793QkFu65CT0qlPD90xjChmtyuXTI5T3kiHqx5DyC7dHV/+RyIfWaJd3RYLFMlvnOLy3wSaAbPN7FIb9bD/HJpuTk07pQ3VnzEiG+rVQ4dLOUwiSj1ReM2u6ht3JqBipyiIgCE6zNqpXmTpY91C4Sd1eY57Ert7CpP/vyRXT2w6dWX5qsHddHsThcL7ptxXs+UJmGDp2Nh73eLdu6AS13ZMYclqCrtwfF6jdMtNHnkqUifE4GjEjGTstMRhY63FTgq04tj5lB5CgGplaCXu2puY8/x+K4T2RlPXQisPQyKFRRLTHAYl2zlA/WlHiStOfSfFJviGC/I2GOCCD29Aj9RTVK++sRbxEqayu7vZu5nxf9T1h37Wu6DMSQywCcth6fs8bx83GdZStzgrtqe0GAc3ZR/OB3PvhLpg1OxzPppKg3mA27+ESRrwBJViT3gj21lQI9WBBBh4RfDY7y4HthoxqTB02Ovc8DSpWz5zC0Zi1xh+Kg==;2tz4edIedMqZRTxVYnOljA=="

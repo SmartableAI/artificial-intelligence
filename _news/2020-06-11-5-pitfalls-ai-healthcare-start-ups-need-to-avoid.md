@@ -40,6 +40,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tech News: Covid-19 accelerated the use of artificial intelligence in healthcare"
+    excerpt: "The scenario of the personal Health Assistant driven by artificial intelligence is thus much closer than we may imagine."
+    publishedDateTime: 2020-06-12T04:40:00Z
+    webUrl: "https://www.iol.co.za/business-report/tech-news-covid-19-accelerated-the-use-of-artificial-intelligence-in-healthcare-49257449"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 49
+    images:
+      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/06/11/49257449/d1463233aec99cfc6a2a96df94e4.jpg&operation=CROP&offset=313x-369&resize=1553x874"
+        width: 853
+        height: 366
+        isCached: true
 
 secured: "j2zKBzMZVdfbE05anc5W4U+wPVYauVpkP0qWd5v7AyVZJ9VH6jghc2KUThIDNIf7rjQqjKfn1lqr//EeH2lkk8I6Rl4qA/mhANnaIrhWKnVPCv8g3oyVMANR3DANG9SvS8UPzwehyWwDFkF+nvBue4fzYH3zXfW/nXyCTtlvkArtzWW+C62rvaK+nFDgFo6o8AA79Jgwja8qO7cB4fzz7vEjg4fRcA4yZsGKj6+esUu+QFEDtb7amXP55AcNIFqnLQuleFs8NpgbUZz+FdUOnBUQzHFLqUJYa126p5MOnIp9n8FXHVWb2URsPp3F/DNl;SxI/nOf/gOzpD+WfzvUrRQ=="
 ---

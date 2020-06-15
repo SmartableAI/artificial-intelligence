@@ -2,6 +2,53 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
+      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
+      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "publishedDateTime": "2020-05-14T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-unifies-ai-compute-with-ampere-gpu.md",
       "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
       "excerpt": "The GPU Technical Conference may have been canceled in March thanks to the coronavirus pandemic, but behind the scenes Nvidia kept on pace with the",
@@ -1072,44 +1119,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region.md",
-      "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
-      "excerpt": "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region-301059119.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
-          "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

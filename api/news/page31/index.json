@@ -2,6 +2,45 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-nvidia-announces-ampere-the-most-exciting-gpu-architecture-for-modern-ai.md",
       "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
       "excerpt": "NVIDIA A100 AI accelerator based on the Ampere architecture truly revolutionizes AI workloads in the cloud, enterprise data center and at the edge.",
@@ -1068,52 +1107,6 @@
         "AI",
         "AI in Finance",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-the-internet-furry-drama-raising-big-questions-about-artificial-intelligence.md",
-      "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-      "excerpt": "Much of the fun of internet drama comes from its frivolousness, but sometimes an online shitfest points to something bigger. Last week, the AI-powered furry art site thisfursonadoesnotexist did just that,",
-      "webUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png",
-          "width": 800,
-          "height": 450,
-          "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "publishedDateTime": "2020-05-15T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

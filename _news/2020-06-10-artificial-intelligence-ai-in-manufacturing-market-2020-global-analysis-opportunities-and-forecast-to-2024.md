@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10"
 type: article
 quality: 69
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2020 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
-    publishedDateTime: 2020-06-10T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-growing-rapidly-with-latest-trends-development-revenue-demand-and-forecast-to-2025-2020-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

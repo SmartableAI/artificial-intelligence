@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 118
-heat: 338
+heat: 328
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521826553&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
         width: 818
         height: 545
-        isCached: true
-  - title: "IBM's Withdrawal Won't Mean the End of Facial Recognition"
-    excerpt: "Many other companies continue to offer similar services, which studies show are less accurate for women and people of color."
-    publishedDateTime: 2020-06-10T11:00:00Z
-    webUrl: "https://www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ibm-withdrawal-wont-mean-end-facial-recognition/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5ee0345decb467cf4ea5f55b/master/pass/business_recognition_1161938837.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Amazon pauses police use of its facial recognition tech for a year"
     excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."

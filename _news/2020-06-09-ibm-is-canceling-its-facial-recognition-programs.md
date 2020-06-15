@@ -1,29 +1,26 @@
 ---
 category: news
 title: "IBM is canceling its facial recognition programs"
-excerpt: "By Hanna Ziady, CNN Business IBM is canceling its facial recognition programs and calling for an urgent public debate on whether the technology should be used in law enforcement."
-publishedDateTime: 2020-06-09T21:17:00Z
-webUrl: "https://www.kitv.com/story/42226144/ibm-is-canceling-its-facial-recognition-programs"
+excerpt: "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ..."
+publishedDateTime: 2020-06-09T12:22:00Z
+webUrl: "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: KITV
-  domain: kitv.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/19478772_G.jpg?lastEditedDate=1591694021000"
+  - url: "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg"
     width: 500
     height: 326
     isCached: true
     title: "IBM is canceling its facial recognition programs"
 
-secured: "rvj7/pEZzhjswK7Ff7GDYaafZUE0R2Te2VEP3LEbLxgQhb5/XBpk5PdQF7sGV2nfDWowK4R27SSUnizTOa3c7LbY1tTssrkKDaFAf5lI8AHBYoo4Y0aQq2lUjjk4IF3Itb471S3mfvhzlrUKbewDxBVEW5WkGSz6lLOkv8zPz2v6DLEdEiUV5AV/MzcWcIDhmcxi1sXk5dKXX45aJV5ejuPHO/2ERHI0CvJV/IoXQFW/NjUIfRGDI4o7JPVQ1RAszUZMnrrNqP9Vm4FJfpvNSIaH0sHsCNMMCTxKhsHFEaM5fS4sQR7kPWs884VhgWuE;3pokU4AF8QHZe2oQc9WaMg=="
+secured: "FWKTSzAjQ3bx3VE2OLiHl5DvukfzCDQFlGYHwtaLfpZwBLY4an5G4MEAzYre7CKyULbPAhNhUAGydzKxI0Xwx+8AveV03kYyEeDQvDjFjyRmg4xAg0dxkSQ/Z/jmXAxoDSw+/9oJKdGGJVAYuB3aq26sOeEODT7XVdE9Zqi0zRF1xsIIJH6zTzNZW9j8u5uHFE3BHG5bCKMPvU6AdkI5ynFaFVX+v9LLKRzNPY0r1fgkXiwWtTS8sqa2jRzlaESH7q81cDeFuKqIkO9jwDElzMmiFGNY010RvhuksUikvmH5Wzb/HHLa5bMDtLAJ34UynkeJG+1kUekYSpeoDG8LOA==;tz3X8icSM8xweBlxnUi6hQ=="
 ---
 

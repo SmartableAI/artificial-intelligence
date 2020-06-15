@@ -156,20 +156,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2020 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
-    publishedDateTime: 2020-06-10T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-share-growing-rapidly-with-latest-trends-development-revenue-demand-and-forecast-to-2025-2020-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Solutions Market COVID 19 Impact Analysis | PESTEL Analysis, Competitive Scenario and SWOT Study Forecast 2029"
     excerpt: "The research report titled, Artificial Intelligence Solutions Market is latest published by MarketResearch.Biz."
     publishedDateTime: 2020-06-11T11:08:00Z
