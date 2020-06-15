@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "We’re never going to get meaningful data on self-driving car testing"
+    excerpt: "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,"
+    publishedDateTime: 2020-06-15T21:19:00Z
+    webUrl: "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
     publishedDateTime: 2020-06-15T10:22:00Z
@@ -98,6 +114,6 @@ related:
         height: 372
         isCached: true
 
-secured: "+yuYKFRNxLv00ibMmNMgATRyZ1qOJ/lEJ6EtpZobGSd7vgIvNPysCEEm2gBdLlhpDKXEWgqj2IGY5Nh3HsVwZTPqNlJN9U2qOlP4NXtSexUlilZffgl13F66wtQqYjGtNsOvGa9B6Ys3DlHrQXa+cbOu/EyZ3qGJ1RpDkFbH2fPQVSHHSS3ZLvapcINFeDA0YvdfYlVaOwNd/d0xOdhCDCUCDQ7a1kXVmTTYJ602C6qMgeU6Pu8U//uONuYXR4MyHVIYjeohTglIH1xcB4g2MT+t4p6RpUWtStBJWdG/5MWN45XcS0JEccG2NZV1pFWxyJHYu3IFq0ZnkwO7dGT19g==;GWg26001UbEpVEi/mX2Ghg=="
+secured: "ZOxsxzy5c7rK8S1Zpp2T2wQiJETPvKbiM9hwB8spthJpsfWPnOi1Wjkp2K8RNG5FWX/onE7iIT2A4gklByDCKZaR/yAz61tE8HvHqanfVXg5+ywXme7knVmzKu4YDhHiXCu4HaO6r1iFN0tVkkx8YSFa16j4QobISAdrAwXXqM2sshDU2c6MGS1XzGOUG+HKGRVy9sNxTIXSY2lveypY4OIEixsBoTYrnk/hV7yMewFPlB/65+AUGmV7XGbaJ66fz2+Ge12NHy57JXz4QZcVCR8PLYm2jmn2YFWZbdHuO/qmedrEQP8DjUIuF+Hxq1ffXQlS9sivbq1nLsyVTTK1mG1itkGsNTP4U5dqZziTGxHPYSf3fDPEvtO/s6/BFpsQJaKWFjMhKq8j+ri0218kfKU2ObS4yR4AEJVhnTCHTqvuo6c1PfbJ+6D5oR6Gi3RS2GR2IlL/jrSO/q9VREypRBIn00YQ7JKREJS7zzC802JR32vooODIJaFZW8iHHy/JAs4dbm1EpL3ZhwVdLZ91rQ==;4EPntj9FzQ/JL/gijYrkPQ=="
 ---
 

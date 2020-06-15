@@ -144,6 +144,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech.md",
+      "title": "Amazon halts police use of its facial recognition tech",
+      "excerpt": "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,",
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech",
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon halts police use of its facial recognition tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
+      "publishedDateTime": "2020-06-11T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
@@ -1287,53 +1334,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
-      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-27T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -27,67 +27,37 @@ images:
     title: "Tech companies reconsider facial recognition software"
 
 related:
-  - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
-    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
-    publishedDateTime: 2020-06-15T17:23:00Z
-    webUrl: "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL"
-    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
-    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
+  - title: "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?"
+    excerpt: "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope."
+    publishedDateTime: 2020-06-11T15:27:00Z
+    webUrl: "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/"
+    ampWebUrl: "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
     images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
+        width: 630
+        height: 442
         isCached: true
-  - title: "Amazon Suspends Police Use of its Facial Recognition"
-    excerpt: "Amazon banned police use of its facial-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly ide"
-    publishedDateTime: 2020-06-11T12:35:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
+  - title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
+    excerpt: "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design."
+    publishedDateTime: 2020-06-12T21:56:00Z
+    webUrl: "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
+      name: The Verge
+      domain: theverge.com
+    quality: 80
     images:
-      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2019/05/Bezos-protest.jpg?fit=1024%2C625&#038;ssl=1"
-        width: 1024
-        height: 625
-        isCached: true
-  - title: "Amazon bans police use of its facial recognition technology for one year"
-    excerpt: "NEW YORK (AP) — Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T10:12:00Z
-    webUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.html"
-    ampWebUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
-    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/d/7a/d7a60a10-ae69-5f50-9250-3c9e62e3e97c/5e871e78e6b06.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Amazon bans police use of its face recognition for a year"
-    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T12:58:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/jun/10/amazon-pauses-police-use-of-its-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 24
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0"
-        width: 1200
-        height: 700
+      - url: "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "The Technology 202: Amazon's move to temporarily bar police from using its facial recognition software could have long-term consequences"
     excerpt: "Law enforcement's use of facial recognition technology was always controversial. Now it's politically toxic. Amazon's surprise announcement that it would put a moratorium on police use of its facial recognition software for the next year underscores the big questions surrounding the technology as protests spark a nationwide debate about police brutality and surveillance tactics."

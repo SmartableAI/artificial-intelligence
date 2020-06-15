@@ -2,6 +2,167 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-27-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
+      "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World's Largest API Marketplace",
+      "excerpt": "The addition of Microsoft Azure Cognitive Services enables RapidAPI&CloseCurlyQuote;s 1M+ developer community to add advanced machine learning capabilities to their applications RapidAPI,the world&CloseCurlyQuote;s largest API Marketplace that helps ...",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/27/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-world-s",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 800,
+          "height": 531,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "publishedDateTime": "2020-05-27T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
+      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-27T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
+      "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
+      "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
+      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
+      "publishedDateTime": "2020-05-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19.md",
       "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
       "excerpt": "As the COVID crisis continues, Albertans and all Canadians would surely welcome some good news among the bleak headlines.So consider this — we’ve learned a lot over the past few months",
@@ -1129,166 +1290,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum.md",
-      "title": "Google's New Accessibility Features to Drive User Momentum",
-      "excerpt": "Alphabet’s GOOGL division Google is making every effort to bolster accessibility features in a bid to strengthen presence among people with cognitive and physical disabilities. This is evident from the latest move of unveiling Action Blocks app for the Android users on the Global Accessibility Awareness Day.",
-      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "publishedDateTime": "2020-05-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
-      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
-      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "publishedDateTime": "2020-05-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
-      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "publishedDateTime": "2020-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-how-machine-learning-in-search-works-everything-you-need-to-know.md",
-      "title": "How Machine Learning in Search Works: Everything You Need to Know",
-      "excerpt": "Another crucial area to understand is machine learning. Now, the term “machine learning” gets thrown around a lot these days. Machine learning isn’t the same as Artificial Intelligence (AI ...",
-      "webUrl": "https://www.searchenginejournal.com/search-engines/machine-learning/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/how-machine-learning-in-search-works-everything-you-need-to-know-5eb2e76eb1970.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": "How Machine Learning in Search Works: Everything You Need to Know",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

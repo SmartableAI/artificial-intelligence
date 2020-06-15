@@ -2,6 +2,148 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-10-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024.md",
+      "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
+      "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+      "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "publishedDateTime": "2020-06-10T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software.md",
+      "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+      "excerpt": "Chinese video app TikTok's practices are to be examined by an EU task force, the bloc's privacy watchdog said on Wednesday, which also warned EU police forces against using facial recognition software from U.",
+      "webUrl": "https://www.reuters.com/article/us-eu-privacy-tiktok-clearview/eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software-idUSKBN23H2PM",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521793831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG591QS",
+          "width": 884,
+          "height": 545,
+          "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "publishedDateTime": "2020-06-10T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
       "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
       "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
@@ -1175,136 +1317,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
-      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
-      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
-      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
-      "publishedDateTime": "2020-06-09T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
-      "title": "Flipkart launches AI driven voice assistant for shopping",
-      "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
-      "webUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Flipkart launches AI driven voice assistant for shopping",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
-      "publishedDateTime": "2020-06-09T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge.md",
-      "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
-      "excerpt": "The Aruba ESP (Edge Services Platform) uses AIOps, Zero Trust network security and a unified infrastructure approach to improve services at the network edge.",
-      "webUrl": "https://www.zdnet.com/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/08/f9a79f50-c3f5-4edc-b9dc-260699e37d1e/thumbnail/1200x675/b872db662e3e175ae4e51774fbf33515/istock-9183650881.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
-      "publishedDateTime": "2020-06-09T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

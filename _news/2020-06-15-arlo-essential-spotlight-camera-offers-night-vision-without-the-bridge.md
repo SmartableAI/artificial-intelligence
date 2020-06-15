@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-nig
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Arlo Essential Spotlight Camera offers night vision without the bridge"
 
-secured: "Wt/wbiYVbxJwl7PAdVm7t8aTf6dkeSRQpWNTCGzmjdRyrYbd6QQVN2HEHEFfClhrBmyvtxiJAD8oPh4UgJl3ygpawE/AkdgkJsXRCKHhSvUjZPBy/3cHzu+z4c/+SZbkBDlqHWVFz7hfpLUWdP7mgQ7s8wq47tOZAZbs87tkUhovBJ3iJwR1jIODeUR8U7Edmt6gzHyP1MfD9NXwotaLYFi5wG9I6LSuMSPLdNkv3SFcmtNjxqM5jj7oBUxotORStWQfpk/nJj/AZ4gnYjKJK+8dBHtNyQRvuI37h74eq9xLsqMv/hMXGSxiNhNiAx6AN0rafsfbJO2fdU+K5SWFWg==;Qb4qzUboeME0w4dwpNkDrQ=="
+secured: "Asa86HjVRUJQWZAE4hZXxagMVZb2h0cJ06ZEvRBkcm6Pna1ErCUwJYoZU3mVZM+9ogHYcdAMdDlyF4NNF1/6gBLnNcNUfnykifTV7wsggNuEaHerbEaxyO4I0UN1akxi+b/ExLuZtFXTRz9Vcs9Awx0a/xtwDPUmW5FbSHUFL3UGYMj9yLImAIye2lYSa1ZG9fE1NwEokeV/kOtdcsk8fF14J3nR8AHWT9C0lbyM85cDSnn439t5tJ9CrYU5XVr8Mx2RRA8qBtxiHQ79+z8DVaRlgxP8g9eFn/IGYYwc7suGMdcXkn+UoMhxV8pdjYTaE7yAyf8SG2gzF3JtWrLLCexAt04C9HXoI0B9Ia2GoHci/D3RE9tIL9Crn0O0X0Y9oABGHpjRgojE7XSXErM4Xh9tLojz55D5h8vehvAtXcLPhvWGEmrSLjGcBMIsAIVV7A5GKlMDYJ2IaEofwhZZrnffrqzwtvwEpCnRqbP70mJSnGV+Wk0UwjOiTwyFD3F5312i4wRIEnycq5w4BzXgXA==;YH0VULt9Iodi65BU6J9N2A=="
 ---
 

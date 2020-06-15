@@ -2,6 +2,137 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
+      "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
+      "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
+      "webUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/INKY-Releases-2018-Q4-Email-Security-Report-Welcome-to-2019-Phishing-Gets-Personal-e1591114148163.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
+      "publishedDateTime": "2020-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
+      "title": "AI should serve us, not destroy our humanity",
+      "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI should serve us, not destroy our humanity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
+      "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
+      "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/7753bab4-a629-11ea-8ea0-d7434be00753_image_hires_140753.jpg?itok=UGp-QqSc&v=1591250881",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "publishedDateTime": "2020-06-03T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
       "title": "Facebook creates shopping data sets to make more humanlike chatbots",
       "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
@@ -92,6 +223,44 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
+      "title": "Video: Building intrinsically motivated teams via self-determination theory",
+      "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
+      "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
+          "width": 341,
+          "height": 214,
+          "title": "Video: Building intrinsically motivated teams via self-determination theory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -945,184 +1114,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
-      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-      "excerpt": "TIBCO Software Inc., a pioneer in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven",
-      "webUrl": "https://www.sourcesecurity.com/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "publishedDateTime": "2020-06-03T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
-      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
-      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
-          "width": 900,
-          "height": 592,
-          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "publishedDateTime": "2020-06-03T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
-      "title": "LG and KT to use AI for pandemic prevention",
-      "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
-      "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/03/2912e5be-a2d1-4213-9fd1-1e9c4cef4c32/kt5-kt-5g.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "LG and KT to use AI for pandemic prevention",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "publishedDateTime": "2020-06-03T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

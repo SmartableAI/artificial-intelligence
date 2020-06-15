@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition tech for a year"
-    excerpt: "Amazon.com Inc on Wednesday said it was implementing a one-year moratorium on police use of its facial recognition software, halting a business it long defended as many protested law enforcement brutality against people of color."
-    publishedDateTime: 2020-06-11T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-facial-recognition-idUSKBN23H3EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H3EO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521850358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG59279"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "George Floyd: Amazon bans police use of facial recognition tech"
-    excerpt: "\"We've advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology, and in recent days, Congress appears ready t"
-    publishedDateTime: 2020-06-11T03:30:00Z
-    webUrl: "https://www.bbc.com/news/business-52989128"
-    ampWebUrl: "https://www.bbc.com/news/amp/business-52989128"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52989128"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10C9C/production/_110246786_facialrecognition3.gif"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft bars facial recognition sales to police"
     excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
     publishedDateTime: 2020-06-11T22:56:00Z

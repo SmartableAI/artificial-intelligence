@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "We’re never going to get meaningful data on self-driving car testing"
+    excerpt: "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,"
+    publishedDateTime: 2020-06-15T21:19:00Z
+    webUrl: "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
     publishedDateTime: 2020-06-15T10:22:00Z

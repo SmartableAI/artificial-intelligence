@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-15-ibm-watson-advertising-and-ad-council-will-use-ai-to-help-brands-do-social-good.md",
+      "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+      "excerpt": "During Adweek at Home, a weeklong virtual gathering of marketing and creativity’s most influential voices that kicked off today and runs until Thursday, IBM Watson Advertising announced a new initiative that offers brands the power of data,",
+      "webUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/06/ibm-call-for-creative-CONTENT-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "publishedDateTime": "2020-06-15T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic.md",
+      "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+      "excerpt": "A new report published by LinkedIn found that AI and machine learning jobs hiring slowed down in the weeks following the COVID-19 outbreak.",
+      "webUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-06-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-igniting-the-dynamic-workforce-in-your-company.md",
       "title": "Igniting the dynamic workforce in your company",
       "excerpt": "In the rapid push to move to remote work, we’ve seen digital strategies accelerate by years—transforming their workplaces, work styles, and business processes forever. Overnight, remote workforces put out advanced environments of multi-device mobility, dynamic connection points and robust cloud-based",
@@ -52,7 +136,7 @@
       "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
       "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
       "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -99,7 +183,7 @@
       "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
       "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
       "webUrl": "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL",
-      "heat": 121,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1042,91 +1126,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
-      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "publishedDateTime": "2020-06-13T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
-      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
-      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
-          "width": 715,
-          "height": 402,
-          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "publishedDateTime": "2020-06-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
