@@ -664,20 +664,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "IBM's push for stricter facial recognition software regulation is likely an attempt to sidestep public backlash"
-    excerpt: "IBM joins Microsoft and Amazon in advocating for more substantial oversight of facial recognition technology, helping the companies sidestep backlash."
-    publishedDateTime: 2020-06-10T16:07:00Z
-    webUrl: "https://www.businessinsider.com/ibm-facial-recognition-regulation-attempt-to-avoid-scrutiny-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5ee0f1d9aee6a843fb52ea14?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Microsoft says it won’t sell facial recognition software to police without new regulations"
     excerpt: "Microsoft's CEO said the company won't sell facial recognition technology to police until there are regulations in place governing its use and will review other uses of facial recognition software."
     publishedDateTime: 2020-06-11T18:43:00Z
@@ -1152,6 +1138,6 @@ related:
         height: 835
         isCached: true
 
-secured: "qBcMle/IaZ451X9AlTjfOJS2RLvTLhJbeEbIDYCQkeEe6ipWr0dvSRbN2O51JsJbcxHCh0NDvvopxcd9S/lXkkuoUdLTxkXciGqUr0ArzCOBY5pSOc0mqIZeJHjYzf+5KuJ6ZhmK4w5RPvkjo3ayUDc2ynQ3Q6GQHwcRh0MgszWioLQ46NKD6GzTOJp1ZPGqZGc5jEFmLgrj/1RLaXah3Rm3Z14HPNU9Ss/Yo/9fsoWigb2PPhou9VYzvHfhO9Pir9JbT4adlGnFFT8+otjqb83VOd6VJ0Y3wUdBoaN3JQK7Rh/K7Aw/k9mJmDGUfrmw0IyGGEheYkcFcjU4o/F4AA==;xFHTF5vUh8mRjR+GgjeIAA=="
+secured: "iL6NERTBdZuuFruwx8gOFlrRH0DRbiXfNEU1m2+IvBTOBwsiUK9R1e0MrTWy5sPv3iF1HLZ0ZmNyfjEbGB0hYH5cWcF5MNIPkjgV6DpVndQ8IYvMOb2soy9q145SmhJeej9U1Z8qzUxn8C61RxiLhsXDERWG5x4l+YjAeKpKD9fwwH5oQ+qigKeDdlFov/8WnujiSfzzTSODnhZnhfzDOWsu/9hwvHSFX6Aqvi5DfiQM5NLFa6d29Y2+E6uDQxsKSUzvcKCguadnXMlwkbSqT5LxH/NiKSK+qnhYZ4+bZLdKQ2y6k/B4vUp+7RzrOJRn7VdQ5RLtY7H/QgbEbyV9FxMiaebdQox0NpLLhr/LQVaFDP4HjwnAeVijrowu/d2NaRzGliXInOzyLn6w86x0ARQTA5Q5PG8+Vvs7aq3iWk3+JQlOsQUG47qQev2dRFpViEQicLE6V5I1G+W6dRbBgpYLFMgJzlREOYS84lCVH5r7z5Vdfaeka+VfDc4x3optlA7VuLpvAWI8WULbOA/3Jw==;H0EQHf8Rm8jLeDiSWIVgNg=="
 ---
 

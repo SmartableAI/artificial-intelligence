@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
+    excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
+    publishedDateTime: 2020-06-15T08:08:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
     excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
     publishedDateTime: 2020-06-12T13:24:00Z

@@ -1,0 +1,92 @@
+---
+category: news
+title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
+excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
+publishedDateTime: 2020-06-15T08:08:00Z
+webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
+
+related:
+  - title: "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars"
+    excerpt: "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,"
+    publishedDateTime: 2020-06-12T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
+    excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
+    publishedDateTime: 2020-06-14T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
+    excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
+    publishedDateTime: 2020-06-12T13:24:00Z
+    webUrl: "https://www.eejournal.com/fish_fry/hearing-is-believing-artificial-intelligence-cough-patterns-and-stemming-the-tide-of-covid-19/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 24
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2020/06/AD-200612.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Self-Driving Cars and the Future of Personal Injury Law"
+    excerpt: "Self-driving cars are under high scrutiny, but we shouldn’t ignore the impact they will have on the world once the world accepts their innovative technology."
+    publishedDateTime: 2020-06-12T00:33:00Z
+    webUrl: "https://www.law.com/texaslawyer/2020/06/11/self-driving-cars-and-the-future-of-personal-injury-law/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/401/2020/06/Hank-Stout-Article-202006111951.jpg"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "d4YGcS7W026WznQTOcXJHi/cCyGONjg9oVQt3W2xHIJlf6Fif9Lkup6rNmJjwYmqiF8Zc21odWzSkCd+EfCLBiA6e1SOqMabsDOTWhIl4c4rL2xnJUOmTiNqoSZo3p3qU+om1QTByL7zyqryLvLblJ659Q9m2JtyI5x9zBV+epX0R93BwKcGOmDhNOGFrlIJzDlskftKYYxvgxrOZRBZO/5cjDQ3oqdx7MFeaXerOph5VejPbRHSIViYOHFZdzTSdnP90jNR/p1latomjHiWaQMvQZ2ocexo85voRKr1MO/E8PXStrBK7YDxbK/NWy6QnBOyhQ/JQaRwMjidp8a0cA==;/W6nT8DBOIWjiU16aDJSFA=="
+---
+

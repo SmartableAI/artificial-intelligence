@@ -665,20 +665,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "IBM's push for stricter facial recognition software regulation is likely an attempt to sidestep public backlash"
-    excerpt: "IBM joins Microsoft and Amazon in advocating for more substantial oversight of facial recognition technology, helping the companies sidestep backlash."
-    publishedDateTime: 2020-06-10T16:07:00Z
-    webUrl: "https://www.businessinsider.com/ibm-facial-recognition-regulation-attempt-to-avoid-scrutiny-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5ee0f1d9aee6a843fb52ea14?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Microsoft says it won’t sell facial recognition software to police without new regulations"
     excerpt: "Microsoft's CEO said the company won't sell facial recognition technology to police until there are regulations in place governing its use and will review other uses of facial recognition software."
     publishedDateTime: 2020-06-11T18:43:00Z

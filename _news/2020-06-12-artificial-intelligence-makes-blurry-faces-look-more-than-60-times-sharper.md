@@ -52,6 +52,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Artificial intelligence system can clarify blurry images and create new faces"
+    excerpt: "Researchers from Duke University created an artificial intelligence (AI) tool that can turn blurry pictures of faces into computer-generated portraits with fine details. Previous methods to clarify blurry images can only scale up an image of a face up to eight times its resolution,"
+    publishedDateTime: 2020-06-15T09:49:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15269/artificial-intelligence-system-can-clarify-blurry-images-and-create-new-faces"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 36
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/269/15269/BeforeAfter_0.jpg"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
     excerpt: "Researchers, including one of Indian-origin, have developed an artificial intelligence (AI) tool that can turn blurry, unrecognisable images of people's faces into perfect computer-generated portraits."
     publishedDateTime: 2020-06-13T09:51:00Z
