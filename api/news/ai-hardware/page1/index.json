@@ -1156,29 +1156,29 @@
     {
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
-      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Despite the adverse impact of the novel coronavirus, AI stocks have fared",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-are-looking-to-the-future-1029270022",
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "publishedDateTime": "2020-06-01T11:24:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-that-are-looking-to-the-future-1029270022",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-that-are-looking-to-the-future-1029270022",
+      "publishedDateTime": "2020-06-01T13:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1188,8 +1188,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {

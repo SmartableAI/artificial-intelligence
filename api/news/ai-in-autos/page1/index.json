@@ -6,7 +6,7 @@
       "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
       "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
       "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -100,7 +100,7 @@
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -650,6 +650,44 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ...",
+      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1258,53 +1296,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-tencent-invests-us70-billion-in-the-future-baidu-opens-worlds-largest-self-driving-car-test-ground.md",
-      "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-      "excerpt": "A wrap up of our leading stories this past week including Tencent’s plan to invest US$70 billion in digital infrastructure and Baidu’s new testing ground for self-driving cars",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/30/11b11052-a189-11ea-8055-0ae12e466049_image_hires_063234.jpg?itok=_xOpHMiz&v=1590791565",
-          "width": 1200,
-          "height": 630,
-          "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "publishedDateTime": "2020-05-29T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -126,17 +126,6 @@ related:
         width: 4897
         height: 3265
         isCached: true
-  - title: "Amazon bans police from using facial recognition tech Rekognition for 1 year"
-    excerpt: "Amazon said Wednesday that it will temporarily halt police use of its facial recognition technology. Activists have pushed Congress to regulate the technology."
-    publishedDateTime: 2020-06-11T01:52:00Z
-    webUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?itm_source=4&itm_content=2x4&itm_term=2376504"
-    ampWebUrl: "https://www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-bans-police-from-using-facial-recognition-tech-rekognition-for-1-year/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
   - title: "Amazon bans police use of face recognition technology for a year"
     excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
     publishedDateTime: 2020-06-11T13:14:00Z

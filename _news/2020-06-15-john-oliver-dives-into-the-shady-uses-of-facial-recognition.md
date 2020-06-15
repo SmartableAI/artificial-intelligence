@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "John Oliver dives into the shady uses of facial recognition"
 
 related:
+  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
+    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
+    publishedDateTime: 2020-06-13T14:41:00Z
+    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 83
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way"
     excerpt: "Never mind that none of these companies were major players in the police facial recognition market. (Microsoft admitted it has never sold the tech to U.S. police.) But civil right"
     publishedDateTime: 2020-06-12T15:21:00Z

@@ -96,6 +96,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
+      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
+      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "publishedDateTime": "2020-06-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse.md",
       "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
       "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
@@ -1321,44 +1369,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebook-trains-artificial-intelligence-on-hateful-memes.md",
-      "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-      "excerpt": "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how.",
-      "webUrl": "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "publishedDateTime": "2020-05-13T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

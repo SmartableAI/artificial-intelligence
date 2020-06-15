@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "An AI can generate photographs of people’s faces from line drawings"
 
-secured: "Sjy3mBfuw0jZ2xGYJHniZ7LPI/w1Lr8wWVl1ufweqUfEXzkw4a34tkrwAk5QNpeyyFFCv6d+rld/udltSw5g6S2n6wFcAoE9OxcqWr7W81RSivw2ZuzU71U6lvZXXzcBSPvMGPzV+scunOAEwkgTU9I/LEFNLJgD/z5XCo0qW8PkCO4wdbN1P4GU+NlASu1Xq9ag+Fh0SRYoyMi+lVVwcUkt/Z7+N9ONETo2bF+mRrfuqz3hdxtmwcYhjG3DTk+QuDsLCrsClPtSi1/w6Yhb+8b1KVqfGe5PvGkyt8ofWX/RTuLxRwyhKEG48gFYo9IqCWFs00w4cOcFl5IeMP1j3w==;akoHaHXJIVHIsCJhYZmnmQ=="
+secured: "66HGwq7OsSYZMIGYRfa1Y5S7QQszKu4MGqClUxqAqr+9MScuhtgPC1Pi/KOlQLqoSZv6xzT5YdrmfNuiqnfMhNIsUijTe/mca5SfX2kDfltl1SJRXxMfXv8cBTCxxbUyQlGNxCj1KyjvEU/l0ZoglH1jAp5KHg3OmlJQCQ+/R/NghfRbP+Onni0KlL0EaZaj8P1FNB7rmzoSKJt+NKGB+AwOCjawmkAiGhkvx99X6Ve5SPe+KwpEhv5M8D4XIysEFju+i+13px1KjMXyqvOyoDn6Sb9380nFtVG1Gz0a4lHj9GXvwv/iz9lVE5OlysId9Mcf+0xwK96KVxyEAxdnGmXEXBGAWd/nmDeZEAb5hus6ZyDbG08P5WMH2WIJ6tGcD01hQm6daD5uSPY/OZPFQcIVg2HCcw1h2GOvAIq58zH+bJEW0L4gbzqWAbr1EFM3sUyD40PAK11ixRcxkPEosr9Q2CR3wxbx5sNQPZJzObJB2TYpGNuTviKFD4ow9fK7A2yKtH9p9600LCvm0aQMfw==;wFess/P89tC4D3CtnwEvUw=="
 ---
 

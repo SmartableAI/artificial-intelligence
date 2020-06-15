@@ -2,6 +2,82 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-07-how-mind-controlled-robot-suits-could-enhance-our-limbs.md",
+      "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+      "excerpt": "In Episode 2 of Future You with Elise Hu, we explore mind-controlled robot suits and how they could end some disabilities as we know them or let able-bodied people gain super strength. It sounds ...",
+      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
+          "width": 1337,
+          "height": 752,
+          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
+      "title": "AWS unveils open source model server for PyTorch",
+      "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
+      "webUrl": "https://www.reseller.co.nz/article/679084/aws-unveils-open-source-model-server-pytorch/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_dreamstime.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS unveils open source model server for PyTorch",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-la-trobe-university-using-artificial-intelligence-to-reduce-course-dropout-rates.md",
       "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
       "excerpt": "The Bachelor of Arts Explorer allows students to shortlist majors and see what careers they can enter if they study a specific course.",
@@ -1187,91 +1263,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-chinese-chip-maker-smics-us3-billion-shanghai-listing-is-a-hedge-to-reduce-companys-reliance-on-us-technology.md",
-      "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-      "excerpt": "SMIC, which announced its plan to delist from New York last year, is one of several chip companies that embody Beijing’s hope of creating a self-reliant and world-class semiconductor industry.",
-      "webUrl": "https://www.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/e1cf8a26-8f9a-11ea-a674-527cfdef49ee_image_hires_211839.JPG?itok=ETHgRewO&v=1588771125",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "publishedDateTime": "2020-05-06T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-harrisburg-university-develops-facial-recognition-software-to-predict-criminality.md",
-      "title": "Harrisburg University develops facial recognition software to predict criminality",
-      "excerpt": "A group of Harrisburg University professors and a Ph.D. student have developed automated computer facial recognition software capable of predicting whether someone",
-      "webUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2020/05/facerecognition.png?w=408&h=340&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Harrisburg University develops facial recognition software to predict criminality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "publishedDateTime": "2020-05-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27.com",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

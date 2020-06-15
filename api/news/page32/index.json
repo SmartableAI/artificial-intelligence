@@ -2,6 +2,129 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-18-techsplainedfe-ready-to-chat.md",
+      "title": "Techsplained@FE: Ready to chat",
+      "excerpt": "On the other, ICMR announced that it would be leveraging IBM’s Watson to enhance performance ... step in government relying on artificial intelligence to improve its response time.",
+      "webUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/05/cats-59.jpg",
+          "width": 660,
+          "height": 440,
+          "title": "Techsplained@FE: Ready to chat",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
+      "publishedDateTime": "2020-05-18T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-e-commerce-startup-banks-on-robotics-ai-to-win-consumers.md",
+      "title": "E-commerce startup banks on robotics, AI to win consumers",
+      "excerpt": "Starting fresh with automated warehouses and AI will give the company ... which have been gradually introducing robotics, Borders said. The California startup aims to fill gaps in what Borders ...",
+      "webUrl": "https://www.thejakartapost.com/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2020/05/18/2020_05_18_95509_1589776442._medium.jpg",
+          "width": 747,
+          "height": 498,
+          "title": "E-commerce startup banks on robotics, AI to win consumers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html",
+      "publishedDateTime": "2020-05-18T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
+      "title": "10 Ways AI Is Improving Manufacturing In 2020",
+      "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994",
+          "width": 1199,
+          "height": 675,
+          "title": "10 Ways AI Is Improving Manufacturing In 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "publishedDateTime": "2020-05-17T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
       "title": "Using AI to predict retinal disease progression",
       "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
@@ -1001,137 +1124,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
-      "title": "Apple Buys Virtual-Reality Startup NextVR",
-      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
-      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Buys Virtual-Reality Startup NextVR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "publishedDateTime": "2020-05-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

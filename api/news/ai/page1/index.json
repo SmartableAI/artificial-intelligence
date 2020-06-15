@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
+      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
+      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "publishedDateTime": "2020-06-15T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools.md",
       "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
       "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
@@ -100,7 +147,7 @@
       "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
       "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
       "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -335,7 +382,7 @@
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
       "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -561,7 +608,7 @@
       "title": "John Oliver dives into the shady uses of facial recognition",
       "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
       "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1088,7 @@
       "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
       "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
-      "heat": 258,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -1306,52 +1353,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
-      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
-          "width": 830,
-          "height": 415,
-          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "publishedDateTime": "2020-06-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

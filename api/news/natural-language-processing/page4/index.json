@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-05-eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands.md",
+      "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
+      "excerpt": "EU project to develop a collaborative humanoid that helps workers in industrial environments has come to an end.",
+      "webUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all",
+          "width": 1296,
+          "height": 647,
+          "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
+      "publishedDateTime": "2020-05-05T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-global-natural-language-processing-market-2020-to-2025-ensemble-of-nlp-systems-to-boost-phenotyping-capabilities-presents-opportunities.md",
       "title": "Global Natural Language Processing Market (2020 to 2025) - Ensemble of NLP Systems to Boost Phenotyping Capabilities Presents Opportunities",
       "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",

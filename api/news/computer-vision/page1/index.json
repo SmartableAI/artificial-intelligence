@@ -2,11 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
+      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
+      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "publishedDateTime": "2020-06-15T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition.md",
       "title": "John Oliver dives into the shady uses of facial recognition",
       "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
       "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -44,7 +91,7 @@
       "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
       "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
-      "heat": 258,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -186,7 +233,7 @@
       "title": "Microsoft bans police from using its facial recognition software",
       "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
       "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "heat": 389,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -229,6 +276,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
+      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
+      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "publishedDateTime": "2020-06-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
       "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
       "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
@@ -267,105 +362,11 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-pimeyes-facial-recognition-website-could-be-used-by-stalkers.md",
-      "title": "PimEyes facial recognition website 'could be used by stalkers'",
-      "excerpt": "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\".",
-      "webUrl": "https://www.bbc.com/news/technology-53007510",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "PimEyes facial recognition website 'could be used by stalkers'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53007510",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510",
-      "publishedDateTime": "2020-06-11T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-aclu-says-amazons-1-year-suspension-on-selling-facial-recognition-to-law-enforcement-falls-short-and-it-wants-a-longer-ban.md",
-      "title": "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban",
-      "excerpt": "AI experts and civil rights activists have been campaigning for Amazon to halt the sale of Rekognition to law enforcement for years.",
-      "webUrl": "https://www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ede4ea34dca68759162ca8a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The ACLU says Amazon's 1-year suspension on selling facial recognition to law enforcement falls short and it wants a longer ban",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aclu-calles-amazon-blanket-ban-rekognition-sales-2020-6?amp",
-      "publishedDateTime": "2020-06-11T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
-      "heat": 311,
+      "heat": 321,
       "tags": null,
       "images": [
         {

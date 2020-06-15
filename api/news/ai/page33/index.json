@@ -2,6 +2,99 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
+      "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
+      "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
+      "webUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/snapdimen.jpg?fit=1440%2C720&strip=all",
+          "width": 1440,
+          "height": 720,
+          "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
+      "publishedDateTime": "2020-05-11T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-ai-can-help-to-inform-pandemic-policy.md",
+      "title": "AI Can Help To Inform Pandemic Policy",
+      "excerpt": "An Interview with Dr. Deborah Duong, Director for AI Development at Rejuve and Director of Network Analytics at SingularityNET and Dr. Ben Goertzel, founder of SingularityNET.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 621,
+          "title": "AI Can Help To Inform Pandemic Policy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
+      "publishedDateTime": "2020-05-11T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
       "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
       "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
@@ -1235,99 +1328,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
-      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
-      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
-      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
-          "width": 600,
-          "height": 350,
-          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "publishedDateTime": "2020-05-09T19:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-mega-man-11-review-i-hate-bounce-man.md",
-      "title": "'Mega Man 11' Review: I Hate Bounce Man",
-      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
-      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "'Mega Man 11' Review: I Hate Bounce Man",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
-      "publishedDateTime": "2020-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

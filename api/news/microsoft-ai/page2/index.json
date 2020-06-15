@@ -2,53 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-05-26-smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology.md",
-      "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-      "excerpt": "That company, now TalentCloud, forged ahead with Microsoft Azure Machine Learning and Internet of Things (IoT) technology. Since its 2012 founding, the company has parlayed those technologies into its Agro-Brain solution. Just as TalentCloud data ...",
-      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
-          "width": 768,
-          "height": 513,
-          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
       "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
       "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
@@ -1323,6 +1276,54 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
+      "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+      "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
+      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

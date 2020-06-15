@@ -2,6 +2,35 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-06-in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts.md",
+      "title": "In unusual revolt, scientists funded by Mark Zuckerberg criticize Facebook’s inaction on President Trump’s posts",
+      "excerpt": "Dozens of scientists who have received funding from Mark Zuckerberg’s philanthropic vehicle have signed an open letter sharply criticizing Facebook.",
+      "webUrl": "https://www.statnews.com/2020/06/06/in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-06T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
       "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
       "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
@@ -1075,53 +1104,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
-      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
-      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
-      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
-      "publishedDateTime": "2020-06-04T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

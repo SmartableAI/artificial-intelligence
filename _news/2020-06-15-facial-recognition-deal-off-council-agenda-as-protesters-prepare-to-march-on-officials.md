@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.freep.com/amp/3191887001"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 675
     isCached: true
     title: "Facial recognition deal off council agenda as protesters prepare to march on officials"
+
+related:
+  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
+    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
+    publishedDateTime: 2020-06-15T16:59:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 17
 
 secured: "cClQjRjg2rLHbiwXFnpLNtSvNyTOfLucOZgOeMNtQwL4nayEiDsQOW9x2L9dAnQx0ExvkHjBphnQZxqomSetCT9F9NRcrv9CWkq+P+2zc2OaUTHp8rZb/yBp8lOSH7nVl4O8mabkTlySXQ+xI5TR0CkFJWTi4whkkHczoNdRKZD6rgD+x1TcyVgaDYUa7KxdQ3/QB8OolhJE0ex5p8wPbfkwY3HUd5LY/j1ylGNdpcbvalXF/lG4C2iRy5WkgisigrcNSQCZ+qzUnYpmBVvLMUUv+GrB0V3L4n0uAXYA1k66qLiuV3oX6XzZLsNidn7nUTHtzvWzBUk0G1ad+8GTng==;uM7mFU3Uergq0OBNOCwzdw=="
 ---

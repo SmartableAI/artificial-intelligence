@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Repairing and Rewiring the Brain"
-excerpt: "Perhaps the most rewarding part of my work is helping post-traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,"
+excerpt: "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,"
 publishedDateTime: 2020-06-11T20:01:00Z
-webUrl: "https://www.psychologytoday.com/za/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp"
 type: article
 quality: 39
 heat: 39
@@ -19,6 +19,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "jxsBn1jTpgYXDmV/7/NVoExGbXpX6trZQzJGU8hFF6kxSxi6uA6ag5dAKtwWDMWrGx3SAsot4ZmhWIdNARcwTGkEmNVQhGBkPUc2yG7j/C5nzYCB2zx5Ufr1NYSthZb8SMOzVuSS/vQZWi8je/7jch+p67Exhyv7NoElnZfYJlF3UKajoZ/+Eih6lpkoPPkITVMQzN4zpWKf7bCkIjwmcQXtq+ul8rW6pjrcpuybNeSMVqaAqifk0BhQ/IhwtZ5rvohZegnyXX6ugG7HGJkpsXotZA+XYOI1vUMor5IWktUNTUork4Q2AfrH6dQddkrN3bVM1RAhVTR5dLKlpyAG9Q==;wHZB1V3O7f426jJXNeyU3w=="
+secured: "QqB0+1KtqImnbaNOW0Iw5j2Sx8abvzgB9fZdeVk+a2fB48rOE82E7MrOX9wTjcJAizpKqUQYBFnGM7NXhjs1mApYNzhO0zG6Vg3a0kmgoCsnwdjc1Wes+4AC6vNx1Ud7AAi+KAVy+49RmunfYe+lujonNPfiz65HjbfLLaW/qsytHWAYwqpcB7afoR00OMOO8tuBCJvPzyImLq+Q3h4W3BG9QP367KSvaVQvxpJuhoXGxHGVk0UL2uSuwD+UeSrdAmPZignoR0Zz5QsGlk795lxKX59NX/Aso0C9hIrFOTYdRGC9IvIupPZ8EkN5C/BgK5iu1nSFJHbraadx/YRW6Q==;npGdaH5lYHinhv1+HAIj5A=="
 ---
 

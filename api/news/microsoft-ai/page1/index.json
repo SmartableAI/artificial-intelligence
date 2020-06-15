@@ -6,7 +6,7 @@
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
       "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -706,45 +706,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
-      "title": "7 AI Stocks That Are Looking to the Future",
-      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "publishedDateTime": "2020-06-01T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
       "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
       "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
@@ -1229,6 +1190,53 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology.md",
+      "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
+      "excerpt": "That company, now TalentCloud, forged ahead with Microsoft Azure Machine Learning and Internet of Things (IoT) technology. Since its 2012 founding, the company has parlayed those technologies into its Agro-Brain solution. Just as TalentCloud data ...",
+      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
+          "width": 768,
+          "height": 513,
+          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

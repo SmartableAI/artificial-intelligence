@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Amazon Hits Pause on Offering Facial Recognition Tech to Police"
-    excerpt: "The moratorium arrives as academics, civil rights advocates and the company’s own employees have all expressed concerns Amazon’s facial recognition technology will lead to policing abuses."
-    publishedDateTime: 2020-06-11T01:14:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police"
-    ampWebUrl: "https://www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-hits-pause-on-offering-facial-recognition-tech-to-police?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03qfvECTTUxLCSjZpiiSVeS-1.fit_lim.size_1200x630.v_1591837092.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Amazon puts one-year moratorium on police use of facial recognition software"
     excerpt: "The Rekognition software has faced criticism for being particularly bad at identifying people with darker skin."
     publishedDateTime: 2020-06-11T15:22:00Z
@@ -181,6 +165,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
+    excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
+    publishedDateTime: 2020-06-11T20:31:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 54
+    images:
+      - url: "https://content.jwplatform.com/thumbs/Mnx8rjTc-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Amazon issues a 12-month ban on police use of facial recognition"
     excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
     publishedDateTime: 2020-06-11T06:49:00Z
@@ -228,6 +228,22 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Amazon is banning cops from using its facial recognition tech for one year"
+    excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
+    publishedDateTime: 2020-06-15T18:03:00Z
+    webUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063"
+    ampWebUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 42
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/6/11/95df0f0c-c9dc-43c2-95d1-ab0bf43e4220-getty-1205539001.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cramer: Amazon Facial Recognition Software Is 'Last Thing We Need Right Now'"
     excerpt: "Amazon has put a one-year pause on police departments using its facial recognition technology. The technology, called Rekognition, was launched in 2016. The tool uses artificial intelligence to help surveil and identify crime suspects as well as human trafficking victims and exploited children."
@@ -357,6 +373,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "2brnwoWuLrkgLxxmHMXkZzctAgiE5nEgnYcZPTriDVE7tvDu+u4jv33pOtHZsAGM+27RQNsJm4OzSChsfNg4p+PAb9GOXPA4fsOrN+EXhs5K8PVLC568P/Hyub//p1MLYtC18ntExN/PREx5hiCp+XlWplLH6sIsSJMGiCAD6ntJWnLnl5OzhIKe2gJgXTHMKp6ssmWI4K4s7B5RAz0Gm6mNIH5vrYZ/e0TuE2IgjpNZXByuq5JLpcRFwE5OiwqzPnHkAf/e8NXbZuCu1uBhU0QFSWDl58toBX3sk1NBHIsvyRaAPOWm7JBFq16loPB3HRKCklT2hUWGPzwTeB5a8g==;bTecmsMjgTL2r/G/xwTeLg=="
+secured: "Uu0ptv5KVQ6xLiM4LXrHRUmPmTcE780UOmq901Ck6xy+EO7hj9kSX//2swak0ITaZ+5PcESdRBvcl8LgN4QCebbCkPI4ySAKJ3DfSd+MWnvlV6rjQO7sSPzLYxPyzAUE2z+rdPWBr8jv0ZahtJVoES+0/RhAghKm1iTqMfPX1LWukXxkdvp56gFOX6d5ZkCs0vk8Qp2flvJIr6bNo0QwSiywea6atdxDGzAYcBf1GP9gNNnU2qXkqLu5/CQv+tLV8pduDOIxYWNgnBJ1iEzTqtAC96GNn3HpPGz4IPDuHAnqGT9SHldvguzsMRmGs3qwJu8jzxDAr5QTUnT3474ggaiLkvNV3/n0DjYYORi+fk576MeVPhhdrvMeWtShJKGp3ssjxEfnhCHZfym0kmrusB0iazlD1+nz7fBcpQUa8re8tMFk6RymJpwrWa6bzPHxN6Mng8snn+Cb09JyMW6k7sTneB5VJ7L2VLjJT7NMr7Wlt8DdXZXDO8iN5WqrgJW9wW4vZDLTI9O0nt0hpuEhUg==;WzUA1ovUj1+xoF3jg5JkWg=="
 ---
 

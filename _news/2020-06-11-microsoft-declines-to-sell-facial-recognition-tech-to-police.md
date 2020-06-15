@@ -31,22 +31,6 @@ images:
     title: "Microsoft declines to sell facial recognition tech to police"
 
 related:
-  - title: "Clearview AI still backs facial recognition, despite competitors' concerns"
-    excerpt: "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse."
-    publishedDateTime: 2020-06-11T01:43:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 102
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
     excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
     publishedDateTime: 2020-06-11T15:54:00Z
@@ -63,83 +47,69 @@ related:
         width: 3999
         height: 2666
         isCached: true
-  - title: "Amazon Won't Let Police Use Its Facial Recognition Tech for One Year"
-    excerpt: "Amid nationwide protests over police brutality, the company is stopping law enforcement from using its most controversial product."
-    publishedDateTime: 2020-06-11T01:06:00Z
-    webUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/"
-    ampWebUrl: "https://www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-facial-recognition-police-one-year-ban-rekognition/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/5ee18354be64fa7887c431ea/master/pass/business_camera_1199003741.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
-    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
-    publishedDateTime: 2020-06-13T14:41:00Z
-    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "George Floyd: Microsoft bars facial recognition sales to police"
-    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-    publishedDateTime: 2020-06-12T02:10:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-53015468"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
-    excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
-    publishedDateTime: 2020-06-11T20:31:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-restricts-use-of-facial-recognition-tech-by-police"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 54
-    images:
-      - url: "https://content.jwplatform.com/thumbs/Mnx8rjTc-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Controversial startup to continue supplying police with facial-recognition tech"
-    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
-    publishedDateTime: 2020-06-11T23:41:00Z
-    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
+  - title: "Microsoft says it won't sell facial recognition tech to police, either"
+    excerpt: "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments."
+    publishedDateTime: 2020-06-11T19:46:00Z
+    webUrl: "https://mashable.com/article/microsoft-facial-recognition-police/"
+    ampWebUrl: "https://mashable.com/article/microsoft-facial-recognition-police.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 50
+    quality: 89
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
+      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w="
         width: 1200
         height: 630
+        isCached: true
+  - title: "PimEyes facial recognition website 'could be used by stalkers'"
+    excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
+    publishedDateTime: 2020-06-11T14:37:00Z
+    webUrl: "https://www.bbc.com/news/technology-53007510"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "A Bill in Congress Would Limit Uses of Facial Recognition"
+    excerpt: "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough."
+    publishedDateTime: 2020-06-12T20:52:00Z
+    webUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Qwfoi/nzRG7HnxaT2bIIUpJ4DK476JkDrvzC1vh9Ms/bqID/lUqNOjKdfmtvdT0Fqfj6qzJOz58M3Bl7ITwg3VRoouB4Bj0CyuUvR3/E9/B/eRY9S+lHE8vVrtqXnAdTefOYElaOXaJwuz5JQ4GcUHVupiOK8krAvE8+I7LUaub7c7yB2jvvAP9d4qH7cSrB6OxoZSnHb10AW2DEAtUX5kLOi0xXdVXGoeBwhB7SPU/Y0IT393eqOsx5qHNxfNqsegtdxs+3tSGMT57HbQ0EUiiYWYpijCJC0bTv0nTHQM6aZeOb0KqIYBZvJTbgaa2y;Y9jfWPsYGWXWI4ZQTorbcA=="

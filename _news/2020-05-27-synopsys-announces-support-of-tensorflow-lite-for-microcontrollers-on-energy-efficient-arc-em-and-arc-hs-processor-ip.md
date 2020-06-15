@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
 
-secured: "5oYAHfd8bvTTbEIZztcqPLEmZeuVJ6Xai+XwJ7Pw8oE8T3f75JsPjipoXjVhzzTIbhBLWZaWFN31TaQJR35OH3yd3G4g/iUurMUylK8/ML/13MHq1nyAzm+Wz+8CzzmQa6X7N7OtzUAKj8SEvzBGkpSDrnW530UdD0XeeNQrTZgnQKjP3D173bDRRzCnKTFYO4UpUoyZhuJcvcGrZivKAiOUkkjgeQ0UK1Oz5/bYAvVJhzP3T1OfLoPH95FVW+4QuMuyFRHpN2dFSS1YFexJiIJB5D0ThhjDlyCcqyRcoweylCXOniQOq+sBpQyh4eC99/IJSWyON+iFDQxUWpUSMQ==;fa0yavMZDi4PmrL/BJsyaA=="
+secured: "Pvcvx1QnMOcj8uyVbM+S/eLOoOpf9wmST3/KnNk3D2b/GYQfo+cnr1xnymnic31YzRV11vKp3sHGFgmVDS11wW8Mr2m9XIWPa1dh7FqaYe9wOnuFNNo//bHNaXoLdPfQA6OrgSVOuacXisGyIwpHjO2vy2hsa5sRwuDk6lcnZ2nZqGuJZbpthSsENCMmhVzU4b3FupKNitN/qMAn7+Y3h1i00bC4ycsFp0Fedkk5Jr4myjS9zrYF3eVpivC+2o1y8sgqyE3L7oschWYjP8uogm+lqg0R5aJ4D4pMNtmAbns8Ut6a2xodGXWJq8CnnKVGqEs3G91aniFcv48Cypojtg==;PFHmQtZSMPncshBE7Sa3fw=="
 ---
 

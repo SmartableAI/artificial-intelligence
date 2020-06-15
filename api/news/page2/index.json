@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
+      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-13T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
+      "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
+      "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
+      "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 1512,
+          "height": 1676,
+          "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "publishedDateTime": "2020-06-13T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
       "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
       "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
@@ -509,7 +604,7 @@
       "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
       "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
       "webUrl": "https://www.entrepreneur.com/article/351699",
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -648,7 +743,7 @@
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1063,75 +1158,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
-      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
-      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "publishedDateTime": "2020-06-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
-      "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
-      "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

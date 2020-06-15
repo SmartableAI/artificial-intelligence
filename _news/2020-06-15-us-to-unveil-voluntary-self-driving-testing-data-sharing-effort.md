@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
+    excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
+    publishedDateTime: 2020-06-15T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146418043%2F0x0.jpg%3FcropX1%3D667%26cropX2%3D5422%26cropY1%3D0%26cropY2%3D3173"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
     excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
     publishedDateTime: 2020-06-14T15:39:00Z
