@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 785
         isCached: true
+  - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
+    excerpt: "SAS' AI and analytics more tightly integrate with Microsoft Azure; Microsoft to bring cloud-based SAS industry solutions to its customers"
+    publishedDateTime: 2020-06-16T10:01:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/SAS_and_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-ZAWYA20200616093015/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "SAS and Microsoft partner to accelerate the power of AI"
     excerpt: "Global software companies, Microsoft and SAS, today announced an extensive technology and go-to-market partnership, bringing the “empowered cloud” in the form of SAS integrations inside Microsoft’s entire cloud portfolio,"
     publishedDateTime: 2020-06-15T14:55:00Z

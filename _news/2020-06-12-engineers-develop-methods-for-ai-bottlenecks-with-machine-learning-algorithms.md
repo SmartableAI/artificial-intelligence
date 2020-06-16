@@ -25,19 +25,21 @@ images:
     title: "Engineers develop methods for AI bottlenecks with machine-learning algorithms"
 
 related:
-  - title: "NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins"
-    excerpt: "The National Institutes of Health (NIH) has awarded FIU researchers a $1 million grant to design and develop machine-learning algorithms"
-    publishedDateTime: 2020-06-11T17:19:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/"
+  - title: "Foiling fraud with machine learning"
+    excerpt: "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes."
+    publishedDateTime: 2020-06-16T10:05:00Z
+    webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
+    ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
+      name: TechRadar
+      domain: techradar.com
+    quality: 91
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-        width: 440
-        height: 440
+      - url: "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3N+aY9czwv0U1qLYtNrnupbreAVFDFuZYcx3TQt+bH2oKQkPsTlexk4+GJqn+G5KEWshzaVD6HEwt63BoIaT7iyb6xx6aPYE2qVEoVEl4wSeZHtLypFSKda4/oMC9G7JUPflwRcnGNhuxKLTO7WeKSQIPssFtCU2zbCgnvgVwbl3/z5JRD5AvulEN7MKDBZOF5xHunwympM0VX0xKwjrrsGSFjThuiv077MRciNLdQE03sCmcULw9lP5YOac2DE4Z9RQi0V1GddYUtTE+pxUkwnuPUIMH5RRQKqCBc0M4KBGxFo8BKwMWutEgIsoV4bjVsDd4lmlA57FzMg7fZ/KK97TNI/MM3dJZJQDdQ7yRuwk4ZxM8PrQoZY8KiGZNmEdAbxEwzN/cedUVmrmuxvJECMTTl2YeCwWUpqah+ROaiDTnyyzuOufj8KbRNGA+LdI29wppFoX9FoToJTd0Ym897unY0pXKY9sANwVRGKt9iIYsJASGhpCrkO4DqEqYQa8CXOcXhDECFh0VmO1V/RsiQ==;UZSxW3yATDz8k/zA4cGJ0A=="

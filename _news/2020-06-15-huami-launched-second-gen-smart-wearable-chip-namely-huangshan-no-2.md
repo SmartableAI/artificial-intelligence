@@ -41,6 +41,20 @@ related:
         width: 286
         height: 215
         isCached: true
+  - title: "Huami unveils its next generation wearables chip, the Huangshan 2"
+    excerpt: "Huami has officially unveiled its next generation of wearables chip, the Huangshan 2. This features the BioTracker™ 2 and a series of AI algorithm upgrades."
+    publishedDateTime: 2020-06-16T10:16:00Z
+    webUrl: "https://gadgetsandwearables.com/2020/06/16/huangshan-2/"
+    type: article
+    provider:
+      name: gadgetsandwearables.com
+      domain: gadgetsandwearables.com
+    quality: 39
+    images:
+      - url: "https://gadgetsandwearables.com/wp-content/uploads/2020/06/huami-unveils-its-next-generation-wearables-chip-the-huangshan-2-2.jpg"
+        width: 800
+        height: 445
+        isCached: true
 
 secured: "E+c2tCaENdrdlIwz6cMtwdAgU1xJsT/6u7CUH9Xv8XwNLm5awTeV9gIWuhc9YbrKX85LPSb3JKHydG8uD9gFrgMWEaonop3cxMNedK5/w1G19cRJavsMioRJaI4LrtQkQGEECgjX5ABf1uBIjfGnuHj6SpRKoRq8f7jBxYYFbxe+oLZX7VSwrF/vjB2T2DG9YL1eeWcw1d/7tgo3w7jvHRAhUiXsmALZ+aiquRQvSr4nH420Fs5rdH1p75Msh4sVJkl42EM/BTohx07xZlbc4tzW1fRHq1Fg1QMju6Jpt+mFuRtQCeJfyLR9fMpMZaDEgJyum7WQF61MRuw6GoCzunCTkovlCIHGH7AeGy50iS6HktxQaMR/ZnctrmoF+PERVAg7Zs1fxegQdJ0BzGxndLUPce8A6GxaXdOUNxUfm23AmLJrD5C3iO4HLlVuI66XcBXfvcT/0v+ddpJzcEOmoxLZtW3DkGJ95K2jmsINs49/8lfo/K5v+1tWpIh/ddt0qcBB+3alPcJ+nh+PcY3eYA==;cbKyEQehOGq8nHjdIkyYmw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-systems-racism-p
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,49 +27,20 @@ images:
     title: "Why face-recognition technology has a bias problem"
 
 related:
-  - title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
-    excerpt: "IBM and Amazon have withdrawn their products, citing the software’s use in racial profiling"
-    publishedDateTime: 2020-06-13T15:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+  - title: "Why Big Tech's new face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-14T00:53:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/9ebcf6ef9fcd40d37e487aa228b8eb9e2419afa7/0_232_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edc87d8e28beaa42bee0f8521c05b1b5"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
-    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
-    publishedDateTime: 2020-06-11T21:07:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
-    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
-    publishedDateTime: 2020-06-16T01:11:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
+      name: Fast Company
+      domain: fastcompany.com
     quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "zLGQ4P2TE3HDdHIAdZfZxesUAF1SlQvI0ZzmbgKOq/3NrmC2L/NdBMiXvEEXsy0Dz+NOz23TAsOJkgh6dY0U6rZcaVfXGrikluvHMgGyq8a35U88sqDfPO5OpEp1L4QKjRLvNbekKWdSNcjnUB0xGJSz/9MvEe4mb/kJYtkHJhKaK7NCHfM8Km0tQrP6h66VFu4k1xTr8PE7jX098XjrR4T/bVtvXOYq5cB8KuWR5SxSsdVKOrJeXM6HZ6VLVDEBrfo3nDbvY47lWJcsDWBg2ynf+Vo+BiCe7mFOKgOsxJGf+CDtTpmC/T68TGMkMC2cr9cMmVMCoQDID6onOCaMXgi/uFPcAp569ra1xUdHQDXGMIiOe+8ZdpLtwSLQqvhToodcjEpjPDzl97lkppb1yF5dDLruoHcCSIPserAZUVLqH00h3EJ6yczu4bnc+NDjFSIthGqweIWOTI9IEEeTDtfusQdSuwS09KewOjQuETYmuQU//4/ICpEKeq98dLOIsaNjvloQOWG1JGnkwaZjtA==;DgSJyYbyp2Fm0p2IMZ+uQQ=="
 ---

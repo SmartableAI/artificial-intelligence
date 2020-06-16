@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 248
     isCached: true
     title: "AI War Games And The Challenge Of China"
-
-related:
-  - title: "Energy Explores the Potential of an Artificial Intelligence Grand Challenge"
-    excerpt: "The Energy Department’s nascent Artificial Intelligence and Technology Office—or AITO—on Wednesday invited experts from national laboratories, academia, industry and beyond to weigh in on sector-specific grand challenges and partnerships worth pursuing to pioneer radical breakthroughs in AI and bolster U."
-    publishedDateTime: 2020-06-11T18:22:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/energy-explores-potential-artificial-intelligence-grand-challenge/166091/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/11/NGai20200611/860x394.jpg"
-        width: 860
-        height: 394
-        isCached: true
 
 secured: "AW7gm7QCIK+eyyvn2mo4lVxPeFWatq7jR1NzfWloU0efjcqvlI4m23g3KroVBhF2SD3roEJCVnUhCnBMUpEBGBJjfeBgBnp04K2lte0lQne2zbPnrDFQ4naKG8ja01iScZR8qW5S4tniLmAK0vbKSL+bta+4bQ2Rv9FYZNyPDNK9p6WblzrEje9tRRkUxJRkup3UvzF/5OS5qVZXXBQPkolH65tnkqlFSz7nyKcf/ke1b9NR6W9kj9OUHDSbzl0w7F2l6jMHV3aXNvv9VvzipZOLlVHCrZ8BKcyqHcNxDhIMU22HhYWmNfRHjaIEBch8ASxP3vK+jidviQ1GNI6J0VNYNPmnJNw43HkvYvwxXBPDkzI9Jj27H4l5ksjCKX85T8Qfu3R6vsvB6sYZS6CE9gfGrdjiAblTcJUx/ff5vJ1Eptyj7FGNbdCEHvc/AmNMeaN+J4XaMn6Xz5/i2VCusDCPHEpimmOb6d/qrdH36W3tV1O9g8tZwgJKNML1eX0F7Lna7woLB3rpd4TckAyzJQ==;cjkJx2atEMfpMzNkYgKzmg=="
 ---

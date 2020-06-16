@@ -27,38 +27,6 @@ images:
     title: "The two-year fight to stop Amazon from selling face recognition to the police"
 
 related:
-  - title: "Microsoft bans police from using its facial recognition software"
-    excerpt: "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place."
-    publishedDateTime: 2020-06-11T17:28:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/HR54znBsd8jxCVa5CV_hoVJt6rg=/756x567/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Microsoft declines to sell facial recognition tech to police"
-    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
-    publishedDateTime: 2020-06-11T17:56:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition/microsoft-declines-to-sell-facial-recognition-tech-to-police-idUSKBN23I2T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521939835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Microsoft says it won't sell facial recognition tech to police, either"
     excerpt: "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments."
     publishedDateTime: 2020-06-11T19:46:00Z
@@ -123,22 +91,6 @@ related:
         width: 727
         height: 409
         isCached: true
-  - title: "Microsoft bans police face recognition sales as Big Tech reacts to protests"
-    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
-    publishedDateTime: 2020-06-11T18:49:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition-idUSKBN23I2T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521949194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Microsoft won't sell facial recognition to police without federal regulation"
     excerpt: "Any future law must be “grounded in the protection of human rights,\" said Microsoft president Brad Smith. Microsoft will not sell its facial recognition technology to police departments until there is a federal law regulating its use,"
     publishedDateTime: 2020-06-12T14:54:00Z
@@ -171,69 +123,37 @@ related:
         width: 1200
         height: 820
         isCached: true
-  - title: "Microsoft won’t sell police facial recognition until there’s ‘a national law in place’"
-    excerpt: "Urging action from Congress, Microsoft president Brad Smith said Microsoft will not sell facial recognition until national regulation is in place."
-    publishedDateTime: 2020-06-11T17:30:00Z
-    webUrl: "https://venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/"
-    ampWebUrl: "https://venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/microsoft-wont-sell-police-facial-recognition-until-theres-a-national-law-in-place/amp/"
+  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
+    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
+    publishedDateTime: 2020-06-13T14:41:00Z
+    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: CNN
+      domain: cnn.com
     quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/Microsoft-e1572850220242.jpg?w=1200&#038;strip=all"
-        width: 1000
-        height: 600
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Microsoft’s Brad Smith says company will not sell facial recognition tech to police"
-    excerpt: "Microsoft is joining IBM and Amazon in taking a position against the use of facial recognition technology by law enforcement — at least, until more regulation is in place. During a remote interview at a Washington Post Live event this morning,"
-    publishedDateTime: 2020-06-11T17:43:00Z
-    webUrl: "https://techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/"
-    ampWebUrl: "https://techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/microsofts-brad-smith-says-company-will-not-sell-facial-recognition-tech-to-police/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft won’t sell facial recognition to police until Congress passes new privacy law"
-    excerpt: "Amazon on Wednesday said it would stop providing it to police for one year to give Congress time to put in place “stronger regulations to govern the ethical use of facial recognition technology.” Microsoft president @BradSmi says the company does not sell facial recognition software to police depts."
-    publishedDateTime: 2020-06-11T18:07:00Z
-    webUrl: "https://www.theverge.com/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
-    ampWebUrl: "https://www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21288053/microsoft-facial-recognition-police-law-enforcement-pledge-regulation"
+  - title: "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police"
+    excerpt: "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design."
+    publishedDateTime: 2020-06-12T21:56:00Z
+    webUrl: "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
     type: article
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 81
+    quality: 80
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
-    excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
-    publishedDateTime: 2020-06-11T17:32:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/brad-enviro-630x418.jpg"
-        width: 630
-        height: 418
         isCached: true
   - title: "Activists want to ban police from using facial recognition — Amazon and Microsoft just opened the door"
     excerpt: "While facial recognition technology has yet to gain much traction in law enforcement, activists want to make sure it's permanently banned."
@@ -283,32 +203,21 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft won’t sell facial recognition technology to police"
-    excerpt: "Microsoft announced it would not sell its facial recognition surveillance software to law enforcement, joining other tech companies like IBM and Amazon."
-    publishedDateTime: 2020-06-11T18:51:00Z
-    webUrl: "https://www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/"
-    ampWebUrl: "https://www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/microsoft-wont-sell-facial-recognition-technology-to-police/?amp"
+  - title: "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever"
+    excerpt: "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks."
+    publishedDateTime: 2020-06-15T18:09:00Z
+    webUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html"
+    ampWebUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "Microsoft says it won't sell facial recognition software to police until there's a national law 'grounded in human rights'"
-    excerpt: "Brad Smith, Microsoft's president, said on Thursday the company will not sell its facial recognition software for police use."
-    publishedDateTime: 2020-06-11T17:50:00Z
-    webUrl: "https://www.cnbc.com/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/microsoft-says-will-not-sell-facial-recognition-software-to-police.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: Slate
+      domain: slate.com
+    quality: 68
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106403418-1582310757005gettyimages-1181949870.jpeg?v=1582310827"
-        width: 594
-        height: 396
+      - url: "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0"
+        width: 780
+        height: 520
         isCached: true
   - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
     excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
@@ -323,22 +232,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/15/2842b2f6-c3b0-4fdd-885c-f1e8cb08b327/thumbnail/770x578/50aa2c845215ba215117a5354dc61ccc/amazon-puts-oneyear-moratorium-on-rekogn-5ee38ca9ec931b64287ec9ef-1-jun-15-2020-16-03-59-poster.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Microsoft reiterates it won't sell facial-recognition tech to police until federal regulation passed"
-    excerpt: "Microsoft President Brad Smith is continuing to champion regulation of facial-recognition tech, saying Microsoft has not sold such technology, to date, to U.S. law enforcement."
-    publishedDateTime: 2020-06-11T17:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-reiterates-it-wont-sell-facial-recognition-tech-to-police-until-federal-regulation-passed/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-reiterates-it-wont-sell-facial-recognition-tech-to-police-until-federal-regulation-passed/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-reiterates-it-wont-sell-facial-recognition-tech-to-police-until-federal-regulation-passed/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/91d3c4cf-1b3d-46d6-a005-6e9ee170d007/msfacialrecognitiontech.jpg"
-        width: 737
-        height: 494
         isCached: true
   - title: "George Floyd: Microsoft bars facial recognition sales to police"
     excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
@@ -383,6 +276,38 @@ related:
         width: 3381
         height: 2550
         isCached: true
+  - title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
+    excerpt: "IBM and Amazon have withdrawn their products, citing the software’s use in racial profiling"
+    publishedDateTime: 2020-06-13T15:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ebcf6ef9fcd40d37e487aa228b8eb9e2419afa7/0_232_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edc87d8e28beaa42bee0f8521c05b1b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
     excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
     publishedDateTime: 2020-06-11T20:31:00Z
@@ -398,6 +323,20 @@ related:
       - url: "https://content.jwplatform.com/thumbs/Mnx8rjTc-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "Portland council again postpones discussion on facial recognition tech"
+    excerpt: "Studies have shown the technology misidentifies people of color more often than white people, and other cities have banned or restricted use of the technology."
+    publishedDateTime: 2020-06-16T01:18:00Z
+    webUrl: "https://www.pressherald.com/2020/06/15/portland-council-again-postpones-discussion-on-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
         isCached: true
   - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
     excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
@@ -429,21 +368,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft says it won’t sell facial recognition software to police without new regulations"
-    excerpt: "Microsoft's CEO said the company won't sell facial recognition technology to police until there are regulations in place governing its use and will review other uses of facial recognition software."
-    publishedDateTime: 2020-06-11T18:43:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2020-06-11/microsoft-will-stop-selling-facial-recognition-software-to-police?_amp=true"
+  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way"
+    excerpt: "Never mind that none of these companies were major players in the police facial recognition market. (Microsoft admitted it has never sold the tech to U.S. police.) But civil right"
+    publishedDateTime: 2020-06-12T15:21:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 49
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 48
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/2ed60b7/2147483647/strip/true/crop/4090x2671+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F12%2F4a7b1d1667136b58ec594e6be9f9%2F4873522a665546ba9020de6e20373e7b"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WEX5RYVM2QI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
@@ -460,6 +399,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1521591905482/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Microsoft-wont-sell-facial-recognition-tech-to-police.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
+    excerpt: "Amazon has announced that it will put a one-year moratorium on the sale of facial recognition technology to police, but is it enough?"
+    publishedDateTime: 2020-06-11T19:19:00Z
+    webUrl: "https://tech.co/news/facial-recognition-delay-amazon-2020-06"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2020/06/11132406/amazon-hq-facial-rec.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Microsoft says it won't sell its facial recognition tech to police"
     excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
@@ -503,6 +456,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
+    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
+    publishedDateTime: 2020-06-16T01:11:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Now Microsoft is banning police from using its facial recognition tech, too"
     excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
     publishedDateTime: 2020-06-12T11:06:00Z
@@ -516,6 +480,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
+    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
+    publishedDateTime: 2020-06-15T13:51:00Z
+    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 16
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
+        width: 618
+        height: 412
         isCached: true
 
 secured: "SVH+HMIwfm0jo44VCe4UYQwjnANQ6Rksfby7LgXOF+rL7BSDHLrcOHtnlbsRHyf4GcVe6JGSPLIml1kBXf5KBUs6nuKcBgkLkL8cdkleXb73FBZO4QH+mSTNARr2SdmzBwRsrQw/aNqN0brn5IoOGvduMwyMAtsqjIav5rKXXA32V8sAEb9erhltjMtJTiBWvwjpazkpwCpv/cpD+uhnvzcKVRk7+QYUPurlPptePnF+BK/veNL5631mbZbjsOtTb4l5Um1w42Z5G1aYbneLcPyD+bYwp3e9bPB/95KMXFGoVZGYkVa4MRPm6E1+saGWaBLZttSFC2/1MuV9RidK+lwWUkn3kgLWy4+SNNfAXSlZT58LxG0HpythR6gx0uj2GqPK7lFReW22Fv92g7TuiBOMwg6IZhR98U4AnjATpU06bSvDwC54ZsAG7TGGGkNYFl5rZPXNdb0LJFvxpSGueQ9OkRG7ugZEb8SuU/zrVqZ/yShFNw5BveG3R5BiY0eqyx5Qch9fnFzIRFQLgNORJQ==;VOha8Shw48JXpGmyzvnmVQ=="

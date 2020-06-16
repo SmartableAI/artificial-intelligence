@@ -26,22 +26,33 @@ images:
     title: "India becomes founding member of Global Partnership for Artificial Intelligence"
 
 related:
-  - title: "India joins global partnership on Artificial Intelligence as founding member"
-    excerpt: "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay)."
-    publishedDateTime: 2020-06-15T14:07:00Z
-    webUrl: "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html"
-    ampWebUrl: "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp"
+  - title: "Nations form global AI task force"
+    excerpt: "In a joint statement, members of the Global Partnership on AI said it aimed to “bridge the gap” between theory and practice, and foster “responsible and human-centric” development of the technology, rooted in human rights,"
+    publishedDateTime: 2020-06-16T10:32:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/amp/"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 56
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/AI-robot-handshake-650.png"
+        width: 650
+        height: 400
         isCached: true
+  - title: "India joins global alliance GPAI to support human-centric development and use of artificial intelligence"
+    excerpt: "The Global Partnership on Artificial Intelligence (GPAI) has been founded to ensure responsible and human-centric development and use of AI"
+    publishedDateTime: 2020-06-15T15:23:00Z
+    webUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 37
   - title: "India joins Global Partnership on Artificial Intelligence as founding member"
     excerpt: "By joining GPAI as a founding member, India will actively participate in the global development of Artificial Intelligence"
     publishedDateTime: 2020-06-16T07:38:00Z

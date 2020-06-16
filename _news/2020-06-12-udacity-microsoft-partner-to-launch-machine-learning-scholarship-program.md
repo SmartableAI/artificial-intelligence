@@ -36,20 +36,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Udacity, Microsoft announce Machine Learning Scholarship Program"
-    excerpt: "Udacity and Microsoft announce new training collaboration, starting with a Machine Learning Scholarship Program for Microsoft Azure."
-    publishedDateTime: 2020-06-11T18:52:00Z
-    webUrl: "https://microsoftcaregh.com/2020/06/11/udacity-microsoft-announce-machine-learning-scholarship-program/"
-    type: article
-    provider:
-      name: microsoftcaregh.com
-      domain: microsoftcaregh.com
-    quality: 56
-    images:
-      - url: "https://microsoftcaregh.com/wp-content/uploads/2020/06/Udacity-Microsoft-Machine-Learning-Scholarship-Program-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Microsoft and Udacity Partner to Launch Machine Learning Scholarship Program"
     excerpt: "Microsoft and Udacity will offer a scholarship for the new Machine Learning Nanodegree program in Microsoft Azure to top 300 performers"
     publishedDateTime: 2020-06-12T05:15:00Z

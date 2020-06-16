@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
-    excerpt: "Amazon has announced that it will put a one-year moratorium on the sale of facial recognition technology to police, but is it enough?"
-    publishedDateTime: 2020-06-11T19:19:00Z
-    webUrl: "https://tech.co/news/facial-recognition-delay-amazon-2020-06"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2020/06/11132406/amazon-hq-facial-rec.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "n/4JEjR2fCOHBdNAMLdsLoDBL5jSegabncLkMXFhNoqgl+b2g4IaqXzWEJhHgeJtt2EJ1GffIL0CCV0aoqBognHgJSN2UPZVC/o9EjurZzl2Uw0O8Tcmh89dpeTIDIXSo9QSWURpAPenKHnAOlnOcH+zKY+btEmAqYO7Jz3AJPNfUb/7/5AXmq6QiySGytJSx+nz9ynTkfxg2ivcwM7Ahe1K+VRlJ4UBUw5Whp1Q/wKQ1/Z0bmILHXrTdkH77vKn1TFk5mjowga/YiXGnb11nvTkya2GwY3hkIjfcf6cmN20LVUtt352+YgvY+YJdxByAUf5PIR2D7250pEYC5j/PltiSEpAkePNolw7hHpJMtZ25TZaD099tf3ogKZtfn0FYYcgbgGsdnJ4Prketxqmqt/6BGsWN1UOeaqyhP85uttUEYPkl1HW7Gj15c95coG3YjUrMsszRhjVv8C1WSDsOlg0SylaRblTaqO7ZuNOk7n0bpryZFE2xa9baYWQNj+n;6mR5ETxVY40N9dNRyzAYlA=="
 ---

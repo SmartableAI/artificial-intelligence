@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T09:40:00Z
 webUrl: "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2020/06/20200615_145633_155.jpg"
         width: 1024
         height: 436
+        isCached: true
+  - title: "Huami unveils its next generation wearables chip, the Huangshan 2"
+    excerpt: "Huami has officially unveiled its next generation of wearables chip, the Huangshan 2. This features the BioTracker™ 2 and a series of AI algorithm upgrades."
+    publishedDateTime: 2020-06-16T10:16:00Z
+    webUrl: "https://gadgetsandwearables.com/2020/06/16/huangshan-2/"
+    type: article
+    provider:
+      name: gadgetsandwearables.com
+      domain: gadgetsandwearables.com
+    quality: 39
+    images:
+      - url: "https://gadgetsandwearables.com/wp-content/uploads/2020/06/huami-unveils-its-next-generation-wearables-chip-the-huangshan-2-2.jpg"
+        width: 800
+        height: 445
         isCached: true
 
 secured: "gCCYQIi37FqkTF4/mhIOD+ur13QNhik2wD3z/dfZTA//uGZ6VWibW1lPD2CQ5Z5dBmwmSSkOd9Ztb535lwG4wOXV8U/JWVzoRWVxjtvPP8rRC/4b60fODJPU5WfyXStUabwVTw4y9bo48G0sk1FYCqzPZziyzRmz85L2aaUodPjyrvxvuS9wbtLGJITdu1Fnl8Sew6sn9wH+qyU/A+e4wvGdk0foUCSdzH8ZD+KLYgUZGuQ+0KPZ8ffAAP5RodIhVaJtYjZXkAvadBUqoRh5ia2wI/PSETzHFcMAsLxizK0QsSN/tfH09y1Of+FiMQuKcBAMHlNhEnkUOwxU4FSwHYA2bCYlaZeVO5MJ7M8C/uryVG6GT50HvK/MPerWPficiqF+2qoV2HNOCBy8KGO8eAWPNR89VLKgRbF4UPPWGxtLiUmihJmilrv7bfxD+A9WlT8YulOnAg6zamXhvC5iQOIQ3BJn5dvSNHTrPA9+jRieMs/M/o+EPghT2sp139FdFaddlvKd8SumncFzIKlssg==;FuS4d8WZODFWM7g5N7CWcg=="

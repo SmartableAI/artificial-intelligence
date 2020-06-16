@@ -32,6 +32,20 @@ related:
         width: 1500
         height: 785
         isCached: true
+  - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
+    excerpt: "SAS' AI and analytics more tightly integrate with Microsoft Azure; Microsoft to bring cloud-based SAS industry solutions to its customers"
+    publishedDateTime: 2020-06-16T10:01:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/SAS_and_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-ZAWYA20200616093015/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
     excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work."
     publishedDateTime: 2020-06-11T20:03:00Z

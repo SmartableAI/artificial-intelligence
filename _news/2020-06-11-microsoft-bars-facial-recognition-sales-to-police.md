@@ -141,6 +141,22 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "PwC readies facial recognition to monitor traders at home"
+    excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
+    publishedDateTime: 2020-06-16T10:24:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
     publishedDateTime: 2020-06-15T22:36:00Z

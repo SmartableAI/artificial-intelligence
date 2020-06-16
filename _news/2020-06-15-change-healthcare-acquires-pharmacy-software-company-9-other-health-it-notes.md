@@ -24,17 +24,6 @@ images:
     isCached: true
     title: "Change Healthcare acquires pharmacy software company, 9 other health IT notes"
 
-related:
-  - title: "Orange Healthcare participates in Covid-19 research project"
-    excerpt: "Orange Healthcare, part of Orange Business Services, will collaborate in a research project that will test how artificial intelligence can work alongside 3D imaging software to help doctors detect Covid-19 in patients' lungs."
-    publishedDateTime: 2020-06-16T07:55:00Z
-    webUrl: "https://www.telecompaper.com/news/orange-healthcare-participates-in-covid-19-research-project--1342597"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-
 secured: "1hW1U0iFJLAqnRzYxQZRsNuAX44LchaghvMe6NZI05bOKnHXjoqRztgnLjMeiC4n/cajAXKOJO/sQ/cWzJY63irDAg+3hPdc0eRic5IrkylCBIdWLCv6OcyXHKx49DnDm8auaRPv/67MfFBuwo/AM1vZc6eC5Y6P3iawsLPSOePEX+EisqBd1mv9qUT+syo7NGxnQJVLYKQdevy8jX0xKXHj0vclE/6GYvIORbSuL3wItU1Hs8kpQ1xV39gTVB/qiQblruQSdxq6XA2eVwotTGFh8AtAFnX6E3xyVat66b7GM/01G6LnOa3D8UXGLZzlwUL6flOn3hzXwC+RN8HADQ==;Bl+N5T0ofr0d1HV4Np2Y3g=="
 ---
 

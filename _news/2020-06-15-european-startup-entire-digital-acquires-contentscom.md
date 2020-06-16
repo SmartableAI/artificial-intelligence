@@ -1,11 +1,11 @@
 ---
 category: news
 title: "European Startup Entire Digital Acquires Contents.com"
-excerpt: "Breaking the American market with the acquisition of Contents.com is another big score for the tech company. Through this operation, managed by Dave"
+excerpt: "Entire Digital, the fastest-growing media tech player in Europe thanks to its proprietary technology for media outlets and products in SaaS, has"
 publishedDateTime: 2020-06-15T17:23:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/european-startup-entire-digital-acquires-contents-com-1029309535"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/european-startup-entire-digital-acquires-contents-com-1029309535"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/european-startup-entire-digital-acquires-contents-com-1029309535"
+webUrl: "https://markets.businessinsider.com/news/stocks/european-startup-entire-digital-acquires-contents-com-1029309802"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/european-startup-entire-digital-acquires-contents-com-1029309802"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/european-startup-entire-digital-acquires-contents-com-1029309802"
 type: article
 quality: 52
 heat: 52
@@ -22,6 +22,6 @@ provider:
 topics:
   - AI
 
-secured: "/MWunMAkieeHvbZK4o+XoWgzvCygk6HuhaXMn90tcldEu6/w40i93oYqV96RxOH03lBNjgDJIVjar6gF2qJM2Kvk8P4Og0FTnO79HHRDv3Heh2do1f9nuvg0+LKpv+J4a+3oJuDWjDJmsuN6LezOmkSioLKhcQ3HxLUtUDakzA+6xCuhDjGdEsZ2q1+8/f8Rsscg/4y4N6DvrrTGiUD+TNxXgR0QeR7BzylEAoG+Ebum2bPzP6B27/GekyXUVcbEMf7WkQqaNh1wGOJ3zeg0XpJ5OeeJktijnKiXg/xDXufgvyP6upWExe8yfijivCAfPjkIyjorCo6NuxO9kKWIlw==;ln29/Z06VnYj8bjxAHeleA=="
+secured: "f9DIq9zfbM6MNs8ujJ2CnMe5etPOqjw1aWsexeLasFDhce9o0TKnt9fZhHwehblcPLHNMnjvi8Vt1D6rkVN/kRHwp2VlyQvm1iInUrUQ7Z7x3fAFcTKh5m0kby6nP7sJ0DTfHLNs+7Learlo9yWTrCuAMILNtg4ebkaxd6Vh5lVPFAugIri+LDlnz3wvTomJ7rUFXdwgVggMKiCkS7Ot0RrywVXwGIFhSVdNQyqx+h+eyhateDdzi8C1URnWqTCrHZFFbNQJJwmPZ2aeN55kiHZTpQ8LRwizqfTTF8f9D1uRGHMkpA4HitzfBvvQJcYaLXueYXbydLAXJtefVMFtXw==;7G85IT4Uj8jUHciHQI/KOg=="
 ---
 
