@@ -35,15 +35,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Upstart"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "4VBI0XKfZlK0uOJnl2EA+DTwXW9GDaF0X3uxcf1fhCBHXzBqEjNYFElpwGloznUBFOYq3pnGAfghsatTxkG/iimOTDD+hGGr4SMLBwg3JUATwTgu5glOmDsJwZO8CYfD7d2366SEXM1QNA1c+pAuhKqiOMNJJhtxlkCXfVFJeDxOF7HO67/G/tFxoae5ggSKmxYGjR/0OD/9FSxcCCOSidEuotyQVk9VBalvvT1YKiQwu1+6Oa2qyvIRB/AteEhvTcA5NFYv2CqLujC2nboaazkPRsLtTrnUtsr+YPaejw2O0ht6tyzb6A7iahEtIwceSPwIKwR8cZDvAATB7tLiFfLFi/7sVoXFFMYAznATFn4=;jIV6eagmbQ92CjOCTJ0EVw=="
 ---

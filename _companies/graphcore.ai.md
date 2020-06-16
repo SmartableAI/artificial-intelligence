@@ -35,15 +35,15 @@ tags:
   - Europe
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Graphcore"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Gh-Tff7DdzU"

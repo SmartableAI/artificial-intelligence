@@ -34,15 +34,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_200_200/0?e=1594857600&v=beta&t=iBpJAM7fr1JSHWA_glLCxjgCHhD3YqXB83j9QicCdOs"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1272782562302160896/TFvmumFT_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Noodle.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_200_200/0?e=1594857600&v=beta&t=iBpJAM7fr1JSHWA_glLCxjgCHhD3YqXB83j9QicCdOs"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "CKf+wKsOAXIl/+iXlOjEtxYjpAipgJl4MAmMAQ4Uy75qiaJueeUclt/jd9etx0F1RaA6GZnzC9fYsKxxcAazTQZkvym927BvvwNT2HqMAh3AhiLfCWGB6w2GgPJ99/AzaNEskqj5pDNaC4LVVhGeuAEa8+pxe/gLVHyQvR4oC6wY4W4dMuRYbPNcTiFCa62sJGB6eMvOeNkI2HJk8Epoq+MBmkylqBc4ZZCyHo7pRpBVakxskJimYSniitHpuR+cefeSkBzhO88PRfk/iJeIKWmS7aNwmCeH1D45lmEB/gTHRLCcuiTO6PihyU+AxOx3TNYq2JnCwQg9t+RXiwCB+6ngKDLr8EclUeDZZBprA3Y=;6eX5j69uxUVblbQV1qd/mQ=="
 ---

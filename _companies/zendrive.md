@@ -32,15 +32,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Zendrive"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "Jx5kgNh5cUx0EAkQTOhQm8nt+Or1jXIuFmXOdz8CC5BZE/HOsUWT0tkXKQFrATROl9m1oRCx+zlmgysrYm65qslqSeoFaXZVfYEoWqPqq9FsDQgG7E3yvbmvKtWI97bCLe4C9lLFtXmZzN8I5Hwq8tjo5OUFkjEcOCS+KiR0QSPSsh36QukPFQOXvLX/LCo/WBD07k/VqdSYOlpjOrbt6mrPrKekS/Z2UnHtSOeN9P5qo+1giavpbJT5Nohuim0/edBTvWp4FprqtoYzVMdoivpy+1z/X/ylb8fQqN+c7Nl4FlkXGUvmz9GrIui5R0y+WWiTkZzRdVclB3Gpw178WZQf1JQIN9Bkgbz0sXyeYmc=;JgpwYZScxV/I/mA+fDDxIw=="
 ---

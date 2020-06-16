@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQH2IrRbnYGE9Q/company-logo_200_200/0?e=1594857600&v=beta&t=_AOUBHvB83m3DnQ4sjUKF3s26fFbWJF3ORo8TLhL78A"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/998741520852205568/d8fjQqUY_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "OWKIN"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQH2IrRbnYGE9Q/company-logo_200_200/0?e=1594857600&v=beta&t=_AOUBHvB83m3DnQ4sjUKF3s26fFbWJF3ORo8TLhL78A"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=JSdUHfUR5gg"

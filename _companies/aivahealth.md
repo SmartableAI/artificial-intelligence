@@ -29,15 +29,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_200_200/0?e=1594857600&v=beta&t=wm6cxtNr6U--ltfpzs1hf4mMDOemV61jxVvMsNhJBxM"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Aiva Health"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_200_200/0?e=1594857600&v=beta&t=wm6cxtNr6U--ltfpzs1hf4mMDOemV61jxVvMsNhJBxM"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=WrteXpQ5n7Q"

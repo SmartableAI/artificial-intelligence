@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1594857600&v=beta&t=Or-YUZmwdDZCtBS9Z6ZsTOSzGxZ5ExEma_OUAiWXH7w"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1162027396402429952/1CToA0QN_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Buoy Health"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1594857600&v=beta&t=Or-YUZmwdDZCtBS9Z6ZsTOSzGxZ5ExEma_OUAiWXH7w"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "twMRux9ijzFsf0INXkXYqfWkLr6UmKCt1l1C6po5V18zBg7h9qhN9iat4RzBdMENL97QKIZDySXsjAkuXdRx11GMAuF3FFHsR2pbSPVfjEPXr+xAEaJ+iWu3N7VDk67nPxvBuYw9BTIDLSuAoNGkEo2mVRwt7zzIGcAt21Dj6bfGNNQF2Suz8liEzdi/CW0wmfi/Dwpx7L230bbRpj2HVUjfoZXS+ISdpXVSounjkxJJh+s9731w+qejQqqhcv3BSBiFp+YpNfDokwfHnFfkuIKMUc+Lteu/BbFIpwbQnQBbyc/nHodf5SXL/VB7ANlH3+G08Nws3Mg1PKBSlcQKFIHvVIz0CzXHvlvcurRxZgk=;szmFYM7cOSBWPGkEITTV6w=="
 ---

@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Arterys"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"

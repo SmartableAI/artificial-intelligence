@@ -31,15 +31,15 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1118745947641499648/mh546Zqg_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Liulishuo"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=GF8KvuIJUvg"

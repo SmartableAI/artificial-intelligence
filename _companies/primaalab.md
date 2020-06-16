@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Primaa"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=3CQMfhc6Atc"

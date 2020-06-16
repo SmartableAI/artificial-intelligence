@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_200_200/0?e=1594857600&v=beta&t=DCbyYI-O85XqebLvlYBgmV1Scsu0zoJr6HKb5WeF3e0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1267443836533571584/DHDSs42s_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Pymetrics"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_200_200/0?e=1594857600&v=beta&t=DCbyYI-O85XqebLvlYBgmV1Scsu0zoJr6HKb5WeF3e0"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "VYGUYXh3b+iwckWuuNZq7moEg/or3X8uj1T+7yqhGHylgPHp7PKDScQ1T82IqOYtzfbZWdlo7RTMMjVLdxmr0YzA3jOBGfP5t/owUgBOc3PouGmNMMo0E9yTbvVvu5MvkPIcBFslMTvptdTCIYL6rQrN+OiOUMaHYuuRI+Sjl1hZ7LhNd7ZfljzaSGYKs2jyFFjv4G5czNRdaL96Nw3FjvujcNqlB7v1RITsIZRx0JUtRaXiMdwJIhUsC6AtP0l0oLGSlU58wSDbKvPyebX2iV7WffDjSyv3HyMHsdCb4HxiiKlyAkrU07D2nXdKmpcOXp7x6pQIiH8Khr8WTHH31uqZOoOXPXp9nv2ADw8jpyI=;igQWrffiXTYvpapIJ6plQQ=="
 ---

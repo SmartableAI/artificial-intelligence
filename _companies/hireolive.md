@@ -35,15 +35,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHYALbKXKAw2A/company-logo_200_200/0?e=1594857600&v=beta&t=idXRJ3xfn8wsiEkYr1-B9-00-MQARTWTto6bjrvMJGs"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1149348634674286598/Ytc2ypMO_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Olive"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHYALbKXKAw2A/company-logo_200_200/0?e=1594857600&v=beta&t=idXRJ3xfn8wsiEkYr1-B9-00-MQARTWTto6bjrvMJGs"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=mYaqdIwAE24"

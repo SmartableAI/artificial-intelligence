@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Freenome"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=TrEnNA_kZBI"

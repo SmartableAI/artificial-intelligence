@@ -31,15 +31,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Bossa Nova Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"

@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Clarify Health Solutions"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=j4LXE1HWZBk"

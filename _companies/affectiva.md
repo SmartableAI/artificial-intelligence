@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/832329160513175556/QgC17kiC_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Affectiva"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "Bp5foJ7ihvw7P0x7r2Y55UOIyePrNgKJSs9ihR/OuPZJJs+SKB3Nr1FZdjB5zE5W3E+yVPsZgl/lUBfG5E5g1Wep7Z3VVRRWqMLpG+fWnRVt8aufDZTVDiMHHZuSq0jyWabIvKk9IyqKzNvnkBpxDBbHTqI4cVSY1HS8nHb6mSVo6Mei9E0HIZE5+XbExVTlagoO1fEO12ZBfodXwBYyyVjt2kkkNktWl3yG+kIEZ9Tvvwm4Nd227yBtYdf1oXzpmevr24ygyDRQWys2x+WVEQb69VsVD61ujTXIZrp7Ab+Z++RwVr0St2lz8TJQD9owiBpjMLFJrRp9EA01gLVgDwewxFtw8aRytMPwJm8RPlQ=;4ADCOJMxn91my+hBxvLpgw=="
 ---

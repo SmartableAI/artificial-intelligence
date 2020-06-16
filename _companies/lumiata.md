@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1258149706590334977/SYwr_9wT_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Lumiata"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"

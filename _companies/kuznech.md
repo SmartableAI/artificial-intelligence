@@ -37,15 +37,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1594857600&v=beta&t=HJGSbtHkQ96lltHaq5UQmJjmIj74dzicBz5Ra8ozpp8"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/824482111969112064/Za5Xl1kn_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Kuznech"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1594857600&v=beta&t=HJGSbtHkQ96lltHaq5UQmJjmIj74dzicBz5Ra8ozpp8"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "BOx2RWEIbDfUcppd8wOSgSsdpOk7pFY1enf61IvNqtIG2gauA64PZdU2Zkf3U/R1KDPYcISf/VHHApDN4otE7PMQQzS2bfc7Mfho5i729NcPvZBcMajsjg6ZaLlcHKph5VfxPqhF3H/QcDZdpSkE340BIj6HAhv+tbuUjANB+4MSqw5Z9MarxbBt09++PzMgo0igrpSnUQXEquuQgkWQJyT1/FyOe5nDuoGxXDC/swLDrxxJYFTI7vgcSYil+YLIGDABd8PepQjci25OuW+TR9UFWSGfM4rKn0pXTG2d0ccL8lEzI+FbhvHT53PzarexJDQs56gYGGWbJAoNw1d/Vg==;UtgGbWOE42m/Ll6jc4sdKA=="
 ---

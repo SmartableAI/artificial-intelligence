@@ -28,15 +28,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Foodvisor"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"

@@ -33,15 +33,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "MaxQ AI"
+  - url: "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=KlK9C4s1lvo"

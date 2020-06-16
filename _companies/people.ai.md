@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "people.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "kYLxv3zqibMsoS1IjsNp/lTt3YpNyiZ6Y44vU1Twk042kM9brWEx21tSDfY7OQoJITF2U1GgJHbY5516nL0UJ4h6UqOcjOw0FXWhg4xobJ4J9wu4QV8I6XvWek8Bsw9ZR0FJZ499Sijns6IRUqI8h1lFndpd6qUCRGeJq+e9JB1adWTzZSHZ855kot7m8oWEcq7/UemHokEPzVottzhbTGPYcuFSBALQ9jvgAhZKIu00P9PMUvAbv2JhjpSKFU37RNm9A+QQPBFnRJykuTbGTH4KTbC1aMUh4TfeRZ9MxjI4bMcXadFQUYYdWitimi3CFwchtanvN4kT6i2Uqikt2g8usbZEqzB2961Mkavz6Mk=;RtI5PRCD1hzbhNiMi19fLg=="
 ---

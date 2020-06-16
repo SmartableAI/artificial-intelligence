@@ -28,15 +28,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQEtdKYXzmM1EA/company-logo_200_200/0?e=1594857600&v=beta&t=_H7aBQ_z_52Pinv3V59Kh8r1AgH4eGTRQ_yIp5D9Ygo"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1267818992774680579/qhZXbTIZ_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "BenevolentAI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQEtdKYXzmM1EA/company-logo_200_200/0?e=1594857600&v=beta&t=_H7aBQ_z_52Pinv3V59Kh8r1AgH4eGTRQ_yIp5D9Ygo"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=qtkZt5u1XE8"

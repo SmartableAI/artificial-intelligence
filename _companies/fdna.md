@@ -31,15 +31,15 @@ tags:
   - Cancer
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/824667244517023745/87O_qaK7_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "FDNA"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=qUDQnRMJOcw"

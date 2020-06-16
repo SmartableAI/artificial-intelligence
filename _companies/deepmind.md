@@ -33,15 +33,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "DeepMind"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=SUbqykXVx0A"

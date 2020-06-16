@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/972120873456095233/2a1jM0Km_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Lifebit"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=aycHy_axa_Q"

@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Lemonade"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "UedzakR/siMsph8XSxbE3XMZRa64qJ/RlaS4nChFL9ehKJ6sWmIJCQvLC1SzfLaJXiBuO4S8SWTNBL80Euo0XZ/cdc08iHlyRmKhwq3GicE6QtgkYnrvhOcFhQYglhW3p9Te5vWh6icmdmNnN0oYrpXzWC75Tma7xY0Ame9zfK69IUwcqeGerjoeVeC/TN8m9i00zz/kfbVkS9sXmd8wAIm5lcDnvr7HyGBCblFzjJb6j/pgARq+QiqjnLOYIwld6i8OjwxA9b4k6tmWpvdHkr2T70s+L/fSz/xRhTS7f/7kxVQ70cq1nUYSrN0jpae7xXDiMsiAzY9I004MOgDjUBr0WIY/TcumAPdyr5A+JoM=;fSmD/vXKPvt2mmL+OjP2Fw=="
 ---

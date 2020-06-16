@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Recursion Pharmaceuticals"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"

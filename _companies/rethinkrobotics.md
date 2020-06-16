@@ -31,15 +31,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Rethink Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=DSy-NXSldz0"

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deeplearningai_"
   url: "https://twitter.com/deeplearningai_"
-  followers: 35441
+  followers: 35444
 
 size: 11-50 employees
 yearFounded: 2017
@@ -30,15 +30,15 @@ topics:
   - Deep Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHvGHvTVICP6Q/company-logo_200_200/0?e=1594857600&v=beta&t=9XzVDVHsvwU6qGP97OmSBu2bdCWCd3ElFYnl_i60emY"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "deeplearning.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHvGHvTVICP6Q/company-logo_200_200/0?e=1594857600&v=beta&t=9XzVDVHsvwU6qGP97OmSBu2bdCWCd3ElFYnl_i60emY"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "DpYzxWENbqoKLkAPIrvXHiI3tajdP96DlKQQH0afzB97CxLqhrfGuFDeUQc+j99KjaVJIKHxdjFeX746NzNGIH2AWI8SspAjlWZ1cs7MI2L1GwQ3VPgTqdpkziRE25fq0b4DgUedhBN9ZVb875cNnoSA3+7gO5XIb1NdeB6V+KGO7qUI1h+cMpaJWE2etz7abCJipNQUHy/4RP8JpY9htR0TQkMf9d5l/jW6coRn1zXrMwy2Uekz3KBnkEynfGbyRPe7gHMmqxJkOa2Y4GNtdK+H00J9z0V3XtI7aMlzGpcvB/HDC0xPWJRxTL3Gl5On1HykkCM04fP9CPB/TubrxtMIbUSYUPffCs1hLulcY2E=;+tEI2FrGK1KUMonTUQyoAQ=="
 ---

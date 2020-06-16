@@ -31,15 +31,15 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/966082055087054850/FztvMVNc_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Prophesee"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=L7DsXXUyRis"

@@ -34,15 +34,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Kindred AI"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=kjKPL53Tgw8"

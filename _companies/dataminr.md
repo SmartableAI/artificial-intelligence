@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1269948571429806091/w-vOKq7o_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Dataminr"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "dBM7mU5CK8Lf35LApCVGuvyOsTRHXlVeFtcDe74kU/EgOyZTO3LJqkFrY3xyr7aq+pDZTIcWS1sFUXSV07RNT91F4P/ZYDMOhmw4wqZ3Qn8kctElvDBJ55kPUAbT8AMtouworHC4CP96sKcjUwChNSmfLGxGORojwsdbuOkV6uuEeeOr5YYtB1/Nlt5XuoFuIQU3RqEuMdwX14S0OsAH6im2jvqUBhKP+2Kd0aTY/0qYXLW9uZ3+l0Hw18T4ziwmlsoOOXRbk4xL80yO0OLhmBVIkD7HVA7qYK0ZBnrd819SYlbMguV+1tAASe5v9OJJXQQTpQ2/kbQgvSRt6K6m+Hh0XLwBPkr/RoUg5anCa44=;XNxfYr2ZONk8pq2vwf9ESQ=="
 ---

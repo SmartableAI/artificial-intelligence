@@ -33,15 +33,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1594857600&v=beta&t=4QibS8tNUJadb3fhRviDqj8MlZMxXO17PKnIg-Fmte8"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1154066113317285889/IFoETg00_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Tempus"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1594857600&v=beta&t=4QibS8tNUJadb3fhRviDqj8MlZMxXO17PKnIg-Fmte8"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Vq12pj50s0w"

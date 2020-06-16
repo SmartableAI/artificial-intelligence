@@ -29,15 +29,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1594857600&v=beta&t=_UW_wK1qFOVieLjIDNCcSSlAfpopXdm5rltlfFxaexc"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/930816202573864961/H8DMBFyW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Cyclica"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1594857600&v=beta&t=_UW_wK1qFOVieLjIDNCcSSlAfpopXdm5rltlfFxaexc"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"

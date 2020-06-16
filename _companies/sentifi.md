@@ -35,15 +35,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Sentifi"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "D4So/p3wyoC1xbCBBz4bk/BZe5jmeuOJ1/dh0DmykNkMOZtMUyU/ZHSioTSWk4hBuqbyZcZREp8AevCsblYldU6WKI+/ho0YV+E9dM+1OrQ4o4fmjmUXD/aOnZQ2FK7AkbgeZ9sg6R0T78hRN6HTQbEdY3pjhXnnMET7FpgQ7ZcH087HXR+bGONvvGaIHdP56qyRsYflK3vBzRKn35Pp4aHAhfhGfbdLh6ihmQ/EEMU3O4Z4jyqrWw2i0shUIeCsc70wSsbKK/ZoQMNEIIBU+ojL8oCXVronMOwE/ES2NC8oKrFShofWfgCbxAK/nBnl6ZfeSEeLkdKblVnijXuP6YogNs4uUE+5t4Lf8tVfSvA=;G6csPQHIOzfFBYUflwI7QA=="
 ---

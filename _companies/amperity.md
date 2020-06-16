@@ -32,15 +32,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Kaskada"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "FwCoSVIX3qUfMHKCZD5tZOOI5rH+I0C6X9sgr8gQ5W0JtaF3EKcaOiCLqO6FrDiGba70BMq51P/87i0BNWNhooyiCNvQXtsyiPHKOXVavOZDyvovZmU9VwmEWdu3GL5B2Xs7sy3/ydHsla4wlAxyooV262eDef7tmdVh/16ddoX3+E4fbsQDkhp9JowbSCpbaD/7F+K4GTxIGUV7doVEExsXpo3RNn765jZY72uHm8Mmzru3PPYnlWY+w6i3PPmhQcO4AYYOij85qncz/BthpA8zy5gvep77OVLsIk7CC/NDElgnE7feLI8Vk33GWPUzefVBwgdE/IxRWOLKOguJWnLMW9IlR7leqzWic3QQzYY=;fX36Uj5UeVgfZNfmZH5cmw=="
 ---

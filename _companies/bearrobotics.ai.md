@@ -32,15 +32,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEqIRy7gZEHVA/company-logo_200_200/0?e=1594857600&v=beta&t=gc5j8qDA8DGV94-t17sqbaVbgVp7t6UPBxwRxmvMCko"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/942149277484118016/OcdAYMGN_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Bear Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEqIRy7gZEHVA/company-logo_200_200/0?e=1594857600&v=beta&t=gc5j8qDA8DGV94-t17sqbaVbgVp7t6UPBxwRxmvMCko"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Dojvmqx49fw"

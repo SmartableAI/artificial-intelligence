@@ -33,15 +33,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1262823251643977730/41pmXE41_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Biofourmis"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"

@@ -35,6 +35,11 @@ topics:
   - Computer Vision
 
 images:
+  - url: "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Scale"
   - url: "https://scale.com/static/global/facebook-card.png"
     width: 1200
     height: 630
@@ -43,11 +48,6 @@ images:
     width: 400
     height: 400
     title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg"
-    width: 400
-    height: 400
-    isCached: true
-    title: "Scale"
 
 secured: "VVXiZFpcaayX+zICRapmcBDGnSScqwSE9xebQMG+JIhKocZn51UMSAIRrE8vlr4ursArfPA3cnCkRe/hu/1zCI+F/xspFoIdzlOF1XT+sXAOPSL8qvIOuFmV28y0I8kNAidFhJwYwbzMix3xHojRhnnsUUsScIM/yK/uWhBB6MQMEkN+ZaJp4vB5DiM38pUszC+iRO2Wq0LUwzDpyihMNJfC3fyIS8ia+0RCjK1NG3e2oe+Xb+7gsqYeUn7ptbRXJK5LgNTEUryyiPzera9rWlcP1KdYFHKFLuVktlMoORAKsPHz08O94zwfTJrP5V0HTbySczQ7wOVOR8FWGWq6PG/U+1wIxMfJjUDJW0rYz1U=;Gmf1/b4Cda+ODm8XcpH0FQ=="
 ---

@@ -37,15 +37,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1071069337610584065/dHSMZ2cb_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Cleo"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "nbtNDAV09fvDyuPrUtUs5iYpb9+YskDT8KI2ioktCFBtPgxLPh4madognOTDB9JUSIL018XvFlCox0yb89AGtSD8E3Y/LnhEkFRr+4Hghtw00B9JDnDQl10j75JuqaiPK3ucGGAIxU2pS+KkON4rCVDMjDvO+9E+7Wr7L3g/L7uSNi8w4e/9yqONY0MygeCMAW2NPlkBiQBa9YBUNvNg7iG7Xx5IMPGui1rru7InMGMoufWEWY+1jTGJ++RbzFejpdHzUFsaXLQZgYH3+A9QUNrtnyNkqJsmklkBT9ByzkXBx8qTbZdlh5pQQi8PJ4FoYoZcMqA5BCyegosAVp1eTx6/wUy8+JSm1rhyWEUDVqE=;s/hGT1UdI/+H4L7FU5CG6Q=="
 ---

@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Bot M.D."
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=zQLP9b9WHjU"

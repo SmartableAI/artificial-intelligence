@@ -34,15 +34,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaQsKaLhb0iw/company-logo_200_200/0?e=1594857600&v=beta&t=hXO1B3_N8qbQMkHYnWJ4en2VkqmAwWn9kejnNX2rDno"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1151221901752061952/Mi4dWv8T_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Cobalt Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaQsKaLhb0iw/company-logo_200_200/0?e=1594857600&v=beta&t=hXO1B3_N8qbQMkHYnWJ4en2VkqmAwWn9kejnNX2rDno"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=68rBm8bm9AA"

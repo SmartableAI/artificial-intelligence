@@ -34,15 +34,15 @@ tags:
   - Europe
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG2kAj4CCvS5A/company-logo_200_200/0?e=1594857600&v=beta&t=AF0-ztGIIlzApnWKkoR78UhVoZHN6M01jvYIDh6RF5Q"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1089857322736893957/W6iPQJ6S_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "ContentSquare"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG2kAj4CCvS5A/company-logo_200_200/0?e=1594857600&v=beta&t=AF0-ztGIIlzApnWKkoR78UhVoZHN6M01jvYIDh6RF5Q"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "dpALa1fuSlWohtgcTEYZn+UtcAQwyIwGQ9+Si74psej1MJKqXuJcW60WliXIX4VemB5ywuiJxWIDdCjO2v7O/MpT/SQcUc3L6+bqoRps/KwhJClizWKQLFFdfEjXLnBerkR0gsaGyaGyry9zXle4sNbpBQD6Fzs8kRZMLOHOvSjRhE4vYOrP/aj2PtYFPyJcjYWo0UwAyDjzoUopjxYtm5GbTTtH15w9aWeRK8vgf4RlpIqTgK+Pg0cbuOS/CATFEhuvL35GBsJP6qQp4bL+5vWKC4ZSNmNoYfmKwqj+aIEk3R9MN/F1iUNZIhSOMq+b0SYHSl7xSs/oLd1HIdcxidKPLzVSfBFe01qP7afKeGE=;+9bokAoW4YxmKL3aCElJbg=="
 ---

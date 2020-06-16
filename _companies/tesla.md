@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 5583063
+  followers: 5583079
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -33,15 +33,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFpB9xyi5w8IQ/company-logo_200_200/0?e=1594857600&v=beta&t=Oj-Sjz-EElHRTxrM7MPI1mE5A8YMb76WfHQZ0T7GgmA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Tesla"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFpB9xyi5w8IQ/company-logo_200_200/0?e=1594857600&v=beta&t=Oj-Sjz-EElHRTxrM7MPI1mE5A8YMb76WfHQZ0T7GgmA"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "AztRlRcv65DHt8VonlaiGrfcG0YeD/aph4k6a9ZQeHvCtvRNyXLDaEBJ9EPepoBf35TsmUsS1XhwYfUKYNinq8jRkH+HXhjWXaRb9TJ4it55PzPFogUN4wnZdCRbI0LKZx0xSMHehnjlGN9UN8sIn/EZ+WydII5lOfdVSq/xn/mrQdwpNh3sqf5FmjBpKuMbMCcbprJoMTzFZb1YIX3KgPVgPqqnLngH+Mi1Ov9E6Boi1SmjSirbDp99/p3jvc/J37gD2wMkDjoeiRFJDmeOe+EwbOoZmKvBDnEhOtFTeFKAOkiNri0jUDMhSmMFiDNSyznh6HOBM+QgTiUE1GmWJU5GUHIkkS9oXvJwVotwAes=;kRtAdQNyqmW7RlK51yMGDw=="
 ---

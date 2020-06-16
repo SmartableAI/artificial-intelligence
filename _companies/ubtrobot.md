@@ -32,15 +32,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "UBTech Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=gOpQlk8afzs"

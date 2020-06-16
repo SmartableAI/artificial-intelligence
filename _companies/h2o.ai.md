@@ -33,15 +33,15 @@ tags:
   - Open Source
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "H2O.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "ATcxW/Sd9+VsxCfI5kU6wFqOM2P07FqBw3XQYiL8cbiG3pyRYVW2XsiD+buKdAfJBIn6g+vqiqAaP9EQDauWXIZEGVBl8IaVgth/tflSchQ8SWk4aSuCvDwhqweYoxMbV0VZe8zOwTpAKxtnm+dV+VY14JGlVN/yJaEFppKAPy+Rn3p9M9b6YiWkyhwwxx9OQ+IbojsibjMNHk+TNvGlllqLnRL0SxGrLYsBsf28c2yeX7wTgXBC/mBTk/fbwvAoCwG4cwpaEsAvElnle4340NY0SWntf2IbSg1bJJDOQJPNJ9JMuiQJJ2zk8xkMP+y0tsaJt9JhtKrhNEQcwaVVoxVHnKvKjr+10fPXjGGDvTU=;4s4d6VDu15sHvn9qY4WnkA=="
 ---

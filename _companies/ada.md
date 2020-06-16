@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Ada Health"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"

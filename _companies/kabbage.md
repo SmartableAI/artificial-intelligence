@@ -31,15 +31,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Kabbage"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"

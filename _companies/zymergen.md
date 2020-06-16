@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/975742186871402496/9hiwI9SS_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Zymergen"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=658kvYgrJBE"

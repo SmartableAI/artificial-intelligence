@@ -31,15 +31,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1224328852773724161/IphWljSP_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Anki"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=ABFcdwfU3F0"

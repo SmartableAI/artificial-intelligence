@@ -31,15 +31,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "MOV.AI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=KF0y_gPMnGI"

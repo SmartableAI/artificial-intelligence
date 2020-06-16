@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1594857600&v=beta&t=QAxbj2FiDekS3sJOM3nLO0YH-CVMPmTShIHKMXiZmPc"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/732990695212883968/5jqQ8YCM_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Casetext"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1594857600&v=beta&t=QAxbj2FiDekS3sJOM3nLO0YH-CVMPmTShIHKMXiZmPc"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "tyhX8xI+ajPpQc25Ued5LXJFLULT8mfp1MLmkeLPbbRJH0jmQ1gHLDFlYz/FrKN3LUIRohnWBMRkL894uASlKMyTY1+BSK1OFGOMf2SIptRU0q+av5hFyX/fAP62f6aUjjMBjMtsv9LwIuoMOggG/tfKtf6Z6i3vp0of8g7duSWW2jYbIFlBKBpUZ40K1aJ7qKmaxSXM/NgH2p7pmtU8Qt6tvQCl9zSWGbzpPD0tzns881An3l9Exa1jeg+5H+dX2ymg04Sqg3/TOF3YSXr8EGOQ2ugj+4M+XBRMuYizjN0CmN35Tuf4E3t43LlSlFs8zCtxJUZPydY2RdSDSLLgPIMjNzGMEw2M1qGZeYuNO20=;vUzOEh9srNBwGnp5Su9Ccg=="
 ---

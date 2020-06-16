@@ -28,15 +28,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGO97yudv33Uw/company-logo_200_200/0?e=1594857600&v=beta&t=F1LjZMvpHjobO7wSLzuRyXFAiLMPdzdTWh8oncIVKmA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1215468656437497856/NtIW2QxI_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Matterport"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGO97yudv33Uw/company-logo_200_200/0?e=1594857600&v=beta&t=F1LjZMvpHjobO7wSLzuRyXFAiLMPdzdTWh8oncIVKmA"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "DYnR155W9SijmznUIfN237dZO88oPl9mfpsN1FIhkcW+wM9UQxMJDy1qcJEJAUn+Dtz7kSaP3ixpesES6TW0QMf4xvCPgF5yoHZOyZJFMBieyZuGZtL7z+eSz9WIWj9hNEOMgSH0TnqymSOxqarPT/Cz+6y0HFm1Tq4mfzveWuEC6pTB6wT7zmeccrngfOsdq0LvClE+ulAbT/lx2aqeHdnWdCXfItGst1dTxkJ5CuttbjUh3bjjhUMqA8humAEvWztvwSxbo1rkPKnGz1D7qxJcjZdLoXMGo9owMYrtbbZTdoeJ55seQ2sVGk8lXPh589eB8WgsZkiYY0f/VijOE52DdMTwmkpJsjiWxBlseSQ=;uy5x+YontzHxhEULTU/8Ow=="
 ---

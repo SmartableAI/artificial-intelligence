@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Infermedica"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=p8YcZnbiB2U"

@@ -36,15 +36,15 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1267574800148336641/9OGsod1E_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Zoox"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "WKuwNiDCLi1geczYvKmnvNbzySCPRbB8WC40wxboaUY5SaCh8TD/Vh6nYmMgoKUC+Eerxsj7znM0Q7tQDvn1mF/EL2OnpR3cQydM2zsYhVQEIRIq2yl6Vy+8YbJky3YDgxWaU9XZ99SqXLE4gNUwvYIv1jOL1hX5HWOUA7PQkubilfpYkPCIvhxdE/bRCXdr0H2xxSTB+WMnsv3dYVLIYv+/HrCtPKe4cZ6dWdNJd7+wsOGGrZdtU11voFcqD8DxPpL2cOCIEyA4hfcth7dpRY7Kwa+2qqMpZsEi0N92gbSMMZtsy8+RTgJn6w9Kfr48aTlRMrQcNu0UrirW9XRlQXYsm8vcpKu3oWAr1IVoZtE=;wZlk6mN+be1DRlt9xfrUdA=="
 ---

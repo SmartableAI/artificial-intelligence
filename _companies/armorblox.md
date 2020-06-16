@@ -34,15 +34,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Deep 6 AI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "fq/ApTNNaJpIfuh/Ds809FWmyi/jzg76coZvjZSqJzmfL4ZkdP3tbIJqfapC9BoG4vX1iWp7dS4aI/MntrstVJlF8X3rl98TURum0UJO8laSBMGJw6kEcRwPBMoGxFGmAE51aC/azKAdq9P6KDG4M5YgdMK7U47B57nJPDq7N/N/NteubT1IIfyojyurVtIsr08gE3sakULJ5dEKLMI8sQlXQs0Q2WYzv++IyqdNrU+uEd6J9YLwfN8zl4/EqQBnswpQDmTMBzYpgpx9rqqlhpGWF5aw0N9IYKECWZEq/26FemMkyweUPsbtUSjMqcdC9SRMlhxb9LCuFDL9pmxmYMPRZxsZtNUhOybZtSf56qE=;RTSaxYfT+v9N7LB1wdYNsQ=="
 ---

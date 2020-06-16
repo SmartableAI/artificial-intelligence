@@ -32,15 +32,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1594857600&v=beta&t=JGjsPdJDF7CSRJmboiLh_q3mExe-_Necttkv6XUr4cw"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1052979606842617856/uteimk9-_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Bright Machines"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1594857600&v=beta&t=JGjsPdJDF7CSRJmboiLh_q3mExe-_Necttkv6XUr4cw"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=sU4h4V4pDi4"

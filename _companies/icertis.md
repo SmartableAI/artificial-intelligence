@@ -30,15 +30,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE-546asH0PBA/company-logo_200_200/0?e=1594857600&v=beta&t=HpmBUK5-y2SgOxtgnhy2SHuftYcd5t2NEUFXuBJ4fAQ"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Icertis"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE-546asH0PBA/company-logo_200_200/0?e=1594857600&v=beta&t=HpmBUK5-y2SgOxtgnhy2SHuftYcd5t2NEUFXuBJ4fAQ"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "gXy0wWEBMQ0tcf7kP8ViZghMRZHG4OhFRLTxsXN1dMdcllN9sUZXrAlWI1UxA4KeaFXE45DWIlx7lLAPukkmFg0vtsCW7c403j0hSyDThXXskzckHFeHy1mN5RZ8uosRWrrXFUsyyPJKjJmOqjMIdicqwmDJGFLHYOZC40Ec7CmFaN8E/ssjeDhrsa+ROdjOd5ahoPp02J/BwW2Qwyr3SOUlkNk1BFlEJNd5EJ4TwRm+SVdYOWG/eHOmH3mEhS9TOkTOkC+juClMChsJMbkjo3kNJD3C4C6a0Lc8YCW+Uv+hL+w3rpgd6G4l2s4aOxJ/1TeLxv3G3vzhBEQt9V44HSel/+z5PmQ7ChPoS0teL0M=;kAb9h2rQlQWSNrWehC63fw=="
 ---

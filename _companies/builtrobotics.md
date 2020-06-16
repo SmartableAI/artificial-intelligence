@@ -32,15 +32,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Built Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"

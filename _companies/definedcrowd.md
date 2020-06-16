@@ -33,15 +33,15 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1268143997777838083/VBZ8SdBb_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "DefinedCrowd"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "ZOhKZ++QzRmtLWGls9Vqsd4XU8kelWGa7cvq4oZEHYrtfRjOK+BTcYU5LIroi5Vf9RxjV8OBKVmvXvo07WQLeujjwbMoxSCSq/iQ5q29oSNhyaYSf2DYOSi728ePSl4ZyuVu+9s7WvhzMUnx4xN1EJaHq0C+feXwzMulFt5siZLrAH7Od6MXLgmNQbv5RukwTXe4Sq7Na8N1wgLHmDKSF5TRdOE4o5t3AqW3o4gtZe2v3OGq3qcyx/GUJI3MGPJiYfPs9cPv1KBlo5cyLEi/6z+Iqt6rapaAWFrnQK8d8k5SVVebZQJf5bm5O8euUXSTMY2ReV9RqLbDKyA8itO4VOrdkZwzZg8LZW6PAajpaW0=;4mQk8LDr4+2g2idNFE0n7g=="
 ---

@@ -34,15 +34,15 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1229514752763650048/0Zx0XHTR_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Nuro"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=XKXbacNQGI8"

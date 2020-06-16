@@ -28,15 +28,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Nutrino"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=ynhELhRZO1s"

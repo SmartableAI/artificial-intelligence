@@ -32,15 +32,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1184097198574841857/shcf1yyH_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Healx"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=6ZsujFTH3-A"

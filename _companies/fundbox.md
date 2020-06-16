@@ -34,15 +34,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Fundbox"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "efE6byFbqBG/5uLCqE//lcaSWBWgJ66dlNhEHc7q9zPzR4FSwcp67YotNiSSDKU3pgHhHbO6RDI1KQmj2xL2oOiSGZl7bjQZ0NhpHSVd/dkRfFAin0K1T9bbdDIDVRCpRte9dF/z1x4Y/PCKeoTlwLO2VLXDujYjL4EQ/Ex2bbuG2Jgg94lTDFo2v2E4kCjSMKEV70gJHz7ZYZdKelTtGPB/ruXSl6Q4tWqZsuP4Q/pwOZy6T0EPS8aD50H4v4QkqaMJmk51mqADKq7ji9+hdMbrHC/sx0Un36giZW16mkAgS+A1iOYaNvl9aD0jMoIqYnNbmXxDb3wHOPQ6HhEts6ZRVGX3DXUDzRP8MA5LYQE=;ptZe2jOWr+5E+g5f/yqQtA=="
 ---

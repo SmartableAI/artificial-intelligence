@@ -27,15 +27,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Aurora Innovation"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "onA0AO/oBwvnNR7URQZqhz3Uemsb/z4O6orI2N9DIS6naCMqlWUgucqwGdTMydpHryewzlP3E2J1P1rfcJ5S/3jvJZ0qv/I3o+2fZGMDOt+StwAN6ax7xMFG2Ty3emMmTYkjfBT/t4gl9awRMZ/i3bvvGIs/MiGXkicXMUwzQ1ii3aXvejBZq4+vTVbN4wPSzth7j7CC2KaRkophv4Id1fig/KseaAfjNiV+uuJO5GbgBd6BqIXNsGlYeb3ni1b5XjuKR31u29qsFoTq2uunzfMu3fFz76fsE/7XYQoviFugsakIc0fJrvtFuholj4sBsPruVlMEJwpvFppmQWnfGw==;qAXPT4JbOYMgD60WclA7XQ=="
 ---

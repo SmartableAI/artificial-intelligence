@@ -29,15 +29,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "care.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=DWTje5pDap0"

@@ -28,15 +28,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1594857600&v=beta&t=VcxOJqNMbtsSQKE2M9nKikownqE67bDXh0xuoh9TUs0"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/876928853771403265/jykiSP8O_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Rulai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1594857600&v=beta&t=VcxOJqNMbtsSQKE2M9nKikownqE67bDXh0xuoh9TUs0"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "IJWusLsFEDrLYtG8jX5ch/eWRS4spQhW2MpGL80ljT92vgvbOeg25/uky6JnSr4Q0zP32Fl7XpkaYMjVpFYvTeLihk2gZa2uESkm2XFe9piNytpd6gu3xueEBf/REFbS6iQBehFTNcpxYsOZ6dVxSwvrMrcpztPknVlBqN2LzaF9iRz8TvAcNkoGhiBzlQwajahghbMFIOxtO5hCxYm/Wy+ty9zV7jY7umQ+gl5sqOTPA8YQkAmvZjRgE0F2llNyfPW+bJXLShfHvqmap8i5XUBsNu44/MddOqZTK5YkiJx9eKpMWfj7EACE5oh+kqlEZMq8sduy4P4x9sW5HEKOg+PgQsOA/lbh9mzQfArMDC0=;3yVzhsgH+Wo4UPmOT7RCFw=="
 ---

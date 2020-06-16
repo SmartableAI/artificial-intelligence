@@ -34,15 +34,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "collectAI"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "iRrmecb+DX6fdCykOFlH5kTJCyoL0/HfvGXeMHBDoLKpmz16aLrvPNhJ83DtzInrOy+dpXKFzWsSIUKAPtzIMuhWRwlEeXf8D4Yp7OUa6GW/gLvDknCZcdTjKYcJIJcdP/TsLu22euySdT2WbcvMcECUl8ZDToCf7qy2xsGvHBPEJ38E7IPsojPEPL1+RIN/CDyJaxU8tSqTrN/XQHgybrUu46og49+gfjeKSd+QL40gZr4AGJSffxmDWFBzRrfZ94BTUBUjhC2SyoR/LSCsaEoGc/xfcBP9pqjCsvpgVOS5qgK0viaAt3OueBCAmd5y+lUjftpNDYGVLuIgZDuaX/eKwu8c26+zGKAcNnBMt9w=;9rUOp1nXcnxKhoq4KoEGTQ=="
 ---

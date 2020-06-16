@@ -40,15 +40,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "SenseTime"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=wMUmPumXtpw"

@@ -35,15 +35,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1272957378615341056/MSaYwLwz_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "GumGum"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://vimeo.com/179087754"

@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1594857600&v=beta&t=fsqr-UrRH9igP5totsFjW59kkSqLqqi9oYUcWcTzJGs"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1037464564248530945/KK8j8zzU_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "AlphaSense"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1594857600&v=beta&t=fsqr-UrRH9igP5totsFjW59kkSqLqqi9oYUcWcTzJGs"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "pTvsKvtw/n7s8TDe0DNfNdFEjCKKMvFTxgtxggX/qqVI+43sqYnlxzR/Ku1bMx2lCYud8BMEh32LPILxZSmOcDimqSq1nrZ9lGAeho4mFjRask8nb+dFdI9xtKF9LLrtX7YuMBLKavPO9u+T+k4pIL76c+eFezZO0aJIrnPj34pCmmfMSQhOfNT4ND22X1Xr4akfAYNe3Nl7HeMknmAevyO/JWs2Pan2rVtrBDYPYbpSYiyKADIbdvPJ5xjDz/f2luuJbQRunnFcrAF3l2DIy/dE1VepBJ53MLE3w1PXzB7LHdaN8Kh1thLuC3/mLVDgZ2rpAwyIGMATCtSmItTnAibk2xvGQjSNruwdAUqeWws=;XpGf1UAwqtmO5BJ9aLgn/Q=="
 ---

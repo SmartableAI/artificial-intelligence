@@ -30,15 +30,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHXpmrXLFgMTA/company-logo_200_200/0?e=1594857600&v=beta&t=2MjHzGSAkZ3IHD5cIUdrtUWE937en3MAIM8JxRSviP4"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1090945744159342594/BOGKnXvz_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "ClimaCell"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHXpmrXLFgMTA/company-logo_200_200/0?e=1594857600&v=beta&t=2MjHzGSAkZ3IHD5cIUdrtUWE937en3MAIM8JxRSviP4"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "fsLV9hn1OJHf9jl3uaee+3Dq26iyak0dJHjl+Dz8s9KeTpb65yyjTZlkkb3A6HbXnWdhcjIKKoLh7V/K4FsDqe70ql6dnVCppa30rEPdY2tefdg3BJxMqus+06QBM+hbZbjdwnmQk2yEChLclNmwCJXftumZUfxc+YZc8mv6w/XGYqutRSRqeshc3ZdWnxxaZC9CjSWvQSly5fKKEHoGnj5BENnO5lcHp5OIR4+aqKZMxu8rtt7xzpANtkY3U9LKu7kb2VJ/vpsaohhvQwVopG2o72R987F8nhBSS448UeGWw5RCaaHW7ipZaeNDtyExEpqefjq9uwEacqeosRz975W/FvGBONIuqA2zU+sECd0=;Pm3O4s/KZ9iyhaOgrFQX1Q=="
 ---

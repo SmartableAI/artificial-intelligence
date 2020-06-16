@@ -32,15 +32,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1271575974266630144/zcxGtUNL_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Affirm"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Ex1KJSLIoKU"

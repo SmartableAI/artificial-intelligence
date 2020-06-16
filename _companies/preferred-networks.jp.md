@@ -30,15 +30,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Preferred Networks"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=cldaGudHP3I"

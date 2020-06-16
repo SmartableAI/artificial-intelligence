@@ -28,15 +28,15 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1017448234984198144/7n3AxSEB_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Lex Machina"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=6Hg_SXrumV4"

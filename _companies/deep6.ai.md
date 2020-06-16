@@ -31,6 +31,11 @@ topics:
   - Machine Learning
 
 images:
+  - url: "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Deep 6 AI"
   - url: "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU"
     width: 400
     height: 400
@@ -39,11 +44,6 @@ images:
     width: 1400
     height: 425
     title: "banner"
-  - url: "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg"
-    width: 400
-    height: 400
-    isCached: true
-    title: "Deep 6 AI"
 
 secured: "8oCCt1UYPRY+mXBjVMliubFuDDkGvK1ZGkk559wWYx89NsjVuxhOSk9MlnbyrAe6/lAaY9gaEsUIWi6gPlldk2nyns79ZvJuQeP76iX1ZPN1cGWAvnyDUve5G6mTloC3AboSLhIvgj4kOXlMWKnUHwZI7ohMnS+hiChoPOLu1F4OIvBDURtew4xyZ8r/KTqcnlRoVZ7YM4ohXRlo7fUSMEYjykDWrn4gPQZ68ce/UlkwC18mcN4dNSwyFSqkaHuucwKNApoe680OzKA9nFxMuf+0v767SLtqxp7xhIr5q3HBr87YBttQwKaNPCtQFveZLF9mCJZQB0Z7Cql/DZXfZQf5tb4hJeq/69u7YUSJDpw=;jv9nZzK6zv2jV44Y9z7mBQ=="
 ---

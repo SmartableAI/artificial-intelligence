@@ -32,15 +32,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "AMP Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
