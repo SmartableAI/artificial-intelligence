@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Guardian
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
+    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
+    publishedDateTime: 2020-06-16T01:11:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "BrYxn1WqEova8wT7nwXUvuQc8F7Z41p8O/u/U2JVk75IKNZ37//Hmw4RdpSsC/TlMLI+T/TEp0ocrg7Lkm5x+ZT/n02CkTMgV/xN8rEnHhIyn8rkWjVlgj23Cr0UEFgdWzhVTF/L+vJGRos9lCt26VJMI2gXKGQasie+ToTHuc+/r29Pf2R1pZyb2CHFE3UmeauMGYmg1+0fIFDuD8z6JB14DJ+c92qDTPEfByo3SnuuBfxmirdmYOu4wXME5cX7scdSVz/8b5pJ3JM13RywmgplUKcOPkMGZ0BrN+cGJ8TOonLVr/rX33hJJJtmx1VH7jWSRo3ZT0QdtBxJtv3J1mG3huwFs5RLIVQ+vwOqoDzpxWs2aziNdwF6YjVIzNzZCSdQQ5/7ctDl1g5HPSXNBC1kfOjMpkw6PeeU9/Z+QOgvWMfYx6+TVGI4hboxzXe2CTHtdgQRPxLPr1JVsIngst6CAhSrXsB3ldImCV9Vl8v2Sr92cCETo4fs5huElD8DX2V36+EdFpP/LYJ06CXiYQ==;7VWshYqj+vij5MGZRc0K/Q=="
 ---

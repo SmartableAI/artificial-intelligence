@@ -3,10 +3,10 @@ category: news
 title: "SAS and Microsoft partner to accelerate the power of AI"
 excerpt: "Global software companies, Microsoft and SAS, today announced an extensive technology and go-to-market partnership, bringing the “empowered cloud” in the form of SAS integrations inside Microsoft’s entire cloud portfolio,"
 publishedDateTime: 2020-06-15T14:55:00Z
-webUrl: "https://itwire.com/enterprise-cloud/sas-and-microsoft-partner-to-accelerate-the-power-of-ai.html"
+webUrl: "https://www.itwire.com/enterprise-cloud/sas-and-microsoft-partner-to-accelerate-the-power-of-ai.html"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
@@ -16,13 +16,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://itwire.com/images/authors-images/davidmwilliams/SAS_Microsoft_1.png"
-    width: 525
-    height: 229
-    isCached: true
-    title: "SAS and Microsoft partner to accelerate the power of AI"
 
 related:
   - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
@@ -39,7 +32,21 @@ related:
         width: 1500
         height: 785
         isCached: true
+  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
+    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work."
+    publishedDateTime: 2020-06-11T20:03:00Z
+    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
+        width: 761
+        height: 400
+        isCached: true
 
-secured: "Wg1d6JFVeIqbI4mLE70wge1PfR1Hp8mnasqekqDdARWJob1bxsV7Ocf0peTbWSoi5ju1+XgmoNA48sknXEGmq6skW9LXnTEX56/E0Sp8qqRv3UMH3bkUQp/vmgNYnRvima/zR0OWbmOnDVJD5GjHIFZ2w242EqGyIy+R2bquvr8unbh1zkaCm23lzBuxUYGSZdIaPOhZNFVZmxxdL58miMRwhsHFsPK6f/ba7oI5gOiFQyltm2XZBzuNyhh87w8cpx3Zmw0QCDEeceJRkW3FA2DoXZdiYaMuAdRRM57HkSGWtwE11yVGbysK0TupTZud4Uz5+Jbwc2dskkZoa8X9wFdH1rUNWGd9ldeR4KHAPkgqbTkVGYTV1c/2sYdCG4N1HDqX3NZfLyecJIQAeeFJNZKSm0VPU7JiwZBTtmVhplr7pxAbHP8qG6wY3500gkh59/zFOaMx9jeVbnAYWws4ZAHc5sxfNSYgKUIkvBR/+BTpz21MltqXkh8jjvu+hKY0qKGmDCHXbqe5K5esIXwkYQ==;o3dX9BgWEGdd0bEg+yYRmQ=="
+secured: "kGZ4A+XO5njb6XaSGx7xu2tlYrHPm2sNrHzW0Hi7WlRmvNCTs7BvgazfQVUyx06j+YjPnXJ2rGxBlUz+vX0VjF07Dn6orou5j3IH5daY8bXcnWznWC3AxNMEiO9IBAlhhdgi4Vp/qo/ZQZGHhW4iyYLbHG6YtLDX/cVXxSK4UyKPEqc74zc9nyldSgpzzKjAgKFE8VcE7mZlqN76WyA6k8Nyf8jKJsW5xgmvaQbHm/MsLMECjAOMcScLPIliJRIO2Cpt2l1Ao7E/hTGuVGSZzgsXwBfc2IwK4Tm0l3Aq4HLs5FwnfuYDJ/qLxU1xm5BdN4lRqKGTVWyhoexhZCgCGpZkVEZzwrf3YWyott3fgMCIJtziGll9/Kk7kuxqM2vpZuH39Zk/LpT4U2lwxoyKgz16NWHS1qUe65jJdb6IRgq8ty5xe7cqV91FKBTnhSaMUswTH8qohIO4kGDtT/qe0QXnXevXisCDljzSN9XhkfI8pARWnEXfUzb2yuZ4LB5EfXHSTdhYcvb4iKgzJXNBKw==;XCJ3c058Npou2FpuX+maKQ=="
 ---
 

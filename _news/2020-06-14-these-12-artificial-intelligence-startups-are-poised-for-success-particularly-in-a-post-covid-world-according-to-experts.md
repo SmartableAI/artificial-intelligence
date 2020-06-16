@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-14T11:54:00Z
 webUrl: "https://www.businessinsider.com/12-artificial-intelligence-startups-grow-stronger-post-covid-2020-6"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     height: 600
     isCached: true
     title: "These 12 artificial intelligence startups are poised for success, particularly in a post-COVID world, according to experts"
-
-related:
-  - title: "Conversational AI startup Uniphore leverages AI to ready for post-coronavirus world"
-    excerpt: "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world."
-    publishedDateTime: 2020-06-11T07:52:00Z
-    webUrl: "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus"
-    ampWebUrl: "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 51
-    images:
-      - url: "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "CjhtYj3NzshmemEOrxGzBnSqJZI06/YYSw/qY6+EACdW9u237XfqK2feq1rPbeg4f/xmPg5KKeC3xmkRbFB/femYKQ1lkAKA3pgVzc5CCQEQg+c3K862jNJSSdlkV1JriFtXDIM5mAwQAXLR64OIUF5FeuMrEGVyOXVmK80AhJpHwlC5DtkkUHZfbguYh7/bfpH6xegPsqzgQ/6FGwOQF4LX/AB0DdprcDLWs30tCXWbDb8jz6D1H8VFbWsS+AIaSwJwyu/UXRls0s+VBVr9fUYg+AZ/6/jpLMO+LkgHIiFk1cKXm3HCHt9zFtcvYDDpNz2kyqTySoLwOtWk2ZQko/COIxGmujCRLq2h2v/tTYDFPLbm9/g3oi3ZWPzlFOo2m3Kck+HvW6X2/UnPEwM7D2/ZpufgZ7IiXrRb5Txo7ZQbrpJ39+Q8oEV/k+AIWXCzFvQVSMPbOSugqwT8ZTqZudKsLQqR1aCLFf6DA9O7ZZnZxrxjTEAyncHldRYOqF8buzUCcFpIwH7cyLz6k7Wnjg==;ZffNAby6yD34dyU7a4Rvpg=="
 ---

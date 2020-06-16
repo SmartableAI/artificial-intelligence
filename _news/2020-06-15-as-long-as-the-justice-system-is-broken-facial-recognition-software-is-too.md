@@ -253,10 +253,10 @@ related:
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
     excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-    publishedDateTime: 2020-06-11T11:59:00Z
-    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    publishedDateTime: 2020-06-11T16:39:00Z
+    webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -617,6 +617,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "94Hr8blyFg0ykCBDEHkqCih3zRc1SyF7t0eOaH0s/UMKLCBpy0aFmZGgYqlNQ8c6oJV8KjAOBOsfkfuuResA2Z6ARcqi+vSXVqkeMJkuUtFvy08TX+oO2RGvDL6z1JMiepVQtJVPB6QInm+pTQHUnJOYKOhyQpXwkvHgCkwz+jV6rHrGgbn4I8+joFkoT70D+qTzI9QHY94b5hW2Zb7BYWd2yKuPppi3YbeUGDcfMttrqSaS0NzRYICTq25Z7bLvZGbWfbt6FLoUoUizgSaO5LuiOzNSQa0E0Uht3GljCuhb6/o9ZBHs/eEDJlk1oJSVTape3F8y7lyu3TC5MFNeDg==;t0JHbgk34XqUVzm+weycmg=="
+secured: "b668k7ZMuMh71mZ8qrOpLcLLH4WbAahK+DE4+vOkfzabb7WbT04niKObqcqYU3VKspC/zvmkqxPUyqHnOLfI0pgJqmgoSJMhg29MnHqDnDBJTsKeF+MP0CjPvXKWQxhkZM0ybPgZz6sQyITBFSrV36Oh1Xh/NFUn+O0GDYAA0VTftaXl0zaBVm6nQQYzgQRX0vAZI/ss4vdvz52CatU12xs32h5KeU6Zqy9Dop3lYN3zP410rc0hVU4jUc1Gq1Q4zg5q1MGBaR6EcPCjQnbwldU9QKWv7G59/quM+vDq8caEV8fu8z3525kMgaeA+uHQheSkBtqxrrpQdOlv7F3JhT+P2koeGBuQbNkjcwoq6Qqkh3hYLSbQRCOfgkAubyXAdedvcq5+XbEvpSYaPEhGaE8yNGJGi1j8zdsQTXP2ALVa0vfYgi3AuxSW13xVaHs8GTbUZYm2tstVt7z09gtvwi7MGLy93XsDHV8tquo8FuYDqCQmS74aCOR0EhascQWaO5pAbTR9/DR+zbBZJCGQqQ==;we7kxzxu4A8Fy5K3vSGrCQ=="
 ---
 

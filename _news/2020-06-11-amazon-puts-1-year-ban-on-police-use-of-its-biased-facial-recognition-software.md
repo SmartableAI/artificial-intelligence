@@ -2,10 +2,10 @@
 category: news
 title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
 excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-publishedDateTime: 2020-06-11T11:59:00Z
-webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+publishedDateTime: 2020-06-11T16:39:00Z
+webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
 type: article
 quality: 70
 heat: -1
@@ -621,6 +621,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "V8Cd3zAodMdYEPevhztH9zqcwf3eT7SbuHVxKopbp4BAokI455v7pQC1tjRFDs4RG8Zv511VcUagA29F16Lyjl+iLdyl+CHu8aIlKfCfnOnpV3lV6J1y6j8lhhgsdVeiEpCzxxvLbiR2U7qaIKFlUGost+GbrcBSJ8rarBcIWo6cBaMmeaXNqpDZgD4aZEzeFxtgnWW/CSnZ4ML8wQgnu17de6LAFBbqCa3+XXPk/1QwMA9KQ2hOaKRvmHx5OXVRfD432x87uThzE4QzY/efcTbW33GzUpoJD2qewO+Fsctp3OUvbO/4FIWv9on5ixkccRegkvgDW9JyDKacRm7QMA==;h8YNlhNgARmcPbMbV+E8+A=="
+secured: "3Mkqk0FHPh4RR0tjctK29LlO180NWqSQRzPVFl49961swGSOnM5hr2ZZ9kINMYQyZck6yWQNNcxkJ3N71oFOUl5q/e9cmWNdfWSre0CVyk8pZixoRCuBp3v8mlHzVoo6+F9UJhlrlNyRe8roZabhlduSuqfhZ8OIzjv+yZrst0jjtNXtG9dvryvVCE2jKKqmcxenDHk7HTczZOVLtm70Lf2qdboeoNcvlum/QOnyXzrle9HPF8Gb066OOJnHGX/sNwSnpUtrlLu9sF7tXqlA3hNH7PU1mHdx4ESssfMHJZQoxvABpVWeCviFDY0KIDO/snGmaHAZuduAJt/hv9KvyQ==;GpguqFiKFRjjindZA8wPag=="
 ---
 

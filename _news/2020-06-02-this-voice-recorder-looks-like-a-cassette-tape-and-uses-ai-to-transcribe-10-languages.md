@@ -1,15 +1,12 @@
 ---
 category: news
 title: "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages"
-excerpt: "It’s said to support 10 languages, including English, Japanese, Korean and Spanish. The company also says it supports 12 Chinese dialects, including Cantonese. It also looks nothing like a pen, though older people tell me it actually resembles something called a cassette tape."
+excerpt: "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words."
 publishedDateTime: 2020-06-02T10:59:00Z
-webUrl: "https://www.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10"
-ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10"
+webUrl: "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages"
+ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages"
 type: article
-quality: 82
-heat: 82
-published: true
 
 provider:
   name: South China Morning Post
@@ -30,6 +27,6 @@ images:
     isCached: true
     title: "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages"
 
-secured: "YXh6Sld+TNDyhYRwp94t9xbOvoOkxhXnUmGmHYzDahOIezx8/TdTY/zjCyHgdd5od/AojyerVJwgxOGCbtZYTGx/0WTB+ZsuodxluwNixVz/Sk1iHu60H+W3khHMSYEeDxq9KhpNvgYmPtkmL3OIHt1sZ52jb8i61BuGfclv9yDTrYpgnp6HaGV1J83bn6hhd9XIbJRypaixqK+9if3uaASd7h0u+JuCEWIugJUwHIuPV1aik4METXd/KNF5nwlnxdQqjCdXBNcatN7HsgQog4pjnd/90+f3Z/ZH2C4UTjleMzJJnqc2rtXw3rrTqRjsMM75EWOXYk/tn423Ghcu3EsGuULlFIsfD4HAhKVlh+BuQ8PuZh7uJGa0XIT4R0JT9iz9NcN6SGnpgv4e49+RvfqCIzhFIyHUE5T/zBepr1cEztuOG3P2KKzrYzRABPhNoOIf0wd0fLzy4SOUFzfokdLv1M3UrcN0PrjeAQemezE=;OxDHwEaFC6BUlEOpu2bpVA=="
+secured: "g3sTnon4RS83G/MJGTQr55PA9ZDSTi8aslq5HVQe+NbpGcm3EfFyfA0LSUH3DD9RWvOacG7fiy6KoV9MWYlEhFfNp98vl2tm9Ch6X6OCbgsbRfx5WMYysyfQqKX+BmGvIpD8ZNOXvBe+GlM5ACXpx+0MzTtNQMtf7jl/ca7OEhFKJI8ZJmZ6iCK+cI4qgjW2ybRU0fTh65IPT/84yabQbJUYAPLiCbAJX9SqNH1ECIf0CVjovSzr+vDscGPGOYPdXb45mvGUsxLc8fC5jSK5qr7O/QMEo/Orav2BWm1De9BvzG0eCEUXTHcFdTLt8Hg8XyI2KSMNoGDd1WEP3zxqew==;oFbZNX+myrHjXASihOz3Fw=="
 ---
 

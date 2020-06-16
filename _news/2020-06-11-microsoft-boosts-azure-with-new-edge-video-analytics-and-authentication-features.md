@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T20:03:00Z
 webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     height: 400
     isCached: true
     title: "Microsoft boosts Azure with new edge video analytics and authentication features"
+
+related:
+  - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
+    excerpt: "Microsoft Corp. and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable"
+    publishedDateTime: 2020-06-15T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai-301076895.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1179554/Microsoft_logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
+  - title: "SAS and Microsoft partner to accelerate the power of AI"
+    excerpt: "Global software companies, Microsoft and SAS, today announced an extensive technology and go-to-market partnership, bringing the “empowered cloud” in the form of SAS integrations inside Microsoft’s entire cloud portfolio,"
+    publishedDateTime: 2020-06-15T14:55:00Z
+    webUrl: "https://www.itwire.com/enterprise-cloud/sas-and-microsoft-partner-to-accelerate-the-power-of-ai.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 34
 
 secured: "sg70yVDES4s/k1KVt/128AtzYK/VCkhpY1lkFt7FNNiEsM9/63pNUv4jvlncxrllIJDi4LCq4N47EoNYemossEbUS4aRcATCCxbjsYjNCT6JLTZ5hbb1jzRgA97AxQSz9lYUr8OD0mb3LI3KudQZKz+Nmi4vL3A7KxGpXtWdKUZXtz0GBQ/q+zqaCVBvvMYieB6sy8Qg0zT69KVOPXjhdvKg4bRAOaaKoDv4M+j2yxnprqRjvdjWipjxgNaqpWJVYZyyUI5NjNpNSZkyLUg8ldcBcIMR+FY6j9gVFX/o/78QS9meCVzk9wYnwuCTrhultdAm2CU6Mo08tXzBD1Tqbn+0AvVgnRl2u6rD4qPL6g4OonCjeDkSjsGYD4OfL8QIlZc2xOPsPKEQlKjPgYOBJVTj6WWW8XQg08VqvjZDLlyzdnTo9U8OHqKeGGJkrE8JaySZmeNaVskBBuPJwAzBDb7AbAke3pie9tagzL/19a2t2oxCfqPeJoL3eZJIVJKK;4phclZPO+mMPpLpTBOFg/A=="
 ---

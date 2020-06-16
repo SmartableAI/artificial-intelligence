@@ -43,6 +43,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
+    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
+    publishedDateTime: 2020-06-16T01:11:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "zLGQ4P2TE3HDdHIAdZfZxesUAF1SlQvI0ZzmbgKOq/3NrmC2L/NdBMiXvEEXsy0Dz+NOz23TAsOJkgh6dY0U6rZcaVfXGrikluvHMgGyq8a35U88sqDfPO5OpEp1L4QKjRLvNbekKWdSNcjnUB0xGJSz/9MvEe4mb/kJYtkHJhKaK7NCHfM8Km0tQrP6h66VFu4k1xTr8PE7jX098XjrR4T/bVtvXOYq5cB8KuWR5SxSsdVKOrJeXM6HZ6VLVDEBrfo3nDbvY47lWJcsDWBg2ynf+Vo+BiCe7mFOKgOsxJGf+CDtTpmC/T68TGMkMC2cr9cMmVMCoQDID6onOCaMXgi/uFPcAp569ra1xUdHQDXGMIiOe+8ZdpLtwSLQqvhToodcjEpjPDzl97lkppb1yF5dDLruoHcCSIPserAZUVLqH00h3EJ6yczu4bnc+NDjFSIthGqweIWOTI9IEEeTDtfusQdSuwS09KewOjQuETYmuQU//4/ICpEKeq98dLOIsaNjvloQOWG1JGnkwaZjtA==;DgSJyYbyp2Fm0p2IMZ+uQQ=="
 ---
