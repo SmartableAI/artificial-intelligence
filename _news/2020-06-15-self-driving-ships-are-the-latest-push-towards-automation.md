@@ -43,6 +43,29 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "DOT looks to raise self-driving awareness"
+    excerpt: "The shift toward a self-driving future may take a leap forward this week as the U.S. Department of Transportation launches the Automated Vehicle Transparency and Engagement for Safe Testing Initiative"
+    publishedDateTime: 2020-06-15T09:40:00Z
+    webUrl: "https://seekingalpha.com/news/3582864-dot-looks-to-raise-self-driving-awareness"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
+    excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
+    publishedDateTime: 2020-06-16T16:05:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/16/data-self-driving-car-tests-shared-av-test-initiative/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 17
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/self-driving-car-tests-av-test-usa-initiative-iot-connected-autonomous.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
   - title: "FCA, Toyota Among Automakers to Share Some Self-Driving Testing Information"
     excerpt: "Related: Which Cars Have Self-Driving Features for 2020? Companies participating are Fiat Chrysler Automobiles, Toyota, Uber, GM’s Cruise, Alphabet Inc.’s Waymo and a handful of other AV-focused firms: Beep, Local Motors, Nayva and Nuro. States ..."
     publishedDateTime: 2020-06-16T14:47:00Z
@@ -53,6 +76,6 @@ related:
       domain: cars.com
     quality: 2
 
-secured: "XzctOacVfGf1xkC7/lG6Rkh8QFx8IC61J8JuvHV3740lpISH+qN0laLHgVJ125fQ86VDsdOg94F2gu21e9zACfZiIaH9TBsOrcrILIBuWG95m95nGKbrZAiepyfbdVg/38MHNsZxF51qKevrniU0bLpd6T0MiWs8Ri7cU1ZE+sf1etW90FgofTihdYm6XBRPd7HjDIOe8XcbTA6UrkfnMcPS9TYmbMvSK8KuDMmR24T4L0/2qMT6HC6E0BJfJkF2QzmTJMa0z5qM9X9xvbTuvR7FNrdS5XPafS6AKlrOWvDC9jjTRQ5bTIODCALvDXP03pEEHnzn0h0h5sFs0sJX4g==;1UzsF9h1vuZRpqkYZC5WyA=="
+secured: "0Ti8B2FOvC/M+1YOzulFB8tKBiF9JUpys6rdIo1YuiSEAjn70wSjlxCiT1ZEQO2QmGb+9+v8LMkWpYrW2xSNwKIlfGOtvq/1lpDxrIw4FyqJruAouprKl8N+ywuj0SsFbCtbysci0WlB+zaMqA3qnJ4FjK5LO2pN+vwAolD5ORqPEPXxIKZOh72npN7a3AOY0OfAYH7YKxf5nPu7obw4tHpBC2/77KrdaCUO+8R3GvqY+/aGSgZHHUB2SPTHK5hJJOUx4AKPHabMSJF7dJdDJlf/taZTfXfP5hCL7qdjGI+P0sHu25VHmBoEIoJj24kWgKPfKC+AiPKjV8ntpLBuIaSC/3mZf5yfOz1Xw5bMQ06+S5DOWax/XXbXIyhjUVD3nJzwyuOZH8W8GQYWp030RaV9sNRsLvL6scMDDBT/y7+9M15vt5CPKqHJt+yPQR2LH73oK1mGXGgkM24+YjgRkWE5FWPy0G8YTnQzgIqkryi447JgPMekf7iq0ZXqwtuB3C/E5acnsoyIMhml0muOpA==;Ql9HKbjsq8/HyJ/uwFldPw=="
 ---
 

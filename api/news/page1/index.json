@@ -2,11 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before.md",
+      "title": "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before",
+      "excerpt": "In a paper, researchers at DeepMind propose a system that can efficiently navigate virtual city environments it hasn't seen before.",
+      "webUrl": "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/amp/",
+      "publishedDateTime": "2020-06-16T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ibm-watson-natural-language-processing-technology-powers-weather-channel-covid-19-incident-map.md",
+      "title": "IBM Watson Natural Language Processing technology powers Weather Channel COVID-19 Incident Map",
+      "excerpt": "Misinformation, disinformation and a lack of fact-checked information have interfered with the global fight against COVID-19. In March 2020, when COVID-19 began to rapidly spread globally, it became clear that the world population could benefit from the data analysis and processing performed by Data",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/ibm-watson-natural-language-processing-technology-powers-weather-channel-covid-19-incident-map/",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/2020_06_03_WLA_Covid_WeatherChannel_Leadspace_FINAL.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "IBM Watson Natural Language Processing technology powers Weather Channel COVID-19 Incident Map",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T09:40:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-5-ways-to-close-more-deals-in-a-downturn-using-ai.md",
+      "title": "5 Ways To Close More Deals In A Downturn Using AI",
+      "excerpt": "Improving sales in a downturn is possible when AI is used to decipher the data this recent downturn is producing and find new margin opportunities fast.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8eb37ed4d100006fc02d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": "5 Ways To Close More Deals In A Downturn Using AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
+      "publishedDateTime": "2020-06-16T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
+      "title": "AI model creates 3D avatars from a person’s picture",
+      "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
+      "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/results_preview.gif?w=520&resize=520%2C293&strip=all",
+          "width": 520,
+          "height": 293,
+          "title": "AI model creates 3D avatars from a person’s picture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "publishedDateTime": "2020-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
       "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
       "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
       "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -322,54 +506,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
-      "title": "Foiling fraud with machine learning",
-      "excerpt": "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes.",
-      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Foiling fraud with machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
-      "publishedDateTime": "2020-06-16T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
       "title": "Working with the Azure Kinect Developer Kit",
       "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
@@ -421,7 +557,7 @@
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -646,7 +782,7 @@
       "title": "Detroit protesters take fight against facial recognition tech to city leaders' homes",
       "excerpt": "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces.",
       "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/",
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -902,6 +1038,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-as-long-as-the-justice-system-is-broken-facial-recognition-software-is-too.md",
+      "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+      "excerpt": "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue.",
+      "webUrl": "https://www.gq.com/story/facial-recognition-blm",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg",
+          "width": 3381,
+          "height": 2550,
+          "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gq.com/story/facial-recognition-blm/amp",
+      "cdnAmpWebUrl": "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp",
+      "publishedDateTime": "2020-06-15T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GQ",
+        "domain": "gq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-john-oliver-explains-why-facial-recognition-technology-is-more-dangerous-than-ever.md",
       "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
       "excerpt": "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks.",
@@ -936,194 +1110,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools.md",
-      "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
-      "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
-      "webUrl": "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
-      "publishedDateTime": "2020-06-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
-      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
-      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "publishedDateTime": "2020-06-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "publishedDateTime": "2020-06-15T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

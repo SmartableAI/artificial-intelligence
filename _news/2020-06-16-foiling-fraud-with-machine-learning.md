@@ -1,23 +1,17 @@
 ---
 category: news
 title: "Foiling fraud with machine learning"
-excerpt: "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes."
-publishedDateTime: 2020-06-16T10:05:00Z
-webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
-ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+excerpt: "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ..."
+publishedDateTime: 2020-06-16T16:25:00Z
+webUrl: "https://ctovision.com/foiling-fraud-with-machine-learning/"
 type: article
-quality: 91
-heat: 101
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ctovision.com
+  domain: ctovision.com
 
 topics:
   - AI in Finance
@@ -25,9 +19,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+    width: 632
+    height: 422
     isCached: true
     title: "Foiling fraud with machine learning"
 
@@ -47,6 +41,6 @@ related:
         height: 350
         isCached: true
 
-secured: "U43M85krAGkv1KyP3AFAjH5WN6whcv0GQzQTdZw8oabBllwQ91dowi0dwVsNXWqzZvuEgFEX5pKMAMRDAmsG67Sic+S9i1Q/mdf5yfnPXbn/voLnf3EWLdyJKA5NWaAm5IEi97FhhPFYBb0tLORuoztiEwn4OxmiKYoKibYsSf6BXu3FDzRsi9vg4cfF+hF7x6fDEfoAIZkYGBC9AH26ABZwD8HCYEWz+uYy0KyFos6AMdokTGhD5Czno2wdcaUdlCbR5C16AdvWlafs6AO5XKVJF7kYcCTXylq9WGPuws2i6NvQcsQPW+3f2qm2+Xn0ErUCNboYzvPzqynKqXyZaCZW8uLoHpUx15aN/AYvBw/O4kqgtLLe8T5Nu/O1sBiTxVp8nt+lkkFsOxGH6MZ4QmFWAU0Egh+hbo3LyLL9CxQubOvq1qZcP5ldq1q0giJhf1DS8jdDPh8ZWuxyF8fNDr5UnliigokGM7nDL7vkfWpyU5cKRO9ffenPU4/a/85WWW2DhT7pFV8sU75gtTI+/w==;32IqEMoF1robmY8X/dcgcA=="
+secured: "7JIsC1rW0AIauspmnIePBr8SMUOJZAaxW1kkD/WtLmFIHkGlNTAQTyQpHQCDIQ91NHoivcUEjgVbIK76PwF87b6lFmufDarFlTCmYQCMJrNY/GyTfGxof2twfFFDU2RkBcDZNAC+5cuNn4vYkuDmxt3H2DuL6JxIKtwUrQOhll/7x5pYtQLXFYyzZg/1/kXElajkVRmC1sgXlRhXCnElxuDNd4x5mtQClTRNgtWgpG2PdKdFQObbFljV5k6A4hWHhi2Gj5haNGynhiQKTfuHckIhzZh3mmQsZUkMd9zo+3hduAmxU2Ptmp3cAVMiFNkS3a9UkrhnQ9joUtl1A2qD0g==;cuDu5D+5o8cBgB/fsO8Lsw=="
 ---
 

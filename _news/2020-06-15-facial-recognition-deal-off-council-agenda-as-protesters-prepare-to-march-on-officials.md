@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Controversial startup to continue supplying police with facial-recognition tech"
-    excerpt: "Clearview AI has no plans to stop offering its facial recognition to police, even as Amazon and IBM have decided to rein in the technology."
-    publishedDateTime: 2020-06-11T23:41:00Z
-    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-continues/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 50
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff1%252F9f03ed32441e469094bfbef355791ea1.b1bfa.jpg%252F1200x630.jpg?signature=HOChYtlDCMUQX0jvtjhfy_7H9ZI="
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/CRXCqH5Axf9yYY/hRrmozyTd1P9oBI2JxPwXPqMiiq6wuNUzrRS7OfCyI6j9HMWXjR2iqY3ZMOJwAmdrrjrhF5cA9MbP1qxNPdlj+yBiAA0eAp6rVP162Tsw3iPm+FnlPPIa7dbNlK5giWNeA+zZEktSCJGoZGh2sDGwyuiz6NBoNTs0xxDeIDzQ1+z/Z8yUSlbYHm3iVZhpI1PJJ6kr0/2IgPB2zflNQvjsfaEWm/ftOEtvB8RhIZW46tazAWGpA/hWmP05k+2bexow9KG5C0tsuavPZW2vQJnIfdgL+WJ3WB4nh9x6ZYqXmF8p/jeXrtGdJDtBnejgcJb8lc4CGifjxnQ3wpW40yJVtL2zIuO8uUuFjI8Qj8z3FhWtYOnxBlszSuTsyFr55Q9EzrFxwH2d9Iwt6gn3fH9TzKXpFs81ByiPH/4AfTuoM9SiZPGrmmaZAhw72E7n1Ws/evl0veP0SNcu8hkCZplpyjO9THK8wS06+S/W5jFzxON0iaa66yIub0zvMLhQFDsNwJ15g==;kM/AkOY5+dVsM2jbrtNGnQ=="
 ---

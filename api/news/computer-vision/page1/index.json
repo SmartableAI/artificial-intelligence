@@ -54,7 +54,7 @@
       "title": "Detroit protesters take fight against facial recognition tech to city leaders' homes",
       "excerpt": "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces.",
       "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/",
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -74,6 +74,44 @@
       "provider": {
         "name": "Detroit Free Press",
         "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-as-long-as-the-justice-system-is-broken-facial-recognition-software-is-too.md",
+      "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+      "excerpt": "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue.",
+      "webUrl": "https://www.gq.com/story/facial-recognition-blm",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg",
+          "width": 3381,
+          "height": 2550,
+          "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gq.com/story/facial-recognition-blm/amp",
+      "cdnAmpWebUrl": "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp",
+      "publishedDateTime": "2020-06-15T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GQ",
+        "domain": "gq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1307,44 +1345,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
-      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
-      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "publishedDateTime": "2020-05-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

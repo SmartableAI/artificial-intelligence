@@ -42,20 +42,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Enterprise automation platform startup Jiffy.ai raises $18M"
-    excerpt: "Founded in 2012, Jiffy.ai offers an artificial intelligence-powered enterprise automation platform designed to make complex process automation and application design available to enterprises in just a few clicks."
-    publishedDateTime: 2020-06-12T01:00:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/enterprise-automation-platform-startup-jiffy-ai-raises-18m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/jiffyai.png"
-        width: 990
-        height: 521
-        isCached: true
 
 secured: "bpq8IsCMGb6nkLDrdu30LWDGegpRa/ORmOfVaDvcUpB02ppBky7A+IuTS52DtdBQaiJhMt4YdjzLLZne/FibdBtWHVOEQDM/YWnrKncUG+LLMt4l+YaSpa6zWMeeO12jKFKFI4MDM0CxvC5GY8mIByqMlRI6f0YJNIDXhmXl/KQedlRJB+7wLp9zC+AzzMLqM0dRYAixIDo0qaznFsejdtq/FVKXJMfBGgqU+DW7sTYconrMIRlqZIGLcaOhsSrbLtOAX25H1wpwLcmtI2FsdFk6XhvceEiYuYvV53a9Po4GaqnDGTixQkt/k7L6nuNKQCg+Zc1q/Z2eJVyeAb3WIu8+ktB2AFXYX9VnfoFo70FJVPQ+8LDMN5WOVABu2RpeFyKQrmWbfjesX0TuVmQCpC9wY2eghGUYWeleL7aEiFedD5gnuJNVXDG3w8TkDqLfNdigKCMERdEPE8PtPFT8mYSz2UmIqjbQPjSExlh3NF63ComvbCEvnMuVb4+VpUR6taR9NV0BeQ7UbiYzINceNQ==;VZZB+G4sV79/AWkZVo0pFA=="
 ---

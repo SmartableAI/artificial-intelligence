@@ -64,19 +64,14 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio."
-    publishedDateTime: 2020-06-16T04:51:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-topnews-ugqeOBacdhbdf.html"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+    publishedDateTime: 2020-06-16T10:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
-    images:
-      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "NdffXZHDY7cx1nRYk/4h+IbhHzNnwW8SrOV/WA0fj63qToxryYs8bzWM18ioWON03j2hulc91iSOlyOtegRkdPZ5o+PIsu+m4ROhSDXlT03HE63XGbWJpqNrr2/k76B6I8XXTZs3RDgWUGkJrWPEFQZZ4BHjCjiPxvukDPLKG3i2CoEz7EnpUJNrCNGeutj9lX7iPHEo0oRnIOCpUsUcZosnf240RVVooiOWqor8/ssunFmrEH4TDaKTfS9SejbMWZoQR1jjSTgi+C7pPilkvgWrO6EG8NY7zkr2PrSe1tOE7IyS4nD+1rBg7wtxGZwJSrHqhEtLsAUPo5UF7uhAQw==;wsr4J41dFTKBsSr0EgdQAg=="
 ---

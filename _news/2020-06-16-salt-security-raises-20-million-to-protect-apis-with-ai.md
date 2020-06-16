@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Clockwise raises $18 million to optimize work calendars with AI"
+    excerpt: "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach."
+    publishedDateTime: 2020-06-16T16:08:00Z
+    webUrl: "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/calendar-e1591825433253.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Zycada raises $19 million for AI that speeds up web content delivery"
     excerpt: "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital."
     publishedDateTime: 2020-06-16T13:04:00Z

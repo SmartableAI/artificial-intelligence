@@ -94,18 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Self-Driving Cars and the Future of Personal Injury Law"
-    excerpt: "Self-driving cars are under high scrutiny, but we shouldn’t ignore the impact they will have on the world once the world accepts their innovative technology."
-    publishedDateTime: 2020-06-12T00:33:00Z
-    webUrl: "https://www.law.com/texaslawyer/2020/06/11/self-driving-cars-and-the-future-of-personal-injury-law/"
+  - title: "Self-driving cars and the future of personal injury law"
+    excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
+    ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 24
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 44
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2020/06/Hank-Stout-Article-202006111951.jpg"
-        width: 620
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
+        width: 616
         height: 372
         isCached: true
 

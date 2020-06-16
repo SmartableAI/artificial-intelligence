@@ -43,6 +43,29 @@ related:
         width: 640
         height: 302
         isCached: true
+  - title: "DOT looks to raise self-driving awareness"
+    excerpt: "The shift toward a self-driving future may take a leap forward this week as the U.S. Department of Transportation launches the Automated Vehicle Transparency and Engagement for Safe Testing Initiative"
+    publishedDateTime: 2020-06-15T09:40:00Z
+    webUrl: "https://seekingalpha.com/news/3582864-dot-looks-to-raise-self-driving-awareness"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
+    excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
+    publishedDateTime: 2020-06-16T16:05:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/16/data-self-driving-car-tests-shared-av-test-initiative/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 17
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/self-driving-car-tests-av-test-usa-initiative-iot-connected-autonomous.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
   - title: "FCA, Toyota Among Automakers to Share Some Self-Driving Testing Information"
     excerpt: "Related: Which Cars Have Self-Driving Features for 2020? Companies participating are Fiat Chrysler Automobiles, Toyota, Uber, GM’s Cruise, Alphabet Inc.’s Waymo and a handful of other AV-focused firms: Beep, Local Motors, Nayva and Nuro. States ..."
     publishedDateTime: 2020-06-16T14:47:00Z

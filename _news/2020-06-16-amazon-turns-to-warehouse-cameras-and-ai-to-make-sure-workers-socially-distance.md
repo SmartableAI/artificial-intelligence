@@ -3,7 +3,7 @@ category: news
 title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
 excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
 publishedDateTime: 2020-06-16T15:22:00Z
-webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance"
 type: article
 quality: 33
 heat: -1
@@ -39,6 +39,22 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Amazon is using an AI camera system to monitor social distancing in its warehouses"
+    excerpt: "Amazon has unveiled its latest attempt to curb the spread of COVID-19 through its warehouses: an AI camera system known as the \"Distance Assistant.\""
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-76-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Amazon deploys AI ‘distance assistants’ to notify warehouse workers if they get too close"
     excerpt: "Amazon isn’t the only company using machine learning in this way. A large number of firms offering AI video analytics and surveillance have created similar social-distancing too"
@@ -121,6 +137,6 @@ related:
         height: 900
         isCached: true
 
-secured: "u4AFVUn5TsWObTXw6yDVlylGHReEwrMwCR28q2frcZs/eHxapkM6Zt/pkAG0LX8H9XylSPggJ821yjnfHpzxtYwqBsWweFHqS60SfXzVGLW6cc7rELgWRjCdu5HHj37kc9LGLbbrYwuKyQDf1+AYLjFFSaraMJhMXnAdJ0cFzoNU0ahnso4C9br1sMW4iYrPGUSo2F2lUiQFXvmEW4tV6ND4ucK6Iz5Ph/MGqXufKldSHKEHqyZKQ8cEClWtsJLbv892bpYBC0K7Rba+uiNLnQ+AFzKmvFODtPpalYmwwWANGne4MFGSvL1XAZR6c5YemkNGxmfOuTUhIurA7W9HtA==;TLVMhExcqcIcFD9FelZU3w=="
+secured: "eVrDq9uIYoNLRW3QGyzUkQIZxjuvUql+zUNmCB4gjdR0KEjPEWveL3BRJUUECCWRQCk6dwpt/YKKsypounDj+tmWYfIP5etP/mK3AjxbBLKKFo4BEGlid8MGHND1tY577Z0LwpjXi+rSx5hEf6kshAu20BwAhViVSc6rZGZomc4boLl1Uoj1fNtjtwfUIlRfqZlDHX4rokKJojbrc4FTQQ0WeHWdcpW/uIhV5fKknYhyXK0lzRPNETYQLj2ui5tbCvedgNegBzuSxYASNHMCdeadXwe8d62qSXV2PqCfZ5QZ3j+oH4OpBUlyq0ifNm1yjmZcW4Zpk13n6QXbgKlYtQ==;h8YboTZCvWy7Kh8im94qvQ=="
 ---
 

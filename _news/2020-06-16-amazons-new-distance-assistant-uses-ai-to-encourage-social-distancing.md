@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     title: "Amazon's new Distance Assistant uses AI to encourage social distancing"
 
 related:
+  - title: "Amazon is using an AI camera system to monitor social distancing in its warehouses"
+    excerpt: "Amazon has unveiled its latest attempt to curb the spread of COVID-19 through its warehouses: an AI camera system known as the \"Distance Assistant.\""
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-76-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Amazon deploys AI ‘distance assistants’ to notify warehouse workers if they get too close"
     excerpt: "Amazon isn’t the only company using machine learning in this way. A large number of firms offering AI video analytics and surveillance have created similar social-distancing too"
     publishedDateTime: 2020-06-16T11:30:00Z
@@ -113,7 +129,7 @@ related:
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z
-    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance"
     type: article
     provider:
       name: Fast Company
@@ -125,6 +141,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eymSxTiig+ILrIMiG8EzEcWuOOYeH+diAKOnFUGMYLM3KN53KAxKzMwJumCZOGqWqxrhCYjj8CQLdUg4Pz+g/GvSulZUPsPvCIASYGVSanzNADOotuxfJRwQ2W6CKHyox8lE46m7pJjswC93PLXkxQAnlS/aj0xdBSIiyplCGTMQP9+xw/iWdI/W0uV2ZaYtOyLiqeMVEMkfO5ceYXYQYhqXEx3ria7BrmrJVhrWFpuhhX9nZmM6K2iToRpTJyHzaUdacgC8dJEGCeXn0u3/f0zZvGt6rT9j312gY/i00akkq6ZISiDp4kIXejHbwL6fBc4/gFCOaOYmiZnmGTC8lw==;xLsiSLfC1pwyawrYEd9Mfw=="
+secured: "aX/eh5AycaUZ/7B27Ghh4O1miE/xPI0hYguGpZ6BO1tO/k80Cv3yoEAGhbo255rXhNb3mSW6Lb4RjMWDsfZ5t2qRnrfPQIPzSZxrHzoYrt6Ei/1JhPxbQF2RYAIbkoTldD3yardmgCIR/Kn+1pbW4c9VF/L7Ee226tJ9MeYl4SgTTC1td0JWtPhqAZ4FpQR/RUaQ3Kto2ngL5vUL1NbiqktlaA0fet+83UYnprBAnxL7dkxImZxxLWWYgyzExAu9aAbf81YTcHhZ1KkhU3Ec6ab0zsfDV2ZTt6xlWBAfKgMQoDppkUToxQeLoXX5vGbXPDPIC2heaRUuz1KQbhjv6dGDwebxkhGF2HzmEMGyFi9pty0msiPHYJDerRsop2MgJMYBfgMjpbWLxjROEcSlHpi0qiTKwE10veVYmCoihdr/1i137tYvfCi0aY7d9g13575svm+p05B42Qo61yNOZr7WhjjpnZ5Vs9H7bbj9HyjWSxQVOVilii+V4pFDwede;JiUKMUpYSGuhVMop32Dz6Q=="
 ---
 

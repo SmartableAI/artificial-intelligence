@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio."
-publishedDateTime: 2020-06-16T04:51:00Z
-webUrl: "https://www.sify.com/finance/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-topnews-ugqeOBacdhbdf.html"
+excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+publishedDateTime: 2020-06-16T10:57:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-    width: 600
-    height: 400
-    isCached: true
-    title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -74,6 +67,6 @@ related:
         height: 428
         isCached: true
 
-secured: "UhE4hGeL39Cw3Cx8hPjRrc/fgNpxQM7duHGIZwP48n/ddEgNLW6JyX0oHPB44GXYC6Sgl1oTV8FK9p6lOglpButXAEalwZzV9NG2K+t5dtjMuF3hHFOqg8XV4ketq/4msKbWImiPK/v/r59y7XekyabaxWa0GxcpmntPmAe36M5MEogiCMyrJIBIRGwOE+8XiJogJFdjKoHHh80CqiVzOvBDTZgU0tIdzmYrXSyhke+QEJPMzdygYWFhdeENhwVBiaFO76R2sbgFRndSe5D7KaSG5EbwJEs8p8FRDiZVy1C4FmsfevN4CJJx4dRU6XQcIzKiT7D0A09Su3WBMzGKbg==;tDjee0FNZq3Qh79TDIh+JQ=="
+secured: "HxxnFj9SQgN9exRYZHGcP411sUOMMzG3WMgjRoS1jjksfx5y6ca44GMgomKxgnbFloViAXlcnsAdMNJnuQThgRxwx44yPp3ooxTz/wPqvjjpKu17r/4IfWvRanVppBLPslY8sZH/A1MqkMfQKNGKmUKE0QYK3Tebqhtbu1AicXaEekQGV6vPcfx/cfBUHzbhD6PNzzX09EZOrkQCjlv15feSZ4qxecLpC7MIk4RWaSWc5k+USaNIvKlLQu9eWU56b6Ln9F6NjwJyleTSyy2VU+NkUfdELECO00JSMNgwPYsAh6nIo7XVNvEVG4C8cC5QkKbBqFLzEnGFJ3ADubGwdg==;GrqpS+CrlD4X727JEzph1g=="
 ---
 

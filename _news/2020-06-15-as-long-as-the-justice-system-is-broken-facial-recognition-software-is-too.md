@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
 cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: GQ
@@ -27,6 +27,20 @@ images:
     title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
 
 related:
+  - title: "Microsoft won't sell face recognition software to police"
+    excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
+    publishedDateTime: 2020-06-12T21:17:00Z
+    webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/42/75/19541878/3/rawImage.jpg"
+        width: 2000
+        height: 1340
+        isCached: true
   - title: "Biometric myopia risks stifling the facial recognition debate"
     excerpt: "The rush to suspend the use of facial recognition, and the use of reactive regulation, risks stifling the necessary responsible innovation to get the technology right."
     publishedDateTime: 2020-06-16T06:20:00Z

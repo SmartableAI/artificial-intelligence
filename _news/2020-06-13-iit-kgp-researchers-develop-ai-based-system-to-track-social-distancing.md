@@ -41,6 +41,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Amazon is using an AI camera system to monitor social distancing in its warehouses"
+    excerpt: "Amazon has unveiled its latest attempt to curb the spread of COVID-19 through its warehouses: an AI camera system known as the \"Distance Assistant.\""
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-76-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Amazon deploys AI ‘distance assistants’ to notify warehouse workers if they get too close"
     excerpt: "Amazon isn’t the only company using machine learning in this way. A large number of firms offering AI video analytics and surveillance have created similar social-distancing too"
     publishedDateTime: 2020-06-16T11:30:00Z
@@ -110,7 +126,7 @@ related:
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z
-    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance"
     type: article
     provider:
       name: Fast Company

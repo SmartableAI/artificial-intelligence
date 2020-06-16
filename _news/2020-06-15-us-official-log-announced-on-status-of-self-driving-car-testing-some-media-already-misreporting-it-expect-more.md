@@ -85,6 +85,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Self-driving cars and the future of personal injury law"
+    excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
+    ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 44
+    images:
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
+        width: 616
+        height: 372
+        isCached: true
   - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
     excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
     publishedDateTime: 2020-06-12T13:24:00Z
@@ -98,20 +114,6 @@ related:
       - url: "https://www.eejournal.com/wp-content/uploads/2020/06/AD-200612.jpg"
         width: 1000
         height: 1000
-        isCached: true
-  - title: "Self-Driving Cars and the Future of Personal Injury Law"
-    excerpt: "Self-driving cars are under high scrutiny, but we shouldn’t ignore the impact they will have on the world once the world accepts their innovative technology."
-    publishedDateTime: 2020-06-12T00:33:00Z
-    webUrl: "https://www.law.com/texaslawyer/2020/06/11/self-driving-cars-and-the-future-of-personal-injury-law/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2020/06/Hank-Stout-Article-202006111951.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "ZOxsxzy5c7rK8S1Zpp2T2wQiJETPvKbiM9hwB8spthJpsfWPnOi1Wjkp2K8RNG5FWX/onE7iIT2A4gklByDCKZaR/yAz61tE8HvHqanfVXg5+ywXme7knVmzKu4YDhHiXCu4HaO6r1iFN0tVkkx8YSFa16j4QobISAdrAwXXqM2sshDU2c6MGS1XzGOUG+HKGRVy9sNxTIXSY2lveypY4OIEixsBoTYrnk/hV7yMewFPlB/65+AUGmV7XGbaJ66fz2+Ge12NHy57JXz4QZcVCR8PLYm2jmn2YFWZbdHuO/qmedrEQP8DjUIuF+Hxq1ffXQlS9sivbq1nLsyVTTK1mG1itkGsNTP4U5dqZziTGxHPYSf3fDPEvtO/s6/BFpsQJaKWFjMhKq8j+ri0218kfKU2ObS4yR4AEJVhnTCHTqvuo6c1PfbJ+6D5oR6Gi3RS2GR2IlL/jrSO/q9VREypRBIn00YQ7JKREJS7zzC802JR32vooODIJaFZW8iHHy/JAs4dbm1EpL3ZhwVdLZ91rQ==;4EPntj9FzQ/JL/gijYrkPQ=="
