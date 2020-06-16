@@ -179,20 +179,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "8stEGYp9PZQ8SGwUprs14pCLhi60b4n1VKwdiVOLxtWYKRolKi/MJx+ai3Jg+43lAbBhhSg1ngHrvgGgmo/xdN/DtXbyFfxnbyHmlQkMppqRUQtumcVjjaSSqX/6MwUW+PkXU53M9xrmHjYtiiMYFRIPgVU0i1gd2Wo6wE30FiUsXZiIUiSGGeMFPinZ9ohCxe1fEsS/8G3Ayhaa6S7MHYxAp1IuKfh84b+5G50PUEd5MxH79HyQ8dH53m7sFfyLl8Ey+gmLDH2vCBZhVEr4TtdxYCLFcr4f2BjCg/k84nCGpshFqh/grD1TghCAFcJ9kn1v+TkUbAnui89EUCaB0ssnjmdb/sLWQfRu1zzMmx0oByGUVrnqO/UplUKKTxz8QjFcfw0RJBW1Kjp61V1DCVsAFHHqoLZ+vEOJXSE2WfsVcf4B4C76GWQ60RDd8BUUwP3HWAp3FeCo6OWfdoACu2SeCvOS5/2qDLGuofRplG/C0AjxU0RWMsZy2uouckG5;RE3zHO7o+Y9iIf2WkzVP7A=="
 ---

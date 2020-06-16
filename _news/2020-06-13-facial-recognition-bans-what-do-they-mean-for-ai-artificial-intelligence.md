@@ -183,20 +183,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "lHZYdov51u2+4OJ8BB/mOv7tlBSyCRIN0UomcXL4PTE+I1k4ME6S5+kXkw4bxKcQk4w4poNIlobjkhnycvvY0qYV0BLW80LgnPPaO86vcfbjojPWM/sZ3ADiaz9O56D6dRn94tygDKcmPl7fgRv6XM8/TxQPwO8lk8wVWVleUSiHYHQStxW+aK4dADeXvz+zCAkT5SZYAuH74DGS9sVdUdeFe+N5ttxE2ndSXeBorW17U562gjnSNEeNC7N5krg1rsBhDphHch95VnD4er6Vdx82vjj1RCuWrxJopjs7UvBCSbBKG9ZihexrDHl5usMYCi6XYGezwdz+GtAMazFJn8d9Sm5fzi1IST6Cxf/h1lXYJwLdDqE6Y00iMpM+pAl1f/E7EUELkkRuLuGKgrXSU+0lvKKFACUp2klV/i4NIrtmyIPKG7GvGry93E2hZBwjh1Dyf/0IVdAWP97vwmDJKRvrnZF7Dtt73Ycc6/JYhHGD/0Ts+pGfruBjsXJeDAfb;gToI3sjRfx0g2EaDlNHYkg=="
 ---

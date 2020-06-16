@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
-excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
-publishedDateTime: 2020-06-11T17:32:00Z
-webUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/"
-ampWebUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
+title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
+excerpt: "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue."
+publishedDateTime: 2020-06-15T18:32:00Z
+webUrl: "https://www.gq.com/story/facial-recognition-blm"
+ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
+cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
 type: article
-quality: 75
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GQ
+  domain: gq.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/brad-enviro-630x418.jpg"
-    width: 630
-    height: 418
+  - url: "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg"
+    width: 3381
+    height: 2550
     isCached: true
-    title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
+    title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
 
 related:
   - title: "Microsoft bans police from using its facial recognition software"
@@ -190,6 +186,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/6HVAPWLoK7HMxOePG0rG2pXC89U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66922997/acastro_180507_1777_microsoft_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Microsoft promises not to sell facial recognition tech to police before Congress passes regulations"
+    excerpt: "Microsoft pledged not to sell facial recognition software to police on Thursday, following similar announcements from Amazon and IBM that reflect the growing scrutiny of law enforcement technology"
+    publishedDateTime: 2020-06-11T17:32:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-promises-not-sell-facial-recognition-tech-police-congress-passes-regulations/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/brad-enviro-630x418.jpg"
+        width: 630
+        height: 418
         isCached: true
   - title: "Activists want to ban police from using facial recognition — Amazon and Microsoft just opened the door"
     excerpt: "While facial recognition technology has yet to gain much traction in law enforcement, activists want to make sure it's permanently banned."
@@ -371,22 +383,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 56
-  - title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
-    excerpt: "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue."
-    publishedDateTime: 2020-06-15T18:32:00Z
-    webUrl: "https://www.gq.com/story/facial-recognition-blm"
-    ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
-    cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
-    type: article
-    provider:
-      name: GQ
-      domain: gq.com
-    quality: 56
-    images:
-      - url: "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg"
-        width: 3381
-        height: 2550
-        isCached: true
   - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
     excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
     publishedDateTime: 2020-06-11T20:31:00Z
@@ -621,6 +617,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "KJabxJpEbr8yMAH78KwgtM6fmIvJZ6adHl0td3U3FaWUBv/JK0vwkkx+xO2emFmE6UxuCBh7idrKmQyI0UYVWErRDQMHMh3wU4Xltr5Enf4geGGC1fDghsW8ytT6Ux99wuQ0Kc15j0htndN2qLoRTEWKQKN1RvdmArVq9ZluAJsH3B4m0KiPEXFRjO4670X33BF7830lQgaQsl/NTz8ONiSaNJFGKA3SbX886D0P2aU0wMEbo1pPIu439Aqkmfzp1ZyQJvIwnjB1s7MeFS/mwSKSHxQFn2MRBSZogCTagyBvfjKPwhQwAha1CJjBV6d24GMWSI0YIDKY8iz2j+C6C+BmfOKxbDtyZAcdGcqDi0LQqPW79leDHKEiCAbKxwmZ5fBn/ltcQz5pzvUxFASlRjQFjvAUn0zWtPv0977Fc8sHCBFfCyPAnPwIoPGVkFN8FowxKdTT56zVUCOeZBiEgdddl3JEJ4n4FZ7DBm4hYfQpbeWuSJ0xpFmHJv9F4y18;o21YBQjVd/DggMpsfcBD4w=="
+secured: "94Hr8blyFg0ykCBDEHkqCih3zRc1SyF7t0eOaH0s/UMKLCBpy0aFmZGgYqlNQ8c6oJV8KjAOBOsfkfuuResA2Z6ARcqi+vSXVqkeMJkuUtFvy08TX+oO2RGvDL6z1JMiepVQtJVPB6QInm+pTQHUnJOYKOhyQpXwkvHgCkwz+jV6rHrGgbn4I8+joFkoT70D+qTzI9QHY94b5hW2Zb7BYWd2yKuPppi3YbeUGDcfMttrqSaS0NzRYICTq25Z7bLvZGbWfbt6FLoUoUizgSaO5LuiOzNSQa0E0Uht3GljCuhb6/o9ZBHs/eEDJlk1oJSVTape3F8y7lyu3TC5MFNeDg==;t0JHbgk34XqUVzm+weycmg=="
 ---
 

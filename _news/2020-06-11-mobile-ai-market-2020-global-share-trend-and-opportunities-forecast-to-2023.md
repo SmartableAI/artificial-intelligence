@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T16:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023-2020-06-11"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023"
 
 related:
+  - title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence of Things (AIoT) market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence of Things (AIoT) market will be able to gain the upper hand as they use the report as a powerful resource."
+    publishedDateTime: 2020-06-15T22:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast"
     excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ..."
     publishedDateTime: 2020-06-11T16:46:00Z

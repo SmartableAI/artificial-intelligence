@@ -182,20 +182,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "FGohHq3eS7m4i4u9Hr5dYFU/mLjK7rctJfPYg56GjlFNcPOf3u/xRUbDrvJcZ/u4qNA0jh1t5+bR4Nev/Fr+CjLrY6j4VtouSYtOsdiPR8OOMPtGK6iZ+fXLsgovCy7RjjsjJtwFyJ4bFpsxIr+TCC/IBMPHX4XyjLQyuVgIzUxlKSkJYTDXl4o+mLxpINDRjR/2K89wco33icfuQdLjBWEvU/ixOGirwjSsZde08y17psRFWSY704iru0gccD7k13SQgYk3bgUvsra5KCwKd2prlMjTL8g5WKUHMh7+ug4PbZy8QTySu06EwcNwwwXhZFQWR+tJ7WNQpR10YLPRtoBsfPM7FbBPNoxsCKCezJ+2WxpoDzho3WnK2Z20MZ5Wpq5OWOl2Wwzr1Lt9GhgZ345GIusJsQazc1XzEtxtdwB8BPrL2lnc++t2B0Sf/zB1cJKP7Z/79V/c2C9iUPJYyXzU4tvc0iHADnkUplWSJSBrJFQd33k1MVR/17m2fbkO;/k1Zs+PeqrgcM0ps8htZuw=="
 ---

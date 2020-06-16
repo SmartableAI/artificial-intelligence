@@ -68,22 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon issues a 12-month ban on police use of facial recognition"
-    excerpt: "Amazon will stop police from using its facial recognition technology for a year while it waits for federal regulation of the surveillance tool, the company said in a"
-    publishedDateTime: 2020-06-11T06:49:00Z
-    webUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/amazon-issues-a-12-month-ban-on-police-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: My ArkLaMiss
-      domain: myarklamiss.com
-    quality: 44
-    images:
-      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/01/Amazon.jpg?w=960&h=540&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon stops police use of facial recognition technology"
     excerpt: "Amid nationwide protests against police brutality, Amazon has announced a moratorium on the use of its facial-recognition technology. The software has long been criticized due to its history of incorrectly tagging Black and Latino people."
     publishedDateTime: 2020-06-11T16:14:00Z
@@ -237,20 +221,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Amazon bans police use of its face recognition tech for 1 year"
-    excerpt: "We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children, and Marinus Analytics to use Amazon Rekognition to help rescue human trafficking ..."
-    publishedDateTime: 2020-06-11T05:52:00Z
-    webUrl: "https://www.sify.com/news/amazon-bans-police-use-of-its-face-recognition-tech-for-1-year-news-international-uglfOmhhgjage.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 24
-    images:
-      - url: "https://www.sify.com/uploads/1_ugkmNIejfgfch.jpg"
-        width: 512
-        height: 341
         isCached: true
 
 secured: "hIw2uOZ/l7+Ni2GufsH+3M0UHnOXdQE8lQub/yCHZKCHPee1AfAxCfvq6zfy+RtlWNL2ebwc0VBVqgFuYP1eLZa3kLS9ybMJokHh+lvlLtW7HD6joE9QhvICI339KgAKnM4lpwIXWEFldG86Ul77h1OIxV3lo7W+Vc0CJOJuj9aI/J8zBdCxb2xC/92HxW6ysrU3iAiHrsvJ12HA1G1Ok1mhvkwivrKrSYZYwmLpba5b5gYoNCPIcpYohQFEsNDq93KhGDmYiaKI+zNY+hoKhhyZnfo3GJUImgVvpeQ4Q3BxMAPs0eC7Dy3ZfisM9bHQ;kuM0u7Gj8HPwZZB3e0wYrw=="

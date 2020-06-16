@@ -182,20 +182,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "5NkqfJ5iN3PYUzoHXf9/gv4/rxhLhbmNNyW8uqlKibGgQ6iij/tPu60pNkkZRzb83mB2O2yyLnMnQU2qDZqjUEgzXf54hIYU5sHuRGJZbwROnrLUvnFVkLzK4qCFv+S3MWgUdQC1Ajeu5pV6nZ8ycAVULC/X/rzSSkpIK5yV3eEsGazqcIYzR+1q6DHOvx0Rhpe0BfDX4Wf38DflAyjFNPmwTGGNNU9yIlJMhA0f6Dmvs2CQGtiVQPUurQf18g8rTO8p7bT4QG47Z1SGfCaxvWR3+jwXqwBC/vmzA/mzt3DSX451lSQWtf2Ga05gVWZb;pqkS/IXZUUH8aVY8TiCzyQ=="
 ---

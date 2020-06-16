@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence of Things (AIoT) market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence of Things (AIoT) market will be able to gain the upper hand as they use the report as a powerful resource."
+    publishedDateTime: 2020-06-15T22:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xEn8Y/uPde8kF9oHBn4vqby2blmQFuiFEn6RK1bEgPW9uHxafVyWk/NJTWZ4oGFoi1P13epT1Y5RqYQrMt6YWS5iYJrzPssqNQXDj1y26BRwOFnbFaD9WQuUguE05U8TCP5GNWyQTxJz0LFtU3owVeG6UNRaQxiImkzaKNNvQlj5k8EIj/w9rN4s94NVOGoqrrJnlzOY7hJRjt8HOvk0YIMFmgi0CdEwA0pQ+wrO4L7fmpNxeKe+SP7qdGUV6jDXfCpEYR8NE+Q4WwC3FjN2I59ewB3tdGGzbQPtl7KjZlXD+zoq2JGp+kJ/Gsujv+Y7;+l4FKb9QD+8tffdNHb6z/g=="
 ---

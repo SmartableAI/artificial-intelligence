@@ -237,22 +237,6 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Amazon bans police use of its infamous facial recognition software for a year"
-    excerpt: "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated."
-    publishedDateTime: 2020-06-11T05:58:00Z
-    webUrl: "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year"
-    ampWebUrl: "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 71
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft Won't Give Facial-Recognition Tech to US Police Until Congress Acts"
     excerpt: "Microsoft President Brad Smith says the US needs to first enact a federal law on facial-recognition tech before the company will consider selling it to police departments."
     publishedDateTime: 2020-06-11T20:18:00Z
@@ -271,10 +255,10 @@ related:
         isCached: true
   - title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
     excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-    publishedDateTime: 2020-06-11T16:39:00Z
-    webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    publishedDateTime: 2020-06-11T11:59:00Z
+    webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
     type: article
     provider:
       name: VICE
@@ -387,6 +371,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 56
+  - title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
+    excerpt: "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue."
+    publishedDateTime: 2020-06-15T18:32:00Z
+    webUrl: "https://www.gq.com/story/facial-recognition-blm"
+    ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
+    cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
+    type: article
+    provider:
+      name: GQ
+      domain: gq.com
+    quality: 56
+    images:
+      - url: "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg"
+        width: 3381
+        height: 2550
+        isCached: true
   - title: "Microsoft Joins Amazon, IBM in Restricting Police Use of Facial Recognition Tech"
     excerpt: "The companies urged lawmakers to establish rules governing the use of the technology by law enforcement. Facial recognition tech in policing is controversial, with civil liberties groups pointing out its potential to deepen existing racial disparities in policing."
     publishedDateTime: 2020-06-11T20:31:00Z
@@ -621,6 +621,6 @@ related:
       domain: officer.com
     quality: 4
 
-secured: "o9szbOxyqlB9lpioUTld2CsQCCpdc5n6mZxcdR0EAx3ekyonN/bub/ISif08A+ZPqazNWu0lLlg9MtxYAk86sUeedm1n8ZKe94kmkRAyQZlB7A3ioOSg86PhVeUsg8ifySrPkcA68Ha0VDkJy0/8A3ZNZp2ozyIkSSztmTsYr+RA88vTWYbOJ7OlSsAbAxMQV+6ayqBpBLm9Dhtcjq4A8/WlY3u4EhmUG0rfsAKqW8LyhXEzJbUwC74nzvX3RTmzmutT1RH03/gzh+7KJT+aI6DshT5BpwtnnQU/GcvZaVxW2htlRZhfJRnQ1rBJXgOMiHa5iP21esjjtFy0KB0AiA==;skox9hPsqXIgFc3fG0qj+Q=="
+secured: "LriuEldAQdpl7336NUPYumSwvYdtLl8bu0YF8FRs4NMWKyhi5hy5uh487r/Sv83CPIMrMlxUT7LJrpRtbhqz9OO299kGgpuqKztsy6T4sa7VT4MbATzdmjoxrZ037Xsbv9jnyFk0ofx0eGTG3uwtB6mfXxOzJSOk0s7jbpZ5tzaskVB8D8G+n4u4dDAKXMZBMYmfsVT7eGRXaeT7tarySpp8VCpJwEKsEhbyphg2CKHsOW3QekX1ZISXaS62Ts47yqH2NIgjPyQ+G3GQ3NkpLa9NZapks3rxpm0AuobXiYcU+47aa29ki5naTRwcEgJBlW3O6L+JadE2JE3dmSawBYT8uRCMMib/YmcnRZwWHQLY1e50PzpJK8tXtYzRNu2MGfEJumrY/ltNMhA2pIJEeBDlE7SVvcZWaecsydxnm2LTJmwKGlySMuQrOLZ175a7ehC3xDBTf2Mt95zuPUZrPimKy6SgwKgzbB3WhwvCY2mvsbvOyXT8JFWA12rkdxpWGLKWzYIo9RvrTvyNXrmp/Q==;/Nl1UnyLFpBIGT88PD0Fqg=="
 ---
 

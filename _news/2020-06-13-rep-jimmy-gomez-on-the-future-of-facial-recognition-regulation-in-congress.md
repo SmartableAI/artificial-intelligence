@@ -183,20 +183,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Amazon announces one-year pause on facial recognition for police"
-    excerpt: "The moratorium follows protests against police brutality and criticisms against Amazon's ties to law enforcement."
-    publishedDateTime: 2020-06-11T06:28:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Amazon-announces-one-year-pause-on-facial-15331241.php"
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/41/10/19534399/7/rawImage.png"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "ZHbne2E/ep+ZbE4rDPkWF6Vfh2LdsPWKGAjHPwW2QChDD45QJtf4ZluoQ+w9Da9hZfiT913sJ+ZszdeuJGMtwGHX2XaXW1HknPLftzlrMuatUFpnM/C794yQxuQkD1ZPHgAtSw47jxW23/pMZlq+3WQU1atDB7Q8sZJxrW0ptKseHyD3Y6olHoyQRHAka/euAch3swSNzDeomcJP8+Bfr6kZ3UXjewDdrsuM/yQksHxRurjxOpP9hR+jM7SdM7HvYWiXjq8ifHZys57aulSk35eSUZwugCuA7PswPsgyRGnxOcJdlUTZu24vrz4letz7cLYWRu8szPE8r5qUCVHzNm0oguBv5e0tL+oCc8aHJ9nNHORn0KeAc3e7XpQB45W/BrcV7nQTBajDwpVsqUr38XWUOJOFNbwWPvEYQwrkoQkXEd9cIqi2QvFEwUQtsf6yL/pEfttbhBdfmcaEVpKAbeuPJuiB6byt/13VJOQwmMq8WVgtu+SJZ7GTPBjHL0m/iL5dciwMeEw2m0OzCXlDpw==;tBROKrXx3DseTW2+iyGg5g=="
 ---

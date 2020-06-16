@@ -1,0 +1,48 @@
+---
+category: news
+title: "Artificial intelligence could be used to track invasive species"
+excerpt: "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,"
+publishedDateTime: 2020-06-16T00:00:00Z
+webUrl: "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/"
+ampWebUrl: "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: The Daily Telegraph
+  domain: telegraph.co.uk
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/news/2016/07/03/Japanese_Knotweed_Rin_full_flower.B7G6NM_Invasive_weed_Jap_trans_NvBQzQNjv4Bqxf0udJPckKC_3Kw9fqS3NdVSpfFxuU2jZG0HzVweans.jpg"
+    width: 2880
+    height: 1800
+    isCached: true
+    title: "Artificial intelligence could be used to track invasive species"
+
+related:
+  - title: "Artificial intelligence can help track down invasive plants before they take over verges"
+    excerpt: "The UK Centre for Ecology and Hydrology and Birmingham-based firm Keen AI are building the system to quickly survey areas like roadsides for invasive plant species."
+    publishedDateTime: 2020-06-15T23:07:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8422903/Artificial-intelligence-help-track-invasive-plants-verges.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8422903/amp/Artificial-intelligence-help-track-invasive-plants-verges.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8422903/amp/Artificial-intelligence-help-track-invasive-plants-verges.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 48
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/15/16/29633872-0-image-a-16_1592235538791.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "WImPVCLgIErBOCdwMh66q7mNQRFe+9QCioOePZZzJkdF3lZnxLq4UKCV45lsBef7IMBz6/KizK0d30BZ76yiNJp3WlvvwyeYCM6AgmsaaXmrrMufgmrrItUV6PNs94tLqhZUZfMhjFiLhFfO+TDPmGQBAvjpYaNu72I+pCUmfQhQYwkFC3y0CXVv4jz46uyry2LQh3maqEEbb4TqSvVaqi4/7XPgxA8fnIG07Y17yqiLKJTXmBhkYTkHJFp6gq5yGjGLMmMYsg43IhSlr+aJAFN9K0X19ipX7Ff9mqrgWKAAqXRZ409iKVB8blbx3727jDxAWzqgpQVOhu87jxNvBQ==;gVRXA4uEeBSfuiujJ2yUBg=="
+---
+

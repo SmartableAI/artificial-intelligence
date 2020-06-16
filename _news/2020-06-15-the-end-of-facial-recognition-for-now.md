@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Microsoft bars facial recognition sales to police"
-excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-publishedDateTime: 2020-06-11T22:56:00Z
-webUrl: "https://www.bbc.com/news/business-53015468"
-ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+title: "The End of Facial Recognition -- for Now"
+excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+publishedDateTime: 2020-06-15T22:36:00Z
+webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Government Technology
+  domain: govtech.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-    title: "Microsoft bars facial recognition sales to police"
 
 related:
   - title: "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?"
@@ -46,6 +35,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft bars facial recognition sales to police"
+    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
+    publishedDateTime: 2020-06-11T22:56:00Z
+    webUrl: "https://www.bbc.com/news/business-53015468"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
     excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
@@ -182,18 +187,7 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "The End of Facial Recognition -- for Now"
-    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
-    publishedDateTime: 2020-06-15T22:36:00Z
-    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
-    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
 
-secured: "IX6TmmQf+O5V65L3PAsGOsBbakPSl3DcLjNUT3uMhnWh8zW4+S8LfExDKb88KIvj09dhC9RC85OaxmVkXSkEFQ4eNCgBsJNbIunDj7QbK1N6J/ETe+3VXQUYyiTQMonMYA+i5e+aRs+aJ3WAUaUh2w0KoUD354EqTGaIamnrKMk66FZJZQsfq1yWq57NfvAH39uMX2cNCkzlBbFHtc3+8zhJRxEI9xMmAZTwSAht23K/4bwdMAxc/JhtiWNtdxW80hM9DB7jgSyvfCWSmqC1BJkvYIk0PY+aiJJIduAUGxDI20Gy35Myp3IVxllXbM6a;8v2HTHE3+rLWGo/Y2Lbnqw=="
+secured: "5BmMOHu0PVm1XWgQn6CaONfek++PAFf3kXq3QeJBP5YjYwLlOf+aWvhwOPGB0McNCSHYMhvA9X60o2mzcOrA5CjOoS/Y6fd/x2BrjpcMjraNUjA8EgKPazfpJ+NmVJn32exbmtnaHk3Q11IMnsMb8y7+bCwBhsIqDriqHwFMa3cqsMY9f63EHICG4ZfiSw2AqEb+f2ahIznY6rVCh3oOw3y55ZzvHu9nDGEAX32ijCwb8TEAn/oxphyAjdZ6Ok1amMVjfyTVetnwgKHESUmgLcTdjxS+JOUYG+EI8fLtEaydYgeJN4n1NFOeOyPHWmlK/z5eHlGjj/6qdgOWi3ovsnavlkuAPs9dgFoFilNJX4yH32o+xqiQIIY1opssHcyiZnoliCEY/6vSEgMkn9x3SV8JdPoCvn2FD1Cf6h57THRlaUXfb+qrfO0Jt3MSdYHTgtpPbVOZCyPjE8BU9uASBXrNdeFBRU9m7frP4XKngKGgNQi7BSv23dyIukRpGzmz0668bLwKMZu/CVKDFZfueA==;Z3puHnhci4Feb6XtNdhX4g=="
 ---
 
