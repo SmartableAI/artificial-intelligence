@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-nig
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

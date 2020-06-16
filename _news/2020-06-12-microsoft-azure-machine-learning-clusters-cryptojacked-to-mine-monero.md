@@ -8,7 +8,7 @@ ampWebUrl: "https://cointelegraph.com/news/microsoft-azure-machine-learning-clus
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Machine-learning clusters in Azure hijacked to mine cryptocurrency"
-    excerpt: "Attackers recently hijacked powerful machine-learning clusters inside Microsoft’s Azure cloud-computing service so that they could mine cryptocurrency at the expense of the customers who rented them,"
-    publishedDateTime: 2020-06-11T21:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/06/machine-learning-clusters-in-azure-hijacked-to-mine-cryptocurrency/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 51
 
 secured: "4jjeEZZW+hrruUwWnQj2Q1cDP8Qk7y3/Om+g3rZZ/8P0qHlD6jmLZ7Msuq0BxpeGzAxSQR+GdJJarMl86Cuu2IDTu5FXZk2MyBhrbkXQ6X3/Eq2HA7YTAOEmpA0PUCNugqw8Cg1EPJ15EbEeu6rD4JTOCg9EWjWr7tSoq0g6B1aeK+dN0UgiDLPk50wHnMPK/EJolTGFg+Tsrn/gL3MlTk+6CnUCywMHtY4qIFt/57dYIq26/W5BhZPMxjjRv26VknVBoqyH4d72ruxTn9BGHKA14oabraafgSw+dQeKL/2s2ecT6nK3nbsJNjBNnngNThrRJGzch2YaIGAw6x+bW4OIdySJNxWRBrwBCZZdGv0vEaT8QX3HL02FlvNSh18Bj563zv4uov+KewUbVhMYMllai/hmE7s6HHMmIjFpYgsRTARflxfFN33/DlhL4wT7KJEUOPpf66+g54uaVecCdI6M/zxQvNylpjg5BhatmFYWZq/fBThnkBp5wnAi8KSs;CvAd3PN2aATnbmzpu7Us/Q=="
 ---

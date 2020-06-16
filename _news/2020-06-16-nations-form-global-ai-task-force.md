@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nations-f
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,17 +53,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 37
-  - title: "India joins Global Partnership on Artificial Intelligence as founding member"
-    excerpt: "By joining GPAI as a founding member, India will actively participate in the global development of Artificial Intelligence"
-    publishedDateTime: 2020-06-16T07:38:00Z
-    webUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/"
-    ampWebUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 36
 
 secured: "jY4MUxX4jT1FYYjRMa6zf3Z2Vjc6V8cJJQj4LHp5yj2SWhVbe9t7EckjH6E6Y2OoEUmGxZinxq20Cl1ap2KP37pY6e8oc2tiSFKrCW/UvmtIAFaFENA9ATxdh8VMp/zEYC/lb3YwFVhvc5x+Kd9TWowIf5mVuAl8r/7M4eOv5OC6JEVoIWGGQ6JD8ZhSamm2fZA/VC4aL1XZBFpT+71Xud0BUGn1bGKLqLwXdDMDidGxExJJBRX9H/WvXpgGVrRPXAygrHDjHm3jv0Ur/4NPCPYFBlBfiRx/NYB691zdd0W3hDUaJke8dJXDmuM0tFHpccaVpTAaQKduij8llFJKQQ==;+eKqYv4ByhcREbEM68K7Sg=="
 ---

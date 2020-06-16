@@ -25,20 +25,6 @@ images:
     title: "AWS Announces General Availability of the 6th Generation of Amazon EC2 Instances"
 
 related:
-  - title: "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors"
-    excerpt: "New Amazon EC2 instances powered by AWS-designed Graviton2 processors deliver up to 40% better price/performance over comparable x86 based instances."
-    publishedDateTime: 2020-06-11T22:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200611005895/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-    images:
-      - url: "https://mms.businesswire.com/media/20200611005895/en/797347/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AWS Releases General Availability of Amazon EC2; David Brown, Tim Miller Quoted"
     excerpt: "Amazon Web Services (AWS) announced the general availability of its sixth generation of Amazon Elastic Compute Cloud (Amazon EC2) instances with three new instances powered by AWS-designed, Arm-based Graviton2 processors,"
     publishedDateTime: 2020-06-12T18:12:00Z

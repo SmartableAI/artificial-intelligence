@@ -3,7 +3,7 @@ category: news
 title: "Self-Driving Ships are the Latest Push Towards Automation"
 excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
 publishedDateTime: 2020-06-15T20:20:00Z
-webUrl: "https://www.engineering.com/Hardware/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
+webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
 ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
 cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
 type: article
@@ -43,7 +43,16 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "FCA, Toyota Among Automakers to Share Some Self-Driving Testing Information"
+    excerpt: "Related: Which Cars Have Self-Driving Features for 2020? Companies participating are Fiat Chrysler Automobiles, Toyota, Uber, GM’s Cruise, Alphabet Inc.’s Waymo and a handful of other AV-focused firms: Beep, Local Motors, Nayva and Nuro. States ..."
+    publishedDateTime: 2020-06-16T14:47:00Z
+    webUrl: "https://www.cars.com/articles/fca-toyota-among-automakers-to-share-some-self-driving-testing-information-422855/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 2
 
-secured: "cG9P3V+zFYtdu36L+ESEpvASLgFAi09bNwEKaG4weJoR+zRSxITU+GiDx8D44enD7+3zpI5qPo2In59Jd0NbTckp43f0ARalEcCCz3evqRg+L8/KrfkBwbJiNr0S36v0qM3nwf/nsCMd3qFzZj6uYik9YCs2xlBoqPdj0etbTMki4dhx5T793aco88eNrkkmP3kAwjWvzcdW+FfFF9qAK8Io9zPuWJxIhoCpq5/6benUQdkwk7fk8JAUk8p61jklUPWq9skOV44yaaqShrwND5yhULgXhD4o/H/ChlwV3lQWj/bazfVg9Yv1wQqORMGKwTro0g1EXP38ISAZGj8zCRETbgIkqxnQcEaI6R0DUOA4qOyY7nW+xOgZCCfDTvkL26r8+ve0qAnQzazpgBsXoblSoMEDAWX3hYrWwl/3g1nPMr3Pje+oPCByCQoVYHagEM0IflwB71HeiEzDwmcM99iLx9SD61myyg4fsWfXymWKkQk5q7z1lBGdtYgB9yFG63i9Ji1bm+GwmU8M6a8fBA==;DBsXuRDCLrxPgzGlK0IicA=="
+secured: "XzctOacVfGf1xkC7/lG6Rkh8QFx8IC61J8JuvHV3740lpISH+qN0laLHgVJ125fQ86VDsdOg94F2gu21e9zACfZiIaH9TBsOrcrILIBuWG95m95nGKbrZAiepyfbdVg/38MHNsZxF51qKevrniU0bLpd6T0MiWs8Ri7cU1ZE+sf1etW90FgofTihdYm6XBRPd7HjDIOe8XcbTA6UrkfnMcPS9TYmbMvSK8KuDMmR24T4L0/2qMT6HC6E0BJfJkF2QzmTJMa0z5qM9X9xvbTuvR7FNrdS5XPafS6AKlrOWvDC9jjTRQ5bTIODCALvDXP03pEEHnzn0h0h5sFs0sJX4g==;1UzsF9h1vuZRpqkYZC5WyA=="
 ---
 

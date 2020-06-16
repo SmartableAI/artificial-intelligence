@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon and Microsoft pause police facial recognition and demand regulation"
-    excerpt: "In the immediate term, Amazon’s moratorium will have a greater impact than IBM or Microsoft on the use of facial recognition by law enforcement. Amazon sells its product, Rekognition, directly to several law enforcement agencies;"
-    publishedDateTime: 2020-06-11T21:57:00Z
-    webUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/"
-    ampWebUrl: "https://qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1867967/amazon-and-microsoft-pause-police-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-01T193812Z_1_LYNXMPEG502Z0_RTROPTP_3_UN-ASSEMBLY-e1591912509279.jpg?quality=75&strip=all&w=1400"
-        width: 727
-        height: 409
-        isCached: true
   - title: "Microsoft won't sell facial recognition to police without federal regulation"
     excerpt: "Any future law must be “grounded in the protection of human rights,\" said Microsoft president Brad Smith. Microsoft will not sell its facial recognition technology to police departments until there is a federal law regulating its use,"
     publishedDateTime: 2020-06-12T14:54:00Z
@@ -210,22 +194,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 56
-  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
-    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
-    publishedDateTime: 2020-06-11T21:07:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
     excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
     publishedDateTime: 2020-06-15T16:20:00Z
@@ -258,21 +226,33 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Microsoft won't sell facial-recognition tech to police"
-    excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
-    publishedDateTime: 2020-06-11T21:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/?spt=slh&or=2"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/06/11/Microsoft-wont-sell-facial-recognition-tech-to-police/1521591905482/"
+  - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
+    excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
+    publishedDateTime: 2020-06-16T15:30:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2020/06/16/police-face-recognition-tech"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
+      name: WBUR
+      domain: wbur.org
+    quality: 39
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1521591905482/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Microsoft-wont-sell-facial-recognition-tech-to-police.jpg"
-        width: 800
-        height: 534
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
+        width: 3000
+        height: 3000
+        isCached: true
+  - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
+    excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"
+    publishedDateTime: 2020-06-16T08:32:00Z
+    webUrl: "https://www.wxyz.com/news/detroit-demonstrators-calling-for-city-to-cease-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 32
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e724835/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F170%2Fbe88c4e651db4a7dbe102614d7272948%2F17003cd9f1d84f1bb53047e329889f17%2Fposter_de86b411c6b74ac4822674532430b7ac.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cH1kYCpDses88vWASUUqOsF88lkjUFAStki6uI7WS3Xs3UOtcnP2qKP3QAW0O0IeHmhxtp3gCCYOwxVPGlFNy0SgG4KpcZxILnrUBZXxFo5oYYaGUBzRm3Noc4hhWKYpNrgrCRYyV7XPB8m2uqOcktNzPFvjI/HgXR1zo2Z8FTw4olmfHEgFcVRyuWHo/Yxh7w8Nni5eRrQlZt0njAal5wySY8MJ1MT0bU0OMR/Ta1p7wuBaFs8Qprh25Oghpfc3mfY+YkpWJl6OoLGNsqIb1gyT5Nm/ZO+H53eB5s7i7MDRbj+Bw+7Udo+7HxtSNgvvt/yVYE0qie3iqwuBnSMLzoWdUvfdHrBu2BnKIWC/hGx72gYOajp8O4oPkD1rZZ621EpuHDn3BzBVlYYu1JVGJk4DX8Cf17oVnaY7sm2Enfcv9QgpwCKR18WWUxCkDwFRFT6HHEN44dSPpasLIF3JqVAwA7YGGcOYagL+kE3pBzr0GlZp8y1Kglkh5JD6cdBugaJ9qFSttyPIzrUcFCYiZQ==;kprugFuyR5RqFEFyAqceEw=="

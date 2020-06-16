@@ -52,17 +52,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "India joins Global Partnership on Artificial Intelligence as founding member"
-    excerpt: "By joining GPAI as a founding member, India will actively participate in the global development of Artificial Intelligence"
-    publishedDateTime: 2020-06-16T07:38:00Z
-    webUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/"
-    ampWebUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 36
 
 secured: "Ap8Ogju7I7qRu6/XR4aSuKI9IatFWe5NRzSnaxp01fnEC1V1CkTinHnN2R06x32rbjKYu4mk2ulqx+Y3Nuk0IyvvePv+XqqtpaaX/bGIpEbukILPHzkeR3AS43qsY49nNM0y4OIV6IYgMveyMj0XjEdtsxJ0BSU8Nlr1G9/55l4Y1mqiNLo5F+DihDI3zOrlNWJ9oLDQQ2iuOoU5o+sKMt4pD8VlFSbglFbo5Bj08SNMzOetOIDD13CzE1ry6S1ebw4Ttl+h9BXlnvXqoSwUBxeSUMohNBrxWtHSTvuDszopyPQZXscscsnui5K2PS0maxxEAbZHoCS2snX+PCOigz7Vxow7LMbbHiilSmHKIUpAfz5s7bXa6gA458Njrf7cxzMDp+M9tPIzkAp8U9YTM+EC8hyHPoZmn9nduSvysms2ilI+Ikkp6Fc2voGNyg5HAWTPcWXBZFX+FbYCh0Img061JZD8r9ONMQtyTIeerc9LvKZm7wk2JZnldEVRRLQjv4u82cs8L00hq0wm4DEfUA==;nBQAw6GIkI0ORqzxCLmfUA=="
 ---

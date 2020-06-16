@@ -25,35 +25,37 @@ images:
     title: "Controversial startup to continue supplying police with facial-recognition tech"
 
 related:
-  - title: "The two-year fight to stop Amazon from selling face recognition to the police"
-    excerpt: "In the summer of 2018, nearly 70 civil rights and research organizations wrote a letter to Jeff Bezos demanding that Amazon stop providing face recognition technology to governments. As part of an increased focus on the role that tech companies were playing in enabling the US government’s tracking and deportation of immigrants,"
-    publishedDateTime: 2020-06-12T16:05:00Z
-    webUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight"
-    ampWebUrl: "https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/amp/"
+  - title: "Detroit protesters take fight against facial recognition tech to city leaders' homes"
+    excerpt: "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces."
+    publishedDateTime: 2020-06-16T01:58:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
+    ampWebUrl: "https://amp.freep.com/amp/3191887001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 67
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/comp-rekog4_web.jpg?w=3000"
-        width: 3000
-        height: 1687
+      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/94f6c4e1-8e52-454c-9844-73cfc1d65727-drivebyprotest_061520_kd774.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft won't sell face recognition software to police"
-    excerpt: "Microsoft President Brad Smith said the company won't sell facial recognition software to U.S. police departments until there are laws in place governing the use of such technology, making the pledge a day after rival Amazon."
-    publishedDateTime: 2020-06-12T21:17:00Z
-    webUrl: "https://www.sfgate.com/news/article/Microsoft-won-t-sell-face-recognition-software-to-15335316.php"
+  - title: "Facial recognition deal off council agenda as protesters prepare to march on officials"
+    excerpt: "Contract off agenda as protesters prepare to march on councilmembers Check out this story on Freep.com:  An agenda item extending a facial recognition contract was taken off a Detroit City Council agenda before protesters who oppose the technology prepared to march on councilmembers' homes."
+    publishedDateTime: 2020-06-15T17:41:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
+    ampWebUrl: "https://amp.freep.com/amp/3191887001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 51
     images:
-      - url: "https://s.hdnux.com/photos/01/12/42/75/19541878/3/rawImage.jpg"
-        width: 2000
-        height: 1340
+      - url: "https://www.gannett-cdn.com/presto/2020/06/13/PDTF/dce3e240-6727-4524-926c-0278c196abf6-protests01.JPG?auto=webp&crop=2293,1290,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "a7JVFG5x7dZXK1x81QyLSa6fjd1mzToJ+Gh82SH8RVIdJypCcQk7VvkhVK1DYTtPlmaX95IhAMJyRrCtqShLGCGHQqoLntSyTOZBbJEO4I0M6snteM70LVFOxuPLENO/v5Ky5FJ/G82maZXM2AjKnBQLpJzete92oCWMDbeoMRyHlw+JnoHjDEOZF5g/fGTXszkaB/cxCuu3It55LuMKbiQpvOicfcX9/Gf9dmESnL0h8MLlQQ9POtfEi0eAHpSpjEVTFtcYnGxK6FhEW79FLfzD9wpujezoggGbd9t60fBHJZUqC4iHM5Jxe0fHqpqkWGXEMoNC426y0gM3M72jk2TqucXOqYOuHSdB/ywaNQk6YMQTJ3qfBtxkMbm4UBFMSHVSiV8ChvlglBVXAHQJa35Bv3GmDn88Wu/cD92uMonjdLy4C8/a4dKjpaAWecuQLdoiwyW0a3GVRlqNhZO6hUS0D9RW0Rna1TRRfj0MmQcHuRtNBuTUDcWL7gKa/8sjAqy7iTqv4snyxKt+6WRdIQ==;OcswHkN+A3qiUPb6DbsbMg=="

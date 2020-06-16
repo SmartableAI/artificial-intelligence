@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft bars facial recognition sales to police"
-    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-    publishedDateTime: 2020-06-11T22:56:00Z
-    webUrl: "https://www.bbc.com/news/business-53015468"
-    ampWebUrl: "https://www.bbc.com/news/amp/business-53015468"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53015468"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
     excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
     publishedDateTime: 2020-06-13T16:48:00Z
@@ -67,6 +51,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/rep-jimmy-gomez.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Portland, Maine, Delays Action on Facial Recognition Ban"
+    excerpt: "The city postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
+    publishedDateTime: 2020-06-16T15:27:00Z
+    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
         isCached: true
   - title: "Amazon Finally Sees the Problem With Facial Recognition"
     excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."

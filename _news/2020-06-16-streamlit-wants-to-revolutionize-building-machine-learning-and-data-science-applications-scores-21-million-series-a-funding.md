@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building
 ampWebUrl: "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg"
@@ -30,6 +31,22 @@ images:
     isCached: true
     title: "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding"
 
-secured: "f0fvMF5AgrhPNpYpqt0NPD0Mb5jHuoRxXLQvA0cvObvUKp2Uvrnz4nmwNd8iHGaZAQuWjlbzZDjxtM5580m6xjjJ0Vg3HB2r/y/iXljSzOAIaq6dcXNgCgsu+3JwKod7h6ihYfN9vF6UWc/X4IVgCes98dSm16WAu9fKOeJ1d9bnUKbr8EsqQ1Q6hshEI1+yrCUxfOkC4BjvpvJGPeBdc19XD178rte+AGGEEbbFodaDqfBWxATnUC7+v+z6BRTbejXL9pYmdhBGC31COVzdzAgEoJK25lmWZB7Z++VHrYUq3Zis2i3gZ34p+8vs6RWQMyYXWihpp+Rw4BFfTMt1bw==;WLKrJZ4AH019vJOQdWZROA=="
+related:
+  - title: "Streamlit Raises $21M in Series A Funding From GGV Capital and Gradient Ventures to Amplify the Impact of Data Science and Machine Learning"
+    excerpt: "Streamlit, the creators of the fastest and most powerful app framework for machine learning and data science, announced that it has secured $21 million in Series A funding. The investment was co-led by GGV Capital and Gradient Ventures,"
+    publishedDateTime: 2020-06-16T14:38:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200616005364/en/Streamlit-Raises-21M-Series-Funding-GGV-Capital"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "NcTYSbg0/rXi0FmQx+5zuNgkQbtnmUn9ObVIiV4kg+wN7FljX+RVk/+djz1dO5FaCwtmFojSRfeuLLie2h3Ttm7kuqcpUJNGbUKxqffq7VRrqQAVHepWjaqOUYg01MYUrx0g5eHEH8dRYhTBIAbB9JaSu5rGKpoTUDPfC5Dmo6uOW9mF6/alEj04NsUpPereokBCpNUPFTOl+k3LLEukXA1vHotGslFxsQINzfDLJCOYFNPJ37VfkDPbE+SqrRFL/SB2xORGthHe/t95XqG6bjjjcflxj5XW+yIzAed74vGtyv6KrlL8eKRo68RzEicLUC8TB74DHaGH2UuM0b3z1L0Pc6UfMNIJ3xI5aAWgK4gRRCCVxUYsCrwLOifvOrBbDqle0sWGXlOnQDSoNT16y4r73Jwg1m73RnTScgBV8PjD86vGSfbWDAjoJ9hjljnaYK9b489gNRmfwc8S6tggLNHHV3JUgj/dsuroe3e4QFvlFLkJFQUzNWieb4fyaNVTIb8vQXqSfL0MIVmG/2yuwg==;FQFIx2ZG3h6ko5s5j+7ebw=="
 ---
 

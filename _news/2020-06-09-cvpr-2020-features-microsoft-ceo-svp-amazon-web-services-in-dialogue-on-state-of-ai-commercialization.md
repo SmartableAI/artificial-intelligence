@@ -1,26 +1,25 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning."
-publishedDateTime: 2020-06-09T11:15:00Z
-webUrl: "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4"
+excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
+publishedDateTime: 2020-06-09T11:24:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-
-secured: "w9jGHTW8WGSyQ7555qXH3YH/3aWUxw0dJUvVCenMMLG9O/p24RCUA8eXpH3ws63CMqJIfwtxiA/7F4x5CgsVroPY+Hjy7VHOUyu1g/t0QgA8wF0E+eG4uOWmtptmd+OSzQnBJ6cjjRtvAPKpvT8HQXO4xt+/eOq5wRez8hIXeG3fGEEEFvXQtYtVKaB/rVSGQQAHTh1WCizAohaymA+yKiWYDtP4BYJIFXsZ/iwTeW7vVuozIbJGuntr4QE23oD1kTMH1ChWYKUs7SslQX45/by8Vpdq6WubKTTEwdmIErJZJfdLRrZQQwCO64cR6YZHBi1Jx0P35tW4lD84yQOWAQ==;XeB1ykyynwdNOGzRjdHKxg=="
+secured: "s4DS9qmdZqClRJAQMB2zA0u8uAWG+BvLdFfSwmVnHAy7lGPQbRuuGMHNIjppb6lWmzXTG27fNbwM+/EudfNakV1H/aF2QD4fQFzHUgcTFB3byT4U15GJP0/Mm3cv1TUvSC0uuOzD2aQWf7lDz4AS/73nv9SzCi9keiBOiQzzjYjFOIqe+1ret1Dj1Ec5/4D372enZTe0sgPJW7y8WU/aGtTt4je4i8VcbtQyGlB0qqgY95rg3gO0sliMOy/wdy/oMcoCD1HKq3T+f1z5p7D9pVofzHdZwb7kCfad8svzVxLUhOaoo9Y+Kc1Ddr8tghSBEMRDpIyBPH1CPXsmcEJf0Q==;DTYatetrXBLyhT6rWYv44A=="
 ---
 

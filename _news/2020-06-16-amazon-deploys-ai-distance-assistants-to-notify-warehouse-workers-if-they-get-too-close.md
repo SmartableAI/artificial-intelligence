@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/16/21292669/social-dist
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/16/21292669/social-distancing-amazon-ai-assistant-warehouses-covid-19"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,6 +30,22 @@ images:
     title: "Amazon deploys AI ‘distance assistants’ to notify warehouse workers if they get too close"
 
 related:
+  - title: "Amazon's new Distance Assistant uses AI to encourage social distancing"
+    excerpt: "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,"
+    publishedDateTime: 2020-06-16T15:35:00Z
+    webUrl: "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Amazon is putting AI cameras in some of its warehouses to see if workers are actually standing six feet apart"
     excerpt: "Amazon's AI cameras can tell if warehouse workers are standing six feet apart to comply with social distancing rules."
     publishedDateTime: 2020-06-16T13:10:00Z
@@ -45,6 +61,68 @@ related:
       - url: "https://i.insider.com/5ee8be4e3f737079c17cba37?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
+    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
+    publishedDateTime: 2020-06-16T14:59:00Z
+    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/"
+    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
+  - title: "Amazon deploys AI-based tech to maintain social distancing at its facilities"
+    excerpt: "Amazon.com Inc AMZN.O said on Tuesday it has launched a new system using artificial intelligence to enforce social distancing at"
+    publishedDateTime: 2020-06-16T11:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-deploys-ai-based-tech-to-maintain-social-distancing-at-its-facilities-2020-06-16"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
+  - title: "IIT-KGP Researchers Develop AI-based System To Track Social Distancing"
+    excerpt: "Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring social distancing in public places, an official said on Saturday."
+    publishedDateTime: 2020-06-13T05:44:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/iit-kgp-researchers-develop-ai-based-system-to-track-social-distancing.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zwuciqbngoqgg8lj_1592027035.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
+  - title: "Olivia’s AI assistant encourages mindful spending and saving"
+    excerpt: "Our Start-up of the Week is Olivia, an AI-powered financial assistant that learns from your spending patterns to provide tips on how to save."
+    publishedDateTime: 2020-06-15T07:41:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/olivias-ai-assistant-encourages-mindful-spending-and-saving"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/founders.png"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
+    excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
+    publishedDateTime: 2020-06-16T15:22:00Z
+    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 33
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-social-distancing-for-amazon-workers-just-got-easier.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "1XjJyKUZEnOEtfZpuBweY1ueRNNMI4Skqx/fKAERy4OvQ8WDa3LAhwTGTMDtphLZkaDFnAPKtL81x1we16Fox/5EqHQsQYIPfuixwg982/pj13dQhTrLouOeUCaL0ruTiqKi7WiNpGSamuWa2xfcic26eiIa4S/w0Zg2/g2mtUKLn7Pm8V5sW2Dt/3Le05zMtfflL1VKXAUzrINUUUcVaVCp+p2TxcGr91XSbP08jLdsrPG+Pq/e6qfw31OLtkGdm+mTAl8uEwF/gcUgFScUw4vA9sQ5slvgB1ZyA7w0NLQp5HpyMJtRHQcVXNk9cAtGSqA/DB0lGoPP++xVYKWmINO0+b/ml3gjY069g+2A64tjPar+79TuNFKUCT8eKAT/+PyT/yfrWYSYY3B0nOAKphH0BpnN/kmJpeLHYy/MUFKAMTsYr2ctnLAVvpUnR1mLUnrZhekdqZTCRP4jWeoyhmccbSdmPLUh14LXHmLRUFq0vLkt1dbob3QY+Hd8/0irNadMFeCZmSEty+WUCRyjuA==;I1R5KFFKQwxbLcrO6YVU0g=="
