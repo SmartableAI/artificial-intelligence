@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -156,22 +156,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/15/2842b2f6-c3b0-4fdd-885c-f1e8cb08b327/thumbnail/770x578/50aa2c845215ba215117a5354dc61ccc/amazon-puts-oneyear-moratorium-on-rekogn-5ee38ca9ec931b64287ec9ef-1-jun-15-2020-16-03-59-poster.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "George Floyd: Microsoft bars facial recognition sales to police"
-    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-    publishedDateTime: 2020-06-12T02:10:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-53015468"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
     excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."

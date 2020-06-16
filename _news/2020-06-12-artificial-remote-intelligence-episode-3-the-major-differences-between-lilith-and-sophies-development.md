@@ -8,7 +8,7 @@ ampWebUrl: "https://meaww.com/amp/artificial-remote-intelligence-episode-3-major
 cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-remote-intelligence-episode-3-major-differences-between-liliths-development-and-sophie"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     title: "'Artificial: Remote Intelligence' Episode 3: The major differences between Lilith and Sophie's development"
 
 related:
-  - title: "EXCLUSIVE | 'Artificial Remote Intelligence': Christy St John on Elle and why live streaming is nerve-racking"
-    excerpt: "In a chat with MEA WorldWide, John talks about her character Elle, who is a scientist hired fresh out of college to be a part of the new AI's development"
-    publishedDateTime: 2020-06-12T01:12:00Z
-    webUrl: "https://meaww.com/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
-    ampWebUrl: "https://meaww.com/amp/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-remote-intelligence-interview-christy-st-john-new-character-elle-twitch-live-stream"
+  - title: "'Artificial: Remote Intelligence' actor Justin Lee mulls over whether he would have voted to deactivate Sophie"
+    excerpt: "Justin Lee talks about his character Justin's personal sense of responsibility and how he is not the 'hopeful optimistic' that his character is on the show"
+    publishedDateTime: 2020-06-15T07:32:00Z
+    webUrl: "https://meaww.com/artifical-remote-intelligence-justin-lee-new-season-exclusive-interview-twitch"
+    ampWebUrl: "https://meaww.com/amp/artifical-remote-intelligence-justin-lee-new-season-exclusive-interview-twitch"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artifical-remote-intelligence-justin-lee-new-season-exclusive-interview-twitch"
     type: article
     provider:
       name: Meaww
       domain: meaww.com
-    quality: 25
+    quality: 24
     images:
-      - url: "https://cheesecake.articleassets.meaww.com/446913/uploads/21b40ec0-abff-11ea-98d2-713f66b857e2_800_420.jpeg"
+      - url: "https://cheesecake.articleassets.meaww.com/447621/uploads/ae2d3370-ae86-11ea-ab0f-7f0e7e887caf_800_420.jpeg"
         width: 800
         height: 420
         isCached: true

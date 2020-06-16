@@ -2,6 +2,137 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
+      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
+      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24.md",
+      "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
+      "excerpt": "Amazon taps AI and machine learning to match packaging types with products, resulting in substantial cost savings and decreased product damages.",
+      "webUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
+      "publishedDateTime": "2020-06-09T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "publishedDateTime": "2020-06-09T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
       "title": "Daily Crunch: IBM is getting out of facial recognition",
       "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
@@ -594,6 +725,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
+      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "webUrl": "https://krdo.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/krdo.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
+          "width": 500,
+          "height": 326,
+          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRDO",
+        "domain": "krdo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
       "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
       "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
@@ -664,44 +833,6 @@
       "provider": {
         "name": "Local News 8",
         "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
-      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
-      "webUrl": "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.wasabisys.com/kesq.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
-          "width": 500,
-          "height": 326,
-          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -984,137 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage.md",
-      "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
-      "excerpt": "Microsoft’s decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.",
-      "webUrl": "https://www.theverge.com/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5K7QmgFun_r1-NZQjEgbGniaN_0=/0x0:3776x2399/1400x933/filters:focal(1586x898:2190x1502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910798/little_mix_pinnock_thirlwall.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
-      "publishedDateTime": "2020-06-09T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
-      "title": "Flipkart introduces AI-driven voice assist for shopping",
-      "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
-      "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART",
-          "width": 615,
-          "height": 384,
-          "title": "Flipkart introduces AI-driven voice assist for shopping",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
-      "publishedDateTime": "2020-06-09T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
-      "title": "TCL’s latest TVs in India can be controlled just by voice",
-      "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
-      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
-          "width": 1070,
-          "height": 602,
-          "title": "TCL’s latest TVs in India can be controlled just by voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "publishedDateTime": "2020-06-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

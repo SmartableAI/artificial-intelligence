@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
+      "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
+      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "publishedDateTime": "2020-06-08T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
+      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "publishedDateTime": "2020-06-08T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
+      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "publishedDateTime": "2020-06-08T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
@@ -1207,146 +1345,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
-      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
-      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "publishedDateTime": "2020-06-06T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
-      "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-      "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb466a4858c030007723e21%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-06-06T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
-      "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-      "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
-      "webUrl": "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167",
-          "width": 2318,
-          "height": 1546,
-          "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "publishedDateTime": "2020-06-06T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

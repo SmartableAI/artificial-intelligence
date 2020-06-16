@@ -166,22 +166,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "George Floyd: Microsoft bars facial recognition sales to police"
-    excerpt: "Microsoft has become the latest US company to limit the use of its facial recognition technology by police. The firm said it would not start sales to US police departments until the country approves national regulation of the technology,"
-    publishedDateTime: 2020-06-12T02:10:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-53015468"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53015468"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53015468"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/147E5/production/_112814938_facialrecognition2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
     excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
     publishedDateTime: 2020-06-15T16:20:00Z

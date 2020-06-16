@@ -2,6 +2,128 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-15-igniting-the-dynamic-workforce-in-your-company.md",
+      "title": "Igniting the dynamic workforce in your company",
+      "excerpt": "In the rapid push to move to remote work, we’ve seen digital strategies accelerate by years—transforming their workplaces, work styles, and business processes forever. Overnight, remote workforces put out advanced environments of multi-device mobility, dynamic connection points and robust cloud-based",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/igniting-the-dynamic-workforce-in-your-company/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/Watson-Box_LeadSpace_990X498_v2-01_x2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Igniting the dynamic workforce in your company",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T11:53:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-as-long-as-the-justice-system-is-broken-facial-recognition-software-is-too.md",
+      "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+      "excerpt": "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue.",
+      "webUrl": "https://www.gq.com/story/facial-recognition-blm",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg",
+          "width": 3381,
+          "height": 2550,
+          "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gq.com/story/facial-recognition-blm/amp",
+      "cdnAmpWebUrl": "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp",
+      "publishedDateTime": "2020-06-15T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GQ",
+        "domain": "gq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-john-oliver-explains-why-facial-recognition-technology-is-more-dangerous-than-ever.md",
+      "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
+      "excerpt": "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks.",
+      "webUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html",
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0",
+          "width": 780,
+          "height": 520,
+          "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp",
+      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp",
+      "publishedDateTime": "2020-06-15T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
       "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
       "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
@@ -997,137 +1119,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
-      "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-      "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
-      "webUrl": "https://www.entrepreneur.com/article/351755",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591895053-Ent-Logo.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351755",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351755",
-      "publishedDateTime": "2020-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
-      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "publishedDateTime": "2020-06-13T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
-      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
-      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
-          "width": 715,
-          "height": 402,
-          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "publishedDateTime": "2020-06-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

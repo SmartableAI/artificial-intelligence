@@ -2,6 +2,127 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
+      "title": "Can AI Make Work Safe Again?",
+      "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "publishedDateTime": "2020-05-08T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go.md",
+      "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+      "excerpt": "Legislation around data privacy is crucial to setting up guardrails around how the U.S. tracks the spread of the coronavirus, but we need bipartisanship.",
+      "webUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/contact-tracing.jpg?fit=1985%2C1237&strip=all",
+          "width": 1985,
+          "height": 1237,
+          "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "publishedDateTime": "2020-05-08T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-written-and-directed-by-artificial-intelligence.md",
+      "title": "Written And Directed By: Artificial Intelligence",
+      "excerpt": "As impossible as it seems, it won’t be long before artificial intelligence is writing and creating films.",
+      "webUrl": "https://www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1168937327%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D0%26cropY2%3D2880",
+          "width": 1200,
+          "height": 675,
+          "title": "Written And Directed By: Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-05-08T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical.md",
       "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
       "excerpt": "The healthcare industry is a highly regulated and complex industry where a great deal of information exchange occurs via verbal communication. This audio data can contain valuable information and actionable insights. This post explores how to integrate HIPAA-eligible AWS AI services Amazon Transcribe",
@@ -1173,111 +1294,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-neural-network-performance-modeling-software.md",
-      "title": "Neural Network Performance Modeling Software",
-      "excerpt": "Currently TensorFlow Lite Models for INT8 are supported. Later this quarter, ONNX support also will be available, and support will be extended to INT8/BFloat16 (any mix of layers). Unlike other inference architectures, nnMAX is a fully deterministic ...",
-      "webUrl": "https://semiengineering.com/neural-network-performance-modeling-software/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-1.06.41-PM.png?resize=1838%2C1128&#038;ssl=1",
-          "width": 1838,
-          "height": 1128,
-          "title": "Neural Network Performance Modeling Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
-      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
-      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they ... The company said the trucks’ artificial intelligence and array of sensors provide Level 4 autonomy on ...",
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

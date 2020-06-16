@@ -2,11 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-16-detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend.md",
+      "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
+      "excerpt": "In today’s world, social media has become a place where customers share their experiences with services that they consume. Every telecom provider wants to have the ability to understand their customer pain points as soon as possible and to do this carriers frequently establish a social media team within",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/09/image001-971x630.jpg",
+          "width": 971,
+          "height": 630,
+          "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T12:22:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice.md",
+      "title": "Amazon Polly launches a child US English NTTS voice",
+      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of a new US English child voice—Kevin. Kevin’s voice was developed using the latest Neural Text-to-Speech (NTTS) technology, making it sound natural and",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-a-child-us-english-ntts-voice/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Polly launches a child US English NTTS voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T11:03:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before.md",
       "title": "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before",
       "excerpt": "In a paper, researchers at DeepMind propose a system that can efficiently navigate virtual city environments it hasn't seen before.",
       "webUrl": "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/",
-      "heat": 82,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -44,7 +138,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -190,7 +285,7 @@
       "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
       "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
       "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -502,6 +597,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
+      "title": "Foiling fraud with machine learning",
+      "excerpt": "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes.",
+      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Foiling fraud with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "publishedDateTime": "2020-06-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -988,128 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-igniting-the-dynamic-workforce-in-your-company.md",
-      "title": "Igniting the dynamic workforce in your company",
-      "excerpt": "In the rapid push to move to remote work, we’ve seen digital strategies accelerate by years—transforming their workplaces, work styles, and business processes forever. Overnight, remote workforces put out advanced environments of multi-device mobility, dynamic connection points and robust cloud-based",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/igniting-the-dynamic-workforce-in-your-company/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/Watson-Box_LeadSpace_990X498_v2-01_x2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Igniting the dynamic workforce in your company",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T11:53:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-as-long-as-the-justice-system-is-broken-facial-recognition-software-is-too.md",
-      "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
-      "excerpt": "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue.",
-      "webUrl": "https://www.gq.com/story/facial-recognition-blm",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg",
-          "width": 3381,
-          "height": 2550,
-          "title": "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gq.com/story/facial-recognition-blm/amp",
-      "cdnAmpWebUrl": "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp",
-      "publishedDateTime": "2020-06-15T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GQ",
-        "domain": "gq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-john-oliver-explains-why-facial-recognition-technology-is-more-dangerous-than-ever.md",
-      "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
-      "excerpt": "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks.",
-      "webUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0",
-          "width": 780,
-          "height": 520,
-          "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp",
-      "publishedDateTime": "2020-06-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

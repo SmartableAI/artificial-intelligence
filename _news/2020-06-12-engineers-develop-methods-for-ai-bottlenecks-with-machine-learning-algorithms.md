@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T13:01:00Z
 webUrl: "https://www.controleng.com/articles/engineers-develop-methods-for-ai-bottlenecks-with-machine-learning-algorithms/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 350
     isCached: true
     title: "Engineers develop methods for AI bottlenecks with machine-learning algorithms"
-
-related:
-  - title: "Foiling fraud with machine learning"
-    excerpt: "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ..."
-    publishedDateTime: 2020-06-16T16:25:00Z
-    webUrl: "https://ctovision.com/foiling-fraud-with-machine-learning/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 41
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
 
 secured: "3N+aY9czwv0U1qLYtNrnupbreAVFDFuZYcx3TQt+bH2oKQkPsTlexk4+GJqn+G5KEWshzaVD6HEwt63BoIaT7iyb6xx6aPYE2qVEoVEl4wSeZHtLypFSKda4/oMC9G7JUPflwRcnGNhuxKLTO7WeKSQIPssFtCU2zbCgnvgVwbl3/z5JRD5AvulEN7MKDBZOF5xHunwympM0VX0xKwjrrsGSFjThuiv077MRciNLdQE03sCmcULw9lP5YOac2DE4Z9RQi0V1GddYUtTE+pxUkwnuPUIMH5RRQKqCBc0M4KBGxFo8BKwMWutEgIsoV4bjVsDd4lmlA57FzMg7fZ/KK97TNI/MM3dJZJQDdQ7yRuwk4ZxM8PrQoZY8KiGZNmEdAbxEwzN/cedUVmrmuxvJECMTTl2YeCwWUpqah+ROaiDTnyyzuOufj8KbRNGA+LdI29wppFoX9FoToJTd0Ym897unY0pXKY9sANwVRGKt9iIYsJASGhpCrkO4DqEqYQa8CXOcXhDECFh0VmO1V/RsiQ==;UZSxW3yATDz8k/zA4cGJ0A=="
 ---

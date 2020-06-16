@@ -2,6 +2,127 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-14-singapore-enforces-social-distancing-with-a-robot-dog.md",
+      "title": "Singapore enforces social distancing — with a robot dog",
+      "excerpt": "Let’s keep Singapore healthy,” comes a woman’s voice, polite but firm. “For your own safety, and for those around you, please stand at least one meter apart. Thank you.” Spot, clearly, is no ordinary squirrel-chasing canine.",
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "Singapore enforces social distancing — with a robot dog",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true",
+      "publishedDateTime": "2020-05-14T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sony-says-it-created-worlds-first-image-sensor-with-built-in-ai.md",
+      "title": "Sony Says It Created World’s First Image Sensor With Built-in AI",
+      "excerpt": "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "publishedDateTime": "2020-05-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-singapore-based-data-protection-startup-dathena-raises-12-million-series-a.md",
+      "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+      "excerpt": "Dathena, a Singapore-based company that provides AI-based data protection and privacy solutions, announced it has raised a $12 million Series A. Part of the funding will be used to expand Dathena’s co-sell partnership with Microsoft in the United States,",
+      "webUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1185880486.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "publishedDateTime": "2020-05-13T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
       "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
       "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
@@ -955,137 +1076,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
-      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
-      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "publishedDateTime": "2020-05-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-google-cancels-ai-ethics-board-just-a-week-after-its-announcement.md",
-      "title": "Google cancels AI ethics board just a week after its announcement",
-      "excerpt": "Google canceled its Advanced Technology External Advisory Council just a little over a week after its announcement, according to a recent VOX report. The AI ethics board was supposed to oversee ...",
-      "webUrl": "https://pocketnow.com/google-cancels-ai-ethics-board",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2019/04/office-photo-building-illuminated-google-zurich-inside_7bbef648-5050-11e9-b593-df9071890b8d.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Google cancels AI ethics board just a week after its announcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -26,17 +26,6 @@ images:
     isCached: true
     title: "Amazon is banning cops from using its facial recognition tech for one year"
 
-related:
-  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
-    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
-    publishedDateTime: 2020-06-15T16:59:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
-
 secured: "jecLfxZ+gbKA06vME4hdMgHBA/44d283WKjhR6uK8Ht1/k6wa41LxqtE9L+T1YZMtakY8b9Udd+nKGjEggtUDPKxpNJejS/+tQZz5REkXmKKiMOXW8o1uIMIyNaogzqkZG3f3qObN4aQDlINdwkb2SAeD1F/t49Xd+XIeei+XY9kdNwavd/NLF9EkDWVqvEMdCSUkHV9CSWYbAJqtrrsSAm5Kj9GGFN675dYSEnQDqrNi28UdEHxYpbE7lphC25t9HszCbvxZnMK9IAYoCtgZpqnv3yHU+KiLCWtb51KLkeMJ6wTbPGj1ky87zocPrVjrax71n5Ul03p7ZApPLV/jWf+pj3W+DnMplAntQ5sh55mZQKjsOtA9wTTFUeHmqbgURbSbKehXjRZJUx3D903CZ+S5jryuBlJ9UWt8IEDYu1oMR+qLr9X/7FDGL2CKla9Y+rjE5UBknRpnsnGRDFlh4VzkO4lmO6UTNLEQli3cSGxgyPJ4YK66MA0gB9alDIRsh3O7baPOix+Pjmg9y1asg==;m6IJhldJFFkWGvKzaBmBdg=="
 ---
 

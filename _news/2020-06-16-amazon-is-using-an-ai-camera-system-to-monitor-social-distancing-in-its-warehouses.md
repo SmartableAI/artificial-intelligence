@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon hopes AI will help enforce social distancing at its warehouses"
+    excerpt: "Amazon's latest COVID-19 measure is a new AI that tries to ensure the company's warehouse employees practice social distancing while traveling in high-traffic areas."
+    publishedDateTime: 2020-06-16T19:26:00Z
+    webUrl: "https://www.engadget.com/amazon-distance-assistant-artificial-intelligence-191929379.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Fd3e785d0-aff7-11ea-bfff-c187b5d70259&client=amp-blogside-v2&signature=701c851094ed157a3b6c66529b3a983c8dbb303d"
+        width: 1007
+        height: 630
+        isCached: true
   - title: "Amazon’s machine-learning device keeps an eye on social distancing"
     excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
     publishedDateTime: 2020-06-16T14:59:00Z
@@ -129,7 +143,7 @@ related:
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z
-    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance"
+    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
     type: article
     provider:
       name: Fast Company
@@ -141,6 +155,6 @@ related:
         height: 720
         isCached: true
 
-secured: "oJ9GSIXCPj1fL2b0Lq4+nme/w5y+kYuNxNrqHu2y7YG0VigOTf0ifBjX8dwLoINc/uGczZKD/wcR/2kzrlRVSUMpaQaO0qRrCckwYGTAQLD/G4LXrTJ5MxCzn92+v18wc8IH2D2TidyyRQtKco3g/5t9y/tHTpPYv5SaBuNF5bX3WQ9UlBHIeaRz07eq7XWm4BbJBjTlEGPoiba/aymFh1TaKXE1COXXv+izkC2WxGEwXcbY+2L2Epxcim37+VxBeXIOQljoGtSayaPxxafMHsQ8oI99y7+FOc3rPpI3GNsDUEaY8+9Oe0YKD9brAkeKbBUMAuGe/awntM6hm8NhFQ==;mrUllWfZTUiaxK96D9pSEw=="
+secured: "+x9IqI75hHUjeT5GFjlLTwP1QakUl6h5T01WYGFNivIca9JxaP/i8OwghBzAnOW+iyuaPqKUQJC8h9rH2eHWfcVVPDEUJR+lRmG7jeBIgQyd7a8JnfodxSasoRyV6p8MWjjaieOOhTcs8Iwfrz/ylhtLNUkteOfwfOOntacGdxPY35JSv/w/ILs0xqj0DD4lGrkJcycDIMdhqHV8xV4V3tpRhMnIXh0LQruvi1Gup2QuCph3JLwrZseXIPY1limgFr9L4/2aM12TwXzPQHtkXtmJ20ReXBywSRfJHTAIqRRPTTZj9zGZUBCQ5/ucOHu+oBY5fS/jqPiaHtF4vgSIB3StJAh3oUzO7S/tJPHlrUbx45cVBX60EGyv5ctU1uIeB/QW2wces47pp7lHo9/sUmI8kBMDg+ebf3K4RwWiSqvQsJix3JGyJKa3+E2reG7uoq/1X1t5hgEojh79zcx5w9N5LNnO1+AAmNeG4wiayKryUE0FjxjdV/+J3U/ANFKgQ2bRzCnEa2isW3h62NS0OA==;MdQ4YJtKyvHGatgT/A9L2g=="
 ---
 

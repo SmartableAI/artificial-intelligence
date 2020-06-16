@@ -1,46 +1,35 @@
 ---
 category: news
 title: "Foiling fraud with machine learning"
-excerpt: "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ..."
-publishedDateTime: 2020-06-16T16:25:00Z
-webUrl: "https://ctovision.com/foiling-fraud-with-machine-learning/"
+excerpt: "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes."
+publishedDateTime: 2020-06-16T10:05:00Z
+webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
+ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: ctovision.com
-  domain: ctovision.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-    width: 632
-    height: 422
+  - url: "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
     title: "Foiling fraud with machine learning"
 
-related:
-  - title: "Engineers develop methods for AI bottlenecks with machine-learning algorithms"
-    excerpt: "Rice University researchers have demonstrated methods for both designing innovative data-centric computing hardware and co-designing hardware with machine-learn"
-    publishedDateTime: 2020-06-12T13:01:00Z
-    webUrl: "https://www.controleng.com/articles/engineers-develop-methods-for-ai-bottlenecks-with-machine-learning-algorithms/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 36
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTLx_WEB_IMG_Cybersecurity_Slider-1.jpg"
-        width: 645
-        height: 350
-        isCached: true
-
-secured: "7JIsC1rW0AIauspmnIePBr8SMUOJZAaxW1kkD/WtLmFIHkGlNTAQTyQpHQCDIQ91NHoivcUEjgVbIK76PwF87b6lFmufDarFlTCmYQCMJrNY/GyTfGxof2twfFFDU2RkBcDZNAC+5cuNn4vYkuDmxt3H2DuL6JxIKtwUrQOhll/7x5pYtQLXFYyzZg/1/kXElajkVRmC1sgXlRhXCnElxuDNd4x5mtQClTRNgtWgpG2PdKdFQObbFljV5k6A4hWHhi2Gj5haNGynhiQKTfuHckIhzZh3mmQsZUkMd9zo+3hduAmxU2Ptmp3cAVMiFNkS3a9UkrhnQ9joUtl1A2qD0g==;cuDu5D+5o8cBgB/fsO8Lsw=="
+secured: "BCovKkhGgTwTdArA7l32Zt6rha6vs098nNIIY9T7m7IfDp3CSxOXwo3SVVkzyJDrIcCKhmGkBikVvETDOGjr37Q4kCrOcQ/Ya/qKWSBlxfsUcYj12GQWqKwb9/nr4oie3Cih2icFK/k08GU/cz1I8d1jqHZmqWMF0W4J7IjB3cvAZ8LkHqBHI3PVblkF2YSfpZ+WjOOVwpVRb2bMIBydqQT7WH6Q6/xmUqiY7w+10SqONVNfvObmQSRienFljhTngb7y0x/LiHjchL5ocHR/cCgWa0GUdW9rra5fXcbRpNjBhhdnRAVnGlXKQ8p05giAAFxTH1ohDHe9l6L7MT7uzA==;QBZknnk02aRVSWtZXzQ4xg=="
 ---
 

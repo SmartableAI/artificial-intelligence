@@ -2,6 +2,147 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "publishedDateTime": "2020-06-09T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
+      "title": "Daily Crunch: IBM is getting out of facial recognition",
+      "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
+      "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Daily Crunch: IBM is getting out of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
+      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
+      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "publishedDateTime": "2020-06-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
       "title": "Flipkart launches AI driven voice assistant for shopping",
       "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
@@ -500,6 +641,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
+      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "webUrl": "https://krdo.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/krdo.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
+          "width": 500,
+          "height": 326,
+          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRDO",
+        "domain": "krdo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
       "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
       "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
@@ -570,44 +749,6 @@
       "provider": {
         "name": "Local News 8",
         "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
-      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
-      "webUrl": "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.wasabisys.com/kesq.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
-          "width": 500,
-          "height": 326,
-          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1200,144 +1341,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
-      "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
-      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
-          "width": 796,
-          "height": 398,
-          "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "publishedDateTime": "2020-06-08T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
-      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "publishedDateTime": "2020-06-08T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
-      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
-          "width": 796,
-          "height": 398,
-          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "publishedDateTime": "2020-06-08T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

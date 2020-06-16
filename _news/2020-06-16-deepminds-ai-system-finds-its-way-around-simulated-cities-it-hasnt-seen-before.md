@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-si
 ampWebUrl: "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before"
 
-secured: "XDzjUfOeh9u/6rPi1/+2Ych4thurqwfaZ02WiHn1WogS4bZfD/vIj7ijAUf9csXG3z6/2HCcF91SYGkN2qObbqP7Peiq1Jb0tU/Rz7raRgBicTaieGc7j8O3XHG3SwZbb8dX7sZ65yiJdauZAYVFssma8svEmk2TGOLyFkGHjWJRmPrVp7mks5zDtSWi6I4huE1d/xsozr1XduhS+eOVkjE1vJsRaeAR2mNZ4cS+DRGavciK16KW9fO8sjNWDV7HqXFT/oFeM9NZdk4MqL8dSDyDW6CKGvZ/RD6tR7n43edOPTxyhu7fRQaXM5Nl1wTlz8uMY7PIXBjOUBcTbSY4wA==;z8O4mKteky0ruOA2SgGCrQ=="
+secured: "3JleCtjvkZvOb6vH1+shmyrDym6N0IXPeJry5PO0TL7Kfsv8ESRaR23RBK9r5iEVxGbpzdXqmNSI276Kum5EPQp/MElkFAtlr/UXOuN9hoLyKNbQo/N+1fFVr6QdyAb5hzCGz8oiItCrt3ybKLm05q0s2yAiYHI5Y5qeWbR++gGZbH0j8QqDYNJvMPqxwIeNGvo3mGfpSs2/ypkVCFoER/tmggQ7jXd2FDGudPQAcVSQ2qJXhhaeYIYkxCI/H7RrPjdQ/zDeVTL0vZK9T4mxU0IR15+zN6MpB/DJC2Di/zmighIeeahKcciyHkG1g4vcr3CxEjFCAv6qF1aByZtKBcQ2QlKLEMNgzMx/OZE+fzJgMGDvu6hEPBtw1az3R/PCKp9FR7vowlJAiiQEfrvA6OxGWFdSrfFxBJuAthhCsEfM3JqzB8n79yeZ0SLiH6TkKCe19M4+VPIZQcXr6+YncOqjxnB8deeYGZUmDWajOfTBQCtareKgTDvQ7dexNabMNqMSyEVdyumkucQcc7vKRA==;q5HM7K66cgBNnSqpJCnbew=="
 ---
 

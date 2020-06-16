@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon hopes AI will help enforce social distancing at its warehouses"
+    excerpt: "Amazon's latest COVID-19 measure is a new AI that tries to ensure the company's warehouse employees practice social distancing while traveling in high-traffic areas."
+    publishedDateTime: 2020-06-16T19:26:00Z
+    webUrl: "https://www.engadget.com/amazon-distance-assistant-artificial-intelligence-191929379.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Fd3e785d0-aff7-11ea-bfff-c187b5d70259&client=amp-blogside-v2&signature=701c851094ed157a3b6c66529b3a983c8dbb303d"
+        width: 1007
+        height: 630
+        isCached: true
   - title: "Amazon’s machine-learning device keeps an eye on social distancing"
     excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
     publishedDateTime: 2020-06-16T14:59:00Z
@@ -129,7 +143,7 @@ related:
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z
-    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance"
+    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
     type: article
     provider:
       name: Fast Company

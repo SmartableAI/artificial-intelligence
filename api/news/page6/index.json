@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
+      "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+      "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "publishedDateTime": "2020-06-10T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software.md",
+      "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+      "excerpt": "Chinese video app TikTok's practices are to be examined by an EU task force, the bloc's privacy watchdog said on Wednesday, which also warned EU police forces against using facial recognition software from U.",
+      "webUrl": "https://www.reuters.com/article/us-eu-privacy-tiktok-clearview/eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software-idUSKBN23H2PM",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521793831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG591QS",
+          "width": 884,
+          "height": 545,
+          "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "publishedDateTime": "2020-06-10T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
+      "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+      "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
+      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "publishedDateTime": "2020-06-10T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
       "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
       "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
@@ -948,137 +1088,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
-      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
-      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
-      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24.md",
-      "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
-      "excerpt": "Amazon taps AI and machine learning to match packaging types with products, resulting in substantial cost savings and decreased product damages.",
-      "webUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
-      "publishedDateTime": "2020-06-09T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
-      "title": "Study: Artificial brains need rest too",
-      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
-      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Artificial brains need rest too",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "publishedDateTime": "2020-06-09T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
