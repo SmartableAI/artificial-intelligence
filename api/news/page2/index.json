@@ -90,7 +90,7 @@
       "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
       "excerpt": "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks.",
       "webUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html",
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -504,7 +504,7 @@
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
       "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -850,9 +850,9 @@
     {
       "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
       "title": "Company boards aren't ready for the AI revolution",
-      "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bo",
-      "webUrl": "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution",
-      "heat": 100,
+      "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
+      "webUrl": "https://www.techradar.com/au/news/company-boards-arent-ready-for-the-ai-revolution",
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -865,8 +865,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution",
       "publishedDateTime": "2020-06-15T03:41:00-07:00",
       "updatedDateTime": null,
       "provider": {

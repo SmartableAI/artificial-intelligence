@@ -1,26 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T00:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
+excerpt: "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ..."
+publishedDateTime: 2020-06-04T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "SHCGqi1qamGtjJlR4XvWB22dte4teDnoHrWlsGD9KYIcpwed55ffD44yeKm1AohQL+LL6RaesWq57Goc2SEB1joZcIUCh2U363eXGCkp3i2MLLoLVT56SNB/WOQGJ9Wqx0d+bf3mE5kxmFF+obJmPUAKyMp+tBF7pY0wpFitwIimyI0mbSZn5otPEzplI/ywnYGwoWunmjUcdNTbcKu7QpkScyQee/xnrtEsw8qhIfpar1dBtwPgbrJh8z0euDztnYZQevfRFAhsOhn4dAeZeVh876r1KvBklz9uQfDv0wfR9Kg9SAoS43bZFs5KHpfAoi8j/pegA6JuSJEzs39zcg==;ZHD/e4NHKQNYiZGMqtaI8Q=="
+secured: "oL+mh2ugRp6tGSalbM1F/uNl2r4vcMEEHdtzTWCTlFd3086z9Z4PLEBqlE2lYfCtMDc8hIRuDP288AIX4CZ7RHqtnlGggOJuJjBCyB99A6ybv8TME/lbIBwAvisCGOdCLu42Dhz/2ev8Vs1XJovl60RJEksvQlN3cIDSWAEuVVkkNaGLm04EhotsSic66744Dabcv5ILMf5er5P7qTi4nBxwQC+77l8wKBhNsju3nhLcGS2ZQ6PmEU48fCgBC2O1uwPXxr/7bybkV6mLbmUkK4tFYwXsm+57QUAcTLPBnl4OnQY6yIgqa5Haovy8l+Li7be17rYsL6eSOdqTeH8Eow==;z+V9XthY80xB/HHFmjfuBQ=="
 ---
 

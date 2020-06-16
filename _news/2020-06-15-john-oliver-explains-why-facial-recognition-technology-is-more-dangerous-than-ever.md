@@ -8,7 +8,7 @@ ampWebUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-bla
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "John Oliver explains why facial recognition technology needs to be regulated in the U.S."
+    excerpt: "One large-scale study about facial recognition found that approximately half of all Americans have had a photo of them added to a facial recognition database used by law enforcement, and the use of this technology is currently unregulated."
+    publishedDateTime: 2020-06-15T18:44:00Z
+    webUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition"
+    ampWebUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 45
   - title: "Why face-recognition technology has a bias problem"
     excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
     publishedDateTime: 2020-06-12T12:57:00Z

@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Tech News: Covid-19 accelerated the use of artificial intelligence in healthcare"
-    excerpt: "The scenario of the personal Health Assistant driven by artificial intelligence is thus much closer than we may imagine."
-    publishedDateTime: 2020-06-12T04:40:00Z
-    webUrl: "https://www.iol.co.za/business-report/tech-news-covid-19-accelerated-the-use-of-artificial-intelligence-in-healthcare-49257449"
+  - title: "Change Healthcare acquires pharmacy software company, 9 other health IT notes"
+    excerpt: "Here's the latest roundup of stories about health information technology companies, including Google, Change Healthcare and Cerner. Epic signed a 10-year contract with Northern Ireland June 10 to design and implement an EHR system as part of the country's $374 million digital health records investment."
+    publishedDateTime: 2020-06-15T14:54:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/change-healthcare-acquires-pharmacy-software-company-9-other-health-it-notes.html"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 49
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 36
     images:
-      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/06/11/49257449/d1463233aec99cfc6a2a96df94e4.jpg&operation=CROP&offset=313x-369&resize=1553x874"
-        width: 853
-        height: 366
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "I+j1FEK7fWyhwpc/mi4NrI1EaQeZ6lrRXqG01u20VoujVv81Nxdw4Yj+Kp0CKys788nQvZLqiKYgL1kA9B8ttcWFFHlZ6yTWSi4s3pdJgpbp2aRUeR5oC9/kQxGFaydiWrE3eDNBER5Avb+ik9l9SOC5LJJjbmvEQ5YDNqB8KFi7gdJOySdzYeSTG+wDmeMU6pvf1MEeyEKD2NIuuXjB/G1buhJRoE7+CBIiIEUOY3YoDz8K8HmaRsi9/s8TQCAelyeZnfkhcFlBugBGtoAx60VqPjwTaQT+PWU/bGSW9yTJwNm6tE3RulfAk0cPvl/KowqT82WhH01XVbwtMvgQDw==;45wNbFhWCAeKfjjXmazB+A=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft and SAS partner to integrate analytics and AI"
+    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
+    publishedDateTime: 2020-06-16T16:44:00Z
+    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
     publishedDateTime: 2020-06-16T10:57:00Z

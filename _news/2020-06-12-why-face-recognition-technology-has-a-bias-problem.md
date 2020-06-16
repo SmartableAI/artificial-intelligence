@@ -59,6 +59,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "John Oliver explains why facial recognition technology needs to be regulated in the U.S."
+    excerpt: "One large-scale study about facial recognition found that approximately half of all Americans have had a photo of them added to a facial recognition database used by law enforcement, and the use of this technology is currently unregulated."
+    publishedDateTime: 2020-06-15T18:44:00Z
+    webUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition"
+    ampWebUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 45
   - title: "Protesters Demand To Discontinue Facial Recognition Technology"
     excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
     publishedDateTime: 2020-06-16T01:11:00Z

@@ -2,10 +2,10 @@
 category: news
 title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
 excerpt: "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ..."
-publishedDateTime: 2020-06-11T16:39:00Z
-webUrl: "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-ampWebUrl: "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+publishedDateTime: 2020-06-11T11:59:00Z
+webUrl: "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+ampWebUrl: "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software"
 
-secured: "TNm0iHRtg9P+w82jkoGgnOsllC92OKqWvVPHMKu2DKMY6JzTftBrYAfTjPS0cOorPMGf69ZhE0G2VJTsyKvvQR4/z6GE/3fFhdCoLxUXEF+pj6bNexmmo/rA/lrm5s4a664xF7wanZl1rx564MAjnYxInYw0nLTUsjSo4OAK5AQErzwBznEuekSR6hiTerzMkgRuIpuQthbwYDgK+Z5L26kwjIZmeu74l496LjejVRkYW2843kazPHc4Ka+8cSj/Cq7/Gf5LSwMg6wBzJMUP4E9+yuKVcuz7ZZFvZdPLc45UMOX0YR4tCS66q4aNxGaqNniyZLLK9zZcofn4dqeUTQ==;G3jctF7b5Gl1c2+bJXITbw=="
+secured: "X1nFWbmMI3zsZB8TLtXTs4AH2C9evimQg1DPlRV6GbVvxpJ8qOe2vL8rWGkfVSAOs9/GXCA9uNeR8UFm1v0XBtlZviuBRK/FElqfgODzayOmB+C1LYlvecXddW6r5H+KDm2Rfsrxri8qQYDcoM/mWT/rjr2F2/EAUCWSTr93PItaVIzdRy8RplRaWpSE+6uAiGcOGH3HW/S/fPjnBfmpqCdzq+9FlgK87pQ1OQuc/MNEGfjuqNBebsTuafYPjEtWmsMbHC9YTYv+c3xfpYkOjoC+MhoMHVwrJql/UR2SN+/ZuWBlbj5EZAhw6KXY0G62Wf9EolP2iqkjRiPI4c2w5A==;DGMkc7/KD/PT3oi7eHX9Fg=="
 ---
 

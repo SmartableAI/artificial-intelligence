@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Google’s Urs Hölzle Tweets ‘PSA’ Mocking Amazon’s Attempt To Enforce Marketer’s Non-Compete"
 
-secured: "tsFnbySILnh/ZnGu3EN+3onxfdGo+1iDrLhhmJmizfc1EFrozmGk3h2R762+Dc5VBmK3hJUTvXHzHtlDwAdXDLPG/kEGwSqrRhmhOn2sz05jVLhb1XGLB+irTXwXRimDOa/TWbiSPoxFc8TQYs+sKtD3cwOH42ewzbtsLHxFCTN5A0/xh3UW/68xhLP/bT/71sLRj63kawapaFVxHRrzfkrJJD+lLN5T8K52hvtrzUFmZSoqjonS+jTcGANcDA13X9mddJQWXw5DsqI/1app7A/3332daGOBV/lQ378KdLRZBVzHHUEyZ1vnEm0CYwaEmq6WZab7R0R7ebBXEJu9VA==;3zaxxjyFZPwXmT+N7z8BMg=="
+secured: "qjUHZtdvAQRTwY03KLlf/nJaJAWQ1RQrDJepYJWPuoZr/Zr593QDf2Godpj+d8/Dvp9InhrqQLBJYyGd7Zk0qqePzetKFGFnepyBUiDHgfCCgVsME1C3FrWhj5XdL5OS4CWGM3c3r12FJAnlx8P1OjGSbLP2tvPw1EvZhjm6hffDjTLz0FtK+yGFnpj8U45V/0knvHnf1ybaEYEfxH/pVwwCzSmSG/IA0+c0e0sEutTwD44loOqWn8sOsjLfBYuKHCTeIADTxDWNpSM5fGw5gJ6lqnGz3/LQn/lA3BbXTaaZCsqnDdeK77u3FhJJ7n4ZNlYIqLPWgh6HyOvZifwOlqgrJWuyHdukEN0pPhxw/TXIAcIyLF/bFxb3CKNJz4WpoZIPuLwjYrt5VgWRTegpsMTcjijwZ5FWZkmZCnBSNznRP31DlZQcG5tNZpdy8DHFBmOLbnGzW9FxAjAvinfwWKX+uR7r72M3zVCWsXfy5z1AErIsblrz44Fk60udqhFCORDA8leYACj1zEJOOR8gEg==;EdfUI8dQ63pl4v+3UcGFKg=="
 ---
 
