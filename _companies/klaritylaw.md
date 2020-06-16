@@ -2,7 +2,7 @@
 name: "Klarity"
 overview: "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://klaritylaw.com/
 

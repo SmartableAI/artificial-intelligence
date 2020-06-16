@@ -2,7 +2,7 @@
 name: "Xnor.ai"
 overview: "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.xnor.ai/
 

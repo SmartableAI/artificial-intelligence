@@ -2,7 +2,7 @@
 name: "Cinnamon"
 overview: ""
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://cinnamon.is
 

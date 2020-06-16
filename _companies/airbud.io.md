@@ -2,7 +2,7 @@
 name: "Airbud Technologies"
 overview: "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://airbud.io/
 

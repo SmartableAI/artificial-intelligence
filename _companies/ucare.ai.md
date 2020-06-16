@@ -2,7 +2,7 @@
 name: "Ucare.ai"
 overview: "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.ucare.ai/
 

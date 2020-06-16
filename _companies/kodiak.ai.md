@@ -2,7 +2,7 @@
 name: "Kodiak Robotics"
 overview: "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.kodiak.ai/
 

@@ -2,7 +2,7 @@
 name: "Bossa Nova Robotics"
 overview: "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments."
 type: "profile"
-heat: 5
+heat: 83
 
 website: http://www.bossanova.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bossanova"
   url: "https://twitter.com/bossanova"
-  followers: 1154
+  followers: 1182
 
 size: 51-200 employees
 yearFounded: 2005
@@ -31,18 +31,19 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Bossa Nova Robotics"
   - url: "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Bossa Nova Robotics"
 
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
-secured: "usAh271gdJ9axLVmhKBKfsLNOyZDUjPJJ9TYML7NOWstS8yHDLi1AyZNLyS2zFnqC0Ck9O6Gec6UIjwDBUO5hD/vMJu8cxphLn6P70Ng4sEtgLdtDbsuEBAMRhgk/RKd23GHVl0hyvE3jzDyXdKWXRmsK6nXL/sDk606q1AudZSPCwMmmAz/UHQEHkUUffkUoaeMA9zoOBmWtWuc0juOizoOu135neUwKqsO9mwZ3/2MyT6OWhNbKRHOM0xdPvLP5XyofEwDzp+Ydre+ANsXHkRnOLoOeH0hhjvH96wCydwyJjVvCBPfXciN8i3J+KjeRn/AWHn5ruUC3sJi6QAqYA==;+VwoU9RinAQr1LoLUkBFPw=="
+secured: "hySJHXgzyVMRydI4bx2dKlq2vu4JT0HnSfBRLUan/2nRuihtKxm9NBXjr0Cm/g3hye34KRauWDuRDweSQ/afFsmGpDNo2IgDMFixI1x1iEmme9s7OwS/MuHkx7wk0+VXOXvQocwrNxDC5wm4Qj+LYMENsw9GYQH0VXLtzja0ZBBuSDnDt5dQI6g6Ql4ocTOVzxxvl2XCPcdZHAic16dJmDyV7J4FXEbJQKhb/kVK/EIlZ/hlB3lu3B9lItTlxO1Lmlmho+3ZXDIbjLFUtuQ1gI2Ea7oksWxMFoEJB6BH8IBQ/83CtBu8f04vdmXQv4paDME3R/Drd4dK1Ee1eVNqdoL4bgzGLWIJ7JfTebzjpjw=;ZZW4AWh0OZwlWzY2LPgDLA=="
 ---
 

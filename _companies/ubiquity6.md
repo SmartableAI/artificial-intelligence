@@ -2,7 +2,7 @@
 name: "Ubiquity6"
 overview: "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://ubiquity6.com/
 

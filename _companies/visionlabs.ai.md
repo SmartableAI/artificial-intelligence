@@ -2,7 +2,7 @@
 name: "VisionLabs"
 overview: "VisionLabs is one of the leading face recognition and analysis solutions vendors. VisionLabs products are based on state-of-the-art algorithms and technologies, developed by the company."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://visionlabs.ai/
 

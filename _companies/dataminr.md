@@ -2,7 +2,7 @@
 name: "Dataminr"
 overview: "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries."
 type: "profile"
-heat: 162
+heat: 201
 
 website: https://www.dataminr.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dataminr"
   url: "https://twitter.com/dataminr"
-  followers: 14020
+  followers: 14337
 
 size: 201-500 employees
 yearFounded: 2009
@@ -31,15 +31,16 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1146500937483280384/gqdpr_cB_400x400.png"
-    width: 400
-    height: 400
-    title: "Dataminr"
   - url: "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/1269948571429806091/w-vOKq7o_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Dataminr"
 
-secured: "FvKynTLzqjjUK6RX8M2LF0tn0Pxx0xfv5nYfmQ4Rg+T4qCyUuJRhOQkgB9KS0yg7KLRIJmbrlwnyB0iAHgXcRB6iEiLCipKX857NhCloJq2inKmMpBbmfP25+5kI2drDxIHMSKcNV3+/uQRTraQoSSfAc6vQ9F+f98x4PHMM7daEJ7WhliXD4JtQDYpsRYc85ZUzKUgsvOGiYAdYnQ0OS7tqeLTt6GBBcxSDgePsagW58IQkneeLmdBLCxXe3MMb7TyZj/oAv+1zCJwgLS5eC8q6AOvrqLrnC8+qmUZ2IrJR2UJpvD3n7/p5uma7iKLERvcFFSev9MPPKYNMzVh4sw==;os+DVdWSsDefwYklYlXAyQ=="
+secured: "dBM7mU5CK8Lf35LApCVGuvyOsTRHXlVeFtcDe74kU/EgOyZTO3LJqkFrY3xyr7aq+pDZTIcWS1sFUXSV07RNT91F4P/ZYDMOhmw4wqZ3Qn8kctElvDBJ55kPUAbT8AMtouworHC4CP96sKcjUwChNSmfLGxGORojwsdbuOkV6uuEeeOr5YYtB1/Nlt5XuoFuIQU3RqEuMdwX14S0OsAH6im2jvqUBhKP+2Kd0aTY/0qYXLW9uZ3+l0Hw18T4ziwmlsoOOXRbk4xL80yO0OLhmBVIkD7HVA7qYK0ZBnrd819SYlbMguV+1tAASe5v9OJJXQQTpQ2/kbQgvSRt6K6m+Hh0XLwBPkr/RoUg5anCa44=;XNxfYr2ZONk8pq2vwf9ESQ=="
 ---
 

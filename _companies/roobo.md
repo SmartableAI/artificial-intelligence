@@ -5,7 +5,7 @@ otherNames:
   - "儒博"
 overview: "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。"
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.roobo.com
 

@@ -2,7 +2,7 @@
 name: "Deepzen"
 overview: "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://deepzen.io
 

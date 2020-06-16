@@ -2,7 +2,7 @@
 name: "TNH Health"
 overview: "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://tnh.health/
 

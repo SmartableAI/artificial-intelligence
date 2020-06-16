@@ -2,7 +2,7 @@
 name: "ArtiQ"
 overview: "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.artiq.eu/
 

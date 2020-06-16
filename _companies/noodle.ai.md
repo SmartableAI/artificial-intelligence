@@ -4,7 +4,7 @@ otherNames:
   - "Noodle Analytics, Inc."
 overview: "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains."
 type: "profile"
-heat: 6
+heat: 88
 
 website: https://noodle.ai
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "noodleai"
   url: "https://twitter.com/noodleai"
-  followers: 1385
+  followers: 1402
 
 size: 201-500 employees
 yearFounded: 2016
@@ -34,15 +34,16 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1199149482060861440/3sXEjhDF_400x400.png"
-    width: 400
-    height: 400
-    title: "Noodle.ai"
   - url: "https://media-exp1.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_200_200/0?e=1594857600&v=beta&t=iBpJAM7fr1JSHWA_glLCxjgCHhD3YqXB83j9QicCdOs"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/1272782562302160896/TFvmumFT_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Noodle.ai"
 
-secured: "7S/SL76yp1VD9QXV24gTEs1BqXjk9Ns/8dbsFCrYsw1uSI8XG/2YixhIjSPmq6a+NFqz69ldpdSszWL+5r4bB9tU8P0TYYXmK/lnTvtpQEGGUk5+/kHY7jz5qa06EH3qWbTehV1WadI8fFd2N3ypyy/9faEQWyT8tp4J0FlrdmsoXcl3LpLCQVFqeRRgHoZriUsY7cU0w60KeDzXhCaX7+qEfEYiCfCYpcwR/MfU10vs9DgJTki9luKWjp04tT0/vTnDtSgb4XPCYeNJ3nGcpQlFIexUYE3GrXSDSHy7gF5ufsRnckg36bDqaiF9SQAofBH7Zj052IsJPnhnoPE5iw==;Bz7vLk6/oEpNerha01KDXQ=="
+secured: "CKf+wKsOAXIl/+iXlOjEtxYjpAipgJl4MAmMAQ4Uy75qiaJueeUclt/jd9etx0F1RaA6GZnzC9fYsKxxcAazTQZkvym927BvvwNT2HqMAh3AhiLfCWGB6w2GgPJ99/AzaNEskqj5pDNaC4LVVhGeuAEa8+pxe/gLVHyQvR4oC6wY4W4dMuRYbPNcTiFCa62sJGB6eMvOeNkI2HJk8Epoq+MBmkylqBc4ZZCyHo7pRpBVakxskJimYSniitHpuR+cefeSkBzhO88PRfk/iJeIKWmS7aNwmCeH1D45lmEB/gTHRLCcuiTO6PihyU+AxOx3TNYq2JnCwQg9t+RXiwCB+6ngKDLr8EclUeDZZBprA3Y=;6eX5j69uxUVblbQV1qd/mQ=="
 ---
 

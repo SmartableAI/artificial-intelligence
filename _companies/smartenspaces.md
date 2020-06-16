@@ -2,7 +2,7 @@
 name: "Smarten Spaces"
 overview: "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.smartenspaces.com/
 

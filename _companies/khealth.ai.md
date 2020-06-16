@@ -2,7 +2,7 @@
 name: "K Health"
 overview: "K puts personalized health information and quality care at everyone’s fingertips. We are a global team of doctors and developers who are passionate about using advanced machine learning techniques to turn clinical health data into knowledge that can help you better manage your health."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.khealth.ai/
 

@@ -2,7 +2,7 @@
 name: "Lemonade"
 overview: "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil."
 type: "profile"
-heat: 15
+heat: 211
 
 website: https://www.lemonade.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lemonade_inc"
   url: "https://twitter.com/lemonade_inc"
-  followers: 16339
+  followers: 16698
 
 size: 51-200 employees
 yearFounded: 2015
@@ -31,15 +31,16 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Lemonade"
   - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Lemonade"
 
-secured: "lpug1Z1Na526c7gYBgWu/SSkPKRAeqDtWFM6/IV0pyCTFOVilf1flYoBWJzLjwwk7P5bzVj9MFgVXsynvZs5BIveP/dXglFcyVVUWS6yU+H0bZK/wgJUBKv9p7y1R2PEekEYCuz7xg5fA2No9SHoNsiVEHoiGQY/n1LNH9AHFgbb0RNW3xrI41R+ha3oG2+ZqR4Yyy4ecWk4LmIFgo6Qm0oH+QVlajVituvkrqGINSRez2JHYYppe8rrT0VYRX72o0q6mVuafposl/pkG+t9ONsZ8qtWwpfpVJvKGZolOs/H2T2ztgaU4Jaq+G/DpWQscFak++SctmFMMf0b7gLQ2w==;mcxAzq6bDab0gf/P0k4mQA=="
+secured: "UedzakR/siMsph8XSxbE3XMZRa64qJ/RlaS4nChFL9ehKJ6sWmIJCQvLC1SzfLaJXiBuO4S8SWTNBL80Euo0XZ/cdc08iHlyRmKhwq3GicE6QtgkYnrvhOcFhQYglhW3p9Te5vWh6icmdmNnN0oYrpXzWC75Tma7xY0Ame9zfK69IUwcqeGerjoeVeC/TN8m9i00zz/kfbVkS9sXmd8wAIm5lcDnvr7HyGBCblFzjJb6j/pgARq+QiqjnLOYIwld6i8OjwxA9b4k6tmWpvdHkr2T70s+L/fSz/xRhTS7f/7kxVQ70cq1nUYSrN0jpae7xXDiMsiAzY9I004MOgDjUBr0WIY/TcumAPdyr5A+JoM=;fSmD/vXKPvt2mmL+OjP2Fw=="
 ---
 

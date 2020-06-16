@@ -6,7 +6,7 @@ otherNames:
   - "botmd"
 overview: "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. "
 type: "profile"
-heat: 0
+heat: 51
 
 website: https://www.botmd.io
 
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "botmdio"
   url: "https://twitter.com/botmdio"
-  followers: 38
+  followers: 45
 
 size: 2-10 employees
 yearFounded: 2018
@@ -32,18 +32,19 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Bot M.D."
   - url: "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Bot M.D."
 
 videos:
   - url: "https://www.youtube.com/watch?v=zQLP9b9WHjU"
 
-secured: "sZbauXTsJlQq9QjcankJCe/G0LRDjHwg38+Q9Iy6TNNp5btoL49NEt5crgawdTitLnGaduiFlxXfvm+GRpXx+I9ZeN8dXvEJHCe/qBbhi6r936+mgFy4Cw9WIdW/QAcjsjSFCv1l9G90OOJzLAS5YMovyCz1hNcV/OhJYonN6msQCgmzuXHXsRWs7sjGMPQv9Zma5Nrfgd/+Ek4pJmYypjbsJBtYs1mQwqujJpG/ZSW+hKBWRxAO3niTe5RAoqU83hnDWbw5lI+N4N8y8gJysQgme66Lu3Qa0HQE49Okx3az7d+6UlY5ucMvaVuZ+e09rYqG7h6SLBUsygg+rWyexQ==;M9hqgl7FL5CwhxIAE6/tgg=="
+secured: "jgIoRTymR6UEWVfOFUpDRpmOQ14q2TXKDspQmm9BSACFRFXk14ef8obgzYHOF85INwxXCT/dJAab2XpteIWSLGLxxmaO2WG4ZVHiQ5pmaCUUgROyUEfoBW/mIeSG3y4PhX9/h8QGHbQSrJ6pX4D7rclj+bz7jKFiqoMMq1d4yxYzwkAkV72x3FzSeewPdChmK0UmaEW61eMfzp/0bznrYKaQGhxqw8Y5J0dvBCVwcDtkM3aBv6zYY8OgxzS7wyhJCzaBNhsiyvtvHbTBbws4GHg9N3K699sBuJP2CxV/amvoMcR2n69gS2rD708faRC7DNxk4ERtO3sDiulKmI6Yww==;OgFu92zvm59d0DXFsT5tkg=="
 ---
 

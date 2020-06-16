@@ -2,7 +2,7 @@
 name: "Cerebras Systems"
 overview: "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/"
 type: "profile"
-heat: 1
+heat: 94
 
 website: https://www.cerebras.net/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cerebrassystems"
   url: "https://twitter.com/cerebrassystems"
-  followers: 1584
+  followers: 1682
 
 size: 51-200 employees
 yearFounded: 2016
@@ -32,18 +32,19 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/891013892775608320/I8z3RoZP_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Cerebras Systems"
   - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/891013892775608320/I8z3RoZP_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Cerebras Systems"
 
 videos:
   - url: "https://www.youtube.com/watch?v=czfAzRWRjYE"
 
-secured: "MGM1cXKXZ+VSkNqQvYyaAJhvrN7eHyanElQiNqMAfMW7kkGMKjTAweOYBpElaORa5f/zIACBVJZ97ynbBuVFgouIXHZQ8RnsgC53dai4ssfL5COiNwYvYAxBlj9JPs2bGozk4iYPCPKdIWEZDOIb0TIVH/YLigxI0VBIqOC1xR8PJrwv6SpTG8DzrXBNcQLJC+1VQ0Yy4Oza5V6oEtxpUAQHfK66IIemSP/IG8Of/qaBZSReQtWoT1NVrK6I09OgNiB1f5rZL1mEY+R70WC3tQvWBglnZDLZCAVfl1ysNYx86hjushqL1jwYyrpCWW1NhA+ZhITJ2HMqCvdziJ8Vvw==;Jim1hQP5m2Y0yVuwX5J3Qw=="
+secured: "U9H+j/fXzRNQrD9Bl68ogFDqFzLv/9SQJbZdON+mtUQk3j4IVRYxCz12kapJvR01sx7f7W9uH1TgYh5xwpjwtvNYuA+ofJUIOyydi/LMIvhSH5ej7N4fCQg8OIzz1rbcv66Eb7AYxyX+FG8uZ9C+WCMRe7lQMTJf1Ok4wvknJnx+7nGYNFlNg+FNBSpPNe/RFaszcY2kYk2a0/HqEyQXM+FEEr7NC6cgXjtDq/eXrz+FrnPAC/D2f3H1HADO0XUP8StMQ2dGnHspYgQ3u0URc2QFAYHVCjnOCbXFZvTstLe4a/iFCMSj748O+NWFn/jtMBEvLpHt82UDgfAe6wED1cn5KSqnIOVPJv+JUAZ9yBw=;sQKg5S5HZ29nAprbJhrW2g=="
 ---
 

@@ -2,7 +2,7 @@
 name: "NUVIA"
 overview: "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://nuviainc.com
 

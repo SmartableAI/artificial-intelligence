@@ -2,7 +2,7 @@
 name: "Blue Canoe Learning"
 overview: "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement."
 type: "profile"
-heat: 0
+heat: 54
 
 website: http://bluecanoelearning.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluecanoelearn"
   url: "https://twitter.com/bluecanoelearn"
-  followers: 123
+  followers: 133
 
 size: 2-10 employees
 yearFounded: 2016
@@ -35,14 +35,15 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1145747778594693122/h7ZhRq3n_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1258848008847777793/pDTVF6PT_400x400.png"
     width: 400
     height: 400
+    isCached: true
     title: "Blue Canoe Learning"
 
 videos:
   - url: "https://www.youtube.com/watch?v=xGsl-hTLi_g"
 
-secured: "cQFJZvbT/yIYd1nxIhxBmXKiBchiCjcyo2qldHJKprdmIOmvuHY6xqDNCDye5XcebTz9JH55cD0LxTTnBTsymZrlv5G/m7z7kA0U10d0aNF+h8dK835JEnYGbKUm4F1DXWPt4gEGTaDLtdXnhaI8fewa158OwHoauPyL2+/qbxh3HroD7d0LJlT2MfCifUS44pmPDbDhUchOhWSG1ZHAU2RIiY3he1IfjC8207TowY4Lv7g9c4xT/d7lXFstG1rzYTdvmMRASYZfsV+VjvNvKLkYj+bpuin+7oYtyrgDchxMY+wx+AWz/0tFbqjB//NXU0Dht1gqBZ+aIePO1Gyybw==;0QVgZaX66wk2Jc0RzhipyA=="
+secured: "sAu4UuY+UC0FR6uFxWOAcnuiiUCQLNqRuRzRh/CdGLGTLDBFLmTZazc3XglT3rdFUJEZlRAi8mzoIGvb2v3/CE0VFi7o404m7V1lWFXh/wzslOxvTXFDF4m3Ea1m0BUoN3UDJII4uUJHdw2M2PttONLND5hlmrSwycgMbY0QMFbk53g/r0DWbU6xDginVnHp8Rn7vSCCCbsXq2MqOeZ2InDLXzuiuYK/IUXi4pj10CHl9uhk1/eUgnge2qSa2Xk4wijM+gar0YPuAjLGG798mXUk9fN/c/lcvHBkkxA84LOxlAM6JFCq7bhtfC0OfYq0CTy0Ep5TU6Tojaei1hcXahrrHH6QbnhHhBBEtBNytu4=;Cc1j5cF2tupaoZz+B3DvQQ=="
 ---
 

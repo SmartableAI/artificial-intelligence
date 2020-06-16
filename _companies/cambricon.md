@@ -8,7 +8,7 @@ otherNames:
   - "Hanwuji Keji"
 overview: "寒武纪是全球智能芯片领域的先行者，是全球第一个成功流片并拥有成熟产品的智能芯片公司。公司的使命是打造各类智能云服务器、智能终端以及智能机器人的核心处理器芯片，让机器更好地理解和服务人类。"
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.cambricon.com/
 

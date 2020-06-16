@@ -2,7 +2,7 @@
 name: "Taiger"
 overview: "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology."
 type: "profile"
-heat: 1
+heat: 67
 
 website: http://www.taiger.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Taiger_CO"
   url: "https://twitter.com/Taiger_CO"
-  followers: 527
+  followers: 538
 
 size: 51-200 employees
 yearFounded: 2009
@@ -36,11 +36,12 @@ images:
   - url: "https://pbs.twimg.com/profile_images/1199655602424877056/ANWtCK5S_400x400.jpg"
     width: 400
     height: 400
+    isCached: true
     title: "Taiger"
 
 videos:
   - url: "https://www.youtube.com/watch?v=X9wiSLxokXA"
 
-secured: "yC8DaYzGylV5yLGQmbvDL9mKSOPUJ8ZPgFhLLHTGOVDWpD4W/IA5Yp0Grv23vDZD0xBcevj0Gg4M6yiZAZrTQq9TgCjyr5x8l1CNnM5jgJ1nu/LBYUeHsM390FmEL49bY2I8k2DBTR23Aall4IyEBbp8USf8hYpdxqCx+9Xh+kIQmL2E2A1vvxgAhrEuttJWkYHzL/6ET7T+FP+NvDZc3DqvD1deV+AqqepEM69wwKeC3PUjF+Q3kWUoQhE8Moc65udhRk4In5YCK9n40KPnZfnzzGiHxToXJxJLX0QlCdzoWVpPHXh7S6VX7OCIqhje0CziYTk94Ql+jxSLilTRmA==;N3s1P9NFB1uC8WECEAlvJA=="
+secured: "L4sth5jx8o1xJgRurGR4U/m7M/8PiNy5Dft09cPsrc5A/+U73dO/wtuq9dMSQ8orQN2LU8PNO+x5iaHTQL5rAFCXL32uXpD0NQNAjMUUGVy2DViyRhu/QOgKst1MyG03xajxL8dI3JlAFT+w7QazVMmlhVcwCY2lrBQzZlkY7DA5/hIZ5oj3lSP25sGjWLOWXw3zbUczHnadtc2cxrr4zKDnimdi6Etf8MGCD7ZP0p3wc+NR4RNCqgkFb9TcZLJZbiIVFj38z4J6ZsK12FBKGboUUFEgAgzR9nOJwNVYrEFwtZxd81o8ljkZ7yn3nI3A84n9r7QozRYcVuj2rmKiIiaX1o51T+hra0MucSY+sgo=;DX5VZuvfW/l3YnbPLcgsSA=="
 ---
 

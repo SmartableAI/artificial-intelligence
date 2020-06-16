@@ -2,7 +2,7 @@
 name: "Kaskada"
 overview: ""
 type: "profile"
-heat: 0
+heat: 50
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/kaskada"

@@ -4,7 +4,7 @@ otherNames:
   - "HautAI"
 overview: "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.haut.ai/
 

@@ -2,7 +2,7 @@
 name: "Skelter Labs"
 overview: "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.skelterlabs.com/
 

@@ -4,7 +4,7 @@ otherNames:
   - "GEENEE Inc."
 overview: "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://geenee.me/
 
@@ -14,11 +14,6 @@ linkedin:
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/geenee"
-
-twitter:
-  username: "shopgeenee"
-  url: "https://twitter.com/shopgeenee"
-  followers: 9
 
 size: 11-50 employees
 yearFounded: 2014

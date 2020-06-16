@@ -2,7 +2,7 @@
 name: "Sight Diagnostics"
 overview: "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.sightdx.com/
 

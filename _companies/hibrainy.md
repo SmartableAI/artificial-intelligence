@@ -2,7 +2,7 @@
 name: "HiBrainy"
 overview: "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include"
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://hibrainy.com/
 

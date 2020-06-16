@@ -2,7 +2,7 @@
 name: "Anki"
 overview: "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI."
 type: "profile"
-heat: -5
+heat: 242
 
 website: https://www.anki.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anki"
   url: "https://twitter.com/anki"
-  followers: 27146
+  followers: 27002
 
 size: 51-200 employees
 yearFounded: 2010
@@ -31,18 +31,19 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1224328852773724161/IphWljSP_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Anki"
   - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/1224328852773724161/IphWljSP_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Anki"
 
 videos:
   - url: "https://www.youtube.com/watch?v=ABFcdwfU3F0"
 
-secured: "mBJEuyJgFVJ7HUasxTHJk2+Cj6zjjF1f41pnuMqnSQyDRoVqtSUQTnEte2Uf+na7Z8he2S485VwMHaPldI9TPXeSfxAMf/U2G/5zaAjOHcwZyzmOhqJ79TNtRq0vd4K9dVuu/4gliJbAkA+mPqIJdDT+IsziNjfUuVlcwE47lXidCNgfNozeun1wbzlR7zHXfQ82rWP1eJ8JGbi4dFfsxTRngK34y7KKRQnOIn9WJ5oEQJT1ywxwMuiOl1MkWbr1OzC8LfkIttgYLWc767zC2Qw+jxRXQNm2zImZX80CfUXB+dRdY0UPE1cE+7X5q8gtNDX0ukK5Dz0ADRaOF4lN2g==;W4l3S36oBI1Gayk9Lu7GoQ=="
+secured: "FfZOcOCKWS2AIczORA6n8ymLRCPQssuWdARvkhGNc66HmVEO4N7t1LNMmKNe3krc32c4SkcLkO0oyBu7i771C6aKS0QcdCuJEImime+703/6Domul4BgTRg/7T42BkngqOzy/jdsJd5LEr3Y6Pq1+Z6KHSaACvBXLuTPpCXgIQV1kVzrG/gQexwp8wotLp8LTdE556Od3ysXoeLu23ltYYGup/SSQRGsdYSigC/dsG/6CMlAKuzDivYTm8wv7OIlApHBQrOIB4QHneTbsHL8LVyTynqI1x9dmr29qpuzerttQp3U7orX3L9jNstlXV8gt9mpeyqRaiQGGF/hbIGefleJ3Sc5Dve0MT5GTWOM9YY=;5eCUkpWxd7AqoFTW+XVtiA=="
 ---
 

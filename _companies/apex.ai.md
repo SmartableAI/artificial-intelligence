@@ -2,7 +2,7 @@
 name: "Apex.ai"
 overview: "We are building an operating system for autonomous vehicles that never&nbsp;fails"
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.apex.ai/
 

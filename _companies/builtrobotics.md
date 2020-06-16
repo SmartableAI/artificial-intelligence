@@ -2,7 +2,7 @@
 name: "Built Robotics"
 overview: "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments."
 type: "profile"
-heat: 3
+heat: 77
 
 website: http://www.builtrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "builtrobotics"
   url: "https://twitter.com/builtrobotics"
-  followers: 890
+  followers: 933
 
 size: 11-50 employees
 yearFounded: 2016
@@ -32,18 +32,19 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg"
-    width: 400
-    height: 400
-    title: "Built Robotics"
   - url: "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak"
     width: 400
     height: 400
     title: "logo"
+  - url: "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Built Robotics"
 
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"
 
-secured: "rgH129jybhHEDstPf9IuhgbleZRk4h+LumuYSusW4QoPPfCS5JLUWtpa4j0ao83E8BS/oEmVjWqDOYXHSl26R3pdxrFw7EJon9cHDhch7Ty+PxLybv7datF6AwibhE27oSsS9MxjSxwO/CyEKRtulSWpbj4helBWXV5W/t5E7zqlG97hRajpyzgBx+tFhLd9MHXxjPaE2iHyjUCNaQKAk3UcjgEKmX74vXnPTh4uFQp3ZsKSZWNVb4K08YeqvTrZUS6y9JFcAbKhvm1fNavq0BYyvooVLD/1OYNcLrXGwmNcEkvdH8Voa5jdBsD9kRU0Cu8AC7SHSb47lN5A8Gpgpg==;uyhOeXtf5u6QjI6nZhVpaQ=="
+secured: "smIaKlpJ2To7zR1WyvU0SYicM0cC3Z7hETqJsETvfXApGFDm7HTS92h0qYxjcGtjDHWFwdT5dK7JrJ8Z6BDNhINQZs0FcTHfAu4pUFqOFJSqK/QoIV4w8WKeJQ1RZzLI1r28d0LaUY9gQmEWJlTLaHDB8VXPNRYA/+Lg0xzcfYJqAH/PJMSmJjaQfELoKs8G451+Yz2pwwxbw1cqM90VbcJP6JAx8+4ajX8racux5cJgwW0l+IffRRVSC+scM9yJGAscZOj0weoGp+7htSrvsTOA7NrbsMPfJ9KGn4b8runq512Un8STyI+IFzSEOqGzshdkfSF9wNBcJqqgpLoiIJIFvVYXkMG3U4EfAXby444=;7JGfSoaBL4bcAkroXjQ8pA=="
 ---
 

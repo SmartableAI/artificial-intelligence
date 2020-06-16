@@ -2,7 +2,7 @@
 name: "Movidius"
 overview: "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://www.movidius.com/
 

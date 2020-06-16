@@ -2,7 +2,7 @@
 name: "IDx"
 overview: "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection."
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.eyediagnosis.net/
 

@@ -2,7 +2,7 @@
 name: "Eigen Technologies"
 overview: ""
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.eigentech.com/
 

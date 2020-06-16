@@ -2,7 +2,7 @@
 name: "Diagnocat"
 overview: "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area."
 type: "profile"
-heat: 0
+heat: 50
 
 website: http://diagnocat.com
 
