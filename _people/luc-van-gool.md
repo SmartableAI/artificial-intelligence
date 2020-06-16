@@ -2,7 +2,7 @@
 name: "Luc Van Gool"
 bio: "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …"
 type: "profile"
-heat: 336
+heat: 50
 
 affiliation:
   name: kuleuven.be
@@ -13,7 +13,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=TwMib_QAAAAJ
-  citations: 122905
+  citations: 123523
 
 topics:
   - AI

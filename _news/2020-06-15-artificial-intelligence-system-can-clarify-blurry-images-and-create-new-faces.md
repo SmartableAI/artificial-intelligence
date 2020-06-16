@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T09:49:00Z
 webUrl: "https://electronics360.globalspec.com/article/15269/artificial-intelligence-system-can-clarify-blurry-images-and-create-new-faces"
 type: article
 quality: 36
-heat: 36
+heat: 56
 published: false
 
 provider:

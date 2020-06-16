@@ -2,7 +2,7 @@
 name: "Lev Dudko"
 bio: "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics"
 type: "profile"
-heat: 642
+heat: 50
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=zEQGLhoAAAAJ
-  citations: 167122
+  citations: 167774
 
 topics:
   - AI

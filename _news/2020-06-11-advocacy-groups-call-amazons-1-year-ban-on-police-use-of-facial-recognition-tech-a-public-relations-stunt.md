@@ -445,22 +445,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Amazon bans police from using its facial recognition tech for a year"
-    excerpt: "Amazon has banned police use of its face-recognition technology for a year; it did not say why it took action now. Ongoing protests following the death of George Floyd have focused attention on racial injustice in the U."
-    publishedDateTime: 2020-06-11T13:20:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-amazon-facial-recognition-ai-20200611-at2lh7ub5bavzeukdrcsxk4ada-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: "https://www.chicagotribune.com/resizer/2ksi1NfHkJvVNU32fKKU9KO0IBQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SNXGZQ5NQ4FYCWYCZIA6VHGKPE.aspx"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft won't sell facial-recognition tech to police"
     excerpt: "Microsoft announced Thursday that it won't sell its facial-recognition technology to police departments until there are regulations on its use."
     publishedDateTime: 2020-06-11T21:17:00Z
@@ -562,20 +546,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CREFEAVB7AI6VPQGV5KRJ3QDQU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Amazon pauses police use of facial recognition software"
-    excerpt: "Use of the company's Rekognition software platform will be suspended for one year in the hopes Congress will have \"enough time to implement appropriate rules\""
-    publishedDateTime: 2020-06-11T13:31:00Z
-    webUrl: "https://www.policeone.com/investigations/articles/amazon-pauses-police-use-of-facial-recognition-software-XJMlJZP7HBxtZp3d/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/amazonfacerec_61120_news.png?w=1600"
-        width: 459
-        height: 405
         isCached: true
 
 secured: "EjzNHrJHR4VRvYSaw1yqiStAsK7NtdQveNhQlLs4OT2sTrVnGpKo0jcCdg9ndF3pDjTIisLFVI4K0E2OmiSU4nwL2cPkSqlX97jXhuno5sYSGa04Ib7O9FKhWapsO7nqV77zAwxPZHmJlYiKdfLSuLapyuki4uVrN5F3gtMbs1CzMzomMurzvzNG3q6aG/eERlFyVlzF9oaVb97XLzxg/XWm/Wg4nIoWSnggyEzgofS7SYPYnLeoBGsZ3jU6Y7gbDJ4KjC5hahcFT7SkffpmKB96w0Tdg9F3BQ/3GU591Lr/ljC4XPhlFTMsdf6tL2WJfcuo76MgMKVzX/N2pXV1JwBCrG60rsjqf5k5c39pMTOUW2/N9nBsqoo7yshFiQSHTeqlgL0iIIxQ4IrpvyXHaHOSCnCRTMKdpCwxnOrdDe5zfJZSkSIM9w+4JyVRiw0hl3EA2BlHos+ycUR/xL01tcdgL+5DcZr9GoaF+QJglY9DsmOE3yx/oPfpskyFno0c;tL4XE4Czas5JCgZnr+F/4Q=="

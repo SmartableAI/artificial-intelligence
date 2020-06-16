@@ -2,7 +2,7 @@
 name: "Ray Kurzweil"
 bio: "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments."
 type: "profile"
-heat: 0
+heat: 50
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Ray_Kurzweil

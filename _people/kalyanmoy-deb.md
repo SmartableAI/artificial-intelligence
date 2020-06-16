@@ -2,7 +2,7 @@
 name: "Kalyanmoy Deb"
 bio: "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …"
 type: "profile"
-heat: 277
+heat: 50
 
 affiliation:
   name: msu.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=paTAXiIAAAAJ
-  citations: 143073
+  citations: 143377
 
 topics:
   - AI

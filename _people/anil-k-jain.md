@@ -2,7 +2,7 @@
 name: "Anil K. Jain"
 bio: "Michigan State University"
 type: "profile"
-heat: 425
+heat: 50
 
 affiliation:
   name: Michigan State University
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=g-_ZXGsAAAAJ
-  citations: 208332
+  citations: 208617
 
 topics:
   - AI

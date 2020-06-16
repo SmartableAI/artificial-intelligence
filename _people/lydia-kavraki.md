@@ -2,7 +2,7 @@
 name: "Lydia Kavraki"
 bio: ""
 type: "profile"
-heat: 0
+heat: 50
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Q6pxNZYAAAAJ

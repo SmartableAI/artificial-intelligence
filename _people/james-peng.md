@@ -3,7 +3,7 @@ name: "James Peng"
 bio: "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning."
 location: San Francisco Bay Area
 type: "profile"
-heat: 0
+heat: 50
 
 affiliation:
   name: Pony.ai

@@ -2,7 +2,7 @@
 name: "Jonathan Hays"
 bio: "Queen Mary University of London"
 type: "profile"
-heat: 1686
+heat: 50
 
 affiliation:
   name: qmul.ac.uk
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1DS8DjgAAAAJ
-  citations: 169112
+  citations: 169957
 
 topics:
   - AI

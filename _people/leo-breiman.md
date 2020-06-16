@@ -2,7 +2,7 @@
 name: "Leo Breiman"
 bio: "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science."
 type: "profile"
-heat: 479
+heat: 50
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mXSv_1UAAAAJ
-  citations: 152159
+  citations: 152586
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Leo_Breiman

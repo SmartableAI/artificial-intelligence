@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200611/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200611/Artificial-intelligence-probabilistic-modeling-can-improve-prediction-of-survival-in-cancer-patients.aspx"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

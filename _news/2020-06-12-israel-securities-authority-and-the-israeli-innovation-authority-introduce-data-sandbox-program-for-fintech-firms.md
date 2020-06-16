@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162667-israel-securities-au
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162667-israel-securities-authority-and-the-israeli-innovation-authority-introduce-data-sandbox-program-for-fintech-firms/amp/"
 type: article
 quality: 22
-heat: 22
+heat: 32
 published: false
 
 provider:

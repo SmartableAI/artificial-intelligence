@@ -2,7 +2,7 @@
 name: "Josh Cogan"
 bio: "PhD Physics, Stanford University"
 type: "profile"
-heat: 975
+heat: 50
 published: false
 
 affiliation:
@@ -18,7 +18,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=_EPCKe0AAAAJ
-  citations: 183513
+  citations: 184538
 
 topics:
   - AI

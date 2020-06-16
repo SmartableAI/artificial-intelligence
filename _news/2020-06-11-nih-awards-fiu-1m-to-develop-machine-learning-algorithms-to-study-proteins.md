@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T17:19:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

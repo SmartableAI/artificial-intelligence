@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/cycling-app-to-use-crowd-
 cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/cycling-app-to-use-crowd-sourced-data-to-help-with-bike-friendly-city-planning-39285688.html"
 type: article
 quality: 40
-heat: 40
+heat: 50
 published: false
 
 provider:

@@ -2,7 +2,7 @@
 name: "Karl Iagnemma"
 bio: "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy."
 type: "profile"
-heat: 36
+heat: 50
 
 affiliation:
   name: MIT
@@ -15,7 +15,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=3VyGrdwAAAAJ
-  citations: 14148
+  citations: 14211
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Karl_Iagnemma

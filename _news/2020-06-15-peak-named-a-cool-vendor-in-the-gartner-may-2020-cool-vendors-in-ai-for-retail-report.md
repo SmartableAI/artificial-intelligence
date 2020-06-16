@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T07:32:00Z
 webUrl: "https://www.retaildive.com/press-release/20200615-peak-named-a-cool-vendor-in-the-gartner-may-2020-cool-vendors-in-ai-for-re/"
 type: article
 quality: 9
-heat: 9
+heat: 19
 published: false
 
 provider:

@@ -2,7 +2,7 @@
 name: "Chuen-Tsai Sun"
 bio: "Professor of Computer Science, National Chiao Tung University"
 type: "profile"
-heat: 433
+heat: 50
 
 affiliation:
   name: nctu.edu.tw
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=_0PCbyUAAAAJ
-  citations: 145218
+  citations: 145606
 
 topics:
   - AI

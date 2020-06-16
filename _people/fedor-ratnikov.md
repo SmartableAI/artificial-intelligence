@@ -2,7 +2,7 @@
 name: "Fedor Ratnikov"
 bio: "National Research University Higher School of Economics"
 type: "profile"
-heat: 461
+heat: 50
 
 affiliation:
   name: hse.ru
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=vbLFLLEAAAAJ
-  citations: 129742
+  citations: 130116
 
 topics:
   - AI

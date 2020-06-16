@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T15:06:00Z
 webUrl: "https://www.vccircle.com/nexus-leads-series-a-funding-in-enterprise-automation-startup-jiffy-ai"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

@@ -2,7 +2,7 @@
 name: "Lotfi A. Zadeh"
 bio: "Professor Emeritus, EECS, UC Berkeley"
 type: "profile"
-heat: 334
+heat: 50
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=S6H-0RAAAAAJ
-  citations: 242044
+  citations: 242414
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lotfi_A._Zadeh

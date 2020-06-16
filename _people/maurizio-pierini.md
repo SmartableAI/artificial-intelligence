@@ -2,7 +2,7 @@
 name: "Maurizio Pierini"
 bio: "CERN"
 type: "profile"
-heat: 714
+heat: 50
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=3vZMAs4AAAAJ
-  citations: 159583
+  citations: 159942
 
 topics:
   - AI

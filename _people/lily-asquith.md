@@ -2,7 +2,7 @@
 name: "Lily Asquith"
 bio: "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex"
 type: "profile"
-heat: 738
+heat: 50
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=cFhAMkoAAAAJ
-  citations: 171707
+  citations: 172506
 
 topics:
   - AI

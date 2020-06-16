@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-power-ai-lending-sector/amp/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T17:38:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/brainchip-launches-the-akida-early-access-program/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

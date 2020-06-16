@@ -3,7 +3,7 @@ name: "John Carmack"
 bio: "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook"
 location: Dallas, TX
 type: "profile"
-heat: 189
+heat: 675
 
 affiliation:
   name: Facebook
@@ -14,7 +14,7 @@ website: https://t.co/c0ndp2bkKs
 twitter:
   username: ID_AA_Carmack
   url: https://twitter.com/ID_AA_Carmack
-  followers: 880175
+  followers: 879236
 
 topics:
   - AI
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "John Carmack"
 
-secured: "6cu7u7TXaoY2yU3Ixc0448W2zbr7tsaJ/yorJzjFH+g1ajw5jjVzmbkcNHPmU2GJJB/7L6hS/7oYvhN6fcYZHK2tATvsDiV2fRyedA0Pbxp066Ec+Efj+LkaLDzi/TWGl2kYrxWPFMHAd7w/pgZV81yV5ifJsX0kgpNAFkDb7RurzgRZfGx7pu+CBJKwuj+dqqG3RIoPul/Z7Vi1A0dNoqmIGCrgMOZclE3xdWUBIDH/ARSGbNXshggJi4+Dha7AeyH6ZM/NkzkYv3cypJLLZl/avyhumpPZguJd04q4bk4bzjnDJ1W9vzrCSWUkNQYP+/ywTXUklZUXPvpitimWFA==;I1KY0vn+H7MOOwVW1T7cug=="
+secured: "IjubLV/0NB+lUtdkb8YGHgbFjGoL6A37+sKR9ikTyqzK8Mu1FYK5bD1fXZOTkhGX2Et0X2d5plfNuy3qrJ6XpVBZ4YXpUxs4PvpdBVUbKUuJ/11ahUVT2B2q1DnVGtD/8me4ZdxswU2rmHv9fE70Vnl4Rplsm/z5kwWLPCG54kbTYsbyoinUgzbTnFdjtsasjbr3wpHPGesHL54asZklR55PiHf2aVZVzqQBfgVDuO7uTZSeSGDl2UhGukauNXJb7iDtjCl1d++N0Zvm/hEeshSGb4ZzlpPk0qciX1EAN7duuonvDt7U9wWlhR8UlWqLLrlC3/Hz2VSgcZwxmS+XQcmMsgd5CZmQ7gU8vD1Xerk=;LwPFg/+Qysu2R64bOpsQSg=="
 ---
 

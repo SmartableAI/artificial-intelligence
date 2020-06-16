@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T15:30:00Z
 webUrl: "https://www.ifsecglobal.com/smart-security/artificial-intelligence-and-intelligent-automation-whats-the-difference/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

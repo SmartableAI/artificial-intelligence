@@ -2,7 +2,7 @@
 name: "Mherubahsan 161-15-726"
 bio: "student of computer science"
 type: "profile"
-heat: 625
+heat: 50
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=uVsDGTUAAAAJ
-  citations: 194887
+  citations: 195979
 
 topics:
   - AI

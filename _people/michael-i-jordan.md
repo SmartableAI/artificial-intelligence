@@ -2,7 +2,7 @@
 name: "Michael I. Jordan"
 bio: "Professor of EECS and Professor of Statistics, University of California, Berkeley"
 type: "profile"
-heat: 425
+heat: 50
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=yxUduqMAAAAJ
-  citations: 179592
+  citations: 180166
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Michael_I._Jordan

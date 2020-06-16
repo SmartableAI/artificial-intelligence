@@ -2,7 +2,7 @@
 name: "John Giannandrea"
 bio: "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies."
 type: "profile"
-heat: 0
+heat: 50
 
 affiliation:
   name: Apple
