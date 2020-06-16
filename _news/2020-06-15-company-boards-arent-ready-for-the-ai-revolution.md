@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/company-boards-arent-ready-for-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 545
     isCached: true
     title: "Company boards aren't ready for the AI revolution"
+
+related:
+  - title: "Company boards aren't ready for the AI revolution"
+    excerpt: "Bolt-on solutions don’t make an AI strategy. My second piece of advice to boards is that they should urgently develop and then monitor strong ethics guidelines for the use of AI and Big Data in their enterprise. That’s especially important now ..."
+    publishedDateTime: 2020-06-16T00:02:00Z
+    webUrl: "https://www.techradar.com/in/news/company-boards-arent-ready-for-the-ai-revolution"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
 
 secured: "5amz1UsyBNFmukA3yXHB4CBl/zoGuOBXRwzQGYy7gzl+0MjOLwEclO7qnJUBjcui8gdhoFW2TzvQbVYiuA59sHFzU1taJ2M27n7DkdC5hKb7yEWg0bqVNcyagnBIe8PP4XyxcWtCVdg7V1FsP5y9IVwaTJrKHmPUNGd9Bqq5+q9J0LvJU3S+1KVlDi/efqic64a0hOrtAqzyPtevgOqdT4TeQm//2uu0lDZOK+1Nc0ucAgCr4l2VmJ726B4Yr9/V+wNj9QOstR3rMOWNkWZmZSTjRl//W+IHCMIZciqyf2J11P5e9RT/HsRDWNkwk/tpwQa2Zk2rgiVt8tnw7HsdTZ7AKS7It8gO3Fx0Ef32im6aLlkWmP/yyrPpkJVRw7AXGho/5NeReUV4TmDoY4lm9rI4UNapv5p5zVX9e93MaJ2UXN6n/lwt/b2XN7u9MhQY/X5Mbq44uZUevB33hIBxueKpm9fOmSnkYafNxc2rDcf4xAtkHEns+qJcdBF5GAD8hmtlrz2vbabg9hvOoc/3hw==;4Dnyuv94yBXEcOwcYWtNLA=="
 ---

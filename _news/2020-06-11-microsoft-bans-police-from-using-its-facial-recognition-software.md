@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-usin
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/"
 type: article
 quality: 89
-heat: 469
+heat: 449
 published: true
 
 provider:
@@ -567,20 +567,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "ACLU says Amazon’s one-year moratorium on police use of its facial recognition tech isn’t enough"
-    excerpt: "Such facial recognition tech has been proven to be racially biased. So, it was good news when Amazon announced they’ll ban police use of the tech for 12 months to “give Congress enough time to implement appropriate rules” for its use,"
-    publishedDateTime: 2020-06-11T12:21:00Z
-    webUrl: "https://www.fastcompany.com/90515631/aclu-says-amazons-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnt-enough"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 26
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-aclu-says-amazonand8217s-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnand8217t-enough.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon pauses police use of facial recognition software"
     excerpt: "Use of the company's Rekognition software platform will be suspended for one year in the hopes Congress will have \"enough time to implement appropriate rules\""
     publishedDateTime: 2020-06-11T13:31:00Z
@@ -595,15 +581,6 @@ related:
         width: 459
         height: 405
         isCached: true
-  - title: "Amazon Pauses Police Use of Its Facial Recognition Software"
-    excerpt: "Answering widespread demands for new curbs on aggressive policing in the wake of George Floyd's killing, Amazon is halting law enforcement use of its facial recognition platform for one year, the company said Wednesday."
-    publishedDateTime: 2020-06-11T11:25:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21141770/amazon-pauses-police-use-of-its-facial-recognition-software"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 4
 
 secured: "ZzwhgSHK+DMTHFiJDzuMwUsP3pmaqL5RQYBdCx5Ad8AJULpDL/Q7AAMxK1Dt3iS7T8Sy315h4vHBaDDvP8SDP9s6y23JdXHoWWqzCqa7+89AOl1F5l+OdS/fqFhnzTGN6Hy8sOBDq7fn2ipMF6UUKWlATVQZmH3t5EUsEJSfZAbweB+lycMBt3ttCoRKRYHosxkkZ3DtQRaLaCt/F1JHhAhg4kfI6fVj644XA5tnVQCRWqpCok8/ykkXmAIu3xI+BA9zwZdGo8fDIKBBiHk64iFyNKnXYd9SOcvV05BudpI91MFf3mjDq9BixnzWP7NYmW4Eh4MBCd7Z1bTEKCvkNFnIq0p5SarxF3ewgUQZL1ZxEH8+Uii1xMQ8aFpQ9ZYFq37jCVGgzWvDyKHGhqlU3x9Xrl7GjYiXBLz+cVAm0yj4pdd8NsulnnilYBt1WpN4u3/1CpeYCW4QGFs19f+FUUH05QIqIE/Yi7mEAo26IHC0eVfdlZxP86P/Siti3Lfw;3Cgnc3ol7hA82b12EqgYjQ=="
 ---

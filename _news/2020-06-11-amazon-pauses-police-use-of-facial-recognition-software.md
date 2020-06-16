@@ -577,29 +577,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "ACLU says Amazon’s one-year moratorium on police use of its facial recognition tech isn’t enough"
-    excerpt: "Such facial recognition tech has been proven to be racially biased. So, it was good news when Amazon announced they’ll ban police use of the tech for 12 months to “give Congress enough time to implement appropriate rules” for its use,"
-    publishedDateTime: 2020-06-11T12:21:00Z
-    webUrl: "https://www.fastcompany.com/90515631/aclu-says-amazons-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnt-enough"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 26
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-aclu-says-amazonand8217s-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnand8217t-enough.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amazon Pauses Police Use of Its Facial Recognition Software"
-    excerpt: "Answering widespread demands for new curbs on aggressive policing in the wake of George Floyd's killing, Amazon is halting law enforcement use of its facial recognition platform for one year, the company said Wednesday."
-    publishedDateTime: 2020-06-11T11:25:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21141770/amazon-pauses-police-use-of-its-facial-recognition-software"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 4
 
 secured: "3lxoB92ngX+sM12dV/MRf45/V8Y2Kogsxf2Q6iMb43Wd9On+EqtVekZsYxYggUCjMrul+FXLkWE2pfshHfpws72oS3dlEYXdt0aAd1SFs+pN25lXwZqvsKJAayvEmpJ0CwI2ffQmjjaXoGov7JFALb7T4xPJYZh4FDOV1l/RbdUgrtyan87TPE6eG0yQyD+0/fllLGbzvyG3MNYE2MPWUKRLkcw3oCkB8/KiAo59uomJwyDx4ZGtFIDCrl8d/wJtaIpGAtdHpt+aym2AaxtUh6LW8/mQUFDCt/EK9XOj2XJNa5uujxnEEb9T7+b2KU0tQUsV7zEMBZn+35d+WrNmo7H6ct3hJXmn1/aGvK4lQa1VEjeljw0bkuMRAcibXHOpcT5di3uM605U0djPfsDlU/a9gdIsLA7FfqSHDJ1d7pPQc2j4Cy04DZdrudPCrL4j4Eb2zvwKcsF4QRbK3IaFHMZWneWrnp0eFpjpRwFT7iz1IdmOXKFFSjAMC5OZfpB1;OPdalcPAld+2OyMqn1SCCQ=="
 ---

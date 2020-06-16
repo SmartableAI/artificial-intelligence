@@ -170,15 +170,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Amazon bans police use of facial recognition software for a year"
-    excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
-    publishedDateTime: 2020-06-11T12:40:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/amazon-bans-police-use-of-facial-recognition-software-for-a-year/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
     publishedDateTime: 2020-06-15T22:36:00Z
@@ -190,6 +181,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
+    excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
+    publishedDateTime: 2020-06-16T04:38:00Z
+    webUrl: "https://www.cmo.com.au/article/680575/spotlight-facial-recognition-after-ibm-amazon-microsoft-bans/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 39
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/facial_recognition_id_136967238__axel_bueckert__dreamstimecom.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "i66x3gcfzKLyuqSuvswOM9GY8K4LahZ9I8QoDiNBSNS8sNA7zsadQKHnTJ/bRRqOWwyNEFG+p0zWIt4Csy7OXQ/DpcUTXFXKGuwZ7gj3rPgJqMLt5AiTmNn9ftdcaryOQq2VAitciYH9BQ3WXd4v6nmkIFlG0+ripm7+DZIgcSTQS+7JR2zJtl9FAj/RtcK9NRsJQxRQmJlikNeo4WddfSIZ6f88GHRNaiC7McMmXMxEszqscpBnh57708Hi7w8xmhFHTLAIAP7QrL0Q1+mRiFCFDa649HkzLaInlpmF94yAvWj8M0AmKAGNnWZi6TXloU7B6cza6dijHTBNkdrHd8yqjVHtYP6R5W1iq5WwR/xhF9kJNhwD22VCzXpRfxc0pLgMyhsHsDZdDFBDABTqZt2O1yVaVflTmyzwQDANcJSkGpkmk3nIMBxRaUE7bSiOIfbEzLF1wgVfdf3KiD+CKEG8swPam+FZm2+V/kw42lrxeuDAxBZ5iwvjbytSYu1k;sRAGCW8lET1kF+XRC1t+rg=="
 ---

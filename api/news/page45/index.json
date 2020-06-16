@@ -2,6 +2,175 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
+      "title": "AWS unveils open source model server for PyTorch",
+      "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
+      "webUrl": "https://www.reseller.co.nz/article/679084/aws-unveils-open-source-model-server-pytorch/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_dreamstime.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS unveils open source model server for PyTorch",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-la-trobe-university-using-artificial-intelligence-to-reduce-course-dropout-rates.md",
+      "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+      "excerpt": "The Bachelor of Arts Explorer allows students to shortlist majors and see what careers they can enter if they study a specific course.",
+      "webUrl": "https://www.zdnet.com/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/06/beae507b-2d7e-48b2-ac68-6996eb050e6e/bachelor-of-arts-explorer.png",
+          "width": 1248,
+          "height": 764,
+          "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "publishedDateTime": "2020-05-06T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-feds-quarles-says-paying-a-lot-of-attention-to-spread-of-machine-learning-in-finance.md",
+      "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
+      "excerpt": "Federal Reserve vice chair for supervision Randal Quarles said the central bank is in the early stages of studying the use of machine learning in the financial sector. Federal Reserve vice chair ...",
+      "webUrl": "https://www.cnbc.com/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105188162-GettyImages-924650070.jpg?v=1569588423",
+          "width": 1024,
+          "height": 683,
+          "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-microsoft-adds-openshift-and-rhel-support-to-azure-arc-its-hybrid-and-multi-cloud-platform.md",
+      "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
+      "excerpt": "At the recent virtual Red Hat Summit, Microsoft's cloud and AI group's executive VP, Scott Guthrie, joined Red Hat CEO Paul Cormier to explain that Red Hat and Azure engineers have been working side-by-side to integrate Red Hat Enterprise Linux and the OpenShift container platform into Arc. At the same time, Arc has been expanded to manage ...",
+      "webUrl": "https://www.datacenterknowledge.com/microsoft/microsoft-adds-openshift-and-rhel-support-azure-arc-its-hybrid-and-multi-cloud-platform",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Red-Hat-hq.jpg",
+          "width": 470,
+          "height": 353,
+          "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-tensorflow-220-arrives-with-breaking-changes-and-drops-python-2-support.md",
       "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
       "excerpt": "TensorFlow 2.2.0 has been released, nearly four months after v2.1.0. The TensorFlow team has been keeping busy: In the latest version of the machine learning platform, they have added lots of new features and breaking changes, and have also fixed several bugs.",
@@ -863,200 +1032,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebooks-ai-detects-gender-bias-in-text.md",
-      "title": "Facebook’s AI detects gender bias in text",
-      "excerpt": "Facebook researchers plan to release an open source tool that can detect signs of gender bias in text like Wikipedia biographies.",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI detects gender bias in text",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI detects gender bias in text",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
-      "publishedDateTime": "2020-05-06T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war.md",
-      "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
-      "excerpt": "South Korea is developing autonomous robots that scan underground the DMZ to recover the remains of soldiers killed in the Korean War.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-27-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/amp/",
-      "publishedDateTime": "2020-05-06T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey.md",
-      "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-      "excerpt": "Confidence in AI varies by gender and country, but generally speaking AI pros have more faith in systems than the general population.",
-      "webUrl": "https://www.zdnet.com/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/06/a4f48112-8f60-462b-ada5-b2b7f3aa5c9e/ibm-ai-system-design-priorities.png",
-          "width": 1013,
-          "height": 773,
-          "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "publishedDateTime": "2020-05-06T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing.md",
-      "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
-      "excerpt": "Sponsored Presented by PinkLion.AI “Now that we’re all in this unique situation with COVID-19, do we have an opportunity to do something dramatically different together?” asked Jennifer Bonine, co-founder and CEO of PinkLion.",
-      "webUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-06-at-8.50.06-AM.png?fit=2806%2C1566&strip=all",
-          "width": 2806,
-          "height": 1566,
-          "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "publishedDateTime": "2020-05-06T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

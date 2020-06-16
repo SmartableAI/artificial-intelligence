@@ -41,20 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "5 pitfalls AI healthcare start-ups need to avoid"
-    excerpt: "I’ve had conversations with several growing AI drug discovery companies and have analysed some critical strategic shortcomings that can frustrate the upwards journey of these start-ups"
-    publishedDateTime: 2020-06-11T11:17:00Z
-    webUrl: "https://pharmaphorum.com/views-analysis-digital/5-pitfalls-ai-healthcare-start-ups-need-to-avoid-early-in-their-journey/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 37
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/06/5-pitfalls-AI-healthcare-start-ups-need-to-avoid-early-in-their-journey.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ZlFdwSWv//BZcwdMoHuo2FBTPmMlk3Ki3KGMf793QkFu65CT0qlPD90xjChmtyuXTI5T3kiHqx5DyC7dHV/+RyIfWaJd3RYLFMlvnOLy3wSaAbPN7FIb9bD/HJpuTk07pQ3VnzEiG+rVQ4dLOUwiSj1ReM2u6ht3JqBipyiIgCE6zNqpXmTpY91C4Sd1eY57Ert7CpP/vyRXT2w6dWX5qsHddHsThcL7ptxXs+UJmGDp2Nh73eLdu6AS13ZMYclqCrtwfF6jdMtNHnkqUifE4GjEjGTstMRhY63FTgq04tj5lB5CgGplaCXu2puY8/x+K4T2RlPXQisPQyKFRRLTHAYl2zlA/WlHiStOfSfFJviGC/I2GOCCD29Aj9RTVK++sRbxEqayu7vZu5nxf9T1h37Wu6DMSQywCcth6fs8bx83GdZStzgrtqe0GAc3ZR/OB3PvhLpg1OxzPppKg3mA27+ESRrwBJViT3gj21lQI9WBBBh4RfDY7y4HthoxqTB02Ovc8DSpWz5zC0Zi1xh+Kg==;2tz4edIedMqZRTxVYnOljA=="
 ---

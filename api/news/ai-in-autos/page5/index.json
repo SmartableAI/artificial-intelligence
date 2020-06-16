@@ -2,6 +2,44 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-07-uae-combats-coronavirus-ministry-launches-self-driving-vehicle-to-distribute-ppe.md",
+      "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+      "excerpt": "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective ... being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G).",
+      "webUrl": "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_173952755/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/",
+      "publishedDateTime": "2020-05-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-10-tech-stocks-to-buy-for-the-next-10-years.md",
       "title": "10 Tech Stocks to Buy for the Next 10 Years",
       "excerpt": "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,",
@@ -1216,53 +1254,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
-      "title": "Fueling driverless navigation with AI",
-      "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route. Powerful, accurate maps can be created by deep learning models, able to process masses of images no human cartographer could ever manage.",
-      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

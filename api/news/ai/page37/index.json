@@ -2,6 +2,177 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
+      "title": "Symend raises $52 million to remediate consumer debt with data science",
+      "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
+          "width": 1200,
+          "height": 743,
+          "title": "Symend raises $52 million to remediate consumer debt with data science",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "publishedDateTime": "2020-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer.md",
+      "title": "Center in Singapore Expanding Access to Radiation Therapy Technology in the Fight Against Cancer",
+      "excerpt": "Two Varian VitalBeam ™ medical linear accelerators, together with an Edge ™ radiosurgery system with HyperArc ™ technology, will be installed at NCIS, thereby expanding radiation therapy treatment options for cancer patients in Singapore.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "publishedDateTime": "2020-05-07T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
+      "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+      "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
+      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
+      "title": "IBM retrains Watson AI for IT operations",
+      "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
+      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM retrains Watson AI for IT operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "publishedDateTime": "2020-05-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
       "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
       "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
@@ -1068,167 +1239,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them.md",
-      "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-      "excerpt": "\"We need to find a balance of vehicle designs that enables the cost to be cheap enough that we can afford them, but it's not so highly optimized towards the purely unmanned spectrum that it's cost prohibitive to maintain them.",
-      "webUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Sea-Hunter-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "publishedDateTime": "2020-05-06T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
-      "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-      "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
-      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-10-tech-stocks-to-buy-for-the-next-10-years.md",
-      "title": "10 Tech Stocks to Buy for the Next 10 Years",
-      "excerpt": "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,",
-      "webUrl": "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

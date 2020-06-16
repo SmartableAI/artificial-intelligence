@@ -567,20 +567,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "ACLU says Amazon’s one-year moratorium on police use of its facial recognition tech isn’t enough"
-    excerpt: "Such facial recognition tech has been proven to be racially biased. So, it was good news when Amazon announced they’ll ban police use of the tech for 12 months to “give Congress enough time to implement appropriate rules” for its use,"
-    publishedDateTime: 2020-06-11T12:21:00Z
-    webUrl: "https://www.fastcompany.com/90515631/aclu-says-amazons-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnt-enough"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 26
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-aclu-says-amazonand8217s-one-year-moratorium-on-police-use-of-its-facial-recognition-tech-isnand8217t-enough.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon pauses police use of facial recognition software"
     excerpt: "Use of the company's Rekognition software platform will be suspended for one year in the hopes Congress will have \"enough time to implement appropriate rules\""
     publishedDateTime: 2020-06-11T13:31:00Z
@@ -595,15 +581,6 @@ related:
         width: 459
         height: 405
         isCached: true
-  - title: "Amazon Pauses Police Use of Its Facial Recognition Software"
-    excerpt: "Answering widespread demands for new curbs on aggressive policing in the wake of George Floyd's killing, Amazon is halting law enforcement use of its facial recognition platform for one year, the company said Wednesday."
-    publishedDateTime: 2020-06-11T11:25:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21141770/amazon-pauses-police-use-of-its-facial-recognition-software"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 4
 
 secured: "KJabxJpEbr8yMAH78KwgtM6fmIvJZ6adHl0td3U3FaWUBv/JK0vwkkx+xO2emFmE6UxuCBh7idrKmQyI0UYVWErRDQMHMh3wU4Xltr5Enf4geGGC1fDghsW8ytT6Ux99wuQ0Kc15j0htndN2qLoRTEWKQKN1RvdmArVq9ZluAJsH3B4m0KiPEXFRjO4670X33BF7830lQgaQsl/NTz8ONiSaNJFGKA3SbX886D0P2aU0wMEbo1pPIu439Aqkmfzp1ZyQJvIwnjB1s7MeFS/mwSKSHxQFn2MRBSZogCTagyBvfjKPwhQwAha1CJjBV6d24GMWSI0YIDKY8iz2j+C6C+BmfOKxbDtyZAcdGcqDi0LQqPW79leDHKEiCAbKxwmZ5fBn/ltcQz5pzvUxFASlRjQFjvAUn0zWtPv0977Fc8sHCBFfCyPAnPwIoPGVkFN8FowxKdTT56zVUCOeZBiEgdddl3JEJ4n4FZ7DBm4hYfQpbeWuSJ0xpFmHJv9F4y18;o21YBQjVd/DggMpsfcBD4w=="
 ---

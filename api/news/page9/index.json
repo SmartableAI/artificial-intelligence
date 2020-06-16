@@ -2,6 +2,130 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits.md",
+      "title": "Amazon’s new AI technique lets users virtually try on outfits",
+      "excerpt": "In new papers, Amazon researchers propose techniques that let users virtually try on apparel and fine items that complement their wardrobe.",
+      "webUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/254e31ef-d314-45c1-a9c8-fb8d21df459c-e1591374186746.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": "Amazon’s new AI technique lets users virtually try on outfits",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
+      "publishedDateTime": "2020-06-05T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
+      "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
+      "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
+      "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
+      "publishedDateTime": "2020-06-05T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
+      "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
+      "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
+      "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg",
+          "width": 1200,
+          "height": 805,
+          "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
+      "publishedDateTime": "2020-06-05T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
       "title": "Here's how a new machine learning software can beef up cloud-based databases",
       "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
@@ -977,129 +1101,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
-      "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-      "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
-      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "publishedDateTime": "2020-06-04T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
-      "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-      "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
-      "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-BA60516.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "publishedDateTime": "2020-06-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

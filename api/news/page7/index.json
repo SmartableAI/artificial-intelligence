@@ -2,6 +2,136 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
+      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
+          "width": 2000,
+          "height": 1333,
+          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "publishedDateTime": "2020-06-09T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage.md",
+      "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
+      "excerpt": "Microsoft’s decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.",
+      "webUrl": "https://www.theverge.com/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5K7QmgFun_r1-NZQjEgbGniaN_0=/0x0:3776x2399/1400x933/filters:focal(1586x898:2190x1502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910798/little_mix_pinnock_thirlwall.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "publishedDateTime": "2020-06-09T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
+      "title": "Flipkart introduces AI-driven voice assist for shopping",
+      "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
+      "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART",
+          "width": 615,
+          "height": 384,
+          "title": "Flipkart introduces AI-driven voice assist for shopping",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
+      "publishedDateTime": "2020-06-09T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
       "title": "TCL’s latest TVs in India can be controlled just by voice",
       "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
@@ -1000,146 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
-      "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-artificial-intelligence-in-education-transformation.md",
-      "title": "Artificial Intelligence In Education Transformation",
-      "excerpt": "If we want to create an experience that is equitable and enjoyable for all, we have to eliminate as many obstacles as possible.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial Intelligence In Education Transformation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
-      "publishedDateTime": "2020-06-08T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
-      "title": "The Impact Of Artificial Intelligence On Professional Services",
-      "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Professional Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
-      "publishedDateTime": "2020-06-08T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

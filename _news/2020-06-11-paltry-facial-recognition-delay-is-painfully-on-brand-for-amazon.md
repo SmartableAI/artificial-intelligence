@@ -25,17 +25,6 @@ images:
     title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
 
 related:
-  - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
-    excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
-    publishedDateTime: 2020-06-11T12:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
     excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
     publishedDateTime: 2020-06-11T14:12:00Z
@@ -98,31 +87,6 @@ related:
         width: 520
         height: 208
         isCached: true
-  - title: "Amazon issues 12-month ban on police use of facial recognition"
-    excerpt: "After years of criticism from privacy activists, the company will stop law enforcement from using its Rekognition tool to give Congress time to develop regulations."
-    publishedDateTime: 2020-06-11T12:14:00Z
-    webUrl: "https://www.wrcbtv.com/story/42236693/amazon-issues-12month-ban-on-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 24
-    images:
-      - url: "https://WRCB.images.worldnow.com/images/19484854_G.jpeg?lastEditedDate=1591862630000"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft and Amazon Adopt Temporary Bans on Police Use of Their Facial Recognition Tech. That's Not Nearly Enough."
-    excerpt: "Both companies need join IBM and others in entirely abandoning the development of this mass surveillance technology."
-    publishedDateTime: 2020-06-11T19:25:00Z
-    webUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/"
-    ampWebUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 2
 
 secured: "xIXFki2Bxk/7GtA0z5+b52DQSs5+7VmPLUw67VxSs7etclrwcJzmncQLRpccoApod77fuhw/qBRrEtVGYzV+r4cNzOp5smM8ZYtfukRHf2FbDOblWjd5Bbml3fJ0uK3HqqfxWeyRw9MI2xBoACGO0vOydhKMsc8Xv7iEfeeIRts7ZxO/Fcc93o6d93b2SLbilWADSAQ3lqrSG6/RN/kYY+ApUSgmGPNXfMf6e9McH064MNSvCUCDKeNBmpvmRsjnCaBpq0hcBIjk3caltvPgiXnYLyusgiKvBbFixzFpVTXTE9Q7k6LUHeKNXwM4+ox2FuxS9x6rlx3zAZ24P29WHZGVPX9G0s+oZqFpTWcUhVGGcQ34CXxiz8ktMHbbDSX8IXT8Xx0YZH9WRzBuJikR7B0bhm75LsA/uPTHGIRNol9pxw54CsWzZuYeuyPL7n92mLALFuQl1UMt00+RW9r8ybxbnvW5PR/q6gaM2XoQy5o2aMOlF+IE7tSVYAsfgmxG;YdLuH+5IMFojXUrhJksZOw=="
 ---

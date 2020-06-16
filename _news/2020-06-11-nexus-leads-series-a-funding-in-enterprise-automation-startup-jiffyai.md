@@ -25,20 +25,6 @@ images:
     title: "Nexus leads Series A funding in enterprise automation startup JIFFY.ai"
 
 related:
-  - title: "Applying AI Solutions at the Startup, Growth and Enterprise Stages"
-    excerpt: "We see companies applying AI solutions differently, depending on their growth stage. Here are the challenges they face and the best practices at each stage."
-    publishedDateTime: 2020-06-11T12:18:00Z
-    webUrl: "https://dataconomy.com/2020/06/applying-ai-solutions-at-the-startup-growth-and-enterprise-stages/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2020/06/michael-dziedzic-aQYgUYwnCsM-unsplash-620x487.jpg"
-        width: 620
-        height: 487
-        isCached: true
   - title: "Funding roundup: Billing automation startup Alpha Health raises $20M"
     excerpt: "Alpha Health, a startup looking to automate revenue cycle management, raised $20 million in funding from Andreesen Horowitz. Read more about startups that announced funding rounds this week."
     publishedDateTime: 2020-06-12T19:48:00Z

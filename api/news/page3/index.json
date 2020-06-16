@@ -2,6 +2,147 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
+      "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+      "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072",
+          "width": 1200,
+          "height": 799,
+          "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-12T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence.md",
+      "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+      "excerpt": "Veteran tech execs are heading up a stealthy new startup formed inside the Allen Institute for Artificial Intelligence (AI2) in Seattle. Panda AI isn’t yet sharing many details about its technology",
+      "webUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-7.50.38-AM-630x317.png",
+          "width": 630,
+          "height": 317,
+          "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-12T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
+      "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
+      "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
+      "webUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/",
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/deepfake-detection-facebook.jpg?w=1024",
+          "width": 1024,
+          "height": 583,
+          "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/",
+      "publishedDateTime": "2020-06-12T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
       "title": "AI War Games And The Challenge Of China",
       "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
@@ -635,7 +776,7 @@
       "title": "Microsoft bans police from using its facial recognition software",
       "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
       "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "heat": 469,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -682,7 +823,7 @@
       "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
       "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
       "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -967,139 +1108,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
-      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
-      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
-      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
-          "width": 3999,
-          "height": 2666,
-          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "publishedDateTime": "2020-06-11T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
-      "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
-      "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
-      "webUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/",
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
-      "publishedDateTime": "2020-06-11T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-is-amazons-facial-recognition-moratorium-a-victory-for-police-reformers-or-just-good-pr.md",
-      "title": "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?",
-      "excerpt": "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope.",
-      "webUrl": "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/",
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg",
-          "width": 630,
-          "height": 442,
-          "title": "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/",
-      "publishedDateTime": "2020-06-11T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -38,20 +38,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Applying AI Solutions at the Startup, Growth and Enterprise Stages"
-    excerpt: "We see companies applying AI solutions differently, depending on their growth stage. Here are the challenges they face and the best practices at each stage."
-    publishedDateTime: 2020-06-11T12:18:00Z
-    webUrl: "https://dataconomy.com/2020/06/applying-ai-solutions-at-the-startup-growth-and-enterprise-stages/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2020/06/michael-dziedzic-aQYgUYwnCsM-unsplash-620x487.jpg"
-        width: 620
-        height: 487
-        isCached: true
   - title: "Startup using AI to solve EHR usability problems lands series A funding round"
     excerpt: "Could artificial intelligence and machine learning help solve some of the most intractable usability problems with medical record systems? Here's why Craig Limoli, CEO and founder of startup Wellsheet,"
     publishedDateTime: 2020-06-15T15:42:00Z

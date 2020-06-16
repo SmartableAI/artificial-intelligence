@@ -8,7 +8,7 @@ ampWebUrl: "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcar
 cdnAmpWebUrl: "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/06/11/49257449/d1463233aec99cfc6a2a96df94e4.jpg&operation=CROP&offset=313x-369&resize=1553x874"
         width: 853
         height: 366
-        isCached: true
-  - title: "5 pitfalls AI healthcare start-ups need to avoid"
-    excerpt: "I’ve had conversations with several growing AI drug discovery companies and have analysed some critical strategic shortcomings that can frustrate the upwards journey of these start-ups"
-    publishedDateTime: 2020-06-11T11:17:00Z
-    webUrl: "https://pharmaphorum.com/views-analysis-digital/5-pitfalls-ai-healthcare-start-ups-need-to-avoid-early-in-their-journey/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 37
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/06/5-pitfalls-AI-healthcare-start-ups-need-to-avoid-early-in-their-journey.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "B3au5/vvdH23F5aI2CywJlMwDTzQKn2qxRH64/KuUjzvwo6mmGA6SVnu2L5IMxhLoG9wbN17C3CpqljdoNEPQJCMXy5xJIeKn4V0YLhAIW1XexPpLJwuIvFM+BJMBLY9k1DtFSXfqelFChYvHUBI6/YWgjqD86X535RvkqFgxH7jfh2Zr59JjyY2asawoTn0pEWx6KC2KKZOEcUWVQ9abH97cjlgU7+JGqk5KxGI6vXfeEmVDxlaagurOQZGtJR++TKSJwOOpNssZMOOFdhLI2h191CJeothtO5+xGpfbSRgtOqROgkOcx5pWzTq3ceaz013RkTuOgaTUyqShnn2dRjCwEoHTCtwuRwRkRB4D1jRq47Kr9i02HhyYuc5eaUKvDzxc/H+7hZibJl2g4xhkn/OJ2y8BEAP7SoP57GuMHq9s3cQ+K8EkmqS0Wv8RYFNkoMEtCxC/aDAomCBAonpRBayZ2WQBO/Cz0DBikfXHhvIegETisyONISKidZ2zNB2;JcMxeEa+r0v3DXD2LkV9Uw=="

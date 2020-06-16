@@ -178,15 +178,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Amazon bans police use of facial recognition software for a year"
-    excerpt: "\"We’ve advocated that governments should put in place stronger regulations to govern the ethical use of facial recognition technology,\" Amazon wrote in its blog post announcing the change. \"Congress appears ready to take on this challenge."
-    publishedDateTime: 2020-06-11T12:40:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/amazon-bans-police-use-of-facial-recognition-software-for-a-year/"
+  - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
+    excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
+    publishedDateTime: 2020-06-16T04:38:00Z
+    webUrl: "https://www.cmo.com.au/article/680575/spotlight-facial-recognition-after-ibm-amazon-microsoft-bans/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 39
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/facial_recognition_id_136967238__axel_bueckert__dreamstimecom.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "5BmMOHu0PVm1XWgQn6CaONfek++PAFf3kXq3QeJBP5YjYwLlOf+aWvhwOPGB0McNCSHYMhvA9X60o2mzcOrA5CjOoS/Y6fd/x2BrjpcMjraNUjA8EgKPazfpJ+NmVJn32exbmtnaHk3Q11IMnsMb8y7+bCwBhsIqDriqHwFMa3cqsMY9f63EHICG4ZfiSw2AqEb+f2ahIznY6rVCh3oOw3y55ZzvHu9nDGEAX32ijCwb8TEAn/oxphyAjdZ6Ok1amMVjfyTVetnwgKHESUmgLcTdjxS+JOUYG+EI8fLtEaydYgeJN4n1NFOeOyPHWmlK/z5eHlGjj/6qdgOWi3ovsnavlkuAPs9dgFoFilNJX4yH32o+xqiQIIY1opssHcyiZnoliCEY/6vSEgMkn9x3SV8JdPoCvn2FD1Cf6h57THRlaUXfb+qrfO0Jt3MSdYHTgtpPbVOZCyPjE8BU9uASBXrNdeFBRU9m7frP4XKngKGgNQi7BSv23dyIukRpGzmz0668bLwKMZu/CVKDFZfueA==;Z3puHnhci4Feb6XtNdhX4g=="
 ---
