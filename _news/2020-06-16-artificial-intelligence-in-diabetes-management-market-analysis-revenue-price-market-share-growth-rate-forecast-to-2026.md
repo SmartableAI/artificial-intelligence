@@ -89,6 +89,20 @@ related:
       name: IML Group
       domain: controlengeurope.com
     quality: 49
+  - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
+    publishedDateTime: 2020-06-16T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-by-technology-application-deployment-size-opportunities-andforecast-2019-2026-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Geospatial Analytics Artificial Intelligence Market (2020 to 2025) - Drivers, Constraints and Challenges - ResearchAndMarkets.com"
     excerpt: "The \"Geospatial Analytics Artificial Intelligence Market - Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global geospatial analytics AI market is estimated to grow at a CAGR of 24."
     publishedDateTime: 2020-06-15T09:16:00Z

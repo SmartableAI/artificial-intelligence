@@ -73,36 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Digital Trends Live: Amazon bans police use of facial recognition, PlayStation 5"
-    excerpt: "On this Digital Trends Liv,e we dive into the top stories in tech, including Amazon's one-year moratorium on police use of facial recognition tech and more."
-    publishedDateTime: 2020-06-11T19:57:00Z
-    webUrl: "https://www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/"
-    ampWebUrl: "https://www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/digital-trends-live-episode-397/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/google-wing-drone-feature-2-1200x630-c-ar1.91.jpg"
-        width: 416
-        height: 217
-        isCached: true
-  - title: "Amazon bans use of its facial recognition technology by police for one year"
-    excerpt: "Amazon will ban usage of its facial recognition technology by police for one year. The decision comes after calls for tech companies to respond to the death of George Floyd while he was in police custody in Minneapolis."
-    publishedDateTime: 2020-06-11T19:15:00Z
-    webUrl: "https://www.cnbc.com/video/2020/06/11/amazon-bans-use-of-its-facial-recognition-technology-by-police-for-one-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106574337-gettyimages-1242649146.jpg?v=1591897455"
-        width: 4897
-        height: 3265
-        isCached: true
   - title: "Amazon Finally Sees the Problem With Facial Recognition"
     excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
     publishedDateTime: 2020-06-12T18:11:00Z

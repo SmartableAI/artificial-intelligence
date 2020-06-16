@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -47,7 +47,39 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Zycada raises $19 million for AI that speeds up web content delivery"
+    excerpt: "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital."
+    publishedDateTime: 2020-06-16T13:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/"
+    ampWebUrl: "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/0ae55f70-49ef-4207-8d57-61ed74ec5475-e1591732013768.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Streamlit raises $19 million for a framework that simplifies AI app development"
+    excerpt: "Streamlit, a startup developing a framework to streamline AI app deployment, raised $19 million in venture capital."
+    publishedDateTime: 2020-06-16T13:05:00Z
+    webUrl: "https://venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/"
+    ampWebUrl: "https://venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1_l4gxFYEZnRhysQ_QWIVJgA-e1591736226538.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 674
+        isCached: true
 
-secured: "i+z4aOfLQ5NDlq8hV1u7Ufyd4X1MorFbyVblk0yOoSmUZasEMBOefp/MKr2uz76ZcinLXGfw/f7x7YaICw6JsovG55AxvlpJYBD1nwBvChUOqiGQE72XMIzi5r1XqHegNROSlsX3pdxQe87WfwflqnoQotn0LKzQM3O9rX6hUrl9vDc7IXw2H65rioexKoRRRKvDP6FONan2PqWRqFPT7uzA5UILjRLrrKdMbHQACDUEglcmLOrnisB/2nt8XiyeR0wd54AkTEnRk1WEKfoEPbWmwm/Piq5aOZJbhPkNG+vaydlhdV4/+SJc4qHYtecu0Q7l8nZPEhdEKres7Cuwtg==;fLDMb84+YAS8Ov37DnzgHA=="
+secured: "vpKsyuZc1cpD+myz0qW2K4Lgu4MXuRDWoBf/eNMXOnhrEHAlzZnzXkxBMCubi+99gqc8wnXVXwoQmhsMHTEzszP3CPOsOFhaca9XeYHF3fJRviTVbYewbq7o8t8mDGRT2qKBYaicpSkfxyhO854601jKdmZ6kuIpeq4ObQfAsy4kS9B+rk4bNaebqy0jt+HEYAUA9zB7O1z4+pdI/2s0oHXdBQVMD5YyHwGGO/rMF9feP5DkDL+gD1Qt6L7Y++TMGivMnDE/3jdAOf/sWeXD3Xr8ULuo12scmTNzVpuAoiqWEYeiPJ/htbI4unQCPFeKgqfD+IXo5Ov7RJ4xBGKRT4wo2G7Abwi5iMyupp54vsf3f0bkCwuGPY3BBhLSK3Hufsy1sPBEtp/bsyTk3gd5Nxb29R+ZAFGfEVZRyem69UuBtG3CkwEOI8DNe7Dec28BfcXPbgzZ3r5Qd4IvrxQJfsnaGKBOUFPfewyulgOKcyv1rehGRBJNJsInM9xkwVLBg8d2NI5G2DVmrw1QVO7ykg==;yJsbjC633Xmr1gsiCxP52w=="
 ---
 

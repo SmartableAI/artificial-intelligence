@@ -26,24 +26,6 @@ images:
     isCached: true
     title: "Amazon is banning cops from using its facial recognition tech for one year"
 
-related:
-  - title: "Unlike Amazon, Microsoft never sold Facial Recognition technology to Police Forces"
-    excerpt: "Amazon and IBM recently jumped on the Black Lives Matter bandwagon, with Amazon saying they were putting a 1-year moratorium on sales of Facial Recognition technology to law enforcement services in USA,"
-    publishedDateTime: 2020-06-11T19:30:00Z
-    webUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/"
-    ampWebUrl: "https://mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/unlike-amazon-microsoft-never-sold-facial-recognition-technology-to-police-forces/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 38
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/04/Microsoft-Facial-Recognition.jpg"
-        width: 1851
-        height: 1017
-        isCached: true
-
 secured: "jecLfxZ+gbKA06vME4hdMgHBA/44d283WKjhR6uK8Ht1/k6wa41LxqtE9L+T1YZMtakY8b9Udd+nKGjEggtUDPKxpNJejS/+tQZz5REkXmKKiMOXW8o1uIMIyNaogzqkZG3f3qObN4aQDlINdwkb2SAeD1F/t49Xd+XIeei+XY9kdNwavd/NLF9EkDWVqvEMdCSUkHV9CSWYbAJqtrrsSAm5Kj9GGFN675dYSEnQDqrNi28UdEHxYpbE7lphC25t9HszCbvxZnMK9IAYoCtgZpqnv3yHU+KiLCWtb51KLkeMJ6wTbPGj1ky87zocPrVjrax71n5Ul03p7ZApPLV/jWf+pj3W+DnMplAntQ5sh55mZQKjsOtA9wTTFUeHmqbgURbSbKehXjRZJUx3D903CZ+S5jryuBlJ9UWt8IEDYu1oMR+qLr9X/7FDGL2CKla9Y+rjE5UBknRpnsnGRDFlh4VzkO4lmO6UTNLEQli3cSGxgyPJ4YK66MA0gB9alDIRsh3O7baPOix+Pjmg9y1asg==;m6IJhldJFFkWGvKzaBmBdg=="
 ---
 

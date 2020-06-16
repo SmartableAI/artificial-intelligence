@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       name: IML Group
       domain: controlengeurope.com
     quality: 49
+  - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
+    publishedDateTime: 2020-06-16T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-by-technology-application-deployment-size-opportunities-andforecast-2019-2026-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Analysis, Revenue, Price, Market Share, Growth Rate, Forecast To 2026"
     excerpt: "Global Industry Analysis By Trends, Size, Share, Company Overview, Growth And Forecast By 2026\\| Latest Research Report By DataIntelo;"
     publishedDateTime: 2020-06-16T03:25:00Z

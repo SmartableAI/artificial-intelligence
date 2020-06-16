@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-12T20:36:00Z
 webUrl: "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Dark Reading
@@ -26,21 +26,19 @@ images:
     title: "Cryptominers Found in Azure Kubernetes Containers"
 
 related:
-  - title: "Cryptomining syndicate hijacks Kubernetes clusters"
-    excerpt: "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow."
-    publishedDateTime: 2020-06-11T19:43:00Z
-    webUrl: "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
-    ampWebUrl: "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
+  - title: "Cryptomining campaign targets Kubernetes via machine learning framework"
+    excerpt: "A malware campaign is abusing the popular machine-learning (ML) framework Kubeflow in order to target Kubernetes clusters with a crypto miner, Microsoft’s Azure Security Center (ASC) warns. Tens of clusters running on the Kubernetes open-source container orchestration system have already been impacted, the ASC notes in a blog post published ..."
+    publishedDateTime: 2020-06-12T19:10:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/cybercrime/cryptomining-campaign-targets-kubernetes-via-machine-learning-framework/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
+      name: SC Media
+      domain: scmagazine.com
+    quality: 56
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg"
-        width: 970
-        height: 546
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/cryptocurrency1_1367351-6.jpg"
+        width: 700
+        height: 379
         isCached: true
   - title: "How Kubeflow Clusters Were Targeted Recently By Hackers For Crypto-Mining"
     excerpt: "Crypto mining attacks in containerised environments are not new. Researchers have found different kinds of crypto mining activities running inside misconfigured containers. Microsoft, in April, had disclosed large-scale crypto-mining attacks against Kubernetes clusters which were discovered by Azure Security Center,"

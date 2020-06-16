@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
 
-secured: "PkVAFUD1Vy9Rc4txEdK3z0pbZqUOXnp+OT0tC1bhc36GQd5Q8mHiGb8GrIIX6PFmy5tGfk2cY4wcvWDWAeFR2UYQ+EgGRtAH2JfrEMXu4M3v+41p5sFJw1ME0eU0kCpSWquaAuT9SJGwn2VR3OfZag45xJBdf3+PgDqx4TRQ9V2yZG0S2pZXaLpf6B2WCuOMKRpGJurNKJ5yMLux1k6eaOWbaM5YaOMyXpcbFt9ywhLBqjP3C1mCPnsA0HtJq/xd59XMqkVnkvgtxXxEaYVwWWKbX3TXXpWdP/G4spi/HCy3GPbypo/a3agEGFrKcJ/BS4aG8bovtYa/fmrTxxECCg==;8ssvVxcL4Wg2ykjEq0I1pA=="
+secured: "w9jGHTW8WGSyQ7555qXH3YH/3aWUxw0dJUvVCenMMLG9O/p24RCUA8eXpH3ws63CMqJIfwtxiA/7F4x5CgsVroPY+Hjy7VHOUyu1g/t0QgA8wF0E+eG4uOWmtptmd+OSzQnBJ6cjjRtvAPKpvT8HQXO4xt+/eOq5wRez8hIXeG3fGEEEFvXQtYtVKaB/rVSGQQAHTh1WCizAohaymA+yKiWYDtP4BYJIFXsZ/iwTeW7vVuozIbJGuntr4QE23oD1kTMH1ChWYKUs7SslQX45/by8Vpdq6WubKTTEwdmIErJZJfdLRrZQQwCO64cR6YZHBi1Jx0P35tW4lD84yQOWAQ==;XeB1ykyynwdNOGzRjdHKxg=="
 ---
 

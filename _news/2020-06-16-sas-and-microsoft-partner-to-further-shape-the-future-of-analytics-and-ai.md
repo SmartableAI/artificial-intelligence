@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 785
         isCached: true
-  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
-    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work."
-    publishedDateTime: 2020-06-11T20:03:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
-        width: 761
-        height: 400
-        isCached: true
   - title: "SAS and Microsoft partner to accelerate the power of AI"
     excerpt: "Global software companies, Microsoft and SAS, today announced an extensive technology and go-to-market partnership, bringing the “empowered cloud” in the form of SAS integrations inside Microsoft’s entire cloud portfolio,"
     publishedDateTime: 2020-06-15T14:55:00Z

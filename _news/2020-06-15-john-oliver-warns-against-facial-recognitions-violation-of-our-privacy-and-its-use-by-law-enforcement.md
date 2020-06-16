@@ -27,19 +27,19 @@ images:
     title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
 
 related:
-  - title: "John Oliver dives into the shady uses of facial recognition"
-    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
-    publishedDateTime: 2020-06-15T11:16:00Z
-    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
-    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
+  - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
+    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
+    publishedDateTime: 2020-06-15T17:23:00Z
+    webUrl: "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 71
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
         isCached: true
