@@ -265,22 +265,6 @@ related:
         width: 2676
         height: 1505
         isCached: true
-  - title: "Microsoft Urged To Follow Amazon And IBM: Stop Selling Facial Recognition To Cops After George Floyd’s Death"
-    excerpt: "Microsoft and Amazon Ring should stop working with police, say the ACLU and EFF. They’re hopeful of action after tech companies paused the sale of facial recognition technology to law enforcement following protests after the death of black American George Floyd."
-    publishedDateTime: 2020-06-11T09:05:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/11/microsoft-urged-to-follow-amazon-and-ibm-stop-selling-facial-recognition-to-cops-after-george-floyds-death/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1082103ad73448b5b77cca6f5ea25caf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft won’t sell facial recognition technology to police"
     excerpt: "Microsoft announced it would not sell its facial recognition surveillance software to law enforcement, joining other tech companies like IBM and Amazon."
     publishedDateTime: 2020-06-11T18:51:00Z

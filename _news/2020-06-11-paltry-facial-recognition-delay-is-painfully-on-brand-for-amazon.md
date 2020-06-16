@@ -25,38 +25,6 @@ images:
     title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
 
 related:
-  - title: "Amazon halts police use of its facial recognition tech"
-    excerpt: "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,"
-    publishedDateTime: 2020-06-11T09:55:00Z
-    webUrl: "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech"
-    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 74
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden campaign calls on Facebook to change political speech rules"
-    excerpt: "In an open letter from the former vice president and presumptive Democratic nominee's campaign to Facebook CEO Mark Zuckerberg Mark Elliot Zuckerberg Hillicon Valley: Senators raise concerns over government surveillance of protests | Amazon pauses police use of its facial recognition ... off approach to political speech. The letter calls ..."
-    publishedDateTime: 2020-06-11T17:07:00Z
-    webUrl: "https://thehill.com/policy/technology/502284-biden-campaign-calls-on-facebook-to-change-political-speech-rules"
-    ampWebUrl: "https://thehill.com/policy/technology/502284-biden-campaign-calls-on-facebook-to-change-political-speech-rules?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/502284-biden-campaign-calls-on-facebook-to-change-political-speech-rules?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_06022020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Amazon Bans Police Use Of Facial Recognition Technology For A Year"
     excerpt: "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice."
     publishedDateTime: 2020-06-11T12:02:00Z
@@ -68,54 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Amazon stops police use of facial recognition technology"
-    excerpt: "Amid nationwide protests against police brutality, Amazon has announced a moratorium on the use of its facial-recognition technology. The software has long been criticized due to its history of incorrectly tagging Black and Latino people."
-    publishedDateTime: 2020-06-11T16:14:00Z
-    webUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/"
-    ampWebUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 44
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/03/Amazon-GETTY-scaled-e1584465181587-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Amazon Suspends Police Use of its Facial Recognition"
-    excerpt: "Amazon banned police use of its facial-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly ide"
-    publishedDateTime: 2020-06-11T12:35:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2019/05/Bezos-protest.jpg?fit=1024%2C625&#038;ssl=1"
-        width: 1024
-        height: 625
-        isCached: true
-  - title: "Amazon bans police use of its facial recognition technology for one year"
-    excerpt: "NEW YORK (AP) — Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T10:12:00Z
-    webUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.html"
-    ampWebUrl: "https://www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
-    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/amazon-bans-police-use-of-its-facial-recognition-technology-for-one-year/article_1f24290c-6031-5792-aca0-550525eadf4b.amp.html"
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/d/7a/d7a60a10-ae69-5f50-9250-3c9e62e3e97c/5e871e78e6b06.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
     excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
     publishedDateTime: 2020-06-11T14:12:00Z
@@ -164,22 +84,6 @@ related:
         width: 1851
         height: 1017
         isCached: true
-  - title: "Amid Protests Against George Floyd’s Murder, Amazon Bans Police Use of Its Facial Recognition Technology For 1 Year"
-    excerpt: "In its bid to support the #BlackLivesMatter movement and in the wake of the outrage over George Floyd's murder by Minneapolis officers, Amazon announces ban of use of its face recognition tech by poli"
-    publishedDateTime: 2020-06-11T09:11:00Z
-    webUrl: "https://www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/"
-    ampWebUrl: "https://www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/amid-protests-against-george-floyds-murder-amazon-bans-police-use-of-its-facial-recognition-technology-for-1-year-4055138/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 37
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/03/Amazon-1.jpg"
-        width: 700
-        height: 415
-        isCached: true
   - title: "Amazon bans police use of facial recognition technology for one year"
     excerpt: "We’re implementing a one-year moratorium on police use of Amazon’s facial recognition technology. We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children,"
     publishedDateTime: 2020-06-11T13:11:00Z
@@ -193,20 +97,6 @@ related:
       - url: "https://www.loopinsight.com/images/logo.png"
         width: 520
         height: 208
-        isCached: true
-  - title: "Amazon bans police use of its face recognition for a year"
-    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T12:58:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/jun/10/amazon-pauses-police-use-of-its-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 24
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Amazon issues 12-month ban on police use of facial recognition"
     excerpt: "After years of criticism from privacy activists, the company will stop law enforcement from using its Rekognition tool to give Congress time to develop regulations."
@@ -222,6 +112,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft and Amazon Adopt Temporary Bans on Police Use of Their Facial Recognition Tech. That's Not Nearly Enough."
+    excerpt: "Both companies need join IBM and others in entirely abandoning the development of this mass surveillance technology."
+    publishedDateTime: 2020-06-11T19:25:00Z
+    webUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/"
+    ampWebUrl: "https://reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/06/11/microsoft-and-amazon-adopt-temporary-bans-on-police-use-of-their-facial-recognition-tech-thats-not-nearly-enough/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 2
 
 secured: "xIXFki2Bxk/7GtA0z5+b52DQSs5+7VmPLUw67VxSs7etclrwcJzmncQLRpccoApod77fuhw/qBRrEtVGYzV+r4cNzOp5smM8ZYtfukRHf2FbDOblWjd5Bbml3fJ0uK3HqqfxWeyRw9MI2xBoACGO0vOydhKMsc8Xv7iEfeeIRts7ZxO/Fcc93o6d93b2SLbilWADSAQ3lqrSG6/RN/kYY+ApUSgmGPNXfMf6e9McH064MNSvCUCDKeNBmpvmRsjnCaBpq0hcBIjk3caltvPgiXnYLyusgiKvBbFixzFpVTXTE9Q7k6LUHeKNXwM4+ox2FuxS9x6rlx3zAZ24P29WHZGVPX9G0s+oZqFpTWcUhVGGcQ34CXxiz8ktMHbbDSX8IXT8Xx0YZH9WRzBuJikR7B0bhm75LsA/uPTHGIRNol9pxw54CsWzZuYeuyPL7n92mLALFuQl1UMt00+RW9r8ybxbnvW5PR/q6gaM2XoQy5o2aMOlF+IE7tSVYAsfgmxG;YdLuH+5IMFojXUrhJksZOw=="
 ---

@@ -2,6 +2,100 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
+      "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+      "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebfdc7cdf2b8f00069d4a2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "publishedDateTime": "2020-05-16T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
+      "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+      "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
+      "webUrl": "https://www.cnet.com/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/F2kIQhUcGfgh3zP_EUna2KVKcrk=/756x567/2020/05/01/4390e8d4-7ab5-43eb-af57-126a3d9e863d/aeri-concept-x-05.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "publishedDateTime": "2020-05-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
       "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
       "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
@@ -977,99 +1071,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gms-self-driving-car-startup-cruise-has-laid-off-8-of-its-staff-or-around-150-workers.md",
-      "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
-      "excerpt": "The move is aimed at cutting costs amid the ongoing coronavirus pandemic.",
-      "webUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
-      "publishedDateTime": "2020-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-how-ai-can-help-in-fighting-covid-19.md",
-      "title": "How AI Can Help In Fighting COVID-19",
-      "excerpt": "To manage the pandemic, hospitals are looking forward to automated tools to the hilt. Healthcare experts are using AI to triage COVID-19 patients",
-      "webUrl": "https://www.entrepreneur.com/article/350672",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589535361-web-3963945.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How AI Can Help In Fighting COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350672",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350672",
-      "publishedDateTime": "2020-05-15T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

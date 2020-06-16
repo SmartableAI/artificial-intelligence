@@ -2,6 +2,91 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
+      "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+      "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 743,
+          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "publishedDateTime": "2020-05-03T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-many-jobs-do-robots-really-replace.md",
+      "title": "How many jobs do robots really replace?",
+      "excerpt": "How many jobs do robots really replace? New research puts a number on the job costs of automation Date: May 4, 2020 Source: Massachusetts Institute of Technology Summary: In many parts of the U.S ...",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200504150220.htm",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
       "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
       "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
@@ -1046,82 +1131,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
-      "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
-      "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
-      "webUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5eac8efc3dac9a33a64b9ab9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coursera-most-popular-online-classes?amp",
-      "publishedDateTime": "2020-05-01T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
-      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
-      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
-      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

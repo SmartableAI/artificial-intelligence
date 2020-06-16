@@ -2,6 +2,91 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
+      "title": "Baidu releases quantum machine learning toolkit on GitHub",
+      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
+      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Baidu releases quantum machine learning toolkit on GitHub",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "publishedDateTime": "2020-05-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
+      "title": "Microsoft Build 2020: Colour me Azure",
+      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft Build 2020: Colour me Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "publishedDateTime": "2020-05-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
       "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
       "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
@@ -468,7 +553,6 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -1214,100 +1298,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
-      "title": "Facebook’s AI convincingly inserts people into photos",
-      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
-      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI convincingly inserts people into photos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "publishedDateTime": "2020-05-26T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-26",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

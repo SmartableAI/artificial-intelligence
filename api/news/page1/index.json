@@ -275,7 +275,7 @@
       "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
       "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
       "webUrl": "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL",
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -685,6 +685,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
+      "title": "India joins global partnership on Artificial Intelligence as founding member",
+      "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
+      "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "India joins global partnership on Artificial Intelligence as founding member",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "publishedDateTime": "2020-06-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
       "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
       "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
@@ -1085,43 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-keralites-startup-jiffyai-raises-usd-18-million.md",
-      "title": "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million",
-      "excerpt": "Jiffy.ai was created to upskill and provide job training and placement programmes for people whose positions are displaced due to RPA and other automation technologies.",
-      "webUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.html",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/5/w600X390/USD_Reuters_Picture.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "Keralite’s startup ‘Jiffy.ai’ raises USD 18 million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jun/15/keralites-startup-jiffyai-raises-usd-18-million-2156618.amp",
-      "publishedDateTime": "2020-06-14T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
+      "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
+      "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
+      "title": "Gap in AI chips between China and US may be larger than it seems",
+      "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
+      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Gap in AI chips between China and US may be larger than it seems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "publishedDateTime": "2020-05-04T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
       "title": "Smart Serendipity In IBM AI For Operations",
       "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
@@ -1045,90 +1131,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
-      "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-      "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
-      "webUrl": "https://www.autonews.com/mobility-report/intel-buys-moovit-transit-app-900m-help-develop-robotaxis",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Intel-main_i.png",
-          "width": 800,
-          "height": 600,
-          "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
-      "title": "There's more to usability in AI and IoT than you think",
-      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
-      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "There's more to usability in AI and IoT than you think",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "publishedDateTime": "2020-05-04T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
