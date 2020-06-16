@@ -42,20 +42,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "India joins global partnership on Artificial Intelligence as founding member"
-    excerpt: "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay)."
-    publishedDateTime: 2020-06-16T03:24:00Z
-    webUrl: "https://www.nationthailand.com/news/30389688"
+  - title: "India joins Global Partnership on Artificial Intelligence as founding member"
+    excerpt: "By joining GPAI as a founding member, India will actively participate in the global development of Artificial Intelligence"
+    publishedDateTime: 2020-06-16T07:38:00Z
+    webUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/"
+    ampWebUrl: "https://www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/india-joins-global-partnership-artificial-intelligence-founding-member/amp/"
     type: article
     provider:
-      name: nationthailand
-      domain: nationthailand.com
+      name: Voicendata.com
+      domain: voicendata.com
     quality: 36
-    images:
-      - url: "https://media.nationthailand.com/images/news/2020/06/16/30389688/800_4058db01e3c5239.jpg?v=1592277403"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "gni6pXjfckQ84XDqCS/oxbg9F28A8F6j3ITTz1x9Wbq6TVH3ZYRpFc2OicSt+BFb8ufCNvBttVi+5oBgfKklvYlKF2xsBccbL7FXrO3Pm9TCV6bBtrFk8uqMO+Xc3zi/JxeivvBMMv8Fxr/wzmKYPu6OiUAtv+wt3NQPlvcHEiFF3HOB/X3Hmi2nXYcRs/4tn5SZR36Jz6sCjb3SGTxTD79ELbCOSq5HGaA6wcchAN8LfQbi8pC4VvlDKhlDQRhxc0mgAUXuakghMGjZnW+MW9b9kYu6UAGvP/1Gez+e8Ql1l+6pxJXp9VYg+t3taQsU46PSF32qFlGRo7t5bPM87A==;hkuILXLGf0I8tRYkX4AJ2A=="
 ---

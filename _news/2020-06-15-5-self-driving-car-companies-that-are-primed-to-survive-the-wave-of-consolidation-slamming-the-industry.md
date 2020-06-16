@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T16:35:00Z
 webUrl: "https://www.businessinsider.com/5-companies-most-likely-survive-self-driving-car-industry-shakeout-2020-6"
 type: article
 quality: 38
-heat: 48
+heat: 38
 published: false
 
 provider:

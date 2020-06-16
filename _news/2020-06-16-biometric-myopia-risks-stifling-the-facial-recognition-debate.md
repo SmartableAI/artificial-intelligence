@@ -7,6 +7,7 @@ webUrl: "https://www.afr.com/technology/biometric-myopia-expanding-the-facial-re
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: The Australian Financial Review

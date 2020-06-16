@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Microsoft Azure becomes SAS’s preferred cloud platform"
 
 related:
+  - title: "Microsoft and SAS join forces for cloud-based analytics and AI"
+    excerpt: "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d"
+    publishedDateTime: 2020-06-16T09:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft announces strategic partnership with SAS"
     excerpt: "The new collaboration will aim to integrate Microsoft Azure more closely with SAS' AI and Analytics. Cloud-based industry solutions will also be developed as part of the team-up to service customers."
     publishedDateTime: 2020-06-15T18:04:00Z

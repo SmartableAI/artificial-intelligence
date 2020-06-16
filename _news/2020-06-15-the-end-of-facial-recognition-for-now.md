@@ -98,38 +98,6 @@ related:
         width: 4897
         height: 3265
         isCached: true
-  - title: "Amazon bans police use of face recognition technology for a year"
-    excerpt: "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin."
-    publishedDateTime: 2020-06-11T13:14:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/amazon-bans-police-use-of-face-recognition-technology-for-a-year"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 61
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/PrimeRisk2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Now Amazon Is Banning Its Controversial Facial Recognition Software"
-    excerpt: "Days after IBM took the unprecedented step to halt all development, research, and sales of its facial recognition technology over concerns that it unfairly targets people of color, Amazon said it would also put a one-year moratorium on Rekognition, its own widely implemented facial recognition software. Amazon will stop selling the software to ..."
-    publishedDateTime: 2020-06-11T16:35:00Z
-    webUrl: "https://www.popularmechanics.com/technology/security/a32837598/amazon-facial-recognition-rekognition-ban/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp32837598/amazon-facial-recognition-rekognition-ban/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 61
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/surveillance-camera-royalty-free-image-1591882799.jpg?crop=1xw:0.79594xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon Finally Sees the Problem With Facial Recognition"
     excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
     publishedDateTime: 2020-06-12T18:11:00Z

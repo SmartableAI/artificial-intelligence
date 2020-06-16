@@ -27,86 +27,49 @@ images:
     title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
 
 related:
-  - title: "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says"
-    excerpt: "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe."
-    publishedDateTime: 2020-06-11T15:54:00Z
-    webUrl: "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html"
+  - title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
+    excerpt: "IBM and Amazon have withdrawn their products, citing the software’s use in racial profiling"
+    publishedDateTime: 2020-06-13T15:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 93
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
+      - url: "https://i.guim.co.uk/img/media/9ebcf6ef9fcd40d37e487aa228b8eb9e2419afa7/0_232_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edc87d8e28beaa42bee0f8521c05b1b5"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Microsoft declines to sell facial recognition tech to police"
-    excerpt: "Microsoft Corp said on Thursday it would not sell its facial-recognition technology to police departments until there is a federal law regulating the technology."
-    publishedDateTime: 2020-06-11T17:56:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-facial-recognition/microsoft-declines-to-sell-facial-recognition-tech-to-police-idUSKBN23I2T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23I2T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23I2T6"
+  - title: "Why face-recognition technology has a bias problem"
+    excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
+    publishedDateTime: 2020-06-12T12:57:00Z
+    webUrl: "https://www.cbsnews.com/news/facial-recognition-systems-racism-protests-police-bias/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facial-recognition-systems-racism-protests-police-bias/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200611&t=2&i=1521939835&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5A1OP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Microsoft says it won't sell facial recognition tech to police, either"
-    excerpt: "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments."
-    publishedDateTime: 2020-06-11T19:46:00Z
-    webUrl: "https://mashable.com/article/microsoft-facial-recognition-police/"
-    ampWebUrl: "https://mashable.com/article/microsoft-facial-recognition-police.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w="
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/09/c24bcb02-d691-4e8a-98f8-b78d87e09590/thumbnail/1200x630/1969c438fff57293ca4837b5b2a1872d/gettyimages-1189384731.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "PimEyes facial recognition website 'could be used by stalkers'"
-    excerpt: "PimEyes describes itself as a privacy tool to help prevent misuse of images. But Big Brother Watch said it could \"enable state surveillance, commercial monitoring and even stalking on a scale previously unimaginable\"."
-    publishedDateTime: 2020-06-11T14:37:00Z
-    webUrl: "https://www.bbc.com/news/technology-53007510"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53007510"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53007510"
+  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
+    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
+    publishedDateTime: 2020-06-16T01:11:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/70AE/production/_112864882_selfie.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A Bill in Congress Would Limit Uses of Facial Recognition"
-    excerpt: "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough."
-    publishedDateTime: 2020-06-12T20:52:00Z
-    webUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "rPnublQRwAJwq2WZDNUSqdZmyhiHAm1JSbnF/rksxNwORrLhiokxBLuXsxrwynl867KQw/Kc/kS1b+Rb9k6RA6GRdH6e0QE3zycQ/BTX8wRnvlULw3u5KMIUbH8zd2TCTsO3+BAR6abZq1jcgEch1Lzweagi/jvtq2181wXARskAUmeS5gWN/XBdN7kyiAY955gOVcjNHpcukhTRmopg0s4N/Nz872fXv+ktOyUKL02U6hU1xzpiwrYeFUlmy3iNjhzgtfLimQ2RPrNXSj1z+UNaPvS3XwuXw/+L7xpMIjbUll1HhDN3dWQVKM3cGeW9A1IWBgK22D9FNPq41H/ZsH0Qhn8uD/s6lTpftIpLSOSAp3kWScczamGAGMqBe6/KQmxrvM6TC+cyA7FvhxReKHnfEhMpbEfyyiW3IzE/MjONA+ruveRSjOd7tv/gZ04g+r+VJC9zq5Gyq3oDWB+IA3ziw8poWWPCfTKmGQ52bfmjdwoZbwAIt80rKA/bwMh5;ZlHHx2DpE/PNIJ2pJI6s0A=="
 ---

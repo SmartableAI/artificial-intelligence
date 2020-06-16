@@ -57,6 +57,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever"
+    excerpt: "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks."
+    publishedDateTime: 2020-06-15T18:09:00Z
+    webUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html"
+    ampWebUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 68
+    images:
+      - url: "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
+    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
+    publishedDateTime: 2020-06-15T16:57:00Z
+    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
+    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Paste
+      domain: pastemagazine.com
+    quality: 58
+    images:
+      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
+        width: 854
+        height: 480
+        isCached: true
   - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way"
     excerpt: "Never mind that none of these companies were major players in the police facial recognition market. (Microsoft admitted it has never sold the tech to U.S. police.) But civil right"
     publishedDateTime: 2020-06-12T15:21:00Z

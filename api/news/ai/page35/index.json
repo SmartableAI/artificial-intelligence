@@ -2,6 +2,120 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-09-ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026.md",
+      "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
+      "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026-2020-05-08",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
+      "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
+      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
+      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
+      "publishedDateTime": "2020-05-08T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
+      "title": "Benefits of AI and Machine Learning in Customer Service?",
+      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
+      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
+          "width": 800,
+          "height": 600,
+          "title": "Benefits of AI and Machine Learning in Customer Service?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "publishedDateTime": "2020-05-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-paris-tests-face-mask-recognition-software-on-metro-riders.md",
       "title": "Paris Tests Face-Mask Recognition Software on Metro Riders",
       "excerpt": "The Paris metro authority is testing CCTV software to detect whether travelers are wearing face masks. It’s part of the city’s efforts to end lockdown and help prevent the spread of Covid-19, but it’s raised concerns from the government’s privacy watchdog.",
@@ -1137,138 +1251,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-waymos-self-driving-vans-ready-to-roll-after-covid-19-shutdownbut-no-robotaxi-rides.md",
-      "title": "Waymo’s Self-Driving Vans Ready To Roll After COVID-19 Shutdown–But No Robotaxi Rides",
-      "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb47f7d835fec0006764e53%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Waymo’s Self-Driving Vans Ready To Roll After COVID-19 Shutdown–But No Robotaxi Rides",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
-      "publishedDateTime": "2020-05-07T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies.md",
-      "title": "Clearview AI claims its facial recognition tech isn't for private companies",
-      "excerpt": "Clearview AI responded to a lawsuit over its facial recognition tech by claiming that it's cancelling the accounts of anyone not in law enforcement or affiliated with a government agency. The company built its database with images scraped from social media.",
-      "webUrl": "https://www.engadget.com/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F41d284c0-90d9-11ea-bb7d-17e552ea48f7&client=amp-blogside-v2&signature=fe89ad135723f6833c30c2b2a4d58452f7fe7476",
-          "width": 600,
-          "height": 350,
-          "title": "Clearview AI claims its facial recognition tech isn't for private companies",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
-      "publishedDateTime": "2020-05-07T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
-      "title": "Can robotaxis ease public transport fears in China?",
-      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
-      "webUrl": "https://www.bbc.co.uk/news/business-52392366",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Can robotaxis ease public transport fears in China?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366",
-      "publishedDateTime": "2020-05-07T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

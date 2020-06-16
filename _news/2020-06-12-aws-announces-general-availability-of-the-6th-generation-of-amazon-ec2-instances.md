@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T15:03:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-the-6th-generation-of-amazon-ec2-instances/"
 type: article
 quality: 49
-heat: 69
+heat: 49
 published: false
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
 
 related:
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why face-recognition technology has a bias problem"
     excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
     publishedDateTime: 2020-06-12T12:57:00Z

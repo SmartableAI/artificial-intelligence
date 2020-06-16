@@ -28,33 +28,97 @@ images:
     title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
 
 related:
-  - title: "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023"
-    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ..."
-    publishedDateTime: 2020-06-11T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023-2020-06-11"
+  - title: "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027"
+    excerpt: "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,"
+    publishedDateTime: 2020-06-16T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Telecommunication Market 2020-2023 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast"
-    excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global AI in Telecommunication Market Research Report, By Component (Solution ... In today's world, customer interact online using various social media platforms such as Facebook, twitter and blogs where they talk about their experiences and issues about the service providers, online. Thus, service providers ..."
-    publishedDateTime: 2020-06-11T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2023-global-covid-19-impact-analysis-trends-opportunities-and-forecast-2020-06-11"
+  - title: "Artificial Intelligence Chipsets Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2020-06-16T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2020-06-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market 2020 Is Booming Globally"
+    excerpt: "Data Bridge Market research has recently published comprehensive business research on Artificial intelligence robots Market which includes supply chain analysis analysis of regional marketing challenges opportunities and drivers analyzed in the report This Artificial intelligence robots market report is a"
+    publishedDateTime: 2020-06-12T18:17:00Z
+    webUrl: "https://www.openpr.com/news/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
+    ampWebUrl: "https://www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 56
+  - title: "AI and robotics: the challenges and the opportunities"
+    excerpt: "Artificial intelligence (AI) has been the subject of considerable hype for several years, but is industry now ready to move to the next stage and focus on how it can be sustainably implemented on the factory floor in robotics and industrial automation applications?"
+    publishedDateTime: 2020-06-15T17:34:00Z
+    webUrl: "https://www.controlengeurope.com/article/179098/AI-and-robotics--the-challenges-and-the-opportunities.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 49
+  - title: "Artificial Intelligence in Diabetes Management Market Analysis, Revenue, Price, Market Share, Growth Rate, Forecast To 2026"
+    excerpt: "Global Industry Analysis By Trends, Size, Share, Company Overview, Growth And Forecast By 2026\\| Latest Research Report By DataIntelo;"
+    publishedDateTime: 2020-06-16T03:25:00Z
+    webUrl: "https://surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/"
+    ampWebUrl: "https://surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/amp/"
+    type: article
+    provider:
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 33
+    images:
+      - url: "https://industryjournalpro.com/wp-content/uploads/2020/02/Regions-UMR.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Geospatial Analytics Artificial Intelligence Market (2020 to 2025) - Drivers, Constraints and Challenges - ResearchAndMarkets.com"
+    excerpt: "The \"Geospatial Analytics Artificial Intelligence Market - Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global geospatial analytics AI market is estimated to grow at a CAGR of 24."
+    publishedDateTime: 2020-06-15T09:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200615005278/en/Geospatial-Analytics-Artificial-Intelligence-Market-2020-2025"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200615005278/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Professional Survey, Growth, Size, Trends, Opportunities, Overview and Forecast to 2024"
+    excerpt: "(MENAFN - The Expresswire) Artificial Intelligence (AI) in Agriculture Market Professional Survey, Growth, Size, Trends, Opportunities, Overview and Forecast to 2024 Posted on Jun 15 2020 5:53 AM Artificial Intelligence (AI) in Agriculture Market analyzed the world's main region market conditions,"
+    publishedDateTime: 2020-06-15T09:50:00Z
+    webUrl: "https://menafn.com/1100324903/Artificial-Intelligence-AI-in-Agriculture-Market-Professional-Survey-Growth-Size-Trends-Opportunities-Overview-and-Forecast-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?368832"
+        width: 383
+        height: 250
         isCached: true
 
 secured: "Nqj7zG6Jj9yiguNaNcoDYQCNVTTirTGVVigXRvgC4jUyuNN6Q4kSWFOvP3+dqGGkVsNRAkADlNKRdQlyL3zXGt4fODBMdxNmNT0sNlxWxqwLlSEndH1779shYcT8cTiJpCa6vnQYeK1J1V6LSzjnGN7ddmSbM6FDoeI0eFihRm8KGG8EVUOYwaLcd+su7f+DRJw6IxyG7IR0+0J1kE/chEsL4/8YJRIRIE5G2O19JFqFwYrr1kp3nzv20stK72WTohVc7OzcGQ7QHJUdcMN/N6qGCpTY1S6HhpqDOt5Gdx5h7wEobmhsaJNSAmC6UHUn2ewCO3VXNHjMFST/8y3PPA==;RwDQtMdBZ1KKq7PqXjej3A=="

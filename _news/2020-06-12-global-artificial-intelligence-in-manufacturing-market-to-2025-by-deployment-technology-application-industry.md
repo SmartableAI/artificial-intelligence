@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T07:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-to-2025---by-deployment-technology-application-industry-2020-06-12"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

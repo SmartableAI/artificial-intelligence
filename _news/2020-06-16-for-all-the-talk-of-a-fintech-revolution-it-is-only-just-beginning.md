@@ -7,6 +7,7 @@ webUrl: "https://dofonline.co.uk/2020/06/16/for-all-the-talk-of-a-fintech-revolu
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Director of Finance online
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "For all the talk of a fintech revolution, it is only just beginning"
 
-secured: "bpq8d+b2QRQdn9mNySGTPQ+8FmM7cd4V3yxr77ijWmIcd6FjUjZpBhsCHgNUz9O31YFKRgPjP1Z/WEuHyvOssHsRVzkKtlKUeY2J94syDXxz/T+G8JN2Ya1voEfO7Q6TRLhBgrWXV6aNDJbzlPGxu8L8hue9ufw/tmSm7cZowxC0jlvJcgmOxg3rd/Vb1EuooYfzx2YO2WSyMcO30vc7XN5HJ4eliNyiMSm/9oaFfdNw1aiPc+WiEZ3RYvE1v/EWizKOor7+Mo1v8TRCsDqmXOvY51/eVXjwK/0fwL5ojxwKvCTLezzTd8hhr21qT/gyEF8re1ztpqhUu+dUS1CjOQ==;UNydTVbYR3ScpD5wVqNekQ=="
+secured: "RDat6kjkAQDVYBxkTKuGkPI94zl3Gw5sozCUFi6MzRpiwe0UdVAnXgliMmpmzhl/uF+0QTRwz9QZokZDNdiutLqvpFkEu0DPDajx2EYW/HZ+ryEDEhxlZOESr/BuUtwQIcPE/WZ0QrjL/rad4wVHax0OeKJVXvrc/KaNYIGMlBNmZvru5zFmNlWY5k0CETEOcqI3qPdS3ArUIDP25mJ6z9U6Yd8OtFl91nqLXv/HdrCssHHDpMMeIi5RroHPnZuUMLCCKQrQEL+Xqt5TSERL+hxp7fyJ0vQcLuDDK4L5pHO70sF9iPW/YI2PbPS5Ror1o0l85tkk6kjQlkK1Iduobyee2SJJ7rroPSLz8QxZztZr7RbvVMn1WFu8/RmR4itzk01guIKVKTCneTQdUrUTim2cyLFCdOB8Y1Lgj8kvu1cjhfJ4gN37TZkc0qpwOkwRI5nMeuEijIlnLei0UU7W7/JADRIvHPYFNc6WwY/NHzJDSFwwAv0X7t9wG4bAJoEKA2U4luV4jO4amuWZdvHIkg==;N9tiR7yh3waeHhwWABrACg=="
 ---
 

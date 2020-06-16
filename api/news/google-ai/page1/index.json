@@ -6,7 +6,7 @@
       "title": "How The Trevor Project is using AI to help prevent suicide",
       "excerpt": "Suicide disproportionately affects LGBTQ+ youth. In the U.S. alone, more than 1.8 million LGBTQ+ youth between the ages of 13 and 24 seriously consider suicide or experience a significant crisis each year. Additionally, LGBTQ+ youth are over four times more likely to attempt suicide than their peers,",
       "webUrl": "https://www.blog.google/outreach-initiatives/google-org/trevor-project/",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -147,7 +147,7 @@
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
       "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receive
 cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

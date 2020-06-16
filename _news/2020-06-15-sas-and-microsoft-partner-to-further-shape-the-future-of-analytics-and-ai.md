@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T15:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai-301076895.html"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
+    quality: 34
+  - title: "SAS, Microsoft partner to further shape future of analytics, AI"
+    excerpt: "Microsoft and SAS entered an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business products and unlocking critical value from their digital transformation initiatives."
+    publishedDateTime: 2020-06-16T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/sas-microsoft-partner-to-further-shape-future-of-analytics-ai--1342613"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 34
 
 secured: "ICv3Xr+/s9+KKei9JbTf6Zm2Z4iRUgELvuoHHYoxF6UuO+H1LwqcYlPY4s+591WrxjAO6DHFSDUSCYtzlw/VMMGCTOrRqrk35n2No12X+abFvXvT/IQs3lmjb7cFEXrXV3G16h9GiVcs2B0dXOMDFUh6g4Ec4YCDFR9O/aFHhATuCRmSHunT61G6zQhpWgYyjtAfPrb7TRI5jf3/zT2fadAFY/ZF0w0fD1RdhpIJR6rtrvBkNrmrL3kxvDpxVMhz3fR+rI+nMI2PJyy46TlY5AESrMKTxCpHP+KemZWNWF7o+DxTYwM85UAyo39Y2/x/vOfpvSRCU4Dut5c1Ad/7LjbFjJRsWqNDrDEdZUu5C9X8oawVljlshYlxnTY/M9/4PmgF5YHY8MYowslKkhtbxvPqperzBb/TjcYPPDnzT627hOX8ZSJs76aeBH4VmPs3haLENtuQo3vAGz+0z3/bkMCIOiTjIWfw1UUHKmSRW0GvLcKToFR8yUfOiPpIYr3TgZfSk30zrBE/9vwDIS8zrw==;8vqrng7z0Tfr9yB/k51/jQ=="

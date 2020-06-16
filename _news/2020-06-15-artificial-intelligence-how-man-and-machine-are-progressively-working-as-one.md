@@ -7,6 +7,7 @@ webUrl: "https://www.euronews.com/2020/06/15/industrial-revolution-4-0-how-man-a
 type: article
 quality: 36
 heat: 36
+published: false
 
 provider:
   name: Euronews
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Artificial Intelligence: how man and machine are progressively working as one"
 
-secured: "gYIc5t0QPbgizrn4TsJE2bi/Zsg62dhKBjxvSsrdAkjj0mVeX/6AVKWSaSeX7/fb5msCaXBG9M+60EaH/ojQvDc0glaotttfosTJLINy3acBhBKOGyxc3mocaz4qbQ0EIVYDU9bnZ25L991nSfWCfPSFwXW1BRjuhUZXlB5ATvpQS8x19S9BF/oNxviVTv20jypvuzCd/1l7O36vPEnGOBCWtdZMhtCiXPZ82rBZZaLWSiAoOjjQU053WpqJRhzRWGmq4RxgqlZ8fIt8pQwycPz6cQAMwoFbh5ih294Nz7UBkHgwUBn7gwY9r0WhMcO3fDq7IVFTmXHQiDMTTtzYTw==;YOv074FMw90LKcv0UC0LXg=="
+secured: "PTzOFCxUniNaEA+tLnSppJhDUdgmMENpEASVDhBulJ27tMgR4HoU7C+ySRdEG+rf5a3b0UceZKYBkmQft1lk2yAdSRLiG4rJkH73/H0kO/cALXiSfjXvnrrgQbsxMR8YLtkW59p+sp5Q3UamR+jP2jjNJID4UADM8OQbQ6CdsJoErwIs6d0j+FUDX6SJyIkXUgUd08uIMpj/BobmqsYFnTBs8nMmqAUwgiCdeScHZmiqe2aNCJxzARfnJvsf9QsBwhzkP+Bch8050ZDno9y1NzO8fuzd6yaW2EMdwG2fN7FND5nVRhsXk4HS6R3iJ1IOx4x1FC6ubuq9n77BmLX+CsoI5jdx7hBSvMIVALs1zoD0MxbtAZdvGeQL7R4pjHTxtx1f8Vde9jlLGM2IKUWS3Bbk6Z1uoGfTapku/v4D5NMJ0qS17y9ytt4y7arJN4jNpFbxvWpVEImj3tIdFfuz0pcqNM1fVgc+TP3Qe5LU2I9MMEWzb3XIbasGQtNhZtNjUjaybwS+7jun9gvFoxvmVA==;F6DdeV1pmXhR3QG8M+ufhg=="
 ---
 

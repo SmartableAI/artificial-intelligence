@@ -7,6 +7,7 @@ webUrl: "https://www.realwire.com/releases/Avanade-named-strategic-go-to-Microso
 type: article
 quality: 23
 heat: 23
+published: false
 
 provider:
   name: realwire.com

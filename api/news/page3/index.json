@@ -591,7 +591,7 @@
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
       "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -776,7 +776,7 @@
       "title": "Microsoft bans police from using its facial recognition software",
       "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
       "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "heat": 449,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -853,6 +853,52 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openai-releases-commercial-api-for-multi-purpose-ai.md",
+      "title": "OpenAI releases commercial API for multi-purpose AI",
+      "excerpt": "The five year-old organization is releasing its first commercial product, giving businesses access to its general-purpose AI models.",
+      "webUrl": "https://www.zdnet.com/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/05/4e6420ab-acc9-42c4-86d0-0ed58f504e5a/thumbnail/1200x675/01b6d549f030f0f5ab9687b9c5fd85d0/oppomakes5ggroupvideocall-5c072b3160b2dc10be302bbb1dec05201830233poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "OpenAI releases commercial API for multi-purpose AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "publishedDateTime": "2020-06-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1079,35 +1125,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
-      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
-      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
-      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

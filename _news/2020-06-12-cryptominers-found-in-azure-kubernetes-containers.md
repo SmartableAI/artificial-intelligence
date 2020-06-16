@@ -42,6 +42,20 @@ related:
         width: 970
         height: 546
         isCached: true
+  - title: "How Kubeflow Clusters Were Targeted Recently By Hackers For Crypto-Mining"
+    excerpt: "Crypto mining attacks in containerised environments are not new. Researchers have found different kinds of crypto mining activities running inside misconfigured containers. Microsoft, in April, had disclosed large-scale crypto-mining attacks against Kubernetes clusters which were discovered by Azure Security Center,"
+    publishedDateTime: 2020-06-16T06:38:00Z
+    webUrl: "https://analyticsindiamag.com/how-kubeflow-clusters-were-targeted-recently-by-hackers-for-crypto-mining/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/monero-crypto-mining.jpg"
+        width: 1000
+        height: 664
+        isCached: true
 
 secured: "o94d+yYT+w3iMw6T41lvIR9m7gjW9iv7R9wU7UolUhUl+7MdKle956pvCIwypxGphIedzlAtyewuv7Ndgj8rosP9L5c26hpTk7s7wl9BX5vCC9nPlV3GoqE2tr+jSAufeauNVyFs0CWfWFp+ogC8aS1UdJ6m6Q2ONYAeH2OJ9hYm+EG3TeE+xu0jRGRwaqSn9K0Wf0NP+0scNSAgKW0aW4opgwxkGI+rvCpKMikDPvlzzjvFi3RprplNlU4U+tW1yNgaCbtIPgMPjQrGRJ99982kYAPY3AQcCftD1ydKtyFpSIwufHKQw4JjABOdyDIcsmgSTBtBrL8zA8s+ZJNveA==;XdIc405JR8nTbKVQaSjrmA=="
 ---

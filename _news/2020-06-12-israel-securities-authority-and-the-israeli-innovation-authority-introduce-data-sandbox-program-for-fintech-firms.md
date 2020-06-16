@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162667-israel-securities-au
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162667-israel-securities-authority-and-the-israeli-innovation-authority-introduce-data-sandbox-program-for-fintech-firms/amp/"
 type: article
 quality: 22
-heat: 32
+heat: 22
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 800
     isCached: true
     title: "Israel Securities Authority and the Israeli Innovation Authority Introduce “Data Sandbox” Program for Fintech Firms"
-
-related:
-  - title: "Israeli Securities, Innovation Authorities Launch New Program For Fintech Startups"
-    excerpt: "The program runs run in collaboration with the TASE (Tel Aviv Stock Exchange) with the support of the Israeli Ministry of Finance."
-    publishedDateTime: 2020-06-11T13:31:00Z
-    webUrl: "https://nocamels.com/2020/06/israel-innovation-authority-securities-exchange-fintech-startups/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 18
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2018/02/tlvstockexchange-1024x759.jpg"
-        width: 1024
-        height: 759
-        isCached: true
 
 secured: "PERowGBOiv1FA3QoKY5H5zJqCKsJA0kPFympfWVruJPR25uHmzIVJfd4h3EukysX8RbzYVgI3zb+M8LtFV7YFW0KD8hVEeSTaaFmm91J7j6K9JdBsPqzm1pxhbkB/C70MoMoRlWCXN2qyY13luPvlNNZVwzih+h6/BA5Okvy+ZqR7yLHB+f/NIKYZSTZbJG2v1SvHPej4yhhPKfK/uoa+LahZWrS/97DrIGfXK3ldAjYQV1eDUham7SELb9NMmh4wX6xTF9ev1ehqQOwEXApDmfMD0igk7a9rcrtZrLTEbGlu/TK6hs9byjWz05YE7eN5CLbfK08iAZwGP2vw0pdhwLlI3aUnlwsqS3II/CPeL45gTrZ+T7vf8wa1DcOUY4rxeoe3J1emNV2FUDGjcmfUvCMT31rczur7Xqw45AB4dhu4q/+SvRszN3434+r1MA5tTGzF6rpEVye3ZNTyBEDRIA7z80Czm0tKEc9rUpi8HtvP6L+TRDluAclEyC4Wb/9DfXx+A/HTj0PIicO2ezkWQ==;R5RiC5Cd/pkOrHfJtLTMEQ=="
 ---

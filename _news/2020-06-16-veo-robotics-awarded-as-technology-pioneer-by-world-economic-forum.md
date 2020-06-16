@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/news-releases/veo-robotics-awarded-as-techno
 type: article
 quality: 54
 heat: 54
+published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Veo Robotics Awarded as Technology Pioneer by World Economic Forum"
 
-secured: "Kaujv0jT0bhjCweZuMiZoriQWB+w0ph8wNpH5XPzvUZg7cE3s/9LI+ZPQftsh8VUfmaR4AkA7+2I4dbXDde0sisK7P4Ns/HUyeE5iYB83TDAoC8YIiuDzi3ZbEr4t3eIDQjovU8v2cqdKzQ/l4+xZNgfTNSKX7xhGztZ0s9D8a+Swg18BYILA/paWe4Q/x+9ROK7GtlqG0e9kT3BnxW+DpuX/8iE8WcC/C7IgR4c3gv4IZXwKPtFJfqlMgqJw44CPfpQS8CFy8viMXNUYA8fOZ4Vu8HKP1Y4Fe4NlZmnPtSGp2BBFVkBBPZy/QtCxeTWuve1JUl3FWdbt1zF3SJXlw==;h8QZNgFrHLgEPr73TjPhiA=="
+secured: "xyarrWsPO56ZV8rHf/H49PQzeT5M5dgTNoyCdHlaEn++izOarqQcz1ATgt6M/0CGUavPsiFy9qvaGmvEI86JPIef9Blx8KQgCD1J2+b/nX+GzX42QtFRsoFNF3TUNtyzuopGYIDWNexkvSOHVOZViKHIWOjc0Dun3BrUA5F+beOaYLoMN+QrZeM6DcQmvER76bSEAzEWboQRrfR7CtSuY5hbx3pzkllnthxMcm8sTX8PxIZann3V/kAcR7Z8E0e82bBGe+edTRNZBptv4N2vYfx4JLHVie+vcQRNU4eDBzIw1Cub67fm1n0bD4BYaIoeaeQWdHAoCKgT75weL6AY4sIFGXyqg3rnt4KQg3s8ViEqQ27Ylqc2d9yXeQ10qT4xr4qn6RahU1ouH02JgQylbbRGdcXgJlQi3OFG3rNhRKqH9a8IQX+4ocxGuJuGkUPnac7sK8JzfG+2Pmodjxsa9uweyvwRjWJxmtCeQM0xkzvdIAkoSh/UHBKnCdFjZaAktxKGPTQQ2jeaSSk9Y/tuOA==;cZ2LFKmGCPtZCqV4nMJXbQ=="
 ---
 

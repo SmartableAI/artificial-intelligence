@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T19:02:00Z
 webUrl: "https://electronics360.globalspec.com/article/15268/new-system-helps-self-driving-cars-detect-empty-space"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

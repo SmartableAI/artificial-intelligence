@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-ku
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "How Kubeflow Clusters Were Targeted Recently By Hackers For Crypto-Mining"
+    excerpt: "Crypto mining attacks in containerised environments are not new. Researchers have found different kinds of crypto mining activities running inside misconfigured containers. Microsoft, in April, had disclosed large-scale crypto-mining attacks against Kubernetes clusters which were discovered by Azure Security Center,"
+    publishedDateTime: 2020-06-16T06:38:00Z
+    webUrl: "https://analyticsindiamag.com/how-kubeflow-clusters-were-targeted-recently-by-hackers-for-crypto-mining/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/monero-crypto-mining.jpg"
+        width: 1000
+        height: 664
         isCached: true
 
 secured: "FGFdzTaiSXW2nrFEvQYRkhSueMV8NzSM98da7z+gp91kZZd4V/CfhJhwxq85YwjmLwoQJdf1NLi+Kpd+k6krnopdz33TzmvPe+bBdOUxGCsQ70g6AV7iGCENRG66dsmDikK9B677YsK2OJrRt4ZTxGwolrP4Bql2TvwQoH21GdkgeZFdrdWWwV8mjfWhA1DHNyhmY5cJBBdSZCQmY+R0QZofNw3zrTZzXtyBt4Zrf/1tBwJVxCDBatPnz8WqCZWvHOHueZySq6zKxvwlxj38sNvAboVbTHNdM/IaGUm4z/JDjMvWCLIfpqfQbKRLE9UBcyNpul7F5cVJucprt3KBYxrFPYb3RUNY0n1OdyE72cYDiccf82sh2qcND8DTFVd2pZ8nIVwpAso1Poh/bveWj8OW+FCjNmCkPVuYcPhY+vMpkVUKz//YkELgaknRb5aQC+Aw5azjta6+Cso6WVrTGf3oi5ULE0bu6G4zqzgr6nHSNOwF/HBo4F7+FUvDcrV0;Qc6Br1btEy8g/oKX0rvF7A=="

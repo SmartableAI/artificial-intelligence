@@ -8,7 +8,7 @@ ampWebUrl: "https://thehill.com/policy/technology/502284-biden-campaign-calls-on
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/502284-biden-campaign-calls-on-facebook-to-change-political-speech-rules?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 551
     isCached: true
     title: "Biden campaign calls on Facebook to change political speech rules"
-
-related:
-  - title: "Amazon stops police use of facial recognition technology"
-    excerpt: "Amid nationwide protests against police brutality, Amazon has announced a moratorium on the use of its facial-recognition technology. The software has long been criticized due to its history of incorrectly tagging Black and Latino people."
-    publishedDateTime: 2020-06-11T16:14:00Z
-    webUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/"
-    ampWebUrl: "https://thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/06/11/amazon-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 44
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/03/Amazon-GETTY-scaled-e1584465181587-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "g4l6pFx/S3hLRkiT4TGvv8xYCugo3dOJAGb+jE2mSgxNl5URFyaErUifSs+Oo5K0ton9zkBFxcEf2cS712/fnPUuon8mo72RhzZ16cZjuxIhTARqbWahrCrnBDg/zaAJkbyeOgO+oUIgI+xLlks9UYBFfj5Za8toQkRObN0fOvDei193etVrDW2GhH/Gu+Bqw2DgjSWuXuTvy1D8noareQZMEpIbwDbBQ9w/P+acTAj8sKKM9HFYUbFRV7zVcZLzkexRcqhwuKRlJXxcTuUI3Ge4lIssbK/V+Ovh31MeR+xj6VdWDTuIe+B5V31WiOyJ9f8l15sotK8LguYfPW2GmZKpLI2w6YNVy/P3gZcsCHd5+v/bMRCcv+ILA0Ifx5ZEgPjZpe00dIRDUSqLhyvI/M0OSvI8bBYsw3hGJ8Q0uAzr98mFbiaP/J6swusICVIyGfbYfxZ9+s54OOkVA8N4Xr05R+CR+DwwuwN7ET7Ja2PZoy4DRjWGQfwd2xQowcE1;bqh4qgCwaK1DElg1aUrskA=="
 ---

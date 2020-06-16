@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study"
-    excerpt: "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development."
-    publishedDateTime: 2020-06-11T14:48:00Z
-    webUrl: "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/"
-    ampWebUrl: "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/"
-    cdnAmpWebUrl: "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/"
+  - title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
+    excerpt: "States that resemble sleep-like cycles in simulated neural networks quell the instability that comes with uninterrupted self-learning in artificial analogs of"
+    publishedDateTime: 2020-06-16T09:18:00Z
+    webUrl: "https://infosurhoy.com/technology/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/"
+    ampWebUrl: "https://infosurhoy.com/technology/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/artificial-brains-need-sleep-too-desperate-ai-researchers-discover-way-to-stabilize-neuromorphic-processors/amp/"
     type: article
     provider:
-      name: StarMag
-      domain: starctmag.com
-    quality: 58
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 40
     images:
-      - url: "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg"
-        width: 744
-        height: 389
+      - url: "https://scitechdaily.com/images/Neural-Network-Sleeping.gif"
+        width: 777
+        height: 437
         isCached: true
   - title: "Here’s why artificial brains may need sleep for proper functioning"
     excerpt: "The discovery came about as the research team worked to develop neural networks that closely approximate how humans and other biological systems learn to see."

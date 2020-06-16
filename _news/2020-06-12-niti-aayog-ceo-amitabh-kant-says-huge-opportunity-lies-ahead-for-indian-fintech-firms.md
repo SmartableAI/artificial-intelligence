@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/niti-aayog-ceo-amitabh-kan
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/niti-aayog-ceo-amitabh-kant-says-huge-opportunity-lies-ahead-for-indian-fintech-firms/1989824/lite/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

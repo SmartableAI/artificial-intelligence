@@ -36,6 +36,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "IBM’s decision to abandon facial recognition technology fueled by years of debate"
+    excerpt: "When IBM’s newly promoted chief executive announced the company would abandon its facial recognition technology, it did so amid a national reckoning over race and justice, foreshadowing similar revaluations among its peers."
+    publishedDateTime: 2020-06-11T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/11/ibm-facial-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLRRU2VKMQI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why face-recognition technology has a bias problem"
     excerpt: "As racial bias in policing becomes a national issue, the focus is turning to the tech that critics say enables it."
     publishedDateTime: 2020-06-12T12:57:00Z

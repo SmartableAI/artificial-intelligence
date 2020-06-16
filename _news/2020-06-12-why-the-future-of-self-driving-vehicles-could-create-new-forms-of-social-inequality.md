@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12347890"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
 type: article
 quality: 38
-heat: 58
+heat: 38
 published: false
 
 provider:

@@ -25,22 +25,6 @@ images:
     title: "Paltry Facial Recognition Delay Is Painfully On-Brand for Amazon"
 
 related:
-  - title: "Police Banned From Using Amazon's Facial Recognition Technology For A Year"
-    excerpt: "Amazon has officially banned all police officers from using their controversial facial recognition technology, Rekognition, for a whole year. Amazon has prohibited police departments from using their controversial facial recognition technology,"
-    publishedDateTime: 2020-06-11T14:12:00Z
-    webUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/police-banned-from-using-amazons-facial-recognition-technology-for-a-year-news.112270.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 42
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1591883199_5171a57d1854f325c76a0392b29a18c5.jpg/1e639382ad6159b3a95eadbf53787e08/1591883199_f0d938a58242b59c95da279f9bec4044.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon is banning cops from using its facial recognition tech for one year"
     excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
     publishedDateTime: 2020-06-15T18:03:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/04/Microsoft-Facial-Recognition.jpg"
         width: 1851
         height: 1017
-        isCached: true
-  - title: "Amazon bans police use of facial recognition technology for one year"
-    excerpt: "We’re implementing a one-year moratorium on police use of Amazon’s facial recognition technology. We will continue to allow organizations like Thorn, the International Center for Missing and Exploited Children,"
-    publishedDateTime: 2020-06-11T13:11:00Z
-    webUrl: "https://www.loopinsight.com/2020/06/11/amazon-bans-police-use-of-facial-recognition-technology-for-one-year/"
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 24
-    images:
-      - url: "https://www.loopinsight.com/images/logo.png"
-        width: 520
-        height: 208
         isCached: true
 
 secured: "xIXFki2Bxk/7GtA0z5+b52DQSs5+7VmPLUw67VxSs7etclrwcJzmncQLRpccoApod77fuhw/qBRrEtVGYzV+r4cNzOp5smM8ZYtfukRHf2FbDOblWjd5Bbml3fJ0uK3HqqfxWeyRw9MI2xBoACGO0vOydhKMsc8Xv7iEfeeIRts7ZxO/Fcc93o6d93b2SLbilWADSAQ3lqrSG6/RN/kYY+ApUSgmGPNXfMf6e9McH064MNSvCUCDKeNBmpvmRsjnCaBpq0hcBIjk3caltvPgiXnYLyusgiKvBbFixzFpVTXTE9Q7k6LUHeKNXwM4+ox2FuxS9x6rlx3zAZ24P29WHZGVPX9G0s+oZqFpTWcUhVGGcQ34CXxiz8ktMHbbDSX8IXT8Xx0YZH9WRzBuJikR7B0bhm75LsA/uPTHGIRNol9pxw54CsWzZuYeuyPL7n92mLALFuQl1UMt00+RW9r8ybxbnvW5PR/q6gaM2XoQy5o2aMOlF+IE7tSVYAsfgmxG;YdLuH+5IMFojXUrhJksZOw=="

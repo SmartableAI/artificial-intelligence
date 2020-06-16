@@ -46,6 +46,15 @@ related:
         width: 761
         height: 400
         isCached: true
+  - title: "SAS, Microsoft partner to further shape future of analytics, AI"
+    excerpt: "Microsoft and SAS entered an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business products and unlocking critical value from their digital transformation initiatives."
+    publishedDateTime: 2020-06-16T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/sas-microsoft-partner-to-further-shape-future-of-analytics-ai--1342613"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "kGZ4A+XO5njb6XaSGx7xu2tlYrHPm2sNrHzW0Hi7WlRmvNCTs7BvgazfQVUyx06j+YjPnXJ2rGxBlUz+vX0VjF07Dn6orou5j3IH5daY8bXcnWznWC3AxNMEiO9IBAlhhdgi4Vp/qo/ZQZGHhW4iyYLbHG6YtLDX/cVXxSK4UyKPEqc74zc9nyldSgpzzKjAgKFE8VcE7mZlqN76WyA6k8Nyf8jKJsW5xgmvaQbHm/MsLMECjAOMcScLPIliJRIO2Cpt2l1Ao7E/hTGuVGSZzgsXwBfc2IwK4Tm0l3Aq4HLs5FwnfuYDJ/qLxU1xm5BdN4lRqKGTVWyhoexhZCgCGpZkVEZzwrf3YWyott3fgMCIJtziGll9/Kk7kuxqM2vpZuH39Zk/LpT4U2lwxoyKgz16NWHS1qUe65jJdb6IRgq8ty5xe7cqV91FKBTnhSaMUswTH8qohIO4kGDtT/qe0QXnXevXisCDljzSN9XhkfI8pARWnEXfUzb2yuZ4LB5EfXHSTdhYcvb4iKgzJXNBKw==;XCJ3c058Npou2FpuX+maKQ=="
 ---

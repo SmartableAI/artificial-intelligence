@@ -24,6 +24,19 @@ images:
     isCached: true
     title: "World’s first autonomous farm robot fleet ready for 2022"
 
+related:
+  - title: "Otsaw Launches World's First UV-C LED Disinfection Autonomous Robot"
+    excerpt: "First Deployment at Wisma Atria, Singapore Starting from 15 July 2020SINGAPORE, - (ACN Newswire) - Local robotics manufacturer Otsaw Digital Pte. Ltd. (\"Otsaw\")"
+    publishedDateTime: 2020-06-16T05:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/a16259964/otsaw-launches-worlds-first-uv-c-led-disinfection-autonomous-robot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16259964"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16259964"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+
 secured: "yejfpnj4NhS6MS28QdiQNJ6TV1+vM4bI/6ytmsraYWl6U/dfTqN/n34dRwx/N6bbnHMBPO5yjNjdmtqS1RFRY0zi/MFRMdUZUMrMuPqhcCrtmFYMB0F7zdwp6h4ncuHvt4gzoIuAE8odOPXtmSgt8nxVbsVRNj+s9uIf49uE0wDgGjGCgHRM0y9pK8yBBvfSZ67lvXhH0XYTS+xx43eI4vPAYNysVmFjtWwMkAVNkhqXC9tavLHXFxhQKJ+w0weH+tXB2kqF2jsHEALNP8SgIk7gJyOaStd2fMQjEld3F77kCE//XpXzNAoc8El5ESTpQ1QvUMnmtAXuYnuDS6jyHNcpvPLqF/w+RBe4eXXF3wHptk7Ai7+PVBZ5JN8doG2geqIi4ZWAApFKHLonhwEp3xg5/eTjkD6ehtmJdRt7n4NwU+aYq9VPkrXgVY4M8Q1SapKIhXBUXOiPiAiD9weF0YzPDSvSq2zNEcfUNwcFdvQogH3iQEaNxKiVJ6D9r995xLCpqMrxplCvRxM1VEPAZQ==;ehkt0LQvXOvAxA0/YlIw/A=="
 ---
 

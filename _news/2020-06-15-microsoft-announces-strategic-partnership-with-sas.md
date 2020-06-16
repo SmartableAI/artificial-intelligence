@@ -47,6 +47,22 @@ related:
         width: 1125
         height: 1125
         isCached: true
+  - title: "Microsoft and SAS join forces for cloud-based analytics and AI"
+    excerpt: "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d"
+    publishedDateTime: 2020-06-16T09:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio."
     publishedDateTime: 2020-06-16T04:51:00Z

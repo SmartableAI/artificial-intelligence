@@ -48,6 +48,15 @@ related:
       name: ITWire
       domain: itwire.com
     quality: 34
+  - title: "SAS, Microsoft partner to further shape future of analytics, AI"
+    excerpt: "Microsoft and SAS entered an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business products and unlocking critical value from their digital transformation initiatives."
+    publishedDateTime: 2020-06-16T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/sas-microsoft-partner-to-further-shape-future-of-analytics-ai--1342613"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "sg70yVDES4s/k1KVt/128AtzYK/VCkhpY1lkFt7FNNiEsM9/63pNUv4jvlncxrllIJDi4LCq4N47EoNYemossEbUS4aRcATCCxbjsYjNCT6JLTZ5hbb1jzRgA97AxQSz9lYUr8OD0mb3LI3KudQZKz+Nmi4vL3A7KxGpXtWdKUZXtz0GBQ/q+zqaCVBvvMYieB6sy8Qg0zT69KVOPXjhdvKg4bRAOaaKoDv4M+j2yxnprqRjvdjWipjxgNaqpWJVYZyyUI5NjNpNSZkyLUg8ldcBcIMR+FY6j9gVFX/o/78QS9meCVzk9wYnwuCTrhultdAm2CU6Mo08tXzBD1Tqbn+0AvVgnRl2u6rD4qPL6g4OonCjeDkSjsGYD4OfL8QIlZc2xOPsPKEQlKjPgYOBJVTj6WWW8XQg08VqvjZDLlyzdnTo9U8OHqKeGGJkrE8JaySZmeNaVskBBuPJwAzBDb7AbAke3pie9tagzL/19a2t2oxCfqPeJoL3eZJIVJKK;4phclZPO+mMPpLpTBOFg/A=="
 ---

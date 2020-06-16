@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-releases-commercial-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,21 @@ images:
     title: "OpenAI releases commercial API for multi-purpose AI"
 
 related:
-  - title: "OpenAI launches an API to commercialize its research"
-    excerpt: "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing."
-    publishedDateTime: 2020-06-11T15:26:00Z
-    webUrl: "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/"
-    ampWebUrl: "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/"
+  - title: "OpenAI makes an all-purpose API for its text-based AI capabilities"
+    excerpt: "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task."
+    publishedDateTime: 2020-06-13T09:32:00Z
+    webUrl: "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/"
+    ampWebUrl: "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024"
+        width: 1024
+        height: 693
         isCached: true
 
 secured: "2sAlNq73gvc/ivlMnbDCByvJ8JnIJ6g9mLI/Wrd7Ub+jFLmJfljo6Oe8DkdzjrOv56XBFhauqHRNQo1ndHaVClBaPXMwa3rRvEgQvNp7RUZhvozZLYma/bMPT5GJ7QRkPlVfCY4t5QMxkI6T70aj4AznDyzNjjAUtbJBTO6xD1GyKSgXFEdX1lQiz7IqBi/FZdEsVEhyywvwLYYsUv2dnFlEPzjndZ/dU4Erdk7BzkCuK/2cqBEhMmcn43MR+RYMWgvT57JtDD2IW/XQPewivpxDgNv5bkDzfcdvUq6mlxuxsOQO56IPBJEdF/mlxo1oLHzZi70jPXN+7Ez+e5sx7llx70l5QG1Y0CZ2JdnJHdLKvTgctDcSRBOKu8l6UdAnSaZTieirY3B935SrPjCzTrCMzOY4xGJ18+Q3/iQVzzhrE29n7XhDG6O0Oh98RZiWrov/2djWOHOwvvbDxZ3AQvZ+2jKdu6eozeY3IRJlBdqvQnETf/IbHf1u4R4K/Cfc;b7w944t+RCKI39LkeSIIZQ=="
