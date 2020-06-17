@@ -54,15 +54,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
-    excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
-    publishedDateTime: 2020-06-12T18:01:00Z
-    webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 0
 
 secured: "EzZP9rN9X5xf7jc8zkvqLcX4CRU/7T6UYT+Aov89r8cYiRP20y390YP3TzR8FJqhzmInk6piBgkCSJMKBK7hTqpqZMvyyRzpa5YeXU/XZlR4QijIfgKKeBi1oTO/aiyDJPhURUrOqXvbSeFgEfbchK6kZ6PLg0ygVHsGKo8FXSvQTWHbaJmyKsTQSp6xUqzM48wONgMFi2gO+++qkmru9EeO0Li00H3Q1aR4p+vqJ9EDEEslYKscZOx6LGdJwf0SB+VZEEKg/xtqXHKvJaJx/OmbfMW9QLv38ouGOdXIsa1WCMvIXhAmw/eQlYAYZR+QhDyVDUNPla4cmz2tPz9FpF5SsYwHHS4tncxXRjq5PpxNgorKCr/9pDjjc1c7UsJzmSP2bbqgCrUKh0smL259svoVTR3IjIoAr0JJeHCQDqR5tqF7CtXieOb363VZNeB1FiO+PChn2tv2WHAeUGZtzqzNkcN2IUszVUTR7Xc8KTdycmN0Vp0TyZFG7bzh9sGfJf2i7mreaHE9UWgSwSKRtQ==;/wob1J7NKpMsUFX1Gu4eVw=="
 ---

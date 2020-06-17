@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "You have one day to stop Boris scrapping Gender Recognition Act reforms"
 
+related:
+  - title: "Gender Recognition Act; Susie Dent; Artificial Intelligence for online shopping"
+    excerpt: "And Susie Dent talks about her podcast, Something Rhymes with Purple. Show more Some reports suggest the government won’t now go ahead with the reform of the Gender Recognition Act. If true, this means that people won’t be able to self-declare their gender."
+    publishedDateTime: 2020-06-16T12:16:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000k2l9"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 33
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08h1cx8.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "TSQ46ItCiDe9BLb3IeqGMR15FKUFWFIqcsyxomMUSQC5omLtsoUIC8Oh6hv8rPnmjYHU505VowmWbYcDlD2vy3KUzI7kd30/p4g5eSE9SA2MeyMIOK7o1ChV9BZbaI7y74HZ7CGQpkg8GxJCn0qpffQhZjg2QvgTmJVZ9IQP/D/jhMufGrCLlwHl7sJ1qL471WP33VIfjdrAlGCkDevsuBFtRsB9/ETJUJyfOWr5kOHaofMqGyclQuoo2LDt4psOge4ZP85qHHHbcn7FHmYOwy6YU4aYc//cwqkBcw192+mGo/euCrOPg4GJYlJL6R4/yU2ppescfB0GXyrB46hoq8nvCAANpU2nWJfii6jeZkRYDGwdKfBdCyEcXNhqncXCWv9Chy/2ZtkO4bW6QDs6GshKk8Aj4pZXYCJHmvmG4NgdKAEx0FqG4ukm0m06zEwJCTYqL2RY/VhK9PODA94xRBBDp8SNFqaJBMgNbXFhCGBu1Sz9wYxyBCQWX0bVfs2jmZtRE65wlbOjWNhXK4yltQ==;HuGkupFY8KGAgk5nzJutJw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.axios.com/fresh-concerns-about-ai-bias-in-the-age-of-cov
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/fresh-concerns-about-ai-bias-in-the-age-of-covid-19-70288389-8398-4941-ae5e-42f939f65f4a.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
     title: "Fresh concerns about AI bias in the age of COVID-19"
-
-related:
-  - title: "Using Artificial Intelligence in the Fight Against COVID-19"
-    excerpt: "We’re halfway through 2020 and it’s safe to say that the year will be forever associated with the COVID-19 pandemic.  For most of the last six months"
-    publishedDateTime: 2020-06-15T07:16:00Z
-    webUrl: "https://www.hpcwire.com/2020/06/15/using-artificial-intelligence-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 52
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_1732788047.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "QzjchxBdg/5/i+fUK2tOMPl/VIcBT5ckSJVuQdH72c4as74FPqq3ybK+al+SsaYSce+sEcqMlm2NTiinZJ2YTcja4WLSpGauRf7KdXD0lyidpBekYU+N/b/1CPQ8jLX9723hJRq/o4jkWX2eQ4FUQ47fYnaD59I8c3T2akBCqG73EXJOQQSD+XFa9YaD9qu6g0kbL6abOA5nQGmDIUsOYzI67DZr0RW4JE1iSzsE7yColp1A2FSEL+Op0SNS9j5vpu36bgFjDa+bXsTFs8/3PII/oO6XFKQgI5OBdLTb3gHmeIw8t1OYj7XufOgmey7nVyTCdsU7PU59t0RTIcrXcA==;LOf2wPsfVJa2+isZLReErA=="
 ---

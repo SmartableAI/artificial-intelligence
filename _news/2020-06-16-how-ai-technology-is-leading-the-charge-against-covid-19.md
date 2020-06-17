@@ -26,20 +26,17 @@ images:
     title: "How AI technology is leading the charge against Covid-19"
 
 related:
-  - title: "AI Technologies to Battle against the COVID-19"
-    excerpt: "AI technologies, which were called “futuristic” not so long ago, are proving to be an effective tool contributing to fight the pandemic amid healthcare and public health applications."
-    publishedDateTime: 2020-06-12T17:23:00Z
-    webUrl: "https://www.embedded-computing.com/guest-blogs/ai-technologies-to-battle-against-the-covid-19"
+  - title: "Using AI and advertising technology in a post-COVID-19 world"
+    excerpt: "IBM Watson Advertising's Jeremy Hlavacek discusses how they leverage its emerging tech for the good of human kind and how COVID-19 has positively changed technology's perception."
+    publishedDateTime: 2020-06-17T11:00:00Z
+    webUrl: "https://www.clickz.com/using-ai-and-advertising-technology-in-a-post-covid-19-world/261934/"
+    ampWebUrl: "https://www.clickz.com/using-ai-and-advertising-technology-in-a-post-covid-19-world/261934/amp/"
+    cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/using-ai-and-advertising-technology-in-a-post-covid-19-world/261934/amp/"
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 39
-    images:
-      - url: "http://share.opsy.st/5ee3b6bc6b22f-Picture1.png"
-        width: 1089
-        height: 581
-        isCached: true
+      name: ClickZ
+      domain: clickz.com
+    quality: 41
 
 secured: "VzVdca+Ujn8n8JbWU64T55MguCLz0UNEiOJUL/WEHqjJgdojeTD+Ic69vAMbROw7uj+9WpA2vLaX6Cu3bw/aNcGeu5wHJxsUEn7dDRvQkdM22QBK7VA1Iveuv34BxhTomTld9a7314djPMLcCz59vOzbDH9XzPOoozyClt3n+QqAm9eZCisRLUbeohf4cdALDMa8dj4FGOA1c/yCVjwqYlIgioUlYpahn8hcoA4jOQDczfvUBZ/c2+QMgEZXV1k6QwxMQG8UfmOwabEpjOq0KYC6897kPlGQU9L0rnUQll3xLrSdxTmRv29IEVvjZz5ngl2s6PIo4KwL1mOC0eDrtA==;rkZ5606q4NZR1OGxxuk18w=="
 ---

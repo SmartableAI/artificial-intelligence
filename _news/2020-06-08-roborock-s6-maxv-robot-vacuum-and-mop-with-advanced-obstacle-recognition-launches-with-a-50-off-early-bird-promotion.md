@@ -3,7 +3,7 @@ category: news
 title: "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion"
 excerpt: "Personally I have never been a great fan of hoovering and made the decision to invest in a robot vacuum cleaner almost soon as they started to"
 publishedDateTime: 2020-06-08T13:20:00Z
-webUrl: "https://www.geeky-gadgets.com/roborock-s6-maxv-robot-vacuum-and-mop-with-advanced-obstacle-recognition-launches-with-a-50-off-early-bird-promotion-17-06-2020/"
+webUrl: "https://www.geeky-gadgets.com/roborock-s6-maxvrobot-vacuum-08-06-2020/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion"
 
-secured: "MdUz/9YNGRa3C8RZQmRQjpHIfrxAXut1cC+45CVBJQh6PacUsQvg4534qxZ2EiekHUYtZYVUf3q1+MXZmm5AP8PQg3K6E5a4OGBRePp8Oeh96DWs/RfPRMAaB4k+gJqdtP2hCtiwNLaJntXUXdYg5+TjGIG/R0hRMK5IAPgaBwki5CuVwTIxAGGYSt814OD9MqxaqIaLEqNDHCDbrF4bMvTf270z1KEbwsaa/MuuxeEczrkv4QsZ9k4hJPvJ/jdUxwLNI+GIeoAQjX26d9LqKgKBx7JUSYWR0EcOvOQ6fojRnR3fr/AUCfmGoapyK5YEKIjlhhpwS1HczoLzDiABUCgeLIqdNfdM/6W9H3Bf6OIt7KYSg0Pdb30wVhpxxLW92ioIHXrqJIXTcdOKw4kZohCPnbCuuuMqKQT7LvKzAUOjzpo+tD1bov4O8vhkcLiQlndgvalN2wEDQQBijDkyEruSfCY6BbVguo+7yM/gDVNXFEfKmZ3ayZLHWRnVFV+m7p/KjEok+bHcDym55pVIWw==;Cnow4mDsccn0z7hpslae9A=="
+secured: "2uBaAFM5Nd8+CIF2mzyHXCvT54JfEoI8kK5h6V0YCyrQ30stKWwGS6BrN+gXXNTNBYjqoVaAhdY4ZJ1eIz+i9xI264sQ8Hxmg2G1jK4el4ZbSEHUxCn4X0gTkSFaOLFqGN/dXySV8HNExjz3BVT2SbOant9LYG3pxeeyGkNm5x+FSghTTQVnK6wlI9By/Y+dL3ENL4etcWTgJV2lssk/EHq4hYGsC9nhJ6wtVyCWH6UfptFU5j+KfM8g+W1r5o2qX2U9U3U3LoFAOhq01sTWRqHk+EIhwDD/VTFOw9Nblp8rWRv307Tqc0n2jXnOK1stEgeSj/OC8m6jG+zxNqmJzg==;t8Qxe/FQrzrG9KEQYpzkgw=="
 ---
 

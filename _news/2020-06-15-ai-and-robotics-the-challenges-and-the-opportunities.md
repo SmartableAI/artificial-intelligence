@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market 2020 Is Booming Globally"
-    excerpt: "Data Bridge Market research has recently published comprehensive business research on Artificial intelligence robots Market which includes supply chain analysis analysis of regional marketing challenges opportunities and drivers analyzed in the report This Artificial intelligence robots market report is a"
-    publishedDateTime: 2020-06-12T18:17:00Z
-    webUrl: "https://www.openpr.com/news/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    ampWebUrl: "https://www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
   - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
     excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
     publishedDateTime: 2020-06-16T13:20:00Z

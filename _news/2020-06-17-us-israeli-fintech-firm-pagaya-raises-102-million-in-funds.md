@@ -26,15 +26,29 @@ topics:
 related:
   - title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
     excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-    publishedDateTime: 2020-06-17T09:20:00Z
-    webUrl: "https://www.reuters.com/article/tech-pagaya-fundraising/us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP"
+    publishedDateTime: 2020-06-17T09:08:00Z
+    webUrl: "https://uk.reuters.com/article/tech-pagaya-fundraising/us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUKL8N2DU1DP"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N2DU1DP"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N2DU1DP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Israeli fintech co Pagaya raises $102m"
+    excerpt: "Israeli financial technology company Pagaya today announced a $102 million Series D funding round led by the Singapore Sovereign Wealth Fund (GIC). Aflac Global Ventures, Poalim Capital Markets, Viola,"
+    publishedDateTime: 2020-06-17T10:37:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-pagaya-raises-102m-1001332642"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020617T113840.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "AI-powered financial technology startup Pagaya raises $102M"
     excerpt: "Artificial intelligence financial technology startup Pagaya Technologies Ltd. revealed today that it has raised $102 million in new funding partly to move into new asset classes."
     publishedDateTime: 2020-06-17T09:23:00Z

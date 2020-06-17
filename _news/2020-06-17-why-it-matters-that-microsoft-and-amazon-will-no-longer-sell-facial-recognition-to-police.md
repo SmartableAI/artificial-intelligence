@@ -160,6 +160,20 @@ related:
         width: 3000
         height: 3000
         isCached: true
+  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
+    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
+    publishedDateTime: 2020-06-17T11:11:00Z
+    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
     excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"
     publishedDateTime: 2020-06-16T08:32:00Z
@@ -175,6 +189,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EVyWY8yqdLDexYqaQ8TjO6ASJuenT9VCNSR6CckaAlCHuyM2PkqakITM75oJjxRh3TvTomURFRT3p2hHV+CRzuhMtnR8yeUE4zRrP0n4uyuvMI079/1cy9kV2/O7NtT7Af2GijddEHucXUF/S0pztmhdSCduK+7FvHIPGKwbBtO8h8BOPVbeeuXonteTIxRUkuRh4QpCLA5/AFciJ2a10uoucuxmkoNqTRHTtaTd84U6SnwKsRsalsCE+YZ8R7QPvFxGQvHVAD8E+eSh9NOB5WcyOmhVe1eEQAp3FQ/XDKbc/owFHOcpjkJXG5KtX7/uiSTwTLhow5zcUcjK0pB9rA==;heD4GkBNwS/TZ7MJGmyYVw=="
+secured: "KpMCloo3HuIWcSM99VsD1d2T5SnvJqSQ24qRCcKlb/fXXmEkhZVcke9bibyu9tthBYg8FcMz4/m8jlzzLX++AN6OcNrqMDhbq5UFqLJdYlFHHKGp//KT1QjUpkQh67MRtd+/Cofd95YLhTkqlymMjHdYJrf/tnjIMhQPQhTZ/gtP//5QDAPlsXCCUZVQNVg54tjsLNg5WUpay0PkjXcftdK5Gt9NqljVvxu4g1j8xJzuJln1fSshQJRYedAWJMWV6TEqgCC3EXcfp5CCOFZlf1X1lnkGL2e9UleSqjls28KUCfISQ3DS7jp+fHiwPrP6vfH8EKg8cnXm2P80aLmfw0IxlIb1Aw6SICflfIhRDn3I+e+XJxydXNIsR1OyWlGl1N5av687VyAVryDfrpj+yF/xJe4OSYj62uKaoNyzmdX0J8GPEBdBe5qCD2+QGj5XI5p+e/zJbrMr/VRPaUIJvJxroTXD1JRutqwKAJ0+wtnuKwQZIpIyhW35e/z5/x004pPR+pVu6yEsycH6/353AA==;aLFfkKNwgKys0H9Ov5QRIw=="
 ---
 

@@ -40,20 +40,6 @@ related:
         width: 974
         height: 683
         isCached: true
-  - title: "New system helps self driving cars detect empty space"
-    excerpt: "Humans know that objects in their sight may obscure the view of things ahead of their path, but self-driving cars cannot reason about the objects around them. Self-driving cars use 3D data from lidar to represent objects as point clouds."
-    publishedDateTime: 2020-06-12T19:02:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15268/new-system-helps-self-driving-cars-detect-empty-space"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/268/15268/234565_web.jpg"
-        width: 1440
-        height: 817
-        isCached: true
 
 secured: "rE036RkQpg3Ld/+g68kr9ZoPqgNmBn0w+Zl5pQF2yOXPThVWWnVPbyNKYUmQm9ltzDH4mUd8ZJgzw1jljKLSoJX6khFVrA3j8E2CxyOdX4cdiheAEQrxLckDjSJFImDNSSfeR+VmdEniwjfIdQoQBGRQT78GLO5zyjXYR77XjLwSJGEiZbmY0cCTZ4G9Iqpoe2SkALFq2u07RgIWNfz/s6HlfFUu7jcxGLmboFGvqcHZAx2BJcEtLXA+p4ad33Usw8jfP6vThVUxVaypxsqmMphoY85zJa1CNusZ7HhpcYutinSU6p1CtEazgaM5eu8Cg/ad8iUs9fYxMNgoq/Ta040CfFUdkVudwOXDx5nV8bZSKgAHNUKvYtcodANXco4rU1ApzfYNKyLBrjzGWmnghr5A+eWf7i4YBbDarSf0QPlFiZr5M0c8a1FuV6LAYjACodBZk4Fr25ZAcQjzyPhhcMQZx6jhV1VauI9P5VU3NRqdfuaDHxftRSwdf599xZkDQLEFd6Zntwqo9Z00dbtOvQ==;exV2zJbaMjs97O09ookx5A=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harnessing the Power of AI: An Easy Start with Lattice’s sensAI"
+    excerpt: "Artificial intelligence, or AI, is everywhere. It’s a revolutionary technology that is slowly pervading more industries than you can imagine. It seems that every company, no matter what their business, needs to have some kind of AI story. In particular ..."
+    publishedDateTime: 2020-06-17T11:12:00Z
+    webUrl: "https://www.theengineer.co.uk/supplier-network/product/harnessing-the-power-of-ai-an-easy-start-with-lattices-sensai/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 37
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2020/06/Lattice_logo.jpg"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "yeJMjiHNpir5OR3VDwiM9zORn8g7w5ikQOhaDwHfiTIgc7BzCaZrL53BNq4HkFbYRU9F6w4mhKKGjjyUGgBkNXSHoe2v003FWlwPm1+d24SJOxvC9GYldC6I8ALW6Tm5OG4XmUb2POUOUqO70Zb7ONXbZ4EXuzNefZU0pv6kI2tCyqVfbogBICwz+r4OC+0HrMip5GVaMk01TU0uo3Jh5pNPo+JXkCcqltrjQUAnmewzFv60UqcUnKN8wNcc5VnxsEXSMrTk5DMo/DUGBMaf6GXbhyHFp3MY3ObMe4E7+t4s6dmtrYayAp187IlQzJUfM7Jme1bCW7ZEKrNc8Pv5Eoau7AKZx/jsbFwRrpo+qI4HmAbwBlYIjeymPIgoR0n5EKYRWscJn0HlZm7SxgaoEPSRDO+JJ8R342nKsKPYE1tCsNi4RuG11xMPaLH+Z9S02wJembXAYORuMfqS0F/efOKPEzaBPUwI78jgPBoIzjxM4E9s5ktooQcpCgsGQLh3PhZVKZFjTJcURS1fJOa8ZA==;DAog3DW2OEIxF5V4H5Hy2Q=="
 ---

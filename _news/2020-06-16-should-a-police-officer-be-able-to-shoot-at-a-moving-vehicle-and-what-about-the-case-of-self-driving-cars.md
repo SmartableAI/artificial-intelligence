@@ -56,15 +56,6 @@ related:
         width: 783
         height: 441
         isCached: true
-  - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
-    excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
-    publishedDateTime: 2020-06-12T18:01:00Z
-    webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 0
 
 secured: "HAMoMw/z6YMD89upMaq2arf19dHbINvfJTGY/RW2aQmTflOtXhUraEeYlFkf1/2x5JGxdtkiR6leIvCSeaqUsmYneQJE99wm+HPKadP5vq+RRYj8/VNgX+aLq1DSZZBlnNhLtzJPXRbFCPEpOkBt3d8W+uBM8TVa3VlAq5J6UeNre9kRnPKvzIjc1fCoGnqHkCv2AmgxehiLV5Aia5c9Wl6QZMWYPXRbgOkSn7dm4DVVc8z76m6/T+mH+nZ7USFGQQRV2fSkK66BCV+8LXHuIECcZIK+5x0lykKgwHjfE0miiCLu2CU/9pc9KqWZCyJTTVZ53hRsl4xricfjOI10AdLlrcCYWmSJhB/81A6I6T66ofMz1NWVWZRsZPBau9sGB6i40Xr5ccq1damN8DFna8pWu4fB02AYwsLUv9YhKcoD1FjX+/vzpG+K/Ur/jr8ID6V2gFIgQkR6A7v7cOVlkQc0LLZH5ceNgv3c0UhasF4Oc0bdcutC9AKRDn0uW0DnscVE/vC9XHfC3cOpumeH0Q==;J8OXjiBmsByq5lBsL9n8JA=="
 ---

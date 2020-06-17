@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
         width: 3000
         height: 3000
+        isCached: true
+  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
+    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
+    publishedDateTime: 2020-06-17T11:11:00Z
+    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
+        width: 700
+        height: 394
         isCached: true
   - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
     excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"

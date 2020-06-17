@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -71,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market 2020 Is Booming Globally"
-    excerpt: "Data Bridge Market research has recently published comprehensive business research on Artificial intelligence robots Market which includes supply chain analysis analysis of regional marketing challenges opportunities and drivers analyzed in the report This Artificial intelligence robots market report is a"
-    publishedDateTime: 2020-06-12T18:17:00Z
-    webUrl: "https://www.openpr.com/news/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    ampWebUrl: "https://www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2073698/artificial-intelligence-robots-market-2020-is-booming-globally"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
   - title: "AI and robotics: the challenges and the opportunities"
     excerpt: "Artificial intelligence (AI) has been the subject of considerable hype for several years, but is industry now ready to move to the next stage and focus on how it can be sustainably implemented on the factory floor in robotics and industrial automation applications?"
     publishedDateTime: 2020-06-15T17:34:00Z

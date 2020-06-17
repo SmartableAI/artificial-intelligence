@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition tools under fresh scrutiny amid police protests"
+    excerpt: "Nationwide protests against police brutality are renewing scrutiny of facial recognition technology, prompting tech giants like Amazon and IBM to scale back their sales of the software to law enforcement at the state and local level."
+    publishedDateTime: 2020-06-17T11:00:00Z
+    webUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests"
+    ampWebUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
+        width: 980
+        height: 680
+        isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
     publishedDateTime: 2020-06-16T23:27:00Z

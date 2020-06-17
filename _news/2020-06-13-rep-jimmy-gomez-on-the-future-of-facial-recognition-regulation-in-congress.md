@@ -64,22 +64,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Amazon Finally Sees the Problem With Facial Recognition"
-    excerpt: "Kara Swisher and Scott Galloway discuss big tech’s recent turn away from facial recognition and the racial-bias problems with the technology."
-    publishedDateTime: 2020-06-12T18:11:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/06/amazon-finally-sees-the-problem-with-facial-recognition.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 59
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f41/6dc/fda6a694c959522de55ff49938451aaf2a-facial-recognition.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tech Tent: Facial recognition faces a reckoning"
     excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
     publishedDateTime: 2020-06-12T19:19:00Z
