@@ -2,6 +2,53 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
+      "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+      "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
+      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "publishedDateTime": "2020-06-02T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer.md",
       "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
       "excerpt": "Vara, a startup developing AI tools that detect early signs of breast cancer, has raised $7 million in venture capital financing.",
@@ -1301,53 +1348,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
-      "title": "SenseTime’s AI makes sure you park your shared bike properly",
-      "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
-          "width": 1200,
-          "height": 630,
-          "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "publishedDateTime": "2020-06-01T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

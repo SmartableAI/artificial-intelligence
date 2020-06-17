@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "'I got used to everything, and I felt cheated': Sushant Singh Rajput's old speech will make you teary-eyed"
+    excerpt: "Recently, an old speech of Sushant Singh Rajput has gone viral on social media which speaks volumes about his struggle and ultimate success."
+    publishedDateTime: 2020-06-17T02:17:00Z
+    webUrl: "https://www.mid-day.com/articles/i-got-used-to-everything-and-i-felt-cheated-sushant-singh-rajputs-old-speech-will-make-you-teary-eyed/22843273"
+    ampWebUrl: "https://m.mid-day.com/amp/articles/i-got-used-to-everything-and-i-felt-cheated-sushant-singh-rajputs-old-speech-will-make-you-teary-eyed/22843273"
+    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/i-got-used-to-everything-and-i-felt-cheated-sushant-singh-rajputs-old-speech-will-make-you-teary-eyed/22843273"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 26
+    images:
+      - url: "https://images.mid-day.com/images/2020/jun/sushant-singh-rajput-poem_d_d.jpg"
+        width: 670
+        height: 440
+        isCached: true
   - title: "“I became an actor because I had a problem” – Sushant Singh Rajput’s 2016 speech about becoming an actor and meaning of success goes viral"
     excerpt: "As tributes are pouring in for the actor, his moving speech from 2016 has gone viral on social media ... And I am punctuating me because I started from zero money and zero recognition. So I was not happy. How can that be?” He continued, “I didn ..."
     publishedDateTime: 2020-06-16T12:53:00Z

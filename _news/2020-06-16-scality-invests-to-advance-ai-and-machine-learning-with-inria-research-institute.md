@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Scality Invests to Advance AI and Machine Learning with Inria Research Institute"
-excerpt: "Scality, leader in software solutions for global data orchestration and distributed file and object storage, today announced an investment in Fondation Inria, the Foundation of the well-known French national research institute for digital sciences,"
+excerpt: "Scality, leader in software solutions for global data orchestration and distributed file and object storage, today announced an investment"
 publishedDateTime: 2020-06-16T13:00:00Z
-webUrl: "https://apnews.com/PR Newswire/3d65202284589e52c13b5e11dd79c41e"
+webUrl: "https://www.prnewswire.com/news-releases/scality-invests-to-advance-ai-and-machine-learning-with-inria-research-institute-301077622.html"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
+    width: 1740
+    height: 911
     isCached: true
     title: "Scality Invests to Advance AI and Machine Learning with Inria Research Institute"
 
-secured: "epLt6wRg6jDHObEjEokfPtozIk1i3zAsCz6cXUvp7MURoD8VR/lARbCv/E7TlNZ4JUlghKH0sdHp22au1b08qoDEaaxLTTYNHR7E+0uwVOJ6z2wzMr5U2bniziizZJvCgovLwlQDpIFwv9mSWt91+JM04vlN7qFK69s9zS3RdqGqBfK0O6GPortyWTD7aRVmg/TtQpVvpNxicFyDwt0aNyC8503XBbum7tLtWgL2+7Asqg491jB/YVeBvE354FAjdqDdmu07PUM/oMvhVPRaOcDQbDcVMilT0xcN9WRuHWTykhHkn73kXkkpy/OJ2F3y7RlGqW0ZXkscPHpR2J/2iQ==;kBO4jWIVk7KxekD3dNvl2A=="
+secured: "MJtCqyOhqaVznlrl53AOWMo7MkP+gs1Y+aSF9BcPcEmen/U8pWn3nOGNfqXh2Wm3lbArUeE3KJLb0SJpbNYZpB7Yyg8upfc2RXB5xC3g3V6xiUJR0Q9Y9DG+JLgA1whe1Ia1nHuqQ59IpZNDPUvz5Q9OKMslPGVIAiKL+gSB0ymyXW66e2TJ29M0btwYYWjFlmYVbrvt+OO+n9tRFrFH0+aJMHtpLB+AhGbrW0bqd/j+v08oqiyxdivvRnDHosiOSlkTg5g9rBeaqd2/NvD50W/sHNdM+F6Ae8EXLu4V6mp4QVBk428g8OfB1weaCjrs6gGv4KrYTNTB8YFcZCLy9Q==;uA5Rgi2AkR3WoG3sagM/9g=="
 ---
 

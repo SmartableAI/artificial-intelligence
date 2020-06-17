@@ -2,6 +2,52 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
+      "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+      "excerpt": "Source link:",
+      "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "publishedDateTime": "2020-06-07T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
@@ -1262,54 +1308,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
-      "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-      "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
-      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
-          "width": 5596,
-          "height": 3712,
-          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "publishedDateTime": "2020-06-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

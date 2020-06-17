@@ -180,6 +180,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
+      "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
+      "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
+      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
+      "publishedDateTime": "2020-06-12T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker.md",
       "title": "A/B Testing ML models in production using Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thomson Reuters, use Amazon SageMaker to remove",
@@ -1277,52 +1315,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
-      "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
-      "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
-      "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/31/2ebbe39e-29ee-4859-987b-31cd1903a44c/resize/1200x/4358b8908cefdfb51dcd8d07d99a1bb0/istock-1040873246-security.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
-      "publishedDateTime": "2020-06-11T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

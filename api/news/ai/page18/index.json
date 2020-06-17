@@ -2,6 +2,52 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
+      "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+      "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
+      "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "publishedDateTime": "2020-05-26T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
       "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
       "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
@@ -1240,53 +1286,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
-      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
-      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
-      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
-      "publishedDateTime": "2020-05-26T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

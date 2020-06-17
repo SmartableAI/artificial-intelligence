@@ -2,6 +2,52 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-19-this-startup-wants-to-get-people-with-autism-into-tech-jobs.md",
+      "title": "This startup wants to get people with autism into tech jobs",
+      "excerpt": "Thanks to Hunter's accessibilities job program, though, he heard about a startup called Daivergent, whose aim is to connect companies with a remote tech workforce of folks on the autism spectrum.  For the last two years,",
+      "webUrl": "https://www.cnet.com/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This startup wants to get people with autism into tech jobs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "publishedDateTime": "2020-05-19T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
       "title": "Your face mask selfies could be training the next facial recognition tool",
       "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
@@ -1201,44 +1247,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-americans-still-dont-trust-self-driving-cars-poll-shows.md",
-      "title": "Americans Still Don’t Trust Self-Driving Cars, Poll Shows",
-      "excerpt": "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education. The poll, conducted online in February and March by SurveyUSA,",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows",
-      "publishedDateTime": "2020-05-18T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,53 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
+      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "publishedDateTime": "2020-05-13T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
       "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
       "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
@@ -1064,53 +1111,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
-      "title": "Sony just teamed up with a robot avatar company with big ambitions",
-      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
-      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
-          "width": 1502,
-          "height": 1063,
-          "title": "Sony just teamed up with a robot avatar company with big ambitions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "publishedDateTime": "2020-05-12T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

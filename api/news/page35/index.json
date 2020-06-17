@@ -2,6 +2,53 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
+      "title": "Voice control: Speaking is better than swiping during the coronavirus",
+      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
+      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Voice control: Speaking is better than swiping during the coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "publishedDateTime": "2020-05-15T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
       "title": "Apple Buys Virtual-Reality Startup NextVR",
       "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
@@ -1027,53 +1074,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
-      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
-      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
-      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "publishedDateTime": "2020-05-14T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
