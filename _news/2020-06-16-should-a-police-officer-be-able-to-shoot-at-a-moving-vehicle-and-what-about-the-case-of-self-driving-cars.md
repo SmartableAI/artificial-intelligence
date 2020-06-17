@@ -40,22 +40,6 @@ related:
         width: 616
         height: 372
         isCached: true
-  - title: "Why the future of self-driving vehicles could create new forms of social inequality"
-    excerpt: "Driverless cars are coming, and they're likely to make life on the road easier and more convenient — for some of us. But will they create new ethical problems?"
-    publishedDateTime: 2020-06-12T22:08:00Z
-    webUrl: "https://www.abc.net.au/news/2020-06-13/driverless-cars-traffic-ethical-issues-social-inequality/12347890"
-    ampWebUrl: "https://amp.abc.net.au/article/12347890"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 38
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12341522-16x9-xlarge.jpg?v=5"
-        width: 783
-        height: 441
-        isCached: true
 
 secured: "HAMoMw/z6YMD89upMaq2arf19dHbINvfJTGY/RW2aQmTflOtXhUraEeYlFkf1/2x5JGxdtkiR6leIvCSeaqUsmYneQJE99wm+HPKadP5vq+RRYj8/VNgX+aLq1DSZZBlnNhLtzJPXRbFCPEpOkBt3d8W+uBM8TVa3VlAq5J6UeNre9kRnPKvzIjc1fCoGnqHkCv2AmgxehiLV5Aia5c9Wl6QZMWYPXRbgOkSn7dm4DVVc8z76m6/T+mH+nZ7USFGQQRV2fSkK66BCV+8LXHuIECcZIK+5x0lykKgwHjfE0miiCLu2CU/9pc9KqWZCyJTTVZ53hRsl4xricfjOI10AdLlrcCYWmSJhB/81A6I6T66ofMz1NWVWZRsZPBau9sGB6i40Xr5ccq1damN8DFna8pWu4fB02AYwsLUv9YhKcoD1FjX+/vzpG+K/Ur/jr8ID6V2gFIgQkR6A7v7cOVlkQc0LLZH5ceNgv3c0UhasF4Oc0bdcutC9AKRDn0uW0DnscVE/vC9XHfC3cOpumeH0Q==;J8OXjiBmsByq5lBsL9n8JA=="
 ---

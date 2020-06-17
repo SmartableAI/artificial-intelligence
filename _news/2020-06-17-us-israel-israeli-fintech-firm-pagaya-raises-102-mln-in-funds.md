@@ -1,23 +1,17 @@
 ---
 category: news
 title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
-excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-publishedDateTime: 2020-06-17T09:08:00Z
-webUrl: "https://uk.reuters.com/article/tech-pagaya-fundraising/us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUKL8N2DU1DP"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N2DU1DP"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N2DU1DP"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round. TEL AVIV, June 17 (Reuters) - U.S.-Israeli Pagaya, which uses artificial intelligence (AI ..."
+publishedDateTime: 2020-06-17T09:06:00Z
+webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -35,6 +29,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Investment in Israeli fintech industry surged to record $1.8 billion in 2019"
+    excerpt: "Israel ranks fifth in global fintech investments; coronavirus hit the sector but also created opportunities, report says"
+    publishedDateTime: 2020-06-17T08:31:00Z
+    webUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/"
+    ampWebUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 41
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/02/iStock-623205372-e1581502979966-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Israeli fintech co Pagaya raises $102m"
     excerpt: "Israeli financial technology company Pagaya today announced a $102 million Series D funding round led by the Singapore Sovereign Wealth Fund (GIC). Aflac Global Ventures, Poalim Capital Markets, Viola,"
     publishedDateTime: 2020-06-17T10:37:00Z
@@ -73,6 +83,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "PDjMDqhJMHFo7ZvWhgxecNo4b/QfHeck6TVhJaKqOIPgmnNmg9JYW8Q0urTTGD2PcH6Wms94YmpJZzDljX4AdPgKYgKeSRzIzWP1fGPA9kll5eAn9YiTLwMogh2YGk1NSc3PvHBhNQynjSb7LWhukL0dI9wbAuwi63qmtBQZ3ulPL3LNWxZ9b3HgCAXGqyfu62lJXwmdNLoMel4+RLMH3C/1tttTD1uFqtZir1KCwjPqI0xi1/9ZGZFa3oVMqyGbvUPt6EXIjpmAFueNTcSPhI8A7oVcJ2+w/+94lFTqbqDKPcuIziLujo39vwB08WVBb2ddg4y+uFpgPzUm/wCmRw==;aKpruuW3VEXYyNUt7OM/PA=="
+secured: "yth2C2UjKXILDPuEau2kJe8kyHm6nifPv9xUtfgPOgFKtv7HBH5Ki8zatdlQ+LfeLafGw6L6J9XesNNtNlawNZJAzcKlANIbzt5NTaSeonP/Dy3p21P4CC5DACsCoxwXMnRwKtaihTVsvDnD1VkHzAO6NINWanpw5CoE8i3SWJpmAztrVnWrCIfyef3mwnaODu8Sk13tOPiZdudjVYJxUGZhTyFz16HCX0wQPFtBmSa/oznRCPq/oF1g/PX+Zxi/zjn1nxdouc9/oVghIp0lEBgbVsmgHvy9VOS6fvM80QaEtn1oAYgUfB7FG4bECVX1NM8NZng+MTkl7ugGIsRHZn6+x7owf3/QjP3E5+/syBtFT196MdIxyRAC6zmoIdSSFkbeLFJt2Olo2gR9cSiJIACTdxeKXvzt8rwVt1wYEaupAvQooVaTgU0X6hVZoY/8WDK3PhDD0AamSfLxwuWQqOGOXrJRr43Ul7tkc5BPrnDGhCXkLMXuSttVnlT+IR9pTuOkb9rOpbDAc+Hg3K5+1w==;gpe1Mbg0i+zY0mkBauRs7Q=="
 ---
 

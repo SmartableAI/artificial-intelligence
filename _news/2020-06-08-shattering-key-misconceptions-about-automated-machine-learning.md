@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/AutoML.JPG?alias=social_image"
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "Shattering Key Misconceptions about Automated Machine Learning"
 
-secured: "UiBN0b/vjmJRBrRuiN006WQKfFMopK9XGqdDVmVv386LOrlL2FimPdeflXec89g0g1s+0nX4ptXySqNNozUjKriao1xIDj5mJQucevnZZ5jCZT+HdJBzFqj+S7jfenoGXARRn89SM/tCVoK5jofBaDtEtsq8gQqQR2yhpJ4Z3y+H5KxA5vT+dnCBv+UPsEgxDLsINz/ag7M+Pa+TF/ngLXkskuZRO+/7XCMQPquEETYtXKJeY3SCQnPgDKHlhyLR89xBzWwHDMsXmgmJiQ9gNFunc8SQnkeYcBeUQABQTCbvUhbiq3Nd55n9gPXXWPHF;oGs+s7AjVaAntkJXRDXyvQ=="
+secured: "bgMyOc4CWa0e79JVF8lVJ98J97VLhriJoqZ4sUpXJW26kwWkbgUGEVSfoNYilc5KeGA5L6ZsRSJWRJB8Lx78Ph3JwLbobJWdJImSm4U2rVF0ZyyDIZTrhBWw72g7qp4Lv5ncJvQq2jDA0q/t/yYipEwp/5o6XBbSzNd+nJCZoQMK5ZZMdZxVtw45v5lp3L2vFarOeiyhep3WN5MW1iJ0xJruTMEXnm6xglGb4Wet8zESEQfpLd5mWa9t7jBC7x9ZE27NQJ0iNITHXod1OB7NFB3dRnGKGh4v91QR61JetzzB84e3bcCG/yUQL8L9tmDp3rkZq9O+fwhxrfKIkv7IWzQhQUQLJDEAK1zDRulyhzJz6Dfd/y3kO8pBASUfJKfdmcUq4Vf2R6zs3l0arzjxChWllObYRwrnAxqZm5/MwKKecc0yqI2q+KPEd/Ro6MbQcbkoS85OYT98B58b9nYaLGhG8vNvlaQEWI6UfmpVJxILrErTBsGczRl4WgrcrEb8uvmDgVreCKTR9Z6x6dcdKw==;I0A7d6Zvy94cQuCP1sTDTg=="
 ---
 

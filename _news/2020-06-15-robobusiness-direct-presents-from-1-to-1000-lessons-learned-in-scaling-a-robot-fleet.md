@@ -24,17 +24,6 @@ images:
     isCached: true
     title: "RoboBusiness Direct presents From 1 to 1,000: Lessons Learned in Scaling a Robot Fleet"
 
-related:
-  - title: "Webinar: Lessons Learned in Scaling a Robot Fleet"
-    excerpt: "Lessons Learned in Scaling a Robot Fleet Featured Speaker: Sarjoun Skaff, CTO, Bossa Nova Robotics June 17, 2020 – 2:00 PM EST Bossa Nova Robotics is"
-    publishedDateTime: 2020-06-12T22:45:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/06/12/webinar-lessons-learned-in-scaling-a-robot-fleet/33020/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 19
-
 secured: "atM61CcvDfIwatvc1EF2HNe3Wm4lGoHX9w3T3RVmU7FrOCcK4stoDjpviDFue5lZ2tJLlNTH0rCWEGoAo0PI927zPHx9m+hq1/C3rhiXXY3G7oQkdw0bax2nqnqbyf3DIb1UeNdRoh3Q1DrHDiMJZBJLideCIIOE0FCEqQGnxFFbblbocCWHG3HxIQqEY7trc47/j6JfPj1g1RJvZsfpsyxVS9w+B6MqysGnVFzgNmYdFQKl8vjBomXVvphbQl5LtJL8DtpwMN/uio0rGaeOSxLdI+GsZZgusvO5l29TSrM21DETUaZeEyvFGu6yZ28muKCDLBmLgPrvBFKncVdPrOtCGELsI0Li0bY5AAtzhmvI5nwU23qu+RNIspi0vX4Sj7G/rWkgDlUJxJwlOyxzvZ7gIAqFRkrHsl3hnMUfFzkHO+k7r6/4h/h9+ZvZOG0YUxrXUiY8x/BtPmsOR/n/J66358s0bOOAFCKBdgnho9QZyzs6djp7Mbb4yq7K2ZxAGoqCd/E2nHUzaVHw0dSl/w==;GE7jOjg8vDjSw1otkTkssQ=="
 ---
 

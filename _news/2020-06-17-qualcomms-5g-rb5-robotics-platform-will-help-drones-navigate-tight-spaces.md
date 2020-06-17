@@ -41,11 +41,43 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 121
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804"
         width: 1200
         height: 676
+        isCached: true
+  - title: "5G is coming to robots and drones with Qualcomm's new RB5 system"
+    excerpt: "The technology, which combines hardware and software, will make it possible for places like factories to roll out super responsive machines."
+    publishedDateTime: 2020-06-17T11:32:00Z
+    webUrl: "https://www.cnet.com/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/JVu_818_TY8o6ONW1eYdmnxBgWM=/756x567/2020/06/17/ca3eacdf-5a81-4517-b341-6fed1354a94c/gettyimages-1187738103.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Qualcomm Robotics RB5 5G AI robots on pre-order now"
+    excerpt: "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech"
+    publishedDateTime: 2020-06-17T14:58:00Z
+    webUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/"
+    ampWebUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/qualgage.jpg"
+        width: 1280
+        height: 800
         isCached: true
   - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
     excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"

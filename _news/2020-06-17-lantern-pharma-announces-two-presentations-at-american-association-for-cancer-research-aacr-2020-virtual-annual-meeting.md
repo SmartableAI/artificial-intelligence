@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Lantern Pharma Announces Two Presentations at American Association for Cancer Research (AACR) 2020 Virtual Annual Meeting"
-excerpt: "DALLAS, June 17, 2020 (GLOBE NEWSWIRE) -- Lantern Pharma (NASDAQ: LTRN), a clinical stage biotechnology company focused on leveraging"
-publishedDateTime: 2020-06-17T13:48:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-two-presentations-at-american-association-for-cancer-research-aacr-2020-virtual-annual-meeting-1029317781"
+excerpt: "DALLAS, June 17, 2020 (GLOBE NEWSWIRE) -- Lantern Pharma (NASDAQ: LTRN), a clinical stage biotechnology company focused on leveraging artificial intelligence (“A.I.”), machine learning and genomic data to streamline the drug development process and to identify the patients that will benefit from its targeted oncology therapies,"
+publishedDateTime: 2020-06-17T13:23:00Z
+webUrl: "https://apnews.com/281a22381a743a18595affc702fe4431"
 type: article
-quality: 9
-heat: 9
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "AGWnbVn/Ytt+4awzHoTknrPB1vNmCKA+uY43v21deqOO5l/wwPFL7kvuzAyN9nOKQnVuK32uSIXe9CtpG/tL3gqchna9JANG9OmyiQV3YGT5RHoTh2nmpDNubg2cC7f4z6J13850EaPBWmmp1ueNfu+c/e+E31OKhGMjSJdsdM3QND62UiC0u5vO6/IWZYjxqO2TFNjdxDVDSmxf0AV9kfAHaIGEBGMTZdTVmTQwyEYL5bYkPEUkrY8i2CK9TBVXsC5oQ3Rvs/uev0kyeE6Rp+/k4Yu7dNrVf3yjTwZ3kG9ZvDkmbfc7GZ/W5RpL+XwWPOs8lUUaUCKt7wtdfGJZ4Q==;b6ie2PmjIjy345CyXhnbVw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "Lantern Pharma Announces Two Presentations at American Association for Cancer Research (AACR) 2020 Virtual Annual Meeting"
+
+secured: "RYT0xr6umH4/gP2n5SpEfhHFoeayC2VnCoW3186rO4PoVDILoALzluyfdKbMNWQdjOZYJ3SuLFQm4ACMmIuC8CQoqJB3buwLd3H1t+lg5x5FzfEuTNTI64ikhbotJrahzVGbonxU9ggJ8pnLd5vlCAuBhf1v1W3XW2XHNP5KMwMTS9cMDJQG2e4GFBoZnAwGv+aix7DGEHiF3XZq6k/plPqRfkuFR9vHLHO8rJxr0PdnvUf9qUgtlehYsBnGSQc3JLsTZI3s4CUrPA3Zz9AhTUFafpxA/MtEtbjiO8T8N+zjvmyO5PdZdwn9qtjsBhM3+ueO9KDyqPacWrYytrL8HQ==;Mq6DAzU9VLEEMatOPB4ulg=="
 ---
 

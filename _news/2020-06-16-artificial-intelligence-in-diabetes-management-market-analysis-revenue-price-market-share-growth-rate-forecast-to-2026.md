@@ -92,20 +92,6 @@ related:
       name: IML Group
       domain: controlengeurope.com
     quality: 49
-  - title: "Artificial Intelligence (AI) in Medical Market Size, Rising Impact of COVID-19, Share, Trends, Growth, Opportunities and Top Key Players 2024"
-    excerpt: "Manhattan, New York, Analytical Research Cognizance: The report Artificial Intelligence (AI) in Medical Market provides a concise analysis on the recent market trends. The report further includes statistics,"
-    publishedDateTime: 2020-06-17T12:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-size-rising-impact-of-covid-19-share-trends-growth-opportunities-and-top-key-players-2024-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Robotics Market Boosting the Growth Worldwide: Market Dynamics And Trends, Efficiencies Forecast 2025 | IRobot, Amazon, Google, Geckosystems"
     excerpt: "Latest released the research study on Global Mobile Robotics Market, offers a detailed overview of the factors influencing the global business scope. Mobile Robotics Market research report shows the latest market insights,"
     publishedDateTime: 2020-06-17T07:36:00Z

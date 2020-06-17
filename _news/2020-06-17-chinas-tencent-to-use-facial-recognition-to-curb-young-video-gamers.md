@@ -1,0 +1,79 @@
+---
+category: news
+title: "China's Tencent to use facial recognition to curb young video gamers"
+excerpt: "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games."
+publishedDateTime: 2020-06-17T15:37:00Z
+webUrl: "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: UPI.com
+  domain: upi.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg"
+    width: 800
+    height: 532
+    isCached: true
+    title: "China's Tencent to use facial recognition to curb young video gamers"
+
+related:
+  - title: "Residents urge City Council to reject proposed facial recognition contract extension"
+    excerpt: "City administration pulls proposed facial recognition contract slated to undergo council review, police to engage community on software use"
+    publishedDateTime: 2020-06-16T18:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/06/16/residents-urge-city-council-reject-proposed-facial-recognition-contract/3197917001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3197917001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3197917001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/03/07/PDTN/ce05e7d4-f44a-4127-ba4b-e482b7ef314a-2019-0307-ctj-me_duggan_budget020.JPG?auto=webp&crop=3949,2240,x0,y195&format=pjpg&width=1200"
+        width: 1200
+        height: 681
+        isCached: true
+  - title: "Tencent games to use facial recognition to identify minors at login and payment"
+    excerpt: "Internet giant Tencent has launched a facial recognition mode to identity underage game players before allowing login and payment. It is the latest addition to a broad anti-addiction system designed to protect minors."
+    publishedDateTime: 2020-06-17T07:36:00Z
+    webUrl: "https://www.globaltimes.cn/content/1191898.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 35
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-03-31/c0622b51-a47d-4f81-bc5f-ed53627fe191.jpeg"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Facial recognition company collected data on 30,000 fans at the Rose Bowl game using video monitors to draw their attention and give the cameras an unobstructed view of their face"
+    excerpt: "A facial recognition company recorded data on tens of thousands of fans at this year's Rose Bowl game in Pasadena, using video displays playing highlights with hidden cameras underneath."
+    publishedDateTime: 2020-06-16T01:27:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/16/01/29646948-0-image-a-31_1592265808588.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "ou+kVgASMcXGWprKKPrm0apn7qFZCFRhUitR4bA6h527q6OEDMmc3KSJuxkqk5kOme6HtrACFSn8l0TBo5B2Wm/vGYYv93HDEpyRO7sHKBfv8+oHa1u7CVtm3NDH+JvyrGwql2d42TckxF43SX0Lkiq0NpXuXdMJ/Mt60ujQ5fpvKYMSVSPMA96CnDH/OOei2M0HQPilzWdF17VRTX7dBOakEmJxQslmFX7TqLpsr0c4CQOCprgzONV9pmzBEfi2RQ+FowIIvZmOLzSeRlDJjx5r9aWraxue5wjdFpjV8cGSHtDRG1pQpRRFoVfuIWbK7zjQzQMJ9uV9TJDOuQEUhQ==;h6REM5xgFyfRba+nhMpvUw=="
+---
+

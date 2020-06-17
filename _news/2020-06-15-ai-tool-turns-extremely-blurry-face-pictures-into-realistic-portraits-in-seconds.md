@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsweek.com/artificial-intelligence-tool-turns-blurry-f
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-tool-turns-blurry-face-pictures-realistic-portraits-seconds-duke-university-1510859?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Tool Makes Blurry Faces Over 60 Times Sharper"
-    excerpt: "Duke University researchers have developed a way to turn unrecognizable images into detailed computer-generated portraits... but there's something off about these lifelike portraits."
-    publishedDateTime: 2020-06-12T21:21:00Z
-    webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/artificial-intelligence-tool-makes-blurry-faces-over-60-times-sharper/609-a37e1a2e-712c-48e9-ab39-d1d3a7eb3ced"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 37
-    images:
-      - url: "https://media.wkyc.com/assets/AMAZELABS/images/aabd32ca-0af5-44cc-83fe-6254cb62c722/aabd32ca-0af5-44cc-83fe-6254cb62c722_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "AI Tool Turns Blurry Human Photo Into Realistic Computer-Generated HD Faces"
     excerpt: "Duke University researchers have announced that they have developed an artificial intelligence-based tool that can turn blurry and"
     publishedDateTime: 2020-06-15T09:58:00Z

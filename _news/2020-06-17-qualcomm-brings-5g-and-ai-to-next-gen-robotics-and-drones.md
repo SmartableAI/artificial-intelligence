@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 121
+heat: 161
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804"
@@ -31,6 +32,38 @@ images:
     title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
 
 related:
+  - title: "5G is coming to robots and drones with Qualcomm's new RB5 system"
+    excerpt: "The technology, which combines hardware and software, will make it possible for places like factories to roll out super responsive machines."
+    publishedDateTime: 2020-06-17T11:32:00Z
+    webUrl: "https://www.cnet.com/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/JVu_818_TY8o6ONW1eYdmnxBgWM=/756x567/2020/06/17/ca3eacdf-5a81-4517-b341-6fed1354a94c/gettyimages-1187738103.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Qualcomm Robotics RB5 5G AI robots on pre-order now"
+    excerpt: "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech"
+    publishedDateTime: 2020-06-17T14:58:00Z
+    webUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/"
+    ampWebUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/qualgage.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Qualcomm's 5G RB5 robotics platform will help drones navigate tight spaces"
     excerpt: "Qualcomm is working on AI computing much like rival chip makers Intel and NVIDIA, but it’s sticking to what it does best: smaller devices and connectivity. It just unveiled the RB5 AI-enabled 5G robotics platform,"
     publishedDateTime: 2020-06-17T11:39:00Z
@@ -62,6 +95,6 @@ related:
         height: 516
         isCached: true
 
-secured: "s2szi+BrSjiTAa3AxKaCy+6oNSP3EOF+p1h/sJnT4kPpEItd3MxgLyaim5H5RUj0WorZX5Ku6gpzGyC6aJOlCTPAoMQYARJgNHJ17Je0Xi+l0qJc2Wm8QuUT4eyaCw5HzmANKfPuwbpK04ja0Hf675CJ/LfZ0pzjlY70dNJ/BQ5bc8bryEopsBo19o7Us27RqaUMyWyMs0qxiJSz3BpOXHCJhiBtDuTvHaXwcmWBLubRj8rY3hiaYoK2bqfbJYN1BF6d5E8hwLga4Ptwi9VjsbSTnp/DO4KY5li3VglIcbiLBkCDzGodEI6fP3TWfyFy/MhXJmzH4cD5A3bfN3zhrQ==;5hw6FEf1GAo9y9x6D9ohTA=="
+secured: "TZqtBr9OV5hl2llOcF3hwCw0C1DURww5oN8R66TXyylgCoXq4JQcmGiO3+h+1OzEu1j/beS9AuMjmT6ncxKfO/WgC8XWBDwWOAFwh1EVs+8iwqeihV6cW/41R56IMR1m3tdJoEy7VUK90YswvO6Q3xqjctF+k54sKxF+IQ6p6ZgJBxcX8qEluvfMjqfoIbGUb2WcwQgy3HesKMs66tIH37l0tf42mV3jYLz8x9DKYK+9iz7Zg5uGSWN1wcPIcUrsZ5SNEN2GfMC90bAF6G9czUxJ4PIrJZ2UsuCtRtN/bu9wkzwNm2xXihBNhRo7FsxAsBsKxnrbkjae2sK/AcsHkHY9LbxX6IvOSfF1SpbID6AlxS2aY+Z3pZ8CnNh1M5lozsp/hGiPU7h8+O3JiYUtPQ1NHUKlSuFzVjKIwBxRFjlnbHk7YoPHRhgvH7WnH6Km/wq0VaTMicGpl6EFwNqB7qYudHFm5SPm6LTAKMecj7w23duyzVOZcB+gks8QFWGuB/GRz5UCCh2Ai1o4cVUeOQ==;8DaSzOkxcQPkcGBqXpo1jg=="
 ---
 

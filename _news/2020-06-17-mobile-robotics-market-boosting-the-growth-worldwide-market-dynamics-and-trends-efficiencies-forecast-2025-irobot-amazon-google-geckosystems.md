@@ -94,20 +94,6 @@ related:
       name: IML Group
       domain: controlengeurope.com
     quality: 49
-  - title: "Artificial Intelligence (AI) in Medical Market Size, Rising Impact of COVID-19, Share, Trends, Growth, Opportunities and Top Key Players 2024"
-    excerpt: "Manhattan, New York, Analytical Research Cognizance: The report Artificial Intelligence (AI) in Medical Market provides a concise analysis on the recent market trends. The report further includes statistics,"
-    publishedDateTime: 2020-06-17T12:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-size-rising-impact-of-covid-19-share-trends-growth-opportunities-and-top-key-players-2024-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
     excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
     publishedDateTime: 2020-06-16T13:20:00Z

@@ -3,7 +3,7 @@ category: news
 title: "Machine learning optimizes efficiency of cloud databases"
 excerpt: "OPTIMUSCLOUD works by using machine learning to develop algorithms that help optimize cost and performance of both the virtual machine selection and the database management system options."
 publishedDateTime: 2020-06-16T21:23:00Z
-webUrl: "https://gcn.com/articles/2020/06/16/cloud-optimization-machine-learning.aspx?admgarea=TC_Cloud"
+webUrl: "https://gcn.com/articles/2020/06/16/cloud-optimization-machine-learning.aspx"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Machine learning optimizes efficiency of cloud databases"
 
-secured: "gLQhADHvsfnwnEjtifW+34I/vALikpemEAVeK5ZKf04Y5za3ofYQ3rL3cY3wSLRiYBhFgrjHzrrb5izAzWp8V9w8J7c/x1+eWSQeosfYpu6bJEXjTwkkldWW23MxZDVnyWOGkP7SvUyhmFpNPDP8lGQm8cob7OZdXPhFP4EMW4CuNfOSiabE4zEn/TsrLf4kfGetIMxMdIXWYgqtNcH+LmABKWpk7voVf4DYp4et3OkbNJuCYIcfv3ENaGuTiU1S0rchxyEfIxad5VU351LYV+qTJw/cDc7my3rJkesNvrFd9XXkYmyFwk1ysDRqanqX7fn2pxDpOd+IH02oL9v/iw==;6sIObg8yK5E6o2EEguiqLQ=="
+secured: "xG6gPZEIFH8WMRvvK/vce5I1CQ6uA5zzbTTiSZGXO0wk32iivhoO07Pj2t5+llV9Cmm2rCp9UTRqdaCiQeuuusSHZYZ9Wtt7VCDyrUzqt1iD+bOskWdw/Q2+pYIzaY32CLsACsFlFeItAnTg7J5Mbd+kTQmNdBv/FHNj9RnAJEkNENly54bHN82WKlP1RBjV2K45pbLJJ6TcjZm6LiBLJ8Azifj3Pe6sDA4kAykYKk8HJ7uKrQlRkeQfxGuhFrL+4+/y+q1QfhBuspXtDe6rGIJONtMJHLvn13RvCjwwWTJgUlmVNTTtKObUYWX0MqqFDwZwLG7+kXuTEWCtrcpycg==;gXiirm5+9/uaxLSAIufPAA=="
 ---
 

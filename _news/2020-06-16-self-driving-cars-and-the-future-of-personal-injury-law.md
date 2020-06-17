@@ -27,22 +27,6 @@ images:
     title: "Self-driving cars and the future of personal injury law"
 
 related:
-  - title: "Why the future of self-driving vehicles could create new forms of social inequality"
-    excerpt: "Driverless cars are coming, and they're likely to make life on the road easier and more convenient — for some of us. But will they create new ethical problems?"
-    publishedDateTime: 2020-06-12T22:08:00Z
-    webUrl: "https://www.abc.net.au/news/2020-06-13/driverless-cars-traffic-ethical-issues-social-inequality/12347890"
-    ampWebUrl: "https://amp.abc.net.au/article/12347890"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 38
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12341522-16x9-xlarge.jpg?v=5"
-        width: 783
-        height: 441
-        isCached: true
   - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
     excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
     publishedDateTime: 2020-06-16T15:38:00Z
