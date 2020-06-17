@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-17-outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions.md",
+      "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+      "excerpt": "Automated conversation company Conversica raked in $31 million last October, and Chorus.ai — a startup developing AI that listens in on sales calls — secured $33 million less than six months ago.",
+      "webUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/e593f674-86be-4fdd-9dff-31e8591293e8.png?w=1200&#038;strip=all",
+          "width": 1100,
+          "height": 608,
+          "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "publishedDateTime": "2020-06-16T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients.md",
       "title": "La Trobe University uses AI to bring mental health care to cancer patients",
       "excerpt": "The Centre for Data Analytics and Cognition (CDAC) at La Trobe University has teamed up with international cancer researchers to develop an artificial intelligence patient-reported information multidimensional framework (PRIME) to detect and analyse a patient's mental health status while undergoing cancer treatment.",
@@ -792,7 +838,7 @@
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1078,52 +1124,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
-      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
-      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
-      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
-      "publishedDateTime": "2020-06-15T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

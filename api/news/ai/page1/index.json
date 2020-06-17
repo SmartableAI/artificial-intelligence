@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-17-outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions.md",
+      "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+      "excerpt": "Automated conversation company Conversica raked in $31 million last October, and Chorus.ai — a startup developing AI that listens in on sales calls — secured $33 million less than six months ago.",
+      "webUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/e593f674-86be-4fdd-9dff-31e8591293e8.png?w=1200&#038;strip=all",
+          "width": 1100,
+          "height": 608,
+          "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "publishedDateTime": "2020-06-16T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients.md",
       "title": "La Trobe University uses AI to bring mental health care to cancer patients",
       "excerpt": "The Centre for Data Analytics and Cognition (CDAC) at La Trobe University has teamed up with international cancer researchers to develop an artificial intelligence patient-reported information multidimensional framework (PRIME) to detect and analyse a patient's mental health status while undergoing cancer treatment.",
@@ -746,7 +792,7 @@
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1300,53 +1346,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools.md",
-      "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
-      "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
-      "webUrl": "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
-      "publishedDateTime": "2020-06-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

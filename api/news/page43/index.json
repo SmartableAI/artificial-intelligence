@@ -2,6 +2,54 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
+      "title": "Understanding The Recognition Pattern Of AI",
+      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
+          "width": 1200,
+          "height": 584,
+          "title": "Understanding The Recognition Pattern Of AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "publishedDateTime": "2020-05-09T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
       "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
       "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
@@ -1032,53 +1080,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
-      "title": "DeepMind compares the way children and AI explore",
-      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
-      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind compares the way children and AI explore",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "publishedDateTime": "2020-05-08T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

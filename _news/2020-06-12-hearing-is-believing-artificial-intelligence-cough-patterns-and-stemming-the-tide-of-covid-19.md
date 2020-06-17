@@ -126,6 +126,20 @@ related:
         width: 974
         height: 683
         isCached: true
+  - title: "CMU method makes more data available for training self-driving cars"
+    excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
+    publishedDateTime: 2020-06-17T04:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-cmm061620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
+        width: 720
+        height: 812
+        isCached: true
 
 secured: "CXm3cXZwUx0im2vK60cWisLNeIljG54we26R0yFgRHWimnrmAerSCp4qM3g3MSpT09Z4dVLf5B6CEeseVltEeUeHgzyugZwsFmA/D073+xJn4jFmeBx8IcyC3YnKws+j2FTZQrWYS+5rV+soDQVMIKMT4tDRtzJTbLhQJJ53uVQS3t0siOyNZlyv8bVul6wnS3KOl6cC9mFgjeKVrjxu/ul9YQHfU9YwXtX8IqTvuwyJ6yyVKfSBPVVu6Ec+r5pc6Hl3PlwEww64hCZ9CGZBp9hgXp8waPKQtgS3CgD999YnVI9pqepd7VM7iIXdTH+3D9WwgVk8zqyY2aS66bsATg==;4dfbsOxzL5KEOS8woe6zDw=="
 ---

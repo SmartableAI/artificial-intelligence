@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
+      "title": "Assembling A Top-Notch AI Team",
+      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
+          "width": 1200,
+          "height": 675,
+          "title": "Assembling A Top-Notch AI Team",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "publishedDateTime": "2020-06-14T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-where-are-all-the-robots.md",
       "title": "Where are all the robots?",
       "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
@@ -450,7 +496,7 @@
       "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
       "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
       "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1078,52 +1124,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines.md",
-      "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
-      "excerpt": "In this piece, I discuss how Covid-19 research has quickly created unprecedented amounts of publicly available research data and why privacy is top of mind. This piece also looks at the impact AI has during this time.",
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1217452462%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
-      "publishedDateTime": "2020-06-12T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
+      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
+          "width": 2000,
+          "height": 1333,
+          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "publishedDateTime": "2020-06-09T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage.md",
       "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
       "excerpt": "Microsoft’s decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.",
@@ -1310,53 +1356,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
-      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
-      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
-          "width": 1200,
-          "height": 630,
-          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "publishedDateTime": "2020-06-07T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

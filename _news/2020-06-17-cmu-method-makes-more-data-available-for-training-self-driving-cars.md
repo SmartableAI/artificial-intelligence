@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
-excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
-publishedDateTime: 2020-06-14T15:39:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+title: "CMU method makes more data available for training self-driving cars"
+excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
+publishedDateTime: 2020-06-17T04:04:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-cmm061620.php"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
+    width: 720
+    height: 812
+    isCached: true
+    title: "CMU method makes more data available for training self-driving cars"
 
 related:
   - title: "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars"
@@ -83,6 +84,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
+    excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
+    publishedDateTime: 2020-06-14T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Self-driving cars and the future of personal injury law"
     excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
     publishedDateTime: 2020-06-16T16:29:00Z
@@ -115,20 +127,6 @@ related:
         width: 974
         height: 683
         isCached: true
-  - title: "CMU method makes more data available for training self-driving cars"
-    excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
-    publishedDateTime: 2020-06-17T04:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-cmm061620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
-        width: 720
-        height: 812
-        isCached: true
   - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
     excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
     publishedDateTime: 2020-06-12T13:24:00Z
@@ -144,6 +142,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "rE036RkQpg3Ld/+g68kr9ZoPqgNmBn0w+Zl5pQF2yOXPThVWWnVPbyNKYUmQm9ltzDH4mUd8ZJgzw1jljKLSoJX6khFVrA3j8E2CxyOdX4cdiheAEQrxLckDjSJFImDNSSfeR+VmdEniwjfIdQoQBGRQT78GLO5zyjXYR77XjLwSJGEiZbmY0cCTZ4G9Iqpoe2SkALFq2u07RgIWNfz/s6HlfFUu7jcxGLmboFGvqcHZAx2BJcEtLXA+p4ad33Usw8jfP6vThVUxVaypxsqmMphoY85zJa1CNusZ7HhpcYutinSU6p1CtEazgaM5eu8Cg/ad8iUs9fYxMNgoq/Ta040CfFUdkVudwOXDx5nV8bZSKgAHNUKvYtcodANXco4rU1ApzfYNKyLBrjzGWmnghr5A+eWf7i4YBbDarSf0QPlFiZr5M0c8a1FuV6LAYjACodBZk4Fr25ZAcQjzyPhhcMQZx6jhV1VauI9P5VU3NRqdfuaDHxftRSwdf599xZkDQLEFd6Zntwqo9Z00dbtOvQ==;exV2zJbaMjs97O09ookx5A=="
+secured: "VE3RLST6p/ZAz4hPI+1hsar9DO2ApjzbyNVrutCYPaMiTJhVilSi9JYjFC+u3ETYdQmjHLvOIUMNijAC6RnvqIWj2JlPi7YRbD81WGgExC1GU1+mam7nf4884W6O+ClGd8UOaFPicnlciZYwMzPkRLePdCFvRNUpd6NVZyzwaLt395CM20S1BZVJsMpkRAPTNv6PWx6t1Gs9c13bBn9mqLEozfeJz3nF5diRt0W/LCXKthdUt8yDB3zJxAv/SUxDiCKjlr7yF50mu7L7ZpdrBISsIOGplstvUbBdDHCdUrsApOMizFAcNq1Hi9D+Jm5bHqa5+o1QWmecNKLza9JnHg==;6R8JYzHmCaX6SqO6bydniw=="
 ---
 

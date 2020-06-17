@@ -2,6 +2,44 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
+      "title": "Inference Moves To The Network",
+      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
+      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
+          "width": 936,
+          "height": 624,
+          "title": "Inference Moves To The Network",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-vector-institutes-ai-makes-predictions-about-random-events-like-market-trades.md",
       "title": "Vector Institute’s AI makes predictions about random events like market trades",
       "excerpt": "Researchers at the Vector Institute propose an AI approach to modeling random events like stock market fluctuations and hospital visits.",
@@ -1085,44 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
-      "title": "Predicting Failing Tests with Machine Learning",
-      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
-      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Predicting Failing Tests with Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

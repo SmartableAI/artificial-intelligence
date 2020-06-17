@@ -113,6 +113,20 @@ related:
         width: 974
         height: 683
         isCached: true
+  - title: "CMU method makes more data available for training self-driving cars"
+    excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
+    publishedDateTime: 2020-06-17T04:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-cmm061620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
+        width: 720
+        height: 812
+        isCached: true
   - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
     excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
     publishedDateTime: 2020-06-12T13:24:00Z

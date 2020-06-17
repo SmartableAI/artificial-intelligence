@@ -2,6 +2,53 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
+      "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+      "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg",
+          "width": 720,
+          "height": 376,
+          "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "publishedDateTime": "2020-06-02T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
       "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
       "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
@@ -1066,52 +1113,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-argoai-closes-26bn-volkswagen-investment-in-european-us-push-with-help-from-ford.md",
-      "title": "Argo.ai closes $2.6bn Volkswagen investment in European, US push - with help from Ford",
-      "excerpt": "At a time when COVID-19 has disrupted investment and acquisitions, intelligent vehicle tech is still going strong.",
-      "webUrl": "https://www.zdnet.com/article/argo-ai-closes-2-6bn-volkswagen-investment-in-european-us-push-with-help-from-ford/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/e884814b-f075-48db-9353-79141be156a7/resize/1200x900/31e7fee9d4292ba24bf28d0c96200af1/10.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Argo.ai closes $2.6bn Volkswagen investment in European, US push - with help from Ford",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/argo-ai-closes-2-6bn-volkswagen-investment-in-european-us-push-with-help-from-ford/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/argo-ai-closes-2-6bn-volkswagen-investment-in-european-us-push-with-help-from-ford/",
-      "publishedDateTime": "2020-06-02T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

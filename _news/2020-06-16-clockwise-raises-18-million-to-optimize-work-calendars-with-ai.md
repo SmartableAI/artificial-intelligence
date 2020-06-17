@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
+    excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
+    publishedDateTime: 2020-06-17T04:03:00Z
+    webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
+    ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "lccOZErcv3wLAPcWvl28WC0/4eOk6H1qxyYk3FzCt4F9Uf1s0LGmHVDhyv04JpOrlSmXqm2N58UZaQ/ZNGnQMxKlwHcXYFMvD8+OniArQxUT4bg+Fy52h5IKaCwPYsvkvcnFwdQErsdTgbR+fLPjRzySIO3j9OCuebEUWh3BY3T7OpVPgkcTQcnef+c/61nnph2M3Viu+UUBUlT5egYPsxPvYQaoyiywXoBCfC3yKgXtFxgLxaVr/U10++5vRBviBvzBJVKxD4aRFmsnPbJ+0TitSqDxWCT6OHMHOEFkF2KkwobQnIz9vYRPaCrncSnEIOANfZ7V6Btportmjyj/NiU+lDZxE7lr1n2IggTMSjOT+QetCDLMMzQu6VMguMhHa41JL2hTi53ZkI3j6LFUS2Qa7DoV8qWP77wl7xjm9PkwK0VPIV1Vv3OnVy/i0lDAb5rdYITA8ZDdkatSE4RNwCzglxh9cklbZGOqn2lbZrM0OQmboz2Kbgu9D5/MayzKOL5+es+TnlE+E9bm2ZLeDg==;wbTMDGnaKyRFD/n1h5c2lQ=="
 ---

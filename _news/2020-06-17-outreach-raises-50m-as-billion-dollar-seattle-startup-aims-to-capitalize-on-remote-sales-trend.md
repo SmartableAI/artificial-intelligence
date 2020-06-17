@@ -1,36 +1,51 @@
 ---
 category: news
-title: "Apprentice raises $7.5 million to expedite lab work with AI and AR"
-excerpt: "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital."
-publishedDateTime: 2020-06-16T10:03:00Z
-webUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/"
-ampWebUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
+title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
+excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
+publishedDateTime: 2020-06-17T04:03:00Z
+webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
+ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
 type: article
-quality: 89
-heat: 139
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: GeekWire
+  domain: geekwire.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all"
-    width: 1200
-    height: 675
+  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
+    width: 630
+    height: 420
     isCached: true
-    title: "Apprentice raises $7.5 million to expedite lab work with AI and AR"
+    title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
 
 related:
+  - title: "Apprentice raises $7.5 million to expedite lab work with AI and AR"
+    excerpt: "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital."
+    publishedDateTime: 2020-06-16T10:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/"
+    ampWebUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Clockwise raises $18 million to optimize work calendars with AI"
     excerpt: "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach."
     publishedDateTime: 2020-06-16T16:08:00Z
@@ -95,23 +110,7 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
-    excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
-    publishedDateTime: 2020-06-17T04:03:00Z
-    webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
-    ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
-secured: "wrRqko6VhZAmiitKGutKSsFqiPHMJiBtLzKRCvuApjiVvnv2mU6FAzV9RkDDV75koTM7kSMihzam1UP97LzwyCrLMUhjLNKOQRs6LunTZ/Izg9/d1RvzL/dQNlLafhLkxgHxCTRN+KevELaOUrl7xrTskEcRYk1KS5GaTMhcfyS8bIR0/X0Wn+prx1PgAV+lMjrqCAlze60bs9jHr3DKGZfoV5chN2WVLlTUnCVwwjIUXMKNYSvrma5KLcKIZOQmQFQ2kz2BsEg9nVDhnEn/sIRbeW9PcFFfyZXnb11B/57c3Y5sqkwR7MKmFyTJrYe56oKxkLntyGwRIywYcuZefFZ3isomGhfG+TShZIvNGuzF66iTcZ4u58/Q3dwl6yFiXAyCaYgsscVNi7SyMQflQ8wh61wl/zdWcEWLpwDDxgP72iYegjZhWXzXn+V8wwVWojBglxkAM4Rz6q/Abf1XIkgcwau0xH+VLBj6s6hbPpZ8D41GCbcYtTVyQrbcnzdk;fvLdYBMeW/SpZp/H54CimA=="
+secured: "04YTsXYVP5xkSIJvingvOi/uMO+r7vOB6HAgeLuUQDBSmBqp2/+iBhetKsm+vAHb1dpZ1+mZHoeGmC8hah5rC4nQNFmeQX0ZmuQ7JhWRoTBN1WWEQD4olLgMhDaxKrMcXjr1zKV4sSvZJ9VSH+neC63BrQxVLl/0B7DG3LLJKktAoP4mlpHw3QYlMRVhpBLe1vdhQrcUnVRGOcwmIKcVZ/MQyF74rUfG+v8vZCFw/TTe5blCOaL9sTz7ldAvPBSFSpmJ9AxIdvVFcFgK6+oKnCA4vJYPO1uljz7sGsIW1NDbApXqLrw+zY/4AISJosSO/Vpxp/02yn/+LtBaT8sRuQ==;BcfdIn8POL/qbzYgE4gNOQ=="
 ---
 

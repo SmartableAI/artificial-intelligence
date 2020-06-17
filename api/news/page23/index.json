@@ -2,6 +2,53 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-05-26-smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology.md",
+      "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
+      "excerpt": "That company, now TalentCloud, forged ahead with Microsoft Azure Machine Learning and Internet of Things (IoT) technology. Since its 2012 founding, the company has parlayed those technologies into its Agro-Brain solution. Just as TalentCloud data ...",
+      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
+          "width": 768,
+          "height": 513,
+          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-ai-researchers-say-they-created-a-better-way-to-generate-3d-photos.md",
       "title": "AI researchers say they created a better way to generate 3D photos",
       "excerpt": "AI researers say they've created a novel way to generate realistic, impressive 3D photography that's better than Facebook 3D Photo.",
@@ -1016,52 +1063,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown.md",
-      "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
-      "excerpt": "Major social media companies have replaced many of their human content moderators with AI during the pandemic. And the results aren't encouraging.",
-      "webUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ai_news.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 822,
-          "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
-      "publishedDateTime": "2020-05-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

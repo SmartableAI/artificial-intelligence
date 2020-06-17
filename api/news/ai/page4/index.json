@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
+      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
+      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "publishedDateTime": "2020-06-11T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
       "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
       "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
@@ -1267,52 +1314,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
-      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
-      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
-          "width": 1199,
-          "height": 675,
-          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
-      "publishedDateTime": "2020-06-10T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

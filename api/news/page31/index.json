@@ -2,6 +2,53 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
+      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
+      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
+      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
+      "publishedDateTime": "2020-05-19T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
       "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
       "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
@@ -1035,44 +1082,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

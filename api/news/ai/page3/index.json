@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
+      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
+          "width": 830,
+          "height": 415,
+          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "publishedDateTime": "2020-06-12T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
       "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
       "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
@@ -595,7 +641,7 @@
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1268,53 +1314,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
-      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "publishedDateTime": "2020-06-11T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

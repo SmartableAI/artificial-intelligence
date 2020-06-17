@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
         width: 816
         height: 554
-        isCached: true
-  - title: "Now Microsoft is banning police from using its facial recognition tech, too"
-    excerpt: "Microsoft wants “a national law in place ground in human rights” to govern the use of facial recognition tech before it will sell such technology to the police."
-    publishedDateTime: 2020-06-12T11:06:00Z
-    webUrl: "https://www.fastcompany.com/90516127/now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too?amp&amp&amp&amp"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-now-microsoft-is-banning-police-from-using-its-facial-recognition-tech-too.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "1HQTsEd+ZW0fGznmLtcpKUO6cvPV7BPlwcFhs2bbpM+Efb5KL4YTKZ7XoWzU4PkHyLmYa3opGXGFUZLfjOBjg9mivpe7sSAZOI41Q5WSejnon/OMjACdbsyy0nq48iKdXyEVIeToLCXwR7cFSl8LdbG2jXpoDX1Th4+GMgxpcAUvm9gcHP1D6PJDA/tkFySRhtheDXJ6vzAcvpAxdOwyEKxntD+nbiCUNZaeewExj0gDxMoVt89FLBojrU+U/Z/QVthYlmemOEG0Pcy09utk70z9awp3XMb3QkWjfrl0WOyLz3Nelotd8OM/ZSk0F2HxIDDR/7/qK3Jy5WDiB5EmKik4+UF/OWrZbY1kaE+Qy3mdrjwhxyLRjRNY8sQV2mm46ne9X2Km9ZuyzuP4LlNoZHCBHCQYWL6cXq+UqN8CSTYFA1r34pyYtNXuDzXOsSRRjiRuqEdiQ9FJB7NwCqxNwz+z/o/CAx860h8mE/l3Wi5++dLD9Xq8wqPvvtj93UOmYZ7hns46iPib7Kz6f11DcQ==;LMD/P8zv4jVHmtxPQkj5KA=="

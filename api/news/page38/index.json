@@ -2,6 +2,53 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-14-facebook-sucks-elon-musk-hits-back-at-facebook-ai-head-who-claimed-tesla-boss-has-no-idea-about-artificial-intelligence.md",
+      "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+      "excerpt": "Elon Musk had a blunt response for the vice president of artificial intelligence at Facebook after he questioned the SpaceX and Tesla CEO's knowledge on the subject: \"Facebook sucks.\" Musk hit back after Jerome Pesenti,",
+      "webUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973",
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1575729/elon-musk.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "publishedDateTime": "2020-05-14T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-sonys-first-ai-image-sensor-will-make-cameras-everywhere-smarter.md",
       "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
       "excerpt": "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,",
@@ -1030,52 +1077,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner.md",
-      "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-      "excerpt": "Around two-thirds of the way through “Beautiful the World,” a voice declaratively whispers, “The music of the Earth has arrived.” Created by the fittingly named Uncanny Valley, the three-and-a-half minute track bombards the listener with fragments of relentless optimism,",
-      "webUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-13-at-11.15.09-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "publishedDateTime": "2020-05-13T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

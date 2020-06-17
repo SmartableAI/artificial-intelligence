@@ -2,6 +2,53 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
+      "title": "The robot assistant that can guess what you want",
+      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
+      "webUrl": "https://www.bbc.com/news/business-52547331",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
+          "width": 1024,
+          "height": 576,
+          "title": "The robot assistant that can guess what you want",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
+      "publishedDateTime": "2020-05-11T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
       "title": "Brazilian founder features in global ranking of female AI leaders",
       "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
@@ -1061,53 +1108,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx.md",
-      "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
-      "excerpt": "Advance Market Analyticsreleased the research report of Global Deep Learning System Market, offers a detailed overview of the factors influencing the global business scope. Global Deep Learning System Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx-2020-05-11",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

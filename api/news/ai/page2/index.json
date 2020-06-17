@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-15-us-protests-fuel-calls-for-ban-on-racially-biased-facial-recognition-tools.md",
+      "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
+      "excerpt": "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans.",
+      "webUrl": "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "U.S. protests fuel calls for ban on racially biased facial recognition tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL",
+      "publishedDateTime": "2020-06-15T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
       "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
       "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
@@ -1267,7 +1314,7 @@
       "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
       "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
       "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1306,52 +1353,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
-      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
-          "width": 830,
-          "height": 415,
-          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "publishedDateTime": "2020-06-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,53 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar data set to power self-driving car development",
+      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar data set to power self-driving car development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-23T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
       "title": "Towards A More Transparent AI",
       "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
@@ -1344,43 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
-      "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-      "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
-      "webUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F22%252F02%252F852da140b0a1472d859097a97c762321.3b388.png%252F1200x630.png?signature=_nyeGrjEkTv3u_idcPDX6uFm_KE=",
-          "width": 1200,
-          "height": 630,
-          "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "publishedDateTime": "2020-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
