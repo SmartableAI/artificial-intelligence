@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wavecomputing"
   url: "https://twitter.com/wavecomputing"
-  followers: 425
+  followers: 426
 
 size: 51-200 employees
 yearFounded: 2010

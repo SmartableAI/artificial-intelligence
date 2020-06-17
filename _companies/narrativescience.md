@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "narrativesci"
   url: "https://twitter.com/narrativesci"
-  followers: 7093
+  followers: 7094
 
 size: 51-200 employees
 yearFounded: 2010
@@ -36,7 +36,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1064650550334021632/Kkg4jOdl_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg"
     width: 400
     height: 400
     isCached: true

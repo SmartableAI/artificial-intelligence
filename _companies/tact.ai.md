@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tact_ai"
   url: "https://twitter.com/tact_ai"
-  followers: 1308
+  followers: 1305
 
 size: 51-200 employees
 yearFounded: 2012
@@ -33,7 +33,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/918585008654139392/e9LvtuBl_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1273331043219587072/-A-tNUy__400x400.png"
     width: 400
     height: 400
     isCached: true
