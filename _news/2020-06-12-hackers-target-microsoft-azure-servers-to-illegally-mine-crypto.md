@@ -43,22 +43,6 @@ related:
         width: 370
         height: 246
         isCached: true
-  - title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
-    excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
-    publishedDateTime: 2020-06-12T07:26:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/articleshow/76336325.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/amp_articleshow/76336325.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 74
-    images:
-      - url: "https://www.businessinsider.in/thumb/76336325.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "+HNXPetAgT04MKy7Zk30ZFnm2PRbbawQVQVJuXM0d0TSD6MBcMLhzfX3gU2sJPscw4chKl34hX5hT+epQdjMSigB3En2EsCJE+Dj/szlfhKZjVTT929kUFks/Jn9tDzNHJf2IptjsrP4JYPhdU4mACexSE8R+bOkjv4ncXEl5531eLYMRd63FBDHNjPryY4wqdwKB8c4+hh9sZY7kZ8a0EAKB8hGAB1cO4arOGcf7iUdzw6BZJKsaS3M7Q/N3pXvzZapgURRwhXNAuKqLwsez1TM5/hxare7ulgzdkXQB7W6QOb79Y05+mFJ0xti06cCp3/+TACA6eO59QyOyoLczlWUK0zHnEw8FDGswNYYVd2JQ68AHl3cfQhF63LoY7u+yYua/CQG6ZXKKSG7u1koeYfydq+W3QFcpAZJsK8kR/yEXPH6tNG9Pf7ePQ+ta8Uapu5gFHrJCT+iPRZa6GpyvIDXhwpc1dxw0iArDfUgisR4hjrKYoBtm7MZdUKXNjn2bUYPCjrlfamd/QzIE2BWiQ==;Q5HvBcKcW/3iImlMqgvsLQ=="
 ---

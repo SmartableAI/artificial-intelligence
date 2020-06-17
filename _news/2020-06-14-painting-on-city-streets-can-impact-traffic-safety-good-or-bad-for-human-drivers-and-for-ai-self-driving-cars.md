@@ -99,6 +99,22 @@ related:
         width: 616
         height: 372
         isCached: true
+  - title: "Apple Patents A Way To Keep Drivers Alert In Self-Driving Cars"
+    excerpt: "One of the perks of self-driving cars is that, well, it drives itself. This means that in theory, you could be doing something else while the car"
+    publishedDateTime: 2020-06-17T01:16:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2020/06/apple-self-driving-alert-patent.jpg"
+        width: 974
+        height: 683
+        isCached: true
   - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
     excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
     publishedDateTime: 2020-06-12T13:24:00Z

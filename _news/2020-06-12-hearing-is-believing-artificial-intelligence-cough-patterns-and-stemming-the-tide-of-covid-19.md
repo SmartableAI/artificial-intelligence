@@ -110,6 +110,22 @@ related:
         width: 616
         height: 372
         isCached: true
+  - title: "Apple Patents A Way To Keep Drivers Alert In Self-Driving Cars"
+    excerpt: "One of the perks of self-driving cars is that, well, it drives itself. This means that in theory, you could be doing something else while the car"
+    publishedDateTime: 2020-06-17T01:16:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2020/06/apple-self-driving-alert-patent.jpg"
+        width: 974
+        height: 683
+        isCached: true
 
 secured: "CXm3cXZwUx0im2vK60cWisLNeIljG54we26R0yFgRHWimnrmAerSCp4qM3g3MSpT09Z4dVLf5B6CEeseVltEeUeHgzyugZwsFmA/D073+xJn4jFmeBx8IcyC3YnKws+j2FTZQrWYS+5rV+soDQVMIKMT4tDRtzJTbLhQJJ53uVQS3t0siOyNZlyv8bVul6wnS3KOl6cC9mFgjeKVrjxu/ul9YQHfU9YwXtX8IqTvuwyJ6yyVKfSBPVVu6Ec+r5pc6Hl3PlwEww64hCZ9CGZBp9hgXp8waPKQtgS3CgD999YnVI9pqepd7VM7iIXdTH+3D9WwgVk8zqyY2aS66bsATg==;4dfbsOxzL5KEOS8woe6zDw=="
 ---

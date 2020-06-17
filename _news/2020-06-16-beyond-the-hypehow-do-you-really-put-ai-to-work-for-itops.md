@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Beyond the hype—how do you really put AI to work for ITOps?"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-06-16T17:55:00Z
-webUrl: "https://www.cio.com/resources/204691/beyond-the-hype-how-do-you-really-put-ai-to-work-for-itops"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-06-16T18:09:00Z
+webUrl: "https://www.computerworld.com/resources/204691/beyond-the-hype-how-do-you-really-put-ai-to-work-for-itops"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
     title: "Beyond the hype—how do you really put AI to work for ITOps?"
 
-secured: "F5vgA7TvcsXIHAuKuiW239cqYOeSI3ZZwkiN5ePxsL+Jsaxd3EPCXvlcDIM8YMwsRebP9La/YpEyNcJ12c7xNl7AWNKZVi8ryhR2RqKt9Ct4H9dfQB0qmeDIDMbnX1KLKIl7B1Cf2hAl0UQXhNhVh4A1fgYO2ki0ST2ICrB8XMFT7vkEvvKPYL8B/K2qUTy4NdnFfzfQ3V3qGV5Er6/LSt1pVSQAHC2jzJQjGZ6ZbIqRqI6pxIkfLwM422davGNlPxNak2r9yEAwVCFWOUOefxhxgAKQhSYejbDM9Ns2Q9p+Z24XwZNHpFCSgR5Soiih4BJTDOaihvfnvLAVr7mJEg==;FdWmgqKpOkcc091Oee9NLA=="
+secured: "+fVTClYw9ZUA3dxy/bHVVNu7eGbSHd0wzmlXaxXZyR1lYFcoywI3UqWO+3jj+RQlI9iN63wDfBJJ8U4twIbpKM4GPf5PH6kzL4+zF16Z41z09kjF7t01vNLjESjC77sk1re8aBnxl/GgN1+v7X5ru+2I1vm9tXgPqA66D+thafJdgVA0zq2CA+/mBPC+w6egwO/helOa5j6v1Xj37H/CxBjgoPwpInUEil1WwIgPThq/kWNeepNG5GRzQujVAtetQaissfpZGQy2KjlshJvV157lWaBa3Ka2gxpaA/aUjCYdobAukUekdEagkVM+97O0iKnGXnHYA05oYl7vEd8tgg==;kw2Y1EVhJl4Qo03zzQ8QyQ=="
 ---
 
