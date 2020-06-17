@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -199,20 +199,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WEX5RYVM2QI6VJB3X2PWJFFIPU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Microsoft says it won't sell its facial recognition tech to police"
-    excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
-    publishedDateTime: 2020-06-12T06:22:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/07/55/19430260/21/rawImage.jpg"
-        width: 940
-        height: 627
         isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."

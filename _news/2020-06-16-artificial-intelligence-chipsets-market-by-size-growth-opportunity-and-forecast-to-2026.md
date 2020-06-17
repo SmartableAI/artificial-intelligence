@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
+    excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"
+    publishedDateTime: 2020-06-16T23:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-share-trend-and-opportunities-forecast-to-2024-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robots Market 2020 Is Booming Globally"
     excerpt: "Data Bridge Market research has recently published comprehensive business research on Artificial intelligence robots Market which includes supply chain analysis analysis of regional marketing challenges opportunities and drivers analyzed in the report This Artificial intelligence robots market report is a"
     publishedDateTime: 2020-06-12T18:17:00Z

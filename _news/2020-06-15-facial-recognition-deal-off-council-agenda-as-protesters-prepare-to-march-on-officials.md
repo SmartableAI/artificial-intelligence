@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
+    excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
+    publishedDateTime: 2020-06-16T23:27:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/police-using-facial-recognition-software-identify-protesters-civil-rights-advocates-claim/5X5L2TGCLRF6JBHEYC3ABKQMIU/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 43
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/06-16-2020/t_2826c8f94d284878b465f3a8afc06d00_name_046341E9CFB847D48D8BE6CC9659F2C0.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "/CRXCqH5Axf9yYY/hRrmozyTd1P9oBI2JxPwXPqMiiq6wuNUzrRS7OfCyI6j9HMWXjR2iqY3ZMOJwAmdrrjrhF5cA9MbP1qxNPdlj+yBiAA0eAp6rVP162Tsw3iPm+FnlPPIa7dbNlK5giWNeA+zZEktSCJGoZGh2sDGwyuiz6NBoNTs0xxDeIDzQ1+z/Z8yUSlbYHm3iVZhpI1PJJ6kr0/2IgPB2zflNQvjsfaEWm/ftOEtvB8RhIZW46tazAWGpA/hWmP05k+2bexow9KG5C0tsuavPZW2vQJnIfdgL+WJ3WB4nh9x6ZYqXmF8p/jeXrtGdJDtBnejgcJb8lc4CGifjxnQ3wpW40yJVtL2zIuO8uUuFjI8Qj8z3FhWtYOnxBlszSuTsyFr55Q9EzrFxwH2d9Iwt6gn3fH9TzKXpFs81ByiPH/4AfTuoM9SiZPGrmmaZAhw72E7n1Ws/evl0veP0SNcu8hkCZplpyjO9THK8wS06+S/W5jFzxON0iaa66yIub0zvMLhQFDsNwJ15g==;kM/AkOY5+dVsM2jbrtNGnQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/we-need-to-gather-as
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

@@ -210,20 +210,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Microsoft says it won't sell its facial recognition tech to police"
-    excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
-    publishedDateTime: 2020-06-12T06:22:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/07/55/19430260/21/rawImage.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
     publishedDateTime: 2020-06-16T15:30:00Z
@@ -239,6 +225,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "Rmi9aJAW4sKx6qdJLcgic8poQ8TzaxV6UDWExpEj4QvisLYiT8qG8RTGddt1glSXvhP2c2o81LJ+GEaBJs+U15yiy371+iNbnEXMVubHDvydZgio1y5en90D3jQct6b0kl5Du02d48GsghonD+YV5Ifx4I1J+u+klyI18kEkpivuuvprp8tkiabuOt0oOMU0hCze4mCGmWqk89At72QbrebmGzhSe/s+JGNaUMKfbKO7JkmdPTNDE/cVYsyLCgnM1QDui5+hRDxyKaG3vTJlIkKYTiZyetz1mGqJRhVxHXnVHiVXVgFS62RH3oQK3ciNZ+2TuaFc2iUDsGj3rUrDLQ==;hPvYe4iZpy4k3cFM3W0AYA=="
+secured: "54foRvu48E5YrFi4ar7oUYFqwYOXTIV3wUMJPEw0ef9vciFZaaHrGKRQ5OStzha5SzNr/0fsMM5uYDdmSk2Y6dlnjXIUd0Sv3OqnjhY3MnJBtJ1T6dnyPC2JJR9cAC/bjX5V5yYUt/QoY8F4daoJ9q/mjnNf4E+5fkMaYkupv8u5wuEa1OmCwtPCNF7XsIjk/fa7Ljcab/foSd0RE+lgi3JEIHCNSR0jOL4MrrUK5AMXlA0rErUWOQdP+j0rFVaKIjf5eo1LnV5ksHi6pib77Imgg5XD1KCjZ333bW4sGr6dengJnm+Y98BwUZjL/rlaJa8ULXhC2I9KkzA8jGHfTrZAgkiD1VHE6imc8qwZ+djYMIg+wlA+9Y2m+s7ZwqEBGNkVdSAxxYWnBSVjwXec6P/o8N8oF8XUJL/H0rq21jUewp36vdV8VYgKYLKxSpnFkx0OV9sMCcTkFoihDDBCKpStuOpjG84wj/4l6MXiA23r0TTxyQpMfQT0yZAOUFavKd6nQw9ymYC5gZYsLsxGKQ==;NDmVxRcoDt0i8kED1Of8yw=="
 ---
 

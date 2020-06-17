@@ -38,6 +38,20 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Alpha Health secures $20M in funding, eyes further RCM automation"
+    excerpt: "San Francisco-based Alpha Health received $20 million in Series A funding, the company reported June 10. The company provides Unified Automation, a single solution for revenue cycle management, to health systems across the U."
+    publishedDateTime: 2020-06-16T16:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/alpha-health-secures-20m-in-funding-eyes-further-rcm-automation.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 24
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "to3EWB4P2YHCkuMWhD+okye2wSmuFOJdxZvpyDuIkUHwYy2XVwP7Vqmb/Tb1f3U97I1FPs2tbTysjThSbhBX77Px6BZUlHS+DJIJsg+DUG5oVPMgVsYEptIWPsfSEeaB9ZIiKrj3l5CKHpUg+p1pbhET+UjfhhjeUi8ek3+45nm2hWzHlVwNojfB6/qVOq1vJO4G3B/u2ce1FWWnlekBOdybC4fnGXSHLTPi6iKe7nI2HCJhZnXdjPJXvtGMEMiWMZpIBPD2xe5qkZAhW7RpfgSHS/g5EFWnLz+ecaq8E3wjTWYjIdOW+M/mSH6KZ5Sg7d/h1X3uUzppZK8uQC3ysMb9XFq/arjtbaWP3HTKI2y/KGpdxZ+67YhOIyewf4u0+USCii95MbuCNAcDfzPCgLzpXS1NWe0nXCnpVEcLJeqZq48pyCCyARpJM+WVDhdG7aLK/INcBMSFjMVyOdrKLMfg/Tl4rRQOahsFlTNfiPYKs7vBJeOXOzpP6PTgFm/d1vCmO4R0CDxAMjnoYtAXhQ==;GFgkaAQJV+hbuIa4C/jRLA=="
 ---

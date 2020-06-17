@@ -3,7 +3,7 @@ category: news
 title: "In-Q-Tel backs speech recognition outfit"
 excerpt: "The intelligence community’s venture capital arm invests in an automatic speech recognition startup to determine how that technology can be of use for government agencies."
 publishedDateTime: 2020-06-05T18:02:00Z
-webUrl: "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx?admgarea=TC_MERGERS"
+webUrl: "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "In-Q-Tel backs speech recognition outfit"
 
-secured: "JMOIJmUK/U+LTj7BzZbeJ8kzkvm6yABtXfOw4IFQHCgH46SbpowGC6zW8R41Ue1UcBzN9/VAfiVrYsQ8chgL47NZbdHsbyBtOcRhZp/9cKIAI4Qr5Z2BOXppNTeXMr9eRJ0ms605wJOAeChN5Qdl8DKcPkiNP+BSWJh85/oULbCc0sEgF5r1qM1g69qkyERK7PzVipx2kXrPKnHqukOf2OPBXc16DDMpWzxK1yAS8BLEpPkOl+r9A8OSLdvGysa74KH7K/UyU2jIPJOV9KpwVkU9zpGZxVj2t5QxSBEF243lhCcbXQIwzDILXZlYOKxSClkUeSVhEAHmR9KgQgB5Uw==;VvE3sWpQXHbnvEApTjdFrg=="
+secured: "fslziH1cMWJ64/9QjjgnskKXd9ZN3XswpJihHK9sgvgIsfvBr/E+eqPYwr5jYNK0AzcOrIPh8Fm1Q3qADzSxIY0X7TUWBKz1Ba3bVFPMQIvNeds15sA/dBhx9YbAjKahcAlzMRcK6ANtn5UO9UUkHuLhr8Mn1y8FTSaPkmQLGnCoblF1tDyGcID2rQN22H01D5My6NNYuhf1k0B+SlrEwY4QPS4cKSf77LdO+1xRt6A12xNKZmlPGMH4BiW9ixCqM0bYnKmwGCtdRvcDVjnI7tYBQdLu/gLiVkbA9Auxkczv0od4piN9z7iifNqGHetSQconxb79SB4y82obHMnL+w==;hdaACmDiyKAXGd7bs6WLNw=="
 ---
 

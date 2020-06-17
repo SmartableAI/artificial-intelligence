@@ -200,20 +200,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Microsoft says it won't sell its facial recognition tech to police"
-    excerpt: "The company says it won't sell the system to law enforcement until federal regulations are in place. The move follows similar steps by Amazon and IBM."
-    publishedDateTime: 2020-06-12T06:22:00Z
-    webUrl: "https://www.sfgate.com/cnet/article/Microsoft-bans-police-from-using-its-facial-15333340.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/07/55/19430260/21/rawImage.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
     publishedDateTime: 2020-06-16T15:30:00Z

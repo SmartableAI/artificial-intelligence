@@ -2,6 +2,52 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger.md",
+      "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
+      "excerpt": "Scams and creepers abound on Facebook Messenger. To combat them, Facebook is now turning to artificial intelligence. A new AI-powered safety feature for Messenger will now help people, particularly kids,",
+      "webUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sbgcickhdot8flhjjnp1.png",
+          "width": 800,
+          "height": 450,
+          "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
+      "publishedDateTime": "2020-05-21T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-what-to-know-about-the-temporal-lobe.md",
       "title": "What to know about the temporal lobe",
       "excerpt": "It plays a role in visual and sound processing and is crucial for both object recognition and language recognition. Dysfunction in the temporal lobe may cause dysfunction in the mind. A few ...",
@@ -1171,52 +1217,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data.md",
-      "title": "Waymo is using AI to simulate autonomous vehicle camera data",
-      "excerpt": "Waymo's new machine learning model -- SurfelGAN -- simulates autonomous vehicle camera data highly realistically.",
-      "webUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo is using AI to simulate autonomous vehicle camera data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
-      "publishedDateTime": "2020-05-20T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

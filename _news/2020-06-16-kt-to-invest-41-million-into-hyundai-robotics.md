@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/"
 type: article
 quality: 119
-heat: 119
+heat: 120
 published: true
 
 provider:

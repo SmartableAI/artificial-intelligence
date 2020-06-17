@@ -36,17 +36,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft and Udacity Partner to Launch Machine Learning Scholarship Program"
-    excerpt: "Microsoft and Udacity will offer a scholarship for the new Machine Learning Nanodegree program in Microsoft Azure to top 300 performers"
-    publishedDateTime: 2020-06-12T05:15:00Z
-    webUrl: "https://www.dqindia.com/microsoft-udacity-partner-launch-machine-learning-scholarship-program/"
-    ampWebUrl: "https://www.dqindia.com/microsoft-udacity-partner-launch-machine-learning-scholarship-program/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-udacity-partner-launch-machine-learning-scholarship-program/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
 
 secured: "pfXakvs3JoVXWNn5kqfyzEqMxTU48sysxE97aZAw+l7BHOmSqEo9CE2IxVGJU2QAD7qoMz1NlwUnhoiuCIIAdxDv7GF+zhznaZo9Ke8FOuGSVJN0gFoFFG9WkTPD50ap90K6/ag7QXvlvmVa2Ayu94waKh+0l3TQ2VnigVD7x2kjFG+aiaYlyMkaIxEh9lbzQdMEVmC8xQSbODUJZg3VXG2zyeV3hzwXaWvvxCYJ5YNrG0x/etJ5+S7l4ulghHUWXMufteUI2sWWT9IE0USPwkI4p5X8mTclGoSQnY09Tk/FvXQSd9Rq0cxq6l7SF30vYgWjl5QsHaLbmcPui7CICQ==;9pyqE8yTIWM4AEkS7ts3EQ=="
 ---

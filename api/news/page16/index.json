@@ -2,6 +2,44 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-30-waymos-self-driving-minivans-will-return-to-california-streets-in-june.md",
+      "title": "Waymo's self-driving minivans will return to California streets in June",
+      "excerpt": "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8.",
+      "webUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F30%252Feb%252F5e5b46aaedeb47c0b739f26f3fd553e9.74557.jpg%252F1200x630.jpg?signature=xUO9hqK5LNlxZPLg539Vi6Hjo-s=",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo's self-driving minivans will return to California streets in June",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
+      "publishedDateTime": "2020-05-30T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
       "title": "Microsoft lays off journalists to replace them with AI",
       "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
@@ -1041,53 +1079,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank.md",
-      "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-      "excerpt": "Japanese technology conglomerate SoftBank Group Corp led the funding round, which marks the single largest investment in China’s autonomous driving sector.",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/6bf5e3f0-a191-11ea-8055-0ae12e466049_image_hires_210054.jpg?itok=mH5oeaGh&v=1590757261",
-          "width": 1200,
-          "height": 630,
-          "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "publishedDateTime": "2020-05-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

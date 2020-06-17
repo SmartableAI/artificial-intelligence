@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.freep.com/amp/3191887001"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/13/PDTF/dce3e240-6727-4524-926c-0278c196abf6-protests01.JPG?auto=webp&crop=2293,1290,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
+    excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
+    publishedDateTime: 2020-06-16T23:27:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/police-using-facial-recognition-software-identify-protesters-civil-rights-advocates-claim/5X5L2TGCLRF6JBHEYC3ABKQMIU/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 43
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/06-16-2020/t_2826c8f94d284878b465f3a8afc06d00_name_046341E9CFB847D48D8BE6CC9659F2C0.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "qGemrgsZ+eqZg0GxAfsIhfaSqEOQYHR9hdQNhMgCksc/PMQIYcrsfDyTBZ/lp30VUOS3bzz630mwQH/nn1KE6NlO7UmggXQ3W2hRPWbw/0LDbJ20GeiHE2iaX244HXtQvUrnUC3QsDDZBrsqbIAfkmLt1B+8lOIwbvnNW1FkIg25OBE6PS3UnCU/vw1U7zEqmORApwmJBmS0eRX/AwL9voTmXTGjCGLd4+HR/9wk4kQkdat8PPpQyKSKfO+aKIqXUtNvy35Fzz2Fx3M2eTAxlFXJ6hLb56hhV5UtyY/R/9KtwScXe5g39T8jHqTWe1apCtr6OoKKAWONUcUSJjgDwP8BwEcLXahC4e6TXpDAyueh1w76bQ7Q9ln6O3YHVaVlQUJ9eoqYuFtrUmU6tZvapF3Z9aVOHJg4ViLeK6ll3SNcW2TXnVBFtUnkDG2GvwSimLa29vXC+pcZA7SiEfe4WqQOIdriLJkBmjrO3hGpVWxAixuZvHCrbBSwF4B/XFbGmRqlYcuDS+ktVR+9hKvTsg==;yfCa4qdhB7xclZ7Qhb/N1g=="

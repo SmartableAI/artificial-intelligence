@@ -8,7 +8,7 @@ ampWebUrl: "https://meaww.com/amp/artifical-remote-intelligence-justin-lee-new-s
 cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artifical-remote-intelligence-justin-lee-new-season-exclusive-interview-twitch"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 420
     isCached: true
     title: "'Artificial: Remote Intelligence' actor Justin Lee mulls over whether he would have voted to deactivate Sophie"
-
-related:
-  - title: "'Artificial: Remote Intelligence' Episode 3: The major differences between Lilith and Sophie's development"
-    excerpt: "With the new AI, Lilith (Tiffany Chu), things are very different and it's worth taking a look at just what those differences are as we track her development from episode to episode. First, and most significantly,"
-    publishedDateTime: 2020-06-12T05:22:00Z
-    webUrl: "https://meaww.com/artificial-remote-intelligence-episode-3-major-differences-between-liliths-development-and-sophie"
-    ampWebUrl: "https://meaww.com/amp/artificial-remote-intelligence-episode-3-major-differences-between-liliths-development-and-sophie"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-remote-intelligence-episode-3-major-differences-between-liliths-development-and-sophie"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 24
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/447020/uploads/c18554c0-ac60-11ea-9fb6-c1537f134eba_800_420.jpeg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "aYbOv+ucKb1BYhxqYrng79bWoWIATzyutfKmDi9W9nRvsAJBrEkWLDrC1RU0RMCPWwGIMMz/rsxhrDTxkg/ybG58RAsUTh6Atldt8JPgY6x6/ctOHaBzq5l0+WFHzHK7OFw9Slb/InngcVocfmwl82gyJw2KRcduGpLZiwTaqCEP3bM+LJBqce6dsmuq6buN7uxMGu4xtwyk/NGSs8vN8wM+wwCCu3+unQQPY8L1sZb8X8sntQ7PXGcQuC/oyZCJWoVPOXnIbGUOJ/hbg6UbIEdaklgEfPpRwFvCigtHXD3a2/VZn7Lw096EMPODv4J2c+SDnpq5nZT/b3f5hhHpHULrePVmMOzrbgXU9H8UAJuGB3wH8ND5dJWyONoyUEcg30FtXG5v5asiNOs+nEmq2Pf3iVRbX+zb7J1fdBSpD0n8bZiUgBeAnxsNokxA6BBu7S9PDDbnXvFsh52uAPwJmM1kv9yPa3V3cxDnKDkiPUOuwv2BnTwRxrJYZE5U7WNvYOuCDY9QrrKzqg3erjlDRA==;RTuYWmNg3q7eYyXGJgbbvw=="
 ---

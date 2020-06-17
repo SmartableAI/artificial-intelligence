@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/"
 type: article
 quality: 106
-heat: 109
+heat: 106
 published: true
 
 provider:

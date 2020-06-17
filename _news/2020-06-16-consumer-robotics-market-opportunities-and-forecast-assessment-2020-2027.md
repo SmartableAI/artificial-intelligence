@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
+    excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"
+    publishedDateTime: 2020-06-16T23:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-share-trend-and-opportunities-forecast-to-2024-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

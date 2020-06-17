@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-weve-got-1000
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
 type: article
 quality: 72
-heat: 104
+heat: 102
 published: true
 
 provider:
