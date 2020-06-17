@@ -31,46 +31,67 @@ images:
     title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
 
 related:
-  - title: "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever"
-    excerpt: "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks."
-    publishedDateTime: 2020-06-15T18:09:00Z
-    webUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html"
-    ampWebUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
+  - title: "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures"
+    excerpt: "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on"
+    publishedDateTime: 2020-06-17T18:01:00Z
+    webUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/"
+    ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 68
+      name: GeekWire
+      domain: geekwire.com
+    quality: 81
     images:
-      - url: "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0"
-        width: 780
-        height: 520
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png"
+        width: 300
+        height: 353
         isCached: true
-  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way | Commentary"
-    excerpt: "The Black Lives Matter movement notched a win in Silicon Valley lastech's support of civil rights. Now everyone protesting for police"
-    publishedDateTime: 2020-06-14T20:01:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
+  - title: "Amazon is banning cops from using its facial recognition tech for one year"
+    excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
+    publishedDateTime: 2020-06-15T18:03:00Z
+    webUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063"
+    ampWebUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
-  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
-    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
-    publishedDateTime: 2020-06-15T13:51:00Z
-    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
-    type: article
-    provider:
-      name: TheWrap
-      domain: thewrap.com
-    quality: 16
+      name: Mic
+      domain: mic.com
+    quality: 42
     images:
-      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
-        width: 618
-        height: 412
+      - url: "https://imgix.bustle.com/uploads/getty/2020/6/11/95df0f0c-c9dc-43c2-95d1-ab0bf43e4220-getty-1205539001.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM, Microsoft, and Amazon’s face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-13T12:43:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mr. Bezos goes to Washington? Outlook good. Plus, Amazon temporarily pulls police access to facial recognition tech."
+    excerpt: "Jeff Bezos is likely headed to Washington, and this time not to buy another house. Plus, the company says no to police using their facial recognition tech."
+    publishedDateTime: 2020-06-16T16:30:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: "https://media.bizj.us/view/img/11499206/img4764-12*600xx1956-1301-543-201.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "BrYxn1WqEova8wT7nwXUvuQc8F7Z41p8O/u/U2JVk75IKNZ37//Hmw4RdpSsC/TlMLI+T/TEp0ocrg7Lkm5x+ZT/n02CkTMgV/xN8rEnHhIyn8rkWjVlgj23Cr0UEFgdWzhVTF/L+vJGRos9lCt26VJMI2gXKGQasie+ToTHuc+/r29Pf2R1pZyb2CHFE3UmeauMGYmg1+0fIFDuD8z6JB14DJ+c92qDTPEfByo3SnuuBfxmirdmYOu4wXME5cX7scdSVz/8b5pJ3JM13RywmgplUKcOPkMGZ0BrN+cGJ8TOonLVr/rX33hJJJtmx1VH7jWSRo3ZT0QdtBxJtv3J1mG3huwFs5RLIVQ+vwOqoDzpxWs2aziNdwF6YjVIzNzZCSdQQ5/7ctDl1g5HPSXNBC1kfOjMpkw6PeeU9/Z+QOgvWMfYx6+TVGI4hboxzXe2CTHtdgQRPxLPr1JVsIngst6CAhSrXsB3ldImCV9Vl8v2Sr92cCETo4fs5huElD8DX2V36+EdFpP/LYJ06CXiYQ==;7VWshYqj+vij5MGZRc0K/Q=="

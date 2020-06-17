@@ -55,6 +55,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Broadridge Unveils AI-Drive Digital Execution Platform For Corporate Bond Liquidity"
+    excerpt: "U.S.-based fintech Broadridge Financial Solutions announced on Wednesday it has created a new artificial intelligent (AI)-driven digital execution platform, LTX, to bring next-generation liquidity to corporate bonds."
+    publishedDateTime: 2020-06-17T18:41:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
 
 secured: "lLdB4+tl1OpajslmtHCV/D6z1BK8rphuk9avnYpfDHAof0dpnvgZEQcbPT7+cpxxGif+6cAY1L/3TlxCbqDcZFu4v3bRV5Ghj2tKiXst2jJbISCgsMMlL/DqBvEG0Ez6oaHZjMuurfMdm7MsOIvFJ4TGLZFdedqam3bLKL8KOh4Izku9oTeN0dn8BRBlvsywI7yN2sN+q/setiMm8eQ7QTKXHfk76hrmpKzInxWxnyvMcJXi3Q5G7kcKkkNPxotLUAAEa7f/WjBq00Js8ENrmi+9l4ETKySX3k3FxU56IaTN9A2GHcSlsPnzsmSh2zBCOr83i5oSPkJBir0viXlfoU81OLOkDa0Wu4Jn5xvnOlfLA/7rgTOgwxzznrds5f9DxeBto+3WEHCZa7H74BsbScH49NIiENkgF0HBV+lVCRUMlTRlax6sZHOQtDfYOAovzaOpztpM5RzT2fTWXD5hm6YTU7tI8yYf57Jqk2O2Z6kYMcLfvjOpp2gt1d4zLmocZ2eQazKLW6RS4vLIyG2/WQ==;7Pin+goua4sHOZNZudBmEw=="
 ---

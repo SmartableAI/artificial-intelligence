@@ -89,21 +89,21 @@ related:
         width: 980
         height: 680
         isCached: true
-  - title: "Facial recognition deal off council agenda as protesters prepare to march on officials"
-    excerpt: "Contract off agenda as protesters prepare to march on councilmembers Check out this story on Freep.com:  An agenda item extending a facial recognition contract was taken off a Detroit City Council agenda before protesters who oppose the technology prepared to march on councilmembers' homes."
-    publishedDateTime: 2020-06-15T17:41:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
-    ampWebUrl: "https://amp.freep.com/amp/3191887001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
+  - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
+    excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
+    publishedDateTime: 2020-06-15T16:20:00Z
+    webUrl: "https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
+    ampWebUrl: "https://amp.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/13/PDTF/dce3e240-6727-4524-926c-0278c196abf6-protests01.JPG?auto=webp&crop=2293,1290,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/3f43db36ab0ca7add811d2687d4b666d7a215745/80_1_1573_945/master/1573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1e981861678a0558eaf64b285ef4584c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
@@ -133,15 +133,34 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
-    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
-    publishedDateTime: 2020-06-15T16:59:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
+  - title: "Biometric myopia risks stifling the facial recognition debate"
+    excerpt: "The rush to suspend the use of facial recognition, and the use of reactive regulation, risks stifling the necessary responsible innovation to get the technology right."
+    publishedDateTime: 2020-06-16T06:20:00Z
+    webUrl: "https://www.afr.com/technology/biometric-myopia-expanding-the-facial-recognition-debate-20200616-p5536d"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/e54691db479e878d890e82dc42a81d94e1fd4ba8"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
+    excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
+    publishedDateTime: 2020-06-16T15:30:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2020/06/16/police-face-recognition-tech"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
+        width: 3000
+        height: 3000
+        isCached: true
 
 secured: "54foRvu48E5YrFi4ar7oUYFqwYOXTIV3wUMJPEw0ef9vciFZaaHrGKRQ5OStzha5SzNr/0fsMM5uYDdmSk2Y6dlnjXIUd0Sv3OqnjhY3MnJBtJ1T6dnyPC2JJR9cAC/bjX5V5yYUt/QoY8F4daoJ9q/mjnNf4E+5fkMaYkupv8u5wuEa1OmCwtPCNF7XsIjk/fa7Ljcab/foSd0RE+lgi3JEIHCNSR0jOL4MrrUK5AMXlA0rErUWOQdP+j0rFVaKIjf5eo1LnV5ksHi6pib77Imgg5XD1KCjZ333bW4sGr6dengJnm+Y98BwUZjL/rlaJa8ULXhC2I9KkzA8jGHfTrZAgkiD1VHE6imc8qwZ+djYMIg+wlA+9Y2m+s7ZwqEBGNkVdSAxxYWnBSVjwXec6P/o8N8oF8XUJL/H0rq21jUewp36vdV8VYgKYLKxSpnFkx0OV9sMCcTkFoihDDBCKpStuOpjG84wj/4l6MXiA23r0TTxyQpMfQT0yZAOUFavKd6nQw9ymYC5gZYsLsxGKQ==;NDmVxRcoDt0i8kED1Of8yw=="
 ---

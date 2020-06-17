@@ -49,14 +49,14 @@ related:
         isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T10:22:00Z
-    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+    publishedDateTime: 2020-06-15T08:08:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "Ohio receives $4.4M to test self-driving truck tech along I-70"
     excerpt: "Truck Automation Corridor, and is a collaboration led by DriveOhio, which is an initiative of the Ohio Department of Transportation that focuses on automated and connected transportation technology."
@@ -93,7 +93,7 @@ related:
   - title: "Self-Driving Ships are the Latest Push Towards Automation"
     excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
     publishedDateTime: 2020-06-15T20:20:00Z
-    webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
+    webUrl: "https://www.engineering.com/Hardware/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
     ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
     cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
     type: article
@@ -142,6 +142,20 @@ related:
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
     publishedDateTime: 2020-06-17T04:04:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2020-06/cmu-cmm061620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
+        width: 720
+        height: 812
+        isCached: true
+  - title: "Method Makes More Data Available for Training Self-Driving Cars (image)"
+    excerpt: "A technique called scene flow can be used to predict the future position of a cyclist by comparing the current lidar point cloud of a street scene, in green, with the point cloud from the previous time step in the sequence,"
+    publishedDateTime: 2020-06-17T04:04:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/234949.php"
     type: article
     provider:
       name: EurekAlert!

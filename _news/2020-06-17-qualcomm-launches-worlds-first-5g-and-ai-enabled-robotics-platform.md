@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Qualcomm Launches World’s First 5G and AI-Enabled Robotics Platform"
-excerpt: "San Diego, CA, United States, 2020/06/17 - Qualcomm Technologies, Inc., today announced the Qualcomm® Robotics RB5 platform the Company’s most advanced, integrated, comprehensive offering designed specifically for robotics - Qualcomm."
-publishedDateTime: 2020-06-17T17:42:00Z
-webUrl: "https://www.newswiretoday.com/news/173095/"
+title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
+excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
+publishedDateTime: 2020-06-17T13:05:00Z
+webUrl: "https://roboticsandautomationnews.com/2020/06/17/qualcomm-launches-worlds-first-5g-and-ai-enabled-robotics-platform/33196/"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Robotics & Automation News
+  domain: roboticsandautomationnews.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-1-copy-2.jpg"
+    width: 750
+    height: 511
+    isCached: true
+    title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
 
 related:
   - title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
@@ -83,6 +90,6 @@ related:
         height: 350
         isCached: true
 
-secured: "aluPWSlNbDrDWJvOyvkXq8ZzjF2X1hIXu8aqW2terhIIrRBE/PBCNdakYXLkG3hlKNfP6nC1/Ew4UDaJ7MEhR9tfYzlvDgLtAaba55QpyDB/KqjhKSb6GFiBgcO2hzN7038uJrfK0qKVQLCxbMohC4pSzBBW27vy5Yip22da84i4Bi++8ihwaK6KkP5/9+GQ3YjRZdy6rzkJRteOzJKgR/xEztI76KYwI68uf4dwOXW87uM5EKd6rKXGA1WaVnEgs9e1btsNf+yb6gKtyZkoFY6xQImDQ3CekbkJ7paMzuIK3Jn0d2GkQtzGKZu0FkPR9dpJcbJEg4jPfJrWihehADsvPAkG+g8ZW7bzMqwX+9zO3IHVbLhSQRiZM5iMd7Mfxsk9kLE6uVC5LICscMxLylgRUB5NqurElNYpiTFGMn2dNIJVwrmYqW4pbqKY27MzYWry35Dr81lDn1vSh/qC5zVgmSCugPBkB8x/VOIxaqGSrybNPURuM1iWW8z02gEIbTcl267P4HEvTYRKh18JMw==;87JKgLtj24jvo3XlRwnJBQ=="
+secured: "9HLZQeF9jLHnfPDZ1uPykK0lAXf7WL9wuxbv5qlNEO7qqvtQLSHJLAqac3NeHJyWLpKrLhOKf5lv9MumHMl65oQouYSRTHe4HBLWOaj3FmDkFaQN+hK03cUg8RYEy9cukxzo/5WmUjmb+V+XVBt+PAXPe7StBavQNfxuBuyfUnfuI/WDHuEm/4ztR37v7QiyuPYQK0j7J0HxlCR7iyVzE6D7kDlu938oXcSpOz86y+ViSeFpcWtJ7gicup1I91sB8AjG3A9TEdfHwmseum9TZwUTHFNyAyYLLXZwBU45xsW2UKZK05BHRBk2oJy0vcZKuabw3wVRFaYE0VHNrzSyQg==;RNgiWojof7VxKudXG6x99Q=="
 ---
 

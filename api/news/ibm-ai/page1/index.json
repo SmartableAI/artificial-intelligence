@@ -136,7 +136,7 @@
       "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
       "excerpt": "Is artificial intelligence (AI) perfect? What would be consider for them to be \"good enough?\" To be acceptable for people, AI has three big challenges to overcome: implicit bias, poor data, and human expectation.",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/",
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -175,7 +175,8 @@
       ],
       "topics": [
         "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI in Healthcare"
       ]
     },
     {

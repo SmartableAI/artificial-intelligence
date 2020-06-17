@@ -25,67 +25,105 @@ images:
     title: "Concern over the increasing use of facial recognition in CCTV cameras"
 
 related:
-  - title: "China's Tencent to use facial recognition to curb young video gamers"
-    excerpt: "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games."
-    publishedDateTime: 2020-06-17T15:37:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
+  - title: "John Oliver dives into the shady uses of facial recognition"
+    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
+    publishedDateTime: 2020-06-15T11:16:00Z
+    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
+    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Residents urge City Council to reject proposed facial recognition contract extension"
-    excerpt: "City administration pulls proposed facial recognition contract slated to undergo council review, police to engage community on software use"
-    publishedDateTime: 2020-06-16T18:27:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/06/16/residents-urge-city-council-reject-proposed-facial-recognition-contract/3197917001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3197917001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3197917001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/07/PDTN/ce05e7d4-f44a-4127-ba4b-e482b7ef314a-2019-0307-ctj-me_duggan_budget020.JPG?auto=webp&crop=3949,2240,x0,y195&format=pjpg&width=1200"
+      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
         width: 1200
-        height: 681
+        height: 630
         isCached: true
-  - title: "Tencent games to use facial recognition to identify minors at login and payment"
-    excerpt: "Internet giant Tencent has launched a facial recognition mode to identity underage game players before allowing login and payment. It is the latest addition to a broad anti-addiction system designed to protect minors."
-    publishedDateTime: 2020-06-17T07:36:00Z
-    webUrl: "https://www.globaltimes.cn/content/1191898.shtml"
+  - title: "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever"
+    excerpt: "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks."
+    publishedDateTime: 2020-06-15T18:09:00Z
+    webUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html"
+    ampWebUrl: "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.amp"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 35
+      name: Slate
+      domain: slate.com
+    quality: 68
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-03-31/c0622b51-a47d-4f81-bc5f-ed53627fe191.jpeg"
-        width: 500
-        height: 300
+      - url: "https://compote.slate.com/images/977375de-eebf-4d56-9b33-ef1686947fe4.png?width=780&height=520&rect=1178x785&offset=69x0"
+        width: 780
+        height: 520
         isCached: true
-  - title: "Facial recognition company collected data on 30,000 fans at the Rose Bowl game using video monitors to draw their attention and give the cameras an unobstructed view of their face"
-    excerpt: "A facial recognition company recorded data on tens of thousands of fans at this year's Rose Bowl game in Pasadena, using video displays playing highlights with hidden cameras underneath."
-    publishedDateTime: 2020-06-16T01:27:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
+  - title: "Detroit protesters take fight against facial recognition tech to city leaders' homes"
+    excerpt: "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces."
+    publishedDateTime: 2020-06-16T01:58:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
+    ampWebUrl: "https://amp.freep.com/amp/3191887001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 67
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/16/01/29646948-0-image-a-31_1592265808588.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/94f6c4e1-8e52-454c-9844-73cfc1d65727-drivebyprotest_061520_kd774.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
+    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
+    publishedDateTime: 2020-06-15T16:57:00Z
+    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
+    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Paste
+      domain: pastemagazine.com
+    quality: 58
+    images:
+      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
+        width: 854
+        height: 480
+        isCached: true
+  - title: "John Oliver explains why facial recognition technology needs to be regulated in the U.S."
+    excerpt: "One large-scale study about facial recognition found that approximately half of all Americans have had a photo of them added to a facial recognition database used by law enforcement, and the use of this technology is currently unregulated."
+    publishedDateTime: 2020-06-15T18:44:00Z
+    webUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition"
+    ampWebUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 45
+  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way | Commentary"
+    excerpt: "The Black Lives Matter movement notched a win in Silicon Valley lastech's support of civil rights. Now everyone protesting for police"
+    publishedDateTime: 2020-06-14T20:01:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
+  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
+    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
+    publishedDateTime: 2020-06-15T13:51:00Z
+    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 16
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
+        width: 618
+        height: 412
         isCached: true
 
 secured: "b/VQ2nbnhHj+JfzgZkvyHkFu5MEhholJSDvIMizPxjzrwS4u2sZ/2+blUaS6jUoPxzn4HrWm5rYFYSjpFCsZ2GHfTHt/4yTpQAftIQBs6KnJq5T3sREktotw9KbSOKEX2XL9sTXYfLaco/F9zeqpPNSNUwRptHSAiz/szzbkbBte4zZsDDX4M8BEq+QMzUh2W18hJlqlR2QQxli/6vkTKfh25lw3UYziSsuDouvsg6ciuZVnjVSsjv+864AbXGjzwfc4fvINDUUVBGvFEbVYKkOcn39+HZiBdTK7xyGdYUQLnI9/fMHCUeM6F0KK9GegKxl1yBCDnrUaIG9Zi+pk0A==;IUeIOQCA2+58C5FHv1kHeQ=="

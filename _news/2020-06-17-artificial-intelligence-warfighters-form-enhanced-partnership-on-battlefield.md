@@ -5,8 +5,8 @@ excerpt: "Military experts say artificial intelligence will increasingly be a fa
 publishedDateTime: 2020-06-17T16:12:00Z
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2222999/artificial-intelligence-warfighters-form-enhanced-partnership-on-battlefield/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.defense.gov/2020/Jun/17/2002317326/1280/1280/0/200601-M-YQ123-1148.JPG"
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Artificial Intelligence, Warfighters Form Enhanced Partnership on Battlefield"
 
-secured: "mcjKgr2z9b8MnjdzmTNSelxvYDpkMgylD8i5xxTgczVoLgWbzKTBZWzD+klouSBQfG+ErUAekrq+E0xljocvgv7Cg0eFljorc1I87iOG4VYnYpD9HCxRnF6TCi04eKRV7MvP41LVEYMKo7/dj5F7HDgirvX/O6YwRORuD+BHeonCrlxIXzWSG5KtlDv3ez4Qf9fChPw8H7tinVCJFXiZl3p5DxckBgJ/DnmVlwOU6EZwD63A0ft8LH7exlt7GAZqbQV1PQs6eXHsaLjAhXRoIOmjTLfT0hFPOynRhZ2Uxs4ScgmzQVuLAovynAOanAkNFEmC3UA2e5AwfixTkul6ZQ==;XFPjS0Pixymug6IhrjkT4g=="
+secured: "94XIFgIX7zs9/uIqklmbOIvKjvzM4JSvgVwaLcFBw8uIfYdEa/+wVPjhgBlYtyEF/S8rDgP2yxEWfYILARL6hvvrtkqu4bGhO70j8kNF955NmSZXubaHkXS/YZLUDmk51ZfQ+MOus65o7zI+HnAeF1UH/epV3OTVy1AsnOmtDcJ6QRs5nLwvYCSCEdD0rq8mbAMtshWsmFXer2+qBqG7rOl9F0Svu4YHwmF+quDBCZDFc0ASEAK8h8HP+huw6kx/s+NC4apVZ/zXQXBDCH+cpJXH5etm9+cb0XvApD5cxoLnGXUl2eAt0zJCnwJmlFAHsvc/s+jLUet6ZfElWuLGMKSzwzEZtfhcaF5qAJH1MGZntJSJLFHue0eynx7cciT/C4kJM98FAuvSil0HaWCPDEWLTulC68wEi7WQEGY1S9vbczIZJ0nrXc0KfLxrGeqh1UKkleILNyd/aKPE9dSpkPBtpOQdh4YI1vJUTwNtt6wR8c7fcIu/+9wIj9SlnycE7s8zBD4AdTFVFoCMqehrKw==;JzAZi0j8qKlnBPDudqRL2Q=="
 ---
 

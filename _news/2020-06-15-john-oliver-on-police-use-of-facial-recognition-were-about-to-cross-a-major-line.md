@@ -31,200 +31,98 @@ images:
     title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
 
 related:
-  - title: "Microsoft pitched its facial recognition tech to the DEA, new emails show"
-    excerpt: "Microsoft tried to sell its facial recognition technology to the Drug Enforcement Administration as far back as 2017, according to newly released emails. The American Civil Liberties Union obtained the emails through a public records lawsuit it filed in October,"
-    publishedDateTime: 2020-06-17T17:06:00Z
-    webUrl: "https://techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/"
-    ampWebUrl: "https://techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/amp/"
+  - title: "Equitable tech: Companies pause facial recognition, but major questions remain"
+    excerpt: "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies."
+    publishedDateTime: 2020-06-17T13:12:00Z
+    webUrl: "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 103
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1080200068.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
-    excerpt: "The released documents come a week after Microsoft announced it would stop selling facial recognition to police."
-    publishedDateTime: 2020-06-17T17:03:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
+  - title: "Congress, cops and facial recognition: Amazon's pause puts the pressure on"
+    excerpt: "Tech giants are starting to revisit their facial recognition programs, after years of warnings that the surveillance tools posed threats to civil liberties and were riddled with racial and gender bias."
+    publishedDateTime: 2020-06-17T12:03:00Z
+    webUrl: "https://www.cnet.com/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 103
+    quality: 87
     images:
-      - url: "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg"
+      - url: "https://cnet3.cbsistatic.com/img/lTBR9xSaihXw_m_UHtqTwYAqUww=/756x567/2020/06/16/51193253-4ac3-4fac-a2fa-da9b12a875c2/gettyimages-1199003889.jpg"
         width: 756
         height: 567
         isCached: true
-  - title: "John Oliver dives into the shady uses of facial recognition"
-    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
-    publishedDateTime: 2020-06-15T11:16:00Z
-    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
-    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
+  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
+    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
+    publishedDateTime: 2020-06-13T14:41:00Z
+    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: CNN
+      domain: cnn.com
+    quality: 83
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
-    excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
-    publishedDateTime: 2020-06-13T01:29:00Z
-    webUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larrymagid/2020/06/12/ibm-microsoft-and-amazon-not-letting-police-use-their-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199768748%2F0x0.jpg"
-        width: 1200
-        height: 820
-        isCached: true
-  - title: "Microsoft CEO Satya Nadella warns of fallout without ‘strong national law’ on facial recognition"
-    excerpt: "Decisions by Microsoft and Amazon to refrain from sales of facial recognition software to law enforcement agencies could have negative consequences long-term if U.S. lawmakers fail to"
-    publishedDateTime: 2020-06-17T14:10:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_91-630x504.jpg"
-        width: 630
-        height: 504
-        isCached: true
-  - title: "Microsoft tried to sell facial recognition technology to the DEA, emails show"
-    excerpt: "Microsoft repeatedly marketed its facial recognition technology to the Drug Enforcement Administration (DEA), according to emails released by the American Civil Liberties Union Wednesday."
-    publishedDateTime: 2020-06-17T18:00:00Z
-    webUrl: "https://thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails"
-    ampWebUrl: "https://thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails?amp"
+  - title: "Facial recognition tools under fresh scrutiny amid police protests"
+    excerpt: "Nationwide protests against police brutality are renewing scrutiny of facial recognition technology, prompting tech giants like Amazon and IBM to scale back their sales of the software to law enforcement at the state and local level."
+    publishedDateTime: 2020-06-17T11:00:00Z
+    webUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests"
+    ampWebUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 71
+    quality: 59
     images:
-      - url: "https://thehill.com/sites/default/files/microsoft_062018.jpg"
+      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
         width: 980
-        height: 551
+        height: 680
         isCached: true
-  - title: "Detroit protesters take fight against facial recognition tech to city leaders' homes"
-    excerpt: "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces."
-    publishedDateTime: 2020-06-16T01:58:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
-    ampWebUrl: "https://amp.freep.com/amp/3191887001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
+  - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
+    excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
+    publishedDateTime: 2020-06-16T23:27:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/police-using-facial-recognition-software-identify-protesters-civil-rights-advocates-claim/5X5L2TGCLRF6JBHEYC3ABKQMIU/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 67
+      name: WPXI
+      domain: wpxi.com
+    quality: 43
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/94f6c4e1-8e52-454c-9844-73cfc1d65727-drivebyprotest_061520_kd774.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d1hfln2sfez66z.cloudfront.net/06-16-2020/t_2826c8f94d284878b465f3a8afc06d00_name_046341E9CFB847D48D8BE6CC9659F2C0.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
-    excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
-    publishedDateTime: 2020-06-15T20:23:00Z
-    webUrl: "https://www.zdnet.com/video/ibm-amazon-and-microsoft-halt-sale-of-facial-recognition-tech-to-us-law-enforcement/"
+  - title: "Why Big Tech's new face recognition bans don’t go far enough"
+    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
+    publishedDateTime: 2020-06-14T00:53:00Z
+    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/15/2842b2f6-c3b0-4fdd-885c-f1e8cb08b327/thumbnail/770x578/50aa2c845215ba215117a5354dc61ccc/amazon-puts-oneyear-moratorium-on-rekogn-5ee38ca9ec931b64287ec9ef-1-jun-15-2020-16-03-59-poster.jpg"
-        width: 770
-        height: 578
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
-    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
-    publishedDateTime: 2020-06-15T16:57:00Z
-    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
-    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 58
-    images:
-      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
-        width: 854
-        height: 480
-        isCached: true
-  - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
-    excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
-    publishedDateTime: 2020-06-15T13:41:00Z
-    webUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/"
-    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-  - title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
-    excerpt: "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue."
-    publishedDateTime: 2020-06-15T18:32:00Z
-    webUrl: "https://www.gq.com/story/facial-recognition-blm"
-    ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
-    cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
-    type: article
-    provider:
-      name: GQ
-      domain: gq.com
-    quality: 56
-    images:
-      - url: "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg"
-        width: 3381
-        height: 2550
-        isCached: true
-  - title: "Portland council again postpones discussion on facial recognition tech"
-    excerpt: "Studies have shown the technology misidentifies people of color more often than white people, and other cities have banned or restricted use of the technology."
-    publishedDateTime: 2020-06-16T01:18:00Z
-    webUrl: "https://www.pressherald.com/2020/06/15/portland-council-again-postpones-discussion-on-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 54
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
-  - title: "John Oliver explains why facial recognition technology needs to be regulated in the U.S."
-    excerpt: "One large-scale study about facial recognition found that approximately half of all Americans have had a photo of them added to a facial recognition database used by law enforcement, and the use of this technology is currently unregulated."
-    publishedDateTime: 2020-06-15T18:44:00Z
-    webUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition"
-    ampWebUrl: "https://www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/culture/entertainment/2020/06/15/john-oliver-facial-recognition/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 45
   - title: "Biometric myopia risks stifling the facial recognition debate"
     excerpt: "The rush to suspend the use of facial recognition, and the use of reactive regulation, risks stifling the necessary responsible innovation to get the technology right."
     publishedDateTime: 2020-06-16T06:20:00Z
@@ -253,30 +151,19 @@ related:
         width: 3000
         height: 3000
         isCached: true
-  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
-    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
-    publishedDateTime: 2020-06-16T01:11:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+  - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
+    excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"
+    publishedDateTime: 2020-06-16T08:32:00Z
+    webUrl: "https://www.wxyz.com/news/detroit-demonstrators-calling-for-city-to-cease-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
-  - title: "Why It Matters That Microsoft and Amazon Will No Longer Sell Facial Recognition to Police"
-    excerpt: "The companies say they will halt sales for the technology for a year while Congress comes up with legislation."
-    publishedDateTime: 2020-06-17T08:56:00Z
-    webUrl: "https://www.inc.com/jason-aten/why-it-matters-that-microsoft-amazon-will-no-longer-sell-facial-recognition-to-police.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 30
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 32
     images:
-      - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e724835/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F170%2Fbe88c4e651db4a7dbe102614d7272948%2F17003cd9f1d84f1bb53047e329889f17%2Fposter_de86b411c6b74ac4822674532430b7ac.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Uu0ptv5KVQ6xLiM4LXrHRUmPmTcE780UOmq901Ck6xy+EO7hj9kSX//2swak0ITaZ+5PcESdRBvcl8LgN4QCebbCkPI4ySAKJ3DfSd+MWnvlV6rjQO7sSPzLYxPyzAUE2z+rdPWBr8jv0ZahtJVoES+0/RhAghKm1iTqMfPX1LWukXxkdvp56gFOX6d5ZkCs0vk8Qp2flvJIr6bNo0QwSiywea6atdxDGzAYcBf1GP9gNNnU2qXkqLu5/CQv+tLV8pduDOIxYWNgnBJ1iEzTqtAC96GNn3HpPGz4IPDuHAnqGT9SHldvguzsMRmGs3qwJu8jzxDAr5QTUnT3474ggaiLkvNV3/n0DjYYORi+fk576MeVPhhdrvMeWtShJKGp3ssjxEfnhCHZfym0kmrusB0iazlD1+nz7fBcpQUa8re8tMFk6RymJpwrWa6bzPHxN6Mng8snn+Cb09JyMW6k7sTneB5VJ7L2VLjJT7NMr7Wlt8DdXZXDO8iN5WqrgJW9wW4vZDLTI9O0nt0hpuEhUg==;WzUA1ovUj1+xoF3jg5JkWg=="

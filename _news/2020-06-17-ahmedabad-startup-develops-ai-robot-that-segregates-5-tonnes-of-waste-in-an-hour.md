@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Ahmedabad Startup Develops AI Robot That Segregates 5 Tonnes of Waste In An Hour"
 
-secured: "qPDpcDIC06MN3RyMH1nlGUFn6/Ai1Q+Z51PW+3MYs4y/UZYriffawEeguOJrudUBeDwWC2yBD4bhJsvtIvfC3uUon+CyC6+rCjyXRHYWYIIgSr3sC3JKGywq2SLdapGVm4U2OoM1pMjeI3GwiU4U5Vks/jtPNOhof3jZ9ya1E+ApVCGnt9pHON8GH89MV1os7cw6GEqti9AtMtrgVo/0bDq3zhRtSVngL7ERcgN675brtsqZutmc4zMkd+CAMxpFjAzrpygDB7vl3Nczyy/TIdNHDK452HYw2wXuckODHb4Cz8g5qp7nAuO+CNPrlWISROx2tB/+kon80aQY8j4WOg==;CeHjZm+whmSAivzgVRk7BA=="
+secured: "7wlwU+4MLHWNYcwogHtRleCg//oBGSxsISqI+4JS7prSnsw7qMLeqJaUukpK1xRFFEZFeRGe7idnMfGXgZq+Y+SG9jT3ze6niCdpTGRa7GVBcavNpS2EHoRjAg+uTqMjEcYU2g30OMq+YXX+cR9pBnxDffyWrdZo/z8ZytOmYsvXt0ptvHgwjogRmj/36mXGl4leqF1x1xZC9X+/MSeT6fipce3OcbQqIaoR+8AJY8AMqeYLbbGiG8ByF4sZq1YzAsBiDzx38Jf8vDLZKknfm7AntXr7QperRjisMH+yZZAJmGXWkyZ5HsVvYsykl1WguRXfmc5A1cCUb3qO++G490zYEnQFrVTx9dX8QI7QI+akVzV2A9GfKQiT3Nqgdr+YPkRCHV+U3XyEH5OWBugAhGJGjx4Hi93mVnVCn1Tfm8ieWgYKDYzxgR5dLzwhW504GQEUx/rQB6w/uIgg5f/VlanSkb+8Mc9M9RxqdFbHxz15Gc4/Yu0/u6DvJR3Lf4YJv4XBlWJ8Q28btvUhYYJ06A==;4G+l3OVX561GkcoXwz/lwg=="
 ---
 

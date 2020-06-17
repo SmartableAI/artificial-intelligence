@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Microsoft AI
 
 secured: "8hjPSKlA8SS7uEF88+XYYDyg0cXBfkfgJqBE8dkw4nvasPo4+HVIZ06XcmHxHbB2kB6z93c109bcPYG36pE8ZE1wu69lcCXqJ/mtf82RXegJCnNtInQeRrZE+ResU9oSbmcWqYHr8dvGnqg0PWHzVQJybZm1mrcvLLuyGhQr+mvhh9iyfygCTYl7Yly4LifnAX0/9MJ9CbvOmKoFJyhIgTPHdqZr8bQi8ViPNjXZJ6pNzGf60mXQjxdcFdNRB6vsqfAc9sqr6QrQtMWy4xo+P4kSLvB8eSHq4l7/Lwj1R4RLKFNbhrqlvtEMial+s8mowQ+HQ3N51KtD3V8VIxFLAw==;LmE7w/1Unl4OnYQcGFo28A=="
 ---

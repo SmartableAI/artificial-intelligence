@@ -80,15 +80,20 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Qualcomm Launches World’s First 5G and AI-Enabled Robotics Platform"
-    excerpt: "San Diego, CA, United States, 2020/06/17 - Qualcomm Technologies, Inc., today announced the Qualcomm® Robotics RB5 platform the Company’s most advanced, integrated, comprehensive offering designed specifically for robotics - Qualcomm."
-    publishedDateTime: 2020-06-17T17:42:00Z
-    webUrl: "https://www.newswiretoday.com/news/173095/"
+  - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
+    excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
+    publishedDateTime: 2020-06-17T13:05:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/06/17/qualcomm-launches-worlds-first-5g-and-ai-enabled-robotics-platform/33196/"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 49
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-1-copy-2.jpg"
+        width: 750
+        height: 511
+        isCached: true
 
 secured: "cF+7UkjOWoPnqB8/BTZpv0XrnB7fogdi1EPEty7edC6fzkc93LZB8+urkzTdGBuB96v4EmFiB+osEUbhl0fiQFCJ42dYlzVgk0gPptcr67vyJdKyYwhvhcv3vv7xNbjemocHuE8njH8B6aqrBmLIM+HcCDegl//CZT5FDmGhGUW9lzyutWBPbdVVVWBG5jIyOCgRizzY6lkgD/zqqteXcqbPr2v9mhrfaCIboX7Puvs2jSEFoK3bS50dzP+YQ/UAdDQvoyyQCTEoNTnBfpv5hnkutYJSrcKsNK0YBPQ0Ge8VGiuI83iRQuoiUTdUS3dw0/4Q0SJ1UT49zz1dv9nNlH8UamEzNhg7n1P0GKTE1TtthYFDYd5HYsiPzhsFYCFWo29uDer9yJbkZPaVKXLP7uWuiLeOoOR3ROjAhS9maYOlLRd9aJ2CFieeRfrTgZPKSCw/wxAAyjDfwyCw8cPU/Qq3YHM+RR4xNUFVk1YvE9TLCx6UCTaf3Lz/jBcNo8ht;IqZ8XXUj3yB2pbt391C2Hg=="
 ---

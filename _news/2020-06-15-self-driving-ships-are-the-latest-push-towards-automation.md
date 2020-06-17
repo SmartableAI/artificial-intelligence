@@ -3,7 +3,7 @@ category: news
 title: "Self-Driving Ships are the Latest Push Towards Automation"
 excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
 publishedDateTime: 2020-06-15T20:20:00Z
-webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
+webUrl: "https://www.engineering.com/Hardware/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
 ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
 cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
 type: article
@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T10:22:00Z
-    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+    publishedDateTime: 2020-06-15T08:08:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
     excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
@@ -148,6 +148,20 @@ related:
         width: 720
         height: 812
         isCached: true
+  - title: "Method Makes More Data Available for Training Self-Driving Cars (image)"
+    excerpt: "A technique called scene flow can be used to predict the future position of a cyclist by comparing the current lidar point cloud of a street scene, in green, with the point cloud from the previous time step in the sequence,"
+    publishedDateTime: 2020-06-17T04:04:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/234949.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
+        width: 720
+        height: 812
+        isCached: true
   - title: "South Korea to spend 160 billion won on developing self-driving ships"
     excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
     publishedDateTime: 2020-06-17T06:55:00Z
@@ -195,6 +209,6 @@ related:
       domain: cars.com
     quality: 2
 
-secured: "0Ti8B2FOvC/M+1YOzulFB8tKBiF9JUpys6rdIo1YuiSEAjn70wSjlxCiT1ZEQO2QmGb+9+v8LMkWpYrW2xSNwKIlfGOtvq/1lpDxrIw4FyqJruAouprKl8N+ywuj0SsFbCtbysci0WlB+zaMqA3qnJ4FjK5LO2pN+vwAolD5ORqPEPXxIKZOh72npN7a3AOY0OfAYH7YKxf5nPu7obw4tHpBC2/77KrdaCUO+8R3GvqY+/aGSgZHHUB2SPTHK5hJJOUx4AKPHabMSJF7dJdDJlf/taZTfXfP5hCL7qdjGI+P0sHu25VHmBoEIoJj24kWgKPfKC+AiPKjV8ntpLBuIaSC/3mZf5yfOz1Xw5bMQ06+S5DOWax/XXbXIyhjUVD3nJzwyuOZH8W8GQYWp030RaV9sNRsLvL6scMDDBT/y7+9M15vt5CPKqHJt+yPQR2LH73oK1mGXGgkM24+YjgRkWE5FWPy0G8YTnQzgIqkryi447JgPMekf7iq0ZXqwtuB3C/E5acnsoyIMhml0muOpA==;Ql9HKbjsq8/HyJ/uwFldPw=="
+secured: "dea36XSyNvhCyjwmNpXM45frTugqpcPNhrF6lxIFf4G5ELqpQuUgckUrjRC7na0nWU7lpa078syTc3zsK3Fi//icu8a14OZVl9Ec5J5zpf8s3UrD6Dqt1Fx8nKaVOYv9Nz8DM4DugwyH25ZOfps6FRLkgq1HngvQfdXmfC7mx06r3QtI8Seqivuy7z+a2Pxo4Owv9sR+k2n/WJarX+kXH8uuS/W6pK7RI8CnVSns6owh9dpfMsBWG8NCXqOvTPdr4QdWlqDVBWEt+na4Hb8SguF6kVaFLNpKKdSgJAFFym/k+7ZIZN2TclgOGMt7dq5CxeWZWk9c0JcnQ3pvsMod2g==;hH9ZExzuTzL78cwIG2fD7Q=="
 ---
 

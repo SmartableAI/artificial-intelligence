@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencen
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/03/07/PDTN/ce05e7d4-f44a-4127-ba4b-e482b7ef314a-2019-0307-ctj-me_duggan_budget020.JPG?auto=webp&crop=3949,2240,x0,y195&format=pjpg&width=1200"
         width: 1200
         height: 681
-        isCached: true
-  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
-    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
-    publishedDateTime: 2020-06-17T11:11:00Z
-    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
-        width: 700
-        height: 394
         isCached: true
   - title: "Tencent games to use facial recognition to identify minors at login and payment"
     excerpt: "Internet giant Tencent has launched a facial recognition mode to identity underage game players before allowing login and payment. It is the latest addition to a broad anti-addiction system designed to protect minors."

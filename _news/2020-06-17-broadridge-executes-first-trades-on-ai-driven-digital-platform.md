@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-tr
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Broadridge Unveils AI-Drive Digital Execution Platform For Corporate Bond Liquidity"
+    excerpt: "U.S.-based fintech Broadridge Financial Solutions announced on Wednesday it has created a new artificial intelligent (AI)-driven digital execution platform, LTX, to bring next-generation liquidity to corporate bonds."
+    publishedDateTime: 2020-06-17T18:41:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
   - title: "Broadridge Creates New AI-Driven Digital Execution Platform to Bring Next-Generation Liquidity to Corporate Bonds"
     excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global fintech leader, today announced that its new AI-driven corporate bond"
     publishedDateTime: 2020-06-17T11:30:00Z

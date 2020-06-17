@@ -13,6 +13,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
