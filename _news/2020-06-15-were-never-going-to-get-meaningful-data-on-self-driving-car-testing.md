@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-s
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: The Verge
@@ -31,22 +31,6 @@ images:
     title: "We’re never going to get meaningful data on self-driving car testing"
 
 related:
-  - title: "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars"
-    excerpt: "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,"
-    publishedDateTime: 2020-06-12T15:54:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
     publishedDateTime: 2020-06-15T10:22:00Z
@@ -74,48 +58,85 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
-    excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
-    publishedDateTime: 2020-06-14T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+  - title: "Ohio receives $4.4M to test self-driving truck tech along I-70"
+    excerpt: "Truck Automation Corridor, and is a collaboration led by DriveOhio, which is an initiative of the Ohio Department of Transportation that focuses on automated and connected transportation technology."
+    publishedDateTime: 2020-06-13T08:14:00Z
+    webUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/"
+    ampWebUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
+    cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Self-driving cars and the future of personal injury law"
-    excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
-    publishedDateTime: 2020-06-16T16:29:00Z
-    webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
-    ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
-    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
+      name: Springfield News-Sun
+      domain: springfieldnewssun.com
     quality: 44
     images:
-      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
-        width: 616
-        height: 372
+      - url: "https://www.springfieldnewssun.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/13/Images/ODOT.jpg_web.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Apple Patents A Way To Keep Drivers Alert In Self-Driving Cars"
-    excerpt: "One of the perks of self-driving cars is that, well, it drives itself. This means that in theory, you could be doing something else while the car"
-    publishedDateTime: 2020-06-17T01:16:00Z
-    webUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/"
-    ampWebUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
+  - title: "Self-driving map will tell where Apple Cars are being tested across US"
+    excerpt: "Regulators in the United States are encouraging Apple and other self-driving vehicle system creators to collect and share data on tests of their autonomous driving platforms, to help promote it development and earn the public's trust over the use of the technology."
+    publishedDateTime: 2020-06-15T11:15:00Z
+    webUrl: "https://appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us"
+    ampWebUrl: "https://appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us/amp/"
     type: article
     provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
+      name: AppleInsider
+      domain: appleinsider.com
     quality: 44
     images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2020/06/apple-self-driving-alert-patent.jpg"
-        width: 974
-        height: 683
+      - url: "https://photos5.appleinsider.com/gallery/36207-67155-36050-66682-front_quarter_SMALL1-xl-xl.jpg"
+        width: 1320
+        height: 743
+        isCached: true
+  - title: "Self-Driving Ships are the Latest Push Towards Automation"
+    excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
+    publishedDateTime: 2020-06-15T20:20:00Z
+    webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 44
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/93_1.jpg"
+        width: 640
+        height: 302
+        isCached: true
+  - title: "Michigan, Fiat Chrysler join federal self-driving car initiative"
+    excerpt: "Safety advocates criticized the U.S. Department of Transportation for sticking with an voluntary approach to autonomous vehicle regulation"
+    publishedDateTime: 2020-06-16T00:32:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2020/06/15/michigan-fiat-chrysler-join-federal-self-driving-car-initiative/3194309001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3194309001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3194309001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/08/PDTN/4d07a74c-8cee-4f21-9a64-0ae103ed0d8f-dtncent02-78rhdls4loz1lxv14pzo_original.jpg?auto=webp&crop=3442,1937,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Michigan, Fiat Chrysler Team on Self-Driving Car Work"
+    excerpt: "Fiat Chrysler Automobiles is one of nine companies joining a federal initiative to improve the safety and testing of self-driving cars, and Michigan is one of eight states also joining the effort."
+    publishedDateTime: 2020-06-16T15:27:00Z
+    webUrl: "https://www.govtech.com/transportation/Michigan-Fiat-Chrysler-Team-on-Self-Driving-Car-Work.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Michigan-Fiat-Chrysler-Team-on-Self-Driving-Car-Work.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Fiat-Chrysler-Team-on-Self-Driving-Car-Work.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-AUTO-SELFDRIVING-SURVEY-DMT.JPG"
+        width: 1110
+        height: 625
         isCached: true
   - title: "CMU method makes more data available for training self-driving cars"
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
@@ -131,17 +152,52 @@ related:
         width: 720
         height: 812
         isCached: true
-  - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
-    excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
-    publishedDateTime: 2020-06-16T15:38:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
+  - title: "South Korea to spend 160 billion won on developing self-driving ships"
+    excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
+    publishedDateTime: 2020-06-17T06:55:00Z
+    webUrl: "https://www.theedgemarkets.com/article/south-korea-spend-160-billion-won-developing-selfdriving-ships"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 24
+    images:
+      - url: "https://assets.theedgemarkets.com/SKoreaship_20200617143550_reuters.jpg?null"
+        width: 747
+        height: 498
+        isCached: true
+  - title: "DOT looks to raise self-driving awareness"
+    excerpt: "The shift toward a self-driving future may take a leap forward this week as the U.S. Department of Transportation launches the Automated Vehicle Transparency and Engagement for Safe Testing Initiative"
+    publishedDateTime: 2020-06-15T09:40:00Z
+    webUrl: "https://seekingalpha.com/news/3582864-dot-looks-to-raise-self-driving-awareness"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
+    excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
+    publishedDateTime: 2020-06-16T16:05:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/16/data-self-driving-car-tests-shared-av-test-initiative/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 17
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/self-driving-car-tests-av-test-usa-initiative-iot-connected-autonomous.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
+  - title: "FCA, Toyota Among Automakers to Share Some Self-Driving Testing Information"
+    excerpt: "Related: Which Cars Have Self-Driving Features for 2020? Companies participating are Fiat Chrysler Automobiles, Toyota, Uber, GM’s Cruise, Alphabet Inc.’s Waymo and a handful of other AV-focused firms: Beep, Local Motors, Nayva and Nuro. States ..."
+    publishedDateTime: 2020-06-16T14:47:00Z
+    webUrl: "https://www.cars.com/articles/fca-toyota-among-automakers-to-share-some-self-driving-testing-information-422855/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 2
 
 secured: "1paG/C0pJ1uJmfXhLjAAnmslb+caVDIMWgwRzIP/IWCNXjTKsSWR783A7DhR4WJmeccRzcwjxtzxKbmwrcJwOGlSeTzjJyefUKqtDBGnYZAPpa1bJBhOQTrS+3jrxvByfjuW2O0dE6+UJtkN/E66dqZoCb8syCkiRgLYlWJR9kOq84tUNfDIp66fQfQZukqplj5U2yGkwGdB3AW34qiaXnea5KUl8bVitL1IFs6iLtyjel8Pe68rMaLdxJdKhXaNnjpVX6WXdlui9nmp9lXiqVnfwYOEzHcdDX4cjvPbf09yMmzlZ0UzgNBG6b8SdTWrh1kEMXEOBBtmlFQPU3sfKWJnX5HV7wbMejFH3W/jlAwGO/OgAbu4EkJbD97gz9GOMQKoAEDvntPH1SB9As2Gs8uZ10NI5wKt9uzF0mhGet1OhH/KtprHDTn7aZmjSK9fldRfmJlWS8/tPJHowqWtXwXEtkVDJ1377hzzjsi4B1W0dBC0u8friWMo5phVIO03UYxJXQBJlavMNlnlkRS34A==;OoRkFIJ9DMuonTBBFrkLww=="
 ---

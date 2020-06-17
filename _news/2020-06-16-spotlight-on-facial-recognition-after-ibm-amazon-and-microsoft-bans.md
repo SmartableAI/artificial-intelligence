@@ -162,6 +162,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "POLITICO AI: Decoded: Facial recognition debate makes a return — German AI angst — Feedback for Brussels’ AI rules"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2020-06-17T09:03:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-facial-recognition-debate-makes-a-return-german-ai-angst-feedback-for-brussels-ai-rules/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 32
+    images:
+      - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
+        width: 1500
+        height: 1500
+        isCached: true
 
 secured: "gHNqD/wEaHsp3UX2/14aldsVjEIllReIbXpX5BYVqcURlT2Pg8LvPEBg4Pd5xKewfDdTG2LrwlfHcRWAwgNqpC+g5Vy4uG+SSGqX4pr88F9SDaKKH+yTdsbA5DdXyNKA/TKl89gyyV8NHyM1W45wndMRdm2WillWu7oJNw5gijzOTU7X7OArgBLVS2LZrrJkc5na5eoxJ2VzEuoo8WPgcfb+ErqmqXW676An47hnGWn4vFAJGVkmBsf4aIt4/CTuTqbqIez9cgVTJBwVl8zH6OeXPPlDw5jSrRBle+VpjCpoENzm2XP/rBz08IzTw29InGWAYA7vtAdmnIYJCaczHA==;lOxwfI0PVkFcTiXhj/YEkQ=="
 ---

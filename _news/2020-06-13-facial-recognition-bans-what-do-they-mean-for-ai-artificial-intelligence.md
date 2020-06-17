@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 118
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "POLITICO AI: Decoded: Facial recognition debate makes a return — German AI angst — Feedback for Brussels’ AI rules"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2020-06-17T09:03:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-facial-recognition-debate-makes-a-return-german-ai-angst-feedback-for-brussels-ai-rules/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 32
+    images:
+      - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
+        width: 1500
+        height: 1500
         isCached: true
 
 secured: "lHZYdov51u2+4OJ8BB/mOv7tlBSyCRIN0UomcXL4PTE+I1k4ME6S5+kXkw4bxKcQk4w4poNIlobjkhnycvvY0qYV0BLW80LgnPPaO86vcfbjojPWM/sZ3ADiaz9O56D6dRn94tygDKcmPl7fgRv6XM8/TxQPwO8lk8wVWVleUSiHYHQStxW+aK4dADeXvz+zCAkT5SZYAuH74DGS9sVdUdeFe+N5ttxE2ndSXeBorW17U562gjnSNEeNC7N5krg1rsBhDphHch95VnD4er6Vdx82vjj1RCuWrxJopjs7UvBCSbBKG9ZihexrDHl5usMYCi6XYGezwdz+GtAMazFJn8d9Sm5fzi1IST6Cxf/h1lXYJwLdDqE6Y00iMpM+pAl1f/E7EUELkkRuLuGKgrXSU+0lvKKFACUp2klV/i4NIrtmyIPKG7GvGry93E2hZBwjh1Dyf/0IVdAWP97vwmDJKRvrnZF7Dtt73Ycc6/JYhHGD/0Ts+pGfruBjsXJeDAfb;gToI3sjRfx0g2EaDlNHYkg=="

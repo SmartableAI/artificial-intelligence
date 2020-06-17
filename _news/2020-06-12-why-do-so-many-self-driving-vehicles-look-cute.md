@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T19:00:00Z
 webUrl: "https://www.yankodesign.com/2020/06/12/why-do-so-many-self-driving-vehicles-look-cute/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     height: 400
     isCached: true
     title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
-
-related:
-  - title: "Why the future of self-driving vehicles could create new forms of social inequality"
-    excerpt: "Driverless cars are coming, and they're likely to make life on the road easier and more convenient — for some of us. But will they create new ethical problems?"
-    publishedDateTime: 2020-06-12T22:08:00Z
-    webUrl: "https://www.abc.net.au/news/2020-06-13/driverless-cars-traffic-ethical-issues-social-inequality/12347890"
-    ampWebUrl: "https://amp.abc.net.au/article/12347890"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 38
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12341522-16x9-xlarge.jpg?v=5"
-        width: 783
-        height: 441
-        isCached: true
-  - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
-    excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
-    publishedDateTime: 2020-06-12T18:01:00Z
-    webUrl: "https://townhall.com/video/now-they-want-to-drive-for-us-too-onboard-nissans-selfdriving-car-of-the-future-n1701341"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 0
 
 secured: "NXiajSb5D3mbNAzQGlS9zcVBTMY226W8G6thW1J4gs7xjdfxFq8stwD7Z2MTTNiyD/skHZfGaT1dMiEYIjL6hHo78uKK0rNJOAX/tNqk/3MH4pejIOAUtjwkBt3MJ+8RErrMl6dKNQM6uttqaLDYJdiFkCLe7PCipv93ISE8d3qp2bgiie9i+HxxgzIHOGIHgalRpUWfJbygQsxP+SGrX42FCYhSVw2MFdj2SJxjql/Bo6+NK0BSExs83i35TdhAw7A6SLb/tNGE1rjYsIH2KNiSzihApkHizMiV6yXd4ofYaXGkQ0WQsjVEDfsWXUB1ucTo6l1CVqq4muJW/VCvjX0RTp7Musk4d3hzeY3AAj0wOOk390n7W1BlI2BuJ0j0/SUuLJp83/DFZLMDOO+cOdFXXRVJiYP523k/262e+TCzNdFExMBNqms9kJ3pbMuDpxbpVXPc6lKlTh1VTLS9Vy+n48PuUEs+fa2+73GJALLlywmnN/91iqsHv3RKlbDo5MUSrvE5daOLm4PO6kKh9Q==;WjMoh+6CUpaYVpexZWBfUA=="
 ---

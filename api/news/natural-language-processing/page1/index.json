@@ -6,7 +6,7 @@
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -238,29 +238,29 @@
     },
     {
       "path": "_news/2020-06-11-amazon-bans-police-use-of-its-face-recognition-for-a-year.md",
-      "title": "Amazon bans police use of its face recognition for a year",
+      "title": "Amazon Bans Police Use of its Face Recognition for a Year",
       "excerpt": "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin.",
-      "webUrl": "https://www.washingtontimes.com/news/2020/jun/10/amazon-pauses-police-use-of-its-facial-recognition/",
+      "webUrl": "https://www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/06/10/amazon_police_facial_recognition_37424_c0-156-3748-2342_s1200x700.jpg?640d14f1ef06c1c3f95405f00c88f35120d91ba0",
-          "width": 1200,
-          "height": 700,
-          "title": "Amazon bans police use of its face recognition for a year",
+          "url": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-06/AP_20163038160927.jpg",
+          "width": 2016,
+          "height": 1512,
+          "title": "Amazon Bans Police Use of its Face Recognition for a Year",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T05:58:00-07:00",
+      "ampWebUrl": "https://www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year?amp",
+      "publishedDateTime": "2020-06-11T06:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
+        "name": "Voice of America",
+        "domain": "voanews.com",
         "images": null,
         "publishers": null,
         "authors": null

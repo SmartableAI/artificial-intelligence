@@ -89,22 +89,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Activists want to ban police from using facial recognition — Amazon and Microsoft just opened the door"
-    excerpt: "While facial recognition technology has yet to gain much traction in law enforcement, activists want to make sure it's permanently banned."
-    publishedDateTime: 2020-06-12T15:26:00Z
-    webUrl: "https://www.cnbc.com/2020/06/12/amazon-microsoft-face-opponents-of-police-use-of-facial-recognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/12/amazon-microsoft-face-opponents-of-police-use-of-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/12/amazon-microsoft-face-opponents-of-police-use-of-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 73
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106208340-1572296956035gettyimages-697919724.jpeg?v=1572296980"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Amazon, IBM, And Microsoft Won’t Say Which Police Departments Used Their Facial Recognition Technology"
     excerpt: "IBM, Amazon, and Microsoft pledged to restrict or eliminate law enforcement’s access to facial recognition technology. Those announcements received lots of accolades, but they left many key questions unanswered."
     publishedDateTime: 2020-06-12T19:03:00Z
@@ -162,22 +146,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way"
-    excerpt: "Never mind that none of these companies were major players in the police facial recognition market. (Microsoft admitted it has never sold the tech to U.S. police.) But civil right"
-    publishedDateTime: 2020-06-12T15:21:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/12/facial-recognition-ban/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 48
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WEX5RYVM2QI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
     publishedDateTime: 2020-06-16T15:30:00Z
@@ -191,6 +159,20 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
         width: 3000
         height: 3000
+        isCached: true
+  - title: "Why It Matters That Microsoft and Amazon Will No Longer Sell Facial Recognition to Police"
+    excerpt: "The companies say they will halt sales for the technology for a year while Congress comes up with legislation."
+    publishedDateTime: 2020-06-17T08:56:00Z
+    webUrl: "https://www.inc.com/jason-aten/why-it-matters-that-microsoft-amazon-will-no-longer-sell-facial-recognition-to-police.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 30
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "54foRvu48E5YrFi4ar7oUYFqwYOXTIV3wUMJPEw0ef9vciFZaaHrGKRQ5OStzha5SzNr/0fsMM5uYDdmSk2Y6dlnjXIUd0Sv3OqnjhY3MnJBtJ1T6dnyPC2JJR9cAC/bjX5V5yYUt/QoY8F4daoJ9q/mjnNf4E+5fkMaYkupv8u5wuEa1OmCwtPCNF7XsIjk/fa7Ljcab/foSd0RE+lgi3JEIHCNSR0jOL4MrrUK5AMXlA0rErUWOQdP+j0rFVaKIjf5eo1LnV5ksHi6pib77Imgg5XD1KCjZ333bW4sGr6dengJnm+Y98BwUZjL/rlaJa8ULXhC2I9KkzA8jGHfTrZAgkiD1VHE6imc8qwZ+djYMIg+wlA+9Y2m+s7ZwqEBGNkVdSAxxYWnBSVjwXec6P/o8N8oF8XUJL/H0rq21jUewp36vdV8VYgKYLKxSpnFkx0OV9sMCcTkFoihDDBCKpStuOpjG84wj/4l6MXiA23r0TTxyQpMfQT0yZAOUFavKd6nQw9ymYC5gZYsLsxGKQ==;NDmVxRcoDt0i8kED1Of8yw=="

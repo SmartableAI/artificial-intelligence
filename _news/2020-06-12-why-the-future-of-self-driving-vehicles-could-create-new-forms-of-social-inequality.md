@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12347890"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12347890"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,33 @@ images:
     title: "Why the future of self-driving vehicles could create new forms of social inequality"
 
 related:
-  - title: "Why Do So Many Self-Driving Vehicles Look ‘Cute’?"
-    excerpt: "We’re seeing them pop up all around us and maybe you’ve even been lucky enough to have a first-hand encounter with one. Sure, these vehicles look new and different, that makes sense. But why exactly do a majority of them look"
-    publishedDateTime: 2020-06-12T19:00:00Z
-    webUrl: "https://www.yankodesign.com/2020/06/12/why-do-so-many-self-driving-vehicles-look-cute/"
+  - title: "Self-driving cars and the future of personal injury law"
+    excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
+    ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 24
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 44
     images:
-      - url: "https://cdn.yankodesign.com/images/design_news/2020/02/what-designers-can-do-to-design-irresistible-products/kelly_custer_yd_guest.jpg"
-        width: 400
-        height: 400
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
+        width: 616
+        height: 372
         isCached: true
+  - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
+    excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
+    publishedDateTime: 2020-06-16T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 36
   - title: "Now They Want to Drive for Us Too: On-Board Nissan's Self-Driving Car of the Future"
     excerpt: "If you're looking for more footage of cops kneeling you'll want to skip this video because HOLY COW (watch)"
     publishedDateTime: 2020-06-12T18:01:00Z

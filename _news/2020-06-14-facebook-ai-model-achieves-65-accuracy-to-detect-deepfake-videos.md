@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Business Insider India
@@ -27,22 +27,6 @@ images:
     title: "Facebook AI model achieves 65% accuracy to detect deepfake videos"
 
 related:
-  - title: "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results"
-    excerpt: "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,"
-    publishedDateTime: 2020-06-12T15:06:00Z
-    webUrl: "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/"
-    ampWebUrl: "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/deepfake-detection-facebook.jpg?w=1024"
-        width: 1024
-        height: 583
-        isCached: true
   - title: "Facebook AI is 65% accurate when comes to detecting deepfakes"
     excerpt: "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,"
     publishedDateTime: 2020-06-15T10:04:00Z

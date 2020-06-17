@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T14:20:00Z
 webUrl: "https://www.electronicsweekly.com/news/research-news/improve-self-driving-algorithms-add-concept-empty-space-2020-06/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 341
     isCached: true
     title: "To improve self-driving algorithms, add the concept of empty space"
-
-related:
-  - title: "New system helps self driving cars detect empty space"
-    excerpt: "Humans know that objects in their sight may obscure the view of things ahead of their path, but self-driving cars cannot reason about the objects around them. Self-driving cars use 3D data from lidar to represent objects as point clouds."
-    publishedDateTime: 2020-06-12T19:02:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15268/new-system-helps-self-driving-cars-detect-empty-space"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/268/15268/234565_web.jpg"
-        width: 1440
-        height: 817
-        isCached: true
 
 secured: "ztKn/CCn9SjMwPn4neUI+wYr9We2Xx+W0HbFyIFKCfhWXhLsWqvZYjG65stp3PziwYWW8dS9fBGEpNzLhu8ZUhHG60s110kiabfqh/aFhqHoGvg5YyGF9kTuTDheb7tCuM/ipCiI4u3c9jhvnHyAmW16CtU1mr/b3+06WzQwu2LFtAkQMmrCGvmJMfBltXhuBLrk7uN/6xyqXlQgHxjgEYG2Yh5HrYw7/Kds8gdO1El8WRxnrS8uKOBWgQX3qMe862mKr7+fVKwqeVkbxGcg8tG27HnAprKQ00pDVUfz+TFLG16sX3YexS0V75mZJTHvnyJjO3O2zKtaVqudlWlz5/bsFQT2i3V6nbWaeGmPudYgdMm8kKLBqyzhFTSi3mnd74QC5Dx+Axoy3deacI9vNFgfkgBLQX4P7EIZyAgPIAERsjPS4M1JC/5XQ8R/vT6ZI54EDbvnEVBrwESnRH3gRL5u8UoZLfLZGUF8c85Jh8+vBcOOnmLZezOoevg/sOFLbI1tmz6PpU2rxBfZJ6BRBA==;egRu4XgsnZeZFIInCS9SOQ=="
 ---

@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pagaya raises $102 million to manage assets with AI"
+    excerpt: "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing."
+    publishedDateTime: 2020-06-17T09:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/406669c0-1e4f-4829-8fc5-233708467216-e1592276972478.png?w=1200&#038;strip=all"
+        width: 1179
+        height: 588
+        isCached: true
   - title: "Streamlit raises $19 million for a framework that simplifies AI app development"
     excerpt: "Streamlit, a startup developing a framework to streamline AI app deployment, raised $19 million in venture capital."
     publishedDateTime: 2020-06-16T13:05:00Z
