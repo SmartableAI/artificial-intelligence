@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Udacity & Microsoft partner to launch machine learning scholarship program"
-excerpt: "The new Udacity Machine Learning Scholarship Program for Microsoft Azure represents the first of several programs from Udacity and Microsoft to deliver training for Azure cloud services"
-publishedDateTime: 2020-06-12T05:22:00Z
-webUrl: "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program-11591937550911.html"
-ampWebUrl: "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html"
+title: "Udacity & Microsoft partner to Launch Machine Learning Scholarship Program"
+excerpt: "One of the world’s leading lifelong learning platforms Udacity has collaborated with Microsoft to confer scholarships for its all new Machine Learning Nanodegree program in Microsoft"
+publishedDateTime: 2020-06-12T18:47:00Z
+webUrl: "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/"
+ampWebUrl: "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.livemint.com/img/2020/06/12/600x338/microsoft--621x414_1591938841550.jpg"
-    width: 600
-    height: 338
-    isCached: true
-    title: "Udacity & Microsoft partner to launch machine learning scholarship program"
-
-secured: "gRXEf3flH3YsTd93zyDSm6D2nD7kooxrh9hGieOKZyPR4+oWAEV0BX5VyPGcZ9YkWBasvUbtd6kX9O5biYeGD+I9fskPAUlh/BgePxOPfcaAIlW7O+o7Hg+tZhsyMOaYeyEL2grZqvd2aL9mzjBGSOld8t7iTxs7zQD6p4F6Ur+icBtAtPp25Kx9PTG+vSwn6NUCMqPFpKtbfNbMdMT2RF4EKBvoWFoVjzPWDJ6FFVSy1M6iD4QD/ZZzhUy5AQDafRORsQAoq5KGRKzP8rGpYEhUyJo1xPRdIF/5SLHu/X6IafHtcfzArESEKGKFaAiCmhIDmOh4YdoiQDxAn+CaLw==;+llRbr6pFZM5blhCJWMpOg=="
+secured: "JZ+zJnCNtP9GzgVof6RigAiXF6v88IevXlE2PKRat/wueHmrS9aRJOcZtkqyGRPG0ltIgpVOUzaugXtxAfwIm2XEIBliPngE2dwLSYzBzWNDYspNom/O/Z00ehDMci32cpqY4AM7VAcJlnrNp32CaolyjroYn+HiM0r+1SYkrsMVvEPYIUiIFciYeX1EdqpA1/+ffccynBqJBDLMaTzMQYAuKfAbIDyjNu7g0Q+MSmwW75iwhFmgaq+6kYefucO/HcDGGwUEplhNfk6nPe6GNTE3Y7csrkec6iHuj6cSY9WXGHovq8zdgBklkruejwYdlhw1E/XypoxZh7yy7mbK0Q==;jPsChLbjFjIpU5CJqb4xjQ=="
 ---
 

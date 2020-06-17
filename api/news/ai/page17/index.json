@@ -2,6 +2,224 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
+      "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+      "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
+      "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/cd8882238fca4e639fc2780457003fa9-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "publishedDateTime": "2020-05-28T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
+      "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+      "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "publishedDateTime": "2020-05-28T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-heres-how-mfine-is-using-technology-to-disrupt-healthcare.md",
+      "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
+      "excerpt": "The Bengaluru-based start-up offers an online consultation platform and has seen teleconsultations grow 5-6 times in the last few weeks owing to the Coronavirus outbreak",
+      "webUrl": "https://www.entrepreneur.com/article/351226",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590692668-Webpnet-compress-image43.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351226",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351226",
+      "publishedDateTime": "2020-05-28T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic.md",
+      "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
+      "excerpt": "Although there is much unknown about the way the world will be post-coronavirus, we're certain that it will include autonomous delivery robots in our workplaces, public spaces, and streets. This technology was given a boost during coronavirus as a viable way for people to receive food and medicine.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed08dc48be1be0006b4b89d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
+      "publishedDateTime": "2020-05-28T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 outbreak, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "webUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gephardtdaily.com/wp-content/uploads/2020/05/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 693,
+          "height": 386,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "cdnAmpWebUrl": "https://gephardtdaily-com.cdn.ampproject.org/c/s/gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "publishedDateTime": "2020-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gephardt Daily",
+        "domain": "gephardtdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
       "title": "Apple Grabs Machine-Learning Startup Inductiv",
       "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
@@ -1040,214 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
-      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
-          "width": 1200,
-          "height": 925,
-          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
-      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
-      "title": "Apple acquires Inductiv, machine-learning specialists",
-      "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
-      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
-          "width": 732,
-          "height": 330,
-          "title": "Apple acquires Inductiv, machine-learning specialists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KitGuru",
-        "domain": "kitguru.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
-      "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-      "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
-      "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media.md",
-      "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-      "excerpt": "We develop machine learning and deep learning models to (i) accurately identify histopathology stains, (ii) discriminate between tissues, and (iii) differentiate disease states. Area Under ...",
-      "webUrl": "https://www.nature.com/articles/s41379-020-0540-1",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41379-020-0540-1/MediaObjects/41379_2020_540_Fig1_HTML.png",
-          "width": 685,
-          "height": 527,
-          "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

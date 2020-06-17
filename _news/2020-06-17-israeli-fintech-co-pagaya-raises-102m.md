@@ -61,6 +61,17 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "3 Firms Steer AI-Driven Asset Manager Pagaya's $102M Round"
+    excerpt: "Pagaya, a financial technology enterprise using artificial intelligence to manage assets and investments, said Wednesday that it had raised $102 million in its latest fundraising round advised on by Goldfarb Seligman & Co."
+    publishedDateTime: 2020-06-17T20:08:00Z
+    webUrl: "https://www.law360.com/articles/1283819/3-firms-steer-ai-driven-asset-manager-pagaya-s-102m-round"
+    ampWebUrl: "https://www.law360.com/amp/articles/1283819"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1283819"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
   - title: "AI-powered financial technology startup Pagaya raises $102M"
     excerpt: "Artificial intelligence financial technology startup Pagaya Technologies Ltd. revealed today that it has raised $102 million in new funding partly to move into new asset classes."
     publishedDateTime: 2020-06-17T09:23:00Z

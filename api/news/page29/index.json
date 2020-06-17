@@ -2,6 +2,276 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
+      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
+      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
+          "width": 5157,
+          "height": 2973,
+          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
+      "publishedDateTime": "2020-05-21T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
+      "title": "The Trash app’s new features can create AI-edited music videos and more",
+      "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
+      "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024",
+          "width": 1024,
+          "height": 592,
+          "title": "The Trash app’s new features can create AI-edited music videos and more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/21/trash-app-music-video/amp/",
+      "publishedDateTime": "2020-05-21T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger.md",
+      "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
+      "excerpt": "Scams and creepers abound on Facebook Messenger. To combat them, Facebook is now turning to artificial intelligence. A new AI-powered safety feature for Messenger will now help people, particularly kids,",
+      "webUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sbgcickhdot8flhjjnp1.png",
+          "width": 800,
+          "height": 450,
+          "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
+      "publishedDateTime": "2020-05-21T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public.md",
+      "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+      "excerpt": "The Clerk of the Superior Court in Maricopa County, based out of Phoenix, Arizona, receives thousands of service requests each day from its 4 million residents. Citizens often reach out with time-sensitive requests, like applying for marriage licenses, renewing passports and accessing court records.",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_12_Watson-Assisant_Blog-Leadspace.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T08:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-what-to-know-about-the-temporal-lobe.md",
+      "title": "What to know about the temporal lobe",
+      "excerpt": "It plays a role in visual and sound processing and is crucial for both object recognition and language recognition. Dysfunction in the temporal lobe may cause dysfunction in the mind. A few ...",
+      "webUrl": "https://www.medicalnewstoday.com/articles/temporal-lobe",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-868595646_thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": "What to know about the temporal lobe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d.md",
+      "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+      "excerpt": "Chinese state news agency Xinhua has added a 3D AI news anchor called Xin Xiaowei to its growing lineup of virtual presenters",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-45-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "publishedDateTime": "2020-05-21T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
       "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
       "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version",
@@ -772,243 +1042,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
-      "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-      "excerpt": "When Leigh started exploring, she didn’t find enough satisfactory end-to-end examples for TensorFlow machine vision on Raspberry Pi, so she created her own to share and help future people who ...",
-      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
-      "title": "Sphero startup will make robots for government and first responders",
-      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
-      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Sphero startup will make robots for government and first responders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "publishedDateTime": "2020-05-20T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-changsha-intelligent-manufacturing-on-the-fast-track.md",
-      "title": "Changsha: Intelligent Manufacturing on the Fast Track",
-      "excerpt": "a type of self-driving taxi developed by Chinese tech giant Baidu. \"It's really a convenient service. The taxi arrived in just a few minutes after I typed in my destination address and pressed the ...",
-      "webUrl": "https://www.adnkronos.com/immediapress/economia-e-finanza/2020/05/20/changsha-intelligent-manufacturing-the-fast-track_ttuqFGGEuxEqbcLraqdlQN.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adnkronos.com/res/img/logo_adn_484x252.jpg",
-          "width": 484,
-          "height": 252,
-          "title": "Changsha: Intelligent Manufacturing on the Fast Track",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AdnKronos",
-        "domain": "adnkronos.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-can-machine-learning-predict-coronavirus-spread.md",
-      "title": "Can machine learning predict coronavirus spread?",
-      "excerpt": "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission.",
-      "webUrl": "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg",
-          "width": 760,
-          "height": 368,
-          "title": "Can machine learning predict coronavirus spread?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
-      "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
-      "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "publishedDateTime": "2020-05-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
-      "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-      "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
-      "webUrl": "https://www.nbc15.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.graytvinc.com/images/aa413.jpg",
-          "width": 700,
-          "height": 400,
-          "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC15",
-        "domain": "nbc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

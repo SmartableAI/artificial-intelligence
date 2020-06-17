@@ -2,6 +2,129 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-11-superannotate-uses-ai-techniques-to-speed-up-data-labeling.md",
+      "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+      "excerpt": "SuperAnnotate, a startup developing AI-powered data labeling and annotation tools, raised $3 million in a seed funding round.",
+      "webUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ea7130cc-4a60-44b6-b483-faa3bfc97716-e1591656959570.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "publishedDateTime": "2020-06-11T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
+      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
+          "width": 744,
+          "height": 389,
+          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "publishedDateTime": "2020-06-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarMag",
+        "domain": "starctmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses.md",
+      "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
+      "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
+      "webUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/06/MIT-neuromorphic-brain-chip-alloy.jpg",
+          "width": 639,
+          "height": 359,
+          "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/",
+      "publishedDateTime": "2020-06-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazon-bans-police-use-of-its-face-recognition-for-a-year.md",
       "title": "Amazon Bans Police Use of its Face Recognition for a Year",
       "excerpt": "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin.",
@@ -373,6 +496,44 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey.md",
+      "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
+      "excerpt": "So many descriptors and personal perceptions swirl around a glass of whiskey. Published whiskey reviews include sensory and nonsensory descriptions.",
+      "webUrl": "https://augustafreepress.com/fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2020/06/whiskey-glass.jpg",
+          "width": 400,
+          "height": 267,
+          "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -894,186 +1055,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-phoenixville-public-library-offers-free-online-programs.md",
-      "title": "Phoenixville Public Library offers free online programs",
-      "excerpt": "Phoenixville Public Library will host a free online presentation, \"End-of-Life Care: The Conversation Project\", on Monday, June 15 at 7:00 PM. Dana Gibson, Community Liaison for Willow Tree Hospice, will be the speaker.",
-      "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-offers-free-online-programs/article_6e26aed8-ab38-11ea-a592-4f27d4439e15.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/phoenixvillenews.com/content/tncms/custom/image/eeba0d98-53a0-11e8-bdb2-2bcaaf51ad2e.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": "Phoenixville Public Library offers free online programs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phoenixville News",
-        "domain": "phoenixvillenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024.md",
-      "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10",
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
-      "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
-      "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
-      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
-      "publishedDateTime": "2020-06-10T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software.md",
-      "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
-      "excerpt": "Chinese video app TikTok's practices are to be examined by an EU task force, the bloc's privacy watchdog said on Wednesday, which also warned EU police forces against using facial recognition software from U.",
-      "webUrl": "https://www.reuters.com/article/us-eu-privacy-tiktok-clearview/eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software-idUSKBN23H2PM",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521793831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG591QS",
-          "width": 884,
-          "height": 545,
-          "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23H2PM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H2PM",
-      "publishedDateTime": "2020-06-10T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

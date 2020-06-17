@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office"
 
-secured: "OvPbhEi3Uo7FiYrx7UnqOaqTNiCn10okYJq1ZbnWneWaUIi0efylmhBnvJ6/DYqKty0VKCdBmsU4aCs0aEnc15vIUsZyxyYTKVW2M45j8cS8FUbuf/D7fjPDHNL1L3hBBbAkcDS+abHog5b+0o3FAxX99v2ndg7dauOO0QbmAC/A6ENz7TH+tNru37rCMpuLwPECGH+bE52/1UfbwLuN85WKzob+9Bpc3SPxY0HT4mWlJtqNqtklbp3/DzD9nwPdT+87G7CXxYLZ15DvPJBwY5NSbHyNDWXVPqD2WVt6/AyglPxUYBZpkggnsFoA004LGfXuniqb9Sc8KfUATDNHxw==;UWr0dyof19c58LU7hiG8mA=="
+secured: "OJ/gafATmU8KFDqhNoA/w6Ge64X9Io68Ajou6ja+2zM87TnixHRax3cwBgY7+JHVtc/on4ukdbY7XVJ/AMdLPHxpbyOvn1z2pzE0BH7Zjtq4PuBeW0iVrsV9V7lefXReq8gKJovGPGz+RY3V803uO2pWA+WoPrAXpq1sMC10FIXVXvx1oFcFw72gXjsnjt50k6IMj5X5Pj9XywAxhgdG1Z/ji21Cz7GEGUySLqNT6hEm0XlFRG4FB1NiPKX6CuVT8ei38soyoC3dOnxXmsXpPBe7hboi4S5dHr05AnmUK2GmsVgtOCpqYvKX7qHyK5v4ecSE1ltw1mW3hARCgg/5Soe/52jpYHK9cZMDIKIkPvrAb/ccNV6IzZJav86lezxHqyWchpOXRgye4Qfap9N8Rj362mWxksuJGwcn2tOdLAt0JUEA2jvpt1nqFm4SniKMwV1tS0dJ61+r+BYQ6kxZzdo80dKJX/lvbEQOo/E4Yy1OlY+lfl4zXKRKbhc++N8ohBgu0aK/kI25IGGv+Cz4ZQ==;MPPQX1RM18WbAiN4g0d4hA=="
 ---
 

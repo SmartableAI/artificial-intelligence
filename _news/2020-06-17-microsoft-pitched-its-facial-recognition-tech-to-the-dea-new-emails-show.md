@@ -47,6 +47,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
+    excerpt: "Microsoft pitched its facial recognition technology to the DEA despite its concerns about selling to local police."
+    publishedDateTime: 2020-06-17T19:00:00Z
+    webUrl: "https://www.engadget.com/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Fc415ef50-b0c1-11ea-afdf-74c4c00c4ba4&client=amp-blogside-v2&signature=fd77c8cf2ccdcf1d3c77b7ed2bd56b5f8a76294d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Microsoft pitched facial recognition technology to the DEA as recently as 2018, newly-released emails show"
     excerpt: "Emailed released by the American Civil Liberties Union show Microsoft as recently as 2018 pitched its facial recognition tech to the DEA."
     publishedDateTime: 2020-06-17T18:12:00Z

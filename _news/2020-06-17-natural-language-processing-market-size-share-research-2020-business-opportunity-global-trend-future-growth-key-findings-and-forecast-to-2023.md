@@ -29,15 +29,29 @@ images:
     title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
 
 related:
-  - title: "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027"
-    excerpt: "Selbyville, Delaware, Global Deep Learning Chip Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
-    publishedDateTime: 2020-06-17T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027-2020-06-17"
+  - title: "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
+    publishedDateTime: 2020-06-16T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Strategies and Insight Driven Transformation 2020-2027"
+    excerpt: "Acumenresearchandconsulting.com announces the release of the report “Global Natural Language Processing (NLP) Industry”- 2%. The shifting dynamics supporting this growth makes it critical for businesses in this space to keep abreast of the changing pulse of the market."
+    publishedDateTime: 2020-06-15T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-strategies-and-insight-driven-transformation-2020-2027-2020-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

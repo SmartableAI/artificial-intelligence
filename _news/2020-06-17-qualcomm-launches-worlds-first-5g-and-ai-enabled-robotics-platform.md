@@ -5,7 +5,7 @@ excerpt: "Qualcomm Technologies has launched what it claims is the “world’s 
 publishedDateTime: 2020-06-17T13:05:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/06/17/qualcomm-launches-worlds-first-5g-and-ai-enabled-robotics-platform/33196/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,13 +16,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-1-copy-2.jpg"
-    width: 750
-    height: 511
-    isCached: true
-    title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
 
 related:
   - title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
@@ -90,6 +83,6 @@ related:
         height: 350
         isCached: true
 
-secured: "9HLZQeF9jLHnfPDZ1uPykK0lAXf7WL9wuxbv5qlNEO7qqvtQLSHJLAqac3NeHJyWLpKrLhOKf5lv9MumHMl65oQouYSRTHe4HBLWOaj3FmDkFaQN+hK03cUg8RYEy9cukxzo/5WmUjmb+V+XVBt+PAXPe7StBavQNfxuBuyfUnfuI/WDHuEm/4ztR37v7QiyuPYQK0j7J0HxlCR7iyVzE6D7kDlu938oXcSpOz86y+ViSeFpcWtJ7gicup1I91sB8AjG3A9TEdfHwmseum9TZwUTHFNyAyYLLXZwBU45xsW2UKZK05BHRBk2oJy0vcZKuabw3wVRFaYE0VHNrzSyQg==;RNgiWojof7VxKudXG6x99Q=="
+secured: "K3kqGgmbnnuKkTth6aD5N9uOpXDhncO/X2mATctdKWdk5mhdEuVJDMVGQPG+BTFEyj3MWcSnd2aDYIPEfUf241N1ozEz+bM4vcgBa0TAYh2FZxmVdXXz03Y496j7qTSb5NlEJ8FXLF2V1jJB9H+sw6rBxuJTs/BE7ts9pRd3vAA5MqQnBBDmogFQXBvIH3b5qsHAj+Ja6XIXxEe631yhka5aYHpd38h6I75FS4e1orHwv08uTXDxsXhd6Yvf1p0OmFF1/HussVgFwcuT+93PTXmpGDj5oVLyg8ic/US9hEhjm+0YFpsvUUrVlGKZsPODtBJeULExXtToKyWUN5JNNr4SbzANlln4kV+UYsv7QwWw1IdHw9n1Vhg+irJ/o4F4VxMaLvDWnGMFz97BsSmXy/5qPdJYUAEQWn+1JOK3dm7n/C9qAXsmLrDXMePqCd/1St6UlLl2m7TilEEPD3EKmKbvdkm1sMjmET6sXyWDILxIodx9J3v4rmRjXHcsxNA/3l2PF4DeZXlHRLzBcTAJJA==;RKgWmu+MTEqAswKFvinFNw=="
 ---
 

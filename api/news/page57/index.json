@@ -2,6 +2,278 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
+      "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
+      "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
+      "webUrl": "https://microsoftcaregh.com/2020/05/01/microsoft-digigirlz-ai-class-high-school-girls/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/microsoftcaregh.com/wp-content/uploads/2020/05/DigiGirlz.jpg?fit=960%2C640&#038;ssl=1",
+          "width": 960,
+          "height": 640,
+          "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoftcaregh.com",
+        "domain": "microsoftcaregh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-uk-government-invited-google-deepmind-exec-to-critical-coronavirus-meeting.md",
+      "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
+      "excerpt": "DeepMind cofounder and CEO Demis Hassabis attended a meeting of the scientific advisory group for emergencies (Sage) on March 18.",
+      "webUrl": "https://www.cnbc.com/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "publishedDateTime": "2020-05-01T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-deezer-develops-ai-to-detect-explicit-song-lyrics.md",
+      "title": "Deezer develops AI to detect explicit song lyrics",
+      "excerpt": "Streaming service Deezer is developing technology to automatically detect explicit content in songs. The company has been looking into the issue because record labels often fail to identify offensive lyrics when they submit songs,",
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-52499375",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E4F/production/_112059237_gettyimages-1191011684.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Deezer develops AI to detect explicit song lyrics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-52499375",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-52499375",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
+      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
+      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "publishedDateTime": "2020-05-01T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
+      "title": "Fueling driverless navigation with AI",
+      "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route. Powerful, accurate maps can be created by deep learning models, able to process masses of images no human cartographer could ever manage.",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Fueling driverless navigation with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "publishedDateTime": "2020-05-01T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
       "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
       "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",

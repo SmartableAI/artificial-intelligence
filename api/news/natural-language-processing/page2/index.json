@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
+      "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+      "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "publishedDateTime": "2020-06-02T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
+      "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+      "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
+      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "publishedDateTime": "2020-06-02T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
+      "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+      "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
+          "width": 1200,
+          "height": 630,
+          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "publishedDateTime": "2020-06-02T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Growing at a CAGR 20.5% | Key Player 3M, Cerner, Nuance, Microsoft, IBM",
+      "excerpt": "and Region – Global Forecast to 2025 MarketsandMarkets forecasts the global Natural Language Processing (NLP) in Healthcare and Life Sciences Market size to grow from USD 1.5 billion in 2020 to ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16155634/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-20-5-key",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16155634",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16155634",
+      "publishedDateTime": "2020-06-01T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
       "title": "Remember S Voice? Samsung is finally shutting it down",
       "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
@@ -1128,160 +1298,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
-      "title": "Alibaba to invest $1B on AI integration with smart speaker",
-      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
-      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "publishedDateTime": "2020-05-20T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-global-natural-language-processing-nlp-industry.md",
-      "title": "Global Natural Language Processing (NLP) Industry",
-      "excerpt": "New York, May 20, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" - https://www ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/20/2036115/0/en/Global-Natural-Language-Processing-NLP-Industry.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
-      "title": "Azure Cognitive Services learns more languages",
-      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Azure Cognitive Services learns more languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "publishedDateTime": "2020-05-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
-      "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
-      "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
-      "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

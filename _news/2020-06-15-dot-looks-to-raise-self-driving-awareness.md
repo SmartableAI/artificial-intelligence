@@ -96,7 +96,7 @@ related:
   - title: "Self-Driving Ships are the Latest Push Towards Automation"
     excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
     publishedDateTime: 2020-06-15T20:20:00Z
-    webUrl: "https://www.engineering.com/Hardware/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
+    webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
     ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
     cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
     type: article

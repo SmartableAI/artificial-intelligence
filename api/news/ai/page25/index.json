@@ -2,6 +2,205 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-21-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
+      "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
+      "excerpt": "When Leigh started exploring, she didn’t find enough satisfactory end-to-end examples for TensorFlow machine vision on Raspberry Pi, so she created her own to share and help future people who ...",
+      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
+      "title": "Sphero startup will make robots for government and first responders",
+      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "publishedDateTime": "2020-05-20T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-changsha-intelligent-manufacturing-on-the-fast-track.md",
+      "title": "Changsha: Intelligent Manufacturing on the Fast Track",
+      "excerpt": "a type of self-driving taxi developed by Chinese tech giant Baidu. \"It's really a convenient service. The taxi arrived in just a few minutes after I typed in my destination address and pressed the ...",
+      "webUrl": "https://www.adnkronos.com/immediapress/economia-e-finanza/2020/05/20/changsha-intelligent-manufacturing-the-fast-track_ttuqFGGEuxEqbcLraqdlQN.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adnkronos.com/res/img/logo_adn_484x252.jpg",
+          "width": 484,
+          "height": 252,
+          "title": "Changsha: Intelligent Manufacturing on the Fast Track",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AdnKronos",
+        "domain": "adnkronos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-can-machine-learning-predict-coronavirus-spread.md",
+      "title": "Can machine learning predict coronavirus spread?",
+      "excerpt": "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission.",
+      "webUrl": "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Public-Safety/covidthermometer.jpg",
+          "width": 760,
+          "height": 368,
+          "title": "Can machine learning predict coronavirus spread?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
+      "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
+      "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "publishedDateTime": "2020-05-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
       "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
       "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
@@ -1072,231 +1271,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
-      "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-      "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
-      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
-          "width": 1037,
-          "height": 598,
-          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "publishedDateTime": "2020-05-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
-      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
-      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
-          "width": 596,
-          "height": 344,
-          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "publishedDateTime": "2020-05-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
-      "title": "This AI Maestro Wants to Serenade You",
-      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
-      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
-          "width": 2400,
-          "height": 1248,
-          "title": "This AI Maestro Wants to Serenade You",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
-      "publishedDateTime": "2020-05-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
-      "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
-      "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
-      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "publishedDateTime": "2020-05-20T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction.md",
-      "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
-      "excerpt": "Don’t view AI as a replacement for your team, but rather as a member of your team, to provide better workflow, better processes and greater efficiency.",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F05%2F757.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
-      "publishedDateTime": "2020-05-20T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

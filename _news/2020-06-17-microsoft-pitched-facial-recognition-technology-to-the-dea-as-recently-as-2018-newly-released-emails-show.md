@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
+    excerpt: "Microsoft pitched its facial recognition technology to the DEA despite its concerns about selling to local police."
+    publishedDateTime: 2020-06-17T19:00:00Z
+    webUrl: "https://www.engadget.com/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Fc415ef50-b0c1-11ea-afdf-74c4c00c4ba4&client=amp-blogside-v2&signature=fd77c8cf2ccdcf1d3c77b7ed2bd56b5f8a76294d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Documents reveal Microsoft pitched facial recognition tech to drug enforcement feds"
     excerpt: "(GeekWire Photo / Kevin Lisota) Microsoft has long cast itself as a moral authority on facial recognition, calling for federal regulation of the technology and pledging not to sell it to police, a practice that has landed rival Amazon in hot water."
     publishedDateTime: 2020-06-17T17:50:00Z
@@ -247,6 +263,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "DPrf2s/9VJ+jCu7s2LgE1Yrl8NJiU07wJ0yAKsVkS78ha5H7ovQ/50d03ebgBYCgy+jBaNRl8xelvu8zMDiTGA2rdd9EUYjS/TIUiMf3rUr1koef2PZoq0O08+v09PdR54us0OiPawfms6bRjkhBpC2DfyFXDkQKsgtYyAOXNga0AWsX9nj4vXuneF8RWpxWXufoNDOIsHPWmetovS9UswxQeeGPvCoDJ/UoqzTcPH+OfiXKElVh3ml/1AnwdpzwwLax2EgCuL/2WJ1xPknu3mEOHBRDUQVKXbvBSxxtXlozbV6v2mQlT2pS7YyIsWibYwOV3cMU106Qpp0k7g+AbA==;ZcKQmhlVThUeV15v2FMxgA=="
+secured: "cQgsgmvkEERHkbuSy4WkI0d/JOqWgjwn798Djp6F49O+v4qsVGSydmjiwz1LP2wOR1GEiR7AMqeRqBSJzkQq9wtXLOYzHaoW4Hf/OOkA/HKdlDQWae9iY5EhXibLOm+9GldZ/26zED4/BRHs/OFk9yH5wrGxwx+JHhYM8vnYiZCj6ahGbxugVBBf/YbI+kNsvbtUx3GizlMwLSEDA1V/e9XilH6gar7QnXSgAJyORZSU0qr2+joKSkp9a+WtehV1h5Trzh/sd/UQ6/GheIXtOiteUU9NHwG1r60qQKc973+0WC2Xmq6iZtx3bNLMpriicYyevgsIdJgrgeHaYCx2l9P7TsevZB/hlo/5MKvcZUTyfiXQ6JxirjeKNSI6J+l3oGd5LpVYbpQ3T7wAF0YdhE+s7f2LF6Y1cFQhaqmgCyhMxNDdJjGenUl+aX/U1nYhaRp7fRDa39iLtvqckvZu0ICOcz25LwH6Vi31G97gCZbSjjhDreAihhzTP9TslO1nbz4shq+ImAhsWP0V+XQjMw==;ctGWDSZmt0DRzqJqZMFs4g=="
 ---
 
