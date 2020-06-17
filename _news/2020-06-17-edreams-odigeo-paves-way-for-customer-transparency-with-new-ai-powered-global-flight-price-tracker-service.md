@@ -1,27 +1,28 @@
 ---
 category: news
 title: "eDreams ODIGEO Paves Way for Customer Transparency With New AI-powered Global Flight Price Tracker Service"
-excerpt: "PRNewswire/ -- eDreams ODIGEO, one of the world's largest online travel companies and one of the largest European"
-publishedDateTime: 2020-06-17T13:52:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/edreams-odigeo-paves-way-for-customer-transparency-with-new-ai-powered-global-flight-price-tracker-service-1029317555"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/edreams-odigeo-paves-way-for-customer-transparency-with-new-ai-powered-global-flight-price-tracker-service-1029317555"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/edreams-odigeo-paves-way-for-customer-transparency-with-new-ai-powered-global-flight-price-tracker-service-1029317555"
+excerpt: "PRNewswire/ -- eDreams ODIGEO, one of the world’s largest online travel companies and one of the largest European e-commerce businesses, today announced the introduction of an innovative AI-powered flight price index."
+publishedDateTime: 2020-06-17T13:03:00Z
+webUrl: "https://apnews.com/PR Newswire/c0b3b119ca1ef414ca1a9e99ecf40f5c"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "C/EMmiJ4C+6+OfwVglrzpR2zVZphTBOfgYWdzTHwG7KT4IR7j8IntEfvUfY7itsTJ9yzHoIYnsliaMW1e9Jmpi/JA8AEF9YHMWWX/EX+UwpRYMU1knDcD1Nk4hOLYZy0CwTmICXFHtCzDAoPiYQYDIl9Ui555BFGmUmGYV6AJ6AK1jy1Jvc0unlYdYCX1c9ZxqIAa4QLHFIghUQNihsGDVwKCLXeUiLg4BAIl/PfgwLHrQMBRVtDwextthfM34G0lo403mZrik0iLgOuP55qg2xwdY96r9tD0ho4C2u9YeSL6plcoMHxCEW+ZtFFtGeay8fLggQOcOA6eAGEozO7tQ==;P+tVFsjMkXfu8z/Hyg3InA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "eDreams ODIGEO Paves Way for Customer Transparency With New AI-powered Global Flight Price Tracker Service"
+
+secured: "a4iuiauy3IIA1WzK82MOHdwuAB/63YnjwlnZ8ZYjcpCvuKkNK9Y6LsQInGDlYolD0IP37kiodCHP2cnkuAsfgmNZnJLlEb/wTYBuGiZM3aONRv34ME/JoBsl3HJKsGoNt/S+hTgYgcutN/znRCw10MaiqfD66ODZLMtW/cdqe5bi+w35drEtuIMfMv5aRo2mBL+2F1ae6eEQeIUBp3/4HT504qp9j9KPNzXhVNV/wUKU/V99tZSrMy798Bawg7sanGafeU6cl6hzGYY7+Sl1E1S2RZwsgJAJyJoPViaxaCfP4ZzLweiNoa+iSH4nouZOsMn9T84euYNTxfqGXXmobA==;0vM9pjK6s5HbOQwbH4jskw=="
 ---
 

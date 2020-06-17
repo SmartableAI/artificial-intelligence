@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencen
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 681
         isCached: true
+  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
+    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
+    publishedDateTime: 2020-06-17T11:11:00Z
+    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Tencent games to use facial recognition to identify minors at login and payment"
     excerpt: "Internet giant Tencent has launched a facial recognition mode to identity underage game players before allowing login and payment. It is the latest addition to a broad anti-addiction system designed to protect minors."
     publishedDateTime: 2020-06-17T07:36:00Z
@@ -74,6 +88,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ou+kVgASMcXGWprKKPrm0apn7qFZCFRhUitR4bA6h527q6OEDMmc3KSJuxkqk5kOme6HtrACFSn8l0TBo5B2Wm/vGYYv93HDEpyRO7sHKBfv8+oHa1u7CVtm3NDH+JvyrGwql2d42TckxF43SX0Lkiq0NpXuXdMJ/Mt60ujQ5fpvKYMSVSPMA96CnDH/OOei2M0HQPilzWdF17VRTX7dBOakEmJxQslmFX7TqLpsr0c4CQOCprgzONV9pmzBEfi2RQ+FowIIvZmOLzSeRlDJjx5r9aWraxue5wjdFpjV8cGSHtDRG1pQpRRFoVfuIWbK7zjQzQMJ9uV9TJDOuQEUhQ==;h6REM5xgFyfRba+nhMpvUw=="
+secured: "RzqYnXCyuRaY/XeVLUK1aYNGkQmk03CWXmFTUP5H/npNoIJTKmtbdod6PA9xHz2V64yBpAjCgcN9TxTq+L64TImyAeZiglQby04j+qt7OdQEgkR/qClUpeaIbOa55Wctyd6HN+q/xsI8ofjnMVUSbYaQsNEq5fu7XEC9M1xVHJ5gkYnm9ZIxITRqtc30fWysytSKdTBocGX5qetW/5NMmdU52Mh0scVAvgviGTFVDHlxpsVPY6nYm/FvniJnHZQnVZRkQMx/vP79WPLcwNRDYZZlQC1Kkh45JpgcM52r6SsNUmH9tevjCdmUjgZUneQEqkU9FGMO1RNl+8nZyxGu0Y+nVIY0455osEocim5BajALFhjB02Zl6R2Pkpfxgr2hwBg+PUyP8vQI7qwDYj1YO337szIDgBF+1RMqVdZ8t8+7A0zpI8ekFblprRXAVEySzTObeL/xLryTuy+3Bhn/5lxvqKoHmLLmqMIaY2SahHGWV4fDWnbVwmi63VrIk6YT6QvBRx6XfuiatKyTaoI5BQ==;xdV7MX6QGzehbXM2cG5lpg=="
 ---
 

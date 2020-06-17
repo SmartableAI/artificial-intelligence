@@ -40,6 +40,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "UK plans to scrap self-ID in Gender Recognition Act, add measures to protect women's spaces"
+    excerpt: "The United Kingdom is preparing to ditch plans to reform the Gender Recognition Act that would permit individuals to self-identify as male or female without any medical documentation."
+    publishedDateTime: 2020-06-17T17:30:00Z
+    webUrl: "https://www.christianpost.com/news/uk-plans-to-scrap-self-id-in-gender-recognition-act-add-measures-to-protect-womens-spaces.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 14
+    images:
+      - url: "https://cdn.christianpost.com/files/original/thumbnail/23/74/237446.jpg"
+        width: 702
+        height: 468
+        isCached: true
 
 secured: "7nv7iwps0hkFZs271v6w0Zr3IHQj+9xfGeYBSUtsBVKeQFxxfn2JB1Uqh+Z8UcCc8nCQbTa7g+xjJYb9xKQVWnXs1iamNbuZx/qEaR+c96TDDxjXosa8wiOW9zs/LAIykMO9HtpfO+Sfn61wJHqk0XeAlZTn5dmA5DKd7135gxswJzGxjnvlVlqlk/bhyN2mPGuBxHwYqQMp5+/d6S+13tuDqVgk2t74Io2rB3YkMzhXshOrkbJbquqMmHMT8b5B+3sodtFHbZln5yarM7UygCEWoTCpes1e6wWH+bV8+KzjgFTQSA88uTL0jrCzV7FjeO7vbSrZnlWbtt36Jm1Q0Q==;5mhj5NACRz+mU4uDnzCXWQ=="
 ---

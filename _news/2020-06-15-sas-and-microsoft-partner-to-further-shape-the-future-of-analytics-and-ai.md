@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-15T15:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai-301076895.html"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: PR Newswire
@@ -25,6 +25,20 @@ images:
     title: "SAS and Microsoft partner to further shape the future of analytics and AI"
 
 related:
+  - title: "SAS, Microsoft partner to further shape the future of analytics and AI"
+    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies’ shared vision to further democratize AI and analytics. “Through this partnership ..."
+    publishedDateTime: 2020-06-17T17:33:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/SAS_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-SNG_177207662/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
     excerpt: "SAS' AI and analytics more tightly integrate with Microsoft Azure; Microsoft to bring cloud-based SAS industry solutions to its customers"
     publishedDateTime: 2020-06-16T10:01:00Z

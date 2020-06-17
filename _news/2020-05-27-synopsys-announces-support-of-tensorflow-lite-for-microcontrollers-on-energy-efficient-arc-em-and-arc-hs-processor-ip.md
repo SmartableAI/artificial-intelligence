@@ -1,31 +1,19 @@
 ---
 category: news
 title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP."
-publishedDateTime: 2020-05-27T10:05:00Z
-webUrl: "https://www.marketwatch.com/press-release/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip-2020-05-27"
+excerpt: "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ..."
+publishedDateTime: 2020-05-27T13:26:00Z
+webUrl: "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-
-secured: "MVTuMnJBdrFihWrzBW2vF8tqEMy8XKBBt7aDEvPeZ1f2tCClz0pp7yRylYzcC1LjGvJ4oAEGczPz0DjVqDu4V9Bcvm+ARakQPumSatD4GbwCDoTWfOqpZR2nVCGbR3fD/nr6rdGF4B7GIKxwFZ+cnGimyNl8+WpDCEs07a5gVzBqBQvt4UVYAa3uEJCPaUrLh8WKNBcnn2M/4e3egN8CaFv+YgxUWIUIfBAikixO1CJCCvWP/AWA+7GM4fhOCG4n8Yn/hXZPBs1GRcHBAABbfnJxWyE2eM4OaTV44I5htJ9AUn5RRaDp/arZF6XmxEED6jBwcii6Xfx9NndsVuN9Hw==;gQn95PUoeWV03UM6irBNVA=="
+secured: "JDvsPUJ+Yz6yGxAP+cYaHJZHFUPlhweYFlIq+Q6QHy2YFsY1HnXft6s4yOb2jSW2JSBlzSjYWiVS+Rb6y1VWpxUU4XvDItsDpG3xiM7NlSRXK9CkLtVbE2O1CQKsWILJjW7HcV2N7HcDH5m+S/eL5L5Nv9IsiTlq8sjBLgvhFqd1TiYYTXcFETBuBlphB8r7dWVeAjlscb8P9zppm2J8XsxX4OBwc9D1x0YMNYy3UaYNmrxr7P+ZMZzodK9Cfy/g7YpXWGp+DtyMhoDo/Nh+6VeTdLVi1Rqft8wA6e1Yo18PxqcgqcZnkoNZGbYhfu3XZvF3gS5CBwSXsTYuTP2bpw==;sYVrDHR+3hUJH9tzXhKpag=="
 ---
 

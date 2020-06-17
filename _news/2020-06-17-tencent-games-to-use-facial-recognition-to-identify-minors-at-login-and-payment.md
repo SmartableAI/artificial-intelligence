@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 681
         isCached: true
+  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
+    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
+    publishedDateTime: 2020-06-17T11:11:00Z
+    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Facial recognition company collected data on 30,000 fans at the Rose Bowl game using video monitors to draw their attention and give the cameras an unobstructed view of their face"
     excerpt: "A facial recognition company recorded data on tens of thousands of fans at this year's Rose Bowl game in Pasadena, using video displays playing highlights with hidden cameras underneath."
     publishedDateTime: 2020-06-16T01:27:00Z
