@@ -2,6 +2,35 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
+      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
+      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
+      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
+      "publishedDateTime": "2020-06-10T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
@@ -992,6 +1021,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-10-java-to-python-and-back-ai-that-translates-programming-languages.md",
+      "title": "Java To Python And Back, AI That Translates Programming Languages",
+      "excerpt": "Code migration or codebase portability is a tricky yet expensive decision for any organisation, and an AI assistant that takes care",
+      "webUrl": "https://analyticsindiamag.com/java-python-programming-language-transcoder/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/florian-olivo-4hbJ-eymZ1o-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Java To Python And Back, AI That Translates Programming Languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-the-race-to-develop-ai-chips-heats-up-as-graphcore-says-its-shipped-tens-of-thousands.md",
       "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
       "excerpt": "Microsoft is using Graphcore’s chips in some of its data centers and Dell is selling them on a server. Graphcore has raised over $450 million from the likes of Sequoia, BMW, DeepMind’s co-founders and C4 Ventures.",
@@ -1037,83 +1104,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained.md",
-      "title": "Ethical AI and the importance of guidelines for algorithms — explained",
-      "excerpt": "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
-          "width": 1200,
-          "height": 600,
-          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-asia-pacific-emerging-as-global-ai-epicentre-says-analyst.md",
-      "title": "Asia Pacific emerging as global AI epicentre, says analyst",
-      "excerpt": "Supportive government framework and policies are expected to enable the Asia-Pacific (APAC) region to emerge as the global epicentre for the growth of artificial intelligence (AI), according to one global analytics firm.",
-      "webUrl": "https://itwire.com/business-it-news/business-intelligence/asia-pacific-emerging-as-global-ai-epicentre,-says-analyst.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-17-artificial-intelligence-in-the-healthcare-market-a-latest-research-report-to-share-insights-and-dynamics.md",
+      "title": "Artificial Intelligence in the Healthcare Market : A Latest Research Report to Share Insights and Dynamics",
+      "excerpt": "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-a-latest-research-report-to-share-insights-and-dynamics-2020-06-17",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in the Healthcare Market : A Latest Research Report to Share Insights and Dynamics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions.md",
       "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
       "excerpt": "Automated conversation company Conversica raked in $31 million last October, and Chorus.ai — a startup developing AI that listens in on sales calls — secured $33 million less than six months ago.",
@@ -1269,7 +1316,7 @@
       "title": "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever",
       "excerpt": "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks.",
       "webUrl": "https://slate.com/culture/2020/06/john-oliver-facial-recognition-black-lives-matter-protests.html",
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1290,53 +1337,6 @@
         "name": "Slate",
         "domain": "slate.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

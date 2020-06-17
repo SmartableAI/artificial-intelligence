@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Change Healthcare acquires pharmacy software company, 9 other health IT notes"
-    excerpt: "Here's the latest roundup of stories about health information technology companies, including Google, Change Healthcare and Cerner. Epic signed a 10-year contract with Northern Ireland June 10 to design and implement an EHR system as part of the country's $374 million digital health records investment."
-    publishedDateTime: 2020-06-15T14:54:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/change-healthcare-acquires-pharmacy-software-company-9-other-health-it-notes.html"
+  - title: "Artificial Intelligence in the Healthcare Market : A Latest Research Report to Share Insights and Dynamics"
+    excerpt: "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48."
+    publishedDateTime: 2020-06-17T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-a-latest-research-report-to-share-insights-and-dynamics-2020-06-17"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
-        width: 400
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "I+j1FEK7fWyhwpc/mi4NrI1EaQeZ6lrRXqG01u20VoujVv81Nxdw4Yj+Kp0CKys788nQvZLqiKYgL1kA9B8ttcWFFHlZ6yTWSi4s3pdJgpbp2aRUeR5oC9/kQxGFaydiWrE3eDNBER5Avb+ik9l9SOC5LJJjbmvEQ5YDNqB8KFi7gdJOySdzYeSTG+wDmeMU6pvf1MEeyEKD2NIuuXjB/G1buhJRoE7+CBIiIEUOY3YoDz8K8HmaRsi9/s8TQCAelyeZnfkhcFlBugBGtoAx60VqPjwTaQT+PWU/bGSW9yTJwNm6tE3RulfAk0cPvl/KowqT82WhH01XVbwtMvgQDw==;45wNbFhWCAeKfjjXmazB+A=="

@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
+      "title": "Your face mask selfies could be training the next facial recognition tool",
+      "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
+      "webUrl": "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your face mask selfies could be training the next facial recognition tool",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "publishedDateTime": "2020-05-19T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
       "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
       "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
@@ -1304,45 +1352,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
-      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
-      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "publishedDateTime": "2020-05-06T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

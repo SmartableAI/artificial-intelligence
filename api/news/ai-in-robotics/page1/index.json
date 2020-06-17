@@ -909,6 +909,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-04-insights-on-the-worldwide-artificial-intelligence-industry-to-2030-understand-how-the-market-is-being-affected-by-covid-19-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Artificial Intelligence Industry to 2030 - Understand how the Market is Being Affected by COVID-19 - ResearchAndMarkets.com",
+      "excerpt": "The global artificial intelligence market is expected to grow from $28.42 billion in 2019 to $40.74 billion in 2020 at a compound annual growth rate (CAGR) of 43.39%. The growth i",
+      "webUrl": "https://www.wfmz.com/insights-on-the-worldwide-artificial-intelligence-industry-to-2030---understand-how-the-market/article_844633bd-9f78-50c5-add3-387bb7014d20.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Insights on the Worldwide Artificial Intelligence Industry to 2030 - Understand how the Market is Being Affected by COVID-19 - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-south-korean-bar-hires-robot-bartender-to-maintain-social-distancing.md",
       "title": "South Korean Bar Hires Robot Bartender to Maintain Social Distancing",
       "excerpt": "With South Korea embracing techno-utopianism at an alarming speed, conveniences like robot bartender and robo baristas are becoming an everyday scene.",
@@ -1195,53 +1233,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
       "publishedDateTime": "2020-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures.md",
-      "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-      "excerpt": "A robot equipped with cameras and LED screen greets visitors at the lobby, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
-      "webUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Untitled.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
-      "publishedDateTime": "2020-06-01T02:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

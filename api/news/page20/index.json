@@ -2,6 +2,129 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
+      "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
+      "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
+      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
+          "width": 1092,
+          "height": 692,
+          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
+      "publishedDateTime": "2020-05-27T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
+      "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
+      "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
+      "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg",
+          "width": 1260,
+          "height": 840,
+          "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
+      "publishedDateTime": "2020-05-27T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
+      "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
+      "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
+      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
+          "width": 1024,
+          "height": 722,
+          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
+      "publishedDateTime": "2020-05-27T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
       "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
       "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
@@ -938,138 +1061,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
-      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
-          "width": 800,
-          "height": 531,
-          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
-      "publishedDateTime": "2020-05-27T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
-      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-27T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
-      "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-      "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
-      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "publishedDateTime": "2020-05-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

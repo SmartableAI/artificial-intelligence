@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 816
         height: 554
         isCached: true
+  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way | Commentary"
+    excerpt: "The Black Lives Matter movement notched a win in Silicon Valley lastech's support of civil rights. Now everyone protesting for police"
+    publishedDateTime: 2020-06-14T20:01:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "1HQTsEd+ZW0fGznmLtcpKUO6cvPV7BPlwcFhs2bbpM+Efb5KL4YTKZ7XoWzU4PkHyLmYa3opGXGFUZLfjOBjg9mivpe7sSAZOI41Q5WSejnon/OMjACdbsyy0nq48iKdXyEVIeToLCXwR7cFSl8LdbG2jXpoDX1Th4+GMgxpcAUvm9gcHP1D6PJDA/tkFySRhtheDXJ6vzAcvpAxdOwyEKxntD+nbiCUNZaeewExj0gDxMoVt89FLBojrU+U/Z/QVthYlmemOEG0Pcy09utk70z9awp3XMb3QkWjfrl0WOyLz3Nelotd8OM/ZSk0F2HxIDDR/7/qK3Jy5WDiB5EmKik4+UF/OWrZbY1kaE+Qy3mdrjwhxyLRjRNY8sQV2mm46ne9X2Km9ZuyzuP4LlNoZHCBHCQYWL6cXq+UqN8CSTYFA1r34pyYtNXuDzXOsSRRjiRuqEdiQ9FJB7NwCqxNwz+z/o/CAx860h8mE/l3Wi5++dLD9Xq8wqPvvtj93UOmYZ7hns46iPib7Kz6f11DcQ==;LMD/P8zv4jVHmtxPQkj5KA=="
 ---

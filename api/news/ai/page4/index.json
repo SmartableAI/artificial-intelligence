@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
+      "title": "Microsoft says it won't sell facial recognition tech to police, either",
+      "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
+      "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w=",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft says it won't sell facial recognition tech to police, either",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/microsoft-facial-recognition-police.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp",
+      "publishedDateTime": "2020-06-11T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -455,6 +493,53 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software.md",
+      "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
+      "excerpt": "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ...",
+      "webUrl": "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ee156a9329d2500bd1ab495/lede/1591826437188-Screen-Shot-2020-06-10-at-55950-PM.png?crop=1xw:0.9538973384030418xh;center,center",
+          "width": 2676,
+          "height": 1505,
+          "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
+      "publishedDateTime": "2020-06-11T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1036,53 +1121,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software.md",
-      "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
-      "excerpt": "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ...",
-      "webUrl": "https://www.vice.com/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ee156a9329d2500bd1ab495/lede/1591826437188-Screen-Shot-2020-06-10-at-55950-PM.png?crop=1xw:0.9538973384030418xh;center,center",
-          "width": 2676,
-          "height": 1505,
-          "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "publishedDateTime": "2020-06-11T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal.md",
       "title": "EU privacy watchdog thinks that Clearview AI is illegal",
       "excerpt": "Clearview AI's planned expansion into the EU hit a roadblock yesterday when the bloc's privacy watchdog said it \"doubts\" that the service is legal",
@@ -1265,53 +1303,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
-      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "publishedDateTime": "2020-06-10T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Computer Vision"
       ]

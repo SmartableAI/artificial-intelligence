@@ -80,22 +80,6 @@ related:
         width: 2500
         height: 1409
         isCached: true
-  - title: "Facial recognition has always troubled people of color. Everyone should listen"
-    excerpt: "Black and brown communities are often the first to warn about surveillance tech and the last to get recognized for it."
-    publishedDateTime: 2020-06-12T12:04:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/VfcwrOdtHoNOaKxqA6-vDsCaEmM=/373x0:2338x1398/756x567/2020/01/30/9d2efb7e-b599-47c3-84f9-d1e8e248f7b0/codedbias.png"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
     excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
     publishedDateTime: 2020-06-13T14:41:00Z

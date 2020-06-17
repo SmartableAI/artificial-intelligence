@@ -2,6 +2,112 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
+      "title": "Microsoft and Altran release AI-based tool for bug detection",
+      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
+      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "diarioti.com",
+        "domain": "diarioti.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-and-microsoft-partner-on-tiny-ai-chip.md",
+      "title": "Sony and Microsoft partner on tiny AI chip",
+      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
+      "webUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html",
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
+      "publishedDateTime": "2020-05-18T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-imaging-chip-with-huge-potential-for-cameras.md",
+      "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
+      "excerpt": "Sony says it will partner with Microsoft to embed artificial intelligence capabilities into its latest imaging chip, which will be able to analyse video in a self-contained system without sending any data through remote servers.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/19/8b4e443c-9984-11ea-96ff-7aff439fc3be_image_hires_121707.jpg?itok=KiFTvH6F&v=1589861847",
+          "width": 1200,
+          "height": 630,
+          "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "publishedDateTime": "2020-05-18T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-survey-3-out-of-4-americans-say-driverless-cars-not-ready-for-primetime.md",
       "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
       "excerpt": "A poll conducted by PAVE shows Americans are pessimistic about self-driving cars, and it's probably because they just don't understand them.",
@@ -1169,138 +1275,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
-      "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-      "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
-      "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "publishedDateTime": "2020-05-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
-      "title": "Facial recognition and your right to privacy",
-      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
-      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition and your right to privacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "publishedDateTime": "2020-05-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
-      "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-      "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg",
-          "width": 2957,
-          "height": 1958,
-          "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
-      "publishedDateTime": "2020-05-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

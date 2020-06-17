@@ -2,6 +2,148 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-14-from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic.md",
+      "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
+      "excerpt": "Companies are embracing CRM and analytics technologies to help them shift business models during the COVID-19 pandemic. The Microsoft Business Applications summit showcased how Chipolte, IKEA, and others are using Microsoft technology to create new customer engagement models.",
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg",
+          "width": 1200,
+          "height": 616,
+          "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-ibm-claims-its-neural-computer-achieves-record-ai-model-training-time.md",
+      "title": "IBM claims its Neural Computer achieves record AI model training time",
+      "excerpt": "IBM claims its Neural Computer can train an AI algorithm to beat Atari 2600 games in record time -- and perform on par with state-of-the-art approaches.",
+      "webUrl": "https://venturebeat.com/2020/05/14/ibm-claims-its-neural-computer-achieves-record-ai-model-training-time/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM claims its Neural Computer achieves record AI model training time",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
+      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
+      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
+          "width": 1200,
+          "height": 676,
+          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-14T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
       "title": "AI and Machine Learning are at the heart of future healthcare.",
       "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
@@ -964,145 +1106,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
-      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
-      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "publishedDateTime": "2020-05-14T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
-      "title": "AI models are struggling to cope with our rapidly changing world",
-      "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
-      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI models are struggling to cope with our rapidly changing world",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "publishedDateTime": "2020-05-14T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
-      "title": "Are AI investments dead thanks to COVID-19?",
-      "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
-      "webUrl": "https://www.zdnet.com/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg",
-          "width": 1024,
-          "height": 819,
-          "title": "Are AI investments dead thanks to COVID-19?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "publishedDateTime": "2020-05-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

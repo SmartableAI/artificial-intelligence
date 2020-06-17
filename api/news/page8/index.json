@@ -2,6 +2,99 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-09-jsonar-raises-50-million-for-ai-powered-database-monitoring-products.md",
+      "title": "JSonar raises $50 million for AI-powered database monitoring products",
+      "excerpt": "JSonar, a database monitoring startup that leans heavily on AI and machine learning, has raised $50 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/",
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/3f9b168a-00dd-4b77-b5e5-e44edee178fe-e1591210411635.png?w=1200&#038;strip=all",
+          "width": 1028,
+          "height": 512,
+          "title": "JSonar raises $50 million for AI-powered database monitoring products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "publishedDateTime": "2020-06-09T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
+      "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+      "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
+      "webUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "publishedDateTime": "2020-06-09T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs.md",
       "title": "IBM is canceling its facial recognition programs",
       "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
@@ -1022,99 +1115,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-us-air-force-to-test-autonomous-ai-fighter-against-a-human-next-year.md",
-      "title": "US Air Force to test autonomous AI fighter against a human next year",
-      "excerpt": "The USAF started an AI-drone project in 2018. The goal was to implement machine learning in a less sophisticated craft like the F-16 within 18 months. If successful, newer fighters such as the F-32 or F-22 would eventually be outfitted.",
-      "webUrl": "https://www.techspot.com/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg",
-          "width": 2560,
-          "height": 1705,
-          "title": "US Air Force to test autonomous AI fighter against a human next year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "publishedDateTime": "2020-06-08T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
-      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
-      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "publishedDateTime": "2020-06-08T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

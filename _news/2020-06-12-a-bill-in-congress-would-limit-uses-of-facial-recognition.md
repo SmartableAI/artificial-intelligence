@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3070026/191025-brad-smith-al-1430_30d02ca4c5439f5585b0b8ea0eb59e79.jpg"
         width: 2500
         height: 1409
-        isCached: true
-  - title: "Facial recognition has always troubled people of color. Everyone should listen"
-    excerpt: "Black and brown communities are often the first to warn about surveillance tech and the last to get recognized for it."
-    publishedDateTime: 2020-06-12T12:04:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-has-always-troubled-people-of-color-everyone-should-listen/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/VfcwrOdtHoNOaKxqA6-vDsCaEmM=/373x0:2338x1398/756x567/2020/01/30/9d2efb7e-b599-47c3-84f9-d1e8e248f7b0/codedbias.png"
-        width: 756
-        height: 567
         isCached: true
   - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
     excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."
