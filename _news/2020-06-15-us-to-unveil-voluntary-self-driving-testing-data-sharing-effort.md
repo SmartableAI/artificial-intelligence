@@ -129,20 +129,17 @@ related:
         width: 720
         height: 812
         isCached: true
-  - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
-    excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
-    publishedDateTime: 2020-06-12T13:24:00Z
-    webUrl: "https://www.eejournal.com/fish_fry/hearing-is-believing-artificial-intelligence-cough-patterns-and-stemming-the-tide-of-covid-19/"
+  - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
+    excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
+    publishedDateTime: 2020-06-16T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 24
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2020/06/AD-200612.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 36
 
 secured: "FHNQz8Wh8XkVfWcSvP3aS2zC5jbjxIv3DWaq0LVJduJxz82QA0XaNBrOuC64QaADQctdd+tHNB4QBb8MHLqdSil8yISGbaCwUK9uAXo3u40UO/P2tvtyiNO0iwO8nzZ58CyyvDUU888429NM1yYXaJsriyzQfPqbd3u5NUf1xWFeXMWIZeMQwzhh+CSQa0sjQgG8/0UCntYOn6NDQ9f7htc3qgLwlph0iHGQPorBoDY53GT1gCexhmBDfad0pC6HZRvR0YnpEmNpVlLrHJ0ar9bjDrNjktkPwRU6issbHAsf8NIo6Tc/W/HkcC5bZ9Fx4qpnze0WUMP9Zq/xoTAg5g==;xYnSRxSaDZHvc8QNOoINcw=="
 ---

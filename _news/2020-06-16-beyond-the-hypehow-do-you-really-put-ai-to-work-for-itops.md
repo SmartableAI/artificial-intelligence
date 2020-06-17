@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Beyond the hype—how do you really put AI to work for ITOps?"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-06-16T18:09:00Z
-webUrl: "https://www.computerworld.com/resources/204691/beyond-the-hype-how-do-you-really-put-ai-to-work-for-itops"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-06-16T17:55:00Z
+webUrl: "https://www.cio.com/resources/204691/beyond-the-hype-how-do-you-really-put-ai-to-work-for-itops"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
     title: "Beyond the hype—how do you really put AI to work for ITOps?"
 
-secured: "ehCrzr/2CnMC8tLTu4yHFXI1j7v/YrNkAj9zJs9fq/V+D5SRnHhamYKZx6kEBFKzWjJwa1DEtvsC1vpYNHMoNVidsLxrwb91im+fuhMybIt6HHV/QfmHxf9krbl9LKbn2mclq0/l5sOAZEmooIvrh1gJL76FXTCjJ6a8o2SN6nqVecrNyM3j/sGliyME0MZQzdW2LMJRRUkSY35a38FnUTbjc+g3Io+ld2wK28YJwTL5oCmXR27aP5oYQICXVf04o/upKpq4IQmltfcz9Kid865WAOzjnk4xkTORb8cqYuHF6h610edcZwFaMDhpHAQmZApUIbwrhiDtgxQmqYYEpw==;YZtrf1hAcJBWRqsmbcEzBg=="
+secured: "T7CC+PzH3nMSCDD1EWuRySuFzrEcnzikoR1tGPNRnm4g5OlPki+L8Zp27XV0RGSm7XIgwFCu6un4DkULFDjtvhAkCtnaH2jfQi0Mq/P55Htu3WvYrhsPOZdHLNdcMqmjbflBKHMrc9hvem1C/Iol+7kQ+2ZhGPGHYykQ5KxYIihVXltMzsR5UK6gcxEyb1bD7cmsirkY1dGOXHN0c2Vxad4rXomBx/uokgw21Jrg2VxQ7KCXZmlSQaFP07JrLlQ72ZFo74GdP4LxaExwr7QnaNQg7kThDWYFZKYk3KJM2Q0EVcTTjUSy+yWXRFfiZZ3okpVakMtogOvmXrwkvyuCtg==;eQxnFzLobBdsDeUQrWevCg=="
 ---
 

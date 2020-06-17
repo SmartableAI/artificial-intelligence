@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-12T18:12:00Z
 webUrl: "https://www.executivegov.com/2020/06/aws-releases-general-availability-of-amazon-ec2-david-brown-tim-miller-quoted/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "AWS Announces General Availability of the 6th Generation of Amazon EC2 Instances"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced the general availability of its sixth generation of Amazon"
-    publishedDateTime: 2020-06-12T15:03:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-the-6th-generation-of-amazon-ec2-instances/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 49
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Intel_shutterstock-1500048230_700x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "1Y2/gX977gDRfrFSnMtfaS1+AXWFKLqYo+6PIrBFtnjpxn6q63epi/92ICyQMdm1Rt+EJZBsaROr7CQ2ypCbA1qvkkcwZ2KwzneEAsWCBiPvSuRTJZXzX6Xm+EZ/6LE6/X1zU5kCsiJaOcqBqmfBbyl/7LMX4aEGRUFuEYervZmD2QxfIp/DM7iqKhNG71tr6VRIGEqR9CqESJd7LxGN2sR9FtBC6PHq7+HsxKHbETIXayzooQhBWddU0COimWnWLA5cLVHoE2N9lZpIoBvGxZhtCyph0AEl6Ip1+PRJFARfQgFnwRothnlcN76pQACDZg2xo/2Aq9uVMVmfAGjGLg==;FsDwDSiggEoKEdBn2obR/w=="
 ---

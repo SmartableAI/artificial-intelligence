@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
+      "title": "Benefits of AI and Machine Learning in Customer Service?",
+      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
+      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
+          "width": 800,
+          "height": 600,
+          "title": "Benefits of AI and Machine Learning in Customer Service?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "publishedDateTime": "2020-05-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
       "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
       "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
@@ -1235,44 +1273,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
-      "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-      "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
-      "webUrl": "https://microsoftcaregh.com/2020/05/01/microsoft-digigirlz-ai-class-high-school-girls/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/microsoftcaregh.com/wp-content/uploads/2020/05/DigiGirlz.jpg?fit=960%2C640&#038;ssl=1",
-          "width": 960,
-          "height": 640,
-          "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

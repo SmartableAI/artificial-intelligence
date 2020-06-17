@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/bill-congress-limit-uses-facial-recognit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft won't sell facial recognition to police without federal regulation"
-    excerpt: "Any future law must be “grounded in the protection of human rights,\" said Microsoft president Brad Smith. Microsoft will not sell its facial recognition technology to police departments until there is a federal law regulating its use,"
-    publishedDateTime: 2020-06-12T14:54:00Z
-    webUrl: "https://www.nbcnews.com/tech/internet/microsoft-won-t-sell-facial-recognition-police-without-federal-regulation-n1230286"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1230286"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1230286"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 86
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_24/3070026/191025-brad-smith-al-1430_30d02ca4c5439f5585b0b8ea0eb59e79.jpg"
-        width: 2500
-        height: 1409
         isCached: true
   - title: "IBM, Microsoft And Amazon Not Letting Police Use Their Facial Recognition Technology"
     excerpt: "In the wake of protests around the death of George Floyd, IBM, Microsoft and Amazon are now denying police departments access to their facial recognition technology."

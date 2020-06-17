@@ -2,6 +2,99 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
+      "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+      "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
+      "webUrl": "https://www.entrepreneur.com/article/350752",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
+      "publishedDateTime": "2020-05-18T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-ai-is-disrupting-the-b2b-space.md",
+      "title": "How AI Is Disrupting The B2B Space",
+      "excerpt": "Artificial intelligence (AI) as a service is becoming a reality for more and more consumers, and with the major players launching their 5G services last year, many enterprises across different industries have added AI exploration to their agendas.",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F61.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Is Disrupting The B2B Space",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "publishedDateTime": "2020-05-18T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
       "title": "Should AI assist in surgical decision-making?",
       "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
@@ -1047,83 +1140,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
-      "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
-      "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
-      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
-      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
-      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
-          "width": 811,
-          "height": 545,
-          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "publishedDateTime": "2020-05-15T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,99 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-08-artificial-intelligence-in-education-transformation.md",
+      "title": "Artificial Intelligence In Education Transformation",
+      "excerpt": "If we want to create an experience that is equitable and enjoyable for all, we have to eliminate as many obstacles as possible.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence In Education Transformation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
+      "publishedDateTime": "2020-06-08T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
+      "title": "The Impact Of Artificial Intelligence On Professional Services",
+      "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792",
+          "width": 1200,
+          "height": 800,
+          "title": "The Impact Of Artificial Intelligence On Professional Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "publishedDateTime": "2020-06-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
       "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
       "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
@@ -1230,82 +1323,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
-      "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
-      "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16188602",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602",
-      "publishedDateTime": "2020-06-05T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
-      "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
-      "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
-      "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/05/a9c5d24a-8255-404c-9243-ecd2ce42d484/ezlmoxkxgaewous.png",
-          "width": 791,
-          "height": 581,
-          "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
-      "publishedDateTime": "2020-06-05T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

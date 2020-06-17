@@ -2,6 +2,82 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata.md",
+      "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+      "excerpt": "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata.",
+      "webUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90=",
+          "width": 1200,
+          "height": 630,
+          "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "publishedDateTime": "2020-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
+      "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+      "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
@@ -1193,92 +1269,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-aws-facial-recognition-tool-incorrectly-matches-over-100-politicians-with-criminals.md",
-      "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-      "excerpt": "Amazon facial recognition tool Rekognition incorrectly matched over 100 UK and US politicians with police mugshots, tests found. re",
-      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool/amp/",
-      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-facial-recognition-tool/amp/",
-      "publishedDateTime": "2020-06-01T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

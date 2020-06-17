@@ -2,6 +2,91 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-14-generation-and-evaluation-of-artificial-mental-health-records-for-natural-language-processing.md",
+      "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+      "excerpt": "A serious obstacle to the development of Natural Language Processing (NLP) methods in the clinical domain is the accessibility of textual data. The mental health domain is particularly challenging, partly because clinical documentation relies heavily on free text that is difficult to de-identify completely.",
+      "webUrl": "https://www.nature.com/articles/s41746-020-0267-x",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0267-x/MediaObjects/41746_2020_267_Fig1_HTML.png",
+          "width": 685,
+          "height": 571,
+          "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus.md",
+      "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
+      "excerpt": "Nvidia Corp. launched its newest line of chips Thursday, detailing artificial-intelligence capabilities up to twenty times greater than previous",
+      "webUrl": "https://www.marketwatch.com/story/nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus-2020-05-14",
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IG441_Nvidia_ZH_20200513150145.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
+      "publishedDateTime": "2020-05-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-simcam-1s-security-camera-hands-on-ai-facial-recognition-and-super-loud-siren.md",
       "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
       "excerpt": "The Simcam 1S security camera is solid with a nice look and feel to the camera body. It is slightly smaller than the Netvue Orb 1080p I looked at earlier this week, a similar size",
@@ -1208,90 +1293,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
-      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "publishedDateTime": "2020-05-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-google-cancels-ai-ethics-board-just-a-week-after-its-announcement.md",
-      "title": "Google cancels AI ethics board just a week after its announcement",
-      "excerpt": "Google canceled its Advanced Technology External Advisory Council just a little over a week after its announcement, according to a recent VOX report. The AI ethics board was supposed to oversee ...",
-      "webUrl": "https://pocketnow.com/google-cancels-ai-ethics-board",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2019/04/office-photo-building-illuminated-google-zurich-inside_7bbef648-5050-11e9-b593-df9071890b8d.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Google cancels AI ethics board just a week after its announcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

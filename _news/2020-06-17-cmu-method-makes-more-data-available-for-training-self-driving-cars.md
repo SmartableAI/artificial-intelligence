@@ -127,20 +127,17 @@ related:
         width: 974
         height: 683
         isCached: true
-  - title: "Hearing is Believing: Artificial Intelligence, Cough Patterns, and Stemming the Tide of COVID-19"
-    excerpt: "K.C. Cole This week’s Fish Fry podcast is all about noisy neurons, cough signature identification, and how AI can help us stem"
-    publishedDateTime: 2020-06-12T13:24:00Z
-    webUrl: "https://www.eejournal.com/fish_fry/hearing-is-believing-artificial-intelligence-cough-patterns-and-stemming-the-tide-of-covid-19/"
+  - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
+    excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
+    publishedDateTime: 2020-06-16T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/16/should-a-police-officer-be-able-to-shoot-at-a-moving-vehicle-and-what-about-the-case-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 24
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2020/06/AD-200612.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 36
 
 secured: "7ydkiGhmePax9HqrCluYavishtoFL9s18FlXe6wOBtr9YLPQ0nVPe0V2eH/kv6xcBCDseESH8Qlk+UQa+Jvm7xVNryPuV6Vr9+m08NmKEb2bUxTnidT/27uSwKpSmLXeLvBwsZ0wu8Iwfu/K4yJ8tTeYakpG8m+o1alL1GR0q0tYh4IBDglU/6wiawog2B9ajWDCA7SEQtfhATzaXBuN/a3ce5EfHbnFazRwJ24tLjk1fW0WmLwu1SLI/PsN+SqQsjUonSRREzdTvTpEvSLlhahaLxBv6est2ogKGFOWiSJaSIpr/Z+k9tkdDbJmsO3iNKMfqjh8fHhvUcjGAKPATYOTuXM5KaCUqqN3jH4gq3/uQG9m1quc3ssVyGp1YofinnfZvPj559ARRzWYHJTR3hBqLnyHQvFYUnhVGSnL8boCKFCsPZbJ6/ODN0nlAJqsrax12HMdY/wMiyzuoP1iqGo5FlCNWrH2wK38tugmG60nAD1EugV8FECBjN6Ba57XrB7ZFGYvr8eqsXtplJjEQA==;Te8p8mzrYNlY7XORj8p9aw=="
 ---

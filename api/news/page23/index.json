@@ -2,6 +2,90 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
+      "title": "Rico Gear using artificial intelligence to create rugby training app",
+      "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
+      "webUrl": "https://www.tvnz.co.nz/one-news/sport/rugby/rico-gear-using-artificial-intelligence-create-rugby-training-app",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/26/GEAR_Rico_173888.jpg?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Rico Gear using artificial intelligence to create rugby training app",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "publishedDateTime": "2020-05-26T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker.md",
+      "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+      "excerpt": "Borussia Dortmund v Bayern Munich will be the first Bundesliga broadcast to offer xGoals and Average Position 'Match Facts' to viewers, powered by AWS infrastructure",
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214865857%2F0x0.jpg",
+          "width": 1200,
+          "height": 752,
+          "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "publishedDateTime": "2020-05-26T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
       "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
       "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
@@ -978,91 +1062,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
-      "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
-      "webUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/micromobility-comeback.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
-      "publishedDateTime": "2020-05-24T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-artificial-intelligence-can-make-personality-judgements-based-on-photos.md",
-      "title": "Artificial intelligence can make personality judgements based on photos",
-      "excerpt": "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientio",
-      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_16270340/thumb.webp",
-          "width": 800,
-          "height": 533,
-          "title": "Artificial intelligence can make personality judgements based on photos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos/58c5dcc1-e61a-42bf-bcb5-f8583ec49d70",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos/58c5dcc1-e61a-42bf-bcb5-f8583ec49d70",
-      "publishedDateTime": "2020-05-23T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

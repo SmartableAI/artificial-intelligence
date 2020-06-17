@@ -38,20 +38,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "Artificial intelligence makes blurry faces look more than 60 times sharper"
-    excerpt: "Researchers have developed an AI tool that can turn blurry faces into eerily convincing computer-generated portraits, in finer detail than ever before. Previous methods can scale an image to eight times its original resolution."
-    publishedDateTime: 2020-06-12T13:26:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/du-aim061120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/234579_web.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "DSuLIXE2zPZy/FfdBYBFjhy/oPXAtYQ7XesRI4E4wnRqebxBxxhBQ0pODm2AM0Z5KBDjKhynV/fe8W64iZdB4iU9EUnZqVb/Xi0X8UBxEVElDLF2w5xontziRa481gg5hro7+MgolhudNjjlc00DyW2RlO0y6Sw/io+nrKHLUKzbEj4UAeidKZrMtiheYqqrZCzww8k1zOLpx/RH9At7DOX7xJCXTkHiRA2DooOHmrrb4acwTGGeJm1sXuQ7BNebRHFScsOrnB+u2jvzp+E3I5M6qc3Z7IrKqwWob7lDHvZtUBJ40h9mbj0VkP5v9jDzh+BhU10YkaBH/L2xs7CxqA==;ruCsxhlJPjecca9/p4uQMA=="
 ---
