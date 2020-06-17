@@ -15,6 +15,7 @@ provider:
       height: 50
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
 
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
 
-secured: "z+EFmvW8slWgnoOPenNqcnjca1OYS8lxqL3O6inMkZvFmSCKFbPpgMC7QLv5x4cqe1sInNcRSAKFWHYBkZWfHr2YWuJUg0X6SkQeOb8E6xT5UjurAlPiM+cs4l4JMaCevKA7jI84IBdavgtRizZO1AcVHl3nmV+HxJyzaGCt8O7hgDOyxCaG0s2fCnMONSbasDLxyTcdzCcf7bC7/96YCfY8HDVXud+lO0QM2na9k0RxgCAEDvJB4eAV0YJPeVMUxmukFc3qAB/c0SCRKc1zwEffVKCv7eh69x/FsRZGT6FDVyg66MLss6unWmiLN5pm0tsxwMotJmtxk0Zqee/guQ==;f+BWCrH9EZwZ81JIFzQpug=="
+secured: "F6AL+8uj5xGZQh/fPbP0bfoi0mDGCcBKjQBQLiGmaDl817ZTml2tDHtjy5zDJ6BSWz8mgUAbEUtUiWr9BRhAwmIMS2O0Hk9yOR4QoZtCtu0gYbO0tatAtyKN0KQGKj8WY3fydfoA2uHMQ1GPsAPSXR099yZCuKGXUAD5nea6CGCLxMXPR4cdtJlPgcuhmpvaTdSxJxEjML4ymNbT9ueaCZLLSLM6DqroOQC8rBGjsyNBs+sDX6sXjHjdIRiQkdeX/evHV6Ly/oSiL4Q6oya/F2H7Vt/Xk1i6gK1rjgYmwfYiDLfEZdvDduuCZHvd7jci8fZxcBC2QszKtxuaDLvp2Q==;28Lbkp+u67k2jidqKGcUIA=="
 ---
 

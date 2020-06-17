@@ -148,6 +148,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Facial recognition faces a rethink?"
+    excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
+    publishedDateTime: 2020-06-17T03:25:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "3c4PNVtbUtIGxHDIDQZxMWcYljgg7Ok8UWqbOnstjA9KS2yWMU6f5XU7rOQUYJCjXPcgK9/xmV1ydq/F/hsYmWM3rC5byqSGSD1TzfU/DNqONnpeWfrb1fcm617o8zZ9lz4Xe9oTCt8VRX2T8w9Ny8nC1wh3CKCtYR4KoemlXYYJ04AuKo/uPb9lQr/HT786qQsz6SOF67bW2hb+8a4+Qi34oLxktmIJKfhCnmf+XiUr+4cQmE7Inhn0vJyNXEqgaH+higm3y9iVkvnJJRq/ZxlnNS0tkVATn3hYLSLpaA3q1UybgrD+fXZPamQNO1MyyUNqHMf+/3CKMbbGE4sDX03FTDjtm4BblIqaUT3R/cveVwQieJ7DifEN5arXANPkK9Hx5mqA+tKeew1BLMaT7hOvL5gNtjEXJ+Db0/qk9f42dGIGc+DKP2ZKuBGXjZYh0BHrELqHJxuUeFrWCqpMoL/r+bXJXJQcOPubf2SfRbZZxCWk/JSn1qtbVM9tsTp0bLI4HCoqF2KTuGRzlX2HWg==;QEU4dcoOY/pf4TbgTLXAcw=="
 ---

@@ -148,6 +148,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Facial recognition faces a rethink?"
+    excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
+    publishedDateTime: 2020-06-17T03:25:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "gHNqD/wEaHsp3UX2/14aldsVjEIllReIbXpX5BYVqcURlT2Pg8LvPEBg4Pd5xKewfDdTG2LrwlfHcRWAwgNqpC+g5Vy4uG+SSGqX4pr88F9SDaKKH+yTdsbA5DdXyNKA/TKl89gyyV8NHyM1W45wndMRdm2WillWu7oJNw5gijzOTU7X7OArgBLVS2LZrrJkc5na5eoxJ2VzEuoo8WPgcfb+ErqmqXW676An47hnGWn4vFAJGVkmBsf4aIt4/CTuTqbqIez9cgVTJBwVl8zH6OeXPPlDw5jSrRBle+VpjCpoENzm2XP/rBz08IzTw29InGWAYA7vtAdmnIYJCaczHA==;lOxwfI0PVkFcTiXhj/YEkQ=="
 ---

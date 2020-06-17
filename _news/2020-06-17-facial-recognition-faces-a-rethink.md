@@ -1,37 +1,46 @@
 ---
 category: news
-title: "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?"
-excerpt: "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done."
-publishedDateTime: 2020-06-13T16:36:00Z
-webUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/"
-ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
+title: "Facial recognition faces a rethink?"
+excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
+publishedDateTime: 2020-06-17T03:25:00Z
+webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
 type: article
-quality: 118
-heat: 208
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Australian Broadcasting Corporation
+  domain: abc.net.au
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-    width: 1200
-    height: 675
+  - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
+    width: 700
+    height: 394
     isCached: true
-    title: "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?"
+    title: "Facial recognition faces a rethink?"
 
 related:
+  - title: "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?"
+    excerpt: "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done."
+    publishedDateTime: 2020-06-13T16:36:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 118
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
     excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
     publishedDateTime: 2020-06-13T16:48:00Z
@@ -153,21 +162,7 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Facial recognition faces a rethink?"
-    excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
-    publishedDateTime: 2020-06-17T03:25:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
 
-secured: "lHZYdov51u2+4OJ8BB/mOv7tlBSyCRIN0UomcXL4PTE+I1k4ME6S5+kXkw4bxKcQk4w4poNIlobjkhnycvvY0qYV0BLW80LgnPPaO86vcfbjojPWM/sZ3ADiaz9O56D6dRn94tygDKcmPl7fgRv6XM8/TxQPwO8lk8wVWVleUSiHYHQStxW+aK4dADeXvz+zCAkT5SZYAuH74DGS9sVdUdeFe+N5ttxE2ndSXeBorW17U562gjnSNEeNC7N5krg1rsBhDphHch95VnD4er6Vdx82vjj1RCuWrxJopjs7UvBCSbBKG9ZihexrDHl5usMYCi6XYGezwdz+GtAMazFJn8d9Sm5fzi1IST6Cxf/h1lXYJwLdDqE6Y00iMpM+pAl1f/E7EUELkkRuLuGKgrXSU+0lvKKFACUp2klV/i4NIrtmyIPKG7GvGry93E2hZBwjh1Dyf/0IVdAWP97vwmDJKRvrnZF7Dtt73Ycc6/JYhHGD/0Ts+pGfruBjsXJeDAfb;gToI3sjRfx0g2EaDlNHYkg=="
+secured: "r/Hp1mF+XO651WQKBtxUtSzBcEkso7zIjEFCWQLKtucGsHq3Hd63TTHV5Ykjn2ukze8dX8JIGIRjRO3xQ/iBdTrBgDWouvl7Hmp6MTCRQe+g8Gxroa8jaqHtLLIE9djyHt+EmJlFze4JRxIvW8m+Hw8bRyymZMNtPIWoQ/iLexMP4hazHr9nGEyMV8lieZnU6Q3SPG3ZToYtsjlY4al5FTpEk6T5m2/I5PZ5+FjEO+HXC0+IxVH6SR3n0kpmTrkq5PuuQSagsbCbWvSibKAsprkEJ7pC6TLgfr9aGI3Cs6H5Bm2sYX13d5PAmICd+OyY7lzDJpwzuiZ+e/2w6cSW1Q==;IYY0OfFb5XMiF4RIY5n4SA=="
 ---
 
