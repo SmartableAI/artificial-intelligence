@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "IBM Named an AI Text Analytics Leader in two 2020 Forrester Wave™ Reports"
 
-secured: "ObdtpZYMAxWyL68RlkaXN2TG6Sr/k75lsFw7zuYzp5A7ubAKunFrPmJbXlHzvIuJTrRWhiNNS6i/3fqiD8xpRnnLrm4ev+Wm1TuBDCYCkWVFKva79dgnFR/G7SRhF2P345dBmVrkYO4DQSlc8N4ClmhFWXXZ+4RdB7SPXg3stIUoMUkZYG38+qT0HsYZbwMy9kJOybo5z8KLNeqWKq3PFhV4DLglHGDJvDYazAPodvTbrydF27ucjyPE51zpC4iIP2UPaFlWQSfvddxNCC1x5w7lmG7MUcglgqQhJ1zWXfO+ynFq9+B/RCFKNcnepw8J8O+TTZwVvZDbQqj0+NSzmA==;b9GrnFjPw8d9eETJ0AQ0eQ=="
+secured: "SJqlVFmd49gvVj9kcKFqGSd7Bx64iLMrU5RD2QBa0xbzPOzZvayRG+XTfEyugT2FCspsj41MtuaJqnNaEK3kxkDeUkVoAZr8xb2G9XYdBaHmuxxKwBSPNgm/jUMNag4Ao1ZnHrqvdR2PSjOrHLKj8EsV8uSmUcjiwQ7J9qEsBn/6QgIq1TXNeNB+Occ18XBUZopFm/WO1YFcm5aJkyvTUDY1BGjqIvGvBVeirdwmuOpR1VSUgXom4WtNIaySpKDKq17eUWmUDsk4gy7kSSFD2DMoqOpp5W8+mggWf+pzHvjfIRSsuyKBMPx2xSA4i2zpTBs+w0ZyWyhHhZGNhEX70w==;vkJwvrhw3eVbYkkhSwBxfw=="
 ---
 
