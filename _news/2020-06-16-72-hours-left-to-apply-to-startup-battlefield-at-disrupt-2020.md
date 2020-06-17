@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

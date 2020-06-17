@@ -41,20 +41,6 @@ related:
         width: 3381
         height: 2550
         isCached: true
-  - title: "Biometric myopia risks stifling the facial recognition debate"
-    excerpt: "The rush to suspend the use of facial recognition, and the use of reactive regulation, risks stifling the necessary responsible innovation to get the technology right."
-    publishedDateTime: 2020-06-16T06:20:00Z
-    webUrl: "https://www.afr.com/technology/biometric-myopia-expanding-the-facial-recognition-debate-20200616-p5536d"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/e54691db479e878d890e82dc42a81d94e1fd4ba8"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "PsWmSI8vLt/ZN8eSpl+zbI1egcn5TQERtr6oBd0HKFtNkO2T31s74XqNGlccWuUlY5FdjhmYWfGx1xDUit4TxBfupYsBCTczpFSfYKUC+ky+xHvc+rJmOus7p8BnIQuL2Zv411pVSSa4A0APY4hDQNUYrJ9cjY5PodbEqHoEtgVDpmSAixiD2AE7iBSYhN6qrfNWuJ9ynmQ/aLgexKJ16q/BMbEDwroiFZstdt/ZkxYUHTWWiROyulgJcBBT7iP2IQGUr7YOaRLcauTLa27EOaEYMCcGnMHab6ncprYjsWQncTpO2V4cpP+kr8VXhhP5BzS4fTNTbWWNwJ46emDnkiHWY37sPYpL++0xg9NfGgSKCic6ADmXLdVBTe42msKA2l9DEiGmTsuG6y9ZL1U/YEChUuhVcj+B7Gg4ga3sxEKhGCbdNv9OnNdqZ+SnEnYz8lyAYBmbY8q6JLLy+ERp6zpWqGcyOmyCCzDJ0sWf23LzK3kMA1okUGkZbDJd7dfDnUnnRAJwJYA8cN2+VPDWDg==;Ub5TbWd1ZOmz9WGaHIIOSw=="
 ---

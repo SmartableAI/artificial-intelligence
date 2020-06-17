@@ -55,6 +55,17 @@ related:
         width: 1024
         height: 436
         isCached: true
+  - title: "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production"
+    excerpt: "Father of Multimedia Computing Appointed as Chief Technical Advisor of Huami AI Research Institute, Announced on Huami's 1st Innovation Conference \"AI to Decode Future\""
+    publishedDateTime: 2020-06-17T13:52:00Z
+    webUrl: "https://tass.com/press-releases/1168731"
+    ampWebUrl: "https://tass.com/press-releases/1168731/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1168731/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 54
 
 secured: "d++7CwFAVao7mwrn8SMDZlKXmLACD69W48kntv5UwiC81wdjHtrlbrj8QrzPWtnJfXFOkQ83cbW2ej1wu9nT0XMY1CnLkSjEnoR+33MtySnWZBHoGgNOsLuhQYfuv1jqwEe1rv4x0J9eFb+UdFlYYQouiUVz9+D4Jgn9iQE8ECGnTp5DQF2/ZzkgtZMXeB7RI9QB4NQ+987ocOgXaqtrGHnJ1Cdwwxj9peftFXH0jTrwKXutaPGLTozSE4UWOXtoOq65RjAvJRG9JlR2Z1oadV8cKsbOVkCMu5sW9rUcoTyPgS8c+4W4oHjSFJy9c9oUUlgBvYBYGElT7hP/p6XGIrvWbVXLh1GStxovg/QhX3r9kK9em5/S/5+Ku0zikFJaQd33rnOz1H80bN7dV0NigHKcZPzfkS7g15GQ98vv+llRSP53ETzIXAOIhfFmtf8Dt/rRkgV/ZbEyOeZJ3K+2738JILYQSY0M6RQZx3UNGdl7cMerHvQvEglungd/Y0sZOy5/LsnHg/SixWFbErbixQ==;8r0nlh7ifUCRocMTPiYOlw=="
 ---

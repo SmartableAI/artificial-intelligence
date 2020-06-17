@@ -25,19 +25,21 @@ images:
     title: "Researchers use machine learning to predict heart damage in COVID-19 victims"
 
 related:
-  - title: "Machine-learning tools find targets old drugs can exploit against COVID-19"
-    excerpt: "Researchers from UAB’s Precision Medicine Institute have used AI to identify hundreds of potential treatments, which are now being tested through the COVID-19 research fund that the institute helped launch."
-    publishedDateTime: 2020-06-15T17:42:00Z
-    webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/9150-machine-learning-tools-find-targets-old-drugs-can-exploit-against-covid-19"
+  - title: "MIT researchers train AI to predict how humans paint works of art"
+    excerpt: "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art."
+    publishedDateTime: 2020-06-17T13:19:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/"
     type: article
     provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/68aa0227ce1aaa38c452ab4eaf17093d_XL.jpg?t=20200615_173153"
-        width: 900
-        height: 676
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/MIT-painting-ai.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "UFgTPaom6dzs0vcwz+NH2v7qLGAat/EuCuBoIC4LQEEs5DD1Qv5bIGXNgQhX3WPfUTVGc6Vs3Ii2quLm+nzG8pL25aLbbls0od3ehWGqK4TIOfzTNkSQ/9Wb8Wiz1E6fd1itfLYqGtmwfeXx/Ad/2rJqDOWr7eqE0CfnNK96MXWx169AjqH9/AhjhAi9wJb5FwzAFtQndrpMxb6iZexcvG/A4Xb46tyB9JSVOhocIH8zBBQRbgm5NlLOtADOr6mv8N9dyqlbA7+dDbcfW9v67kE3jybWwfnBZhYRb0gle3i8qJO7lbc2+y8ltQ+Qh8AqGOGuZUinpLExDop9+brxS7cdt/chiLGN+88zeaPORCEip2WI1RqYGIKMENtU6hzj/FHIQglMnfNbZydOcU1dz7ooo/jxJXn6kodheHzxxPXktm3g23gPHx6ws4RM5oJx73ZHkojZ1CQnOJg4WM/8TnU10+Nw4fVqyYv/TLRa69EqX65gX22NdfAa5+xs921e8/GKWsokYJuJ4gij5z4sDw==;94Mi9bwhCFwLhfneWTrfxg=="

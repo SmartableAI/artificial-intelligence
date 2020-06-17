@@ -1,0 +1,47 @@
+---
+category: news
+title: "Broadridge Executes First Trades on AI-Driven Digital Platform"
+excerpt: "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
+publishedDateTime: 2020-06-17T13:50:00Z
+webUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/"
+ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
+cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: Finance Magnates
+  domain: financemagnates.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg"
+    width: 880
+    height: 400
+    isCached: true
+    title: "Broadridge Executes First Trades on AI-Driven Digital Platform"
+
+related:
+  - title: "Broadridge Creates New AI-Driven Digital Execution Platform to Bring Next-Generation Liquidity to Corporate Bonds"
+    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global fintech leader, today announced that its new AI-driven corporate bond"
+    publishedDateTime: 2020-06-17T11:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/broadridge-creates-new-ai-driven-digital-execution-platform-to-bring-next-generation-liquidity-to-corporate-bonds-301078341.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
+
+secured: "VDqWhLPtQ3BszDZGkeLpTrbvm7//LipAeo8s2vufp3F838uRtwYF8dmcwAFKajYd9HoVCqagVc+Nflp32AMX1y2UspTpFFm1Ih5R8clwmxK+U6Jmr+yHXGyWNfhNYdgFqZNkjPD6XPl+SsDanr2ZwbE1vTaZ6kyUv5HQxvAQtDAv4n9uGwPkzZKwusmBqcwYpLcQIxoQKmttki0dgd77tn4s4VxDL+SvZwm3/xu8idZUTdIzIm1voaIW6ltjGUYD+ys7xyBDmMoDHPnTVQzBKFq6JX5GVSn8BKp9aH99l8iGWo6X8SXrdmdu9+2kdzm5vLDmoYFbuX1E5P5nhlSW8Q==;Mk/R9+BU4x/mpxjOho3w4w=="
+---
+

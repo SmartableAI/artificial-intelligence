@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T11:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/broadridge-creates-new-ai-driven-digital-execution-platform-to-bring-next-generation-liquidity-to-corporate-bonds-301078341.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,23 @@ images:
     title: "Broadridge Creates New AI-Driven Digital Execution Platform to Bring Next-Generation Liquidity to Corporate Bonds"
 
 related:
-  - title: "Fenergo Launches Fen-Xcelerate, A SaaS Client Lifecycle Management Solution for Mid-Sized & Boutique Financial Institutions"
-    excerpt: "Fenergo, the leading provider of digital transformation and client lifecycle management (CLM) technology, today announces the launch"
-    publishedDateTime: 2020-06-17T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fenergo-launches-fen-xcelerate-a-saas-client-lifecycle-management-solution-for-mid-sized--boutique-financial-institutions-301078037.html"
+  - title: "Broadridge Executes First Trades on AI-Driven Digital Platform"
+    excerpt: "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
+    publishedDateTime: 2020-06-17T13:50:00Z
+    webUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg"
+        width: 880
+        height: 400
         isCached: true
 
-secured: "R49yKeW0iiQ3kdcbbHaeyfRgdXNULGp3E9+dgJNJ8k5AFmTx0l2sVgtSCixPUnYnJhiONLUU9A1z2OTrbSBnGR7hRRv6oAu7vyjONQWmYSw+dBqg9Ga5z0X7ZfihfxJZ0LUvowRzCsFOQXf5HC+hgmokfzV3399ZVyl0H/bnSwfdipdjvSEcyc62Rx6JVSsLt76Nn1yIWK5NAvS4BADj6Z3WP02idVRQL4SmHZz0tVu9/sP7MLs9EWg440HIbgNgvQ81t+kgPvwSuRdJJTfumuv2LJsr9YliNpW1+/Ce4VjYSglh5CWES8P0d1fy9bBPBR9q5HCHoWKbVM19vQtcdw==;RCKJMDZxo9wQlDKtjoUvlg=="
+secured: "lLdB4+tl1OpajslmtHCV/D6z1BK8rphuk9avnYpfDHAof0dpnvgZEQcbPT7+cpxxGif+6cAY1L/3TlxCbqDcZFu4v3bRV5Ghj2tKiXst2jJbISCgsMMlL/DqBvEG0Ez6oaHZjMuurfMdm7MsOIvFJ4TGLZFdedqam3bLKL8KOh4Izku9oTeN0dn8BRBlvsywI7yN2sN+q/setiMm8eQ7QTKXHfk76hrmpKzInxWxnyvMcJXi3Q5G7kcKkkNPxotLUAAEa7f/WjBq00Js8ENrmi+9l4ETKySX3k3FxU56IaTN9A2GHcSlsPnzsmSh2zBCOr83i5oSPkJBir0viXlfoU81OLOkDa0Wu4Jn5xvnOlfLA/7rgTOgwxzznrds5f9DxeBto+3WEHCZa7H74BsbScH49NIiENkgF0HBV+lVCRUMlTRlax6sZHOQtDfYOAovzaOpztpM5RzT2fTWXD5hm6YTU7tI8yYf57Jqk2O2Z6kYMcLfvjOpp2gt1d4zLmocZ2eQazKLW6RS4vLIyG2/WQ==;7Pin+goua4sHOZNZudBmEw=="
 ---
 

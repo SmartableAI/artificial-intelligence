@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/3197917001"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3197917001"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 681
     isCached: true
     title: "Residents urge City Council to reject proposed facial recognition contract extension"
-
-related:
-  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
-    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
-    publishedDateTime: 2020-06-15T16:59:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
 secured: "oXSbgJ0O16JU/3r196c6BeD8hzySVEAamnlfGysmn0cBWjcTSA+r1RbZdxChIWmW12Tv0HxbN2JdO2QYpUsYcvG249BGxlZnwfGfESSpFiPvZkiCU0g+8igMFCigEOLhwX/uimdgDQWjI21F7ks8+SCUjhqku2VrR4qEDIV6eHp9uzyDoyoYxY589HTDlf2tqF+DoQvJsl1Q+pG1i+6EiyehT+CNVG/Zt2IjERt6sE4mDvYQyU40B3bhAqxdurij9hN7Cag/VS+LKxv0nTL9H+CPP752pjaVvZfHC+j2NaNc2wZklCkWkuXgT9s2Z8LogzPc6tHJq+pnYMcAVBIA8SnV+TFfmwoBDUUAbyHcJ6pga+qc3ZT0cupjlEVQpr42ng/EMTo+f7aVclNM3f+P/K7dcVzpi0axOGpmyej4i06t3Y5VPdgGKHelNIw0suJ+d49GbkpHvo5u5BkaVAdghdIjxR1TtZGdzX9G8WMzVYohpS6czLC+Ns8l6lXdR0exPuXXBuTBMEHR1wwguatOkw==;eYG39/vWI/FgxNDgAzE7gw=="
 ---

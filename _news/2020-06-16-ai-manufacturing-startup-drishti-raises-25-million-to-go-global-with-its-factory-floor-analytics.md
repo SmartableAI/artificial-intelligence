@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 800
     isCached: true
     title: "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics"
+
+related:
+  - title: "Drishti Raises $25M In Series B Funding To Enhance Its Computer Vision Solution For The Manufacturing Industry"
+    excerpt: "Drishti Technologies, a California-based startup, has announced that it has raised $25M in Series B funding for enhancing its solutions."
+    publishedDateTime: 2020-06-17T13:33:00Z
+    webUrl: "https://analyticsindiamag.com/drishti-raises-25m-in-series-b-funding-to-enhance-its-computer-vision-solution-for-the-manufacturing-industry/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Drishti_Logo-scaled.jpg"
+        width: 2560
+        height: 1899
+        isCached: true
 
 secured: "YuXkAAao272f0MoGqFndvAj2bjPtdlKf8OQURBqUU2zviKPR/9kovRlmVf5DpU9dNDFj4YiWQiEtiO50vZjmwySox07VIs4Or2+w+x3hPrZILIb4g/ip/RKG/LzAro+7lVpnKzaFl6xF+enVXyZl2tlBIhT7BK1ahMSWBcYSLQEiLXybP15fi5gXUUAQyAOB82pgVobGGSxoR0vBo40ehBMenTB5ByJzYRIt2qc/WzRLAqZ2YyuYhJgBuvqBAm8rDrM6O6QCI1r0kxbZ3kmUyVj52bYgVo3rV2I9WusWfKwuPaaG7Hk4dT5AIZElC4QP2KvWqMVHM99xOyrf7TssKhTAJKlihZ7nga+v8NePE9XjUfn5/PXDouBLhNQ+EJL6boRLQZkfeHBtkeVsEzGheVfUiq6KlE04WCWPZs5oGBobF5CXFlOZfdFwkBoxTFKjljrq4kvirwkqRsfTxF9qjMJuhCpfxHdchZIZ4m9L5b9QxpfuVUOArd9eErq4+qrIG2x98AIeb4S2Z9lMlu6PHw==;lgUpsbMFl9WmlDJwUWZN6w=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T02:10:00Z
 webUrl: "https://www.afr.com/technology/how-can-we-help-ai-fight-this-virus-and-the-next-20200614-p552j5"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 450
     isCached: true
     title: "How can we help AI fight this virus and the next?"
-
-related:
-  - title: "How AI can help find a coronavirus vaccine"
-    excerpt: "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19."
-    publishedDateTime: 2020-06-12T20:05:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/12/70e49bbc-cbc1-4955-ab58-dea875785790/resize/1200x/6730efc6ea35da13bc5bdc2fe4478178/20200610-sonmez-dan.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "bjH1mz6s438n131RkAPyYKp3kJ3ky1knezin9x69hXvBfAj3QnilP7TU0AOJ7RYMvKOqq8+zK7Ws21WVhu0GsXNT8jSQTzBEc2k5+ANPQTUDIRrxn8JGEWEM5F9VFrWypqWdhAOgiAd2POsatD9/T1rntgDBnPzwXq3sIpZq7ql/h2qTU7DfJgyPkIpPLDvgyg7wPrIsI+QbL8dcGYZlpRbWlDN+Ndz+FGmNbLqp2vRXhd+KqDAEvHiYavYP79ffz2HL0G3lttus7LmW+fFQf1GR3aH8eAc2aeIPestAJGnCCRC/6Mm9bMVqYmQ/J2C37p3XSX4mV0PRTwPXrH8DSQslTUaWvQfdYHzbCUhPhhJqNNOeEybXXzAwlzmyIeY/tGrJk1N6dd0lua6gEbGAD88Q+PYZIJbRaE6YwfgpkPACxtz8NjnV1Qnp0oUh3R7eXoltloBONL6rLnrstTHJ9+Y9661ZGepRC9ezhMSyxI6ARR/6r1IIT2WUQrVAL/+qdp3r3l3le1hYSRV5sMNkaw==;B0YZNYU1lvVuuvDXs1PnMA=="
 ---

@@ -1,42 +1,28 @@
 ---
 category: news
-title: "Udacity & Microsoft partner to Launch Machine Learning Scholarship Program"
-excerpt: "One of the world’s leading lifelong learning platforms Udacity has collaborated with Microsoft to confer scholarships for its all new Machine Learning Nanodegree program in Microsoft"
-publishedDateTime: 2020-06-12T18:47:00Z
-webUrl: "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/"
-ampWebUrl: "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp"
+title: "Udacity & Microsoft partner to launch machine learning scholarship program"
+excerpt: "The new Udacity Machine Learning Scholarship Program for Microsoft Azure represents the first of several programs from Udacity and Microsoft to deliver training for Azure cloud services"
+publishedDateTime: 2020-06-12T05:22:00Z
+webUrl: "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program-11591937550911.html"
+ampWebUrl: "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Microsoft & Udacity partner to launch Machine Learning Scholarship program"
-    excerpt: "Udacity, an online learning platform, has collaborated with Microsoft to confer scholarships for its all-new Machine Learning Nanodegree program in Microsoft Azure.The new Udacity Machine Learning Sch"
-    publishedDateTime: 2020-06-13T06:02:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-udacity-partner-to-launch-machine-learning-scholarship-program/article31818720.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 74
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nald59/article31097491.ece/ALTERNATES/LANDSCAPE_615/BL19MICROWOFT"
-        width: 615
-        height: 384
-        isCached: true
+images:
+  - url: "https://images.livemint.com/img/2020/06/12/600x338/microsoft--621x414_1591938841550.jpg"
+    width: 600
+    height: 338
+    isCached: true
+    title: "Udacity & Microsoft partner to launch machine learning scholarship program"
 
-secured: "pfXakvs3JoVXWNn5kqfyzEqMxTU48sysxE97aZAw+l7BHOmSqEo9CE2IxVGJU2QAD7qoMz1NlwUnhoiuCIIAdxDv7GF+zhznaZo9Ke8FOuGSVJN0gFoFFG9WkTPD50ap90K6/ag7QXvlvmVa2Ayu94waKh+0l3TQ2VnigVD7x2kjFG+aiaYlyMkaIxEh9lbzQdMEVmC8xQSbODUJZg3VXG2zyeV3hzwXaWvvxCYJ5YNrG0x/etJ5+S7l4ulghHUWXMufteUI2sWWT9IE0USPwkI4p5X8mTclGoSQnY09Tk/FvXQSd9Rq0cxq6l7SF30vYgWjl5QsHaLbmcPui7CICQ==;9pyqE8yTIWM4AEkS7ts3EQ=="
+secured: "oG22lQzPKvu5rxYYl9wOvWEnqndkpRGmyC8fiBLxPFozeNjrhUCoLuFd2ti/inm8F2xH4BCRE4VSOOqS0lRG84i5fgBkXsFnwNXB8hK6CgwgK+dQr5kI1m/bv08Z5rIrIx8/n1TlXCxqcWUAZUU5zg67oS95bgjUJ4QtiPCm0w3zqJDb7FlRRXzXMn78DLvuy/uRPLhthLDiwMyNo/COimlyjPwZXsn92BvmFm9fhB11d1w5kOjpC16gdOodzMDF5yqhcG/bwMg7KddCQjeopn8aoCsF4OEQnTXlG1UZvIBuQg56XJdGskXtpBTG4juj9vpDhMbJkogDfz7U5IEdzQ==;5KVel7RcU6/tVOoa9CEL/A=="
 ---
 

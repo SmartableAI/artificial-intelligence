@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tech Tent: Facial recognition faces a reckoning"
-    excerpt: "It was the week that big tech slammed the brakes on development of facial recognition systems. On Tech Tent we ask whether it is enough to stop police using these systems - or whether there needs to be a wider look at the implications of this technology."
-    publishedDateTime: 2020-06-12T19:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-53024985"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53024985"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53024985"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E39B/production/_112876285_tt-facial.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "John Oliver Calls for National Facial Recognition Policy Amid Protests"
     excerpt: "We should really be asking ourselves how much we’re comfortable with it being used — by police, by government, by companies or indeed, by anyone,” host said"
     publishedDateTime: 2020-06-15T11:04:00Z
@@ -106,6 +90,22 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
         width: 2501
         height: 1563
+        isCached: true
+  - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
+    excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
+    publishedDateTime: 2020-06-17T13:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for"
+    ampWebUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 52
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
+        width: 645
+        height: 363
         isCached: true
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"

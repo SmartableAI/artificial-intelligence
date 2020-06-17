@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-dron
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5g-is-coming-to-robots-and-drones-with-qualcomms-new-rb5-system/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     isCached: true
     title: "5G is coming to robots and drones with Qualcomm's new RB5 system"
 
-related:
-  - title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
-    excerpt: "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity."
-    publishedDateTime: 2020-06-17T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-
-secured: "Fbhk7bC04bVIFYYD4tSAfbqBHRNlGgY7vPAoplrhzVDnclwngSDf1qW81sbgqxvPSk507J3W7LH4QYp0gipIwYQ8NU8VJJd0bDSema/Ckb7o6mgresoAicMWm869ql4xm84E1tQS9R6Ev+QQp1vkOWvTbXHy2C2/O1LP08rY1lGPGjzOZgL0MCXmEqEmtWZBVnNaZo6hHaS6vG9a0XDwJq/3M2fIP8JEo7Almm/bnxL0g9Dbw2BFDJODkZkUfaKf2ggUsFNDpzQa1u/r6WA5eCkqbMU4IOMue5awQVE44XeXzx50onJHBKgND3/0OAS7bjlxUZzMIRhhwVQulu4VrA==;ATRXFFUYIhNKRjOE/1b1dw=="
+secured: "2puWFChWuMWLuN+Mpby6wr3LnZBjHNV6TwGNb38qTLHmdeLma0bLRWTRD8SYeVbWBpH8glVGCaHoUNxCyNFqMOiCmVThRd6y1lD6waYjf8F33tBqPC0/rFhJlfc15xKIvpurFASVFNF88AO9pRJDOzU0M6/H7I+O+tlh1U6PhabqTmnyLx3QLENCXQzTjbSoXxqDUDN4gq4v8/bBdZfGnGITaXMBoKpSLrwCxruO3IHG7pX/dOhp3DGV/0+fEnOJea/riUJVytVg89tjgocrPtHPOKtgv7DILXeUcJMHLwgbb9XvapBJAQ0Qk9q5va/Mnt0cNI33N7RtBNnIfhdrY0zITsQSbE7rq69F3TpcjsY1VSAC3d/GWY/a5X6+VHOcEpKPY4gPSwvjAnYqQttg2krkAdf6Mz0RSqrgvMXnBZ4I6Iwqx8O/so8nlA6O+yWw0ZjqzwW7T+lKEfyxTtffdHAMnGv/0/ZLbi/aP8UAngQ5ZLdnlJvAPp3q3awOXigDb8Oc2LDik+sJD+KrCz8mbQ==;lHSoq+mjfina9BoY11eZgA=="
 ---
 

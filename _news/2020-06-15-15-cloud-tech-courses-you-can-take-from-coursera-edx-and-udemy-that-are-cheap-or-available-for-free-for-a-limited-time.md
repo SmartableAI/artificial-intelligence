@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "15 cloud tech courses you can take from Coursera, edX, and Udemy that are cheap or available for free for a limited time"
 
-secured: "0YOB1EOJJPCU8JTZsZqjk1WMPCFIIh8CbSKQ96l+4zoUHODUTNUhQPkmBigiyDAqcRrjaUTeClDCeLNADq/9fX53GDJ9TdX4FLWPqS54FNHKtDRW3pXeu/Yk6YJvqKb6FmVYbABogVjsSyn1hAuUUg3s8pxyxcDicPwnCaLxvYA1rPndGe3wDosaz9AZ02+HL1+VyaS+IgHAjMJhrNGWF9vrzTZ0+ZtfQB7y0YZVE8lNz/a5cnCU9DP6iejmmZkVKjmu3xLbrfPOXpBGejxyOWtBVOHxATjo1liheiVLJKE7WtCezOZzvCoykXpkIIiPwH4bwLPBU+MnO+jwnAqSlQ==;wrK645ILEEdZ2XrV5VuIzQ=="
+secured: "xicGnjTx8yATCEh6O3l4sG87erWS+d1oIJDZpYHq/Z+QKwmlsMXiGIEmkotTbROtC/2LF2GEc2zpfEl/0277MOr+L9279yuV9vKKOAqcwvGnD+BENzhdQgWoUDLWZdoEDlHOOMe9fRuc4kjf/K2yZwrGgiwP2KEJgN2zIWGz7MXE4f17+E1R0N5eG03htMeakfgSXjjPmXIXKmBabZiODAPZ06qsxFm7QoxT4Mh1tB0oN3OydEhpeM9RTia33GgIqK2vB2poRiEX46Y42r2WpuMHnQoiiBO4EuU5oljusCxP/BUXDT877Iiman7pNfz/MkBYN2sinqWVH+ggh+Rehq4o+1EroDt3zuz3LGpt2odEQ9YqOO5fAlWQz1JvnOJ9WIn4c7eHzlL0Mw5vOStLwlh3iHAPulxxVjDefQx9wUx/wPiG7zH8mKoaYOR+/WCSCzkLMckO6+o1BC9zMiMcO7nrXq1s6bYof8Ixzre/enaAEa2td8eqebPTabsIIg/WV8SyIiCNua876AjH6ZwM/g==;r4EBWZcp52LVCYHUysJXcw=="
 ---
 

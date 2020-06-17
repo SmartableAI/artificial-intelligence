@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T09:40:00Z
 webUrl: "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1024
         height: 436
         isCached: true
+  - title: "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production"
+    excerpt: "Father of Multimedia Computing Appointed as Chief Technical Advisor of Huami AI Research Institute, Announced on Huami's 1st Innovation Conference \"AI to Decode Future\""
+    publishedDateTime: 2020-06-17T13:52:00Z
+    webUrl: "https://tass.com/press-releases/1168731"
+    ampWebUrl: "https://tass.com/press-releases/1168731/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1168731/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 54
   - title: "Huami unveils its next generation wearables chip, the Huangshan 2"
     excerpt: "Huami has officially unveiled its next generation of wearables chip, the Huangshan 2. This features the BioTracker™ 2 and a series of AI algorithm upgrades."
     publishedDateTime: 2020-06-16T10:16:00Z
