@@ -2,6 +2,147 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
+      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
+      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183494/social",
+          "width": 1280,
+          "height": 640,
+          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "publishedDateTime": "2020-05-04T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
+      "title": "IBM: Transition to cloud now ‘an existential question’",
+      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
+      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM: Transition to cloud now ‘an existential question’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "publishedDateTime": "2020-05-04T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-think-new-automated-solutions-for-the-cio.md",
+      "title": "IBM Think: New automated solutions for the CIO",
+      "excerpt": "IBM released a new set of automated artificial intelligence (AI) operations capabilities during its Think Digital conference on Tuesday. In addition to Watson AIOps, IBM also released the Accelerator for Application Modernization with AI,",
+      "webUrl": "https://www.techrepublic.com/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/04/01/8c0c502c-c4a0-4f8a-9796-a49dc414e4ad/resize/1200x/597c68ada4dcca197717baf698ff3761/automation.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM Think: New automated solutions for the CIO",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
+      "publishedDateTime": "2020-05-04T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
       "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
       "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
@@ -975,137 +1116,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-facebook-ai-open-sources-a-chatbot-with-empathy-and-personality.md",
-      "title": "Facebook AI open sources a chatbot with empathy and personality",
-      "excerpt": "The most recent addition to Facebook AI’s open source projects is Blender, a state-of-the-art chatbot. What sets it apart is its novel blending of skills.",
-      "webUrl": "https://jaxenter.com/facebook-ai-blender-171586.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/facebook-ai-blender.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Facebook AI open sources a chatbot with empathy and personality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-tackling-cybercrime-with-ai-during-covid-19.md",
-      "title": "Tackling Cybercrime With AI During COVID-19",
-      "excerpt": "On a recent panel discussion with AI experts about the world after coronavirus from an AI perspective, Sophia explained that robots were created to help humans deal with big problems like the pandemic or climate change.",
-      "webUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216339679%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": "Tackling Cybercrime With AI During COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
-      "publishedDateTime": "2020-05-04T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
-      "title": "How Should Your Business Get Started With AI? Begin With Why",
-      "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
-      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
-          "width": 1200,
-          "height": 563,
-          "title": "How Should Your Business Get Started With AI? Begin With Why",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
-      "publishedDateTime": "2020-05-04T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

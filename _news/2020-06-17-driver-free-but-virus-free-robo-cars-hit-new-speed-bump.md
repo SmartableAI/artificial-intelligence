@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Driver free but virus free? Robo cars hit new speed bump"
-excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"
-publishedDateTime: 2020-06-17T22:41:00Z
-webUrl: "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html"
+title: "Driver Free but Virus Free? Robo Cars Hit New Speed Bump"
+excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. An executive with Waymo said Wednesday, June 17, 2020 that the coronavirus pandemic forced it to put its limited ride service in the Phoenix area on hold to make sure human backup drivers and passengers were safe."
+publishedDateTime: 2020-06-17T22:18:00Z
+webUrl: "https://www.usnews.com/news/business/articles/2020-06-17/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/16/916c2697-a99b-5f3f-a2be-5c9beefaab28/5eea79f6e9a01.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
-    isCached: true
-    title: "Driver free but virus free? Robo cars hit new speed bump"
 
 related:
   - title: "Driver free but virus free? Robo cars hit new speed bump"
@@ -56,6 +53,6 @@ related:
         height: 507
         isCached: true
 
-secured: "2IaOVHxqjE0sUw40rocq4CmTQhcZu3En+XpM/8hwpcMBEf1EItHnWwnWJBzpvJc286Ye/zIcuSUCaGnXL/Su5JivN26i/A1ItztonrYUoma5K//RBJkY1UKlUwg5dXW8MiTTr8AJ01oPUb7b6K8qPyRACGgw3Xg84R04Sg4RJ2pjKuefmeCe9UgGJt3H9+ehGgliPH++66u4C8ICggp118cDQQS192PY5qKJOEf++2wcP0RlWtigV9GqQjGXjeMyJQobq/5L/OhUIbU9QwOW7FoM/wlxF7qvFq+aJq9f74LvO9S232YLFWe9IaViwYBgxJnoYAzul02ucmmI+CwBBHkf3bvxE7IXd6jN+kFqWQW+F6BvYyRml59YpsIZZsOnCrEAIUYdqkM3ePT9WCyFI+GTOU7eAL92wiVwy/7P2AAsxHu2nyQo5IBJLZSVsjkzgMuYutz1ucIXAGj/guLu5PRF/57DOXuvQJ9j1zD0QbrhS6Wlj+IgjH3QvlTq/e1xQAi11fDw7b2dAnXg1oEmPQ==;cpsHBpjpJKXuQUq1edmGBA=="
+secured: "k/uc0/R7KNQy/cJ9KbAMZVOiWl2G9gNgZvtSl9rgpiXmiQsLcdBUzdTdaRegAGtCeMqzlRvmC8LPGDNVwayr9CN0nc9Ut5WR/pD6QDCEWP7fSqKcF2Glh6pwJvDdwoFmvyU/pKzkqvir9nFo372hAoyeSjyFb3e2lYgeysVkSOFm+FMsytEdmwpMpNOoHdQ8Nkyg8Z/JRea+5rivmxFrovZoG5pwER93ysF0oI8u1C2FbIwum2/gTXutfgh+IPAUQeCZt7D4MikLw6sitzQDnwGzjzQX53cgKkMbicqnuBF3ywzk0EAcPcFCGg2IHX7AoTMxUWxdiuMTfZHVb6Uhy+jgegMEg2yWQqxqvb03lKXtpDlCrsHVXxyGE1NbjEciJD4nB13aWdooRyAxi9qrLZ+9m7fDCE0H9WHY/lf34SZmpu0ySXv+msiHdtCLFW0PmjbhGfX/WCzoT+kkmpBu/xM5996YX4w7TDcfbeBkN7Tx0VWFT697QfM5yjAmE4InepafU+wjRcJ8pn47c1rx/A==;ycRqjcMqVk1X1kFC35fM6A=="
 ---
 

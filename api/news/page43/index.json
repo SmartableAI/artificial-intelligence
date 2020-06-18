@@ -2,6 +2,139 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-12-facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes.md",
+      "title": "Facebook says AI has a ways to go to detect nasty memes",
+      "excerpt": "Facebook has developed a data set consisting of 10,000 “hateful” memes and suggests that computer models that can “fuse” multiple signal types, such as text and image, are the way forward for classifying content such as hate speech.",
+      "webUrl": "https://www.zdnet.com/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/12/c82fab43-1856-4a3f-b289-fc5ab9d052bc/final-9-benchmarks-table-v2.png",
+          "width": 2881,
+          "height": 2010,
+          "title": "Facebook says AI has a ways to go to detect nasty memes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "publishedDateTime": "2020-05-12T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
+      "title": "Waymo raises another $800 million for self-driving cars",
+      "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
+      "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg",
+          "width": 8702,
+          "height": 4895,
+          "title": "Waymo raises another $800 million for self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "publishedDateTime": "2020-05-12T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-twitter-names-former-google-executive-to-its-board-to-boost-its-ai-chops.md",
+      "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
+      "excerpt": "Fei Li, the former Google executive, and Stanford professor is coming on board to help expand Twitter's use of AI on its platform.",
+      "webUrl": "https://www.fool.com/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573985%2Ftwitter-ai-li-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 640,
+          "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "publishedDateTime": "2020-05-12T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-how-facebook-is-using-ai-to-combat-covid-19-misinformation-and-detect-hateful-memes.md",
       "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
       "excerpt": "That’s because Facebook is relying more on the technology to help moderate its platform during the COVID-19 pandemic, which is preventing the company from using its usual third-party moderator firms because those firms’ employees are not allowed to access sensitive Facebook data from home computers.",
@@ -959,145 +1092,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-to-set-up-speech-to-text-in-windows-10.md",
-      "title": "How to set up speech-to-text in Windows 10",
-      "excerpt": "as well as how to enable speech-to-text in Windows 10, so you can start chatting away to your favorite OS and improve Windows’ “ear” for your voice. Note: Speech recognition is only ...",
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/10-incredibly-useful-windows-apps-2-1200x630-c-ar1.91.jpg",
-          "width": 500,
-          "height": 261,
-          "title": "How to set up speech-to-text in Windows 10",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "publishedDateTime": "2020-05-12T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
-      "title": "Cheat sheet: A comprehensive guide to AI terminology",
-      "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Cheat sheet: A comprehensive guide to AI terminology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "publishedDateTime": "2020-05-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

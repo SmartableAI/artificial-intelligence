@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Quantum Machines Announces QUA as First Standard Universal Language for Quantum Computers"
-excerpt: "However, for the inception of QUA and its compiler XQP, inspiration was drawn from classical counterparts which have become standards or widely established across the computing industry, such as NVIDIA's CUDA, Intel's X86, and Google's TensorFlow."
-publishedDateTime: 2020-06-18T07:55:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/quantum-machines-announces-qua-as-first-standard-universal-language-for-quantum-computers-8985595"
+excerpt: "Quantum Machines, creator of the first complete hardware and software solution for the control and operation of quantum computers,"
+publishedDateTime: 2020-06-18T07:50:00Z
+webUrl: "https://www.prnewswire.com/news-releases/quantum-machines-announces-qua-as-first-standard-universal-language-for-quantum-computers-301079334.html"
 type: article
 quality: 15
 heat: 15
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
     title: "Quantum Machines Announces QUA as First Standard Universal Language for Quantum Computers"
 
-secured: "/vFm4SPu2rg/mJ3oJRPFxOhAEW4Pm0z9LNcurKAq6rHRDLCrjtWRQ4lTCxIy0Cjr4Qoz542v6wOwK4YHeESdFNYrarigBEe0KjkojbNktBguiKjry2UBZgLQSC3L/QeSDyz6k5U9hExD0FOuECuUsDa9P4NgwMBAQ4IdTthaIMYKbZH2/K2iZTZRrl34Uf7R3pNaCBGYCCXn2RGcF9koXK2YJxScekgf/aZV7tbNSkBnbdpnWhu2lRWB1sw/xP5dpAms6HDn+0D+NZc3R68+GkL6mKWdiJ2FbATnk5k/VlV68sZmEOzd+aIvKyh1yTnZ7tGZp7GEtQsD+GI7wYP/5w==;Jby3GxQQKiADm0U7PYNDXg=="
+secured: "/L99bUIlEXN5T2Fm+6rR1SW+ppmgzvF2Dbatf561dKP2rlPx/Hf8LlAvbYUFuLZOjgcE1+mtxV9dNpYGUXPbzaOf27UqjWIu+AHFDbbD2k1jOQQng1yFRyKMnpFSpWymu8ROaOOdOTJg0Lk67MGf5Ipq9iKc+Yd7agWe+iJ0ybwbIYmF41X+ZsIfwsPDNfd0XXaglXpIwwsrXbR3R13qZ3nEK8md7rtiyXQosL71Ax4MaORN7eYe4g4srlqsUQe/GXj+SAam9oQxFYAmkUbUPIvpupgKJnMeW8i1brBWN0vbEHOnKIxp9f2LTCqqKfT5DDo7tFFXcD/Tt0QFsootgA==;OkUaYsy63MFxeJ91/6qnSg=="
 ---
 

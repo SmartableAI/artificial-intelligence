@@ -2,6 +2,90 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-08-roborock-s6-maxv-robot-vacuum-and-mop-with-advanced-obstacle-recognition-launches-with-a-50-off-early-bird-promotion.md",
+      "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
+      "excerpt": "Personally I have never been a great fan of hoovering and made the decision to invest in a robot vacuum cleaner almost soon as they started to",
+      "webUrl": "https://www.geeky-gadgets.com/roborock-s6-maxvrobot-vacuum-08-06-2020/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/robot-vacuum-5.jpg",
+          "width": 700,
+          "height": 500,
+          "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-in-education-transformation.md",
+      "title": "Artificial Intelligence In Education Transformation",
+      "excerpt": "If we want to create an experience that is equitable and enjoyable for all, we have to eliminate as many obstacles as possible.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence In Education Transformation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/08/artificial-intelligence-in-education-transformation/amp/",
+      "publishedDateTime": "2020-06-08T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
       "title": "The Impact Of Artificial Intelligence On Professional Services",
       "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
@@ -1220,82 +1304,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
-      "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
-      "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "publishedDateTime": "2020-06-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
-      "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
-      "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16188602",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602",
-      "publishedDateTime": "2020-06-05T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,136 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
+      "title": "Omilia raises $20 million for AI customer service chatbots",
+      "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Omilia raises $20 million for AI customer service chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-uk-to-combat-air-pollution-with-ai-powered-traffic-lights.md",
+      "title": "UK to combat air pollution with AI-powered traffic lights",
+      "excerpt": "The UK plans to tackle pollution with AI-powered traffic lights that delay the arrival of vehicles in toxic air hotspots. Trials begin this year.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-25-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UK to combat air pollution with AI-powered traffic lights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/uk-to-combat-air-pollution-with-ai-powered-traffic-lights/amp/",
+      "publishedDateTime": "2020-05-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test.md",
+      "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
+      "excerpt": "Oregon State University researchers have used a robot vacuum cleaner equipped with behavioural patterns inspired by the personalities of three characters from Disney's 'Snow White and the Seven Dwarfs' to demonstrate that people can guess a robot’s ...",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-oil-downturn-looks-a-bit-like-2008-financial-meltdown.md",
       "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
       "excerpt": "Oil and gas industry-focused cloud software firm exec observes similarities and differences between two historic episodes.",
@@ -910,147 +1040,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
-      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183494/social",
-          "width": 1280,
-          "height": 640,
-          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "publishedDateTime": "2020-05-04T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
-      "title": "IBM: Transition to cloud now ‘an existential question’",
-      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
-      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM: Transition to cloud now ‘an existential question’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "publishedDateTime": "2020-05-04T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-think-new-automated-solutions-for-the-cio.md",
-      "title": "IBM Think: New automated solutions for the CIO",
-      "excerpt": "IBM released a new set of automated artificial intelligence (AI) operations capabilities during its Think Digital conference on Tuesday. In addition to Watson AIOps, IBM also released the Accelerator for Application Modernization with AI,",
-      "webUrl": "https://www.techrepublic.com/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/04/01/8c0c502c-c4a0-4f8a-9796-a49dc414e4ad/resize/1200x/597c68ada4dcca197717baf698ff3761/automation.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM Think: New automated solutions for the CIO",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "publishedDateTime": "2020-05-04T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

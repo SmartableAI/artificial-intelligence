@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
+      "title": "This AI Maestro Wants to Serenade You",
+      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
+          "width": 2400,
+          "height": 1248,
+          "title": "This AI Maestro Wants to Serenade You",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
       "title": "Alibaba to invest $1B on AI integration with smart speaker",
       "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
@@ -1287,53 +1334,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-to-set-up-speech-to-text-in-windows-10.md",
-      "title": "How to set up speech-to-text in Windows 10",
-      "excerpt": "as well as how to enable speech-to-text in Windows 10, so you can start chatting away to your favorite OS and improve Windows’ “ear” for your voice. Note: Speech recognition is only ...",
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/10-incredibly-useful-windows-apps-2-1200x630-c-ar1.91.jpg",
-          "width": 500,
-          "height": 261,
-          "title": "How to set up speech-to-text in Windows 10",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
-      "publishedDateTime": "2020-05-12T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

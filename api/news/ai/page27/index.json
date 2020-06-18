@@ -2,6 +2,129 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
+      "title": "Alibaba to invest $1B on AI integration with smart speaker",
+      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba to invest $1B on AI integration with smart speaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "publishedDateTime": "2020-05-20T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
+      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
+      "excerpt": "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16072620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620",
+      "publishedDateTime": "2020-05-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-chinas-didi-will-begin-using-ai-to-run-virus-monitoring-in-latin-america.md",
+      "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
+      "excerpt": "China ride-hailing giant Didi Chuxing said on Wednesday that it will start using artificial intelligence (AI) technologies to verify if drivers in its Latin American markets wear masks and disinfect cars to keep rides safe amid the coronavirus pandemic.",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-didi-idUSKBN22W0U3",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200520&t=2&i=1519261256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4J0H7",
+          "width": 805,
+          "height": 545,
+          "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22W0U3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22W0U3",
+      "publishedDateTime": "2020-05-19T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-global-natural-language-processing-nlp-industry.md",
       "title": "Global Natural Language Processing (NLP) Industry",
       "excerpt": "New York, May 20, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" - https://www ...",
@@ -1173,149 +1296,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
-      "title": "Azure Cognitive Services learns more languages",
-      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Azure Cognitive Services learns more languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "publishedDateTime": "2020-05-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
-      "title": "Microsoft launches new tools for building fairer machine learning models",
-      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "publishedDateTime": "2020-05-19T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
-      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
-          "width": 1024,
-          "height": 652,
-          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "publishedDateTime": "2020-05-19T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

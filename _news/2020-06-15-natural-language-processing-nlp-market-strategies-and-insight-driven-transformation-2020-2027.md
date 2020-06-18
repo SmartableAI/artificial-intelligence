@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Software Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Industry Research Co."
+    excerpt: "Software Market ” 2020 report presents the analysis of the business by market size, rate of growth, key players, regions, product varieties and applications. The Natural Language Processing (NLP) Software Market report provides current situation,"
+    publishedDateTime: 2020-06-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-industry-research-co-2020-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LMhKpOmGYulJwONJkz1FSo2+/Y2UENktcTbGnNNvvV6Bv56GUt3eIhDhbVbe1fONIGEvmE/jTOayBEPcLBvsfu4HCGva5ryidkMn+9YxuAAfH6h7wAMCauJOgzt2qVjfByRjMb/Ozo/hXFZu9HeGDTHE+lKCC/NVtP28VEFxEcW026K9SKKJGM82hbtk2B9u8/JWAHLD2DeuxZ8oaFG0jd5vylVvF9uwD2eqDSAHH0rHlx0LapD/TlgmIMwM9GFtmavoWV+5a9mfWUSfCgiI5pWs2ny4PDzwva2fErpJOfFMCeRI7AVuT2uJKnfHa+A8ONh+4ClUbHs7KUmRfTFWLw==;2QmQZcA4x6cBZgArItKCWg=="
 ---

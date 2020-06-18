@@ -2,6 +2,130 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
+      "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+      "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
+      "webUrl": "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106576188-1591993393250lab_sequencing21.jpg?v=1591993998",
+          "width": 7617,
+          "height": 5308,
+          "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "publishedDateTime": "2020-06-17T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
+      "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+      "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
+      "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/iL8idSQksHVXogyIlRInDEcqnmsj2kf5UFA6lpaK.jpeg?w=940&h=430&fit=crop-43-42&s=b3eb9769a05d898d8a9c8014abe2dfcd",
+          "width": 940,
+          "height": 430,
+          "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
+      "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
+      "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
+      "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP",
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "publishedDateTime": "2020-06-17T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
       "title": "Slamcore wants to give mobile robots better spatial intelligence",
       "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
@@ -754,7 +878,7 @@
       "title": "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027",
       "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16",
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1235,135 +1359,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
-      "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
-      "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
-      "webUrl": "https://www.zdnet.com/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "publishedDateTime": "2020-06-15T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-ai-and-the-rise-of-proactive-it.md",
-      "title": "AI And The Rise Of Proactive IT",
-      "excerpt": "Zero impact, zero touch IT delivery used to be the stuff of fairy tales. With AIOps, it’s closer than you think.",
-      "webUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/",
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
-      "publishedDateTime": "2020-06-15T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
-      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
-      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
-      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
-      "publishedDateTime": "2020-06-15T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

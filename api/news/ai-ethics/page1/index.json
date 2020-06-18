@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
+      "title": "Businesses put AI innovation on hold to avoid public backlash",
+      "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815804/itpro/2017/05/sad_robot_ai.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Businesses put AI innovation on hold to avoid public backlash",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "publishedDateTime": "2020-06-18T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst.md",
       "title": "AI Is Amazing But Complicated, And We Don’t Necessarily Need To Plunge In Headfirst",
       "excerpt": "We know AI has biases. We know it’s complex. We understand that AI may or may not draw fair and ethical conclusions all the time. Yet it’s clear that AI is going to happen anyway. Physicist Stephen Hawking said AI was a major concern.",
@@ -1292,44 +1339,6 @@
       "provider": {
         "name": "Crux",
         "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ai-set-to-transform-healthcare-in-worlds-poorer-regions.md",
-      "title": "AI set to transform healthcare in world’s poorer regions",
-      "excerpt": "There’s been a lot of hot air in the business with respect to AI,” says Anup Akkihal, head of Logistimo, which focuses on less sophisticated but more robust technology adapted to local limitations in order to improve healthcare supply chains in poorer nations.",
-      "webUrl": "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F17acb522-8da4-11ea-9e12-0d4655dbd44f?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI set to transform healthcare in world’s poorer regions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204",
-      "publishedDateTime": "2020-05-14T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

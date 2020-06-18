@@ -27,6 +27,15 @@ images:
     title: "Driver free but virus free? Robo cars hit new speed bump"
 
 related:
+  - title: "Driver Free but Virus Free? Robo Cars Hit New Speed Bump"
+    excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. An executive with Waymo said Wednesday, June 17, 2020 that the coronavirus pandemic forced it to put its limited ride service in the Phoenix area on hold to make sure human backup drivers and passengers were safe."
+    publishedDateTime: 2020-06-17T22:18:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-06-17/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Driver free but coronavirus free? Robo cars hit new speed bump"
     excerpt: "DETROIT >> The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver."
     publishedDateTime: 2020-06-17T23:32:00Z
@@ -40,20 +49,6 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2020/06/web1_10106351-21b0c31da1c947c791ccc95af31caaca.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Driver free but virus free? Robo cars hit new speed bump"
-    excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"
-    publishedDateTime: 2020-06-17T22:41:00Z
-    webUrl: "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/16/916c2697-a99b-5f3f-a2be-5c9beefaab28/5eea79f6e9a01.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "WUVZ2evCZ+MdRzuFf77xXyXl6t9vGuzmpofWBVGRhd6v4pCtVQh/6NUv/jlrc7+thxcy0xooUAo5z0ds4MYZjBKt92PKMvuHzpKbiyq/eiOnjeR83s9XhJ7CCyboc6VKkg1yShA7bY6ppVZ0osNGvTHGKXhaZDH6xNhT3jahSuJVV+pgzZS2gayOlFxNU20o4WLqPd5IGlBzYQbDHRqV7vtsTF/kHXe9hVZTK+rv4f/PMepSMMwwdZx55G4NBWWglV7qsl1N07vMNateUSjXoZJp7GhZ8TMnKTw+nQHfWqV65DdhG94tve1MQvZlhSvls9kFDI71jwsF9+HFcopTuw==;0rMb/A6AcwNtivRXfBe9hg=="

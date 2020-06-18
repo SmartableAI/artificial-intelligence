@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2019/03/06/windows-insider-preview-var.jpg"
         width: 1280
         height: 450
+        isCached: true
+  - title: "Windows 10 OS Subsystem For Linux Gets NVIDIA CUDA GPU Accelerated Compute With Easier Install Process"
+    excerpt: "After integrating Linux into the Windows 10 OS ecosystem earlier this year, NVIDIA has now showcased how its CUDA Cores will help the Windows Subsystem"
+    publishedDateTime: 2020-06-18T10:48:00Z
+    webUrl: "https://appuals.com/windows-10-os-linux-nvidia-cuda-gpu-accelerated/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 23
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/08/images-4.jpeg"
+        width: 482
+        height: 305
         isCached: true
 
 secured: "Er7oRwaUVcpAJ305/4Mdpyhna0r6bNaqwrILlum05agsuuO3RV2evZmgMTmVevAauVGcfxQNzeiY+jC9pmZQfo63v+EAiSxzKmyStvZiZoxepm6Z5v5FJG6ghnoEqAObCg5QClFPX49nP9kHcqbCcbE7/juej5h95x4L+LB6X+bOH2PMxr1XTG/hoWJ8BZO3rFvZ3zknLDevyKIxQophWuismjbzp11eQVZwcHLH7TAbp0RM5xK+29Rb6eYCSX3wha3BV9wMjg0bPF4FCrjXQYofcLJMH9az3ruIqZOVVq3gZZAYsobDes1/M1j4LOtvxSUYs2PzINlUWVoOXcvZ0g==;6UBMZLHLuHHYO/fCmdRaZA=="

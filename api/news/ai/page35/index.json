@@ -2,6 +2,129 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-13-confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest.md",
+      "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
+      "excerpt": "Huang was joined on the jury panel by Ed Newton-Rex, the founder of AI composer startup Jukedeck, and Vincent Koops ... Collins and Carlise suggested holograms and robots, but the best reply came from their son: dancing guitars. His answer exposed the one thing about Eurovision that the AI contest couldn’t replicate: spectacular live ...",
+      "webUrl": "https://thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-34-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest/amp/",
+      "publishedDateTime": "2020-05-13T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-facebook-trains-artificial-intelligence-on-hateful-memes.md",
+      "title": "Facebook trains artificial intelligence on ‘hateful memes’",
+      "excerpt": "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how.",
+      "webUrl": "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Facebook trains artificial intelligence on ‘hateful memes’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "publishedDateTime": "2020-05-13T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-microsoft-intel-combine-deep-learning-and-pixels-to-nix-malware.md",
+      "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
+      "excerpt": "Microsoft and Intel researchers have found a way to combine artificial intelligence and image analysis to create a highly effective means to combat malicious software infections. The researchers call their approach \"STAMINA\" -- static malware-as-image network analysis -- and say it's proven to be highly effective in detecting malware with a low rate of false positives.",
+      "webUrl": "https://www.technewsworld.com/story/86662.html?rss=1",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-malware-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
       "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
       "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
@@ -1186,148 +1309,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
-      "title": "Facebook is using more AI to detect hate speech",
-      "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
-      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook is using more AI to detect hate speech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
-      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
-      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "publishedDateTime": "2020-05-12T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-meet-the-googlers-working-to-ensure-tech-is-for-everyone.md",
-      "title": "Meet the Googlers working to ensure tech is for everyone",
-      "excerpt": "During their early studies and careers, Tiffany Deng, Tulsee Doshi and Timnit Gebru found themselves asking the same questions: Why is it that some products and services work better for some than others, and why isn’t everyone represented around the table when a decision is being made? Their collective",
-      "webUrl": "https://www.blog.google/technology/ai/googlers-leading-machine-learning-fairness/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero_ML_V1.gif",
-          "width": 2880,
-          "height": 1200,
-          "title": "Meet the Googlers working to ensure tech is for everyone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
-      "publishedDateTime": "2020-05-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

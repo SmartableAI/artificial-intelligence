@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
     excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
     publishedDateTime: 2020-06-17T09:32:00Z
     webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Software Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Industry Research Co."
+    excerpt: "Software Market ” 2020 report presents the analysis of the business by market size, rate of growth, key players, regions, product varieties and applications. The Natural Language Processing (NLP) Software Market report provides current situation,"
+    publishedDateTime: 2020-06-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-industry-research-co-2020-06-18"
     type: article
     provider:
       name: MarketWatch

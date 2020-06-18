@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-17-enhancing-robotic-process-automation-with-ai.md",
+      "title": "Enhancing robotic process automation with AI",
+      "excerpt": "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall about a new industry for enhancing the robotic process automation with AI and why this new industry is already worth billions in market value.",
+      "webUrl": "https://www.zdnet.com/video/enhancing-robotic-process-automation-with-ai/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/17/66e14f28-20e0-4a48-b6c5-7800e322fa5d/thumbnail/770x578/35cea6fb9d605989e165c7c38170623a/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Enhancing robotic process automation with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits.md",
+      "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
+      "excerpt": "Researchers have found a way to turn simple line drawings into photo-realistic facial images. Developed by a team at the Chinese Academy of Sciences in Beijing, DeepFaceDrawing uses artificial intelligence to help “users with little training in drawing to produce high-quality images from rough or even incomplete freehand sketches.",
+      "webUrl": "https://www.engadget.com/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F812a6680-b085-11ea-b7fd-7591620edf6b&client=amp-blogside-v2&signature=b43b6c6e5e36400bfce630d07cafac5b7c0c445d",
+          "width": 600,
+          "height": 350,
+          "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "publishedDateTime": "2020-06-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
+      "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
+      "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
+      "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Proprio-spinal-image-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
+      "publishedDateTime": "2020-06-17T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
       "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
       "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
@@ -229,16 +368,16 @@
       ]
     },
     {
-      "path": "_news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds.md",
-      "title": "U.S.-Israeli fintech firm Pagaya raises $102 million in funds",
+      "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
+      "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
       "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
-      "webUrl": "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF",
-      "heat": 129,
+      "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP",
+      "heat": 119,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1AF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP",
       "publishedDateTime": "2020-06-17T02:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1010,139 +1149,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
-      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
-      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "publishedDateTime": "2020-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16",
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
-      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
-      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
-          "width": 750,
-          "height": 257,
-          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
+      "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
+      "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
+      "webUrl": "https://www.zdnet.com/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
+          "width": 728,
+          "height": 570,
+          "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "publishedDateTime": "2020-06-15T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-and-the-rise-of-proactive-it.md",
+      "title": "AI And The Rise Of Proactive IT",
+      "excerpt": "Zero impact, zero touch IT delivery used to be the stuff of fairy tales. With AIOps, it’s closer than you think.",
+      "webUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
+      "publishedDateTime": "2020-06-15T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
+      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
+      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "publishedDateTime": "2020-06-15T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-artificial-intelligence-could-be-used-to-track-invasive-species.md",
       "title": "Artificial intelligence could be used to track invasive species",
       "excerpt": "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,",
@@ -1213,139 +1342,6 @@
         "AI",
         "AI in Finance",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-where-are-all-the-robots.md",
-      "title": "Where are all the robots?",
-      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
-      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Where are all the robots?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "publishedDateTime": "2020-06-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
-      "title": "Only artificial intelligence can protect Britain, top general warns",
-      "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
-      "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/1295693_1.jpg?r=1592139773569",
-          "width": 590,
-          "height": 350,
-          "title": "Only artificial intelligence can protect Britain, top general warns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "publishedDateTime": "2020-06-14T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
-      "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-      "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
-      "webUrl": "https://www.entrepreneur.com/article/351755",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591895053-Ent-Logo.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351755",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351755",
-      "publishedDateTime": "2020-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

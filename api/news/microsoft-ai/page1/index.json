@@ -879,44 +879,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning.",
-      "webUrl": "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template.md",
       "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
       "excerpt": "This tutorial will show you how to create an Ubuntu 18.04 Data Science Virtual Machine using an Azure Resource Manager template. Data Science Virtual Machines are cloud-based virtual machines preloaded with a suite of data science and machine learning frameworks and tools.",
@@ -1218,6 +1180,53 @@
         "name": "Newswire Today",
         "domain": "newswiretoday.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

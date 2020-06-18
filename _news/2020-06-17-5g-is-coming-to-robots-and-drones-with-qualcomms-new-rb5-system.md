@@ -117,12 +117,7 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-2-copy-2.jpg"
-        width: 750
-        height: 516
-        isCached: true
+    quality: 19
 
 secured: "2puWFChWuMWLuN+Mpby6wr3LnZBjHNV6TwGNb38qTLHmdeLma0bLRWTRD8SYeVbWBpH8glVGCaHoUNxCyNFqMOiCmVThRd6y1lD6waYjf8F33tBqPC0/rFhJlfc15xKIvpurFASVFNF88AO9pRJDOzU0M6/H7I+O+tlh1U6PhabqTmnyLx3QLENCXQzTjbSoXxqDUDN4gq4v8/bBdZfGnGITaXMBoKpSLrwCxruO3IHG7pX/dOhp3DGV/0+fEnOJea/riUJVytVg89tjgocrPtHPOKtgv7DILXeUcJMHLwgbb9XvapBJAQ0Qk9q5va/Mnt0cNI33N7RtBNnIfhdrY0zITsQSbE7rq69F3TpcjsY1VSAC3d/GWY/a5X6+VHOcEpKPY4gPSwvjAnYqQttg2krkAdf6Mz0RSqrgvMXnBZ4I6Iwqx8O/so8nlA6O+yWw0ZjqzwW7T+lKEfyxTtffdHAMnGv/0/ZLbi/aP8UAngQ5ZLdnlJvAPp3q3awOXigDb8Oc2LDik+sJD+KrCz8mbQ==;lHSoq+mjfina9BoY11eZgA=="
 ---
