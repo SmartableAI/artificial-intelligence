@@ -57,20 +57,6 @@ related:
         width: 400
         height: 312
         isCached: true
-  - title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
-    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
-    publishedDateTime: 2020-06-17T18:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
     excerpt: "Microsoft Corp. and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable"
     publishedDateTime: 2020-06-15T15:00:00Z

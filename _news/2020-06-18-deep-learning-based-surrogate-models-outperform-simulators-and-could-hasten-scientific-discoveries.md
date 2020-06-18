@@ -1,0 +1,45 @@
+---
+category: news
+title: "Deep Learning-Based Surrogate Models Outperform Simulators and Could Hasten Scientific Discoveries"
+excerpt: "Surrogate models supported by neural networks can perform as well, and in some ways better, than computationally expensive simulators and"
+publishedDateTime: 2020-06-18T16:38:00Z
+webUrl: "https://www.hpcwire.com/off-the-wire/deep-learning-based-surrogate-models-outperform-simulators-and-could-hasten-scientific-discoveries/"
+type: article
+quality: 25
+heat: -1
+published: false
+
+provider:
+  name: HPCwire
+  domain: hpcwire.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/3rd-Gen-Intel-Xeon-Scalable-Processor-graphic-405x228.jpg"
+    width: 405
+    height: 228
+    isCached: true
+    title: "Deep Learning-Based Surrogate Models Outperform Simulators and Could Hasten Scientific Discoveries"
+
+related:
+  - title: "Can artificial intelligence lead scientific discoveries?"
+    excerpt: "Study on the role of artificial intelligence in basic research - Volkswagen Foundation research grant for philosopher Professor Thomas Müller (University of Konstanz) and physicist Professor Hans Brie"
+    publishedDateTime: 2020-06-17T15:13:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uok-cai061720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
+        isCached: true
+
+secured: "KIAu8AAEHyXOKHilA6vEPN+rpFFw2XvjAET58KEukjcr86OsS2IOyYV4gfNGdm78abhsHDp0RrUCvfCTFq2VpTe1HpF3XFhfM8FR5VRyg4TgWYT5BiRe41rts0ndlvDucKG8lAnxJGOt57ydwNdSoV8OEKNtraLL/cDjioCxu5sP0z6bXdDWxoVjdQWzZIqIf+Qys5PwJXY+sUZAtSapyMVnVLwKusuAXPs5K977q2XAcaGRMo/cr2RLPwBGTHE5+JtsxS7ThWClagYBm294Uqz/2otZ3l4oZMyrSXseSDfZDwsqThBIrabVvyBUJthZlcRvhDoVZfgHguHf1r6Zrw==;gwWg1AqG+xIMt47OH7nHRA=="
+---
+

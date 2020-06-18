@@ -2,30 +2,28 @@
 category: news
 title: "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory"
 excerpt: "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio. The new chip, memory, storage and FPGA solutions would help customers accelerate the development and use of AI and analytics workloads running in data centre,"
-publishedDateTime: 2020-06-18T13:56:00Z
-webUrl: "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/articleshow/76447468.cms"
-ampWebUrl: "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms"
+publishedDateTime: 2020-06-18T14:08:00Z
+webUrl: "https://www.dailypioneer.com/2020/technology/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips--memory.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/76447468.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips--memory-2020-06-18.jpg"
+    width: 1000
+    height: 800
     isCached: true
     title: "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory"
 
-secured: "gDZpO1/9iMD3z6JtWamIt/9a4uMuNTt3kAzOKk75vdQt8iVgOIXpTAhzpIZ/nYbdaq1f3L10lZNAvdBbuzi5VfN3K6z/m/chHa4X4iSyc5ZDWQiPeXcT7ua+BET5pa3oAgHm5WFYF+hY8Oiw/xtv1NpbwFGxdC9D5sG6ilw1KavzOUR9ErYRPhSiQozDEsXHoqasCP1gfR0q1kQPwvQZcC5cVxW6OlBkNH9YMTm5ahgfs2iqyUUh3ph5ZSRI07P8/mznwluQebYpqxiMrPbUBvqeNAChmGjnJNeCOEHNVra40KksJYXjx2wA/PODBlXop3daf+FRRb6rsV1z9WxaPQ==;SOmqUxRjkkvSHZGIqB58TQ=="
+secured: "XT016yaT1STrah8dLgmsgJDxQK+kzB0bsl1DwVMY755zE9uakY5wgwLjfHkpCBSnZUQ4yxcZu5XcZTnW/0EKsBMfD2+IYExcnTli988ft3zqIXaNBi5Z2LWUFxDBDfQ7xhB7u0lRTJzxIBzqZovgSj5EkdcxnlpE1azggwH95kuu//t20izdmv58Ab2Bb4R0+rTzhF0DgtmDYWgWfsXQlG0U6zgbd7pkl8Qru9oNm4KeDbsdleZM2rTKf55VZbtZHFjFVvjoW9yVQpBgoKauIFy2/7KJkApS8RsZ66y2+9nI8vF390+Jx1+ONbY1jgTV8MOYCcKTFFs+6Zk/40OlBw==;ntiQy6iWyvSyD2dNzZ092g=="
 ---
 

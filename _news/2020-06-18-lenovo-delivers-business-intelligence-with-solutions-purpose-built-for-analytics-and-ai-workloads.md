@@ -1,17 +1,23 @@
 ---
 category: news
 title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-excerpt: "Lenovo launches two new ThinkSystem servers which now feature 3rd Gen Intel Xeon Scalable processors with enhanced support for SAP HANA."
-publishedDateTime: 2020-06-18T14:19:00Z
-webUrl: "https://www.businesswire.com/news/home/20200618005186/en/Lenovo-Delivers-Business-Intelligence-Solutions-Purpose-Built-Analytics"
+excerpt: "Lenovo Data Center Group (DCG) announced new flexible solutions to empower customers to simplify common data management challenges. DCG"
+publishedDateTime: 2020-06-18T14:47:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -48,6 +54,6 @@ related:
         height: 373
         isCached: true
 
-secured: "mjM5AnQBxt3Jjgq1cB/6Nl47FLVTfje9z8w4xBciCrFO/XpbK+Nv48qJlksr0soNI/HI97CKj4hTa13C815aDUp+a3otXuo0CxKXbLiOSKznTs4MAMVDkgJZi+bwk/UjnXH7t+BRiYK/QSIHLPinw8IbKyeTFpvE6lHt8B+HAM3VORZ3esFIAGUQGXXwnMmKZvXK4DiKkeFOemTd2DgwSijzSWZagHhnJpYr4ExoKEqctlRgaYIy+TIoSa8r+H9i/CgXw39s9ZQ0YF8Y6mKqLOneWN+7zF4kdtHwmwbVQm7ucrkCpA0QYBTCET8dDdiB9NnvRAihcy/GfH2e1cqrgQ==;gDQtXFJ5UjZj6riVJVsQww=="
+secured: "T5niD9b1SwHacaZibCtF1AUnlsUCpY3L+fRvIBxhoCkQXR83Wn8DnuhGDTdLGuWTfkgWzAvQ2px1ROeNKnNO5+XKdSBxJhRMe94/Km2cGvzdZBty6PzuAqgHlmnBgWIwiWigpLbtxhWyKOMwuWDn6r3Xjcw+jOXib19sW4x0ZC4AaXlC+RjRuLVKznzK91Lhhtn8VpZh4p4LJ+DUScXsayRk0PYLLevmX0DSOLP3ndHZfBH4hzxWoFpTsEAXtLv4M5NfQV1DT8CIX3VOu4W4CeFE2niEvK1Lc7X2MUAdCp/qHLvtYYGiX5b3QXuImWwHhYqYxv2K/42JSL/Tn3lThg==;Z8iwRkHt/QvjyCxM0cCX0Q=="
 ---
 

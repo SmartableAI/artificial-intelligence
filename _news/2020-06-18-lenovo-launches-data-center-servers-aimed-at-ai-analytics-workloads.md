@@ -31,6 +31,17 @@ images:
     title: "Lenovo launches data center servers aimed at AI, analytics workloads"
 
 related:
+  - title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
+    excerpt: "Lenovo Data Center Group (DCG) announced new flexible solutions to empower customers to simplify common data management challenges. DCG"
+    publishedDateTime: 2020-06-18T14:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Lenovo Launches ThinkSystem Servers with GPU Support, Increased NVMe Storage"
     excerpt: "Lenovo this morning launched two new ThinkSystem servers, the SR860 V2 and SR850 V2, utilizing 3rd Gen Intel Xeon Scalable processors with Intel Deep Learning Boost, along with introduction of GPU support on the SR860 V2 (four double-wide 300W or eight single-wide GPUs)."
     publishedDateTime: 2020-06-18T13:55:00Z
@@ -45,15 +56,6 @@ related:
         width: 500
         height: 373
         isCached: true
-  - title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-    excerpt: "Lenovo launches two new ThinkSystem servers which now feature 3rd Gen Intel Xeon Scalable processors with enhanced support for SAP HANA."
-    publishedDateTime: 2020-06-18T14:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200618005186/en/Lenovo-Delivers-Business-Intelligence-Solutions-Purpose-Built-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "TPOiuCl1ABXS/mYOrtYuvXjjlGfi4d35d829Z+Rqr/k9sTnXcgmcPfZ4PQqxR+zc5cQvZC1MpOJqyF7NAHfD9Xb4lVOF/PIp4PlI6FW6rzgWPjQc9+MnpWDGW6GsjHynM6mqnXDWtv/gWB23j48vgfEOADyPDGJFRPO7Xq65Yu9C2xfH9rwOS2jv7NwPHAd/oqePSelTh1aY7YgdkJoly4vcMwiYuwUykXQTE9cW4Rxnh4OEW3RiWAiF8NERTAe35btpcr+G187+DDXdDgmxikgZ0zfahS9iupGIbLoKMuyyLfKEzL3Wq7cf3z1wQFTlpzGcEr8vGyJfW0Vk/s+7tmw8lvlpzNx+q/nBEuNBk9MKcptu2NQq0GeE764iPsU0/yyd0Gtw3rtReAyMnnLzuXJaLSDzMJE9mvzUsMIBTf7mjxY8HQdmTjpN5+o/bILSczm/rztHIrMlCCY2JHJKWvfdE867hj9hUj7ToZ5X3shrn/rJ1Mosdg1s5UkUMpNd;ih3MJUKT8d0S6ZRYX9l25g=="
 ---

@@ -119,20 +119,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Why Big Tech's new face recognition bans don’t go far enough"
-    excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
-    publishedDateTime: 2020-06-14T00:53:00Z
-    webUrl: "https://www.fastcompany.com/90516450/ibm-microsoft-and-amazons-face-recognition-bans-dont-go-far-enough"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-company-faceial-recognition.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
     publishedDateTime: 2020-06-16T15:30:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
+    excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19."
+    publishedDateTime: 2020-06-18T16:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 35
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace"
     excerpt: "ARMONK, N.Y., June 18, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace ..."
     publishedDateTime: 2020-06-18T12:16:00Z
@@ -78,6 +92,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "X681BP+VFjC8HBRbV8xoq74hduDwZq53+MOxqieEriknlKCOe4RjRjPY7LNlFhIF7zg3THUMc7HLENKWWN/TZPXCm01HKhTgkLJgfs1PjeznpgtP2eOcaJp5c371LKFolx7rpijauMSPtOyzPzlbI7q14Fp1rXY/WixrypilvlsWXkgGCGwsme27L0XIKcq/AMal6ytU4NFHV0wPHgkxXPhX7kp52W3xKiNpiLTn6jouc1lyLm4LW1dbK0DML1UFJ/Z0ZY5FueLO+aornR7UDjOqS3925V9qEFqghrf8yQbjeUr47rNtTNCavisa6ZRZCIdFIy4Wk5HUcr1MtRMnAg==;fVZAejoloqZ5Xl0MiYkfDg=="
+secured: "kgIrKrwMFp7paDKaB5zkL5fafFibTzeTIKcNX+7oEwBK0ZWgRu/rNWjPwtZv+NTONdkh455z558DwcnW+kG24HUP0P3IrWHJo+U0AUWfrs9xQOn6l6ITmkFbOB3GTlzWzAMK5e0bCt/I/91DG8bYHxBjreXMa9pp0oDgk+GRp5xCFukZ5SwvXXRJ/BuFuFKLdlnhBYxos19lCbdfuOj5gXu4cxnXVoXAccrAPQdJiPU0yB2ZYK/vl5ietR0ne57VqTekQfHnngPsqz9qMEKrgj7v/S+loPlo0U/r71pKOhMxhVosTeghaStsMMtJs8VcCSQoQxwqZz3cjaWX/sGUk+iPfcnr6+h+h9I0UiR82l26B+LkQfWEflYGs8UDIR4IJbyvQSlNp+TaI0cyxA7muJH1cYPNAE1U0P0VNiKWV+AerDPSBGpYagYaof10kS2lZHkeaIWGBTdb/540ifMrpoWwygbAMFcQejn/+yBPKtA1TsSv61rHciMHKOeaT6SBpe5RXBv5PqFKyq6b5JK5JA==;W7QgtMLT7EKl9SCyvqAQ5Q=="
 ---
 

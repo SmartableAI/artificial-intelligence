@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-compu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/"
 type: article
 quality: 120
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New connections between quantum computing and machine learning in computational chemistry"
+    excerpt: "Machine learning is changing the way we use computers in our present everyday life and in science. It is natural to seek connections between these two emerging approaches to computing, in the hope ..."
+    publishedDateTime: 2020-06-18T16:41:00Z
+    webUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.html"
+    ampWebUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-quantum-machine-chemistry.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 30
 
 secured: "kIxO3rNucQs+KM1vo2b3bm0RRmb+0T5e9ZS56kf2xUjt+NgFHp4CJ28Ya30/pCpMVczsz6L+ijLP9hwrsztMtETQSoXxT9QaSHnSM5BM1I1MexJIor9rIINwppwp7KtX/DIsQTPUrcWQ3r4V4Z/nU4e+o2Ri64LrXwY7eaINsfXv14fyuVIQuwds63ECwFXq6uBn35Wpf2zEdzJrK7ojmuS2FTSaEr4fSSbyauf/2SUcTgwfyaGAYPAX4/QzY+hfmT7JaRZDfrRKj8dbvmwVu8twP8wu/6jdbVyKfeLz2IKyNJBnDKm+ePYscnCK26c3WpptbDpHgUA05Vl3uNJVvTG284W0OunSsbNp1xEeX/cE9Z2nuUAlO2ebQ0GVxl4LZrQ/6tMpIJJHdP00usQBopBFqo7USyboC04VDGX5hvkzMhvQeBvqvedRM7VEcOwJF9qYjxHPdD1LP7UB6+VabKWmUDhbbi++RiymsSW42KOGQ04w7tWV6zXSCDg6RDt0;en+e1rIDnKL1kdLSN05uVw=="
 ---

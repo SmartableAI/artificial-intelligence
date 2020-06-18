@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New connections between quantum computing and machine learning in computational chemistry"
+    excerpt: "Machine learning is changing the way we use computers in our present everyday life and in science. It is natural to seek connections between these two emerging approaches to computing, in the hope ..."
+    publishedDateTime: 2020-06-18T16:41:00Z
+    webUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.html"
+    ampWebUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-quantum-machine-chemistry.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 30
 
 secured: "n0mUfEz1RnRCzRuMVfGJcB4+U0l/JrDB17fgj85sxMWxQ1x9dAYtb96dECozEhwH8Z00IR5+o6nmSbtvxX6OpjBwmf+J2pWb8BTGYX4oVYFNYCDx8Gy3wQ8axOh7YJLkWMOiWjkdbL7dJiyphKne7Wz35MzZZtAAHhfCTpppa6oWOym43Qa0U56xS/mCIP0kZl2MdMczuNOH4+meuuSlGHR1M7FRVTeR2+IcLYon6IDwVzt2tAcCdf78JuRtdwJ4cc8V/4iQfClMXXq4vtcCngh6i7G5zhx9XdM3daGV/QYx86gmPF2tMcyysKvjPP2i6xBVPFmYifdZFCdPYwcQmw==;R7CqLRu4Lx0fxTYK0NIqMQ=="
 ---

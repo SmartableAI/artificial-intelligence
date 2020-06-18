@@ -73,6 +73,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
+    excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19."
+    publishedDateTime: 2020-06-18T16:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 35
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "47ba7+HnqAyvgcsPeImsj93mnBd65ckSIm/dsdoxLNh9D26Z/McwQOhWSJ9Z5Bm1HzlOS9VgHetkOTp+LLOvPma8eaBogRxU5sJjwcDz9T4133MoAhin+x2N5VlokPp3WLH+HTJuFeI+aPVaYvMoNy/6cgRWDk2K7hhpClSBaRVS9W3etmYv3r21/6zeYQQdUZs6Vp3URL/PSQ1s5mDbCWTlJtBNPPDbl+8ybvWfoIpQrjddXLnKrgGVOq7oU9/RUHUolN/+a2iwoGcp40iKfDDdxZvq7sKPSz52mqlQU6X8ekkPSVgO2vUOGWTgNeZpUHRcJJOae55N/RHw1Yxw5g==;29Fm2IxElK7A7CSnI58rZQ=="
 ---

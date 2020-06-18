@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T19:02:00Z
 webUrl: "https://www.prnewswire.com/news-releases/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-301078524.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 1047
     isCached: true
     title: "KT and Hyundai Accelerate Digital Transformation with Smart Robots"
-
-related:
-  - title: "Qualcomm Leverages Smartphone Technology to Power a New Generation of Smart Robots"
-    excerpt: "San Diego-based wireless pioneer Qualcomm announced a new platform for robotics applications based on its popular Snapdragon processor for smartphones."
-    publishedDateTime: 2020-06-17T15:10:00Z
-    webUrl: "https://timesofsandiego.com/tech/2020/06/17/qualcomm-leverages-smartphone-technology-to-power-a-new-generation-of-smart-robots/"
-    ampWebUrl: "https://timesofsandiego.com/tech/2020/06/17/qualcomm-leverages-smartphone-technology-to-power-a-new-generation-of-smart-robots/amp/"
-    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2020/06/17/qualcomm-leverages-smartphone-technology-to-power-a-new-generation-of-smart-robots/amp/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 53
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2020/06/Dev-Singh.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "rY7s1b9txUezxKEcVqD6pqOz8M6jJMTfXsEZkmx+0Nov84W++1oFN73X3RXaV+UgZTGMp64z/zz61sxk3tA+01FqZS+G16G5lzJy7C7kKS3t7NXB1WetuDds1NKNgSgnarM3/u4rs4dLhDz9nORKAu6bSjkbHPyXczgjETMg/v3n/E4X5rp8F3a0udAeS7mpmEek9XrhwfXzsB0etH9cM9Qq25/rCd1jsGJQ2ZpoNUIstwuHIRZpGWYAzYNxQ+a3wz8ZxMUj4fbNMZnOFB5xese5xN7VJTTXKHnqmlFowcH57RM0cNZWbyQS+uRfRUA7UvVDI0mwqv6Z0VQ7ZGOt5+jBYidLeqD1Q0LbihHBCsaT84rydb9O799AcYipYZCufwjvawtJnYBfacGuX2iKo3N5zhUlU+lkmArTYaAWnLkpZhNljLMDqQSsX5o9lmBdC3U5vPUTD4/wCKBWmyNtxxKTLh153qGPN+qPH1U5/Y9uiAysLEcAWUsRZwYxZ79gyqJl5+8s0xlahRaZKfBIIQ==;8PcZfME/w4mg7DOGXHcmJg=="
 ---

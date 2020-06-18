@@ -27,19 +27,21 @@ images:
     title: "Qualcomm Leverages Smartphone Technology to Power a New Generation of Smart Robots"
 
 related:
-  - title: "KT and Hyundai Accelerate Digital Transformation with Smart Robots"
-    excerpt: "announced it signed strategic cooperation and investment contracts with Hyundai Robotics, to speed up collaboration for digital transformation based on 5G, artificial intelligence (AI) and smart factory. Under the contracts, KT will acquire a 10 percent ..."
-    publishedDateTime: 2020-06-17T19:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-301078524.html"
+  - title: "AI model uses smartphone location data to predict power grid usage"
+    excerpt: "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic."
+    publishedDateTime: 2020-06-18T17:02:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1192262/KTPhoto_KT_Hyundai_Contract.jpg?p=facebook"
-        width: 1999
-        height: 1047
+      - url: "https://venturebeat.com/wp-content/uploads/2017/07/australia-powerpack-blog-e1592499666353.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "NrJvQzpSg7MtCRtLJSvkxz7qN2KPFbEVxLjwffuXIpegWhlg6feKXoz2QFr85YNxanFUEcUfv9ytLeb0U5vjuByJFqqB9BnZYvxfvU6H8RRNQWN5RcKqyDw/Had8i+uMs1VFDWthOMS344vWLob3OtDiBvYJCfhybg2rlYRGoRnMQS9riluHXUSkd43Mo83YqAABk1rIhvC/m+05EiimII0AJo4MllTmIU6OdN1rhFjy6HXUPjhDidfi1AbPFAD99hdV7r98jqyvUnEEdGO5NgfZ6XNtDWrtFpPQM3+q7T9rCM64/UcGJVb4WMUHtlEEmraTQ5AHq7ErlIgDF3lKBhPYgOKMaBjQNi9ThCFTJHVvg+ljcuWf9gM5jFIE/0IdIM2AtEAc9rZ2uZRggFVzv2ntasWHiF7hDN8OX0k3EE0AlR73SPG6kD0HbX5fP0O2RsRo1IjjHWklnuQ904xPOdCq3SJ20VP0ypXSrMgoQQGve0HiSOuedkFbkO2nvvXQN2xIqKo+vEaabyCn3UVlSw==;VMKIGlMpAML2N4ibEUPpoA=="

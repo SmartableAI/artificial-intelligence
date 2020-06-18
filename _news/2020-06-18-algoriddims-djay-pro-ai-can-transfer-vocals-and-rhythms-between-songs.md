@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-trans
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs"
 
 related:
+  - title: "Algoriddim’s djay Pro AI Harnesses Apple’s Bionic Chip For Human Brain-like Processing"
+    excerpt: "Algoriddim has released djay Pro AI, a major update to its Apple Design Award-winning music app that adds artificial intelligence-based real-time music separation to allow users to mix individual components."
+    publishedDateTime: 2020-06-18T14:07:00Z
+    webUrl: "https://www.hypebot.com/hypebot/2020/06/algoriddims-djay-pro-ai-harnesses-apples-bionic-chip-for-human-brain-like-processing.html"
+    type: article
+    provider:
+      name: Hypebot
+      domain: hypebot.com
+    quality: 46
+    images:
+      - url: "https://www.hypebot.com/wp-content/uploads/2020/06/djay-ios.png"
+        width: 390
+        height: 260
+        isCached: true
   - title: "Algoriddim’s djay app adds new Pro AI feature to separate, play, and remix multiple tracks in real-time"
     excerpt: "Algoriddim is out with a big update for its popular djay app for iPad and iPhone today. The major new feature with djay Pro AI is what’s called “Neural Mix” that lets DJs “isolate, play, and remix singular elements from multiple tracks in real-time."
     publishedDateTime: 2020-06-18T13:14:00Z
@@ -64,6 +78,6 @@ related:
         height: 1397
         isCached: true
 
-secured: "jnCdeAQ6SvEFz/TcBR+XV4OhTOtnC3OjISC+7ThwLdXK4dMaJraOe7cO+IT68ysle6aBwMymfLhMaWGDrnjVs7SOf0306ABk1QI4+LvKUtvxQnsD4E6vn3uLImjJYgbslW2Y4yjyZKJP0anAT8ttr8O29ocsVCcfFXA5XqbdaEOUQSfEZoXR+VRcEpcuvD47itj2TsRs9rNnOk08AOBdQtfc5O0vUhPaufWTaFCXgRSBnVpfkr0+FJqN5cIBgpt4BLlcZZa8lcAZyDhS8OT/5kthW9u41NWxgTSplFNjsxV/O/KZFsc6z9fyKJO1LYw9EWtAwMNLOJ6tPZH50C5LaQ==;JTX4W4AjJi6rmeY7izKDiw=="
+secured: "rGa7MxrD14caX8WxALHkPHPmgnLWtg+h5QWBUE70Xfi7WU4zocj1Hv2MsMoOweBiG5OP0sQ5lRGSA893MdWWQUyuiqDj9sDgaTY+/IGalVl5CqoM/+E5bI74B+/2JEfhKLTpnhbImahgyH4h2f/q7TjF0lbLAz2s4ue1cJ3qlWJ+wuqc61Zd98WWmcW3xIH/GaPT5sBIBxA86gQThyeZF1eXgeZ/++ydLivX5MdDSG5v192enTiMYsj6/5gx02Eo54iddx3o/mABusxdj/9p91mpb2T1KAfTWfqi0kv1WEqgF0SJWdr4lpNJlurlnVjjDtBVHZGZR72K0ZlBLQXFMBUnZv2Ors2gUo8AaD9u5AhTvW/DsIvT+lUY9FWGEfdUeFhH+1g7TbHSoo/Ipk4GO3sOMg/GoRHK0kfMhvByOBAYxdAlVAaK0gSmVOwQAWZy5H5QhuJXO/z05LTIkPnt9S/4gukgJ5KtqOz+t9UhoAksHqPYxPKuS/xkfI+5ebXeBg8B9edl2sa6U88Og/bfWg==;Vp1n9OCs6fq/yfBBaf3CuQ=="
 ---
 

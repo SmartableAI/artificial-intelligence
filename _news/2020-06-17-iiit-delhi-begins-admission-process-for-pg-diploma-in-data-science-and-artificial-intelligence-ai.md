@@ -30,7 +30,7 @@ related:
     provider:
       name: The Tribune
       domain: tribuneindia.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg"
         width: 900

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Algoriddim’s djay Pro AI Harnesses Apple’s Bionic Chip For Human Brain-like Processing"
+    excerpt: "Algoriddim has released djay Pro AI, a major update to its Apple Design Award-winning music app that adds artificial intelligence-based real-time music separation to allow users to mix individual components."
+    publishedDateTime: 2020-06-18T14:07:00Z
+    webUrl: "https://www.hypebot.com/hypebot/2020/06/algoriddims-djay-pro-ai-harnesses-apples-bionic-chip-for-human-brain-like-processing.html"
+    type: article
+    provider:
+      name: Hypebot
+      domain: hypebot.com
+    quality: 46
+    images:
+      - url: "https://www.hypebot.com/wp-content/uploads/2020/06/djay-ios.png"
+        width: 390
+        height: 260
+        isCached: true
   - title: "Algoriddim’s djay app adds new Pro AI feature to separate, play, and remix multiple tracks in real-time"
     excerpt: "Algoriddim is out with a big update for its popular djay app for iPad and iPhone today. The major new feature with djay Pro AI is what’s called “Neural Mix” that lets DJs “isolate, play, and remix singular elements from multiple tracks in real-time."
     publishedDateTime: 2020-06-18T13:14:00Z
