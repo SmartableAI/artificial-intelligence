@@ -2,6 +2,185 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
+      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
+      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
+          "width": 600,
+          "height": 350,
+          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "publishedDateTime": "2020-06-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
+      "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
+      "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
+      "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/16/258996ab-9ba2-4444-b563-7d495c021025/lenovo.jpg",
+          "width": 1115,
+          "height": 584,
+          "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "publishedDateTime": "2020-06-18T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers.md",
+      "title": "Microsoft and SAS partner to bring more AI solutions to Azure customers",
+      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” notes Scott Guthrie, Microsoft EVP of Cloud and AI.",
+      "webUrl": "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/",
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Microsoft and SAS partner to bring more AI solutions to Azure customers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/",
+      "publishedDateTime": "2020-06-18T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace.md",
+      "title": "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace",
+      "excerpt": "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ...",
+      "webUrl": "https://www.techrepublic.com/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/18/909043e1-e9e6-48d0-b8dd-57b2ec185ee2/resize/1200x/177161e24ff22fce24b64c777d51d647/temperature-taking.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "publishedDateTime": "2020-06-18T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
       "title": "Businesses put AI innovation on hold to avoid public backlash",
       "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
@@ -53,7 +232,7 @@
       "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
       "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
       "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -91,7 +270,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -142,31 +322,40 @@
       ]
     },
     {
-      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
-      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
-      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "heat": 144,
+      "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
+      "title": "Everything you need to know about recurrent neural networks",
+      "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/",
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-4-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Everything you need to know about recurrent neural networks",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "publishedDateTime": "2020-06-18T00:31:00-07:00",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -175,7 +364,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -316,7 +505,7 @@
       "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
       "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
       "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -410,7 +599,7 @@
       "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
       "excerpt": "A newly unveiled introductory course for machine learning on Azure will be available for free on Udacity. A set of chosen top performers will then get scholarships for a more advanced course.",
       "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity",
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -452,6 +641,53 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator.md",
+      "title": "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator",
+      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure.",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -507,7 +743,7 @@
       "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
       "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
       "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 355,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1122,240 +1358,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits.md",
-      "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
-      "excerpt": "Researchers have found a way to turn simple line drawings into photo-realistic facial images. Developed by a team at the Chinese Academy of Sciences in Beijing, DeepFaceDrawing uses artificial intelligence to help “users with little training in drawing to produce high-quality images from rough or even incomplete freehand sketches.",
-      "webUrl": "https://www.engadget.com/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F812a6680-b085-11ea-b7fd-7591620edf6b&client=amp-blogside-v2&signature=b43b6c6e5e36400bfce630d07cafac5b7c0c445d",
-          "width": 600,
-          "height": 350,
-          "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
-      "publishedDateTime": "2020-06-17T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
-      "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-      "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
-      "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Proprio-spinal-image-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "publishedDateTime": "2020-06-17T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
-      "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-      "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804",
-          "width": 1200,
-          "height": 676,
-          "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "publishedDateTime": "2020-06-17T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
-      "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-      "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
-      "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/qualcomm-5G-e1591989281622.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "publishedDateTime": "2020-06-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-coronavirus-turmoil-fuels-the-rise-of-ai-powered-companies.md",
-      "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
-      "excerpt": "For the past seven years, a Munich-based firm called riskmethods has tried to interest companies in buying software that allows them to track all their suppliers in a way that minimizes risks in operating globally spread supply chains.",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-automation-idUSKBN23O1NQ",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200617&t=2&i=1522546452&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5G120",
-          "width": 908,
-          "height": 545,
-          "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1NQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1NQ",
-      "publishedDateTime": "2020-06-17T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

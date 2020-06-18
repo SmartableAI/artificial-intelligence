@@ -338,6 +338,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
+    excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
+    publishedDateTime: 2020-06-18T12:01:00Z
+    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china—yet"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/Security%20Photo%20duPont%20Article.jpg"
+        width: 1600
+        height: 1071
+        isCached: true
   - title: "Why It Matters That Microsoft and Amazon Will No Longer Sell Facial Recognition to Police"
     excerpt: "The companies say they will halt sales for the technology for a year while Congress comes up with legislation."
     publishedDateTime: 2020-06-17T08:56:00Z

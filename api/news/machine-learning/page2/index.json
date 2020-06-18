@@ -221,30 +221,30 @@
       ]
     },
     {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
+      "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
+      "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+      "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY",
+          "width": 763,
+          "height": 509,
+          "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "publishedDateTime": "2020-06-04T06:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -255,8 +255,45 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Autos"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1180,54 +1217,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

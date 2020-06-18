@@ -2,6 +2,231 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
+      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
+      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
+          "width": 800,
+          "height": 600,
+          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "publishedDateTime": "2020-06-11T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techcresendo.com",
+        "domain": "techcresendo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openai-releases-commercial-api-for-multi-purpose-ai.md",
+      "title": "OpenAI releases commercial API for multi-purpose AI",
+      "excerpt": "The five year-old organization is releasing its first commercial product, giving businesses access to its general-purpose AI models.",
+      "webUrl": "https://www.zdnet.com/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/05/4e6420ab-acc9-42c4-86d0-0ed58f504e5a/thumbnail/1200x675/01b6d549f030f0f5ab9687b9c5fd85d0/oppomakes5ggroupvideocall-5c072b3160b2dc10be302bbb1dec05201830233poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "OpenAI releases commercial API for multi-purpose AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "publishedDateTime": "2020-06-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
+      "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+      "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
+      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "publishedDateTime": "2020-06-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
+      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
+      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
+      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
+          "width": 2126,
+          "height": 1144,
+          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "publishedDateTime": "2020-06-11T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023.md",
+      "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
+      "excerpt": "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ...",
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023-2020-06-11",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-miso-robotics-flippy-and-the-robotic-future-for-restaurants.md",
       "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
       "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
@@ -1054,216 +1279,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
-      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
-      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
-      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "publishedDateTime": "2020-06-10T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
-      "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-      "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
-      "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 841,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
-      "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-      "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
-      "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
-      "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
-          "width": 1200,
-          "height": 849,
-          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "publishedDateTime": "2020-06-10T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
-      "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
-      "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
-      "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/06/10/975931-iiit.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "publishedDateTime": "2020-06-10T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

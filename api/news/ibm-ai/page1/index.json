@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-18-ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace.md",
+      "title": "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace",
+      "excerpt": "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ...",
+      "webUrl": "https://www.techrepublic.com/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/18/909043e1-e9e6-48d0-b8dd-57b2ec185ee2/resize/1200x/177161e24ff22fce24b64c777d51d647/temperature-taking.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/",
+      "publishedDateTime": "2020-06-18T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-ibm-named-an-ai-text-analytics-leader-in-two-2020-forrester-wave-reports.md",
       "title": "IBM Named an AI Text Analytics Leader in two 2020 Forrester Wave™ Reports",
       "excerpt": "\nI’m thrilled to announce that IBM’s Watson Discovery was named a ‘Leader’ in two reports from Forrester in Q2 2020. Compared to other vendors, Watson Discovery received the highest score for strategy and for market presence in both reports: “The Forrester Wave™: AI-Based Text Analytics Platforms (Document-Focused),",
@@ -1281,44 +1328,6 @@
       "provider": {
         "name": "CIO",
         "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
-      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-      "excerpt": "I am predicting today that every company will become an AI company, not because they can, but because they must,” he said. With that idea in mind the company rolled out IBM Watson AIOps ...",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null

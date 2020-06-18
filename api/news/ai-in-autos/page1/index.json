@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
+      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "publishedDateTime": "2020-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
       "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
       "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
@@ -410,44 +457,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "publishedDateTime": "2020-06-09T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -920,45 +929,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
       "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
       "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
@@ -1286,6 +1256,44 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata.md",
+      "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+      "excerpt": "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata.",
+      "webUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90=",
+          "width": 1200,
+          "height": 630,
+          "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "publishedDateTime": "2020-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

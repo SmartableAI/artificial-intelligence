@@ -3,11 +3,13 @@ category: news
 title: "Everything you need to know about recurrent neural networks"
 excerpt: "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it."
 publishedDateTime: 2020-06-18T09:05:00Z
-webUrl: "https://thenextweb.com/neural-basics/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/"
+webUrl: "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/"
+ampWebUrl: "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Next Web
@@ -28,6 +30,6 @@ images:
     isCached: true
     title: "Everything you need to know about recurrent neural networks"
 
-secured: "G0gsl0OAle8nENgYeLPNrUGpEGndOL4U5lTpSIiY6I//YcN5zBMW4DoLnsBEozpGGaTfeXEK7vUo8AJY2w+K6tJ2gBkrJMmFKj70Gk3Z2bEm+gRZUUcurf1j0ucQeYTkwaj6nnLhu0hPQ5ecwcb/xrFheXmzOfuTbR6omd4CLX8opkK6q2paNZC8lKGPfWn/4exvyP6LGlTdppDDrgieXtdPNcKC/04XdwP08hw1qCEUJvR8JxNHryzbzVeUdTCk1T0lAgxSnFRPkEUVuTdm6lFkG74DeC2zXw/0HYCDB68NWz6J0o6MdgA11uFJv0eGHWl1UKlSjl9hlQUTy8ahNQ==;5HcE6b/A2MFH73M8XxgdTw=="
+secured: "aqdF7mkCACjMNll3mI7aHmXUMIDufNEa4SCnQRgLT3AoVjV/efQhNFroMg2hQ0UcPgcNDzgv/sr3ed/6+Lr9B05XRd89GZWp2uWu2JhUE+CJky/XFEOamiaSfL5HlBrKSqSOH76mZZ9qw1l3rUsSr7iPXI3rWEs15EwN7LZGMSP4igkCP640SGv0SliHggSRDTz0quk2yfQEAp3yioawbEx0puF+rH9U8rrM3Yqk/FWrE/MBTQbES/ZQGZuNb8lF+dX95qHH6ha6Dg2GBFWfNM8Ft+pGtu/o+FzNpqpoLyVDAiMMSfE2DDGNFdf4Kuas+60k6oqdrG9rdw0tuc/z7Q==;/ZrxZiorasLVzZxhaKcd1w=="
 ---
 

@@ -2,6 +2,341 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
+      "title": "How AI could predict sight-threatening eye conditions",
+      "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
+      "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "How AI could predict sight-threatening eye conditions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "publishedDateTime": "2020-05-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
+      "title": "This AI tool automatically identifies different types of brain injury",
+      "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
+      "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool automatically identifies different types of brain injury",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "publishedDateTime": "2020-05-18T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
+      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 960,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "publishedDateTime": "2020-05-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
+      "title": "Machine learning tool trains on old code to spot bugs in new code",
+      "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Machine learning tool trains on old code to spot bugs in new code",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "publishedDateTime": "2020-05-18T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
+      "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+      "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
+      "webUrl": "https://www.entrepreneur.com/article/350752",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
+      "publishedDateTime": "2020-05-18T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-ai-is-disrupting-the-b2b-space.md",
+      "title": "How AI Is Disrupting The B2B Space",
+      "excerpt": "Artificial intelligence (AI) as a service is becoming a reality for more and more consumers, and with the major players launching their 5G services last year, many enterprises across different industries have added AI exploration to their agendas.",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F61.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Is Disrupting The B2B Space",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
+      "publishedDateTime": "2020-05-18T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
+      "title": "Should AI assist in surgical decision-making?",
+      "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
+      "webUrl": "https://www.zdnet.com/article/should-ai-assist-in-surgical-decision-making/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/264428c6-6cba-4fdf-8331-bf5f033fe09b/surgery.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "Should AI assist in surgical decision-making?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
+      "publishedDateTime": "2020-05-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
       "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
       "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
@@ -1031,325 +1366,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
-      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
-      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
-          "width": 811,
-          "height": 545,
-          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "publishedDateTime": "2020-05-15T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation.md",
-      "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
-      "excerpt": "EasyMile shut operations due to a sudden-stop incident. It's coming back, adding seatbelts. But is the very idea of the \"transit stop\" where you drop off and pick up passengers the flaw? Can 21st century transit have minimal stops and thus be safer?",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebef67012242700064a9918%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
-      "publishedDateTime": "2020-05-15T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical.md",
-      "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
-      "excerpt": "As the world responds to the ongoing pandemic, it’s more important than ever to accurately access, consume, and analyze information related to COVID-19. Topics about the healthcare crisis permeate many dimensions of our personal and professional lives, through channels as diverse as news reporting, social",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/15/transcribing-covid-social.jpg",
-          "width": 1056,
-          "height": 484,
-          "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T12:21:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services.md",
-      "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-      "excerpt": "Veeva Systems is a provider of cloud-based software for the global life sciences industry, which offers products that serve multiple domains ranging from clinical, regulatory, quality, and more. Veeva’s Vault Platform manages both content and data in a single platform that allows you to deploy powerful",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif",
-          "width": 1200,
-          "height": 583,
-          "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T11:02:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
-      "title": "Apple Buys Virtual-Reality Startup NextVR",
-      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
-      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Buys Virtual-Reality Startup NextVR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "publishedDateTime": "2020-05-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

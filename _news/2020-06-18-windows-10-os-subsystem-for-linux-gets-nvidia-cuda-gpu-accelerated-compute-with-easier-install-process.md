@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Windows 10 Linux subsystem: You get GPU acceleration – with Intel, AMD, Nvidia drivers"
+    excerpt: "Microsoft sees Nvidia's CUDA platform as important for enhancing machine-learning training on WSL and the pair have launched a preview of CUDA for WSL 2, which includes support for key machine-learning tools like Facebook's PyTorch and Google's TensorFlow"
+    publishedDateTime: 2020-06-18T12:27:00Z
+    webUrl: "https://www.zdnet.com/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
   - title: "Microsoft releases the first Windows 10 21H1 preview build"
     excerpt: "While this release is mostly bug fixes, Microsoft is rolling out some new features for the Windows Subsystem for Linux that allow you to configure it from the command line and use Linux applications that use a GPU, such as TensorFlow. Microsoft is also ..."
     publishedDateTime: 2020-06-17T18:04:00Z

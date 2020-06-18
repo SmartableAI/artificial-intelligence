@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Urbint raises $20 million for AI that predicts power grid risks"
+    excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
+    publishedDateTime: 2020-06-18T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/social-share-e1592341639103.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Streamlit raises $19 million for a framework that simplifies AI app development"
     excerpt: "Streamlit, a startup developing a framework to streamline AI app deployment, raised $19 million in venture capital."
     publishedDateTime: 2020-06-16T13:05:00Z

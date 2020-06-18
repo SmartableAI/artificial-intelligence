@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Twitter introduces voice tweets for audio messaging"
 
-secured: "iLjCi1iVkgsQ0QPCBGGwxJ53VFqmHQOzWz437u4IT6CPgoUBEe8CRhB09+9EAhdLtR0d4MdjqTC8k9zfSpcuxyD85SW/XmCkDe8MI1XvV9piTu4pXtenvCPBnLiKFO7Dk44e12LgHBvb+WGWTWFiLfp2uZ0bA7u7aJOyweQh3PlNNg6flXihveyvv7LTti7GJQIvlQQbqJtp+Mo3wRmHjNWlhyJMZ0m4F0XoXsVlDFnxbu7oSTVLndKylEsKE5F7G3FUVDQZABxR+dzAHBvpwO0LR6ei+1ECNkRGo7+xJ11foMxkLlhMfq3X9VLRi77mIFrLtiirQmLxiQUiCaPuvQ==;CdPzNpSRqWPZL5+IqYCIwg=="
+related:
+  - title: "The Technology 202: Twitter's voice tweets raise concerns about disinformation and abuse that's harder to police"
+    excerpt: "Twitter just rolled out voice tweets, which allow users to add up to 140 seconds of audio. But hold your jokes about how this is just the new voicemail: Tech experts warn that the audio feature could be a new vector for harmful content that's even harder to police than text."
+    publishedDateTime: 2020-06-18T13:15:00Z
+    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/06/18/the-technology-202-twitter-s-voice-tweets-raise-concerns-about-disinformation-and-abuse-that-s-harder-to-police/5eea7b6c88e0fa32f823cff8/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 18
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/217a3f53c252cd2bf58ec9984ef4cf57-CQNHRZVQ3II6VGFVE6NGI6NB4Q-680-472-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 1030
+        isCached: true
+
+secured: "0+Gt7ntr6VgshszU19F7Y9W7fV6bVN/xcY1N3t0dMSmh44Ihn2HqcTCiTAl5G9kTBzjlSAgUFlnN4IBMtvknTBIEq0GkqUuxp0FfWSSoUu0Al+ktNwP0x9UTLmiNRmlxYEM3kINz8k2IeuBpaXC6eR5pM0h1wDH4n6QjdFItEmc80PlR3VUjybwcMv7VEf6IVvEr/zy+4xJ05rjcNoU9L1BEiNtFj9XEnfWKJRdeQ9jFvXfZHK4fLqS7JCv045KUGQ54FeEPVEVdAO++uLHFN+I7GTDUGDU6u+72tBgsclZDY9KxfqVsN5wfKA9KPhuvHrjslimBEQdJBFTcya+cCcP4YG+Oa8Vlj6jzYegshMsDpS+iZrXwHngL7sJ6GO+IEwKf4m7dMMxLg6iI5YnLbiFBhbMKEWnJvjlTNvU3zqxwaaN1RtRooAxYl0NkfWia31EjaQZxK7PdHXGs9ZCaAmV393tFGZiVDhjMJP/OgHbcXrnnZT1/LqyhTak4CBSKadgLx7HKQ3u13KZgFucppw==;ihqocph1tcSnvgj7HY/hEg=="
 ---
 

@@ -2,6 +2,222 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
+      "title": "AI, machine learning to support digital lending landscape in post-covid era",
+      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "publishedDateTime": "2020-06-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin.md",
+      "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
+      "excerpt": "Researchers have used AI system to spot thousands of new stars that could hold clues about the formation of the galaxy",
+      "webUrl": "https://thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-64-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/amp/",
+      "publishedDateTime": "2020-06-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
+      "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+      "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
+      "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703",
+          "width": 600,
+          "height": 350,
+          "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "publishedDateTime": "2020-06-04T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
+      "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
+      "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
+      "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-measuring-ai-performance-on-mobile-devices-and-why-it-matters.md",
+      "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+      "excerpt": "It will be incumbent upon these benchmark app developers and the press to sort through the finer points of what makes for a quality mobile AI benchmark, and also what is a truer measure of performance for your own personal pocket AI assistant.",
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed908fc0a0c710006933ed3%2F0x0.jpg",
+          "width": 800,
+          "height": 444,
+          "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "publishedDateTime": "2020-06-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
       "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
       "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
@@ -132,6 +348,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
+      "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+      "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY",
+          "width": 763,
+          "height": 509,
+          "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "publishedDateTime": "2020-06-04T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
       "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
       "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
@@ -213,45 +467,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -835,232 +1050,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
-      "title": "Facebook creates shopping data sets to make more humanlike chatbots",
-      "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
-      "webUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook creates shopping data sets to make more humanlike chatbots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
-      "publishedDateTime": "2020-06-03T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
-      "title": "California’s statehouse is considering a controversial facial recognition bill",
-      "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
-      "webUrl": "https://www.theverge.com/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/UTM_B2kRoU8foyNwIHWM2Ito0JA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66891489/acastro_180730_1777_facial_recognition_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "California’s statehouse is considering a controversial facial recognition bill",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
-      "publishedDateTime": "2020-06-03T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
-      "title": "Video: Building intrinsically motivated teams via self-determination theory",
-      "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
-      "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
-          "width": 341,
-          "height": 214,
-          "title": "Video: Building intrinsically motivated teams via self-determination theory",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
-      "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
-      "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
-          "width": 907,
-          "height": 465,
-          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T11:40:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
-      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
-      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 569,
-          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "publishedDateTime": "2020-06-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

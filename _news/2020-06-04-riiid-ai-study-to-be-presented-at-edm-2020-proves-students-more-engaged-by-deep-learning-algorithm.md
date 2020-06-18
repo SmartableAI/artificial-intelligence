@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm"
-excerpt: "Students learn more efficiently when they are confidently engaged. And deep learning affords such engagement. Global AI tutor provider and"
-publishedDateTime: 2020-06-04T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/riiid-ai-study---to-be-presented-at-edm-2020---proves-students-more-engaged-by-deep-learning-algorithm-301070729.html"
+excerpt: "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ..."
+publishedDateTime: 2020-06-04T13:20:00Z
+webUrl: "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm"
+ampWebUrl: "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1176664/Riiid_study.jpg?p=facebook"
-    width: 1562
-    height: 817
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY"
+    width: 763
+    height: 509
     isCached: true
     title: "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm"
 
-secured: "Zi3x6jP/X+u7N0QdimS6zbNLfWuTIps+LIgp5G+V1KXsnnIcdsrMhjTTUmmHUtftju0tz0Faz4FUnjEn/oZgRznHQDyJ04UYwveSxSA93SiX2gOtK8rhEBlPB/1cN+IpgEBo1As11aafSqB1NuU2iZGxsz7XY3igYuA68qk76wp1XYqrKDxBIfGv280dFamh2TKucHOhtnRlxsiLz28v28lV9BeLJmVOCuumUkvZ6h9HJsQtKx0EmopFstdIp/iqW7YmrPZs6tltUNONoylWY1s21cST8g/001PAzjlNbhWPe3d8xp3DcfbpuiKfsX1ro3czyNmfnceuixYTUUT6GiCUcjwdvK5H9jjpY+LMpoGdcZQd/r1b77Go70HalsKDZlOqBBTNgmMITICWw/b0wqMDya7mTYqRZ1t7f1SM7TAWcXGIvLIqVgSSGxogBtE5++ZhATovXRYAjXd7GQBX8sGpRpoM93Qut4NFJfb+GpM=;xAY7v7LGPytxi31fz5qV6g=="
+secured: "o9yCdojmZk7+QiuSHQlw49GUH80DxX1/apnRkk2Fzd0TVhKCBambkt3KaSjShBC92EnB7jyavXjFQKTmQLsGmGwZsHK+pzpdUk3ZMUJUTMiDUGQiGGpLuf0B5oJeSTHB+LGZJafH4BuThFciZ2FYV+Xta74LZZug26K+E7nqkX/bLJgZhHDeZPB6nrvQehzkzoBun5EBUNxfTbEIgpFKp8UKOblAfV9OMd2n55AFOFS6d7Ypy7I+rUffFSbwx1GYuTGedKh4my+1y38O9lyO7SHWwAgz0x92Gs2FCqWAw2gvD1CEQSn5V3Zdhrz94yPc8lJ2AXal39g7qq7BlFaC8g==;DbN3UXbfcpW06o1J6c9rOg=="
 ---
 

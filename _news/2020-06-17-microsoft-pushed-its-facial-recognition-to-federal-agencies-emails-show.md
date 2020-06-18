@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
 type: article
 quality: 105
-heat: 355
+heat: 365
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
+    excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
+    publishedDateTime: 2020-06-18T12:01:00Z
+    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china—yet"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/Security%20Photo%20duPont%20Article.jpg"
+        width: 1600
+        height: 1071
         isCached: true
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"

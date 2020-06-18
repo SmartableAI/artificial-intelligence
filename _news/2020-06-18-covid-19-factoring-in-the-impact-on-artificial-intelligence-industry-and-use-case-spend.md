@@ -1,21 +1,19 @@
 ---
 category: news
 title: "COVID-19: Factoring in the Impact on Artificial Intelligence Industry and Use Case Spend"
-excerpt: "Reportlinker.com announces the release of the report \"COVID-19: Factoring in the Impact on Artificial Intelligence Industry and Use Cas"
-publishedDateTime: 2020-06-18T04:46:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-factoring-in-the-impact-on-artificial-intelligence-industry-and-use-case-spend-1029319952"
+excerpt: "Reportlinker.com announces the release of the report \"COVID-19: Factoring in the Impact on Artificial Intelligence Industry"
+publishedDateTime: 2020-06-18T04:12:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/g16284615/covid-19-factoring-in-the-impact-on-artificial-intelligence-industry-and-use-case-spend"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16284615"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16284615"
 type: article
-quality: 38
-heat: 38
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -36,6 +34,6 @@ related:
         height: 627
         isCached: true
 
-secured: "qPUSrYsTFfgQW3nWwqUBCFySkWnvEaxyTD68BUq7RkQS+tFEe4gTSxWTxafCl8/vofE2Rjnp/cuXrly2cSxWpH3Lu9fRuRHC9ZOYRX8BWOaUjR9FEyeKb90ZQsJ2L49WsZUkm5IYDzE/MsjIp/Tt/VP7++j5mO64GCtTVYOFRHkrS9wOaUHAqQxJUz34BedYApioqZ0AweabcuvCUq6kytTuUtCRSDfNCXuLx++YKi6DHcieZzbcVjFZ4Vuz8uQvuzWDI2+28NCgnalB9FZl6gtDWEtfhmAWPdp1q8q3WQotYGiWVmE+YMQ3cPCHIHgvGZkK0n4PBKicBG4NEYVIGw==;bNKRX41dkbaRl+N9L2HWQA=="
+secured: "QFEYPG3uY5BO19N/ERmtE2MXsaO2ZKcI37NqqW8XY6s1esB2HURodudeXnqpfzx4uXdy2p1aHvvYSoTTnWGQcEs8uY+HJhDcFYnicMebVD3w0iq1+TyuwjnGMlFMbH65Zcnb33bQRJoNIIPf0Jf4P+Ui4CrzBjfN0MjZ3UqiZoVsysDLlZcNjRgByAh2XDdjf3TB1XhLicduEla3AP4DQ5GwXa7qc8G5C/H9PWGRtbNIgeyVIRPwMWGN5f7oWGaXJBCg2gmjE84333afxwAxARTIRFYXqwPtqdgUNEqcwQAZ4OjeePSNLAidmdaJvt1THGZ2rHJLCSwETirsyOBOFQ==;84oOSJMS0ZwibY+xP0IW6Q=="
 ---
 
