@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/"
 type: article
 quality: 120
-heat: 120
+heat: 121
 published: true
 
 provider:

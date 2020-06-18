@@ -79,6 +79,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
+    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
+    publishedDateTime: 2020-06-18T01:39:00Z
+    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
     excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
     publishedDateTime: 2020-06-17T13:05:00Z
@@ -87,7 +101,12 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-2-copy-2.jpg"
+        width: 750
+        height: 516
+        isCached: true
 
 secured: "MlNKz4QZ/Aai3CUdk0134D6+DxXbvBi6pYzdCi0zpb8O6yQ8dAT9T6iAmS2u37/W+vcY9o93+M/rczSPPXhPfhj7cJ8YwwoHO7iEwoY8NoWc4zAHMyMy6htRoamf04OhuJLaUCr6lLRiuV3cCo7qXTNrsidfdLm6yYplS11JnIhSYbhJpaOCDjfLkpsWaAAsQ1+qN5s1aYGl9tsFtO1rI/gTeKn4/NnfS0GVV9UR8h2VSEz+yLMn5BzgEdCg0qgI3tOumgUBh34WyoNNgeFPOeQwYFMe6AYeSXaJ246c33dzkVEEJ4UlUDXMd3sRNBwSbDhFqe4rTyw0G6XDbZ6wR2Q9gaPoj3xT+14l0lI4w2pX4skzXwJ43c3/Tts/BXiK93aXsezvZqBYNwMStvE1rVf6TtKg58ZE/TDesXVbzQCa/Ks3jl/DgHoP5JderVJWKuDBYj6UlF/qZnCKG+kOjWPhIZc3J4ss1Ot92DC1uRs7zg4GOhBi2H9Ok87r0q0RIoQ97O3KI0iKchOh0qYHYw==;p3T8ZX3kLq9mN/3FulELPg=="
 ---

@@ -5,7 +5,7 @@ excerpt: "Qualcomm Technologies has launched what it claims is the “world’s 
 publishedDateTime: 2020-06-17T13:05:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/06/17/qualcomm-launches-worlds-first-5g-and-ai-enabled-robotics-platform/33196/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-2-copy-2.jpg"
+    width: 750
+    height: 516
+    isCached: true
+    title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
 
 related:
   - title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
@@ -82,7 +89,21 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
+    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
+    publishedDateTime: 2020-06-18T01:39:00Z
+    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "hAJL/4PmGtETnE1j76Zesm/z6s6Kj2Ld44l8YjrjOU5DEK9Pnllag7XHghipsMnDfCtBgFgnrRqbSeiEhXhqKc8mPtk2vmYreejmdCAFmnEhpujsE0BLqc+H3OZoORx4QQqlHdTNxvcNCkpaYnb1oruslM/6sftqVaMkHQw4aeeDd13LrFBK3iQ4QDmIRwJUTomkGn91lmz013nuNn/TzqLFcPz9SHKAQxx1aHDKI+qKfDseTpFSqkvRrr6QerCYGzN5cnalN62dW0L4lqL8QqHNBGHVdRlxbEWvuXyLUUDgsoXFYkLOUOUM5pZODK92oX9WGPBiV56fM1KcH651HupB4Fh9L0Zw90EsFySpVrSgFURtkG/RMnOQ8tSA/3VLQaFPeyPbl+EbQv+cVzsmmaDusKy+rClPxolVQri9p9k8gEA81iJg9faQWuAGcpq9w5Tv3qH5662zV0s+Jhgv3z1p4mpx7TcshpYjHe8bNlWFaZ6o00pYk8kk3apD9q3HlHNTzaeXPpZKjkKmuLa+vA==;40cbeZAWbY6xEXLKpoHRsw=="
+secured: "rUbV2YumGKPodmc3YrhJZeUFRcl+Y3wTLzexwCKN0IySUSIevi+BweUud7UwxQhHV0d7wMeHEU5sQNOD4Ge9GG5XSTJL9kUyO9zGBesMmSxhNolIKBjKXAYO5bwwnUfx+bmBEV/wq8Ta7CbBvvXWfLpMdkSRfXvIINu1ed4NaKxBlp7OWE+R5q3NmB/DyMoopoksZtIAL5U2eDotHtZAWEMgkjyPW6Leen0mIRW2X1lNThYnABNQzYLjbrhgTCdyBcRYJceGDr8rxgdoY94Mi4Gffliz4K1M6GEJsnzsueANrb/vAIV+LIXsKWW5v7t9j7NMbuibuxrojESYvl3FhA==;YNHhiRfey9MeZc5KBFMz1w=="
 ---
 

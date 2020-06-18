@@ -25,20 +25,6 @@ images:
     title: "5 New Machine Learning Capabilities From Palo Alto Networks"
 
 related:
-  - title: "Palo Alto Networks debuts its machine learning-powered next-generation firewall"
-    excerpt: "Network security platform provider Palo Alto Networks Inc. is expanding its product portfolio with the launch of what it says is the world’s first machine learning-powered Next-Generation Firewall. In addition,"
-    publishedDateTime: 2020-06-17T12:15:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/palo-alto-networks-debuts-machine-learning-powered-next-generation-firewall/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Palo-Alto-Networks-ML-Powered-NGFW.jpg"
-        width: 976
-        height: 510
-        isCached: true
   - title: "Palo Alto Networks updates firewall with machine learning"
     excerpt: "Palo Alto Networks has introduced its next-general firewall powered by machine learning. The firewall proactively assists in stopping threats, securing IoT devices and recommending security policies."
     publishedDateTime: 2020-06-17T12:46:00Z

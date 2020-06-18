@@ -3,7 +3,7 @@ category: news
 title: "Amazon’s machine-learning device keeps an eye on social distancing"
 excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
 publishedDateTime: 2020-06-16T14:59:00Z
-webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=33&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=34&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 type: article
@@ -140,6 +140,6 @@ related:
         height: 720
         isCached: true
 
-secured: "BY+4kBWLuLVDCKfyWiObGKhMvTijRaeXR5dCdLWKd99jSuS6bH8wuyBJtHg2WDWAidQyVtUInmEwZ7xOWHGMZjeJipTL4wxAbCPdLHOa2MaJ0d4UWilb6zyWCkVEiWbzVL1uRp64mreAIJGqi2y+b3cmJaDdK97SkiKzjYSXNL0+MZzsx/X7kngx6FVnX5smzZB/NH9W8VC6crAWhpffOkaafc+sYpkzfW30F7TF+jDhCs93DjhKEtH0kTsLvDNtX4Gb3Km9cDbwWaCFuCKfD+sG99mb1Kd1I/r6EyrlUlqPSWnRPJ3c7XV4uRXkYTFZTu25eGXOMc3VONtwHwjsnnJz50ZK7xGqcaxvRA1aZZSZaBgRcMsVVE6NuW7eRhsBakYR1WZZDkM7GB7eVASm6sR8Bj12/8pGwJhLvlufno1yYBWjvPl+hyu7iF8527SisoYaa+96fDoxP/zwRcfl1e9ay7Z1QVbYaeAZ7eJQgw+0gEKU0MV/XaB1HfaKCAz4D+ksJ9yvv2sQpi5vB+/t4A==;l5PHgR3ybr9s7b41H3hSZA=="
+secured: "7+TTOTZexbWVKKYZVvHo7Bms538C8lhO8rzAOkcsyIBqXtpW2Qf9TiLf+oG/KXha0/CRsEopJ1Z5kgsCr/kJzFJFiHN+NvEO2m+Sq0UpTF2cqf+iZWq98AXzrWFt4qNaMkuw6gVplB6YiqYXB+yrH72+3hrBb6tqBoi/HR/KTKAKeaRvFs74t7EA0U+xL5n75CagXK+raRGVEKFeFr9R3IoKNBGS4rY4gV9NFMNZMci7RVLeNm73fNh9eJT1PDEc/oibGkhKN4gKWr9HRxE1KDveKjbybpM3JEmCp4k077GkYqVNMENKpSt0/OTd62HgK54w5cTVLChAiwiafa8DfGI7dpfhoxAZe6mWOI0/2URSkb8ZOSvQjfCJycZXIvduM8YQhXaSO/hkA54f6cJ2JguWTMf+wXlu8nGMJtNzMm9yjiPOyRRigMIqZCNsBq4QB+ffol+mcxqiZX5+OmHACtjy/vyPmS7Yt1vgJsUZKvp/15Vpxj03x6NwP04JmMWsYNLfafdJ9EygyZ5KO54cPQ==;xnXuhbcAOlevdqkN4GS1EA=="
 ---
 

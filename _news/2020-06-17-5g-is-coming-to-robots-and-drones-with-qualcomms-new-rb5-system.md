@@ -79,6 +79,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
+    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
+    publishedDateTime: 2020-06-18T01:39:00Z
+    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
     excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
     publishedDateTime: 2020-06-17T13:05:00Z
@@ -87,7 +101,12 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-2-copy-2.jpg"
+        width: 750
+        height: 516
+        isCached: true
 
 secured: "2puWFChWuMWLuN+Mpby6wr3LnZBjHNV6TwGNb38qTLHmdeLma0bLRWTRD8SYeVbWBpH8glVGCaHoUNxCyNFqMOiCmVThRd6y1lD6waYjf8F33tBqPC0/rFhJlfc15xKIvpurFASVFNF88AO9pRJDOzU0M6/H7I+O+tlh1U6PhabqTmnyLx3QLENCXQzTjbSoXxqDUDN4gq4v8/bBdZfGnGITaXMBoKpSLrwCxruO3IHG7pX/dOhp3DGV/0+fEnOJea/riUJVytVg89tjgocrPtHPOKtgv7DILXeUcJMHLwgbb9XvapBJAQ0Qk9q5va/Mnt0cNI33N7RtBNnIfhdrY0zITsQSbE7rq69F3TpcjsY1VSAC3d/GWY/a5X6+VHOcEpKPY4gPSwvjAnYqQttg2krkAdf6Mz0RSqrgvMXnBZ4I6Iwqx8O/so8nlA6O+yWw0ZjqzwW7T+lKEfyxTtffdHAMnGv/0/ZLbi/aP8UAngQ5ZLdnlJvAPp3q3awOXigDb8Oc2LDik+sJD+KrCz8mbQ==;lHSoq+mjfina9BoY11eZgA=="
 ---

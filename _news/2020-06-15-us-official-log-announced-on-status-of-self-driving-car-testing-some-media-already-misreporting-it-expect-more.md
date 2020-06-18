@@ -49,31 +49,15 @@ related:
         isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T08:08:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    publishedDateTime: 2020-06-15T10:22:00Z
+    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
-  - title: "Ohio receives $4.4M to test self-driving truck tech along I-70"
-    excerpt: "Truck Automation Corridor, and is a collaboration led by DriveOhio, which is an initiative of the Ohio Department of Transportation that focuses on automated and connected transportation technology."
-    publishedDateTime: 2020-06-13T08:14:00Z
-    webUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/"
-    ampWebUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
-    cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
-    type: article
-    provider:
-      name: Springfield News-Sun
-      domain: springfieldnewssun.com
-    quality: 44
-    images:
-      - url: "https://www.springfieldnewssun.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/13/Images/ODOT.jpg_web.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Self-driving map will tell where Apple Cars are being tested across US"
     excerpt: "Regulators in the United States are encouraging Apple and other self-driving vehicle system creators to collect and share data on tests of their autonomous driving platforms, to help promote it development and earn the public's trust over the use of the technology."
     publishedDateTime: 2020-06-15T11:15:00Z

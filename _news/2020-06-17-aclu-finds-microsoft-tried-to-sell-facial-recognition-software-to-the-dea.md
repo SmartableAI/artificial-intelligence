@@ -263,6 +263,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
+    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
+    publishedDateTime: 2020-06-17T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
     publishedDateTime: 2020-06-15T16:59:00Z
@@ -273,6 +287,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "K0NWwL+sFsNg7ATezdA615AzG0yNqWKJ8AuXsHi+0rbXnkHU5VNRSz3haIqNiPLc0XzikhSaO2qSOAaCdWeL1hAmqVz91iDxAb22tHdCFPC860M1T3nUHYzw+3k+DYfHhfxIzKK+F03Hcfdr0lrs0WukDMknPktL9V7JjxoyGW6Thmp1Z/+HVC3iJXiG8Eme7Kp19ge7VxJ8zxtv4clHOv5Lg3KUSipcERo1Mhd1xsTSt8zUeKUaSCOXnsNAzwrjYviwu89b0rBsnVkhU1Q5ZlRihpoDH6ekPWPI6iKzklESZAYs83rpuls4325mItfGkKNyoYhRkapxfVOyoOpYcw==;ePqMQd5UuGYdvcf7y38ERA=="
+secured: "Qq3wbK/cEhZb+h5ax6iP1A9m7Nn4Rp7NYtL8KNjv7EY+hOhXAVogV+bnLPbgkVUt954wKrEjRCzpKVwgn5a2iKx9CowZM6ND6vRm2Q/ljtPPMkCh/Bkw/lks9k+VVLhLJFlmVRX0r4bwG1xAWgjSih9RuaKDQQp74MJc/nydxGkbiaB7+A+BWmvg0N9VYoVFEsSQLIsAHevnpTDJkGEkvA+mZYBBy2O9CkywDUPBaY45t7u86f14r4QrGfcX1NkgKfIk5jXAUXlk/vEU5UX9Saz3mP/JgCmOmCKHYnIrm1OITq1rS5qKyNOzf8nRW3BXbM6W1xruQKg9FyVGzQC7jjeYt9Rgt2UV88HyFhl3Dz7hS4CyPeD9fVUXUlI+JXB065v41/f+uOVGXwwQE/hmXKWUNgvKajEfW3CE0j4fWy+GxsYVL3weywYb9Iww1w0sLfqhrQz/t1ta3ZmjzIvar0u9HDLK3kJrM6O9emuyWKKNsu127W5upn9eGJW4H1/b33hgIfPOBUVfEas1yQW6Tg==;SqotmM6DNcca/QZ0f90w4w=="
 ---
 

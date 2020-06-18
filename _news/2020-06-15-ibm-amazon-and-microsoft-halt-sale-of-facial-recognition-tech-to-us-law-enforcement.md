@@ -253,6 +253,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
+    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
+    publishedDateTime: 2020-06-17T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
     excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
     publishedDateTime: 2020-06-17T23:47:00Z
@@ -277,6 +291,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "iTJvXQ7m5lBbE7KpBDaYspetIJu5B8uKNp+C07rq6Dqe1p0fOCgzDdJwEhoLjEA70rl3ImlqTLg2ieaWkj7AMDEg4aZBYrm2LXg90HPvUKqJF8ILdRn4F88Yw0xnQ7ZZS/unnyJcDh+3c6kCIwvsMRTXmTMbFJNf0zFvZshrx/O9oN19jKo1hyzJ0GPbCn6JFlj98MVYs18mq4pwk2XYbxiXYLYGLYaeiI0pVjI82YMWuOlKgQ4ufOxPtB7C2hYXa2oDDTvgIxLV7bp4Ty7JsE5nA5iNuLqoNfXsHwqbiiJoVw0hvAbCjj1uj5OIKVbYDCMdXmpSuojFrmR9esVCug==;AP22C3/rrAJWiQolneuuQg=="
+secured: "5FtkhPHR1JqhnPFT84goerz/NSBaQUY4wsIIqZYuDd89vtj92AQu5sSYvm6GMMbhU/Uamm55eJXTAb5pM5uNIE3e7ul19ESh7YOeF24tqWEKxXKegBit//PpkPGoVJ792EHACHXQuelcKzqAi1L0T2THim2/V9OTqAIRtYfGdQ/olw/qmBCowlstf7vSh+rxJc32/147722sXZv/4ti2Gz4yJA9tiX+lCYauLdQEIZpE8ZL0+/PtjLzuG1V+RzP5vhCI1XdYfWcyCTsuaMwFOHMwP6lYSNtpxoXxtxh+bdvYAChw6Bohh8xJCUCEf+X5dOTh1inqMGv6VYK6GmSUrocCOW7Pach4TBUGkyAr5GPwBRTL+pZCOLVQMjyu5zr2Nxggz4FQahOfMhVqmuv0KNbCuzL38+gspUo6HpA6jKZ/Me8daoYQPr+awHhssco4PqCM0t9QjIoBelC9Ae1psZxWDxR6KkjUBHZxLD3hDidfQ6YD1VP9Vdyz9VXU6Oj3Eh25rwa7YovgGk9MTMRXdA==;KxKUn7iw47HdWmHRuihQ6A=="
 ---
 

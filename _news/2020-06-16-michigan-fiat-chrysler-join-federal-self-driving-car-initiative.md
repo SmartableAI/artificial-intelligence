@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T08:08:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    publishedDateTime: 2020-06-15T10:22:00Z
+    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
   - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
     excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
@@ -69,22 +69,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146418043%2F0x0.jpg%3FcropX1%3D667%26cropX2%3D5422%26cropY1%3D0%26cropY2%3D3173"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Ohio receives $4.4M to test self-driving truck tech along I-70"
-    excerpt: "Truck Automation Corridor, and is a collaboration led by DriveOhio, which is an initiative of the Ohio Department of Transportation that focuses on automated and connected transportation technology."
-    publishedDateTime: 2020-06-13T08:14:00Z
-    webUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/"
-    ampWebUrl: "https://www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
-    cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/state--regional/ohio-receives-test-self-driving-truck-tech-along/rMElkONYrVWCtF1mSYI16O/amp.html"
-    type: article
-    provider:
-      name: Springfield News-Sun
-      domain: springfieldnewssun.com
-    quality: 44
-    images:
-      - url: "https://www.springfieldnewssun.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/13/Images/ODOT.jpg_web.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Self-driving map will tell where Apple Cars are being tested across US"
     excerpt: "Regulators in the United States are encouraging Apple and other self-driving vehicle system creators to collect and share data on tests of their autonomous driving platforms, to help promote it development and earn the public's trust over the use of the technology."

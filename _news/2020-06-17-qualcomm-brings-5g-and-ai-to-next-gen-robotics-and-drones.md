@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
+    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
+    publishedDateTime: 2020-06-18T01:39:00Z
+    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
     excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
     publishedDateTime: 2020-06-17T13:05:00Z
@@ -88,7 +102,12 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-development-kit-2-copy-2.jpg"
+        width: 750
+        height: 516
+        isCached: true
 
 secured: "cF+7UkjOWoPnqB8/BTZpv0XrnB7fogdi1EPEty7edC6fzkc93LZB8+urkzTdGBuB96v4EmFiB+osEUbhl0fiQFCJ42dYlzVgk0gPptcr67vyJdKyYwhvhcv3vv7xNbjemocHuE8njH8B6aqrBmLIM+HcCDegl//CZT5FDmGhGUW9lzyutWBPbdVVVWBG5jIyOCgRizzY6lkgD/zqqteXcqbPr2v9mhrfaCIboX7Puvs2jSEFoK3bS50dzP+YQ/UAdDQvoyyQCTEoNTnBfpv5hnkutYJSrcKsNK0YBPQ0Ge8VGiuI83iRQuoiUTdUS3dw0/4Q0SJ1UT49zz1dv9nNlH8UamEzNhg7n1P0GKTE1TtthYFDYd5HYsiPzhsFYCFWo29uDer9yJbkZPaVKXLP7uWuiLeOoOR3ROjAhS9maYOlLRd9aJ2CFieeRfrTgZPKSCw/wxAAyjDfwyCw8cPU/Qq3YHM+RR4xNUFVk1YvE9TLCx6UCTaf3Lz/jBcNo8ht;IqZ8XXUj3yB2pbt391C2Hg=="
 ---

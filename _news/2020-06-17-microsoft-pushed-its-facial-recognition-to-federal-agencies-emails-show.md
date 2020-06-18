@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
 type: article
 quality: 105
-heat: 275
+heat: 285
 published: true
 
 provider:
@@ -253,6 +253,20 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
+    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
+    publishedDateTime: 2020-06-17T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
     excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."

@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Robots: Allies during virus crisis, enemies later?"
-excerpt: "When human contact needs to be kept to a minimum, robots can save lives and factories. But when the coronavirus crisis is over, will they amplify job losses? It may be a mechanised arm pulling beers in a Seville bar,"
-publishedDateTime: 2020-06-17T21:51:00Z
-webUrl: "https://japantoday.com/category/tech/robots-allies-during-virus-crisis-enemies-later"
+title: "Robots: Allies During Virus Crisis, Enemies Later?"
+excerpt: "The country has seen an explosion in \"robophobia\" during the coronavirus crisis, according to a study by Spanish university IE. While only 27 percent of Chinese supported limiting automation before the crisis struck,"
+publishedDateTime: 2020-06-17T04:01:00Z
+webUrl: "https://www.ibtimes.com/robots-allies-during-virus-crisis-enemies-later-2995405"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "KdKDvRZtS/O9TxARPWyP75iysffgO04dqSdkmi6hPAZr+83v3vs1AIF1fDHrjAKGO+dObiiyplyLWEHn8MPVlksqh72JmQ1kDn7Nn8exMRztVlaxR62SqHEPS2Alsn0YjM8JDL199arutjMSUv8z/Awtf5SIzTh2ypsKkaeo2brq5+6Wia+KvNtHI2Bx373YLVdkCsYlxDmI3Gp8UuPhKiaQPvxHAEvjQKxt8I6FfVm+GX1DligggXK67v4GJ/d3vfn/0ZkBQ7D3qUvcy6wjQV3z6VeHAXFCBah52/YIElSEFqvwxnyLkIpkf1jc86CNZLZf0nn2O6okPnOKpNB+3oMyEANevVTjwT3rPbn9qjNnOat+3Fa0meqVpkLGOOsh8zeRPSs1NWlxkoABs6quxkbzkLQKmn9inWA8lyFfP4eyPC9+mjyB/sgzlSKV3S8YyCi4wwF19dYOG3F7b1FIZK+Q/wsl6WKMBsSkyizjAKg8QP1q1yA2+PEjfXnN9uU3oNCR4qqvVktZeuaKEs/dnw==;p63tUnSi1TW+ds1dDSiCeg=="
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/16/cruzr-welcomes-vistors-at-university-hospital-antwerp-in.jpg"
+    width: 1024
+    height: 682
+    isCached: true
+    title: "Robots: Allies During Virus Crisis, Enemies Later?"
+
+secured: "Cyqm+c762OlYx0QbTQoPjrInQ/wWaV+n9Yr3okd4YODilxAbqOidAcO4Liw5BIKmO1RjCWmRFthZnrjmeG4txSYmOiBgGeW+++QCfZkpDMYPyjyMo28e4PcSvdmbdHoHejbr7R/3XKzobJvrQbp8YOPXUbuGeag4uJ1jgb0/9YzvpH8eYdepuWSSatlE1ff6GsXFPAMJF+KLJ+97mVFL87WREmh52fu9ZNk/Wg5ZooyaU4XVBhT8RUPw7jwQIYJak9PiXRSDMJn7E5CeronpRbEW86W2l5piHdcbDMafYjMRdpMZwmy8IF1hejVLmL4/fjte92WWT4nH79PFOkHJIg==;QdZyaV2+e8dd9TO94vN+kA=="
 ---
 
