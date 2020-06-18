@@ -27,23 +27,39 @@ images:
     title: "Algoriddim's New 'djay Pro AI' Brings Real-Time Separation of Vocals, Instruments, and Beats to djay for iOS"
 
 related:
-  - title: "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly"
-    excerpt: "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,"
-    publishedDateTime: 2020-06-18T13:17:00Z
-    webUrl: "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html"
-    ampWebUrl: "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html"
+  - title: "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs"
+    excerpt: "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ..."
+    publishedDateTime: 2020-06-18T14:17:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761"
-        width: 600
-        height: 350
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Algoriddim’s djay app adds new Pro AI feature to separate, play, and remix multiple tracks in real-time"
+    excerpt: "Algoriddim is out with a big update for its popular djay app for iPad and iPhone today. The major new feature with djay Pro AI is what’s called “Neural Mix” that lets DJs “isolate, play, and remix singular elements from multiple tracks in real-time."
+    publishedDateTime: 2020-06-18T13:14:00Z
+    webUrl: "https://9to5mac.com/2020/06/18/djay-pro-ai-ipad-feature-separate-remix-multiple-tracks-real-time/"
+    ampWebUrl: "https://9to5mac.com/2020/06/18/djay-pro-ai-ipad-feature-separate-remix-multiple-tracks-real-time/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/06/18/djay-pro-ai-ipad-feature-separate-remix-multiple-tracks-real-time/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 43
+    images:
+      - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/djay-pro-ai-ipad-update.png?w=1000"
+        width: 1000
+        height: 521
         isCached: true
 
-secured: "ZRws73Y/InLQ+SpcScdpMUsDazhxrYlx+42r3YCF9NfqHZ8ji35rCDYybgQsSrVhFwVayiUhfD0yU34F97eVDTArnIk+UlgiJSoEuT9kEAKvPxuXQL/cQ/7bcZs5EqPFdEC3AckxpRZ6m6+pOpLZxLE4/F2hK+yF1S/2f6R3GHFkf096xnpVZpfTY5wzOCIDzzB3/n4DWcB5YFt0iq0ga+pN6/INoHArXFZS4UnVQA55IHIHc6zMEHVejqPm8TlbFfruxB+5byWKmGfoEfkb1401q7gveaQ/AjSfz3vDcWnZsa7SBthRYPx6s8pgKZ1CWi4iwwcOymPNRPyQ67HfeA==;nJgMa4nB4f2JTjLqwHaOeQ=="
+secured: "4YBupa9yXu3PmH7hRLNlWXVKiK8kYebt9c11mvMRH1bEIclu2ekWHKVlIRzXrlEyUrW2DRFBzU/wGTNx1AcCsn92q3W6WS5kdIGCgdwfTqsDigHpJnt9pS3Gv+15cKrpmUQEZZWYCgKIRVGScGuWb3o0OjM5vWUsmpr7l+ibV0+9eHE1md5y3raVOWcYmkHaWj4aeq7ysHNKSnevb80+uQ8OybZVfurkbWyrpTExINr3CyC/5F1Ewx3b5tiKThxRPfLZoR24iJLHgqebwugySI8hJ6+17oWFaC5yOuoaEroPZWrgR1pXKF+AYrmZh1smhBk+VgZBLgBtgOs6nCuHyRfT9xLs5DcKL4o2t7FJlqxiH9EzHzeL+91Ku4QGq6nTJvZyPTnCKBmlOSJZBrE4O/yEYi7QRtnSICYz6atXkqKLp7e/h6Jm0SbiQMhYOyZyuJQKo89dxhF0OM6RFoKcVSpHdG9zy+aj/5uxVGSlY5x2H5uS5JWDluN9nRrlMBPl4zB72ePPQscI9h4i/iue5w==;gAVPP6Xhgz+zbdvrX3O9pw=="
 ---
 

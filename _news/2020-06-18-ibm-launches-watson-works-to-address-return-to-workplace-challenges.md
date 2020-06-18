@@ -27,6 +27,22 @@ images:
     title: "IBM launches Watson Works to address return to workplace challenges"
 
 related:
+  - title: "IBM launches Watson Works aimed at managing work's new normal amid COVID-19"
+    excerpt: "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa"
+    publishedDateTime: 2020-06-18T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace"
     excerpt: "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ..."
     publishedDateTime: 2020-06-18T12:03:00Z
@@ -58,6 +74,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "FNPA/eVdJ967DJJTXTCotl8WtKzZVkNtl5OnZBPDKH+njJLO1KjGLY/frG1FBiNFrJdEiUB1hcHr2XXU+XRkNMFXEudYuxjrykYwnEDEW6lwHXO77+oVLPLvBPqWfyw3JWdLI4QOGuloU0v6ccgDnMUgembBlBFz6U8OSvN0cMkSlQQRg2Yj84iJw/6H8lPwgoo3WyZDJoyZ+lWPbEqM1uFqGx9JEucUc0KfcZaQ8fStCwXMerK5i7dbmNiv8hHt9r5GIkO/xUREj5BofQmCghzzGsRU8FyXApwNWZ/+ujHGklvbBwIH4ynzE4wd9z9ZDN3SrpV+8F+I8ysPjdRzfQ==;0Hb5KdHmP8GUzx0g1S+7OQ=="
+secured: "h7uGyEscr2Gk2EgtmL9racdXbOpvgxLZPBPrbPfcPB82oTEfLRAYPQwIQoWlqJ3in4eFsUx8nDUOiwWvmi+WUi9XGyCumazScoNJ6cetcrfJ682fFnoECGnpH6yIG3etLFtg0rWop1HtOzZ8iNyR8TUfANa9K+Vhml20fdKzQIKhbA681Kcwoa5Natji8C35uwqSDh5hUF5Mil7cOcfbY6MvwiycScaTYjWGOCwp9ZVS0fbpho2zfElE4vw/deBVLLtr/qTdFB4ZD2WbhqF51hd+ZJPBrzpdwbgGG+byXHmI3JHbqE4N+TzggRzmVbLNNVk7YD7JV+swzLYfphWwtFixb96MLOz6xVAEbkisviRDehaLXGtfL6BAE6UGhJjK4KQuVtUYADmmMjXSCUrqgCP5jouw8FyZNpmNYIKTF8DkzqQzyk2+D/DbXmHKx3kzi6uP3h9+X/4agC7SoepO9bk8wh1AS+KYjbzd/hvmGW+Uxm1ekooMx17Ooe3/3j2baWd7KnDx8RX+ZthpT91znw==;68Eisz43i6Z+Z8ji3Qztgg=="
 ---
 

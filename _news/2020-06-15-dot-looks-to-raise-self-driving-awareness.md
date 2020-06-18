@@ -125,6 +125,22 @@ related:
         width: 1110
         height: 625
         isCached: true
+  - title: "Ford’s upcoming electric Mustang to have self-driving capabilities"
+    excerpt: "Ford’s upcoming all-electric Mustang Mach-E will offer hands-free driving when it hits the road next year, the automaker said Thursday."
+    publishedDateTime: 2020-06-18T15:06:00Z
+    webUrl: "https://nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/"
+    ampWebUrl: "https://nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/06/Ford-Mustang-Mach-E.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CMU method makes more data available for training self-driving cars"
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
     publishedDateTime: 2020-06-17T04:04:00Z

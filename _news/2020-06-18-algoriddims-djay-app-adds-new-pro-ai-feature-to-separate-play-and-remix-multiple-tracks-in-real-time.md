@@ -8,7 +8,7 @@ ampWebUrl: "https://9to5mac.com/2020/06/18/djay-pro-ai-ipad-feature-separate-rem
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/06/18/djay-pro-ai-ipad-feature-separate-remix-multiple-tracks-real-time/amp/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     height: 521
     isCached: true
     title: "Algoriddim’s djay app adds new Pro AI feature to separate, play, and remix multiple tracks in real-time"
+
+related:
+  - title: "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs"
+    excerpt: "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ..."
+    publishedDateTime: 2020-06-18T14:17:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Algoriddim's New 'djay Pro AI' Brings Real-Time Separation of Vocals, Instruments, and Beats to djay for iOS"
+    excerpt: "Algoriddim, the company behind the popular djay line of music apps for iOS, Mac, Windows, and Android, today is introducing a major update for its djay app for iOS: djay Pro AI. Harnessing the power of Apple's A12 and A13 chips in the latest iPhone and ..."
+    publishedDateTime: 2020-06-18T13:06:00Z
+    webUrl: "https://www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/"
+    ampWebUrl: "https://www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 40
+    images:
+      - url: "https://images.macrumors.com/article-new/2020/06/djay_pro_ai_neural_mix.jpg"
+        width: 2000
+        height: 1397
+        isCached: true
 
 secured: "rpXweKsrd36Ofxr4gk0MxQLOqRuoq5xccSlKvVxUJtZLN75cjmSMDRQzURHmBlfkj+Eswp3p8UmSArA/5S5TJoUWoz9rxhhQOWm1L0JFapwEVQQ1Dq9R2DU4kqP5KEBuU5VLP9cmPOy0joq8Yu0Wmx1TLIDVWbopZNVKOvF1bj/Ju6GXxXTB1lgh9fq/NxoslquzwEEmOMaY45aHgnqNRNvohfer22tD6qVLpD/n2Rl+lUfj5xZnivs/DntCKlB5bf376hwDOjWx4lgyY7iL18KPcyS45SKrNMlnv9GF4Biqo1ct5Mcf0KS/qLgYpzzO8iXNf3XYF0HWAxjU4cFIsQ==;MRrnFEn0mVFSkc1pC2D7tg=="
 ---

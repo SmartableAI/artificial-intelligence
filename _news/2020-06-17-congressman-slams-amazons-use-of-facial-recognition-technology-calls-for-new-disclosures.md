@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-r
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     title: "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures"
 
 related:
-  - title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
-    excerpt: "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ..."
-    publishedDateTime: 2020-06-18T00:18:00Z
-    webUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/"
-    ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 72
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon is banning cops from using its facial recognition tech for one year"
     excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
     publishedDateTime: 2020-06-15T18:03:00Z

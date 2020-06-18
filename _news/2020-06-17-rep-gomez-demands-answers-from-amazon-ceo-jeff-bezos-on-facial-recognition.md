@@ -47,6 +47,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
+    excerpt: "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ..."
+    publishedDateTime: 2020-06-18T00:18:00Z
+    webUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/"
+    ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Rekognition ban slammed for being ‘performative’"
     excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
     publishedDateTime: 2020-06-18T04:02:00Z

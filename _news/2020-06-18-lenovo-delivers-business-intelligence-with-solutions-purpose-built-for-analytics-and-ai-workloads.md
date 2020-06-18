@@ -2,8 +2,8 @@
 category: news
 title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
 excerpt: "Lenovo launches two new ThinkSystem servers which now feature 3rd Gen Intel Xeon Scalable processors with enhanced support for SAP HANA."
-publishedDateTime: 2020-06-18T13:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200618005186/en/"
+publishedDateTime: 2020-06-18T14:19:00Z
+webUrl: "https://www.businesswire.com/news/home/20200618005186/en/Lenovo-Delivers-Business-Intelligence-Solutions-Purpose-Built-Analytics"
 type: article
 quality: 4
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 373
         isCached: true
 
-secured: "rLtbiSpw2ljmO3RvIIqGC94RGvpU9s5x52yrExyZJ9R/upbi0VU1t+eFzC/1y0zZ34iUoQD3MvJxwV2c1F2u7RX670LwoiHGQPVx+Ud91d4cnwmkwSaPk8uXM+F7zUwEia8fuKc+d8zFRbdsBrcuteZgi7+JixJSs40AfNwjJ1il9poteybAcgZIYE+aGPs9atcgUQgErFw9SdzlnF38e1TB/RjKM3vGMgV6KJlBlXAIhS6OaC3NHfe2KDVyAeC4vZPWAkvWMNfOCstz5CzeSvxYmsrAqMn1Qz3EDC+D6Rm5ezc10Q3W7MRHxZdHgrUKesDXWvP7m6d4w0tmulWMfQ==;zQgssyrugBOGQD0ULeMvDw=="
+secured: "mjM5AnQBxt3Jjgq1cB/6Nl47FLVTfje9z8w4xBciCrFO/XpbK+Nv48qJlksr0soNI/HI97CKj4hTa13C815aDUp+a3otXuo0CxKXbLiOSKznTs4MAMVDkgJZi+bwk/UjnXH7t+BRiYK/QSIHLPinw8IbKyeTFpvE6lHt8B+HAM3VORZ3esFIAGUQGXXwnMmKZvXK4DiKkeFOemTd2DgwSijzSWZagHhnJpYr4ExoKEqctlRgaYIy+TIoSa8r+H9i/CgXw39s9ZQ0YF8Y6mKqLOneWN+7zF4kdtHwmwbVQm7ucrkCpA0QYBTCET8dDdiB9NnvRAihcy/GfH2e1cqrgQ==;gDQtXFJ5UjZj6riVJVsQww=="
 ---
 

@@ -52,7 +52,21 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Robo Cars Hit New Speed Bump"
+    excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
+    publishedDateTime: 2020-06-18T15:19:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21137672/robo-cars-hit-new-speed-bump"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP20169709714913.5eeb74bc9576b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "k/uc0/R7KNQy/cJ9KbAMZVOiWl2G9gNgZvtSl9rgpiXmiQsLcdBUzdTdaRegAGtCeMqzlRvmC8LPGDNVwayr9CN0nc9Ut5WR/pD6QDCEWP7fSqKcF2Glh6pwJvDdwoFmvyU/pKzkqvir9nFo372hAoyeSjyFb3e2lYgeysVkSOFm+FMsytEdmwpMpNOoHdQ8Nkyg8Z/JRea+5rivmxFrovZoG5pwER93ysF0oI8u1C2FbIwum2/gTXutfgh+IPAUQeCZt7D4MikLw6sitzQDnwGzjzQX53cgKkMbicqnuBF3ywzk0EAcPcFCGg2IHX7AoTMxUWxdiuMTfZHVb6Uhy+jgegMEg2yWQqxqvb03lKXtpDlCrsHVXxyGE1NbjEciJD4nB13aWdooRyAxi9qrLZ+9m7fDCE0H9WHY/lf34SZmpu0ySXv+msiHdtCLFW0PmjbhGfX/WCzoT+kkmpBu/xM5996YX4w7TDcfbeBkN7Tx0VWFT697QfM5yjAmE4InepafU+wjRcJ8pn47c1rx/A==;ycRqjcMqVk1X1kFC35fM6A=="
+secured: "d1hDA12h+mpUrV31zKmTHSBhq0/PEyrhvwSZYE3ctLRka2LLyVGO2VScoxceUqpRqsW4BPpfU8IXoIfR1rITdwWWXmbmiaAD6qmJcOnqxiIKEzA9566aC/bax8fWBTaaQfzpPgWuvK3YB7kAr0aMAYtbYVkJMqgu6vYTmmPaQkzYx0vNmiy11LxkP/rhgGnf+mi0sl8syTbNfhBEZWA9IgwmnIYFA7Kz7RM1oJiW6BVnKlZjadwXy/sTz3e7cgz1/FC+we2mf9dNr2AaC0n6Vx4X+27gVT+McBORGE9RiRtOtuF9pCOS/yh5UGh47CKEkGGUryG04hQcTXH92kYx+BGQhqAqYo/A5kc0Cdmt+kxlh6ks/Q8kjDWsD8TRhRUf4YDimJyj8zs3hw0fxSBIIfm1EKg6tSThShaasctm4flUM7rFmETFcz7pnyRN6AxKUeDfty3MChqBM0G6wjn6JY5Sylba38Nv8OaKI5qLQl/+V7TPyfvX3i6EX6GHe8I42MqxSO5UhTKQ3j3aIHzogw==;QhQgP/unkoPxzOj6Oq6obw=="
 ---
 

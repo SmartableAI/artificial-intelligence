@@ -233,6 +233,22 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "Emails show Microsoft wanted feds to use its facial recognition tools"
+    excerpt: "Emails obtained by the ACLU show Microsoft pushed its facial recognition tools to the DEA. The company made a facial recognition announcement last week."
+    publishedDateTime: 2020-06-18T15:45:00Z
+    webUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/"
+    ampWebUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/06/microsoft-store.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
     excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
     publishedDateTime: 2020-06-15T13:41:00Z

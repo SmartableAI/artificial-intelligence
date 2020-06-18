@@ -7,7 +7,7 @@ webUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-p
 ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
@@ -27,54 +28,49 @@ images:
     title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
 
 related:
-  - title: "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures"
-    excerpt: "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on"
-    publishedDateTime: 2020-06-17T18:01:00Z
-    webUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/"
-    ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
+  - title: "Amazon owes answers on facial recognition moratorium, lawmaker says"
+    excerpt: "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition."
+    publishedDateTime: 2020-06-17T16:09:00Z
+    webUrl: "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 81
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png"
-        width: 300
-        height: 353
+      - url: "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg"
+        width: 756
+        height: 567
         isCached: true
-  - title: "Amazon is banning cops from using its facial recognition tech for one year"
-    excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
-    publishedDateTime: 2020-06-15T18:03:00Z
-    webUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063"
-    ampWebUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
-    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
+  - title: "Rep. Gomez demands answers from Amazon CEO Jeff Bezos on facial recognition"
+    excerpt: "Rep. Jimmy Gomez (D-CA) wants answers from Amazon today about a one-year halt of facial recognition for police and how Amazon assesses algorithmic bias."
+    publishedDateTime: 2020-06-17T16:38:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
     type: article
     provider:
-      name: Mic
-      domain: mic.com
-    quality: 42
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://imgix.bustle.com/uploads/getty/2020/6/11/95df0f0c-c9dc-43c2-95d1-ab0bf43e4220-getty-1205539001.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/bezos.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Mr. Bezos goes to Washington? Outlook good. Plus, Amazon temporarily pulls police access to facial recognition tech."
-    excerpt: "Jeff Bezos is likely headed to Washington, and this time not to buy another house. Plus, the company says no to police using their facial recognition tech."
-    publishedDateTime: 2020-06-16T16:30:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.html"
-    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
+  - title: "Amazon Rekognition ban slammed for being ‘performative’"
+    excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
+    publishedDateTime: 2020-06-18T04:02:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 36
-    images:
-      - url: "https://media.bizj.us/view/img/11499206/img4764-12*600xx1956-1301-543-201.jpg"
-        width: 600
-        height: 399
-        isCached: true
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
 
 secured: "4mgMzU1WaJ12Ij5BMoOe6cEZQSgNlbhq1bx388b7NgE4M0wtauDwAGnfKo5/tYPrXLB9XOs24y1dZO5tllMBQ3BXe05nEo7rDWJ8UHCQ35ne3r/hwfYiRXX7m+44Tdn12xcWUKhYrlH/eml5NSP87Xp2y8pdlTZKIj+lz2xXcjeYP0FabSjxNtxOGTD52TtLOmD4IboXRZC+mIdGTaE8JSHbmzd5uyam9m862CCz2py/Ixin1zXv0roCVn+I6HYyJEFX5n2IvFe6K3yu/BMNPdQm6Xdxe8/uHGBm49XbuOXDz2snVf7IMWD5p91484ol680Wc0RDN8N8Sq7I3OB8xi74h1rsuYpsm2ISjH0XapqXmKgJ8qP7j/yZa32FGCWpclp+JwdsRsMUuKCN2gyvfukCZIJrB6bAHQ9pbKFksgGo1LJRiTdtpyBnh0KOMdu+vOTPTd9x79vW/KWkdZyN5YcAwfniW1ZLql7Sp9cwz1s6z/uUwwJT1eLVWuEyg7nSQHLuM73tgabETezHM0qglQ==;2GE0EIsUwqzpU8Caf3J3ww=="
 ---

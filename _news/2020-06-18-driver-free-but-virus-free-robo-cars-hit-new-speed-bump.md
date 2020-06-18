@@ -50,6 +50,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Robo Cars Hit New Speed Bump"
+    excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
+    publishedDateTime: 2020-06-18T15:19:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21137672/robo-cars-hit-new-speed-bump"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP20169709714913.5eeb74bc9576b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WUVZ2evCZ+MdRzuFf77xXyXl6t9vGuzmpofWBVGRhd6v4pCtVQh/6NUv/jlrc7+thxcy0xooUAo5z0ds4MYZjBKt92PKMvuHzpKbiyq/eiOnjeR83s9XhJ7CCyboc6VKkg1yShA7bY6ppVZ0osNGvTHGKXhaZDH6xNhT3jahSuJVV+pgzZS2gayOlFxNU20o4WLqPd5IGlBzYQbDHRqV7vtsTF/kHXe9hVZTK+rv4f/PMepSMMwwdZx55G4NBWWglV7qsl1N07vMNateUSjXoZJp7GhZ8TMnKTw+nQHfWqV65DdhG94tve1MQvZlhSvls9kFDI71jwsF9+HFcopTuw==;0rMb/A6AcwNtivRXfBe9hg=="
 ---

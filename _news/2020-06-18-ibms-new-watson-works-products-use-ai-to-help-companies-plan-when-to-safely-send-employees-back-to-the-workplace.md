@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-watson-work
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/"
 type: article
 quality: 83
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -31,6 +31,22 @@ images:
     title: "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace"
 
 related:
+  - title: "IBM launches Watson Works aimed at managing work's new normal amid COVID-19"
+    excerpt: "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa"
+    publishedDateTime: 2020-06-18T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM launches Watson Works to address return to workplace challenges"
     excerpt: "Watson Works provides data-driven insights to help employers make informed decisions on workplace re-entry, facilities management, space allocation and other covid-related priorities, says IBM"
     publishedDateTime: 2020-06-18T13:46:00Z
@@ -62,6 +78,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "fnv/7Xk30ICwychIqipM+I16M4B4+NYqOZMk6EUNJW/acsD/H9HW7H5iSV40D6MFwo/j31ro/NITyY5t5lJU+EQnlKzQhM3i4lt64SKyhesWYPKm1ipwfURfUYpuNF4bKcniSP+p8hsKZcFLDbPne12hjkZGfp4CnwFyS24A/OKviip8EE6pJHAE3sJoXtzfScAZngJzKY8mRXu+ii8BhHThOCx3GnLe3CNlePDwQsQEsU8p4viOTvr/udi1TkWkG8z35oUUReuXvbfualf3cvodN5v5j+/nd/zX0MVcXbk69gxRXqJnmS7dnZZC4hqVgGombxN891wdIJXJFFxDRg==;MMus1uR7FLpvvF7gPqk8xg=="
+secured: "0VIGYD9qJYpJkaURHhzijFaEfqJdlfQTmrGxmTxsxu6d2Q6vDAaHrNDq8V2SjH5SgB+NRKq+HUOs+2KBUBwnx2qMkK+ZOTtveD6pRQEF6nxJi6ejdiqbaittKpVKVpfsJhWTAcsM09j+GNfEyjcI7wNT85iyufrySZzteXegIE60jy2avQmDWyYkIfhANRT28TBnKXxJKIiNPMff0IftcM2NDKkx8pTU2zJCGUFgneEXPBZb0UzY5SS6Eho37Cwoa+LvingxhWllQ9mBNFYawJUUzMD9ctnfFPAJDbwKclC6jowFP5fFbjOl6u5A98EgHaJE8So6tM1K++nSHNqF5QnAGvpG4M5Lq/kseV6N5S/5tTA6YMZ+5qoEL7KLTyh4h/YcrQzOszbqmCPeAZ5/MJDQrYD/zgHBHbv4dYSNzRmlczEB8fZvYjYjUMwlZP9E9K/zNJYTVJS4f048btiHosn5lo46RtmrriGyASWFVWLIVTmeZbkZ3doKiFJU5AFLX8eGGKSWpbifd8ulDO2emw==;TVaYBYkn/Kwc8MDAZC1x7g=="
 ---
 

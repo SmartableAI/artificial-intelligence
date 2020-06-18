@@ -5,8 +5,8 @@ excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Ini
 publishedDateTime: 2020-06-18T12:01:00Z
 webUrl: "https://www.brecorder.com/news/1005306"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
 
-secured: "l1YzuMzF9OlCMaD0+L1ncl3TrFZJfo8k5hvYsDk3/3Q4aMhx0/Ey74JlxWZg/MqUxckf5V4jNS4jvan/kHnIN36i64ZwGepDrZK22eeCXXdW1JLpMYY6kVQ/LO54wryk/AQDl7PWEX6Cc8bNVDgokJf1AlBvNCvz2oQqnUxDQ0ULgrFR/3G193vY8dQDqRSEndfoqODw5hNMy7biQ7MD1RjokL1tPSAxTilplTwIyGMDz01LAZlrOyp5HKUTAUWVslQlAMvpVD/h9L3OaMtODhdsWJ9noF00KH7ZTEdqtUPsNrYTcK1/DGBd5WI4W+g6A0rGi/GM7erUvArpFBV1pg==;IJi9e56jKlTss8NlSketCw=="
+secured: "/eHeNU8hvJT2zvj1fm+LjjdW1t9NOgME+S0O2r/UbOqc18yhcCoKzGpmkOFpPu8Mm5ONZlAowAUl6ZHZ2XrRSCTF9dRJw+43zdIx/QEII9Pcl3SeSndZfEXWXuFD9GpfnxNeAc2DUELQZ0JHJfmIis355a0CPkhbXkvJcRx6ne7syR/pys5VESNaN7B1lDZdTUPnD8DQXL3O9rDXNDMleV4XcHqkNGYCEfHwqPCdGgebT/uYaUDrCBqIybOVZ8SbtCMLQP9f0Q4WecVBlwtr5tb+ynuZxCBSN6KUhGWiRHvFiXp8lIbmUThEHIEOvpjOhN1y4wvFqlg0+6f7txLqovuW7mlhF6x8ZqhoeWo1R0X1GZ/wAeg+W0LJqs5VTaM3YO/GLQGb/FPwOVMRl4db/E33qBP/rILrGch4Q2moYII32jVkMpcz1c8kYJX21KV/Y6cqZxAuOGlVrIQzccfk8NKnm785i1sibdbA/uarm7uEdxClrYxF+HHloJjSCrhkb+CNE+LrZ+40NMHyUAvoVg==;xKOL708VGu8+gPAeROZkjg=="
 ---
 

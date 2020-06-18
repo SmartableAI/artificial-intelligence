@@ -50,6 +50,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Robo Cars Hit New Speed Bump"
+    excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
+    publishedDateTime: 2020-06-18T15:19:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21137672/robo-cars-hit-new-speed-bump"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP20169709714913.5eeb74bc9576b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4XpjvOpmAA9b9gzURltJdhbIdQGps3DQV4rjX1tMz1yuYNs0kuMqX7lEL035zCiC+WTBCZ3h1es2SpJqxGxY3PUw75p70vzio5oEgrORN4KY5SgE5ppwLBceae7e/RrXfcA6ogGkWaZtk58BOK8yx60BzJ6MOnumkCUbOthy26cIHmWQayw5AaJ+5cxRl5IoVYTosqUyQdcQUYG6pl2Vkj8sW9JdnLzTB99vtFUW+jRsxx5vbYnsNSTMjhKhEek0ilVqtoXT//wjNvmc6fD20aou74nzz5Xc90LDz5kUZ9wKuNgKL6NdJFmAxwbl53JdJzW8NWYQTX7HYVQ4NHhkxA==;9zfnzL5c1iY40Fhs6GO0lQ=="
 ---

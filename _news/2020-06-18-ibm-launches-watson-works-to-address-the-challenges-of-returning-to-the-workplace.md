@@ -25,6 +25,22 @@ images:
     title: "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace"
 
 related:
+  - title: "IBM launches Watson Works aimed at managing work's new normal amid COVID-19"
+    excerpt: "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa"
+    publishedDateTime: 2020-06-18T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace"
     excerpt: "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ..."
     publishedDateTime: 2020-06-18T12:03:00Z

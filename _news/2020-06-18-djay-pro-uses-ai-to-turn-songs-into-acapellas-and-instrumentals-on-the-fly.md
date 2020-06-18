@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     isCached: true
     title: "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly"
 
-related:
-  - title: "Algoriddim's New 'djay Pro AI' Brings Real-Time Separation of Vocals, Instruments, and Beats to djay for iOS"
-    excerpt: "Algoriddim, the company behind the popular djay line of music apps for iOS, Mac, Windows, and Android, today is introducing a major update for its djay app for iOS: djay Pro AI. Harnessing the power of Apple's A12 and A13 chips in the latest iPhone and ..."
-    publishedDateTime: 2020-06-18T13:06:00Z
-    webUrl: "https://www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/"
-    ampWebUrl: "https://www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/06/18/algoriddim-djay-pro-ai/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 40
-    images:
-      - url: "https://images.macrumors.com/article-new/2020/06/djay_pro_ai_neural_mix.jpg"
-        width: 2000
-        height: 1397
-        isCached: true
-
-secured: "564nHq6vBXfi752aHckDmgTtAeBjLa0YHm4AgeOe9qeoiMTx+//ym4yel1m79D6DY8nJ7LVynmyb0dRy1QgDNOvYnszIloDjfioEf70+zfothwHUsXP6BdEH7rQ+T48HILE2aeXw67yJJyawk3F5oCt2Wf5kVrbU0yw+SdLfTtEWgll8yBahm+iUIkKxaycpDscx10aM5kPRZD+PK5Xp9SNXFjDwakdnKb+gREuy2hyVvY6HTJXbsAIUBcR1bL5xf6XR7knB19BQItUhhPR3EJlIupUSpTVfwuymfxKV7ICVxU5VNcmY5wBKTaiOvgoSCD8oLCwXueJPqQchJA3Lag==;QOFwxcN/3rVM6J3jm3xhNw=="
+secured: "Kh01ATNHVp7HVWcFpCa6AmldC4YxhAMG2m22nnU698GL0VUlMgJDs94B49oswHcqvqsVH9W/NiJE/ZOTID3wpa7fHAtSZaiWOEQ0/txqjY4KXvJxa2GrweH7wxPjiwjBP+a/hYz8jdcA/dtoO8a03PvcfBd5f2F/mQxP43fWyKib0cgJ1d2jjYs8aGzyE97SM2AMNop8TB4BUJksdjOpiqMUotODaWCSmVWrRaqMCnVh6mzwJHtEqnUUodkcDCyL0jw4q4GYPe+xi31ze2quw6m2PEQJHwuWPz/x3hXqGrWiEHmLT6HeWu3CLayb2eTu71MG2PLrxl8MUywwlMSJfXtdfPBmcixNcgra/GAx76CjuVKC4w86faM3Ejv6S473zZmuCToW8AfLE/LLw9uWt3sC4703PWLyQPAFdOqhSUcnMbAjfkSI2TGcbIhIa+XS6ywfLSkxWc4mbkeHumF4Hn2562osHxOZrvSVHZKnjZToaOIQXaj/iDANd5h2RCVSDEkpF87eNccI0TfMlKUz6Q==;88TJX5oK1gX4aT2fzBgieA=="
 ---
 
