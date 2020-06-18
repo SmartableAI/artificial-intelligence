@@ -62,6 +62,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+    excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
+    publishedDateTime: 2020-06-18T19:19:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "i9yqgK4uQHMs+MmGspMGv0vezIAn2JuGyB6NeVARrmIeoTBySoPrwfl5BTOrKmITrdDppXEWCO5bXhJGqO+kc/Tj339UUeS3WNn6u8tOvh8Cbfcc9wiIT5uLUKmLfybHj240kxKwYXjPXXxaHChP93ZbgYF/yueS6PBoB4HpbyOGWT4lrvQV23UNWjHGz9KYBKjMQ6xlHgwuBYtKDxbUs0aSAYzsBnp5aOBciFdkOpbnw9rnUAWClrOtzk62rbh9SZQEX+CK/kwp+rkIsMgjYXGO1AWzEEt6kSC1UE+kyhsEP1j/JAld96bv27H3QcgIVz7G2DrVuXi1SZ/+FFWE+yrdsnozIaRU5OkhyqV1evDMLuLIeA1MDLbt4+8QBo9vYSjuGJkGyPhqK3eYMhqlBv+pSvYRHTYm3NlxIfgd1QrBuG9mbFYJ9peTjZFe7UxoEMtfdjWUIQ/xOokOt0ickp3FiAGujiUHBbuhagVznsCOrkzZ6KQMLFi1dHQhHdsm23B9F7AxPHGJ8/lnEwKfVg==;2wn9l6PDYl5uy4z9KPfNbw=="
 ---

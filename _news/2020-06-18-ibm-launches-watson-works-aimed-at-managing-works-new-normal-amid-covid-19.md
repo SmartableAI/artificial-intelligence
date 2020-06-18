@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
 type: article
 quality: 102
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "IBM launches Watson Works aimed at managing work's new normal amid COVID-19"
 
 related:
+  - title: "Watson Works helps employers make informed decisions about workplace re-entry"
+    excerpt: "The curated set of Watson artificial intelligence (AI) models and applications is based on capabilities in IBM Return-to-Workplace Advisor, IBM TRIRIGA, IBM Watson Care Manager, IBM Maximo Worker Insights and IBM Watson Assistant. \"We've designed Watson ..."
+    publishedDateTime: 2020-06-18T19:36:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about"
+    ampWebUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 86
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570815441/itpro/2/72/ibm.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace"
     excerpt: "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ..."
     publishedDateTime: 2020-06-18T12:03:00Z
@@ -90,6 +106,20 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
         width: 2698
         height: 1414
+        isCached: true
+  - title: "IBM Unveils Watson Works for Data-Driven Insights to Address COVID-19 Return to Workplace Challenges"
+    excerpt: "IBM launched Watson Works, a curated set of products that embeds Watson AI models and apps, to help companies address return-to-workplace challenges."
+    publishedDateTime: 2020-06-18T18:50:00Z
+    webUrl: "https://hitconsultant.net/2020/06/18/ibm-unveils-watson-works-for-data-driven-insights-to-address-covid-19/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 24
+    images:
+      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/06/IBM-Watson-Works-1500x591.png"
+        width: 1500
+        height: 591
         isCached: true
 
 secured: "kgIrKrwMFp7paDKaB5zkL5fafFibTzeTIKcNX+7oEwBK0ZWgRu/rNWjPwtZv+NTONdkh455z558DwcnW+kG24HUP0P3IrWHJo+U0AUWfrs9xQOn6l6ITmkFbOB3GTlzWzAMK5e0bCt/I/91DG8bYHxBjreXMa9pp0oDgk+GRp5xCFukZ5SwvXXRJ/BuFuFKLdlnhBYxos19lCbdfuOj5gXu4cxnXVoXAccrAPQdJiPU0yB2ZYK/vl5ietR0ne57VqTekQfHnngPsqz9qMEKrgj7v/S+loPlo0U/r71pKOhMxhVosTeghaStsMMtJs8VcCSQoQxwqZz3cjaWX/sGUk+iPfcnr6+h+h9I0UiR82l26B+LkQfWEflYGs8UDIR4IJbyvQSlNp+TaI0cyxA7muJH1cYPNAE1U0P0VNiKWV+AerDPSBGpYagYaof10kS2lZHkeaIWGBTdb/540ifMrpoWwygbAMFcQejn/+yBPKtA1TsSv61rHciMHKOeaT6SBpe5RXBv5PqFKyq6b5JK5JA==;W7QgtMLT7EKl9SCyvqAQ5Q=="

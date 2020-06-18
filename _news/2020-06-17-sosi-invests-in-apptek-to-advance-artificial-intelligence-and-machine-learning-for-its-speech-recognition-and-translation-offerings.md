@@ -1,29 +1,21 @@
 ---
 category: news
 title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
-excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in Artificial Intelligence and Machine Learning for Automatic Speech Recognition and Machine Translation."
+excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in"
 publishedDateTime: 2020-06-17T19:06:00Z
-webUrl: "https://apnews.com/92741c496b6e4893b0378a6d4a473699"
+webUrl: "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine"
 type: article
-quality: 41
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
-  - Natural Language Processing
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-    title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
 
 related:
   - title: "Scality Invests to Advance AI and Machine Learning with Inria Research Institute"
@@ -41,6 +33,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BIsrxrpGKoo6xjJU3fiuZz85dJjW+UMibqtEwbmcIpIPxEzzYqVt0rkFLtg/dTS2zxAgOXTRNVeRCH4LUaAl6miEWoa3+oTmTay8q6IOX6PRrYWb67hH33Sb/SP+2PsqERdUV0esr8PCQlMhb2G1H3CbV4kMy094mr8tetY8zpQoWlgR10dT6hze0NaJvfnEY3OOIP0iBhoEYevfDVHrIcM5RTQ9+dL6lugMBDb6ClRwtWNYM65c9+ln+qFx7J4t6YYusqn69+MOqYwJSR8clw7rXbwY+IEC4WseAXdJHIzPG7FXmerg+ty7VUCVFismEzahMmGTL6d4FRiVG6DecQ==;CLqVqhN0WNymG5cDD9Zh1g=="
+secured: "0twS1hcDfEh3hu4G+r+90bqZDUmytxR976weclc30QVgKkeENJa1VwT/lHg6rcO580WQkGhAZke7F3Wb7hcebnVxR6g7CEksscgOMtiW4vRpB3j9KwMjG/2brXhvxpExnKjt81LlFVwSdTa3YZ1Tbh0/EiM/k6Pm9HsLmGmvzRRjmVU5FiCaAV9t+sTKPO06qjTxePiWzSwotyB6OqHKm4zinLe3SFWDJrpEY539QJh9f/bZdbFDlbCfURxx0DMhp5BjNjWw1SMEBnhnzaTROEVKukEcj+i81D2IW7C8qHeoPpw603nuvwNiLfNZMPwPBYoKb6qGddBeSezDczZcpg==;Hq5AKQq5m9f07epGLHsDMA=="
 ---
 

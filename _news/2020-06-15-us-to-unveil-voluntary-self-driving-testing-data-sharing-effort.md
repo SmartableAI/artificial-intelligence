@@ -2,20 +2,20 @@
 category: news
 title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
 excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-publishedDateTime: 2020-06-15T10:22:00Z
-webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+publishedDateTime: 2020-06-15T08:08:00Z
+webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -211,6 +211,6 @@ related:
       domain: cars.com
     quality: 2
 
-secured: "vGRLy5cWtkJabwnxpjCZ8Ap8UkubPMeIChyLXIeJFHexzI32cAohjaxVHC7b8eqYFFqcR9eNJGpTlXzdqDCq3GwRsd9eLVEVLN9958+UFQZ56u9ndyNeRaW+ONHC3qcGdWNchhD7jz+h8CHAf8w5pAGNdSeLAfaZfYIBrtfXKYi77ZRtuHgFb32obmfOqXD/99DsT5Rb7j5vWr4d1QL7eg1FpmsjDDwLqLhf5pers2RehupJNQKXW4/cY8QhP4fa+2v26wWKVV5dIs47xifTNnxut8cQRXink78MBDNPOmxw5NiASOleW9Wo+XCL3eMO2+nlsm3h0hDqSfRD4oM9Iw==;8+B6bm05au8Q6q0A6za6hA=="
+secured: "JrpPjqBGs9e25CXCyJEq7R8eCofTca2ysfzuwZuIQ6TWvmpDDPzXXBQgqfKppm3qs5LeTKh1txm8HI5fbgHEeCxTvB6i4xpUvAK1WYTQGVjo4bnBGNwM4u8V6qGudlKNpOz5bF4YI4wUfwVrWhrN8Lsm1WGeP9qkUGYnU83qkr8IqnZTtex+8bIY7w6AA7Cm9+dXw2OfFni2Y/xOKoynr+ZLuuQEqyONeW7l1msuNpQy16xIMqt6C4/JHWZT61mjiIuIPLzmnyHX7J8DeQVd9X/MZcsHsG5aWXc1GaFCb4ysLVGTHQbEqF+3po7CLYg1k7Rs7RiAl8CnP3CPcyNdyA==;iyJLXZoDDjgrLpRqBM7vfQ=="
 ---
 

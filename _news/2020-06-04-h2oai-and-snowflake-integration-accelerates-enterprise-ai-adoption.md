@@ -1,26 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ..."
-publishedDateTime: 2020-06-04T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
+excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
+publishedDateTime: 2020-06-04T00:00:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "EHXiR3cl7iCrdReBp4cLh9qWYbZgr7zkP4XuQvVKg7Q/8Y+1TNTo5pywi2BeV/vAA8vFGSg59Z7uNbco1ne8sEUiVfQVz8Xg/4C5DtxFeLW8kCANdztzbyAlyz1dJM2Bb6KYHB9ECYr/66gOdtjm5r5vNTnp3eONAsbvP3vYPa9aN7nnS47MYnqyrE5QQeNJxla+7sVHPhj/xdkrtLEKOFaimpvmeywlhTs+pdniOUqU4BnX0vXKeDSsjRBNh/VKkShioSUcnukdTZdm7++vnEA+Rq7QFYd0/NoyKMgpOWeslm9LdRYR8MS831tl+ucCWpa9m2ACeQ/JeVPWU2k+Fg==;swfp28f1uTTyfAFbiTLcfg=="
+secured: "+qKE0jtynr34iV3XxN/sSr32eQMJNGmwx4fB4BKec2msNr0pZ8hiUYZLXh428vNj21kXYRl4EMNQE6Bd8x/021jkCiSwKYPXWRtw223D+m8XsuNZ4Czg6KFy83UrPF+bOISWisU9Wi+KdB8v5d745M0ujoGnAApxev+IJwFMux+ICmq6duPLHmu+iR1xHseR5mcrn2l1hzbmONna3zbL8ODiCt5fzvdOlORAqBiWVZR7MPRblQrX5t2ws+bKPS+dtUFbVRNj2xAcqWq87KiaXDEfVdPacc4AICs5lVMRgrIRDXwZWKd55tHzk+6bLL/k9EfJ1VmLPjME16ydRzUt2Q==;HW0iixlUivqhlBIQPXzN9w=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology"
+    excerpt: "Now that tide has started to turn when last week three significant players, who have created face recognition technology, made some bold decisions to not sell their technology to law enforcement and other agencies that could misuse it."
+    publishedDateTime: 2020-06-18T18:30:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8bcb84bc02000770522f%2F0x0.jpg"
+        width: 1200
+        height: 1074
+        isCached: true
   - title: "Documents reveal Microsoft pitched facial recognition tech to drug enforcement feds"
     excerpt: "(GeekWire Photo / Kevin Lisota) Microsoft has long cast itself as a moral authority on facial recognition, calling for federal regulation of the technology and pledging not to sell it to police, a practice that has landed rival Amazon in hot water."
     publishedDateTime: 2020-06-17T17:50:00Z

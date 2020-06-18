@@ -2,18 +2,18 @@
 category: news
 title: "How voice tech could shape the post-pandemic workplace"
 excerpt: "As companies start thinking about how to reopen offices, contactless interfaces could be key to ensuring employees stay safe."
-publishedDateTime: 2020-06-15T10:06:00Z
-webUrl: "https://www.itworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.html"
-ampWebUrl: "https://www.itworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.amp.html"
+publishedDateTime: 2020-06-15T10:01:00Z
+webUrl: "https://www.computerworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.html"
+ampWebUrl: "https://www.computerworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.amp.html"
+cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3562375/how-voice-tech-could-shape-the-post-pandemic-workplace.amp.html"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Natural Language Processing
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "How voice tech could shape the post-pandemic workplace"
 
-secured: "rbywGWKdZTIx+6P8QeSq2xVWV4psOX+Ep4Wk9m3xX+k8oCWjLKulRzRUE19zads1rsqlJeb7K5H8+Ffr/I5lHXroPSoAuSpnDv/LevqrCG4fGRLYOgerGwN3WYEL603mLjC+lPczAbD2YzjN+ikXL+klXoWE06XiGCTDL5D5XXswr4VaTb308FTScg3rKlBtEh2vjMGj+th25ss+jrxDH8a3bFNluWyQf1ZRPUuQS1GQmAkzIXra3/M8y2DzlzPCbzBgpZZXzF0/G/vn/AWIPXxYuEVSLz3Sdvp/CaNYYjFKcXITGYc43ZT3Lsf5U2KcGSnL2GyRRbs3ZkDuKrINMQ==;mt/yyBO7LHrSbGpM1k/QlA=="
+secured: "SjNJPdzNdNP4w3zlugsjgeowJX0IPdWNcJWvm4dtscE3L3nsHgQtFBBiABR3l1LKORW2dz3q6586+vEHxxSjw445T3gJ6xvJJCbPRAnlPywUzBIPBRXkSyLQY0v2711yOkkb/3Nc+H5BhqDG66D88Xz2nd07GM3JMTEpTpKZhCtVs+SqvtO0ON+jbogEWsPoEz9BWHiSikW8J+/y+dMkYhW8z1N+mXmu/txFsJ34JN0nf4ZhmDezgG9Ptz5gBMR5lq5VTov6KFCE6zUyLhZ0K+SwqAjpkvUVB8piLeKMNVlV0ihBqFAr3ruLPQdJKZasZUtE01uBY8B7q2ssH4+0Qw==;67USJhwsNth+LibeOAyUpA=="
 ---
 

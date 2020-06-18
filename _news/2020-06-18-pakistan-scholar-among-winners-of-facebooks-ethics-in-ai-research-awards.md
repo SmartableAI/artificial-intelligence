@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T12:01:00Z
 webUrl: "https://www.brecorder.com/news/1005306"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
 
 related:
+  - title: "Pakistani among winners of Facebook’s award for ethics in AI research"
+    excerpt: "Facebook has announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of"
+    publishedDateTime: 2020-06-18T18:49:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/"
+    ampWebUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
+    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 59
+    images:
+      - url: "https://cache.pakistantoday.com.pk/5eeb5347e8184.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
     excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"
     publishedDateTime: 2020-06-18T17:53:00Z

@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
     excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T10:22:00Z
-    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+    publishedDateTime: 2020-06-15T08:08:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-usa-idUSKBN23M0U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23M0U4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23M0U4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
     excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
@@ -209,6 +209,6 @@ related:
       domain: cars.com
     quality: 2
 
-secured: "Sh4yyp2uG86VHALR71nwjcnv7TqDToLRzgXVuRpiRZFJZEXvYJ3OB4IHzLuJCkXYwGr5HE6tneH2bm2hprAReo23bVDm7T2+8b8kJCrY4zgp9AlSOjKrfy+7ZhkfXcaP4qiVXEUP8pBCCCEwOwjZqsUZIqzMDcGeODkn6OCmt/YRX9DbIZXW9Qq+4WJeV0a3vK/yVgnMaYHqz8w2OQnanFp86WCrokiUboEQ7xr71lMy1mZdyTCmRUveqLHCM/HwbYa/zteNhUMEOEg59fY+wMz8q95uxtpq4msQOHwFI25A5f9YBAmYn7a5/gCKPGE8gMpRm5JkqPiCcr3fu0FNsw==;1ovwuTo2RmmUpWPCVm0s9w=="
+secured: "hlADBlLfcCHFTpzSrrz1ptaGotlb1XrXTSbI8bHJvwXspOCGR8CYDf05r5XDlZdhPMWfpd9sxJtJcSWGaG0AEpR10rbP2QopRXiJqDhijhpdQO1d1/tuhdHOnLFPQGbcbHoHkgZrr9yYXNtABJpZ+8boEE1X2+T6vfwpwJrGL25fpAXsqDQiRqU8PWso++F98gbJzGtB51VokGJpsdQV8jTQJORfHUV5WIEJMvwXGKYeYQ/429t1bxT3jajTVjY7KCcpWNLzo+zA5+w5gewn3xSWM8A9aC181Oc56AMSADvn8SNB7cj+wnWGASFm0rUr1w3qb5881Qc+lhZqMwopKOTBrmM3Xha7L3UdNpjIq5z/6wNV/BN8sA3mCK2Du/cuxuM63TRWTole0mWD2rApS44SfeB/wJoGTB3MQGMGUfNDJQsYhXwOr1u6BpaNsMMaMTrOgIGc+2XTh+BNolIdooXJ4QzPmysJcjI5302tndnhk32rK8m0cqOmLkE8CCX+Ik5TanIWmwSCQzu2SvyrEg==;GAV2izHTpdiFfsVLTH3LaA=="
 ---
 

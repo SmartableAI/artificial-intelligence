@@ -42,16 +42,21 @@ related:
         height: 584
         isCached: true
   - title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-    excerpt: "Lenovo Data Center Group (DCG) announced new flexible solutions to empower customers to simplify common data management challenges. DCG"
-    publishedDateTime: 2020-06-18T14:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+    excerpt: "Lenovo’s new ThinkSystem SR860 V2 and SR850 V2 mission critical servers feature 3rd Gen Intel Xeon Scalable processors and support for enhanced Intel® Deep Learning Boost enabling customers to"
+    publishedDateTime: 2020-06-18T13:00:00Z
+    webUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads"
+    ampWebUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
+    cdnAmpWebUrl: "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Financial Post
+      domain: financialpost.com
+    quality: 46
+    images:
+      - url: "https://thelogic.co/wp-content/uploads/2020/06/COVID_SHIELD_exposure_notification_app-P_Government_of_Ontario-1024x683-1.png?w=260&h=195&crop=1&quality=80&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "9Asrc69swzEpNtzYhdkxeSprNyyIJsf/yKlJgzSfdIDMSlwfloFjMxafjpwoX20B4QKKnUojPknKcEioqJ3ZIxBN9iiNxFRs6jj2R/sfRkZIuO8hSl6eiB2exM5cna8CDXuc5YA0/Wcr63uB1IOnk/WkEbScW3GbPel0tCxSpz8sE+Lzkr/SqQ1pF37KcWRmkVFu888tDudUuBNlyUGjuLpwjd3t92fpkNBFew/fFR7GaBLc4gheoxkDQxvcs84EhUzMgbcJ41hzjvY4EyRn1vC7Tl7bpfZlGxC6DdgItmeF1uOgVqdDanYo5CRXCXA5qH2GHsYeDoR8iVF40jtTQJrBQSmxqOVI13OF1iDNQj7KBKWcjumivTQAen4BicOgSEVU+B/H9O5IkU6SP7D21nszc8z/w1j10gwEAUvIKKZtZ4EsOfYTA0nL8HIlUWWF+czRGlJKRKj/glEm9Hn28rT1llrXtUldjPLsCzgAsKVaLY09S0x3db/5kCd9YyhyYMH9601VMheguNAMK2YSLg==;hHhMbBvUHAgXa4hQSxgnPQ=="
 ---

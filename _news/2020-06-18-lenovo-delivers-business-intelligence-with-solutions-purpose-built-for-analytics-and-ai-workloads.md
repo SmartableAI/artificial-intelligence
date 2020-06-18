@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-excerpt: "Lenovo Data Center Group (DCG) announced new flexible solutions to empower customers to simplify common data management challenges. DCG"
-publishedDateTime: 2020-06-18T14:47:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads-1029322565"
+excerpt: "Lenovo’s new ThinkSystem SR860 V2 and SR850 V2 mission critical servers feature 3rd Gen Intel Xeon Scalable processors and support for enhanced Intel® Deep Learning Boost enabling customers to"
+publishedDateTime: 2020-06-18T13:00:00Z
+webUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads"
+ampWebUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
+cdnAmpWebUrl: "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
 type: article
-quality: 54
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://thelogic.co/wp-content/uploads/2020/06/COVID_SHIELD_exposure_notification_app-P_Government_of_Ontario-1024x683-1.png?w=260&h=195&crop=1&quality=80&strip=all"
+    width: 1024
+    height: 683
+    isCached: true
+    title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
 
 related:
   - title: "Lenovo launches data center servers aimed at AI, analytics workloads"
@@ -54,6 +58,6 @@ related:
         height: 373
         isCached: true
 
-secured: "T5niD9b1SwHacaZibCtF1AUnlsUCpY3L+fRvIBxhoCkQXR83Wn8DnuhGDTdLGuWTfkgWzAvQ2px1ROeNKnNO5+XKdSBxJhRMe94/Km2cGvzdZBty6PzuAqgHlmnBgWIwiWigpLbtxhWyKOMwuWDn6r3Xjcw+jOXib19sW4x0ZC4AaXlC+RjRuLVKznzK91Lhhtn8VpZh4p4LJ+DUScXsayRk0PYLLevmX0DSOLP3ndHZfBH4hzxWoFpTsEAXtLv4M5NfQV1DT8CIX3VOu4W4CeFE2niEvK1Lc7X2MUAdCp/qHLvtYYGiX5b3QXuImWwHhYqYxv2K/42JSL/Tn3lThg==;Z8iwRkHt/QvjyCxM0cCX0Q=="
+secured: "XX+7uTut+i3vUl1l5gsHzGy6kYvlXxD3Q28IEdUFKpAyV8mMYZPa94g9D1CudqO8EfOi0V/BzDPlLJH1KL9Z7FkKsCioEVraGzLg0A0MrJLu22qLclwHh4EOOtqndcsxY3rw9s7drDippRIu+BWL0nLv4bWFnfCohkV71+Nl9rhbUhpBVzzc+s9qpx8qg3Kp49At4coyWqmTtDr+/55a5Y4Lq5zud/Dfdy3mO+ePhbHl6o5FDNvBaSe30A3VKWdQEEB09nWwq4Nh8u9D6OpfrrP6WSzQV/9zu4BPnq5QOclQ3GoQmM68wthR68dx0qNCHHN1OUZ1F6xjkT0DAEhKbg==;H4bTkn5XfQJxOGcDSR/a6g=="
 ---
 

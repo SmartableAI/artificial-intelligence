@@ -27,6 +27,22 @@ images:
     title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
 
 related:
+  - title: "Pakistani among winners of Facebook’s award for ethics in AI research"
+    excerpt: "Facebook has announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of"
+    publishedDateTime: 2020-06-18T18:49:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/"
+    ampWebUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
+    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 59
+    images:
+      - url: "https://cache.pakistantoday.com.pk/5eeb5347e8184.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."
     publishedDateTime: 2020-06-18T12:01:00Z
@@ -42,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "c8Hk2WQ2r4Dx4BhPFCSros9/xJOJMuskARkr5HAHxylro7M6MnAcPMzqxq7C9cA85TP6E5RxF95W/ElGG56eGlWC8hLz63SNnVgPmKL/D9S24VCrpLIdyKfU+yzte2t7Z4h8/Gkl6paCutNm0o33WFue+pXj69NJrhx7AhZ/M7xp6jJ/+N7CGxTO1YlNDlipbNROqxk7wx/Fa/ykwbBSl8eKBYX72I1yF6DPdQO/gOG4wFh2rZoMVIYPYsHktfS1WTYo2yCBfHGcDj4O/K7DlHWq4dCPhQjqXxYfklyeZmXVJTo2h50hMBAJpr/yox901BMriQWhyvOvmA0U0RTZJg==;YaTqMBe91CuSrqX8FG8MCA=="
+secured: "p/5ya9NxQNW+rsLCR5iMUMkDN1xSewUg/JdwrFB8aHAX994A8qDAnVoldBh6lByRQcOtwg15c1P9L3Ns5uJae2hXfx596KLORtLD7RB4TWNG0NpV+peBA6Ai5ODzDLhcI/bPMO0ktjh0lPzF9S8Ic3gpbYgHpWaX/qeaAVp29EUve/uUfyPHU0i/MKiznml+JyxMYwrMwnCHH61SJurftdtiEYtsJid8gg2X0od1V2eCqsZj7WJ7w0z4G/QRqSw4/eR469vhAB0lnQ0pnlCRo6jTmRtL7eTPzoOeiEP6scIRRltwfxaAbdWOqnjtjmlA4PbVQce9nzqh25Uc8FX0JmyFRhPcBHchBmaGTxrZ6280OEtXyMMIHPN0+Ie9KQQhJE7db6wbvfAu1NT+Ng4sdh+CbeeoFIUSX5HMiqRDTyob+VOuDIzMyUheNtmwr3NK8HLblbxHoOm4ETYd1aB0xuVOu7sgbTFAzzT+BE0/Et+6O1ndUv0eByTXXhNyIzMYvJ4NGv+fUa9oi01j18J+Yw==;tUDNoPuVFw+0lUbyGyjsng=="
 ---
 

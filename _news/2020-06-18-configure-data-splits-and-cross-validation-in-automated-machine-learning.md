@@ -5,8 +5,8 @@ excerpt: "Configure data splits and cross-validation in automated machine learni
 publishedDateTime: 2020-06-18T05:00:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-cross-validation-data-splits"
 type: article
-quality: 23
-heat: 23
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
