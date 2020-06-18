@@ -3,7 +3,7 @@ category: news
 title: "Amazon’s machine-learning device keeps an eye on social distancing"
 excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
 publishedDateTime: 2020-06-16T14:59:00Z
-webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=33&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=34&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 type: article
@@ -147,6 +147,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jWc/xJTbwniK6sZt8qKWu++P30oRrAQFdDjhnxNW283lWcLrwib69iNZOKKMW1yufypvjDi71GsuEO3QkoxVsBUCzO239z9dNv8ptIhHNONoL18jOeA6jBcQqqXzZnrqDUiNk9ThEqZs8xI8sMRyHlPgfo3KOm8hYpdZ/KeFH4Zud/wCxqxT7SZZbhubW+WrZh4oQRoUB8nLQR9m9fx5/9FATpjpfesiGF7w1Htk09cOUIGslzwHtZV54P47/Ab1ZdIBa/LLLHCdnm9UcSFAY4IwZr2CpE4ywXcRKMeReoFElG84GFdNVEclP97n3n50pxS2QpR4aO0QKqwIYjmtVw==;DFra6bTsoghSegXSu2auvg=="
+secured: "jvTLs8a6w854X0RU6qEFagWF44gg82j6B+cs91Kzg4lBmbzBwxnXEP9GUzeHdFn8OGOapUhFA54unIY1iA05YkJvvRwUV/c4JNsxU1obnNvO1Lh3zQcNgI0+nLE3Dhzq7YRb/PzLSL1qhziW2uYtLDcLvBBZVI5MrWwDKPefailX3j525Nu+HN58JR7Gksv+OrnOf+JKz5B8ha1DSioMPFWBCsjsGSfjG2tUkAAynRTQSKJCqmDiUrcUnwW1cjYNzOPjy6TbNoeQqINrJlOJnks59gu4vnOLl3nWIxJl63KmwpKtyy4N4eu7MJ0UrF+hZzdkMn8aR+z+htf3UeJ1Kw==;qehBQIPZEwnP55S/8x0Xeg=="
 ---
 

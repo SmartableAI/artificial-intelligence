@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-r
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon Rekognition ban slammed for being ‘performative’"
+    excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
+    publishedDateTime: 2020-06-18T04:02:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
 
 secured: "nmrUX3eVJwG+6J51LjgLKqPCk92pCzdkdlzxkCjaiKgbTNZrA/RUiOKgA7vhNFvQu/KM3n6pREyNpyIN/PmqkXp5uNhDr9w34arJhLWoRlgkVxfcPYfHeS6RXunF/rjpBsB0OXWFdEdfEjGqWlA0iY7cMy3ILZabP38FxAY37G3GPm/a3klHRRw7p086t+gYN0npkupJ1bKDPVglGVdQdE0T2NpJq6mBkb89X8W03BydpxFQmOyOnvAwTY0JDVnf3J5w2HnUFEfYQ+JEaps3i/PO5Qs8ozU9RdsNhsIiJc1C1K8F4wNVuiQ5xITD2MR0GFVoGDcw7glLkVE3MDqq1m45mh2PGW2OS+XAdrmVffSfYPIPBBSAGqiH3yQkJT564K+3gPniqaKOnYFaZz1k8xd5dvpWsFV5+GzIY2xhsPSds5xs3vUuetzrfdTxKTNJiWSOSAfmM+Maqt/Vcsnbv3ZDJULcOb+MarAg1LQVJDShFpUF6BP1156wGZgqxmynDKu4QbT5ebRVqQrO02WHqQ==;iFB81PkiOr4niyqm4I+mAA=="
 ---

@@ -1,42 +1,28 @@
 ---
 category: news
 title: "VW completes $2.6B self-driving deal connected with Ford"
-excerpt: "Volkswagen has finalized a deal that will see it invest the equivalent of $2.6 billion in Argo AI as part of a partnership with Ford to develop self-driving technology. The news was announced Tuesday. Ford, in a posting by executive John Lawler, said the arrangement finalized Monday involving the Pittsburgh-based startup would allow the ..."
-publishedDateTime: 2020-06-02T23:14:00Z
-webUrl: "https://www.bakersfield.com/ap/news/vw-completes-2-6b-self-driving-deal-connected-with-ford/article_436819af-bccc-5b20-9547-26c93ed1add0.html"
+excerpt: "VW completes $2.6B self-driving deal connected with Ford Volkswagen and Ford are working with Pittsburgh-based startup Argo AI to develop self-driving technology. Check out this story on Freep.com ..."
+publishedDateTime: 2020-06-02T00:00:00Z
+webUrl: "https://www.freep.com/story/money/cars/ford/2020/06/02/vw-ford-argo-selfdriving/5315520002/"
+ampWebUrl: "https://amp.freep.com/amp/5315520002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5315520002"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+  - url: "https://www.gannett-cdn.com/presto/2019/06/12/PDTF/9c0d49d4-499c-4d91-8eed-28a00084604d-Ford_Argo_AV_in_Detroit_1.jpg?auto=webp&crop=5999,3374,x1,y267&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
     title: "VW completes $2.6B self-driving deal connected with Ford"
 
-related:
-  - title: "Ford Joins With Volkswagen To Help Produce Self Driving Car Deal"
-    excerpt: "Ford Motor Company and Volkswagen signed a $2.6 billion deal to help produce a self-driving vehicle. The deal is in partnership with self-driving software company Argo AI. Ford’s autonomous division has been testing self-driving cars including at its Detroit plant."
-    publishedDateTime: 2020-06-03T02:35:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/02/ford-joins-with-volkswagen-to-help-produce-self-driving-car-deal/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
-
-secured: "9cugYvmBxuMdiFh4HW9KvTq339uqaXHYF3JzAejRGO+/oHog1VpdC03YU2ONrFrBp4GqqDuK4l0bijz61b48IzRm+aM9K9FNgH7e+obUu/lLbiuiK6iJ8+BVdFYrg06hl+bEx1vFjnqEAqaNaOIsGhGQRWbTvZ/0P785mUqchZzUrF/lNRoeGzSXTaED8lFtwX+HIGQcXdXxqtnY8X2x3TLse3aheUkP1+KuR1m2gwquIEzVUBw6RlVm/7c+/9Y2YsMwcZjc60yOj+ynQsHzZJhb/wJaqSa7pPgrngsni0HCIWD01k89BrPVkIarxKJV;FpYEr0lyKPxdqtGK6GYSqA=="
+secured: "5vwfEG/4CbsiGdEs/vbk1J25+cgQBOupE49LHrEEdaFQCdF5x2+Wwf4wGY2I22oRxvIK+IQMY8SsDIgdGPyGUH5lzgX+gi2w6B4s7/tpxXE7O56nAeHcHf+xOhgJLeGMLjHR7zsNSQCLPe5YNFiUcJxHi77Q/kfhV8uxqo1afrAvd7p/+9z1YNUlvVEH1kFmbUKPsZOnHk2TIQEf71NjQQGYrDr4QN6CJRAxgQ3aUGKvFn/Ao5CkextcJ8JQMM/C3XjoZM+ChJFXc2K9JByYLAtRX1NuN9w8dn6TmmVJr9Wq6MfMnVI5XUNHr7DBrMEEJ5D+IdQqLUv0TY2vAfnPPA==;i5taMBuRWTsknn5scImLvA=="
 ---
 

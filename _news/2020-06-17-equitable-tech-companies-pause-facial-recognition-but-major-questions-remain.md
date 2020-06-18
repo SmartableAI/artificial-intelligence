@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-compa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
         width: 3000
         height: 3000
+        isCached: true
+  - title: "Facial Recognition: IT And Police In Delicate Dance"
+    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
+    publishedDateTime: 2020-06-18T04:05:00Z
+    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
     excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"

@@ -47,6 +47,17 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Amazon Rekognition ban slammed for being ‘performative’"
+    excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
+    publishedDateTime: 2020-06-18T04:02:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
 
 secured: "uXg1p90atnQ7uXUKel5Ip5BgxzyO/q3VuoGqH8cJVq236oIhRwwcuWzCCBEnpnvsW8OpzDJHr7OXqWDov8183P6jU9NzTHjn9poJ9wRTB9n5+C40oRaoN9sj/4eLBTZ1SD9nil3I/mKZID9+jftpxd1gNLiD5tSyNJGaKb6Y/1Q5DMQQgwvSntuS37dGJxseFLhsWqkmWdaAjjcfBySi7/0Gvp2cKIF+NvdXgZ3i0tyvqIDHb4l4ubVsvNnwwxtrB+qI/LLHl8RUCUaCAWgYUj2jYy8ZjDe6hjlXGH7AVX9u6cYRhP27VaT5kvTdsOhKQMVfSeASvC93IOT7Soww0NprI4bsFsEwoud4tj7JtNhBYg2wckedB83xLGyXeI13i0QgUwuBGE4PfoS36G+ij40QX6TStZmmq9AA44YH32ED/0WvGsPhqUCW8lztx/4BtP0+nsS2tnP7aa6jsj8hf/4Oepd6SeMHS1iAjioV281gmg2bA+R2Yjd4/fy6hpf1rr1s6tXJvjFOsQCivfnzgg==;wDXx8x89US7w0xozX2kWnA=="
 ---
