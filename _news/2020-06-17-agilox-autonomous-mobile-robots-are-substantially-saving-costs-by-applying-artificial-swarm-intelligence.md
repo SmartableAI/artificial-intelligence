@@ -1,0 +1,40 @@
+---
+category: news
+title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
+excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades."
+publishedDateTime: 2020-06-17T20:41:00Z
+webUrl: "https://www.roboticstomorrow.com/news/2020/06/17/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15378/"
+type: article
+quality: 2
+heat: -1
+published: false
+
+provider:
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Slamcore wants to give mobile robots better spatial intelligence"
+    excerpt: "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment."
+    publishedDateTime: 2020-06-17T08:15:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "MUeELbTSwGhoRr+TXtfEUXL2/N/a1aX8P9ZaKg2++5pAac92cNaDbpDor2puth/PEBJZZ794k3CSg0C2nNk2wZ5ntkPw2LNWaH13DzFoKR65vKJ6gLSSX9DdeCWXvwQil2U7/3YVZLuFimS+ZPu2sDLa3gZFaM6TPnjoiHZbwwpzfWshjfdAAH8vTmFkHEHgKyLPJkzK5MB+Jq/HfYCl5o6Dty135t2tlAu3KSmSKmEJunmkkdwVrOZoKSEqcUPorQFnqoW3ScI0AE4OQ6Rdrroryc+okEGFcfnnVT+pkKcRPopLH+/jg7VVCCv1BsI0bs2OpAf9oupXTu5PvileHg==;iTBVaWDcCz4XKjkdfaUmtw=="
+---
+

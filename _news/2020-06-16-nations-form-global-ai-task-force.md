@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nations-f
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

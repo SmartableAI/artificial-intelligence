@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinica
 ampWebUrl: "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"

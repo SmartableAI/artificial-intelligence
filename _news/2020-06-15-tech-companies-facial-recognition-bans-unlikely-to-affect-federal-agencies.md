@@ -165,7 +165,7 @@ related:
   - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
     excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
     publishedDateTime: 2020-06-15T20:23:00Z
-    webUrl: "https://www.zdnet.com/video/ibm-amazon-and-microsoft-halt-sale-of-facial-recognition-tech-to-us-law-enforcement/"
+    webUrl: "https://www.zdnet.com/video/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
     type: article
     provider:
       name: ZDNet
@@ -255,6 +255,20 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 23
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
         isCached: true
 
 secured: "ZBbTvDPFX/CLQlHLcQzdRh1ZV/HeCJYpWrSqPR3o2GFqY4XmdeT06/GdEcIO4bHAnIp+3hJJLcTIEW2JhGFHeKVlMG33a4dA8N4nnukDV9gv2zqaal4kzQ+Xelz+bvmabcENQtakknqSqfDdjgpn3biEhuLnp0PsVfi8S/gszamNDHE3Nke2Ua/splr2SLT8VC5IDoRj7t/wmnbm2w+mCzC2tiwW9AVWWs7LazLkhfFLqMoQeNut36EGSafwJUbEkDcqUPJ8eer/JntozB91HIvhr3ALqAOlHlZk3fmscdU6RfDEitK0feQl3eiz5/EqCYSKKExuYNq4CDXhnE26UhPl1AKXFXWwKmaDx5JwVz2ICA+/Rslsz+4LqR7VXqh++GIG0VkuwmxhVbqsp3qVsaWGbTKwI0rCHiOahI9bjBNq60Vhrp5Ig9TRzQzhyJR0z9XqN9WFQKAbMaLCf80Olk2LGyQrCgNPeWVW49XwFg2RBy+io2UBU1W60N7f49N0qCbmxdpxwg8KZRKy0deuJg==;tU+fnbRD5OjlizF0UgaJsw=="

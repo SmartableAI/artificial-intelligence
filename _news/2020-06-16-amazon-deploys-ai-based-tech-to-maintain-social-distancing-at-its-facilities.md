@@ -106,20 +106,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "IIT-KGP Researchers Develop AI-based System To Track Social Distancing"
-    excerpt: "Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring social distancing in public places, an official said on Saturday."
-    publishedDateTime: 2020-06-13T05:44:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/iit-kgp-researchers-develop-ai-based-system-to-track-social-distancing.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zwuciqbngoqgg8lj_1592027035.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
   - title: "Olivia’s AI assistant encourages mindful spending and saving"
     excerpt: "Our Start-up of the Week is Olivia, an AI-powered financial assistant that learns from your spending patterns to provide tips on how to save."
     publishedDateTime: 2020-06-15T07:41:00Z

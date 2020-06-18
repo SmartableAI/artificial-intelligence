@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Startup Aims to Modernize the Property Tax Exemption Audit"
 
-secured: "vr+YZ61t3sIUQzgvMofUpkSCaLSE8Ks6QJDP7NfHRstgUfN86JLJjpvdoQdtL68Ap0X95dZ/KKUZbcqiMj3B/yMVHolpiFYmF0nHzyNcBffyq89q/4Jwo2XXlPb4r3FwCHo/u7iVfAs36vmDZWdZX1oUPqPfbH+m+p0mqODloydd/0dgESm7aWJx5WtjauwJy8uI1SdMQpGOyBWpF6hYhVBbAGYdBKNLMEny/5s/uqGLykagK99LbdwhgBg5hFsu4U0Od8AzgGEzlelRXLXxvyatTAl49Z2uI0/3jTnmgUCWP20/BOFFUtCR8R+CeuvHVBKb9UYuOBQtjwXNY1aWtQ==;//13WieUCiYgZ3L5Ob4OFA=="
+secured: "DDyZ5f0+AVU4uIu6FKFwkBLdY76fqCZId0V1bYTicFc7ZZLj824N9u0gv8ypSnlyIdm/AW5vSWdK1lqTvkuKdZ+Kgad2RLOJCijFZDTv7Gde8BxUQfP03J2pKs/0XYipK2PQjlTu8Rot/WnOm7aJQopJbOn6+fRiU8sgkI58Mi6CKr8jB/QIWSL62THPFv/NWSzifd0171Mwb4SeEpH2eQNXqAVT3js/K+ZOsAu0z+HRE3JCQqCYYYo0JR0G/OomUXoVcwlfMXRHfnVkmQMr//5uYYAdAYITyttNcr5ZL0qfj9SCUJqJwf3yI1onuUvri9f57wV+iQNvd37j4jcqw20sLAuD2f/tkT6fTrhE+LL+OBY66Fi/2fBdbpKfgfNaITCMhBEgqjNvpeODUxqFRS+caNim2ICj9BzARPkltukerUw5fQ1OV6skcaLl57s8695mIuDVY49ME4+68GqFotdYXb4O/uFrAJhywQ6avjb2JDoaZ+a+QpF85jQF9Mh4FMBrcXwcWD7RKPSTO+SyEQ==;n5Gceuc3LBEcGknnG7CHSQ=="
 ---
 

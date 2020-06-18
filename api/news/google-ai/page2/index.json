@@ -4,20 +4,38 @@
     {
       "path": "_news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
-      "excerpt": "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ...",
-      "webUrl": "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html",
+      "excerpt": "Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP.",
+      "webUrl": "https://www.marketwatch.com/press-release/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip-2020-05-27",
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T06:26:00-07:00",
+      "publishedDateTime": "2020-05-27T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -26,6 +44,7 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]

@@ -123,20 +123,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "IIT-KGP Researchers Develop AI-based System To Track Social Distancing"
-    excerpt: "Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring social distancing in public places, an official said on Saturday."
-    publishedDateTime: 2020-06-13T05:44:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/iit-kgp-researchers-develop-ai-based-system-to-track-social-distancing.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zwuciqbngoqgg8lj_1592027035.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z

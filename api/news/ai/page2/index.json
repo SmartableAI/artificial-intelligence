@@ -285,7 +285,7 @@
       "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
       "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
       "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -653,7 +653,7 @@
       "title": "Nations form global AI task force",
       "excerpt": "In a joint statement, members of the Global Partnership on AI said it aimed to “bridge the gap” between theory and practice, and foster “responsible and human-centric” development of the technology, rooted in human rights,",
       "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/",
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -831,7 +831,7 @@
       "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
       "excerpt": "The four-year old startup has already brought on big-name customers including Ford, Nissan and Denso, while Toyota is piloting its technology.",
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/",
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -877,7 +877,7 @@
       "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
       "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
       "webUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017",
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": null,
       "type": "article",
@@ -962,7 +962,7 @@
       "title": "KT to invest $41 million into Hyundai Robotics",
       "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
       "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1122,6 +1122,43 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-artificial-intelligence-could-be-used-to-track-invasive-species.md",
+      "title": "Artificial intelligence could be used to track invasive species",
+      "excerpt": "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,",
+      "webUrl": "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2016/07/03/Japanese_Knotweed_Rin_full_flower.B7G6NM_Invasive_weed_Jap_trans_NvBQzQNjv4Bqxf0udJPckKC_3Kw9fqS3NdVSpfFxuU2jZG0HzVweans.jpg",
+          "width": 2880,
+          "height": 1800,
+          "title": "Artificial intelligence could be used to track invasive species",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/",
+      "publishedDateTime": "2020-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1307,53 +1344,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -172,7 +172,7 @@ related:
   - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
     excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
     publishedDateTime: 2020-06-15T20:23:00Z
-    webUrl: "https://www.zdnet.com/video/ibm-amazon-and-microsoft-halt-sale-of-facial-recognition-tech-to-us-law-enforcement/"
+    webUrl: "https://www.zdnet.com/video/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
     type: article
     provider:
       name: ZDNet
@@ -248,6 +248,20 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 23
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
         isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."

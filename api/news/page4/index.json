@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-15-ai-tool-turns-extremely-blurry-face-pictures-into-realistic-portraits-in-seconds.md",
+      "title": "AI Tool Turns Extremely Blurry Face Pictures into 'Realistic' Portraits in Seconds",
+      "excerpt": "\"Never have super-resolution images been created at this resolution before with this much detail,\" said Duke University computer scientist and team leader Cynthia Rudin.",
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-tool-turns-blurry-face-pictures-realistic-portraits-seconds-duke-university-1510859",
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-tool-turns-blurry-face-pictures-realistic-portraits-seconds-duke-university-1510859?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-tool-turns-blurry-face-pictures-realistic-portraits-seconds-duke-university-1510859?amp=1",
+      "publishedDateTime": "2020-06-15T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home.md",
       "title": "Google: We've got 1,000 interns working on open-source projects - from home",
       "excerpt": "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects.",
@@ -1056,52 +1093,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
-      "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-      "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
-      "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/spoc-examples.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "publishedDateTime": "2020-06-12T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

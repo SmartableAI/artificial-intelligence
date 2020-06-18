@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1"
 type: article
 quality: 81
-heat: 82
+heat: 81
 published: true
 
 provider:

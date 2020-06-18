@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
+      "title": "Facebook’s Giphy purchase will help keep track of competitors",
+      "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/16/9ec5b494-972e-11ea-ae0d-0e69ba128e68_image_hires_125830.jpg?itok=gcwE52xs&v=1589605117",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook’s Giphy purchase will help keep track of competitors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "publishedDateTime": "2020-05-15T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
       "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
       "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",

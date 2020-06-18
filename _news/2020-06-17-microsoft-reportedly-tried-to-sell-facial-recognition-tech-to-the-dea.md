@@ -162,7 +162,7 @@ related:
   - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
     excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
     publishedDateTime: 2020-06-15T20:23:00Z
-    webUrl: "https://www.zdnet.com/video/ibm-amazon-and-microsoft-halt-sale-of-facial-recognition-tech-to-us-law-enforcement/"
+    webUrl: "https://www.zdnet.com/video/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
     type: article
     provider:
       name: ZDNet
@@ -253,6 +253,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 23
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
     publishedDateTime: 2020-06-15T16:59:00Z
@@ -263,6 +277,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "Xy6mJC9/3Dv8QMfRwe/k5McyphMKsMBkG/jI9zuFHCUmIHfvJ6Qdi/uihZDatm0QEGcvIdW/08IiMaCrijqmM0+mQXIFUn8vRIF2bIhino6tSHyCEjPJrjsaSKKIigMo6NvrA3RbodSANnG4c4cLUiTjGucYE0pQdqzRU0L4TDSM/pIsGt0A8H/9NsmKiZWQsLrGo7K+YGxjjR7iNXhJclAmP8DOFyX5VyUjsSLCjQ8bRW8xtW5KoNBcy05RqG4qwpUPZNETk9Pa12f5pq3c4A5YOLeya/UC9LEL3pdaouP/K+Lbh5mpwtlYWp3WHhgweAx88Pd0z5+kjG4e39d2lQ==;4z8iSpFXXItxiS4aAkorNg=="
+secured: "TDbD1G5YC9/vNdQy/UEmhSzYuPLhEaHH/qr24by5c9fV8M2KtyDHxns578hUAeyy8Q+t8W5D8kqJwbGecP9i+id+dKfzOLCOruW0URn/1yQB19nC/MVhI/C1EVt4co3Z0RQ6aBSSlK46o2e0NUSgr6KdOi55rM0xFeidkOsLUKIYDXbP1+6IoqZQIVUw9D8YbeenZEUu3Q7hMJ0LPx97sCAyZZoPi7fUPqWXWBXzcMJb26N0zToPPWi9Zy/ESPQO6rQrW/gUEaLdpjZzRpgGHKgbiMx4Z9aPXpp+pvzOctReYQ9adkZVwNGTESd1KuR5NJEcTqX9H5u8+1wLSh6eqfanuIqyIy2uuUg062CUxUQxmZG799xzIN94ACvFW50bHxt1XIGCfE+90GcE7QmLAw8N9eP6n6B1WuAb30nC1m6yVLhuvE6jQ+lnQ0E/EEUo4lPWfY1vW7KJP9A04aiDJWZGuK5RisFH+KDs0oHXYOQH9GcFSiBCEOkpkN1Vtp9mMhr5TucFXdbZlM/7eaofAg==;yW4UuXgEwy57uKErV23SKQ=="
 ---
 

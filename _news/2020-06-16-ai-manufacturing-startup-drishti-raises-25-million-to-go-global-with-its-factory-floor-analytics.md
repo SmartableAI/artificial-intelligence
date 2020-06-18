@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -147,7 +147,7 @@
       "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
       "excerpt": "A newly unveiled introductory course for machine learning on Azure will be available for free on Udacity. A set of chosen top performers will then get scholarships for a more advanced course.",
       "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity",
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -291,7 +291,7 @@
       "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
       "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
       "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 265,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -471,7 +471,7 @@
       "title": "Facebook open-sources AI for clinical trial eligibility",
       "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
       "webUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -509,7 +509,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1194,7 +1195,7 @@
       "title": "Slamcore wants to give mobile robots better spatial intelligence",
       "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
       "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
