@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Office Market Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
+    publishedDateTime: 2020-06-18T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-methodology-emerging-trends-and-forecast-by-2025-2020-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nWo/dtrzmiE/wOZ6k3AiyP8zq9LrrSQnAdBSTQHDUDBVOknJh3u94F7a0y86oZ5KQNchv2zxGWwISgUFzWUcL2tUASDkBGYmL5i7JQ9cI/fcMdMeIAUEptip+LyzB5oZQ2b6k5WOhXdR814hmsyOebT3C0Tv9XNZtJZ+IdtbzqJ7+wNUWscinQknuGu14/7C1bWfR9gk4HeGDwtShMxxRLccOz6bz2+79xpCmlOijvEfZyXbkw0sDH9kCmbl4zjHQAobE6IdO49YsgwYc1dYnCt+knEqNFVlSCXPF/rvryqcZ0t3y27CvVfcP7pIF6H5rZFUVajSfUcdMf9cUi8jIw==;MWDagLbz7msklgsmG+IUeQ=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Amazon’s machine-learning device keeps an eye on social distancing"
 excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
 publishedDateTime: 2020-06-16T14:59:00Z
-webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=34&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=22&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -22,13 +22,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/amazon-distance-assistant-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-    title: "Amazon’s machine-learning device keeps an eye on social distancing"
 
 related:
   - title: "Amazon's new Distance Assistant uses AI to encourage social distancing"
@@ -147,6 +140,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jvTLs8a6w854X0RU6qEFagWF44gg82j6B+cs91Kzg4lBmbzBwxnXEP9GUzeHdFn8OGOapUhFA54unIY1iA05YkJvvRwUV/c4JNsxU1obnNvO1Lh3zQcNgI0+nLE3Dhzq7YRb/PzLSL1qhziW2uYtLDcLvBBZVI5MrWwDKPefailX3j525Nu+HN58JR7Gksv+OrnOf+JKz5B8ha1DSioMPFWBCsjsGSfjG2tUkAAynRTQSKJCqmDiUrcUnwW1cjYNzOPjy6TbNoeQqINrJlOJnks59gu4vnOLl3nWIxJl63KmwpKtyy4N4eu7MJ0UrF+hZzdkMn8aR+z+htf3UeJ1Kw==;qehBQIPZEwnP55S/8x0Xeg=="
+secured: "jr56B1FAAYwOVfN6xOzJ4CXeP74m5x4VQTtg7dE7n1DgZXHFC0DaMldAj1mQ95okn6/0fdC7q0L89CGHYO6RKzIEuBXrgCwBxJ8AjIKUsR47W46am4zLT0c2gsqRZGLg+BzqhEzn4Qq3s3GDBKmbem2LZGDrTMXlHHfr6Yx3UdDe4NTxLVverkN5Js1Qf9j84ooT/zG/F+xFC8VC56Rb2qBmJbGOib8bF4jiZm9H6+1V6UXerkCA4du5Djl48xaEFOjHPqkWoqeG1z/cIYHBWnaWh503oIkbHyhXkf7sT18XBcnGCb2OHoKpEyOep70IKuXivhifIvBuCwhi5FIyhjqNr5O1twLLLq8N/yH9NvTgmOf9d/W4nW6Fa86myIBfPjUmhJBSvuVRt/mcmW7A5vK9bgPc3QsJRspDR08JH66ixf6q5lX0kIVs+sft6n9ShDkD+VcrXDaxzWj15fNmTNT8E5w4ukcU9XwGjgmbw7g3ZOM70KK1GEI763Pe7ROKCtFoD2Ca7lWf8ea3QPbWwQ==;4aAb8HihQZMHMv+xVY+Ytw=="
 ---
 

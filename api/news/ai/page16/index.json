@@ -2,6 +2,52 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
+      "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+      "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed30063b8ac0f0006007345%2F0x0.jpg",
+          "width": 1000,
+          "height": 671,
+          "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "publishedDateTime": "2020-05-30T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-30-microsoft-cuts-dozens-of-staff-as-it-shifts-to-ai-for-msn-news-stories.md",
       "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
       "excerpt": "Workforce automation is about to cost dozens of news contractors their jobs. The Seattle Times and The Guardian report that Microsoft is letting go of dozens of news contractors (about 50 in the US, 27 in the UK) after June 30th due to a shift to AI news production on MSN.",
@@ -1255,53 +1301,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech.md",
-      "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
-      "excerpt": "Chinese ride-hailing giant Didi Chuxing Technology raised more than $500 million in a funding round led by SoftBank Group for its autonomous driving subsidiary, as it competes with well-backed U.S. startups over self-driving technology.",
-      "webUrl": "https://www.wsj.com/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-192120/social",
-          "width": 1280,
-          "height": 640,
-          "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
-      "publishedDateTime": "2020-05-29T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

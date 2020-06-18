@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google to help summer interns with open source tech at home"
-    excerpt: "Thanks to the open source technology, thousands of young people will join Google from their homes in 43 countries for the summer internship as in-person classes and graduation ceremonies have been cancelled."
-    publishedDateTime: 2020-06-13T13:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs-careers/google-to-help-summer-interns-with-open-source-tech-at-home-98691"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_1753761254.jpg"
-        width: 660
-        height: 440
-        isCached: true
 
 secured: "14swZRLcFsXqte1FbdU/LQiklpFeG2DRMYhLVo+04v9Tejtog4APn2jq3oPeIviVdyMHr2DRVz6R8V0ANcThRoANPqxYmIVb/gkey9YHVffjs/A78i5B+G18tjeXDF1aNd/q1ZZEHAA2nojVzlJcaZxjiDSU4Jugq6sc+4nO3ivpvE4gvar+sTP3Vz6/vz/E5HgWk0HpEusCbTPATNeueU2mA8JGC9TSJYnlFJFKXvspab9LGizaMrAGAhEo7TUfZ5yG6gvmrwHAzzHhpOKSN7dZa8gGbYqOvtR+nBztxonuzF5/00FGcFz/l4aMm1v0DL9KBFF+k7w4m1NRmYbkXKT+6BgfJibvRAKCZpaRFPLgpGjA5RxdMa4QuboSuxZ56uD6ogKsVyzTnIEEIUdeU9hZWABvEyH8l/n9i5z9B5MtALn+qIuEDMBDhkHMk/xU7JEkhLTaOslYSWrpbUYjZqEPHH2VDasW7pMz4BWT8XJDvWqD+3Yvi9SjRspvvizs0E+Jc//HkW7HQuSiJ2zsGw==;pM90IgTYANb0PVv2A3xU1g=="
 ---

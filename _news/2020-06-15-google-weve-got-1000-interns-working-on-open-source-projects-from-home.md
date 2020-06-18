@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-weve-got-1000
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://c.tribune.com.pk/2020/06/2242460-download-1592122291-464-640x480.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Google to help summer interns with open source tech at home"
-    excerpt: "Thanks to the open source technology, thousands of young people will join Google from their homes in 43 countries for the summer internship as in-person classes and graduation ceremonies have been cancelled."
-    publishedDateTime: 2020-06-13T13:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs-careers/google-to-help-summer-interns-with-open-source-tech-at-home-98691"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_1753761254.jpg"
-        width: 660
-        height: 440
         isCached: true
 
 secured: "B0ssySXhf8NiE4MUGgWgToiDvX5bNJQyp5C0EtGneDw4aLuDy81Ost9efvV1TX9+a0ne0NjZ5n9JTx5nSbXFUgplrqEdP8ujliUlv6IO/ikz41YKB9TgvRBt63lUcHMxnrcB5MMKjywLKxFmofMF7+7MFdfSgNF4+J4t4n9vTrtFwTRrSjvIXY5suEP6BAensEQ1UUBF8M9PzB8qixM804yIgggx9XhdvMqsfBWmk/Tmfx9/WwQ1U2tzN7jLCYiUJ+unkDZp5RkudxzdK3t5fcP3qtPClbgi+RHMepRVOO4k9gU+1pchPTIU6prK/qvYW5kHWtV+KCqycElJUnMjUOh2eBYxP05hfRqp2hj0JmrMctt5XK2pmimCGm6hhkKwPURjvZ4aHhW4UmPqtmqh+ehH2KhJnyuhINsf8m3HlfeJ99rzcplRAzosQjRMat24kd/cT8x6DfBHTpA+uWzJ6qlMioX07dHWbhnvx9XDIhSQqgh2X3s1WKkEzv0iCUNa;x12JjRg8Xq7H3u+3G+kEHQ=="

@@ -2,6 +2,53 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
+      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
+      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "publishedDateTime": "2020-05-19T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
       "title": "What’s the role of Microsoft Azure in the IoT sphere?",
       "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
@@ -1000,45 +1047,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
-      "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-      "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
-          "width": 1333,
-          "height": 698,
-          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -59,22 +59,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
-    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
-    publishedDateTime: 2020-06-13T14:41:00Z
-    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
     excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
     publishedDateTime: 2020-06-15T16:20:00Z

@@ -2,6 +2,35 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
+      "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
+      "excerpt": "The \"Deep Learning Chipset Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/b16101792/global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-fo",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16101792",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16101792",
+      "publishedDateTime": "2020-05-25T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-insights-into-the-worldwide-deep-learning-chipset-industry-to-2027-featuring-ibm-graphcore-ceva-among-others.md",
       "title": "Insights into the Worldwide Deep Learning Chipset Industry to 2027 - Featuring IBM, Graphcore & CEVA Among Others",
       "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",
@@ -1299,53 +1328,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
-      "title": "Scale AI releases free lidar dataset to power self-driving car development",
-      "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
-      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Scale AI releases free lidar dataset to power self-driving car development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "publishedDateTime": "2020-05-22T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

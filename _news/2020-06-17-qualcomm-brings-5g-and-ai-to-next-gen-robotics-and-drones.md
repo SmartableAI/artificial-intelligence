@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Fc63859c0-b077-11ea-bbd9-ba8097953569&client=amp-blogside-v2&signature=c1f0ae934e2f05a34eb345340dd498593deb2a1f"
         width: 600
         height: 350
+        isCached: true
+  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
+    excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
+    publishedDateTime: 2020-06-18T06:48:00Z
+    webUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform-11592460810933.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/06/18/600x338/2019-05-02T235750Z_1_LYNXNPEF411N6_RTROPTP_3_EU-QUALCOMM-ANTITRUST_1557729739970_1592461254375.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
     excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."

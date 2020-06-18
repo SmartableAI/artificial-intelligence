@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-17T18:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,36 @@ images:
     title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
 
 related:
+  - title: "SAS and Microsoft Partner to Democratise AI and Analytics"
+    excerpt: "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ..."
+    publishedDateTime: 2020-06-18T07:31:00Z
+    webUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/"
+    ampWebUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 74
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg"
+        width: 696
+        height: 452
+        isCached: true
+  - title: "SAS, Microsoft partner to further shape the future of analytics and AI"
+    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies’ shared vision to further democratize AI and analytics. “Through this partnership ..."
+    publishedDateTime: 2020-06-17T17:33:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/SAS_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-SNG_177207662/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
     excerpt: "Microsoft Corp. and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable"
     publishedDateTime: 2020-06-15T15:00:00Z
@@ -75,20 +105,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "The AI Eye: Microsoft (NasdaqGS: $MSFT) and SAS Announce Strategic Partnership and HPE (NYSE: $HPE) Announces Edge Orchestrator"
-    excerpt: "Microsoft (NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
-    publishedDateTime: 2020-06-17T18:09:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/06171AIEye-MSFT-SAS-HPE.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 26
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
 secured: "rWtB8zGkZDqgGKnCistf+qUKL3Kn/qZXIjj8m6SHSqI8n0OZx3YooDDliIaBjDsiLfwGBDsuik4nMmUGrBqUXD8Rbslxd5noidc4V46mF6TJNWFAUOYgD7fUrcuhnCSR1W4lCzj13h9RwpgIpWyYe0twupjz1E5uhWONdCC0QoJco1kI3ES5n1JtUA7nOTcdqBN8h9C0L8cu+ZmMMZf/UpK13h5h0+6ZPxCzM77LY2q3niv3+1YvNR9njND7A2qKC3lDIJI6mx1HJRdrgodrq9Wq2IN4d+5Y6RXJjIsuuglP87kbi2U/RNdlOI8a8MMwllcNgrzBKPjkxlJ2E6r94g==;vOgUmLOCfMEtvf/TY6DoMg=="
 ---

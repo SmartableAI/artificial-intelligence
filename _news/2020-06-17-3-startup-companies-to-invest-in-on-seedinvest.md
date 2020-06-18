@@ -1,29 +1,26 @@
 ---
 category: news
 title: "3 Startup Companies to Invest In on SeedInvest"
-excerpt: "The era of equity crowdfunding has arrived, and to that end, these are three of the best startup companies to invest in today."
-publishedDateTime: 2020-06-17T20:31:00Z
-webUrl: "https://investorplace.com/2020/06/startup-companies-to-invest-in-seedinvest/"
-ampWebUrl: "https://investorplace.com/2020/06/startup-companies-to-invest-in-seedinvest/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/startup-companies-to-invest-in-seedinvest/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Have you ever watched the show Shark Tank? Great show, right? If"
+publishedDateTime: 2020-06-17T22:14:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/startup-companies-to-invest-in-seedinvest-1029319531"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/startup-companies-to-invest-in-seedinvest-1029319531"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/startup-companies-to-invest-in-seedinvest-1029319531"
 type: article
-quality: 42
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2020/03/seedinvest-logo.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-    title: "3 Startup Companies to Invest In on SeedInvest"
 
 related:
   - title: "KT to invest $41 million into Hyundai Robotics"
@@ -43,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "r9fXHVkqV0y7yDo4+y1W2Abee205znzaR3+TQ8rz+UpNkrW8rGJwdafP0hNMpnprlUlSjnVLsZ1+bbIzEBAQOtVW9G56+C8PISArnO9tY2Q3WkLUxB45U7zSDck6DCrtSEg1hzDmcVpcryKdiXRFSdSSBp4Ufz4+PSaLSa6l1hUhuam0VBl7hIVHxnG6uJkd21LuHDAhWhX5n/WmpwhF5+XQb2E2bdzTg8m3OvaREUxaC+BYbMmcOzBOg10FsUebpQQ1uBsUPJwm5ORADeh0T2jaTpTSRmXYaXYELZkx7vIgzupJSOKqQvp0gD6mjFY1R8fMqBoCAygin66HSb4vZKc4Wo/Kgq7yHuzOqR82zNi7U6efD22fw8/hD5YjmHEEMhpe0ZLSkqwmKjAOmoqu7JJ6yedRvkx/vg8FLxRdxBMIv3g7DayjQ4cXgFC26RnP2+fcM0FL1Zh5E0C5IgE+cu5WPO+ZZieW45YFpxZnTuH+aTZbnyHA8dCc0Ws/Uu1BCDjaw4HucijjSk6qF8S9kw==;DtiFq2OuA5GLmucG5HXVgQ=="
+secured: "7n4tnOJPhD4vc8cUqx11RKEsWCYusIzDPuzm2GYKZHfumYRRIvKqueDAjqpYAWyMk1hrpildVNfRxBtRRQQrRrgtxX8M8BOTymBK4YukipEixXVZ6frYj9iDxkjQSMBxFXxGHC6/zGb9bG1p95XsqXkmDzQ9P5FVVEmoua3JVuBOZeu3VIZioJz/AwUxf5kDykIqtDo2TwRvfXMjTymWvp6NebP7JED4VRBa9/4M2S/Ry/iHkXwAt1yfTZ31mFw7dGv7CVhScsksjTopfHx6EktfTEdjNz83uzxcCM4nJiTMHKcm5fT9rBEhm5dv2RIIHtUbcMpc+uCjd1fuGp0dUX9ZhhtOlDXu0iNGJE5V8rQudUzdIB7rV/2qHSHZmjSiIbR5bA1SUbWasLOAKRpiuZB7KI2PEq+Hk8KRMs+NlYZxJPyxRQWaaWZ13kYRlEpMSfT4v9vEU3T4pkJdEzUtfvQnrhkcG1IQqXeGiYg8+uexT/WA9V04YmzTiuj/jKAwkJrbSNd3RvIeWITxopay0A==;CnNy20ksjs8lCfDVI3MB4w=="
 ---
 

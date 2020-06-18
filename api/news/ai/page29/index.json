@@ -2,6 +2,53 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
+      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
+      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
+      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
       "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
       "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
@@ -1217,45 +1264,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
-      "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-      "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
-          "width": 1333,
-          "height": 698,
-          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

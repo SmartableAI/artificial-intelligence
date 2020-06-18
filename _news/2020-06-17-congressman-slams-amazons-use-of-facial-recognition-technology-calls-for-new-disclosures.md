@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-r
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Silicon Valley has admitted facial recognition technology is toxic – about time"
-    excerpt: "IBM and Amazon have withdrawn their products, citing the software’s use in racial profiling"
-    publishedDateTime: 2020-06-13T15:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/jun/13/silicon-valley-has-admitted-facial-recognition-technology-is-toxic-about-time"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/9ebcf6ef9fcd40d37e487aa228b8eb9e2419afa7/0_232_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edc87d8e28beaa42bee0f8521c05b1b5"
-        width: 600
-        height: 360
         isCached: true
   - title: "Amazon is banning cops from using its facial recognition tech for one year"
     excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Office Market Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
+    publishedDateTime: 2020-06-18T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-methodology-emerging-trends-and-forecast-by-2025-2020-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

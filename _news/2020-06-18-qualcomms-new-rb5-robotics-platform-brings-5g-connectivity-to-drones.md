@@ -89,6 +89,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
+    excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
+    publishedDateTime: 2020-06-18T06:48:00Z
+    webUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform-11592460810933.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/06/18/600x338/2019-05-02T235750Z_1_LYNXNPEF411N6_RTROPTP_3_EU-QUALCOMM-ANTITRUST_1557729739970_1592461254375.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Qualcomm launches ‘world’s first’ 5G and AI-enabled robotics platform"
     excerpt: "Qualcomm Technologies has launched what it claims is the “world’s first 5G and artificial intelligence-enabled robotics platform”. (See video below.) The company says its Qualcomm Robotics RB5"
     publishedDateTime: 2020-06-17T13:05:00Z

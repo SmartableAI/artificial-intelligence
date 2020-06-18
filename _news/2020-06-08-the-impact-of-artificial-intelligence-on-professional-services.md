@@ -3,7 +3,7 @@ category: news
 title: "The Impact Of Artificial Intelligence On Professional Services"
 excerpt: "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law."
 publishedDateTime: 2020-06-08T09:37:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services"
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 type: article
@@ -20,6 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "O04af8S22qlrmCMFSsHJD9bogSVaTYycwtLrvc0bD90G+1L+bAWlf64EP6QYgCKYPUGrXzZ3RsGlfUDva1Qyj/2rVMh/m9KLIxx8FB8pIdJlgqGtY/6ZroIJHciv/9zRnehhwiGg5IDhTiJ/GtinzmvIe+DxtvBG4PAGXFtAlMyR+YjtQrx1z/FBR7ZHMpzp0dZ+1Di5Pv7Vafk3kE0s5eU3L8e49VvcI+83Gx16XgBbiaqI2P98n8ycbwDxjc4if3MqrOAQcarhhX0t2XQXhj5F8WvmJXibB5pyHGcphRNItNh3aJLjS3G0gNBrXGwIrjJCr7xkz3mE1gV67T9srkH0HuUTCui5SMnspcncjl+yr24FikTGZdR+OrLXDBtNg9vxM4jTLUUY78UQuZ1e6XnaERJuNtfYrV1e1tcp3cxu96c2oBG9Xn8H2ZcJL/JSD9m5HMOLpIgY9LS3b8gWTj/OEkUpi1pysggk7kgfxnzAcKjkRRF1k33Fu/e4YMhNjtMqwxtSYNTpJYGpsreNJA==;9DzchoMXG7/INzu0g9muBg=="
+secured: "iNJOZUtqf6y0dxevYs7QGCWgT969yVLtuE7r2JGe35oDDT3PiuDJFbx7iK9KiT8OK0GEswJK8c22C3DC3ytiMhFHO1y4ExGhWBhet5skx+Jh0kFz3eGJsSfuNPsMNtLsT1uLA6EUdNzdfitpM2oD+TdUt684qeh9MmqqloXZeG2U0KvIoFXWrLMxWt62ZUKRYCxfhSShEHipN+qGfaygyJcFVJ22aio24bFZyAmbYaSA1/Etz/+H5u6Dx6Ip0VCCSW1IeVni4EWIT7/qhY5hqsnDMfjt7Zcd1cLQkfiDT3QE7rqZgMiSWtJ7rDOYRwaGpP6R7pH1hfO0nlzgR/4FHdG3ceHRkGcceojt9LbVSFxafSeYimCC80KGHR9E9gzgp+ociBywNrozRP0Yhioz+SdmIrFkCkTcPA0GfVF4T/hvt/z5nIMKKkdjeGpDPWgfMOCQw5VoiyMVSvcvgQznVGleFOYm4sf0Nqqyeo17+2cOlVF/7Hsyj4s5jQntC+AY+TNBjtomrFbKWY9HnPt/AQ==;OXKXAo8kKfl47Wrrc4nD9w=="
 ---
 

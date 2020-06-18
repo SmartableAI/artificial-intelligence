@@ -57,22 +57,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Tech companies push for nationwide facial recognition law. Now comes the hard part"
-    excerpt: "In a matter of days, there was a sea change with one of the most cutting-edge and controversial technologies in Silicon Valley. Three tech giants — Amazon, Microsoft and IBM — all said this week they will not sell facial recognition technology to police."
-    publishedDateTime: 2020-06-13T14:41:00Z
-    webUrl: "https://www.cnn.com/2020/06/13/tech/facial-recognition-policy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/13/tech/facial-recognition-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612145456-satya-nadella-jeff-bezos-arvind-krishna-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facial recognition tools under fresh scrutiny amid police protests"
     excerpt: "Nationwide protests against police brutality are renewing scrutiny of facial recognition technology, prompting tech giants like Amazon and IBM to scale back their sales of the software to law enforcement at the state and local level."
     publishedDateTime: 2020-06-17T11:00:00Z
@@ -176,6 +160,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YjOJbiIU9tYOax5Me8pSZj0G5ZrPSJTVuhQG0UB39MOLKIyT9MFeGReB1tW8RJlu1j7yMpbtiRyCDuhghukh/BigMCELbJRdyvYaOc2S6ppUg4+1aidQOh8UB3USdByB2F38lzkAVszL19h8kHX80UASm6F72hqkeAg/hmKv1nBvQR+ChB8azV+2OJ/zBvRcWqZFVSGsq2OAQJOJej4lBGFn+oKMuCS51ELWpOcINNfWJgik1l9lNx4sFujhM1+nLVrZTn9XW8G0eA68jiD2nr1HY4j93xc7/OA40Z6b3dhnqDHj9xHv2gQE9DYnUmzSuz0W4/NfIYCiZY9nghzKMg==;t9MHGtT9v714N3m/6/lnQw=="
+secured: "N18UYZWFrPjJBB07A4o+CKWZ4IYTq5UULH0jCFRy9wNacQ+bpW/6yG3wegofAFZ9XZQU4nk5NmQXoj42yJ3iJXQWjQ6P9M2KMuUPBeNbL61n4g7AjgsXmmj8z0cNW++4o/XACweCzuKxP7ijNo/u3sFU2OWaUgcPCemFpG4E/RbN/Uirp6ECNNReyKuYNs+YvYLbF5vjVRlVkNzF7sIDnm7LUvU2o9vkPd/pNS7n9iW5HzYcSGBnV2cs2AyTpCWDBYPOu/UPibe0hJHdGZWolaR8/ULN6KnM9tcaMrLre/ft3sJBpEobmruzc9ZBDf/kA95Img1jx6phbMtPV0LCIKeuAePefKQYXJg0IGapdIsg1mP5FPuTm+MBGiqy9VKpgn5GMhwHufgdVikM8W+dGm7b4WKpkEA45EN5jYH67cPB0zd+nw92JSgIdYfcA9YXUwT1rKM3avJH33ZV6w+k07Jo1/EOz8w55csObhkrdHQQY8ke6z9l1dkyneMuDLIBiI6JSEItYTOBH9m6EtuC7g==;fHt0TB+vFCA7RY0kaM3YNA=="
 ---
 

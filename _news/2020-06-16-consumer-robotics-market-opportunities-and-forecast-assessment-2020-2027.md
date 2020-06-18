@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -152,6 +152,17 @@ related:
         width: 383
         height: 250
         isCached: true
+  - title: "Coronavirus (COVID-19) Impact on Artificial Intelligence (AI) in Insurance Market 2020 by Manufacturers, Type and Application, Forecast to 2025"
+    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on the Artificial Intelligence AI in Insurance industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects on Artificial Intelligence"
+    publishedDateTime: 2020-06-18T04:04:00Z
+    webUrl: "https://www.openpr.com/news/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "0piwhuziatIgvBc74xp2CC2/xsPin6nU/gkF1cNHRVbU3K2PxDTcn0+Iz08QCobVu635Vv9F2HIoOoJITNVI5lhLe4iT6RHuSJ5GwgShLbjgqVzLWxiNTb80oqOXwgCFCap2lDpSNeL+yh4nI00bYk0gi9+dW3olzaD0myIVu0vgaSGsb1UU/3zYIH4wmlYPdlqgdNP4MSrqA88ahGX1pJMdfHAtTunYJC+ZTrSIOklKIxK4g8QmHpeZb63eMZmN/Vcd1L0sl7n3hXGg0hMXNxgCfFhf1L2D8l6xLRt2w/Sxv8mcJ3hmrK6Jxjg/Ckd8rG9IL5ffTVAd+88UidKJBg==;4L9gMFJ4/kvtvLvop1Qvbg=="
 ---

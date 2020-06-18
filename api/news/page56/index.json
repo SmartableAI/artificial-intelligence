@@ -2,6 +2,44 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-05-03-cisco-and-microsoft-partner-on-iot-device-connectivity.md",
+      "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
+      "excerpt": "With this arrangement, services such as Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to quickly build IoT apps for the enterprise, Shakib said. Additional telemetry processing ...",
+      "webUrl": "https://adtmag.com/articles/2020/03/05/cisco-microsoft-iot-device-connectivity.aspx",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F1UEM.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "adtmag.com",
+        "domain": "adtmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
       "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
       "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
@@ -1084,53 +1122,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
-      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "publishedDateTime": "2020-05-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

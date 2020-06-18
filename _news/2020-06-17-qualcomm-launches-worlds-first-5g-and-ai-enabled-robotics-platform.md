@@ -82,6 +82,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
+    excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
+    publishedDateTime: 2020-06-18T06:48:00Z
+    webUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform-11592460810933.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/06/18/600x338/2019-05-02T235750Z_1_LYNXNPEF411N6_RTROPTP_3_EU-QUALCOMM-ANTITRUST_1557729739970_1592461254375.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
     excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
     publishedDateTime: 2020-06-18T01:39:00Z
@@ -97,6 +113,6 @@ related:
         height: 853
         isCached: true
 
-secured: "hxloGSNfgQWfiid/7pxcDeqA/WD9FI7lmVivgxrxcoKigPntwVIUHm67fQ+Y40CpTvir2UXoumvUV8x4CFvUfQEZfx+hJn4dklE55ufdkmzS/gKllnqTg55BK4Tn+rPxI7XQyT+Iza9NmHC2oKU/zNjP3cMLyRLSkxAu4IpVAWy7Ztal1AAc0nFoJv/8S9w3fo4YC6/+GrLwSG8PGtiqdgXqz7eHBwJ7Ylox8//wA+ars6UXvVmgRkYVFshXSlJV4hlM46oq0uxQakxoJBMkWATl0/1mXVoplKFJg57s+MAZ4p2EsxEezqvdHlw48K5LQpCMBH5+PLeB7Wm2igzbXXVcjG1oyuehIzMl59trrvEfrtO64r3r5wINisqk7Zzen7aQqkb99YAXQd/nQJGF+Uty/rioUMxthMBsqnxAYfJLkN1iDZ4xV6LCq552ijFvazFvyE1UM32PNVO6Z25W+EsQ3iDEBUtHGvzu1nAaHnTPoEW2Mag62kCEi1Fsg8USNDEyXhJTOPWB/sUwPXFwoA==;WS4MHrYqD7Iu7a3bheYlsw=="
+secured: "vk7BtVv1hecTu2RejDz1jqhTgXqcBjZwTGAiX2Kp4og+ZwbA9rgYTJTJh7n13CwEY3wZo/4o3c0GAsyiFHH2mwvG25whn0rL2wvWBD0V8+dzvENnJQvHiFfIJFyyLGcyX1bicz0HZJqc5FLAq6TnbiTd30HBi2yiBu3FLtEot2TzK1X6yzg/8IRRjC3HHPrSg8VaRCycAcUZhaa9SBQQWkP+R136BoW2K6HOfCTqK3s+UtxOxcn+Hk677BdJqsuTeovc8HC2SuA4YYv4UFRx58Joc2GUxF6qjd1AlO5aKTosuM3kfY+LommAABmQjbgybPXcMyUWp9TekSJC3Ce9NpK3c3Md8cje1mxwr58CKNIsHjue5hd8sg7leAgshwdja/ZUojzNyEQTPEArm2qom1oKfh8hOLwfNqVE+UGkvbw2Wz29vxcEq9NNvuu0zNByMLg0sSO6DVOxV6Y1s2LgveNixS79B0QRcfBQAjcV+MF7WwImQwQGY1R+QC2F5/SpG3Bpk1Oh5uw3wEOVAmlxGg==;TGT6ObCZ/nQVdtE6RfX87Q=="
 ---
 

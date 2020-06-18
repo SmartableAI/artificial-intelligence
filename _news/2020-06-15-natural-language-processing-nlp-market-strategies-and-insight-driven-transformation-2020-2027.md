@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Office Market Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
+    publishedDateTime: 2020-06-18T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-methodology-emerging-trends-and-forecast-by-2025-2020-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
     excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
     publishedDateTime: 2020-06-17T09:32:00Z

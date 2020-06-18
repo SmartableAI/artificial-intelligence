@@ -2,6 +2,44 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-09-google-io-2018-the-10-biggest-announcements.md",
+      "title": "Google I/O 2018: The 10 biggest announcements",
+      "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
+      "webUrl": "https://bgr.com/2018/05/09/google-i-o-2018-recap-top-10-biggest-announcements/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2018/05/waymo-google-io-2018.jpg?quality=70&#038;strip=all",
+          "width": 1920,
+          "height": 1080,
+          "title": "Google I/O 2018: The 10 biggest announcements",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2018/05/09/google-i-o-2018-recap-top-10-biggest-announcements/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2018/05/09/google-i-o-2018-recap-top-10-biggest-announcements/amp/",
+      "publishedDateTime": "2020-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-waymo-self-driving-cars-hit-the-road-again-in-phoenix.md",
       "title": "Waymo self-driving cars hit the road again in Phoenix",
       "excerpt": "Those residing in the metro Phoenix area will once again start to see Waymo's self-driving vehicles hitting the road. On Thursday, the Alphabet Inc division said it will start redeploying its autonomous cars starting May 11.",
@@ -1241,35 +1279,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900-mln-to-help-develop-robotaxis.md",
-      "title": "Intel buys Moovit transit app for $900 mln to help develop robotaxis",
-      "excerpt": "Chipmaker Intel Corp INTC.O has bought Israeli public transit app maker Moovit for about $900 million to help it develop self-d",
-      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
-      "publishedDateTime": "2020-05-04T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

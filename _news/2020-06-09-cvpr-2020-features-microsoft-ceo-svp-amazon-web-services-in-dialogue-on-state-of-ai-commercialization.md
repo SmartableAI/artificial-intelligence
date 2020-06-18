@@ -1,26 +1,19 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning."
-publishedDateTime: 2020-06-09T11:15:00Z
-webUrl: "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4"
+excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
+publishedDateTime: 2020-06-09T11:39:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-
-secured: "s5zlJx6+y71/1eXbcVp06l8j+p2Gns15GepoCKCrqRna9hWreC/l3OrmrxtLGJKICw4uWGkowuSzLr3rgU8I5INt+uUwzSxt/GBHQPczcRdcv/mZOSaZVJiB7Yny/GxI4aohwW3Z78RYpYAJLGSjk1Wl3szI9KpwGFExlYKBU8o83NkYjRfsrYX2Qv7GXQjM9ybSVx5CIpd1XUWQEQMDgmg0WRIS5Ml+9p1avn/mdfEg3Ey5JkTpEfG+spZh9ZKLPORmn7H1VwsSuFaLUDQdbV1fxTOonzaHNflr6/XsFZxijaIX00LjIEjt8lvv22BdSogUTe4jEixrxecCnWWd1g==;+cFx5udjvzbriOTmnixzMQ=="
+secured: "dbBrwqDaH1e+CltBgnMwy6Ntizex9u39GVVHMZcTVCX8PNzwaKDz1JAZEt+DCh+o2Lj7YWPNbFUehsJj4uk3M4N0bdvfySbiM9smuSuWiHBm1GO0/4gocsEdFsp8TP/3ACr66mUDosUotvnqFwRerseAs+/ROoIxHYjI7vVjicKnnO8J84Z3dupcgxtZUWjCXwdp4phuLMidV1qbcG8G/RZwt7qv/ddqgyVUjC70VaxTDMrL03sFocFGFv+wyExpVwHHjuBmzSaMTjv4VeTXwbFj5C327jQzAHz0jDmV2qo+5LJQTpoB47eYI6eJ6KOtN5SmoXYmnnfAKZZTTOu3tg==;zz1jYPqNAm67tV4OF9lung=="
 ---
 

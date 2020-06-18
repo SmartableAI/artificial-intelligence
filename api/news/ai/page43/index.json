@@ -2,6 +2,44 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-06-united-states-image-recognition-market-will-take-the-highest-jump-during-2020-2025.md",
+      "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+      "excerpt": "\"The Image Recognition Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Image Recognition volume, market Share, market Trends, Global Image Recognition Growth aspects,",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-women-wanted-why-now-could-be-a-good-time-for-women-to-pursue-a-career-in-ai.md",
       "title": "Women wanted: Why now could be a good time for women to pursue a career in AI",
       "excerpt": "AI is on the rise during the coronavirus pandemic, but more women are needed to get the industry where it needs to be, according to a new IBM report.",
@@ -1307,44 +1345,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test.md",
-      "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-      "excerpt": "Oregon State University researchers have used a robot vacuum cleaner equipped with behavioural patterns inspired by the personalities of three characters from Disney's 'Snow White and the Seven Dwarfs' to demonstrate that people can guess a robot’s ...",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

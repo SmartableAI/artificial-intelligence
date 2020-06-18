@@ -136,6 +136,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
+      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
+      "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-covid-19-impact-on-neural-network-software-market.md",
       "title": "COVID-19 Impact on Neural Network Software Market",
       "excerpt": "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -1269,52 +1298,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
-      "title": "Nanox raises $20 million to scale its AI medical imaging system",
-      "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
-      "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/565d38a9-02a3-4ac9-9e24-fee9c3b9094a-e1579032983901.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Nanox raises $20 million to scale its AI medical imaging system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "publishedDateTime": "2020-06-04T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

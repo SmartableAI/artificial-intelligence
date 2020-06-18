@@ -151,6 +151,17 @@ related:
         width: 383
         height: 250
         isCached: true
+  - title: "Coronavirus (COVID-19) Impact on Artificial Intelligence (AI) in Insurance Market 2020 by Manufacturers, Type and Application, Forecast to 2025"
+    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on the Artificial Intelligence AI in Insurance industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects on Artificial Intelligence"
+    publishedDateTime: 2020-06-18T04:04:00Z
+    webUrl: "https://www.openpr.com/news/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "Nqj7zG6Jj9yiguNaNcoDYQCNVTTirTGVVigXRvgC4jUyuNN6Q4kSWFOvP3+dqGGkVsNRAkADlNKRdQlyL3zXGt4fODBMdxNmNT0sNlxWxqwLlSEndH1779shYcT8cTiJpCa6vnQYeK1J1V6LSzjnGN7ddmSbM6FDoeI0eFihRm8KGG8EVUOYwaLcd+su7f+DRJw6IxyG7IR0+0J1kE/chEsL4/8YJRIRIE5G2O19JFqFwYrr1kp3nzv20stK72WTohVc7OzcGQ7QHJUdcMN/N6qGCpTY1S6HhpqDOt5Gdx5h7wEobmhsaJNSAmC6UHUn2ewCO3VXNHjMFST/8y3PPA==;RwDQtMdBZ1KKq7PqXjej3A=="
 ---

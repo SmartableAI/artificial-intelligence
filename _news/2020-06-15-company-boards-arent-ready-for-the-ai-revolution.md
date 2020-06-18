@@ -3,9 +3,9 @@ category: news
 title: "Company boards aren't ready for the AI revolution"
 excerpt: "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,"
 publishedDateTime: 2020-06-15T10:41:00Z
-webUrl: "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution"
-ampWebUrl: "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+webUrl: "https://www.techradar.com/au/news/company-boards-arent-ready-for-the-ai-revolution"
+ampWebUrl: "https://www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "xG4PsyQf7xN1vH4fSC9tsasTumhMbihcz3mhWHsqIk7wIcxwB6HroBrn5cQ247FgMX8P/L2CtBfAQVc8+mVjk5P021n18sgUSGy+Clz/zzA7h0kXemxJeO0mRLw3uW3f2fIe+4MDtSCiEhIld23/iRDUVP8NdFf8BjRAMtUdA0GWpfry68nMvuBWaD1LxSXfX6Q3FfL/Bf6DRBsjcJqdnnwrkiKIFGTI9iKVDEfsCz1ZR4n4cbdhq94wwzsiZLLfzQhkeOfhlklEZQK6WVVoPT5Z1Obnzvt83CBFQwpXbIGvZStloI+fEzoH5ND+mRCYu1IB0oeUZG0TG7t1qsCDqg==;gdcO6zzBHA2mNhgzyIj3iA=="
+secured: "X6qqHLFtUH1eoRFNToppFU/zWhlNF/jm7rEZcO+j91lDQQmRgm09PBlHU7GGnmg3Nxym4X4zMgbL8NDMEA9dsxK/MmVIqb1HLYMm5jOy3D1EZOpfkpuziUyfmYBIZbUT3hs5l6/ZENTi9Pi/qdKwGtkdKHy/ce6MfBHuka+MHv4R4KPbSGSMs+DOCHd+lgL4M7orjo3koaioDAeIILCbppUZAH3ZSEKDyTpc4mHas7PC8ELAXFX31E8GPACKvTsVLduReWOCc+bLaILVhKtUKGVmzfrLZqGY+kUhg/V/N1lHcQtN6Hyt7Zz149Ua6CcfbV5gy03AZCocCaHlWJwQRw==;0FB38yU50a0UAj3j+ytRBg=="
 ---
 
