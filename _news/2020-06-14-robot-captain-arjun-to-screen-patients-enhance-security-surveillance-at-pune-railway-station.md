@@ -8,8 +8,8 @@ ampWebUrl: "https://www.india.com/viral/robot-captain-arjun-to-screen-patients-e
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/robot-captain-arjun-to-screen-patients-enhance-security-surveillance-at-pune-railway-station-4057582/amp/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: India.com
@@ -27,22 +27,6 @@ images:
     title: "Robot ‘Captain Arjun’ to Screen Patients-Enhance Security Surveillance at Pune Railway Station"
 
 related:
-  - title: "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station"
-    excerpt: "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday."
-    publishedDateTime: 2020-06-13T16:44:00Z
-    webUrl: "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/"
-    ampWebUrl: "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 66
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg"
-        width: 715
-        height: 402
-        isCached: true
   - title: "Robot ‘Capt Arjun’ scans passengers at Pune railway station"
     excerpt: "The robot is equipped with motion sensors, one pan-tilt-zoom camera, dome camera which can track suspicious or anti-social activities The Central Railway’s Railway Protection Force, here, has deployed a robot,"
     publishedDateTime: 2020-06-13T17:16:00Z

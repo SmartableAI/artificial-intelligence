@@ -3,7 +3,7 @@ category: news
 title: "Under new regional leadership, AWS ups partner ante through ‘customer obsession’"
 excerpt: "Enhancing partner specialisation levels through working backwards from the customer stands tall as a leading priority for AWS in 2020."
 publishedDateTime: 2020-06-18T06:00:00Z
-webUrl: "https://www.arnnet.com.au/article/680649/under-new-regional-leadership-aws-ups-partner-ante-through-customer-obsession/"
+webUrl: "https://www.arnnet.com.au/article/680649/under-new-regional-leadership-aws-ups-partner-ante-through-customer-obsession/?fp=2&fpid=1"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Under new regional leadership, AWS ups partner ante through ‘customer obsession’"
 
-secured: "Pv/hqWllI0f4Gu1ZUUIG0BqEo05SHhYIy8plbCMt23vkbNeTp5P6yrjLTb5zpd2oJDldspQ0YiYARAURAlxnBfKFmQSO9Si3RNvYg8Prf0CjYNSo8ktUBhy5VZx9kXkKgCh7uVRJ+T7etQFZjZ5+iAHDvAFstO0Vi69M9egAByHdTgaQmMVcWb2yvQtLTvSb9lISLGfopr8wQtklMYkdkwSuWmH9dKFJhOCSb9Er9yeb0UR5/Ti2Q7VkbA1DwxBP7SnLmw/eOClfynCXiQSVkW4ptjQssuBQtzd41H2odNn96R5sQJArrvda51HJO+hNuifeSHpSZLyvtn63Fu5iLw==;0X1TKkxY/SRH/ho4uD+AGQ=="
+secured: "nYmNJeOjZFMY5IiOX0+jhq70O+taAsUsk0Xzgk+z5fFR5OUr14Nvn83SOOsQCtvKFajE+LY77RQwzs30znYJ1NnTq8EybT/kmYBDVkNkGY6m+O+PsEVsXup4MlBi8Yrn7PgAZhjPRh7eoeARFY0l7ecdXKwcYrWEvExHF3GgaRYhlvYR5ElXFXVew3MIbgOtAJuJNdZzeLGovKCTZxcpQH/Fc0i2fhk6rssINYyYoztBs2PWK/Josc0xUwpQbvXObRgSZ1dpcXYUYQ+gyiQ+BYTCkwbQt8zDoPPzXACvuFo6oGdTUBZbfcdU6GuPSHBinTWZCtLo1iLGcduVKeuHog==;aF0kls/4AkoZqqZFkuNI9g=="
 ---
 

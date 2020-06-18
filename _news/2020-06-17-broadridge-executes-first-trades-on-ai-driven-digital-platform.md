@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-tr
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 2697
         height: 1414
         isCached: true
+  - title: "Broadridge launches AI-powered digital execution platform for next-gen liquidity corporate bonds"
+    excerpt: "Jim Toffey, CEO of LiquidX and Vijay Mayadas, President, Global Fixed Income and Analytics at Broadridge, lead LTX with the support of a team of fixed"
+    publishedDateTime: 2020-06-18T07:54:00Z
+    webUrl: "https://www.leaprate.com/forex/liquidity/broadridge-launches-ai-powered-digital-execution-platform-for-next-gen-liquidity-corporate-bonds/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 6
 
 secured: "VDqWhLPtQ3BszDZGkeLpTrbvm7//LipAeo8s2vufp3F838uRtwYF8dmcwAFKajYd9HoVCqagVc+Nflp32AMX1y2UspTpFFm1Ih5R8clwmxK+U6Jmr+yHXGyWNfhNYdgFqZNkjPD6XPl+SsDanr2ZwbE1vTaZ6kyUv5HQxvAQtDAv4n9uGwPkzZKwusmBqcwYpLcQIxoQKmttki0dgd77tn4s4VxDL+SvZwm3/xu8idZUTdIzIm1voaIW6ltjGUYD+ys7xyBDmMoDHPnTVQzBKFq6JX5GVSn8BKp9aH99l8iGWo6X8SXrdmdu9+2kdzm5vLDmoYFbuX1E5P5nhlSW8Q==;Mk/R9+BU4x/mpxjOho3w4w=="
 ---

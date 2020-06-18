@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T06:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026"
 
 related:
+  - title: "Artificial Intelligence Software Platform Market Analysis as per the Latest Coronavirus Impact Global Analysis, Share, And Forecast 2020 - 2025"
+    excerpt: "The global Artificial Intelligence Software Platform market is segregated on the basis of Component as Tools, 1 Natural Language Processing, 2 Machine Learning, Services, 1 Managed Services, and 2 Professional Services."
+    publishedDateTime: 2020-06-17T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-platform-market-analysis-as-per-the-latest-coronavirus-impact-global-analysis-share-and-forecast-2020---2025-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
     publishedDateTime: 2020-06-17T15:14:00Z

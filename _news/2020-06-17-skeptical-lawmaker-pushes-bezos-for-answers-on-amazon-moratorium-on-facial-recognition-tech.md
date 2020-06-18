@@ -31,37 +31,101 @@ images:
     title: "Skeptical lawmaker pushes Bezos for answers on Amazon moratorium on facial recognition tech"
 
 related:
-  - title: "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?"
-    excerpt: "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done."
-    publishedDateTime: 2020-06-13T16:36:00Z
-    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/"
+  - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
+    excerpt: "The released documents come a week after Microsoft announced it would stop selling facial recognition to police."
+    publishedDateTime: 2020-06-17T17:03:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 118
+      name: CNET
+      domain: cnet.com
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-        width: 1200
-        height: 675
+      - url: "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg"
+        width: 756
+        height: 567
         isCached: true
-  - title: "Rep. Jimmy Gomez on the future of facial recognition regulation in Congress"
-    excerpt: "Rep. Jimmy Gomez (D-CA) spoke with us about facial recognition regulation in Congress as Amazon, IBM, and Microsoft pause or end work with the police."
-    publishedDateTime: 2020-06-13T16:48:00Z
-    webUrl: "https://venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/"
-    ampWebUrl: "https://venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/13/rep-jimmy-gomez-on-the-future-of-facial-recognition-regulation-in-congress/amp/"
+  - title: "Microsoft pitched its facial recognition tech to the DEA, new emails show"
+    excerpt: "Microsoft tried to sell its facial recognition technology to the Drug Enforcement Administration as far back as 2017, according to newly released emails. The American Civil Liberties Union obtained the emails through a public records lawsuit it filed in October,"
+    publishedDateTime: 2020-06-17T17:06:00Z
+    webUrl: "https://techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/"
+    ampWebUrl: "https://techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/17/microsoft-dea-facial-recognition/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1080200068.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
+    excerpt: "Microsoft pitched its facial recognition technology to the DEA despite its concerns about selling to local police."
+    publishedDateTime: 2020-06-17T19:00:00Z
+    webUrl: "https://www.engadget.com/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/rep-jimmy-gomez.jpg?w=1200&#038;strip=all"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Fc415ef50-b0c1-11ea-afdf-74c4c00c4ba4&client=amp-blogside-v2&signature=fd77c8cf2ccdcf1d3c77b7ed2bd56b5f8a76294d"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Microsoft pitched facial recognition technology to the DEA as recently as 2018, newly-released emails show"
+    excerpt: "Emailed released by the American Civil Liberties Union show Microsoft as recently as 2018 pitched its facial recognition tech to the DEA."
+    publishedDateTime: 2020-06-17T18:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-facial-recognition-dea-federal-law-enforcement-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/microsoft-facial-recognition-dea-federal-law-enforcement-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-facial-recognition-dea-federal-law-enforcement-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5eea569b3ad8611169556a34?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Documents reveal Microsoft pitched facial recognition tech to drug enforcement feds"
+    excerpt: "(GeekWire Photo / Kevin Lisota) Microsoft has long cast itself as a moral authority on facial recognition, calling for federal regulation of the technology and pledging not to sell it to police, a practice that has landed rival Amazon in hot water."
+    publishedDateTime: 2020-06-17T17:50:00Z
+    webUrl: "https://www.geekwire.com/2020/documents-reveal-microsoft-pitched-facial-recognition-tech-drug-enforcement-feds/"
+    ampWebUrl: "https://www.geekwire.com/2020/documents-reveal-microsoft-pitched-facial-recognition-tech-drug-enforcement-feds/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/documents-reveal-microsoft-pitched-facial-recognition-tech-drug-enforcement-feds/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 83
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg"
+        width: 630
+        height: 450
+        isCached: true
+  - title: "Microsoft CEO Satya Nadella warns of fallout without ‘strong national law’ on facial recognition"
+    excerpt: "Decisions by Microsoft and Amazon to refrain from sales of facial recognition software to law enforcement agencies could have negative consequences long-term if U.S. lawmakers fail to"
+    publishedDateTime: 2020-06-17T14:10:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_91-630x504.jpg"
+        width: 630
+        height: 504
         isCached: true
   - title: "Portland, Maine, Delays Action on Facial Recognition Ban"
     excerpt: "The city postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
@@ -78,6 +142,68 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
         width: 1119
         height: 630
+        isCached: true
+  - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
+    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
+    publishedDateTime: 2020-06-15T17:23:00Z
+    webUrl: "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft tried to sell facial recognition technology to the DEA, emails show"
+    excerpt: "Microsoft repeatedly marketed its facial recognition technology to the Drug Enforcement Administration (DEA), according to emails released by the American Civil Liberties Union Wednesday."
+    publishedDateTime: 2020-06-17T18:00:00Z
+    webUrl: "https://thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails"
+    ampWebUrl: "https://thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/503164-microsoft-tried-to-sell-facial-recognition-technology-to-the-dea-emails?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 71
+    images:
+      - url: "https://thehill.com/sites/default/files/microsoft_062018.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Microsoft Tried Selling Its Facial Recognition Technology To The DEA As It Called For Regulation On Government Use"
+    excerpt: "The DEA ultimately opted against buying its technology, citing criticism targeted at the FBI's facial recognition program."
+    publishedDateTime: 2020-06-17T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/"
+    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203551%2F0x0.jpg"
+        width: 1200
+        height: 747
+        isCached: true
+  - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
+    excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
+    publishedDateTime: 2020-06-15T20:23:00Z
+    webUrl: "https://www.zdnet.com/video/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/15/2842b2f6-c3b0-4fdd-885c-f1e8cb08b327/thumbnail/770x578/50aa2c845215ba215117a5354dc61ccc/amazon-puts-oneyear-moratorium-on-rekogn-5ee38ca9ec931b64287ec9ef-1-jun-15-2020-16-03-59-poster.jpg"
+        width: 770
+        height: 578
         isCached: true
   - title: "John Oliver Calls for National Facial Recognition Policy Amid Protests"
     excerpt: "We should really be asking ourselves how much we’re comfortable with it being used — by police, by government, by companies or indeed, by anyone,” host said"
@@ -111,21 +237,46 @@ related:
         width: 2501
         height: 1563
         isCached: true
-  - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
-    excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
-    publishedDateTime: 2020-06-17T13:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for"
-    ampWebUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
+  - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
+    excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
+    publishedDateTime: 2020-06-15T13:41:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+  - title: "Portland council again postpones discussion on facial recognition tech"
+    excerpt: "Studies have shown the technology misidentifies people of color more often than white people, and other cities have banned or restricted use of the technology."
+    publishedDateTime: 2020-06-16T01:18:00Z
+    webUrl: "https://www.pressherald.com/2020/06/15/portland-council-again-postpones-discussion-on-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
+        isCached: true
+  - title: "Facial recognition deal off council agenda as protesters prepare to march on officials"
+    excerpt: "Contract off agenda as protesters prepare to march on councilmembers Check out this story on Freep.com:  An agenda item extending a facial recognition contract was taken off a Detroit City Council agenda before protesters who oppose the technology prepared to march on councilmembers' homes."
+    publishedDateTime: 2020-06-15T17:41:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
+    ampWebUrl: "https://amp.freep.com/amp/3191887001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/13/PDTF/dce3e240-6727-4524-926c-0278c196abf6-protests01.JPG?auto=webp&crop=2293,1290,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
@@ -137,6 +288,17 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 39
+  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
+    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
+    publishedDateTime: 2020-06-16T01:11:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
     quality: 39
   - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
     excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
@@ -166,20 +328,71 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "POLITICO AI: Decoded: Facial recognition debate makes a return — German AI angst — Feedback for Brussels’ AI rules"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2020-06-17T09:03:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-facial-recognition-debate-makes-a-return-german-ai-angst-feedback-for-brussels-ai-rules/"
+  - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
+    excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
+    publishedDateTime: 2020-06-17T18:44:00Z
+    webUrl: "https://www.aclu.org/press-releases/emails-show-microsoft-tried-sell-face-recognition-system-federal-law-enforcement"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 32
+      name: Aclu.org
+      domain: aclu.org
+    quality: 31
     images:
-      - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
-        width: 1500
-        height: 1500
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Why It Matters That Microsoft and Amazon Will No Longer Sell Facial Recognition to Police"
+    excerpt: "The companies say they will halt sales for the technology for a year while Congress comes up with legislation."
+    publishedDateTime: 2020-06-17T08:56:00Z
+    webUrl: "https://www.inc.com/jason-aten/why-it-matters-that-microsoft-amazon-will-no-longer-sell-facial-recognition-to-police.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 30
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
+    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
+    publishedDateTime: 2020-06-17T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 23
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
+    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
+    publishedDateTime: 2020-06-15T16:59:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 17
 
 secured: "o2RK48qttdBky5lqeR26IWN2b7rszA3EbLsONtG/yP+ccxW3+5AK0aCFLW3d4aCdhsu5VwfcRbfC9aWrn8URf5KNA4lZHMCCt7/Oxz7FyNLpH5UtfLCUxnkFPwbh3MSVo+r4/sMWwT0E+FM51l7NB3GtLjwLlQSzICZiKMSw+NSu3GbS30tUit8/BAv0aytqi9xHAJqHbGQPR4ZZI9W9/U40fYzQ+DJMuFOmUI6PMPm666PJdAcO/gqZ2M8d24zFELRFLsgOqDQtqhifv1js1AhDUVXo8SJGUroZZknInI+OncWZ+OYlNNHqNtPzNwSNunMr57M7V7JGPjhTGV+S+6oX9FphnqHu/2Qn2jmB4lHFzoswV2Or2gKSyGRW8ehthlObjf/IUae/xE2XRupdQZwTgQ3Tr3Y+RExkxv65+vnmdwxUdOZ3p/ccZNFhAV/SsMifEcgfdG1TNNJUri5SlQSeJ7lqhg5dXPgSKH1lWq/v6B1AdIJ21BIBcH6BkJQanmduPAIu4OW+5OvLcf57fQ==;KloQEgoB+M1CipfoaiJp8g=="
 ---

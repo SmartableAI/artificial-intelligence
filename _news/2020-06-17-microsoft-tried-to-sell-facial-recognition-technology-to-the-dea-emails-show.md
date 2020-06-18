@@ -107,6 +107,22 @@ related:
         width: 630
         height: 450
         isCached: true
+  - title: "Skeptical lawmaker pushes Bezos for answers on Amazon moratorium on facial recognition tech"
+    excerpt: "Amazon announced last week the moratorium on police use of \"Rekognition\" software because of concerns that the technology has racial and gender bias."
+    publishedDateTime: 2020-06-17T16:04:00Z
+    webUrl: "https://www.cnbc.com/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106219112-1572631390178gettyimages-1173078259.jpeg?v=1584742388"
+        width: 3356
+        height: 2274
+        isCached: true
   - title: "Microsoft CEO Satya Nadella warns of fallout without ‘strong national law’ on facial recognition"
     excerpt: "Decisions by Microsoft and Amazon to refrain from sales of facial recognition software to law enforcement agencies could have negative consequences long-term if U.S. lawmakers fail to"
     publishedDateTime: 2020-06-17T14:10:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_91-630x504.jpg"
         width: 630
         height: 504
+        isCached: true
+  - title: "Portland, Maine, Delays Action on Facial Recognition Ban"
+    excerpt: "The city postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
+    publishedDateTime: 2020-06-16T15:27:00Z
+    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
         isCached: true
   - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
     excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
@@ -169,6 +201,38 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "John Oliver Calls for National Facial Recognition Policy Amid Protests"
+    excerpt: "We should really be asking ourselves how much we’re comfortable with it being used — by police, by government, by companies or indeed, by anyone,” host said"
+    publishedDateTime: 2020-06-15T11:04:00Z
+    webUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/"
+    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/06/Oliver.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "PwC readies facial recognition to monitor traders at home"
+    excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
+    publishedDateTime: 2020-06-16T10:24:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
     excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
     publishedDateTime: 2020-06-15T13:41:00Z
@@ -210,6 +274,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The End of Facial Recognition -- for Now"
+    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
+    publishedDateTime: 2020-06-15T22:36:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Protesters Demand To Discontinue Facial Recognition Technology"
     excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
     publishedDateTime: 2020-06-16T01:11:00Z
@@ -221,6 +296,34 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
+    excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
+    publishedDateTime: 2020-06-16T04:38:00Z
+    webUrl: "https://www.cmo.com.au/article/680575/spotlight-facial-recognition-after-ibm-amazon-microsoft-bans/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 39
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/facial_recognition_id_136967238__axel_bueckert__dreamstimecom.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Facial recognition faces a rethink?"
+    excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
+    publishedDateTime: 2020-06-17T03:25:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
     publishedDateTime: 2020-06-17T18:44:00Z

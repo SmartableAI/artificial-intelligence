@@ -34,6 +34,22 @@ related:
         width: 696
         height: 452
         isCached: true
+  - title: "SAS, Microsoft partner to further shape future of analytics and AI"
+    excerpt: "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives."
+    publishedDateTime: 2020-06-18T09:34:00Z
+    webUrl: "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew"
+    ampWebUrl: "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c"
+        width: 400
+        height: 312
+        isCached: true
   - title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
     excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
     publishedDateTime: 2020-06-17T18:12:00Z

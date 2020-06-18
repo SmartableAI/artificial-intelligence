@@ -89,6 +89,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
+    excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
+    publishedDateTime: 2020-06-17T13:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for"
+    ampWebUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 52
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Why Big Tech's new face recognition bans don’t go far enough"
     excerpt: "While these tech giants may have stepped back from facial recognition, their bans don’t encompass other technology they supply for police or square with their past lobbying and legislative efforts."
     publishedDateTime: 2020-06-14T00:53:00Z

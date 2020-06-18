@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3562738/working-with-the-azure-kin
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 658
     isCached: true
     title: "Working with the Azure Kinect Developer Kit"
+
+related:
+  - title: "Day 1: Empowering developers to achieve more at the Microsoft Developer Conference"
+    excerpt: "The Microsoft Developer Conference brought together developers and tech professionals in the country to underlined the critical role of developers."
+    publishedDateTime: 2020-06-18T09:27:00Z
+    webUrl: "https://www.ciol.com/day-1-empowering-developers-achieve-microsoft-developer-conference/"
+    ampWebUrl: "https://www.ciol.com/day-1-empowering-developers-achieve-microsoft-developer-conference/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/day-1-empowering-developers-achieve-microsoft-developer-conference/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 33
 
 secured: "4d7MxslpfreVazHPKLato2cUGv8E56NCf50NHOXizNnPwvn4hXJ2ZBxgyq7d0jrXFLYf5V7j8IB9xcworcv4XO0ZqwfxkEidGVHcR64stILSHOcSWUzprgIvMftH0zZrDikqXBlol4DglhpVSQiNKN3RzMAOcL53/vijcW4pKBFOnBZNWqSet0ZtXTVhlxCLQvblPmBNGBJjjcOFWysRm4LuhCefMvoC+78GfhVDUebBoH/HGhhCP3II6jlCqJS4mQhiPtUoRsyO8Upl0BKYDcrQ45j+QjhScAppr/ZiTNBQbzNa7s1TmwzF9kzsCBO87xoS6DdQCuzV1o910Urb4w==;cN0roLQmDjEviyUQVXUUyg=="
 ---

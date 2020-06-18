@@ -66,6 +66,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 33
+  - title: "Broadridge launches AI-powered digital execution platform for next-gen liquidity corporate bonds"
+    excerpt: "Jim Toffey, CEO of LiquidX and Vijay Mayadas, President, Global Fixed Income and Analytics at Broadridge, lead LTX with the support of a team of fixed"
+    publishedDateTime: 2020-06-18T07:54:00Z
+    webUrl: "https://www.leaprate.com/forex/liquidity/broadridge-launches-ai-powered-digital-execution-platform-for-next-gen-liquidity-corporate-bonds/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 6
 
 secured: "lLdB4+tl1OpajslmtHCV/D6z1BK8rphuk9avnYpfDHAof0dpnvgZEQcbPT7+cpxxGif+6cAY1L/3TlxCbqDcZFu4v3bRV5Ghj2tKiXst2jJbISCgsMMlL/DqBvEG0Ez6oaHZjMuurfMdm7MsOIvFJ4TGLZFdedqam3bLKL8KOh4Izku9oTeN0dn8BRBlvsywI7yN2sN+q/setiMm8eQ7QTKXHfk76hrmpKzInxWxnyvMcJXi3Q5G7kcKkkNPxotLUAAEa7f/WjBq00Js8ENrmi+9l4ETKySX3k3FxU56IaTN9A2GHcSlsPnzsmSh2zBCOr83i5oSPkJBir0viXlfoU81OLOkDa0Wu4Jn5xvnOlfLA/7rgTOgwxzznrds5f9DxeBto+3WEHCZa7H74BsbScH49NIiENkgF0HBV+lVCRUMlTRlax6sZHOQtDfYOAovzaOpztpM5RzT2fTWXD5hm6YTU7tI8yYf57Jqk2O2Z6kYMcLfvjOpp2gt1d4zLmocZ2eQazKLW6RS4vLIyG2/WQ==;7Pin+goua4sHOZNZudBmEw=="
 ---

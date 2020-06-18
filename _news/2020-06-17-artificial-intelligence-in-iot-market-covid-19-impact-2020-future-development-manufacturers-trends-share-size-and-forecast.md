@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software Platform Market Analysis as per the Latest Coronavirus Impact Global Analysis, Share, And Forecast 2020 - 2025"
+    excerpt: "The global Artificial Intelligence Software Platform market is segregated on the basis of Component as Tools, 1 Natural Language Processing, 2 Machine Learning, Services, 1 Managed Services, and 2 Professional Services."
+    publishedDateTime: 2020-06-17T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-platform-market-analysis-as-per-the-latest-coronavirus-impact-global-analysis-share-and-forecast-2020---2025-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5OPAXxzHgSyMLYsYFs3hZeeZKJoFO/anqsvf5jYB3em1AIEO5YHyiBqkWVBC1SyvaK+JsaPtZoWApz4IR6bHlxYibmPAcDXhj7W5yjh3G05Y26vZxIiHNqxvVzVbU4W67Wmo4F86Ia3DfTwTdXFkRpQqHhC+VDZd81sf+VbE6osT8vBiodjrlye56SIyPJZ3u1tqzsTj1djN3iTXp+6BWw2lhNb43JTaXa8W13ciaVitLU4PhZlGnHtI3ToO3cNvdCYRAvSLyABZvNvZm7ep0w356LaMAW2mflxeEYtxGbQaV0QN3oxVCPmWWlWKGl69+d+bifTinYtGF9bdL48rhA==;QWqdY7AycxeI3MVXEDamig=="
 ---
