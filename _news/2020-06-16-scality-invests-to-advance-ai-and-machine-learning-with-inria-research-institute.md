@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
-    excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in"
+    excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in Artificial Intelligence and Machine Learning for Automatic Speech Recognition and Machine Translation."
     publishedDateTime: 2020-06-17T19:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine"
+    webUrl: "https://apnews.com/92741c496b6e4893b0378a6d4a473699"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "/+iRJ0Iqa42KqjaoWzsI/gEMTyRAUeOHIZAOzc6dhtla5Xj/9coI6nSnWouSYxgO8R3dehqQrTK+mcrwVBaDn3G3GEXpmXGttAbNNqtNcgbX6H62ndMDjzvr6eJ8exisU0ucdDrb/hYSIcsJb0uH7DC0fx04P1CF65f1MDLtmLpfueDFoOTMkbMn2PhEC418z71hdYeoibemFBnzuclxCAwd8jkQVCXlirlaxx6j/JpuAT2ngafREXyS9SoFHyHD9zWZ57jf8LOWkr9X9JVUSnKaiGQ4lHuq8EblM2sYSvyCNpPENgc9ynV8Bm8hcpUsAZcNW4XU46FJASMuWJFvqw==;ESiQAHyROSEgMZlc2N60SA=="
 ---

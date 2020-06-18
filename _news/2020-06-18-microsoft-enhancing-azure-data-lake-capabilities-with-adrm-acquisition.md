@@ -73,7 +73,21 @@ related:
         width: 1024
         height: 402
         isCached: true
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
-secured: "W3mrTg4x7rdbkpZJhKQNPjVflO0L4rH3zUcSNTiGnvVen7KmFBuekFcECfNlDp/5BxHy8+XJO0MxJ4Qj/xZeWjHMvLmVRYMFFEHSBm9RuNP8Mbs3UUV+hn6oFn3X+OOtYNatxBwsl4P4TmwpUsG9kr/20TxYLJonosJ385WOXaWQVgpxafmBs7BAakO2SGhFUw35TUudeHYDqVXAXFDeIBiK3cGgTlmnX/MpzifMtYyjEYqt77nwDmnq1MDawkLYsVAK0O0DeS6YOGV3/rAatx/iKYo8H70xKMFMr13jHMdEXUCsTlGp/zIuLu0Ipu8psnlvZ7JMgLQ2cki3xZIDlA==;e8MBEY6C5Jp76yi9EDCrvQ=="
+secured: "ft9+ldwwobrXcd7M4BzAwXDkoLekFjNvIOGbbhiFmMV2DLqM9jqljQMyE3uz/vCYlcWlrp1zM5vRMn9Eva7eSiOc9Vjgu86kUdJT6saC0eCClz98p3HQI8AXWEW5iEJPh1YgRAIxFZXkGCUtN99toeMoS1AgMgoO7MS7CPLsk5itbB7j2+o6+09MCnSgJV63LUJJqyMFA7DsrOg8/DDRkRofHobDl6S1vKc6n1ujm05VxQb7+5XbMDty4BaDvrbUpRHMsmOQm+RedXcBy018jm2HAfSgT1uxfB/6SJ39tVv4nqskdpWyqHxPEgGK+rnkCIFWu3O7xACjIkbCX7f557hRhXDP1SHSrdqFb8uFbivSp5LrT4JoUSFbgl39apcOPPRbKe/z7a+gyywkuGPH7RcJZHD8EqS1EqWJ1fo7wsYmC6Dixla4BfcNgmvaq0WFksxVK+MGyJwX4dG5u2yU6dMS+FoKP/7GdvHlDO9NBz2jWHjWTkp9yFcMFk0FsIi53vCvF118+IEGkscOHETTbA==;QOhfT6+91bOT4UKJqQcxzQ=="
 ---
 

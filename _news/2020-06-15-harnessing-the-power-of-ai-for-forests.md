@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T16:55:00Z
 webUrl: "https://www.cio.com/article/3562343/harnessing-the-power-of-ai-for-forests.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     title: "Harnessing the Power of AI for Forests"
 
 related:
-  - title: "Leveraging the power of AI in the lending sector"
-    excerpt: "Katerina Folkman is Head Of Analytics at Clix Capital, a lending firm that uses tech to make loans simpler, faster, and more accessible. Here she talked to Thomas George and"
-    publishedDateTime: 2020-06-15T10:20:00Z
-    webUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/"
-    ampWebUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-power-ai-lending-sector/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
   - title: "Harnessing the Power of AI: An Easy Start with Lattice’s sensAI"
     excerpt: "Artificial intelligence, or AI, is everywhere. It’s a revolutionary technology that is slowly pervading more industries than you can imagine. It seems that every company, no matter what their business, needs to have some kind of AI story. In particular ..."
     publishedDateTime: 2020-06-17T11:12:00Z

@@ -1,22 +1,29 @@
 ---
 category: news
 title: "New AI White Papers for CPAs Explore Evolving Role in the Audit"
-excerpt: "With Artificial Intelligence (AI) increasingly impacting business and auditors, Chartered Professional Accountants of Canada (CPA Canada) and the American Institute of CPAs (AICPA) have partnered to produce two new white papers on the topic."
-publishedDateTime: 2020-06-18T16:00:00Z
-webUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21142763/new-ai-white-papers-for-cpas-explore-evolving-role-in-the-audit"
+excerpt: "CNW/ - With Artificial Intelligence (AI) increasingly impacting business and auditors, Chartered Professional Accountants of Canada (CPA Canada) and"
+publishedDateTime: 2020-06-18T13:00:00Z
+webUrl: "https://www.newswire.ca/news-releases/new-ai-white-papers-for-cpas-explore-evolving-role-in-the-audit-852900651.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: CPA Practice Advisor
-  domain: cpapracticeadvisor.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
-secured: "9S0BQCEx2ae8HCRJ/j96a368kg7kWFXwA8MxBlgbDzNGC8qAT+BWKZ8iozkcKCckRD2noAjFS+nSJJ5F/SUR2FhkYIqCtH+53Hymy8ecLT66BJFeIxaU0tn2nrAnnM13ERggCFV04awBS/nzKObzvAsVlDNAT4Q0qfb/ntQHQq5VuzxajoU8wRRP3bh1gAqBG/TsoRPNMCugpe7NHJ5ft7j8zOMHzReuWPPZF4dq/J9ly/PPVSzKbyOcMYdPr1EBF6sn0qZki0s7+ArQN0ip10gxjITDWUK0ztYRIIU7izxIMBgGOt4RlwtioJz6xaccQFEMfPHZHfpQcnkzJEuylqsxp7V8seEwp7rHqNI/DzRAXFAZarsUsAhjMd8M51vYAViYHYkIoYJbpUYVoLwluSSldjCDIK57rsuH7fncAm6410VJCI+xbSf/f/0SFYFaRRhkwrvMdrgs7NrlocUI/sUwkjlNnKB7J8xYc2VaXzRwQDM0Pxnf6lE5li4AW0ObBlBma7DnNKuCc+iMf4Ck/Q==;hrdBB9JcZmeiHhZUn15Pkg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1192566/CPA_Canada_New_AI_White_Papers_for_CPAs_Explore_Evolving_Role_in.jpg?p=facebook"
+    width: 1600
+    height: 838
+    isCached: true
+    title: "New AI White Papers for CPAs Explore Evolving Role in the Audit"
+
+secured: "wLUjqg6eia2YqcMXVFyvBWPOLZ7yBLrjttFuWPSbVsCOSp7b9JWUYoZu/TF75WDHkqRh4V6bCwbnRWdJOzinpB/pjhfogeriTRSLV/BIiLjA1LhbY/pW+Bnz3l0xVBe5WjvycmEi6oKG2rI7n7ORRzm54CZyc+BJF6H4o3fltyyo+Ur1758Vw+oqKG5n5LjapAXFsQezQcSxGFm9PdM5s6eBdtUb0de7OCTItr4kt78lcMEuZQcRxlveAXwhVdYheSISdcLE9wSrOnTfJ1ERiZIfFKKjTg+INd6X1dL1H4K2NiWeQ3ZryXpn17efWlqRSiNouftPAkmgturACw3GVQ==;7y3Z78snuYe6G6760iEhjQ=="
 ---
 

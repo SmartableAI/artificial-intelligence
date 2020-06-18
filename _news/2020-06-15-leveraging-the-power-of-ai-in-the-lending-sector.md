@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-power-ai-lending-sector/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,33 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Harnessing the Power of AI for Forests"
-    excerpt: "The solution of Huawei and Enbo goes beyond simple monitoring by powering the system with AI for greater speed, precision, and stability for wildfire prevention."
-    publishedDateTime: 2020-06-15T16:55:00Z
-    webUrl: "https://www.cio.com/article/3562343/harnessing-the-power-of-ai-for-forests.html"
+  - title: "Artificial Intelligence (AI) Sector is Leveraging Their Technology to Detect Outbreaks, Enable"
+    excerpt: "DUBLIN, June 18, 2020 /PRNewswire/ -- ResearchAndMarkets.com has published a new article on the AI market, \"Artificial Intelligence Aids Management of COVID-19\" Artificial intelligence is being used in new ways in response to the COVID-19 pandemic."
+    publishedDateTime: 2020-06-18T20:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-sector-is-leveraging-their-technology-to-detect-outbreaks-enable-effective-contact-tracing-and-identify-existing-drugs-to-treat-covid-19-301079494.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
     images:
-      - url: "https://images.idgesg.net/images/article/2020/06/1200x800.01-100848745-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Harnessing the Power of AI: An Easy Start with Lattice’s sensAI"
-    excerpt: "Artificial intelligence, or AI, is everywhere. It’s a revolutionary technology that is slowly pervading more industries than you can imagine. It seems that every company, no matter what their business, needs to have some kind of AI story. In particular ..."
-    publishedDateTime: 2020-06-17T11:12:00Z
-    webUrl: "https://www.theengineer.co.uk/supplier-network/product/harnessing-the-power-of-ai-an-easy-start-with-lattices-sensai/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2020/06/Lattice_logo.jpg"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "yeJMjiHNpir5OR3VDwiM9zORn8g7w5ikQOhaDwHfiTIgc7BzCaZrL53BNq4HkFbYRU9F6w4mhKKGjjyUGgBkNXSHoe2v003FWlwPm1+d24SJOxvC9GYldC6I8ALW6Tm5OG4XmUb2POUOUqO70Zb7ONXbZ4EXuzNefZU0pv6kI2tCyqVfbogBICwz+r4OC+0HrMip5GVaMk01TU0uo3Jh5pNPo+JXkCcqltrjQUAnmewzFv60UqcUnKN8wNcc5VnxsEXSMrTk5DMo/DUGBMaf6GXbhyHFp3MY3ObMe4E7+t4s6dmtrYayAp187IlQzJUfM7Jme1bCW7ZEKrNc8Pv5Eoau7AKZx/jsbFwRrpo+qI4HmAbwBlYIjeymPIgoR0n5EKYRWscJn0HlZm7SxgaoEPSRDO+JJ8R342nKsKPYE1tCsNi4RuG11xMPaLH+Z9S02wJembXAYORuMfqS0F/efOKPEzaBPUwI78jgPBoIzjxM4E9s5ktooQcpCgsGQLh3PhZVKZFjTJcURS1fJOa8ZA==;DAog3DW2OEIxF5V4H5Hy2Q=="

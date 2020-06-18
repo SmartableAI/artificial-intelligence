@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Dive into the world of AI and machine learning with this $35 online training"
 
-secured: "B9ZS+FoghZd+JWtbp8d/iowXGIJx4aXy4B4tHklLIfTEyYHpl3f1lh3r3ufpHCbtbGS5OkMMEAhoLF8CWkx708GyEOzPysRF4tXWozM88gRGYO+WMdgu1vHlSu6CC9i/xZQxOW4g7LK9r7S8qRGuBvy8IkEQNavvPqLLgwL+HbFhft2r3vv7viZ7bIWR1RUmF7tjNpId4qojl9Do2oO2bHpzzgjS4/bm/PUUI9cpc9bBRwjkSf6U/oAziJK9XP7CgBhaIV90VVbkh6RABb+aXqZPVuLU8S1XykIqFFgawj9VUizq7/BYM1KB8AcGlPo46jyEpteFfjMgEPagQm3qzQ==;9+aIsxR1rZ9jm/Hd0JD7hw=="
+secured: "cC6I/KyCdir8WjXND8g4Kov82uHbZrYNdQehgMEdB3s5W9tJSFv1ctAmBWknEIaIyaEMRDLOUFr7/0R2Yb09C4T9w5+iQZLmkF9MtyKwHpoFWcv//6EOs6na+/OQz0SdSwurORsFZYy/RB1lGW13xQji4tEvfJX5R9BjeYd2euJGCGcs7LtX2G0/F2cO4zw1WOKAJOKNY++VMUTE0GfXowLu0mIM6CxkeHyz4aXOVf/3nBFXaITBWrsAtDlVqUanoCrIHfc/nVrusd+NRLGJqVLQTYC0aPW2xLY1VE+pzcUG4UvELIMiOBvhnLLQNqddBBc8vvmHRGzcjD+bJnBWXBLUuSnk1O042HL+Rv+sIiRFREw5Ju6zYLWZGP0Zw5NEdtda/ZU/5+b1VIT9o39ii+nqDRMpgHFDfjpA/XeXOT1JyHSIL8InxbKnBBlFGB2tOjbMTUS6mPRL/kIhoRKpRS+qJTuaZDc86oMyaUz7E7JLYbENjQzKiBtX8huedrhYPmjJbmrAVrcIqGBCTj9PrQ==;MqDS1lWHlfNWFhcy1o+5YQ=="
 ---
 

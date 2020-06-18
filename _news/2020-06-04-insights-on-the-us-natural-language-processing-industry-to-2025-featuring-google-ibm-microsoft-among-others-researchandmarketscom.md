@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com"
-excerpt: "The \"United States Natural Language Processing Market By Component (Software and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's Vs Large Enterprises), By Type, By Application,"
-publishedDateTime: 2020-06-04T15:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200604005559/en/Insights-Natural-Language-Processing-Industry-2025--"
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/mhxd97"
+publishedDateTime: 2020-06-04T11:12:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/b16181219/insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-amo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16181219"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16181219"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200604005559/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-    title: "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com"
-
-secured: "+vtken9622GvaclOHS1KLMVxuqlHegoqgydPoR3fKF9b4z8TuiNNVYhDDWxX/TeKGIk0rgpsx0Xgj/x5Ezqjj5AK7Kxff0ZGgY3dYGnJ1B/P09hmrbTG+4hWE+Lo2hkuSlE7TF7NnHwLJOSenX5oOtagLi2gXR2kwGJim7SeWhKy7Qg5cePrFQDvNPM0l0tX7TudtX283EKFOTP5grlteYjiFwuoj201ixNkwHuEtzkpT+DKQat039VBEYYSuY/TLNUeLcBJQ2vYAvoiveWkoR07NcWpG65AuxmJZc1rmmaqoKYHrhhZ9zIKSUyKBVemeW7FWjBYZpfSM9z9Ph8TyA==;fy5yWl63LPh4ZXaljSn1Sg=="
+secured: "yO2XjIu6Ie87BcEJ/a7+DkXbhUztTqzPeIWecp47fFZLYiB4+yK1y7ctbwRF4K6Fxi8KySa+SXpWBrWJoXbmXu8e90X11Fw25OjWKlcOKLqfYymYHedR4yx+w7rrKqG0Zei18m8MAiJFEX42ESIbdTrwR6cGxLLDaVsAuzO8XXO25ZnMjbxGa5ef+BC8jHWQDQydaoN1UiwqWlEFIF8Uf9sRu7gQyTmK503E8yp8iN0vWMFwsFtfUD8F4FBlrL3eqjy6rSfrk3d0j7B1eeCYKldrYFgxMZ/gSdLOTRweH2T76/7pp1v8fWrD4lxVnDew4165ct18hE2fyA3YQvopgg==;jl4qxbr2qDSWonNJ2AmrKA=="
 ---
 

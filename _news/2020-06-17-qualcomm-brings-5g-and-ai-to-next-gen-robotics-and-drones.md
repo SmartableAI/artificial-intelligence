@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 type: article
 quality: 121
-heat: 181
+heat: 211
 published: true
 
 provider:
@@ -80,6 +80,34 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Video: Robotics platform combines 5G and AI"
+    excerpt: "Designed for the consumer, enterprise, defense, industrial and professional service sectors, the Qualcomm Robotics RB5 platform is powered by the Qualcomm QRB5165 processor and of"
+    publishedDateTime: 2020-06-18T14:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15301/video-robotics-platform-combines-5g-and-ai"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 71
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/301/15301/Qualcomm_Robotics_RB5_development_kit_3.png"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Qualcomm 5G and AI robotics platform delivers for Industry 4.0 and drones"
+    excerpt: "Its new Robotics RB5 platform featuring its QRB5165 robotics processor enables artificial intelligence (AI), machine learning (ML), heterogeneous computing, enhanced computer vision, multi-camera concurrency while supporting industrial-grade temperature ..."
+    publishedDateTime: 2020-06-18T21:19:00Z
+    webUrl: "https://www.embedded.com/qualcomm-5g-and-ai-robotics-platform-delivers-for-industry-4-0-and-drones/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 70
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2020/06/Qualcomm-robotics-schematic.jpg"
+        width: 681
+        height: 501
+        isCached: true
   - title: "Qualcomm launches 5G, AI-enabled robotics platform"
     excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
     publishedDateTime: 2020-06-18T06:48:00Z
@@ -119,6 +147,20 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 49
+  - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
+    excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
+    publishedDateTime: 2020-06-18T19:12:00Z
+    webUrl: "https://www.technewsworld.com/story/86717.html?rss=1"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-qualcomm-1.jpg"
+        width: 620
+        height: 330
+        isCached: true
 
 secured: "cF+7UkjOWoPnqB8/BTZpv0XrnB7fogdi1EPEty7edC6fzkc93LZB8+urkzTdGBuB96v4EmFiB+osEUbhl0fiQFCJ42dYlzVgk0gPptcr67vyJdKyYwhvhcv3vv7xNbjemocHuE8njH8B6aqrBmLIM+HcCDegl//CZT5FDmGhGUW9lzyutWBPbdVVVWBG5jIyOCgRizzY6lkgD/zqqteXcqbPr2v9mhrfaCIboX7Puvs2jSEFoK3bS50dzP+YQ/UAdDQvoyyQCTEoNTnBfpv5hnkutYJSrcKsNK0YBPQ0Ge8VGiuI83iRQuoiUTdUS3dw0/4Q0SJ1UT49zz1dv9nNlH8UamEzNhg7n1P0GKTE1TtthYFDYd5HYsiPzhsFYCFWo29uDer9yJbkZPaVKXLP7uWuiLeOoOR3ROjAhS9maYOlLRd9aJ2CFieeRfrTgZPKSCw/wxAAyjDfwyCw8cPU/Qq3YHM+RR4xNUFVk1YvE9TLCx6UCTaf3Lz/jBcNo8ht;IqZ8XXUj3yB2pbt391C2Hg=="
 ---

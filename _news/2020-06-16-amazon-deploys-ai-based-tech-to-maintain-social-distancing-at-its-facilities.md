@@ -65,6 +65,22 @@ related:
         width: 800
         height: 460
         isCached: true
+  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
+    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
+    publishedDateTime: 2020-06-16T14:59:00Z
+    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=22&itm_content=1x7&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/amazon-distance-assistant-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon is putting AI cameras in some of its warehouses to see if workers are actually standing six feet apart"
     excerpt: "Amazon's AI cameras can tell if warehouse workers are standing six feet apart to comply with social distancing rules."
     publishedDateTime: 2020-06-16T13:10:00Z
@@ -95,17 +111,6 @@ related:
         width: 1007
         height: 630
         isCached: true
-  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
-    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
-    publishedDateTime: 2020-06-16T14:59:00Z
-    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/"
-    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Olivia’s AI assistant encourages mindful spending and saving"
     excerpt: "Our Start-up of the Week is Olivia, an AI-powered financial assistant that learns from your spending patterns to provide tips on how to save."
     publishedDateTime: 2020-06-15T07:41:00Z

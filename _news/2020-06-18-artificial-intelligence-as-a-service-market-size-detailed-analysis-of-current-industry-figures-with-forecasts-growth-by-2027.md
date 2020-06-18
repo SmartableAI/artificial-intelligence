@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Chip Market"
+    excerpt: "The report published by Allied market research, titled, “Machine Learning Chip Market By Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip module, and Others), and Industry Vertical (Media ..."
+    publishedDateTime: 2020-06-18T20:07:00Z
+    webUrl: "https://www.openpr.com/news/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    ampWebUrl: "https://www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "dbxfv3/maA2rdx20HsBKQg3QyM47T0gB2lebbGPSiY7y5GTVwNds1CM+UmywxUOvJOFM+De/sMXXKZsN38COe7Pyu13McSULR+bwNny0FECmD0CcygNfufWn08IlZytmlyGBjr8SfNeS9a956zit3AqSDS4I+8p2oDhyTomxkN158dpUvDJ4VC4x/0lk9G9QLL6wPVoJOHGWGphH48SrtUBQwPcwppdp9kU8CliUB2/Gyo64IqQVMpxHtptTg5+h2UKLpAUWub7SwqXnJFM+1rx4lISQeYBmjU0P/YZ1GeDo866AojJm8ovcX5Uzx01RO5n6xvARDFswDMZ/iGK2YQ==;QAuaFQpn9c4XAOvqbsmK3g=="
 ---

@@ -24,17 +24,6 @@ images:
     title: "Harnessing the Power of AI: An Easy Start with Lattice’s sensAI"
 
 related:
-  - title: "Leveraging the power of AI in the lending sector"
-    excerpt: "Katerina Folkman is Head Of Analytics at Clix Capital, a lending firm that uses tech to make loans simpler, faster, and more accessible. Here she talked to Thomas George and"
-    publishedDateTime: 2020-06-15T10:20:00Z
-    webUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/"
-    ampWebUrl: "https://www.ciol.com/leveraging-power-ai-lending-sector/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-power-ai-lending-sector/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
   - title: "Harnessing the Power of AI for Forests"
     excerpt: "The solution of Huawei and Enbo goes beyond simple monitoring by powering the system with AI for greater speed, precision, and stability for wildfire prevention."
     publishedDateTime: 2020-06-15T16:55:00Z

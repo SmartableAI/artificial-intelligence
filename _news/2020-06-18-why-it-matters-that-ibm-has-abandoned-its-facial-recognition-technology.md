@@ -430,6 +430,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Microsoft president won’t commit to moratorium on sale of facial recognition to federal law enforcement"
+    excerpt: "When asked Thursday for a firm answer about selling facial recognition technology to federal law enforcement, Microsoft’s president promised only that his company won’t provide it in scenarios that lead to bias against minorities and women."
+    publishedDateTime: 2020-06-18T20:50:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-microsoft-brad-smith/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 23
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
     publishedDateTime: 2020-06-15T16:59:00Z
@@ -440,6 +454,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "SvbcvChL9lY+2eSQCleAx1BYmkMEDXIdBls01xF+ATXLWfBeSSHgd0aajiNwOBF28gCKoj6ysas2cVw9dgaffUKn2pSYnnuI7YCiBkoJ15zf+5+oBSX70MzdTnxbbYzvNlMQ91cJScCTNa38NanplZsxY5p9aogRzhh5neOG6G+IQjdst27IytuOOZ9Dw7fP37wnvf9Ho0rgK+VAXVLU8yEEGCi9p737qOlNmW1uSgM2wSiV1b4TOJG2KnndbdaqOj9PsxA09Bw4y59Gh9JdhhS9/5xN6zZQ+0Em+Ld2msZKnGuA3K/KD/xK7b5Cfru+OxJ3y0NfmBrx8lhrP0t6GQ==;9OUIagIVj2G+0CFpZQUfKg=="
+secured: "2CfskSADBBwlbYV5ncM76kcBb5aPQqio6e+ouskXU5BQUTp3ljZLRXx1tVZS75n8+2tTwlZ5EM0LAduX0cQkC8aLRZgJt0vfpIgFWQbzm9IqfjCSxFHO7N3nXxJnsXb4+PiBQZADPzOP6D43xKkyvM2ytcAEVq3i8LsqYc0CFSwUOEqGtywvtEoEa4DfQAE5EnCvSFYLS9gjDak+jxSX58hId3P2rSCxK3xdBcMpeYpcfQ4+NCB3Mvf0+Ty0Kd1iqaP0ny2BoJ/ocjjfAVd6KqYDWskPVf78Xpc9VaROR4LQOlv+Dl0j9XEap8e/FWIYR3LvwqmhRqALrVl3Gyhdg+YTDQJWX3duKdiRV75y0mmlrVJuCvQU8XY5NWFmwhWtyf3IZUrTIXmzSDJ9ZPFv2pu9+CjY2S/TqFC0sB+GdHGOlzhByw0BZSfu0/WDcnSkwNd9ZhfQWqnxAdlz2ZrRMCeb22LmuRB7M+q8m7p+/HdlCq1Zm3pACzOsBZ6f2zT4kG1alv/a1NHm342xN3yklQ==;BOX/rQ7ivhZaLcrPWLyFxA=="
 ---
 

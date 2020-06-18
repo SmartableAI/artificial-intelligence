@@ -426,6 +426,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Microsoft president won’t commit to moratorium on sale of facial recognition to federal law enforcement"
+    excerpt: "When asked Thursday for a firm answer about selling facial recognition technology to federal law enforcement, Microsoft’s president promised only that his company won’t provide it in scenarios that lead to bias against minorities and women."
+    publishedDateTime: 2020-06-18T20:50:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-microsoft-brad-smith/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 23
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
     publishedDateTime: 2020-06-15T16:59:00Z

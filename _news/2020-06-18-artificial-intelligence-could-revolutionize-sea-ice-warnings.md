@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Artificial intelligence could revolutionize sea ice warnings"
-excerpt: "He is employed at the Department of Physics and Technology and has recently submitted a doctoral thesis where he has looked at the option of using artificial intelligence to make ice warnings faster, better, and more accessible than they are today."
-publishedDateTime: 2020-06-18T12:59:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uot-aic061720.php"
+excerpt: "Artificial intelligence may make these warnings cheaper, faster, and available for everyone. For vessels that journey into the polar seas, keeping control of the spread of sea ice is critical ..."
+publishedDateTime: 2020-06-18T20:06:00Z
+webUrl: "https://phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.html"
+ampWebUrl: "https://phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.amp"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/235024_web.jpg"
-    width: 1440
-    height: 959
-    isCached: true
-    title: "Artificial intelligence could revolutionize sea ice warnings"
-
-secured: "ueyofGGlOMGFfBCTFAGuujc8qCgpjk1GVpCv3D2DhU/3xSmtRjwKh0Y+NaUijoZusns/JQtW5bcfRCHKXpYdp2t6p0xT7XfgecCOsZe7MOpoVBaEttZSR1lmgXU20vrGrHalghk37iQNOgZOSCnGpd1ezUoX5Tm8FkrIVM8SgvvnO7GFn/khP+Uc3V2SVfmMz3EjkjmDcnvO8qjHzbXbWAkxHS43t7mPL6l7NmJB7FCVA/edv6pQ9qzTHDsxhW41lYV5ZKCeyKUStQ3KE1Tir7mEDLs4QkiLXvR620Lr8QYMMWgx8r71OeBm+OXR2+TkB7kH/cXx0MmuMbgqPjMAIoT63P2e3b6FIU+kCv+TdzWvp9UubgjGE97K6+zuQe7vIkTDMPtpLBOtSqiJvTyhr81MEXuVzJNbgIB2G1m/O1ja8tXAF8qJMMPmbIjGCMGo5TQi8fEkO6MFhVk4MFQ4rl51c1nl13d4UEt9QK6DljtMN8oI9Crih692eN4tnNjHk1GfgOnMN5qFWNbcWuPaVA==;XZv7CwtBr5mFGoD6QCuNhQ=="
+secured: "KULuo29HHFJ9aGXRMr7TPvG9b/8WTL46BAIGr3UEFy5HUXjXaYDCuJtMmK/yQGUA2jyU0DgsilfwQvT6Oog+fq55PBpvZgZ8hxH8m7+6M/FmgHdsgRhOhgo7pgbzAuVnN8yUdn6iGTa7RW7DYt60fh90KUW4WMCPilJQ64aqcrTTck9fL/S9URXCW0Cg+hYZrwo38S/Jhi5XQDIYsV9TBNobg7E7Ion9PGPAeQeBF6fOlfv0AI74T7wjT/X5c4PvVTB0m1mD1cVIroJFyyJUvTS43MhjGUsVbdXjoSpKINx5Mba1lMArTzg/sfryInJLdHKarQAdQytox5V/zfSTaF4lzIKmhVWQFZ9W6g/OSaQHMoump1noFB3d7HiiB8SGXzy641q/ZcuJ2Q0oReCYPoV70i+IyScnJghQWH9OsbYOQ5V6TJCOnKlnUNPUVXRa28ntJFbsWyvIPAS2QpT+qz3fz2+iZxX/UYDj542QsoAGb1HgGMAK8VlbwBYjenK2IDjGDW81sVr5ZJky0mxy6w==;DQMqx6jH0pK8+fCQY24wMQ=="
 ---
 

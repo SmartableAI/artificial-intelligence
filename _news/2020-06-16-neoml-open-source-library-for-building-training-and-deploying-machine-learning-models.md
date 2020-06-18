@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T11:34:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     title: "NeoML: Open source library for building, training, and deploying machine learning models"
 
 related:
+  - title: "Train and evaluate deep learning models"
+    excerpt: "Deep learning is an advanced form of machine learning that emulates the way the human brain learns through networks of connected neurons."
+    publishedDateTime: 2020-06-18T21:32:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://docs.microsoft.com/learn/achievements/generic-badge-social.png"
+        width: 640
+        height: 320
+        isCached: true
   - title: "ABBYY Open-Sources NeoML, Machine Learning Library to Develop Artificial Intelligence Solutions"
     excerpt: "ABBYY launches NeoML, an open-source library for building, training, and deploying machine learning models - now available on GitHub."
     publishedDateTime: 2020-06-16T11:08:00Z

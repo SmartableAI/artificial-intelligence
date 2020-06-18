@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-17T08:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027-2020-06-17"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Chip Market"
+    excerpt: "The report published by Allied market research, titled, “Machine Learning Chip Market By Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip module, and Others), and Industry Vertical (Media ..."
+    publishedDateTime: 2020-06-18T20:07:00Z
+    webUrl: "https://www.openpr.com/news/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    ampWebUrl: "https://www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "RlUgl/VG3dwerJXrUO3XWM8o9TDeLG3lbeQU0Vn7b7lwAqs4MngOS0RbSNNx1cHbT4duAwm4YmFpdwOVjSbo0aKN0GYUeioYr/IoW2yEmQ0HWK0UXVUu2i96h3PlCBPflivmKuR9l5IVhMPI+6zn2nqdvZL8Sl33sGa7s8D1k0ZzPG2SCqZT79EDz/T4HysHqE+DLIoawMahadjjRfxFCjwsXZGd/ZGmQq4A0l+T2To0rMK3MU9KsmISl82WDMEihkhJgjSgYYLIU8vo3HWUgaPKJoFmQ7D6qHPCiw3YOq+pXUDTC+YaAaK3XTlyKwgU5aVkSB0PyU5zAqHqUpNYeA==;Cl9oJy8owkYDgCt4mGEVIA=="
 ---

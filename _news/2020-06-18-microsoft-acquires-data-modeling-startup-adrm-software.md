@@ -62,6 +62,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
     excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
     publishedDateTime: 2020-06-18T19:19:00Z

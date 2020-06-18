@@ -33,6 +33,20 @@ related:
         width: 750
         height: 257
         isCached: true
+  - title: "Train and evaluate deep learning models"
+    excerpt: "Deep learning is an advanced form of machine learning that emulates the way the human brain learns through networks of connected neurons."
+    publishedDateTime: 2020-06-18T21:32:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://docs.microsoft.com/learn/achievements/generic-badge-social.png"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "dW63A5/YadXnb/Tp1y4I7JMljrBzqxo/5umYj8LM5pdjOzYkiw5SHsj5+N8ip1Y+T7/pklE+H3eywdDtHOSiTjffr6jtVCszoY/Bg2ElBIsOsXuFkqbCptU469NRNXRzUnKdKEcAkwGEBS4d40dgrQw+4nCdVJir94twrfVQpFk2qupjjG1C8BykE1nb8TKu6j3zjopXSw4BZmV5Y/YUI+8lBUOtOSwyG5TGgBbzedK70iTwyNCma6JpEL82RfmzWsDyAsqDcrHrSl9AoxdtFVqgAtgU43X7UaCK3GNnCLTPSLeI8lf0X4bTYAZSn/rnCJLuEVLILFFg+uKoYd7gCA==;AXawqug0Gi6LYDWfWjwE5g=="
 ---
