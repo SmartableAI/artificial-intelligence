@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 93
+heat: 50
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "mbx0ZOA79LudV5rOylqQNX/8cuKMxUOSdhglZ3yIyn8kpy2s0aEtgSuW8zcSVtQplEtq2gJ31soabQhYz4vfFcbA32JTaArcRZw0XDEIvj/M/l70wGUKY0Q7l2yTbtB4X/XMjjX2LW3Qro1td0rXJ6PQIHbN8aORuTg3WGHYf2RfZwBAMA8LE1du72WCLooPfBaRjKJlpq6y3mYdRdTLgcKhUqCnXjZ5WIHOJ4MJuQwKrrFHCCUdolQ86jXiLDgnWypG3w9gOGyoF5IrulOO4+b4nAMo+7oWMNoypkfbwHsAZO+VrpYwhYUyFr0WnWdV5+mwEHlDxs3xtf4pS/ZmhTj4dIPtU6tbw3MsuOnKKrA=;fIfeDzqMY8vtCwT580XcZA=="
+secured: "EDOpt+tbWXRifUvL4NLVR26x2oePRRlFdCRQ8X5SoE5aiXC8lOc4zVgxSvTZKunXGPtccdyCd7POSP8rSiG6/bB7zpklOOWL/oBHppgYpxJemxvrm40ieDhvWlXdhhozVg4e8HodkZUYFwE0ugQBLj3XqUZwdKes8Phd1Ondkv1U8h1zgOVwOOh/WlECBHjahrCsnM1Al2tUsT73x3oNrUpSESaiZGzBPKLmXwQR7nTAtCQSsOL8zKw5YKlpMky7FrY7MHxOMpsCBcoibaHMiAcJRQ+ZxDkRkM453RZJc9ptgNZ4V380czqV4FN0KzUkzP0A+3ff0HSqSD3RHzER5N0WvJRROcrUjP4WEanJNANcM6YN5/7kzE6O6NnCikCE;p2svqBctxmJ9xQjHQMy2LQ=="
 ---
 

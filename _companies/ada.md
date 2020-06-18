@@ -2,7 +2,7 @@
 name: "Ada Health"
 overview: "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016."
 type: "profile"
-heat: 126
+heat: 88
 
 website: https://ada.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
 
-secured: "lmQhY+nVlTF8JR0dz0tgoVvRYnGSzUZ5uP6k6R12apZSZ8QWJ+vALKw2FeN5chfFa5KTG+NyF4K82aeLn/Mv4Ah/RmuswkxYa3qEtPMfim6ZDux9FBKGbmmSMBTIXYdwCUJzYqQLgvD0YrYxkMGw/+AWHyP/odkpfoh5WkBakiOcPZgfdkR9hfsTLNwFrPI0tv2nNYVwFbqTAFHRejeK/bL18JYa+aKAy10aYcytfBLHaOj34ratMAFB9k37lLjBYV9Eyu+FEtRWNlAh8luQ9weidCbitpBD4cM3704DnHtfhfbTmVWfZS0KW2saDKAljNkky3Iml5/Iny2X1mS3fJnuRZdccqBvCxMgVZMo/TI=;pjW++2opO0xXBePIiEWvnw=="
+secured: "ONc44p53iC2no8AYnVt3lHyyLmdLC+VXZkAQ/674D9040Q+NirfdTWLIKVY0pb1eZVmxUT+7JCTzFpEZ1k3cbenPJHjx7c7PLky+OF92OMiy64E1nTy3uUU9tEW/vsjAYWmMZgsvPNjtQGXNbMS2+nS+nYeI8zxi7Vixk3exrFWReecNVV+7pRHyZ9+/eLcZEFtbTguqPD96d/8eOIGpjj9G1DTqcapa4dclZdO/NdiJz0aXJpurqvPY9gFk46Dz1JHnEtCYKn3veuPTzViZuZwUcv6pKBCKF7ULzSrKPA8UMZ5TjiXrfMD//vRk25wps6EEpjkbUKb02jIdCEu8NUMGQHgb+IsmnSGkW9GjmlEhaqVWWiKPd434vp8xqpAC;EhxbBxYbUSdP4IUpANMxtg=="
 ---
 
