@@ -3,11 +3,11 @@ category: news
 title: "Amazon’s machine-learning device keeps an eye on social distancing"
 excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
 publishedDateTime: 2020-06-16T14:59:00Z
-webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=34&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=33&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/amazon-distance-assistant-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+    title: "Amazon’s machine-learning device keeps an eye on social distancing"
 
 related:
   - title: "Amazon's new Distance Assistant uses AI to encourage social distancing"
@@ -140,6 +147,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7+TTOTZexbWVKKYZVvHo7Bms538C8lhO8rzAOkcsyIBqXtpW2Qf9TiLf+oG/KXha0/CRsEopJ1Z5kgsCr/kJzFJFiHN+NvEO2m+Sq0UpTF2cqf+iZWq98AXzrWFt4qNaMkuw6gVplB6YiqYXB+yrH72+3hrBb6tqBoi/HR/KTKAKeaRvFs74t7EA0U+xL5n75CagXK+raRGVEKFeFr9R3IoKNBGS4rY4gV9NFMNZMci7RVLeNm73fNh9eJT1PDEc/oibGkhKN4gKWr9HRxE1KDveKjbybpM3JEmCp4k077GkYqVNMENKpSt0/OTd62HgK54w5cTVLChAiwiafa8DfGI7dpfhoxAZe6mWOI0/2URSkb8ZOSvQjfCJycZXIvduM8YQhXaSO/hkA54f6cJ2JguWTMf+wXlu8nGMJtNzMm9yjiPOyRRigMIqZCNsBq4QB+ffol+mcxqiZX5+OmHACtjy/vyPmS7Yt1vgJsUZKvp/15Vpxj03x6NwP04JmMWsYNLfafdJ9EygyZ5KO54cPQ==;xnXuhbcAOlevdqkN4GS1EA=="
+secured: "jWc/xJTbwniK6sZt8qKWu++P30oRrAQFdDjhnxNW283lWcLrwib69iNZOKKMW1yufypvjDi71GsuEO3QkoxVsBUCzO239z9dNv8ptIhHNONoL18jOeA6jBcQqqXzZnrqDUiNk9ThEqZs8xI8sMRyHlPgfo3KOm8hYpdZ/KeFH4Zud/wCxqxT7SZZbhubW+WrZh4oQRoUB8nLQR9m9fx5/9FATpjpfesiGF7w1Htk09cOUIGslzwHtZV54P47/Ab1ZdIBa/LLLHCdnm9UcSFAY4IwZr2CpE4ywXcRKMeReoFElG84GFdNVEclP97n3n50pxS2QpR4aO0QKqwIYjmtVw==;DFra6bTsoghSegXSu2auvg=="
 ---
 

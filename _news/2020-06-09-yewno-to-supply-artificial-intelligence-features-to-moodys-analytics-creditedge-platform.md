@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200609005733/en/796953/23/fin_black%402x.jpg"

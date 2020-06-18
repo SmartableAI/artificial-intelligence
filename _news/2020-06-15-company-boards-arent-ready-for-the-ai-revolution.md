@@ -3,9 +3,9 @@ category: news
 title: "Company boards aren't ready for the AI revolution"
 excerpt: "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,"
 publishedDateTime: 2020-06-15T10:41:00Z
-webUrl: "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution"
-ampWebUrl: "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+webUrl: "https://www.techradar.com/au/news/company-boards-arent-ready-for-the-ai-revolution"
+ampWebUrl: "https://www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/company-boards-arent-ready-for-the-ai-revolution"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "0oRM1y7bkanAe8VPFav6YGsFBEdqJY9DPaFlKMz4M+KpZm5NtcW2iprE+fO5fbmDNpVzg1Q0lHr1iv30WG4DH4Y/KKYVdHKmNW9zSps1mvcX95JDrbNiQFoMdPtIGTq7+h9bUlAJ8FKWn62tVQfe9KSREBwltCXWhkRdg3QxnH5u71OnIe6zNmXjMSkrA7ZJqYxeI50hyhuRygG9WG8AZsHxx/OMgQ6CpnIsq3zpd5tj23EYByYRAT+X1VewZfqwqT/1P/jWmHz2a47209rnsoo5zhsYYJojdSWM2CMEI0T1CKuCLozT6C5uTYiheE7PCGwwV2qnxdHx7/RrRnccG/viq6U8NgDJ5BpQtjmQXb1wOQoSHKgybxQrctk5mJXW/bJaDl4uqJR2SVZ3vzCzA1LuBUETNGcKxLyCE2jMWpiI1Dx6ABdaXroMVfiUazcp6rpatJFLFcGLFj/uTZ8BxBzY5Y2VdG+uwU2cws9D91wnrE6gTzxgidp5cCCPw23kf0680Op3XN0C1GxbTBJU2A==;lNN5gbGT0un19OXbVx+XxA=="
+secured: "m7vXDy6H6RbgPJ22nxOPwNoj+U8f51TiF96ine0AQDaFrdebEqk9y/RaYhnze+Gexbec4GZnp6Mc3Y82BSJKkN4gy3BtWUN4YffbEVQmvOyyK2tsm2FT9XQXpd6KY56WtqwXHWRUgM+O5HxFDVn/icEdppofHhXsMXJTUOSgOy2i2CnSZ71qIGy2nwRPmuv08XUR2dPxAOGU8dBO0VrVIkTVdUsZp76aShL16mFsnN/GfDGdtGczFuAwu6NaJIX1EWbHymW/fNEKGujJZ+A/N7fPAgLA3QgIerWsglaKr9tIZV+AstConDhSfippiTHgJXZDSXxsdItrhHIZORSQLg==;/BDRYSDU/n8rcLSnxf6BtQ=="
 ---
 

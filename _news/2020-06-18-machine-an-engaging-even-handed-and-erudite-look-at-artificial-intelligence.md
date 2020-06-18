@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Machine: An engaging, even-handed and erudite look at artificial intelligence"
 
-secured: "eJmKo2URLCC+c5mpOgFUpc3qyPGCEZ7mwjyFCys78MVV5kGwpUOn+bnNd9R/ITpEmPoj+7xeBW/DOD3RV6DMmaZPUdT/gPAHhK3mVfYE9TSgQMRHKFKL/j0mzgbi/ehkpO9tZqBugKE0zIaFKNvA7jOJdAaUJPdlzoRkBVFFScChdJFEPTgLD+XRUlq59bYMVdtJYa3RSG4OU1SrP2y7K2t8FTZMGjXsvZJ9TSsYBWP2ChnMkmO71IcTySqx6H+E4aC4jJzagBP/SMEYKuBSc+wDlSdwhSn63dy/Abo0DaNIPpWl157aKXTfqbJMDN0c+dMV/aG/wBs9HrBAC2lWLA==;15tAk/LCX5YH0kh6mKvr3g=="
+secured: "31Bz3K5t7tXe8osR9FHx0W++fKXKUbVngPFuzi64WrZzSslz7LT8hw/JdYcbwza21SZJ+yMEyAq7eQGQOQHb1v133Pm3cv6lqgb1s32inGBq3EVAFqptkKrGhVMBxjNVTthdj4hSySeYiBESqFOpVun1sR5/SRfd5SytlY52za7ZMdz4yLiMBRDVKggWs5jM54e+Ih4S/KfXjV2gb+PQmu7RIeq+rTFbw4cZzhhUP/cBPiZMuYQOSrQr/TwckT4tcHBzfd1IcEuPuQhFRwpJKTBGVc+Q1SCG4G6inbUH9wzlV+nKTk7hyrNjbuOAxNtuFWRbeoAPE6hEedK4YNyWnMqPyoS4HWIazvjgwyQNvUCnCK6PXNv3oupgDMmYwR448S8mvX54wVlo0V4HlztPaOMgwmB9QMKXluyUiJaOVqJ6ThYaDTYf+aqOkMN3JlVDmLUkCxYYeKCqnn/LVJL+8bzEo9/igOhaqE9Ar5tkkY1qTvyOQO9y1pdamjqhUAHnY4rzAvm8qvT65o3luXDRwQ==;fm1UbY/3c+NJCN4JJVtFnA=="
 ---
 

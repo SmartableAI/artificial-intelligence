@@ -1,31 +1,19 @@
 ---
 category: news
 title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP."
-publishedDateTime: 2020-05-27T10:05:00Z
-webUrl: "https://www.marketwatch.com/press-release/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip-2020-05-27"
+excerpt: "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ..."
+publishedDateTime: 2020-05-27T13:26:00Z
+webUrl: "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP"
-
-secured: "T2ue7h7aRiT7UgrHbrjTVwiPxctzyHMi5Fwk5Ge6gZDeyhKJ3S+ZA8cmEkSMaVhoiLVbTNul5VoqAZMEPxTCg+2QRu8AagGi/+bXrQAykJdziqisLFI4nnAIIzq1xrJDESmYUV/L9LVzlqhLV4eBMLCD4+iF6nBuJtkVrhbg8EkHLH7aya0WeMoIQp0Gi3KanaXAkDUb82FjrGPWu5G6xQNlZYy1M1UrqJWOjAGhnKc/eYM1bnheC9BIlP4WfXk8dIwpHzFRJueiZ6vi+6E5C9QttTOqEWNRXnXSrPSZZLK+5X1IX3ImZAVGpjyIzvgzayFsrOH9TldWJ5550Igjjg==;WKTu1Gb9gGOArydI9x4/tQ=="
+secured: "zVJLtxDJP1kifKTKN9d6yLPDq5GOKrz1skSHVmcEZ0137J25Wz94XuZzH01y/AI/Ei/YLnqL1oF3FUtKUiSlO5OvbMuDcEWNvjcMgXqOWN8sDdIorRtBkh0FpnorE3ygPS8WG5neBl2Rp8JkIoEVwIhJg7VI/KVZ85wkLogGfkNU5qAz0VGQWnAF5macdvcquMvGBdS1CtycvQVeX8xJo5r7kR/V3eVwIWUNT/K+S4odkBfKxpecuL0zF/wLf7Uc4fBnXE3THixg8rgk/uGuEt1rLaQsn5Sq+SOprRGwup01hleNrwo/3od2Z+NWOnYpE2IK7K6v+vlKV6b72d9VlQ==;0gqGYZwyykM/CXZkNuzUOQ=="
 ---
 

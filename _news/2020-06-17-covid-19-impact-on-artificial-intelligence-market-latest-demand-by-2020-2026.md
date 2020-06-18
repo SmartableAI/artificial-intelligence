@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-17T06:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,19 @@ images:
     height: 630
     isCached: true
     title: "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026"
+
+related:
+  - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
+    excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-06-17T15:14:00Z
+    webUrl: "https://www.openpr.com/news/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
 
 secured: "IZ3PbtUz7mknkzBz+CdZ0umfq8cbWt5DGBJpI94yHGMo4wrwImpNAI0NARqOaWRprTU4wMTvsv2a1tu2/O3TLHXjNh3ElmCELtvoq4QHkRSrDRcXOjor/gGK++MM52v/edJuAUyLU4opVM9FAVSyzpzEhdlmgmw5raErgHaSW/Ajt98LiUG2MzAcxhEoroIQMbYCffqNwuDOYWPAUPYoj1MR7t+3zrwGEYpWO3ZS4lgQLbRR/pqQOdYHbqNEeTUlOVPluSMlTt3GzFrCUAQ6mhQlTKUZAGgc2JRMoY4OWkoK/Jt4w//2FaAoYH+8R5ctI/HhcUJ6yczjR2w1aZyJGg==;7fTA5v78JC4r5YsXbw/HeA=="
 ---
