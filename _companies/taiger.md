@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Taiger_CO"
   url: "https://twitter.com/Taiger_CO"
-  followers: 538
+  followers: 539
 
 size: 51-200 employees
 yearFounded: 2009
