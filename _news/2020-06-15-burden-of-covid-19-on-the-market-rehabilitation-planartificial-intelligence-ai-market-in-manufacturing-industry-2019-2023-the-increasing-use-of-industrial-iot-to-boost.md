@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "COVID-19: Factoring in the Impact on Artificial Intelligence Industry and Use Case Spend"
-    excerpt: "Reportlinker.com announces the release of the report \"COVID-19: Factoring in the Impact on Artificial Intelligence Industry"
-    publishedDateTime: 2020-06-18T04:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16284615/covid-19-factoring-in-the-impact-on-artificial-intelligence-industry-and-use-case-spend"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16284615"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16284615"
+    excerpt: "Reportlinker.com announces the release of the report \"COVID-19: Factoring in the Impact on Artificial Intelligence Industry and Use Cas"
+    publishedDateTime: 2020-06-18T04:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-factoring-in-the-impact-on-artificial-intelligence-industry-and-use-case-spend-1029319952"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "M3xOHIQD1jmDYiiiK53nbAIwdQdkl/24gyOvJgIXOhW0F5vL9EcrKIo4uxVh4BqzyVv6sU6vViwZ0PW7rNUzoiO63VXXGXv2lSaQHY6M7UBItzZ2ba4/jCnggYrPqUqK/I2IkoCeqVwu40SFgTFCJHY6M2ITuagE3MFV0MJWGFtgI6VzLwqqeT7bEcpK00dGYcNYsiXxiUj0VPG1rn0gw2Rmh4vg6LfkafVq4zgGFSN22xnumGKCq4f7t3+Id/w4ucmpRjQNKAevwmf6EDcpvlzONBs/718b1LtioVE5SrZpsHho/yoIaUEw2tWvOYRC2aBAu0eAcsz/leh18J3rMBbTRb30PITv6kwPqZBoSrfhr6rcTkXo69eAzFF7kmvWUTvUA/lh8gEJC+TnT+h/zTqIzpWJzgccTlvro5O2nDv+9muEDc6RrKyN2hVxt8j0WZ82O9gZ7cwnCB/RMn13kzFqpwW2lpp807iMDcgQba9XOnkWR8XVVujyfDPoJ0IBF9JHOiGh/KWJm//eEUfsDA==;P7VjmhqEpby7Ix27Zc7L1Q=="
 ---

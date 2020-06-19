@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-us
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: NME
@@ -26,6 +26,17 @@ images:
     title: "YouTuber creates fake Nirvana song using artificial intelligence"
 
 related:
+  - title: "YouTuber Breeds Fake Nirvana Song With Artificial Intelligence"
+    excerpt: "YouTuber Funk Turkey has made a new fake Nirvana song using A.I. programming. It’s Turkey’s latest endeavor following a flurry of other mock tracks mimicking the likes of AC/DC, Metallica and Nickelback,"
+    publishedDateTime: 2020-06-19T04:25:00Z
+    webUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info"
+    ampWebUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
   - title: "This YouTuber Used Artificial Intelligence To Make A Fake Nirvana Song, Smother"
     excerpt: "Once armed with the lyrics to the song, the YouTuber performed, mixed and mastered the music and vocals “in my kitchen, on a sparkly red cheap Stratocaster, a crappy mic, and an old copy of ProTools”."
     publishedDateTime: 2020-06-17T15:51:00Z

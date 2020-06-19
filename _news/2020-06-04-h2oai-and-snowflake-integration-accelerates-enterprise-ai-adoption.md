@@ -1,19 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T00:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
+excerpt: "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ..."
+publishedDateTime: 2020-06-04T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-secured: "8a4Nd2NURYmstDlTdIjIyYdrUdZv+f8xRUqnjFFPcjrhtSKmVPXGEwWRUS34WAle5OUbArtgnbGchgUPLyAP2Ntu68r00Ucg1GkIcQTQP4NuLX9BLiWiGb7NeOw5WObwjCpR9aLwxSLkjLOh3ykXCh/iD9MLKMZgsKx5Iz5BDy6HARKF54X15pTHtabZZP2cxp6m3yXZSsSDYA9x8TIqNgm+ln9AIZ8LHsNeT5PnvPcaBw2eitBBa++XOvfEnIG1QmCIsbvBc9ljVlWKnfEy1EVLjSY2BUp/PWsHOOapPq/6KzJfbw4NY/lPMKgTl+zO2N8Q4KrdurEGvU4cVThaCQ==;/aU8Bvg0uitW4WwxOXvXoA=="
+images:
+  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+    title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
+
+secured: "I7tNk6apfUdv35A9xc/dFnvrKkqZ6bVjMdy4EQOcS6+wYxqWorVR3yE09BAKOPxQCqTnZYNicsVyl/NpfJ7PO1gMU05jKTW7h61rFlAvGK8Y2qTiSzXdj95rLYs1YG4LTtSbkcGsFX9m3x0QY4vEy5C0uyT1phzQFO1IYEZLbfIziM4BRm2pAFYpIQ6G48iKt2RK3yYxeZGJBtBDGwZjM9gQ+3gpBS/syC2nUUZSRP+GlCAEPv9Hk9QBu2wGyMBMhufNRpEJJYlOkEOZjP42hFrT08SZaobwd5jCIODF0UssAspAjJPTxTeyO5cM5AeTnKjW9MixRAxQGHP4GYOoPw==;jZSp4bfR7d1XPVvsOffcAw=="
 ---
 

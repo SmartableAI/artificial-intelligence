@@ -2,6 +2,222 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-02-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
+      "title": "Police facial recognition tech could misidentify people at protests, experts say",
+      "excerpt": "Facial recognition algorithms are notoriously bad at identifying non-white and non-male people. But the tech may still be used today as protests roil the U.S.",
+      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=37&itm_content=1x7&itm_term=2376504",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Police facial recognition tech could misidentify people at protests, experts say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "publishedDateTime": "2020-06-02T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-avoiding-the-missing-middle-with-ai.md",
+      "title": "Avoiding The Missing Middle With AI",
+      "excerpt": "It is common knowledge in the manufacturing sector of the economy that many of the companies that should have deployed HPC simulation and modeling",
+      "webUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": "Avoiding The Missing Middle With AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
+      "publishedDateTime": "2020-06-02T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
+      "title": "Pandemic is showing us we need safe and ethical AI more than ever",
+      "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
+      "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cellphone_022414thinkstock.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Pandemic is showing us we need safe and ethical AI more than ever",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
+      "publishedDateTime": "2020-06-02T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
+      "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+      "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
+      "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/argo-ai-test-car-1.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "publishedDateTime": "2020-06-02T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-overjet-raises-785m-for-its-dental-focused-ai-tech.md",
+      "title": "Overjet raises $7.85M for its dental-focused AI tech",
+      "excerpt": "Overjet, a startup focused on using AI to help dentists and insurance companies understand dental scans, today announced that it has raised $7.85 million in what it describes as a seed round. According to Overjet’s CEO Wardah Inam (an MIT PhD in electrical engineering and computer science),",
+      "webUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-02-at-10.43.56-AM.png?w=1014",
+          "width": 1014,
+          "height": 626,
+          "title": "Overjet raises $7.85M for its dental-focused AI tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "publishedDateTime": "2020-06-02T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth.md",
       "title": "AI breathes new life into a classic ‘80s synth",
       "excerpt": "(Modern FM synths are substantially more manageable.) This led most users to simply stick with the presets. A new AI tool could help DX7 fans move beyond those basic sounds, though. This DX7 Cartridge Does Not Exist uses machine learning to generate new patches based on a sample pool of hand-crafted ones, and creates a file that can be loaded ...",
@@ -1115,213 +1331,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
-      "title": "SenseTime’s AI makes sure you park your shared bike properly",
-      "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
-          "width": 1200,
-          "height": 630,
-          "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "publishedDateTime": "2020-06-01T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vw-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "VW closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "German automaker Volkswagen AG VOWG_p.DE has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post o",
-      "webUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02",
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
-      "publishedDateTime": "2020-06-01T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-self-driving-startup-argo-closes-26-billion-tie-up-with-vw.md",
-      "title": "Self-Driving Startup Argo Closes $2.6 Billion Tie-Up With VW",
-      "excerpt": "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker. VW’s ...",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
-      "publishedDateTime": "2020-06-01T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
-      "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-      "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
-      "webUrl": "https://www.entrepreneur.com/article/351348",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591031101-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351348",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351348",
-      "publishedDateTime": "2020-06-01T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
-      "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-      "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
-      "webUrl": "https://www.cnet.com/roadshow/news/volkswagen-ford-investment-argo-ai/",
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "publishedDateTime": "2020-06-01T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

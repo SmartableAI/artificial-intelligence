@@ -49,44 +49,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
-      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio. The new chip, memory, storage and FPGA solutions would help customers accelerate the development and use of AI and analytics workloads running in data centre,",
-      "webUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/articleshow/76447468.cms",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/76447468.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
-      "publishedDateTime": "2020-06-18T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
       "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
       "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
@@ -177,6 +139,43 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-youtuber-creates-fake-nirvana-song-using-artificial-intelligence.md",
+      "title": "YouTuber creates fake Nirvana song using artificial intelligence",
+      "excerpt": "A YouTuber has utilised artificial intelligence to create a fake \"new\" Nirvana song, which they've called 'Smother'",
+      "webUrl": "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/06/GettyImages-86298324.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": "YouTuber creates fake Nirvana song using artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp",
+      "publishedDateTime": "2020-06-18T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
