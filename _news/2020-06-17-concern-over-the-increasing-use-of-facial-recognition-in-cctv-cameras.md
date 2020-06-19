@@ -100,17 +100,6 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 45
-  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way | Commentary"
-    excerpt: "The Black Lives Matter movement notched a win in Silicon Valley lastech's support of civil rights. Now everyone protesting for police"
-    publishedDateTime: 2020-06-14T20:01:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
   - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
     excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
     publishedDateTime: 2020-06-15T13:51:00Z

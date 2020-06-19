@@ -114,17 +114,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Black Lives Matter could change facial recognition forever — if Big Tech doesn’t stand in the way | Commentary"
-    excerpt: "The Black Lives Matter movement notched a win in Silicon Valley lastech's support of civil rights. Now everyone protesting for police"
-    publishedDateTime: 2020-06-14T20:01:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way-commentary/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
 
 secured: "4/9g3HQSl3GdyYsF7eJt1nF1yF8GBsFNEa4j676opZYfOWLryt8BeMOL9nantGNMqcOG3KBrfzqF5IoCPkEWls552xwp/x5/eYyUt4tIgEKkFjoKl7ulb6myTZbw+KmULYLoNwFoTHPgcKQVySbZnB77SXdDqKQNm+dLzLD88S1DWB03jkqCfTTuckCDn0JiwTrZtrbWs8aYB9u+V4sQx2rPJvTvU7+BrHkna0MztfJ8GVvLJf7YbL0N9pvDdMBaib4W5hkfo/cyNkGg1hFxwj/LNhxBbvirtgYuNpYe+kIkQak1ZguST88LQpl7pnlWxsYeFo/C/e6Rlpb3w003ABVNYCr8Dfooj45WlB9RiIBUFrU5bOHPrxrsbuFBQcKyMbLujvHTqraIZGKbXruytCtheq8isSIF2olptd0cky+CL+L/V9fuVW0+OqtXL+PFTKztdLBvREp0RZ22cACaAHtRoN3i+EfT2FN1xe0bIKKpkDY+9MgpHimnMqpg3IjY5J3QNKOIpPFDXlfx9Eq1UQ==;zmqfhhrq019YLXsfYMWyvg=="
 ---

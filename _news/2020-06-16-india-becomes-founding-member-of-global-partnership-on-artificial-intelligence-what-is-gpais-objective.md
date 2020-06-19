@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "India becomes a founding member of Global Partnership on Artificial Intelligence"
+    excerpt: "The alliance is aimed at developing responsible use of AI which is grounded in human rights, inclusion, diversity, innovation and economic growth."
+    publishedDateTime: 2020-06-19T12:24:00Z
+    webUrl: "https://www.digit.in/news/machine-learning-and-ai/india-founding-member-global-partnership-artificial-intelligence-54979.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 52
+    images:
+      - url: "https://static.digit.in/default/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "India joins global partnership on Artificial Intelligence as founding member"
     excerpt: "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay)."
     publishedDateTime: 2020-06-16T03:24:00Z

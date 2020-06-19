@@ -7,8 +7,8 @@ webUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-f
 ampWebUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
 type: article
-quality: 72
-heat: 112
+quality: 74
+heat: 114
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://c.tribune.com.pk/2020/06/2246036-download-1592566609-408-640x480.jpg"
@@ -88,6 +89,6 @@ related:
         height: 480
         isCached: true
 
-secured: "x8b+gyYlQkGFSKhdKcnA0ycU5qNjqQ4lyNcPQjD1SfaQLEUGz66eo8jP+J6RiZX2ZTe0OKsGY9V6QA6H9jP/XG7LG0sKAFkISZ86putkGGEMySK6yqO4eb1mEwOKdB1vPz944Yr62gtugdplHw1AlKCwQRFHiEoRbZJPuF5NW7eRb7eDz5CBfXIYrzwCqfcXCKO9HW6/S2iGxMIOrz7v76CIDR7j5wIluQyO7wqnU3iFSZAukaDzpPChF8RMrJ0oH/7vigamplLIngPfI/x9I1ka8Nq/UAPf17LYv6fVaZa0Ya81AnnrsjbcQslwuZyyX2vSmWqGg1goqofGL3IqsA==;95Wv3GLUej7vwJXEt/f5dA=="
+secured: "ByqDq2rQk+OqZOqoYmpEjEP92dKr5ZWYxOJwl60WR7tt7T4jKDyyAE+NBxW2SbCmq0rSfFp/dExV2zK6xG53HjAeuUmDgDSWM3KFTqIZ89/Hgkjq/lq4HX5izfQ2CmpgKDEow1sYkYyEs+hGsh8UlW8yrhZXYiPnJcjnOZ5uEDJf4vRP4eUPbzUzvCN6+75954WU7SkhquUQeZgIKL2RjGTViXwBXyjIx/M9t/LyxseeN20dAKJxlLzeI+0Ml0BZtkgTlYLiwV4EJq2D53zZ6C5pUcBdKMID4qRS0Z4sBNzX7QCFZP/+RGV6bBcq/rzp6cIw5l/3n09t5Qt2T66gqEXf9+AI02GhJtgPPdZtM+ceyLigTQKBarQB9D8FouOZc9uGAIxDw6pTEDGYkMDDQqpQErUlp17r/qpGxW8iYDub04cX7cyxPFTN/is02r34BFqIt8qH874qQyq0/VmkcI9p7N9L2MHZxAeY8VAm7UKPOvqb3Wr+K/nwFpIQVyQYrywPFT9un/cYh5g7lKd7Qg==;g7I6EPRTqBmf9J+DIe254A=="
 ---
 

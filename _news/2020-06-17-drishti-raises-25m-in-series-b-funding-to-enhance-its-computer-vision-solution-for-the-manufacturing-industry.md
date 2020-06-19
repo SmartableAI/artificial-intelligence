@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Warehouse robotics company Geek+ raises $200 million"
+    excerpt: "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million."
+    publishedDateTime: 2020-06-18T16:06:00Z
+    webUrl: "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million"
+    ampWebUrl: "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 89
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "QBplkJ8wAdlawaOYiiC8782x6FN9MAIgtW8nf5fORDNrJhruqfWe0ipv+9h0ce+HtiZqQqefiM9gbifCNk07i5vow7bwJ1BMJ9V+MIETZvRolu8Rv17KA3+FUD3dr50YBil1+JIq4QyzefTfiH9CoaFWacuHZxJ/EGcsSjPNPS/8z/h9adkx1FzcJlmn4J+RgB6LwHbSzpf5laeIia6pwV+EV5FknkjfQk5xJeJDBX4YNLXtDjubeRV0IPkCvRZZPi0Krdm7qyQKhBis6Jv5orwLOj4AT3fTD6O6sG8gdyxh5ImF+5ywVOWgpmA9RjiZsOc+wDQk6UQA5z83Lt/p51Zhyh8p6yC9oQUwopoX3kXF9MTPwdEHMhvue4HAyswgOePTtgfqWSf4x4trvyDRkWfD6KtQNog9u37WU7Kgg2K9c54d68d3GSDEnFujKrd6zHG+eCX9Ie9G3Yi8zUrp5hWm8UqPgq7NQ3DB95824S8+6uyjdDl92AnX+BzVO+vsJpYZYdbrT12NVqPbbis8bg==;Qs5DomxqULPDbBU9k0GyuQ=="
 ---

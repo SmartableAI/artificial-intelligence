@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-br
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S."
 
 related:
+  - title: "Warehouse robotics company Geek+ raises $200 million"
+    excerpt: "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million."
+    publishedDateTime: 2020-06-18T16:06:00Z
+    webUrl: "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million"
+    ampWebUrl: "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 89
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Drishti Raises $25M In Series B Funding To Enhance Its Computer Vision Solution For The Manufacturing Industry"
     excerpt: "Drishti Technologies, a California-based startup, has announced that it has raised $25M in Series B funding for enhancing its solutions."
     publishedDateTime: 2020-06-17T13:33:00Z

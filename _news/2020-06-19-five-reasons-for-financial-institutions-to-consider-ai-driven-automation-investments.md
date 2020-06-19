@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/"
 type: article
-quality: 60
-heat: 60
+quality: 82
+heat: 82
 published: false
 
 provider:
@@ -21,7 +21,15 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
-secured: "YWJ9uy1gZB3LLeRuUG2+6z7LtdTl7GNNEH9U4PVU0Xd2LqA59K78ijP5kRG/O23y8Z8H1hexaqsNyB64mmJq8dKpVP5pgrLTtHMfNygb0WhvlfgyMnQ8Tpho3a1gVUVDs+FHcUNi2U5DJfDlRuf1k/39XZ8v6Acz6WWEzovQ1LwOSgb0fFKx7YKh6Z0p9c6MUqBpFpfqs5O8uuU/TQP1gMK3p7j67HyNoYA0qHYBYRQ0wob4UmDG8/xNE+wxlVvtWudYCha7F2ahbgNUiAW5DcJEq3H1X13tvRMIkAItQm8YoUamJD/wuUTMLAw7GiGczSFbZyqZNU5hHI0mXqzkwkeylHG0FROW5TGb40uTdsutlU9W3GSJAIyzwFS8FRvuarKHSz/UkfN8HDHyhUt2E+RWRA23TGI7+RARXIPjRT0H3vkUKQ6kmAd8bqYYuaUDLowK8YM1gfaRoW8qWuC14nqeT3Njo66HUzGnLAxkX9db8tqrMXIPLsiTVBQ42yIk2/Ej1mI94ceG7b7Bd26i2g==;FGtzLXwPSKFMKXGhDErOug=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg"
+    width: 1200
+    height: 912
+    isCached: true
+    title: "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments"
+
+secured: "+1m6LXqpup6fb69gMCmzfMK6JOfrRYrYCArxQzIh7ZJQ5S1iQG9mYljzWIA/BsPWvcVuZbFPHWzfBSVEQkq2QVRkh+RZPosxc6vdIlJClcCtdTHHSlZe0LXD3xOGj7dxmyp6Y8ftWiYLd0M4VU/aSK2fRsY7hjtKF4g5GkcfEMGj7Fv1IjqPAWrEOEoKF3TmTdi6NoBiyIcMFSr970bKLwrmTU3RGgGdbXFrPTSeXgyTSfw4GuXsLLHqDTOcfyOm6lWNiTRzUSeG4VspgHvB3ZVTUyHgKdAoHJZdTMEeP+IsHj3fIef9rbI2GKLXwpVZ+WCAsqXSsCPACGAkCMtCaQ==;neQe5rbwOaZE4Hz7v3uVOQ=="
 ---
 

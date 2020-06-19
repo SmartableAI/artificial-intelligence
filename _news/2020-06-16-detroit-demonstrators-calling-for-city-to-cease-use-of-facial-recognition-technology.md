@@ -57,6 +57,20 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
+    excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
+    publishedDateTime: 2020-06-19T12:36:00Z
+    webUrl: "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762"
+        width: 1040
+        height: 630
+        isCached: true
   - title: "Facial recognition tools under fresh scrutiny amid police protests"
     excerpt: "Nationwide protests against police brutality are renewing scrutiny of facial recognition technology, prompting tech giants like Amazon and IBM to scale back their sales of the software to law enforcement at the state and local level."
     publishedDateTime: 2020-06-17T11:00:00Z
