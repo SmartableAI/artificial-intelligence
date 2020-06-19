@@ -26,17 +26,6 @@ images:
     isCached: true
     title: "Cycling app to use crowd-sourced data to help with bike-friendly city planning"
 
-related:
-  - title: "Cycling app to use crowd-sourced data to help with bike-friendly city planning"
-    excerpt: "An app for cyclists is to ask them to submit feedback on infrastructure which could be used by town planners to improve routes in response to the coronavirus pandemic.See.Sense, which makes artificial intelligence-powered bike lights that monitor bike rides and showcase data about user riding habits,"
-    publishedDateTime: 2020-06-14T23:06:00Z
-    webUrl: "https://www.itv.com/news/2020-06-15/cycling-app-to-use-crowd-sourced-data-to-help-with-bike-friendly-city-planning/"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 0
-
 secured: "r+kPBsKMmIvi6SifN6SVYJvAuW5IRx4aLJMvFhoA7YDISew9qxF6+ljNJBQcIWwJ37AKVct6tZprNTYgsT4u/sbCKMlWk//PThOhZmhG/6GMJPrvdJsTgEqIgO5NqA7tEP/Cwe4vn7T7wuzbJiLx2ltfgxacEHUXoNPfRLasZgfkHW4pyNGQ6w3B54VKFbx8tLHMte1ZeGz/NFTYJsNI+nMqZqFmeR4GeIkkuxEMTdfQBuGNbs54DIdOtaakoNjbfuIEqA+rhyVJAthItCH6Y7epXY4NXp+zGSkt90aSG0xr9JPs+F5vDlT6GNS9w9INBztZDkF3gz0X0wjmsd358g==;IqMo3oP5N2WwT11OX+0/1A=="
 ---
 

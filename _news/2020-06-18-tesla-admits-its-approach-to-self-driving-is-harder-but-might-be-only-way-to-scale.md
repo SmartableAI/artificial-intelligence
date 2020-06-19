@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-on
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Tesla admits its approach to self-driving is harder but might be only way to scale"
 
 related:
+  - title: "Tesla’s controversial vision-based full self-driving approach is finally paying off"
+    excerpt: "Like many things about Elon Musk, Tesla’s approach to achieving autonomous driving is polarizing. Bucking the map-based trend set by industry veterans such as Waymo, Tesla opted to dedicate its resources in pursuing a vision-based approach to achieve full self-driving instead."
+    publishedDateTime: 2020-06-19T17:06:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 53
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autonomy-investor-day-1a.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "Apple Patents A Way To Keep Drivers Alert In Self-Driving Cars"
     excerpt: "One of the perks of self-driving cars is that, well, it drives itself. This means that in theory, you could be doing something else while the car"
     publishedDateTime: 2020-06-17T01:16:00Z

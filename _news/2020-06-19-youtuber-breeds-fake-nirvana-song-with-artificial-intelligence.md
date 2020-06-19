@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence wrote the lyrics to this fake Nirvana song"
+    excerpt: "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,"
+    publishedDateTime: 2020-06-19T17:42:00Z
+    webUrl: "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 87
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-19-image-9.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "YouTuber creates fake Nirvana song using artificial intelligence"
     excerpt: "A YouTuber has utilised artificial intelligence to create a fake \"new\" Nirvana song, which they've called 'Smother'"
     publishedDateTime: 2020-06-18T11:44:00Z

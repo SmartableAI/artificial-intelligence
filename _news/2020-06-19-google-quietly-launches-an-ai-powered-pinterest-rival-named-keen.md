@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning"
 type: article
 quality: 87
-heat: 87
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,40 @@ images:
     height: 502
     isCached: true
     title: "Google quietly launches an AI-powered Pinterest rival named Keen"
+
+related:
+  - title: "Hands-on with Keen: Is this Google’s AI-powered Pinterest? [Video]"
+    excerpt: "Google is back in the social network game thanks to the Area 120-developed Keen — a Pinterest-like app that utilizes AI to create interest boards."
+    publishedDateTime: 2020-06-19T17:40:00Z
+    webUrl: "https://9to5google.com/2020/06/19/keen-hands-on/"
+    ampWebUrl: "https://9to5google.com/2020/06/19/keen-hands-on/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/06/19/keen-hands-on/amp/"
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 57
+    images:
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/06/Keen-for-Android-4.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Google unveils Pinterest rival 'Keen' that curates content using the company's machine-learning"
+    excerpt: "Keen, which was quietly introduced this week, is available on the web and Android and is meant to be an alternative to the infinite scrolling associated with other types of web and social media browsing."
+    publishedDateTime: 2020-06-19T16:15:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8440629/Google-unveils-Pinterest-rival-Keen-curates-content-using-companys-machine-learning.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8440629/amp/Google-unveils-Pinterest-rival-Keen-curates-content-using-companys-machine-learning.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8440629/amp/Google-unveils-Pinterest-rival-Keen-curates-content-using-companys-machine-learning.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 32
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/19/17/29825116-0-image-a-24_1592583028616.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "ik+p8MVlfbsyUW/dYVyo0RVT5szC+6NpAC+V8XUi1yeqlfHYeEoylaQR2F/KUCxIqJVfGlFeCO4rAAN/N9M03S8Q7hmvSfJekPMWE9eUHesarWcDaXYjZCKhJVwxALxS8Are0dGSWeXJRH/GtnR8s7vq7/sqighy9IN3JJWNQhPGUFEAd4JEgOAmNAsFfCZbTrggXwsdCx3w/F17LCp86XzsnbaPbvKfPEc8nT4fjgUAQSswvRfn93pNFx1i6TAC/Dw49wWrihdzM9XnvjkZZQl5bQh6fFMXGEzr4kanY7iNt3yT/h/emzs0IxfdwFi5vbu6eKWvUOaUUc4jT0z3aIEGLLnzMAZQjFYoTWugACWdd/wcIMKzi1u5DLdvs4qxvCOljdRO6Sy+pMaed/pk1p3fPYLTg0245iwvy4p2ylc5I9WiGK9MAsKQpeEsUDp9futjuUAoSfjIln08Lh6B4U+T8UlxCP6mS5Nw6wbZIN2T53NwNS4bOibmTtKZTlxwH/CNehk8Lx3g1k9sLV7MgA==;nNX6O11rlO7awYBqTIuxKA=="
 ---

@@ -306,6 +306,17 @@ related:
         width: 816
         height: 554
         isCached: true
+  - title: "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered"
+    excerpt: "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban"
+    publishedDateTime: 2020-06-19T16:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
     publishedDateTime: 2020-06-15T22:36:00Z

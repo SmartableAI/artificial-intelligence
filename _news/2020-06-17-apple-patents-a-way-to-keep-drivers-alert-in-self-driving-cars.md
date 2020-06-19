@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 463
         isCached: true
+  - title: "Tesla’s controversial vision-based full self-driving approach is finally paying off"
+    excerpt: "Like many things about Elon Musk, Tesla’s approach to achieving autonomous driving is polarizing. Bucking the map-based trend set by industry veterans such as Waymo, Tesla opted to dedicate its resources in pursuing a vision-based approach to achieve full self-driving instead."
+    publishedDateTime: 2020-06-19T17:06:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 53
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autonomy-investor-day-1a.jpg"
+        width: 800
+        height: 418
+        isCached: true
 
 secured: "D+i0r7MiTQyiTBq//oShgOC/qLXRkTIengErzCEExCATsLdMh5h6E9yol3Ba4wAR7bjFnff7Y60W9ihIFoFY0sO6mUaLgAzAGARQOW6RcJb8EpGDbC96MGhfIn0oMZXHcATByQiqIpX8nFFYVRIyIDRLAGWPA1xh5L+xHMaNQgxfeDp1dJgnufUutVCwIyMA98RKD+0RXoXF4Lyoy76ZkS2V1Bbzu/4DQkyjnFMpyOloQRODjMYECnYOBgKMcMMl6xvN8frd16hFMHxpQiQ/4NNqWpHJFBY3x1MS7hky0EOJB4iP7terAcTayd0n8Z0kg0mMwgRMUnGHXER9gLxDeZHyLPBpovwzSNunx3K6QrsL6ZFHAzNujhm4pfV/eB0DooZOjObxx6b0/DZ5JyZ+uipblQpKO5xnifvjTmxKWCmI/v49b39Hh2VQ77viLyioSJZjc3SL9TTTvTy7M7LnerzyCaX8IM5vKvUTu3/qrcFlSMk381xKmDY6OxlVrbV7OxNzMGDJMzBdwyXr4IQhcA==;2nB2APhkgg89DgwSjEDEPw=="
 ---

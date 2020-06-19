@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Coronavirus Will Finally Give Artificial Intelligence Its Moment"
-excerpt: "Source: picture alliance As the coronavirus pandemic continues, Bloomberg Opinion will be running a series of features by our columnists that consider the long-term consequences of the crisis. This column is part of a package on the future of tech and innovation."
-publishedDateTime: 2020-06-19T14:00:00Z
-webUrl: "https://www.bloomberg.com/opinion/articles/2020-06-19/coronavirus-will-finally-give-artificial-intelligence-its-moment"
-ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-06-19/coronavirus-will-finally-give-artificial-intelligence-its-moment"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-06-19/coronavirus-will-finally-give-artificial-intelligence-its-moment"
+title: "Coronavirus will finally give artificial intelligence its moment"
+excerpt: "For years, artificial intelligence seemed on the cusp of becoming the next big thing in technology - but the reality never matched the hype. Now, the changes caused by the covid-19 pandemic may mean AI's moment is finally upon us."
+publishedDateTime: 2020-06-19T16:17:00Z
+webUrl: "https://www.chron.com/business/article/Coronavirus-will-finally-give-artificial-15352240.php"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
-secured: "eJ1io7F2KMDN8JpUY+NNIJ1oezmVhT/OM/k+Gs6tOIFAxKVJm3zQS7t5f8we2qAyFVgELUwEB3PHwlsWbWn7X3GTpzNWLfQdO6U/ZyfS2iAwd2+9QbeuODHoSkxnB9gmNUXnmtklyPr7mZZIrEYGBsbfAkk6y7LGFueaengu6YXv+LvjmJuwntGiG26HPZrboMeK1JO96CiotvTMhhPzCZhH9DM0jW78X3ggyC0ZJayAJp1utQ2HKhb8dH7VuEBs4jiRpZKq4pIGL9zQP+wS390CkUGDWRkVL1jXC9DYQ1tAEfKSS7tavVGaCmL1W8lir9aM5xSKKty99y90vAmKgU0ONio2Rm+w3m27WevDItYng+QVOt6b/xnsxgi62G/KdMDMZdkhNMi3oNwElrMyovanrE0hw2V91458yd5n+j/xhMoRHgJJqWmoUBfFh1WasaDd4cswgdNVbEAFmktdL9APqvy4j1X8XKtXH0uAPvdEwxyypB8xfSvt3twLceeNLrT19Ao0HRi/40hedr4BHQ==;UyNolICYuRHxBcuQqKv3EA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/12/52/74/19574588/3/rawImage.jpg"
+    width: 2048
+    height: 1366
+    isCached: true
+    title: "Coronavirus will finally give artificial intelligence its moment"
+
+secured: "IOPDuS0tzBLzCuMDD3vBmYY/eLXjpMwBD0MAhhh3+Sf7OqOQ3R5UdQDLdYpvPT/lPKNl14uIgtgD5nSq6baVuBz9OWhyPiuaECjgJX0PmkvI2w9oB5txPTKQlG/p6eSwkljyiRO6Sdzw83C3zQD8C5Z0oMnQfKu6PSweutX9GBCPlED+tu8c8AFnUqUlbz7ea7+liheY2pTjpYw34wEwbghT+HkZ2g1BLF6IZDVcE5mqym1sDFsUBmiyEX3RsoefMb5FaTNXG7zHpqhSM8NsiteP6/tzeAiJlM4thtzJQLNezzyxe4XbKOqsIgwGjmIoPgQrYCTGnjHnXI+nImjMrQ==;MZswFQbhUt6uUlirbFBqcw=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "The Impact Of Artificial Intelligence On Professional Services"
 excerpt: "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law."
 publishedDateTime: 2020-06-08T09:37:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services"
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 type: article
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "The Impact Of Artificial Intelligence On Professional Services"
 
-secured: "l+jKLR7cNlLhH7VkXasYihVy2LvfhXQRI4RLA5FX5GRp28Ihj0RDBgaCkCGJTjgpFfbyqBg7FiMq4amYFeTp4JaL8VP9hFKX/a98hf7uI8Fe0L2JEtPZOsFNoDygLfnNWB+3JH2rh7NUcP4A94mjRb23OBpaZ2QIPFjVrUJU1EZmxfiIjTSHMOQ/5y3pdF1+wi82mHnGVefmP/Ggdp4G8w9GCTTl8FjMJJw5sDyv6PZR4XzGE/oX/Z3wvzCnV2SeMB269OFnZyxbkDgXmpl+g3klybV5aeAD7m7iyUL0T+WlHeLEg9jKp/Fd29FsstaMZnBAcOiA/CqC3NLUUy+HXQ==;jpW55BRq64diEmUGRdw9Rg=="
+secured: "zFPLvvT77I5+f7O2kSgcvw0T0cZnJm2N+O0ZM3g7Q079/dLxVi2Q+YxIrCFkmSaFVaP9WGZ34Q99SJyJQbUNeJ46eDVyNp/7BbFyVzB89iRDnRWQB7zSVyJdOk/jH82JyW+plFROcyFNb8w4c0Y7G9YA701WdGGXvLOWjrluR/srEz96hucUT+tpY5Dmr91ib1eOhYac+isplDLfSz3vcEme53e7pDD9xCdwlF/gs/i2KILsddvoqP9NNwCuhv6jMjo18rnMAU7RfkSdmgSd/ntehBMMwd7ex+yayO+BMxPRLuvW7rFak35WQlkZvwVTPxdlbrw4jreb3E+B/5ivkw==;jJPyOhN/3nvvQZzAMa4PPg=="
 ---
 

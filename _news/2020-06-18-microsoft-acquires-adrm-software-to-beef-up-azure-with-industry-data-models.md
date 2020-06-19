@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft Acquires ADRM Software to Develop Data Models for Azure"
+    excerpt: "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division."
+    publishedDateTime: 2020-06-19T14:25:00Z
+    webUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 74
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg"
+        width: 1024
+        height: 402
         isCached: true
   - title: "Microsoft buys ADRM Software to improve data model for Azure"
     excerpt: "Microsoft bought ADRM Software, a large-scale industry data model provider to improve on its buisness tool, Microsoft Azure. Read more!"

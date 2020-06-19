@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
+    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
+    publishedDateTime: 2020-06-19T16:59:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "5OPAXxzHgSyMLYsYFs3hZeeZKJoFO/anqsvf5jYB3em1AIEO5YHyiBqkWVBC1SyvaK+JsaPtZoWApz4IR6bHlxYibmPAcDXhj7W5yjh3G05Y26vZxIiHNqxvVzVbU4W67Wmo4F86Ia3DfTwTdXFkRpQqHhC+VDZd81sf+VbE6osT8vBiodjrlye56SIyPJZ3u1tqzsTj1djN3iTXp+6BWw2lhNb43JTaXa8W13ciaVitLU4PhZlGnHtI3ToO3cNvdCYRAvSLyABZvNvZm7ep0w356LaMAW2mflxeEYtxGbQaV0QN3oxVCPmWWlWKGl69+d+bifTinYtGF9bdL48rhA==;QWqdY7AycxeI3MVXEDamig=="
 ---

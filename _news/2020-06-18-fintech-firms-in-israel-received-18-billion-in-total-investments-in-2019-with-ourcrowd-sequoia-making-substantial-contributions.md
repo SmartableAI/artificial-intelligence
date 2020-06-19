@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162903-fintech-firms-in-isr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162903-fintech-firms-in-israel-received-1-8-billion-in-total-investments-in-2019-with-ourcrowd-sequoia-making-substantial-contributions/amp/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "Fintech Firms in Israel Received $1.8 Billion in Total Investments in 2019, with OurCrowd, Sequoia Making Substantial Contributions"
 
 related:
+  - title: "Investment in Israeli fintech industry surged to record $1.8 billion in 2019"
+    excerpt: "Israel ranks fifth in global fintech investments; coronavirus hit the sector but also created opportunities, report says"
+    publishedDateTime: 2020-06-17T08:31:00Z
+    webUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/"
+    ampWebUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 41
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/02/iStock-623205372-e1581502979966-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Israeli Fintech Soars With Record $1.8B In Investments In 2019 – Report"
     excerpt: "Investments in Israeli fintech accounted for 5.1 percent of the global investments in the field as a whole, according to the report. SNC said that the number of companies in fintech currently stands at 529,"
     publishedDateTime: 2020-06-17T18:09:00Z

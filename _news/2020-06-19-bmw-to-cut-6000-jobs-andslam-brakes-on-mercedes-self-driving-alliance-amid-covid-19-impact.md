@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T14:52:00Z
 webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,36 @@ images:
     title: "BMW to cut 6,000 jobs andslam brakes on Mercedes self-driving alliance amid Covid-19 impact"
 
 related:
+  - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
+    excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
+    publishedDateTime: 2020-06-19T16:38:00Z
+    webUrl: "https://www.fool.com/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579334%2Faptiv-lyft-2018-blog.jpg&w=1200&op=resize"
+        width: 1200
+        height: 770
+        isCached: true
+  - title: "BMW and Mercedes cease joint development of self-driving system"
+    excerpt: "Benz said in a joint statement Friday they have ceased cooperation on development of self-driving car technology. The cooperation started in February 2019 as means to accelerate the development of the technology."
+    publishedDateTime: 2020-06-19T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1128568_bmw-and-mercedes-cease-joint-development-of-self-driving-system"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/bmw-and-mercedes-benz-self-driving-car-concepts_100693731_h.jpg"
+        width: 1920
+        height: 982
+        isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
     publishedDateTime: 2020-06-19T14:45:00Z
@@ -76,6 +106,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 4
 
-secured: "Wl950Q0QHICT6o8QjNvfFqkPiGtOsI21WjdmgZO3zCJOEE5jNkPltA8FteObfKNlStOhoeHBImyDDvBvaznEjK90vNEpD4suAsZpQ+AyB6LXzyDmM/Cc2MKMEUATjxD31pDfPv7Z0KHmfu1h45R1hAp4XSbDDn4atps/78cis4vo8eEqPYjpD2vQillBfETJRT7aqivWh5bGQlWY1FV6KEOncsGyc5ueTDdxHxvhGmLwtRLqHCsWr3kUNtyNiqcKoyHxgaJ/660rmVo5jskK7y0ZhqktPGiSM8b6VIonDNy62MimHthmJLRgzElDqjtnSTOkJJC0yQ3cO2au+tbi8A==;MztBtGb+YJRwP3bIPSE9fg=="
+secured: "t3+34TZfTjBkmiH5Xt5f9dsmXb0Rc64AyR5FWtKREsQNxP8LOx9/WbnrJFDrRPbmp3cxbfgbs4NeyOSctnkoopIUSKUyo80cOUzKqRYOlxp4nNTl0BLpCxqk5EVpiwUmDL6ZpWfuX41dgCa1k1o+S1G2XxDWmQX/Z8tgH1pCr0EWJpsH23zjl1Ym6R/zdvC274sGVimtcHAZ0bHsXZDNJCem2hcsJ3F+ss6gTS3oOvycctz8q0GtfwCCJYbRHO+ytWszp6h3aLnVPbJbdBU7Y9ToNB16mDTH8V2pP65c+w/b9s8/JSzGPLAtF+fOPB6QRsb00mh99rRwxDDO1j9p/9dLhj+30Wtd7ZLbKS9OktKb63Xr7BRh0bkqRrErlDSyVbK0wrSlGalOjP7mRgZsg+VmgF7SwyqJhiGlm8shNXZWL6682sRMSF4StCZN5I81e/hG9o9kBka+Td2hx7+Beyf6wcvbXIlcm0C16JR4+arkAH62G44pMJgMpFWbT2w9j2UJGrC893KTro0HsgLT7Q==;ci9tBVJYB/BPrLOxWoC16A=="
 ---
 

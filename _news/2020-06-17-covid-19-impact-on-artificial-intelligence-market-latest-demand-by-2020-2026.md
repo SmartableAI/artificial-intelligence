@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T06:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 8
+  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
+    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
+    publishedDateTime: 2020-06-19T16:59:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 8
 
 secured: "IZ3PbtUz7mknkzBz+CdZ0umfq8cbWt5DGBJpI94yHGMo4wrwImpNAI0NARqOaWRprTU4wMTvsv2a1tu2/O3TLHXjNh3ElmCELtvoq4QHkRSrDRcXOjor/gGK++MM52v/edJuAUyLU4opVM9FAVSyzpzEhdlmgmw5raErgHaSW/Ajt98LiUG2MzAcxhEoroIQMbYCffqNwuDOYWPAUPYoj1MR7t+3zrwGEYpWO3ZS4lgQLbRR/pqQOdYHbqNEeTUlOVPluSMlTt3GzFrCUAQ6mhQlTKUZAGgc2JRMoY4OWkoK/Jt4w//2FaAoYH+8R5ctI/HhcUJ6yczjR2w1aZyJGg==;7fTA5v78JC4r5YsXbw/HeA=="
