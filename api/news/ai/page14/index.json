@@ -2,6 +2,44 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
+      "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+      "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
+      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
+          "width": 800,
+          "height": 600,
+          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "publishedDateTime": "2020-06-03T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
@@ -1239,52 +1277,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer.md",
-      "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
-      "excerpt": "Vara, a startup developing AI tools that detect early signs of breast cancer, has raised $7 million in venture capital financing.",
-      "webUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ce5948e5-f370-474a-aaab-47f06923bc0b-e1590521543643.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
-      "publishedDateTime": "2020-06-02T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "How moving from manual to machine learning can ensure operational resiliency"
 
-secured: "Gf9aLVBg1w9xwFyGgEFXbmSK2M5Mr8iEVWRh7ByyzS7MVyoaZQlc7RM75U0tFRYx9AmOcsac9MR/LIzInAjJf1SlbsFjkXVbgMBu+IeBnAscOrNb49eUI+n48RK3R68olg1CAtbX9+gTQlDNz1acl2QWcvZ4ELoR/mQKga6tK9w7NLAE+D5FY83/uwhmCx0TpZ6GZXOqa358VAhjxiXRfdHZSPUroUsVD+0e+BDLd+p0kQASJt8xTwDKzN9dgwdxsobfYb4HU0waJENDfedOeFAMKnRN/1EwkxNIdIBGrrvwgU1eM8AfIpwOB3qxKZa/AXXnXD+ZHLRta/NIoFHe0A==;ehvr+9O/QBlin+ZAsHY0aw=="
+secured: "xXs4pWb3C++a5W6SYtY3KFepYxCet+V33+RYi19heBg1iS5mMYm8LpAO83WqV9DFt3PmHLo5clNWD3zdXAH4tQWRS+4ueOvskqzNwPwWWcMxm2EpkXWfvYf07IRCvPipItukoOmrsFyVxPOwhHuDfQvsDemfTVjK5I+XSuihGlOiT6EcpyZgjMzrIP2zOt71SsTUoyOyHczg0pa7FgGJX0zMB7LOWQ0RDBg/LsgjrMMtACXkl764oW7N+biSXXg+/nc/hN//Zaze1NpCC0nBApuhvWTIqyruiOOWZmCvqM4z9Qa1gDt1CuDTBFqT5G5o1qSeWUy024+Y1c3GrATHt2kcsvP1OMiPPVeyz8fLLxqeA4r7fBbbAE1uwgDbPLSWncRm45ONN7A/Kg6sEiwPCSMud/qcOhN9ji6nYZY7/QprAkZsXQhTJwe/nyr5LQrDEAxh1yGMbKKAlxgfAJ6yr7bDVbCeoR4ZyD4tfn3BbCH3hpQe6HKifQeiQkq/2HDvO0JtQ1mCo8ECA+2NayYM+Q==;dwcK7LeFI12KBbWg6socPA=="
 ---
 

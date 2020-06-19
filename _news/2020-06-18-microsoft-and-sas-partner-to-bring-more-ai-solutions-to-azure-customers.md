@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft buys ADRM Software to improve data model for Azure"
+    excerpt: "Microsoft bought ADRM Software, a large-scale industry data model provider to improve on its buisness tool, Microsoft Azure. Read more!"
+    publishedDateTime: 2020-06-19T06:31:00Z
+    webUrl: "https://windowsreport.com/microsoft-aquires-adrm-software/"
+    ampWebUrl: "https://windowsreport.com/microsoft-aquires-adrm-software/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-aquires-adrm-software/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 74
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Microsoft-buys-ADRM-Software-to-improve-data-model-for-Azure.jpg"
+        width: 1856
+        height: 1280
+        isCached: true
   - title: "Microsoft acquires data modeling startup ADRM Software"
     excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
     publishedDateTime: 2020-06-18T15:54:00Z

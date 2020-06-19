@@ -2,6 +2,53 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
+      "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
+      "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/06/41509c3c-a7ed-11ea-8ea0-d7434be00753_image_hires_202444.jpg?itok=DJd8Kxei&v=1591446290",
+          "width": 1200,
+          "height": 630,
+          "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
+      "publishedDateTime": "2020-06-06T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-top-robotics-investments-and-funding-in-may-2020.md",
       "title": "Top Robotics Investments and Funding in May 2020",
       "excerpt": "Despite the crisis induced by COVID-19, robotics industry is growing at an unprecedented rate. From Supply chain and logistics to agriculture and healthcare industry, robots are transforming every aspect.",
@@ -220,7 +267,7 @@
       "path": "_news/2020-06-05-in-q-tel-backs-speech-recognition-outfit.md",
       "title": "In-Q-Tel backs speech recognition outfit",
       "excerpt": "The intelligence community’s venture capital arm invests in an automatic speech recognition startup to determine how that technology can be of use for government agencies.",
-      "webUrl": "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx?admgarea=TC_MERGERS",
+      "webUrl": "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx",
       "heat": null,
       "tags": null,
       "images": [
@@ -1011,44 +1058,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-watch-a-badass-wearable-robot-arm-hulk-smash-through-a-wall.md",
-      "title": "Watch a Badass Wearable Robot Arm Hulk Smash Through a Wall",
-      "excerpt": "A video uploaded by the team shows the robotic arm in action. It can move heavy power tools, paint walls, pick vegetables — and even Hulk smash through drywall. The robotic arm can be remote ...",
-      "webUrl": "https://futurism.com/the-byte/wearable-robot-arm-smash-through-walls",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/06/wearable-robot-arm-smash-through-walls-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Watch a Badass Wearable Robot Arm Hulk Smash Through a Wall",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/wearable-robot-arm-smash-through-walls/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/wearable-robot-arm-smash-through-walls/amp",
-      "publishedDateTime": "2020-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
