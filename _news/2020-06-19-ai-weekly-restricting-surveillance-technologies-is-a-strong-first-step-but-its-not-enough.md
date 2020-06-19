@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough"
 
-secured: "vKyWferSjkkazPu8iX+HmxN7UtePnp/Idy2Ewbd8TxBp5sXFt2VC+UQCai9We+5BQXjRWo06A245DNWEQFrOiw7RqRoyAmXBGYV7Nr0w6PyqAcn7Wc0oOR1Ui3/pGOsZ59KuMa85JHTxXQjrw57jiWs6gXK8kW7tCKVy0sOqepAb0nhNwUXH8r5kGUx0TZWGtLkWSKH8rMaiJ/nsMgwIcEhuXQHg1FKo/x6qoUrB7E8lp+GDCz5n8pv8SE1xSlJ3nW6AR2xjLdDQMG2AEcGmgw2/ZB51Pr9cv/1vgycHWmvTq+5kyTb3cVred8M10qPaZ+lFS1ghr1dW5o+XTm4BKQ==;FL1vXaWgelsnbdfyeI20kw=="
+secured: "gvOREylx/hNICF2tcnVhsBQABefyTtVn4KTT05kQRBfDX+Hj5Qha5PuG48tFQjH8aNfCIMr6byNlPv023x4hF6O+xwnwKWeEsMx/dYFzbqkMazICG6xGm74jP0Ih4Awm1vPyeXeRTJHuSrwEcIqR8C++giSJn2QFIWEIx/HMjKYuW9RJS/WAZnwnwP9OZhUZErznvBOlSodUeEYEL9iZ/P0jFldczbTC54LTg8piVCnSEIL+TDpT98ZVqh2TXYlSkOO7kTzETIgZQb5Lfb06nu35QPuyeFJtPtct5qsrsJjdBFfRCRyppEgy+CBO7Gg+T6kPhQxQZ6ryEpCOjuZxjwOacDO8uxBGtHoOA+7dHdebpH4ym2iai5F3teTLQNQM6kX3hhO4IishNl+hwVbaJWrHuOWOhXErf9LnxgWQkiWNUSm+v3iyWsVsbZ34FDxa9nz70G+nAROcw6Iwo3yg0RTcMp9yLI1SVr0QpyXCCDrxVQxvdkr7V3c9OWhD3N/gEYceFaj+HDDKrT+4XXycEw==;nAAEK/3HZWC34ozQy2hCpg=="
 ---
 

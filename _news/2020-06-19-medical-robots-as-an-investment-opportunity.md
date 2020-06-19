@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
+    excerpt: "The global brain computer interface market size was valued at USD 1.2 billion in 2019 and is anticipated to register"
+    publishedDateTime: 2020-06-19T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Analysis, Revenue, Price, Market Share, Growth Rate, Forecast To 2026"
     excerpt: "Global Industry Analysis By Trends, Size, Share, Company Overview, Growth And Forecast By 2026\\| Latest Research Report By DataIntelo;"
     publishedDateTime: 2020-06-16T03:25:00Z

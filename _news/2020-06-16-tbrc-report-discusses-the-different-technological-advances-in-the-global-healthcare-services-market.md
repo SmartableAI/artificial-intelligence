@@ -25,6 +25,20 @@ images:
     title: "TBRC Report Discusses the Different Technological Advances in the Global Healthcare Services Market"
 
 related:
+  - title: "Will the Pandemic Change How Health Care Uses Advanced Technologies?"
+    excerpt: "Panelists at the AHIP Institute & Expo Online discussed whether algorithms will play a greater role in the future in reallocating health care resources."
+    publishedDateTime: 2020-06-19T19:52:00Z
+    webUrl: "https://www.ajmc.com/conferences/ahip-institute-2020/will-the-pandemic-change-how-health-care-uses-advanced-technologies"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 24
+    images:
+      - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
+        width: 1667
+        height: 1667
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Service Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
     excerpt: "Artificial Intelligence In Healthcare Service Market Global Key Players Trends Share Industry Size Growth Opportunities Forecast To 2025"
     publishedDateTime: 2020-06-17T06:18:00Z

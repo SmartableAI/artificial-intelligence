@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2020/06/11/NGai20200611/860x394.jpg"

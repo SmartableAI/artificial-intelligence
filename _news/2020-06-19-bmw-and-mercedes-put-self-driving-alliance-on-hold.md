@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-s
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
 type: article
 quality: 74
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -31,6 +31,38 @@ images:
     title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
 
 related:
+  - title: "BMW and Mercedes call it quits on their self-driving car partnership"
+    excerpt: "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles."
+    publishedDateTime: 2020-06-19T19:23:00Z
+    webUrl: "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html"
+    ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F1dd033d0-b260-11ea-ba77-c0a08587aaf6&client=amp-blogside-v2&signature=1505af955476a6c17e3ee95f00cb6dbf10aea22e"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
+    excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
+    publishedDateTime: 2020-06-19T19:04:00Z
+    webUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/"
+    ampWebUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 44
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/07/bmw-i-vision-dynamics-concept-1-1024x499.jpg"
+        width: 1024
+        height: 499
+        isCached: true
   - title: "BMW to cut 6,000 jobs andslam brakes on Mercedes self-driving alliance amid Covid-19 impact"
     excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
     publishedDateTime: 2020-06-19T14:52:00Z
@@ -87,6 +119,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart’s self-driving partner is changing e-commerce economics"
+    excerpt: "For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery. Specifically, the three-year-old company is focused on so-called middle-mile delivery, the oft-overlooked leg between when,"
+    publishedDateTime: 2020-06-19T16:06:00Z
+    webUrl: "https://www.autonews.com/mobility-report/walmarts-self-driving-partner-changing-e-commerce-economics"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Walmart%20Delivery%20Van.jpg?h=55dc3bfa"
+        width: 800
+        height: 600
+        isCached: true
   - title: "BMW and Mercedes go down different self-driving roads"
     excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
     publishedDateTime: 2020-06-19T12:41:00Z
@@ -96,16 +142,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
-  - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:23:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/19/bmw-slashes-6000-jobs-ends-self-driving-project-with-mercedes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
-secured: "IYuMmnSr6hoEzS9nDCv23RgyyYvvZ26L2bb9I1MD5gw5mNnqt29oECLzUhWXUlug1thQDq0RjcpCeZfDfOc8Qx2o6p3bGVDpATjprK6vSFwuqld0bUwBg+12dufQPpzTQxLoOAT3NkKoEi+VyPsph/fSHv1KeGN5MxRGKbCQAIhByzE3uerpbWQDcQpW07D9lof+kmzU+kzxsRy9pHnY/Xiv3P8loX30A5O3S9lOslSJj2KcOWvhvPHrWzv0CZSc5HcBG9w5g+EOgEdPYlLCk/IHgT93blcUjrd7JRGWNfqjtrXtFvhcSv9seApahwFpq4Xio8NIEYPLTXQ6p/V8Yg==;n4QhR8kHPqh+KOfsVH0o6Q=="
+secured: "yOa00wMQzmPZFWQeO4OHKa8DXjxpXPQ7esjcEmjaNU9l/oaQF/Unt6oqIVmju3N/LNp7thaihBSpWOvIZb5SDQxQGXmJbQUViqWF6LLHovJj7XSwORpjZsPGi3A0K9n4qmAW6FC8rUohIKJ4FDBeSYP+5YM5PGGAzS0zZuXGFLHQxwuaDzy5+sxm+C9hFtTG9BneR/RzdUxrxsjOpCsVw7SO5kW/Ad0EJbkUZH+EvENKesJA/RMU0NRLeeWi/kWpTqU4KqNa7lnyET7aAQJxpPB6LUPkUbPmj0k/tH7LAiAxMsnIu6/pxUFjmiajIgHyycoISzpG+BPKD1IXs5tr8WhS2ZWVD6FpJtarVvROpRlflQOr8ZtYwChvrqhRfl97kfEjUf3oy8ByOYo8EQd648oq6WyfvmKE1TCDbeJnBGpgZcUebiH3ZsuPlMFVqB0QSsJoWmQxPHcLvWlYEBsO5FyxOLYgG9SeTsOBcdR1p1sj5/v36eX0T2nDR4tzou9QrcdKv1p015HPQgREUtyvBQ==;aVtZ+F68jCgubpFh2d9qnw=="
 ---
 

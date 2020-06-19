@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T14:48:00Z
 webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=55446.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     isCached: true
     title: "Engineers design a device that operates like a brain synapse"
 
-secured: "fGXGUizYm0+Fr42kTK8JCoGY53iJCltzD9TcwiZ1B6s0V/uGOjxVZ433VJJU42sYxe0gnhDw1rXCEBb4sNH6WyjafT2xk0ydxil1Vk770HrS0rI2YYkmmWmUz+hqy3SakHA9FcfIMJU68/iTcVrQErx9YloFaDkpCAFIFQJ3JFJ7zVhErL7qPQCfQXXo5906ZpL3ojZT5Yvctz3KS1UfvXfO0B7mFEjbMo7859tlSLXNHZel2UyKN8uNdjP9Qm343UxHYbHne/bNYRseokz9ia9Uwx9p2ql+FeEHcI0eSD3R0Rfxvb0Wa/maaCkUeKB7mpF915FRaemSdLfOHlZRlA==;rwXBNbP3tb8+0LWu9IDNSA=="
+related:
+  - title: "Engineers Design Ion-Based Device That Operates Like an Energy-Efficient Brain Synapse"
+    excerpt: "Ion-based technology may enable energy-efficient simulations of the brain’s learning process, for neural network AI systems. Teams around the world are building ever more sophisticated artificial intelligence systems of a type called neural networks,"
+    publishedDateTime: 2020-06-19T18:41:00Z
+    webUrl: "https://scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/"
+    ampWebUrl: "https://scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Brain-Synapse-Concept-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
+
+secured: "+hbDlC41xoF4hTtcuwzWb7ihsJmBfkNHx+igCCou4gwIwDwQx24MQSU+r8N2y9rRC36RYyzGobfkQEWz977mXXC1AuPTkbfOGs0AYa93CSH2pZtJCbWL5pRPXG2FXVLuc/q2TjxsjbmsmKTMX0T7jPB5bBv8wFkaZ0sVQDrEXs38T9zURlhjLpWjcpgQSe11I13kBBiTViAFPr5yamW0NLk6e8LmH7V5jbHyUAq+743JeUi+oa02iwKcvmaOfEIgWunDQ42x2nFcgOPt6jYVoZ1gZNHHp/BniCS/OWIcMSrBXfknfdPdUMtPwJ+dASMqbRHeZ0t4rsHePHiNjKu+Q2ZRSd1s1sbTc2UZBGjxOkP+a24DTHCNvTCrzGzmEZjb2Xyl55t9AJPDTti/cDK26Zz0wnZbl2iO/3a243NkWQaA/d8XNrAsgLQoFhTIEBzPz6SOG+1Eb+zHwy1fWKKtRaJceVRLZOvtvkO/YD4hYX7TSRQCsSUHmMEyQBkzltbqiecH+Nm0VPzH17B3pi9Xbg==;n9r4NXy0X1Ty3v4t1MKyBg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-19T02:46:00Z
 webUrl: "https://www.engadget.com/ai-recreates-painting-techniques-of-famous-artists-022923128.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Engadget
@@ -26,6 +26,24 @@ images:
     height: 425
     isCached: true
     title: "AI recreates the painting techniques of famous artists"
+
+related:
+  - title: "AI Recreates Painting Processes Of Masterpieces"
+    excerpt: "Many of us, myself included, have never artistically graduated from stick-men drawings. Therefore, a Van Gogh painting, for example, tends to spark feeling"
+    publishedDateTime: 2020-06-19T18:31:00Z
+    webUrl: "https://www.iflscience.com/technology/ai-recreates-painting-processes-of-masterpieces/"
+    ampWebUrl: "https://amp.iflscience.com/technology/ai-recreates-painting-processes-of-masterpieces/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-recreates-painting-processes-of-masterpieces/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 57
+    images:
+      - url: "https://cdn.iflscience.com/images/19294b7c-9907-56a5-8cb9-6bb566e26a62/default-1592570286-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "bpZjYWo/5xlAfngjDXOcS9eAEtl+wbMmKN6vPc7f3t0gPIpjLPam4cmyRYufVZK7SDvhjfpmPv3We9C6D/lVomPBqw++01pSwJOOdK+X/hK5yyl+Bt7JtdpQXGFq7JhZM801UwUka/7Lb0OnJrKUr175mSeR8EXHy2OXPf0on34aba6kWn0K36IvczYz8t7+Wk5jD7mglXXvnQ8Pu2Uv21lXNMRbrx/SCs7f9nO30/f8Pq8nPn9gNSOnCFNUV6Ph6bIxFDcIxktbbDAPIhrQMrGGIGIsLe1fNBWJQUoEbqi5VWN4bYX4te286/zIby7YUSIZTMoJpdxHYybSW+/44bZxfBiQtc4znJtHtKBo+7IVrCrvUBJn6UZRyXE6TsrqFsfGzT+Tz4wcH16Pn+HtRJGWhtfSqHeh8nPEgYd71o84hX5zgVIYlBYhC3C9Tl8m0rnRIrR7kvZjWHfHy5QPGaO0I6M/3i3Z48EsxuYkPm0NSv0PeCsCmr5iz26BA5cowtcUi0qpizGhAo/iDctVrQ==;w+ky6uixG0TOFEkps9TO7Q=="
 ---

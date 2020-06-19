@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
     excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
     publishedDateTime: 2020-06-16T13:20:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-by-technology-application-deployment-size-opportunities-andforecast-2019-2026-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
+    excerpt: "The global brain computer interface market size was valued at USD 1.2 billion in 2019 and is anticipated to register"
+    publishedDateTime: 2020-06-19T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19"
     type: article
     provider:
       name: MarketWatch

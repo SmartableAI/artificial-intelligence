@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20200615005372/en/798256/23/IRTNTR32119.jpg"

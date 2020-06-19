@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/collaboration-productivity/artificial-intellige
 ampWebUrl: "https://www.cmswire.com/collaboration-productivity/artificial-intelligence-is-poised-to-take-more-than-unskilled-jobs/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/collaboration-productivity/artificial-intelligence-is-poised-to-take-more-than-unskilled-jobs/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cmswire.com/-/media/5719ba3dfbb74af2b4a9a82b3650e99f.ashx?mw=1024"

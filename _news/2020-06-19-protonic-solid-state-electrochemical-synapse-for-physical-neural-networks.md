@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Protonic solid-state electrochemical synapse for physical neural networks"
 
-secured: "C+LzwNu/PmEjdDTE6+hXUvKhX6J0DucW11DwFookxeIEoJqQ1LRI3W+DXUYG/Q8Y2lTEf0mJPcGU0DTDSAU4Thp4SZhr+ROU6bgYc6evpMAnnieoIYwqax/pMsoNLMlGAUtOWpczmjsErG4RDAJoGNIHqWrNXvt0IDmD9aG5y54su5Ci+tzt0xoheSwecxFh15yGIWaVtaXvYCpwTq+E2b9+lmtTk1FNd1WbYnSzoGtW5sK97geQROMDPQN+d5iL/D+pbT0UxcvdjmG2cpAWmflfiC6b04SOn4M/WM4J6KyBlXQWaZ1Q7MvmGxLFRRo/LZ3UD7ek3ew0J7AsTKDtaw==;s5M7u/MLajyUX1DxB2oGhQ=="
+secured: "+WzKNqxM91osOS3liAkkqtJxznH9D9cASbhirga3rrTaexHhSK+s3RRmv01zRKghcz/opcG1xTcWJOUWI9XYhMAg4KG8d/3vMGtZfVeGUxuSvdlEOQFxtRHFVhBq/Pkp5Ip4JVcOoJla4SPHPpe0GPYD4NAiChvcNB75U7ydUm9yhnPOK1QOZbRqbYiOQQeulGmpbi/Yh+X54o49B7Xihx2TOoUFHBFqQFOATr3puY0w2e8Zev5U/3c/Y6OfpYuLe7ilKP5H3p6i3gtX1pzjkW3D0WTF7BDPivZZEQfaN3X/pYjov9/+ksu2NqFzxd+Y06g+PUQxGQZd+kwAiKsO5L9kU5g2isbCAfYy2MK3ViAGKfHJIJkv3GAiINYZGdaKgAnw3bVEYARaJ9Ezlyz+HuaKNuqeH49f6/3tXiNFbyfbquFcSnJ481bjsPQzj82YH/Re40Vpjo+sljAoHWN6F/+WgV4RSRtAuC5s1r9bQVC/sUV1gnNIwxUtTR8k6THjPUbi2pkf3aGVehs/rm8ZwQ==;yK6jgca9M+hfXk1dnfrQZg=="
 ---
 
