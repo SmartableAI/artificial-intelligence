@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bossanova"
   url: "https://twitter.com/bossanova"
-  followers: 1184
+  followers: 1185
 
 size: 51-200 employees
 yearFounded: 2005
