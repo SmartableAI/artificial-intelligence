@@ -373,7 +373,7 @@ related:
   - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
     excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
     publishedDateTime: 2020-06-18T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china—yet"
+    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china-yet"
     type: article
     provider:
       name: Lawfare
@@ -412,6 +412,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft president won’t commit to moratorium on sale of facial recognition to federal law enforcement"
+    excerpt: "When asked Thursday for a firm answer about selling facial recognition technology to federal law enforcement, Microsoft’s president promised only that his company won’t provide it in scenarios that lead to bias against minorities and women."
+    publishedDateTime: 2020-06-18T20:50:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-microsoft-brad-smith/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 25
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
     excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
     publishedDateTime: 2020-06-17T00:00:00Z
@@ -425,20 +439,6 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft president won’t commit to moratorium on sale of facial recognition to federal law enforcement"
-    excerpt: "When asked Thursday for a firm answer about selling facial recognition technology to federal law enforcement, Microsoft’s president promised only that his company won’t provide it in scenarios that lead to bias against minorities and women."
-    publishedDateTime: 2020-06-18T20:50:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-microsoft-brad-smith/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 23
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
-        width: 1920
-        height: 1024
         isCached: true
   - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
     excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."

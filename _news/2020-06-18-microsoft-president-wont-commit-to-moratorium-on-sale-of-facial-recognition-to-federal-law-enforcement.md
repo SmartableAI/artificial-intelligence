@@ -5,7 +5,7 @@ excerpt: "When asked Thursday for a firm answer about selling facial recognition
 publishedDateTime: 2020-06-18T20:50:00Z
 webUrl: "https://www.fedscoop.com/facial-recognition-microsoft-brad-smith/"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
@@ -373,7 +374,7 @@ related:
   - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
     excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
     publishedDateTime: 2020-06-18T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china—yet"
+    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china-yet"
     type: article
     provider:
       name: Lawfare
@@ -450,6 +451,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "4crqc7rATfBR4NHC23RRJiJVWlS1bA4BrkjvR1kNIwFnyUPenGJMVio5uCCkRmU+sRXO4HVcbCXel3AjEHLvKDWSaEd06Ht8uJ+gwRjGYFX0TmiXCVoSEd5QXXjs5K9GJIhbFIaFRiVIrmp14V/Wy76s+BAeYuoFqhb1a4c9r8OXEk1vt7s62P++S0mrbjtvW0gkLssmTWbLqrlbMG2t+GQJIvPFKE2ScUl4E1uAHYeiVIMINyJ6iQPSFTtz+gW4T2/S52Z//EXqbizJdkCGG6u/ctmXq6dVNeeNV6742NDauHd/OXlPgehyxHzvx4dWcSehC8Vd5n8vbRZR97JAmg==;hN6eYU/9j2JJbX76kh2KaA=="
+secured: "b2epVXGdpf1PlDYnAEym5Zx/FFgQfkb0dJIvWNg8LEp69+pVHXKrdSSNh40M4261zQMGli6k3ZlGI99Qj6qaDfAIRrlOV76ZGap+H5TX2JrD2lcKtZWS76rTJIgiqvj7NFzj1KFHMbDoF1m7ghbdeaSvMEPBC6CbfUW9EdwsKkig//hq77wR5jpCHgVy6Uz9DjhuWIN1/4ft4YTqGSFHPvGi9gRrvWZ4sKgj7H5sm++FSaCvFxIfqv69L2U1SdMFl+Kq9GuLEqOO95/SAyWNkK37vXb2JWvKcfKvXK3EV6rHO5ObbKS0R9LC0YwskFPsUdHy1eSbU6JdpwRbbo6Ii9jLPlDmBMvxJ5TpZsNbLrSo3fpQ/BL6+6uEHHCy2uBgwfwXTXnPH73KdlH3ucbFFEH+gkvizlyIj6gPrBwZL0fIN81LbOSTU2j6z22SR/PzhGig06SNBq5FNw4XQYGJQFvtO8ObK+adFc4R6kwkSoYmxtFv8ptAKRhXRAinpglfd//BHxpwVH9f6myAXL6znA==;mRyV8mABnV/6WrAs1zXG9Q=="
 ---
 

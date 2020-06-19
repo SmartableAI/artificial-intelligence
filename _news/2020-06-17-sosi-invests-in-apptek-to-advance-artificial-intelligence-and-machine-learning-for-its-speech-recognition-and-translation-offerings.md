@@ -26,6 +26,20 @@ images:
     title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
 
 related:
+  - title: "SOSi invests in AppTek for AI, machine learning capabilities"
+    excerpt: "Reston-based defense and government contractor SOS International LLC (SOSi) announced Thursday it has made a non-controlling investment in McLean-based software company Applications Technology (AppTek) to develop artificial intelligence and machine learning for its speech recognition and translation service offerings."
+    publishedDateTime: 2020-06-18T22:19:00Z
+    webUrl: "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 54
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2020/04/MayJune_Download-309x386.jpg"
+        width: 309
+        height: 386
+        isCached: true
   - title: "Scality Invests to Advance AI and Machine Learning with Inria Research Institute"
     excerpt: "Scality, leader in software solutions for global data orchestration and distributed file and object storage, today announced an investment in Fondation Inria, the Foundation of the well-known French national research institute for digital sciences,"
     publishedDateTime: 2020-06-16T13:00:00Z

@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
+    excerpt: "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads."
+    publishedDateTime: 2020-06-18T22:44:00Z
+    webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/"
+    ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
+    cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
+    type: article
+    provider:
+      name: GPS World
+      domain: gpsworld.com
+    quality: 89
+    images:
+      - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
+        width: 300
+        height: 274
+        isCached: true
   - title: "Qualcomm's 5G RB5 robotics platform will help drones navigate tight spaces"
     excerpt: "Qualcomm is working on AI computing much like rival chip makers Intel and NVIDIA, but it’s sticking to what it does best: smaller devices and connectivity. It just unveiled the RB5 AI-enabled 5G robotics platform,"
     publishedDateTime: 2020-06-17T11:39:00Z
@@ -103,22 +119,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/301/15301/Qualcomm_Robotics_RB5_development_kit_3.png"
         width: 750
         height: 500
-        isCached: true
-  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
-    excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
-    publishedDateTime: 2020-06-18T06:48:00Z
-    webUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform-11592460810933.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/06/18/600x338/2019-05-02T235750Z_1_LYNXNPEF411N6_RTROPTP_3_EU-QUALCOMM-ANTITRUST_1557729739970_1592461254375.JPG"
-        width: 600
-        height: 337
         isCached: true
   - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
     excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
@@ -158,6 +158,6 @@ related:
         height: 330
         isCached: true
 
-secured: "k7j5Y0OuZjeCV5q/Rww58zQWZq7W2ktloH1l64z9mXBR0LBmH9SgLESMF9q0dQprHTuxBYt4RnLURwFv6IaZRiptnjotsJDOcPrs6vyKBQVW/y/v3r/pvOfoSRQpj8aVgnHdtjVCWvWNB4M3zlXlqxy2Gm4V28dMqamCulN807YxBoGoBS3chwrvhgf4G0Lo/8aKkfkyCc8LjIZGVSroii3MgpauHwgxhWwoWgObvlfFkZPP72/WTltYT/OL94djiacMslWObzIsAET7MRtB+ZXXAS32sqas8gySc4aFHs23yrzRr/hxd8LzPiK37VcUprZNGwAd6OsmmRSjGRpv3w==;B1Tv103CFP3GLKoimtz5Ew=="
+secured: "tM24fkiU4+LQ2d1JuFKPGDHPiHTs6cickYEYCO64lxMYvQRIbBx4ADguDuzl87DtZRlFMP49kwEDCMTEXMshd5xQd357/wi11/cy79UWQVBrJDa+dYqaEv0imlx4uk/9mi6Usg25ci6fI9BDxX2/dxWr8upTv0B/FD3mzlm2PAlY8GY7+r4aknveM7VuyiYYXOxkLxwRTOeRMsFGzZ9WpZu7fwQdyK9vEcfBIvBRm0FSDnRG2RCzL9ZnOvchA5n9JP2eK38j3cJenzla9ONKE8y1VOJv5QUTNFDMUTIAM8Bl+g9YhH7ZDrSi4barOp1nmO5MCrDu42ml/wi49A0HSLVT3uiUMOheADazz8iywCvyfxth74kSnI1bNRmgqkfCgEdWWCg9ZIsYUDQ6ZU4EIejoMSPbg4Ah2L6jW2AJI2yG3FHa0bLZkCC8PMkX9IuvOTqoDdf2WReKYsbuKpK/aZfFnK/j3mweB9Zpv6rXbZVX/QQzNp1D7Pd3zg4j4WzJb9gi6Xv/XeW5mnOGDxQsOA==;c4Z+JJz1yORGu3yY5YRizg=="
 ---
 

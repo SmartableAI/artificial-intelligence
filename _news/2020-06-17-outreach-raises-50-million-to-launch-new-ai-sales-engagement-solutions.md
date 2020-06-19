@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-lau
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

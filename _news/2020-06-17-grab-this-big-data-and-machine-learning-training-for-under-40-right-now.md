@@ -39,7 +39,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 89
+    quality: 91
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg"
         width: 760

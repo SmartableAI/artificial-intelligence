@@ -2,6 +2,185 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-05-05-ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone.md",
+      "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
+      "excerpt": "Dubbed SafeDistancer, the innovative application makes use of AI and computer vision to detect people in the phone's camera frame and monitors the distance between them in realtime. When people ...",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-301052610.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025.md",
+      "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
+      "excerpt": "The global Edge AI market is segregated on the basis of Device as Smartphones, Cameras, Robots, Wearables, Smart Speaker, Automotive, and Smart Mirror. Based on Processors the global Edge AI market is segmented in CPU,",
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025-2020-05-05",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025.md",
+      "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025-2020-05-05",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-australian-military-gets-first-drone-that-can-fly-with-artificial-intelligence.md",
+      "title": "Australian military gets first drone that can fly with artificial intelligence",
+      "excerpt": "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes.",
+      "webUrl": "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505095706-boeing-australia-loyal-wingman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Australian military gets first drone that can fly with artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-04T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-omilia-raises-20m-to-use-conversational-ai-for-customer-support.md",
       "title": "Omilia raises $20M to use conversational AI for customer support",
       "excerpt": "Omilia, a company headquartered in Greece that has built a conversational AI for customer support, has raised $20 million in its first ever funding round, having been bootstrapped since 2002. Backing comes from Grafton Capital and will be used to invest in further growth,",
@@ -961,174 +1140,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900-mln-to-help-develop-robotaxis.md",
-      "title": "Intel buys Moovit transit app for $900 mln to help develop robotaxis",
-      "excerpt": "Chipmaker Intel Corp INTC.O has bought Israeli public transit app maker Moovit for about $900 million to help it develop self-d",
-      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
-      "publishedDateTime": "2020-05-04T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-the-impending-artificial-intelligence-revolution-in-healthcare.md",
-      "title": "The Impending Artificial Intelligence Revolution in Healthcare",
-      "excerpt": "Why has AI been slow in delivering change in the care processes of healthcare? With a wealth of new AI algorithms and computing power",
-      "webUrl": "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg",
-          "width": 320,
-          "height": 212,
-          "title": "The Impending Artificial Intelligence Revolution in Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HIT Consultant",
-        "domain": "hitconsultant.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
-      "title": "Intel acquires urban mobility startup Moovit for $900 million",
-      "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
-      "webUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all",
-          "width": 1500,
-          "height": 776,
-          "title": "Intel acquires urban mobility startup Moovit for $900 million",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": "Intel acquires urban mobility startup Moovit for $900 million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "publishedDateTime": "2020-05-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
-      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
-      "excerpt": "The new series are once again presented by Christopher Harrison, a senior program manager at Microsoft, and Susan Ibach, a business development manager from Microsoft's AI Gaming unit. The second of the two new ... on how to use Python and associated tools within the Azure cloud. For example, the tutors suggest that students could predict ...",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "publishedDateTime": "2020-05-04T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

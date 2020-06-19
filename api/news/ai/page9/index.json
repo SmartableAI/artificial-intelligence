@@ -2,6 +2,176 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
+      "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
+      "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058713%2F0x0.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "publishedDateTime": "2020-06-09T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
+      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=ktElHOCCyScMZXyVZijc6UoLwD4=",
+          "width": 1200,
+          "height": 630,
+          "title": "This wearable AI translator lets you talk freely and naturally in different languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "publishedDateTime": "2020-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-global-artificial-intelligence-in-big-data-analytics-and-iot-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025.md",
+      "title": "Global Artificial Intelligence in Big Data Analytics and IoT Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025",
+      "excerpt": "Global Artificial Intelligence in Big Data Analytics and IoT Market Growth (Status and Outlook) 2020-2025 combines the essentials, definitions, categorization, and analysis of significant features about the market.",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-big-data-analytics-and-iot-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence in Big Data Analytics and IoT Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving.md",
+      "title": "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving",
+      "excerpt": "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/",
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
+      "publishedDateTime": "2020-06-09T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-microsofts-news-ai-publishes-stories-about-its-own-racist-failures.md",
       "title": "Microsoft's news AI publishes stories about its own racist failures",
       "excerpt": "The inciting incident for this entire debacle appears to be Microsoft's late May decision to fire some human editors and journalists responsible for MSN.com and have its AI curate and aggregate stories for the site instead.",
@@ -1090,111 +1260,17 @@
       ]
     },
     {
-      "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
-      "title": "MIT “brain-on-a-chip” could make AI more portable",
-      "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
-      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "MIT “brain-on-a-chip” could make AI more portable",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
-      "publishedDateTime": "2020-06-09T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
-      "title": "Eswin raises $283M to boost chip production in China",
-      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
-      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Eswin raises $283M to boost chip production in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "publishedDateTime": "2020-06-09T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
       "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning.",
-      "webUrl": "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4",
+      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
           "attribution": null,
           "isCached": true
@@ -1203,11 +1279,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:15:00-07:00",
+      "publishedDateTime": "2020-06-09T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1217,100 +1293,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns.md",
-      "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
-      "excerpt": "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide.",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_1s6u.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
-      "publishedDateTime": "2020-06-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
-      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
-          "width": 2000,
-          "height": 1333,
-          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "publishedDateTime": "2020-06-09T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -25,22 +25,6 @@ images:
     title: "Results from Facebook's Deepfake Detection Challenge show how difficult it is to detect deepfake videos"
 
 related:
-  - title: "Facebook AI model achieves 65% accuracy to detect deepfake videos"
-    excerpt: "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65."
-    publishedDateTime: 2020-06-14T05:36:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/articleshow/76367010.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 59
-    images:
-      - url: "https://www.businessinsider.in/thumb/76367010.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Facebook AI is 65% accurate when comes to detecting deepfakes"
     excerpt: "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,"
     publishedDateTime: 2020-06-15T10:04:00Z

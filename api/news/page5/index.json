@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
+      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
+      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "publishedDateTime": "2020-06-15T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
+      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
+      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "publishedDateTime": "2020-06-15T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
+      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
+      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "publishedDateTime": "2020-06-15T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-delivering-real-time-racing-analytics-using-machine-learning.md",
       "title": "Delivering real-time racing analytics using machine learning",
       "excerpt": "AWS DeepRacer is a fun and easy way for developers with no prior experience to get started with machine learning (ML). At the end of the 2019 season, the AWS DeepRacer League engaged the Amazon ML Solutions Lab to develop a new sports analytics feature for the AWS DeepRacer Championship Cup at re:Invent",
@@ -633,6 +774,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-facebook-ai-is-65-accurate-when-comes-to-detecting-deepfakes.md",
+      "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
+      "excerpt": "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,",
+      "webUrl": "https://www.indiatvnews.com/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/facebook-deepfake-detection-challenge-1592215334.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "publishedDateTime": "2020-06-15T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
       "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
       "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
@@ -944,175 +1123,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
-      "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-      "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
-      "webUrl": "https://www.entrepreneur.com/article/351755",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591895053-Ent-Logo.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351755",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351755",
-      "publishedDateTime": "2020-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos.md",
-      "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
-      "excerpt": "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65.",
-      "webUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/articleshow/76367010.cms",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/76367010.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms",
-      "publishedDateTime": "2020-06-13T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
-      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "publishedDateTime": "2020-06-13T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
-      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
-      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
-          "width": 715,
-          "height": 402,
-          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "publishedDateTime": "2020-06-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

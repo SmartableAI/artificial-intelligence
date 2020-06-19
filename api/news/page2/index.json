@@ -2,6 +2,138 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
+      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio. The new chip, memory, storage and FPGA solutions would help customers accelerate the development and use of AI and analytics workloads running in data centre,",
+      "webUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/articleshow/76447468.cms",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76447468.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
+      "publishedDateTime": "2020-06-18T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
+      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
+      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
+          "width": 600,
+          "height": 350,
+          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "publishedDateTime": "2020-06-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
+      "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
+      "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
+      "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/16/258996ab-9ba2-4444-b563-7d495c021025/lenovo.jpg",
+          "width": 1115,
+          "height": 584,
+          "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
+      "publishedDateTime": "2020-06-18T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
       "title": "Businesses put AI innovation on hold to avoid public backlash",
       "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
@@ -991,137 +1123,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
-      "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-      "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
-      "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "publishedDateTime": "2020-06-17T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art.md",
-      "title": "MIT researchers train AI to predict how humans paint works of art",
-      "excerpt": "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art.",
-      "webUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/MIT-painting-ai.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT researchers train AI to predict how humans paint works of art",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
-      "publishedDateTime": "2020-06-17T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
-      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "publishedDateTime": "2020-06-17T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

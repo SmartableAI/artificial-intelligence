@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-
 cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/FB-Project_V3.png?fit=670%2C346&ssl=1"
         width: 670
         height: 346
+        isCached: true
+  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
+    publishedDateTime: 2020-06-18T22:36:00Z
+    webUrl: "https://www.brecorder.com/news/1005548"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "http://www.brecorder.com/_img/social-default.jpg"
+        width: 1200
+        height: 768
         isCached: true
 
 secured: "eBITWBoqA7M3c4w7Io1PCoMLCL6ZkXnh7k6KwNwYVPS7R4sI1gDUchhjLg+bucndMNfrF6rBXIStt1pkJIUtdXtO2NmVoYIUjX74O7QRBl8Oqm9OtU1eB9x5pz/Ekk5ZTfdyctc38/5rffSJ2SCWAmynIbbGURqMyQtIORqosobhLOCHPAhXr9XF7H8QF1iu8cKcGjpMbkbyw59NaPpWB9BgMh3cailws8+ta8QouPB/hAxMqV3W4UIrCGuRevvddk4pucHiwSDv/SdTvNVIEpGaPRTkhQtnwwblxyqNxRNQtIVDm4NsVQkNXesWo6F3S6ApkogTRggdy/5ymqWP3Q==;Hjm/ADTOtI9BrHmxSeVhUg=="

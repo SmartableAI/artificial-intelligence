@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
+      "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
+      "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
+      "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Autopilot.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 463,
+          "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
+      "publishedDateTime": "2020-06-18T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-sosi-invests-in-apptek-for-ai-machine-learning-capabilities.md",
+      "title": "SOSi invests in AppTek for AI, machine learning capabilities",
+      "excerpt": "Reston-based defense and government contractor SOS International LLC (SOSi) announced Thursday it has made a non-controlling investment in McLean-based software company Applications Technology (AppTek) to develop artificial intelligence and machine learning for its speech recognition and translation service offerings.",
+      "webUrl": "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.virginiabusiness.com/wp-content/uploads/2020/04/MayJune_Download-309x386.jpg",
+          "width": 309,
+          "height": 386,
+          "title": "SOSi invests in AppTek for AI, machine learning capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virginia Business",
+        "domain": "virginiabusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
       "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
       "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
@@ -98,7 +183,7 @@
       "title": "Pakistani among winners of Facebook’s award for ethics in AI research",
       "excerpt": "Facebook has announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of",
       "webUrl": "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -509,7 +594,7 @@
       "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
       "excerpt": "With today's highlighted deal, be a modern day tech hero with 68 hours of content on the most in-demand IT expertise including Tensorflow, Keras, Deep Learning, Apache and more at Neowin Deals!",
       "webUrl": "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -548,7 +633,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -771,7 +857,7 @@
       "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
       "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1027,100 +1113,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
-      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
-      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
-      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
-          "width": 600,
-          "height": 350,
-          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "publishedDateTime": "2020-06-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
-      "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-      "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
-      "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/16/258996ab-9ba2-4444-b563-7d495c021025/lenovo.jpg",
-          "width": 1115,
-          "height": 584,
-          "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "publishedDateTime": "2020-06-18T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

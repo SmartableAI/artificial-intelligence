@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
+      "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
+      "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
+      "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "publishedDateTime": "2020-06-16T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
+      "title": "A competition to identify bird calls using machine learning",
+      "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
+      "webUrl": "https://www.blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rwbb_keyword_hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": "A competition to identify bird calls using machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
+      "publishedDateTime": "2020-06-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed.md",
+      "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+      "excerpt": "Scientists are using AI to find invasive species of plants, including the scourge of British homes and gardens: Japanese knotweed.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-75-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "publishedDateTime": "2020-06-16T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
       "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
       "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
@@ -54,7 +193,7 @@
       "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
       "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
       "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -974,147 +1113,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
-      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
-      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "publishedDateTime": "2020-06-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "publishedDateTime": "2020-06-15T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

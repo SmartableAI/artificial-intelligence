@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Qualcomm launches 5G, AI-enabled robotics platform"
-excerpt: "The platform’s processor enables AI, machine learning, heterogenous computing ... design offerings including off-the-shelf system-on-module solutions and flexible chip-on-board designs. The solution is available in multiple options, including commercial ..."
-publishedDateTime: 2020-06-18T06:48:00Z
-webUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform-11592460810933.html"
-ampWebUrl: "https://www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/qualcomm-launches-5g-ai-enabled-robotics-platform/amp-11592460810933.html"
+excerpt: "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads."
+publishedDateTime: 2020-06-18T22:44:00Z
+webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/"
+ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
+cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: GPS World
+  domain: gpsworld.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/06/18/600x338/2019-05-02T235750Z_1_LYNXNPEF411N6_RTROPTP_3_EU-QUALCOMM-ANTITRUST_1557729739970_1592461254375.JPG"
-    width: 600
-    height: 337
+  - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
+    width: 300
+    height: 274
     isCached: true
     title: "Qualcomm launches 5G, AI-enabled robotics platform"
 
@@ -157,6 +157,6 @@ related:
         height: 330
         isCached: true
 
-secured: "C5DtXO7kLxWIM8dsVYo0lBwlh+r7K8qyuJf8Qv4wnN4lEAqli2NX5rWIcy5Xu1EfJPfO4E98gMgBGOzZcP2IizIDwzFrO2xl4oJ0NlAFXpj1klKcksBC3LREc52hPBAU/TYBFyKo01Z3sie6TsC0HLg8rK2Mxkiylfze1/Hgm9dnpifDqZ1W80AIWPFTzbwCsoH9GKJZjNnvZhF/MweoCWXs3slgRiR+v6mF/0pkO6hlmpcoF/Kme/qR/0Q4+1Z8lXhT9Ut4U8g0E4xOtun/1e6TG7BamHMlqWTrJSdjWYUQzzNdiEg+JPGwPvnlHMjS4nC10UfgGW6hvtOhB3Mazw==;XlS5GbQOLUvkH/x6wiLkpw=="
+secured: "6zkyTGEOWMO9ayJcnB13Elk79h4YG7tuP7J9hMd6Oige8rI0sRq24uTLuXTgwvmGiS/NlNBXawYmBzFSvh+GhqpuBj2R7plVtdZ0usmpx2RtkRg3Lvmelz216RoFe59wjxAEhvA8telCGadFo2e4Ueo6cDZq2khRp1s743deZ+b6L7eRoIvFKitsV4VmFsnTd0ZOaEZpGrxIAVrPDgR+W3RnVBtGkO16rmcKKozw27pI9kVaRBo1yVSWz94jeb/h94lMLH9cUH8gk5rKOGez0XmnMdFraw1dq8jY9YjXProW6aRpdUD7FfLgetxbNw/suthZ1piTIYhdsb8ATulJ+Q==;I/ALVJqt7/EHKa0TBPKRxA=="
 ---
 

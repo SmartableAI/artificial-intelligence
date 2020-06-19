@@ -40,6 +40,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Amazon Touts AI for Social Distancing Amid Worker Complaints"
+    excerpt: "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another."
+    publishedDateTime: 2020-06-18T23:43:00Z
+    webUrl: "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/"
+    ampWebUrl: "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5eebf79845997e7f063bebff/master/pass/business_amazon_874678990.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Amazon is using an AI camera system to monitor social distancing in its warehouses"
     excerpt: "Amazon has unveiled its latest attempt to curb the spread of COVID-19 through its warehouses: an AI camera system known as the \"Distance Assistant.\""
     publishedDateTime: 2020-06-16T16:29:00Z

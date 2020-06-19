@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
         width: 616
         height: 372
-        isCached: true
-  - title: "Apple Patents A Way To Keep Drivers Alert In Self-Driving Cars"
-    excerpt: "One of the perks of self-driving cars is that, well, it drives itself. This means that in theory, you could be doing something else while the car"
-    publishedDateTime: 2020-06-17T01:16:00Z
-    webUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/"
-    ampWebUrl: "https://www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/apple-patents-alerts-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2020/06/apple-self-driving-alert-patent.jpg"
-        width: 974
-        height: 683
         isCached: true
   - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
     excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"

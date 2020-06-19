@@ -7,8 +7,8 @@ webUrl: "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine
 ampWebUrl: "https://www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg"

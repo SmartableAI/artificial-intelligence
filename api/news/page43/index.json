@@ -2,6 +2,166 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-14-sony-says-it-created-worlds-first-image-sensor-with-built-in-ai.md",
+      "title": "Sony Says It Created World’s First Image Sensor With Built-in AI",
+      "excerpt": "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "publishedDateTime": "2020-05-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-singapore-based-data-protection-startup-dathena-raises-12-million-series-a.md",
+      "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+      "excerpt": "Dathena, a Singapore-based company that provides AI-based data protection and privacy solutions, announced it has raised a $12 million Series A. Part of the funding will be used to expand Dathena’s co-sell partnership with Microsoft in the United States,",
+      "webUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1185880486.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "publishedDateTime": "2020-05-13T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
+      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
+          "width": 800,
+          "height": 438,
+          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
+      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
+      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
+      "publishedDateTime": "2020-05-13T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
       "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
       "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
@@ -925,175 +1085,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
-      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "publishedDateTime": "2020-05-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-google-cancels-ai-ethics-board-just-a-week-after-its-announcement.md",
-      "title": "Google cancels AI ethics board just a week after its announcement",
-      "excerpt": "Google canceled its Advanced Technology External Advisory Council just a little over a week after its announcement, according to a recent VOX report. The AI ethics board was supposed to oversee ...",
-      "webUrl": "https://pocketnow.com/google-cancels-ai-ethics-board",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2019/04/office-photo-building-illuminated-google-zurich-inside_7bbef648-5050-11e9-b593-df9071890b8d.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Google cancels AI ethics board just a week after its announcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
-      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
-      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
-      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
-      "publishedDateTime": "2020-05-12T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
-      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
-      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "publishedDateTime": "2020-05-12T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
