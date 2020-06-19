@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T15:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/tbrc-report-discusses-the-different-technological-advances-in-the-global-healthcare-services-market-301077540.html"
 type: article
 quality: 25
-heat: 25
+heat: 45
 published: false
 
 provider:

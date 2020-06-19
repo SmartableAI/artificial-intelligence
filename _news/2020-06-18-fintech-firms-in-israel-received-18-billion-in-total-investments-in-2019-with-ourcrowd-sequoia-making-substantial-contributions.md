@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162903-fintech-firms-in-isr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162903-fintech-firms-in-israel-received-1-8-billion-in-total-investments-in-2019-with-ourcrowd-sequoia-making-substantial-contributions/amp/"
 type: article
 quality: 14
-heat: 14
+heat: 24
 published: false
 
 provider:

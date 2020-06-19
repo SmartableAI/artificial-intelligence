@@ -1,99 +1,27 @@
 ---
 category: news
 title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
-excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round. TEL AVIV, June 17 (Reuters) - U.S.-Israeli Pagaya, which uses artificial intelligence (AI ..."
-publishedDateTime: 2020-06-17T09:06:00Z
-webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
+publishedDateTime: 2020-06-17T09:20:00Z
+webUrl: "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 69
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "U.S.-Israeli fintech firm Pagaya raises $102 million in funds"
-    excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-    publishedDateTime: 2020-06-17T09:20:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "Investment in Israeli fintech industry surged to record $1.8 billion in 2019"
-    excerpt: "Israel ranks fifth in global fintech investments; coronavirus hit the sector but also created opportunities, report says"
-    publishedDateTime: 2020-06-17T08:31:00Z
-    webUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/"
-    ampWebUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 41
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2020/02/iStock-623205372-e1581502979966-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "Israeli fintech co Pagaya raises $102m"
-    excerpt: "Israeli financial technology company Pagaya today announced a $102 million Series D funding round led by the Singapore Sovereign Wealth Fund (GIC). Aflac Global Ventures, Poalim Capital Markets, Viola,"
-    publishedDateTime: 2020-06-17T10:37:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-pagaya-raises-102m-1001332642"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020617T113840.jpg"
-        width: 800
-        height: 392
-        isCached: true
-  - title: "3 Firms Steer AI-Driven Asset Manager Pagaya's $102M Round"
-    excerpt: "Pagaya, a financial technology enterprise using artificial intelligence to manage assets and investments, said Wednesday that it had raised $102 million in its latest fundraising round advised on by Goldfarb Seligman & Co."
-    publishedDateTime: 2020-06-17T20:08:00Z
-    webUrl: "https://www.law360.com/articles/1283819/3-firms-steer-ai-driven-asset-manager-pagaya-s-102m-round"
-    ampWebUrl: "https://www.law360.com/amp/articles/1283819"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1283819"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 37
-  - title: "AI-powered financial technology startup Pagaya raises $102M"
-    excerpt: "Artificial intelligence financial technology startup Pagaya Technologies Ltd. revealed today that it has raised $102 million in new funding partly to move into new asset classes."
-    publishedDateTime: 2020-06-17T09:23:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/artificial-intelligence-financial-technology-startup-pagaya-raises-102m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/pagaya2.png"
-        width: 932
-        height: 625
-        isCached: true
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-
-secured: "1K93XDcjZJW75VcRBAlH5D/F3CS/w+L5BFD9J2ih+Ygsa3+rnKggTezHyP7pzuda5abSZYUAsdhng+YqLD3MfLVKzo8lmDZ2c9j5G6X9SaHtlmGaqmosWzMltBTbObrAjIK9WetA0Dpe0OgNvrrtebVhYKGu/CJw6hffq0cjOia0biePPgGSJA3i5fp9N8KtDqhqughAwlmUnXqD7Lr5AmrenvEXoREm1FhGD/cx+cGibvRBPvITf6iI8FHinxXUgZgaPWWCy7/Hl9ECZHgB2gBxnLiiBSWuzfzZcXEwCYIYLtjJ274RBwCFBPzz3r8oiBcLlBNtwC/a/LOE+MAN2c7q60rK4OKhEyxtMPT3IjypYkNa5ckf6HH8N4TW2WAuYPNX03vlFUCHv0SrrAsHQ3/avgIprBS0aColtXmCyYbZQuC1wboHdjWlWD4LASYJmatFtHVON47gDDJ8n43X0CMuWHrBcdMuc2dl/KYing9eT8xSmnkLkLC+vskc5g93kHsUNxM3AZJCcWWqUDR5vQ==;xWu4iBXpZ3qPnNK8x9njzw=="
+secured: "+Lx0R/0C8LEOR2P2+/l0EKgHva0cGwqDIKG0uLjUbdjx6oTLaE8l/8nDB3yP1hW2ew1s8y8aU9mBmqomi7yHgSRswT86r80IttdaA2v6fUURq63bMr3lNckYPmmPabbrTc5x/XEJe5jmBxnz9Slm8rU5J+iy5yR+R9V4scsxcDMZm/5sUeLdAtw2QNMlUqA5lNpOIFBKYJT3RfYdpqLw2PijYtHkpmIBh105rEoDvZUEEjLeBL1oG4SCMt68JPpulOijCIrdd3AIZWIK34zcV7rwASyj1Vo5CjdiGYjyy6U+BOsBvf//v/84B8GtbLUJe2t9Dy1sgOi6CT+80tnQZQ==;E2dJsz7G/MdFuMebDEwGZw=="
 ---
 

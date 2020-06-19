@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T13:11:00Z
 webUrl: "https://stockhouse.com/news/newswire/2020/06/17/top-ten-tech-company-readies-its-emerging-fintech-giant"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:
