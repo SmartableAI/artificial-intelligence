@@ -1,37 +1,50 @@
 ---
 category: news
-title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
-excerpt: "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity."
-publishedDateTime: 2020-06-17T11:44:00Z
-webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/"
-ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
+title: "Why Qualcomm Will Be Big in Robotics, the Next IT Wave"
+excerpt: "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,"
+publishedDateTime: 2020-06-19T01:45:00Z
+webUrl: "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-it-wave"
 type: article
-quality: 121
-heat: 221
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: eWeek
+  domain: eweek.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
-  - AI Hardware
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804"
-    width: 1200
-    height: 676
+  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image"
+    width: 560
+    height: 300
     isCached: true
-    title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
+    title: "Why Qualcomm Will Be Big in Robotics, the Next IT Wave"
 
 related:
+  - title: "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones"
+    excerpt: "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity."
+    publishedDateTime: 2020-06-17T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "5G is coming to robots and drones with Qualcomm's new RB5 system"
     excerpt: "The technology, which combines hardware and software, will make it possible for places like factories to roll out super responsive machines."
     publishedDateTime: 2020-06-17T11:32:00Z
@@ -79,20 +92,6 @@ related:
       - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
         width: 300
         height: 274
-        isCached: true
-  - title: "Why Qualcomm Will Be Big in Robotics, the Next IT Wave"
-    excerpt: "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,"
-    publishedDateTime: 2020-06-19T01:45:00Z
-    webUrl: "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-it-wave"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image"
-        width: 560
-        height: 300
         isCached: true
   - title: "Qualcomm's 5G RB5 robotics platform will help drones navigate tight spaces"
     excerpt: "Qualcomm is working on AI computing much like rival chip makers Intel and NVIDIA, but it’s sticking to what it does best: smaller devices and connectivity. It just unveiled the RB5 AI-enabled 5G robotics platform,"
@@ -176,6 +175,6 @@ related:
         height: 330
         isCached: true
 
-secured: "cF+7UkjOWoPnqB8/BTZpv0XrnB7fogdi1EPEty7edC6fzkc93LZB8+urkzTdGBuB96v4EmFiB+osEUbhl0fiQFCJ42dYlzVgk0gPptcr67vyJdKyYwhvhcv3vv7xNbjemocHuE8njH8B6aqrBmLIM+HcCDegl//CZT5FDmGhGUW9lzyutWBPbdVVVWBG5jIyOCgRizzY6lkgD/zqqteXcqbPr2v9mhrfaCIboX7Puvs2jSEFoK3bS50dzP+YQ/UAdDQvoyyQCTEoNTnBfpv5hnkutYJSrcKsNK0YBPQ0Ge8VGiuI83iRQuoiUTdUS3dw0/4Q0SJ1UT49zz1dv9nNlH8UamEzNhg7n1P0GKTE1TtthYFDYd5HYsiPzhsFYCFWo29uDer9yJbkZPaVKXLP7uWuiLeOoOR3ROjAhS9maYOlLRd9aJ2CFieeRfrTgZPKSCw/wxAAyjDfwyCw8cPU/Qq3YHM+RR4xNUFVk1YvE9TLCx6UCTaf3Lz/jBcNo8ht;IqZ8XXUj3yB2pbt391C2Hg=="
+secured: "rCnIl1KJWriYChejHQvjfMihr6rSiHY6xSGG6cl9Od7XmOxFVYEW5gzxyy2mWAjYuPTcVNARkDSCw3oXqxu54okhnB4g0ehD8aPNH09qvmTDFhOKqFtQc6eAVWbcY+1qH3+Ee5t7iR8RGQsxW2VRbJs/kmAyr7zs36JYaBmtOGX2TdeT1yaYqCGvCq7oN9DIZv/qt/U1kF3fP2Lkl6YE2xjToBpctxs6Z45K+JwNGcfPbE9E+SUmfEZ6jkp8LV9SnAk/PQCTJYjS+UU+6iC9uOges4jaG8f70hbENWRxZq4NkDrMFbOLNsnKclZSaKnzRBK9r0b5ganqs36wL/+O2Q==;uxO9S7/NeSWYRCtW9sabYQ=="
 ---
 

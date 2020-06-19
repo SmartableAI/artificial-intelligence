@@ -33,7 +33,7 @@ related:
     provider:
       name: Virginia Business
       domain: virginiabusiness.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.virginiabusiness.com/wp-content/uploads/2020/04/MayJune_Download-309x386.jpg"
         width: 309
@@ -52,6 +52,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "OpenAI makes an all-purpose API for its text-based AI capabilities"
+    excerpt: "The company has released an API that lets developers call its AI tools in on “virtually any English ... an API that can perform a broad set of language tasks, like translation or writing a news story on Techcrunch."
+    publishedDateTime: 2020-06-16T16:25:00Z
+    webUrl: "https://ctovision.com/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 39
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
 
 secured: "/+iRJ0Iqa42KqjaoWzsI/gEMTyRAUeOHIZAOzc6dhtla5Xj/9coI6nSnWouSYxgO8R3dehqQrTK+mcrwVBaDn3G3GEXpmXGttAbNNqtNcgbX6H62ndMDjzvr6eJ8exisU0ucdDrb/hYSIcsJb0uH7DC0fx04P1CF65f1MDLtmLpfueDFoOTMkbMn2PhEC418z71hdYeoibemFBnzuclxCAwd8jkQVCXlirlaxx6j/JpuAT2ngafREXyS9SoFHyHD9zWZ57jf8LOWkr9X9JVUSnKaiGQ4lHuq8EblM2sYSvyCNpPENgc9ynV8Bm8hcpUsAZcNW4XU46FJASMuWJFvqw==;ESiQAHyROSEgMZlc2N60SA=="

@@ -2,52 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-06-11-eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal.md",
-      "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-      "excerpt": "Clearview AI's planned expansion into the EU hit a roadblock yesterday when the bloc's privacy watchdog said it \"doubts\" that the service is legal",
-      "webUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-69-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "publishedDateTime": "2020-06-11T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-anonymous-camera-is-a-new-app-that-uses-ai-to-quickly-anonymize-photos-and-videos.md",
       "title": "Anonymous Camera is a new app that uses AI to quickly anonymize photos and videos",
       "excerpt": "But with the help of advances in machine learning, it’s also easier than ever to anonymize photos and videos, removing information that would otherwise identify people. The latest example of this is a new camera app called Anonymous Camera,",
@@ -1092,6 +1046,54 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
+      "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+      "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
+      "publishedDateTime": "2020-06-10T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     }
   ],

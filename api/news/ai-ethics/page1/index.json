@@ -1313,45 +1313,7 @@
         "Natural Language Processing",
         "AI Ethics"
       ]
-    },
-    {
-      "path": "_news/2020-05-15-child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus.md",
-      "title": "Child psychologist says AI can help the poor amid the coronavirus",
-      "excerpt": "RELATED: Papal academy fosters ethics, multidisciplinary alliances in AI debate Given the Catholic Church’s global nature and its networks with diverse experts in various fields, it is “in a ...",
-      "webUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Child psychologist says AI can help the poor amid the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
-      "publishedDateTime": "2020-05-14T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crux",
-        "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 2
+  "nextPage": null
 }

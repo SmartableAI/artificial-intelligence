@@ -78,22 +78,6 @@ related:
         width: 800
         height: 460
         isCached: true
-  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
-    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
-    publishedDateTime: 2020-06-16T14:59:00Z
-    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=22&itm_content=1x7&itm_term=2376504"
-    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/amazon-distance-assistant-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Amazon is putting AI cameras in some of its warehouses to see if workers are actually standing six feet apart"
     excerpt: "Amazon's AI cameras can tell if warehouse workers are standing six feet apart to comply with social distancing rules."
     publishedDateTime: 2020-06-16T13:10:00Z
@@ -124,6 +108,17 @@ related:
         width: 1007
         height: 630
         isCached: true
+  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
+    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
+    publishedDateTime: 2020-06-16T14:59:00Z
+    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/"
+    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Amazon deploys AI-based tech to maintain social distancing at its facilities"
     excerpt: "Amazon.com Inc AMZN.O said on Tuesday it has launched a new system using artificial intelligence to enforce social distancing at"
     publishedDateTime: 2020-06-16T11:22:00Z
@@ -162,6 +157,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3Q0WtoBXgw0OITf0mTGqChY6UgRqPG7ZQp7V0UEpYaRRyzb8CysyWkdjDlrW8gjktf+6FAyLjTGUZ56ZKA+Dcn2jc9flqo7UMTpYP/vlMIifVUHMeeyGfUZNlMzg6geNzGQD2oIcXruePxxSJWgpqe0RF1Aj2rNrj4ruqlVB1puYupVtsnHBCRqvgDIUD7pkdUBvR0UVuZwRNoTkpuPJ3F1A/EKMmzI1nSLrq/AL5uxfWUZQ6NvDWrn6+M4nffch6R+8utHEg+Aj3v38DroqFAzvB5X49GjEOYtU2ovQQWV9NdEvcCqq1nb2dSr1C6L2i3QYwBxyqNMiL3iLgpPvMA==;b0NikYPzzSPi5ecUNKZRgw=="
+secured: "MRKgkJYXr1Tv1xh8OScz0Rjk6LJIVJcMYx+wD5HuDPDzRcIg/TSKJlnsRuzcDm593YsirKKaW1TWA7no6mIilWvl1mXzwzWUFAyvy0rMKvtVh2YEQBfiXvZJndFgFMwDXURm6B57rcGHZ8o4RcybYPudsANJED5INBvc+hTceIVSpI6yIrhjJInxMpRfVsE3SPdaVMUQaJi1DIzVVGewFB44xdWTudI5EszCksx+Llrioe1d0/xQFAZG4YIA3oUDnPAVf1l6+R4iIqhm1C3S778P0PJlfnofOrpd0lvPALx9+cU7XZcbX+x6yg/d0pFJynjqec1pSXCVrn2MGA2pd9f6e1IjszLyYm0qhwYZ7MVL3LFtUv60d01h0JNUr/mppus0bYFkAApkQEUvIKwUGfrR+9DlSIuH5KMy3xLHiTXGwRjp6/hrVjU1duXOuu3+pKyBC+CITm9+OAHPHrS2wMzOJkIocMLYSLz1TpfbwgO5QY9W5IF+cJLV61xwDO5uastb2ZL4Jiqbvuxf0J0Icg==;3Zgf4boiRfjIJYtJVTgrGw=="
 ---
 

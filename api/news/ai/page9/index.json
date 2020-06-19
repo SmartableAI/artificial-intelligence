@@ -2,53 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
-      "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-      "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058713%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "publishedDateTime": "2020-06-09T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-10-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
       "title": "This wearable AI translator lets you talk freely and naturally in different languages",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
@@ -1260,31 +1213,40 @@
       ]
     },
     {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
-      "heat": null,
+      "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
+      "title": "MIT “brain-on-a-chip” could make AI more portable",
+      "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
+      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
           "width": 1280,
-          "height": 720,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+          "height": 800,
+          "title": "MIT “brain-on-a-chip” could make AI more portable",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:39:00-07:00",
+      "ampWebUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
+      "publishedDateTime": "2020-06-09T04:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1293,7 +1255,54 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
+      "title": "Eswin raises $283M to boost chip production in China",
+      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
+      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Eswin raises $283M to boost chip production in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "publishedDateTime": "2020-06-09T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

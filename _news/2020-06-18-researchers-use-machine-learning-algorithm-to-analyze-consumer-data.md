@@ -3,7 +3,7 @@ category: news
 title: "Researchers use machine learning algorithm to analyze consumer data"
 excerpt: "A new National Science Foundation-funded study by Georgia Institute of Technology researchers harnesses machine learning techniques to provide the best insight yet into the attitudes of electric vehicle drivers about the existing charger network."
 publishedDateTime: 2020-06-18T18:01:00Z
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300779&org=NSF&from=news"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300779"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Researchers use machine learning algorithm to analyze consumer data"
 
-secured: "9BfD6Ma4QYbVBl1RkANpmpBWDLh1bFqaI7uP089/DuGcjUR7UaA56Ff0J2E54a6hjT/9znIupbZzzPmfvJ7mDN3lbPWjMHHJ2rfzGJW4nwRF9KkZrRjWs25Iy8rVXplIxUcqknLVL7z73RPNoIX8CsKtJS5PVtCsErRq8928z5SthQr3Jkf1+RGJtH21UYd4fxv6jn9qyD7NIWGiJFWc0vkQzRtudtgYg4+s1yMLiZBno9CoP4T6OKm3MVob1v8HzNvMAwEiKU/KfP1Hdt5T6rgPq9p5KcqRT05qE9tiJ2aNPRWCyEHbhv0en0I3W0s+DVfmCj938nstdrApIWBesySXCR0ZM0UCrD02BmU40JSlBacOQliGojzVfimkZgD1CSu/folHtEQO5LLiAhq2EUOO/nxMQC0tPnsjtolanu7bwQd3641h8fEu0XlsbtKaRW4tkvKheJJt+291wQADE+uO9S/3eX43DX4QcA3WX+MabONsNjDHRyIZQlgyZEuQrqQCHwjyhzUKcPh2e1IpDQ==;HWoIzX5A46J0/AnwE0db0g=="
+secured: "Vizkgw6aHk7hM5hyeIL5BYp7zchgKzKwBxmwvzKKdbV7IDimHpIP764kxrszVMB44a5SFCEIB6hKwrkFWzto5OskWr5PpOlk3NMJ/B0kKlSR/Qg1GkgHtKThaHCgsG2QyvDqs5y9snWn/aF2ZraVJDB2SICMdXhImX8BE9glGMd9++57rJQFrJh/kLgh/nOSTpuUBKDCLRjM8DbJWsfAnhiEd10ZLy50rsaNVPAmNKDKn8QXZv603dZPusfElBiAw4IoLPSGDtHKeThIsAJkI+dlqHd1smMJp+A2tfV73mx6uMVMYeMN4dg5dQSkTFZRl/XjsPb0Nma44ZB/EG15ZQ==;+7UKHMpsQ87xwu9Pupcmgg=="
 ---
 

@@ -1,20 +1,19 @@
 ---
 category: news
 title: "Artificial intelligence systems need ‘checks and balances’ throughout development"
-excerpt: "The Pentagon’s primary artificial intelligence hub is already studying how ... “If you look at a lot of the evolution of the self-driving cars throughout our society today, they’re doing a lot of experimentation. They’re doing lots of testing ..."
+excerpt: "The Pentagon’s primary artificial intelligence hub is already studying how to aim a laser at the correct spot on an enemy vehicle, pinpointing which area to target to inflict the most damage, and identifying the most important messages headed to ..."
 publishedDateTime: 2020-06-18T23:10:00Z
-webUrl: "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/"
+webUrl: "https://www.defensenews.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/"
 type: article
-quality: 34
-heat: 34
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     isCached: true
     title: "Artificial intelligence systems need ‘checks and balances’ throughout development"
 
-secured: "Vf8tKTDD4/PrVXyimbA66YfMbJRHW1MKQeNv9vmBkHA0BoF9cFqC8RqYcXaC0LuGsSN23+OGxE3Ung8MWkCCoVQ0G6YSsDQYQwn9exAz4QgmCBu9lU6Zan/XIngbwhuvcize5fhYrX4UfKY7AHOSqqsRTCfCA+csswVxpuNzOB0ylDpwc5wWbfU5OA8Dv8r8YD0/eglak++e0oCcaZGoEXSb/mG/g6ZGHAEzlckZ3T0XY50I0mMPDQ/u868sgUEXZgx/UV2zuClnDLiYL5Vq1IStxBqbDKFdnRAB/hz83P1vY4c961JBsposNMmKaupYrUxJ1sNoHGsxW2YWmzindQ==;237rOAytnCuQFwi+UNbS8Q=="
+secured: "uqAZ2fM4zZPlBcORT2uvPdFBFSt7BByfccYx9uUUX6CXopLAYwCrrUhxrymjqDtf8775uPBTUUVgaw/u6nDKkTg5BnceDiXge9W42yizxWhtsAYQTtvuNQ09txeS53bdQmIv1kQChcUZO1ua11N/jMoQE5jgIOAezd3vD40vcr+wtrwPM2zE66fwAFuuCmezwn72qIwfS1iwT0MLbx6/ukM9m6N87PtEjoUV1AIbs/rC7oiSzWEtQaIE8FuTOLzFFJ5bD7ta0JBcG+pRaq5BbMFtz3fPETRioLSbit2W247aGVsxap+iw3IX2ZJMtz2S9eET6eZmEujXHZMe1GbVUg==;aXrJcEzXXAIfGlYwGNWW+g=="
 ---
 

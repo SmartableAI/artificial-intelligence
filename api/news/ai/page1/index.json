@@ -53,7 +53,7 @@
       "title": "SOSi invests in AppTek for AI, machine learning capabilities",
       "excerpt": "Reston-based defense and government contractor SOS International LLC (SOSi) announced Thursday it has made a non-controlling investment in McLean-based software company Applications Technology (AppTek) to develop artificial intelligence and machine learning for its speech recognition and translation service offerings.",
       "webUrl": "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/",
-      "heat": 74,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -83,7 +83,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1117,44 +1118,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
-      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio. The new chip, memory, storage and FPGA solutions would help customers accelerate the development and use of AI and analytics workloads running in data centre,",
-      "webUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/articleshow/76447468.cms",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/76447468.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
-      "publishedDateTime": "2020-06-18T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
       "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
       "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
@@ -1340,6 +1303,53 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
+      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

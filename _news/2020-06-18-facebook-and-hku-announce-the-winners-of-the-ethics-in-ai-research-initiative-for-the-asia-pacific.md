@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
+    publishedDateTime: 2020-06-18T22:36:00Z
+    webUrl: "https://www.brecorder.com/news/1005548"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
+    images:
+      - url: "http://www.brecorder.com/_img/social-default.jpg"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."
     publishedDateTime: 2020-06-18T12:01:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
-    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
-    publishedDateTime: 2020-06-18T22:36:00Z
-    webUrl: "https://www.brecorder.com/news/1005548"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 39
-    images:
-      - url: "http://www.brecorder.com/_img/social-default.jpg"
-        width: 1200
-        height: 768
         isCached: true
 
 secured: "p/5ya9NxQNW+rsLCR5iMUMkDN1xSewUg/JdwrFB8aHAX994A8qDAnVoldBh6lByRQcOtwg15c1P9L3Ns5uJae2hXfx596KLORtLD7RB4TWNG0NpV+peBA6Ai5ODzDLhcI/bPMO0ktjh0lPzF9S8Ic3gpbYgHpWaX/qeaAVp29EUve/uUfyPHU0i/MKiznml+JyxMYwrMwnCHH61SJurftdtiEYtsJid8gg2X0od1V2eCqsZj7WJ7w0z4G/QRqSw4/eR469vhAB0lnQ0pnlCRo6jTmRtL7eTPzoOeiEP6scIRRltwfxaAbdWOqnjtjmlA4PbVQce9nzqh25Uc8FX0JmyFRhPcBHchBmaGTxrZ6280OEtXyMMIHPN0+Ie9KQQhJE7db6wbvfAu1NT+Ng4sdh+CbeeoFIUSX5HMiqRDTyob+VOuDIzMyUheNtmwr3NK8HLblbxHoOm4ETYd1aB0xuVOu7sgbTFAzzT+BE0/Et+6O1ndUv0eByTXXhNyIzMYvJ4NGv+fUa9oi01j18J+Yw==;tUDNoPuVFw+0lUbyGyjsng=="

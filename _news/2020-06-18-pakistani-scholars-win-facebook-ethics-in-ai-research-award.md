@@ -5,7 +5,7 @@ excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in A
 publishedDateTime: 2020-06-18T22:36:00Z
 webUrl: "https://www.brecorder.com/news/1005548"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "http://www.brecorder.com/_img/social-default.jpg"
@@ -72,6 +73,6 @@ related:
         height: 346
         isCached: true
 
-secured: "dty24uufMMQvUKk37Fg4jB69Tht6gD/PQ9cWA0zhJbhWUyfwT+vCb5rbZBYjKA0AgkZKbHdeb9ZSEBo+JqZwWYiuJlkSgf8gZuUJqrO4c8RCTq/xbWCZ5MLuo1cJ2UxlS+0lwXq1a0TZYdRRbNl5P310KSf6ZBv8K10FWhPYQA78+IZFnOb3FKdORhfsXTUynYGx4zX/OnejdBxIVo7jCUPUiiX6tbkm2EZTT3xYgvBL3Psp0/xjbrf7myOU9mbBI4kyxnJly6sQhCJ8PnopvbWmrakx2GBjIoU2qTc8JX/NJl3L7X8NG8LgIwbwEwxf1xwNvxzCVf8+brzQ2mRkiw==;SDaQn6nFoFS4s/0neTdK+Q=="
+secured: "YzDrZbg/paQ7ehO/5ysXMaFdnNMb9OgmMg3j2gdn613Fe6pUWJJB3Fs4vqHgO1avQbMVvLOdy3Z4N+efrFduqkG/4ZArH5rUXxCWxg9uCwuYzo7pk+ebzWTdfglQ5AsWcdh+GICMrExyL/FvwLLQtQx8YVBkeiDRint0i3ykKF/QXiCzyGHLZ/oq6LMykWJes77gIfhwlsPb5VsN8oaEzvbveA/2DevhhHzM83JB5GrD1trSlv14Fh+50gVWqljcCEQZg+GJ1ogWHaDg083NYikfIPrtH7mvcDTlrwcCNQi6kenZGjUuu6c0HqVJIPBF0aFSpyFMWlLG8R9DqpPuLb/GC+beiZvDIinSC+2l6a07CWbVGO2b7uj/VHYqYGLKtexsk61E4bTS3vsis1Pjiw7R+UE6rYBjU97EHoIONhalgOQW7MCXFh08Lo307uYCV2BqSV8fpBUzgr/9TLOihPpTyqvskXmcXSerAAyyJU2UFjDRgGLVixwp1CnfUPeOxasAjIdyU7U/tIJx+I6pFA==;i3qnWKo5sUH0e42EHK2eFw=="
 ---
 
