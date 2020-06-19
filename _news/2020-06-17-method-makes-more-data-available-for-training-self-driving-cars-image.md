@@ -41,17 +41,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
-    excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-    publishedDateTime: 2020-06-15T10:22:00Z
-    webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
     excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
     publishedDateTime: 2020-06-15T19:39:00Z
@@ -148,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "You may soon be cruising alongside a self-driving truck on I-70"
+    excerpt: "Partially automated self-driving trucks will hit the pavement of I-70 between Indianapolis and Columbus, Ohio, as part of a federally funded project."
+    publishedDateTime: 2020-06-19T10:12:00Z
+    webUrl: "https://www.indystar.com/story/news/local/transportation/2020/06/19/partially-automated-trucks-coming-70-near-indianapolis/3202437001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3202437001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3202437001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/12/USAT/d80041cd-3571-4ebe-b582-7a4d91d781dd-XXX_TH_food_project_trucker_coronavirus_2020_361.JPG?auto=webp&crop=6249,3516,x0,y337&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CMU method makes more data available for training self-driving cars"
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
     publishedDateTime: 2020-06-17T04:04:00Z
@@ -162,6 +167,15 @@ related:
         width: 720
         height: 812
         isCached: true
+  - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
+    excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing. U.S. states have a variety of regulations governing self-driving testing and data disclosure and there is currently no centralized listing of all automated vehicle testing."
+    publishedDateTime: 2020-06-15T08:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-06-15"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Where Are All the Self-Driving Cars?"
     excerpt: "Recently, journalists explored the disconnect between the envisioned future and the current state of development in the autonomous vehicle world."
     publishedDateTime: 2020-06-15T17:31:00Z

@@ -3,7 +3,7 @@ category: news
 title: "Japan's Fujitsu brings hand washing AI to COVID-19 fight"
 excerpt: "Three months after the World Health Organization recommended singing \"Happy Birthday\" twice during hand washing to fight the coronavirus, Japan's Fujitsu Ltd has developed an artificial intelligence monitor it says will ensure healthcare,"
 publishedDateTime: 2020-06-19T09:27:00Z
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-ai-technolog/japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight-idUSKBN23Q1F6"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-ai-technology-idUSKBN23Q1F6"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23Q1F6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q1F6"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 667
         isCached: true
 
-secured: "fLivUJ9ZMLkg1im4xe+KAkQ/oCpR4gHoPHemSZHDCn/h+BqfYCH3xjd/bC9HZbhsk3i76jvhZbfTkfTlFwNl0gQUR3ECJYgWw4kKcdzjO1IhgwC3zll4CEbEItxi0ik8v6rA9r8olDw0IsOwxHapPI74EDWUft+XYSwDUOTNqSDmWb8aaYkAT5ulZHppbh1hukeUxEEqiXHkAiGVAKMkMUaey24Lhv2C/VKDro2kJxkPXA4g7qMEZ3IF5G950FO5DY1c1xeR4I7272hbw2c/lSZfpmJ2FakiBn5BGEi26aZxN0WWTAMZxDI3Zh40BrMMUFeIZ3o4ZUGXEkTkmqRc4Q==;NWocw3RPUBfJX1HVTJkZpw=="
+secured: "kdVeRKDk6yGTR+Vr+PQYk4mOiOtqi6y3RRYtZhDitzTQOPwxOleXEgK6C9wnc9iGBlsFUcWe/fpfe4U2eibcxqwRXh9/XdDuZHh1teaIr3utFvTmeeV/SSK2tA95IV3J5kboMDCnllHlFxq6uZsOKV9rE52RDcXDWBZfuRJRuaYN4wjlp4dyVBlFw7zqFQMWxfowGed0U/vDqu2axAeNMWMmuw53swRTydrisDwPixKb/xLtYwKLz1VHuLpqZBellpvxELw1zPKw2VQRTGfdoQQ1xCDhUwvKnYoROe3lFBpMJg+eUfp0BFX7tflMxfDF94wx7FUX8hv1NOU1yU9T0Q==;pNtetdvqpDvjdUkB+bWlqQ=="
 ---
 

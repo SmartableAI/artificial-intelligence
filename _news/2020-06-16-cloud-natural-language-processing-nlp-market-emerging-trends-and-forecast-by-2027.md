@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-16T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-emerging-trends-and-forecast-by-2027-2020-06-16"
 type: article
 quality: 63
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,15 +29,43 @@ images:
     title: "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Strategies and Insight Driven Transformation 2020-2027"
-    excerpt: "Acumenresearchandconsulting.com announces the release of the report “Global Natural Language Processing (NLP) Industry”- 2%. The shifting dynamics supporting this growth makes it critical for businesses in this space to keep abreast of the changing pulse of the market."
-    publishedDateTime: 2020-06-15T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-strategies-and-insight-driven-transformation-2020-2027-2020-06-15"
+  - title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
+    excerpt: "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry."
+    publishedDateTime: 2020-06-19T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2020 - Industry Insights By Growth, Emerging Trends And Forecast By 2023"
+    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
+    publishedDateTime: 2020-06-17T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020---industry-insights-by-growth-emerging-trends-and-forecast-by-2023-2020-06-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence As A Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2019-2027 Global Artificial Intelligence As A Service Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2020-06-18T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,15 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
-    excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
-    publishedDateTime: 2020-06-17T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
+  - title: "Cognitive Analytics Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware Market Study Report adds Global Cognitive Analytics report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
+    publishedDateTime: 2020-06-19T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2020-06-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

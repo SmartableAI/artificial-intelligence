@@ -2,44 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-05-31-microsoft-replaces-msn-journalists-with-ai-robots.md",
-      "title": "Microsoft Replaces MSN Journalists With AI Robots",
-      "excerpt": "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,",
-      "webUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "publishedDateTime": "2020-05-31T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-31-tempus-launches-new-precision-medicine-driven-tests-tempushrd-and-tempusto.md",
       "title": "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO",
       "excerpt": "CHICAGO, May 31, 2020 (GLOBE NEWSWIRE) -- Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch ...",
@@ -1075,6 +1037,53 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai.md",
+      "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
+      "excerpt": "The world is becoming smaller as many businesses and organizations expand globally. As businesses expand their reach to wider audiences across different linguistic groups, their need for interoperability with multiple languages increases exponentially. Most of the industry work is manual, slow, and expensive",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai/",
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/27/image001-1.jpg",
+          "width": 800,
+          "height": 428,
+          "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T10:02:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

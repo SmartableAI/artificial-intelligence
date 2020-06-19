@@ -2,44 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
-      "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-      "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
-      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
-          "width": 1024,
-          "height": 722,
-          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "publishedDateTime": "2020-05-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
       "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
       "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
@@ -1288,6 +1250,53 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
+      "title": "Unlocking the value of values with AI",
+      "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Unlocking the value of values with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "publishedDateTime": "2020-05-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

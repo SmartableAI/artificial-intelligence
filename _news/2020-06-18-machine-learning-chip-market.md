@@ -34,15 +34,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence As A Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2019-2027 Global Artificial Intelligence As A Service Report\" provides data, information, brief analysis, company profiles,"
-    publishedDateTime: 2020-06-18T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-06-18"
+  - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
+    excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
+    publishedDateTime: 2020-06-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

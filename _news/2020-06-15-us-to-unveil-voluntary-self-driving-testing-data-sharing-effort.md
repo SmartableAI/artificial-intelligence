@@ -1,23 +1,17 @@
 ---
 category: news
 title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
-excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing."
-publishedDateTime: 2020-06-15T10:22:00Z
-webUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6"
-ampWebUrl: "https://www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-6?amp"
+excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing. U.S. states have a variety of regulations governing self-driving testing and data disclosure and there is currently no centralized listing of all automated vehicle testing."
+publishedDateTime: 2020-06-15T08:31:00Z
+webUrl: "https://www.nasdaq.com/articles/u.s.-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-06-15"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -136,6 +130,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "You may soon be cruising alongside a self-driving truck on I-70"
+    excerpt: "Partially automated self-driving trucks will hit the pavement of I-70 between Indianapolis and Columbus, Ohio, as part of a federally funded project."
+    publishedDateTime: 2020-06-19T10:12:00Z
+    webUrl: "https://www.indystar.com/story/news/local/transportation/2020/06/19/partially-automated-trucks-coming-70-near-indianapolis/3202437001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3202437001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3202437001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/12/USAT/d80041cd-3571-4ebe-b582-7a4d91d781dd-XXX_TH_food_project_trucker_coronavirus_2020_361.JPG?auto=webp&crop=6249,3516,x0,y337&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CMU method makes more data available for training self-driving cars"
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
     publishedDateTime: 2020-06-17T04:04:00Z
@@ -225,6 +235,6 @@ related:
       domain: cars.com
     quality: 2
 
-secured: "35Jg0CpfIqGN8Iv7/fhCkt7B1p8vFgejFoOiAiXXP6/cG5xyHYp+4KYZhW0gyA7llIr0yRaTfNCoUMJbmjyj4wR4TZCz39fMrBSJuv5to0QJL/+gfPh+qyJ7QP4G6QP3KLkC/ZcNFIicGbAdfoUTHEEbq01t2BFeSir1MjJJuqVyPce87S8oK3zXQIh1TAaNCJ112b61WzeUYmOvEJ7C++8+nYSxVcjm6KFcfDI9g17ZotnuhgK0pOzxoY2uWvT8JYIiCoVvyKeEc4C/7BkMwyRpT564gCh4++sto4VhZhwKfjHPfywq0IhmH+qIJWB39RLWszuwRFmSTGIeeLT+3w==;8ZNDHlU4f8b5WNVssEA6tA=="
+secured: "/yJap8Itl8JkNaQF8W6vLDj30xcQf65awDtoDe78pDR6mjV9rlVxcMwBqSG2MOIEvC8v/ZfFQsvqRysH3dnZcse3gIwJeWFRZZVl9UxKfOGxiD8pZMFZ0AocsrnaN+LlZaFR1XlnW78oziBZIRYIBed3dp90Uh8tVKqC/CJZGHdMHPLyNZjOYlbvXkmf2UJHlEMbqLo2fpjgoaAxGnTeWn9R8nKpmWvEF0nxGAUK6e17Aio4ecqegSiZD5md6PZU/5UAloyvdrvMElgOi3BMIZImbZ7BXB6VpZ2qqnBXu10cWda/6ttzHcvBCr/4YnQlCx1oASWsn3BKtCuKuhP5J9lhg2yfrRPBGxfSv4B/AF8TBd2rSmrzzkbraKkWvib73ibYuHLFWSUNrqvw9Q9PpJf0LOD+0RVDMEfvnjIXdw74S/bX3tTDRcKroWlPL7HzPE6lwkWPriBlC+OcyjaZQ2uRQlVBxYanlG52DM61cRjRXILARpr9qhVG34JoJgCMw9aEX0nw8UVJMC1PTz7C0g==;ijTAhQnWoHWgoNgLRz1PhQ=="
 ---
 

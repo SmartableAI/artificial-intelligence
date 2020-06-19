@@ -2,53 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
-      "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
-      "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
-      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
-      "publishedDateTime": "2020-06-03T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-03-ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests.md",
       "title": "AI conference NeurIPS extends paper submission deadline amid BLM protests",
       "excerpt": "The deadline for AI mega-conference NeurIPS has been extended by 48 hours, to give people affected by protests in the US more time to finish their papers",
@@ -1069,6 +1022,44 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
+      "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
+      "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
+      "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "publishedDateTime": "2020-06-02T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
         "publishers": null,
         "authors": null
       },
