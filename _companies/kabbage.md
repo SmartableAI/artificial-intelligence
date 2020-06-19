@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KabbageInc"
   url: "https://twitter.com/KabbageInc"
-  followers: 25638
+  followers: 25637
 
 size: 501-1,000 employees
 yearFounded: 2009
