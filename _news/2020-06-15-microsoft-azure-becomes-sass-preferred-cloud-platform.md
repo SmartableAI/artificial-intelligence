@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
 
 secured: "l11wMpkhoh/o1MV7QVkxfnqLgS1woerw5DCzSoGh6+uDfHZjwWorV6Twc9FaXO3ydBT6r/aXSakLGQxhM8WbeGufZ4UqEZUeWIt0PjNzuYSRMbNQbvEb7sEfEv8lholhTnkzbDtci5zaM+OzXQemR5fC0Y1a8SA4IEf5vzkf7w1BxJdgBq8uaypXaxDVQsqaf0gyLwrCAZ9qHJNyJeNxRiOPx1D2FWkG4MkUVF43GXk46pG7hU4e/saFZzrdyGQ8eG0167UG638ZGcSch5NNwTTI4igk8cKxxgzSuEKt8/mDVNWoylBJziwTB2cyJuw1Q/s22EADS3/qZ1brLOulikomeCogUfqeV38ZzHNs/QUAYuXRHXfV695WYom0MbM8E44owqKlvcLvxDqKpE7FYyVt8CU5y/+e5FILm+JxqdAz4Zx4zJcv7lF1uKWmKQWGGiGRVT2dO0KCmauthqQFYyZfNTOi+J2W31CYHRhRpnLkKd6tOQqFjw1PFFRcxXmD;LO8T6V58hOPMRrxmgBtH6Q=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Amazon’s machine-learning device keeps an eye on social distancing"
 excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
 publishedDateTime: 2020-06-16T14:59:00Z
-webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?itm_source=17&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/"
 ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
 type: article
@@ -156,6 +156,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Ymyg/SLp+QsclY5xvltUE7l2lyS1FU2QAwBN22TL2qYNAkFL7GbMhslNQWAhQBO1k7m2nK8kQqKdlY6NCwxj2Ecpw+Lh9r0png3l+yArXcixhpXpek3NDrbLZega/rDks0xisGeDlAFm7MyscI6qyNYlF9KUm+FIxNfZtbD3+/E34SmLaYx+FX53HjCTjcgUWuIWUP3rt2u4rzVjgxLmmXES61Ksf2CpGgluHWpMBC9TSPmoCx1yeWd3kwBPu/P3hAfvHKkLG4g3empSaY0V9+f5U/V3XmRv0YBqj9WYutKBZYP3xsgmUm4xyvh1wOZn2ZX5CwP5CIxLbcsGC4rLDlB0e2MXJtXdLnBSks0HXlI1ICuGVMyYAVD5yhHxvWtitAdB8CvZ7yJ79ntyNh37O2fyRe923e7xoUKUGo20/F6X1dG3QG0fh2wn7F4Pc0aUaKGzxhYjAFEiP8Bh+9+WHnoWkD80bWC5cNKkndsKlkRe92bW1VNPzmG2Q91Ovj5eoOylSy1givDa+tR0b/Lumw==;0o+l2Ln2NMCqK/wr/+dghg=="
+secured: "hh+zztf2icavc/wa4ec/GxjyZSbZG5sRnLaZKnTK0FEqYhdpzkfjJQ6llmScA/7y5FPzErPRbIuNWd8ikXZKD4599jv+f1pF2Z2gaFnCjsTqI/2Kt1Epstl4Jo6B5WOkA3bdJzq421wNDidUuuCTAiHgNF5jQJYp71wnkpMHNmJ4LF8YuvkRvMxn+X82375aw4QT6uqyLAUHU/iLry/NEnqWxvu6TSTsVkS6UTa5OhRdNk0YYEv2syPFTpk3JqMc88trRSv82AU7CcfAgHtIXMKm9KRiCSR8fuwmvkke6UFVELlwhvxNs31ktYtQitDpne+eCE5qRfQBI1zlS2mc2ashsn/w8ySjeMY1/f8fj6T3aPi2SxynqweC1vubLV3CvpT1J1mGmWwSnAQ1JkmcpdV+eCihUOq1MGqRXNKE3d5rrY9NMut/JQPYnd+frBqBawaLog82uVJZVu81FrHffU/rbkwDeK+sPjrQrszXyiojBzfiEpT9FVUqYMNKM3BzQ3r6wtf8nQ7Xtro12GcN+Q==;beNKhE7rbwRn59Z6XKN+Iw=="
 ---
 

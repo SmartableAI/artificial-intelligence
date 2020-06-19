@@ -52,6 +52,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 39
+  - title: "A machine-learning model shows promise in predicting cancer prognosis and survival"
+    excerpt: "A machine-learning model shows promise in predicting cancer prognosis and survival by analyzing histopathology slides, according to a new study published June 17 in PLOS ONE by Ellery Wulczyn and David F. Steiner from Google Health, California, and colleagues."
+    publishedDateTime: 2020-06-17T18:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/p-amm061020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234456_web.jpg"
+        width: 720
+        height: 432
+        isCached: true
 
 secured: "d2V5R2MDthxXJN0YG2crHeQaykJwW3z95/xkxJ1ZH5u4N6eXsXmjm8/xImlr24yY+9XvQXV86Q0RSCaBM7QCwldjmnAsZsJlh+1X4VYrL5qgTxMGO9vQ8/Cj3ixFQFXEE878EqQ0qStMleotlhZOHj2p8Cf10QajQ4u3M5B19FDKSiqe2BF8Qq/0sfGmI5Jz3UA7cfwBYJ+gS/NLQM54Qh/kw1mis5C6EDgmQYz6hCFbxgbtVFzUCM/vscpnPjDCO3lNi4b6lU4hOR/GX+FroDVZGJFKeePCrXVufZU0y9lpw1Dc0vejsV6eOtPNfcIccOIVY42YBoRoKtsX0GdX8A==;/QvUZxt3dUNvZ4BB5g9y3Q=="
 ---

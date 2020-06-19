@@ -103,6 +103,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 34
+  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
 
 secured: "HxxnFj9SQgN9exRYZHGcP411sUOMMzG3WMgjRoS1jjksfx5y6ca44GMgomKxgnbFloViAXlcnsAdMNJnuQThgRxwx44yPp3ooxTz/wPqvjjpKu17r/4IfWvRanVppBLPslY8sZH/A1MqkMfQKNGKmUKE0QYK3Tebqhtbu1AicXaEekQGV6vPcfx/cfBUHzbhD6PNzzX09EZOrkQCjlv15feSZ4qxecLpC7MIk4RWaSWc5k+USaNIvKlLQu9eWU56b6Ln9F6NjwJyleTSyy2VU+NkUfdELECO00JSMNgwPYsAh6nIo7XVNvEVG4C8cC5QkKbBqFLzEnGFJ3ADubGwdg==;GrqpS+CrlD4X727JEzph1g=="
 ---

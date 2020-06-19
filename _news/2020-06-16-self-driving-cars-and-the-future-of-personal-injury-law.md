@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Painting On City Streets Can Impact Traffic Safety, Good Or Bad, For Human Drivers And For AI Self-Driving Cars"
-    excerpt: "In many cases, the streets are considered active in that once the painting has been completed, the roadway is reopened to everyday traffic. Thus, these are not seemingly specially set aside streets that are secured from vehicular traversal and instead are put back into their usual service after having been painted."
-    publishedDateTime: 2020-06-14T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/14/painting-on-city-streets-can-impact-traffic-safety-good-or-bad-for-human-drivers-and-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
     excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
     publishedDateTime: 2020-06-16T15:38:00Z

@@ -24,21 +24,21 @@ images:
     title: "Using Artificial Intelligence in the Fight Against COVID-19"
 
 related:
-  - title: "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19"
-    excerpt: "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,"
-    publishedDateTime: 2020-06-17T10:46:00Z
-    webUrl: "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html"
+  - title: "Japan's Fujitsu brings hand washing AI to COVID-19 fight"
+    excerpt: "Three months after the World Health Organization recommended singing \"Happy Birthday\" twice during hand washing to fight the coronavirus, Japan's Fujitsu Ltd has developed an artificial intelligence monitor it says will ensure healthcare,"
+    publishedDateTime: 2020-06-19T09:27:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-ai-technolog/japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight-idUSKBN23Q1F6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23Q1F6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q1F6"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106576188-1591993393250lab_sequencing21.jpg?v=1591993998"
-        width: 7617
-        height: 5308
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200619&t=2&i=1522812302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5I0WA"
+        width: 783
+        height: 545
         isCached: true
 
 secured: "rsQ7iWSUIpBQnJ5nf8K0HDrBqQd2TU3RG2JJ3EBLZJ8guf5xGDwSJ1+6zvLKQoB6CjUnuS1kbRK/JiRk1dw+XP8Pr5m/OmGKSEIVjiZKwokwDuHRwaytLIEx1/C19mx4mqqgpYWm/uxnD3te8Z037gqVZHeN2W4OpGVrCrGUhjzI5DMtnxydWfQbCc9+i+2HEQiMOd29n5jhRmDKM6n58UXmhbgD3QMlr5tOdAAMBg2zgszk9ygags3rihZX+a2/lZLrpvuZmg5FYVI2auUWNsaC/FEDc4ZT1mpIcC3azCjcfcPk6F9qcVy7HH1a58Jxrkwa2Il6wwSJFx8IyLiV63f1onmoMBgMDCUZa4XtobN345Qof4CQRRlssfpMTfbL2ij3WMezKYL8uAL7+ZjcaqBWaML41as56H0z9ci5/1D4UKrEavMuL1t+KKTY3sRvw7Cpv19fSZJKveci2eWxF2UKi567hKxQIf752c0YONtc/2MK6FltdghWrhELAawoslOpfQkDCi02bos3t6mIvw==;KPTg9j8obwUXdRhxWfMC6w=="

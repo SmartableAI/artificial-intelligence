@@ -2,18 +2,20 @@
 category: news
 title: "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com"
 excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/mhxd97"
-publishedDateTime: 2020-06-04T16:34:00Z
-webUrl: "https://www.oaoa.com/news/business/article_d98179dc-b894-5652-be11-f1b15c782eb7.html"
+publishedDateTime: 2020-06-04T11:12:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/b16181219/insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-amo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16181219"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16181219"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "9tss5Pv7aQDVrDYp5ucscdVXEyUMoH4+atDVsXwFdDneE0ndqD5BoluB6ZnhdbmQ5Z1Zt0M4FLBlEbT+8q2KqpSN422feTExYS7zx4o4F4BzATsCXaKSOZ9z77FDV4OnX0t2U6IodTr8EJxjxp07wTtlBFM+wcHZpfnbLgsPgRxTP7xnzj5NrGkmye/Z3oKgFCV8m8gTLQQthPjIg5ZZn4nCWAnG15nYVo0is8BvYXptmHqvt40meNSCVh09uvn4vd7ZFf5XC1to9fAoHcuXAWdz4qPSprC8bp7mTDmhDd0RgkWMIZANNIo6chDCuiLp0V4E+y4zTc88rSRUIfS9iw==;L6U5uqPPYdPhetR11oAong=="
+secured: "caZwGOFYbwi7yy1OeuasFdQsMEgdmwg1Xh1uw3JvJcIsIX5nFQHKQkUBKRDyK+OFqyUwNX94qBJKDpWQdboXJRK1LOB9C1vkil/CbezZ4JFq15c57v5/CBUyVcgfc0Zpf51U1XDNtajaaLroxtpuK1McVAmzT6evvZI4mK58RI52GTpZaSn+7mEtk5pcJbqgz2GQXHspYx0uYyi6KW2v0gm+nnW656WAUkA0j34I1kPubjM4V6h8UKL1I9pSbqZneTbNV2Ce8NfUsZ6iXGZTzhevt5YBpKrrgPoICrCCGFTHzrbosS9JAVmdi6C5yFe2KrnubkLjwksWHwqMbh4dug==;vkxxqdMGvsntaMhkzktZwQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/"
 type: article
 quality: 121
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
         width: 300
         height: 274
+        isCached: true
+  - title: "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G"
+    excerpt: "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses."
+    publishedDateTime: 2020-06-19T08:49:00Z
+    webUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/"
+    ampWebUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 85
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2020/06/Qualcomm-RB5.jpg"
+        width: 810
+        height: 460
         isCached: true
   - title: "Why Qualcomm Will Be Big in Robotics, the Next IT Wave"
     excerpt: "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,"

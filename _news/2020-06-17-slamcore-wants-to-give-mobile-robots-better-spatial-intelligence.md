@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-rob
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Slamcore wants to give mobile robots better spatial intelligence"
 
 related:
+  - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
+    excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.Being an"
+    publishedDateTime: 2020-06-19T09:25:00Z
+    webUrl: "https://www.sourcesecurity.com/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 42
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/agilox-autonomous-mobile-robots-saving-costs-artificial-swarm-intelligence-920x533.jpg"
+        width: 920
+        height: 533
+        isCached: true
   - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
     excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades."
     publishedDateTime: 2020-06-17T20:41:00Z

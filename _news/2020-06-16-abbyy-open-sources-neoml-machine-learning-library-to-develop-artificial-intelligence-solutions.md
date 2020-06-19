@@ -47,6 +47,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "A machine-learning model shows promise in predicting cancer prognosis and survival"
+    excerpt: "A machine-learning model shows promise in predicting cancer prognosis and survival by analyzing histopathology slides, according to a new study published June 17 in PLOS ONE by Ellery Wulczyn and David F. Steiner from Google Health, California, and colleagues."
+    publishedDateTime: 2020-06-17T18:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/p-amm061020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234456_web.jpg"
+        width: 720
+        height: 432
+        isCached: true
 
 secured: "dW63A5/YadXnb/Tp1y4I7JMljrBzqxo/5umYj8LM5pdjOzYkiw5SHsj5+N8ip1Y+T7/pklE+H3eywdDtHOSiTjffr6jtVCszoY/Bg2ElBIsOsXuFkqbCptU469NRNXRzUnKdKEcAkwGEBS4d40dgrQw+4nCdVJir94twrfVQpFk2qupjjG1C8BykE1nb8TKu6j3zjopXSw4BZmV5Y/YUI+8lBUOtOSwyG5TGgBbzedK70iTwyNCma6JpEL82RfmzWsDyAsqDcrHrSl9AoxdtFVqgAtgU43X7UaCK3GNnCLTPSLeI8lf0X4bTYAZSn/rnCJLuEVLILFFg+uKoYd7gCA==;AXawqug0Gi6LYDWfWjwE5g=="
 ---

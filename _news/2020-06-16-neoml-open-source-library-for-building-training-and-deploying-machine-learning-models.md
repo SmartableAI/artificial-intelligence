@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T11:34:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 39
+  - title: "A machine-learning model shows promise in predicting cancer prognosis and survival"
+    excerpt: "A machine-learning model shows promise in predicting cancer prognosis and survival by analyzing histopathology slides, according to a new study published June 17 in PLOS ONE by Ellery Wulczyn and David F. Steiner from Google Health, California, and colleagues."
+    publishedDateTime: 2020-06-17T18:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/p-amm061020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234456_web.jpg"
+        width: 720
+        height: 432
+        isCached: true
 
 secured: "qcXFbTPvgx5u9NSdRwEcf9x8Juc11YarvO8U/Tce0wb9p/Z58msbE16lPaCy48Y1K0MCSWAW9St+htOHIYn8nAHHQqfKWD3xDBq9UUuMnrQeRMpCvMLXlBEPXQqlowvG1nW7tGqY8RUsp75hOa9rSTsm3e/zOY8InjQah1lVRQloDMpnIegU7WAegbsGCcm2mKr7OjOXXYNwHS3heDEJLSpEgJF7QtFJSJByuat519edcvrBgeeI7YaJPJ0vvZpEVfgJCzOKI4CCV6d3xOHlzQWndVg2QTM3GI+yEmpovN3u5WGAai+nAm/sx0kAvbfZ2dcAfH2byXjs040utRGXdg==;0Z512A9K4qr81ucr3RN3TQ=="
 ---

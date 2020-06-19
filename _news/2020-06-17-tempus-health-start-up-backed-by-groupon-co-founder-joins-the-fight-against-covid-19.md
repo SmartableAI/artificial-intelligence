@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 5308
     isCached: true
     title: "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19"
-
-related:
-  - title: "Using Artificial Intelligence in the Fight Against COVID-19"
-    excerpt: "We’re halfway through 2020 and it’s safe to say that the year will be forever associated with the COVID-19 pandemic.  For most of the last six months"
-    publishedDateTime: 2020-06-15T07:16:00Z
-    webUrl: "https://www.hpcwire.com/2020/06/15/using-artificial-intelligence-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 52
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_1732788047.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "bKWrfNkWS+bduRaiacZUoTFdEQVC3sTfRv97P3r8LbMMtG9IvJPB6gsXzOcAsCuQRJjcuIlcd0IG/36FRFC32A7tr0NblU3MhpJM0NP1AEGRs6ievXFUXSkJvd3V3JDzhPK0eZE9h9jIYRPQaC1ZthctHIanoCSgo0dfyBW2TvTVSvutXxLcALkldg9U4v9xTtiPBMuQDFxaywaGBhjWlLhDvVCKnyzune0sIuv8V3ivfqPD3G11rt4la+4oK1TOFUNaH10O6NcSRf7Uwh72mI4M/1ywFUq0NE0Gy/TtPkmplnzA2Bm0H54VrRRsbq3fZRYkfx+0IQ/tc+2NtGxYEe2KD1hEgSRNtjqdZqAT0aZ1H6uPutBQptrhTB32+4tTE2mhI281GDEfDLklQ/oh5nmph8PyIyXIPU/Dxb0auGsC3i25CVxoutKiSt7CaLvR/BCzgbJT6TtYC5EHXBVIt3TjgVMpcn3AkqZ6MaeyQK5Q4hm3chIBKeGN7N7bPQ0DU2K+UShXe45pfJTYMrpOpA==;rlhf0Solu/48NO7z16i2pw=="
 ---

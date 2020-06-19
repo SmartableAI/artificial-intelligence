@@ -93,6 +93,22 @@ related:
         width: 300
         height: 274
         isCached: true
+  - title: "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G"
+    excerpt: "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses."
+    publishedDateTime: 2020-06-19T08:49:00Z
+    webUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/"
+    ampWebUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 85
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2020/06/Qualcomm-RB5.jpg"
+        width: 810
+        height: 460
+        isCached: true
   - title: "Qualcomm's 5G RB5 robotics platform will help drones navigate tight spaces"
     excerpt: "Qualcomm is working on AI computing much like rival chip makers Intel and NVIDIA, but it’s sticking to what it does best: smaller devices and connectivity. It just unveiled the RB5 AI-enabled 5G robotics platform,"
     publishedDateTime: 2020-06-17T11:39:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges"
+    excerpt: "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges."
+    publishedDateTime: 2020-06-19T09:01:00Z
+    webUrl: "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges"
+    ampWebUrl: "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Watson Works helps employers make informed decisions about workplace re-entry"
     excerpt: "The curated set of Watson artificial intelligence (AI) models and applications is based on capabilities in IBM Return-to-Workplace Advisor, IBM TRIRIGA, IBM Watson Care Manager, IBM Maximo Worker Insights and IBM Watson Assistant. \"We've designed Watson ..."
     publishedDateTime: 2020-06-18T19:36:00Z

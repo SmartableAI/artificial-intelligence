@@ -5,7 +5,7 @@ excerpt: "SOS International LLC (SOSi) announced today that its owners acquired 
 publishedDateTime: 2020-06-17T19:06:00Z
 webUrl: "https://apnews.com/92741c496b6e4893b0378a6d4a473699"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -2,6 +2,231 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-15-facebook-ai-is-65-accurate-when-comes-to-detecting-deepfakes.md",
+      "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
+      "excerpt": "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,",
+      "webUrl": "https://www.indiatvnews.com/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/facebook-deepfake-detection-challenge-1592215334.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
+      "publishedDateTime": "2020-06-15T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
+      "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
+      "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
+      "webUrl": "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg",
+          "width": 286,
+          "height": 215,
+          "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-four-business-benefits-of-ai-powered-analytics.md",
+      "title": "Four business benefits of AI-powered analytics",
+      "excerpt": "Thanks to AI, increasing amounts of data can become a boon to a business rather than a drain on resources or a lost opportunity. Not only does AI help with sifting through the data, but it can also automate otherwise time-consuming processes,",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1589985008/itpro/2020/05/shutterstock_robot_ai_artificial_intelligence.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Four business benefits of AI-powered analytics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics?amp",
+      "publishedDateTime": "2020-06-15T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
+      "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
+      "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185170041%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
+      "publishedDateTime": "2020-06-14T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
+      "title": "Assembling A Top-Notch AI Team",
+      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
+          "width": 1200,
+          "height": 675,
+          "title": "Assembling A Top-Notch AI Team",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "publishedDateTime": "2020-06-14T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
       "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
       "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
@@ -1075,239 +1300,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
-      "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520735652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG510AV",
-          "width": 819,
-          "height": 545,
-          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN2390FT",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN2390FT",
-      "publishedDateTime": "2020-06-12T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
-      "title": "Top Companies To Short As Stock Market Optimism Dips",
-      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
-      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Top Companies To Short As Stock Market Optimism Dips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "publishedDateTime": "2020-06-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
-      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
-      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
-      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 868,
-          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
-      "publishedDateTime": "2020-06-12T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
-      "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
-      "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
-      "webUrl": "https://www.entrepreneur.com/article/351699",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591802874-Unknown.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351699",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351699",
-      "publishedDateTime": "2020-06-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
-      "title": "Researchers propose framework to measure AI’s social and environmental impact",
-      "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers propose framework to measure AI’s social and environmental impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
-      "publishedDateTime": "2020-06-12T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

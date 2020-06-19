@@ -166,6 +166,20 @@ related:
         width: 720
         height: 812
         isCached: true
+  - title: "Where Are All the Self-Driving Cars?"
+    excerpt: "Recently, journalists explored the disconnect between the envisioned future and the current state of development in the autonomous vehicle world."
+    publishedDateTime: 2020-06-15T17:31:00Z
+    webUrl: "https://www.fenderbender.com/articles/15180-where-are-the-self-driving-cars"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 24
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/waymo-test.jpg?height=635&t=1592252093&width=1200"
+        width: 777
+        height: 518
+        isCached: true
   - title: "South Korea to spend 160 billion won on developing self-driving ships"
     excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
     publishedDateTime: 2020-06-17T06:55:00Z

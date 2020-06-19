@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market 2020-2026:"
+    excerpt: "Reports Monitor has recently added a new report to its vast depository titled Global Computer Vision Market. The report studies vital factors about the Global Computer Vision market that are essential to be understood by existing as well as new market players."
+    publishedDateTime: 2020-06-17T11:06:00Z
+    webUrl: "https://surfacingmagazine.net/computer-vision-market-2019-strategic-assessment-by-top-players-like-cognex-basler-omron-keyence-isra-vision-sick-mediatek-cadence-design-systems-ceva-synopsys-and-more/"
+    ampWebUrl: "https://surfacingmagazine.net/computer-vision-market-2019-strategic-assessment-by-top-players-like-cognex-basler-omron-keyence-isra-vision-sick-mediatek-cadence-design-systems-ceva-synopsys-and-more/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/computer-vision-market-2019-strategic-assessment-by-top-players-like-cognex-basler-omron-keyence-isra-vision-sick-mediatek-cadence-design-systems-ceva-synopsys-and-more/amp/"
+    type: article
+    provider:
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 39
 
 secured: "IZnbLu1sBIK74YlghW1HBxatl7hzbvxBMhyYOqRGcuGsJV7Axu9G5EfZ6aUveUs4PURcjPwo/Hpeat+yaJvOUikGTpR9Qhv+N7uy64sPh8mEuW8XGgX6YV0NXSTnd/aZ12Q1N39e4S3yR5B+TbtNtsmx/qByUi0UWS6cM9oowXj2GGP5oHdKZLozTEAti25ip2zF8grjR34cM8SF+QUB37rEnKucRPl1QRdY6zIkfeRGHCjnVcXInWyfWMy/ZuspRX2k8gb6jxtpGbYQ5oaCeqqOSRnvQaVuIrK1C3Sms3nj1Ki37btl/4yyvjxcPu7NRwkzOEBFE2drVnRRrjkLnQ==;TO4wqsNs1ellM21Bs5Wb8Q=="
 ---
