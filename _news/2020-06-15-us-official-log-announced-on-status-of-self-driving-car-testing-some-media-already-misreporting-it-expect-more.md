@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "BMW and Mercedes shelve shared self-driving tech plan"
+    excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
+    publishedDateTime: 2020-06-19T15:23:00Z
+    webUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/"
+    ampWebUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/mercedes-benz-autonomous-car-prototype-1.jpg"
+        width: 1593
+        height: 996
+        isCached: true
   - title: "Self-driving map will tell where Apple Cars are being tested across US"
     excerpt: "Regulators in the United States are encouraging Apple and other self-driving vehicle system creators to collect and share data on tests of their autonomous driving platforms, to help promote it development and earn the public's trust over the use of the technology."
     publishedDateTime: 2020-06-15T11:15:00Z

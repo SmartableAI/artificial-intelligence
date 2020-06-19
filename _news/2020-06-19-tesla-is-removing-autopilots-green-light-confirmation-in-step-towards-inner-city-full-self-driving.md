@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.co
 type: article
 quality: 45
 heat: 45
+published: false
 
 provider:
   name: Tesla News
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
 
-secured: "kkGGhYeOXszo4jRdn/6RthV0JJuYxiDbMFTq/2QX9pPEgswD0PjbP7CvuShw7xMkxmIbYTnbE60EqFNMueuOex1GtOYokgCBa0gi2EsBUNrmf6XuUvnNfrsscSv0t6iqs3THtP9uO/H0txtMlXVTis1r8Vb6ekFxXIpC6/rdUqFX6n3dbRpfwEY5cfhhsJ6sD5c/JRp1HZ8ue1JzC7Prp2iKQ0yRLdw4VwpG5JpSJbJb3d4I9XBXSAq5l9V3HzhVzILzY4sxMhD7E/oRcqPLOa6iEbqkzRmHh8Mwzd3QL4NYIwV8Q/iyd1ZRRzEokT5KAea7jceaMfdVlymOmKSTqg==;DPhmTq4lGySlF5v6gMz9KA=="
+secured: "fPOviZuIIo9CCr580OJDhDzIl8anNmK6IhKLID1aalgFYPiCzhGnP6VP+5gfyQcqT9AHUBzs4w/F47vp0QucTt83U5jLaSyZWWfu/bbcp8BaUlI9tm02LuryNFcGMweUPbxLUFLUIfcD8I3H+Orkp/Zz6PPbgUc/gaRZOFwyTyg+ujmrlEK0jbOWQN7bE8GzmgbCGN8wdXk//ZIIcPzbYQz0THImVKkB+qysRzgTeLfcxtZ/6Lo8H8WxpGf+CLIRaVzeZJKZxu7ggaAUC5CkErleidJ85vKeqh4IsRhr7iimlU3AAc7E1XPqnYPDTctmDnf3/g4zG9i0FueJ7vXhHzrjDLXbujQ3M1fdo0sAyvCPQQHlZ/tpEKdVDxNhVm2U95E0h2u4o9qV+tNddTJr2f0GONgLaJ/YJ5gaZM38vLMsNWqzHdlKJMyG2Tr7O0FiiXh7yCgFAaw/gc/gTAUk5bNZrHW701sxsZi0JtAHjKL6ZR7t5kiHP9fEE+ViEL6IKZJ76QN9sOUd96bJ+45pFg==;QPxZVc+gqLAIqZ4T5XMHrA=="
 ---
 

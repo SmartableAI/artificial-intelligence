@@ -8,7 +8,7 @@ ampWebUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winner
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
+    excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"
+    publishedDateTime: 2020-06-18T17:53:00Z
+    webUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/"
+    ampWebUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/FB-Project_V3.png?fit=670%2C346&ssl=1"
+        width: 670
+        height: 346
         isCached: true
 
 secured: "ByqDq2rQk+OqZOqoYmpEjEP92dKr5ZWYxOJwl60WR7tt7T4jKDyyAE+NBxW2SbCmq0rSfFp/dExV2zK6xG53HjAeuUmDgDSWM3KFTqIZ89/Hgkjq/lq4HX5izfQ2CmpgKDEow1sYkYyEs+hGsh8UlW8yrhZXYiPnJcjnOZ5uEDJf4vRP4eUPbzUzvCN6+75954WU7SkhquUQeZgIKL2RjGTViXwBXyjIx/M9t/LyxseeN20dAKJxlLzeI+0Ml0BZtkgTlYLiwV4EJq2D53zZ6C5pUcBdKMID4qRS0Z4sBNzX7QCFZP/+RGV6bBcq/rzp6cIw5l/3n09t5Qt2T66gqEXf9+AI02GhJtgPPdZtM+ceyLigTQKBarQB9D8FouOZc9uGAIxDw6pTEDGYkMDDQqpQErUlp17r/qpGxW8iYDub04cX7cyxPFTN/is02r34BFqIt8qH874qQyq0/VmkcI9p7N9L2MHZxAeY8VAm7UKPOvqb3Wr+K/nwFpIQVyQYrywPFT9un/cYh5g7lKd7Qg==;g7I6EPRTqBmf9J+DIe254A=="

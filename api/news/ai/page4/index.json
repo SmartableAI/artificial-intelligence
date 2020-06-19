@@ -2,6 +2,193 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
+      "title": "Foiling fraud with machine learning",
+      "excerpt": "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes.",
+      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Foiling fraud with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "publishedDateTime": "2020-06-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
+      "title": "Working with the Azure Kinect Developer Kit",
+      "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
+      "webUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.html",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/azure-kinect-100789304-large.jpg",
+          "width": 1200,
+          "height": 658,
+          "title": "Working with the Azure Kinect Developer Kit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
+      "publishedDateTime": "2020-06-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar.md",
+      "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
+      "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
+      "publishedDateTime": "2020-06-16T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-manufacturing-startup-drishti-raises-25-million-to-go-global-with-its-factory-floor-analytics.md",
+      "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
+      "excerpt": "The four-year old startup has already brought on big-name customers including Ford, Nissan and Denso, while Toyota is piloting its technology.",
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8034e57b2dd00077e9472%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2297%26cropY1%3D0%26cropY2%3D1531",
+          "width": 1199,
+          "height": 800,
+          "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/",
+      "publishedDateTime": "2020-06-16T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
       "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
       "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
@@ -44,7 +231,7 @@
       "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
       "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
       "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
-      "heat": 182,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -304,7 +491,7 @@
       "title": "We’re never going to get meaningful data on self-driving car testing",
       "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
       "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -906,7 +1093,7 @@
       "title": "India joins global partnership on Artificial Intelligence as founding member",
       "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
       "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1123,7 +1310,7 @@
       "title": "John Oliver dives into the shady uses of facial recognition",
       "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
       "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1153,184 +1340,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education.md",
-      "title": "'We need to gather as much data as we can': How AI could change everything about education",
-      "excerpt": "COVID-19 has been a trial by fire for technology in education, but the sector needs to gather what it has learnt quickly if it wishes to edge forward with digital transformation.",
-      "webUrl": "https://www.techrepublic.com/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/3a19062e-b5ae-4474-8195-6fdd48148608/thumbnail/1200x675/6ffda78e1c1d9c2e1f05fd41f9fa265a/20200303-ai-tom.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "'We need to gather as much data as we can': How AI could change everything about education",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
-      "publishedDateTime": "2020-06-15T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
-      "title": "Company boards aren't ready for the AI revolution",
-      "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
-      "webUrl": "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Company boards aren't ready for the AI revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
-      "publishedDateTime": "2020-06-15T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-facebook-ai-is-65-accurate-when-comes-to-detecting-deepfakes.md",
-      "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
-      "excerpt": "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,",
-      "webUrl": "https://www.indiatvnews.com/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/facebook-deepfake-detection-challenge-1592215334.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "publishedDateTime": "2020-06-15T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
-      "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
-      "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
-      "webUrl": "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg",
-          "width": 286,
-          "height": 215,
-          "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

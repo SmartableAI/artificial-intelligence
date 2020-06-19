@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical Robots as an Investment Opportunity"
+    excerpt: "New robots with AI technology are needed to overhaul our healthcare systems around the world. A shining example of that is Travelmate robotics, which holds a patent for a modular robot medical assistant that is useful in an extremely wide variety of situations ( We are facing unique challenges in 2020 that test our medical and healthcare systems."
+    publishedDateTime: 2020-06-19T14:16:00Z
+    webUrl: "https://www.financialbuzz.com/medical-robots-as-an-investment-opportunity/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/06/pow.jpg"
+        width: 1074
+        height: 723
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Analysis, Revenue, Price, Market Share, Growth Rate, Forecast To 2026"
     excerpt: "Global Industry Analysis By Trends, Size, Share, Company Overview, Growth And Forecast By 2026\\| Latest Research Report By DataIntelo;"
     publishedDateTime: 2020-06-16T03:25:00Z

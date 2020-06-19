@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
+      "title": "The advantages of self-explainable AI over interpretable AI",
+      "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-7-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "The advantages of self-explainable AI over interpretable AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
+      "publishedDateTime": "2020-06-19T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
       "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
       "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
@@ -186,7 +271,7 @@
       "title": "We’re never going to get meaningful data on self-driving car testing",
       "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
       "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -558,44 +643,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1247,53 +1294,6 @@
         "name": "POLITICO",
         "domain": "politico.eu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
-      "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
-      "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
-      "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/argo-ai-test-car-1.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
-      "publishedDateTime": "2020-06-02T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

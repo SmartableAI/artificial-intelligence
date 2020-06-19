@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical Robots as an Investment Opportunity"
+    excerpt: "New robots with AI technology are needed to overhaul our healthcare systems around the world. A shining example of that is Travelmate robotics, which holds a patent for a modular robot medical assistant that is useful in an extremely wide variety of situations ( We are facing unique challenges in 2020 that test our medical and healthcare systems."
+    publishedDateTime: 2020-06-19T14:16:00Z
+    webUrl: "https://www.financialbuzz.com/medical-robots-as-an-investment-opportunity/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/06/pow.jpg"
+        width: 1074
+        height: 723
+        isCached: true
   - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
     excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
     publishedDateTime: 2020-06-16T13:20:00Z

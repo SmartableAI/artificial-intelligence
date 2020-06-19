@@ -37,7 +37,7 @@ related:
     provider:
       name: The Express Tribune
       domain: tribune.com.pk
-    quality: 72
+    quality: 74
     images:
       - url: "https://c.tribune.com.pk/2020/06/2246036-download-1592566609-408-640x480.jpg"
         width: 640
@@ -86,6 +86,22 @@ related:
       - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
+    excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"
+    publishedDateTime: 2020-06-18T17:53:00Z
+    webUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/"
+    ampWebUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/FB-Project_V3.png?fit=670%2C346&ssl=1"
+        width: 670
+        height: 346
         isCached: true
 
 secured: "u4KnAZBBjT4qmU0CufE1OJ9h+ZfRf6QfAIbNWXc0dKO9fkTkR2hIDeQgB4cfQ0xYKD2eqFNNOcA7qyyrC6ntI3Z2uTte5BwGHujTNW5cKXvKU1aaNbBKINENrP2GiIiVklskk0LqFcX1uHEXDXFZdebRMv5SwUPvlfBxq3068OPt4bbcJLR6UwedUNCAA2qmTUvEFTBHkl02A0GZyY3FX0UDgiia28M6tgAqPojQjBhN5RnoN9L8zbHnGiwRu6VRu9FRnneoDJxnkyLVILfjB7TijGKg9MyGg+pOD1EYHzwxvS3wkk2DGT2cyna5tc4l1vgnalJnj/wVu6Hs83qe//4q1hcdQpTO/Zt2MHxsPy1WQsfUbcQIIJxfv4nzNP57sDOhOR/8b+uzXPuk43ak25kpDVy3zARv8kUmT19hT7i/+oDrMqc4TL1Omas5Q8W/rF4MieOIxoLxjkUapvn9vtihA8o/g6GM4o5iF5c6oQMw4E5spS4q6Desr+6SXfkYIJsIIQdgjMXFH+3cZqzZsA==;XfTusmFFm/LR7Z/D+OiDLQ=="

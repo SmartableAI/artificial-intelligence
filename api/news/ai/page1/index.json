@@ -2,11 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
+      "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+      "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
+      "webUrl": "https://www.theverge.com/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/XMD3BYf0qPe6OlAiWd6H97CA4YE=/0x0:1280x723/1400x933/filters:focal(639x191:843x395):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66957596/ai041.0.jpg",
+          "width": 1280,
+          "height": 723,
+          "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "publishedDateTime": "2020-06-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
       "title": "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards",
       "excerpt": "... thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally ...",
       "webUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
-      "heat": 112,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -36,7 +83,55 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
+      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
+      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
+          "width": 1200,
+          "height": 912,
+          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
+      "publishedDateTime": "2020-06-19T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -90,7 +185,7 @@
       "title": "How Decentralization Could Alleviate Data Biases In Artificial Intelligence",
       "excerpt": "Data quality concerns continue to plague artificial intelligence. But blockchain-based incentive mechanisms could significantly change that.",
       "webUrl": "https://www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/",
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -128,7 +223,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -178,6 +274,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
+      "title": "The advantages of self-explainable AI over interpretable AI",
+      "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-7-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "The advantages of self-explainable AI over interpretable AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
+      "publishedDateTime": "2020-06-19T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen.md",
       "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
       "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
@@ -220,6 +363,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -544,7 +725,7 @@
       "title": "YouTube sued for using AI to racially profile content creators",
       "excerpt": "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race.",
       "webUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -731,7 +912,7 @@
       "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
       "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
       "webUrl": "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure",
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -873,7 +1054,7 @@
       "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
       "excerpt": "With consumer purchase behavior changing dramatically due to pandemic-enforced lifestyle changes, artificial intelligence and data are hyper-critical. Can retailers adjusting to forced closures and new safety protocols also foster these technologies?",
       "webUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1174,176 +1355,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-dive-into-the-world-of-ai-and-machine-learning-with-this-35-online-training.md",
-      "title": "Dive into the world of AI and machine learning with this $35 online training",
-      "excerpt": "The bundle includes four courses, starting with step-by-step lessons in creating machine learning algorithms in Python and R with included code templates. Access to over 40 hours of content will teach you the basics of machine learning including how to build powerful models and use them to solve problems.",
-      "webUrl": "https://www.dailydot.com/unclick/machine-learning-training/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/06/machinelearning.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": "Dive into the world of AI and machine learning with this $35 online training",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/unclick/machine-learning-training/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/machine-learning-training/?amp",
-      "publishedDateTime": "2020-06-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
-      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
-          "width": 900,
-          "height": 489,
-          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "publishedDateTime": "2020-06-18T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs.md",
-      "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-      "excerpt": "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ...",
-      "webUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "publishedDateTime": "2020-06-18T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
-      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "publishedDateTime": "2020-06-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

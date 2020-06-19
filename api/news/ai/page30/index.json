@@ -2,6 +2,185 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
+      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
+      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
+      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
+      "title": "AI is helping get medical research into the hands of doctors and patients",
+      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
+      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is helping get medical research into the hands of doctors and patients",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "publishedDateTime": "2020-05-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
+      "title": "Master AI, Machine Learning With This Discounted Training Bundle",
+      "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
+      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-artificial-intelligence-ai-in-healthcare-market.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market",
       "excerpt": "The latest 154+ page survey report on Global Artificial Intelligence (AI) in Healthcare Market is released by HTF MI covering various players of the industry selected from global geographies like ...",
@@ -1085,175 +1264,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
-      "title": "AAEON AI monitoring for fever and mask detection",
-      "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
-      "webUrl": "https://www.zdnet.com/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/19/ad69f266-7f5c-4de1-9202-2390c8122407/resize/1200x900/78b07e11530208db03d849cf9b79ba66/unnamed.jpg",
-          "width": 1074,
-          "height": 900,
-          "title": "AAEON AI monitoring for fever and mask detection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "publishedDateTime": "2020-05-19T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
-      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
-      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "publishedDateTime": "2020-05-19T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
-      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
-      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
-          "width": 800,
-          "height": 360,
-          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "publishedDateTime": "2020-05-19T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOT Business News",
-        "domain": "iotbusinessnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

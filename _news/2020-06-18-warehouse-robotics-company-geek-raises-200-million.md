@@ -8,7 +8,8 @@ ampWebUrl: "https://www.freightwaves.com/news/warehouse-robotics-company-geek-ra
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp"
 type: article
 quality: 89
-heat: 89
+heat: -1
+published: false
 
 provider:
   name: freightwaves.com
@@ -25,6 +26,38 @@ images:
     isCached: true
     title: "Warehouse robotics company Geek+ raises $200 million"
 
-secured: "e7iUmTsEpAwz/1mxKT9CexPKeeKb06zKXq7jQzw6UinPhWVVqF0hAz2HYANcerP7aDCd2oFj4+aNvM3kdKlBkSUAdOhV9CSDsjARo1FFTIkd+VZA31IF5kBKwSCEfywO8C2KVEEjbEGLs/pTqBT07edh+7i4oNguH+ryJ2fHuaE2odhAkADxwfpdL6FemFfAtTvYasp+whZTi4G2VG+jPs5zyM42IzKPS6kkBGRRWqQSP+dPPR8M+WX7MUGlMIPhx/Pg+29FgXkuuy5BOBtCgbU4/6UAZmtb+w6kZopEetwuXO+9uInoalbYAXztOVruYUKj0HxKfkqoGKCKVvg9fQ==;TznzRG/2Sggmk/XmZ2WTqg=="
+related:
+  - title: "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S."
+    excerpt: "Warehouse robot logistics and distribution startup Geek+ announced that it raised a $50 million extension to its series C financing round."
+    publishedDateTime: 2020-06-18T01:24:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/geek-plus-products-all-copy-e1592443027367.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Drishti Raises $25M In Series B Funding To Enhance Its Computer Vision Solution For The Manufacturing Industry"
+    excerpt: "Drishti Technologies, a California-based startup, has announced that it has raised $25M in Series B funding for enhancing its solutions."
+    publishedDateTime: 2020-06-17T13:33:00Z
+    webUrl: "https://analyticsindiamag.com/drishti-raises-25m-in-series-b-funding-to-enhance-its-computer-vision-solution-for-the-manufacturing-industry/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Drishti_Logo-scaled.jpg"
+        width: 2560
+        height: 1899
+        isCached: true
+
+secured: "4F83jCpCgtMaa8/XSAy1N+JyO3MPXWP/NBAkp8LMzSC4Ya+0YEtGZeTqPVE/lCK0ojRizBxOMxPPYJSFoX8NLe9FQyDH/y/B2d7wD3HROU/q3OuiCfN0pWK/YAXMRcix1drQHSC6DHewhDZwEHwi2Hve+Bg9y5LWfNlT+lqJAotRVUmGEEBGXzfp+0624KNPZ8z3nyrpwRa+OGATGHvyJZnK6DsQiX0JkfMOgmEmtK6ClxNp9ueT/jSV77ZPpNcG0XrVkF0wqYZgqNnfLZ0Zj8c+/pAgiUGPyEAQwmrjCUi9cddJOmzPHwFPjA+u1T2WIklMb7GI0PHfXxyUCh9Li93hNeljD387JK5NuRzqRFXdP8eHWFbGUxsBGlyikRzspveVZJuq9IWHbr77N3MF3Ucal8B8KVM9BMGojZEVZ1mOGzQuz4U5ODwM3VPHTtrh6cT4RfKUtXY05SID/qWqFkTnRPE5P1jYzvTrw1xdj7daaRMQv/gfRmrZvM+Uro3Fbk5UZo4iO/VlQsrtYdotog==;oPMjKRoX1aidb0+aCnS22w=="
 ---
 

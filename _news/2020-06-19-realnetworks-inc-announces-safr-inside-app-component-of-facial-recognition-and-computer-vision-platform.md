@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sources
 type: article
 quality: 57
 heat: 57
+published: false
 
 provider:
   name: SourceSecurity

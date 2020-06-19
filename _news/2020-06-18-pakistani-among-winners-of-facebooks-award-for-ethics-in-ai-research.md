@@ -37,7 +37,7 @@ related:
     provider:
       name: The Express Tribune
       domain: tribune.com.pk
-    quality: 72
+    quality: 74
     images:
       - url: "https://c.tribune.com.pk/2020/06/2246036-download-1592566609-408-640x480.jpg"
         width: 640
@@ -86,6 +86,22 @@ related:
       - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
+    excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"
+    publishedDateTime: 2020-06-18T17:53:00Z
+    webUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/"
+    ampWebUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/FB-Project_V3.png?fit=670%2C346&ssl=1"
+        width: 670
+        height: 346
         isCached: true
 
 secured: "eBITWBoqA7M3c4w7Io1PCoMLCL6ZkXnh7k6KwNwYVPS7R4sI1gDUchhjLg+bucndMNfrF6rBXIStt1pkJIUtdXtO2NmVoYIUjX74O7QRBl8Oqm9OtU1eB9x5pz/Ekk5ZTfdyctc38/5rffSJ2SCWAmynIbbGURqMyQtIORqosobhLOCHPAhXr9XF7H8QF1iu8cKcGjpMbkbyw59NaPpWB9BgMh3cailws8+ta8QouPB/hAxMqV3W4UIrCGuRevvddk4pucHiwSDv/SdTvNVIEpGaPRTkhQtnwwblxyqNxRNQtIVDm4NsVQkNXesWo6F3S6ApkogTRggdy/5ymqWP3Q==;Hjm/ADTOtI9BrHmxSeVhUg=="

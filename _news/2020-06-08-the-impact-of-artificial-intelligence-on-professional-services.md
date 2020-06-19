@@ -3,7 +3,7 @@ category: news
 title: "The Impact Of Artificial Intelligence On Professional Services"
 excerpt: "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law."
 publishedDateTime: 2020-06-08T09:37:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/"
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/"
 type: article
@@ -20,6 +20,13 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "kQRzygy+xx7d/Y6dxZ7VEF6m1F8G0uccLKwh9OvZV0M07RZLfnVi+e3J08mwHKitjN/U6ttMcxWahkjjLas55+Ta2m3OuWsCwjRwjSwg7mAFuOirOoPXaW8uo7xOFC5xLtvuEabAsiLc4LwamaTn4lELhg+68svCN7p9T6wS5q/h2Ow22TZrDP7bQtcxrGwNwgX7FmAb07ucmvS838JfXVFR+4W3ABX28rFIzl5Q3KQnqmgGn5kjFAGkltgYkmSYZdbylguUchjuM3NXZwMJmKQpi3IXtAkeKTcZoymt6gO/D92TrLQMJzeRC+bntFsTTPzeTTBu6RT8kyR5o4E6zSzMBl4zTAhKT+nVN8ebekydRTWa5PmzT8PNBf+/xMNjrAeP1AInv+zCMRPiMd67xneCBmVXC3eh1ivPpaJhWlaC7tt5z+L38+aLfpLeZyaokyaMT7k95p4/semkDQIjTIyjZH8py/C7W3zLVzs8oXs/TE2ggGjyCEACmynZgIwu2ccnvAeYfkxu6l3ALqMSZA==;jYFz/pVg7v69M1XINXOu+Q=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855204%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D0%26cropY2%3D5792"
+    width: 1200
+    height: 800
+    isCached: true
+    title: "The Impact Of Artificial Intelligence On Professional Services"
+
+secured: "l+jKLR7cNlLhH7VkXasYihVy2LvfhXQRI4RLA5FX5GRp28Ihj0RDBgaCkCGJTjgpFfbyqBg7FiMq4amYFeTp4JaL8VP9hFKX/a98hf7uI8Fe0L2JEtPZOsFNoDygLfnNWB+3JH2rh7NUcP4A94mjRb23OBpaZ2QIPFjVrUJU1EZmxfiIjTSHMOQ/5y3pdF1+wi82mHnGVefmP/Ggdp4G8w9GCTTl8FjMJJw5sDyv6PZR4XzGE/oX/Z3wvzCnV2SeMB269OFnZyxbkDgXmpl+g3klybV5aeAD7m7iyUL0T+WlHeLEg9jKp/Fd29FsstaMZnBAcOiA/CqC3NLUUy+HXQ==;jpW55BRq64diEmUGRdw9Rg=="
 ---
 

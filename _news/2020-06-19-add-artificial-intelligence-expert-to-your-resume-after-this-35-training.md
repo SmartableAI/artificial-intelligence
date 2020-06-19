@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping
 type: article
 quality: 102
 heat: 102
+published: true
 
 provider:
   name: Mashable
