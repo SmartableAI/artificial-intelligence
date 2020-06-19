@@ -26,19 +26,6 @@ images:
     isCached: true
     title: "Artificial Brains Need Sleep Too – Desperate AI Researchers Discover Way to Stabilize Neuromorphic Processors"
 
-related:
-  - title: "Here’s why artificial brains may need sleep for proper functioning"
-    excerpt: "The discovery came about as the research team worked to develop neural networks that closely approximate how humans and other biological systems learn to see."
-    publishedDateTime: 2020-06-14T09:57:00Z
-    webUrl: "https://www.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I.html"
-    ampWebUrl: "https://m.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/more-lifestyle/here-s-why-artificial-brains-may-need-sleep-for-proper-functioning/story-xOcCnC8uXug7Z2u78G1i6I_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-
 secured: "nmLrp3dChpmx1EDosHRsPUVC51647GfWtV2a4Bx3mkCpvwGkv88QNzM2RdazgC16CfISTX1PPtCMQC5iEvyyiynkHY/X0BX+CcAwhARKbzRzd1b4ZYohYHyJgCdfah/A976U0aMn55s+1JxekUL6y/YtVLdhTtzO6nrWIw7bap0siR980MGU74Xs86kLKwsFP4aaHXIl+Y+3iAuakDI2W2MCYhX5UDzbxHTUO2AXd9unLrWgf60iTp7LmWWA3mFgs5WJ+get49wwWOq1XRVAc8zwr8cm8nypfW5kmMOl52mpy2vzuLNtxcw6yyckIF0As/f9lXuXQAn3okgTHN5JWq23ggvh+Ic+9FELyJFKqxGeuuztkMGs09God3VbUGC0rKpG9y09WlJUo5nWDMLQRSm1RrGGrPsJLNoZ6GtnQ20cEIh8RL+0LmNsSk+Lfxzd7EYvqQcOhbRTCnmXzluFLHmq6ntc/7MIElRSGc6pWZdsZTAHwMC5ZfTE9/JCV2xDlp2XCDszwM68BPCPPiKXnw==;D2aDQHH7A6Pby21ngXHEuw=="
 ---
 

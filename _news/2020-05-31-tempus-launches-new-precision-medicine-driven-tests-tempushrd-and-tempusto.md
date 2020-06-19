@@ -1,35 +1,19 @@
 ---
 category: news
 title: "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO"
-excerpt: "CHICAGO, May 31, 2020 (GLOBE NEWSWIRE) -- Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare ... that may impact standard of care therapy decisions, clinical trial enrollment ..."
-publishedDateTime: 2020-05-31T10:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g16146007/tempus-launches-new-precision-medicine-driven-tests-tempus-hrd-and-tempus-to"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16146007"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16146007"
+excerpt: "CHICAGO, May 31, 2020 (GLOBE NEWSWIRE) -- Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch ..."
+publishedDateTime: 2020-05-31T14:30:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/05/31/2041232/0/en/Tempus-Launches-New-Precision-Medicine-Driven-Tests-Tempus-HRD-and-Tempus-TO.html"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO"
-    excerpt: "Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch of two new oncology tests designed to equip physicians with even more precise genomic data in an effort to improve therapeutic outcomes."
-    publishedDateTime: 2020-06-01T07:31:00Z
-    webUrl: "https://www.financialbuzz.com/tempus-launches-new-precision-medicine-driven-tests-tempushrd-and-tempusto/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 1
-
-secured: "QspTEDdECZsnImIbk/RDzk4pwOU+cr/Xc6m6bTtZyMwZjFpVrvTzXC23AnVJP0h43MJ+WSGqlh7fTy7eZllMyJBKEQVU72pdSZBsm8Tm2AeGmMny7I95iX1ZNOGcPbSD/wvekBmlZT8kY+74knLckICS2DUepikBl1VRViGj5+7W5fqDQbNzISKftjF+XVCzv526wSj+1WNZXr+edY43Td8PLUUYaletMi35VB/FXphDCxOXb16ICf5URaHLNDdipanJ1Z8YAuRyV0TZwg9SzFWQ85ANveaa5RS4Bve+YbUNGIi/rDb1ya8VOLoTeWrJ;Ut7qGFKH1WHgCLi88mE0RA=="
+secured: "+8VmSEsg+xamqr9pwhu5DlmCmj/z+qR8VyYBQijDCArZZBVt1xkTPt0r3n3TARkXXyFXVMOlxJ4/qxoK2jK1wZtlmU/1eT6Q2I9Jlfj2KuCCvd6eLP0avJgmpROg7HsSCHpsxp7rB+VbknOdbdo7be3jz3YZtXM+LVv9dfOQ9O7RyBz5O0misnbN5kMQ8wjcLwhLjXudXF0tYCJtHkTV47HA4kuaY98S0YbJqZrbRwCFqtFkLKgQROVnUeiIiSgXw57rfDGatOW9Iv0nRR5oi/mKPg1h0S93yUft7nP/2ee/34vpbdjSYXnPDJagckaQGH59zOO8Op91Kz0zo5mrNQ==;A3iKzIZ01Odp9R08hm1ViA=="
 ---
 

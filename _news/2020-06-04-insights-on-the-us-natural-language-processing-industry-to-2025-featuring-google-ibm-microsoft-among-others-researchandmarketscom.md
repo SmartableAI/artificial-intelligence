@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com"
 
-secured: "G+KSe/UrCfqx/eq4xwH5hoXaZBDcHhocxW/SUBLlGhIM/X5W6OqqsxYe52w8FHTFNeDpkx7NzGEOgrxLnMGD9VvpbbFmW1y8COxz90oBvYJOU9IvSXKBYZp1KK/zTdqAwOS1m+WeAaeWxekH+UFr7Srq1z1PIHJhZsNmJJZWRKpHUlhB7McOWgyncEuSb5yN8EwVZ/+XcjAnqB9USkOwuIYRE3VxgzcHW96LYS+Jkkn11zCo/69gJa46jxmAsjoAz+ZJQhwWS/OLvGP1lJSeMUpubNcSzIzjC5CGh9Einq6vzksJPo2dUxuRwmRiVghs7J5Gh+0lMdTAROCWLFtL8Q==;yBZUzMi1uy3aY6S4NZMHfA=="
+secured: "/JtesqDnijK5tgQTB6Mlcwz/pigifaoSpY6fh2/lBEgHPdII4MUknEI1R4kQrCKJ+qW8jGhQBfpRAHVpmJNk/aix9WqPSvdTY95JCTvGVZJQgBOgoUx28ypHzt5QTC8ow41GgDnGlhkuhRIYJ1RCv1/ROJv1QrlNAqFL/AUBF7B7vMipE3/2NbJY7ymVEHtggLX3Mgw9L5kJ1+1nJf0yFvKBDHkpob8PSGo+ru522HNOhKHOxkBsyRXtHJzzyE2mLAZys4E+2XpPFuz7norKKbW15mUPUy9F4nmFGu/4E9w9VI368IaglkGwcKjTOEviybgVQnK4WxEgwzbPOONlWQMRsgICb70Sujy3uDsj0tPXXCu97o/Pq4XHhNzoXNEJKM/8vLLXVwRI6BzrTydCocZQwuF72ZH34YAkPK6OeCUGFgbn8i4JaWgNQVx6atVBAJEX0oZPwI336mr1OMETu0MYXWmn/cmiEQAydohC4RY55hZgBV62d9FSweaU1D8/74xqo8ppVTzQ7qqvxf2nuw==;zuYcizhP1tzQrvajiOGzUg=="
 ---
 
