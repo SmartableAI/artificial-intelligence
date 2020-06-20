@@ -1,30 +1,28 @@
 ---
 category: news
-title: "PwC readies facial recognition to monitor traders at home"
-excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
-publishedDateTime: 2020-06-16T10:24:00Z
-webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
-ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+title: "Protests Shine Light On Facial Recognition Tech Problems"
+excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
+publishedDateTime: 2020-06-19T04:13:00Z
+webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: Science Friday
+  domain: sciencefriday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
-    width: 2501
-    height: 1563
+  - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
+    width: 1400
+    height: 1048
     isCached: true
-    title: "PwC readies facial recognition to monitor traders at home"
+    title: "Protests Shine Light On Facial Recognition Tech Problems"
 
 related:
   - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
@@ -219,6 +217,22 @@ related:
         width: 1200
         height: 747
         isCached: true
+  - title: "PwC readies facial recognition to monitor traders at home"
+    excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
+    publishedDateTime: 2020-06-16T10:24:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered"
     excerpt: "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban"
     publishedDateTime: 2020-06-19T16:44:00Z
@@ -288,20 +302,6 @@ related:
         width: 1600
         height: 1071
         isCached: true
-  - title: "Protests Shine Light On Facial Recognition Tech Problems"
-    excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
-    publishedDateTime: 2020-06-19T04:13:00Z
-    webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 39
-    images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
-        width: 1400
-        height: 1048
-        isCached: true
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
     publishedDateTime: 2020-06-17T18:44:00Z
@@ -359,6 +359,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/KwNkjrjaaC/CqUvE15DLP0vEkGtrRc2sR3AVBBh8+LhU3zJaBj/401yUsBx0xC+Lr1jGbZjNaRh564Pj1+MCPOCjZoOk1ri3Yh/rp8BMte7IRN/hIuQjULl2UVBb/bhwBUXgh+Xwh8JaI/doOEQMHTx9204U4UGOIMBtV3Xp4P4XaZC2hQPl5HH/4/DfICIt3PQx5eVQ3d3+vckQdJFrBFX1prCMLnd/zUpUgmuUy4TkCW2IGgBdGEmcrn1YDSoXNm3RHvjvaml59JtxIAXpR9Z5Z93TfbAI3rBg/B9QXndebDJjbmONL7xhba3gY/RpBFwc0aSUpLxYh46YBHaIg==;BP5fZ+uIn38+X/WQ4Jv5LA=="
+secured: "ORBj82Smn+s4nKM3MZX3gSV/vG7PcKQLScLWf9hV3h3I8HL37Vf4H0QcLhDCDGURSps5Zwl2RgThZCsm+DYkfTU/tBoFIWzbhZDTcxGQzsc3Qs/DafJQuzRQOF5Tze7Yf7oueXS++jneEMf6PyIOuMBfo9goJaw+/q9Tbz4Hf6Oi4Exa3kDzjsi1UMGQ845KEIUYhlXq7t0PjAwhmF8CeVxa8bPl/qSyZdV5+efa8OsBM8/Re4we3Zwy9RpwuxqGfCLNi7nMatPzf2kE/wpPxEOWoPRzgnTfeJygFlsfkF5eLfuEXHF13xffhWpZZfzHXETwaonwG/oMTJ5DXr2HKQ==;YQ3dhelCeib+T2ymKEx/Aw=="
 ---
 

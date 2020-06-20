@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-20T11:57:00Z
 webUrl: "https://www.analyticsinsight.net/top-10-robotics-startups-look-2020/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     height: 1106
     isCached: true
     title: "Across the world several robotics startups are merging to drive significant innovations."
-
-related:
-  - title: "Worker upskilling and innovation a key to working with robots, artificial intelligence"
-    excerpt: "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University which also found that for workers of the future to thrive with robots and artificial intelligence,"
-    publishedDateTime: 2020-06-18T05:21:00Z
-    webUrl: "https://www.itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 46
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg"
-        width: 375
-        height: 346
-        isCached: true
-  - title: "Don't fear the robots: Helping future workers learn how to innovate"
-    excerpt: "\"While there is some fear that robots and artificial intelligence may replace some occupations, workers will remain relevant in a fast-changing career landscape if they are innovative, able to ..."
-    publishedDateTime: 2020-06-18T12:25:00Z
-    webUrl: "https://phys.org/news/2020-06-dont-robots-future-workers.html"
-    ampWebUrl: "https://phys.org/news/2020-06-dont-robots-future-workers.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-dont-robots-future-workers.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
 
 secured: "RdkL8kOxKqfQ+es8rW3BnZG41SB9oyf8e9OpF7RXGjjKMN4awKc0NdmZGYJtham3qYHBBzt96VfnWCvQ0w8QBDhRrojLqTcJzZPqFtc3AMQum85FUrv3J907TaF2nOokckJenrvdhi+5A7FvoDz1ji/kbfxvG2pOx0Jlrt6dchNF69WvWI3AYcjtIZIenBoauFItKNJMQexg1XL+PqTYujDxrtAqO6GiUwZ6jfVLeD0FMb1xN2+sUv7y2emf4YVVRJS+x0VZA4Hra6x4ZI6awo61l1k75l/+QGTJ93kIPTDM3+4UvTiSMIY2cJ1P9mW9IX/4TDPURTFS4sJUZfd71OEBBG4uNjFHRRGZPsh+hhmEIi4qQ1Vu5x2UFZYeJPVCQHaaoGpUBlmZbGAyoGzD/BqqeXl8SGFNgEB7TZxZdC9ybbFMLCOeh4czkSdwtJdNDkanP6iNHMauWiVs3zFd0NB5XVbtIY/VvQSPPUYCZPXcXh4qYYGqFK0A/MaHYUrNjXn0TC8AuJ+B0yKNSSPt7g==;l1pzhG0b+cwExcD0/opIEw=="
 ---

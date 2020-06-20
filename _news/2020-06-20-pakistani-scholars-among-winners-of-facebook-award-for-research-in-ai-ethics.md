@@ -7,7 +7,7 @@ webUrl: "https://www.geo.tv/latest/294140-pakistani-scholars-among-winners-of-fa
 ampWebUrl: "https://www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
 cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
 type: article
-quality: 56
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.geo.tv/assets/uploads/updates/2020-06-20/l_294140_111332_updates.jpg"
@@ -136,6 +137,6 @@ related:
         height: 346
         isCached: true
 
-secured: "V2t8YVxotQcL100C3xazuV300gtoMwrGoe36ehu2dr6J4HCpXwACqV9pYTcCLUzmbysg0Lrfs56Q/F5P44rVODqfltkp1iCrjwpN2FGLY1p20Rhpy2vsrQWRinVorAt232hxRIT6JNeNaRw4maVF3CXGQdFcv3HWJIoFdWzgVTjsFGQesLtSsY98LcHlD8HcGXEq8Poc2rclGjqGFkkrSrlvtGYW1UOP9uQSlWWHweYEqCgXK3Pb1pIHCwC9l1TgvXWxEEHE+eJk7jrfGZgggwTg/OCcTVNx3tLu98Pgt03Ze5bwemphAL644DBtqEYUqL8jcDOyXRbngUgRwnBbOw==;RyOPjF26rSdsPLwX/M0vLQ=="
+secured: "cgLkgSb6puxPRkukH83Qzx0TLPjhNZlamz8hGJJjgtXzmhSQWRUvpaecvfIoWkljzbYk40GKlRQ8AqY+MHvpJZK5STWtr91kqJmuHmTk8T5iIH+pNDr4l9Lm4SMX2Elb++azue24Unu8bmoRf8whpNEMws7SeWv3Ttci0TyM1GEzlh6lliN7x0VsU56gDt9c2g2JnsXSsm9yZDA73LmvrAEREKBFpLuw8m3dP2HyvJUDC9yUZj45rrplHPJSPJwcVx4WLL7ls5I1dXTK3MjF2QqkCb8urIB1rkY4wL7SRDsPG3tX40Pm/53t+nJwoB25vPNPtBlY50094pbVUdfFLm0M6eS3CaLoea1waCrDwzhjrwoWxFjPl7ZvvmonjOfsppbdzkAL9l8kups+cSu//wAiO/csxiMREV7c8IyNQX/4UBHW7scZs7KHI2Kgk3M1WPHOiIVl98T7vslsTKKBIGVJxeIYYHmCFu1LZ5ttyLBYxuDtZEtv6Ijtg2j7CvAarRHs//aQM8rtTjraCiCMdQ==;Sqvh5InrrPx/a7dLexJURg=="
 ---
 

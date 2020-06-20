@@ -620,43 +620,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-india-becomes-a-founding-member-of-global-partnership-on-artificial-intelligence.md",
-      "title": "India becomes a founding member of Global Partnership on Artificial Intelligence",
-      "excerpt": "The alliance is aimed at developing responsible use of AI which is grounded in human rights, inclusion, diversity, innovation and economic growth.",
-      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/india-founding-member-global-partnership-artificial-intelligence-54979.html",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/800990cec6d493f06778342d7b8ee847134574c5.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": "India becomes a founding member of Global Partnership on Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence",
-      "publishedDateTime": "2020-06-19T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
       "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
       "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
@@ -1317,6 +1280,52 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-youtube-sued-for-using-ai-to-racially-profile-content-creators.md",
+      "title": "YouTube sued for using AI to racially profile content creators",
+      "excerpt": "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-79-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "YouTube sued for using AI to racially profile content creators",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
+      "publishedDateTime": "2020-06-18T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

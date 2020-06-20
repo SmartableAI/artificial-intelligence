@@ -8,8 +8,8 @@ ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/54979/india
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Digit
@@ -39,20 +39,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/gpai.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "India joins global partnership on Artificial Intelligence as founding member"
-    excerpt: "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay)."
-    publishedDateTime: 2020-06-16T03:24:00Z
-    webUrl: "https://www.nationthailand.com/news/30389688"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 36
-    images:
-      - url: "https://media.nationthailand.com/images/news/2020/06/16/30389688/800_4058db01e3c5239.jpg?v=1592277403"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "v7zTlMLUvHifBjLRillY9MA3XT441/wvFvJ4WbJTy/NJZpEceoTPuGVVeTFDpdzgsQVXnWEQ8lLX7JxdGMJEFEHn1nXjoO/FtoYQJSRQy7NAQthH1M5dM32B2L0WQE6PtYaUTY1BDWuI9DT9udCwmIDXmMHmZwX1DuMDfgJ4BqIaBcKmrEfA8/H67wmbhUeUHQTzCzhfXEDbclBWIsNrMdfyayrNlBycEu29Y5k+kYH7ooYAlWx39C1IEfrgYROQGiiPQrQ4qJwJ5LJVCSGcTGGcBkdFwc0dHcflx+f0hIp2gQ9lKs71Zq9Mnj/xFjqjY/AGLu323s7UmrWMatHgvg==;9zbaZymCenF3sQ+BtxcuFw=="

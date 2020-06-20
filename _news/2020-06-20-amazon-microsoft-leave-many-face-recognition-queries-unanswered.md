@@ -1,30 +1,30 @@
 ---
 category: news
-title: "PwC readies facial recognition to monitor traders at home"
-excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
-publishedDateTime: 2020-06-16T10:24:00Z
-webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
-ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+title: "Amazon, Microsoft leave many face-recognition queries unanswered"
+excerpt: "The next day, Microsoft said it doesn’t currently sell its similar product to U.S. police departments and won’t do so until the federal government passes a law regulating its use. Both steps came amid widespread protests against police brutality and misconduct targeted at Black people — a population on whom facial-recognition software performs poorly,"
+publishedDateTime: 2020-06-20T20:01:00Z
+webUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/"
+ampWebUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
-    width: 2501
-    height: 1563
+  - url: "https://static.seattletimes.com/wp-content/uploads/2020/06/imagesusersiqjWHBFdfxIUiUshnW9U8Em8v0piFq5T3pJF0qzS8rF9LjsWaQ-1x-1-300x210.jpg"
+    width: 299
+    height: 210
     isCached: true
-    title: "PwC readies facial recognition to monitor traders at home"
+    title: "Amazon, Microsoft leave many face-recognition queries unanswered"
 
 related:
   - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
@@ -219,6 +219,22 @@ related:
         width: 1200
         height: 747
         isCached: true
+  - title: "PwC readies facial recognition to monitor traders at home"
+    excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
+    publishedDateTime: 2020-06-16T10:24:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2020/06/16/pwc-readies-facial-recognition-monitor-traders-home/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2019/03/01/TELEMMGLPICT000101583267_trans_NvBQzQNjv4Bqv3hxuICTza90rxjOncu1SK8fQrJGiSc0wsot5slw59Q.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered"
     excerpt: "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban"
     publishedDateTime: 2020-06-19T16:44:00Z
@@ -230,22 +246,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "Amazon, Microsoft leave many face-recognition queries unanswered"
-    excerpt: "The next day, Microsoft said it doesn’t currently sell its similar product to U.S. police departments and won’t do so until the federal government passes a law regulating its use. Both steps came amid widespread protests against police brutality and misconduct targeted at Black people — a population on whom facial-recognition software performs poorly,"
-    publishedDateTime: 2020-06-20T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/06/imagesusersiqjWHBFdfxIUiUshnW9U8Em8v0piFq5T3pJF0qzS8rF9LjsWaQ-1x-1-300x210.jpg"
-        width: 299
-        height: 210
-        isCached: true
   - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
     excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
     publishedDateTime: 2020-06-17T23:47:00Z
@@ -359,6 +359,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/KwNkjrjaaC/CqUvE15DLP0vEkGtrRc2sR3AVBBh8+LhU3zJaBj/401yUsBx0xC+Lr1jGbZjNaRh564Pj1+MCPOCjZoOk1ri3Yh/rp8BMte7IRN/hIuQjULl2UVBb/bhwBUXgh+Xwh8JaI/doOEQMHTx9204U4UGOIMBtV3Xp4P4XaZC2hQPl5HH/4/DfICIt3PQx5eVQ3d3+vckQdJFrBFX1prCMLnd/zUpUgmuUy4TkCW2IGgBdGEmcrn1YDSoXNm3RHvjvaml59JtxIAXpR9Z5Z93TfbAI3rBg/B9QXndebDJjbmONL7xhba3gY/RpBFwc0aSUpLxYh46YBHaIg==;BP5fZ+uIn38+X/WQ4Jv5LA=="
+secured: "1kj5NGjnOfLuxopJg2ylcSb3o+1jhkEQgFzxve5W/xoJnnFbdqgGKKq/Ro0gAHNVNfqoOLEUDALcgwIPKWZiTIBZzVJHfnvBqfCmJxfja+OAZJtNqfI3rruo+f77QWBmDYAhcPT3BsCV7f9gVm0+L63oJE/G3vN0zHBeSp2Vqmjgre+cpP5nBQFj7Q3S8lO1CtFHD/gwtSsN6+Zwfb23p1/cc/ZorkXXrlU0BbMIzZBytC0HpPmDLH2u3WEkDzbRfws6zJ22GFKz3VQTrQfQj9C4ch1YE+VrMxqwKjuboRBXlDKA3+fA9ZvjG5blmAEdCk8/sdP5FtBv5anWY7u9dA==;+ue6WJYDn3/WVrUE4LxR7Q=="
 ---
 

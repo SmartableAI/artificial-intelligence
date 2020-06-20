@@ -244,6 +244,22 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Amazon, Microsoft leave many face-recognition queries unanswered"
+    excerpt: "The next day, Microsoft said it doesn’t currently sell its similar product to U.S. police departments and won’t do so until the federal government passes a law regulating its use. Both steps came amid widespread protests against police brutality and misconduct targeted at Black people — a population on whom facial-recognition software performs poorly,"
+    publishedDateTime: 2020-06-20T20:01:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/06/imagesusersiqjWHBFdfxIUiUshnW9U8Em8v0piFq5T3pJF0qzS8rF9LjsWaQ-1x-1-300x210.jpg"
+        width: 299
+        height: 210
+        isCached: true
   - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
     excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
     publishedDateTime: 2020-06-17T23:47:00Z
@@ -257,20 +273,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
         width: 650
         height: 450
-        isCached: true
-  - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
-    excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
-    publishedDateTime: 2020-06-16T04:38:00Z
-    webUrl: "https://www.cmo.com.au/article/680575/spotlight-facial-recognition-after-ibm-amazon-microsoft-bans/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 39
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/facial_recognition_id_136967238__axel_bueckert__dreamstimecom.jpg"
-        width: 800
-        height: 532
         isCached: true
   - title: "Facial recognition faces a rethink?"
     excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
@@ -299,6 +301,20 @@ related:
       - url: "https://www.lawfareblog.com/sites/default/files/Security%20Photo%20duPont%20Article.jpg"
         width: 1600
         height: 1071
+        isCached: true
+  - title: "Protests Shine Light On Facial Recognition Tech Problems"
+    excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
+    publishedDateTime: 2020-06-19T04:13:00Z
+    webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
+    type: article
+    provider:
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 39
+    images:
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
+        width: 1400
+        height: 1048
         isCached: true
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"

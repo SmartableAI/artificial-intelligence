@@ -25,21 +25,35 @@ images:
     title: "Self-driving Bus Services Tested Out In Tallinn"
 
 related:
-  - title: "Apple Car self-driving system could tell iPhones in the car what it is about to do"
-    excerpt: "The Apple Car self-driving system could pre-alert drivers and passengers of maneuvers it will be performing, by posting notifications on the screens of iPhones and iPads in the vehicle."
-    publishedDateTime: 2020-06-16T18:55:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/16/apple-car-self-driving-system-could-tell-iphones-in-the-car-what-it-is-about-to-do"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/16/apple-car-self-driving-system-could-tell-iphones-in-the-car-what-it-is-about-to-do/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/16/apple-car-self-driving-system-could-tell-iphones-in-the-car-what-it-is-about-to-do/amp/"
+  - title: "South Korea’s self-driving upstarts take on tech giants"
+    excerpt: "South Korea's modified Hyundai Ioniq, festooned with cameras and proximity sensors, is the first autonomous vehicle to go into regular service on public roads in the country."
+    publishedDateTime: 2020-06-20T20:27:00Z
+    webUrl: "https://www.thesouthafrican.com/lifestyle/motoring/south-korea-self-driving-rideflux-uber-tesla/"
+    ampWebUrl: "https://amp.thesouthafrican.com/lifestyle/motoring/south-korea-self-driving-rideflux-uber-tesla/"
+    cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/lifestyle/motoring/south-korea-self-driving-rideflux-uber-tesla/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 38
+      name: richest
+      domain: thesouthafrican.com
+    quality: 44
     images:
-      - url: "https://photos5.appleinsider.com/gallery/36240-67242-driver-driving-xl.jpg"
-        width: 1305
-        height: 728
+      - url: "https://gcs.thesouthafrican.com/2020/06/5163ee5d-rideflux.jpg"
+        width: 1503
+        height: 1000
+        isCached: true
+  - title: "South Korea to spend 160 billion won on developing self-driving ships"
+    excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
+    publishedDateTime: 2020-06-17T06:55:00Z
+    webUrl: "https://www.theedgemarkets.com/article/south-korea-spend-160-billion-won-developing-selfdriving-ships"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 24
+    images:
+      - url: "https://assets.theedgemarkets.com/SKoreaship_20200617143550_reuters.jpg?null"
+        width: 747
+        height: 498
         isCached: true
 
 secured: "FYIIGUTM0ympd81x99oBM5DENPoqioLdQUxIH7f+BixUlFJHIeSXTUTm1TIK8XMoRnv3Ap2awSFlZUvg2W6DghGmBY/Mroi+aNGD8dvGeJK2+IHmeJQ4uUoOS3kNo1BZ/yRI/Rmchicp8p3PLe23zef4BHAbTC7rXc3DRWpjkgnx54GYGCfrlxQNbiWZsFIxBeGpO3T/vNg4GPaoEwuymWeUwshvQ5OcXkpL0JE3fJ5p1kOFxWAlqZrWKsAU867orgMb5KB7yDHyD31OfIuq2lV4hWECJ3S0lOrebDobPhZO+aeLyCZMFr/oceJh/fU6cgZodZtDfLbifjr0pJ/We/WClSZsLmf+aU50sOkEwZQTksJVS8M08CktmcZXhe6O/pegXjSrvY7nIJjsqWoVEMBw8joXWVDiNm8UnWegEQ1iZAz2mKHFACNcBV564kURi3RA+7+9uKG22mRUBI951DyvdfZnePy6csOJOuqGxHPeXFPBuVQegKN8MAH4ye2fV/YISNoBRs+1DMjA/kIirA==;zRCCujGQuwSLw8LbhzHaPg=="

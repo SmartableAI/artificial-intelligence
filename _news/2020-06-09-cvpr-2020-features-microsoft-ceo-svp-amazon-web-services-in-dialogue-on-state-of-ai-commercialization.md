@@ -1,25 +1,26 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June,"
-publishedDateTime: 2020-06-09T11:27:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
+excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
+publishedDateTime: 2020-06-09T11:52:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
-secured: "UnxNbyLOTWRhXYoDFVjHGApZpSRDXzYy+pMtC34uC4mYeiBjzGB4Gl/t/ipGBB/9CZduhZlv3GIgxvFa7WH2YqxH5GijhL+GorOgPm1LLxf2UHC6VFvTiy6zU/Un5XNDy2iNMJwBNeIzvgUjv02yUNQAFBKP3AkN1uk14uel0pqgANR6Q/mCyoo+sRwgZic8/C7++82X1itNGs+ufuEIs8b4G3tH30fpe1Us6aPCWwTljhM8onHzaIBfTLuhUCkflIGHAO0lR+Wsswvv1amlav2hBrycG3OkcWgD739ydYEq8oPZPcRj/DhBElQADh7RFkPcGBYd3n540RkWvCGlug==;Bj3FCJfw/xksN48GLM2NHQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
+
+secured: "LZHol/ravH70Bn3ZNnUKh64KQy4+ypUIwHrOANShydtNyZwq4MNGFqxjmpU+bF4KbVW2Yk0svj+VmVWf/t+xHIQconP2rdITcJ9dRcCQI/nM9pn9GrDfsY+G61c/oQknp+Yc3x5HS1drUg+QHjRH4JcpjBIewEp7Ek5NzllKfGPcjNtxXudpx4o/Hw5kEHgSPgvb+7Tv8ZbIhV8CS8hZTXPHltrljZqZoUnqm1LZqm6P0sZhShePkBNKCc1fzw1aPnhkNv49JAJMtc4C8Myp1wJdc9XdQPKcOL65GTPKPuIVrfvK8ZK1wBvuitPtcmR04VxI1613Wl3/3Z7UgBu6Dw==;DV+Q9Rl/s9l8nrFQ5dSBLg=="
 ---
 

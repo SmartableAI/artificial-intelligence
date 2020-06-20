@@ -26,22 +26,6 @@ images:
     isCached: true
     title: "Apple Car self-driving system could tell iPhones in the car what it is about to do"
 
-related:
-  - title: "Self-driving Bus Services Tested Out In Tallinn"
-    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
-    publishedDateTime: 2020-06-18T17:29:00Z
-    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-
 secured: "uWd9ohyp5Widf6raFfOQWM6op93VtSZGIssc6XoJE0A+7dasTefHu1twpqWtOuZkgZlXluJTwPMIbEzs0YVT9d403+Zf3jv8EvLU3rfH2nWSMx1DY5RRrfjPDoQSf4KcbHcuGSGOomFNDZBceYtTYZoXPnVTyTN3N7DhDGltxiUWJ+PgOuWgtbfNYRkv9akwFyR/KnliV3BN95Hnczh0Wnt+OXJlx/PYdnRnfE4TWZ2pVMZVk7GqSHAdzReo6Fh5nZmrxnUUwf3Lu/zMIR8SyX7cSDw/nC9m9dK++8FdhnSNXdHtY26xE8lIE10Mk4O0FS67/gy2fbPaytVHGPj7kEZBaoazuCWdzi/0SPogFKJ4KRjprtYup54V2B30ibA59HcARjwZeR/d6F8um/co3bBMsxNS1UU07Awy6HRoimdgJ+poaHfeoaHeWyF3YuAToAB0z5vmA8OVo6FfOUWX2w7qcowv82u1aysnB+6fwYhACXjRXSOHQW1sJnItuO+WFWnmUYSIPA1z+baTPusINA==;cAu/hHg0H1AGl6wWlmgtFQ=="
 ---
 

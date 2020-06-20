@@ -2,45 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-18-sosi-invests-in-apptek-for-ai-machine-learning-capabilities.md",
-      "title": "SOSi invests in AppTek for AI, machine learning capabilities",
-      "excerpt": "Reston-based defense and government contractor SOS International LLC (SOSi) announced Thursday it has made a non-controlling investment in McLean-based software company Applications Technology (AppTek) to develop artificial intelligence and machine learning for its speech recognition and translation service offerings.",
-      "webUrl": "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.virginiabusiness.com/wp-content/uploads/2020/04/MayJune_Download-309x386.jpg",
-          "width": 309,
-          "height": 386,
-          "title": "SOSi invests in AppTek for AI, machine learning capabilities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginia Business",
-        "domain": "virginiabusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
       "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
       "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
@@ -1124,6 +1085,53 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
+      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "publishedDateTime": "2020-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

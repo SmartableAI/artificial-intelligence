@@ -3,7 +3,7 @@ category: news
 title: "More needs to be done to increase AI adoption, CDEI says"
 excerpt: "The UK has only just begun to scratch the surface of the potential of artificial intelligence, according to the AI Barometer published by the Centre for Data Ethics and Innovation (CDEI)."
 publishedDateTime: 2020-06-19T10:57:00Z
-webUrl: "https://www.research-live.com/article/news/more_needs_to_be_done_to_increase_ai_adoption,_cdei_says/id/5070482"
+webUrl: "https://www.research-live.com/article/news/more-needs-to-be-done-to-increase-ai-adoption-cdei-says/id/5070482"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5070482&name=more-needs-to-be-done-to-increase-ai-adoption-cdei-says"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5070482&name=more-needs-to-be-done-to-increase-ai-adoption-cdei-says"
 type: article
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "More needs to be done to increase AI adoption, CDEI says"
 
-secured: "CadAw+A8bCa5T8SmFYOwvdVOFYTSTW/huZ71tswMzHt1K6Ylz6drZ8FIWZlrU0Vcu/bKope9oVKL3kprnuMUsxQTmUnaFXnbnZPfcPbyxWVN4TTN84JAcDi5KtQ/agyBc0zZRcHQLTXed3JXJ/mP90uUvF/mRubiSwoST2mdeGUB6yAgN2vfFmzKIhYGP/RYem49QWaftwQ+H4Nk6iAhh+pGOqbGPCOR3Ho0X+V2nnlWcp6R1qjeuni1jNxKQnaKdGxws8iPQjsIMQkWM2z2Su/Qpd7+73TSCgbOB4LhXj7HIlxWDgeOKtyqntxU9XwjEkq4Q8ga2l1LRN0yuylUkQ==;5GWy4DibKO7wsWmZQYXHxw=="
+secured: "b4losn7OjqAqIE07DWAZZx1sxhn9Jw6H7LgjD0IVlYK6IHWr3y3L2PCoBNb7Ldaf7IWwcwo9P3jnEDvfRZ07qt6uYNobHoeOeKn3gLCyiIxBm9qAWArs1WNT8hKfzU3eCrkTIkBNOeNefUa04CU2QqpUgxFfewnRg0J2lot73I4LpqS6XratirKYapoi3L1MTqoHy7Qbw54+eRhMup0VNWewkSb4l0IGv30zFH3wXirSUaSuSLyiiX5KmhwRBP7/SAns712UauAIt9mfnVGDSvnANohO2zPiOvydSBydmzclVEi9AxmxNzCpqTW2hZEFpusjF9HfqE3njzq/q4gekw==;2jZlw1BJRx9l69weO/OuYg=="
 ---
 

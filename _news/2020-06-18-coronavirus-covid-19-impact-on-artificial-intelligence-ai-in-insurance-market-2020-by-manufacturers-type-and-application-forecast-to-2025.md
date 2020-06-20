@@ -131,22 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Analysis, Revenue, Price, Market Share, Growth Rate, Forecast To 2026"
-    excerpt: "Global Industry Analysis By Trends, Size, Share, Company Overview, Growth And Forecast By 2026\\| Latest Research Report By DataIntelo;"
-    publishedDateTime: 2020-06-16T03:25:00Z
-    webUrl: "https://surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/"
-    ampWebUrl: "https://surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/artificial-intelligence-in-diabetes-management-market-analysis-revenue-price-market-share-growth-rate-forecast-to-2026/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 33
-    images:
-      - url: "https://industryjournalpro.com/wp-content/uploads/2020/02/Regions-UMR.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Mz7gJKoig1lTCp6ACaT7FKqv8RWC0zzUP0AIr00Mq67wnuo0JRSlKjiUNHrwUFUUJQWCcPoRxPF/meVYb21RQhkkJ+Sv7G2Lh7hrSQgjwh6SnykCoCsTkFbm5+eoNXdwcDnkJwZtvmznK7VN8WGCyrxdMq1k4dDDdUtNT1nQeRfoqzBrtFJtieKkirlZ30kXK8dy4r5MAcCLuQ1bU4yrF9FjnwK99BYEktx+v2psbx+RaBnunAfYeFVjXYzCnyfcbhL6MZ3ykBrtS9RZqVtIeJtBW9TVYd+6CH2/+u47N43YgsAz/1Bu8ugdVUenV+MGDBlV9gIFGmkhQJCTzSqK71O96oAYolddUmf/Xwd0B5dgl97PDm1aW4+7tF0S86CW+bGrFsGWUj9cA+nYMBwadux2FRG+0L8CTquYnLBxiKPnIlM7jslVjr7S8DmFjb34lW0wGieXJjt7owvnRJqazvhmHGRqBP0DqWwlef7K45eOuPKNG2SiClhVwejh5UqjfWNnZ49C2mPmWjW9jxMC0w==;qUHi+pdK4ZHpMfbS+snJpw=="
 ---

@@ -2,44 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June,",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097",
-      "publishedDateTime": "2020-06-09T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
       "title": "Eswin raises $283M to boost chip production in China",
       "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
@@ -1323,6 +1285,52 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter.md",
+      "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
+      "excerpt": "The technology companies have updated their mobile operating systems to conspicuously support the protest movement and downplay counter-protesters.",
+      "webUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_25B0C5408EFB-1-e1591623650320.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
+      "publishedDateTime": "2020-06-08T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

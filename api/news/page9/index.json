@@ -2,44 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
-      "title": "Microsoft says it won't sell facial recognition tech to police, either",
-      "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
-      "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w=",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft says it won't sell facial recognition tech to police, either",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-facial-recognition-police.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp",
-      "publishedDateTime": "2020-06-11T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -1062,6 +1024,52 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
+      "title": "Let this AI-powered tool build you a better résumé for just $29",
+      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
+      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
+          "width": 4976,
+          "height": 3223,
+          "title": "Let this AI-powered tool build you a better résumé for just $29",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
+      "publishedDateTime": "2020-06-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

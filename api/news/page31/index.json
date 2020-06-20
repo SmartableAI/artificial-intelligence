@@ -2,53 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
-      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
-      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "publishedDateTime": "2020-05-22T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
       "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
       "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
@@ -1041,6 +994,35 @@
         "Google AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards.md",
+      "title": "ReversingLabs Honored As Silver Stevie® Award Winner In 2020 American Business Awards®",
+      "excerpt": "Hackers use innovative ways to attack the systems, and the machine learning models should be ... Business Awards include John Hancock Financial Services, Melissa Sones Consulting, and SoftPro.",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],
