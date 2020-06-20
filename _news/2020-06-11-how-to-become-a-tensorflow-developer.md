@@ -15,6 +15,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://gcs.thesouthafrican.com/2020/06/ee36da52-tensorflow-developer.jpg"

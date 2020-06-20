@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.yourstory.com/cs/users/2679e2d0-db8b-11e9-bc96-ff81f5b17130/profile_image_1568976114888.jpg"
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "7 AI Future Trends & What They Mean For Business"
 
-secured: "UWbW+AZxLa19EIuA/Md7gKjRBBJ1fZMTwa6I5KbMHWX65ozeVtmNmHO8iV1Vn87bqabheUpsTpfO7a6Q2d0jvqjn6/VhPqx1IhTcuK+Ro5V8ioUyjkCVTPLhXYmLwF5dy8Vjsw9ythX4+hFHQ6D/WFUOTQfYFG/nuP4dXE8oQ7UAFOnto8EnqJIRZ9o0+Hvcp1ZmZLrGwHoHBzKt6qB2SwgO5Bqcc2vG3syuXO+AOP/NP1IKZP3aW5ygU2bDD/QFyuZ/iC+36rOE7q4SByUAY5czPGRtf3TauWC0vcBhT/Z8Vc89X2sslhgcDX7bnayALTga7p+LcZY+2JxXJ05pvw==;DMhsjaLGNt0xMS2JFWlzwA=="
+secured: "ci4laJWCp9roY3UUaB2IFV/ugOTqfp8R6hy/4yX0ZHrB766dkD8m9wimxNL+bHXvrs7dOfql8usdDc83F+j5kSnCnRDNVGnPhQQxIYwkS6Eahjvb28f1bnyL/oeCG4O8SxQQtn+CECKpomIOJKiriw1vvf4luNaJf/5jCS1Bne3/PV1uvrsxrs4Ckc/mclzo76X+1qX3L3613rxnxD92biYV0ZyELJALFNT/qRE6mA6gAQY35YqoiGYSh6dQ3mWEZPZe3vlVzt45AuyxqCEsDn0WFHXguYujqPBczOPbT+hGtFrEXci9P7KL72jl45lckjtWRlBiSm0ulcfeCrchduYFPEDBg0ejWp0pORzoQCdRt2QMPY5sn3CAYaqmqLBCKkrfY7To0MMAV+kNF/qrYAdEv52mWml4usvvKDYVUl06hL/7tjiN1pMV4h1LXMDonzOa58atXEmlhHZHvKo4CkpbrHoHttEh4ZesmBJvWTdONrgV4h1LLU72C043ci5kcjfrqzr7SYUTG1oKBtmAOg==;etESuwXLQiw0pXO8Dyw9rA=="
 ---
 

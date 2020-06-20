@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"

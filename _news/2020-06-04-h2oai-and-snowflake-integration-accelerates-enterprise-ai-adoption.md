@@ -14,13 +14,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
-    isCached: true
-    title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-
-secured: "O7JbE5g4gub/izr8LVYksJO2Q7GDCdKVTs//Ls7+Zkd281ynGjEWu3OmRhcz9ggLOtfkQBVxeCuGhSWaH59pYl7dhP/BWOMUSLdML3mRSJ8WjRR4aOQ/ASiRtxI3VECx67ldChwy8UHNpMZJuw7f2A7U0aV1ZQhILoTVQf5EosOh+2GNpHtdO9Oqqbf9lERSYxXq+/L+AihTHmqjW0GWJJ1iGRScKXwUqTvJv9GzmSnobQS3W8DHZhjLFgezjGegvsMPeO048hGKqT0bdQlHPWtl0CLmA2Mp1yyZ0kLE2N/HlHX/cuKSedn6phML2TNTUN/NV1EpMR0xTPo6lWQsmg==;NE9VrlzZd6PXFSS5sMNDaw=="
+secured: "BK2uzPwqaDfXRNUBDGTu4CbJT+eXI0IF5gfsLq0lf8Xr91gf1bTcyDdXtwKF0wvEUtroiklSIXEuYut0oIw/1f5k0L2qEXNPcT/Xz6Lmj6ZlCYYZbDre+j9Kb8CcFOkf5WN7Gm2yThmrw9xp6cH/NKo8uSX0ZXtGseDKGKoI9lKQbaAq7ColOZPml1RDLYvG2SGESKfUNSDCOkL3nklADdhFyN4Ktz6SKrg4P1XM7DX538EvWBSdxF08vXw4lWnwbNXJpX1SpD+R+wgEeRyObtt+vV4D/Dl2PzQ/xxA6plXvGLSEiG0MHepJUiHZNTBbLNSpNgnO1fkevUtLLln+Kg==;zjI5hvHL8OS9LJDyMDw4MA=="
 ---
 
