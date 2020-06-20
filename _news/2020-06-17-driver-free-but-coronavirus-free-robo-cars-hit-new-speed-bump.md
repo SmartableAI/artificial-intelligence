@@ -25,6 +25,22 @@ images:
     title: "Driver free but coronavirus free? Robo cars hit new speed bump"
 
 related:
+  - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
+    excerpt: "This despite its use of multiple laser, radar and camera sensors connected to artificial intelligence. Cadariu said Waymo has a team in the Detroit area working on snow and wet roads, while other ..."
+    publishedDateTime: 2020-06-17T19:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/62WKXIE264I6VCP5FD5TCPIYQY.jpg&w=459&h=306"
+        width: 459
+        height: 306
+        isCached: true
   - title: "Driver free but virus free? Robo cars hit new speed bump"
     excerpt: "This despite its use of multiple laser, radar and camera sensors connected to artificial intelligence. Cadariu said Waymo has a team in the Detroit area working on snow and wet roads, while other ..."
     publishedDateTime: 2020-06-18T04:51:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_21b0c31da1c947c791ccc95af31caaca_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Driver free but virus free? Robo cars hit new speed bump"
+    excerpt: "Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle in Tempe, Arizona, forcing the industry to pause to make"
+    publishedDateTime: 2020-06-20T09:54:00Z
+    webUrl: "https://www.stltoday.com/business/local/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_1eee8c23-1372-5f16-a62a-8e662bbf522b.html"
+    ampWebUrl: "https://www.stltoday.com/business/local/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_1eee8c23-1372-5f16-a62a-8e662bbf522b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/local/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_1eee8c23-1372-5f16-a62a-8e662bbf522b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/4d/c4d3da0d-fca9-55fd-b72c-99f97ae3a5f5/5eec3c41eaaac.image.jpg"
+        width: 512
+        height: 341
         isCached: true
   - title: "Driver free but virus free? Robo cars hit new speed bump"
     excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"

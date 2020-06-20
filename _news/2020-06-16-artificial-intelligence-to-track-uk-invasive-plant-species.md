@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sciencefocus.com/news/artificial-intelligence-to-track-u
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/artificial-intelligence-to-track-uk-invasive-plant-species/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     height: 413
     isCached: true
     title: "Artificial intelligence to track UK invasive plant species"
-
-related:
-  - title: "Artificial intelligence could be used to track invasive species"
-    excerpt: "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,"
-    publishedDateTime: 2020-06-16T00:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 57
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2016/07/03/Japanese_Knotweed_Rin_full_flower.B7G6NM_Invasive_weed_Jap_trans_NvBQzQNjv4Bqxf0udJPckKC_3Kw9fqS3NdVSpfFxuU2jZG0HzVweans.jpg"
-        width: 2880
-        height: 1800
-        isCached: true
-  - title: "Artificial intelligence can help track down invasive plants before they take over verges"
-    excerpt: "The UK Centre for Ecology and Hydrology and Birmingham-based firm Keen AI are building the system to quickly survey areas like roadsides for invasive plant species."
-    publishedDateTime: 2020-06-15T23:07:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8422903/Artificial-intelligence-help-track-invasive-plants-verges.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8422903/amp/Artificial-intelligence-help-track-invasive-plants-verges.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8422903/amp/Artificial-intelligence-help-track-invasive-plants-verges.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 48
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/15/16/29633872-0-image-a-16_1592235538791.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "xWU5CHduhe/7z+Y0qA9x6dfC+Beo2ade2uh84sPaEMzHyWn7L+yceY4i72EaYXuks58eGmm9op/+TsP0gVxp1QFB2u7m8LwNqxafDIoA8vq3qo046UDj2rdVsXIHeNvqTW+Rzm6/7EotIUx2WLMhLbWNWd+nr5ZK1+2JM5q8totV7LXja4MZao66gvtCqgJYattCAOMS7WjP7sDQcOLNIs7/VjwRJKH7u9iecPv+DFrV/qmr3Q6W0zkkCPmTP7AYKcndLov6pM98dhubqelQifOrleZ8d1eQ79LwxL5MBF3MMdk2Y2bixhWlTE8+YJF1rfHiMUkrGsWFxtrv2704zBwPlMkpa0WlT2UFilG3//4O2+K3m1KF6Is4er59b9+Sw1nYV4Mcxoy2PoZ9S71G+JwhPgjx0PoU9K6JyaSOyWC5I+U/8OekctwuYkmspfdsmPFI/UlL1l6bJlrtnRmXBuTdHxPRqcYRM1HkW89hsMX43wwBbevfTyOffzThaFnAxT5G18QsAGqUdGWlyfjK+Q==;6kpEAo9YgCCbnS9RUMyNJA=="
 ---

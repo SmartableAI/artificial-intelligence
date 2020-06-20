@@ -89,6 +89,22 @@ related:
         width: 980
         height: 680
         isCached: true
+  - title: "Tech giants back off from providing facial recognition to police"
+    excerpt: "Three major tech companies have backed away from their facial recognition programs after long-standing questions about privacy and inaccurate results when identifying people of color."
+    publishedDateTime: 2020-06-19T03:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 59
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/43f5011/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F64%2F21%2F6694820b4904aa86fc92a9243e7e%2Fwb.Cyber.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
     excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
     publishedDateTime: 2020-06-17T13:00:00Z
@@ -190,6 +206,6 @@ related:
         height: 630
         isCached: true
 
-secured: "I4xG+BonHdk+8RL2GCQDdvnVMQosvQZ5ciWWltFlncJkeyPa7BkcsI3splCL2o3T12JUrAL2Pjf8JfKlmHkJKzsf4brg7cZQwc7PZbJimsjDsFED7Z1KQ5ZOahhPBzyhxLV/4Qb5WqQZqSx6qX+tHTjVEui3/RapyKlXuofM5vU6WQaOfkZYWd64S0fcxmoAr4PX/QdCuADvJ7eInTPsW9/u5KWM2ojqWWi95CvRR9ay7BO4WjulgUTSL3W/dP80Po4Kcro+p5dKEANc8mTswGLo4X5DrtASsU9xv2uCPSTGdDgLs4C2IdiKqcx4uNPNZX2xwIjcLAVkt5sgCMCN5A==;BxCUpF437Mw0+MxyszYFWQ=="
+secured: "8+mU5a4Uz2Z5bmpBeng8OzfXf2v3z/72UJOziQF4RJNL9KQ2t8Jnq7GS6/m+9NtUoGRWUdPLwqvHRIjEi0m28xLKDCZ8ALYsYW4eMh52L7aFY0qbtdvyCwlLceRma/WqmmhxXf4ydy7kBT0RDZA4XWdZzkxsX+GuCdQxoyC3NzbooIW1fPux9tDPN2uitZKL41H5h5M8a8MfeVDw5TyYy01x8RX79Tjf+NeyUkV2rzngo0HFse6yeVZWUPmUxzftknY/W3EjDknesfQienbfwHatVJmJsfQks/UPBSxh9lXX6gm8CgB6Y0O2tXkU1QEhC9G0+T2oxl23mJLi5xChE4XBQeBUP2+37d6/LHwalSnTS+VaJ3+07iIHkWmipZIY8bmNtVP2U+O6zV8vNrBXVv1bAlz6VP3iV6hWNGP1+cTztWRrPpI5pXv2mOhpYmg8wHR0HWlYzZQH1T428b4ZmTo7ZAeCQbrFWeqwfsLp42tF1i6tl0WswQlgdoZJXOSZbxigFtE5XyREZVJgdMMSvA==;NXkSKLgN7e0nIJI004pp4Q=="
 ---
 

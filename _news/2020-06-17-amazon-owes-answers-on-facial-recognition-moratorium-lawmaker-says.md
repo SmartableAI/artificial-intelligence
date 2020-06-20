@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-r
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 39
+  - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
+    excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
+    publishedDateTime: 2020-06-18T16:38:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21142764/safr-from-realnetworks-inc-safr-facial-recognition-now-runs-on-axis-camera-application-platform-acap"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 17
 
 secured: "nmrUX3eVJwG+6J51LjgLKqPCk92pCzdkdlzxkCjaiKgbTNZrA/RUiOKgA7vhNFvQu/KM3n6pREyNpyIN/PmqkXp5uNhDr9w34arJhLWoRlgkVxfcPYfHeS6RXunF/rjpBsB0OXWFdEdfEjGqWlA0iY7cMy3ILZabP38FxAY37G3GPm/a3klHRRw7p086t+gYN0npkupJ1bKDPVglGVdQdE0T2NpJq6mBkb89X8W03BydpxFQmOyOnvAwTY0JDVnf3J5w2HnUFEfYQ+JEaps3i/PO5Qs8ozU9RdsNhsIiJc1C1K8F4wNVuiQ5xITD2MR0GFVoGDcw7glLkVE3MDqq1m45mh2PGW2OS+XAdrmVffSfYPIPBBSAGqiH3yQkJT564K+3gPniqaKOnYFaZz1k8xd5dvpWsFV5+GzIY2xhsPSds5xs3vUuetzrfdTxKTNJiWSOSAfmM+Maqt/Vcsnbv3ZDJULcOb+MarAg1LQVJDShFpUF6BP1156wGZgqxmynDKu4QbT5ebRVqQrO02WHqQ==;iFB81PkiOr4niyqm4I+mAA=="
 ---

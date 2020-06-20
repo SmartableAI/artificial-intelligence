@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2020/06/limitations-of-current-ai-and-
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/06/limitations-of-current-ai-and-the-data-problem.html?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     height: 768
     isCached: true
     title: "Limitations of Current AI and the Data Problem"
-
-related:
-  - title: "AI And The Rise Of Proactive IT"
-    excerpt: "Zero impact, zero touch IT delivery used to be the stuff of fairy tales. With AIOps, it’s closer than you think."
-    publishedDateTime: 2020-06-16T00:43:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/"
-    ampWebUrl: "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
 
 secured: "qzZ8Yn1fxQMhi3SJSu/BxfrScG3eDRJifEq+EomO9ciWHdj3zvoA5e5imekh09mJMJ7Vem7x5GHQ0FDZ23H6kg6IOxqnCA5LUj8iBv5pzDEEoUOTdvCelUUoy3EJE0G2tIaY+0v8VOWjJwOFBONtYuU55eOdfvdEnoJCbUmCXjx7luPnotpgdghGW1vVsmVJR7Foko0R88UuHEyasKgitCgzZ1DHKXhvzoEoVcddjRoVPBnR6uR1Hyijd8Odx/qEtQIlaLmzLSXr6LpMI0Sa9u5/FPZDaqp2xnh0mVO0twLnKBYIt8t2HkHPFueHOrnJS4+W3iXtw+B74agdjsve4f5+8wc2mlELNCp6WZpTJUpQ/Y1N3qH1o98qlqpToNEOEVwIEQDdvbgQmKPqo47PyGmZYLFSRFMBniItIVO/AcAVQIQOdoLTyCsb7YqmPCBk2P3Gx46YCVKiTeeII59AxYcib1QXXkSRlSYgsTMKjvY2Xw+UKHp9qWc0ros1NDvEBXeYcKc0R5ehpRURbsGnPw==;YUgVtHNHiCSzLcqa1U5Y3g=="
 ---
