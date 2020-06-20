@@ -182,6 +182,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
+      "title": "MIT Creates Artificial Brain Chips",
+      "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
+      "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg",
+          "width": 1000,
+          "height": 563,
+          "title": "MIT Creates Artificial Brain Chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
+      "publishedDateTime": "2020-06-15T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
       "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
       "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
@@ -488,44 +526,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-facebook-ai-is-65-accurate-when-comes-to-detecting-deepfakes.md",
-      "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
-      "excerpt": "Facebook partnered with other industry leaders and academic experts last year to create the Deepfake Detection Challenge. \"By creating and sharing a unique new data set of more than 100,000 videos, the DFDC has enabled experts from around the world to come together,",
-      "webUrl": "https://www.indiatvnews.com/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/facebook-deepfake-detection-challenge-1592215334.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Facebook AI is 65% accurate when comes to detecting deepfakes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-deepfake-videos-detection-65-accuracy-see-what-is-it-626365",
-      "publishedDateTime": "2020-06-15T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },

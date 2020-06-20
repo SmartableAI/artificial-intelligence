@@ -138,20 +138,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "Olivia’s AI assistant encourages mindful spending and saving"
-    excerpt: "Our Start-up of the Week is Olivia, an AI-powered financial assistant that learns from your spending patterns to provide tips on how to save."
-    publishedDateTime: 2020-06-15T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/olivias-ai-assistant-encourages-mindful-spending-and-saving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/founders.png"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Week That Wasn't in COVID-19: Bald Men at Risk, ACE2 Drug, Amazon 'Distance Assistant'"
     excerpt: "This week in COVID-19 news, researchers suggested that baldness is a sign of higher risk for severe disease, a biotech company is trialing a therapy inspired by the virus' effect on ACE2 receptors, and Amazon debuted a novel method to encourage safe social distancing."
     publishedDateTime: 2020-06-19T23:02:00Z

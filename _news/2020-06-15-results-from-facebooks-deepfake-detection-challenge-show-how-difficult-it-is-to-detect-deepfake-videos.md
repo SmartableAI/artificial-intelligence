@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook AI model achieves 65% accuracy to detect deepfake videos"
-    excerpt: "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65."
-    publishedDateTime: 2020-06-15T08:31:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos-99507"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos-99507"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos-99507"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_102403337.jpg"
-        width: 724
-        height: 483
-        isCached: true
 
 secured: "MLyMY0ue+5mKfCcL6+o7alRz0B0XhAhSm9fU0NvNQF1ybwidsGTe43lyYlcS3w0DTAzkgjJK+3On66gEPi6gYc5ujsDXFaxtpuzo8BGbFYLeTGWhXcKPBw1gQfx4O9NAA9/oGKiMnBzACp7SpyHep2HFvc/kYXVwesrb7lF3xmCzLMdu6CQKIzzzWsUrtA2fhs4X6hC43JUUnQkERkCzWnTtYQeVSTmM5dc0+6QLLVtxDw96IUnTOFh+t2D42gcIzxDIdyAGPxOt9nosp3C/6LyzhqFTppMp8yUyzzMoRgm4olTJpOxfoAJ+DAzxztGBp7zrQynVFpHthSOcz9g7rLM00eWQKM+15JU+t92NcLKWY8U4XfFXudT0lfOXak93+yAdexYcGBSOxEeAVZkUp2qCoZHE7u727IxlpUMfiybWYXT3Tce7YtDM3Yaxvv4R8kdOXa37Qkjb2p/bJXlx5Mn1fHy6O4r+rLDNAlaIEoqHQ+4OVsOs3CR4pVYdaG9GwrXTWbsKN8VntFWtaM4wQw==;29nGNyXbCPXUTZpDS/S6Lg=="
 ---

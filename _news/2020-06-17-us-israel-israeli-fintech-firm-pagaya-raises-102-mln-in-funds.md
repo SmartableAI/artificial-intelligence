@@ -1,44 +1,49 @@
 ---
 category: news
 title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
-excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-publishedDateTime: 2020-06-17T09:20:00Z
-webUrl: "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round. TEL AVIV, June 17 (Reuters) - U.S.-Israeli Pagaya, which uses artificial intelligence (AI ..."
+publishedDateTime: 2020-06-17T09:06:00Z
+webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
 type: article
-quality: 69
-heat: 119
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "US-Israeli fintech firm Pagaya raises $102 million in funds"
-    excerpt: "Pagaya manages over $1.6 billion of assets for banks, insurance companies, pensions funds, asset managers, and sovereign wealth funds using AI."
-    publishedDateTime: 2020-06-17T10:43:00Z
-    webUrl: "https://www.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792"
-    ampWebUrl: "https://m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
+  - title: "U.S.-Israeli fintech firm Pagaya raises $102 million in funds"
+    excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
+    publishedDateTime: 2020-06-17T09:20:00Z
+    webUrl: "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+  - title: "Investment in Israeli fintech industry surged to record $1.8 billion in 2019"
+    excerpt: "Israel ranks fifth in global fintech investments; coronavirus hit the sector but also created opportunities, report says"
+    publishedDateTime: 2020-06-17T08:31:00Z
+    webUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/"
+    ampWebUrl: "https://www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/investment-in-israeli-fintech-industry-surged-to-record-1-8-billion-in-2019/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 41
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/458910"
+      - url: "https://static.timesofisrael.com/www/uploads/2020/02/iStock-623205372-e1581502979966-640x400.jpg"
         width: 640
-        height: 428
+        height: 400
         isCached: true
   - title: "Israeli fintech co Pagaya raises $102m"
     excerpt: "Israeli financial technology company Pagaya today announced a $102 million Series D funding round led by the Singapore Sovereign Wealth Fund (GIC). Aflac Global Ventures, Poalim Capital Markets, Viola,"
@@ -89,6 +94,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "+Lx0R/0C8LEOR2P2+/l0EKgHva0cGwqDIKG0uLjUbdjx6oTLaE8l/8nDB3yP1hW2ew1s8y8aU9mBmqomi7yHgSRswT86r80IttdaA2v6fUURq63bMr3lNckYPmmPabbrTc5x/XEJe5jmBxnz9Slm8rU5J+iy5yR+R9V4scsxcDMZm/5sUeLdAtw2QNMlUqA5lNpOIFBKYJT3RfYdpqLw2PijYtHkpmIBh105rEoDvZUEEjLeBL1oG4SCMt68JPpulOijCIrdd3AIZWIK34zcV7rwASyj1Vo5CjdiGYjyy6U+BOsBvf//v/84B8GtbLUJe2t9Dy1sgOi6CT+80tnQZQ==;E2dJsz7G/MdFuMebDEwGZw=="
+secured: "URxqsI4xO4PH2/EoKVFAJPXYGot8TTf1pLm2afEt9K/zl4tht/5g8aAAHO39Gtj5POHCAnsUTD73NhiEaPJGZARBZTktsLa5mytKyoQmEu0ayW5Hu7posqiRsj2wszIMnM/GoeZFFts5DKHx3SFYKj2nYJrPzxprUs9/CTjdczZEmReX1RHNDZQ1PjyT/M1Ghq3tue3NjwwbxINdqQJuf9rJLvH+4Odc4IcS6TnttXpDWwMlp0gOGqs3Zo+IErij2+lUBxMEptYfJhKfOpM7XCRZAVQKIfW72HqajQAy+k3pfa2xUudfHtw5hSBwWHOkbQaFoRrvwlThI+jNIY40t0upxd0aF1qihumUmpfevFb5dP/+GLOKr4fJeeKVT6pS5f6S+ND2ZLzAOpfEhbdpQKG/cuYDZ4hCPLABiyMj32iMPut1ILp6Obp5riGCx0L76KTIno4aUTY71+ls+nRDa0RNnCtm5JfURTO5f84vnjYVPl2cIdn6QdBp3foyqO5hzMX2FS/KqX4DbW5dpPvvGw==;hnAlxNcbvDFtthFDl0qdEw=="
 ---
 

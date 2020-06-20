@@ -197,15 +197,6 @@ related:
         width: 720
         height: 812
         isCached: true
-  - title: "U.S. to unveil voluntary self-driving testing data-sharing effort"
-    excerpt: "U.S. auto safety regulators will unveil on Monday a voluntary effort to collect and make available nationwide data on existing autonomous vehicle testing. U.S. states have a variety of regulations governing self-driving testing and data disclosure and there is currently no centralized listing of all automated vehicle testing."
-    publishedDateTime: 2020-06-15T08:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-to-unveil-voluntary-self-driving-testing-data-sharing-effort-2020-06-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Where Are All the Self-Driving Cars?"
     excerpt: "Recently, journalists explored the disconnect between the envisioned future and the current state of development in the autonomous vehicle world."
     publishedDateTime: 2020-06-15T17:31:00Z

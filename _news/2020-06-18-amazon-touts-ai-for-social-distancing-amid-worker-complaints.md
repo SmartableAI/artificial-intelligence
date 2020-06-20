@@ -128,20 +128,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "Olivia’s AI assistant encourages mindful spending and saving"
-    excerpt: "Our Start-up of the Week is Olivia, an AI-powered financial assistant that learns from your spending patterns to provide tips on how to save."
-    publishedDateTime: 2020-06-15T07:41:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/olivias-ai-assistant-encourages-mindful-spending-and-saving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/founders.png"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chip
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ProPakistani
@@ -27,6 +27,22 @@ images:
     title: "MIT Creates Artificial Brain Chips"
 
 related:
+  - title: "Engineers Put Tens of Thousands of Artificial Brain Synapses on a Single Chip for Portable AI Devices"
+    excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors — silicon-based components that mimic the information-transmitting synapses in the human brain."
+    publishedDateTime: 2020-06-19T23:59:00Z
+    webUrl: "https://scitechdaily.com/engineers-put-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip-for-portable-ai-devices/"
+    ampWebUrl: "https://scitechdaily.com/engineers-put-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip-for-portable-ai-devices/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-put-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip-for-portable-ai-devices/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 44
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Brain-CPU-Concept-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
   - title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
     excerpt: "MIT engineers have designed a 'brain-on-a-chip,' smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors -- silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-16T21:38:00Z

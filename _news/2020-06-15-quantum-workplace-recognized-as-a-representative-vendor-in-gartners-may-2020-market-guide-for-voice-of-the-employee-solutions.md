@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T18:39:00Z
 webUrl: "https://apnews.com/540975dcc8924f37a71d2af9e5f16099"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
     title: "Quantum Workplace Recognized as a Representative Vendor in Gartner’s May 2020 Market Guide for Voice of the Employee Solutions"
-
-related:
-  - title: "Peak Named a Cool Vendor in the Gartner May 2020 ‘Cool Vendors in AI for Retail’ report"
-    excerpt: "Peak, the pioneer of the AI System, has been named a Cool Vendor by Gartner in the Cool Vendors in AI for Retail report. The report recognizes interesting, new and innovative vendors, products and services."
-    publishedDateTime: 2020-06-15T07:32:00Z
-    webUrl: "https://www.retaildive.com/press-release/20200615-peak-named-a-cool-vendor-in-the-gartner-may-2020-cool-vendors-in-ai-for-re/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 9
 
 secured: "LG0k62J+YbKww8HWiOhRNIXws2lKhQt84GsRC/HyI48vhtsTRh2enQOysC4b7+Yz4FLleQYLcIWVxhQhMxpvA8NQnYxFda/S8OZsAmstPomybviU5OeLC0shgZTgoC6HtvZLx5URI+MpKDOUFJpmt+EFCgTvrRh0K1pv4fzy8TUIa1aBbYe885SN8IKJ+TYsYwygu+6UlN9H8CZtbnvD2neOL9TgJnO1rlKGLMN3N/N1WTXUyiXiIjwax1H+Nulw2zHcqyOMm3z9oHGbRrUPdKyd953Z3NT7AMXZ6rKYRelazCu4pXlm/jQjyQZMkTWKC3i33N6+OeuNy3v5pc+hCA==;yGK3Y94ibpt6mV4vCY3bUQ=="
 ---
