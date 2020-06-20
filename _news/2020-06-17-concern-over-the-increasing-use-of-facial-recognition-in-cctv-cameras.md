@@ -71,22 +71,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Facial recognition company collected data on 30,000 fans at the Rose Bowl game using video monitors to draw their attention and give the cameras an unobstructed view of their face"
-    excerpt: "A facial recognition company recorded data on tens of thousands of fans at this year's Rose Bowl game in Pasadena, using video displays playing highlights with hidden cameras underneath."
-    publishedDateTime: 2020-06-16T01:27:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8424175/amp/Facial-recognition-startup-captured-data-30-000-people-Rose-Bowl.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/16/01/29646948-0-image-a-31_1592265808588.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "b/VQ2nbnhHj+JfzgZkvyHkFu5MEhholJSDvIMizPxjzrwS4u2sZ/2+blUaS6jUoPxzn4HrWm5rYFYSjpFCsZ2GHfTHt/4yTpQAftIQBs6KnJq5T3sREktotw9KbSOKEX2XL9sTXYfLaco/F9zeqpPNSNUwRptHSAiz/szzbkbBte4zZsDDX4M8BEq+QMzUh2W18hJlqlR2QQxli/6vkTKfh25lw3UYziSsuDouvsg6ciuZVnjVSsjv+864AbXGjzwfc4fvINDUUVBGvFEbVYKkOcn39+HZiBdTK7xyGdYUQLnI9/fMHCUeM6F0KK9GegKxl1yBCDnrUaIG9Zi+pk0A==;IUeIOQCA2+58C5FHv1kHeQ=="
 ---

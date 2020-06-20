@@ -135,6 +135,22 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
+    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
+    publishedDateTime: 2020-06-17T21:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
+        width: 512
+        height: 384
+        isCached: true
   - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
     excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
     publishedDateTime: 2020-06-19T15:05:00Z

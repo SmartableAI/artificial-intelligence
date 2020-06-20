@@ -121,6 +121,22 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
+    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
+    publishedDateTime: 2020-06-17T21:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
+        width: 512
+        height: 384
+        isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
     publishedDateTime: 2020-06-16T23:27:00Z
@@ -206,6 +222,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jbDyFeNiY/6cWzMAGnLZuz/HQWlP3hRxJZWsGYymjQ5QDaR9MqCIDXgsndssXAgfHgGAVL9yJvBu0CnlBcf1Qk0mHrHyL9389j7NJ9MxMbUXOn4TnCA5vZjZBbnbHzygrh2b6uJH5lbBe1LLg3JuaUzQ8avQiMmVptUCJsOUatHPaCDfW7cW7Lb+gcPJHB+CELc92LhqNKRMk8YSQ2Vb3ffSwFP+m1Kl3XhZlxqyPJsNUVPrcyxSxfceon3j7oxP/ZgchZ+J0zvCuMloxXzXy3bytlas5n/6l7JGwYcUMtmLUpVnyukzIYDN9b81jXHQVobTygwNQ9mYKFxWML0lqQ==;NYP1M3S+HfCqLqL3JTIyuw=="
+secured: "RtMFgoN/ZtSuZdWUobFiix30ck85si9xp26Y9PmkQ5nDJqdEkqHKm3xpGnhMrspF8c3683bejX3ckmeE2auj+KaFW8VL4Ru5hRMbn9j9/UxoPYersqSREl/hDhXaBBL5fYQ+GhFc5Y4r83aGlig2bJLxs+UqRoNmUNkqvjzJcx6Gm4Q9s+jnN5HAuMmmIPp+sm/ETu+fs5rLV8efzSTX+WO0zXveJeKDtjhv7OhAOL/4sVPB/D0Szjtr4f+u6/bSnVDt74+V9+5wRSTDgLXyXDpSUifTq4k9pLLSxv2YEun1whCuF/TKryXpwnxhz99dvheyinA/cl3At6z5usfC2OFrEcqRrbTPbG2SaHdMXmGYMkzrDBKWHnrqtf87d3QQtChd3Fr+hnThM3Kh6frkiLhglIWszvBTSIb2i9mw6WLDe3z9gwe4ipXSmwsnvP2O01z/laGbmyxpL8rKD0tER9RtLfnnr98yE5aT+aLY62zVKKMAn0EN1y7RDjozMx1gVXXh5/07kg3yVph1OhFZoA==;VLVES82od+Lr63+BH6JBig=="
 ---
 

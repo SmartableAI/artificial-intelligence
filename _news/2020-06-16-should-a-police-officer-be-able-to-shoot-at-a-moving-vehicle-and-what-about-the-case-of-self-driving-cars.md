@@ -56,6 +56,22 @@ related:
         width: 616
         height: 372
         isCached: true
+  - title: "Self-Driving Cars Won’t Avoid Most Crashes"
+    excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
+    publishedDateTime: 2020-06-20T18:49:00Z
+    webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
+    ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+    type: article
+    provider:
+      name: thenewswheel.com
+      domain: thenewswheel.com
+    quality: 44
+    images:
+      - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
+        width: 1000
+        height: 580
+        isCached: true
   - title: "‘Ghost’ vehicle research shows energy savings in self-driving cars"
     excerpt: "Ardalan Vahidi and his team have created algorithms that help autonomous, wirelessly-connected vehicles anticipate the behavior of other vehicles to reduce braking, which helps save energy."
     publishedDateTime: 2020-06-17T12:05:00Z

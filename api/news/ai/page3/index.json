@@ -6,7 +6,7 @@
       "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
       "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
       "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -148,7 +148,7 @@
       "title": "China's Tencent to use facial recognition to curb young video gamers",
       "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
       "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -533,7 +533,7 @@
       "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
       "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
       "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "heat": 220,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -942,16 +942,16 @@
       ]
     },
     {
-      "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
-      "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
+      "path": "_news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds.md",
+      "title": "U.S.-Israeli fintech firm Pagaya raises $102 million in funds",
       "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
-      "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP",
-      "heat": 119,
+      "webUrl": "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF",
+      "heat": 129,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1AF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF",
       "publishedDateTime": "2020-06-17T02:20:00-07:00",
       "updatedDateTime": null,
       "provider": {

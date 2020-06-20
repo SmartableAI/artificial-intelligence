@@ -2,6 +2,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
+      "title": "Microsoft says it won't sell facial recognition tech to police, either",
+      "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
+      "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w=",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft says it won't sell facial recognition tech to police, either",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/microsoft-facial-recognition-police.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp",
+      "publishedDateTime": "2020-06-11T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -862,44 +900,6 @@
       "provider": {
         "name": "StarMag",
         "domain": "starctmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning.md",
-      "title": "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning",
-      "excerpt": "Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States",
-      "webUrl": "https://www.prnewswire.com/news-releases/deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning-301074544.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

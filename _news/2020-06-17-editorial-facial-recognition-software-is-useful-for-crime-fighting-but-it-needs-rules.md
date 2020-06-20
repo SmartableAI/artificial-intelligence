@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Equitable tech: Companies pause facial recognition, but major questions remain"
-excerpt: "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies."
-publishedDateTime: 2020-06-17T13:12:00Z
-webUrl: "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
+excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
+publishedDateTime: 2020-06-17T21:00:00Z
+webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
+ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
 type: article
-quality: 100
-heat: 230
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg"
-    width: 1200
-    height: 900
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
+    width: 512
+    height: 384
     isCached: true
-    title: "Equitable tech: Companies pause facial recognition, but major questions remain"
+    title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
 
 related:
+  - title: "Equitable tech: Companies pause facial recognition, but major questions remain"
+    excerpt: "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies."
+    publishedDateTime: 2020-06-17T13:12:00Z
+    webUrl: "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Congress, cops and facial recognition: Amazon's pause puts the pressure on"
     excerpt: "Tech giants are starting to revisit their facial recognition programs, after years of warnings that the surveillance tools posed threats to civil liberties and were riddled with racial and gender bias."
     publishedDateTime: 2020-06-17T12:03:00Z
@@ -125,22 +137,6 @@ related:
         width: 645
         height: 363
         isCached: true
-  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
-    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
-    publishedDateTime: 2020-06-17T21:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
-    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
-        width: 512
-        height: 384
-        isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
     publishedDateTime: 2020-06-16T23:27:00Z
@@ -226,6 +222,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6pBfpPMyCNfZkqjiy8FJ2AKK9qD49CsmQHLaBmPHbLzFDmuiXN5+6HBCF9CnRZHCwJnSYw0A0IduhOLYycsyt4wg2XCkxuonpX8LdLKS2mnSB5fT84eXfNnQVXbweQ0GxFhqqWiWHtwOAhzknfzppNwvfb+oHpjDECaSrqHa2D9422ZEVwaWXQJ2xfpwT9FA7H3ml/Rs3LEFqKC44BjR8HzjEczfCT1zkzaY2HPweJ2Xor1xesdxjFFZSUS4P+Wll12gYFOoyUL4NFwHg87BTGokhZ9bnret8gMfjHTcjkqK5f54kBaqHstuVV6ZBahQrSb4UzQ5lcaI9M6RRMyV+1wQcTtrKvwyGzybDNu91tsoI0GZX5/qOmCidTwM6HJeCoV9kYTR5PGXFAL0ecrzBh0U3iz5sftxGJWRmDc0c/9NYbXbZ4JqxrjE5iz+SclcFHmVXWYhDOl7HU3OllhcRWpbYoG+O1GtOfYgoLNHVcFmWn2E4vS2L7uxAmZvQMfD;SFjV0xGWdjwtF67NkGDSrw=="
+secured: "KSy2kByMoHoi4aPsYLNiwRqy5ZkrO7OlDxeZ9vBZaPOtpHd1ajQyT33HDpFYIUTprevh14mlxsb16CX6//6qsPWvdcK2bhaB627vJ3tbHlv+wXDSTSkAOdStEKR/V1rJt1kSGCHoCcaDQsbLNA7bkVFQ+4O5rHxAJoeSfDYzr9Nya7Y936Y/ne17fKThBuEyTw8tI4GmxW85/rzj4V2hIuJdTZ3XMVcY/uaeEpWzyAhAOSrcG6EFHWXoFyQrQYzALvQXQpKOmAgpYq6iBXb4N1aicy0/YSPF4hCgXrqrFcm0KdRcepMWvKzi01E3peRievVa8Sr4Zpup2mu+V3Eqbw==;O21W7IDZZcmIiqdep5dCVg=="
 ---
 

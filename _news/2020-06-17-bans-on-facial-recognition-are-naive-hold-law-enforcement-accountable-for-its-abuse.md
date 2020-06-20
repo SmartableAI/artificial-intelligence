@@ -121,6 +121,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
+    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
+    publishedDateTime: 2020-06-17T21:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
+        width: 512
+        height: 384
+        isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
     publishedDateTime: 2020-06-16T23:27:00Z

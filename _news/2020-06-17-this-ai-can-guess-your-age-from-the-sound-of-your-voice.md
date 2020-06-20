@@ -3,7 +3,7 @@ category: news
 title: "This AI can guess your age from the sound of your voice"
 excerpt: "By detecting the age of customer service callers, Nuance aims to prioritize senior citizens and prevent fraud."
 publishedDateTime: 2020-06-17T14:40:00Z
-webUrl: "https://www.fastcompany.com/90516397/this-ai-can-guess-your-age-from-the-sound-of-your-voice"
+webUrl: "https://www.fastcompany.com/90516397/this-ai-can-guess-your-age-from-the-sound-of-your-voice?partner=feedburner"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "This AI can guess your age from the sound of your voice"
 
-secured: "h662jiYhx5wIZBBNtor9CV8y6zFpbjG6XRz91TUoGBZrYA3jFc2oVzPq9SVah3qLO5ogf7B9IZ5FB0N0Nov+OeOpp6EDintBWifaJ2g4MKwhQm/4y4fYx8pPO/oeLlyisnL/BCRvYG+F80vDWVWLZ6T8KhPeMw22NH4iyh0GSo2D1lI1lH8ywyFWFLivo4iSYk+FJtsfXrZlBnEC8fzz/ePyCEXx/Huk/IKSEZ7dxAMd7EZ1XczlWuovWvxToR1UV2yHGwRqH1r3GqzvS6IHgWZYwgNGHjKvVhGLXGxQAmhkUPC/vqmaxbrrPeUl3fpyVE2T+lqnwCk/0Bi4gleRLdMR3wUbUNUe/m3kKFrnZ2U59mQU7te20nGEvWnmJkKFsBB4V3uLLoI8eSKgbXHU1EHjxWxpOoqdx6Uu5pHNo2YYXDsATtCgKF6qbriMStjblXbD77trb2yhcSxMsDl4ygVH3qFbdbCTbnWzq67TwZ2lpJEx7wxR+rQUn+/jOAGvt2yuQ2ZiXsUs8SXTM7LCcA==;J32OR0kSXFwg8T0tRL9AZg=="
+secured: "oKzKNRN/lNoStUZPIPeQAngATnTQmtub8Vywe/ofq1VBqLuK8xr7XDHV1WZgmEevN58hT1Z8q5QTYxwkVTVFPlVmR0TTSPI6PhXE5galcSxJJpyPC16eff2rMwhd36e9zlPWeejclymnNWSEbsTI0LG9b5RF5goWFGyhCQ0EE721kM1qlSsLqQvoPszhpdhuG4AdUM68Uwt7dZb2aDsz2gu99AIgpZXD83j3HS0a++YFwtcjD+2stezGyBtzK5TpEFSGr3dRQtxGCvf078vl4vdISyzTVaYkoH8b3FBSYwnKcTKyvJnTu8InEQKfanqMSNbfNf9LxskFYHyZbchltw==;HRHYfvZDVLb15YxV9+HYyw=="
 ---
 

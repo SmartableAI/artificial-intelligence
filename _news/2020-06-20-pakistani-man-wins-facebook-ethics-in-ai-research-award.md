@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "http://www.brecorder.com/_img/social-default.jpg"
         width: 1200
         height: 768
+        isCached: true
+  - title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
+    excerpt: "Through this work, a culturally-informed, pro-social AI framework for Pakistan and the Muslim world will be proposed, says Junaid Qadir"
+    publishedDateTime: 2020-06-20T18:07:00Z
+    webUrl: "https://www.geo.tv/latest/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+    ampWebUrl: "https://www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+    type: article
+    provider:
+      name: Geo News
+      domain: www.geo.tv
+    quality: 56
+    images:
+      - url: "https://www.geo.tv/assets/uploads/updates/2020-06-20/l_294140_111332_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
   - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."

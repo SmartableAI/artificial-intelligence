@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Self-driving cars and the future of personal injury law"
-excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
-publishedDateTime: 2020-06-16T16:29:00Z
-webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
-ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
-cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+title: "Self-Driving Cars Won’t Avoid Most Crashes"
+excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
+publishedDateTime: 2020-06-20T18:49:00Z
+webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
+ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PropertyCasualty360
-  domain: propertycasualty360.com
+  name: thenewswheel.com
+  domain: thenewswheel.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
-    width: 616
-    height: 372
+  - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
+    width: 1000
+    height: 580
     isCached: true
-    title: "Self-driving cars and the future of personal injury law"
+    title: "Self-Driving Cars Won’t Avoid Most Crashes"
 
 related:
   - title: "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of"
@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars Won’t Avoid Most Crashes"
-    excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
-    publishedDateTime: 2020-06-20T18:49:00Z
-    webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
-    ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
-    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+  - title: "Self-driving cars and the future of personal injury law"
+    excerpt: "Hank Stout, co-founder of Sutliff & Stout, Injury & Accident Law Firm. (Courtesy photo) Self-driving cars may be the future thanks to the innovative Tesla, Uber and Volvo, but are they the future for personal injury law? This is the question that drives ..."
+    publishedDateTime: 2020-06-16T16:29:00Z
+    webUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/"
+    ampWebUrl: "https://www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/16/self-driving-cars-and-the-future-of-personal-injury-law-414-181195/?amp=1"
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
     quality: 44
     images:
-      - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
-        width: 1000
-        height: 580
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2018/05/autonomous2-driving-shutterstock631061396.jpg"
+        width: 616
+        height: 372
         isCached: true
   - title: "Should A Police Officer Be Able To Shoot At A Moving Vehicle, And What About The Case Of Self-Driving Cars?"
     excerpt: "As notable emphasis, that means that no matter what the circumstances might be, no police officer is to ever shoot at a moving vehicle, period, end of the story. In somewhat of a contrast, others indicate that the act can be undertaken though only rarely,"
@@ -99,6 +99,6 @@ related:
         height: 1282
         isCached: true
 
-secured: "gZbWGDLFDsZoa8uegY2ASQUWrOdJVd+GWuQj1LeAbcK1IfmNNFoylMoa/8MLRNJwbIySVZ29qvvUHZSZ2hvjH90I2GthUE5CHdBJ6gSu5O1N0eL+guhDVQDWUTLvTvlxkB/Tl+ZfC1aoxOjldYvDSeQQBTTckKz5rg5+ET50JedTjoDtcWKxKk5WgxnFxVM6HV5oKlZCmQRKzxb+lGoetR3vZylLMh6pkX3nTcoe/JK/3+v5j4DmKXUkNs3Igvs4wv3/psyebFKnLzqWQjR5VQbwmSHNzC20yc32AoRoDSXaDDnEP1suHgcpYeCWQfk643NofwDahKadom7ji8RRXyY9fn9sH1qve7iCJtiRzwJZY0hrrkgiyb/tnIctLbX3asWT3JI8bh1mArBQ/SSI578l3bYtbJ0vrtzZFWYc5vrJVTjC+1FHdX/oje5XnkETafQ3wQ7zTxbwWunymmY+6U5en25qDMmgbVsaHo6Fwv6OzdTH4h6lk4JJvG9FEKt4T1FA5Bqpe/SWBh4GwtHYiw==;yFIAJUZybJCIqKd127aoRg=="
+secured: "9J7uCbcOJwtFtvem9AECot8zAmwmo/SuKrBmHtJhH//n4TFtyEm0zTDknZHjBfEejuUlLWAXX6uVtoMI0h+7gppr7cg/ZzO/vATu0dmhU0h8oDs+jjvybf362mdAlaMBTsqM9B0ubtamblsyYFdIgya3gJtPvTatBvU5RJgTpobGyRaHcWjIB6iwb3UalYOhQNJ69ILPb1fA5Q6zqHFn4aUtDp3LoT0Klq38SAxMCGTuFvpc8vcm5xqAGW/RQ1Wn6vtdMrOzmB9LgTfL8if59OhJHWZ8No4815/O0zNwl1mh4IJUbScuYqGOFK993LHzpB3t/hXM+GyNCF/6Xw2TiQ==;JUMxgqgvsTGPNspXyzmZVw=="
 ---
 

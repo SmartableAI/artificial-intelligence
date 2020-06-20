@@ -232,31 +232,20 @@ related:
         width: 2501
         height: 1563
         isCached: true
-  - title: "Portland council again postpones discussion on facial recognition tech"
-    excerpt: "Studies have shown the technology misidentifies people of color more often than white people, and other cities have banned or restricted use of the technology."
-    publishedDateTime: 2020-06-16T01:18:00Z
-    webUrl: "https://www.pressherald.com/2020/06/15/portland-council-again-postpones-discussion-on-facial-recognition-tech/"
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 54
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 40
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Protesters Demand To Discontinue Facial Recognition Technology"
-    excerpt: "Protesters are getting behind the wheel to get their message across. Protesters sounding off Monday on the Detroit Police Department’s use of facial recognition technology. More would go toward education and rebuilding the city in a meaningful way instead of just funneling a bunch of money into policing and surveillance."
-    publishedDateTime: 2020-06-16T01:11:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/06/15/protesters-demand-to-discontinue-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
     excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
     publishedDateTime: 2020-06-16T04:38:00Z
@@ -353,20 +342,6 @@ related:
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
         width: 647
-        height: 450
-        isCached: true
-  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
-    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
-    publishedDateTime: 2020-06-17T23:47:00Z
-    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 23
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
-        width: 650
         height: 450
         isCached: true
 

@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
-excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
-publishedDateTime: 2020-06-18T22:36:00Z
-webUrl: "https://www.brecorder.com/news/1005548"
+title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
+excerpt: "Through this work, a culturally-informed, pro-social AI framework for Pakistan and the Muslim world will be proposed, says Junaid Qadir"
+publishedDateTime: 2020-06-20T18:07:00Z
+webUrl: "https://www.geo.tv/latest/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+ampWebUrl: "https://www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Business Recorder
-  domain: brecorder.com
+  name: Geo News
+  domain: www.geo.tv
 
 topics:
   - Facebook AI
   - AI
-  - AI Ethics
 
 images:
-  - url: "http://www.brecorder.com/_img/social-default.jpg"
-    width: 1200
-    height: 768
+  - url: "https://www.geo.tv/assets/uploads/updates/2020-06-20/l_294140_111332_updates.jpg"
+    width: 700
+    height: 390
     isCached: true
-    title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
 
 related:
   - title: "Pakistani man wins Facebook ‘Ethics in AI Research’ award"
@@ -90,21 +91,19 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
-    excerpt: "Through this work, a culturally-informed, pro-social AI framework for Pakistan and the Muslim world will be proposed, says Junaid Qadir"
-    publishedDateTime: 2020-06-20T18:07:00Z
-    webUrl: "https://www.geo.tv/latest/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
-    ampWebUrl: "https://www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
-    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
+  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
+    publishedDateTime: 2020-06-18T22:36:00Z
+    webUrl: "https://www.brecorder.com/news/1005548"
     type: article
     provider:
-      name: Geo News
-      domain: www.geo.tv
+      name: Business Recorder
+      domain: brecorder.com
     quality: 56
     images:
-      - url: "https://www.geo.tv/assets/uploads/updates/2020-06-20/l_294140_111332_updates.jpg"
-        width: 700
-        height: 390
+      - url: "http://www.brecorder.com/_img/social-default.jpg"
+        width: 1200
+        height: 768
         isCached: true
   - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."
@@ -137,6 +136,6 @@ related:
         height: 346
         isCached: true
 
-secured: "YzDrZbg/paQ7ehO/5ysXMaFdnNMb9OgmMg3j2gdn613Fe6pUWJJB3Fs4vqHgO1avQbMVvLOdy3Z4N+efrFduqkG/4ZArH5rUXxCWxg9uCwuYzo7pk+ebzWTdfglQ5AsWcdh+GICMrExyL/FvwLLQtQx8YVBkeiDRint0i3ykKF/QXiCzyGHLZ/oq6LMykWJes77gIfhwlsPb5VsN8oaEzvbveA/2DevhhHzM83JB5GrD1trSlv14Fh+50gVWqljcCEQZg+GJ1ogWHaDg083NYikfIPrtH7mvcDTlrwcCNQi6kenZGjUuu6c0HqVJIPBF0aFSpyFMWlLG8R9DqpPuLb/GC+beiZvDIinSC+2l6a07CWbVGO2b7uj/VHYqYGLKtexsk61E4bTS3vsis1Pjiw7R+UE6rYBjU97EHoIONhalgOQW7MCXFh08Lo307uYCV2BqSV8fpBUzgr/9TLOihPpTyqvskXmcXSerAAyyJU2UFjDRgGLVixwp1CnfUPeOxasAjIdyU7U/tIJx+I6pFA==;i3qnWKo5sUH0e42EHK2eFw=="
+secured: "V2t8YVxotQcL100C3xazuV300gtoMwrGoe36ehu2dr6J4HCpXwACqV9pYTcCLUzmbysg0Lrfs56Q/F5P44rVODqfltkp1iCrjwpN2FGLY1p20Rhpy2vsrQWRinVorAt232hxRIT6JNeNaRw4maVF3CXGQdFcv3HWJIoFdWzgVTjsFGQesLtSsY98LcHlD8HcGXEq8Poc2rclGjqGFkkrSrlvtGYW1UOP9uQSlWWHweYEqCgXK3Pb1pIHCwC9l1TgvXWxEEHE+eJk7jrfGZgggwTg/OCcTVNx3tLu98Pgt03Ze5bwemphAL644DBtqEYUqL8jcDOyXRbngUgRwnBbOw==;RyOPjF26rSdsPLwX/M0vLQ=="
 ---
 
