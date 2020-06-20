@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T11:12:00Z
 webUrl: "https://www.theengineer.co.uk/supplier-network/product/harnessing-the-power-of-ai-an-easy-start-with-lattices-sensai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     height: 450
     isCached: true
     title: "Harnessing the Power of AI: An Easy Start with Lattice’s sensAI"
-
-related:
-  - title: "Harnessing the Power of AI for Forests"
-    excerpt: "The solution of Huawei and Enbo goes beyond simple monitoring by powering the system with AI for greater speed, precision, and stability for wildfire prevention."
-    publishedDateTime: 2020-06-15T16:55:00Z
-    webUrl: "https://www.cio.com/article/3562343/harnessing-the-power-of-ai-for-forests.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/1200x800.01-100848745-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "UW0A9AjCVzHYfN0r8zaODboVeHekz22n9AEeg02IkiyWnH9K3iugRNFia1WyyDXEOE40cVw6zswSjnp2RW2dAeo70riZU+BVsgMm2+YtTsnjLoM6lHzSaid2+z0zxu4RefQycxJVV62BCx8sP71GECgcB9PbmjkskpmD2zyDxgbVhfjeo5V7s8+eUGIIP14gknpTqiKAnCUS+M/mBow9msPYU2RHG19ysZK6zWFowqH2+OtKbhhoHOA++QDZrBvqFjIQcMzxUpuI8noGgDUZZCod9+CvToCnKNgYSBSJDpfKxmBGD0qD9yg8Yax4dS/CEQ8GnUM5h6VBv2UKgft+gzVIH97343RU6NxkhVw2IiUIHWedfq9TSyz2tbCPpD3ijrLlvg6Z5JkjYMYE8npw7sa44VfgSGdMcbpEKw4miuoJoTiwsWo+RZDPdZTCWe8D6oe3AFRNkwHbH2xWgxWIbOdCiPMHueiDfx0ggt0fUXlilozU5z5ID0Wd4a+RBuTuz2s1EILACNq4lugLfMxDHw==;QafNwPw4dm1WAyiqYxXYrg=="
 ---

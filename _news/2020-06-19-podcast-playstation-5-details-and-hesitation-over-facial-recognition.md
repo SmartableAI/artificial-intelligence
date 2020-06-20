@@ -77,22 +77,6 @@ related:
         width: 980
         height: 680
         isCached: true
-  - title: "John Oliver on police use of facial recognition: 'We’re about to cross a major line'"
-    excerpt: "Tonight host tracks the chilling expansion of facial recognition technology in the US by law enforcement and the need for regulation"
-    publishedDateTime: 2020-06-15T16:20:00Z
-    webUrl: "https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
-    ampWebUrl: "https://amp.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f43db36ab0ca7add811d2687d4b666d7a215745/80_1_1573_945/master/1573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1e981861678a0558eaf64b285ef4584c"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
     excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
     publishedDateTime: 2020-06-17T13:00:00Z

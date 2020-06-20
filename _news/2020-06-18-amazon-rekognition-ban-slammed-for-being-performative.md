@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
-    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
-    publishedDateTime: 2020-06-15T16:57:00Z
-    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
-    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 58
-    images:
-      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
-        width: 854
-        height: 480
-        isCached: true
 
 secured: "d6vcnm6vI8Uyxp2YWRbZGVmumLPINsqPSVe5fzVcPFkHu5J7sLh0j1N8t8cO0f7VJ7oiAQsfKBcbFnkqr1q/10xUocgkMlN4IwQZ/ooNNZ+eikhDzrqys9+x6ofh9zTrdiRjUGckSSEw1pgCL31YU5E2Z883pk4BXufW71NTDhhf7cIE/oBNN4mpvTYeWc+IaqDcnWnLkbFqXXZ3xkH1Jhl5G1Uvs/l0MOLXVU2fIiTqbhTSEdCrtjnnLwMVVEc01BPFVyN5SyMdrwc3ahG+DOzRH18/LPCecx92z5XttakGuO66Z8sYTd+PZKkDBfKjbCMfgCdOjnh9lERYHgJ7ln5uRuP7Ddk41+K5zRyrFIaMiM/oD3jqeYGqvAcHtP8fXDSLEdgOFVn9CsoXCxur+OwO4aKIMM2c+VnKe9Mn1H5oyt49q/dX2K74QqUXXKtn9+dv4aUfXhlFJXaVKNBw1RM9566j7p5A79YGiyB8qiitz+UU9Ql22tL6gkAjnrkv0oOhSOxaIltApPiIX9ohqw==;/0oA9sPcXEl7nKuKnvf1tQ=="
 ---

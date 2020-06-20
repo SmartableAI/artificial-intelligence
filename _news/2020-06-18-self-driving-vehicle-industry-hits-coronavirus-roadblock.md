@@ -26,22 +26,6 @@ images:
     isCached: true
     title: "Self-Driving Vehicle Industry Hits Coronavirus Roadblock"
 
-related:
-  - title: "5 self-driving-car companies that are primed to survive the wave of consolidation slamming the industry"
-    excerpt: "Consolidation in the autonomous-vehicle industry will accelerate in the wake of the novel coronavirus, three industry experts told Business Insider."
-    publishedDateTime: 2020-06-15T16:35:00Z
-    webUrl: "https://www.businessinsider.com/5-companies-most-likely-survive-self-driving-car-industry-shakeout-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5ee2746e988ee34a7802ee62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "3BvPuCi9v3KcH3grSGar0u8Zbbwmf3pFRbJ0Pw/ytVQqnBzQ8BfqhWKOwvrqJ5sO99Rf9+ujm6L2PFgmu7f8ZD03IXX50yDsa2dV1LBLRnMyoAIKcqyM3xYtTqHZuDAY8mxMwa/UvivsQpohBF8OwzlQ3i4lKGiSOUYKrsoPoFz5NkjLKeQLJ24Zvd52PyNUaUp/yIOlbHL2W3huXTryz2rYeu+xwoeqTMSqH/G8C/reklD62dSERMdJYe/F0pxTw7c8RHa9DxRsVnEctKjrVsEBieaPdeKtBNRS9Nbu5YT5ZIj4y/uNfH675WbKDzT9YFkgrMaDP3DWkQWflzqMV39sBoBEGZQaaAGzKoNiJ0ubkstVWZZdmKQurt1S7SNzfc5NSxAKm4siGZEV+I/pdoBRbUphczjW+H7vULHVUL1MhkPcAqLa9g4YptMr09CYslgJX4FLf2VjlKZ21ep/TdclL4fBiViM6i4wax+/WBUk9mtDBmF+r9oFCmU52phH1FgRAHZSfYwK2IgsI15wpA==;7ZLe+mS/CbzxLqpR4Gb2yg=="
 ---
 

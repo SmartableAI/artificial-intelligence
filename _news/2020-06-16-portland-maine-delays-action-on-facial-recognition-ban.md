@@ -424,15 +424,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
-    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
-    publishedDateTime: 2020-06-15T16:59:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
 secured: "Co0/Qh8dzV6dgcaubkgLzMcfEHOfrcSFQFevK/P3tXXQb8A1wz1aev6XEBH+HfSy2dHiTOF7F0Arsp+8cXbk/m0Akbnqow0VNq2nwK6sosCI7HzQgoFhhpKRBhYftdjSH6HVyzDWdNFiZeOozhDn1VR3q7JZYABZ6waSlDGbkn8VQHyXmt8wcXdItt6cQLHFUW7ayII7NsGs2DA7pjD34v+rxHEDKufbv8D4uHKq2u/ctirgR4LyTQIO7F0R1tmMJieK0wibAJqgvLwB4fdPBhsQQ6BHLCgc8xu6rMnICYoPZQNT+rkZoWqAX5MsKArcBmCKqC9uwsEUoCp3BGl9StVOSVAQYbcU5FHiZXwsMhXsqU7Brw/epXZN3Buhxl9NS9tXz9L/uJ9ZrH9cwhxntqbqNrnTk5/lMZZnj9RR8MerY+MLGoT1JH3ParfxXPEXY6JTcGqYdRFdG1E70Px4BllQKYSvvQCC//Hvg9KRAbxHH64g8Zvyjaqi1W4d9NUw3P9aqc6FQhq68m1X4VsCuw==;EsuhdzJJFCnNfYWToUc8og=="
 ---

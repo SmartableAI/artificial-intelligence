@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
-    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
-    publishedDateTime: 2020-06-15T16:57:00Z
-    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
-    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 58
-    images:
-      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
-        width: 854
-        height: 480
-        isCached: true
   - title: "Amazon Rekognition ban slammed for being ‘performative’"
     excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
     publishedDateTime: 2020-06-18T04:02:00Z

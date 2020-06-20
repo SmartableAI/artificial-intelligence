@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
 type: article
 quality: 105
-heat: 385
+heat: 375
 published: true
 
 provider:
@@ -429,15 +429,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Tech companies’ facial recognition bans unlikely to affect federal agencies"
-    excerpt: "While several tech giants have promised to stop selling facial recognition to police, most federal agencies that conduct law enforcement have missions that are broader than just that — likely excluding them from any bans."
-    publishedDateTime: 2020-06-15T16:59:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-law-enforcement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
 secured: "50ESbazZlFcyeHTO0Mf9kPc9caE0XZgBJQxes6fq4ow0mE+p8tv10AlDoQ/+ajm9V85mVcTGuqVze1eeXz4Xblf3HVWNylqnLWSTH54KPjtbOWTjuaaEye3HTyttglZ67ypqflAMEC0vCLmk0whfoLRyjOvUPM/C4abNzc0qEx5oFhU7kHnb17n7En4p4X4YX8GWTgE2P/pFg1u4KMSiRLgj1Rfk7CKaQPPyvNG+QOvfjmTYIT9w+Zi0B9F6e6TQzqpxreFL1EWo6kNSjgvvsD9zQX7lwX9k+aTyj+Ot7M/6KqFlPBKknvGRoHduCGkOxBIrMrhtAyBHRGkt8dSz85xA/jxSow8voOKQW0EIKL+dNej1OoPwEPsYmNP2gCPXtjkd4kSsr+Ra3GIYnMqOMdriMpEkN9bM1OkLf14y5vy4q2mFZt16tZwCDT9DPxmOOEhofCB5FJIVGJfbYmeSMG/sZ1qn6aySlHRc+YlSw5SVhn+uqEcMj3d7bkI0pb4kmrzzcurxxb67WBkK13tfeQ==;UbxfgPpjSYvJ9bkS9P2rDg=="
 ---

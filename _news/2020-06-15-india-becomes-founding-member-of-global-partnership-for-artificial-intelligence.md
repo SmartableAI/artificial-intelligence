@@ -42,17 +42,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "India joins global alliance GPAI to support human-centric development and use of artificial intelligence"
-    excerpt: "The Global Partnership on Artificial Intelligence (GPAI) has been founded to ensure responsible and human-centric development and use of AI"
-    publishedDateTime: 2020-06-15T15:23:00Z
-    webUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 37
 
 secured: "gni6pXjfckQ84XDqCS/oxbg9F28A8F6j3ITTz1x9Wbq6TVH3ZYRpFc2OicSt+BFb8ufCNvBttVi+5oBgfKklvYlKF2xsBccbL7FXrO3Pm9TCV6bBtrFk8uqMO+Xc3zi/JxeivvBMMv8Fxr/wzmKYPu6OiUAtv+wt3NQPlvcHEiFF3HOB/X3Hmi2nXYcRs/4tn5SZR36Jz6sCjb3SGTxTD79ELbCOSq5HGaA6wcchAN8LfQbi8pC4VvlDKhlDQRhxc0mgAUXuakghMGjZnW+MW9b9kYu6UAGvP/1Gez+e8Ql1l+6pxJXp9VYg+t3taQsU46PSF32qFlGRo7t5bPM87A==;hkuILXLGf0I8tRYkX4AJ2A=="
 ---

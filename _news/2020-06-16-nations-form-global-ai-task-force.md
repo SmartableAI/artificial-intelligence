@@ -8,8 +8,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nations-f
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nations-form-global-ai-task-force/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mobile World Live
@@ -42,17 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "India joins global alliance GPAI to support human-centric development and use of artificial intelligence"
-    excerpt: "The Global Partnership on Artificial Intelligence (GPAI) has been founded to ensure responsible and human-centric development and use of AI"
-    publishedDateTime: 2020-06-15T15:23:00Z
-    webUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/india-joins-global-alliance-gpai-support-human-centric-development-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 37
 
 secured: "jY4MUxX4jT1FYYjRMa6zf3Z2Vjc6V8cJJQj4LHp5yj2SWhVbe9t7EckjH6E6Y2OoEUmGxZinxq20Cl1ap2KP37pY6e8oc2tiSFKrCW/UvmtIAFaFENA9ATxdh8VMp/zEYC/lb3YwFVhvc5x+Kd9TWowIf5mVuAl8r/7M4eOv5OC6JEVoIWGGQ6JD8ZhSamm2fZA/VC4aL1XZBFpT+71Xud0BUGn1bGKLqLwXdDMDidGxExJJBRX9H/WvXpgGVrRPXAygrHDjHm3jv0Ur/4NPCPYFBlBfiRx/NYB691zdd0W3hDUaJke8dJXDmuM0tFHpccaVpTAaQKduij8llFJKQQ==;+eKqYv4ByhcREbEM68K7Sg=="
 ---
