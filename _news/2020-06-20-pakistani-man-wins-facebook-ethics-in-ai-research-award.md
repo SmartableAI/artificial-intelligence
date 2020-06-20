@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://dailytimes.com.pk/assets/uploads/2020/06/20/Pakistani-scholars-win-Facebook-Ethics-in-AI-Research-award.png"
@@ -120,6 +121,6 @@ related:
         height: 346
         isCached: true
 
-secured: "lyRHUDSS0ciDWEMURWJMdWXPUxU9NuC8ePwOtWU5sQzDASNGCZjPtZw5ZS+rpsFiW8KuY5EXmLFcDSssSCTt0NJOphr87VfjT6/qKo9Xd8obmZyEuJm2Y01TyD+pODLH8CYlvV9juhCaOdP9kvPiAmJfs7EDFQynjWYUB5auaLZu1edJ+I+wfPUMGHO2yXLuV9VY2Slb9IfJbhdYDsvtoWqKvh4zirrhftlvy83c+XCnSS1udQFWsSJ22cNFCzx8IYQcdnUFhAvu83HbZn9cChzOzbwcLUgdiom2u+Gyz+8tOKeiijxBUsviDmT4LzXp/VxQuq07ctnY+ClnDqWMdg==;PsWqnCvtHMpvWZZp8Qbfkw=="
+secured: "9erYI+eEPCoHmn24zofFkTNR4egSeJr6VYTFKXWZwuVvn092kPFTA6EtKtd4VrTaJc0oF8varVVsms2cdSE5cD2ZjYdtve37KMNqTN+X2VHoF6+bOqbxAVeyAqX6b5/GRH9GcpVKp/Avky/L/ZO4ke1aOflr40afXTU6P2TJoEi6+mvg1iEigGEDPl73RNYNO2rGNyQGC7Yk0hdfTMxnenqbkEBXJ4ZZQ3wKoghhRmoH4gFcnNWBWsoEKat2JZTtygdvYMjO93bP/3sfnI9AE3v3AhwtUT+5kuzeBc93OaBYLn9Dj+yQG4lEy5cNn5Fi5r1ZXShcTAOXEBRCdQLzc2ecc2kj4N16PgUkfGp+UYrFmP7pIN2Bh6e58GM9pg1WcWsDtPmMZpbeFJdWzH2iK1fVB3a27lCzq0V0oQRGDtX/NMxb2+A4nW5M1VNEXKmHjS92ncg6TNTEzQkJ500xNC3Ke3HZayGfIX2qO4q+FAsQ96mP3LtTM3zs1fSZcT7Q6z0ZcY7fAdcNkF5oFJwpCA==;C23HjUsi+INO3Ctv+PKtbg=="
 ---
 

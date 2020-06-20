@@ -8,7 +8,7 @@ ampWebUrl: "https://appleinsider.com/articles/20/06/16/apple-car-self-driving-sy
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/16/apple-car-self-driving-system-could-tell-iphones-in-the-car-what-it-is-about-to-do/amp/"
 type: article
 quality: 38
-heat: 38
+heat: 48
 published: false
 
 provider:

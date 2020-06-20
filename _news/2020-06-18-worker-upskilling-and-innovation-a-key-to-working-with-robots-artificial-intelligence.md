@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T05:21:00Z
 webUrl: "https://www.itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
 type: article
 quality: 46
-heat: 46
+heat: 56
 published: false
 
 provider:

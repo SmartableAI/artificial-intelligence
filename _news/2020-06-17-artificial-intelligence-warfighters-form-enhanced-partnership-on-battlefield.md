@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T16:12:00Z
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2222999/artificial-intelligence-warfighters-form-enhanced-partnership-on-battlefield/"
 type: article
 quality: 36
-heat: 36
+heat: 46
 published: false
 
 provider:

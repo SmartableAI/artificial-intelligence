@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T09:37:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-system-market-how-covid-19-affect-market-growth-size-share-application-and-type-forecast-2029-2020-06-17"
 type: article
 quality: 36
-heat: 36
+heat: 46
 published: false
 
 provider:

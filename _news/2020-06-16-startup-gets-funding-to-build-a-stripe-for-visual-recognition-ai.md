@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T09:05:00Z
 webUrl: "https://www.techinasia.com/gaze-gets-seed-money"
 type: article
 quality: 47
-heat: 47
+heat: 57
 published: false
 
 provider:
