@@ -59,14 +59,17 @@ related:
   - title: "YouTuber Breeds Fake Nirvana Song With Artificial Intelligence"
     excerpt: "YouTuber Funk Turkey has made a new fake Nirvana song using A.I. programming. It’s Turkey’s latest endeavor following a flurry of other mock tracks mimicking the likes of AC/DC, Metallica and Nickelback,"
     publishedDateTime: 2020-06-19T04:25:00Z
-    webUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info"
-    ampWebUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
+    webUrl: "https://hypebeast.com/?post=5054836"
     type: article
     provider:
       name: Hypebeast
       domain: hypebeast.com
     quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fyoutuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "5fkBuNaE35/zdkHJxO6Syty6JyBcZEopq//cohkOj2OvApozyHY1xIllNMWOOmVG0QMS291glkwjBdT8ShyRGz8B0H+9qTqct6VZlnMuj/NsyxW8YIucz84PXnh148kfvjcRVsKjYpiX0XCCL5C4y+qeIT6P7u4HPogrcip5y5f5Oo1Rqb6my8dz0SFOnhq2YxQnqUMQK4W/nOq5grodi3OFHkpaTvWB/r22iQhTMWtimeYMFa4h5MCtsH42bCfW56ZZ9efLOUnS/GERHj+DAQdQvgx29BEel5Sqh/3umqu6+yvtcDRwg8Kb2qklAILVBe0bXotntiGwlGD9S8gGJQ==;Wm1SaXCKssWwKwbUUfJHXQ=="
 ---

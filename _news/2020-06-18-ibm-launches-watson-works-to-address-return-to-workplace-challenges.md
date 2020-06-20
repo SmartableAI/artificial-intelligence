@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "IBM launches Watson Works to help businesses return to the office safely"
+    excerpt: "IBM today launched Watson Works, a curated set of products and services to help businesses return to the office. The solution embeds Watson’s artificial intelligence (AI) models and applications to help organizations prioritize human health, productivity ..."
+    publishedDateTime: 2020-06-19T21:08:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 58
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2020/06/GettyImages-1225366188-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
     excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19."
     publishedDateTime: 2020-06-18T16:14:00Z

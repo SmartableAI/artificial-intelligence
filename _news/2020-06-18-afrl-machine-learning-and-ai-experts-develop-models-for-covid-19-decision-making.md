@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-06-afrl-machine-ai-experts-covid
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-afrl-machine-ai-experts-covid-.amp"
 type: article
 quality: 49
-heat: 69
+heat: 49
 published: false
 
 provider:

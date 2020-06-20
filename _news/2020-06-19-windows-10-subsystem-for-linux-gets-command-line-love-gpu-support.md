@@ -6,7 +6,8 @@ publishedDateTime: 2020-06-19T20:14:00Z
 webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-10-subsystem-for-linux-gets-command-line-love-gpu-support/"
 type: article
 quality: 41
-heat: 41
+heat: -1
+published: false
 
 provider:
   name: Bleeping Computer
@@ -24,6 +25,63 @@ images:
     isCached: true
     title: "Windows 10 Subsystem for Linux gets command line love, GPU support"
 
-secured: "ZX0B2bk5cwwhTVj1AJtVSVdhHJqmPrI6TmAk/I+xzjJECwMqGKhDovn5nGAjniKDF/Sj0rvEaDGrElFygbjcW06rxCivnj3kCdKZErzq1DflSohMlOKEToZ5cvUstYkswZ5pO2fbfGnJ/LaVlfSvN+gcfOm+lGUEPxJ+Z20j1vLSdsG4Uw5IEGNXlm2TOpZ46TNCrcBms+69Ku1Fs4BUOtG1pRLb+iZ7z8oZvowXxp/Um3wYJguW7rB1/Svt+kDsVmjJJBSXuUN1yrXDWLfWKQQD7rOG4B4uxaviwNEfpILyGMDwFGv7N+8Q9vbUuK4FZinxZCLkH4SzrtaJwrIVSA==;5a15jn6vCiaR2lWsVFCKvA=="
+related:
+  - title: "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview"
+    excerpt: "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA."
+    publishedDateTime: 2020-06-17T19:44:00Z
+    webUrl: "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html"
+    ampWebUrl: "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 85
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "Windows 10 Linux subsystem: You get GPU acceleration – with Intel, AMD, Nvidia drivers"
+    excerpt: "Microsoft sees Nvidia's CUDA platform as important for enhancing machine-learning training on WSL and the pair have launched a preview of CUDA for WSL 2, which includes support for key machine-learning tools like Facebook's PyTorch and Google's TensorFlow"
+    publishedDateTime: 2020-06-18T12:27:00Z
+    webUrl: "https://www.zdnet.com/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
+  - title: "Microsoft releases the first Windows 10 21H1 preview build"
+    excerpt: "While this release is mostly bug fixes, Microsoft is rolling out some new features for the Windows Subsystem for Linux that allow you to configure it from the command line and use Linux applications that use a GPU, such as TensorFlow. Microsoft is also ..."
+    publishedDateTime: 2020-06-17T18:04:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-first-windows-10-21h1-preview-build/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 24
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2019/03/06/windows-insider-preview-var.jpg"
+        width: 1280
+        height: 450
+        isCached: true
+  - title: "Windows 10 OS Subsystem For Linux Gets NVIDIA CUDA GPU Accelerated Compute With Easier Install Process"
+    excerpt: "After integrating Linux into the Windows 10 OS ecosystem earlier this year, NVIDIA has now showcased how its CUDA Cores will help the Windows Subsystem"
+    publishedDateTime: 2020-06-18T10:48:00Z
+    webUrl: "https://appuals.com/windows-10-os-linux-nvidia-cuda-gpu-accelerated/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 23
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/08/images-4.jpeg"
+        width: 482
+        height: 305
+        isCached: true
+
+secured: "n/orSjrEMHGvjgBBc67VqhPlEpXLUQyXbAOKJvYEmgY57e7uj9N22eWmPQYZ6U5NLrGhvh7nx3P41PUoP6rDpad7DIzpYexu8QsK3fLGATuZY9eK+VOQdSVzkpD9eHy7yBoLW6baWyGkTAfSsfFHVESOTKIbCPuwLve4QEnIZOX498gkzu/bfp31cfGRjUVl9Jrhodm75gbnYxmoLc4cZkxyGwrecrpQpUpG14+lCF+DySvyl1feUaC5o0AdhoJGN9duxA0ftvNLa9mnRgibLPaU9o1AVrVOfNh7Ap/Vg3fzSXEkaYg8mQ5fh0zSi75+RVFZSWNqTGKfn9Yhm/24f+8q6Us8UnBrE7rAniwaliBuHO93vP8yfpXHT2SRm2+GMsDO2IDRSyQMSqczg01JtrXlgLsw9G5pkGyyJKiJmb+Zxw6MaM6vC/8/+O4CwofOCpwkriJ23bX/r5FLJCuCG6vxEgxXNzyU4cZQitwxYLlQGsMpzwLd4UVaP4YX1/vasIaYZqPsn1FOmEjYUsy7mA==;8O4RgNOOOBOemTGeEyFccg=="
 ---
 

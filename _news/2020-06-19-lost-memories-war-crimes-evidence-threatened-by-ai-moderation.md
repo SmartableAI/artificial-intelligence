@@ -8,8 +8,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23Q2TO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q2TO"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -22,6 +22,19 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "FEATURE-'Lost memories': War crimes evidence threatened by AI moderation"
+    excerpt: "Erroneous takedowns threaten content like videos that are used as formal evidence of rights violations by international bodies such as the International Criminal Court and the United Nations, said Dia Kayyali of digital rights group Witness."
+    publishedDateTime: 2020-06-19T16:09:00Z
+    webUrl: "https://www.reuters.com/article/global-socialmedia-rights/feature-lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSL8N2DT3AU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DT3AU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DT3AU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 68
 
 secured: "WbLKbzlyDgTWugtnhVxZjWZPffTfzwLyrxcQ+IEhble4Orahfx0z6IKZFOLsd8vT1j5rX4vDfSLCUKgktpCpJGD9TaEf4+fRokliKAu9s9V0bHsgjZOn/Anef/g77tO9TOKbtDciS+VLcyyQMi6CnvrRv+PjKmqIWZqCx3dkQ7hbB790reENcDEGApgFk4WiPTXS9VIHnbD7Te3rOVvbi3b7CmiJd+2AAGkpVZxvFpKs3CkyD5uXBw4iQ63d4L1uiD8Yq40TYGNu+dzmqcBAH6zwc9AKLiqQSkFR1NwyORcqZr6I4oJNLblx0SFP6+TDmMIf9qo/9F7xJDbrAGE2FQ==;k9ksmyrQAWIn2OWmQhsuuA=="
 ---

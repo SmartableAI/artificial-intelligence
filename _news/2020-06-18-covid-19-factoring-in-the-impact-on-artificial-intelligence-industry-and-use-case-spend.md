@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T04:46:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-factoring-in-the-impact-on-artificial-intelligence-industry-and-use-case-spend-1029319952"
 type: article
 quality: 38
-heat: 48
+heat: 38
 published: false
 
 provider:

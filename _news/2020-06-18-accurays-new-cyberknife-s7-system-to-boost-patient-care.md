@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T14:28:00Z
 webUrl: "https://www.nasdaq.com/articles/accurays-new-cyberknife-s7-system-to-boost-patient-care-2020-06-18"
 type: article
 quality: 34
-heat: 44
+heat: 34
 published: false
 
 provider:

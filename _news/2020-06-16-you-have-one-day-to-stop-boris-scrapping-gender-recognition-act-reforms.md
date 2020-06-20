@@ -8,7 +8,7 @@ ampWebUrl: "https://metro.co.uk/2020/06/16/have-one-day-stop-boris-scrapping-ref
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/06/16/have-one-day-stop-boris-scrapping-reforms-gender-recognition-act-12862584/amp/"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

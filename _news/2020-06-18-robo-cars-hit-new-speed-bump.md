@@ -69,6 +69,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
+    excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle"
+    publishedDateTime: 2020-06-19T20:35:00Z
+    webUrl: "https://japantoday.com/category/tech/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "uKJxGIFMk5h0f1O7aai4B5GwXLXQZhdjtzzZ86E72OeZY0vpRTg7W113a81RoWS8ByKr9ztW84urx8B4l2a0iCaGoX3lxSUS6RIQqxljawHHTLCQrxYb6qT7V0Tm+n4L8336LaRg4oLZ/1TC+ZIMNF1wwHvyB/hGMNdtgU/trviy2BRQSIUcaj58jcbsmsI8J7Ek+wQ6Cyn7IG04PSWrE8CAOGHy6dkbaTwPFSncswCfGj8dLI8iMi94p6kiz1Dq89NPY1jB3dql+hcomae1sKzlPkF98P5Yt5uE+tYOpWcZ2AUay6yUtakLOzp2Nbf1d2TpUIYi7LqgOYVaaOg8Fw==;aW/V8HmqB2YiSvWZwomdRA=="
 ---

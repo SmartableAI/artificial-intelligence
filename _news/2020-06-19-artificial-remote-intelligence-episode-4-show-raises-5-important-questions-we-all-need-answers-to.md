@@ -8,7 +8,7 @@ ampWebUrl: "https://meaww.com/amp/artifical-remote-intelligence-episode-4-five-q
 cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artifical-remote-intelligence-episode-4-five-questions-twitch-lilith-sophie-matt-lin-sebastian-ruby"
 type: article
 quality: 42
-heat: 52
+heat: 42
 published: false
 
 provider:

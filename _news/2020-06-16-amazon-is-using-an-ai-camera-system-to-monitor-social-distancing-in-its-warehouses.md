@@ -156,6 +156,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Week That Wasn't in COVID-19: Bald Men at Risk, ACE2 Drug, Amazon 'Distance Assistant'"
+    excerpt: "This week in COVID-19 news, researchers suggested that baldness is a sign of higher risk for severe disease, a biotech company is trialing a therapy inspired by the virus' effect on ACE2 receptors, and Amazon debuted a novel method to encourage safe social distancing."
+    publishedDateTime: 2020-06-19T23:02:00Z
+    webUrl: "https://www.medscape.com/viewarticle/932667"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 0
 
 secured: "+x9IqI75hHUjeT5GFjlLTwP1QakUl6h5T01WYGFNivIca9JxaP/i8OwghBzAnOW+iyuaPqKUQJC8h9rH2eHWfcVVPDEUJR+lRmG7jeBIgQyd7a8JnfodxSasoRyV6p8MWjjaieOOhTcs8Iwfrz/ylhtLNUkteOfwfOOntacGdxPY35JSv/w/ILs0xqj0DD4lGrkJcycDIMdhqHV8xV4V3tpRhMnIXh0LQruvi1Gup2QuCph3JLwrZseXIPY1limgFr9L4/2aM12TwXzPQHtkXtmJ20ReXBywSRfJHTAIqRRPTTZj9zGZUBCQ5/ucOHu+oBY5fS/jqPiaHtF4vgSIB3StJAh3oUzO7S/tJPHlrUbx45cVBX60EGyv5ctU1uIeB/QW2wces47pp7lHo9/sUmI8kBMDg+ebf3K4RwWiSqvQsJix3JGyJKa3+E2reG7uoq/1X1t5hgEojh79zcx5w9N5LNnO1+AAmNeG4wiayKryUE0FjxjdV/+J3U/ANFKgQ2bRzCnEa2isW3h62NS0OA==;MdQ4YJtKyvHGatgT/A9L2g=="
 ---

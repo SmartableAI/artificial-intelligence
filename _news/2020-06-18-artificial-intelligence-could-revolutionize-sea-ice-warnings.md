@@ -23,6 +23,19 @@ images:
     isCached: true
     title: "Artificial intelligence could revolutionize sea ice warnings"
 
+related:
+  - title: "Artificial intelligence could revolutionize sea ice warnings"
+    excerpt: "Today, large resources are used to provide vessels in the polar seas with warnings about the spread of sea ice. Artificial intelligence may make these warnings cheaper, faster, and available for everyone."
+    publishedDateTime: 2020-06-19T22:28:00Z
+    webUrl: "https://phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.html"
+    ampWebUrl: "https://phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-artificial-intelligence-revolutionize-sea-ice.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
+
 secured: "q7llkS6G0DAz40+Ke55pJBJKWKllmNYOmkriricw19h/1O0UhTwVb2eRa2ziVaixmQXwPFVnOcGNxzA7NScPavOvpIKDMeA3DhLCXB0ZRj/GttXG0mnMb9vtjrFG3lYE3LooPZ8JUUI55IwW1Frs1kcHJ4A00e7ruP4E30kZcOigecttnlJfXElEae0dLeZMAKU2uMf5/4pGf4m4H70bDEmWvenoC+A8md+MEEvMZET8Sto9+HlKnOuZ8JAP5zM8ipKFEWpRsVC9Unqb3GMmr0C98B5J+ZG7pjEi6oR993QNXCuQXlFcgu2fRE+/6IYLbmo2xh08bwCR+ADVNum6bIIJTf/Mh0KeGDZUegDNdcgrE1podH8vGxmgfHs9STdfHEI7AWHpvs4nJbCqmLCs9kDPqPCGVjij8i7Bik11UbPfqOBHHMetPyIJrUDSs5uLyJW7xR21pXc4/X3pL004TI4mUDpQwHTVrLiqiLNLUkH+SEf/kUn+gLSTUhUfxrzDDutujn9WeiX9lfPCuicwrw==;5mkLHueMljdj/pHb9FKXhw=="
 ---
 

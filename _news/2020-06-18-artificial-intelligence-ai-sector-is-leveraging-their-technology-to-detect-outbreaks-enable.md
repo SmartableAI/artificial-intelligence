@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T20:12:00Z
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-sector-is-leveraging-their-technology-to-detect-outbreaks-enable-effective-contact-tracing-and-identify-existing-drugs-to-treat-covid-19-301079494.html"
 type: article
 quality: 40
-heat: 50
+heat: 40
 published: false
 
 provider:

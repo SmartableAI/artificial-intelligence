@@ -8,7 +8,7 @@ ampWebUrl: "https://altdriver.com/news/ap-autonomous-vehicles-coronavirus/amp/"
 cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-autonomous-vehicles-coronavirus/amp/"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

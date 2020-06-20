@@ -8,7 +8,7 @@ ampWebUrl: "https://news.sky.com/story/amp/twitter-introduces-voice-tweets-for-a
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/twitter-introduces-voice-tweets-for-audio-messaging-12009457"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

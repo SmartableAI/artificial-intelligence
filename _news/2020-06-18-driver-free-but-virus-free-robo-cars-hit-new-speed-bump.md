@@ -8,7 +8,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-robo-car-firms-hit-71306049"
 type: article
 quality: 44
-heat: 74
+heat: 44
 published: false
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
+    excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle"
+    publishedDateTime: 2020-06-19T20:35:00Z
+    webUrl: "https://japantoday.com/category/tech/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "yk3AedgS7rKcpQEH+drgtolRN2OLu68pOXSOh3DFVrYQYZ0tSSM3nzoGFsMq1dGkU+pEAQT+rKRgftGi7BIStILz9FSQqyQ6c2DWTVSEXvqtVVw0p9eFBPQWB68PK6clragUqqGUc5Q1gaK37F/U4ys4dV7aBkZF5lmqnhTprl2WOH8WMtSDPQU2vNhMuH6l2ZNapIjm/wxjLs/exnHfHsbaa7810xvoo5R3lY+6Y4pWPu67dX4wpS0XMIiqqmA8Vn2iF01pXt5N/Y22kx/oAzdl2+6d7OHExDXhy65wublxmS5BTfZ/7B4t/Jz4Aa4yPojW0fhg/AIdr1+QnoMex3O/KVegnv+CHAKxRsyh1lYiMtlHAVmFWzMr7JrN6UEOrd1E7Os5qqCnooc8v6baVb1mn6/QwwdHpJlV6BHky8uwz2I07npfixLOq0OiHcMfl9FGlYZx4/MrGjcUS/9H7DxpYm1dIJumqeZjJd2Dy/7w5OPSi2L0Lq+h85+4ZQ+GxOz4RNV4ckxtl++WA1Zg7Q==;Z5mr5t93ao79sI83QZF+uA=="
 ---

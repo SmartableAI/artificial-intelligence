@@ -91,6 +91,20 @@ related:
         width: 810
         height: 460
         isCached: true
+  - title: "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave"
+    excerpt: "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,"
+    publishedDateTime: 2020-06-19T01:33:00Z
+    webUrl: "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
   - title: "Why Qualcomm Will Be Big in Robotics, the Next IT Wave"
     excerpt: "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,"
     publishedDateTime: 2020-06-19T01:45:00Z

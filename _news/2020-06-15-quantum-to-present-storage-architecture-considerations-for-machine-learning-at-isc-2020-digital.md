@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T20:15:00Z
 webUrl: "https://www.prnewswire.com/news-releases/quantum-to-present-storage-architecture-considerations-for-machine-learning-at-isc-2020-digital-301077126.html"
 type: article
 quality: 27
-heat: 37
+heat: 27
 published: false
 
 provider:

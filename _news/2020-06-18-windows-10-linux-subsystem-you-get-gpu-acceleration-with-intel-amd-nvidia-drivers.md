@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Windows 10 Subsystem for Linux gets command line love, GPU support"
+    excerpt: "Running TensorFlow in WSL In Windows 10 Insider build 20150, Microsoft is now previewing these features, and programs like TensorFlow can be used with your GPU in WSL. \"This update will include support for NVIDIA CUDA, which will help enable professionals ..."
+    publishedDateTime: 2020-06-19T20:14:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-10-subsystem-for-linux-gets-command-line-love-gpu-support/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 41
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2019/02/18/Windows_WSL.jpg"
+        width: 1280
+        height: 450
+        isCached: true
   - title: "Microsoft releases the first Windows 10 21H1 preview build"
     excerpt: "While this release is mostly bug fixes, Microsoft is rolling out some new features for the Windows Subsystem for Linux that allow you to configure it from the command line and use Linux applications that use a GPU, such as TensorFlow. Microsoft is also ..."
     publishedDateTime: 2020-06-17T18:04:00Z

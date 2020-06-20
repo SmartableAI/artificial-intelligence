@@ -3,9 +3,9 @@ category: news
 title: "Foiling fraud with machine learning"
 excerpt: "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes."
 publishedDateTime: 2020-06-16T10:05:00Z
-webUrl: "https://www.techradar.com/in/news/foiling-fraud-with-machine-learning"
-ampWebUrl: "https://www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning"
+webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
+ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
 type: article
 quality: 74
 heat: 74
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Foiling fraud with machine learning"
 
-secured: "3uYYbMvUhYEveZX0iW71q34JZQMDSBpIb35AhWtsEm21cR9vjosCZ/scmMTs0VoXKC00fSQmlxSFrw/E7fFzP6LdWaPSWwWACO/K/wo8qiEqjJzwyt+gmHOHQHkGhd4k2k9EoXm6KiM4FYLMNdowL0ksoIYuVkvnb2IzNIBV7ENq+piAhepQDwGPNnOCM2cPl910K4SFDGQnqDIkGipYS65EvKTqqqlUp+7R3zku6TUUjPAlsrawTGAQCdw5Qljqss3OZmqGPB0mg1UzA8m9mN/r9sH7A44w8aUfQu81sfP/lwPkr6/77L65TnOg2YSNkZeVWPh0+oh8TLk0+CTgzRoPvi1BhHMMPl3P4g6XIE8gJ7nTo+wV+d5yYgKNwpZ3gAy2VA6GDHw8X5UvVzF2P47GfMPvCegCB5gfqXcIgskU2n8tqukrlNbjcasygvqA6VaHbYEHpTY1jWfUVQmQ8Ubb5o07Zsxr8m+pr5+sLPRj2tMfW6erhuA/PbH7arFt8QZRf0Sz03H3U8BfNUrugw==;FjzKjesWtPflLx33VmHSQQ=="
+secured: "sTClVR/xjyiAuWU0garwKvR7KttuT+AEx/fqHIguL5ZUMMhhpno3AeM45N7+zukjn5QjoLxstKgoyXPUkoQ5Ova8uDQq4zMTNxnOvmPUyrReOwaP9GFbzNMFbFbSBNX4SPSmRlIQvovFEK3Xr8Z2kwf7AjP9XFD4egg7XQolJDDoQSu3J9rMTBBjqAkv4K7ql4tun2idcm3KxGNkmNwMkbq5GvIf6MQ8kEaFPF+jJZH9kiGvDJP0tjba4o74ZsYszipzUSnPfbk1sfQqfkTDnoS5Bagxy4p93Vmqr+n9hh8ChiOfpVFf5mY7AOzpzvBkzUyDD8NdGoZCe5LuAabw1Q==;YdEoCZI2VpYelmVgO5H2gg=="
 ---
 

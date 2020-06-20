@@ -45,14 +45,17 @@ related:
   - title: "YouTuber Breeds Fake Nirvana Song With Artificial Intelligence"
     excerpt: "YouTuber Funk Turkey has made a new fake Nirvana song using A.I. programming. It’s Turkey’s latest endeavor following a flurry of other mock tracks mimicking the likes of AC/DC, Metallica and Nickelback,"
     publishedDateTime: 2020-06-19T04:25:00Z
-    webUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info"
-    ampWebUrl: "https://hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/6/youtuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info?amp=1"
+    webUrl: "https://hypebeast.com/?post=5054836"
     type: article
     provider:
       name: Hypebeast
       domain: hypebeast.com
     quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fyoutuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "This YouTuber Used Artificial Intelligence To Make A Fake Nirvana Song, Smother"
     excerpt: "Once armed with the lyrics to the song, the YouTuber performed, mixed and mastered the music and vocals “in my kitchen, on a sparkly red cheap Stratocaster, a crappy mic, and an old copy of ProTools”."
     publishedDateTime: 2020-06-17T15:51:00Z

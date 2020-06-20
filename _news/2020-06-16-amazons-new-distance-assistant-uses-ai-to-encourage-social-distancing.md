@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Week That Wasn't in COVID-19: Bald Men at Risk, ACE2 Drug, Amazon 'Distance Assistant'"
+    excerpt: "This week in COVID-19 news, researchers suggested that baldness is a sign of higher risk for severe disease, a biotech company is trialing a therapy inspired by the virus' effect on ACE2 receptors, and Amazon debuted a novel method to encourage safe social distancing."
+    publishedDateTime: 2020-06-19T23:02:00Z
+    webUrl: "https://www.medscape.com/viewarticle/932667"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 0
 
 secured: "aX/eh5AycaUZ/7B27Ghh4O1miE/xPI0hYguGpZ6BO1tO/k80Cv3yoEAGhbo255rXhNb3mSW6Lb4RjMWDsfZ5t2qRnrfPQIPzSZxrHzoYrt6Ei/1JhPxbQF2RYAIbkoTldD3yardmgCIR/Kn+1pbW4c9VF/L7Ee226tJ9MeYl4SgTTC1td0JWtPhqAZ4FpQR/RUaQ3Kto2ngL5vUL1NbiqktlaA0fet+83UYnprBAnxL7dkxImZxxLWWYgyzExAu9aAbf81YTcHhZ1KkhU3Ec6ab0zsfDV2ZTt6xlWBAfKgMQoDppkUToxQeLoXX5vGbXPDPIC2heaRUuz1KQbhjv6dGDwebxkhGF2HzmEMGyFi9pty0msiPHYJDerRsop2MgJMYBfgMjpbWLxjROEcSlHpi0qiTKwE10veVYmCoihdr/1i137tYvfCi0aY7d9g13575svm+p05B42Qo61yNOZr7WhjjpnZ5Vs9H7bbj9HyjWSxQVOVilii+V4pFDwede;JiUKMUpYSGuhVMop32Dz6Q=="
 ---

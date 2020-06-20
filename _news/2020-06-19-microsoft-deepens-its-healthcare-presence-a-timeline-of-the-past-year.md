@@ -7,6 +7,7 @@ webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Becker's Hospital Review

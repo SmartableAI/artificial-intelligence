@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T23:21:00Z
 webUrl: "https://www.therecord.com/news/waterloo-region/2020/06/16/canada-joins-international-partnership-to-promote-responsible-ai.html"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:
