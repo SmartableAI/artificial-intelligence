@@ -29,6 +29,20 @@ images:
     title: "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027"
 
 related:
+  - title: "Four challenges and opportunities for AI and robotics"
+    excerpt: "Omron has highlighted four key artificial intelligence (AI) trends that it is seeing in robotics and industrial automation: 1. Valuable machine data generated"
+    publishedDateTime: 2020-06-19T16:22:00Z
+    webUrl: "https://www.controleng.com/articles/ai-and-robotics-the-challenges-and-the-opportunities/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTLx_WEB_IMG_CollabobotSlider-1.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
     excerpt: "Artificial Intelligence of Things (AIoT) market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence of Things (AIoT) market will be able to gain the upper hand as they use the report as a powerful resource."
     publishedDateTime: 2020-06-15T22:07:00Z
@@ -71,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and robotics: the challenges and the opportunities"
-    excerpt: "Artificial intelligence (AI) has been the subject of considerable hype for several years, but is industry now ready to move to the next stage and focus on how it can be sustainably implemented on the factory floor in robotics and industrial automation applications?"
-    publishedDateTime: 2020-06-15T17:34:00Z
-    webUrl: "https://www.controlengeurope.com/article/179098/AI-and-robotics--the-challenges-and-the-opportunities.aspx"
-    type: article
-    provider:
-      name: IML Group
-      domain: controlengeurope.com
-    quality: 49
   - title: "Mobile Robotics Market Boosting the Growth Worldwide: Market Dynamics And Trends, Efficiencies Forecast 2025 | IRobot, Amazon, Google, Geckosystems"
     excerpt: "Latest released the research study on Global Mobile Robotics Market, offers a detailed overview of the factors influencing the global business scope. Mobile Robotics Market research report shows the latest market insights,"
     publishedDateTime: 2020-06-17T07:36:00Z

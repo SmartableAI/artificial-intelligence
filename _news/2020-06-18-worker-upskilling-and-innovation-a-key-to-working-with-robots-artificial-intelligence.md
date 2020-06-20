@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T05:21:00Z
 webUrl: "https://www.itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     title: "Worker upskilling and innovation a key to working with robots, artificial intelligence"
 
 related:
+  - title: "Across the world several robotics startups are merging to drive significant innovations."
+    excerpt: "Robotics is one of the most interesting technologies in the history of mankind. Robots are becoming an integral part of our lives. Owing to this fact, a number of robotics startups are emerging across the world to drive innovation through AI capabilities."
+    publishedDateTime: 2020-06-20T11:57:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-robotics-startups-look-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Robotics.png"
+        width: 1761
+        height: 1106
+        isCached: true
   - title: "Don't fear the robots: Helping future workers learn how to innovate"
     excerpt: "\"While there is some fear that robots and artificial intelligence may replace some occupations, workers will remain relevant in a fast-changing career landscape if they are innovative, able to ..."
     publishedDateTime: 2020-06-18T12:25:00Z

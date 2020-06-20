@@ -47,38 +47,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "U.S. Official Log Announced On Status Of Self-Driving Car Testing, Some Media Already Misreporting It, Expect More"
-    excerpt: "The U.S. federally chartered automotive safety agency NHTSA (National Highway Traffic Safety Administration) has announced today a new online log that will be used to indicate the ongoing status of nationwide Autonomous Vehicles (AVs) public roadway efforts,"
-    publishedDateTime: 2020-06-15T19:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/15/us-official-log-announced-on-status-of-self-driving-car-testing-some-media-already-misreporting-it-expect-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146418043%2F0x0.jpg%3FcropX1%3D667%26cropX2%3D5422%26cropY1%3D0%26cropY2%3D3173"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Self-Driving Ships are the Latest Push Towards Automation"
-    excerpt: "Technological progress such as artificial intelligence and IoT have accelerated the development of automation in various sectors, most notably in manufacturing and transportation. Much attention has been paid to the development of self-driving cars as a means to increase roadway safety,"
-    publishedDateTime: 2020-06-15T20:20:00Z
-    webUrl: "https://www.engineering.com/IOT/ArticleID/20392/Self-Driving-Ships-are-the-Latest-Push-Towards-Automation.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20392.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20392.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 44
-    images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/93_1.jpg"
-        width: 640
-        height: 302
-        isCached: true
   - title: "Michigan, Fiat Chrysler join federal self-driving car initiative"
     excerpt: "Safety advocates criticized the U.S. Department of Transportation for sticking with an voluntary approach to autonomous vehicle regulation"
     publishedDateTime: 2020-06-16T00:32:00Z
@@ -170,20 +138,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/234949_web.jpg"
         width: 720
         height: 812
-        isCached: true
-  - title: "Where Are All the Self-Driving Cars?"
-    excerpt: "Recently, journalists explored the disconnect between the envisioned future and the current state of development in the autonomous vehicle world."
-    publishedDateTime: 2020-06-15T17:31:00Z
-    webUrl: "https://www.fenderbender.com/articles/15180-where-are-the-self-driving-cars"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 24
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/waymo-test.jpg?height=635&t=1592252093&width=1200"
-        width: 777
-        height: 518
         isCached: true
   - title: "South Korea to spend 160 billion won on developing self-driving ships"
     excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."

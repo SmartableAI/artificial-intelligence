@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-an
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     height: 417
     isCached: true
     title: "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids"
-
-related:
-  - title: "As Long as the Justice System Is Broken, Facial Recognition Software Is, Too"
-    excerpt: "IBM, Amazon, and Microsoft will no longer sell the software to law enforcement—but that doesn’t erase the underlying issue."
-    publishedDateTime: 2020-06-15T18:32:00Z
-    webUrl: "https://www.gq.com/story/facial-recognition-blm"
-    ampWebUrl: "https://www.gq.com/story/facial-recognition-blm/amp"
-    cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/facial-recognition-blm/amp"
-    type: article
-    provider:
-      name: GQ
-      domain: gq.com
-    quality: 56
-    images:
-      - url: "https://media.gq.com/photos/5ee3d986260a22606ba25ce0/master/pass/gq%20june%202020%20IBM%20Amazon%20to%20Stop%20Using%20Facial%20Recognition%20Here&apos;s%20Why%20It%20Matters.jpg"
-        width: 3381
-        height: 2550
-        isCached: true
 
 secured: "CDiOZvdQupD5UvQL9idjTmtPyD4elCQ5N80H0TXltznqSxpelTmDwGMXYpGmEMPJ8vHJFsaRJb5VXocnZi1HZxpKkg5ISOFAgAA6WCXLkA/jfHwgmfOWByDsb6XxLi0H/YUjmZZHwg5141ch7pjj3Tg4gmUTcXVPLayw+wweF4tPX7l+UHzt8LUy6rzhQqjuxrmXMjYOp2oe+x+/6g3xEEnNux8AGqZGixHY2zQAvBQvZD6rIsQlsnOWE897fp3t/A7ZqKRzsVLKJW3X1n5mrJblOVsbwM6b8p358FSDe1kRVabXO8S/3svR0LST0pT0daUWC+zPdJK5kAnqERk56RTgE9anz/lWLR3P8uF3b7W6ra5Dh36yWAxNHD3FsmFzs5KAVDcAXuS9njg581JUCh9M2gBtxY4Ar8oyHQ0JJkRmsyLjq5X/MWS18lXDtu/KKQH/R1vAgJCGEVKBude/4CUyMqunAA9ZYkZSCtLRfBkbp19U0ytnG2QBwpCPOQaav45H5EwTy2AIe8uPxQ9J4w==;IRTOq5x6lGTmFCTgTKxaMw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T15:13:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uok-cai061720.php"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

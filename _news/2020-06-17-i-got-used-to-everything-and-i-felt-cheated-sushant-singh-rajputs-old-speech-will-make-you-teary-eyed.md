@@ -8,7 +8,7 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/i-got-used-to-everything-and-i-fe
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/i-got-used-to-everything-and-i-felt-cheated-sushant-singh-rajputs-old-speech-will-make-you-teary-eyed/22843273"
 type: article
 quality: 26
-heat: 46
+heat: 26
 published: false
 
 provider:

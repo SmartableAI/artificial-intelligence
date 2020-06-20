@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
+    excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
+    publishedDateTime: 2020-06-20T11:53:00Z
+    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/"
+    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
+    type: article
+    provider:
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 20
+    images:
+      - url: "https://scitechdaily.com/images/Artist-Concept-AI-Molecules.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "dbxfv3/maA2rdx20HsBKQg3QyM47T0gB2lebbGPSiY7y5GTVwNds1CM+UmywxUOvJOFM+De/sMXXKZsN38COe7Pyu13McSULR+bwNny0FECmD0CcygNfufWn08IlZytmlyGBjr8SfNeS9a956zit3AqSDS4I+8p2oDhyTomxkN158dpUvDJ4VC4x/0lk9G9QLL6wPVoJOHGWGphH48SrtUBQwPcwppdp9kU8CliUB2/Gyo64IqQVMpxHtptTg5+h2UKLpAUWub7SwqXnJFM+1rx4lISQeYBmjU0P/YZ1GeDo866AojJm8ovcX5Uzx01RO5n6xvARDFswDMZ/iGK2YQ==;QAuaFQpn9c4XAOvqbsmK3g=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft announces strategic partnership with SAS"
-    excerpt: "The new collaboration will aim to integrate Microsoft Azure more closely with SAS' AI and Analytics. Cloud-based industry solutions will also be developed as part of the team-up to service customers."
-    publishedDateTime: 2020-06-15T18:04:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-strategic-partnership-with-sas"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 89
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592241362_microsoft_sas_logos_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "SAS, Microsoft partner to further shape future of analytics and AI"
     excerpt: "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives."
     publishedDateTime: 2020-06-18T09:34:00Z

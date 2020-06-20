@@ -7,9 +7,9 @@ webUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-
 ampWebUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 76
+heat: 136
+published: true
 
 provider:
   name: Daily Times

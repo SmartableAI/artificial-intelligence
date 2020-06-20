@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T12:20:00Z
 webUrl: "https://www.crn.com/news/security/5-new-machine-learning-capabilities-from-palo-alto-networks"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

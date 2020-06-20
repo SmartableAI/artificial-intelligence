@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200615/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200615/Artificial-intelligence-helps-reduce-communication-gap-for-nonverbal-people.aspx"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
     title: "Artificial intelligence helps reduce 'communication gap' for nonverbal people"
-
-related:
-  - title: "AI reduces 'communication gap' for nonverbal people by as much as half"
-    excerpt: "Researchers have used artificial intelligence to reduce the 'communication gap' for nonverbal people with motor disabilities who rely on computers to converse with others."
-    publishedDateTime: 2020-06-15T17:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/06/200615115729.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "/D4i//UH7ApDIiZrvnIaNBbU2nyoH8H2X//R8ULO5doBbVFAMnopiCpqiVUbmY9jcFz7ESUI1MrKuHoi6YUmzzCjWlEm1wozuSa7AUbF0jrtRfGH7plmSzkpD5jgas3bU/QK4IY2Q1sh0IwkEiyLxBp8Yo940+oLjRZdcHggIIHknJnhBIJveKbFXCg1Lhyuf3BdWaAsOUE9qTTgUz49DXb/jU39YbxHp2yLupBqFt9pRENz58dvr7vnlQhy46b6qJ5b4pBBb6ebOSnt3KGw4co6hvOePD8bDHTB+DV+jPcLHuMJZqUjnD5MgevFYGtTSrIib4wkxzVWpB7v2+Jf1g==;hx8vCWZbqMWzFgfRTvENbA=="
 ---

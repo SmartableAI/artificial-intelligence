@@ -8,7 +8,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-robo-car-firms-hit-71306049"
 type: article
 quality: 44
-heat: 84
+heat: 44
 published: false
 
 provider:

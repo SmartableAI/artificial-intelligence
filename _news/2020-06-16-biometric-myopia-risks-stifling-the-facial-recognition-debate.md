@@ -117,6 +117,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
+    excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
+    publishedDateTime: 2020-06-19T15:05:00Z
+    webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
+    type: article
+    provider:
+      name: Morning Consult
+      domain: morningconsult.com
+    quality: 41
+    images:
+      - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
+        width: 2560
+        height: 1705
+        isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
     publishedDateTime: 2020-06-16T15:30:00Z

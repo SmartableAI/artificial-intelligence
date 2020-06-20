@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T03:11:00Z
 webUrl: "https://www.lifescienceleader.com/doc/the-expanding-role-of-artificial-intelligence-in-clinical-research-0001"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

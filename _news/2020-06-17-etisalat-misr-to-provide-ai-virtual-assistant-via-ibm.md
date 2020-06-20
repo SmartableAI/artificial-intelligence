@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T17:29:00Z
 webUrl: "https://www.zawya.com/mena/en/business/story/Etisalat_Misr_to_provide_AI_virtual_assistant_via_IBM-SNG_177203248/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

@@ -29,20 +29,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 49
-  - title: "Machine-learning tools find targets old drugs can exploit against COVID-19"
-    excerpt: "Researchers from UAB’s Precision Medicine Institute have used AI to identify hundreds of potential treatments, which are now being tested through the COVID-19 research fund that the institute helped launch."
-    publishedDateTime: 2020-06-15T17:42:00Z
-    webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/9150-machine-learning-tools-find-targets-old-drugs-can-exploit-against-covid-19"
-    type: article
-    provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 37
-    images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/68aa0227ce1aaa38c452ab4eaf17093d_XL.jpg?t=20200615_173153"
-        width: 900
-        height: 676
-        isCached: true
 
 secured: "Qm2o2ioTljOM/KV8XsrX8ywskcGACSYKO+qEVBC7u0XcIWr04qEcRkuWUlVMvABw6Cw0lUl1TaCl19IhhEyrqmclTnF53TOZFHJzioScwB9UpPcqBVVdFbfMdMOxkOURYYpfB4BvO3TTmqv87nityukD/SGbxHRSrORYch/JplSJ0ePY7ZKr/nOM4q183U3LQb8nu5h60WvcJVkMj68/HYUU51n4RgF2F8GuXtUqFNXQ/UIA3gao3RWN459qjkx0IFwDr3uGSGiYEloe+qHscTS5HSOqQBsmPnbhKwIwl7DiEV0QlFD9qph9+uDhXisT3dB8m3nS8WM21Z0JdUjt2A==;3xW/tw8MtzP+NvVE7yRV3Q=="
 ---

@@ -7,7 +7,7 @@ webUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/
 ampWebUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
 type: article
-quality: 59
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.dailydot.com/wp-content/uploads/2020/06/microsoft-store.jpg"
@@ -171,22 +172,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "U.S. protests fuel calls for ban on racially biased facial recognition tools"
-    excerpt: "Law enforcement agencies should be banned from using racially biased surveillance technology that fuels discrimination and injustice, digital and human rights groups said on Thursday, amid protests over police brutality against black Americans."
-    publishedDateTime: 2020-06-15T17:23:00Z
-    webUrl: "https://in.reuters.com/article/usa-protests-tech-idINL8N2DH1ZL"
-    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
-    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N2DH1ZL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft tried to sell facial recognition technology to the DEA, emails show"
     excerpt: "Microsoft repeatedly marketed its facial recognition technology to the Drug Enforcement Administration (DEA), according to emails released by the American Civil Liberties Union Wednesday."
     publishedDateTime: 2020-06-17T18:00:00Z
@@ -218,20 +203,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203551%2F0x0.jpg"
         width: 1200
         height: 747
-        isCached: true
-  - title: "IBM, Amazon, and Microsoft halt sale of facial recognition tech to US law enforcement"
-    excerpt: "Amazon hopes Congress will put a regulatory structure in place for the technology."
-    publishedDateTime: 2020-06-15T20:23:00Z
-    webUrl: "https://www.zdnet.com/video/amazon-puts-one-year-moratorium-on-rekognition-facial-recognition-technology-for-police-use/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/15/2842b2f6-c3b0-4fdd-885c-f1e8cb08b327/thumbnail/770x578/50aa2c845215ba215117a5354dc61ccc/amazon-puts-oneyear-moratorium-on-rekogn-5ee38ca9ec931b64287ec9ef-1-jun-15-2020-16-03-59-poster.jpg"
-        width: 770
-        height: 578
         isCached: true
   - title: "PwC readies facial recognition to monitor traders at home"
     excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
@@ -274,22 +245,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "Facial recognition deal off council agenda as protesters prepare to march on officials"
-    excerpt: "Contract off agenda as protesters prepare to march on councilmembers Check out this story on Freep.com:  An agenda item extending a facial recognition contract was taken off a Detroit City Council agenda before protesters who oppose the technology prepared to march on councilmembers' homes."
-    publishedDateTime: 2020-06-15T17:41:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
-    ampWebUrl: "https://amp.freep.com/amp/3191887001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/13/PDTF/dce3e240-6727-4524-926c-0278c196abf6-protests01.JPG?auto=webp&crop=2293,1290,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The End of Facial Recognition -- for Now"
     excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
     publishedDateTime: 2020-06-15T22:36:00Z

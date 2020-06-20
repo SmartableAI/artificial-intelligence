@@ -8,7 +8,7 @@ ampWebUrl: "https://scitechdaily.com/engineers-put-tens-of-thousands-of-artifici
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-put-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip-for-portable-ai-devices/amp/"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

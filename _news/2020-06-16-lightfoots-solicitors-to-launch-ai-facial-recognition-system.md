@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T09:25:00Z
 webUrl: "https://www.mortgageintroducer.com/lightfoots-solicitors-to-launch-ai-facial-recognition-system/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:
