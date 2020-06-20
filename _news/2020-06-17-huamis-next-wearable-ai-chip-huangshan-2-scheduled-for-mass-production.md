@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables"
-    excerpt: "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor."
-    publishedDateTime: 2020-06-15T09:40:00Z
-    webUrl: "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg"
-        width: 286
-        height: 215
-        isCached: true
   - title: "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2"
     excerpt: "Huami Technology held the first Huami Technology AI Innovation Conference in Hefei, China. At the event, it released the second generation of self-developed RISC-V"
     publishedDateTime: 2020-06-15T13:18:00Z

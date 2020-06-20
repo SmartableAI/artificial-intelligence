@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Driver free but virus free? Robo cars hit new speed bump"
-excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver."
-publishedDateTime: 2020-06-17T21:54:00Z
-webUrl: "https://wtop.com/consumer-news/2020/06/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/"
-ampWebUrl: "https://wtop.com/consumer-news/2020/06/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/"
-cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/consumer-news/2020/06/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/"
+excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"
+publishedDateTime: 2020-06-17T22:41:00Z
+webUrl: "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wtop.com/wp-content/uploads/2020/06/Virus_Outbreak-Autonomous_Vehicles_14913-1024x682.jpg"
-    width: 1024
-    height: 682
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/16/916c2697-a99b-5f3f-a2be-5c9beefaab28/5eea79f6e9a01.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
     title: "Driver free but virus free? Robo cars hit new speed bump"
 
@@ -81,6 +79,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "MP3yGbplFEw2b+WqABon2XLxLxK79bZO/fIb8yJxLYY47eMtp0M3VjnoAjNOREIPqxoP/xU1uTcHh9ZZpsWgwZ054p6SqB6/dN4dfTXPf8c6DKC3UCrh4+rgMgh0JAlXi3cLcofAzOUfumdriBlHE92raRibzYxzC03NGIaHv4qQ/E5vwtfMUlwczlSKEYZKTuGP6Wrrqa1Y1TaDxenBIhdAdIV+epWGphXMFSmEuCEg0hHP5WGhQezA+pw/POmgq77prVMcGZ9p8AtUWx2z3NVG6mhtVAH9lnJQhHyF+AyMBktaSxyOZoFxogSLZNJCkMAYzEB5l3thbhvZuNbmUg==;u41kq41WN38flOq15KFVog=="
+secured: "eMiABWk/RW+xhY+hpV5AazuuX/2KABgdxYQjSy1UhYY4mUdgXdPhBimKPGgdLlY4X/SNsnI7bDt1YFhMp7L53WIGswXr0t2fU580WDJSff65EZGEts741rznV2J+bEHXlOnkghxP3taK4VG3aLVrH5LQLHz5t7wHVsQcoq5EEqOsZ5ME+MX8Y8GJ6vIRDK8P6WAHLALufybeUA+uKDwq0dLowdlDq9cTEkyePdwCsIb7Yyskn85XAL4uzqba3PzyKG6jwe894vVZI5rk4NWS44TEldeGQNbyaXY3eip3r9zFV1Nw+HS38fKmN1OfW05DO549nXnIbD7Jc8NWDyhmaQ==;cB8b3L72AAgq8LrxA1r3FA=="
 ---
 

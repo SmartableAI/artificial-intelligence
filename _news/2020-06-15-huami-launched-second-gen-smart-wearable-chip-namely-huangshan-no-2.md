@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: GizChina
@@ -27,20 +27,6 @@ images:
     title: "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2"
 
 related:
-  - title: "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables"
-    excerpt: "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor."
-    publishedDateTime: 2020-06-15T09:40:00Z
-    webUrl: "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg"
-        width: 286
-        height: 215
-        isCached: true
   - title: "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production"
     excerpt: "Father of Multimedia Computing Appointed as Chief Technical Advisor of Huami AI Research Institute, Announced on Huami's 1st Innovation Conference \"AI to Decode Future\""
     publishedDateTime: 2020-06-17T13:52:00Z

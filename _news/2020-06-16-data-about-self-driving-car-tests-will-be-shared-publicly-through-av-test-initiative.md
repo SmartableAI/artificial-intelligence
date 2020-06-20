@@ -225,15 +225,6 @@ related:
         width: 747
         height: 498
         isCached: true
-  - title: "DOT looks to raise self-driving awareness"
-    excerpt: "The shift toward a self-driving future may take a leap forward this week as the U.S. Department of Transportation launches the Automated Vehicle Transparency and Engagement for Safe Testing Initiative"
-    publishedDateTime: 2020-06-15T09:40:00Z
-    webUrl: "https://seekingalpha.com/news/3582864-dot-looks-to-raise-self-driving-awareness"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "FCA, Toyota Among Automakers to Share Some Self-Driving Testing Information"
     excerpt: "Related: Which Cars Have Self-Driving Features for 2020? Companies participating are Fiat Chrysler Automobiles, Toyota, Uber, GM’s Cruise, Alphabet Inc.’s Waymo and a handful of other AV-focused firms: Beep, Local Motors, Nayva and Nuro. States ..."
     publishedDateTime: 2020-06-16T14:47:00Z

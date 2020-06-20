@@ -27,23 +27,23 @@ images:
     title: "Robots tackle lawn care"
 
 related:
-  - title: "Mowing made easy: Robots tackle lawn care"
-    excerpt: "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular."
-    publishedDateTime: 2020-06-19T14:14:00Z
-    webUrl: "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/"
-    ampWebUrl: "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/"
-    cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/"
+  - title: "Mowing Made Easy: Robots Tackle Lawn Care"
+    excerpt: "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated"
+    publishedDateTime: 2020-06-19T13:33:00Z
+    webUrl: "https://www.myhighplains.com/news/business/mowing-made-easy-robots-tackle-lawn-care/"
+    ampWebUrl: "https://www.myhighplains.com/news/business/mowing-made-easy-robots-tackle-lawn-care/amp/"
+    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/business/mowing-made-easy-robots-tackle-lawn-care/amp/"
     type: article
     provider:
-      name: WDTN
-      domain: wdtn.com
+      name: myhighplains.com
+      domain: myhighplains.com
     quality: 59
     images:
-      - url: "https://www.wdtn.com/wp-content/uploads/sites/45/2020/06/NC_mowers0619_700x394.jpg?w=700&h=394&crop=1&resize=1280,720"
+      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/06/NC_mowers0619_1920x1080.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
         isCached: true
 
-secured: "L5AgpZ4ZG7phISF8jVNERKvVPACajkaKdUxEg6Ah4FA1a8A/1p2mkV743Bq8zKAgrPUPANVOaI/ilwJExtMEIM/MBrkRIwkyHrealjv3+a4isgG9rwkfTiAeWF8nr35KxgMsCu6dKZAQwbAnVFP9d7QHbG56ZwmIyHaIDMdDRY8M1SwHBqdOhSuzIfHwzc4fA7ozTzW9npru2sgYOOLiMrHjXtEIKayUg4WPNeggNyWwotBtZCTWEZ5up0DsGsRUOKWe9R2tSlWQJKlAXQOzgM9x8ABznYfEkuudts4RKAzeUbR4kt9o7CFDP/2yYocXSgPpFp+ZNRBdQYiX0Ncgew==;Hk7LkpDAQv98bKCqD8gE/g=="
+secured: "PS3Q4Gb8XmU4wd4N7LWFZrGx7Y3dhIAEwv0OiFlF2q/GhLw7HkLqEGIQAeqPzd3PyvEEss4tkuiTSRs+XAu3ooOQWMyQhmoU+38a+rQ5OEG44ca7FyujNWP39GIWeGa6k9Tl+ydLeJ+CnB7aEsoX4/nL/LvOxCHRdJKR5utOULym1gKlUiPe18nXTwSf2K5pW2qNA361IvLPCnkXwYmnVytkJmwdk1xUm0YD/ofcziXX0t98TYsqPy4cqVk0P1FuJsNO64gUVN5+YcsWUtqfgU1vD1T8C2aGVIjKv7Qiy13Ik6kEXCuZ2EfthUa9ibiQAyEyX9vnRnHcm/kIR4qu6eWKq0EeUbnF4Q1zc6OaBtVLWTzOpXw5qR22vP1+DdsT7FGZOzyrDysneY5SDWdWe6/0w/6n2ZrZNFhv5NUgl/Me299iwvaYlCkIDKKUggqNTIrX7S7sleb+nbTRyJJAgoZ7NbRxco5Zg6/ZRH48mMnSAPP723nTZrSiv8ac4KWUAI+rbuiJF9mrZHj9ATUjnQ==;A9u+F0NVm1Y8RjwreggzLQ=="
 ---
 

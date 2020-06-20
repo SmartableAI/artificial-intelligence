@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-s
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -215,15 +215,6 @@ related:
         width: 747
         height: 498
         isCached: true
-  - title: "DOT looks to raise self-driving awareness"
-    excerpt: "The shift toward a self-driving future may take a leap forward this week as the U.S. Department of Transportation launches the Automated Vehicle Transparency and Engagement for Safe Testing Initiative"
-    publishedDateTime: 2020-06-15T09:40:00Z
-    webUrl: "https://seekingalpha.com/news/3582864-dot-looks-to-raise-self-driving-awareness"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
     excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
     publishedDateTime: 2020-06-16T16:05:00Z
