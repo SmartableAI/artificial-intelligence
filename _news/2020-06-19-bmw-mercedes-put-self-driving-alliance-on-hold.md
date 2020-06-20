@@ -1,9 +1,9 @@
 ---
 category: news
 title: "BMW, Mercedes put self-driving alliance on hold"
-excerpt: "Daimler on Friday said it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-publishedDateTime: 2020-06-19T13:07:00Z
-webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-put-self-driving-alliance-hold"
+excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
+publishedDateTime: 2020-06-19T12:54:00Z
+webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "BMW and Mercedes shelve shared self-driving tech plan"
+    excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
+    publishedDateTime: 2020-06-19T15:23:00Z
+    webUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/"
+    ampWebUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/mercedes-benz-autonomous-car-prototype-1.jpg"
+        width: 1593
+        height: 996
+        isCached: true
   - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
     excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
     publishedDateTime: 2020-06-19T19:04:00Z
@@ -82,6 +98,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+  - title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
+    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
+    publishedDateTime: 2020-06-19T15:08:00Z
+    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=hp_minor_pos19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
         width: 1320
@@ -139,6 +169,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "jQOGeVHvr2cBmA34DFm3UEAICn+CjsFiclVny/6yXDtoaUuTIeco3V/ejWfU6kpaQKy1Zd0Yhxm6F/2Q4WzwL3gHOjfiEduaBhj+blD9RSdf8D3q3Ib9yv9CC/BfB009yXKwi5fvk/54lzZjCXDHVq40tkT/zwEFLebW1/nFZKNvdqSTmx40JeA1nghanaNatxXYgTY1l0MlG2eJ3bcuAG9iVNvplN5cXlluAmPTvJHJ/63TIdjgZ/5odfldZI4j1YR1It3hXUguI6/Q+8piBIhmEEKvwB2x2xFzhyjsJomyXqWR8T5fVj/aRG9sXAU0j4hRpc+ApxR5Go7qoL5W+wkRrVvVBx35dzPyvSTLJjTsKZCcR9GsJZbEUPDOVoDq6E0oTLiwc33gUE3LFxF0JW0xXKPYwZ9vpR0mVSPfUri/FuKHUbaLYKaP3r8WnZhW37F2stqiU3s4RAtk+CxYwvWuD/TurnexrAhcmmEflFXYN8DVqflCi5w2UqAjt5Yp/V3RZKcX7jrsBNpg58jkHQ==;PYxHkv1h5m0lttruMs6GLw=="
+secured: "UjGfo//+yYrNH113KF4J85jlERb5laI8Cgk3cmNF9fa7VKn+6+u4SFH/OGsOrK5h8Mqj+73ZTLAPECA8VtxzXb4dzEH/wF4nOX7TGngc0QqS8X4HeYlYyTAwrQ4efq2ShwHUKMynpTtyFDnagmU91mzmfnmJZDF5U5Ub+gougLwDdae7Q9PrmhNBkuiTJL6S7KixstOXMqr5X8h6mZ5PEoX3f3yWIiv+vk5wf2M2VAvf0SpOF7XgMQhuy4x+RDKi/9h9d1EcKCPV1C1r9GXvm2vk9C127N83TpyrUw97CyqbPqOwMkYTHT0E9a0ebaiy0dxBCNS2QGHYXOFdQfo3aA==;fW6B/l7EegB+Le0EVwZHUQ=="
 ---
 

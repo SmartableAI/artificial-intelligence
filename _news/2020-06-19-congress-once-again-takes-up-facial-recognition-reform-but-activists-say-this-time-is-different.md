@@ -87,6 +87,22 @@ related:
         width: 980
         height: 680
         isCached: true
+  - title: "New facial recognition device that takes temperature comes to Orangeburg"
+    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
+    publishedDateTime: 2020-06-20T07:25:00Z
+    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 58
+    images:
+      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
     excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
     publishedDateTime: 2020-06-17T13:00:00Z
@@ -174,6 +190,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/z6FbQdPMDQx7yhrQ6+Uc9Xc3QIQlDoPFzc9xCKJM+kR3+ioYSAGO9YfRkWDoGnl4ksnGrfyJoZzT8PpSSrYaUq4KDdB1LgMtwFbJg8532qdIFz21H+0CCNppX2w0HZxwn3AnnxlzpfyhwEU6FlrFxFlZ/NVL7oTEXiNxFnQTbesguGNFl92HENDwqEkWRf9n277DaLdT28hFyWBVfYHC0bgpU7P4eBSPd+h2zTuLykbNt3v1/guEF9BAiextLQaBYWOZE7XIGzqRWzrXoKYNc3cd//20/cOAb9CsCOSCNjJdQk4jDHT4ONdsGDUbnATa85SiEjdk067NuKeSRMXpw==;hVkiVBZ1Fgjc+6qIs8MHpA=="
+secured: "7y0PdojotGhuJnGNRvii1lD7TcgUD7p8x+/p070nWZxjME7WPEF0lxmLh6FtfuKuiVF4lCZpB+8/5uQdQIUK6NSr53Ge8EZRR8/aJoLfp6UXJ1J7OgQcarvfS7W1wkZ0i7UKpfk86NQuZWX2ojcPkHYZNI9c3zgzoC5ClnZz/TLANvswC8UkkFZZCy42QLL6uil2Z5sFB1cfF/xpbxY5BwZcVSrnMgxxsbEZJvx6LaRXtjIYp+qWv0Th24HzZzEV7sF6slvTVcku2FHwRJHg/dgCptHqT6MiwTFOiQV5sr6MKXnMS7a0Uc8Bmf106fpG6iQymdfWzMqqgBw1mt53ZRs2qrdp/liyOQt/07/qD9xBOyCYZRXiMAiiZ5zRCltbgnrA+dhkqVdswF1ab7hwdc7Oxgn8m03GIHWf5dEqZ0tM8nVQfDWj/CVScUlcOXcgSleMpMPgz3I4R5qvuHOQMSo+0HQPe2UzOBEk6qs7dfUU6RtXSYGgLYQZ/vdaCuaL7kPiW9Xu/ozjYY39enfw+g==;pYeWYPhS/x4Kg5haq9ik0g=="
 ---
 

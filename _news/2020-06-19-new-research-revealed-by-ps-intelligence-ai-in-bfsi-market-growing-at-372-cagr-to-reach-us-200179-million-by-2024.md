@@ -31,7 +31,7 @@ related:
   - title: "Global Voice recognition Market to reach USD 160.5 billion by 2027"
     excerpt: "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario."
     publishedDateTime: 2020-06-19T11:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch

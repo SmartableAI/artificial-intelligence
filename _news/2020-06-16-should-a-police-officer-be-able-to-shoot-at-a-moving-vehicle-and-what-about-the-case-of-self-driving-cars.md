@@ -70,6 +70,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
+    excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
+    publishedDateTime: 2020-06-16T16:05:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/16/data-self-driving-car-tests-shared-av-test-initiative/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 17
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/self-driving-car-tests-av-test-usa-initiative-iot-connected-autonomous.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
 
 secured: "HAMoMw/z6YMD89upMaq2arf19dHbINvfJTGY/RW2aQmTflOtXhUraEeYlFkf1/2x5JGxdtkiR6leIvCSeaqUsmYneQJE99wm+HPKadP5vq+RRYj8/VNgX+aLq1DSZZBlnNhLtzJPXRbFCPEpOkBt3d8W+uBM8TVa3VlAq5J6UeNre9kRnPKvzIjc1fCoGnqHkCv2AmgxehiLV5Aia5c9Wl6QZMWYPXRbgOkSn7dm4DVVc8z76m6/T+mH+nZ7USFGQQRV2fSkK66BCV+8LXHuIECcZIK+5x0lykKgwHjfE0miiCLu2CU/9pc9KqWZCyJTTVZ53hRsl4xricfjOI10AdLlrcCYWmSJhB/81A6I6T66ofMz1NWVWZRsZPBau9sGB6i40Xr5ccq1damN8DFna8pWu4fB02AYwsLUv9YhKcoD1FjX+/vzpG+K/Ur/jr8ID6V2gFIgQkR6A7v7cOVlkQc0LLZH5ceNgv3c0UhasF4Oc0bdcutC9AKRDn0uW0DnscVE/vC9XHfC3cOpumeH0Q==;J8OXjiBmsByq5lBsL9n8JA=="
 ---

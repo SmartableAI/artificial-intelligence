@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-09-four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business.md",
+      "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
+      "excerpt": "AI alone is not enough. Executives are already seeing that machine learning programs require real-world context to connect AI with the physical world, and that bridge is location intelligence.",
+      "webUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edfded8a1823e0006af20f5%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D1200%26cropY1%3D94%26cropY2%3D694",
+          "width": 1066,
+          "height": 601,
+          "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
+      "publishedDateTime": "2020-06-09T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says.md",
       "title": "AI software at Microsoft's MSN misidentifies mixed-race Little Mix singers, report says",
       "excerpt": "\"You might want to make sure you're using an image of the correct mixed race member of the group,\" Little Mix member Jade Thirlwall reportedly says.",
@@ -1049,44 +1095,6 @@
       "provider": {
         "name": "Local News 8",
         "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
-      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
-      "webUrl": "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.wasabisys.com/kesq.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
-          "width": 500,
-          "height": 326,
-          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
         "images": null,
         "publishers": null,
         "authors": null

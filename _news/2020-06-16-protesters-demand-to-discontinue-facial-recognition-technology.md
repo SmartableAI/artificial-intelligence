@@ -253,17 +253,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "The End of Facial Recognition -- for Now"
-    excerpt: "Law and justice issues are causing major whiplash with tech companies promotion of their facial recognition software solutions, see Microsoft Joins Rising Chorus Against Facial Recognition. Moving forward,"
-    publishedDateTime: 2020-06-15T22:36:00Z
-    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html"
-    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/the-end-of-facial-recognition--for-now.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
   - title: "Spotlight on facial recognition after IBM, Amazon and Microsoft bans"
     excerpt: "IBM was the first big tech outfit to announce it is closing down its facial recognition system amid the Black Lives Matter racial discrimination protests in the US and around the world. Since then, Amazon and Microsoft have followed suit, with all three ..."
     publishedDateTime: 2020-06-16T04:38:00Z

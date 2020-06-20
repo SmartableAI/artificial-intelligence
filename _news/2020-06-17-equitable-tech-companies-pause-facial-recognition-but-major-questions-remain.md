@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-compa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
 type: article
 quality: 100
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
         width: 980
         height: 680
+        isCached: true
+  - title: "New facial recognition device that takes temperature comes to Orangeburg"
+    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
+    publishedDateTime: 2020-06-20T07:25:00Z
+    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 58
+    images:
+      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
     excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."

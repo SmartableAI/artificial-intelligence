@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Artificial Intelligence of Things (AIoT) market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence of Things (AIoT) market will be able to gain the upper hand as they use the report as a powerful resource."
-    publishedDateTime: 2020-06-15T22:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-06-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
     excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"
     publishedDateTime: 2020-06-16T23:21:00Z
@@ -165,6 +151,6 @@ related:
       domain: openpr.com
     quality: 16
 
-secured: "9ebWz9AGClrEWEJhX//7uz72PTBreJfmfLIbi3pPnbUNo6wQD/FrKPNOAx+fEzetciHOWABKzV8JngP4euYpdcQoMxZT4Cxf2YQCsiw19qowHqeQ8P3thaG1D66CwV3Bz6Lk2Zo6jJHicxeyuxfWQJtk3Q8tXAB8Y27q+F90IrstLo+QWse0u86A7oJyYjX+U6M23+0NCuA/j8L35Gf0ncGTsHF/MLRqSVs8wWcw22W/mf5umJOSXpsEkl3gofvA64nqu7ZIMLT8dWTpp/OQGpZoPOt7Voaea+UIDgx0CpColSkOcvIB3lRK5gFC7431bQuj4wmcZwMPHUxJqboPZA==;KLR05WPlxHN3WVveGbQmRQ=="
+secured: "fYzcB1Npm9Rkgwz8VBeKBp8TN4gE9aQTiga+srRMtk0wMU6RM8qxnhN2JJF9SbBjomlxYsQQYo54t/trEG3aVmvMRapZMNQSQ5PHGqeYvn0CGG8aY2VdzkKyWnSjBnIuiLTEXxzDf+HEZBIBaPRUUA93+ep4sAF+Pdv0vY6+GPADIHwZBLyvCLAoe/rtyr37eaFyGsm91K+OvBv/NR4E2QUTbm8FnalN4D1QqzleCzaBoxlFdV20/YfCYpDyp+6+H0CM5kYyn6sETUYAflQahXwOVqcShUb9QW83Wpl8mHlY7BDEaHbMDO5BkwKTukpXFT/FRUEwiv9HJKEEDCPRr3jqyyE0XbpcGADaSPIDX5UOu4q28Yn1V6e/kNCaeszExrdXwq6th6J4IhSUzZbCAd1bBU1d0UVDRDY3xlJeH6/YPHSQFYEhsqeDKyWi1GrqlDx1GMA18GkSuJDmTDhxE+32t3jD0lyMAS16YH6R3f/BDtB2kzsKEv3WhOJ7wvrnDSo09XLmDHoONLTomuoU3g==;8U6Z+oH2t9LZxgplFdvyNw=="
 ---
 

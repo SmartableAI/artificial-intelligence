@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "BMW and Mercedes shelve shared self-driving tech plan"
+    excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
+    publishedDateTime: 2020-06-19T15:23:00Z
+    webUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/"
+    ampWebUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/mercedes-benz-autonomous-car-prototype-1.jpg"
+        width: 1593
+        height: 996
+        isCached: true
   - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
     excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
     publishedDateTime: 2020-06-19T19:04:00Z
@@ -75,6 +91,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+  - title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
+    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
+    publishedDateTime: 2020-06-19T15:08:00Z
+    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=hp_minor_pos19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
         width: 1320
@@ -109,16 +139,16 @@ related:
         height: 664
         isCached: true
   - title: "BMW, Mercedes put self-driving alliance on hold"
-    excerpt: "Daimler on Friday said it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-    publishedDateTime: 2020-06-19T13:07:00Z
-    webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-put-self-driving-alliance-hold"
+    excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
+    publishedDateTime: 2020-06-19T12:54:00Z
+    webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
         width: 800
         height: 600
         isCached: true

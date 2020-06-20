@@ -766,6 +766,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera.md",
+      "title": "Global and China Automotive Vision Industry Chain Report 2020 - Breakthroughs in Binocular Camera",
+      "excerpt": "Stock quotes by finanzen.net Dublin, June 15, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera-1029307120",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-four-business-benefits-of-ai-powered-analytics.md",
       "title": "Four business benefits of AI-powered analytics",
       "excerpt": "Thanks to AI, increasing amounts of data can become a boon to a business rather than a drain on resources or a lost opportunity. Not only does AI help with sifting through the data, but it can also automate otherwise time-consuming processes,",
@@ -1075,44 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-machine-learning-behind-google-translate.md",
-      "title": "Machine Learning Behind Google Translate",
-      "excerpt": "Google Translate was launched 10 years ago. During the initial days, Google Translate was launched with Phrase-Based Machine Translation as the key algorithm. Later, Google came up with other machine learning advancements that changed the way we look at foreign languages forever.",
-      "webUrl": "https://analyticsindiamag.com/google-translate-machine-learning/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/google-translate-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": "Machine Learning Behind Google Translate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-14T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

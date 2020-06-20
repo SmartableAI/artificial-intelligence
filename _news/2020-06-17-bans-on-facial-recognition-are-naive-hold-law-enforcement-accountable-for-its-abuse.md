@@ -89,6 +89,22 @@ related:
         width: 980
         height: 680
         isCached: true
+  - title: "New facial recognition device that takes temperature comes to Orangeburg"
+    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
+    publishedDateTime: 2020-06-20T07:25:00Z
+    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 58
+    images:
+      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Police using facial recognition software to identify protesters, civil rights advocates claim"
     excerpt: "Civil rights advocates said they believe police are using facial recognition technology to identify people protesting police brutality. And now the companies that created the technology are stepping in. They want a federal law in place that would give ..."
     publishedDateTime: 2020-06-16T23:27:00Z

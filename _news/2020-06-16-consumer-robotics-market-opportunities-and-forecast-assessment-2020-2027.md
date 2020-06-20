@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16"
 type: article
 quality: 82
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/06/CTLx_WEB_IMG_CollabobotSlider-1.jpeg"
         width: 645
         height: 350
-        isCached: true
-  - title: "Artificial Intelligence of Things (AIoT) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Artificial Intelligence of Things (AIoT) market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence of Things (AIoT) market will be able to gain the upper hand as they use the report as a powerful resource."
-    publishedDateTime: 2020-06-15T22:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-06-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
     excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"

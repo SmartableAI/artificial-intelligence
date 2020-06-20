@@ -68,6 +68,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
+  - title: "Data about self-driving car tests will be shared publicly through AV TEST initiative"
+    excerpt: "A new initiative called AV TEST (Automated Vehicle Transparency and Engagement for Safe Testing) will see data about self-driving car tests shared publicly."
+    publishedDateTime: 2020-06-16T16:05:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/16/data-self-driving-car-tests-shared-av-test-initiative/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 17
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/self-driving-car-tests-av-test-usa-initiative-iot-connected-autonomous.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
 
 secured: "XoayYYSDjwOK+iDVhCjLm44xDsWSh/V/PC6II2PbcER6mq1If3nc8b+qCKRCBLxFdwj82TKD+G5av5tDT9Yx2LVFOVEHOezs/ysX9LHE+jzkGxQnWaJIq24MPutzeCu3UTcI+LVaUv20aNv+e0zm7PTquXXIG+ddYva9wdcyWpMOyPbZ24Om6I81/gagN2NhkTNo2haxlNSAVZzTP6OTzEdPX4nd3VZkqMhOgKtVqKuRPueFIimyogmGoGSMWS2FaVY3y+uVQg3stDGLbKTEH+2Fl3OFBsfyq1LFyvAGMKZZhq4xnBNoSyhDon24vbzLORz7A4JJ8pep20I3FQxe+NZD4v6icEsW1TLAcwBSRC7xLfBT5yIUJYtNsrkjk6gB7/homVW623gYAAfKf7175jHTwo5heDgYOBH2t/8yWdaLryUY8eDK5MWfVpX5QIoFMkubdEhdnIiwz4LMohnivpxv9R+kNEawZSZ30kPKi6gR2YO8q7uiJNNTkPqeFa1EuYzADgkUnYnKEBLJJxQJlQ==;WKrB11w+s0FxS1/fvYGwdA=="
 ---
