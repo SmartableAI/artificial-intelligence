@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-anno
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Five-year agreement will support Johns Hopkins Medicine inHealth in driving new medical discoveries to improve disease management and"
+    publishedDateTime: 2020-06-18T15:05:00Z
+    webUrl: "https://www.miragenews.com/microsoft-azure-will-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 35
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "DDBjeIGVAzeeNLo1/bdOD9rqNttlclvwJT6gL17JNzwKoCcJEK8a3dNTCWb995EG/0jSpbB+3HyI1O0iSwhJDPqieCGE6wyNSFcPkoSV14rnrUU1gSPih0OPLhEFl/ZL3DZcuB0FI9M+R65ydtZOBs6zbpRAuepL/Gk52zWPJuEB7qrdKXfxslQxV4OuYNupLr4sVS9T863bawcfq/tXkgbkuU7eI4UvW+lCwFYKsEeeu9Ukq7pzewfuArs59qbdWj5NmfNjFAkAneBtA2aopn9V5fn87Qbm7HG/SYLEoBtafIicDDUXcwW8NPkeyUaY7gGflURSn5yGF89Fc2N0KR/64GSChVHpuiyA5bXwTvHLfPQL3YYm7hRskqEQeo1ptniGUUXir4Q7wIfIHj/T3iJ1LSokD/1KlTG8eHAZKyY6AmmWdMepIXkCX0UZXNKFj0fpVK3Tu6apS7oviqMYYjvuOBm8/1ZzSPg0wb1UFroIeCT7gPHcVfBlBjW9PVfs36xLDo3Axmp6L3gx0PJy4Q==;yK26ukf6XkKua0kE6DeLuA=="
 ---

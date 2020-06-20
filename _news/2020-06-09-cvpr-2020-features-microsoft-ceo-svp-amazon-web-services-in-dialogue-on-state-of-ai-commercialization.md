@@ -14,6 +14,13 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "EkGfvVULYl5mcZfOHpdNvkODLh9dx5j+/VsxsqBvd9Yqfxp3q33LZLzM86XPMhbJWTv+9ITGhhQMnYUkRukxXmeDKFnXgraom0dYE00c2FvxyqLTYqvRbcpXgfdn2f47sPkEEi7F9ueR+LGmzPbXKH/HhztDpBDPqTdiB9ybFTPGY+h6573/nv1TnW3MlaB2DWuhPAehk36l7qmbgS+6VXEdNl7NAbluYQ+IgEPG/QpgGABef7hvsMH93zsfjt4XUnnHCO1Wb16cZvK4fndr3hSbHAVAOO6iXHJU3L/7Cs93+fqKGtiulOZ4I5IHWr0+jgqgMxj4QRdL5RN0Lm64Rg==;bti61WxNVQN22+luykKxNg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
+
+secured: "InBWBRQfyCkSeYAwjLBp1B3UP7TF+Cm8P52BYW9TpKNmeFMGGEuQPTNvLM5CbjzclLnL4f0SNOzvrlv0IG8yYmwZJNk3Wtd+EHjmNvCJmQVWzVxc7rcYIJX/oIXmM79XTH3kmJ/248W7+HQNyxvWkf6ZlSks0SeS/0yna8iGPesuU1r4GK8T90DE4u1raJs8QNmtqXIfGOX9luA2dQ69v37jmKpfJu1+2fXuUVOPL/C2TASg8m8QTzOo4im7K25xQEt5tBcTzUUYFkVwN/LoqAdTyN5qsKK9GLCjusKUBzsfO5ROTafhpTFhV2qxqwCT6FmPQzzhsh6KqdZJIFYYyw==;HakXk9TxWjtTF3slyWwTpA=="
 ---
 

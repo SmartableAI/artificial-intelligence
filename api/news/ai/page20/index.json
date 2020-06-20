@@ -2,6 +2,187 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-29-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 outbreak, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "webUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gephardtdaily.com/wp-content/uploads/2020/05/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 693,
+          "height": 386,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "cdnAmpWebUrl": "https://gephardtdaily-com.cdn.ampproject.org/c/s/gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "publishedDateTime": "2020-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gephardt Daily",
+        "domain": "gephardtdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
+      "title": "Apple Grabs Machine-Learning Startup Inductiv",
+      "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
+      "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition.md",
+      "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
+      "excerpt": "The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level ...",
+      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-artificial-intelligence-in-healthcare-is-changing-the-fabric-of-the-industry.md",
+      "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+      "excerpt": "The most heavily impacted sectors include financial services, transportation, and e-commerce, but healthcare is starting to ... in the care process While the promise of artificial intelligence in healthcare is being more widely embraced among providers ...",
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-changing-industry/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/06/AI-in-healthcare.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-lets-all-vote-should-we-crowdsource-the-morality-of-driverless-cars.md",
+      "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
+      "excerpt": "If a driverless car is hurtling towards a pedestrian ... those MIT researchers took the subsequent data and created an artificial intelligence that could learn from these results and make similar ...",
+      "webUrl": "https://www.scpr.org/programs/airtalk/2017/10/19/59749/let-s-all-vote-should-we-crowdsource-the-morality/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/f95e247b712a2d44b88eab362266ac4e/174547-full.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-week-in-review-auto-security-pervasive-computing.md",
       "title": "Week In Review: Auto, Security, Pervasive Computing",
       "excerpt": "Synopsys launched quick start kits, called QuickStart Implementation Kits (QIKs), for Arm’s latest processor IP Cortex-A78 CPU, Mali-G78 GPU, and Cortex-X1 CPU. The QIKs, available today, help designers hit PPA (power, performance, and area) targets ...",
@@ -1067,221 +1248,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media.md",
-      "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-      "excerpt": "We develop machine learning and deep learning models to (i) accurately identify histopathology stains, (ii) discriminate between tissues, and (iii) differentiate disease states. Area Under ...",
-      "webUrl": "https://www.nature.com/articles/s41379-020-0540-1",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41379-020-0540-1/MediaObjects/41379_2020_540_Fig1_HTML.png",
-          "width": 685,
-          "height": 527,
-          "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-vesta-raises-125-million-to-fight-payment-fraud-with-ai.md",
-      "title": "Vesta raises $125 million to fight payment fraud with AI",
-      "excerpt": "Vesta, which provides an AI-powered platform for payment fraud detection and prevention, has raised $125 million in venture capital.",
-      "webUrl": "https://venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/EPEau_TX0AAkRoh-e1590178770479.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Vesta raises $125 million to fight payment fraud with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/amp/",
-      "publishedDateTime": "2020-05-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-how-baidus-ai-produces-news-videos-using-just-a-url.md",
-      "title": "How Baidu’s AI produces news videos using just a URL",
-      "excerpt": "AI for news production is one of the areas that has drawn contrasting opinions. On one hand, it might help media houses produce more news in a better format with minimal effort, on the other hand, it might take away the human element of journalism or take people out of jobs.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/cryptocurrency-writer-media-blockchain-bitcoin-news-journalism-trust-broken-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": "How Baidu’s AI produces news videos using just a URL",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
-      "publishedDateTime": "2020-05-28T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development.md",
-      "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-      "excerpt": "The Monetary Authority of Singapore (MAS) announced today that the first phase of the VeritasVeritas, which is a part of Singapore’s National AI Strategy, aims to provide financial institutions with a verifiable way to incorporate the FEAT (Fairness,",
-      "webUrl": "https://www.finextra.com/pressarticle/82688/monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more.md",
-      "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
-      "excerpt": "FlyTek’s sales approach goes against the grain of the current move by many merchants to take their business and sales online amid Covid-19",
-      "webUrl": "https://www.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/28/bf70959a-a0c2-11ea-8055-0ae12e466049_image_hires_171312.jpg?itok=3qxBBGTj&v=1590657202",
-          "width": 1200,
-          "height": 630,
-          "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "publishedDateTime": "2020-05-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

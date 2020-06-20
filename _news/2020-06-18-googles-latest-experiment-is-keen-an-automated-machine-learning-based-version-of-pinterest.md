@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/amp/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: TechCrunch
@@ -29,22 +29,6 @@ images:
     height: 515
     isCached: true
     title: "Google’s latest experiment is Keen, an automated, machine-learning based version of Pinterest"
-
-related:
-  - title: "Google’s New Machine Learning-Based Initiative For Accelerated Drug Discovery"
-    excerpt: "Unlike many other uses of virtual screening, the process to select the molecules to test was automated or easily automatable"
-    publishedDateTime: 2020-06-15T14:07:00Z
-    webUrl: "https://analyticsindiamag.com/drug-healthcare-deep-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/drug-discovery.png"
-        width: 745
-        height: 500
-        isCached: true
 
 secured: "ZfOQJfJz77eZLCYAMuTTitUYVJ1QLygQ+ysy6cCd1CZ2QJHbC/g3Zia3BhTCIWjekw9vcqeteyJJhOV0Yf/cQSDTUHf8K7Ay68bGplorUg+1ObXJJizD0aFiLiWrkEI2R9rwckyBIGKdtU0gNmMPG/jkB2FPtL/2u/lWELRh6DE3Qg/dUEBHGFlJ06SKKJzomgPlhy5N828IDVcFTUleWMKOpGkG4hZYn2uftD+GOYEtaAaruryFIrwEuEgZp/cfpXoRb0fcWRqSwW1VYVoqoJl4EclXauehC90zCS82/3ZUDbQKHXb7KGIfJOleHYnjkBHEQ8Ddvqm4HDCKONJVfoDX9Bmy4GtBlySr31avQEyrACddDRXPgX3bjl+oVMVqocTF4zLMV2CkXyjpdHarHEIqRnSpKwlZJzrbl0iSg/qEagQ/QPvbbxbY4tIedp4bz2FqBTATCc/gFhsYEfNPumlEO5rFsX4bc4OIOESkj6aMyFLWJe72GQ+Fgcm+YBr7scdfjJJ1wWP9d2SnnVypbQ==;5Hwz7RJzjcaADrZanLkUHA=="
 ---

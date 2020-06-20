@@ -42,6 +42,17 @@ related:
         width: 1000
         height: 502
         isCached: true
+  - title: "Google launches Keen – An AI-powered rival to Pinterest"
+    excerpt: "Google has launched a new content curating social media platform called Keen, which allows users to collect and discover ideas about topics of their choosing."
+    publishedDateTime: 2020-06-20T07:46:00Z
+    webUrl: "https://mybroadband.co.za/news/internet/356813-google-launches-keen-an-ai-powered-rival-to-pinterest.html"
+    ampWebUrl: "https://mybroadband.co.za/news/internet/356813-google-launches-keen-an-ai-powered-rival-to-pinterest.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/internet/356813-google-launches-keen-an-ai-powered-rival-to-pinterest.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
   - title: "Google unveils Pinterest rival 'Keen' that curates content using the company's machine-learning"
     excerpt: "Keen, which was quietly introduced this week, is available on the web and Android and is meant to be an alternative to the infinite scrolling associated with other types of web and social media browsing."
     publishedDateTime: 2020-06-19T16:15:00Z

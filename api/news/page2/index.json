@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-18-tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news.md",
+      "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
+      "excerpt": "The Venture City, a startup accelerator with presences in Brazil ... Elsewhere, the United Nations AI for Good Summit geared up for a webinar about indigenous knowledge and AI which featured ...",
+      "webUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/marcus-dantus-1.jpeg",
+          "width": 592,
+          "height": 370,
+          "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
+      "publishedDateTime": "2020-06-18T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse.md",
       "title": "OpenAI's commercial release of API raises serious questions about AI misuse",
       "excerpt": "The organization previously aired reservations related to potential misuse of the text-generation model. Now, the company is taking the AI commercial.",
@@ -285,7 +331,7 @@
       "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
       "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
       "webUrl": "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure",
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -553,53 +599,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-18-googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest.md",
-      "title": "Google’s latest experiment is Keen, an automated, machine-learning based version of Pinterest",
-      "excerpt": "A new project called Keen is launching today from Google’s in-house incubator for new ideas, Area 120, to help users track their interests. The app is like a modern rethinking of the Google Alerts service,",
-      "webUrl": "https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/keen-inline.png?w=1024",
-          "width": 1024,
-          "height": 515,
-          "title": "Google’s latest experiment is Keen, an automated, machine-learning based version of Pinterest",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/amp/",
-      "publishedDateTime": "2020-06-18T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
       "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
       "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
@@ -689,7 +688,7 @@
       "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
       "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
       "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -902,6 +901,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
+      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio. The new chip, memory, storage and FPGA solutions would help customers accelerate the development and use of AI and analytics workloads running in data centre,",
+      "webUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/articleshow/76447468.cms",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76447468.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/amp_articleshow/76447468.cms",
+      "publishedDateTime": "2020-06-18T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
       "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
       "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
@@ -1087,53 +1124,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
-      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "publishedDateTime": "2020-06-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

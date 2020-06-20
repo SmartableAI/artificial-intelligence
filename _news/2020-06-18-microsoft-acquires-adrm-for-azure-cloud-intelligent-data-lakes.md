@@ -25,95 +25,114 @@ images:
     title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
 
 related:
-  - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
-    excerpt: "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management."
-    publishedDateTime: 2020-06-15T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
+  - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
+    excerpt: "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'"
+    publishedDateTime: 2020-06-18T14:46:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png"
-        width: 1125
-        height: 1125
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 573
         isCached: true
-  - title: "Microsoft and SAS join forces for cloud-based analytics and AI"
-    excerpt: "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d"
-    publishedDateTime: 2020-06-16T09:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+  - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
+    excerpt: "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” notes Scott Guthrie, Microsoft EVP of Cloud and AI."
+    publishedDateTime: 2020-06-18T12:16:00Z
+    webUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/"
+    ampWebUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Microsoft announces strategic partnership with SAS"
-    excerpt: "The new collaboration will aim to integrate Microsoft Azure more closely with SAS' AI and Analytics. Cloud-based industry solutions will also be developed as part of the team-up to service customers."
-    publishedDateTime: 2020-06-15T18:04:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-strategic-partnership-with-sas"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
+      name: Htxt.Africa
+      domain: htxt.co.za
     quality: 89
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592241362_microsoft_sas_logos_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Five-year agreement will support Johns Hopkins Medicine inHealth in driving new medical discoveries to improve disease management and"
-    publishedDateTime: 2020-06-18T15:05:00Z
-    webUrl: "https://www.miragenews.com/microsoft-azure-will-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
+  - title: "Microsoft Acquires ADRM Software to Develop Data Models for Azure"
+    excerpt: "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division."
+    publishedDateTime: 2020-06-19T14:25:00Z
+    webUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 74
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg"
         width: 1024
-        height: 576
+        height: 402
         isCached: true
-  - title: "Microsoft and SAS partner to integrate analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
-    publishedDateTime: 2020-06-16T16:44:00Z
-    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
+  - title: "Microsoft buys ADRM Software to improve data model for Azure"
+    excerpt: "Microsoft bought ADRM Software, a large-scale industry data model provider to improve on its buisness tool, Microsoft Azure. Read more!"
+    publishedDateTime: 2020-06-19T06:31:00Z
+    webUrl: "https://windowsreport.com/microsoft-aquires-adrm-software/"
+    ampWebUrl: "https://windowsreport.com/microsoft-aquires-adrm-software/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-aquires-adrm-software/?amp"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-    publishedDateTime: 2020-06-16T10:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
+      name: Windows
+      domain: windowsreport.com
+    quality: 74
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Microsoft-buys-ADRM-Software-to-improve-data-model-for-Azure.jpg"
+        width: 1856
+        height: 1280
+        isCached: true
+  - title: "Microsoft acquires data modeling startup ADRM Software"
+    excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
+    publishedDateTime: 2020-06-18T15:54:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
-  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
-    publishedDateTime: 2020-06-19T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
+        width: 1024
+        height: 402
+        isCached: true
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 16
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+    excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
+    publishedDateTime: 2020-06-18T19:19:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "tVpKtZ9COb46H7a5yIC9O1mjym69VbiTnSXP23HFIltiPioctxIp56GMYCYxufWApE8goYB4+JNB5OG8yZhwpWTYiWJ4tK4PkrUys7GOkUCCM78nXbZIIlvlviYPJGDDnaLZExoeve2iMQfn/zpHNtLil1cRpVxwDlX1TfnyJ0PO7ehaI52rkFTaDzF/fnTtuOlsAO8QXXK3MmIW6lE3XAcjENCXXECFMpML9uNpWKJq2iSKL5OWSKZoWWPLu5o8rYEB5wb0vaHfRdN9UXKLinoww4pj55JaTlehcQAJpUVNHH/+lWWlppGl179P1cne0CAFJ2NVKQeYCatv3/I4tw/St8pBJcYI6TR2pobQ1TDDDuNt0SM+dUe6HYqQnGAZIoKW7FrTm0cGHidJ6gP2Qr8DEknfrDahf8uhebg67RXibuGkBiCuIGGFUse7LXE2+uDZ2/4Xp+segQ6xGuMV+4SWWm4Jskcr8EgCsVnVMKo2izNmYDzEiiUFUQh7Oe1QcezCVGyhXCDpQoZaieuh7w==;HhLZnjE+bqnaJNLm2Gi7wA=="
 ---

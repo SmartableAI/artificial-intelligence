@@ -488,6 +488,43 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-india-becomes-a-founding-member-of-global-partnership-on-artificial-intelligence.md",
+      "title": "India becomes a founding member of Global Partnership on Artificial Intelligence",
+      "excerpt": "The alliance is aimed at developing responsible use of AI which is grounded in human rights, inclusion, diversity, innovation and economic growth.",
+      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/india-founding-member-global-partnership-artificial-intelligence-54979.html",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/800990cec6d493f06778342d7b8ee847134574c5.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": "India becomes a founding member of Global Partnership on Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/54979/india-founding-member-global-partnership-artificial-intelligence",
+      "publishedDateTime": "2020-06-19T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
       "title": "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards",
       "excerpt": "... thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally ...",
@@ -764,7 +801,7 @@
       "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
       "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
       "webUrl": "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1296,54 +1333,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
-      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
-      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
-          "width": 1200,
-          "height": 675,
-          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

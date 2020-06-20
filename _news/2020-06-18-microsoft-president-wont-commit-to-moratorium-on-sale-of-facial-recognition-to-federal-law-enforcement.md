@@ -232,22 +232,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "John Oliver Calls for National Facial Recognition Policy Amid Protests"
-    excerpt: "We should really be asking ourselves how much we’re comfortable with it being used — by police, by government, by companies or indeed, by anyone,” host said"
-    publishedDateTime: 2020-06-15T11:04:00Z
-    webUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/"
-    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/john-oliver-facial-recognition-1014998/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/06/Oliver.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "PwC readies facial recognition to monitor traders at home"
     excerpt: "The tool is intended to reduce the risk of insider dealing but risks sparking a backlash over privacy concerns"
     publishedDateTime: 2020-06-16T10:24:00Z
@@ -280,17 +264,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Amazon, Microsoft & IBM Slightly Social Distancing From The $8 Billion Facial Recognition Market"
-    excerpt: "As pressure on tech companies builds in response to the killing of George Floyd by a police officer Amazon, Microsoft and IBM are marginally stepping away from their home grown facial recognition technologies."
-    publishedDateTime: 2020-06-15T13:41:00Z
-    webUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/"
-    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/06/15/amazon-microsoft--ibm-slightly-social-distancing-from-the-8-billion-facial-recognition-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
   - title: "Portland council again postpones discussion on facial recognition tech"
     excerpt: "Studies have shown the technology misidentifies people of color more often than white people, and other cities have banned or restricted use of the technology."
     publishedDateTime: 2020-06-16T01:18:00Z

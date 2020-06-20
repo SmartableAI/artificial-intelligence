@@ -5,8 +5,8 @@ excerpt: "The TensorFlow with DirectML package on native Windows works starting 
 publishedDateTime: 2020-06-18T21:58:00Z
 webUrl: "https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-tensorflow-windows"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:

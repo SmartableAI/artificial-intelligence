@@ -25,22 +25,6 @@ images:
     title: "Engineers put tens of thousands of artificial brain synapses on a single chip"
 
 related:
-  - title: "MIT Creates Artificial Brain Chips"
-    excerpt: "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group"
-    publishedDateTime: 2020-06-15T13:47:00Z
-    webUrl: "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/"
-    ampWebUrl: "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Engineers Put Tens of Thousands of Artificial Brain Synapses on a Single Chip for Portable AI Devices"
     excerpt: "MIT engineers have designed a “brain-on-a-chip,” smaller than a piece of confetti, that is made from tens of thousands of artificial brain synapses known as memristors — silicon-based components that mimic the information-transmitting synapses in the human brain."
     publishedDateTime: 2020-06-19T23:59:00Z

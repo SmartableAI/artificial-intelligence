@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "John Oliver dives into the shady uses of facial recognition"
-    excerpt: "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\""
-    publishedDateTime: 2020-06-15T11:16:00Z
-    webUrl: "https://mashable.com/video/john-oliver-facial-recognition/"
-    ampWebUrl: "https://mashable.com/video/john-oliver-facial-recognition.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp"
+  - title: "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures"
+    excerpt: "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on"
+    publishedDateTime: 2020-06-17T18:01:00Z
+    webUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/"
+    ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: GeekWire
+      domain: geekwire.com
+    quality: 81
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68="
-        width: 1200
-        height: 630
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png"
+        width: 300
+        height: 353
         isCached: true
   - title: "John Oliver Explains Why Facial Recognition Technology Is More Dangerous Than Ever"
     excerpt: "You might as well argue that you have an Eighth Amendment right to dress up rabbits like John Lennon,” Oliver said. “That Amendment does not cover what I think you think it does.” Oliver also detailed the danger that facial recognition poses to the thousands of protesters who have taken to the streets in recent weeks."
@@ -52,65 +52,51 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Detroit protesters take fight against facial recognition tech to city leaders' homes"
-    excerpt: "Project Green Light uses facial recognition technology to help police identify crime suspects. Studies show the technology is not as accurate at identifying Black faces."
-    publishedDateTime: 2020-06-16T01:58:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/15/facial-recognition-deal-off-agenda-protesters-target-councilmembers/3191887001/"
-    ampWebUrl: "https://amp.freep.com/amp/3191887001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3191887001"
+  - title: "Amazon is banning cops from using its facial recognition tech for one year"
+    excerpt: "As cities and municipalities across the country start to rethink how law enforcement should operate, companies are also beginning to reconsider their relationships with police. Just days after IBM revealed that it would stop selling and"
+    publishedDateTime: 2020-06-15T18:03:00Z
+    webUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063"
+    ampWebUrl: "https://www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/amazon-is-banning-cops-from-using-its-facial-recognition-tech-for-one-year-22976063/amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 67
+      name: Mic
+      domain: mic.com
+    quality: 42
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/94f6c4e1-8e52-454c-9844-73cfc1d65727-drivebyprotest_061520_kd774.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+      - url: "https://imgix.bustle.com/uploads/getty/2020/6/11/95df0f0c-c9dc-43c2-95d1-ab0bf43e4220-getty-1205539001.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "John Oliver Warns Against Facial Recognition's Violation of Our Privacy and Its Use by Law Enforcement"
-    excerpt: "Of course, the dystopian fear of a world consumed by facial recognition is only amped up by the thought that it’s being used to track protesters, and once Oliver brings that up we’re reminded once again how thoroughly stuck in 2020 we still are."
-    publishedDateTime: 2020-06-15T16:57:00Z
-    webUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/"
-    ampWebUrl: "https://www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-pastemagazine-com.cdn.ampproject.org/c/s/www.pastemagazine.com/comedy/john-oliver/john-oliver-facial-recognition/?amp"
+  - title: "Mr. Bezos goes to Washington? Outlook good. Plus, Amazon temporarily pulls police access to facial recognition tech."
+    excerpt: "Jeff Bezos is likely headed to Washington, and this time not to buy another house. Plus, the company says no to police using their facial recognition tech."
+    publishedDateTime: 2020-06-16T16:30:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
     type: article
     provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 58
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
     images:
-      - url: "https://cdn.pastemagazine.com/www/articles/2020/06/15/john_oliver_facial_recognition2.jpg"
-        width: 854
-        height: 480
+      - url: "https://media.bizj.us/view/img/11499206/img4764-12*600xx1956-1301-543-201.jpg"
+        width: 600
+        height: 399
         isCached: true
-  - title: "Concern over the increasing use of facial recognition in CCTV cameras"
-    excerpt: "With our lives increasingly online, we already know our every move can be tracked by our phones and apps. But the newest frontier in surveillance technology is your own face. Privacy experts are now sounding the alarm over the increasing use of facial recognition in CCTV cameras,"
-    publishedDateTime: 2020-06-17T11:11:00Z
-    webUrl: "https://www.abc.net.au/7.30/concern-over-the-increasing-use-of-facial/12366756"
+  - title: "Amazon Implements 1 Year Moratorium on Police Use of Facial Recognition Tech"
+    excerpt: "The company, however, said it will continue to let organizations such as Thorn, the International Center for Missing and Exploited Children, and Marinus Analytics to use Amazon Rekognition to help ..."
+    publishedDateTime: 2020-06-17T15:49:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/amazon-implements-1-year-moratorium-on-police-use-of-facial-recognition-tech/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 21
     images:
-      - url: "https://www.abc.net.au/cm/rimage/12366760-16x9-large.jpg"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "John Oliver Wants to ‘Burn’ Facial Recognition Technology Down – Especially Amid Black Lives Matter Protests (Video)"
-    excerpt: "John Oliver does not recognize much good coming out of the facial recognition technology boom. “The growth of facial recognition — and what it’s capable of — brings with it a host of privacy and civil liberty issues,"
-    publishedDateTime: 2020-06-15T13:51:00Z
-    webUrl: "https://www.thewrap.com/john-oliver-wants-to-burn-facial-recognition-technology-down-especially-amid-black-lives-matter-protests-video/"
-    type: article
-    provider:
-      name: TheWrap
-      domain: thewrap.com
-    quality: 16
-    images:
-      - url: "https://www.thewrap.com/wp-content/uploads/2020/06/John-Oliver-on-facial-recognition-technology.jpg"
-        width: 618
-        height: 412
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/06/AdobeStock_346105759-1024x413.jpeg"
+        width: 1024
+        height: 413
         isCached: true
 
 secured: "yhyKyRWDNS5Z+63eUSjsId6Mk9uUr7YtDk5LGgdzEf8IdwuOtvwB05LHZlEZsuFv9O8nHuCIdEzD3jvDzN6cXFPNZ/tPVMqxNQ6hq0woRvTKndWwL311zfm7voBw9vTX9MygBC7csqsBptX8mh1GWzCqO6ETtyMd/eK2F/3O42WsSXVZ8x+vF8jAUVf+SNmitiTtyJBckI7AgrRrtlI5ohBK5ghG9lgPoqWFbUq9tgjLUKZaWW4FfbpJnJpq29BlkIIA5Yvgj1yhHijTBrmohTDCe+v0hkPcS0Q1d3Q4bebTmtNjZJ9sc4N1GR+k8P5C9xfi3EkhRBx2QMQ+CuDbqnQvF4SXVbymW86+s1HMcxc0KGBnSziHPJTqmIrRiluZvmrra5KyXn0Hl6lh9N3IKySCRYcrf3GH+eTC0vlGF44/Tr9w3jBnv9OqgV2fW8S0heByDAZwiIZ00RuPTbYb3kapXMT1/YvRd4mY12kj4kH/FCnvjMEOKhTLtLFEJorzCQkRUKKCSnDm3nGR998UOg==;Bd+NKqvxYuENp3BVlfVhlw=="

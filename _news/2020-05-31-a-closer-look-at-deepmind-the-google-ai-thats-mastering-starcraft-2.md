@@ -1,15 +1,12 @@
 ---
 category: news
 title: "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2"
-excerpt: "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,"
-publishedDateTime: 2020-05-31T20:30:00Z
-webUrl: "https://www.pcgamesn.com/starcraft-2/deepmind-google"
+excerpt: "May 31, 2020 This feature was originally published in January 2019. You’d be forgiven for assuming that DeepMind’s artificial intelligence technology has already proven its chops. Back in ..."
+publishedDateTime: 2020-05-31T00:00:00Z
+webUrl: "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp"
 ampWebUrl: "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp"
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: PCGamesN
@@ -26,6 +23,6 @@ images:
     isCached: true
     title: "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2"
 
-secured: "IhavJesePYZT80kNmS3cTRY6pfFav1hMUMZTzKENy5Akl8qpmmccnmpTpW6WCIHuKwu1HbZE+MeqULPlEs4OX2BP13Jspp5lqazTz6wCsB1j2StqXeLT3I7N5OgNjyt23W6/dRpUFyTROyB7viRcU3i6fXxE6cC1LIHro2oKYjakm/M9LTDEPE3i3bIAYXlLFOOBvwgYPcvM16fN3lbK6KFCq5ZEKEG2Pqia0/ebeEYSvwZbp6LyPSVMsfAg8dN7IzXY6+S9KIAp8saeiQwYFS6PvIaFg4VOJtNzJSeazcBxwN2/tp7dISoiwFr1RIOIrMUjVtX3jb+/wxjMcKdvWz2+EV/VuOwhx1uRHp7EKewuTJchiAWKq7Yph6BwebdZPwcee+4hVJC96yQRBP1hEOmWWlKLLJYBqtGSWviScRYWj1UQcCEdEm5t6RfDF2KI0SjfOumL7JQ2p+elnBuZq0SRni663q7VKvdl0jVl+qU=;7H1wOU+oKqqI44LSynfmnA=="
+secured: "0EngTGK5T/E5nEBwWbISsWGKQxnnj5Eg0io3yWHRhzhWd3V7w4rJ3FhRiVoQmViBIM1exFW2Y/e/xqywwDFaaKc8rdy5Ct68hNMzZ7GcA9m6Yeit29JpokjP4vdAiC+6NaQSO40XuN1tRh8oM+j71dNC+TpTj3fGlv9WwrCAyaFxqqYsgIDKrU/bk5qeB8P+iCS7BCcCd/bTSHnsr/My4h0r0mEQCyQ43M6lh/1j/YAiR3xTkVYbYJy1HabrCyp/uMLHE12O3VpEmD0OK/QlX46+ObR0DH/NSG9BqanRS7aB366/eRPi/DmahBDe9hwyD0jyZkGjbRWyFmANaVnKVg==;ZG/AB4afzp0xeIxlYufC6w=="
 ---
 

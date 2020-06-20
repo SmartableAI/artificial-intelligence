@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Self-driving map will tell where Apple Cars are being tested across US"
-    excerpt: "Regulators in the United States are encouraging Apple and other self-driving vehicle system creators to collect and share data on tests of their autonomous driving platforms, to help promote it development and earn the public's trust over the use of the technology."
-    publishedDateTime: 2020-06-15T11:15:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/15/self-driving-map-will-tell-where-apple-cars-are-being-tested-across-us/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36207-67155-36050-66682-front_quarter_SMALL1-xl-xl.jpg"
-        width: 1320
-        height: 743
-        isCached: true
   - title: "Michigan, Fiat Chrysler join federal self-driving car initiative"
     excerpt: "Safety advocates criticized the U.S. Department of Transportation for sticking with an voluntary approach to autonomous vehicle regulation"
     publishedDateTime: 2020-06-16T00:32:00Z

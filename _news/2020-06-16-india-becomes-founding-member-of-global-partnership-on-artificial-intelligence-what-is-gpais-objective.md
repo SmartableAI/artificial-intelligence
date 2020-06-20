@@ -25,22 +25,6 @@ images:
     title: "India Becomes Founding Member Of Global Partnership On Artificial Intelligence. What Is GPAI’s Objective?"
 
 related:
-  - title: "India joins global partnership on Artificial Intelligence as founding member"
-    excerpt: "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay)."
-    publishedDateTime: 2020-06-15T14:07:00Z
-    webUrl: "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html"
-    ampWebUrl: "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 56
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "India becomes a founding member of Global Partnership on Artificial Intelligence"
     excerpt: "The alliance is aimed at developing responsible use of AI which is grounded in human rights, inclusion, diversity, innovation and economic growth."
     publishedDateTime: 2020-06-19T12:24:00Z

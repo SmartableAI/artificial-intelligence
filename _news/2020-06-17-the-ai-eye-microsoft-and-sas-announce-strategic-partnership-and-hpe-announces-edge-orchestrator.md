@@ -54,6 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Five-year agreement will support Johns Hopkins Medicine inHealth in driving new medical discoveries to improve disease management and"
+    publishedDateTime: 2020-06-18T15:05:00Z
+    webUrl: "https://www.miragenews.com/microsoft-azure-will-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 35
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "rWtB8zGkZDqgGKnCistf+qUKL3Kn/qZXIjj8m6SHSqI8n0OZx3YooDDliIaBjDsiLfwGBDsuik4nMmUGrBqUXD8Rbslxd5noidc4V46mF6TJNWFAUOYgD7fUrcuhnCSR1W4lCzj13h9RwpgIpWyYe0twupjz1E5uhWONdCC0QoJco1kI3ES5n1JtUA7nOTcdqBN8h9C0L8cu+ZmMMZf/UpK13h5h0+6ZPxCzM77LY2q3niv3+1YvNR9njND7A2qKC3lDIJI6mx1HJRdrgodrq9Wq2IN4d+5Y6RXJjIsuuglP87kbi2U/RNdlOI8a8MMwllcNgrzBKPjkxlJ2E6r94g==;vOgUmLOCfMEtvf/TY6DoMg=="
 ---

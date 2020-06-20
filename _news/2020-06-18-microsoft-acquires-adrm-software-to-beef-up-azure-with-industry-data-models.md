@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 102
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
         width: 1024
         height: 402
+        isCached: true
+  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+    publishedDateTime: 2020-06-18T21:49:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 54
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."

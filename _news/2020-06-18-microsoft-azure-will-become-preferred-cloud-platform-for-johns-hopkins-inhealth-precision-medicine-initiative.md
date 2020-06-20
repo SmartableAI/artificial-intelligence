@@ -25,95 +25,45 @@ images:
     title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
 
 related:
-  - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
-    excerpt: "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management."
-    publishedDateTime: 2020-06-15T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png"
-        width: 1125
-        height: 1125
-        isCached: true
-  - title: "Microsoft and SAS join forces for cloud-based analytics and AI"
-    excerpt: "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d"
-    publishedDateTime: 2020-06-16T09:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Microsoft announces strategic partnership with SAS"
-    excerpt: "The new collaboration will aim to integrate Microsoft Azure more closely with SAS' AI and Analytics. Cloud-based industry solutions will also be developed as part of the team-up to service customers."
-    publishedDateTime: 2020-06-15T18:04:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-strategic-partnership-with-sas"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-strategic-partnership-with-sas/"
+  - title: "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure"
+    excerpt: "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance."
+    publishedDateTime: 2020-06-18T17:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
     type: article
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 89
+    quality: 98
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592241362_microsoft_sas_logos_story.jpg"
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592497935_microsoft_johns_hopkins_medicine_logo_story.jpg"
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
-    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
-    publishedDateTime: 2020-06-18T21:49:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+  - title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
+    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
+    publishedDateTime: 2020-06-17T18:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft and SAS partner to integrate analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
-    publishedDateTime: 2020-06-16T16:44:00Z
-    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
+  - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
+    excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T15:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries-2020-06-19"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-    publishedDateTime: 2020-06-16T10:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
-  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
-    publishedDateTime: 2020-06-19T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 16
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "swhWPXQbUNa+z6NBQDYC4m3rT0ucDHL15Ews0YU+8gBBZHHsUFxkzRZo9L1knUCPI8f+XxPyV46Z3tmIpvHM2Kbbu0NfK9MyARuZtG0Ri4rK9OL1jHNoWPacqVMNtgTst9EkZC7ZPGvYVXmXbkCnL3YsW39uqAUtTStal4DXPtuKWp8QRBejZg/+Jf908cOLsVncMFlhoZyTgGq7/cjZUjKXXLvQZHdYbcDpDOnwOazkJ2zbcvLKUTTalG1fCyEoFc9vwbli7TAM8gTcLMnSLC6Kr5B7ehyMgvLstCHHv+n8EEah26MTnDrHRMw0TFZmlkq9hpDc1pttt9R7gs3Gu84iKSpdUgVbqoEsrw/7+/nxXZL0+NZBeWhY8eINcCjY3lUT1XxVXRyN6UXN7BZC8IpvjlqKiibH07Sln9G9nMiDJ3+QesRvGaCBmLpULdk7Vc4xFDpQhw4iayXdqSmQoB36t7xcgi+2h8IWWKjSqrIfTs+wAF6nJ6HfjvQ0ZF8skUfsE5zwdAt8uii9ShpljA==;IlkbCoHPLiqXdWqcct843Q=="
 ---

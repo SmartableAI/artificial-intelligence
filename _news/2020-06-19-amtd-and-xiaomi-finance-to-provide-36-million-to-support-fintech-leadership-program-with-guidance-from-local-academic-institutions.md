@@ -5,6 +5,9 @@ excerpt: "AMTD and Xiaomi Finance to provide $3.6 million to support Fintech lea
 publishedDateTime: 2020-06-19T23:59:00Z
 webUrl: "https://www.crowdfundinsider.com/2020/06/162951-amtd-and-xiaomi-finance-to-provide-3-6-million-to-support-fintech-leadership-program-with-guidance-from-local-academic-institutions/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

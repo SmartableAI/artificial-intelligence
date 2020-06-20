@@ -7,8 +7,8 @@ webUrl: "https://yourstory.com/mystory/seven-ai-future-trends-mean-business"
 ampWebUrl: "https://yourstory.com/mystory/seven-ai-future-trends-mean-business/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/seven-ai-future-trends-mean-business/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

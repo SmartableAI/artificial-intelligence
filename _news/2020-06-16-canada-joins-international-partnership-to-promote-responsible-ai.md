@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Canada joins international partnership to promote ‘responsible’ AI"
 
-related:
-  - title: "The governments of Canada and Quebec and the international community join forces to advance the responsible development of artificial intelligence"
-    excerpt: "CNW/ - The evolution of artificial intelligence (AI) represents one of the greatest technological transformations of our age. AI is radically changing the"
-    publishedDateTime: 2020-06-15T13:29:00Z
-    webUrl: "https://www.newswire.ca/news-releases/the-governments-of-canada-and-quebec-and-the-international-community-join-forces-to-advance-the-responsible-development-of-artificial-intelligence-872608558.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 0
-    images:
-      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "9G95Id4iCAoVHcNZ5ndvdAfoDGuKqyvt79ie8eCY4mzm9i/e1c6jeKs5DGKO1CYL1CVgyvJE3Fv5NIqaGVj/shGM87G4TJd+yi/gM9wQaayJleI7sMiMLFSTkrKluUqjvDEKoUazCsNwRY/4XyA1jc2q+xFSQvnLw9nvqp+HThIn0bmux90gCgl4jRjS/7odSU2cCaj7ypVcrXpnYwLXaf8ixSPzNJo9C3/squkGBAvyBm1cQuQ4pg1HgjDAFd1lygWezAoXF3VqWKHGkAxPGvBQJetM24BZNqGC3/Rlptoh0fcxffx3upNC7L+3BASKu9V7GszAsljxFU/SwYuqu4h7rWqvecoo9SrT9Nvy+wLtxbR7aNUcUSTbwwRDCJy3FZfa3ggz5imWjQCGBRtNv/lyJkldlcsfZqSj5SZ2J3ntKJldLLnDxSRBMRT0wIzjz8qfSsPWmeLdvP4k75aBnHKuIeiYmMHo0WhGpTztMXD9RMY8x1D5Bltr3bZ51T91lWaeStXZXgIrTTMc9gwTuA==;/ZfU2emB7i5Jtja8EksQGA=="
 ---
 

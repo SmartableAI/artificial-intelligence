@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 402
         isCached: true
+  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+    publishedDateTime: 2020-06-18T21:49:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 54
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
     excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
     publishedDateTime: 2020-06-18T19:19:00Z

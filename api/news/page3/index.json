@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
+      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
       "title": "Everything you need to know about recurrent neural networks",
       "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",
@@ -45,44 +92,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
-      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
-      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "publishedDateTime": "2020-06-18T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -412,7 +421,7 @@
       "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
       "excerpt": "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on",
       "webUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/",
-      "heat": 101,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -460,7 +469,7 @@
       "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
       "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
       "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -508,7 +517,7 @@
       "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
       "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
       "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -602,7 +611,7 @@
       "title": "China's Tencent to use facial recognition to curb young video gamers",
       "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
       "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -870,6 +879,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production.md",
+      "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production",
+      "excerpt": "Father of Multimedia Computing Appointed as Chief Technical Advisor of Huami AI Research Institute, Announced on Huami's 1st Innovation Conference \"AI to Decode Future\"",
+      "webUrl": "https://tass.com/press-releases/1168731",
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://tass.com/press-releases/1168731/amp",
+      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1168731/amp",
+      "publishedDateTime": "2020-06-17T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TASS",
+        "domain": "tass.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
       "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
       "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
@@ -1089,53 +1127,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
-      "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-      "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
-      "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Proprio-spinal-image-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "publishedDateTime": "2020-06-17T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
