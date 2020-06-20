@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cnvrg_io"
   url: "https://twitter.com/cnvrg_io"
-  followers: 863
+  followers: 865
 
 size: 11-50 employees
 yearFounded: 2016
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "cnvrg.io"
 
-secured: "q41JEaWQ7sMMhLBs3UypSAXgXOxeCRub8Wp9BOjNgsVyti57e3Th0QClPkVcnAZwJRhzYK3oEQcyAl+yXHPT4HBPkYIwb7mJY6mudIHEA2eF+JprInAYsMiwvzokFR0FUEwtiEPBs2Y8rukWXPUBi+2WPrYwRq4KO2fqa00+tePCULfKw76eJddAX67HrQHspuYT5/zxivzIZ0vyFOkv7TDc8PA7/oVmQ77ipBg2/vt9EsHRcloeEQ1+Qx4JgtYdxpM3G4bkqAaU+tOCJPSkNHTfwvPNHdzBHrZ5lyGe1ViQd+Fh/jC0BMcT6HfY25eKFvHN7qKg74VS4/0ugIbJLuX8sifw9t2QYblK4bq+QdRCAVVhZ/xAYplY6wSXMwJJ;CfPl/D4JIu6TxBufVUzCoA=="
+secured: "eDzvZXLShhdpPgRTwV0yPOkpPxZGsbeyj7W/OAxp2rc8SI+1lhqtJkBKJmNsBKEP4tObz3bu9YxROS6W3p629EAGZG9Y1MT1UXfdbglfUhKuXCDujbYnQPKIStRWrQQN82WfGYnZ11NSFzTt8vHsojBipozX0q6juIGxUwVSRbz/JsAmtMXQu8fm3yvsOipdBqY2WMwNQRNWZyHitqQEPoXrWSJmY9iNI5GZEpB4O4o/vghWxHGshiJv6u+tdVhkrYpmF2Qf01hGIddbBJ/iOuReXbhF9yWZiztPDarZr8g9Ixvp/5qjAbGtzw7S5GThYQ7RmEqAml/jWbQv6TgMxglL8frhZHkPFNnVXw+lFTeGXrm4wD1vfG34d9FUjoQk;VkIxOLOMRzV+V1iG92RAfg=="
 ---
 

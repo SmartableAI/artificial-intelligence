@@ -2,7 +2,7 @@
 name: "BigPanda"
 overview: "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information."
 type: "profile"
-heat: 19
+heat: 42
 
 website: https://www.bigpanda.io/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xF23MVMad7GAUQirXuVQDEUY3MfuzC6oERA8iMKFGBVTuYFhWBM3YmTB3dqaiztorLpwqgSNnauD9f1DO1en9gXm3GtY87gP+ZLv+uzdGY9ajH/ItKgjJgTV3DMx/qdWr58YYGswsaMn+HY0d+XinlZtpkv8ivfnP2Kr+CtjW6iNO13ul3fdpJDJz3Bn/JaUoz4R77Lz2J5U+pWB24q0cFwp7PLCcusCcAEv5L9ZELK6N6uH0wmUFSObIzqdn6FygwgJ6F92Eoayx1Rv+AShbKLGJLaBqTeCayEgKmo8D9c7pFjBriQx4Sq0CXBSMZ/hu3Qs8zSEWkn1j7H7uoJBqMi2rBimO3Jypd7I/Y2olJwYjapUlVXi6B2E7Yc2U0kQ;vaxSMdJ0VJre+8BiX5RrcA=="
+secured: "qrmKogcW04EpSaGxaA0ymo+hZjqc/nLji9Wkk8VeeX8RXbzwlUBEehmGnYQfGbeujr58JIMv89rN3o6O9hYlNBcc/OVn0M2VEqcitOxwurXURVERrxz9XOmrBJyxxCrK8gUEVdzRPnlwrZF71SNjDzwC5uSHkRYkKrko4fftT/zro+kwWSOW2oni5RcFeAljEmZ2beznwQ6/unNHdvJK3NUHacggWbCG1FJNELoWLYBvtnSP/k5T5BaFlO3yYLBzn7/wnywTwR9PCLNfVLU04YHsGjtsdAfa/WiguOtv7U3i+OnvIlhQV6BN6wd18XlTVe6RmW0aDap/Fcrojn03b2jzbj5cQu9KjrsYLnQ3PkRn8Y0MuPBhVrV2S4GCjdNP;tc8uWEo9t4+zH3nJB3Q2aw=="
 ---
 
