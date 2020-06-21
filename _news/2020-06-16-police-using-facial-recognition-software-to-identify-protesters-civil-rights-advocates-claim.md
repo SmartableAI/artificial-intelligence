@@ -65,7 +65,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762"
         width: 1040
@@ -164,20 +164,6 @@ related:
       - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
         width: 2560
         height: 1705
-        isCached: true
-  - title: "Biometric myopia risks stifling the facial recognition debate"
-    excerpt: "The rush to suspend the use of facial recognition, and the use of reactive regulation, risks stifling the necessary responsible innovation to get the technology right."
-    publishedDateTime: 2020-06-16T06:20:00Z
-    webUrl: "https://www.afr.com/technology/biometric-myopia-expanding-the-facial-recognition-debate-20200616-p5536d"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/e54691db479e878d890e82dc42a81d94e1fd4ba8"
-        width: 800
-        height: 450
         isCached: true
   - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
     excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."

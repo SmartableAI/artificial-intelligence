@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Coronavirus (COVID-19) Impact on Artificial Intelligence (AI) in Insurance Market 2020 by Manufacturers, Type and Application, Forecast to 2025"
+    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on the Artificial Intelligence AI in Insurance industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects on Artificial Intelligence"
+    publishedDateTime: 2020-06-18T04:04:00Z
+    webUrl: "https://www.openpr.com/news/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
     publishedDateTime: 2020-06-17T15:14:00Z

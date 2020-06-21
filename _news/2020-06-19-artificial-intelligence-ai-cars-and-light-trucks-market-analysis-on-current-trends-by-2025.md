@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T10:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
 type: article
 quality: 70
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
 
 related:
+  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
+    excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"
+    publishedDateTime: 2020-06-16T23:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-share-trend-and-opportunities-forecast-to-2024-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market Emerging Trends and Forecast By 2027"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
     publishedDateTime: 2020-06-16T11:53:00Z

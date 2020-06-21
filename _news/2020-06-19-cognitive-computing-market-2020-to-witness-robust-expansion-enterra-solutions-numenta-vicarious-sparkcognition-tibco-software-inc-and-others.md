@@ -8,7 +8,7 @@ ampWebUrl: "https://surfacingmagazine.net/cognitive-computing-market-2020-to-wit
 cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/cognitive-computing-market-2020-to-witness-robust-expansion-enterra-solutions-numenta-vicarious-sparkcognition-tibco-software-inc-and-others/amp/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,50 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Artificial Intelligence In Construction Market By Technology, Application, Deployment, Size, Opportunities andForecast, 2019 – 2026"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence In Construction market anticipated to exceed US$ 2.1 Bn by 2027, along with the projected CAGR of 29.4% from 2020 to 2027\"."
+    publishedDateTime: 2020-06-16T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-by-technology-application-deployment-size-opportunities-andforecast-2019-2026-2020-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
+    excerpt: "The global brain computer interface market size was valued at USD 1.2 billion in 2019 and is anticipated to register"
+    publishedDateTime: 2020-06-19T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Education System Market How COVID 19 Affect Market Growth? Size, Share, Application and Type Forecast 2029"
+    excerpt: "The research report titled, Artificial Intelligence in Education System Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Education System market has been garnering high-quality momentum in latest years."
+    publishedDateTime: 2020-06-17T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-system-market-how-covid-19-affect-market-growth-size-share-application-and-type-forecast-2029-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "as8+Svtrfa0dHqEpcLtrnx4y5wbrSrj48a0q+m9Q/7kOHUiea99+ASRzb1y0qcObR8unvMO784KhIvhsodNJfbcUwNpuJC3sa61SWdpQD8hSEsC3g4ZUg183m4dmnZVKlLcQD6NL5CVeZPAGuK/OGY3Gx1c1dAxdls02VhmkF+CrkyWCVrbKurU+ACO69pYbTZwqEFLbJXqiiB+wJWmt3oyNajACIh8GpD0G7bTO5R0x8FITDJju6zGtGEJYgmK7hpI5JqWassXTDdTHmqLxb5NUeobUDyqBvpfxf8itfhF6iPrRorTYlySo+V1wG2mnIVqZvQ1XwpySPuLd099dNw==;OfgK7hebEDUSnAqV0DPZrQ=="
 ---

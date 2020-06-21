@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
-excerpt: "Microsoft pitched its facial recognition technology to the DEA despite its concerns about selling to local police."
-publishedDateTime: 2020-06-17T19:00:00Z
-webUrl: "https://www.engadget.com/microsoft-marketed-face-recognition-to-dea-182658804.html"
-ampWebUrl: "https://www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+publishedDateTime: 2020-06-20T22:15:00Z
+webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
 type: article
-quality: 89
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Fc415ef50-b0c1-11ea-afdf-74c4c00c4ba4&client=amp-blogside-v2&signature=fd77c8cf2ccdcf1d3c77b7ed2bd56b5f8a76294d"
-    width: 600
-    height: 350
-    isCached: true
-    title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
 
 related:
   - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
@@ -62,6 +51,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1080200068.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft reportedly tried to sell facial recognition tech to the DEA"
+    excerpt: "Microsoft pitched its facial recognition technology to the DEA despite its concerns about selling to local police."
+    publishedDateTime: 2020-06-17T19:00:00Z
+    webUrl: "https://www.engadget.com/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-marketed-face-recognition-to-dea-182658804.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Fc415ef50-b0c1-11ea-afdf-74c4c00c4ba4&client=amp-blogside-v2&signature=fd77c8cf2ccdcf1d3c77b7ed2bd56b5f8a76294d"
+        width: 600
+        height: 350
         isCached: true
   - title: "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology"
     excerpt: "Now that tide has started to turn when last week three significant players, who have created face recognition technology, made some bold decisions to not sell their technology to law enforcement and other agencies that could misuse it."
@@ -306,17 +311,6 @@ related:
         width: 1400
         height: 1048
         isCached: true
-  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
-    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
-    publishedDateTime: 2020-06-20T22:15:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 36
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
     publishedDateTime: 2020-06-17T18:44:00Z
@@ -374,6 +368,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TDbD1G5YC9/vNdQy/UEmhSzYuPLhEaHH/qr24by5c9fV8M2KtyDHxns578hUAeyy8Q+t8W5D8kqJwbGecP9i+id+dKfzOLCOruW0URn/1yQB19nC/MVhI/C1EVt4co3Z0RQ6aBSSlK46o2e0NUSgr6KdOi55rM0xFeidkOsLUKIYDXbP1+6IoqZQIVUw9D8YbeenZEUu3Q7hMJ0LPx97sCAyZZoPi7fUPqWXWBXzcMJb26N0zToPPWi9Zy/ESPQO6rQrW/gUEaLdpjZzRpgGHKgbiMx4Z9aPXpp+pvzOctReYQ9adkZVwNGTESd1KuR5NJEcTqX9H5u8+1wLSh6eqfanuIqyIy2uuUg062CUxUQxmZG799xzIN94ACvFW50bHxt1XIGCfE+90GcE7QmLAw8N9eP6n6B1WuAb30nC1m6yVLhuvE6jQ+lnQ0E/EEUo4lPWfY1vW7KJP9A04aiDJWZGuK5RisFH+KDs0oHXYOQH9GcFSiBCEOkpkN1Vtp9mMhr5TucFXdbZlM/7eaofAg==;yW4UuXgEwy57uKErV23SKQ=="
+secured: "+Nrouv1Hcy2kMQnmCPxq9/A3B01yOrDG7sxBMHyoq5PK7jg0OGYO60rbNNGtOIA10EsK/1zOEJ4aaQIFzUqvpDOGj03KDVrqunBfdNjPnFTu8Nn3Gaf80QuxzdhkrmYzh/jUx3RObWvlqa7wPysw9LsY1+/cuipyCYaB1eeI/CWcZswwIxVviCu/DIWqcXI5KdG86MGIZZSD70eKWVakELqMY+Pn9IlyrxUZnX983E/u0lH8+DlVgqdSotDoNHMHHkg5QThy9PuGGKpFI2pnWH7dvhfGXsLlhivp/bdJCXGm7hVi8WySs5CNjPCijSHlY8Z44Ta1Q/EVWIEFZ7o3j1nZIkfpIamT2G0oUeyjhEKlLU0Qig576AVVpUle9sAFKahslSgv1TxFJNViY3hfVjU8eUbp8W4+b8R1zLs2ZDihY8htosNleYPH6773Jgwqwa8fq+tfk5eJiNX7Z3kabrIU90ridztX2TDIUDPOsmHmySDZkfaVxfjRAbOxD/MdxLDmo2+7605uaaM2OAndRA==;+tM6O7quvk+zEwHM7FgPKw=="
 ---
 

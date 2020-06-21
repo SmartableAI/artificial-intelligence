@@ -302,6 +302,17 @@ related:
         width: 1400
         height: 1048
         isCached: true
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-20T22:15:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
     publishedDateTime: 2020-06-17T18:44:00Z
@@ -359,6 +370,6 @@ related:
         height: 450
         isCached: true
 
-secured: "1kj5NGjnOfLuxopJg2ylcSb3o+1jhkEQgFzxve5W/xoJnnFbdqgGKKq/Ro0gAHNVNfqoOLEUDALcgwIPKWZiTIBZzVJHfnvBqfCmJxfja+OAZJtNqfI3rruo+f77QWBmDYAhcPT3BsCV7f9gVm0+L63oJE/G3vN0zHBeSp2Vqmjgre+cpP5nBQFj7Q3S8lO1CtFHD/gwtSsN6+Zwfb23p1/cc/ZorkXXrlU0BbMIzZBytC0HpPmDLH2u3WEkDzbRfws6zJ22GFKz3VQTrQfQj9C4ch1YE+VrMxqwKjuboRBXlDKA3+fA9ZvjG5blmAEdCk8/sdP5FtBv5anWY7u9dA==;+ue6WJYDn3/WVrUE4LxR7Q=="
+secured: "C95V6znyyWMv7pzV3YucLIIGdsK4zKKFOZMpF2R0F604qL4bNAKa4blPkoEmRD63TuDtH/ZZdGPEAu9gP9NPS3spUnintqsndSj7+0yCav1CXr58DtcZCAh9qxqHP0m70cEubV3XLeRvyId2hBc/YmyoFAqLeiia0Fkci73Qo1qJ86Wteb680ohWAOcL53jmtBq46k1fAKDgp32tudY36/J/3W3WsJjyLzrRSOHJf7JP2SRwF2Da/17JbJHbzJocMvXJaTU09sSgshZfqlSjqgSutQSWjMHvzoWEMdKx1oblDPQUiYDrtRl+biRvj2u/15wfchun6TDIIp7G1bdXcO7s8geUoswS+mOLqGJu1SearYpQcOjkjPlIRF1jCHYRYPWAl6vTsiUq36zCdIcjzkHpbsX8oswbUjtMN/rKI5LKoXk7qconbDib50+cZGgoRAvouQRvvt61PmdNvaC7qsXR7OGwUDxVeGokb53s7bkDFF/eppNxW46t5pp85MoimU38LbZnbJGOZRxaGPyWHw==;xC1S8bfLYVrNEgTh9TOT7A=="
 ---
 

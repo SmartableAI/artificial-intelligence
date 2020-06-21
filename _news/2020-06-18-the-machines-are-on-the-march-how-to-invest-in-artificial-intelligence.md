@@ -8,7 +8,7 @@ ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/6015
 cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601517/the-machines-are-on-the-march-invest-in-artificial?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     height: 792
     isCached: true
     title: "The machines are on the march: how to invest in artificial intelligence"
+
+related:
+  - title: "3 Startup Companies to Invest In on SeedInvest"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Have you ever watched the show Shark Tank? Great show, right? If"
+    publishedDateTime: 2020-06-17T22:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/startup-companies-to-invest-in-seedinvest-1029319531"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/startup-companies-to-invest-in-seedinvest-1029319531"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/startup-companies-to-invest-in-seedinvest-1029319531"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "0ZXgovWI1YEnleXHcQlUkTPc6MW+jNa2vJGAJ5woHi6Xhve0Q2mx/4+hwvvUyT1W8oO+ombkS1+IMfRg03bkuNDjqMdqtyypJptWX5T5elKZgMCZAtIaHBsTbQ3aVsDNA8bVlm20HwsAiKe9PhpWiAECMsELlGqUc/DF/bGie0/PnHJvobQ5nRxMCN8XgKC7AFbRYVJ6OOKSd1w18YiFTFm9GwLLJJl1HtuGrEy7Z8nlgh4oDTahNLOc7Ee8V+Au30+zeU3Ca1Gryv7B3RkdVzdzceFvbX1ndKqmucbu6hEg5E6vMzRgo/MMw9z+VK3/RnZ72AtkeCEwwImlVkQgHBlHBxrlyta9rqwxvXwf5o6A587WM0Rhhui7HTU+SzcQgS3fw3xjvyjhO23bmFyZf6zQmcdn6r8/eVWlvZxNxIp5OC9wWY2R40rBxE8B7mZwdMW8Q0R26NV26LysxoypRyGRhPlVnJXO0uV6DQh+hMowpuQ/ZVpKcUxnDtCUTVV23tdkb8zuv/gvk/rVLtBUhQ==;8SgkRjG2nS3XXTuchR68aA=="
 ---
