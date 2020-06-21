@@ -5,6 +5,9 @@ excerpt: "Qure.ai uses an artificial intelligence-powered solution to identify 2
 publishedDateTime: 2020-06-21T06:32:00Z
 webUrl: "https://www.livemint.com/companies/start-ups/health-tech-startups-use-deep-tech-to-contain-covid-19-spread-11592719921253.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mint

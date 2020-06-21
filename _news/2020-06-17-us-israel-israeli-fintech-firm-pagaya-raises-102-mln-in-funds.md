@@ -5,6 +5,9 @@ excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage
 publishedDateTime: 2020-06-17T09:06:00Z
 webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

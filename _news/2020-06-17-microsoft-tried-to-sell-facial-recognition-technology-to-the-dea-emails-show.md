@@ -171,22 +171,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Portland, Maine, Delays Action on Facial Recognition Ban"
-    excerpt: "The city postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
-    publishedDateTime: 2020-06-16T15:27:00Z
-    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Delays-Action-on-Facial-Recognition-Ban.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
-        isCached: true
   - title: "Microsoft Tried Selling Its Facial Recognition Technology To The DEA As It Called For Regulation On Government Use"
     excerpt: "The DEA ultimately opted against buying its technology, citing criticism targeted at the FBI's facial recognition program."
     publishedDateTime: 2020-06-17T19:02:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-18T22:19:00Z
 webUrl: "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Virginia Business
@@ -39,20 +39,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "OpenAI makes an all-purpose API for its text-based AI capabilities"
-    excerpt: "The company has released an API that lets developers call its AI tools in on “virtually any English ... an API that can perform a broad set of language tasks, like translation or writing a news story on Techcrunch."
-    publishedDateTime: 2020-06-16T16:25:00Z
-    webUrl: "https://ctovision.com/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
         isCached: true
 
 secured: "9vNeAw3pJccuOPv7IoD1nJ3ABq7/XtALnf1ap5xwlFnF44kj3uhsMbYGyXRuz5UX4mMoRXu3uKNl8ElEcprJtrbtpFNiklrBjqQO8JC58ESmhwOUaHb5X1fCGyxDrkxIQnqlg2XcfTDf7tpP+YzsVdqrLToYaOCjWTYZU9JvlYCtKBuszmIWmS0/Qj/cAkvUBPUOHPZrsR2/q5uw7lq7wC7MgN+zp2yvXLvk8oCur5q9fmfn+7VdMMZLpYC05BzWAYkKd6yz1IKQ7AFO+wq3DO78081ffMbFf3/L/z2PlSh5u9/Tbs3vwaNnQfbf8YtMeskBJ7nkYHjlr7bLF36yVA==;8xV1qad1G17tohc7n2Mwuw=="

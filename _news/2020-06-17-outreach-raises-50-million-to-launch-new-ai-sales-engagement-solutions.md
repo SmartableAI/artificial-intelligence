@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-lau
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     title: "Outreach raises $50 million to launch new AI sales engagement solutions"
 
 related:
+  - title: "Urbint raises $20 million for AI that predicts power grid risks"
+    excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
+    publishedDateTime: 2020-06-18T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/social-share-e1592341639103.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
     excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
     publishedDateTime: 2020-06-17T04:03:00Z

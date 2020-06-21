@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
+      "title": "How Ethical Is Your AI?",
+      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
+      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Ethical Is Your AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "publishedDateTime": "2020-06-21T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
       "title": "Google will shut down its AI-guided Photos printing service on June 30th",
       "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
@@ -177,44 +223,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-20-no-touch-pay-these-11-fintech-startups-raised-funding-amid-covid-19-pandemic.md",
-      "title": "No-touch pay: These 11 fintech startups raised funding amid COVID-19 pandemic",
-      "excerpt": "Amid the pandemic, with the practice of social distancing and zero-touch policy, digital payments and transactions recorded remarkable growth and lured investors.",
-      "webUrl": "https://yourstory.com/2020/06/fintech-startups-raised-fund-amid-coronavirus",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock718002940-1592571256404.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "No-touch pay: These 11 fintech startups raised funding amid COVID-19 pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/06/fintech-startups-raised-fund-amid-coronavirus/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/fintech-startups-raised-fund-amid-coronavirus/amp",
-      "publishedDateTime": "2020-06-19T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {

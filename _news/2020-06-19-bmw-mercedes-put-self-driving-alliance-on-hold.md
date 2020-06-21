@@ -1,9 +1,9 @@
 ---
 category: news
 title: "BMW, Mercedes put self-driving alliance on hold"
-excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-publishedDateTime: 2020-06-19T12:54:00Z
-webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
+excerpt: "Daimler on Friday said it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
+publishedDateTime: 2020-06-19T13:07:00Z
+webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-put-self-driving-alliance-hold"
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -169,6 +169,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "Ku67BzMXdUKYU2nnLS1sc72/VRJ7CH+pr8gH/8dDYOfrkFFArrnswq7UKTuKzj4W1h8nXSTO3w+iKc4Vypa+UgSy0cCys9Y5RgsuPW/LzS5BwRfxdYR1pIIFBC6+Z5wcsKO13ufOTDnY6I2vpG2s90yrroI0amGTBQQ76DStqcIfmKLXEV+MGFuN4Yb3ycfndndbdNG2VZVlHqC7fL9rajWm9plcxY1H+dnwuD+RETnvFUuTqACcSd4cLW9d2s3jBOECeNDYGfQO8L1iylhomMR+umbfOStq+hm8+6n7lrcVdu9lrh1OrBC4iaIJqQaCLX4DZabwoECCL0PBfLHPrngag0UMk2Nkby2LkGdljA67oI0poqIksrKVS8Z7xQTkPaEnrMvcpKD4py+MmCVIltnwny8A5iONDruHtkL6ZGju5u0qcwhR99HzYx3X0+cTPlVdMhg2D9lTGm+5pIMlryuqSApSW7E7YaK6mzLlhQN9omeC0GIrmpfl25xJ/yiKu2kV8UCHwV9dlZmfefZ06Q==;CvgylI9rEuBSg2QXftMStA=="
+secured: "x7I1Q2zKvgxX8Qor7Hnhfj52LHX6eyEQZWkPhV6qxbAP7zB1eoJ81umFHUF7TR6+KRbCoA4Iw0PG2SKIRwgcOe4Ds3zk/Qr6AW9GeBLGSOdAy8SweLhbJ06U9TAq/eL9dDK+H2Ro+u9oRlsh1O4I2kfqVouGanIkq9xYo+fY2LE/TNSSVUzxrLpAIMsJeLMiRdVd/oMzOQO0MdoSe0uSi8SAM04ZHpWu28VgWWlmOSllg0GZ4ERQ3rxUA2WgdV94/I7xP0oek5vNuDr+4Ejb6GtiS+7YstPr+A+mS/214V9PRwKjcgZWytPJZvSsHHLSoRIRCGCi/zAoJ1Es4i1SRw==;C3J4uFXybkHB3KCiCfKswg=="
 ---
 

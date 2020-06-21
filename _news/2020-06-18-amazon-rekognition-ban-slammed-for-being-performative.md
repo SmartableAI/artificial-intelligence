@@ -77,6 +77,15 @@ related:
       name: Security
       domain: securityinfowatch.com
     quality: 17
+  - title: "\"Coded Bias\" exposes how facial recognition discriminates based on race, gender, and more"
+    excerpt: "Filmmaker Shalini Kantayya spoke to Salon about the need to hold companies accountable for tech & why there's hope"
+    publishedDateTime: 2020-06-17T21:03:00Z
+    webUrl: "https://www.salon.com/2020/06/17/coded-bias-facial-recognition-racist-sexist-shalini-kantayya-afi/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 10
 
 secured: "d6vcnm6vI8Uyxp2YWRbZGVmumLPINsqPSVe5fzVcPFkHu5J7sLh0j1N8t8cO0f7VJ7oiAQsfKBcbFnkqr1q/10xUocgkMlN4IwQZ/ooNNZ+eikhDzrqys9+x6ofh9zTrdiRjUGckSSEw1pgCL31YU5E2Z883pk4BXufW71NTDhhf7cIE/oBNN4mpvTYeWc+IaqDcnWnLkbFqXXZ3xkH1Jhl5G1Uvs/l0MOLXVU2fIiTqbhTSEdCrtjnnLwMVVEc01BPFVyN5SyMdrwc3ahG+DOzRH18/LPCecx92z5XttakGuO66Z8sYTd+PZKkDBfKjbCMfgCdOjnh9lERYHgJ7ln5uRuP7Ddk41+K5zRyrFIaMiM/oD3jqeYGqvAcHtP8fXDSLEdgOFVn9CsoXCxur+OwO4aKIMM2c+VnKe9Mn1H5oyt49q/dX2K74QqUXXKtn9+dv4aUfXhlFJXaVKNBw1RM9566j7p5A79YGiyB8qiitz+UU9Ql22tL6gkAjnrkv0oOhSOxaIltApPiIX9ohqw==;/0oA9sPcXEl7nKuKnvf1tQ=="
 ---

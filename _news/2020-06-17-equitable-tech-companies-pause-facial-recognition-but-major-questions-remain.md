@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-compa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
 type: article
 quality: 100
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -168,20 +168,6 @@ related:
       - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
         width: 2560
         height: 1705
-        isCached: true
-  - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
-    excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
-    publishedDateTime: 2020-06-16T15:30:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2020/06/16/police-face-recognition-tech"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
-        width: 3000
-        height: 3000
         isCached: true
   - title: "Facial Recognition: IT And Police In Delicate Dance"
     excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"

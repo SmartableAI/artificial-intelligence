@@ -40,20 +40,6 @@ related:
         width: 309
         height: 386
         isCached: true
-  - title: "OpenAI makes an all-purpose API for its text-based AI capabilities"
-    excerpt: "The company has released an API that lets developers call its AI tools in on “virtually any English ... an API that can perform a broad set of language tasks, like translation or writing a news story on Techcrunch."
-    publishedDateTime: 2020-06-16T16:25:00Z
-    webUrl: "https://ctovision.com/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
 
 secured: "KI1lPdphXy8IZVkwBFZPMiRyU6Z6g4NTgsPeWON3hwR1Pr46jsKJB791ZPfdHm4RS3Z295OJ5piLIU0CIL5/5tSw2JqQ3C5USCOQsNG3z4sjZiqPsuHaF0KXhQsgcE8qBLr8Zd5CrWPYNjG3ySaWVu1ZaHutz3h2FvymX1GbfuxIEEGFjP3XCfLuXNCHRKvL16bdPqsN8fsr5dQRWv+1xcDYu3yLNv7LH13G361vjyxvcrGOSRMxWA3TznU1An+m4kRGcS6lLVYk/Lo/iZK3NHwQeU499EDU2mzX6pEjrBBK4liHRlqdzs+k+yCsZMeZmVUwt09PI6PF+1jvaYXNwg==;Ica+4Zw2Xg0rsgUggpoc5Q=="
 ---

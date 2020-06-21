@@ -95,31 +95,40 @@
       ]
     },
     {
-      "path": "_news/2020-06-18-sosi-invests-in-apptek-for-ai-machine-learning-capabilities.md",
-      "title": "SOSi invests in AppTek for AI, machine learning capabilities",
-      "excerpt": "Reston-based defense and government contractor SOS International LLC (SOSi) announced Thursday it has made a non-controlling investment in McLean-based software company Applications Technology (AppTek) to develop artificial intelligence and machine learning for its speech recognition and translation service offerings.",
-      "webUrl": "https://www.virginiabusiness.com/article/sosi-invests-in-apptek-for-ai-machine-learning-capabilities/",
-      "heat": 76,
+      "path": "_news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints.md",
+      "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
+      "excerpt": "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another.",
+      "webUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/",
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://www.virginiabusiness.com/wp-content/uploads/2020/04/MayJune_Download-309x386.jpg",
-          "width": 309,
-          "height": 386,
-          "title": "SOSi invests in AppTek for AI, machine learning capabilities",
+          "url": "https://media.wired.com/photos/5eebf79845997e7f063bebff/master/pass/business_amazon_874678990.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T15:19:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
+      "publishedDateTime": "2020-06-18T16:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Virginia Business",
-        "domain": "virginiabusiness.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -128,9 +137,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
@@ -819,7 +826,7 @@
       "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
       "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
-      "heat": 124,
+      "heat": 94,
       "tags": null,
       "images": [
         {

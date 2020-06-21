@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-r
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
       name: Security
       domain: securityinfowatch.com
     quality: 17
+  - title: "\"Coded Bias\" exposes how facial recognition discriminates based on race, gender, and more"
+    excerpt: "Filmmaker Shalini Kantayya spoke to Salon about the need to hold companies accountable for tech & why there's hope"
+    publishedDateTime: 2020-06-17T21:03:00Z
+    webUrl: "https://www.salon.com/2020/06/17/coded-bias-facial-recognition-racist-sexist-shalini-kantayya-afi/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 10
 
 secured: "nmrUX3eVJwG+6J51LjgLKqPCk92pCzdkdlzxkCjaiKgbTNZrA/RUiOKgA7vhNFvQu/KM3n6pREyNpyIN/PmqkXp5uNhDr9w34arJhLWoRlgkVxfcPYfHeS6RXunF/rjpBsB0OXWFdEdfEjGqWlA0iY7cMy3ILZabP38FxAY37G3GPm/a3klHRRw7p086t+gYN0npkupJ1bKDPVglGVdQdE0T2NpJq6mBkb89X8W03BydpxFQmOyOnvAwTY0JDVnf3J5w2HnUFEfYQ+JEaps3i/PO5Qs8ozU9RdsNhsIiJc1C1K8F4wNVuiQ5xITD2MR0GFVoGDcw7glLkVE3MDqq1m45mh2PGW2OS+XAdrmVffSfYPIPBBSAGqiH3yQkJT564K+3gPniqaKOnYFaZz1k8xd5dvpWsFV5+GzIY2xhsPSds5xs3vUuetzrfdTxKTNJiWSOSAfmM+Maqt/Vcsnbv3ZDJULcOb+MarAg1LQVJDShFpUF6BP1156wGZgqxmynDKu4QbT5ebRVqQrO02WHqQ==;iFB81PkiOr4niyqm4I+mAA=="
 ---

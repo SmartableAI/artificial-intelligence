@@ -179,20 +179,6 @@ related:
         width: 2560
         height: 1705
         isCached: true
-  - title: "Police Protests Renew Scrutiny Of Facial Recognition Technology"
-    excerpt: "Nationwide civil unrest following the police killing of George Floyd has renewed scrutiny of policing — including the growing use of artificial intelligence in law enforcement."
-    publishedDateTime: 2020-06-16T15:30:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2020/06/16/police-face-recognition-tech"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
-        width: 3000
-        height: 3000
-        isCached: true
 
 secured: "N18UYZWFrPjJBB07A4o+CKWZ4IYTq5UULH0jCFRy9wNacQ+bpW/6yG3wegofAFZ9XZQU4nk5NmQXoj42yJ3iJXQWjQ6P9M2KMuUPBeNbL61n4g7AjgsXmmj8z0cNW++4o/XACweCzuKxP7ijNo/u3sFU2OWaUgcPCemFpG4E/RbN/Uirp6ECNNReyKuYNs+YvYLbF5vjVRlVkNzF7sIDnm7LUvU2o9vkPd/pNS7n9iW5HzYcSGBnV2cs2AyTpCWDBYPOu/UPibe0hJHdGZWolaR8/ULN6KnM9tcaMrLre/ft3sJBpEobmruzc9ZBDf/kA95Img1jx6phbMtPV0LCIKeuAePefKQYXJg0IGapdIsg1mP5FPuTm+MBGiqy9VKpgn5GMhwHufgdVikM8W+dGm7b4WKpkEA45EN5jYH67cPB0zd+nw92JSgIdYfcA9YXUwT1rKM3avJH33ZV6w+k07Jo1/EOz8w55csObhkrdHQQY8ke6z9l1dkyneMuDLIBiI6JSEItYTOBH9m6EtuC7g==;fHt0TB+vFCA7RY0kaM3YNA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Wired
@@ -30,54 +30,6 @@ images:
     title: "Amazon Touts AI for Social Distancing Amid Worker Complaints"
 
 related:
-  - title: "Amazon's new Distance Assistant uses AI to encourage social distancing"
-    excerpt: "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,"
-    publishedDateTime: 2020-06-16T15:35:00Z
-    webUrl: "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Amazon is using an AI camera system to monitor social distancing in its warehouses"
-    excerpt: "Amazon has unveiled its latest attempt to curb the spread of COVID-19 through its warehouses: an AI camera system known as the \"Distance Assistant.\""
-    publishedDateTime: 2020-06-16T16:29:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/amazon-is-using-an-ai-camera-system-to-monitor-social-distancing-in-its-warehouses/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-76-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Amazon is putting AI cameras in some of its warehouses to see if workers are actually standing six feet apart"
-    excerpt: "Amazon's AI cameras can tell if warehouse workers are standing six feet apart to comply with social distancing rules."
-    publishedDateTime: 2020-06-16T13:10:00Z
-    webUrl: "https://www.businessinsider.com/amazon-warehouses-ai-cameras-make-sure-employees-social-distance-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/amazon-warehouses-ai-cameras-make-sure-employees-social-distance-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-warehouses-ai-cameras-make-sure-employees-social-distance-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5ee8be4e3f737079c17cba37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon hopes AI will help enforce social distancing at its warehouses"
     excerpt: "Amazon's latest COVID-19 measure is a new AI that tries to ensure the company's warehouse employees practice social distancing while traveling in high-traffic areas."
     publishedDateTime: 2020-06-16T19:26:00Z
@@ -92,40 +44,6 @@ related:
         width: 1007
         height: 630
         isCached: true
-  - title: "Amazon’s machine-learning device keeps an eye on social distancing"
-    excerpt: "Amazon's Distance Assistant uses a monitor and a camera to show employees in high traffic areas of warehouses how well they are doing at social distancing."
-    publishedDateTime: 2020-06-16T14:59:00Z
-    webUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/"
-    ampWebUrl: "https://www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazons-machine-learning-device-keeps-an-eye-on-social-distancing/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
-  - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
-    excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
-    publishedDateTime: 2020-06-16T15:22:00Z
-    webUrl: "https://www.fastcompany.com/90517427/amazon-turns-to-warehouse-cameras-and-ai-to-make-sure-workers-socially-distance?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 33
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-social-distancing-for-amazon-workers-just-got-easier.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Week That Wasn't in COVID-19: Bald Men at Risk, ACE2 Drug, Amazon 'Distance Assistant'"
-    excerpt: "This week in COVID-19 news, researchers suggested that baldness is a sign of higher risk for severe disease, a biotech company is trialing a therapy inspired by the virus' effect on ACE2 receptors, and Amazon debuted a novel method to encourage safe social distancing."
-    publishedDateTime: 2020-06-19T23:02:00Z
-    webUrl: "https://www.medscape.com/viewarticle/932667"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 0
 
 secured: "MRKgkJYXr1Tv1xh8OScz0Rjk6LJIVJcMYx+wD5HuDPDzRcIg/TSKJlnsRuzcDm593YsirKKaW1TWA7no6mIilWvl1mXzwzWUFAyvy0rMKvtVh2YEQBfiXvZJndFgFMwDXURm6B57rcGHZ8o4RcybYPudsANJED5INBvc+hTceIVSpI6yIrhjJInxMpRfVsE3SPdaVMUQaJi1DIzVVGewFB44xdWTudI5EszCksx+Llrioe1d0/xQFAZG4YIA3oUDnPAVf1l6+R4iIqhm1C3S778P0PJlfnofOrpd0lvPALx9+cU7XZcbX+x6yg/d0pFJynjqec1pSXCVrn2MGA2pd9f6e1IjszLyYm0qhwYZ7MVL3LFtUv60d01h0JNUr/mppus0bYFkAApkQEUvIKwUGfrR+9DlSIuH5KMy3xLHiTXGwRjp6/hrVjU1duXOuu3+pKyBC+CITm9+OAHPHrS2wMzOJkIocMLYSLz1TpfbwgO5QY9W5IF+cJLV61xwDO5uastb2ZL4Jiqbvuxf0J0Icg==;3Zgf4boiRfjIJYtJVTgrGw=="
 ---

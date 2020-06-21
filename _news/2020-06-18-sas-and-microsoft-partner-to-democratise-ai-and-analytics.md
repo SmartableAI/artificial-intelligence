@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-de
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 878
         isCached: true
-  - title: "Microsoft and SAS partner to integrate analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
-    publishedDateTime: 2020-06-16T16:44:00Z
-    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
 
 secured: "1z7k/roqiBbjUeza5zXTa63Tu5DScC5T7chjNVwh9epXrUG7itqQKkFBMlg6ifVDuo1Iaclo/oX3uoHMA9x+C9zn1ePz10siBEtx65xac7Q1BEeF0PBJZI36LX3zS0HPrIaq54r4UHxmjcis+kjSpD3rE2OH65rMG8XyBWw+AjiO+U5A7pP8OiFf7lbSEVYGlAPXpnoyDVagCCupwbGJFbm59qEI7rUQAa6wyQcm0jw2I+mrfwm6nhwWqE/jsT26KyoO0tPS9WefSFWnrCxyYYopVXKqFF6QNXN3vd419jl0bx3j/P0QM9FR82cCnhiivp1Zvg0flchGzEkS45InIM0Ol3Cv8Kktrmn921UafgWnt0DaR97uU+H/UH/ouJB0s9zVzY00+E+td548MeG1lor5P0JgFyGn8AEOj1I+Af2hl+Jiv2klnRHDbk3wd9oZ73rv1De0bVVPaer2dsmvs4hziuNUp5heaGlPEASl4asw/uQ55K80wYx93H516ddCxsovMrW+XFZ58PucwITsrA==;NGOYJcE8SJFs/M/8OmXenA=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 400
         height: 312
         isCached: true
-  - title: "Microsoft and SAS partner to integrate analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
-    publishedDateTime: 2020-06-16T16:44:00Z
-    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
 
 secured: "uCh4ISyGvQfkCMww5OMyMM57dlAAPbflQxPQSJ841uyajtra8eFYbH9kP6qLglLEEki/ue6LX8YBBQFCSr6qQuKXeMF70gUERXTtYSWOtTzpFEu1Vn016kizwGUYbFsdKJZDtd5KycHz0EgbFw6xbdbnpwOvaqsLXMeqrFATXa2+HVewqUXdm/4Pt34ANj2Sy8V89HVsg2mbF43Unp0Y/YX3y0Foz5EYpFUfncOfEieL7vsje37LjeKAInKTKW9ejGQT72gqZUp7lZzYp6RAb/eUC+fdNRMvLkjXY96+M3X+6HrcuIkKoFwk7EpLh+jDJeGt1JUI4n+9PvCqIRxlAA==;YhKhUeFHJBQ/DmzoAv09rg=="
 ---

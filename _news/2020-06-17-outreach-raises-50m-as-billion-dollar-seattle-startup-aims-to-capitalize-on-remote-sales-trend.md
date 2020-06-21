@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 608
         isCached: true
+  - title: "Urbint raises $20 million for AI that predicts power grid risks"
+    excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
+    publishedDateTime: 2020-06-18T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/social-share-e1592341639103.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "XM107Nt3wC+C90CLnHydQROJDKo6YsKLk8yHOS4jEsOP7/1NYr4OfsXZ20MV/of0b7Q68A/iem37Kcc3eyr6aoBnBGArKk0g0F+8pPpGq2kbPMcvkTbF8A8/EJm7Owfjdfd4gKI9qFmtpYARH3zROHMjscQmFLLoBjKTJkpEHoZgtcGmV3Lv5AUVreOsi9t8XWdHffWg7rpJxjH1SnyT+PgoOzH5D5v00pCKnhG/tIDa4iGFdh5E12Uo2tUJQt38WCvoQmCgTNlbZbOlMhwMo3Tx4FDkDHsV+z3hjMGlKDAAXkTCpnMnwU/AZVwFUXGwCDuUlsaQUojnzurGTzwCA31TJ1H+1k0ZYRkJ3J/PZu9aBsEcr3hDwdsKszs8QiHyb8WQzZo2653FTcmyNEcZdoiLRtL7U5yMkLUUV5k/uwOv8mjXQ9BogMxDwrk5QpKDXDjirTNJLCS4XoCbhRjSi5QMLls9SJ79Pg6SdjQ8P4EBrI6gdmWSV94ppTfGklsAckz+aIeEp/dimIjrgJ+J7g==;rl1lPfdcB25ltKgs2wZZhQ=="
 ---

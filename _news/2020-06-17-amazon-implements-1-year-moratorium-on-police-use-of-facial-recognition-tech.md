@@ -41,22 +41,6 @@ related:
         width: 300
         height: 353
         isCached: true
-  - title: "Mr. Bezos goes to Washington? Outlook good. Plus, Amazon temporarily pulls police access to facial recognition tech."
-    excerpt: "Jeff Bezos is likely headed to Washington, and this time not to buy another house. Plus, the company says no to police using their facial recognition tech."
-    publishedDateTime: 2020-06-16T16:30:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.html"
-    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/06/16/mr-bezos-goes-to-washington-maybe.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 36
-    images:
-      - url: "https://media.bizj.us/view/img/11499206/img4764-12*600xx1956-1301-543-201.jpg"
-        width: 600
-        height: 399
-        isCached: true
 
 secured: "x+LQm40/SzcawuQHErxbjBpEgv1SOTa+zCy0xfZOiwrel/X0RFwNNvsJLpWYfbp+qQ2EaTAUozv/WlnMShmudEfoT2VXIVlfpNxQ0gb+Sw5lRn8QhyXZ7NaD34wLT7wPd2vjuLtngMqX44SfBZhUmVexirghnrJ6FheUImK5N5QmndW3Cgfa15l+RDLqa+fHQyHbIINnf4wkHDYOkNDFWUiLQbSv6Y+c64tKtPEzjr3uKtFnCGlmxw2qUJBynsulRfJYv00RH5Yn99iiqt2beL2mAt/PdOwhl27qv9a45nGgt6mtaGkKEGOyrCVx2+6mjW9oVzICtFBPMlprdJ6HCg==;qCLZNJYPvHKneTKXoWSycA=="
 ---

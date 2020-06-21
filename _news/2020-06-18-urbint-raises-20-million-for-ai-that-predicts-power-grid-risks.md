@@ -30,47 +30,38 @@ images:
     title: "Urbint raises $20 million for AI that predicts power grid risks"
 
 related:
-  - title: "Zycada raises $19 million for AI that speeds up web content delivery"
-    excerpt: "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital."
-    publishedDateTime: 2020-06-16T13:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/"
+  - title: "Outreach raises $50 million to launch new AI sales engagement solutions"
+    excerpt: "Automated conversation company Conversica raked in $31 million last October, and Chorus.ai — a startup developing AI that listens in on sales calls — secured $33 million less than six months ago."
+    publishedDateTime: 2020-06-17T04:10:00Z
+    webUrl: "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/"
+    ampWebUrl: "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/0ae55f70-49ef-4207-8d57-61ed74ec5475-e1591732013768.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/e593f674-86be-4fdd-9dff-31e8591293e8.png?w=1200&#038;strip=all"
+        width: 1100
+        height: 608
         isCached: true
-  - title: "Streamlit raises $19 million for a framework that simplifies AI app development"
-    excerpt: "Streamlit, a startup developing a framework to streamline AI app deployment, raised $19 million in venture capital."
-    publishedDateTime: 2020-06-16T13:05:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/streamlit-raises-19-million-for-a-framework-that-simplifies-ai-app-development/amp/"
+  - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
+    excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
+    publishedDateTime: 2020-06-17T04:03:00Z
+    webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
+    ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1_l4gxFYEZnRhysQ_QWIVJgA-e1591736226538.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 674
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "Y1uL7Ms3fyKCToQquA0MqF2XFXRGLKyERoWdB4e/ovu+0PXP/udJW2Ww56v8s4yvwJlOPxuCIiAFxzbgpL61XwuecLByjlXsp5TFNFUVFqbK/06KI7UYcWY9+W0NDVgT65oR54AmMXRwxkupKdDJe7hCW3YQMBh8uNn4oLHM3VEiPbbmywpO/w3QG6g9hc0wtQW1bV/8v6YjPDwFhORLCbhhjgZzGXqR7BXJ4/2zwPM1Fhaxm92nNQVjJYqp6V2x4gH2jkwWJNvpmehH8GhYJL3tuvp1IRMvFLV6JCDXjsheUQWEQCcK1HLLNsmDIdTSlQ5vPUvunlWKbZVoUvyDd1E3lhHDHxx7wZaG8M9SlAucTNmaGsj6Mw+lKmtxR3tP/Byn11HephgGX6Zo6GX/3aBTlNcCKfnI55YUfCDwGrJpIxb1SysBhzYmwrrXFvaeFxjcNrFjfwfnTmHv4mdCA9qjmmS2D4uOLGOBfRJ3DN6aGIGuHeJeRx/zDdRIo6mK4pi3G9S82DkALIiwr+Pamg==;8n70m4HCBxlT4OHsLi9+lA=="
 ---
