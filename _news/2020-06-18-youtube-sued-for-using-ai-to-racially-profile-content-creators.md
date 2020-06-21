@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://searchengineland.com/figz/wp-content/seloads/2020/06/hellowoofy-hootsuite-integration-1920x1080-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "YouTube Alleged to Racially Profile Via Artificial Intelligence, Algorithms"
+    excerpt: "A group of African American content creators has launched a putative class action against YouTube and its Alphabet parent company for allegedly violating various laws intended to prevent racial discrimination."
+    publishedDateTime: 2020-06-17T19:07:00Z
+    webUrl: "https://www.billboard.com/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    ampWebUrl: "https://www.billboard.com/amp/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    cdnAmpWebUrl: "https://www-billboard-com.cdn.ampproject.org/c/s/www.billboard.com/amp/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 55
+    images:
+      - url: "https://static.billboard.com/files/media/04-youtube-logo-2018-billboard-1548-1024x677.jpg"
+        width: 1024
+        height: 677
         isCached: true
 
 secured: "LGzi4XjAsxXR/pugr0dchXTZ01QkdHa7LTYG+xTMe96waj4EGodZQjY5EdsKMdWsyiflTgM+g/1GltRo3557lFNYTZ20bkViB5RncpqAzyr3aDhQpKzkzvGwjhtmPosbzyQAFh1X9r8YK8wlMmIkdqlTajZIO2TszlF+rYDeMTOjpoXkWfMduWA6UFESWD/bo6Bvs2eYoRujCRFwKs7NJe7E5rZmjRMPcFYIgEQ3fRM+ZmlzkJ1JFEwn83MATyz6ULfr2zSw4Qc8PcIWc4nF6RfzxF9bK00/LghMzF/xob6noXPsfRphUkDZ6rUVmlV1lQUSa7NzKPr+2+KF9JlJWKLOOvnY/cajJqQwDX/OuUA2yGZqz9vMAvlAQFIcQoB4yy1UxJDYA7MDpn3Ji8zl3rs18oeoay2XbmRMkgG7I/yoIinyJ5ok9NS1hh55acfkl8PJc0cOArXx6wWyHlLv4nAzbJRLwvltXKOCbLYP1ojD8HPf/iMGf2I5Z9GPAQQAFGAELpfelkBkTXIqGKT7Iw==;ncNmR51Z3sa8bFdcf88WCg=="

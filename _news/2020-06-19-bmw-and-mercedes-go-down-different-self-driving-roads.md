@@ -139,16 +139,16 @@ related:
         height: 664
         isCached: true
   - title: "BMW, Mercedes put self-driving alliance on hold"
-    excerpt: "Daimler on Friday said it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-    publishedDateTime: 2020-06-19T13:07:00Z
-    webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-put-self-driving-alliance-hold"
+    excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
+    publishedDateTime: 2020-06-19T12:54:00Z
+    webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
         width: 800
         height: 600
         isCached: true

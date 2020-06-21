@@ -1,9 +1,9 @@
 ---
 category: news
 title: "BMW, Mercedes put self-driving alliance on hold"
-excerpt: "Daimler on Friday said it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-publishedDateTime: 2020-06-19T13:07:00Z
-webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-put-self-driving-alliance-hold"
+excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
+publishedDateTime: 2020-06-19T12:54:00Z
+webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -169,6 +169,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "x7I1Q2zKvgxX8Qor7Hnhfj52LHX6eyEQZWkPhV6qxbAP7zB1eoJ81umFHUF7TR6+KRbCoA4Iw0PG2SKIRwgcOe4Ds3zk/Qr6AW9GeBLGSOdAy8SweLhbJ06U9TAq/eL9dDK+H2Ro+u9oRlsh1O4I2kfqVouGanIkq9xYo+fY2LE/TNSSVUzxrLpAIMsJeLMiRdVd/oMzOQO0MdoSe0uSi8SAM04ZHpWu28VgWWlmOSllg0GZ4ERQ3rxUA2WgdV94/I7xP0oek5vNuDr+4Ejb6GtiS+7YstPr+A+mS/214V9PRwKjcgZWytPJZvSsHHLSoRIRCGCi/zAoJ1Es4i1SRw==;C3J4uFXybkHB3KCiCfKswg=="
+secured: "JfVSOguIXbsrcualqlc+9WyxbQOERCHb4AidAGLSdvT08xRb8yjA4b4uzJFxWXeEi3SSbHuhR53iliKIZS5dw3DRwN2u/yMg4x/KoQeqRw2D7je61Fhwx94exCd0pu2TXLIhR8amNc5HdMctrttBU8eeZLRku7ZaupLLzj/TpVj/DD/1tPnwh20vc7kxPs8fHvesHYTAhJhvcd62uTklkxf3jWO8qYquGEjvo9PqAIC5LBJeONL9dqKYep3TnH0V1Zvo4jG4O8TfZ3QjQbk0rVSnk7PZUgEHNy9yTs4a7Ae8BYopvQP94ke+89CdQdKzeD/o+wQbvSmrTBbrM7AXgA==;u8xiCXa1p8sd/dLcCKaClw=="
 ---
 

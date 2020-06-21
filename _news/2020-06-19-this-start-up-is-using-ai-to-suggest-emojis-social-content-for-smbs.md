@@ -43,6 +43,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "YouTube Alleged to Racially Profile Via Artificial Intelligence, Algorithms"
+    excerpt: "A group of African American content creators has launched a putative class action against YouTube and its Alphabet parent company for allegedly violating various laws intended to prevent racial discrimination."
+    publishedDateTime: 2020-06-17T19:07:00Z
+    webUrl: "https://www.billboard.com/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    ampWebUrl: "https://www.billboard.com/amp/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    cdnAmpWebUrl: "https://www-billboard-com.cdn.ampproject.org/c/s/www.billboard.com/amp/articles/business/legal-and-management/9404284/youtube-racially-profile-artificial-intelligence-algorithms-lawsuit"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 55
+    images:
+      - url: "https://static.billboard.com/files/media/04-youtube-logo-2018-billboard-1548-1024x677.jpg"
+        width: 1024
+        height: 677
+        isCached: true
 
 secured: "lrhRCjrqI6WXqEAPZcr+ORgR1Ns+t70+tp1MTj6jOv2t3fKskF2YLD/2yJP7djOboru76lKvl7juFG1JwydsjEOQRIvR2HYkpfpr99T8oJZRIXsQgjyO0zhWi9qjTY8H2kvBMPf0vXjTFuz1wAPtDjyTSLV4XEt+0P40c9d9izPKppToyMk2/32iHZHnsCcVlueRk3eG8+sRXuqEQWinMtaRN8eOTcn+m4tMTLwbNnetK2j+fdvre3gj0c4TklJbKUNyV8QzlpTxGDWqsMIG5BHyWOvz4NvsABDU3JaQnqb5b+TxoueXc0pSAEWbkOZh/TU1IcDJ4fGAuJrLNXIeOFya6EF4n6mlyZCRj02vTQ1RVK9LJ7uNFgFyoPyFl3O7LJECl2/c09/RSi63W3ZZI+6RA4k3hVtCMvDCldLlUPhSY7fS+JMRP68sRxEWAyGy+OjC/OSXalLJXgM0NUlww+BM6MMRLet1m+kH8N2F3Ix/RJVhkY/ksTTQCaXUp3dj17btt1+Wm8OfQz81LcucIA==;Md49lXVojW51SVSjdpuIpg=="
 ---

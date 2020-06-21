@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://pocketnow.com/wp/../files/2020/06/roborock.jpg"

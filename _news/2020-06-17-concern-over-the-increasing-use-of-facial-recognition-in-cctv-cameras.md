@@ -41,22 +41,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Residents urge City Council to reject proposed facial recognition contract extension"
-    excerpt: "City administration pulls proposed facial recognition contract slated to undergo council review, police to engage community on software use"
-    publishedDateTime: 2020-06-16T18:27:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/06/16/residents-urge-city-council-reject-proposed-facial-recognition-contract/3197917001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3197917001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3197917001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/07/PDTN/ce05e7d4-f44a-4127-ba4b-e482b7ef314a-2019-0307-ctj-me_duggan_budget020.JPG?auto=webp&crop=3949,2240,x0,y195&format=pjpg&width=1200"
-        width: 1200
-        height: 681
-        isCached: true
   - title: "Tencent games to use facial recognition to identify minors at login and payment"
     excerpt: "Internet giant Tencent has launched a facial recognition mode to identity underage game players before allowing login and payment. It is the latest addition to a broad anti-addiction system designed to protect minors."
     publishedDateTime: 2020-06-17T07:36:00Z
