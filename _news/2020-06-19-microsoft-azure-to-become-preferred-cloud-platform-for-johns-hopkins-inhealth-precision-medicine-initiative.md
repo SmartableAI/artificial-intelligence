@@ -18,100 +18,59 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft and SAS join forces for cloud-based analytics and AI"
-    excerpt: "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d"
-    publishedDateTime: 2020-06-16T09:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp"
+  - title: "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure"
+    excerpt: "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance."
+    publishedDateTime: 2020-06-18T17:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: Neowin
+      domain: neowin.net
+    quality: 98
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg"
-        width: 1000
-        height: 667
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592497935_microsoft_johns_hopkins_medicine_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "SAS and Microsoft Partner to Democratise AI and Analytics"
-    excerpt: "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ..."
-    publishedDateTime: 2020-06-18T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/"
-    ampWebUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
+  - title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
+    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
+    publishedDateTime: 2020-06-17T18:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg"
-        width: 696
-        height: 452
-        isCached: true
-  - title: "SAS, Microsoft partner to further shape future of analytics and AI"
-    excerpt: "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives."
-    publishedDateTime: 2020-06-18T09:34:00Z
-    webUrl: "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew"
-    ampWebUrl: "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c"
-        width: 400
-        height: 312
-        isCached: true
-  - title: "SAS, Microsoft partner to further shape the future of analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies’ shared vision to further democratize AI and analytics. “Through this partnership ..."
-    publishedDateTime: 2020-06-17T17:33:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/SAS_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-SNG_177207662/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 878
+        height: 630
         isCached: true
-  - title: "SAS and Microsoft partner to further shape the future of analytics and AI"
-    excerpt: "SAS' AI and analytics more tightly integrate with Microsoft Azure; Microsoft to bring cloud-based SAS industry solutions to its customers"
-    publishedDateTime: 2020-06-16T10:01:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/SAS_and_Microsoft_partner_to_further_shape_the_future_of_analytics_and_AI-ZAWYA20200616093015/"
+  - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
+    excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T15:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries-2020-06-19"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Five-year agreement will support Johns Hopkins Medicine inHealth in driving new medical discoveries to improve disease management and"
+    publishedDateTime: 2020-06-18T15:05:00Z
+    webUrl: "https://www.miragenews.com/microsoft-azure-will-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 35
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Microsoft and SAS partner to integrate analytics and AI"
-    excerpt: "This partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform. Scott Guthrie, Microsoft executive vice president of Cloud and AI said,"
-    publishedDateTime: 2020-06-16T16:44:00Z
-    webUrl: "https://www.itp.net/news/92932-microsoft-and-sas-partner-to-integrate-analytics-and-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-    publishedDateTime: 2020-06-16T10:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "NiCyzWiuKkTlmlc38qhtfzabezrqqntSrm7PL8zi/dlDwlGnBzvqa44KeZeedF0YjcB1/DHdxO3MX+IYZGBWToCMGTEHuSFfLAQWrBNszL/JByVtS0qf8A5Y3ws7g7dlQftC9fCVds20Z9ryt2bVr2kqKRIRMPt9k3C/7wKsMf1xDmHMAOXgHW+Xk0WYzW6YBBfVv69bbmV2cTrlMlGB/+ISMW9nmyJfCTBf54w0GsqlSwyL1JpnNnk6U4ZqtVqKHVENi1IRFJBtBhY4YXKwJ6d6nxdirOQb+2K2RjGp/XudYIr23mC/NT8+zwBOEonfud3qL7vKQuAAoh1TJebiJA==;qCt5dpZoXS+EPcO9Gf1cdA=="
 ---

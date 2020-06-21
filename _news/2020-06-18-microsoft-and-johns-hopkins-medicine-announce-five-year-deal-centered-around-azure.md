@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-anno
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
 
 secured: "DDBjeIGVAzeeNLo1/bdOD9rqNttlclvwJT6gL17JNzwKoCcJEK8a3dNTCWb995EG/0jSpbB+3HyI1O0iSwhJDPqieCGE6wyNSFcPkoSV14rnrUU1gSPih0OPLhEFl/ZL3DZcuB0FI9M+R65ydtZOBs6zbpRAuepL/Gk52zWPJuEB7qrdKXfxslQxV4OuYNupLr4sVS9T863bawcfq/tXkgbkuU7eI4UvW+lCwFYKsEeeu9Ukq7pzewfuArs59qbdWj5NmfNjFAkAneBtA2aopn9V5fn87Qbm7HG/SYLEoBtafIicDDUXcwW8NPkeyUaY7gGflURSn5yGF89Fc2N0KR/64GSChVHpuiyA5bXwTvHLfPQL3YYm7hRskqEQeo1ptniGUUXir4Q7wIfIHj/T3iJ1LSokD/1KlTG8eHAZKyY6AmmWdMepIXkCX0UZXNKFj0fpVK3Tu6apS7oviqMYYjvuOBm8/1ZzSPg0wb1UFroIeCT7gPHcVfBlBjW9PVfs36xLDo3Axmp6L3gx0PJy4Q==;yK26ukf6XkKua0kE6DeLuA=="
 ---

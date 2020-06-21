@@ -8,8 +8,8 @@ ampWebUrl: "https://tass.com/press-releases/1168731/amp"
 cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1168731/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TASS
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Huami unveils its next generation wearables chip, the Huangshan 2"
-    excerpt: "Huami has officially unveiled its next generation of wearables chip, the Huangshan 2. This features the BioTracker™ 2 and a series of AI algorithm upgrades."
-    publishedDateTime: 2020-06-16T10:16:00Z
-    webUrl: "https://gadgetsandwearables.com/2020/06/16/huangshan-2/"
-    type: article
-    provider:
-      name: gadgetsandwearables.com
-      domain: gadgetsandwearables.com
-    quality: 39
-    images:
-      - url: "https://gadgetsandwearables.com/wp-content/uploads/2020/06/huami-unveils-its-next-generation-wearables-chip-the-huangshan-2-2.jpg"
-        width: 800
-        height: 445
-        isCached: true
   - title: "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection"
     excerpt: "The Global Top 5 wearable brand[1], Amazfit's mother company, Huami (NYSE: HMI) , made its second wearable AI chip Huangshan-2 public on"
     publishedDateTime: 2020-06-17T11:58:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -30,86 +30,6 @@ images:
     title: "Zycada raises $19 million for AI that speeds up web content delivery"
 
 related:
-  - title: "Apprentice raises $7.5 million to expedite lab work with AI and AR"
-    excerpt: "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital."
-    publishedDateTime: 2020-06-16T10:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Clockwise raises $18 million to optimize work calendars with AI"
-    excerpt: "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach."
-    publishedDateTime: 2020-06-16T16:08:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/calendar-e1591825433253.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Salt Security raises $20 million to protect APIs with AI"
-    excerpt: "Cybersecurity startup Salt Security has raised $20 million to further develop its AI and machine learning-powered API protection platform."
-    publishedDateTime: 2020-06-16T11:18:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/45f099bb-156c-4c64-ac78-52ae4c0ff9c6-e1591760189977.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "Pagaya raises $102 million to manage assets with AI"
-    excerpt: "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing."
-    publishedDateTime: 2020-06-17T09:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/406669c0-1e4f-4829-8fc5-233708467216-e1592276972478.png?w=1200&#038;strip=all"
-        width: 1179
-        height: 588
-        isCached: true
-  - title: "Kaia Health raises $26 million to help manage chronic pain with AI"
-    excerpt: "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million."
-    publishedDateTime: 2020-06-18T14:05:00Z
-    webUrl: "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Urbint raises $20 million for AI that predicts power grid risks"
     excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
     publishedDateTime: 2020-06-18T12:03:00Z
@@ -142,22 +62,15 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
-    excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
-    publishedDateTime: 2020-06-17T04:03:00Z
-    webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
-    ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+  - title: "Pagaya raises $102m for asset management AI"
+    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
+    publishedDateTime: 2020-06-17T13:27:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "TAWU78WpbwgSCwUibgfDXv41DCNj5fXY28j4pUXn0B7BqBQq0rmqfe6NeBU/Pf1EnBPt9b2K3W9pbbTXpOBtc4h2xQ5RcczpLEzrxwfTFCV+Bylf1DhArtJzoBQZ3Hd0dch1AbyM6zbAgydKCCer7JvvKYVCPxf3vWIb74nTXFqulTAoUyeuwT7suLZBkf1tCpkxee3PnLJaTf3+BVrpj0m+pkmx+VkgtG3m4p1f6K8qb853CaFVsr23U1HPdgKH9VeglyAa6kvz4n13+AsDcbnuTwRgkvgyg4zSa7gyL2+ZqTWQhqduw50cLo0XVSqc8s31vJpi6FaTyS3oLgyNqkD9kM4rkSCQSiJZR0Bg7QdYjSbz/D8XweeE1xWzltRPCNSwvXzpyzXprSkmxG/5AkjpVutcj0op/XG9z6vgEi06Ufdtah+qPE7+uEhP4oGVmKLV8mv4yb80e0HMOOGUgDARXx0n0u47P8DzK0cGpSyHmgShHda+ObTG5DQsfPsLcvUrSAHAV6ryUN5jLiFs8g==;JKCX68U7rlKPJqW+ialMmA=="
 ---

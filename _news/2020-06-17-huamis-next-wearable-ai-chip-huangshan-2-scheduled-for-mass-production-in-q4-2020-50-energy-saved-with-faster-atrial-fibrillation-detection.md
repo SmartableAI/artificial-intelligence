@@ -36,20 +36,6 @@ related:
       name: TASS
       domain: tass.com
     quality: 54
-  - title: "Huami unveils its next generation wearables chip, the Huangshan 2"
-    excerpt: "Huami has officially unveiled its next generation of wearables chip, the Huangshan 2. This features the BioTracker™ 2 and a series of AI algorithm upgrades."
-    publishedDateTime: 2020-06-16T10:16:00Z
-    webUrl: "https://gadgetsandwearables.com/2020/06/16/huangshan-2/"
-    type: article
-    provider:
-      name: gadgetsandwearables.com
-      domain: gadgetsandwearables.com
-    quality: 39
-    images:
-      - url: "https://gadgetsandwearables.com/wp-content/uploads/2020/06/huami-unveils-its-next-generation-wearables-chip-the-huangshan-2-2.jpg"
-        width: 800
-        height: 445
-        isCached: true
 
 secured: "Y5txiZxp6b/0fFaWvFKunXPPROYh3RXduvOiwbQfLoNVM7uK9Xvufq+CKocdf9TYXP7RzBpRtz/QqjkxR4yo1gZsyL0s0BWGi2nfmZRuQK7YAPk73nGwaPRx0xGPiOiIoLFUpjAjC6e8zZGKIqtnbCk/bxdk18ecet7UR0gJgBj3M00iH9om4LWfK9ds9HA+Y/D2M9d7h5mAfoZ0aGsWB5pQt7JOp/RAFPf/ChcscmVPwmkWBkwaw3UKD6TIpa1DTfHc+VqG1NdjyUPeus79WHmdl1jh3ozT/zKm5nv+jauqnB2OTe11/hkzyMqWCrlJ1nA6Bhk3nIEMAY0hmI9H1w==;t4AqpdmayQDylRoWkBGw2w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 932
         height: 625
         isCached: true
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "ygNTz7a8bg1Irlo8oppj7KU2INRzVntxTXKPba8+WycAAPbJvzUoSnJuaNgbEoWGwAriPkCEB74HV7wt74PK7uOwFDxnW4vtbNS+e7XESK29bd7JFf8aaGBpN7OzX0AO3tTpSdrLo1u0Mx9pUD35sbmUYdTebtogVcjB7Jy9W3T8xkN/yg5XxqepPmtVZqlq/AONIM21ez+Lnx5FMmn3/kmHcyEY9u6573ScjCteLz9ubZZ/5OxPUejt+k1LXed5WyyoDfbGeVGpKDi8rcaAdPUHtQFdZlg5opv0OGWraHaTS3KEgfJcuK3hRQmZkG2h2pEc+tOa101/I8+xI5KvSQ==;k8WfIzUsW38w+V8WdjcRjg=="
 ---

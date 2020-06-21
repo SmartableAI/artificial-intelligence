@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-lau
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 608
     isCached: true
     title: "Outreach raises $50 million to launch new AI sales engagement solutions"
+
+related:
+  - title: "Outreach raises $50M as billion-dollar Seattle startup aims to capitalize on remote sales trend"
+    excerpt: "Outreach is putting more fuel in the tank. The Seattle startup, one of a handful of “unicorn” companies in the region, just raised a $50 million Series F investment round, increasing its valuation"
+    publishedDateTime: 2020-06-17T04:03:00Z
+    webUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/"
+    ampWebUrl: "https://www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/outreach-raises-50m-billion-dollar-seattle-startup-aims-capitalize-remote-sales-trend/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Outreach-Shoot-Shot-3-0411.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "hx0QPhBNhOYysqUC5f6U2xhr5/NPoNmhsRsAV3qN326htBOg0EU7334rNRxSqukgNnSVLiUxLJ9DiRqdMZWCnENyNo230GPaoeRP59coYkcotjYaYkcocMLSBMdGkBP+SoC1ZUSrTU74strtLDXkew3EjUhdisGBX/M5mH9gy+Ym4QCjhXyhFjLdgkJIZF8IlG/TmZNgHBPdaPOffwNX3pbiI1M8zilVUpgeqPz8xvLWhau2ezLjYN9YPeX4RuR2AbE1RXONtJ8xkwYMuKhV7n8aE0MV+f6hXOzA/eQ5NDspq6B+n0u22po4il9370KxTTexjD5CM2rGB7zsL0bG/4SdUCX0lrTP+P0pDjEW8Ju3/3dOiciome4yur4jOikpTNyqQSpdAK/wHI0KczCvUUzUQe6I6Y9VyXSxm8+mJA2qJDDeGNCyxwsAtumKR764c5tLrpIYI/TMaGAwl0fD3ETkhsyKmm5e97RAJqpL98nOKwe5fcTcRHC/jIev5YM2PTklOJ7D7KoIMvgxhiPVwA==;kvGitvxZmlwp0aUoC2cLug=="
 ---

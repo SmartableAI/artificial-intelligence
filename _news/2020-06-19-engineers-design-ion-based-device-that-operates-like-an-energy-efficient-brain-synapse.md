@@ -8,8 +8,8 @@ ampWebUrl: "https://scitechdaily.com/engineers-design-ion-based-device-that-oper
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -41,7 +41,21 @@ related:
         width: 400
         height: 212
         isCached: true
+  - title: "Engineers design a device that operates like a brain synapse"
+    excerpt: "Teams around the world are building ever more sophisticated artificial intelligence systems of a type called neural networks, designed in some ways to"
+    publishedDateTime: 2020-06-20T17:05:00Z
+    webUrl: "https://scienceblog.com/516974/engineers-design-a-device-that-operates-like-a-brain-synapse/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 39
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/06/MIT-Solid-State-01.jpg"
+        width: 468
+        height: 312
+        isCached: true
 
-secured: "3oSwgZMiSRzjkcj7Qy5VUWeP7OOva5w/2uU593yYYUL8Hte1o6UsPZkzSD3y625MJsZmApjbTMt67mYCmUnQHBawX9Xzl4g2W656oDi/6ERygMBMvneGBXGui1ImstNwzmtRksSUW0O/avXqHbmOzdQEd4g+XC4Kj9AjTeqjC6j+7X8aBoCqJiZJE1xBdiIJMRWv8NvU86rf7llx49mWQAGBAFyiIfxTvzM3tKsQT5syp+5DEK5cbYPJeaQ+k/F8U04SqW/NV+CFgnyShR8oJM/9LmxZLQGtdE7bsbOoiZqVg+1jKXZZb19V1ECL1Zt8GUBqFxMxqoOowbQTKMX1tg==;6PA5AQ10YRvu6HPwHp5YgA=="
+secured: "kbv86x6+8zPWRcEFw0soKq+fm2h7QuRVUKD/IZOvannszIM2Fy4s/zu9rAuy4T/9l3/VEmjYc4ODzeFCVF/QNr6tOQjntplhi3/6wfXzq4G+581LJy+VvOgUgf03Ac4N7ptSUINj5Zkr/bnQJyieGtiqFzsSg6T9f3+VjKNtrFxx6930DN6YLhzSlQuAX4U0j1c2U7wXIqdnDLUogPr8Lte359TDyvHGoK86kYbyg+T8cW+UM0nrC8thSB3Uf28sHyzcjBbOPo3HTCLu25z+8lIbt2NkoeEwFvKnXBDNqj9sNboKUchJlsr1JGI6fowr9BACZ7wrGMIfZLYIKVfykfWeuu1YEFePzxyBgIE7PildEoWiCyv6cC1Bz7/ofmTRJK/DEPBHODJUqyLvTwzphotPStFLwKIqBAjc2Q0q3HvCJH2WKhOjjtMzT2ZI2rWmdU+TYNBu+SXBB7Npx6tBg58BzXpqOkJJJX2owTGT7k9Hp86fFmfy71hQfnDovDn5W6mPwYSk7ewFoCwbmJBp8w==;FdCla0K7j/fgPvYHhc0lmg=="
 ---
 

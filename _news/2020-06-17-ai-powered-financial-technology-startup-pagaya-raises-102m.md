@@ -85,15 +85,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 37
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "/nqcIr3jFpdrHkzYWbcEjUfMHU4kRoOBlAh9OASw/7L+fnKnz3BWUxC+H3baMszw9aW7TtTRZkO2Rzr7rvN0PW+7/PeEoBq0hMRkseLVbQWOEcxWYguVtyE2NG1T+K2isJXsvdgPuQrWDiIHra+6IGnQxaowjrvm6Q+jjf+nyKOvvsXLc0owMs1PrHWV6jdwcrSCc1bAewhd3Lv74Ztx5QeBSP9JykCPOorhMY2BsbDEBtcmvZ68tF2ZVz2TiS/tyivEvYvHFsMcw4Rs9jIgBA/tmO/Ntcn/DoDRfqYClvZQP0heZvCzq80Ox9ug0GrFhHxYEs7XbMSzo8yopAzHMj/SV3WcTmiAd0fiqkmqf6eOsEls3bZis3fgrShUZQh2yEeDBJ1+Cb14kw5ecaa5QCjmA5phJ0tLP2gUwR17So/BcN1UOIDveNOSMgxGRAtDq7QPkyb3+As2xp8DmihVezKnu/7i19a9y0EZCn/DK3Fk1+c57OktbusAvnJ+TleBXkuffTCfBijVQOxTL341Vg==;2yihgr9o49VyJ8j+8/AWNQ=="
 ---
