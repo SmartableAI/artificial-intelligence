@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Machine Learning 101 in Predictive Maintenance"
-    excerpt: "Machine learning is everywhere. In most cases, we don’t even think about how we are interacting with it. When you talk to Siri or browse recommended items on Amazon, you are using a machine-learning-driven product."
-    publishedDateTime: 2020-06-17T15:37:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21134278/machine-learning-101-in-predictive-maintenance"
+    excerpt: "Machine learning is everywhere. In most cases, we don’t even think about how we are interacting with it. When you talk to Siri or browse recommended items on Amazon, you are using a machine-learning-driven product. We rely on it for everyday tasks."
+    publishedDateTime: 2020-06-17T16:57:00Z
+    webUrl: "https://www.industryweek.com/operations/maintenance/article/21134278/machine-learning-101-in-predictive-maintenance"
     type: article
     provider:
       name: IndustryWeek
