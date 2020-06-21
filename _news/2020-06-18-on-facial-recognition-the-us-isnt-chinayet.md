@@ -242,19 +242,19 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Facial recognition faces a rethink?"
-    excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
-    publishedDateTime: 2020-06-17T03:25:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-faces-a-rethink/12364084"
+  - title: "IBM Stops Creating Facial Recognition Software Due to Privacy Concerns"
+    excerpt: "IBM Announced this week that they won't be building any facial recognition. The reason is their growing concern over the way that the technology will be used and the implications that it has."
+    publishedDateTime: 2020-06-18T00:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/ibm-stops-creating-facial-recognition-software-due-privacy-mccabe"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
+      name: LinkedIn
+      domain: linkedin.com
     quality: 39
     images:
-      - url: "https://www.abc.net.au/cm/rimage/12364350-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGDucd_sF3fMQ/article-cover_image-shrink_720_1280/0?e=1598486400&v=beta&t=RyREES2rq6ylT8FYoCGENKr2Gr4dOJSDNmCY2dML4tY"
+        width: 472
+        height: 720
         isCached: true
   - title: "Protests Shine Light On Facial Recognition Tech Problems"
     excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."

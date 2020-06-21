@@ -37,7 +37,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F8976d670-b19d-11ea-bf3c-cfa9c5973137&client=amp-blogside-v2&signature=897136f6e645595efaee92715fc68511ec724c1a"
         width: 600

@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.ht
 ampWebUrl: "https://www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html"
 type: article
-quality: 87
-heat: 97
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F8976d670-b19d-11ea-bf3c-cfa9c5973137&client=amp-blogside-v2&signature=897136f6e645595efaee92715fc68511ec724c1a"
@@ -47,6 +48,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "MaUYTqtt4URD/yj45dilEzUdBrTUIyJu4cA27Wsh6k9AZIkdUQATRV7PGEki9epaN8ej0Ifgfq9ItEC3dE3SOkWehyHOmjnKkz5XBjmVPeL2yFEoXoVwNwsGIJiK4ZTs6FLvmZO1pFKtDFwAo68dz4HyEax4YinpZQZ/IS8oAz8TKHizuki99blXcEutrtnzxnD2PusfIMehlkRbV/GAWDRF2rpCUWCRVWtJ4GQ5QIaq/aWYQndD+jGg6ciRxZQvgqtwK0QXnKd5CQY7ZaIv7AspQrc9w7LaR1Vf5+fOL7ul9DtRoo0UmEYH8CH0Wtk7gdLJuOMTv0Q/xa+HwT4sIA==;wCzKUd4W98JEtqVhGirJPQ=="
+secured: "Jum55OgngJ5d9Mvm5U/E9TE01gEZXNzRPQca2fKz4CBjDr9ywEd1u5tNG19YXF5tKoxe/nTmgatTh3YBH5LScef2okVFpvCOlPPf+qiq8QIs7hM/zdcmM86kE4J8Q4IJwWd+NolVh5isgZc0hjHIgWS0p3HSVYHE05DZ6HiZZK+02TO8Kft5nRoQaKhzfGD1qJ61B0EgL2RuFF4Ohwzz5nwUK5XKedfbokOMhskjle+TezF9aPXyQapO+hrgU480QVtyDdfgGrh6XytqiHExnGYXLWUmVCmgaRG1TfMRBnTmb4pvoMqx3iDrvjr8LFIq4PXxlSKJNBgAmLotHHANhdraWiAn6KFPvrgWwhDof1GbNnanXODOoTSdIjmeGyfYuMAaC2cgQd40U9Y/Cw58aRlqWeiAhUWSkjBv2RQm2UlmyStTLdcbBHCAdcdPj6l9DxCxUiTuaJbQwV2fwENN6IXHeKZH28ootjxwcB7Oxp6BBiA0+AXVoo5SQcc0u+0cpNcGMXBP0fL9dfRhu+aHDA==;ajJ2pzRuPawQUOA5Q4duhg=="
 ---
 

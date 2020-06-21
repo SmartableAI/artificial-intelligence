@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Etisalat Misr to provide AI virtual assistant via IBM"
 
-related:
-  - title: "Etisalat Misr transforms customer experience with IBM Watson Assistant"
-    excerpt: "New AI virtual assistant to provide personalized services in English and Arabic to Etisalat subscribers across Egypt"
-    publishedDateTime: 2020-06-17T03:21:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Etisalat_Misr_transforms_customer_experience_with_IBM_Watson_Assistant-ZAWYA20200617030746/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
-
 secured: "+aBPL3ptoO9u5IUDKC3hVczYDZVu9vLrpUQhSveo5uoKgeoC9hfM3/9uVpZlBtWqFK9ZHt+Keqrjuhc+gPcL0jkv2jUvqlB4tr+yQirQ3tWT7AZ1GveCpeb+ztmbEUtl3fRly2bKTRvdNxEfg30Okgt+ptOBlnF/VGGiZymgR2u0TimyyK30SYD5WtBnMPCWQCWSPRdWbvXhe19vxzzTyzqdrbllhXTWUhwiaGv1viFkYtQRJKEG7d01szBnotdMD7hx7jA2r2GZekWSK7Yd2hYrzF2v8SFkBUuspmvP8zJUuYZ8bMPpLJxsWxjP8/Ee6W5R7bhc52Wyxn7bbSPfrQ==;QveQcH/pTdwMhNj0/TcnKA=="
 ---
 

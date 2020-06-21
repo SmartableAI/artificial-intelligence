@@ -77,6 +77,20 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 39
+  - title: "Portland delays action on facial recognition ban as it kicks off review of police practices"
+    excerpt: "City councilors postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
+    publishedDateTime: 2020-06-17T22:10:00Z
+    webUrl: "https://bangordailynews.com/2020/06/15/news/portland-delays-action-on-facial-recognition-ban-as-it-kicks-off-review-of-police-practices/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 29
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/PORTVOTE110816-3.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "\"Coded Bias\" exposes how facial recognition discriminates based on race, gender, and more"
     excerpt: "Filmmaker Shalini Kantayya spoke to Salon about the need to hold companies accountable for tech & why there's hope"
     publishedDateTime: 2020-06-17T21:03:00Z
