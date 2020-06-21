@@ -1,28 +1,22 @@
 ---
 category: news
 title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
-excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-publishedDateTime: 2020-06-17T09:20:00Z
-webUrl: "https://www.reuters.com/article/tech-pagaya-fundraising/u-s-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds-idUSL8N2DU1DP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round. TEL AVIV, June 17 (Reuters) - U.S.-Israeli Pagaya, which uses artificial intelligence (AI ..."
+publishedDateTime: 2020-06-17T09:06:00Z
+webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "d5U5XqwQrHqQzj+Jx/GGVHsA7C7h9Z7xozMmnRvc2/bMJWGK8byFWelfcqOt6NxLmXxV0oC7XHoA1Yo4SEz2Zs8HgTVxCjUs1xFdS8npo1vDSjOSM4rv4sZPqPXk0CwHn2GxnTgeWKOuWyUVGIK0f8Se1Xtl2pBnRiVtMOQY5VWzXZV4rkwSk4nooNImzLclGIQZjpem3oTmDPnRCTpBjv2MgoiklFXdiYmZNsuo91Fi93Q8oN1EluZUVjw97SBb0wUZjaSa0RkaPpCIhYjDx4uJy7c3bSuFGcmQzztUj7wr4cHb7UpSgdZmrcDo8qrbcjR7tF5H+wJMkmaxjf2N0g==;a8jvyt+hjl19Tq1beuIX6Q=="
+secured: "EDNV/bI2IUwRA6r02pIuGTdu0upDIBqw8Sc6VoVNBP6LdCzMUZHDtgBir0iyY6LJ/A3LkDko7Fb29pF5GwwT3uNnWPdUs+SCFUhHLYtKi7LcAHp5WJtm1srNXPHb9v1ODab+HunQ+OL5tVtMz0f4prklpMNGpzCeeVlq2nroM9e/B46PHg827VKLtYs+1DR0mKGeOyv29oZekOAHBeRZ/RbQomgOGjg5fPlwaXz/j4mETbX/mxZgYM/H7UF5Dp21UkGdTMUi7BQAACaDdJ29hRr624vuvCJIwaUcUhekgkUCYnFMKJFTXFwOo0wdd/+lQfjtccO1XOJUBDddwCUo1ePgZ2QdkQ6NM7ezwrkjhzHCHJSQErErVQ4wjDd9azarrfTSp06yRlnBB/e3hQ/aGokZIObvFLy6KVjCdD2RKdSUrEd+eI775lcSwDqVcdw9JHJvtp5DRa3IzirGswXlwC9QsuWotRiQ0PAK3Z4hSPuT4uziTJdWce4AAB/0Mv3n/d9n+pXja5rYN7C7KDlVog==;/CRe2aq7XwDqiHIpF9AZPg=="
 ---
 

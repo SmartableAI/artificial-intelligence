@@ -1,29 +1,23 @@
 ---
 category: news
-title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
-excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
-publishedDateTime: 2020-06-17T23:47:00Z
-webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+title: "Hry police to launch facial recognition app"
+excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
+publishedDateTime: 2020-06-21T18:30:00Z
+webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
+ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
 type: article
-quality: 40
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
-
-images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
-    width: 650
-    height: 450
-    isCached: true
-    title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+  - AI
 
 related:
   - title: "Microsoft pushed its facial recognition to federal agencies, emails show"
@@ -229,6 +223,20 @@ related:
         width: 299
         height: 210
         isCached: true
+  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
+    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
+    publishedDateTime: 2020-06-17T23:47:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 40
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Facial recognition faces a rethink?"
     excerpt: "Why major tech companies are pulling their facial recognition software back from police. Plus, “Want to read this before retweeting?” Twitter tests a new feature that could slow down the spread of rage and viral misinformation."
     publishedDateTime: 2020-06-17T03:25:00Z
@@ -271,17 +279,6 @@ related:
         width: 1400
         height: 1048
         isCached: true
-  - title: "Hry police to launch facial recognition app"
-    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
-    publishedDateTime: 2020-06-21T18:30:00Z
-    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
-    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
     publishedDateTime: 2020-06-20T22:15:00Z
@@ -336,6 +333,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "Qq3wbK/cEhZb+h5ax6iP1A9m7Nn4Rp7NYtL8KNjv7EY+hOhXAVogV+bnLPbgkVUt954wKrEjRCzpKVwgn5a2iKx9CowZM6ND6vRm2Q/ljtPPMkCh/Bkw/lks9k+VVLhLJFlmVRX0r4bwG1xAWgjSih9RuaKDQQp74MJc/nydxGkbiaB7+A+BWmvg0N9VYoVFEsSQLIsAHevnpTDJkGEkvA+mZYBBy2O9CkywDUPBaY45t7u86f14r4QrGfcX1NkgKfIk5jXAUXlk/vEU5UX9Saz3mP/JgCmOmCKHYnIrm1OITq1rS5qKyNOzf8nRW3BXbM6W1xruQKg9FyVGzQC7jjeYt9Rgt2UV88HyFhl3Dz7hS4CyPeD9fVUXUlI+JXB065v41/f+uOVGXwwQE/hmXKWUNgvKajEfW3CE0j4fWy+GxsYVL3weywYb9Iww1w0sLfqhrQz/t1ta3ZmjzIvar0u9HDLK3kJrM6O9emuyWKKNsu127W5upn9eGJW4H1/b33hgIfPOBUVfEas1yQW6Tg==;SqotmM6DNcca/QZ0f90w4w=="
+secured: "MlCqv/N7VjOvdEtso9JdQOcu3Cz+Xp/QVe/oOn9TUyNZPdDk6XfI7PTlP27v/achzsyXFaIgYG+oATtGjN9fH82CIQClal8MLq9mD8rH4AVL+wHQ5J6ItHfgk8oZkZiB6FL3Ba9ml14Wr0jlOVVj8u/aUdJLOrA1pIs6L3LjTqAlI8jR6uhKRDQ8KYHE5boqqQXb14+3RV7tCa6XxeJ5sSnoDemxJJp7P8mzSgVWqgFovuSm/qFIaIVAECs13zzDCg7sCPQp6FAPDM7uTAypf0iDMPtWd1sm77V83g+x7+Kn1xVPqvLew1ElO8uNyI8SiKZ1bd0ElaINBY7S9gGpmA==;7yRJ5trnjqyA5TQfHRksAg=="
 ---
 

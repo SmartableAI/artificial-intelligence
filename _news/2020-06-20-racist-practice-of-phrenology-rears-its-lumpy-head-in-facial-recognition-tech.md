@@ -279,6 +279,17 @@ related:
         width: 1400
         height: 1048
         isCached: true
+  - title: "Hry police to launch facial recognition app"
+    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
+    publishedDateTime: 2020-06-21T18:30:00Z
+    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
+    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
   - title: "Emails Show Microsoft Tried to Sell Face Recognition System to Federal Law Enforcement"
     excerpt: "Today the American Civil Liberties Union released emails revealing how Microsoft aggressively marketed its face recognition product to the federal Drug Enforcement Admi"
     publishedDateTime: 2020-06-17T18:44:00Z

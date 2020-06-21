@@ -1,20 +1,29 @@
 ---
 category: news
 title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
-excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in"
+excerpt: "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in Artificial Intelligence and Machine Learning for Automatic Speech Recognition and Machine Translation."
 publishedDateTime: 2020-06-17T19:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine"
+webUrl: "https://apnews.com/92741c496b6e4893b0378a6d4a473699"
 type: article
-quality: 0
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Natural Language Processing
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings"
 
 related:
   - title: "SOSi invests in AppTek for AI, machine learning capabilities"
@@ -32,6 +41,6 @@ related:
         height: 386
         isCached: true
 
-secured: "ZAVHrlkJt2HUywbSwlaprcCfqK23JHYclp/PGWo70jvD3fYkeGH9cKjA2YJJykCiT1SjzN0F4mH1Ur1pjRwiYJBApcSVNxeLh8hJxGXJh/ixVJF2Wbx97Uy/CYIF3pc73kfr4QPnGLGK6UUBWK2k7Bt9RpP8dwjNETb25b2+s/rA2G+45HCb7dYVs6Laqy+7lZ2sS005xRhLaot/HbS9JlaX6wl3i8ugEN6KfY2t0rwdZz5TCT465/DZG8YfPKOD4f0lS1sZGXbMqz9tc1qhToQ0vEJ3uZUl4SxqQAoike+PlIZovrnKHofaQo00evXDcx6X815aOUCo03QGnNzgbg==;hMTQBalZiYlVtYKoxldkXw=="
+secured: "v+amzbqI9VBVn3ldc2NSMm8FBR0mIeaLzG653Q8ZWUzO4+dM27ao1ZRH0Gs63SiA2AqScyHD+PVnEWqoH7dJU54VUjeSfIsy49HPzk0ycEDTNDi1Sr81DYbty8imPuxva4yplhe+oSaYYaxzdR3xV1jvPp5XdDzIrIvChESY74BoCK2zrVIH5ZY78aydtrLonCnqL8REvccVBwI9Qyukc1h88sYAIckdnzh7Vl4ulz5OYhhF46W/TP0wpmiEQPI0GPDLbKwkSbgJgwtLvMo1+bY09JIYFZm3NlYDP1cTqh6iuasKG2qoW+ukyzsKcRI/wYxlin1oRoylSe89YfNBaA==;/mnXHWOSenZSVv3bD68DKA=="
 ---
 
