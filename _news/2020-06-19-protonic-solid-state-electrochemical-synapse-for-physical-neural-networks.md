@@ -5,8 +5,8 @@ excerpt: "Designing energy efficient neural networks based on synaptic memristor
 publishedDateTime: 2020-06-19T09:21:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-16866-6"
 type: article
-quality: 23
-heat: 23
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16866-6/MediaObjects/41467_2020_16866_Fig1_HTML.png"

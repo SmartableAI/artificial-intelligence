@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
-excerpt: "\"When paired with the AI engine, it has the speed to improve industrial robots ... Qualcomm talks about compared to existing solutions using more conventional chips,\" Taylor told TechNewsWorld. The platform is available with multiple options, and has ..."
-publishedDateTime: 2020-06-18T20:19:00Z
-webUrl: "https://www.technewsworld.com/story/Qualcomm-Introduces-5G-and-AI-Enabled-Robotics-Platform-86717.html"
+excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
+publishedDateTime: 2020-06-18T19:12:00Z
+webUrl: "https://www.technewsworld.com/story/86717.html"
 type: article
 quality: 39
 heat: -1
@@ -201,6 +201,6 @@ related:
       domain: newswiretoday.com
     quality: 49
 
-secured: "LzLBiQ2xYfVUkIi1xQR1fr+5Yj2CYvSRfijfg1x34lP4ZBZEma4g3Wm/CLDfpEPs0JDRbawD3MMo50VxZihLUr7xYfT/rS1IHKDo7NKV17mAd+A9hFzmsZhZUVOUPvRpxWoDMKWbUVzkyYAZsea/bGOGYly6+E6AC2Afwdd57yNFBxk6J0RXpGtapkt+kL++0ghMY2DS/lhEj9BYXtSlzh/akzooVQH72TwU2Z6jgEMGJUlMHqyJsrgbsOA8A2gaZnaeZetYH3T/6l40vNGDWqPfTstzpbfdQc+cill6LvostJOSc4oITNZLBZv1CTVGFiiiMgItc37im+zrnvZwmw==;Wva5B97JGReizBtdfFBuyA=="
+secured: "HP2+vdgrnPPn9y/0fF0T/jyUSF30GopppMSk29dIhXL3XQK/A8BDYUJOwE1Hrg3O3AnQG62LbpPFZoR3jqI3aJLZs77vfJMmNKwN3OcrBEDFGANlKORHvFl/gxbhr606GRyuTvONnAJGMWi6t9lr8pbH6iFpO+PqU9DdMly858Se7QHlE3uZD0GjF+eeEZSHMUv7q4mkjPaIL1VTihKaYlwxys3sKgCvjeuTAXaaVOLRLf1YUmI1bvWqF6Oy+001P/8qannf4pu1Ew4tFfTtT7tBDLmkoTGZiAU4Q4yy6efGgMCMcYMwcydgI7MiXKiZLov9NEC0+zmjSdGfqsguwQ==;V5n6PbcibuG8nGL8barL4Q=="
 ---
 

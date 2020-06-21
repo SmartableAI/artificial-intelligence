@@ -1,30 +1,27 @@
 ---
 category: news
-title: "US-Israeli fintech firm Pagaya raises $102 million in funds"
-excerpt: "Pagaya manages over $1.6 billion of assets for banks, insurance companies, pensions funds, asset managers, and sovereign wealth funds using AI."
-publishedDateTime: 2020-06-17T10:43:00Z
-webUrl: "https://www.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792"
-ampWebUrl: "https://m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
-cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
+title: "U.S.-Israeli fintech firm Pagaya raises $102 million in funds"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
+publishedDateTime: 2020-06-17T09:20:00Z
+webUrl: "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Jerusalem Post Blogs
-  domain: jpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/458910"
-    width: 640
-    height: 428
-    isCached: true
-    title: "US-Israeli fintech firm Pagaya raises $102 million in funds"
 
 related:
   - title: "Pagaya raises $102 million to manage assets with AI"
@@ -108,6 +105,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "g6ZNBQJOlGE930HlUV7NiOVhcx9ftLvBIXuA1NRD7xbJWG8JbK2c4hDKEgiyhOdTXvg8Js6yS2PdUDwD4EUfl46+m5gxxtuqLxmSFff/OPmtwwoHgzo6/4iVRQZYB/g4p//LEVPzN2R4FmD50i1VnzIhXd92xMUxFaJePIrZDr1gSYj9Eed08ulCDpkaOWGgyApWMRYkxHjaElIIuiAt6ehBS+a6r0t+UwH1agcWTMkPsXKxbQa59GY+lX49nit4ci27xXthkMiNyLBUVrQIWQ0WvuoqBid28Bq6/MPlPhkvSA7rxGVa24MD75uOifGSSLAVqYSVX4Wg73JJCL7Ppg==;P0AOMj3/l5AY3rSy3ZxXWg=="
+secured: "nO44SvkNZ+Sfzexbybhnr9cwpjfO1dbaz+UHmd47mE7UTCHYSPsrbWJkrcduMl2gaF/y16jeQUJTVjL2xI1p+9Uo1sf/OECl199682rIjBNnns33IJeP1hvs7zRdXWyuntB/s3GTYIjicCYQnN6MotUHowE/PwI83rcE4L+HDXTdPD66/rvLG25UKlyAGS2ZeWLr2Ic+jgs8sTuqt/+FrF91vT3INN/BeoVbwC+6fouu1rtuJUznSEkErHX90gPNbUhGmdvncr5cO0eHvnCvJeeuel0u5SVdsQfegtcA3Rk52Pr6EsbrT5XeBQ8TzNsvx8msIyCoPf2nSxirEI9QIw==;7hPnDar5d5wHdkb/KSzIhQ=="
 ---
 
