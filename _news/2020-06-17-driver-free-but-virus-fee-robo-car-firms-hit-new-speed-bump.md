@@ -2,29 +2,22 @@
 category: news
 title: "Driver free but virus fee? Robo-car firms hit new speed bump"
 excerpt: "This despite its use of multiple laser, radar and camera sensors connected to artificial intelligence. Cadariu said Waymo has a team in the Detroit area working on snow and wet roads, while other ..."
-publishedDateTime: 2020-06-17T19:32:00Z
-webUrl: "https://www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/2020/06/17/693751e6-b0d0-11ea-98b5-279a6479a1e4_story.html?outputType=amp"
+publishedDateTime: 2020-06-17T19:25:00Z
+webUrl: "https://www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/"
+ampWebUrl: "https://www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/62WKXIE264I6VCP5FD5TCPIYQY.jpg&w=459&h=306"
-    width: 459
-    height: 306
-    isCached: true
-    title: "Driver free but virus fee? Robo-car firms hit new speed bump"
 
 related:
   - title: "Driver free but virus free? Robo cars hit new speed bump"
@@ -111,6 +104,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "lYHJK3bGOYyJ6/MCx398E5ny3w3e9hXsb5Yqb7fyaVXqODSEzBudsWJBwa3nZTLHjkLl9ecel8VG5MfGX6avqVRpn/V+OgKFFROAJW7YaHTBKBTlDQf6+AyYEDTRzsEUIS5GV9PmMj9zRT/EOpP6i/r8yDHVCr45g8aYGaSdjksRuMHm4KKWS0g9GvO4QrsDoKAWyjkQOrBtJBF2ZMaNUvOsSFq96pBnZ7c85lVrgh1FG2V1aEdqHyoSJhyiwUoDyuKo9xuh8oBaFaJLUo3Ok9lpx7IaSpAxrYr6caHwJ3aDjYRdZhu9i2MW9iMZGEenAuPeEjWdRlhrvIU7nBq6nQ==;MDPqkWyquhdRBXHzHwF4HA=="
+secured: "buJecVfnpS1LcfSMknNe0m8HKnXGyKlg0tg06cX36YxHlbsgPvlIBNvo6tzExAMNPPfvtZiFaQnzszaZ7eCv65wItIKNCdeeU3MZKRBTpxUaz0rAzi8WaadyVqbu9n8n5mc9N/F+RbmqZlzgHGHF6+0FG64dvYZlIKU2Ojh8Hy3elnHGgiAb48xnyYz2Zm1R53xGrO7uaoDuYlmPyHi7B5oIXXWjgDBQvSUCwXEyB9tWV13RHVNTFfNiVt0ddB0RmtqE5lbZcgUv5GXQBNZWPLAeYNageF0YsYpYe0MN9zQmKE4Id4Q4t6hbC3yRRdl0M/E9XWcJJWZa52i+lAEcrA==;JHSGCJ481u22daEongccBQ=="
 ---
 

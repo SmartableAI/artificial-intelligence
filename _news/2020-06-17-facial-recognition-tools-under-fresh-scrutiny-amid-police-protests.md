@@ -193,20 +193,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
-    excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"
-    publishedDateTime: 2020-06-16T08:32:00Z
-    webUrl: "https://www.wxyz.com/news/detroit-demonstrators-calling-for-city-to-cease-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 32
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e724835/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F170%2Fbe88c4e651db4a7dbe102614d7272948%2F17003cd9f1d84f1bb53047e329889f17%2Fposter_de86b411c6b74ac4822674532430b7ac.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nt2veFgny73LlSlcGX6of8NH5PDrkBRsCNXL2egxyzGoOO61r+7xf4F2el5ZBmbQTv7zk/QWucAQSIT9tc7On9y6mckh9lDEd7B70u4WHwtmXXmC2ZSM909iHOIDwv311x2hRLcT14xISllE8PAN2O9sM+/Ik3fep88XrWwRKTNO97OMdn+lSCVP4uR9HDw9u/BMuhdUj14fJZlTl2dFUVQD8wNrrSVndIVArA1MFpLht6xOaj7jD8/G7D8p6U6o3zRolxTV6EKkN+dLij/8vuxr8azrO4rfmqiFzPzdI/1pvITbF7l2FHpWDC26tPJqlSa/92pMS+mdbb8I9FrtiuUxvb7jYQGhW1nLUPpFHj9XdWyZPhao3pN+5OqdvCOP2daCgDj8e8g7zdrVe8Wd1jXTbAeb4KmZzN8NTOhG7uBqdW5y7JcRDQWF4dLKCgg+3SXlGwrPinfex03JWL2EoRlZwU6yPJahihP72ojhkkuaTLKCfE13pOPSson9KWMBOfI2RUVLsGQXzz9nONOzJg==;eD9WSCg1xJuaPFKULaIBxA=="
 ---

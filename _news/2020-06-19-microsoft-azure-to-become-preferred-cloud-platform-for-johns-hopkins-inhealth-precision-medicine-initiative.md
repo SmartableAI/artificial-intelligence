@@ -112,15 +112,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "SAS, Microsoft partner to further shape future of analytics, AI"
-    excerpt: "Microsoft and SAS entered an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business products and unlocking critical value from their digital transformation initiatives."
-    publishedDateTime: 2020-06-16T08:04:00Z
-    webUrl: "https://www.telecompaper.com/news/sas-microsoft-partner-to-further-shape-future-of-analytics-ai--1342613"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "NiCyzWiuKkTlmlc38qhtfzabezrqqntSrm7PL8zi/dlDwlGnBzvqa44KeZeedF0YjcB1/DHdxO3MX+IYZGBWToCMGTEHuSFfLAQWrBNszL/JByVtS0qf8A5Y3ws7g7dlQftC9fCVds20Z9ryt2bVr2kqKRIRMPt9k3C/7wKsMf1xDmHMAOXgHW+Xk0WYzW6YBBfVv69bbmV2cTrlMlGB/+ISMW9nmyJfCTBf54w0GsqlSwyL1JpnNnk6U4ZqtVqKHVENi1IRFJBtBhY4YXKwJ6d6nxdirOQb+2K2RjGp/XudYIr23mC/NT8+zwBOEonfud3qL7vKQuAAoh1TJebiJA==;qCt5dpZoXS+EPcO9Gf1cdA=="
 ---

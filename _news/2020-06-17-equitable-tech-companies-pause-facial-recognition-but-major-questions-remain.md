@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-compa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
 type: article
 quality: 100
-heat: 220
+heat: 210
 published: true
 
 provider:
@@ -196,20 +196,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Detroit demonstrators calling for city to cease use of facial recognition technology"
-    excerpt: "Calls to end facial recognition in Detroit continue to grow louder. Critics of the controversial technology say it's racially biased and often inaccurate in identifying people of color. A vote on a contract extension for that software,"
-    publishedDateTime: 2020-06-16T08:32:00Z
-    webUrl: "https://www.wxyz.com/news/detroit-demonstrators-calling-for-city-to-cease-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 32
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e724835/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F170%2Fbe88c4e651db4a7dbe102614d7272948%2F17003cd9f1d84f1bb53047e329889f17%2Fposter_de86b411c6b74ac4822674532430b7ac.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "6pBfpPMyCNfZkqjiy8FJ2AKK9qD49CsmQHLaBmPHbLzFDmuiXN5+6HBCF9CnRZHCwJnSYw0A0IduhOLYycsyt4wg2XCkxuonpX8LdLKS2mnSB5fT84eXfNnQVXbweQ0GxFhqqWiWHtwOAhzknfzppNwvfb+oHpjDECaSrqHa2D9422ZEVwaWXQJ2xfpwT9FA7H3ml/Rs3LEFqKC44BjR8HzjEczfCT1zkzaY2HPweJ2Xor1xesdxjFFZSUS4P+Wll12gYFOoyUL4NFwHg87BTGokhZ9bnret8gMfjHTcjkqK5f54kBaqHstuVV6ZBahQrSb4UzQ5lcaI9M6RRMyV+1wQcTtrKvwyGzybDNu91tsoI0GZX5/qOmCidTwM6HJeCoV9kYTR5PGXFAL0ecrzBh0U3iz5sftxGJWRmDc0c/9NYbXbZ4JqxrjE5iz+SclcFHmVXWYhDOl7HU3OllhcRWpbYoG+O1GtOfYgoLNHVcFmWn2E4vS2L7uxAmZvQMfD;SFjV0xGWdjwtF67NkGDSrw=="

@@ -103,15 +103,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "SAS, Microsoft partner to further shape future of analytics, AI"
-    excerpt: "Microsoft and SAS entered an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business products and unlocking critical value from their digital transformation initiatives."
-    publishedDateTime: 2020-06-16T08:04:00Z
-    webUrl: "https://www.telecompaper.com/news/sas-microsoft-partner-to-further-shape-future-of-analytics-ai--1342613"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T09:38:00Z
