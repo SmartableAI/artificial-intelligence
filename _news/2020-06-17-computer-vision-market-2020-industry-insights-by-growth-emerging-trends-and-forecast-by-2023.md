@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Share, Trend And Opportunities Forecast To 2024"
-    excerpt: "Artificial Intelligence (AI) in Medical Industry Description This report offers a potent analysis of the study of"
-    publishedDateTime: 2020-06-16T23:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-share-trend-and-opportunities-forecast-to-2024-2020-06-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence As A Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
     excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2019-2027 Global Artificial Intelligence As A Service Report\" provides data, information, brief analysis, company profiles,"
     publishedDateTime: 2020-06-18T05:14:00Z

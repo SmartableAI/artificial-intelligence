@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/"
 type: article
 quality: 105
-heat: 315
+heat: 305
 published: true
 
 provider:
@@ -327,20 +327,6 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/06/42434621355_0218c4df3e_o.jpg"
         width: 1920
         height: 1024
-        isCached: true
-  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
-    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
-    publishedDateTime: 2020-06-17T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 24
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
-        width: 647
-        height: 450
         isCached: true
 
 secured: "50ESbazZlFcyeHTO0Mf9kPc9caE0XZgBJQxes6fq4ow0mE+p8tv10AlDoQ/+ajm9V85mVcTGuqVze1eeXz4Xblf3HVWNylqnLWSTH54KPjtbOWTjuaaEye3HTyttglZ67ypqflAMEC0vCLmk0whfoLRyjOvUPM/C4abNzc0qEx5oFhU7kHnb17n7En4p4X4YX8GWTgE2P/pFg1u4KMSiRLgj1Rfk7CKaQPPyvNG+QOvfjmTYIT9w+Zi0B9F6e6TQzqpxreFL1EWo6kNSjgvvsD9zQX7lwX9k+aTyj+Ot7M/6KqFlPBKknvGRoHduCGkOxBIrMrhtAyBHRGkt8dSz85xA/jxSow8voOKQW0EIKL+dNej1OoPwEPsYmNP2gCPXtjkd4kSsr+Ra3GIYnMqOMdriMpEkN9bM1OkLf14y5vy4q2mFZt16tZwCDT9DPxmOOEhofCB5FJIVGJfbYmeSMG/sZ1qn6aySlHRc+YlSw5SVhn+uqEcMj3d7bkI0pb4kmrzzcurxxb67WBkK13tfeQ==;UbxfgPpjSYvJ9bkS9P2rDg=="

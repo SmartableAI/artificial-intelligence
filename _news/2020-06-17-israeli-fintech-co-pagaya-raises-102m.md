@@ -57,17 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S.-Israeli fintech firm Pagaya raises $102 million in funds"
-    excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-    publishedDateTime: 2020-06-17T09:20:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
+  - title: "US-Israeli fintech firm Pagaya raises $102 million in funds"
+    excerpt: "Pagaya manages over $1.6 billion of assets for banks, insurance companies, pensions funds, asset managers, and sovereign wealth funds using AI."
+    publishedDateTime: 2020-06-17T10:43:00Z
+    webUrl: "https://www.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792"
+    ampWebUrl: "https://m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/458910"
+        width: 640
+        height: 428
+        isCached: true
   - title: "3 Firms Steer AI-Driven Asset Manager Pagaya's $102M Round"
     excerpt: "Pagaya, a financial technology enterprise using artificial intelligence to manage assets and investments, said Wednesday that it had raised $102 million in its latest fundraising round advised on by Goldfarb Seligman & Co."
     publishedDateTime: 2020-06-17T20:08:00Z

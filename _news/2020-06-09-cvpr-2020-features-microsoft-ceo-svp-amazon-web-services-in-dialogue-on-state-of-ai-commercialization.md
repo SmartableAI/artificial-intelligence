@@ -1,26 +1,19 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning."
-publishedDateTime: 2020-06-09T11:15:00Z
-webUrl: "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4"
+excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
+publishedDateTime: 2020-06-09T11:52:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-
-secured: "Bg4GcOlctjl9aUdOUE3UzmjhX3rEGpumYwEybiEa9fSu9+JLhiqwvrtHyddtKVJaoPymOsoGlzUcw9rvbMXty37aAh4SaZBKgl93sOsN6Wp5HBJRSkvk2PYn3qAwZ4fP+uh29SnufMJcLxquuHbCP8JzZEMIsT9ADPB9thvLJhWcLMEgK5OChJhwqI2nUyRMdLmhDpQ6DpOKPVnhS+um6HVCLR4YecfiPKHZXug9LmFgv+rexBVSIAdXHZNuta7Ao+q93tScKI/IPtyk1fW3BmNJPSQ2tsaKGMyk0csVZSVzR+569cTV7d6Ix1FxgJ2DxByl7CSBRlkryE0xQFxSvg==;dphGkf1NTRC9tRqWz55QUg=="
+secured: "xDf8LnqK1XNekuxrGWxD1Xb8QuT4njfNakT9WDRpgqPfSARsGhWPqqRGIA4+QvIxV2AxR2V1TAMdLQF7sud57xXzgkavIhlc4K71STvx1Rn1CbxQtEGDeW2YM5M0DNsUiYVEKu0kpMwIt7nIg5mlwrSLxtiYGoWuFeyCeZo2KRJcZoTwZ+KYD//+d7W8BuUro9SmPEpGdwtuXfkx72Omtw6qaHgZSGgMTjLBD0JYs31jShWa3WbkSJEXaW/xQu35uZkYjViOEQ76liy/n3dXz/96pZCKVnIchNOMEcEiDmokcUh/r0SDPWU/45iAjyUEV76tdW79G/uogsPesQXQ+w==;+W4rlLeQ+nEAMipd+t2cUg=="
 ---
 

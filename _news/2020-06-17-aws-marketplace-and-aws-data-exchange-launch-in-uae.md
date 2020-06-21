@@ -3,7 +3,7 @@ category: news
 title: "AWS Marketplace and AWS Data Exchange launch in UAE"
 excerpt: "This expansion unlocks new business opportunities for UAE-based partners, enabling customers from around the world to discover and subscribe to software from UAE ISVs and Consulting Partners.\""
 publishedDateTime: 2020-06-17T08:06:00Z
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/AWS_Marketplace_and_AWS_Data_Exchange_launch_in_UAE-ZAWYA20200617075308/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/AWS_Marketplace_and_AWS_Data_Exchange_launch_in_UAE-ZAWYA20200617075308/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "AWS Marketplace and AWS Data Exchange launch in UAE"
 
-secured: "p+pSOREXoEjo1OtWR7G9ARmQoLWuDLCw2ADKNQUF9NbiweFcZ0z6e+RwMgr/TrjpCm/BpRtPMPfstXT7ZqGN+J4B3UGsvf+MgtJdXL5iAz0TWmw4emuwkRcOEU0n4t1rrO/FK0727mJhPqfhniw3Q2GFUCLpD2mlVIJMfMvQyTQQoE0tE+6akVrsAajni6aAiY4328DIKLxV35GHaUZlEcE+4bexUituze/1JVBWr0Bmri7lb6CFpbmjtJN4hZcqBA78bfObmGmpz/B0rqlIKar3h7jxax59OZ0rvhLgqs5EhlPl5UCBmoe9t4M69mgD0NYV5LsEgGM9PIBR8NaEdg==;53oROnyDOQwYRLcoRke86A=="
+secured: "ZLX1+IrZAuBMlH+v/Fy0yNaH1W3zcKCSLHqQwVkO8o4IZuMzFkPYaVtEWUWOtZ7VFzVyQBm67vN0D/gPyU0D2Bp6SWC6jqnKaJQ//RpVYway2nyhAoTFwBO+NNCndU5TwP6vEUC9ewEs2VMIW2PTpQRdP0cmuHBveq1KWJd15U34MuA/DSl9K4q/mv1o0w0nBQAWy+lRmo7GlgExDIKlDy+WjHAau1yfY3KHbSSlhfiSzYMIcGwHj4aQkKKE6Hn0UAGLiciesKwfrWccXFUuMMijYKFAFxCzZMEzkBmCwwelZkUJC2j9//IhzpvcDWnzJJBNX+YI2PQ5ChMLXIGNfg==;dkwBEg2a3ZuoUgvHhGnADA=="
 ---
 

@@ -323,20 +323,6 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "ACLU Report Pokes Holes in Microsoft's Facial Recognition Stance"
-    excerpt: "Microsoft is not wholly opposed to selling its facial recognition solutions to at least ... a senior staff attorney with the ACLU's Speech, Privacy and Technology Project, per the ACLU ..."
-    publishedDateTime: 2020-06-17T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/06/17/microsoft-facial-recognition-stance.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 24
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "uA4CXOmUJkgG5wKhA9tr0BQXW30rkcPt9awDslVxoI//VnfjiK90qTgwfqWi0JtlnUAimvcTThzCvmQkMSsDweHBVp+z3SoWGQ2FVWcvm6HLnwdvkomGXUYYiStWg0QL4bBzcdpzfT/wYV5CbTdGLVgr8LZTFMCBCm0fdc6CcwAmD9Y2JVGadk/9DwVTywzS295maag1Ma4t8KLQ2xGd44tPkY/rGguaVBd8FrLKyin2ITpbucfd633IFnYXlxGMD9Xv7Xp7WHiZhMnu2wSNq++L+jiK6Az1VvfilMDdcY+8T5RcQCrKUIkkDZWAx9OZMQyV+3pj8rVO39BS8bNkaQ==;Qf13QpZWabo3+lS4ssV6+A=="
 ---
