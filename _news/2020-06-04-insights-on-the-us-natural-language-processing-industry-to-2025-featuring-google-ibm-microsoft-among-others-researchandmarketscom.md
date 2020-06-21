@@ -4,8 +4,6 @@ title: "Insights on the US Natural Language Processing Industry to 2025 - Featur
 excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/mhxd97"
 publishedDateTime: 2020-06-04T11:12:00Z
 webUrl: "https://www.benzinga.com/pressreleases/20/06/b16181219/insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-amo"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16181219"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16181219"
 type: article
 
 provider:
@@ -16,6 +14,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "XzwzgzHcRctnjOHZnKCiw555CEVqt2WKbNyrJoL5d+HTelYK3y62FH9utkSmo9LX0bKgIcg4lxxmdbKp8hqzv6uwkQnZUcZx+S12kbUGr9fAvPQQ1d4BMA7OAJtIVfA5z5/F5qi/oDr294XJstc03GqeH2KfI/2eLfwy1u2s2JBcYSxv8Ux2RY+f/wllhXs5U4YYBRGJ/zhKJmyoAfW/95WkfvnwOzAjDl93EtSzNw4PJ9iqV1vVwDzxc+gt7cWcV5IuJiKS8xAYcd1d4TAV2wxYfjXDYkkSp+81zA7TI4CKoJkJngMWGfk6TgLbBfK37rSYEE1u/OqGt2vB+otcfA==;ci0gMAs4Ez9ZWtTBs67S+g=="
+secured: "vMknJDU5Qb+aDoNRLFajOAycDbqbN4JXlyzscW8FGv8TsuJBKOMglBRCgWHW2+NywkYpyUsdI7GIHauu9tcuwYpI1rYhfHeIjpeM/VUCh/5RVxO+2a2KyXWWMosx/+MHc92F1hdhd2A+dIlkgA0X9ron1AVWy2fFN9VJdelHFLleNPn0cms7SXNgExlqnDYluDlBShzQagxzJ5K5/Tp9MRM5RKw8ZPBx15R5TYx80yy6yfz1tJMXrvMNlZC5YU5vcPRxtbkO2SJKMBc+3FGyHpk+zUozgFKe/kv74z22IWn2+Axdn37G3jT/G/qoYfuHsR6tmnpvcSw+IvaCh34tFg==;ZlzENh+DupYqS2edUXmE8w=="
 ---
 
