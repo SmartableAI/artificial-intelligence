@@ -40,20 +40,6 @@ related:
         width: 309
         height: 386
         isCached: true
-  - title: "Scality Invests to Advance AI and Machine Learning with Inria Research Institute"
-    excerpt: "Scality, leader in software solutions for global data orchestration and distributed file and object storage, today announced an investment in Fondation Inria, the Foundation of the well-known French national research institute for digital sciences,"
-    publishedDateTime: 2020-06-16T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/3d65202284589e52c13b5e11dd79c41e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "OpenAI makes an all-purpose API for its text-based AI capabilities"
     excerpt: "The company has released an API that lets developers call its AI tools in on “virtually any English ... an API that can perform a broad set of language tasks, like translation or writing a news story on Techcrunch."
     publishedDateTime: 2020-06-16T16:25:00Z

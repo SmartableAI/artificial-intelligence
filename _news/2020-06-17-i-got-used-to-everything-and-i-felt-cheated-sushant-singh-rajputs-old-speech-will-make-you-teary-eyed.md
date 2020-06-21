@@ -26,24 +26,6 @@ images:
     isCached: true
     title: "'I got used to everything, and I felt cheated': Sushant Singh Rajput's old speech will make you teary-eyed"
 
-related:
-  - title: "“I became an actor because I had a problem” – Sushant Singh Rajput’s 2016 speech about becoming an actor and meaning of success goes viral"
-    excerpt: "As tributes are pouring in for the actor, his moving speech from 2016 has gone viral on social media ... And I am punctuating me because I started from zero money and zero recognition. So I was not happy. How can that be?” He continued, “I didn ..."
-    publishedDateTime: 2020-06-16T12:53:00Z
-    webUrl: "https://www.bollywoodhungama.com/news/features/became-actor-problem-sushant-singh-rajputs-2016-speech-becoming-actor-meaning-success-goes-viral/"
-    ampWebUrl: "https://www.bollywoodhungama.com/amp/news/features/became-actor-problem-sushant-singh-rajputs-2016-speech-becoming-actor-meaning-success-goes-viral/"
-    cdnAmpWebUrl: "https://www-bollywoodhungama-com.cdn.ampproject.org/c/s/www.bollywoodhungama.com/amp/news/features/became-actor-problem-sushant-singh-rajputs-2016-speech-becoming-actor-meaning-success-goes-viral/"
-    type: article
-    provider:
-      name: Bollywood Hungama
-      domain: bollywoodhungama.com
-    quality: 10
-    images:
-      - url: "https://media2.bollywoodhungama.in/wp-content/uploads/2020/06/Sushant-Singh-Rajput’s-2016-speech-about-becoming-an-actor-and-meaning-of-success-goes-viral-413x300.jpg"
-        width: 413
-        height: 300
-        isCached: true
-
 secured: "R/YRgjOTX7Rq9YcaTjuKaurdTFRD7PUNZmZte1fElvPy7c0VnzqV9rJnASwZkSFSDyzr/krPx8kF7KoJxDgNiymH2iMKtMeEndVK/sRiw2aGpEGl/9fF0hQFM4DzrDwFsahSYUOJDrfUb8kl7NZt7mrYh8J6pKMMalYH+6OBewfHM+i5Ea4Nw8tS4PVEf8rP4FJnDz6/M/PlmCKc7i5LSnbF909RaEvHLp/+VCiyhwJOzlum3lyMF7X/TyYoUQMHh500m6GM1g/fOAgEbLK3p7QSDyfEXV9dXm/Xar2BMhaE3Ft8MOo/iyU3P2CbfV6XdXyxzPxKtCq9MMX678kX2QzHOj5ubGD20Jn70GJogdUrSmmr/JuXmnRcZi0vss0bFQXrEZYzk73Uf+0gV/Mmt7uYJht+11iaorxPMSz9axrXrRoGsUzj5LVFmARSFWkPtJDe0woSa7IrHwxAp5mMXbE1RbUPSA2NmEPr3moDzg47UeFfwEkc2PF7GyDN/AkcxEC1fHg5dHcnBeyQgFD5JA==;O2NbBl/5813kwnxtIxcb3w=="
 ---
 

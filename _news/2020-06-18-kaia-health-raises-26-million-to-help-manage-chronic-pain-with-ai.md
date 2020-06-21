@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Salt Security raises $20 million to protect APIs with AI"
-    excerpt: "Cybersecurity startup Salt Security has raised $20 million to further develop its AI and machine learning-powered API protection platform."
-    publishedDateTime: 2020-06-16T11:18:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/45f099bb-156c-4c64-ac78-52ae4c0ff9c6-e1591760189977.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Pagaya raises $102 million to manage assets with AI"
     excerpt: "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing."
     publishedDateTime: 2020-06-17T09:04:00Z

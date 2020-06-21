@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Amazon deploys AI ‘distance assistants’ to notify warehouse workers if they get too close"
-    excerpt: "Amazon isn’t the only company using machine learning in this way. A large number of firms offering AI video analytics and surveillance have created similar social-distancing too"
-    publishedDateTime: 2020-06-16T11:30:00Z
-    webUrl: "https://www.theverge.com/2020/6/16/21292669/social-distancing-amazon-ai-assistant-warehouses-covid-19"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/16/21292669/social-distancing-amazon-ai-assistant-warehouses-covid-19"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/16/21292669/social-distancing-amazon-ai-assistant-warehouses-covid-19"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 78
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/XCZwSsS-gt8cqQvUsOFzcDfjsZk=/0x0:800x460/1400x933/filters:focal(336x166:464x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66939989/distance_assisstant.0.gif"
-        width: 800
-        height: 460
-        isCached: true
   - title: "Amazon is putting AI cameras in some of its warehouses to see if workers are actually standing six feet apart"
     excerpt: "Amazon's AI cameras can tell if warehouse workers are standing six feet apart to comply with social distancing rules."
     publishedDateTime: 2020-06-16T13:10:00Z
@@ -119,15 +103,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Amazon deploys AI-based tech to maintain social distancing at its facilities"
-    excerpt: "Amazon.com Inc AMZN.O said on Tuesday it has launched a new system using artificial intelligence to enforce social distancing at"
-    publishedDateTime: 2020-06-16T11:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-deploys-ai-based-tech-to-maintain-social-distancing-at-its-facilities-2020-06-16"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
   - title: "Amazon turns to warehouse cameras and AI to make sure workers socially distance"
     excerpt: "Amazon employees are getting some help to make sure they adhere to social-distancing rules, thanks to artificial intelligence and machine learning."
     publishedDateTime: 2020-06-16T15:22:00Z

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Gender Recognition Act; Susie Dent; Artificial Intelligence for online shopping"
-    excerpt: "And Susie Dent talks about her podcast, Something Rhymes with Purple. Show more Some reports suggest the government won’t now go ahead with the reform of the Gender Recognition Act. If true, this means that people won’t be able to self-declare their gender."
-    publishedDateTime: 2020-06-16T12:16:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m000k2l9"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 33
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08h1cx8.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uM4R7OP8phTXOP94LvXFLZFOolP7UbOLq29UDGoxi9f//5YFSNmcjMRDq1oAk7WTh6iyGtjGcBaPHQ8Fux0kRjmginJfOio3AFfW55QY8ZnvRipEfUYOX3gG8fRDCFcGUJOfhOWYfcD6lnFyaJSCEOLM2kYYqQa1N3tvCxRpTdHiGMYIN9TrODGsoCQBnYJ5bpM3n0TxRudm7L6iUmpEbbvddN0MLWl2DcfxT30ZUfQWUo56phlF8yMIa2NfRnQ74+wgZ3MftwLGyAKr9SmbwjJEsl//yN0Wow42Uct7uRyiJm5ckHfDpAoX1qyV0RK8MXhpsABjG8JuK4NIj/bx7RNpHGxCyzk7xHvH6WtK5AjySgRSm1yLLwnlfXBuc1I3U89uXnUkVKyOVcq/MGBvQ9lpnI2YKtZuAXdppPvfcrRKHFW+tba2kvO7YZ2tbULVeWjhRyG6Na3Tuv0qoe3cM57m11YsTTQKLI7cjcWDvKD4dYk9yqJgHz5W92bt5vCgxISKDAi8KUex27kqUElDbw==;+Lmk67lyELrOI5dbpxwJeg=="
 ---

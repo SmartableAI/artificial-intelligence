@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Salt Security raises $20 million to protect APIs with AI"
-    excerpt: "Cybersecurity startup Salt Security has raised $20 million to further develop its AI and machine learning-powered API protection platform."
-    publishedDateTime: 2020-06-16T11:18:00Z
-    webUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/salt-security-raises-20-million-to-protect-apis-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/45f099bb-156c-4c64-ac78-52ae4c0ff9c6-e1591760189977.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Kaia Health raises $26 million to help manage chronic pain with AI"
     excerpt: "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million."
     publishedDateTime: 2020-06-18T14:05:00Z

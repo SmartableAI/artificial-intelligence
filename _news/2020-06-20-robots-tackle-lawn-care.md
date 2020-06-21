@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mowing made easy: robots tackle lawn care"
+    excerpt: "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular."
+    publishedDateTime: 2020-06-21T04:03:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/mowing-made-easy-robots-tackle-lawn-care/article_2c3f7e02-b374-11ea-8401-0bc2bd9621fb.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/2/c3/2c3f7e02-b374-11ea-8401-0bc2bd9621fb/5eeede2c9cc8c.preview.jpg?crop=700%2C394%2C0%2C0&resize=700%2C394&order=crop%2Cresize"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "PS3Q4Gb8XmU4wd4N7LWFZrGx7Y3dhIAEwv0OiFlF2q/GhLw7HkLqEGIQAeqPzd3PyvEEss4tkuiTSRs+XAu3ooOQWMyQhmoU+38a+rQ5OEG44ca7FyujNWP39GIWeGa6k9Tl+ydLeJ+CnB7aEsoX4/nL/LvOxCHRdJKR5utOULym1gKlUiPe18nXTwSf2K5pW2qNA361IvLPCnkXwYmnVytkJmwdk1xUm0YD/ofcziXX0t98TYsqPy4cqVk0P1FuJsNO64gUVN5+YcsWUtqfgU1vD1T8C2aGVIjKv7Qiy13Ik6kEXCuZ2EfthUa9ibiQAyEyX9vnRnHcm/kIR4qu6eWKq0EeUbnF4Q1zc6OaBtVLWTzOpXw5qR22vP1+DdsT7FGZOzyrDysneY5SDWdWe6/0w/6n2ZrZNFhv5NUgl/Me299iwvaYlCkIDKKUggqNTIrX7S7sleb+nbTRyJJAgoZ7NbRxco5Zg6/ZRH48mMnSAPP723nTZrSiv8ac4KWUAI+rbuiJF9mrZHj9ATUjnQ==;A9u+F0NVm1Y8RjwreggzLQ=="
 ---

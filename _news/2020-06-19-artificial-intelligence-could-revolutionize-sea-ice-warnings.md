@@ -33,6 +33,20 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "How Education Technology Revolutionizes Learning"
+    excerpt: "Education technology is dramatically changing the way that instructors teach and learners learn. Here are a few examples."
+    publishedDateTime: 2020-06-18T15:06:00Z
+    webUrl: "https://news.elearninginside.com/how-education-technology-revolutionizes-learning/"
+    type: article
+    provider:
+      name: eLearningInside News
+      domain: elearninginside.com
+    quality: 24
+    images:
+      - url: "https://news.elearninginside.com/wp-content/uploads/2020/06/volodymyr-hryshchenko-L0oJ4Dlfyuo-unsplash-scaled.jpg"
+        width: 2048
+        height: 938
+        isCached: true
 
 secured: "nOanlXKkLrkzJi2SIiyCIy4l/AWrhCnGlX6t3aTLLOxrPcSnLDY/RrgZYp0l++dkC/Gx2xY5i2KXKRucx8PkrbHE1ibqR8NzbNj0X3/P479dtDojg0Ne4ZtIomBMGUiIsCBIHnMLvt9wg3E6wnRcTfxyajmpeetPKdvLm1c4mj0SLZiYBpbE6L4fYYotg+FfFCx0NyVpVSRq7zIGsiC6aWDowQ04up2uJXx0tubZ6OcvJ6UA0MjPNUUiYjFDbD4Et+LXorfhdJjnmSUTuDPmZ2c0RY3zYnhSnp9SVAzNOirhv8dyitAc+Uxd8IEYY/6271iIjjSoSdl5uYuOuj7O975RFy5n2omMlucETauenepbmfx8RQYt5cRldOjmp2UyrbCLa+G0Hu/SfKFOwT5WpMwkfBscnybZz/sDvCZ480cATRzKQQGRqykdXweGasCjUxyjWBKI/CC8vOXNtIAIXTX6aKDDxtvXJ7QD9u47YdHJWIxkxcSy2o9RSI7CM8e46emoWk61KYvBGcJIU0mMGQ==;VSobO1gJwXDs0kG/GDiw3Q=="
 ---

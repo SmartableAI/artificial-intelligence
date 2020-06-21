@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/jacksonville/news/2020/06/17/nlp-logix-a
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/jacksonville/news/2020/06/17/nlp-logix-awarded-three-patents-articifical-tech.amp.html"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 401
     isCached: true
     title: "After deciding to pivot, NLP Logix awarded three patents for machine learning"
-
-related:
-  - title: "NLP Logix Awarded 3rd Patent for Deep Learning Data Extraction Technique"
-    excerpt: "In late 2015, NLP Logix Lead Data Scientist, Matt Berseth, entered the company into the Camelyon16 Grand Challenge. The Cam"
-    publishedDateTime: 2020-06-16T12:18:00Z
-    webUrl: "https://www.medindia.net/health-press-release/nlp-logix-awarded-3rd-patent-for-deep-learning-data-extraction-technique-473206-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 18
 
 secured: "JLV2QgbICRqdaS1fVQkz9PvTkcv2F7LVgkuucamekup7Vy7A3pquLmrqRm4VP0JQPpPbc36RbQfGWFw+auPsA3Sfk+e5gIiDMViMPx3abxWnV/+XtaYQpXBSD064s43qi9+uy4Z8YJ9QVsgtzpNH1zPXLI9lE6AEAxbiUUkNa2qA42ewBbhHwa3JGOyDSyAAyPrB6Y7MLKn+42RrzkW8d2G1RLZEYHcsyiAZeVdqvDd465l7W/mEM4X9or04rlqOsL1lVniAvTWGx20X/98jt1opqDZwItCEjHF1BScyTGSW4IuYuBM9Ed17sXx40wZV3c5PaDLoCifzvBH4HzbMw3Nx5jmM3g5S+j5DJnlxPgJwdlp2vvFEz4lbsrPirhanGooAzE0U/kvjzjJvImDVVYVzOwtOgOG/ATQxqR8BeTWTjCVUHN4a7IUOK15qUc8KtKhldREAohY3UtW41UspQHdwAhDfgUUkPlcJACA9vwDuqcfks018S5v0VCKq9dEsVjJITNURGCXxMoVeWtTJLQ==;5bK5pojiCgV9HxY0p7+n/A=="
 ---
