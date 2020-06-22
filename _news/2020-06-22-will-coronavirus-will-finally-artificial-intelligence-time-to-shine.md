@@ -37,7 +37,7 @@ related:
     provider:
       name: IOL News
       domain: iol.co.za
-    quality: 55
+    quality: 57
     images:
       - url: "https://image-prod.iol.co.za/resize/2999x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/06/22/49746832/abstract-art-blur-bright-3735432.jpg&operation=CROP&offset=0x156&resize=2999x1687"
         width: 651

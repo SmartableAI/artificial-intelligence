@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-pl
 cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/06/Qualcomm-robotics-schematic.jpg"
         width: 681
         height: 501
-        isCached: true
-  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
-    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
-    publishedDateTime: 2020-06-18T01:39:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
     excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"

@@ -50,6 +50,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Johns Hopkins Leverages Microsoft AI for Precision Medicine"
+    excerpt: "Johns Hopkins Medicine will leverage Microsoft Azure's artificial intelligence and analytics tools to advance precision medicine discoveries."
+    publishedDateTime: 2020-06-22T13:56:00Z
+    webUrl: "https://healthitanalytics.com/news/johns-hopkins-leverages-microsoft-ai-for-precision-medicine"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
   - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T09:38:00Z

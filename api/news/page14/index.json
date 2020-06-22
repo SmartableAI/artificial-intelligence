@@ -2,6 +2,231 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
+      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
+      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24.md",
+      "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
+      "excerpt": "Amazon taps AI and machine learning to match packaging types with products, resulting in substantial cost savings and decreased product damages.",
+      "webUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
+      "publishedDateTime": "2020-06-09T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
+      "title": "Study: Artificial brains need rest too",
+      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Artificial brains need rest too",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
+      "publishedDateTime": "2020-06-09T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
+      "title": "Daily Crunch: IBM is getting out of facial recognition",
+      "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
+      "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Daily Crunch: IBM is getting out of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
+      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
+      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
+      "publishedDateTime": "2020-06-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
       "title": "Flipkart launches AI driven voice assistant for shopping",
       "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
@@ -873,231 +1098,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
-      "title": "MIT “brain-on-a-chip” could make AI more portable",
-      "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
-      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "MIT “brain-on-a-chip” could make AI more portable",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
-      "publishedDateTime": "2020-06-09T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
-          "width": 597,
-          "height": 314,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
-      "title": "Eswin raises $283M to boost chip production in China",
-      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
-      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Eswin raises $283M to boost chip production in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "publishedDateTime": "2020-06-09T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns.md",
-      "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
-      "excerpt": "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide.",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_1s6u.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
-      "publishedDateTime": "2020-06-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
-      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
-          "width": 2000,
-          "height": 1333,
-          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
-      "publishedDateTime": "2020-06-09T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-19-podcast-playstation-5-details-and-hesitation-over-facial-recognition.md",
-      "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
-      "excerpt": "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\"",
-      "webUrl": "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html",
-      "heat": 156,
+      "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
+      "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
+      "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
+      "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762",
-          "width": 1040,
-          "height": 630,
-          "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
+          "url": "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T05:36:00-07:00",
+      "ampWebUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
+      "publishedDateTime": "2020-06-22T12:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "Macworld",
+        "domain": "macworld.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -45,8 +45,54 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-seafarers-need-recognition-and-support-from-governments-imo-chief.md",
+      "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+      "excerpt": "Restrictions on individual travel have left many seafarers effectively stuck on ships, at sea or at anchor, with their vessels unable to dock, disembark or resupply, and unable to access medical care,",
+      "webUrl": "https://www.wsj.com/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-201157/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "publishedDateTime": "2020-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1300,53 +1346,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-why-ibm-abandoned-facial-recognition-and-more-tech-news-you-need-to-know-today.md",
-      "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
-      "excerpt": "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!",
-      "webUrl": "https://www.androidauthority.com/tech-news-56-1127243/",
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2017/02/ibm-logo-840x470.jpg",
-          "width": 840,
-          "height": 470,
-          "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tech-news-56-1127243/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-56-1127243/amp/",
-      "publishedDateTime": "2020-06-09T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -87,54 +87,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-podcast-playstation-5-details-and-hesitation-over-facial-recognition.md",
-      "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
-      "excerpt": "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\"",
-      "webUrl": "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html",
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762",
-          "width": 1040,
-          "height": 630,
-          "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
       "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
       "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
@@ -1309,6 +1261,35 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
+      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
+      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
+      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "publishedDateTime": "2020-06-04T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
         "images": null,
         "publishers": null,
         "authors": null

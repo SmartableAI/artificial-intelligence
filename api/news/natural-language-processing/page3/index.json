@@ -2,54 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
-      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
-      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
-          "width": 3078,
-          "height": 2000,
-          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "publishedDateTime": "2020-05-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
       "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",

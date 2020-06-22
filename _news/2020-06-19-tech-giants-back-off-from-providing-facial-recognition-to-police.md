@@ -8,7 +8,7 @@ ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-bac
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 1322
     isCached: true
     title: "Tech giants back off from providing facial recognition to police"
+
+related:
+  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
+    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
+    publishedDateTime: 2020-06-22T16:21:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "RtMFgoN/ZtSuZdWUobFiix30ck85si9xp26Y9PmkQ5nDJqdEkqHKm3xpGnhMrspF8c3683bejX3ckmeE2auj+KaFW8VL4Ru5hRMbn9j9/UxoPYersqSREl/hDhXaBBL5fYQ+GhFc5Y4r83aGlig2bJLxs+UqRoNmUNkqvjzJcx6Gm4Q9s+jnN5HAuMmmIPp+sm/ETu+fs5rLV8efzSTX+WO0zXveJeKDtjhv7OhAOL/4sVPB/D0Szjtr4f+u6/bSnVDt74+V9+5wRSTDgLXyXDpSUifTq4k9pLLSxv2YEun1whCuF/TKryXpwnxhz99dvheyinA/cl3At6z5usfC2OFrEcqRrbTPbG2SaHdMXmGYMkzrDBKWHnrqtf87d3QQtChd3Fr+hnThM3Kh6frkiLhglIWszvBTSIb2i9mw6WLDe3z9gwe4ipXSmwsnvP2O01z/laGbmyxpL8rKD0tER9RtLfnnr98yE5aT+aLY62zVKKMAn0EN1y7RDjozMx1gVXXh5/07kg3yVph1OhFZoA==;VLVES82od+Lr63+BH6JBig=="
 ---

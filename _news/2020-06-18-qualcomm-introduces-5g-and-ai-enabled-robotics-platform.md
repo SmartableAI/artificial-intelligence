@@ -85,20 +85,6 @@ related:
         width: 681
         height: 501
         isCached: true
-  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
-    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
-    publishedDateTime: 2020-06-18T01:39:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "y+D/3CLme0ll+KVcxOC+Xxs8ICkIN3OWFB7AB1YWJIX0B78OgrcQoBcQNHSvT8pMKqkeirZrYOCFc8cafFOwPJxXQAfhJ+TESsTFzU/7IltSBZwTM0QG9F7kLa9XxjY5woGZrDBGcSnCi8WwICUH+UgfUyS1GVs6OClLNMo/CxJSj+QrO+LcJTrUnIkIcsr36hwitKPn4hAWPbn0v3eo9MV7zU2HhrZIImub5DZKqcz5EPPjF+W9JWbnB9iUIJvlc5ce3e3ASNVvZQIBsAqsWr+wHMj/4zHs2wMob7Fl/dNJgs93j+yDXGZiIRBs2fjoldY0nofCv2TKFe0e9REhgT769sXtDBNLTO1J4Db8z9gdJKCNVSHE7o+YervBG4dl2uUWbetmI6JSBKMwvjFQ0J9/LUeV/QFU63DfGhTHfmT6Vm3GtDubDo0Zx2tgO8Iz9Wlb/43rJaMVl2RH7srq7PAOYRY1ZPhcM+NB2UV5mtkq9tiKufbofFqWUv4aphj1sXbOMwp8Umr16RMHVbVSCA==;8UG9DWpbT7/Jby5qDYskPw=="
 ---

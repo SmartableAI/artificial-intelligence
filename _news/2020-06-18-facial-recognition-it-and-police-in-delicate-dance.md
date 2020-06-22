@@ -25,6 +25,22 @@ images:
     title: "Facial Recognition: IT And Police In Delicate Dance"
 
 related:
+  - title: "HomeKit in iOS 14: Support for facial recognition and adaptive lighting"
+    excerpt: "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep."
+    publishedDateTime: 2020-06-22T19:50:00Z
+    webUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html"
+    ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
+    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
+    type: article
+    provider:
+      name: Macworld
+      domain: macworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
     excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
     publishedDateTime: 2020-06-19T12:36:00Z
@@ -39,53 +55,21 @@ related:
         width: 1040
         height: 630
         isCached: true
-  - title: "RealNetworks Inc. announces SAFR® Inside app component of Facial Recognition and Computer Vision Platform"
-    excerpt: "SAFR from RealNetworks, Inc., announced SAFR® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge"
-    publishedDateTime: 2020-06-19T12:36:00Z
-    webUrl: "https://www.sourcesecurity.com/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
+  - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
+    excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
+    publishedDateTime: 2020-06-22T18:17:00Z
+    webUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration"
+    ampWebUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 57
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/people/robert-300x300_1534936334.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
-    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
-    publishedDateTime: 2020-06-22T16:21:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Juneteenth: A call for progress and national recognition"
-    excerpt: "As calls for structural change grow, the US is pondering recognition of a Black holiday that celebrates emancipation."
-    publishedDateTime: 2020-06-19T16:16:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
-    images:
-      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/6/19/79c8639b102e4f1d9c2a2007eaf9439b_18.jpg"
-        width: 583
-        height: 325
+      - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
+        width: 1320
+        height: 772
         isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
@@ -98,29 +82,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
-    excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
-    publishedDateTime: 2020-06-22T04:28:00Z
-    webUrl: "https://www.itnews.com.au/news/7-eleven-australia-deploys-facial-recognition-on-customer-feedback-tablets-549538"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-7-eleven_shopfront.jpg"
-        width: 460
-        height: 285
-        isCached: true
-  - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
-    excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
-    publishedDateTime: 2020-06-18T16:38:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21142764/safr-from-realnetworks-inc-safr-facial-recognition-now-runs-on-axis-camera-application-platform-acap"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 17
 
 secured: "N18UYZWFrPjJBB07A4o+CKWZ4IYTq5UULH0jCFRy9wNacQ+bpW/6yG3wegofAFZ9XZQU4nk5NmQXoj42yJ3iJXQWjQ6P9M2KMuUPBeNbL61n4g7AjgsXmmj8z0cNW++4o/XACweCzuKxP7ijNo/u3sFU2OWaUgcPCemFpG4E/RbN/Uirp6ECNNReyKuYNs+YvYLbF5vjVRlVkNzF7sIDnm7LUvU2o9vkPd/pNS7n9iW5HzYcSGBnV2cs2AyTpCWDBYPOu/UPibe0hJHdGZWolaR8/ULN6KnM9tcaMrLre/ft3sJBpEobmruzc9ZBDf/kA95Img1jx6phbMtPV0LCIKeuAePefKQYXJg0IGapdIsg1mP5FPuTm+MBGiqy9VKpgn5GMhwHufgdVikM8W+dGm7b4WKpkEA45EN5jYH67cPB0zd+nw92JSgIdYfcA9YXUwT1rKM3avJH33ZV6w+k07Jo1/EOz8w55csObhkrdHQQY8ke6z9l1dkyneMuDLIBiI6JSEItYTOBH9m6EtuC7g==;fHt0TB+vFCA7RY0kaM3YNA=="
 ---
