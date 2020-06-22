@@ -19,54 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026"
-    excerpt: "Based on Deployment, the global Enterprise Artificial Intelligence market is segmented in Cloud and On-Premises. The report also bifurcates the global Enterprise Artificial Intelligence market based on Solution in Business Intelligence,"
-    publishedDateTime: 2020-06-17T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17"
+  - title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
+    excerpt: "The global brain computer interface market size was valued at USD 1.2 billion in 2019 and is anticipated to register"
+    publishedDateTime: 2020-06-19T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Platform Market Analysis as per the Latest Coronavirus Impact Global Analysis, Share, And Forecast 2020 - 2025"
-    excerpt: "The global Artificial Intelligence Software Platform market is segregated on the basis of Component as Tools, 1 Natural Language Processing, 2 Machine Learning, Services, 1 Managed Services, and 2 Professional Services."
-    publishedDateTime: 2020-06-17T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-platform-market-analysis-as-per-the-latest-coronavirus-impact-global-analysis-share-and-forecast-2020---2025-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
-    excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-06-17T15:14:00Z
-    webUrl: "https://www.openpr.com/news/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
-    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
-    publishedDateTime: 2020-06-19T16:59:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "Mz7gJKoig1lTCp6ACaT7FKqv8RWC0zzUP0AIr00Mq67wnuo0JRSlKjiUNHrwUFUUJQWCcPoRxPF/meVYb21RQhkkJ+Sv7G2Lh7hrSQgjwh6SnykCoCsTkFbm5+eoNXdwcDnkJwZtvmznK7VN8WGCyrxdMq1k4dDDdUtNT1nQeRfoqzBrtFJtieKkirlZ30kXK8dy4r5MAcCLuQ1bU4yrF9FjnwK99BYEktx+v2psbx+RaBnunAfYeFVjXYzCnyfcbhL6MZ3ykBrtS9RZqVtIeJtBW9TVYd+6CH2/+u47N43YgsAz/1Bu8ugdVUenV+MGDBlV9gIFGmkhQJCTzSqK71O96oAYolddUmf/Xwd0B5dgl97PDm1aW4+7tF0S86CW+bGrFsGWUj9cA+nYMBwadux2FRG+0L8CTquYnLBxiKPnIlM7jslVjr7S8DmFjb34lW0wGieXJjt7owvnRJqazvhmHGRqBP0DqWwlef7K45eOuPKNG2SiClhVwejh5UqjfWNnZ49C2mPmWjW9jxMC0w==;qUHi+pdK4ZHpMfbS+snJpw=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 400
         height: 312
         isCached: true
+  - title: "SAS partners with Microsoft for stronger analytics, AI"
+    excerpt: "SAS’ AI and analytics will now tightly integrate with Microsoft Azure for powerful cloud-based business applications."
+    publishedDateTime: 2020-06-21T22:12:00Z
+    webUrl: "https://gadget.co.za/sas-partners-with-microsoft-for-stronger-analytics-ai/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 54
+    images:
+      - url: "https://gadget.co.za/wp-content/uploads/2020/06/background-cloud-computer-computing.jpg"
+        width: 910
+        height: 562
+        isCached: true
 
 secured: "uCh4ISyGvQfkCMww5OMyMM57dlAAPbflQxPQSJ841uyajtra8eFYbH9kP6qLglLEEki/ue6LX8YBBQFCSr6qQuKXeMF70gUERXTtYSWOtTzpFEu1Vn016kizwGUYbFsdKJZDtd5KycHz0EgbFw6xbdbnpwOvaqsLXMeqrFATXa2+HVewqUXdm/4Pt34ANj2Sy8V89HVsg2mbF43Unp0Y/YX3y0Foz5EYpFUfncOfEieL7vsje37LjeKAInKTKW9ejGQT72gqZUp7lZzYp6RAb/eUC+fdNRMvLkjXY96+M3X+6HrcuIkKoFwk7EpLh+jDJeGt1JUI4n+9PvCqIRxlAA==;YhKhUeFHJBQ/DmzoAv09rg=="
 ---

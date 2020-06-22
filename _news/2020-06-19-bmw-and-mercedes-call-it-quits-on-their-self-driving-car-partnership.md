@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnersh
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
         width: 1320
         height: 742
-        isCached: true
-  - title: "BMW and Mercedes cease joint development of self-driving system"
-    excerpt: "Benz said in a joint statement Friday they have ceased cooperation on development of self-driving car technology. The cooperation started in February 2019 as means to accelerate the development of the technology."
-    publishedDateTime: 2020-06-19T17:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1128568_bmw-and-mercedes-cease-joint-development-of-self-driving-system"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/bmw-and-mercedes-benz-self-driving-car-concepts_100693731_h.jpg"
-        width: 1920
-        height: 982
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."

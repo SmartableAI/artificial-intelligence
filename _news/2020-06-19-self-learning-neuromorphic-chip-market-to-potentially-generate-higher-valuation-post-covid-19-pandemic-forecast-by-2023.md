@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
+    excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-06-17T15:14:00Z
+    webUrl: "https://www.openpr.com/news/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076406/artificial-intelligence-in-iot-market-covid-19-impact-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
 
 secured: "2avCj9yVhUjdFZXbTGIhD+Kr0nIczXplyMle5v3h8VyhakbItmVTVn3cxSoX2GzXhw7/nYHLTUOJ9KU3uUIHGS8y6TdpmAm182WQBf0yiYOzDPwJ0PlvWEa6mYDhLceTS8u9FGcsAFYT9eK1AvG+Zd3vOO4Mabx3qg2n8eVtfXCzZLfI4JlrYElil5m9gQlTWo3BEbDcmKANlPqR3AuiBUsSzDzu68dxe9Sx2PV/RxHzICFonuihaYhdUtrnPZs0BSJTr7NoeTko3WbgirNLPSQskvvaBcxWsoXp+2T5ftpLCEe2Mc4+wSth/PZrPwuJQGdp1M+BanJpyXGIDrhvOw==;YBwLswV3l5HmZo3Yt/9PxQ=="
 ---

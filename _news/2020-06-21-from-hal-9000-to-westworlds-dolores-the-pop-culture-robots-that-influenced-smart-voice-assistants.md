@@ -1,31 +1,29 @@
 ---
 category: news
-title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
-excerpt: "In our paper published in New Media Society, we trace anxiety about smart assistants to a long history of threatening robot voices and narratives in Hollywood. The warm and solicitous female voices of smart assistants contrast with cinematic robot archetypes of the “menacing male” or “monstrous mother”,"
-publishedDateTime: 2020-06-21T20:06:00Z
-webUrl: "https://theconversation.com/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-ampWebUrl: "https://theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
+title: "From HAL 9000 to Westworld's Dolores: the pop culture robots that influenced smart voice assistants"
+excerpt: "Last year , nearly one third of Australian adults owned a smart speaker device allowing them to call on 'Alexa' or 'Siri'. Now, with more time spent indoors due to COV"
+publishedDateTime: 2020-06-21T23:53:00Z
+webUrl: "https://menafn.com/1100362683/From-HAL-9000-to-Westworlds-Dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/341383/original/file-20200612-38691-1o44b26.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://menafn.com/updates/pr/2020-06/21/TC_e56842d7-eimage_story.jpg"
+    width: 1500
+    height: 1000
     isCached: true
-    title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
+    title: "From HAL 9000 to Westworld's Dolores: the pop culture robots that influenced smart voice assistants"
 
-secured: "eheYlpiGdaYS4LV3ZjoUUL5pPxtzWCh6iy88/kol3HigXTnU8+ICMuSf3rlsF+0Vkr50EK1GaZcoDCCsiyS7cdYksZBQ/F7+DxStKCutHLtjJi+okiNfydIdiy6OQ5F/ihaVJl7DhGW76X5tIyFjhAsYXoRrHhPhA0BswxDpmY/rliZc24b5pfV3LoUagd7k2NUaRGFOt6HBP2JPfVZoyhFBrDZzYswMIpdjM2JyHiGVuoRfqmVmdBsniCqVdTGMp7kdXA2epemm+h1uuPOOgivMzXn54NZ/Rh/rTf0+Z1Sw1eRKuexHlFDxYYupM/Uy7wq8ilP5mTAH0bbMOU+2ow==;M0IlxcTpj7792c0GCVtRQw=="
+secured: "v6p/YRVQaDzkvKHcys9iGx98YHimrifDXNqKpC4l/FahOkCNTAQF/g5UutV4RyfGP39vl67fH2/HbyrXYADhLAzSrb+tqHrcj39WIRx9DQHjOPQmNZKQZTmqsaE6v1Zb4aag5gep1P6ed1XumTqmbeJvGW2riqWMYfPJUfpVzIvGcBE9E85tv0GeXqWwEugcD3nabSiipTSW7EPyFg7AeO2aaRhSU3Y7Q+0ziIxTHl5ut2XrttWQLQWMeVQMZ0vhskOOvYrzXuALM/6KnWP6ZiasOZ2iBeGyXz7hoEW1nn2PFabEdNXYBrIssbj9204HyKXB/86ND2sWCMyy4+GSag==;mQDYh01jSUkk0uDMMeNIwQ=="
 ---
 

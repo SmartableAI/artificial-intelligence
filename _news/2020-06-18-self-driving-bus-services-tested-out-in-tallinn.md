@@ -41,20 +41,6 @@ related:
         width: 1503
         height: 1000
         isCached: true
-  - title: "South Korea to spend 160 billion won on developing self-driving ships"
-    excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
-    publishedDateTime: 2020-06-17T06:55:00Z
-    webUrl: "https://www.theedgemarkets.com/article/south-korea-spend-160-billion-won-developing-selfdriving-ships"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 24
-    images:
-      - url: "https://assets.theedgemarkets.com/SKoreaship_20200617143550_reuters.jpg?null"
-        width: 747
-        height: 498
-        isCached: true
 
 secured: "FYIIGUTM0ympd81x99oBM5DENPoqioLdQUxIH7f+BixUlFJHIeSXTUTm1TIK8XMoRnv3Ap2awSFlZUvg2W6DghGmBY/Mroi+aNGD8dvGeJK2+IHmeJQ4uUoOS3kNo1BZ/yRI/Rmchicp8p3PLe23zef4BHAbTC7rXc3DRWpjkgnx54GYGCfrlxQNbiWZsFIxBeGpO3T/vNg4GPaoEwuymWeUwshvQ5OcXkpL0JE3fJ5p1kOFxWAlqZrWKsAU867orgMb5KB7yDHyD31OfIuq2lV4hWECJ3S0lOrebDobPhZO+aeLyCZMFr/oceJh/fU6cgZodZtDfLbifjr0pJ/We/WClSZsLmf+aU50sOkEwZQTksJVS8M08CktmcZXhe6O/pegXjSrvY7nIJjsqWoVEMBw8joXWVDiNm8UnWegEQ1iZAz2mKHFACNcBV564kURi3RA+7+9uKG22mRUBI951DyvdfZnePy6csOJOuqGxHPeXFPBuVQegKN8MAH4ye2fV/YISNoBRs+1DMjA/kIirA==;zRCCujGQuwSLw8LbhzHaPg=="
 ---

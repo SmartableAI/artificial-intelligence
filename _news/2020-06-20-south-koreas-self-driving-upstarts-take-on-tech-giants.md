@@ -27,20 +27,6 @@ images:
     title: "South Korea’s self-driving upstarts take on tech giants"
 
 related:
-  - title: "South Korea to spend 160 billion won on developing self-driving ships"
-    excerpt: "Combine search: \"high speed rail\" @author \"Bhattacharjee\" @category \"From the Edge\" Searching either words : 1MDB MAS Searching all words : “Genting Berhad” Searching Chinese phrase : “马电讯” SEOUL (June 17): South Korea said today it will ..."
-    publishedDateTime: 2020-06-17T06:55:00Z
-    webUrl: "https://www.theedgemarkets.com/article/south-korea-spend-160-billion-won-developing-selfdriving-ships"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 24
-    images:
-      - url: "https://assets.theedgemarkets.com/SKoreaship_20200617143550_reuters.jpg?null"
-        width: 747
-        height: 498
-        isCached: true
   - title: "Self-driving Bus Services Tested Out In Tallinn"
     excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
     publishedDateTime: 2020-06-18T17:29:00Z
