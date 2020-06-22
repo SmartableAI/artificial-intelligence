@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
-excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
-publishedDateTime: 2020-06-18T22:36:00Z
-webUrl: "https://www.brecorder.com/news/1005548"
+title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
+excerpt: "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics."
+publishedDateTime: 2020-06-22T03:45:00Z
+webUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/"
+ampWebUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
+cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Business Recorder
-  domain: brecorder.com
+  name: Daily Times
+  domain: dailytimes.com.pk
 
 topics:
   - Facebook AI
   - AI
-  - AI Ethics
 
 images:
-  - url: "http://www.brecorder.com/_img/social-default.jpg"
-    width: 1200
-    height: 768
+  - url: "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg"
+    width: 715
+    height: 450
     isCached: true
-    title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
 
 related:
   - title: "Pakistani man wins Facebook ‘Ethics in AI Research’ award"
@@ -106,21 +107,19 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
-    excerpt: "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics."
-    publishedDateTime: 2020-06-22T03:45:00Z
-    webUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/"
-    ampWebUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
+  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
+    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
+    publishedDateTime: 2020-06-18T22:36:00Z
+    webUrl: "https://www.brecorder.com/news/1005548"
     type: article
     provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 58
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
     images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg"
-        width: 715
-        height: 450
+      - url: "http://www.brecorder.com/_img/social-default.jpg"
+        width: 1200
+        height: 768
         isCached: true
   - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."
@@ -153,6 +152,6 @@ related:
         height: 346
         isCached: true
 
-secured: "YzDrZbg/paQ7ehO/5ysXMaFdnNMb9OgmMg3j2gdn613Fe6pUWJJB3Fs4vqHgO1avQbMVvLOdy3Z4N+efrFduqkG/4ZArH5rUXxCWxg9uCwuYzo7pk+ebzWTdfglQ5AsWcdh+GICMrExyL/FvwLLQtQx8YVBkeiDRint0i3ykKF/QXiCzyGHLZ/oq6LMykWJes77gIfhwlsPb5VsN8oaEzvbveA/2DevhhHzM83JB5GrD1trSlv14Fh+50gVWqljcCEQZg+GJ1ogWHaDg083NYikfIPrtH7mvcDTlrwcCNQi6kenZGjUuu6c0HqVJIPBF0aFSpyFMWlLG8R9DqpPuLb/GC+beiZvDIinSC+2l6a07CWbVGO2b7uj/VHYqYGLKtexsk61E4bTS3vsis1Pjiw7R+UE6rYBjU97EHoIONhalgOQW7MCXFh08Lo307uYCV2BqSV8fpBUzgr/9TLOihPpTyqvskXmcXSerAAyyJU2UFjDRgGLVixwp1CnfUPeOxasAjIdyU7U/tIJx+I6pFA==;i3qnWKo5sUH0e42EHK2eFw=="
+secured: "GrJQ+fFX0i/+kgN9yj/ABBP+XEYFtOcvMbsFgsrlT/U6bAKeAWId5snO6TG3UR0KoWwtbFkYOz8V4I4bUOxVETl15wDuVt92nRf4/+GAsXgpsAQozCbDvVKLPYZ5PASrx962xAPU9uDWZ28uy6wXhaqJRc2AT94NsxZtf54/57XGrEsiuYo6bGdHWQbp9KKEnDOBDseTWModNqgIPKAjXGH0qRa/ezuUZqV3Wnt5FPnxDyc686eywzL/qjUehAaNkHJDT6ORqm6SZTgC8oGyXjlPx4JriPkF3bcLbZ9bWkqW4XIsWuqiUCn5+64Dn2qSHWvlDOEpBWHWOAJGcZ8fZw==;BNKbEY26KOYfAdckwnzUOQ=="
 ---
 

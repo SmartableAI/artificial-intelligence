@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Type-X armored combat robot equipped for unmanned convoy protection"
 
-secured: "5Il2BkTR7JrfCTjR5nN1xoIn6O7Y5JE7bIZq3qcJrpk4PwTK/s77wZKGPX/9UehGmQyhfoB+c62YRx2yfpOXxmrJH80rIeNYVN7m+NX2W369/nAG/om1gYQ3lWouw3nXrnGG0nZkq2LuSF0Z5USUeWalqf4cP/bIBndX1h3uWaCfSqfG41qITsvY+09Mgj9IaFFr+HlcYRUbxYMxuloLyTdwpSWeGFxRHJRxlnr1GsKjtb8KVpg3hu7J4P/ghT1oReD3xoFI/hsLsbCV+sjcIzneq6uOCGl9GJbRAGH58ZzE2/Gyo7LBE5Qll8FlW++F8xw3x7igAV05RD/Ynxb42Q==;EW60y/sqo40WxO/klZJ//Q=="
+secured: "yUB9yOMnWuMU2EVvSiLdKp6NBF2IOZz1LHoEnw9X+H3+pxuLKY/42Pwvnil3AEvg/vC4VR6Q+f2csKRVNxcnxdp9rnEA1S64i0cpwgoIru4BxGgNkcBBKynBRj2V7mMIBitPCY3WqWQlJ7hJXX6AtMVfhodgxlziYX1GrrQEs6ZtkuFLS2Vd+VjOjpgw/dayLy+mpGGoxb3P4PQLvGJIyCsbOaNgcPga2285fCsWFvWkMqO+bDKyukaZzMrSgG2tKRmOxi63mqVqxwEV/tC8zbH0kfdYYJ6+YfZmVshx54N5M2vwc3Vtp4lU2Y+LoQIztVsTQ9hc/Gh7kcKcxXIUOw+VEGrs9eousFffL4iJYOi+BKzUI+TBrqwd0CwYlL2yUhU48ed/QQLuhSHCrrSDF0FgyekOfwgFj4xthpxS6jL414Qn3MfoVSou8FDXCErKwrndDQujyMHJCLRhKLq6SztvkyRKErxn+LUjldmld/2z5WZ6F4FnicTbtJ590Bb95aMGXaAbcVWoOqFUxumo+g==;/sRDU4aacNdZTs4Eq6Ytfg=="
 ---
 

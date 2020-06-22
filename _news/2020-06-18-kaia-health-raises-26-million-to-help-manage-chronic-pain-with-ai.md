@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,81 +30,22 @@ images:
     title: "Kaia Health raises $26 million to help manage chronic pain with AI"
 
 related:
-  - title: "Pagaya raises $102 million to manage assets with AI"
-    excerpt: "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing."
-    publishedDateTime: 2020-06-17T09:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/"
+  - title: "Urbint raises $20 million for AI that predicts power grid risks"
+    excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
+    publishedDateTime: 2020-06-18T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/406669c0-1e4f-4829-8fc5-233708467216-e1592276972478.png?w=1200&#038;strip=all"
-        width: 1179
-        height: 588
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/social-share-e1592341639103.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "U.S.-Israeli fintech firm Pagaya raises $102 million in funds"
-    excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
-    publishedDateTime: 2020-06-17T09:20:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-pagaya-fundraising/u-s-israeli-fintech-firm-pagaya-raises-102-million-in-funds-idUSKBN23O1AF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1AF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "Israeli fintech co Pagaya raises $102m"
-    excerpt: "Israeli financial technology company Pagaya today announced a $102 million Series D funding round led by the Singapore Sovereign Wealth Fund (GIC). Aflac Global Ventures, Poalim Capital Markets, Viola,"
-    publishedDateTime: 2020-06-17T10:37:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-pagaya-raises-102m-1001332642"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020617T113840.jpg"
-        width: 800
-        height: 392
-        isCached: true
-  - title: "3 Firms Steer AI-Driven Asset Manager Pagaya's $102M Round"
-    excerpt: "Pagaya, a financial technology enterprise using artificial intelligence to manage assets and investments, said Wednesday that it had raised $102 million in its latest fundraising round advised on by Goldfarb Seligman & Co."
-    publishedDateTime: 2020-06-17T20:08:00Z
-    webUrl: "https://www.law360.com/articles/1283819/3-firms-steer-ai-driven-asset-manager-pagaya-s-102m-round"
-    ampWebUrl: "https://www.law360.com/amp/articles/1283819"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1283819"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 37
-  - title: "AI-powered financial technology startup Pagaya raises $102M"
-    excerpt: "Artificial intelligence financial technology startup Pagaya Technologies Ltd. revealed today that it has raised $102 million in new funding partly to move into new asset classes."
-    publishedDateTime: 2020-06-17T09:23:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/artificial-intelligence-financial-technology-startup-pagaya-raises-102m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/pagaya2.png"
-        width: 932
-        height: 625
-        isCached: true
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "IlubAcYcyF95J5RnDJjaHbKazrzhTNXF2iyaxdVIInSoawYNZfpY20JKcURK+BqBWFnJAAnHEulPjBzMsjbYYsFkPPAoGm0541UqiMZw46jCKfrjDvWUsEyPGeuAa5UBFlnXAYko66ZSJ3Stt8T5U5rO3g5AC7hGENfI8WvS3OiRtMmagysdEvFXYC2iQF5jfW6j4fS/gVAJuxIEs9z2ceTREib9YgzOjtQSbq9dZa3hhZVnjvuEZU9an+jpMAUq9oL1D0y1iFzoQDQcSzfyNTaLSxqcywenRtJNpWowNvAeg1lr5V/dgKolndLk5iZctpnX50EGvAAO3v7dp5td27VuL6Oh0fRtQA8UNQ0OLI5C/Q8Eyz0Zg4D1zXAgRdbSV9y6aJn/aTvvW7IFgnxKWqNMyc4UMfYg5sUb5dd/LhuLHxUu75Fp5mCDqgNUOLfwheOn4abCfRgqcfpzy7d6bqanyne8er6Pj0sUWBrbiOCl6XDEmoH9zOsy8KoazprLQrJNtIcEup4sckLi+a3lbQ==;D9F6rc1uIzHocAQC0fcAqw=="
 ---

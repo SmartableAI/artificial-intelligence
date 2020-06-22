@@ -19,48 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Education System Market How COVID 19 Affect Market Growth? Size, Share, Application and Type Forecast 2029"
-    excerpt: "The research report titled, Artificial Intelligence in Education System Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Education System market has been garnering high-quality momentum in latest years."
-    publishedDateTime: 2020-06-17T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-system-market-how-covid-19-affect-market-growth-size-share-application-and-type-forecast-2029-2020-06-17"
+  - title: "Automotive Artificial Intelligence Market Trends, Size, Forecast - 2019-2025"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2019 2025 Technological advancements across the globe have paved their ways across numerous industry verticals Automotive AI is one such advancement which is expected"
+    publishedDateTime: 2020-06-19T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2077559/automotive-artificial-intelligence-market-trends-size"
+    ampWebUrl: "https://www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
-    excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
-    publishedDateTime: 2020-06-17T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Learning Neuromorphic Chip Market to Potentially Generate Higher Valuation Post COVID 19 Pandemic | Forecast By 2023"
-    excerpt: "The given Market Research Future's latest report on the global self-learning neuromorphic chip market 2020 is an excellent research"
-    publishedDateTime: 2020-06-19T14:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-learning-neuromorphic-chip-market-to-potentially-generate-higher-valuation-post-covid-19-pandemic-forecast-by-2023-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5OPAXxzHgSyMLYsYFs3hZeeZKJoFO/anqsvf5jYB3em1AIEO5YHyiBqkWVBC1SyvaK+JsaPtZoWApz4IR6bHlxYibmPAcDXhj7W5yjh3G05Y26vZxIiHNqxvVzVbU4W67Wmo4F86Ia3DfTwTdXFkRpQqHhC+VDZd81sf+VbE6osT8vBiodjrlye56SIyPJZ3u1tqzsTj1djN3iTXp+6BWw2lhNb43JTaXa8W13ciaVitLU4PhZlGnHtI3ToO3cNvdCYRAvSLyABZvNvZm7ep0w356LaMAW2mflxeEYtxGbQaV0QN3oxVCPmWWlWKGl69+d+bifTinYtGF9bdL48rhA==;QWqdY7AycxeI3MVXEDamig=="
 ---

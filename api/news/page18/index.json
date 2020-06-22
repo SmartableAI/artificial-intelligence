@@ -2,18 +2,18 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "path": "_news/2020-06-04-machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact.md",
+      "title": "Machine Learning as a Service Market Analysis as per the Latest Coronavirus Impact",
+      "excerpt": "The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services.",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact-2020-06-04",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400",
-          "width": 400,
-          "height": 400,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service Market Analysis as per the Latest Coronavirus Impact",
           "attribution": null,
           "isCached": true
         }
@@ -21,12 +21,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "publishedDateTime": "2020-06-03T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -35,7 +44,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI"
       ]
     },

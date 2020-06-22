@@ -73,22 +73,6 @@ related:
         width: 1040
         height: 630
         isCached: true
-  - title: "Facial recognition tools under fresh scrutiny amid police protests"
-    excerpt: "Nationwide protests against police brutality are renewing scrutiny of facial recognition technology, prompting tech giants like Amazon and IBM to scale back their sales of the software to law enforcement at the state and local level."
-    publishedDateTime: 2020-06-17T11:00:00Z
-    webUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests"
-    ampWebUrl: "https://thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/503077-facial-recognition-tools-under-fresh-scrutiny-amid-police-protests?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
-        width: 980
-        height: 680
-        isCached: true
   - title: "New facial recognition device that takes temperature comes to Orangeburg"
     excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
     publishedDateTime: 2020-06-20T07:25:00Z
